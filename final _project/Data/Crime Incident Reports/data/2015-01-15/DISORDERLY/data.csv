@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15007,152003941.0,Thursday,No,2015-01-15T16:21:00.000,DISORDERLY,"[-71.07168, 42.343931]",Point,24xx,1,DISTRB,0,D4,First,No,TREMONT ST,Part Two,Unarmed,771959.2608,,2950648.097,2015
+65245,152034158.0,Thursday,No,2015-01-15T03:00:00.000,DISORDERLY,"[-71.08261, 42.337161]",Point,24xx,1,MISC,0,D4,Last,No,DITMUS CT,Part Two,Unarmed,769016.5305,,2948166.337,2015
+156406,152003899.0,Thursday,No,2015-01-15T13:45:00.000,DISORDERLY,"[-71.05917, 42.354436]",Point,24xx,1,ARREST,0,A1,Day,No,SUMMER ST,Part Two,Unarmed,775321.4109,,2954493.545,2015
+162554,152003802.0,Thursday,No,2015-01-15T09:18:00.000,DISORDERLY,"[-71.08257, 42.348656]",Point,24xx,1,AB,0,D4,Day,No,BOYLSTON ST,Part Two,Other,769006.8448,,2952355.38,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33537,130624148.0,Monday,No,2013-09-30T18:09:00.000,Arrest,"[-71.08209, 42.336671]",Point,Arrest,9,SSTOP ,903,D4,First,No,LATTIMORE CT,Part three,Unarmed,769157.9964,,2947988.46,2013
+60099,130020610.0,Monday,No,2013-09-30T09:01:00.000,Arrest,"[0, 0]",Point,Arrest,9,CD19  ,0,C6,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2013
+107909,130623133.0,Monday,No,2013-09-30T10:38:00.000,Arrest,"[-71.05543, 42.352621]",Point,Arrest,9,ARREST,114,A1,Day,No,ATLANTIC AV,Part three,Other,776335.7564,SUMMER ST,2953837.3710000003,2013
+178488,130622848.0,Monday,No,2013-09-30T08:15:00.000,Arrest,"[-71.071367, 42.274514]",Point,Arrest,9,ARREST,410,B3,Day,No,MORTON ST,Part three,Unarmed,772170.9487,,2925351.816,2013

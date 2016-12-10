@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+921,152038077.0,Saturday,No,2015-05-09T18:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,C11,First,No,DICKENS ST,Other,Unarmed,,,,2015
+107241,152038010.0,Saturday,No,2015-05-09T14:25:00.000,PersLoc,"[-71.118055, 42.290896]",Point,PersLoc,5,IVPER,0,E13,Day,No,HYDE PARK AV,Other,Unarmed,759508.6299,,2931261.705,2015
+124727,152037968.0,Saturday,No,2015-05-09T11:30:00.000,PersLoc,"[-71.088241, 42.283284]",Point,PersLoc,5,IVPER,0,B3,Day,No,WILDWOOD ST,Other,Unarmed,767588.7423,,2928525.213,2015
+163986,152038161.0,Saturday,No,2015-05-09T20:30:00.000,PersLoc,"[-71.069315, 42.313072]",Point,PersLoc,5,IVPER,0,B2,First,No,GLENDALE ST,Other,Unarmed,772655.2814,,2939405.653,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95973,142038514.0,Monday,No,2014-10-13T00:40:00.000,Gather,"[-71.15674, 42.339976]",Point,Gather,10,DISTRB,0,D14,Last,No,SOUTH ST,Part three,Unarmed,748969.9128,,2949102.514,2014
+110175,142038534.0,Monday,No,2014-10-13T02:15:00.000,Gather,"[-71.105155, 42.332206]",Point,Gather,10,DISTRB,0,B2,Last,No,CALUMET ST,Part three,Unarmed,762929.4442,,2946331.6210000003,2014
+160663,142038532.0,Monday,No,2014-10-13T01:01:00.000,Gather,"[-71.105529, 42.327046]",Point,Gather,10,DISTRB,0,B2,Last,No,LAWN ST,Part three,Unarmed,762836.9766,,2944450.575,2014

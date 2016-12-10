@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28304,142055745.0,Monday,No,2014-12-08T13:30:00.000,PersLoc,"[-71.044649, 42.320568]",Point,PersLoc,12,IVPER,0,C6,Day,No,PENINSULA PL,Other,Unarmed,779312.0542,,2942171.965,2014
+58458,142056039.0,Monday,No,2014-12-08T15:00:00.000,PersLoc,"[-71.08786, 42.28502]",Point,PersLoc,12,IVPER,0,B3,Day,No,WINSTON RD,Other,Unarmed,767688.7109,,2929158.389,2014
+93260,142055903.0,Monday,No,2014-12-08T08:50:00.000,PersLoc,"[-71.064299, 42.363418]",Point,PersLoc,12,IVPER,0,A1,Day,No,LONGFELLOW PL,Other,Unarmed,773918.166,,2957759.4680000003,2014
+259210,142056291.0,Monday,No,2014-12-08T11:00:00.000,PersLoc,"[-71.0786, 42.384241]",Point,PersLoc,12,MISSIN,0,A15,Day,No,PERKINS ST,Other,Unarmed,770015.9425,,2965328.557,2014

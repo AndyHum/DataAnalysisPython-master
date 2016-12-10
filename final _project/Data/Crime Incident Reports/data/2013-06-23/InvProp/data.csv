@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12006,130384276.0,Sunday,No,2013-06-23T23:46:00.000,InvProp,"[-71.146615, 42.352231]",Point,InvProp,6,SHOTS ,779,D14,Last,No,MURDOCK TR,Part three,Unarmed,751688.8578,,2953579.957,2013
+14684,130383026.0,Sunday,No,2013-06-23T12:16:00.000,InvProp,"[-71.063785, 42.302456]",Point,InvProp,6,INVEST,345,C11,Day,No,DRAPER ST,Part three,Firearm,774170.8801,,2935544.7339999997,2013
+27189,130038521.0,Sunday,No,2013-06-23T03:42:00.000,InvProp,"[-71.082985, 42.308821]",Point,InvProp,6,ALARMB,794,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768965.6346,,2937838.262,2013
+139502,130382156.0,Sunday,No,2013-06-23T00:01:00.000,InvProp,"[-71.07337, 42.287231]",Point,InvProp,6,SHOTS ,436,B3,Last,No,TORREY ST,Part three,Other,771605.7371,OAKWOOD ST,2929983.4060000004,2013
+160131,130384252.0,Sunday,No,2013-06-23T23:30:00.000,InvProp,"[-71.069615, 42.300426]",Point,InvProp,6,INVEST,344,C11,First,No,WESTVILLE ST,Part three,Unarmed,772597.5056,,2934796.96,2013
+242795,130382304.0,Sunday,No,2013-06-23T01:00:00.000,InvProp,"[-71.06602, 42.302669]",Point,InvProp,6,SHOTS ,345,C11,Last,No,LONGFELLOW ST,Part three,Unarmed,773565.7701,,2935619.0,2013
+243844,130383389.0,Sunday,No,2013-06-23T03:00:00.000,InvProp,"[-71.084435, 42.301291]",Point,InvProp,6,BERPT ,458,B3,Last,No,GLENWAY ST,Part three,Other,768586.7961,,2935092.2989999996,2013

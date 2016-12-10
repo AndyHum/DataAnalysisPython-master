@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37546,120517543.0,Sunday,No,2012-08-19T22:10:00.000,LICViol,"[-71.051444, 42.364105]",Point,LICViol,8,IVPER ,89,A1,First,No,FLEET ST,Part Three,Unarmed,777390.9845,,2958027.751,2012
+224196,120515733.0,Sunday,No,2012-08-19T01:15:00.000,LICViol,"[-71.05301, 42.357526]",Point,LICViol,8,CD35  ,101,A1,Last,No,BROAD ST,Part Three,Unarmed,776980.5185,,2955628.265,2012
+248257,120515645.0,Sunday,No,2012-08-19T00:45:00.000,LICViol,"[-71.121725, 42.256791]",Point,LICViol,8,CD35  ,520,E18,Last,No,WINTHROP ST,Part Three,Other,758570.9713,,2918828.9110000003,2012

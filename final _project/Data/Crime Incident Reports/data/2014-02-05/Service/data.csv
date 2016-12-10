@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33344,140074753.0,Wednesday,No,2014-02-05T17:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,2,MISPER,143,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+81306,140073540.0,Wednesday,No,2014-02-05T00:47:00.000,Service,"[-71.06315, 42.289841]",Point,Service,2,ARREST,396,C11,Last,No,DORCHESTER AV,Part three,Unarmed,774366.2015,WELLES AV,2930948.5239999997,2014
+168465,140073495.0,Wednesday,No,2014-02-05T00:15:00.000,Service,"[-71.063815, 42.374756]",Point,Service,2,ARREST,59,A15,Last,No,MAIN ST,Part three,Unarmed,774028.0296,,2961892.103,2014

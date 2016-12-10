@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47844,,Monday,No,2015-07-06T00:09:00.000,Auto Theft,"[0, 0]",Point,07xx,7,MVA,316,B2,,No,SEAVER ST,Part One,None,,,,2015
+172296,,Monday,No,2015-07-06T00:00:00.000,Auto Theft,"[-71.114514, 42.280585]",Point,07xx,7,,500,E18,,No,CANTERBURY ST,Part One,None,760484.0,,2930000.0,2015
+257309,,Monday,No,2015-07-06T00:00:00.000,Auto Theft,"[-71.09423, 42.285534]",Point,07xx,7,IVMV,466,B3,,No,GREENDALE RD,Part One,None,765964.0,,2930000.0,2015

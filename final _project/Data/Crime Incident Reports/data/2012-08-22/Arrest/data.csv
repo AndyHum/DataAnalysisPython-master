@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4883,120522154.0,Wednesday,No,2012-08-22T00:11:00.000,Arrest,"[-71.03926, 42.380541]",Point,Arrest,8,ARREST,24,A7,Last,No,MERIDIAN ST,Part Three,Unarmed,780651.5658,WHITE ST,2964035.159,2012
+6775,120522933.0,Wednesday,No,2012-08-22T11:47:00.000,Arrest,"[-71.0729, 42.333256]",Point,Arrest,8,ARREST,172,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2012
+16023,120525331.0,Wednesday,No,2012-08-22T12:40:00.000,Arrest,"[-71.068925, 42.362416]",Point,Arrest,8,CD11  ,74,A1,Day,No,FRUIT ST,Part Three,Unarmed,772669.9992,,2957388.1360000004,2012
+82089,120522549.0,Wednesday,No,2012-08-22T08:34:00.000,Arrest,"[-71.056845, 42.324446]",Point,Arrest,8,ARREST,189,C6,Day,No,DORCHESTER AV,Part Three,Unarmed,776006.6248,,2943567.914,2012
+105872,120522529.0,Wednesday,No,2012-08-22T08:14:00.000,Arrest,"[-71.07755, 42.323241]",Point,Arrest,8,ARREST,265,B2,Day,No,MORELAND ST,Part Three,Unarmed,770409.7157,PERRIN ST,2943100.38,2012
+185625,120522841.0,Wednesday,No,2012-08-22T10:57:00.000,Arrest,"[-71.0566, 42.350411]",Point,Arrest,8,ARREST,115,A1,Day,No,ATLANTIC AV,Part Three,Unarmed,776023.6901,BEACH ST,2953030.36,2012
+218035,120522923.0,Wednesday,No,2012-08-22T11:43:00.000,Arrest,"[-71.05308, 42.378461]",Point,Arrest,8,ARREST,42,A15,Day,No,MEDFORD ST,Part Three,Other,776921.6238,CHELSEA ST,2963257.297,2012

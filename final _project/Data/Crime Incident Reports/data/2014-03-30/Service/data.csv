@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101595,140191868.0,Sunday,No,2014-03-30T15:35:00.000,Service,"[-71.06687, 42.326811]",Point,Service,3,REQEP ,179,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,773291.2699,NEWMARKET SQ,2944415.833,2014
+206081,140275831.0,Sunday,No,2014-03-30T14:00:00.000,Service,"[-71.083145, 42.349411]",Point,Service,3,LARCRT,138,D4,Day,No,NEWBURY ST,Part three,Unarmed,768850.0656,,2952629.758,2014
+231126,140192475.0,Sunday,No,2014-03-30T21:15:00.000,Service,"[-71.04236, 42.371601]",Point,Service,3,CD11  ,28,A7,First,No,MAVERICK ST,Part three,Unarmed,779831.4822,BORDER ST,2960772.732,2014

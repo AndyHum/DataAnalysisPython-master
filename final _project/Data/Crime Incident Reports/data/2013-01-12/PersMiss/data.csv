@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37357,130040854.0,Saturday,No,2013-01-12T12:00:00.000,PersMiss,"[-71.09279, 42.335528]",Point,PersMiss,1,MISPER,911,B2,Day,No,ANNUNCIATION RD,Part Three,Unarmed,766266.9936,,2947557.934,2013
+103599,130024650.0,Saturday,No,2013-01-12T11:00:00.000,PersMiss,"[-71.14243, 42.349389]",Point,PersMiss,1,MISPER,784,D14,Day,No,WARREN ST,Part Three,Unarmed,752824.3316,,2952548.8430000003,2013
+213932,130027206.0,Saturday,No,2013-01-12T17:00:00.000,PersMiss,"[-71.092561, 42.311882]",Point,PersMiss,1,MISPER,316,B2,First,No,HUTCHINGS ST,Part Three,Unarmed,766369.8625,,2938941.191,2013

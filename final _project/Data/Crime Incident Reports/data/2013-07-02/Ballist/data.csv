@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113545,130404487.0,Tuesday,No,2013-07-02T04:30:00.000,Ballist,"[-71.074734, 42.300181]",Point,Ballist,7,CD11  ,461,C11,Last,No,WASHINGTON ST,Part Two,Other,771212.9109,,2934700.731,2013
+166722,130413937.0,Tuesday,No,2013-07-02T15:00:00.000,Ballist,"[-71.131736, 42.355089]",Point,Ballist,7,FDPROP,801,D14,Day,No,HIGHGATE ST,Part Two,Unarmed,755706.1831,,2954638.2369999997,2013
+203244,130405624.0,Tuesday,No,2013-07-02T15:26:00.000,Ballist,"[-71.150915, 42.348981]",Point,Ballist,7,FDPROP,778,D14,Day,No,WASHINGTON ST,Part Two,Unarmed,750531.3965,,2952390.805,2013

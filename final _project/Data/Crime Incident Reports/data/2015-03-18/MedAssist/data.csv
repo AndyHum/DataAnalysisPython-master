@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20163,152021723.0,Wednesday,No,2015-03-18T07:25:00.000,MedAssist,"[-71.071975, 42.334581]",Point,MedAssist,3,MVA,0,D4,Last,No,ALBANY ST,Part three,Unarmed,771896.608,,2947240.389,2015
+31085,152021726.0,Wednesday,No,2015-03-18T08:50:00.000,MedAssist,"[-71.084323, 42.322242]",Point,MedAssist,3,UNCONS,0,B2,Day,No,ROCKLAND ST,Part three,Unarmed,768579.8752,,2942727.146,2015
+48018,152021956.0,Wednesday,No,2015-03-18T20:35:00.000,MedAssist,"[-71.108105, 42.268896]",Point,MedAssist,3,ALARM,0,E18,First,No,RUSKINDALE RD,Part three,Unarmed,762237.8081,,2923256.785,2015
+70842,152021982.0,Wednesday,No,2015-03-18T20:39:00.000,MedAssist,"[-71.0694, 42.331966]",Point,MedAssist,3,POISON,0,C6,First,No,SOUTHAMPTON ST,Part three,Unarmed,772597.6447,,2946290.941,2015
+94895,152021944.0,Wednesday,No,2015-03-18T20:05:00.000,MedAssist,"[-71.05864, 42.303046]",Point,MedAssist,3,EDP,0,C11,First,No,DUNCAN ST,Part three,Unarmed,775561.5712,,2935766.8989999997,2015
+110024,152021751.0,Wednesday,No,2015-03-18T08:58:00.000,MedAssist,"[-71.089205, 42.316173]",Point,MedAssist,3,EDP,0,B2,Day,No,HOLWORTHY ST,Part three,Unarmed,767270.2679,,2940509.336,2015
+137112,152021920.0,Wednesday,No,2015-03-18T18:00:00.000,MedAssist,"[-71.04851, 42.353026]",Point,MedAssist,3,REQP,0,C6,First,No,SLEEPER ST,Part three,Other,778205.4596,,2953994.7860000003,2015
+150150,152021995.0,Wednesday,No,2015-03-18T23:42:00.000,MedAssist,"[-71.032575, 42.332761]",Point,MedAssist,3,EDP,0,C6,First,No,MONKS ST,Part three,Unarmed,782553.1491,,2946633.068,2015
+214619,152021708.0,Wednesday,No,2015-03-18T02:44:00.000,MedAssist,"[-71.089615, 42.344991]",Point,MedAssist,3,UNK,0,D4,Last,No,HEMENWAY ST,Part three,Unarmed,767108.76,,2951010.563,2015
+232943,152021775.0,Wednesday,No,2015-03-18T10:59:00.000,MedAssist,"[-71.123165, 42.255916]",Point,MedAssist,3,IVPER,0,E18,Day,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2015
+252453,152021951.0,Wednesday,No,2015-03-18T20:19:00.000,MedAssist,"[-71.119165, 42.278351]",Point,MedAssist,3,CARDIA,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,759228.9142,,2926688.752,2015
+253237,152021847.0,Wednesday,No,2015-03-18T08:00:00.000,MedAssist,"[-71.156821, 42.353852]",Point,MedAssist,3,UNCONS,0,D14,Day,No,DUNCKLEE ST,Part three,Unarmed,748927.6815,,2954159.144,2015
+255104,152021921.0,Wednesday,No,2015-03-18T18:20:00.000,MedAssist,"[-71.134095, 42.243156]",Point,MedAssist,3,EDP,0,E18,First,No,READVILLE ST,Part three,Unarmed,755243.5813,,2913845.5360000003,2015
+255291,152021873.0,Wednesday,No,2015-03-18T15:30:00.000,MedAssist,"[-71.06028, 42.306752]",Point,MedAssist,3,EDP,0,C11,Day,No,HECLA ST,Part three,Unarmed,775110.7209999999,,2937115.057,2015
+266575,152021970.0,Wednesday,No,2015-03-18T21:03:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,STAB,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+266588,152021874.0,Wednesday,No,2015-03-18T15:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,UNCONS,0,E13,Day,No,ARBORWAY,Part three,Unarmed,,,,2015
+266618,152021747.0,Wednesday,No,2015-03-18T08:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,IVPER,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,,,,2015

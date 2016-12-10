@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+755,,Monday,No,2015-06-29T19:11:00.000,Missing Person Located,"[0, 0]",Point,PersFound,6,IVPER,291,B2,,No,CENTRE ST,Part Three,None,,HIGHLAND AVE,,2015
+103737,,Monday,No,2015-06-29T00:00:00.000,Missing Person Located,"[-71.069354, 42.285849]",Point,PersFound,6,IVPER,400,C11,,No,MELLEN ST,Part Three,None,772695.0,,2930000.0,2015
+166657,,Monday,No,2015-06-29T13:35:00.000,Missing Person Located,"[0, 0]",Point,PersFound,6,IVPER,94,A1,,No,CHATHAM ROW,Part Three,None,,CHATHAM ST,,2015

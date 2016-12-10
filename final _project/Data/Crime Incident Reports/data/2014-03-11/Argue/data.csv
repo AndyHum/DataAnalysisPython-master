@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1237,140150313.0,Tuesday,No,2014-03-11T16:40:00.000,Argue,"[-71.068265, 42.340381]",Point,Argue,3,THREAT,640,D4,First,No,HARRISON AV,Part three,Unarmed,772889.0152,,2949359.067,2014
+32313,140148464.0,Tuesday,No,2014-03-11T03:07:00.000,Argue,"[-71.08197, 42.338421]",Point,Argue,3,ABIP  ,273,D4,Last,No,CAMDEN ST,Part three,Unarmed,769187.3158,TREMONT ST,2948626.35,2014
+88526,140148712.0,Tuesday,No,2014-03-11T08:22:00.000,Argue,"[-71.10087, 42.316141]",Point,Argue,3,PERGUN,577,E13,Day,No,SCHOOL ST,Part three,Firearm,764115.4563,,2940482.647,2014
+151204,140150338.0,Tuesday,No,2014-03-11T20:58:00.000,Argue,"[-71.093739, 42.334956]",Point,Argue,3,EDP2  ,911,B2,First,No,ANNUNCIATION RD,Part three,Other,766011.2668,,2947348.014,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+153843,140132066.0,Monday,No,2014-03-03T22:00:00.000,PersLoc,"[-71.07621, 42.282721]",Point,PersLoc,3,MISPER,418,B3,First,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2014
+232021,140130715.0,Monday,No,2014-03-03T09:50:00.000,PersLoc,"[-71.142805, 42.354546]",Point,PersLoc,3,MSNCOM,782,D14,Day,No,N BEACON ST,Other,Unarmed,752715.1845,,2954427.881,2014
+240919,140131499.0,Monday,No,2014-03-03T17:21:00.000,PersLoc,"[-71.069675, 42.290772]",Point,PersLoc,3,MISPER,397,C11,First,No,CENTRE ST,Other,Unarmed,772598.8888,,2931278.689,2014

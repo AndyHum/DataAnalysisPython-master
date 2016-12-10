@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84291,,Sunday,No,2015-06-21T00:00:00.000,Investigate Property,"[-71.080077, 42.3109]",Point,InvProp,6,SSA,326,B2,,No,BRUNSWICK ST,Part Three,None,769748.0,,2940000.0,2015
+154062,,Sunday,No,2015-06-21T00:00:00.000,Investigate Property,"[-71.059914, 42.301145]",Point,InvProp,6,IVPREM,350,C11,,No,DORCHESTER AVE,Part Three,None,775220.0,,2940000.0,2015
+171598,,Sunday,No,2015-06-21T00:00:00.000,Investigate Property,"[-71.095606, 42.318515]",Point,InvProp,6,SHOTS,304,B2,,No,WASHINGTON ST,Part Three,None,765535.0,,2940000.0,2015
+220134,,Sunday,No,2015-06-21T14:06:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,BOMB,207,C6,,No,CONGRESS ST,Part Three,None,,,,2015
+250473,,Sunday,No,2015-06-21T00:00:00.000,Investigate Property,"[-71.079751, 42.304761]",Point,InvProp,6,SSA,459,C11,,No,WASHINGTON ST,Part Three,None,769848.0,,2940000.0,2015
+253369,,Sunday,No,2015-06-21T00:00:00.000,Investigate Property,"[-71.075443, 42.315315]",Point,InvProp,6,SSA,327,B2,,No,HOWARD AVE,Part Three,None,770994.0,,2940000.0,2015

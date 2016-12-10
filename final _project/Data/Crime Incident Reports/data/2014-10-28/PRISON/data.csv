@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86309,142043536.0,Tuesday,No,2014-10-28T14:30:00.000,PRISON,"[-71.063106, 42.355355]",Point,PRISON,10,ARREST,0,A1,Day,No,TREMONT ST,Part Two,Unarmed,774255.6857,,2954822.79,2014
+133183,142043486.0,Tuesday,No,2014-10-28T12:05:00.000,PRISON,"[-71.0626, 42.352361]",Point,PRISON,10,ARREST,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+149366,130470750.0,Sunday,No,2013-07-28T23:45:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,7,FDPROP,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+167727,130469393.0,Sunday,No,2013-07-28T11:20:00.000,PropFound,"[-71.06066, 42.298591]",Point,PropFound,7,FDPROP,351,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775023.4954,PARK ST,2934140.61,2013
+231537,130469790.0,Sunday,No,2013-07-28T15:24:00.000,PropFound,"[-71.06308, 42.320187]",Point,PropFound,7,FDPROP,237,B2,Day,No,ELDER ST,Part three,Unarmed,774328.2741,,2942007.148,2013
+241260,130470487.0,Sunday,No,2013-07-28T18:00:00.000,PropFound,"[-71.08399, 42.330331]",Point,PropFound,7,LSTPRP,287,B2,First,No,VERNON ST,Part three,Unarmed,768655.5628,WASHINGTON ST,2945675.539,2013
+260305,130468635.0,Sunday,No,2013-07-28T01:09:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,620,D4,Last,No,HEMENWAY ST,Part three,Unarmed,,,,2013

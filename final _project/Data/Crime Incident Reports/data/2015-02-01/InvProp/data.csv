@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43247,152044367.0,Sunday,No,2015-02-01T08:00:00.000,InvProp,"[-71.068165, 42.359266]",Point,InvProp,2,LARCEN,0,A1,Day,No,MYRTLE ST,Part three,Other,772881.2081,,2956241.2539999997,2015
+65289,152008398.0,Sunday,No,2015-02-01T00:02:00.000,InvProp,"[-71.05308, 42.315666]",Point,InvProp,2,REQP,0,C11,Last,No,ROMSEY ST,Part three,Unarmed,777041.5272,,2940373.653,2015
+77825,152008803.0,Sunday,No,2015-02-01T14:30:00.000,InvProp,"[-71.06889, 42.358386]",Point,InvProp,2,IVPREM,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772686.8814,,2955919.5730000003,2015
+240586,152008802.0,Sunday,No,2015-02-01T11:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,2,IVPREM,0,A1,Day,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+255551,152008607.0,Sunday,No,2015-02-01T21:25:00.000,InvProp,"[-71.09049, 42.285231]",Point,InvProp,2,SSA,0,B3,First,No,LIVINGSTONE ST,Part three,Unarmed,766976.8879,,2929231.873,2015
+262254,152008622.0,Sunday,No,2015-02-01T23:44:00.000,InvProp,"[0, 0]",Point,InvProp,2,SHOTS,0,C11,First,No,FREEMAN ST,Part three,Firearm,,,,2015

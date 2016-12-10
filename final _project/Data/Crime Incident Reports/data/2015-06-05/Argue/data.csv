@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2531,152046639.0,Friday,No,2015-06-05T22:00:00.000,Argue,"[0, 0]",Point,Argue,6,IVPER,0,C11,First,No,ADAMS ST,Part three,Unarmed,,,,2015
+11114,152046461.0,Friday,No,2015-06-05T10:44:00.000,Argue,"[-71.07584, 42.383421]",Point,Argue,6,FIGHT,0,A15,Day,No,CAMBRIDGE ST,Part three,Other,770763.0883,,2965033.4269999997,2015
+23072,152046453.0,Friday,No,2015-06-05T10:42:00.000,Argue,"[-71.083045, 42.321886]",Point,Argue,6,PRSCRM,0,B2,Day,No,ROCKLAND ST,Part three,Unarmed,768926.1271,,2942599.2830000003,2015
+167828,152046486.0,Friday,No,2015-06-05T12:37:00.000,Argue,"[-71.050025, 42.332176]",Point,Argue,6,EDP,0,C6,Day,No,E 8TH ST,Part three,Unarmed,777836.0397,,2946394.51,2015

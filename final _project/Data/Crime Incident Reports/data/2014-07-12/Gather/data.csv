@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48122,142008588.0,Saturday,No,2014-07-12T21:00:00.000,Gather,"[-71.160173, 42.340816]",Point,Gather,7,DISTRB,0,D14,First,No,GERALD RD,Part three,Unarmed,748040.3936,,2949405.098,2014
+84480,142008618.0,Saturday,No,2014-07-12T23:00:00.000,Gather,"[-71.129035, 42.354281]",Point,Gather,7,DISTRB,0,D14,First,No,ASHFORD ST,Part three,Unarmed,756437.556,,2954347.1980000003,2014
+165408,142008483.0,Saturday,No,2014-07-12T07:30:00.000,Gather,"[-71.122665, 42.352056]",Point,Gather,7,PROTES,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758162.9245,,2953543.914,2014

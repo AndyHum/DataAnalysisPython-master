@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96721,130239483.0,Tuesday,No,2013-04-23T18:19:00.000,InvProp,"[-71.11069, 42.324233]",Point,InvProp,4,ABANRE,607,E13,First,No,EVERGREEN ST,Part Three,Unarmed,761446.0413,,2943419.0930000003,2013
+109139,130238758.0,Tuesday,No,2013-04-23T12:15:00.000,InvProp,"[-71.105845, 42.309636]",Point,InvProp,4,THREAT,573,E13,Day,No,UNION AV,Part Three,Other,762780.8825,,2938105.86,2013
+120961,130312029.0,Tuesday,No,2013-04-23T04:00:00.000,InvProp,"[-71.080568, 42.310368]",Point,InvProp,4,BERPT ,329,B2,Last,No,DEVON ST,Part three,Other,769616.463,,2938405.0069999998,2013
+211098,130239995.0,Tuesday,No,2013-04-23T23:42:00.000,InvProp,"[-71.113135, 42.312066]",Point,InvProp,4,LMUSIC,645,E13,First,No,SEAVERNS AV,Part Three,Unarmed,760805.0252,,2938982.365,2013

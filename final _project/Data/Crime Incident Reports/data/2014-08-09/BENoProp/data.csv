@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129179,142019226.0,Saturday,No,2014-08-09T10:30:00.000,BENoProp,"[-71.10133, 42.325951]",Point,BENoProp,8,BE,0,E13,Day,No,BICKFORD ST,Part One,Unarmed,763974.3368,,2944056.999,2014
+157825,142017549.0,Saturday,No,2014-08-09T01:40:00.000,BENoProp,"[-71.095665, 42.268641]",Point,BENoProp,8,BE,0,B3,Last,No,CUMMINS HY,Part One,Other,765605.2443,,2923179.567,2014
+170664,142017586.0,Saturday,No,2014-08-09T06:55:00.000,BENoProp,"[-71.079883, 42.315999]",Point,BENoProp,8,BE,0,B2,Last,No,SAVIN ST,Part One,Unarmed,769791.8058,,2940458.144,2014

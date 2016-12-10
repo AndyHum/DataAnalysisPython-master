@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14492,120682648.0,Monday,No,2012-10-29T18:00:00.000,InvPer,"[-71.1139, 42.306766]",Point,InvPer,10,FIGHT ,648,E13,First,No,CHILD ST,Part Three,Unarmed,760606.8527,,2937050.022,2012
+175882,120682012.0,Monday,No,2012-10-29T13:43:00.000,InvPer,"[-71.09836, 42.318161]",Point,InvPer,10,PERGUN,303,E13,Day,No,BANCROFT ST,Part Three,Firearm,764790.8391,COLUMBUS AV,2941221.9560000002,2012
+176505,120682906.0,Monday,No,2012-10-29T20:40:00.000,InvPer,"[-71.118975, 42.264701]",Point,InvPer,10,IVPER ,495,E18,First,No,GREENWOOD AV,Part Three,Unarmed,759302.5535,,2921714.733,2012
+238841,120681332.0,Monday,No,2012-10-29T05:09:00.000,InvPer,"[-71.164235, 42.274171]",Point,InvPer,10,IVPREM,721,E5,Last,No,JOHNSON ST,Part Three,Unarmed,747038.0721,,2925114.262,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110127,130707936.0,Wednesday,No,2013-11-06T21:00:00.000,Service,"[-71.16408, 42.271181]",Point,Service,11,DOGBIT,716,E5,First,No,GLENHAVEN RD,Part three,Unarmed,747084.3125,,2924024.828,2013
+154105,130706256.0,Wednesday,No,2013-11-06T08:02:00.000,Service,"[-71.172455, 42.276101]",Point,Service,11,IVPER ,0,E5,Day,No,VFW PY,Part three,Unarmed,744810.7262,,2925808.934,2013
+158588,130705971.0,Wednesday,No,2013-11-06T01:51:00.000,Service,"[-71.063785, 42.349246]",Point,Service,11,ARREST,123,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774083.6785,,2952595.797,2013
+173853,130707068.0,Wednesday,No,2013-11-06T14:22:00.000,Service,"[-71.10182, 42.314721]",Point,Service,11,ARREST,576,E13,Day,No,BOYLSTON ST,Part three,Unarmed,763860.9379,BROOKSIDE AV,2939963.974,2013
+225656,130707624.0,Wednesday,No,2013-11-06T18:31:00.000,Service,"[-71.082494, 42.330421]",Point,Service,11,INVEST,280,B2,First,No,PALMER ST,Part three,Unarmed,769059.7223,,2945710.125,2013
+228624,130706887.0,Wednesday,No,2013-11-06T13:05:00.000,Service,"[-71.06289, 42.290811]",Point,Service,11,ARREST,396,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774434.7385,,2931302.3660000004,2013
+244238,130706652.0,Wednesday,No,2013-11-06T11:45:00.000,Service,"[-71.013745, 42.385036]",Point,Service,11,CD9   ,28,A7,Day,No,SARATOGA ST,Other,Unarmed,787535.9081,,2965711.498,2013

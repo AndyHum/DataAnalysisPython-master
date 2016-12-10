@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33789,152004489.0,Saturday,No,2015-01-17T12:51:00.000,InvPer,"[-71.13344, 42.287254]",Point,InvPer,1,EDP,0,E5,Day,No,S FAIRVIEW ST,Part three,Unarmed,755351.8583,,2929916.2430000002,2015
+75004,152004775.0,Saturday,No,2015-01-17T21:40:00.000,InvPer,"[-71.074113, 42.29713]",Point,InvPer,1,SHOTS,0,B3,First,No,BRADLEE ST,Part three,Firearm,771386.5956,,2933589.519,2015
+144933,152004507.0,Saturday,No,2015-01-17T13:58:00.000,InvPer,"[-71.083706, 42.279645]",Point,InvPer,1,AB,0,B3,Day,No,W SELDEN ST,Part three,Unarmed,768822.4534,,2927205.091,2015
+173927,152004428.0,Saturday,No,2015-01-17T05:52:00.000,InvPer,"[-71.06006, 42.301996]",Point,InvPer,1,RAPE,0,C11,Last,No,ADAMS ST,Part three,Unarmed,775179.4158,,2935382.2789999996,2015
+181459,152004505.0,Saturday,No,2015-01-17T14:30:00.000,InvPer,"[-71.03887, 42.371246]",Point,InvPer,1,MISC,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+185821,152004530.0,Saturday,No,2015-01-17T15:25:00.000,InvPer,"[-71.10549, 42.309846]",Point,InvPer,1,AB,0,E13,Day,No,GREEN ST,Part three,Other,762876.5513,,2938182.8310000002,2015
+194501,152004578.0,Saturday,No,2015-01-17T18:08:00.000,InvPer,"[-71.04983, 42.286531]",Point,InvPer,1,IVPER,0,C11,First,No,ROSARIA ST,Part three,Unarmed,777976.5549,,2929761.055,2015
+204466,152004500.0,Saturday,No,2015-01-17T12:35:00.000,InvPer,"[-71.118175, 42.266021]",Point,InvPer,1,IVPER,0,E18,Day,No,METROPOLITAN AV,Part three,Firearm,759516.9415,,2922196.7260000003,2015
+260780,152004596.0,Saturday,No,2015-01-17T20:20:00.000,InvPer,"[0, 0]",Point,InvPer,1,AB,0,C11,First,No,STOUGHTON ST,Part three,Unarmed,,,,2015
+263484,152004579.0,Saturday,No,2015-01-17T18:00:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPER,0,B3,First,No,NORFOLK TR,Part three,Unarmed,,,,2015
+265443,152004511.0,Saturday,No,2015-01-17T09:05:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015

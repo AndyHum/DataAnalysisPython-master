@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72991,120438174.0,Sunday,No,2012-07-15T23:00:00.000,PhoneCalls,"[-71.07203, 42.339206]",Point,PhoneCalls,7,THREAT,905,D4,First,No,E BROOKLINE ST,Part Three,Unarmed,771873.282,,2948925.7460000003,2012
+178513,120436169.0,Sunday,No,2012-07-15T16:00:00.000,PhoneCalls,"[-71.080907, 42.28446]",Point,PhoneCalls,7,HARPT ,465,B3,First,No,NORFOLK ST,Part Three,Unarmed,769571.1147,,2928963.528,2012
+195792,120585460.0,Sunday,No,2012-07-15T09:00:00.000,PhoneCalls,"[-71.074415, 42.330461]",Point,PhoneCalls,7,IVPER ,179,B2,Day,No,FARNHAM ST,Part Three,Unarmed,771244.3764,,2945735.687,2012

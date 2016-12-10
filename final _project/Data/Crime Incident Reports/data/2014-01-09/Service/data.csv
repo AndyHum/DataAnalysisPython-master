@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76082,140016904.0,Thursday,No,2014-01-09T12:45:00.000,Service,"[-71.0684, 42.362151]",Point,Service,1,TRANSP,64,A1,Day,No,PARKMAN ST,Other,Unarmed,772812.3743,,2957292.2830000003,2014
+126493,130769967.0,Thursday,No,2014-01-09T14:00:00.000,Service,"[-71.089215, 42.340161]",Point,Service,1,RAPRPT,283,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767225.4855,,2949250.922,2014
+184435,140016138.0,Thursday,No,2014-01-09T02:01:00.000,Service,"[-71.072674, 42.305479]",Point,Service,1,ARREST,348,C11,Last,No,OLNEY ST,Part three,Unarmed,771760.7317,,2936634.146,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100822,152028770.0,Thursday,No,2015-04-09T10:00:00.000,PropLost,"[-71.05107, 42.364116]",Point,PropLost,4,PROP,0,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777492.2222,COMMERCIAL ST,2958032.542,2015
+159087,152031240.0,Thursday,No,2015-04-09T22:00:00.000,PropLost,"[-71.056374, 42.350817]",Point,PropLost,4,LARCEN,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,776084.0039,,2953178.441,2015
+200243,152028839.0,Thursday,No,2015-04-09T18:00:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,4,PROP,0,A1,First,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2015
+267504,152028787.0,Thursday,No,2015-04-09T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B2,First,No,SUDBURY ST,Part three,Unarmed,,,,2015
+267517,152028748.0,Thursday,No,2015-04-09T06:10:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D14,Last,No,N BEACON ST,Part three,Unarmed,,,,2015
+267535,152029110.0,Thursday,No,2015-04-09T20:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,First,No,RING RD,Part three,Unarmed,,,,2015

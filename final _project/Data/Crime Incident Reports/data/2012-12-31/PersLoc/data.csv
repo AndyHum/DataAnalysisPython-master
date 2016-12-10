@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19665,130006408.0,Monday,No,2012-12-31T00:00:00.000,PersLoc,"[-71.152705, 42.292241]",Point,PersLoc,12,CURFEW,692,E5,Last,No,GREATON RD,Part Three,Unarmed,750131.7198,,2931711.7430000002,2012
+117485,130003087.0,Monday,No,2012-12-31T19:00:00.000,PersLoc,"[-71.069785, 42.299366]",Point,PersLoc,12,MISPER,357,C11,First,No,DAKOTA ST,Part Three,Unarmed,772553.4617,,2934410.452,2012
+135036,130014952.0,Monday,No,2012-12-31T14:30:00.000,PersLoc,"[-71.069055, 42.337746]",Point,PersLoc,12,MISPER,167,D4,Day,No,E CANTON ST,Part Three,Unarmed,772680.2889,,2948397.747,2012

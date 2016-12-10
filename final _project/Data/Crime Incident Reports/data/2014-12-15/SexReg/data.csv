@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+203073,142057721.0,Monday,No,2014-12-15T12:00:00.000,SexReg,"[-71.06281, 42.342461]",Point,SexReg,12,IVPER,0,D4,Day,No,ALBANY ST,Part Two,Unarmed,774359.9099,,2950124.5689999997,2014
+236668,142057711.0,Monday,No,2014-12-15T12:00:00.000,SexReg,"[-71.06494, 42.343021]",Point,SexReg,12,IVPER,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,773783.0344,,2950325.6980000003,2014
+255398,142057883.0,Monday,No,2014-12-15T23:02:00.000,SexReg,"[-71.085618, 42.32866]",Point,SexReg,12,IVPER,0,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2014

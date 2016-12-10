@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43942,130619558.0,Saturday,No,2013-09-28T17:19:00.000,PropDam,"[-71.03195, 42.378271]",Point,PropDam,9,HAZ   ,19,A7,First,No,SARATOGA ST,Part three,Other,782631.1332,PUTNAM ST,2963218.6780000003,2013
+204594,130623067.0,Saturday,No,2013-09-28T16:00:00.000,PropDam,"[-71.01623, 42.383411]",Point,PropDam,9,PDRPT ,14,A7,First,No,BYRON ST,Part three,Other,786867.9142,BENNINGTON ST,2965115.4960000003,2013
+205280,130626320.0,Saturday,No,2013-09-28T19:30:00.000,PropDam,"[-71.071784, 42.29807]",Point,PropDam,9,IVPER ,357,C11,First,No,CLAYBOURNE ST,Part three,Unarmed,772014.9224,,2933935.486,2013

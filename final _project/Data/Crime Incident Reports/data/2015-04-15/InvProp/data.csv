@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3462,152030714.0,Wednesday,No,2015-04-15T17:22:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPREM,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+49849,152030591.0,Wednesday,No,2015-04-15T06:00:00.000,InvProp,"[-71.07747, 42.350271]",Point,InvProp,4,CD19,0,D4,Last,No,DARTMOUTH ST,Part three,Unarmed,770382.5543,BOYLSTON ST,2952950.705,2015
+139372,152030632.0,Wednesday,No,2015-04-15T13:00:00.000,InvProp,"[-71.07163, 42.350686]",Point,InvProp,4,SUSOBJ,0,D4,Day,No,ST JAMES AV,Part three,Unarmed,771960.4134,,2953109.815,2015
+191430,152031113.0,Wednesday,No,2015-04-15T17:30:00.000,InvProp,"[-71.11142, 42.330431]",Point,InvProp,4,BE,0,E13,First,No,S HUNTINGTON AV,Part three,Other,761238.4013,,2945677.0,2015
+206628,152030706.0,Wednesday,No,2015-04-15T11:00:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,4,IVPREM,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+207772,152030855.0,Wednesday,No,2015-04-15T03:08:00.000,InvProp,"[-71.06462, 42.308971]",Point,InvProp,4,IVPREM,0,C11,Last,No,HENDRY ST,Part three,Unarmed,773932.8812,,2937917.7460000003,2015
+237295,152030785.0,Wednesday,No,2015-04-15T20:41:00.000,InvProp,"[-71.07624, 42.314636]",Point,InvProp,4,BE,0,B2,First,No,BALFOUR ST,Part three,Other,770779.5532,,2939966.334,2015
+267764,152030700.0,Wednesday,No,2015-04-15T16:49:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPER,0,C6,First,No,OLD COLONY AV,Part three,Unarmed,,PREBLE ST,,2015

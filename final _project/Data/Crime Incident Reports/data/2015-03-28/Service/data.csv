@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1980,152025288.0,Saturday,No,2015-03-28T16:28:00.000,Service,"[0, 0]",Point,Service,3,ARREST,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+20403,152025308.0,Saturday,No,2015-03-28T18:15:00.000,Service,"[-71.095871, 42.27062]",Point,Service,3,ARREST,0,B3,First,No,REGIS RD,Part three,Unarmed,765545.9498,,2923900.313,2015
+149512,152025137.0,Saturday,No,2015-03-28T02:51:00.000,Service,"[-71.061665, 42.352441]",Point,Service,3,SS,0,A1,Last,No,ESSEX ST,Part three,Unarmed,774650.7646,HARRISON AV,2953763.0539999995,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83836,140027749.0,Tuesday,No,2014-01-14T07:00:00.000,Plates,"[-71.06383, 42.298881]",Point,Plates,1,LARCRT,358,C11,Last,No,VINSON ST,Part three,Unarmed,774165.3682,GENEVA AV,2934241.889,2014
+85446,140027961.0,Tuesday,No,2014-01-14T19:10:00.000,Plates,"[-71.07079, 42.300966]",Point,Plates,1,LARCRT,344,C11,First,No,CORONA ST,Part three,Unarmed,772278.647,,2934992.145,2014
+246497,140027026.0,Tuesday,No,2014-01-14T11:00:00.000,Plates,"[-71.04987, 42.351271]",Point,Plates,1,IVMV  ,206,C6,Day,No,CONGRESS ST,Part three,Unarmed,777841.2273,SLEEPER ST,2953353.288,2014

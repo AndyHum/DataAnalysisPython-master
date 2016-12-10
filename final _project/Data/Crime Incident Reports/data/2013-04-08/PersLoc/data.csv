@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10675,130207790.0,Monday,No,2013-04-08T22:32:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,4,IVPER ,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+93882,130207029.0,Monday,No,2013-04-08T13:30:00.000,PersLoc,"[-71.126772, 42.309985]",Point,PersLoc,4,MSNCOM,655,E13,Day,No,WOODLAND RD,Part Three,Unarmed,757119.7842,,2938207.461,2013
+120301,130206255.0,Monday,No,2013-04-08T12:00:00.000,PersLoc,"[-71.06281, 42.342461]",Point,PersLoc,4,IVPER ,165,D4,Day,No,ALBANY ST,Part Three,Unarmed,774359.9099,,2950124.5689999997,2013
+192579,130207763.0,Monday,No,2013-04-08T06:50:00.000,PersLoc,"[-71.05565, 42.283571]",Point,PersLoc,4,MISPER,391,C11,Last,No,ADAMS ST,Part Three,Unarmed,776407.3763,MINOT ST,2928674.133,2013
+266206,130207538.0,Monday,No,2013-04-08T22:15:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,MISPER,503,B3,First,No,W MAIN ST,Part Three,Unarmed,,,,2013

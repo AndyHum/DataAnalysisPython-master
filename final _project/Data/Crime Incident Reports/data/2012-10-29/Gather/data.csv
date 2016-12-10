@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5065,120682554.0,Monday,No,2012-10-29T18:00:00.000,Gather,"[-71.05225, 42.341071]",Point,Gather,10,IVPER ,201,C6,First,No,W 3RD ST,Part Three,Unarmed,777217.4107,,2949632.838,2012
+19033,120682591.0,Monday,No,2012-10-29T18:00:00.000,Gather,"[-71.035215, 42.330081]",Point,Gather,10,IVPER ,234,C6,First,No,L ST,Part Three,Unarmed,781844.6390000001,,2945652.5710000005,2012
+19201,120681190.0,Monday,No,2012-10-29T01:01:00.000,Gather,"[-71.09153, 42.340346]",Point,Gather,10,PARTY ,595,D4,Last,No,HEMENWAY ST,Part Three,Unarmed,766599.2902,,2949315.334,2012
+67227,120682639.0,Monday,No,2012-10-29T17:55:00.000,Gather,"[-71.02614, 42.336651]",Point,Gather,10,IVPREM,0,C6,First,No,E 3RD ST,Part Three,Unarmed,784285.2053,,2948060.251,2012

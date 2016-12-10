@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99244,130559233.0,Tuesday,No,2013-09-03T19:50:00.000,Argue,"[-71.120042, 42.257718]",Point,Argue,9,HARPT ,519,E18,First,No,WEBSTER AV,Part three,Unarmed,759024.9018,,2919168.59,2013
+131360,130559161.0,Tuesday,No,2013-09-03T19:15:00.000,Argue,"[-71.08609, 42.336106]",Point,Argue,9,DISTRB,285,D4,First,No,TREMONT ST,Part three,Unarmed,768077.5159,,2947777.29,2013
+207111,130557265.0,Tuesday,No,2013-09-03T00:58:00.000,Argue,"[-71.0844, 42.306771]",Point,Argue,9,FIGHT ,319,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768586.5337,WAYNE ST,2937089.3419999997,2013

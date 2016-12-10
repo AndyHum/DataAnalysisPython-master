@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25603,120741862.0,Monday,No,2012-11-26T15:07:00.000,PropFound,"[-71.06074, 42.356916]",Point,PropFound,11,FDPROP,102,A1,Day,No,BROMFIELD ST,Part Three,Unarmed,774892.3963,,2955395.115,2012
+128646,120743170.0,Monday,No,2012-11-26T22:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,11,FDPROP,167,D4,First,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+157974,120749225.0,Monday,No,2012-11-26T08:00:00.000,PropFound,"[-71.079465, 42.313576]",Point,PropFound,11,FDPROP,326,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,769909.2121,,2939575.735,2012

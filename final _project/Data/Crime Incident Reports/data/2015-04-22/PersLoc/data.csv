@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23082,152032614.0,Wednesday,No,2015-04-22T00:05:00.000,PersLoc,"[-71.10133, 42.325951]",Point,PersLoc,4,IVPER,0,E13,Last,No,BICKFORD ST,Other,Unarmed,763974.3368,,2944056.999,2015
+79556,152032884.0,Wednesday,No,2015-04-22T20:00:00.000,PersLoc,"[-71.071171, 42.285811]",Point,PersLoc,4,IVPER,0,C11,First,No,WASHINGTON ST,Other,Unarmed,772203.2275,,2929468.745,2015
+199078,152034222.0,Wednesday,No,2015-04-22T11:30:00.000,PersLoc,"[-71.077385, 42.288851]",Point,PersLoc,4,MISSIN,0,B3,Day,No,FERNDALE ST,Other,Unarmed,770516.43,,2930568.349,2015
+201773,152032873.0,Wednesday,No,2015-04-22T17:53:00.000,PersLoc,"[-71.09417, 42.338367]",Point,PersLoc,4,IVPER,0,D4,First,No,HUNTINGTON AV,Other,Unarmed,765888.8254,,2948590.6560000004,2015
+213614,152034612.0,Wednesday,No,2015-04-22T15:30:00.000,PersLoc,"[-71.0755, 42.311141]",Point,PersLoc,4,MISSIN,0,B2,Day,No,LAWRENCE AV,Other,Other,770986.036,,2938693.695,2015

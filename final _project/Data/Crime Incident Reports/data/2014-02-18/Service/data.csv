@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94707,140101469.0,Tuesday,No,2014-02-18T08:30:00.000,Service,"[-71.077385, 42.288851]",Point,Service,2,CD11  ,437,B3,Day,No,FERNDALE ST,Part three,Unarmed,770516.43,,2930568.349,2014
+106790,140102396.0,Tuesday,No,2014-02-18T16:50:00.000,Service,"[-71.04625, 42.354256]",Point,Service,2,CD9   ,0,C6,First,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+121266,140102881.0,Tuesday,No,2014-02-18T20:31:00.000,Service,"[-71.09947, 42.314591]",Point,Service,2,SSTOP ,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,764496.7501,SCHOOL ST,2939919.575,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24660,130411720.0,Thursday,No,2013-07-04T22:00:00.000,InvProp,"[-71.129941, 42.357471]",Point,InvProp,7,REQP  ,816,D14,First,No,ROYAL ST,Part three,Other,756187.4751,,2955508.568,2013
+69591,130420027.0,Thursday,No,2013-07-04T09:00:00.000,InvProp,"[-71.102355, 42.343326]",Point,InvProp,7,PDRPT ,627,D4,Day,No,BOYLSTON ST,Part three,Other,763667.6419,,2950387.473,2013
+82291,130413212.0,Thursday,No,2013-07-04T23:00:00.000,InvProp,"[-71.04139, 42.330941]",Point,InvProp,7,BERPTA,233,C6,First,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2013
+109466,130410784.0,Thursday,No,2013-07-04T16:57:00.000,InvProp,"[-71.104895, 42.337681]",Point,InvProp,7,LARCRT,612,B2,First,No,LONGWOOD AV,Part three,Unarmed,762990.5031,,2948327.137,2013
+124343,130411201.0,Thursday,No,2013-07-04T19:18:00.000,InvProp,"[-71.094482, 42.282429]",Point,InvProp,7,ALARMC,468,B3,First,No,OUTLOOK RD,Part three,Unarmed,765901.4635,,2928205.646,2013
+141842,130411326.0,Thursday,No,2013-07-04T20:15:00.000,InvProp,"[-71.0851, 42.351131]",Point,InvProp,7,INVEST,140,D4,First,No,GLOUCESTER ST,Part three,Unarmed,768318.5516,MARLBOROUGH ST,2953253.981,2013
+164926,130411228.0,Thursday,No,2013-07-04T18:49:00.000,InvProp,"[-71.072549, 42.35359]",Point,InvProp,7,BOMB  ,132,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,771706.6517,,2954166.672,2013
+221468,130409921.0,Thursday,No,2013-07-04T08:00:00.000,InvProp,"[-71.073885, 42.355071]",Point,InvProp,7,IVPREM,131,D4,Day,No,BEACON ST,Part three,Unarmed,771342.8818,,2954704.7389999996,2013

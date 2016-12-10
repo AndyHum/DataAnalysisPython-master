@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58732,140331386.0,Tuesday,No,2014-05-27T17:24:00.000,CRIMES AGAINST CHILDREN,"[-71.06185, 42.293676]",Point,20xx,5,IVPER ,363,C11,First,No,CENTRE ST,Part Two,Unarmed,774710.7635,,2932347.857,2014
+80707,140330755.0,Tuesday,No,2014-05-27T13:25:00.000,CRIMES AGAINST CHILDREN,"[-71.06125, 42.293836]",Point,20xx,5,MEET  ,363,C11,Day,No,CENTRE ST,Part Two,Unarmed,774872.7953,,2932406.997,2014
+84189,140330506.0,Tuesday,No,2014-05-27T13:27:00.000,CRIMES AGAINST CHILDREN,"[-71.07329, 42.346746]",Point,20xx,5,IVPER ,150,D4,Day,No,CLARENDON ST,Part Two,Unarmed,771518.8837,,2951671.7539999997,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+232804,152039581.0,Thursday,No,2015-05-14T18:15:00.000,PropFound,"[-71.070385, 42.343771]",Point,PropFound,5,PROP,0,D4,First,No,HANSON ST,Part three,Unarmed,772309.6443,RINGGOLD ST,2950591.5519999997,2015
+255560,152039556.0,Thursday,No,2015-05-14T16:35:00.000,PropFound,"[-71.001288, 42.391436]",Point,PropFound,5,PROP,0,A7,First,No,WALDEMAR AV,Part three,Other,790887.4654,,2968063.1160000004,2015
+259709,152039563.0,Thursday,No,2015-05-14T15:15:00.000,PropFound,"[-71.110146, 42.299102]",Point,PropFound,5,IVPREM,0,E13,Day,No,LENNOCO RD,Part three,Unarmed,761634.8933,,2934261.715,2015

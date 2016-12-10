@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58898,120754943.0,Sunday,No,2012-12-02T06:56:00.000,STOLEN PROPERTY CHARGES,"[-71.06659, 42.378611]",Point,13xx,12,SUSPER,54,A15,Last,No,FRANKLIN ST,Part Two,Unarmed,773271.0663,HIGH ST,2963293.123,2012
+200970,120760978.0,Sunday,No,2012-12-02T16:15:00.000,STOLEN PROPERTY CHARGES,"[-71.064, 42.352326]",Point,13xx,12,BERPT ,117,A1,First,No,BOYLSTON ST,Part Two,Unarmed,774019.8233,,2953717.9110000003,2012
+246032,120755239.0,Sunday,No,2012-12-02T11:00:00.000,STOLEN PROPERTY CHARGES,"[-71.08336, 42.329391]",Point,13xx,12,ARREST,280,B2,Day,No,WARREN ST,Part Two,Unarmed,768827.5862,ZEIGLER ST,2945333.818,2012

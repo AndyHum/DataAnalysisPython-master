@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29010,152003345.0,Tuesday,No,2015-01-13T08:30:00.000,PersLoc,"[-71.06942, 42.362401]",Point,PersLoc,1,IVPER,0,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,,2957381.922,2015
+187201,152003378.0,Tuesday,No,2015-01-13T15:45:00.000,PersLoc,"[-71.092001, 42.278561]",Point,PersLoc,1,MISSIN,0,B3,Day,No,FESSENDEN ST,Other,Unarmed,766579.5337,,2926799.047,2015
+225632,152003493.0,Tuesday,No,2015-01-13T15:30:00.000,PersLoc,"[-71.06211, 42.316701]",Point,PersLoc,1,IVPER,0,C11,Day,No,KEVIN RD,Other,Unarmed,774597.3438,,2940738.1560000004,2015
+261634,152003370.0,Tuesday,No,2015-01-13T14:35:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,A7,Day,No,TRENTON ST,Other,Unarmed,,,,2015
+262543,152003386.0,Tuesday,No,2015-01-13T15:05:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,D4,Day,No,ST MARYS ST,Other,Unarmed,,,,2015

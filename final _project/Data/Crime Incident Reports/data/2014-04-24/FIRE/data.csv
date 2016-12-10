@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40231,140248855.0,Thursday,No,2014-04-24T10:14:00.000,FIRE,"[-71.07978, 42.352561]",Point,FIRE,4,FIREB ,135,D4,Day,No,MARLBOROUGH ST,Part three,Other,769754.0214,,2953782.142,2014
+137925,140249592.0,Thursday,No,2014-04-24T15:51:00.000,FIRE,"[-71.051205, 42.365951]",Point,FIRE,4,FIREB ,83,A1,Day,No,COMMERCIAL ST,Part three,Unarmed,777452.22,,2958701.06,2014
+254967,140249391.0,Thursday,No,2014-04-24T14:16:00.000,FIRE,"[-71.099515, 42.327526]",Point,FIRE,4,FIREB ,586,B2,Day,No,PARKER ST,Part three,Unarmed,764462.4464,,2944633.255,2014

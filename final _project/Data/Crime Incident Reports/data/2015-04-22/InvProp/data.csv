@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2898,152032649.0,Wednesday,No,2015-04-22T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,A1,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+4379,152032938.0,Wednesday,No,2015-04-22T07:00:00.000,InvProp,"[-71.04037, 42.318416]",Point,InvProp,4,BE,0,C6,Last,No,SOUTH POINT DR,Part three,Unarmed,780473.6611,,2941394.063,2015
+107040,152032881.0,Wednesday,No,2015-04-22T20:02:00.000,InvProp,"[-71.061315, 42.314586]",Point,InvProp,4,IVPREM,0,C11,First,No,SALCOMBE ST,Part three,Unarmed,774816.3184,,2939968.521,2015
+131970,152032722.0,Wednesday,No,2015-04-22T12:39:00.000,InvProp,"[-71.152092, 42.359936]",Point,InvProp,4,MISC,0,D14,Day,No,SOLDIERS FIELD RD,Part three,Unarmed,750196.926,,2956381.583,2015
+142036,152032889.0,Wednesday,No,2015-04-22T20:55:00.000,InvProp,"[-71.117294, 42.259383]",Point,InvProp,4,REQP,0,E18,First,No,RIVER ST,Part three,Unarmed,759766.2593,,2919778.597,2015
+153942,152032657.0,Wednesday,No,2015-04-22T08:05:00.000,InvProp,"[-71.0947, 42.314526]",Point,InvProp,4,VAND,0,E13,Day,No,WALNUT PARK,Part three,Unarmed,765786.9785,,2939901.9839999997,2015
+172420,152032840.0,Wednesday,No,2015-04-22T17:50:00.000,InvProp,"[-71.008436, 42.39263]",Point,InvProp,4,IVPER,0,A7,First,No,VALLAR RD,Part three,Unarmed,788954.13,,2968486.8839999996,2015
+236588,152032727.0,Wednesday,No,2015-04-22T09:30:00.000,InvProp,"[-71.072485, 42.343766]",Point,InvProp,4,VAND,0,D4,Day,No,UNION PARK,Part three,Unarmed,771741.9394,,2950586.876,2015

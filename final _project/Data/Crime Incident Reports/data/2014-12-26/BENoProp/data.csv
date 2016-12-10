@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112484,142060898.0,Friday,No,2014-12-26T09:00:00.000,BENoProp,"[-71.06125, 42.293836]",Point,BENoProp,12,BE,0,C11,Day,No,CENTRE ST,Part One,Unarmed,774872.7953,,2932406.997,2014
+142987,142060608.0,Friday,No,2014-12-26T06:54:00.000,BENoProp,"[-71.07537, 42.280001]",Point,BENoProp,12,BE,0,B3,Last,No,MILTON AV,Part One,Other,771077.6914,,2927345.994,2014
+246067,142060764.0,Friday,No,2014-12-26T09:00:00.000,BENoProp,"[-71.075605, 42.291256]",Point,BENoProp,12,BE,0,B3,Day,No,TALBOT AV,Part One,Unarmed,770993.6902,,2931447.1569999997,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49539,140331899.0,Tuesday,No,2014-05-27T21:12:00.000,InvProp,"[-71.067175, 42.316924]",Point,InvProp,5,SHOTS ,258,B2,First,No,VIRGINIA ST,Part three,Other,773226.8846,,2940812.425,2014
+109941,140332447.0,Tuesday,No,2014-05-27T12:00:00.000,InvProp,"[-71.07547, 42.353706]",Point,InvProp,5,IVMV  ,132,D4,Day,No,MARLBOROUGH ST,Part three,Unarmed,770916.946,,2954205.171,2014
+116975,140330893.0,Tuesday,No,2014-05-27T14:01:00.000,InvProp,"[-71.059287, 42.313485]",Point,InvProp,5,IVPREM,247,C11,Day,No,PLEASANT ST,Part three,Unarmed,775366.7701,,2939569.9639999997,2014
+223036,140329901.0,Tuesday,No,2014-05-27T06:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,5,CD9   ,70,A1,Last,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+235188,140350915.0,Tuesday,No,2014-05-27T12:00:00.000,InvProp,"[-71.098355, 42.321166]",Point,InvProp,5,LARCRT,304,B2,Day,No,COLUMBUS AV,Part three,Unarmed,764787.035,,2942317.0360000003,2014
+256546,140331994.0,Tuesday,No,2014-05-27T22:03:00.000,InvProp,"[-71.07619, 42.323591]",Point,InvProp,5,SHOTS ,263,B2,First,No,BLUE HILL AV,Part three,Other,770776.8631,WINTHROP ST,2943229.75,2014
+260309,140330993.0,Tuesday,No,2014-05-27T11:36:00.000,InvProp,"[0, 0]",Point,InvProp,5,LSTPRP,812,D14,Day,No,HARVARD ST,Part three,Unarmed,,LINDEN ST,,2014

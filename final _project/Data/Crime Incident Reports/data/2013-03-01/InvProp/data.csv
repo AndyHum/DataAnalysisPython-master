@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7123,130160367.0,Friday,No,2013-03-01T08:00:00.000,InvProp,"[-71.10133, 42.325951]",Point,InvProp,3,BERPT ,916,E13,Day,No,BICKFORD ST,Part Three,Other,763974.3368,,2944056.999,2013
+19061,130125333.0,Friday,No,2013-03-01T21:27:00.000,InvProp,"[-71.05841, 42.289831]",Point,InvProp,3,SHOTS ,366,C11,First,No,DAWSON ST,Part Three,Unarmed,775648.7209,LYDON WY,2930951.4839999997,2013
+78011,130123225.0,Friday,No,2013-03-01T00:20:00.000,InvProp,"[-71.094124, 42.347355]",Point,InvProp,3,LARCIP,624,D4,Last,No,IPSWICH ST,Part Three,Unarmed,765885.7661,,2951866.0330000003,2013
+112036,130123909.0,Friday,No,2013-03-01T09:51:00.000,InvProp,"[-71.16507, 42.276931]",Point,InvProp,3,REQP  ,721,E5,Day,No,SPRING ST,Part Three,Other,746808.1398,,2926119.16,2013
+174282,130123228.0,Friday,No,2013-03-01T00:25:00.000,InvProp,"[-71.089245, 42.285976]",Point,InvProp,3,IVPREM,0,B3,Last,No,WOODROW AV,Part Three,Firearm,767312.464,,2929504.981,2013
+218662,130125057.0,Friday,No,2013-03-01T19:06:00.000,InvProp,"[-71.129121, 42.310088]",Point,InvProp,3,IVPREM,655,E13,First,No,POND ST,Part Three,Unarmed,756484.3409999999,,2938242.305,2013
+239098,130134309.0,Friday,No,2013-03-01T18:35:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,3,IVPER ,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2013

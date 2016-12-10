@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104314,,Thursday,No,2015-06-18T00:00:00.000,Search Warrants,"[-71.07463, 42.301759]",Point,SearchWarr,6,CD11,462,C11,,No,BULLARD ST,Part Three,None,771238.0,,2940000.0,2015
+112225,,Thursday,No,2015-06-18T00:00:00.000,Search Warrants,"[-71.078146, 42.298378]",Point,SearchWarr,6,ARREST,446,B3,,No,RADCLIFFE ST,Part Three,None,770293.0,,2930000.0,2015
+129606,,Thursday,No,2015-06-18T00:00:00.000,Search Warrants,"[-71.078694, 42.298284]",Point,SearchWarr,6,CD11,446,B3,,No,NORWELL ST,Part Three,None,770145.0,,2930000.0,2015
+162897,,Thursday,No,2015-06-18T05:52:00.000,Search Warrants,"[0, 0]",Point,SearchWarr,6,CD11,582,E13,,No,CREIGHTON ST,Part Three,None,,,,2015
+247491,,Thursday,No,2015-06-18T00:00:00.000,Search Warrants,"[-71.115715, 42.305368]",Point,SearchWarr,6,CD11,946,E13,,No,METCALF CT,Part Three,None,760118.0,,2940000.0,2015

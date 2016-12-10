@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16422,,Saturday,No,2015-06-20T00:00:00.000,Property Lost,"[-71.055679, 42.352183]",Point,PropLost,6,PROP,173,A1,,No,ATLANTIC AVE,Part Three,None,776269.0,,2950000.0,2015
+237819,,Saturday,No,2015-06-20T00:00:00.000,Property Lost,"[-71.130424, 42.349011]",Point,PropLost,6,PROP,793,D14,,No,BRAINERD RD,Part Three,None,756070.0,,2950000.0,2015
+241304,,Saturday,No,2015-06-20T00:00:00.000,Property Lost,"[-71.056208, 42.360205]",Point,PropLost,6,PROP,93,A1,,No,FANEUIL HALL SQ,Part Three,None,776111.0,,2960000.0,2015

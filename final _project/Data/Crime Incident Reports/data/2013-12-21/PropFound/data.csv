@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30103,130802051.0,Saturday,No,2013-12-21T10:00:00.000,PropFound,"[-71.08785, 42.350376]",Point,PropFound,12,FDPROP,139,D4,Day,No,MARLBOROUGH ST,Part three,Unarmed,767576.5314,,2952975.2430000002,2013
+59180,130804167.0,Saturday,No,2013-12-21T16:00:00.000,PropFound,"[-71.07844, 42.336626]",Point,PropFound,12,LSTPRP,947,D4,First,No,NORTHAMPTON ST,Part three,Other,770144.9281,,2947976.917,2013
+85582,130802307.0,Saturday,No,2013-12-21T13:15:00.000,PropFound,"[-71.056065, 42.337611]",Point,PropFound,12,IVPREM,936,C6,Day,No,W 7TH ST,Part three,Unarmed,776192.5853,,2948366.562,2013
+93446,130803116.0,Saturday,No,2013-12-21T20:02:00.000,PropFound,"[-71.0729, 42.333256]",Point,PropFound,12,FDWEAP,172,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2013
+234720,130801930.0,Saturday,No,2013-12-21T09:00:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,12,FDPROP,200,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+257448,130801685.0,Saturday,No,2013-12-21T04:00:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,12,FDPROP,28,A7,Last,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2013
+260903,130801879.0,Saturday,No,2013-12-21T02:30:00.000,PropFound,"[0, 0]",Point,PropFound,12,LSTPRP,113,A1,Last,No,BEACH ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34720,130551167.0,Saturday,No,2013-08-31T11:57:00.000,Service,"[-71.05899, 42.363541]",Point,Service,8,ARREST,76,A1,Day,No,CANAL ST,Part three,Unarmed,775352.9076,NEW CHARDON ST,2957811.834,2013
+241706,130550433.0,Saturday,No,2013-08-31T01:27:00.000,Service,"[-71.04943, 42.300811]",Point,Service,8,TSTOP ,373,C11,Last,No,MORRISSEY BL,Part three,Unarmed,778057.2982,FREEPORT ST,2934965.459,2013
+261135,130551023.0,Saturday,No,2013-08-31T10:00:00.000,Service,"[0, 0]",Point,Service,8,IVPREM,520,E18,Day,No,SUMMER ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42238,130465653.0,Friday,No,2013-07-26T17:00:00.000,PropFound,"[-71.107805, 42.33605]",Point,PropFound,7,FDPROP,612,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2013
+97915,140016605.0,Friday,No,2013-07-26T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,7,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+125785,130465888.0,Friday,No,2013-07-26T21:30:00.000,PropFound,"[-71.07087, 42.360921]",Point,PropFound,7,FDPROP,66,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,772147.0859999999,CHARLES ST,2956840.6769999997,2013
+127292,130464584.0,Friday,No,2013-07-26T12:03:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,7,FDPROP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+128098,130465436.0,Friday,No,2013-07-26T17:58:00.000,PropFound,"[-71.08489, 42.348946]",Point,PropFound,7,FDPROP,141,D4,First,No,NEWBURY ST,Part three,Unarmed,768379.1902,,2952458.002,2013
+158438,130465021.0,Friday,No,2013-07-26T14:00:00.000,PropFound,"[-71.03726, 42.329701]",Point,PropFound,7,FDPROP,234,C6,Day,No,K ST,Part three,Unarmed,781292.4407,COLUMBIA RD,2945511.045,2013
+241711,130464459.0,Friday,No,2013-07-26T11:01:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,7,FDPROP,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+262120,130464209.0,Friday,No,2013-07-26T08:15:00.000,PropFound,"[0, 0]",Point,PropFound,7,LSTPRP,586,B2,Day,No,TERRACE ST,Part three,Unarmed,,,,2013

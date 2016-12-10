@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35718,,Monday,No,2015-06-22T00:00:00.000,Violations,"[-71.126149, 42.283582]",Point,VAL,6,TS,560,E5,,No,SYCAMORE ST,Part Two,None,757330.0,,2930000.0,2015
+50562,,Monday,No,2015-06-22T00:00:00.000,Firearm Violations,"[-71.096748, 42.332268]",Point,15xx,6,ARREST,588,B2,,No,PARKER ST,Part Two,None,765202.0,,2950000.0,2015
+77832,,Monday,No,2015-06-22T00:00:00.000,Violations,"[-71.067206, 42.283785]",Point,VAL,6,TS,402,C11,,No,CLERMONT ST,Part Two,None,773280.0,,2930000.0,2015
+112978,,Monday,No,2015-06-22T00:00:00.000,Violations,"[-71.07593, 42.328978]",Point,VAL,6,IVPER,268,B2,,No,ADAMS ST,Part Two,None,770837.0,,2950000.0,2015

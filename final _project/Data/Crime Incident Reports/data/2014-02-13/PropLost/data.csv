@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11486,140103894.0,Thursday,No,2014-02-13T09:00:00.000,PropLost,"[-71.150915, 42.348981]",Point,PropLost,2,LSTPRP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+37664,140092345.0,Thursday,No,2014-02-13T17:20:00.000,PropLost,"[-71.094024, 42.331949]",Point,PropLost,2,LSTPRP,588,B2,First,No,TREMONT ST,Part three,Unarmed,765939.4694,,2946252.05,2014
+52673,140100038.0,Thursday,No,2014-02-13T18:30:00.000,PropLost,"[-71.092631, 42.338582]",Point,PropLost,2,LSTPRP,590,D4,First,No,PARKER ST,Part three,Unarmed,766304.6163,,2948670.8789999997,2014
+77377,140092936.0,Thursday,No,2014-02-13T23:40:00.000,PropLost,"[-71.046062, 42.335273]",Point,PropLost,2,LARCRT,220,C6,First,No,DORCHESTER ST,Part three,Unarmed,778901.4874,,2947528.6980000003,2014
+102611,140092524.0,Thursday,No,2014-02-13T17:05:00.000,PropLost,"[-71.120977, 42.267011]",Point,PropLost,2,LARCRT,496,E18,First,No,HYDE PARK AV,Part three,Unarmed,758756.7157,,2922553.869,2014
+129909,140118201.0,Thursday,No,2014-02-13T15:00:00.000,PropLost,"[-71.08156, 42.348911]",Point,PropLost,2,LSTPRP,138,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769279.4105,,2952449.645,2014
+161961,140093660.0,Thursday,No,2014-02-13T16:30:00.000,PropLost,"[-71.156474, 42.295799]",Point,PropLost,2,LSTPRP,748,E5,First,No,VFW PY,Part three,Unarmed,749106.5155,,2933003.973,2014
+182017,140098124.0,Thursday,No,2014-02-13T07:00:00.000,PropLost,"[-71.084646, 42.304835]",Point,PropLost,2,LSTPRP,330,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768523.3694,,2936383.492,2014

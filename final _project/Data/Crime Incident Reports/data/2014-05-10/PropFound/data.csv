@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+141892,140287911.0,Saturday,No,2014-05-10T10:30:00.000,PropFound,"[-71.08319, 42.341546]",Point,PropFound,5,FDPROP,147,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,768851.9087,,2949763.5439999998,2014
+174098,140287812.0,Saturday,No,2014-05-10T10:15:00.000,PropFound,"[-71.16408, 42.271181]",Point,PropFound,5,FDPROP,716,E5,Day,No,GLENHAVEN RD,Part three,Unarmed,747084.3125,,2924024.828,2014
+210479,140287921.0,Saturday,No,2014-05-10T10:06:00.000,PropFound,"[-71.118662, 42.252925]",Point,PropFound,5,LSTPRP,516,E18,Day,No,FAIRMOUNT AV,Part three,Unarmed,759406.3453,,2917423.628,2014

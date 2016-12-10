@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66131,130482400.0,Wednesday,No,2013-07-31T15:30:00.000,Service,"[-71.135105, 42.276356]",Point,Service,7,IVPER ,550,E5,Day,No,JUNE ST,Part three,Unarmed,754918.3457,,2925942.8880000003,2013
+129479,130475810.0,Wednesday,No,2013-07-31T03:09:00.000,Service,"[-71.011672, 42.390029]",Point,Service,7,ARREST,10,A7,Last,No,BOARDMAN ST,Part three,Unarmed,788085.4379,,2967534.048,2013
+147989,130477723.0,Wednesday,No,2013-07-31T20:25:00.000,Service,"[-71.098395, 42.318971]",Point,Service,7,IVPREM,303,E13,First,No,COLUMBUS AV,Other,Unarmed,764779.9838,,2941517.0889999997,2013
+153512,130476196.0,Wednesday,No,2013-07-31T09:29:00.000,Service,"[-71.063675, 42.352301]",Point,Service,7,SSTOP ,111,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+233968,130476465.0,Wednesday,No,2013-07-31T11:17:00.000,Service,"[-71.13001, 42.349191]",Point,Service,7,ARREST,793,D14,Day,No,HARVARD AV,Part three,Unarmed,756182.0653,BRAINERD RD,2952491.152,2013
+258440,130477983.0,Wednesday,No,2013-07-31T21:40:00.000,Service,"[-71.06705, 42.289071]",Point,Service,7,ARREST,397,C11,First,No,TALBOT AV,Part three,Unarmed,773312.4041,WELLES AV,2930662.545,2013

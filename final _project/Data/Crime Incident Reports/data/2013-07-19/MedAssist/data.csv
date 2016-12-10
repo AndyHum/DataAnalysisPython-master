@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11250,130449096.0,Friday,No,2013-07-19T23:05:00.000,MedAssist,"[-71.06261, 42.309856]",Point,MedAssist,7,UNCONS,338,C11,First,No,WINTER ST,Part three,Unarmed,774474.9079999999,,2938243.035,2013
+100206,130447977.0,Friday,No,2013-07-19T14:30:00.000,MedAssist,"[-71.148595, 42.349557]",Point,MedAssist,7,REQP  ,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,751157.6141,,2952603.025,2013
+136103,130447579.0,Friday,No,2013-07-19T11:49:00.000,MedAssist,"[-71.10253, 42.316171]",Point,MedAssist,7,EDP2  ,577,E13,Day,No,BOYLSTON PL,Part three,Unarmed,763666.4454,BOYLSTON ST,2940491.483,2013
+138550,130448742.0,Friday,No,2013-07-19T20:03:00.000,MedAssist,"[-71.07428, 42.300894]",Point,MedAssist,7,DVIP  ,461,C11,First,No,BOWDOIN AV,Part three,Unarmed,771334.5603,,2934961.063,2013
+163139,130446995.0,Friday,No,2013-07-19T06:25:00.000,MedAssist,"[-71.11657, 42.266491]",Point,MedAssist,7,UNK   ,492,E18,Last,No,HUNTINGTON AV,Part three,Unarmed,759950.6008,,2922369.9489999996,2013
+183411,130447915.0,Friday,No,2013-07-19T14:15:00.000,MedAssist,"[-71.059969, 42.355867]",Point,MedAssist,7,IVPER ,102,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2013
+194147,130448480.0,Friday,No,2013-07-19T16:35:00.000,MedAssist,"[-71.12499, 42.279011]",Point,MedAssist,7,UNCONS,557,E5,First,No,HILBURN ST,Part three,Other,757651.4951,,2926922.2819999997,2013
+237244,130448207.0,Friday,No,2013-07-19T16:24:00.000,MedAssist,"[-71.171675, 42.278601]",Point,MedAssist,7,REMOVE,729,E5,First,No,VFW PY,Part three,Unarmed,745018.3088,,2926720.784,2013
+243102,130446858.0,Friday,No,2013-07-19T02:34:00.000,MedAssist,"[-71.132902, 42.350479]",Point,MedAssist,7,IVPER ,0,D14,Last,No,GLENVILLE AV,Part three,Unarmed,755398.1309,,2952956.8880000003,2013
+266016,130449104.0,Friday,No,2013-07-19T10:54:00.000,MedAssist,"[0, 0]",Point,MedAssist,7,UNCONS,612,B2,Day,No,BLACKFAN CR,Part three,Unarmed,,,,2013

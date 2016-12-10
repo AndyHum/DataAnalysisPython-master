@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73500,142015379.0,Saturday,No,2014-08-02T00:25:00.000,WEAPONS CHARGE,"[-71.101675, 42.285176]",Point,15xx,8,ARREST,0,B3,Last,No,W MAIN ST,Part Two,Firearm,763950.4336,,2929197.498,2014
+95285,142015490.0,Saturday,No,2014-08-02T12:30:00.000,WEAPONS CHARGE,"[-71.063675, 42.352301]",Point,15xx,8,SS,0,A1,Day,No,BOYLSTON ST,Part Two,Knife,774107.7181,,2953709.249,2014
+105684,142015418.0,Saturday,No,2014-08-02T02:30:00.000,WEAPONS CHARGE,"[-71.05572, 42.328561]",Point,15xx,8,ARREST,0,C6,Last,No,LOGAN WY,Part Two,Knife,776303.0378,MOHAWK ST,2945069.07,2014

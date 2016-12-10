@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2800,152046673.0,Saturday,No,2015-06-06T00:42:00.000,Arrest,"[0, 0]",Point,Arrest,6,SS,0,B3,Last,No,NORFOLK ST,Part three,Unarmed,,NELSON ST,,2015
+174852,152046739.0,Saturday,No,2015-06-06T08:55:00.000,Arrest,"[-71.068594, 42.297067]",Point,Arrest,6,CD11,0,C11,Day,No,LARCHMONT ST,Part three,Unarmed,772879.7803,,2933574.0539999995,2015
+219202,152046798.0,Saturday,No,2015-06-06T11:09:00.000,Arrest,"[-71.062095, 42.302741]",Point,Arrest,6,POISON,0,C11,Day,No,ROBINSON ST,Part three,Unarmed,774627.5179,,2935650.936,2015
+220832,152046819.0,Saturday,No,2015-06-06T14:00:00.000,Arrest,"[-71.051425, 42.283286]",Point,Arrest,6,IVPER,0,C11,Day,No,GALLIVAN BL,Part three,Unarmed,777551.1922,,2928576.2589999996,2015

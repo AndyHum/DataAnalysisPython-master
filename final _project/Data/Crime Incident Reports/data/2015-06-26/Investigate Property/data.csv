@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13825,,Friday,No,2015-06-26T00:00:00.000,Investigate Property,"[-71.063969, 42.348742]",Point,InvProp,6,IVMV,123,A1,,No,WASHINGTON ST,Part Three,None,774035.0,,2950000.0,2015
+15315,,Friday,No,2015-06-26T00:00:00.000,Investigate Property,"[-71.060678, 42.366463]",Point,InvProp,6,MISC,61,A1,,No,FLEET CENTER PL,Part Three,None,774891.0,,2960000.0,2015
+44266,,Friday,No,2015-06-26T01:06:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,SHOTS,396,C11,,No,MELBOURNE ST,Part Three,None,,,,2015
+89582,,Friday,No,2015-06-26T00:00:00.000,Investigate Property,"[-71.078382, 42.329004]",Point,InvProp,6,SHOTS,268,B2,,No,EUSTIS ST,Part Three,None,770174.0,,2950000.0,2015
+109844,,Friday,No,2015-06-26T00:00:00.000,Investigate Property,"[-71.047288, 42.338373]",Point,InvProp,6,IVPER,213,C6,,No,BOLTON ST,Part Three,None,778564.0,,2950000.0,2015

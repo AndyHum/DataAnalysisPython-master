@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3809,140074434.0,Wednesday,No,2014-02-05T14:00:00.000,DRUG CHARGES,"[-71.091325, 42.284861]",Point,18xx,2,IVDRUG,465,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,766751.5911,,2929095.955,2014
+139135,140074928.0,Wednesday,No,2014-02-05T12:00:00.000,DRUG CHARGES,"[-71.090956, 42.333723]",Point,18xx,2,INVEST,289,B2,Day,No,SCHROEDER PLAZA,Part Two,Unarmed,766765.8102,TREMONT ST,2946902.542,2014
+183447,140075191.0,Wednesday,No,2014-02-05T22:00:00.000,DRUG CHARGES,"[-71.100769, 42.325321]",Point,18xx,2,ARREST,912,E13,First,No,PARKER ST,Part Two,Other,764127.0458,,2943828.1319999998,2014
+252325,140074801.0,Wednesday,No,2014-02-05T17:57:00.000,DRUG CHARGES,"[-71.07682, 42.296091]",Point,18xx,2,TSTOP ,447,B3,First,No,ATHELWOLD ST,Part Two,Other,770656.2137,SPENCER ST,2933207.4689999996,2014

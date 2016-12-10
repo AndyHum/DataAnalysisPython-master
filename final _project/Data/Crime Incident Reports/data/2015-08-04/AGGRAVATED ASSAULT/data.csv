@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115072,,Tuesday,No,2015-08-04T00:00:00.000,Aggravated Assault,"[-71.076486, 42.289845]",Point,04xx,8,ASLTIP,437,B3,,No,SOUTHERN AVE,Part One,Firearm,770758.0,,2930000.0,2015
+164637,,Tuesday,No,2015-08-04T00:00:00.000,Aggravated Assault,"[-71.076262, 42.31989]",Point,04xx,8,PERGUN,264,B2,,No,GAYLAND ST,Part One,Firearm,770764.0,,2940000.0,2015
+169136,,Tuesday,No,2015-08-04T15:43:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,ARREST,119,A1,,No,TREMONT ST,Part One,Knife/Cutting Instrument,, WINTER ST ,,2015
+211763,,Tuesday,No,2015-08-04T00:00:00.000,Aggravated Assault,"[-71.071734, 42.291823]",Point,04xx,8,FIGHT,362,C11,,No,WASHINGTON ST,Part One,Other,772040.0,,2930000.0,2015

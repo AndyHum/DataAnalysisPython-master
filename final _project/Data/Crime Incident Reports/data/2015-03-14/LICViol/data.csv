@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68142,152020688.0,Saturday,No,2015-03-14T19:04:00.000,LICViol,"[-71.14811, 42.355891]",Point,LICViol,3,CD35,0,D14,First,No,N BEACON ST,Part three,Unarmed,751279.2507,,2954912.067,2015
+76572,152020701.0,Saturday,No,2015-03-14T20:00:00.000,LICViol,"[-71.139115, 42.348603]",Point,LICViol,3,CD35,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,753721.6683,,2952266.1089999997,2015
+100739,152020748.0,Saturday,No,2015-03-14T23:50:00.000,LICViol,"[-71.07486, 42.346136]",Point,LICViol,3,CD35,0,D4,Last,No,COLUMBUS AV,Part three,Unarmed,771095.5781,,2951447.3389999997,2015
+117419,152020660.0,Saturday,No,2015-03-14T17:25:00.000,LICViol,"[-71.05418, 42.359261]",Point,LICViol,3,CD35,0,A1,First,No,STATE ST,Part three,Unarmed,776660.9853,,2956258.877,2015
+261112,152020764.0,Saturday,No,2015-03-14T02:05:00.000,LICViol,"[0, 0]",Point,LICViol,3,FIGHT,0,B3,Last,No,TALBOT AV,Part three,Unarmed,,,,2015

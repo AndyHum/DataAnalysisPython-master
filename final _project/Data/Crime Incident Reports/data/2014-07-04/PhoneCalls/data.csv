@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109067,142005892.0,Friday,No,2014-07-04T03:20:00.000,PhoneCalls,"[-71.119867, 42.243568]",Point,PhoneCalls,7,IVPER,0,E18,Last,No,GARFIELD AV,Part three,Unarmed,759095.3804,,2914012.528,2014
+146680,142009367.0,Friday,No,2014-07-04T18:00:00.000,PhoneCalls,"[-71.087955, 42.279151]",Point,PhoneCalls,7,AB,0,B3,First,No,ASTORIA ST,Part three,Unarmed,767673.5348,,2927019.539,2014
+173257,142006118.0,Friday,No,2014-07-04T10:00:00.000,PhoneCalls,"[-71.080085, 42.346711]",Point,PhoneCalls,7,IVPER,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2014

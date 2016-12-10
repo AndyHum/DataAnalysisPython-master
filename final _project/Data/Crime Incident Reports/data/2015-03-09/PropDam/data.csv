@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1626,152018980.0,Monday,No,2015-03-09T10:30:00.000,PropDam,"[0, 0]",Point,PropDam,3,IVPREM,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015
+98916,152019034.0,Monday,No,2015-03-09T14:00:00.000,PropDam,"[-71.068595, 42.358406]",Point,PropDam,3,PROP,0,A1,Day,No,LOUISBURG SQ,Part three,Other,772766.5761,,2955927.264,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14753,142004892.0,Monday,No,2014-06-30T15:20:00.000,PersLoc,"[-71.06577, 42.302076]",Point,PersLoc,6,MISSIN,0,C11,Day,No,RIDGEWOOD ST,Other,Unarmed,773634.6072,,2935403.522,2014
+127313,142004682.0,Monday,No,2014-06-30T17:15:00.000,PersLoc,"[-71.09932, 42.312336]",Point,PersLoc,6,IVPER,0,E13,First,No,IFFLEY RD,Other,Unarmed,764541.1844,,2939098.0110000004,2014
+196070,142004850.0,Monday,No,2014-06-30T07:00:00.000,PersLoc,"[-71.078657, 42.301454]",Point,PersLoc,6,MISSIN,0,B3,Last,No,NORWELL ST,Other,Unarmed,770149.4675,,2935159.311,2014
+211733,142004339.0,Monday,No,2014-06-30T02:49:00.000,PersLoc,"[-71.071303, 42.31078]",Point,PersLoc,6,IVPER,0,B2,Last,No,COLUMBIA RD,Other,Unarmed,772121.7044,,2938567.833,2014

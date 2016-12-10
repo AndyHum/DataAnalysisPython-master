@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10404,152001434.0,Tuesday,No,2015-01-06T06:21:00.000,DEATH INVESTIGATION,"[-71.04139, 42.330941]",Point,01INV,1,CARDIA,0,C6,Last,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2015
+163409,152001443.0,Tuesday,No,2015-01-06T07:59:00.000,DEATH INVESTIGATION,"[-71.142535, 42.358611]",Point,01INV,1,CARDIA,0,D14,Day,No,S WAVERLY ST,Part three,Unarmed,752781.9553,,2955909.557,2015
+267250,152001666.0,Tuesday,No,2015-01-06T22:22:00.000,DEATH INVESTIGATION,"[0, 0]",Point,01INV,1,UNCONS,0,C6,First,No,COLUMBIA RD,Part three,Unarmed,,,,2015

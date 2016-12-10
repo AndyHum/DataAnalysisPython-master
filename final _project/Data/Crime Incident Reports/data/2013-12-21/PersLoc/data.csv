@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9991,130804534.0,Saturday,No,2013-12-21T12:30:00.000,PersLoc,"[-71.079565, 42.328976]",Point,PersLoc,12,MISPER,279,B2,Day,No,ZEIGLER ST,Other,Unarmed,769854.5029,,2945187.6210000003,2013
+73742,130802296.0,Saturday,No,2013-12-21T16:15:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,12,MISPER,817,C11,First,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2013
+77865,130804013.0,Saturday,No,2013-12-21T06:00:00.000,PersLoc,"[-71.072275, 42.273861]",Point,PersLoc,12,MISPER,407,B3,Last,No,SANFORD ST,Other,Unarmed,771926.4548,,2925112.6810000003,2013

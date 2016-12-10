@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78492,142044758.0,Friday,No,2014-10-31T22:45:00.000,PersLoc,"[-71.07621, 42.282721]",Point,PersLoc,10,IVPER,0,B3,First,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2014
+135074,142044669.0,Friday,No,2014-10-31T18:45:00.000,PersLoc,"[-71.09352, 42.286786]",Point,PersLoc,10,MISSIN,0,B3,First,No,MORTON ST,Other,Unarmed,766154.3,,2929794.615,2014
+147823,142044818.0,Friday,No,2014-10-31T06:45:00.000,PersLoc,"[-71.122558, 42.289692]",Point,PersLoc,10,IVPER,0,E5,Last,No,GRANFIELD AV,Other,Unarmed,758292.2559999999,,2930817.442,2014
+213251,142044951.0,Friday,No,2014-10-31T06:00:00.000,PersLoc,"[-71.113039, 42.261214]",Point,PersLoc,10,MISSIN,0,E18,Last,No,RIVER ST,Other,Unarmed,760914.9443,,2920450.953,2014
+239411,142044961.0,Friday,No,2014-10-31T08:30:00.000,PersLoc,"[-71.03723, 42.370306]",Point,PersLoc,10,IVPER,0,A7,Day,No,BREMEN ST,Other,Unarmed,781220.2692,,2960308.289,2014
+255240,142044660.0,Friday,No,2014-10-31T16:58:00.000,PersLoc,"[-71.090545, 42.270186]",Point,PersLoc,10,IVPER,0,B3,First,No,FREMONT ST,Other,Unarmed,766988.3245,,2923749.1960000005,2014

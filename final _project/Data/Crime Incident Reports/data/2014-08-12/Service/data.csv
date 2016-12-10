@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123704,142018532.0,Tuesday,No,2014-08-12T06:36:00.000,Service,"[-71.099075, 42.331231]",Point,Service,8,CD11,0,B2,Last,No,DELLE AV,Part three,Unarmed,764575.0813,,2945983.983,2014
+166347,142018755.0,Tuesday,No,2014-08-12T18:25:00.000,Service,"[-71.071937, 42.314077]",Point,Service,8,MVA,0,B2,First,No,MAGNOLIA ST,Part three,Other,771944.3583,,2939768.275,2014
+241034,142018569.0,Tuesday,No,2014-08-12T10:05:00.000,Service,"[-71.0642, 42.353461]",Point,Service,8,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773963.6495,,2954131.25,2014
+260712,142018739.0,Tuesday,No,2014-08-12T17:00:00.000,Service,"[0, 0]",Point,Service,8,ARREST,0,A7,First,No,SUMNER ST,Part three,Unarmed,,LEWIS MALL RD,,2014

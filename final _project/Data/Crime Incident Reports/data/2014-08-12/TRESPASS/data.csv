@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42521,142018521.0,Tuesday,No,2014-08-12T02:39:00.000,TRESPASS,"[-71.079065, 42.348566]",Point,TRESPASS,8,DISTRB,0,D4,Last,No,EXETER ST,Part Two,Unarmed,769954.4735,BLAGDEN ST,2952327.2389999996,2014
+212893,152028126.0,Tuesday,No,2014-08-12T06:53:00.000,TRESPASS,"[-71.06056, 42.358011]",Point,TRESPASS,8,IVPER,0,A1,Last,No,BEACON ST,Part Two,Unarmed,774938.9911,,2955794.405,2014
+265665,142018557.0,Tuesday,No,2014-08-12T09:00:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,8,ARREST,0,A1,Day,No,PING ON ST,Part Two,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40983,130807126.0,Monday,No,2013-12-23T17:00:00.000,PropFound,"[-71.080495, 42.339471]",Point,PropFound,12,FDPROP,155,D4,First,No,MASSACHUSETTS AV,Part three,Other,769584.2183,,2949010.9469999997,2013
+217604,130806203.0,Monday,No,2013-12-23T07:30:00.000,PropFound,"[-71.049145, 42.281038]",Point,PropFound,12,FDPROP,384,C11,Day,No,CEDAR GROVE ST,Part three,Unarmed,778172.3311,,2927760.064,2013
+228794,130806176.0,Monday,No,2013-12-23T13:54:00.000,PropFound,"[-71.05944, 42.363946]",Point,PropFound,12,MEET  ,76,A1,Day,No,CANAL ST,Part three,Unarmed,775230.5321,,2957958.797,2013

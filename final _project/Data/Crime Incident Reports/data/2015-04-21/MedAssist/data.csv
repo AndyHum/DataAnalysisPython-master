@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+225,152032513.0,Tuesday,No,2015-04-21T16:23:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,ALARM,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,,,,2015
+53015,152032372.0,Tuesday,No,2015-04-21T09:55:00.000,MedAssist,"[-71.06761, 42.304043]",Point,MedAssist,4,EDP,0,C11,Day,No,SPEEDWELL ST,Part three,Unarmed,773133.0281,,2936117.6139999996,2015
+64071,152032499.0,Tuesday,No,2015-04-21T17:24:00.000,MedAssist,"[-71.066256, 42.288553]",Point,MedAssist,4,DISTRB,0,C11,First,No,TALBOT AV,Part three,Unarmed,773528.0244,,2930474.905,2015
+70682,152032619.0,Tuesday,No,2015-04-21T23:40:00.000,MedAssist,"[-71.054375, 42.327796]",Point,MedAssist,4,CARDIA,0,C6,First,No,LOGAN WY,Part three,Unarmed,776668.1887,,2944792.189,2015
+83402,152032462.0,Tuesday,No,2015-04-21T14:44:00.000,MedAssist,"[-71.045125, 42.330436]",Point,MedAssist,4,EDP,0,C6,Day,No,COLUMBIA RD,Part three,Knife,779164.3248,,2945767.454,2015
+90302,152032337.0,Tuesday,No,2015-04-21T05:45:00.000,MedAssist,"[-71.104175, 42.261326]",Point,MedAssist,4,UNCONS,0,E18,Last,No,BELNEL RD,Part three,Unarmed,763314.2912,,2920503.0810000002,2015
+100894,152032598.0,Tuesday,No,2015-04-21T22:00:00.000,MedAssist,"[-71.093783, 42.346092]",Point,MedAssist,4,EDP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,765979.9657,,2951406.105,2015
+178847,152032479.0,Tuesday,No,2015-04-21T15:02:00.000,MedAssist,"[-71.071809, 42.358087]",Point,MedAssist,4,EDP,0,A1,Day,No,BRIMMER ST,Part three,Unarmed,771898.4968,,2955806.628,2015
+226059,152032916.0,Tuesday,No,2015-04-21T18:00:00.000,MedAssist,"[-71.09031, 42.272556]",Point,MedAssist,4,INJOFF,0,B3,First,No,MEROLA PARK,Part three,Unarmed,767047.7785,,2924613.1610000003,2015
+268018,152032509.0,Tuesday,No,2015-04-21T16:49:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,IVPER,0,B2,First,No,MISSION PARK DR,Part three,Unarmed,,,,2015

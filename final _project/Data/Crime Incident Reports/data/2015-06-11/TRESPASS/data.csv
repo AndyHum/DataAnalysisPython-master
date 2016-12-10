@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2874,152048404.0,Thursday,No,2015-06-11T15:00:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,6,DISTRB,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015
+2899,152048462.0,Thursday,No,2015-06-11T17:30:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,6,ARREST,0,A1,First,No,CITY HALL PZ,Part Two,Unarmed,,,,2015
+253689,152048495.0,Thursday,No,2015-06-11T18:45:00.000,TRESPASS,"[-71.05241, 42.324251]",Point,TRESPASS,6,UNCONS,0,C6,First,No,OLD COLONY AV,Part Two,Unarmed,777206.3176,,2943503.115,2015

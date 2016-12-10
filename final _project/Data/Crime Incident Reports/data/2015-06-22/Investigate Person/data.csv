@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34496,,Monday,No,2015-06-22T19:13:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,493,E18,,No,RIVER ST,Part Three,None,, WOOD AVE ,,2015
+62766,,Monday,No,2015-06-22T00:00:00.000,Investigate Person,"[-71.156124, 42.349101]",Point,InvPer,6,IVPER,763,D14,,No,WASHINGTON ST,Part Three,None,749123.0,,2950000.0,2015
+91363,,Monday,No,2015-06-22T00:00:00.000,Investigate Person,"[-71.08423, 42.349353]",Point,InvPer,6,,137,D4,,No,GLOUCESTER ST,Part Three,None,768557.0,,2950000.0,2015
+97551,,Monday,No,2015-06-22T00:00:00.000,Investigate Person,"[-71.052022, 42.292141]",Point,InvPer,6,ALARM,377,C11,,No,S MUNROE TER,Part Three,None,777372.0,,2930000.0,2015
+123044,,Monday,No,2015-06-22T15:14:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,480,E18,,No,BISMARCK ST,Part Three,None,,,,2015
+158453,,Monday,No,2015-06-22T10:42:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,CHDABU,213,C6,,No,W THIRD ST,Part Three,None,,,,2015
+172624,,Monday,No,2015-06-22T00:00:00.000,Investigate Person,"[-71.172916, 42.351154]",Point,InvPer,6,IVPER,755,D14,,No,TREMONT ST,Part Three,None,744581.0,,2950000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3137,142003062.0,Thursday,No,2014-06-26T09:46:00.000,Arrest,"[-71.092395, 42.276738]",Point,Arrest,6,ARREST,0,B3,Day,No,NORFOLK ST,Part three,Unarmed,766476.1248,,2926134.416,2014
+53330,142003045.0,Thursday,No,2014-06-26T08:10:00.000,Arrest,"[-71.076485, 42.300416]",Point,Arrest,6,ARREST,0,B3,Day,No,VASSAR ST,Part three,Unarmed,770739.0185,,2934784.014,2014
+231991,142003339.0,Thursday,No,2014-06-26T22:00:00.000,Arrest,"[-71.07463, 42.335321]",Point,Arrest,6,CD11,0,D4,First,No,HARRISON AV,Part three,Unarmed,771177.4087,,2947506.466,2014

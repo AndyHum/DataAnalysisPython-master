@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2661,152047208.0,Friday,No,2015-05-01T09:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,IVPER,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+3621,152035512.0,Friday,No,2015-05-01T15:50:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,IVPER,0,D4,Day,No,AGUADILLA ST,Part three,Unarmed,,,,2015
+154270,152038538.0,Friday,No,2015-05-01T12:00:00.000,PhoneCalls,"[-71.138698, 42.354891]",Point,PhoneCalls,5,IVPER,0,D14,Day,No,EVERETT ST,Part three,Other,753824.5271,,2954558.2,2015

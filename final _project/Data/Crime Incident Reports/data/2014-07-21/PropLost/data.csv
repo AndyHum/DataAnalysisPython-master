@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7372,142011368.0,Monday,No,2014-07-21T13:30:00.000,PropLost,"[-71.086215, 42.329596]",Point,PropLost,7,LARCEN,0,B2,Day,No,ROXBURY ST,Part three,Unarmed,768055.2283,,2945404.7660000003,2014
+10572,142011592.0,Monday,No,2014-07-21T20:00:00.000,PropLost,"[-71.056035, 42.363641]",Point,PropLost,7,PROP,0,A1,First,No,STILLMAN ST,Part three,Unarmed,776151.3213,,2957852.4189999998,2014
+53692,142011675.0,Monday,No,2014-07-21T12:00:00.000,PropLost,"[-71.069527, 42.351443]",Point,PropLost,7,ADMRPT,0,A1,Day,No,PARK PLAZA,Part three,Unarmed,772527.4805,,2953388.3860000004,2014
+201736,142011526.0,Monday,No,2014-07-21T21:04:00.000,PropLost,"[-71.071885, 42.351536]",Point,PropLost,7,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,771889.9292,,2953419.2260000003,2014
+264132,142011488.0,Monday,No,2014-07-21T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,C6,First,No,CASTLE ISLAND,Part three,Unarmed,,,,2014

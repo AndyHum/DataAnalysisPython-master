@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6223,140079454.0,Friday,No,2014-02-07T18:43:00.000,PropFound,"[-71.12689, 42.279281]",Point,PropFound,2,IVPREM,557,E5,First,No,DELANO PARK,Part three,Unarmed,757136.8952,WHITFORD ST,2927018.4189999998,2014
+92203,140077810.0,Friday,No,2014-02-07T01:20:00.000,PropFound,"[-71.065775, 42.352431]",Point,PropFound,2,REQP  ,118,A1,Last,No,BOYLSTON ST,Part three,Other,773539.8413,,2953753.727,2014
+188377,140078502.0,Friday,No,2014-02-07T11:26:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,2,FDPROP,574,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+215364,140090346.0,Friday,No,2014-02-07T16:00:00.000,PropFound,"[-71.0879, 42.348121]",Point,PropFound,2,FDPROP,141,D4,First,No,NEWBURY ST,Part three,Unarmed,767566.9878,,2952153.41,2014
+245936,140079380.0,Friday,No,2014-02-07T18:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,2,LSTPRP,167,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014

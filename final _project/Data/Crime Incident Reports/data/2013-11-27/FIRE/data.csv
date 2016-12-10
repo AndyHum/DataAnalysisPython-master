@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142014,130751460.0,Wednesday,No,2013-11-27T14:10:00.000,FIRE,"[-71.03028, 42.336586]",Point,FIRE,11,FIREB ,223,C6,Day,No,E 3RD ST,Part three,Other,783166.0081,,2948030.372,2013
+179054,130750351.0,Wednesday,No,2013-11-27T00:57:00.000,FIRE,"[-71.124122, 42.31301]",Point,FIRE,11,FIREB ,653,E13,Last,No,POND CR,Part three,Unarmed,757831.7274,,2939313.03,2013
+181315,130751383.0,Wednesday,No,2013-11-27T13:30:00.000,FIRE,"[-71.061395, 42.293336]",Point,FIRE,11,FIREB ,363,C11,Day,No,REDWOOD ST,Part three,Unarmed,774834.5028,,2932224.5889999997,2013

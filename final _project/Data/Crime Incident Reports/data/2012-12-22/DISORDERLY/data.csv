@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48266,120800426.0,Saturday,No,2012-12-22T13:03:00.000,DISORDERLY,"[-71.058185, 42.325141]",Point,24xx,12,CARST ,186,C6,Day,No,HOWELL ST,Part Two,Other,775642.9486,,2943819.3039999995,2012
+67398,120801415.0,Saturday,No,2012-12-22T22:08:00.000,DISORDERLY,"[-71.07999, 42.329021]",Point,24xx,12,SSTOP ,904,B2,First,No,ZEIGLER ST,Part Two,Unarmed,769739.5009999999,WHEATLEY WY,2945203.453,2012
+196772,120800205.0,Saturday,No,2012-12-22T08:25:00.000,DISORDERLY,"[-71.148273, 42.269509]",Point,24xx,12,THREAT,707,E5,Day,No,WASHINGTON ST,Part Two,Unarmed,751364.9303,,2923432.769,2012

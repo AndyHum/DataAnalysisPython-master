@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45261,142024813.0,Sunday,No,2014-08-31T16:49:00.000,Service,"[-71.0544, 42.311966]",Point,Service,8,SHOTS,0,C11,First,No,SAVIN HILL AV,Part three,Unarmed,776691.565,,2939023.4460000005,2014
+64333,142024686.0,Sunday,No,2014-08-31T09:40:00.000,Service,"[-71.05253, 42.326571]",Point,Service,8,ARREST,0,C6,Day,No,OLD COLONY AV,Part three,Unarmed,777169.4318,,2944348.39,2014
+177133,142027681.0,Sunday,No,2014-08-31T15:00:00.000,Service,"[-71.08803, 42.294881]",Point,Service,8,PROP,0,B3,Day,No,TALBOT AV,Part three,Unarmed,767625.554,BLUE HILL AV,2932751.6789999995,2014
+249882,142024624.0,Sunday,No,2014-08-31T01:37:00.000,Service,"[-71.06148, 42.302891]",Point,Service,8,ARREST,0,C11,Last,No,ROBINSON ST,Part three,Unarmed,774793.603,MONTELLO ST,2935706.452,2014

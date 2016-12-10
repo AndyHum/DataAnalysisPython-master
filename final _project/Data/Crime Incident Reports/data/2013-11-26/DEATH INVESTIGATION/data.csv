@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30468,130749040.0,Tuesday,No,2013-11-26T12:46:00.000,DEATH INVESTIGATION,"[-71.08319, 42.341546]",Point,01INV,11,UNK   ,147,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,768851.9087,,2949763.5439999998,2013
+51124,130750058.0,Tuesday,No,2013-11-26T20:58:00.000,DEATH INVESTIGATION,"[-71.055815, 42.331046]",Point,01INV,11,SDNDTH,194,C6,First,No,WOODWARD ST,Part three,Unarmed,776272.6344,,2945974.5130000003,2013
+236635,130748309.0,Tuesday,No,2013-11-26T02:47:00.000,DEATH INVESTIGATION,"[-71.124365, 42.289971]",Point,01INV,11,CARST ,563,E5,Last,No,WASHINGTON ST,Part three,Unarmed,757803.0437,,2930917.0130000003,2013

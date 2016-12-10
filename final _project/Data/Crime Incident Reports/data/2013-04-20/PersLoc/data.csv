@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16382,130232955.0,Saturday,No,2013-04-20T13:25:00.000,PersLoc,"[-71.060585, 42.298841]",Point,PersLoc,4,MSNCOM,351,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,775043.317,,2934231.818,2013
+16661,130238014.0,Saturday,No,2013-04-20T14:00:00.000,PersLoc,"[-71.068433, 42.297649]",Point,PersLoc,4,MISPER,358,C11,Day,No,LINDSEY ST,Part Three,Unarmed,772922.1667,,2933786.325,2013
+138079,130242147.0,Saturday,No,2013-04-20T00:00:00.000,PersLoc,"[-71.08491, 42.317861]",Point,PersLoc,4,MISPER,297,B2,Last,No,HAZELWOOD CT,Part Three,Unarmed,768428.9119,,2941130.046,2013
+210833,130233986.0,Saturday,No,2013-04-20T23:30:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,4,MISPER,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9816,130776945.0,Monday,No,2013-12-09T21:10:00.000,FIRE,"[-71.059295, 42.356476]",Point,FIRE,12,FIREB ,104,A1,First,No,WASHINGTON ST,Part three,Other,775283.7829999999,,2955236.785,2013
+20406,130775889.0,Monday,No,2013-12-09T12:23:00.000,FIRE,"[-71.049485, 42.337946]",Point,FIRE,12,FIREB ,211,C6,Day,No,W BROADWAY,Part three,Unarmed,777970.9433,,2948497.9680000003,2013
+173503,130775213.0,Monday,No,2013-12-09T03:58:00.000,FIRE,"[-71.06679, 42.381526]",Point,FIRE,12,FIREB ,47,A15,Last,No,N MEAD ST,Part three,Other,773211.6336,,2964355.137,2013

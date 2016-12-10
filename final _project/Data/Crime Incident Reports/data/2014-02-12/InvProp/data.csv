@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69820,140089195.0,Wednesday,No,2014-02-12T10:24:00.000,InvProp,"[-71.149135, 42.355346]",Point,InvProp,2,IVPREM,780,D14,Day,No,LAWRENCE PL,Part three,Other,751003.0219,,2954712.316,2014
+78283,140089104.0,Wednesday,No,2014-02-12T09:45:00.000,InvProp,"[-71.078133, 42.285884]",Point,InvProp,2,ALARMM,434,B3,Day,No,MILTON AV,Part three,Unarmed,770319.2890000001,,2929485.997,2014
+124237,140089503.0,Wednesday,No,2014-02-12T12:49:00.000,InvProp,"[-71.072106, 42.338423]",Point,InvProp,2,ALARMR,168,D4,Day,No,ST GEORGE ST,Part three,Unarmed,771853.9277,,2948640.115,2014
+260100,140088396.0,Wednesday,No,2014-02-12T00:33:00.000,InvProp,"[-71.13117, 42.353511]",Point,InvProp,2,LMUSIC,801,D14,Last,No,GARDNER ST,Part three,Unarmed,755861.689,,2954064.091,2014

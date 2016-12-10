@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54102,140238468.0,Thursday,No,2014-04-17T21:00:00.000,PropFound,"[-71.051665, 42.282371]",Point,PropFound,4,FDPROP,383,C11,First,No,ST BRENDAN RD,Part three,Unarmed,777488.0027,,2928242.48,2014
+160316,140233342.0,Thursday,No,2014-04-17T11:41:00.000,PropFound,"[-71.06198, 42.356441]",Point,PropFound,4,FDPROP,102,A1,Day,No,PARK ST,Part three,Unarmed,774558.1332,TREMONT ST,2955220.292,2014
+164122,140232712.0,Thursday,No,2014-04-17T05:23:00.000,PropFound,"[-71.0729, 42.333256]",Point,PropFound,4,FDPROP,172,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2014
+165732,140235531.0,Thursday,No,2014-04-17T16:45:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,4,FDPROP,200,C6,First,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+179515,140233842.0,Thursday,No,2014-04-17T15:00:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,4,FDPROP,465,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+203104,140233374.0,Thursday,No,2014-04-17T12:00:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,4,MISC  ,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+212919,140232790.0,Thursday,No,2014-04-17T06:00:00.000,PropFound,"[-71.060345, 42.302616]",Point,PropFound,4,LSTPRP,345,C11,Last,No,ADAMS ST,Part three,Unarmed,775101.1541,,2935607.8189999997,2014
+260164,140235295.0,Thursday,No,2014-04-17T15:30:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,4,FDPROP,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014

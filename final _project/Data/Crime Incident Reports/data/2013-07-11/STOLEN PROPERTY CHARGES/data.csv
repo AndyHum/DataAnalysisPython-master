@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55087,130428611.0,Thursday,No,2013-07-11T19:24:00.000,STOLEN PROPERTY CHARGES,"[-71.06185, 42.275221]",Point,13xx,7,ARREST,387,C11,First,No,RICHMOND ST,Part Two,Unarmed,774745.3099,ADAMS ST,2925622.603,2013
+148952,130432629.0,Thursday,No,2013-07-11T16:00:00.000,STOLEN PROPERTY CHARGES,"[-71.038665, 42.366508]",Point,13xx,7,BERPT ,35,A7,First,No,MARGINAL ST,Part Two,Other,780839.9861,,2958922.067,2013
+201593,130431364.0,Thursday,No,2013-07-11T21:30:00.000,STOLEN PROPERTY CHARGES,"[-71.08012, 42.339401]",Point,13xx,7,LARCRT,155,D4,First,No,TREMONT ST,Part Two,Unarmed,769685.7276,,2948985.937,2013
+210678,130429228.0,Thursday,No,2013-07-11T22:30:00.000,STOLEN PROPERTY CHARGES,"[-71.09104, 42.337616]",Point,13xx,7,ARREST,590,D4,First,No,LEON ST,Part Two,Unarmed,766736.5347,,2948321.106,2013

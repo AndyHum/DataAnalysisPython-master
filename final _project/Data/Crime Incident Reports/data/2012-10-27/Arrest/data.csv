@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27193,120678565.0,Saturday,No,2012-10-27T20:57:00.000,Arrest,"[-71.080967, 42.305758]",Point,Arrest,10,ARREST,0,B2,First,No,WASHINGTON ST,Part Three,Unarmed,769516.8457,,2936724.604,2012
+197589,120677100.0,Saturday,No,2012-10-27T05:37:00.000,Arrest,"[-71.066019, 42.284605]",Point,Arrest,10,ARREST,402,C11,Last,No,BAILEY ST,Part Three,Other,773599.5243,,2929036.4439999997,2012
+249678,120678811.0,Saturday,No,2012-10-27T22:45:00.000,Arrest,"[-71.13228, 42.237301]",Point,Arrest,10,ARREST,527,E18,First,No,WOLCOTT SQ,Part Three,Unarmed,755744.2276,,2911714.018,2012

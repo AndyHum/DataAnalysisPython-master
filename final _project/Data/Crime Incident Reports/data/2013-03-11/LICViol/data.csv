@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33597,130145894.0,Monday,No,2013-03-11T23:58:00.000,LICViol,"[-71.064128, 42.316604]",Point,LICViol,3,CD35  ,257,C11,Last,No,STOUGHTON ST,Part Three,Unarmed,774051.5089,,2940700.0519999997,2013
+120546,130143862.0,Monday,No,2013-03-11T03:00:00.000,LICViol,"[-71.083412, 42.329027]",Point,LICViol,3,IVPREM,280,B2,Last,No,WARREN ST,Part Three,Unarmed,768814.0374,,2945200.835,2013
+200660,130125500.0,Monday,No,2013-03-11T23:40:00.000,LICViol,"[-71.06204, 42.355151]",Point,LICViol,3,CD35  ,111,A1,First,No,TEMPLE PL,Part Three,Unarmed,774544.3321,,2954750.1089999997,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+158666,120530546.0,Saturday,No,2012-08-25T17:10:00.000,Service,"[-71.154289, 42.28644]",Point,Service,8,ARREST,695,E5,First,No,CENTRE ST,Part Three,Unarmed,749711.5888,,2929595.788,2012
+189514,120530658.0,Saturday,No,2012-08-25T13:30:00.000,Service,"[-71.153755, 42.280031]",Point,Service,8,INVEST,703,E5,Day,No,LANDSEER ST,Part Three,Unarmed,749865.6885,,2927261.0739999996,2012
+220105,120529339.0,Saturday,No,2012-08-25T02:03:00.000,Service,"[-71.09014, 42.288521]",Point,Service,8,TRANSP,464,B3,Last,No,BROOKVIEW ST,Part Three,Unarmed,767065.8336,BLUE HILL AV,2930431.252,2012
+245927,120531075.0,Saturday,No,2012-08-25T18:30:00.000,Service,"[-71.038678, 42.380839]",Point,Service,8,VICDOG,25,A7,First,No,BENNETT PL,Part Three,Unarmed,780808.1821,,2964144.6580000003,2012

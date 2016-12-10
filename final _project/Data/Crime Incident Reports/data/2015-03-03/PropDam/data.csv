@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83168,152017047.0,Tuesday,No,2015-03-03T06:45:00.000,PropDam,"[-71.032515, 42.334806]",Point,PropDam,3,IVPER,0,C6,Last,No,E 4TH ST,Part three,Other,782565.2875,,2947378.39,2015
+223681,152017121.0,Tuesday,No,2015-03-03T12:30:00.000,PropDam,"[-71.070415, 42.332156]",Point,PropDam,3,PROP,0,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,772322.8506,,2946358.797,2015
+263612,152017253.0,Tuesday,No,2015-03-03T19:00:00.000,PropDam,"[0, 0]",Point,PropDam,3,FO,0,D4,First,No,NEWBURY ST,Part three,Unarmed,,,,2015

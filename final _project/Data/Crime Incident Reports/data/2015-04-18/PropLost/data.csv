@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4901,152031786.0,Saturday,No,2015-04-18T02:00:00.000,PropLost,"[-71.06598, 42.350391]",Point,PropLost,4,PROP,0,A1,Last,No,WARRENTON ST,Part three,Unarmed,773488.0855,,2953009.8660000004,2015
+9158,152031534.0,Saturday,No,2015-04-18T02:15:00.000,PropLost,"[-71.077145, 42.350131]",Point,PropLost,4,LARCEN,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,770470.6585,,2952900.122,2015
+10560,152037326.0,Saturday,No,2015-04-18T10:00:00.000,PropLost,"[-71.071885, 42.351536]",Point,PropLost,4,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771889.9292,,2953419.2260000003,2015
+34664,152032033.0,Saturday,No,2015-04-18T18:00:00.000,PropLost,"[-71.06942, 42.362401]",Point,PropLost,4,PROP,0,A1,First,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+54226,152031538.0,Saturday,No,2015-04-18T02:15:00.000,PropLost,"[-71.097772, 42.347921]",Point,PropLost,4,LARCEN,0,D4,Last,No,BROOKLINE AV,Part three,Unarmed,764898.603,NEWBURY ST,2952067.503,2015
+137344,152033008.0,Saturday,No,2015-04-18T19:00:00.000,PropLost,"[-71.074615, 42.32577]",Point,PropLost,4,PROP,0,B2,First,No,DUNMORE ST,Part three,Unarmed,771198.7111,,2944025.8639999996,2015
+207356,152031536.0,Saturday,No,2015-04-18T02:50:00.000,PropLost,"[-71.094124, 42.347355]",Point,PropLost,4,PROP,0,D4,Last,No,IPSWICH ST,Part three,Unarmed,765885.7661,,2951866.0330000003,2015

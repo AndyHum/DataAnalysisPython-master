@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34881,142034534.0,Tuesday,No,2014-09-30T08:00:00.000,PropLost,"[-71.06204, 42.355151]",Point,PropLost,9,ADMRPT,0,A1,Day,No,TEMPLE PL,Part three,Unarmed,774544.3321,,2954750.1089999997,2014
+77215,142034830.0,Tuesday,No,2014-09-30T23:00:00.000,PropLost,"[-71.069527, 42.351443]",Point,PropLost,9,PROP,0,A1,First,No,PARK PLAZA,Part three,Unarmed,772527.4805,,2953388.3860000004,2014
+185228,142034606.0,Tuesday,No,2014-09-30T14:30:00.000,PropLost,"[-71.10479, 42.334141]",Point,PropLost,9,LARCEN,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763024.8693,HUNTINGTON AV,2947037.227,2014
+238110,142034679.0,Tuesday,No,2014-09-30T17:40:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,9,LARCEN,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2014
+263680,142041241.0,Tuesday,No,2014-09-30T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,PROP,0,D14,First,No,CHESTNUT AV,Part three,Unarmed,,,,2014

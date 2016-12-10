@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+202090,130151957.0,Thursday,No,2013-03-14T17:49:00.000,WEAPONS CHARGE,"[-71.084315, 42.322643]",Point,15xx,3,IVPER ,297,B2,First,No,FENNO ST,Part Two,Firearm,768581.2072,,2942873.4239999996,2013
+206035,130151416.0,Thursday,No,2013-03-14T13:15:00.000,WEAPONS CHARGE,"[-71.095235, 42.276842]",Point,15xx,3,ARREST,448,B3,Day,No,HIAWATHA RD,Part Two,Unarmed,765707.4298,,2926168.385,2013
+247766,130152036.0,Thursday,No,2013-03-14T18:23:00.000,WEAPONS CHARGE,"[-71.085387, 42.289863]",Point,15xx,3,SSTOP ,0,B3,First,No,AMES ST,Part Two,Unarmed,768349.27,,2930926.4310000003,2013

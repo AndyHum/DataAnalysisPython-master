@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49997,140064910.0,Saturday,No,2014-02-01T00:51:00.000,Gather,"[-71.157755, 42.340665]",Point,Gather,2,PARTY ,773,D14,Last,No,RADNOR RD,Part three,Unarmed,748694.4779,,2949352.6139999996,2014
+82673,140064811.0,Saturday,No,2014-02-01T00:15:00.000,Gather,"[-71.150478, 42.33617]",Point,Gather,2,CD35  ,790,D14,Last,No,BEACON ST,Part three,Unarmed,750668.6334,,2947722.4289999995,2014
+97072,140064853.0,Saturday,No,2014-02-01T00:49:00.000,Gather,"[-71.105666, 42.331797]",Point,Gather,2,PARTY ,604,B2,Last,No,DARLING ST,Part three,Unarmed,762791.8067,,2946181.974,2014
+179772,140066889.0,Saturday,No,2014-02-01T23:13:00.000,Gather,"[-71.11003, 42.331491]",Point,Gather,2,PARTY ,606,B2,First,No,PARKER HILL TR,Part three,Unarmed,761612.4872,,2946064.999,2014

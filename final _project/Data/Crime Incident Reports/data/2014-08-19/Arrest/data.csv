@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63182,142020926.0,Tuesday,No,2014-08-19T18:10:00.000,Arrest,"[-71.063873, 42.325436]",Point,Arrest,8,ARREST,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+63392,142020728.0,Tuesday,No,2014-08-19T01:15:00.000,Arrest,"[-71.06953, 42.288361]",Point,Arrest,8,ARREST,0,C11,Last,No,WELLES AV,Part three,Unarmed,772642.6888,HARLEY ST,2930400.415,2014
+69550,142020765.0,Tuesday,No,2014-08-19T08:55:00.000,Arrest,"[-71.08898, 42.275381]",Point,Arrest,8,CD11,0,B3,Day,No,HALBORN ST,Part three,Unarmed,767402.7765,,2925644.3619999997,2014
+183721,142020769.0,Tuesday,No,2014-08-19T09:20:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,8,ARREST,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

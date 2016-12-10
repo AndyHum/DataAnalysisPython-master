@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10621,120494545.0,Thursday,No,2012-08-09T18:35:00.000,Service,"[-71.008643, 42.393294]",Point,Service,8,ARREST,942,A7,First,No,WALDEMAR AV,Part Three,Unarmed,788896.8788,,2968728.664,2012
+80516,120506932.0,Thursday,No,2012-08-09T19:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+122077,120494879.0,Thursday,No,2012-08-09T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+225813,120493390.0,Thursday,No,2012-08-09T06:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,8,IVPREM,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012

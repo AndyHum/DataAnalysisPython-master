@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59882,120736085.0,Wednesday,No,2012-11-21T19:00:00.000,InvProp,"[-71.059295, 42.356476]",Point,InvProp,11,BERPT ,103,A1,First,No,WASHINGTON ST,Part Three,Unarmed,775283.7829999999,,2955236.785,2012
+94010,120732122.0,Wednesday,No,2012-11-21T02:17:00.000,InvProp,"[-71.078315, 42.303076]",Point,InvProp,11,IVPREM,460,C11,Last,No,WASHINGTON ST,Part Three,Unarmed,770239.1675,,2935750.905,2012
+244184,120732042.0,Wednesday,No,2012-11-21T00:49:00.000,InvProp,"[-71.07677, 42.271507]",Point,InvProp,11,ALARMC,406,B3,Last,No,RIVER ST,Part Three,Other,770714.0920000001,,2924248.522,2012
+251082,120734570.0,Wednesday,No,2012-11-21T06:45:00.000,InvProp,"[-71.139125, 42.279651]",Point,InvProp,11,BERPT ,685,E5,Last,No,BEECH ST,Part Three,Unarmed,753825.3407,,2927139.006,2012

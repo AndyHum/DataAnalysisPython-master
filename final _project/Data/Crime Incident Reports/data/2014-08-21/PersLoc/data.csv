@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47299,142021750.0,Thursday,No,2014-08-21T21:00:00.000,PersLoc,"[-71.075415, 42.339336]",Point,PersLoc,8,IVPER,0,D4,First,No,RUTLAND ST,Other,Unarmed,770957.8809,,2948968.547,2014
+82621,142021883.0,Thursday,No,2014-08-21T08:00:00.000,PersLoc,"[-71.15647, 42.351815]",Point,PersLoc,8,IVPER,0,D14,Day,No,BENNETT ST,Other,Unarmed,749025.3638,,2953417.247,2014
+114873,142021595.0,Thursday,No,2014-08-21T15:55:00.000,PersLoc,"[-71.071081, 42.300115]",Point,PersLoc,8,IVPER,0,C11,Day,No,WESTVILLE ST,Other,Unarmed,772201.4742,,2934681.494,2014
+191220,142021687.0,Thursday,No,2014-08-21T22:30:00.000,PersLoc,"[-71.086144, 42.288378]",Point,PersLoc,8,IVPER,0,B3,First,No,FLOYD ST,Other,Unarmed,768147.276,,2930384.298,2014
+213908,142021492.0,Thursday,No,2014-08-21T00:30:00.000,PersLoc,"[-71.17312, 42.351201]",Point,PersLoc,8,IVPER,0,D14,Last,No,TREMONT ST,Other,Unarmed,744525.8777,,2953176.035,2014
+255379,142021753.0,Thursday,No,2014-08-21T10:30:00.000,PersLoc,"[-71.087612, 42.312512]",Point,PersLoc,8,IVPER,0,B2,Day,No,CRAWFORD ST,Other,Unarmed,767707.5761,,2939177.0239999997,2014

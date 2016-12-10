@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68277,120792485.0,Tuesday,No,2012-12-18T23:35:00.000,LICViol,"[-71.072755, 42.346471]",Point,LICViol,12,CD35  ,151,D4,First,No,CHANDLER ST,Part Three,Unarmed,771664.0101,,2951572.2630000003,2012
+79027,120790153.0,Tuesday,No,2012-12-18T00:30:00.000,LICViol,"[-71.0628, 42.358371]",Point,LICViol,12,CD35  ,72,A1,Last,No,BOWDOIN ST,Part Three,Unarmed,774332.8948,,2955922.485,2012
+204654,120792505.0,Tuesday,No,2012-12-18T23:50:00.000,LICViol,"[-71.080805, 42.341346]",Point,LICViol,12,CD35  ,155,D4,Last,No,COLUMBUS AV,Part Three,Unarmed,769497.0485,,2949693.82,2012

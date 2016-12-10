@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35161,120496958.0,Friday,No,2012-08-10T19:45:00.000,InvProp,"[-71.06718, 42.344111]",Point,InvProp,8,LOCK  ,160,D4,First,No,SHAWMUT AV,Part Three,Unarmed,773175.4516,,2950719.833,2012
+158942,120495895.0,Friday,No,2012-08-10T10:44:00.000,InvProp,"[-71.162937, 42.271535]",Point,InvProp,8,IVPREM,716,E5,Day,No,BAKER ST,Part Three,Other,747393.098,,2924155.0760000004,2012
+203138,120495136.0,Friday,No,2012-08-10T00:11:00.000,InvProp,"[-71.12222, 42.281676]",Point,InvProp,8,SCHALM,561,E5,Last,No,CUMMINS HY,Part Three,Other,758396.8047,,2927896.7539999997,2012
+241762,120496525.0,Friday,No,2012-08-10T16:00:00.000,InvProp,"[-71.044313, 42.285011]",Point,InvProp,8,IVPER ,381,C11,First,No,GALLIVAN BL,Part Three,Unarmed,779472.1208,,2929214.769,2012

@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5265,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.079152, 42.34731]",Point,PropLost,6,PROP,146,D4,,No,HUNTINGTON AVE,Part Three,None,769933.0,,2950000.0,2015
+30800,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.061986, 42.326966]",Point,PropLost,6,PROP,186,C6,,No,ALLSTATE RD,Part Three,None,774612.0,,2940000.0,2015
+36397,,Saturday,No,2015-06-27T02:30:00.000,Property Lost,"[0, 0]",Point,PropLost,6,PROP,441,B3,,No,TALBOT AVE,Part Three,None,,,,2015
+41731,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.060005, 42.355919]",Point,PropLost,6,I00040,105,A1,,No,WASHINGTON ST,Part Three,None,775093.0,WINTER ST,2960000.0,2015
+46871,,Saturday,No,2015-06-27T21:00:00.000,Property Lost,"[0, 0]",Point,PropLost,6,PROP,143,D4,,No,EXETER ST,Part Three,None,,,,2015
+72516,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.118328, 42.279696]",Point,PropLost,6,PROP,501,E18,,No,CUMMINS HWY,Part Three,None,759453.0,,2930000.0,2015
+115133,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.104234, 42.327085]",Point,PropLost,6,IVPER,584,B2,,No,BUCKNAM ST,Part Three,None,763187.0,,2940000.0,2015
+122695,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.072588, 42.336985]",Point,PropLost,6,IVPER,169,D4,,No,HARRISON AVE,Part Three,None,771726.0,,2950000.0,2015
+198773,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.093011, 42.268024]",Point,PropLost,6,PROP,426,B3,,No,RIVER ST,Part Three,None,766325.0,,2920000.0,2015
+219584,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.094843, 42.268036]",Point,PropLost,6,PROP,476,B3,,No,CUMMINS HWY,Part Three,None,765829.0,,2920000.0,2015
+232463,,Saturday,No,2015-06-27T17:47:00.000,Property Lost,"[0, 0]",Point,PropLost,6,IVMV,0,,,No,,Part Three,None,,,,2015
+234669,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.069547, 42.362403]",Point,PropLost,6,,64,A1,,No,FRUIT ST,Part Three,None,772502.0,,2960000.0,2015
+258869,,Saturday,No,2015-06-27T00:00:00.000,Property Lost,"[-71.05035, 42.358955]",Point,PropLost,6,PROP,95,A1,,No,CENTRAL WHARF,Part Three,None,777697.0,,2960000.0,2015

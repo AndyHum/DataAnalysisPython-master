@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17425,130639937.0,Monday,No,2013-10-07T15:07:00.000,InvProp,"[-71.16344, 42.265902]",Point,InvProp,10,ALARMR,715,E5,Day,No,FAIRLANE RD,Part three,Unarmed,747264.9572,,2922101.73,2013
+67571,130640761.0,Monday,No,2013-10-07T20:47:00.000,InvProp,"[-71.056274, 42.377367]",Point,InvProp,10,SHOTS ,900,A15,First,No,COREY ST,Part three,Unarmed,776060.6194,,2962854.037,2013
+191664,130641085.0,Monday,No,2013-10-07T22:00:00.000,InvProp,"[-71.122385, 42.257056]",Point,InvProp,10,LARCRT,520,E18,First,No,HARVARD AV,Part three,Unarmed,758391.8746,,2918924.689,2013
+215033,130638738.0,Monday,No,2013-10-07T00:27:00.000,InvProp,"[-71.142631, 42.250332]",Point,InvProp,10,LARCIP,535,E18,Last,No,SENDERS CT,Part three,Unarmed,752921.3287,,2916450.7939999998,2013
+245420,130640014.0,Monday,No,2013-10-07T15:40:00.000,InvProp,"[-71.118307, 42.250218]",Point,InvProp,10,ALARMR,516,E18,Day,No,WILLIAMS AV,Part three,Unarmed,759506.9356,,2916437.773,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13695,120426157.0,Wednesday,No,2012-07-11T10:25:00.000,Arrest,"[-71.085387, 42.289863]",Point,Arrest,7,CD11  ,520,B3,Day,No,AMES ST,Part Three,Unarmed,768349.27,,2930926.4310000003,2012
+27466,120425975.0,Wednesday,No,2012-07-11T08:58:00.000,Arrest,"[-71.12324, 42.359091]",Point,Arrest,7,ARREST,814,D14,Day,No,CAMBRIDGE ST,Part Three,Unarmed,757996.1755,WINDOM ST,2956106.9239999996,2012
+159251,120427001.0,Wednesday,No,2012-07-11T17:21:00.000,Arrest,"[-71.0817, 42.331961]",Point,Arrest,7,SSTOP ,0,B2,First,No,WASHINGTON ST,Part Three,Other,769271.8587,WILLIAMS ST,2946272.568,2012
+197443,120427275.0,Wednesday,No,2012-07-11T19:15:00.000,Arrest,"[-71.082514, 42.313627]",Point,Arrest,7,CD11  ,322,B2,First,No,GASTON ST,Part Three,Unarmed,769084.2869,,2939590.0089999996,2012

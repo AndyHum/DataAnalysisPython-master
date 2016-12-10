@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+911,142044162.0,Thursday,No,2014-10-30T09:00:00.000,Service,"[-71.060845, 42.355056]",Point,Service,10,LARCEN,0,A1,Day,No,WASHINGTON ST,Part three,Other,774867.5053,SUMMER ST,2954717.1489999997,2014
+14103,142044381.0,Thursday,No,2014-10-30T22:00:00.000,Service,"[-71.008643, 42.393294]",Point,Service,10,SS,0,A7,First,No,WALDEMAR AV,Part three,Unarmed,788896.8788,,2968728.664,2014
+75257,142044306.0,Thursday,No,2014-10-30T18:00:00.000,Service,"[-71.08209, 42.336671]",Point,Service,10,SS,0,D4,First,No,LATTIMORE CT,Part three,Unarmed,769157.9964,,2947988.46,2014
+119963,142044100.0,Thursday,No,2014-10-30T10:00:00.000,Service,"[-71.08009, 42.335931]",Point,Service,10,AOD,0,D4,Day,No,SHAWMUT AV,Part three,Unarmed,769700.0642,LENOX ST,2947721.4460000005,2014
+152910,142044359.0,Thursday,No,2014-10-30T20:32:00.000,Service,"[-71.114039, 42.315723]",Point,Service,10,LARCEN,0,E13,First,No,CENTRE ST,Part three,Unarmed,760554.3069,,2940313.901,2014
+211183,142051762.0,Thursday,No,2014-10-30T22:00:00.000,Service,"[-71.148575, 42.287141]",Point,Service,10,IVPREM,0,E5,First,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2014

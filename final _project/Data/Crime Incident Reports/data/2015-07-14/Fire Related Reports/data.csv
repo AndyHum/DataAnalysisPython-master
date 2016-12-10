@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7005,,Tuesday,No,2015-07-14T00:00:00.000,Fire Related Reports,"[-71.06727, 42.359301]",Point,Fire,7,FIRE,67,A1,,No,MYRTLE ST,Part Three,None,773123.0,,2960000.0,2015
+21460,,Tuesday,No,2015-07-14T00:00:00.000,Fire Related Reports,"[-71.101402, 42.263879]",Point,Fire,7,MVA,951,E18,,No,MASSASOIT ST,Part Three,None,764060.0,RIVER ST,2920000.0,2015
+192045,,Tuesday,No,2015-07-14T00:00:00.000,Fire Related Reports,"[-71.083493, 42.306397]",Point,Fire,7,VAND,330,B2,,No,SUPPLE RD,Part Three,None,768833.0,,2940000.0,2015
+199474,,Tuesday,No,2015-07-14T00:00:00.000,Fire Related Reports,"[-71.017304, 42.382981]",Point,Fire,7,FIRE,14,A7,,No,BENNINGTON ST,Part Three,None,786579.0,,2960000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81480,152008885.0,Tuesday,No,2015-02-03T09:52:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,2,IVPER,0,B3,Day,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2015
+108169,152009113.0,Tuesday,No,2015-02-03T22:55:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,2,IVPER,0,B3,First,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2015
+152784,152009007.0,Tuesday,No,2015-02-03T15:15:00.000,PersLoc,"[-71.169534, 42.354841]",Point,PersLoc,2,IVPER,0,D14,Day,No,BELLAMY ST,Other,Unarmed,745489.9509,,2954506.01,2015
+159846,152009111.0,Tuesday,No,2015-02-03T18:00:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,2,IVPER,0,B3,First,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132624,130180141.0,Wednesday,No,2013-03-27T18:04:00.000,TRESPASS,"[-71.09794, 42.316146]",Point,TRESPASS,3,ARREST,307,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764907.8894,,2940488.191,2013
+146438,130180180.0,Wednesday,No,2013-03-27T18:20:00.000,TRESPASS,"[-71.053065, 42.327871]",Point,TRESPASS,3,ARREST,914,C6,First,No,MCDONOUGH WY,Part Two,Unarmed,777022.2779,,2944821.374,2013
+209989,130180340.0,Wednesday,No,2013-03-27T19:26:00.000,TRESPASS,"[-71.09794, 42.316146]",Point,TRESPASS,3,ARREST,0,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764907.8894,,2940488.191,2013
+253776,130180036.0,Wednesday,No,2013-03-27T17:00:00.000,TRESPASS,"[-71.100769, 42.325321]",Point,TRESPASS,3,ARREST,912,E13,First,No,PARKER ST,Part Two,Unarmed,764127.0458,,2943828.1319999998,2013

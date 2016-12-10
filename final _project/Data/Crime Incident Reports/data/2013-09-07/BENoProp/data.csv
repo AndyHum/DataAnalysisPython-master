@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+146581,130571221.0,Saturday,No,2013-09-07T16:00:00.000,BENoProp,"[-71.11142, 42.330431]",Point,BENoProp,9,BERPT ,606,E13,First,No,S HUNTINGTON AV,Part One,Other,761238.4013,,2945677.0,2013
+180838,130567639.0,Saturday,No,2013-09-07T01:24:00.000,BENoProp,"[-71.092706, 42.319572]",Point,BENoProp,9,LARCIP,305,B2,Last,No,TOWNSEND ST,Part One,Unarmed,766317.3997,,2941743.244,2013
+198160,130567680.0,Saturday,No,2013-09-07T01:39:00.000,BENoProp,"[-71.06778, 42.304421]",Point,BENoProp,9,FIREB ,341,C11,Last,No,STONEHURST ST,Part One,Other,773086.5394,,2936255.31,2013
+202942,130568587.0,Saturday,No,2013-09-07T06:45:00.000,BENoProp,"[-71.141721, 42.34306]",Point,BENoProp,9,BERPT ,956,D14,Last,No,WASHINGTON ST,Part One,Unarmed,753025.5063,,2950243.078,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23692,130723432.0,Thursday,No,2013-11-14T09:00:00.000,PersLoc,"[-71.079431, 42.305738]",Point,PersLoc,11,MSNCOM,460,C11,Day,No,COLUMBIA RD,Other,Unarmed,769932.3196,,2936719.48,2013
+127324,130725358.0,Thursday,No,2013-11-14T20:00:00.000,PersLoc,"[-71.05931, 42.316971]",Point,PersLoc,11,MSNCOM,244,C11,First,No,PLEASANT ST,Other,Unarmed,775354.109,,2940840.4480000003,2013
+144252,130723360.0,Thursday,No,2013-11-14T09:53:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,11,MISPER,817,C11,Day,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2013
+208150,130724079.0,Thursday,No,2013-11-14T15:15:00.000,PersLoc,"[-71.0423, 42.369896]",Point,PersLoc,11,MISPER,907,A7,Day,No,SUMNER ST,Other,Unarmed,779851.0301,,2960151.483,2013

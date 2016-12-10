@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84208,130725006.0,Friday,No,2013-11-15T01:31:00.000,TRESPASS,"[-71.08728, 42.327121]",Point,TRESPASS,11,ARREST,282,B2,Last,No,WASHINGTON ST,Part Two,Unarmed,767771.6170000001,ST JAMES ST,2944501.437,2013
+205051,130726145.0,Friday,No,2013-11-15T14:42:00.000,TRESPASS,"[-71.041895, 42.320296]",Point,TRESPASS,11,IVPREM,256,C6,Day,No,ISLAND VIEW PL,Part Two,Unarmed,780057.5491,,2942076.9460000005,2013
+224584,130734099.0,Friday,No,2013-11-15T10:26:00.000,TRESPASS,"[-71.145297, 42.349864]",Point,TRESPASS,11,IVPER ,784,D14,Day,No,WARREN ST,Part Two,Unarmed,752048.4758,,2952718.7569999998,2013

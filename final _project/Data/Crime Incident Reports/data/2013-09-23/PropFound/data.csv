@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+212325,130607759.0,Monday,No,2013-09-23T16:50:00.000,PropFound,"[-71.07142, 42.289601]",Point,PropFound,9,FDPROP,398,C11,First,No,WASHINGTON ST,Part three,Unarmed,772129.0301,,2930849.713,2013
+214057,130607195.0,Monday,No,2013-09-23T13:00:00.000,PropFound,"[-71.046717, 42.336149]",Point,PropFound,9,FDPROP,213,C6,Day,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2013
+231679,130614735.0,Monday,No,2013-09-23T09:00:00.000,PropFound,"[-71.145165, 42.286216]",Point,PropFound,9,FDPROP,687,E5,Day,No,MCCRAW ST,Part three,Unarmed,752180.8778,BELGRADE AV,2929524.534,2013
+253146,130606656.0,Monday,No,2013-09-23T07:45:00.000,PropFound,"[-71.131001, 42.251857]",Point,PropFound,9,FDPROP,540,E18,Day,No,RIVER ST,Part three,Unarmed,756067.5583,ROXANNA ST,2917019.702,2013

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37,130168855.0,Friday,No,2013-03-22T14:10:00.000,BENoProp,"[-71.06054, 42.318511]",Point,BENoProp,3,BEIP  ,0,C11,Day,No,DAWES ST,Part One,Other,775018.5595,,2941399.932,2013
+34580,130190339.0,Friday,No,2013-03-22T12:00:00.000,BENoProp,"[-71.082049, 42.294765]",Point,BENoProp,3,BERPT ,441,B3,Day,No,KINGSDALE ST,Part One,Other,769243.8945,,2932717.086,2013
+82957,130169501.0,Friday,No,2013-03-22T20:15:00.000,BENoProp,"[-71.101151, 42.283429]",Point,BENoProp,3,BEIP  ,565,B3,First,No,WALK HILL ST,Part One,Unarmed,764095.122,,2928561.4239999996,2013
+91123,130169390.0,Friday,No,2013-03-22T19:25:00.000,BENoProp,"[-71.102618, 42.291594]",Point,BENoProp,3,ALARMC,565,E13,First,No,CANTERBURY ST,Part One,Other,763684.2872,,2931535.11,2013
+158802,130169655.0,Friday,No,2013-03-22T21:15:00.000,BENoProp,"[-71.101151, 42.283429]",Point,BENoProp,3,BERPT ,565,B3,First,No,WALK HILL ST,Part One,Unarmed,764095.122,,2928561.4239999996,2013
+176836,130169558.0,Friday,No,2013-03-22T08:00:00.000,BENoProp,"[-71.086483, 42.283124]",Point,BENoProp,3,BERPT ,429,B3,Day,No,MIDDLETON ST,Part One,Other,768064.7522,,2928469.173,2013

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22135,120568448.0,Monday,No,2012-09-10T10:22:00.000,BENoProp,"[-71.05005, 42.351366]",Point,BENoProp,9,BERPT ,114,C6,Day,No,CONGRESS ST,Part One,Other,777792.3899,,2953387.652,2012
+55012,120566516.0,Monday,No,2012-09-10T12:34:00.000,BENoProp,"[-71.071225, 42.287436]",Point,BENoProp,9,ALARMR,435,C11,Day,No,WASHINGTON ST,Part One,Unarmed,772185.7571,,2930061.021,2012

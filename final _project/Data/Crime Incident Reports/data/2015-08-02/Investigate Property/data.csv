@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7883,,Sunday,No,2015-08-02T00:00:00.000,Investigate Property,"[-71.081716, 42.299729]",Point,InvProp,8,SHOTS,445,B3,,No,GLENWAY ST,Part Three,None,769325.0,,2930000.0,2015
+16701,,Sunday,No,2015-08-02T06:42:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,IVMV,309,B2,,No,MAYWOOD ST,Part Three,None,, WARREN ST ,,2015
+29696,,Sunday,No,2015-08-02T00:00:00.000,Investigate Property,"[-71.081854, 42.279951]",Point,InvProp,8,SHOTS,420,B3,,No,MORTON ST,Part Three,None,769323.0,,2930000.0,2015
+41742,,Sunday,No,2015-08-02T00:00:00.000,Investigate Property,"[-71.077246, 42.317362]",Point,InvProp,8,IVPER,324,B2,,No,INGLESIDE ST,Part Three,None,770502.0,,2940000.0,2015
+45903,,Sunday,No,2015-08-02T00:00:00.000,Investigate Property,"[-71.083493, 42.306397]",Point,InvProp,8,IVPREM,330,B2,,No,SUPPLE RD,Part Three,None,768833.0,,2940000.0,2015
+65514,,Sunday,No,2015-08-02T00:00:00.000,Investigate Property,"[-71.082277, 42.311137]",Point,InvProp,8,SSA,321,B2,,No,DEVON ST,Part Three,None,769153.0,,2940000.0,2015
+78614,,Sunday,No,2015-08-02T00:00:00.000,Investigate Property,"[-71.058524, 42.359721]",Point,InvProp,8,CD9,92,A1,,No,CITY HALL PLZ,Part Three,None,775486.0,,2960000.0,2015
+137413,,Sunday,No,2015-08-02T09:23:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,CD9,142,D4,,No,BOYLSTON ST,Part Three,None,,,,2015
+143179,,Sunday,No,2015-08-02T11:18:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,CD9,627,D4,,No,YAWKEY WAY,Part Three,None,,,,2015
+169241,,Sunday,No,2015-08-02T01:15:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,SHOTS,238,B2,,No,HARROW ST,Part Three,None,,HUMPHREYS ST,,2015
+248249,,Sunday,No,2015-08-02T13:45:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,IVPREM,92,A1,,No,CITY HALL PLZ,Part Three,None,,,,2015

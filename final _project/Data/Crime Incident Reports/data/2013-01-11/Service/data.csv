@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37286,130021541.0,Friday,No,2013-01-11T07:12:00.000,Service,"[-71.11524, 42.305536]",Point,Service,1,CD11  ,946,E13,Last,No,METCALF CT,Part Three,Unarmed,760246.4079,,2936600.15,2013
+156052,130021751.0,Friday,No,2013-01-11T09:20:00.000,Service,"[-71.028615, 42.379511]",Point,Service,1,ARREST,17,A7,Day,No,SARATOGA ST,Part Three,Unarmed,783529.7216,,2963675.5239999997,2013
+206190,130021912.0,Friday,No,2013-01-11T12:05:00.000,Service,"[-71.055655, 42.352681]",Point,Service,1,IVDRUG,173,A1,Day,No,SUMMER ST,Part Three,Unarmed,776274.825,,2953858.92,2013
+265854,130022778.0,Friday,No,2013-01-11T16:03:00.000,Service,"[0, 0]",Point,Service,1,ARREST,439,B3,First,No,BLUE HILL AV,Part Three,Unarmed,,STRATTON ST,,2013

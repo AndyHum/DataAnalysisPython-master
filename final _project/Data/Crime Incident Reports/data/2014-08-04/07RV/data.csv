@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94972,142016006.0,Monday,No,2014-08-04T08:30:00.000,07RV,"[-71.009504, 42.38977]",Point,07RV,8,IVMV,0,A7,Day,No,LEYDEN ST,Other,Unarmed,788671.5371,,2967443.041,2014
+195769,142032645.0,Monday,No,2014-08-04T12:00:00.000,07RV,"[-71.084009, 42.345962]",Point,07RV,8,LARCEN,0,D4,Day,No,BELVIDERE ST,Other,Unarmed,768622.3928,,2951371.465,2014
+205576,142016461.0,Monday,No,2014-08-04T12:26:00.000,07RV,"[-71.07114, 42.329161]",Point,07RV,8,IVMV,0,B2,Day,No,POMPEII ST,Other,Other,772132.3063,ALLERTON ST,2945266.3789999997,2014
+248742,142016190.0,Monday,No,2014-08-04T18:00:00.000,07RV,"[-71.15159, 42.356801]",Point,07RV,8,IVMV,0,D14,First,No,N BEACON ST,Other,Unarmed,750337.2932,,2955239.8310000002,2014

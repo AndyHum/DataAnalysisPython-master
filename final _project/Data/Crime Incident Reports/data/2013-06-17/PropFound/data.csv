@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62845,130369847.0,Monday,No,2013-06-17T19:37:00.000,PropFound,"[-71.099695, 42.330611]",Point,PropFound,6,FDPROP,586,B2,First,No,ALLEGHANY ST,Part three,Unarmed,764408.5,,2945757.258,2013
+163710,130368887.0,Monday,No,2013-06-17T12:00:00.000,PropFound,"[-71.057015, 42.376816]",Point,PropFound,6,FDPROP,41,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,775861.5371,,2962652.2789999996,2013
+190501,130369512.0,Monday,No,2013-06-17T13:00:00.000,PropFound,"[-71.08698, 42.351511]",Point,PropFound,6,FDPROP,139,D4,Day,No,BEACON ST,Part three,Unarmed,767809.702,HEREFORD ST,2953389.994,2013
+193493,130369676.0,Monday,No,2013-06-17T17:30:00.000,PropFound,"[-71.07531, 42.313661]",Point,PropFound,6,FDPROP,325,B2,First,No,HOWARD ST,Part three,Unarmed,771032.8549,WAYLAND ST,2939612.2789999996,2013

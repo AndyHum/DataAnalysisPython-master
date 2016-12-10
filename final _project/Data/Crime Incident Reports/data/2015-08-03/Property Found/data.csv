@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49446,,Monday,No,2015-08-03T00:00:00.000,Property Found,"[-71.070144, 42.332108]",Point,PropFound,8,PROP,177,C6,,No,SOUTHAMPTON ST,Part Three,None,772396.0,,2950000.0,2015
+65090,,Monday,No,2015-08-03T00:00:00.000,Property Found,"[-71.091878, 42.333679]",Point,PropFound,8,PROP,289,B2,,No,SCHROEDER PLZ,Part Three,None,766517.0,,2950000.0,2015
+91671,,Monday,No,2015-08-03T00:00:00.000,Property Found,"[-71.051368, 42.330814]",Point,PropFound,8,PROP,915,C6,,No,MARY BOYLE WAY,Part Three,None,777475.0,,2950000.0,2015
+234746,,Monday,No,2015-08-03T00:00:00.000,Property Found,"[-71.074128, 42.350959]",Point,PropFound,8,MISC,129,D4,,No,BOYLSTON ST,Part Three,None,771285.0,,2950000.0,2015
+252864,,Monday,No,2015-08-03T10:14:00.000,Property Found,"[0, 0]",Point,PropFound,8,FDWEAP,27,A7,,No,LIVERPOOL ST,Part Three,None,,SUMNER ST,,2015

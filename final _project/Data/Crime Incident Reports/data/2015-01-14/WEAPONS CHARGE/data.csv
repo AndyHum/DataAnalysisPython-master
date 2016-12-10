@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62649,152003596.0,Wednesday,No,2015-01-14T13:46:00.000,WEAPONS CHARGE,"[-71.06683, 42.307751]",Point,15xx,1,CD11,0,C11,Day,No,COLEMAN ST,Part Two,Other,773337.3565,,2937470.117,2015
+256194,152003507.0,Wednesday,No,2015-01-14T00:44:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,1,TS,0,D4,Last,No,MASSACHUSETTS AV,Part Two,Knife,,,,2015

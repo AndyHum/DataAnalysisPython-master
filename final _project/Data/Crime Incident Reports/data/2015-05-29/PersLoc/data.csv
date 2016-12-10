@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2330,152044504.0,Friday,No,2015-05-29T23:15:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,C11,First,No,ROCK TR,Other,Unarmed,,,,2015
+3386,152044933.0,Friday,No,2015-05-29T07:50:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,E13,Day,No,HEATH ST,Other,Unarmed,,,,2015
+45967,152044690.0,Friday,No,2015-05-29T14:15:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,5,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+46752,152044536.0,Friday,No,2015-05-29T01:44:00.000,PersLoc,"[-71.04298, 42.320001]",Point,PersLoc,5,IVPER,0,C6,Last,No,ISLAND VIEW PL,Other,Unarmed,779764.6986,,2941967.869,2015
+72181,152044704.0,Friday,No,2015-05-29T23:50:00.000,PersLoc,"[-71.100792, 42.330461]",Point,PersLoc,5,IVPER,0,B2,Last,No,CHEROKEE ST,Other,Unarmed,764112.0531,,2945700.892,2015
+80522,152044280.0,Friday,No,2015-05-29T08:30:00.000,PersLoc,"[-71.05718, 42.29346]",Point,PersLoc,5,IVPER,0,C11,Day,No,ADAMS ST,Other,Unarmed,775974.4263,,2932275.68,2015
+170065,152044330.0,Friday,No,2015-05-29T13:45:00.000,PersLoc,"[-71.065955, 42.291082]",Point,PersLoc,5,IVPER,0,C11,Day,No,MELBOURNE ST,Other,Unarmed,773604.8812,,2931396.827,2015
+175686,152044517.0,Friday,No,2015-05-29T08:00:00.000,PersLoc,"[-71.15251, 42.355526]",Point,PersLoc,5,IVPER,0,D14,Day,No,FANEUIL ST,Other,Unarmed,750090.5224,,2954774.1769999997,2015
+246908,152044500.0,Friday,No,2015-05-29T05:45:00.000,PersLoc,"[-71.13839, 42.279181]",Point,PersLoc,5,MISSIN,0,E5,Last,No,BEECH ST,Other,Unarmed,754024.9683,,2926968.5730000003,2015

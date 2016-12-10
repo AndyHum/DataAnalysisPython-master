@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13490,130738318.0,Thursday,No,2013-11-21T09:10:00.000,InvProp,"[-71.072422, 42.29719]",Point,InvProp,11,ALARMC,453,C11,Day,No,WASHINGTON ST,Part three,Unarmed,771843.9805,,2933613.758,2013
+146944,130739952.0,Thursday,No,2013-11-21T00:47:00.000,InvProp,"[-71.102595, 42.327694]",Point,InvProp,11,LMUSIC,584,B2,Last,No,FISHER AV,Part three,Unarmed,763629.1607,,2944690.4289999995,2013
+174859,130739045.0,Thursday,No,2013-11-21T15:21:00.000,InvProp,"[-71.12392, 42.312331]",Point,InvProp,11,ALARMM,653,E13,Day,No,POND ST,Part three,Unarmed,757887.5206,,2939065.89,2013

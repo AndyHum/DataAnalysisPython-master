@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95548,152005484.0,Tuesday,No,2015-01-20T09:45:00.000,InvProp,"[-71.14805, 42.259326]",Point,InvProp,1,BE,0,E5,Day,No,GEORGETOWNE DR,Part three,Other,751440.6434,,2919722.167,2015
+120239,152005470.0,Tuesday,No,2015-01-20T20:40:00.000,InvProp,"[-71.09279, 42.335528]",Point,InvProp,1,BE,0,B2,First,No,ANNUNCIATION RD,Part three,Unarmed,766266.9936,,2947557.934,2015
+232241,152005472.0,Tuesday,No,2015-01-20T22:30:00.000,InvProp,"[-71.07203, 42.339206]",Point,InvProp,1,BE,0,D4,First,No,E BROOKLINE ST,Part three,Other,771873.282,,2948925.7460000003,2015
+240518,152005205.0,Tuesday,No,2015-01-20T01:12:00.000,InvProp,"[-71.072725, 42.320461]",Point,InvProp,1,ALARM,0,B2,Last,No,BROOK AV,Part three,Other,771719.5995,,2942093.8019999997,2015
+262959,152005224.0,Tuesday,No,2015-01-20T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

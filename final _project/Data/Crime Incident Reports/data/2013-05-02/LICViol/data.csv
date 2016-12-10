@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30311,130259094.0,Thursday,No,2013-05-02T11:10:00.000,LICViol,"[-71.12838, 42.246796]",Point,LICViol,5,CD35  ,523,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,756785.2521,,2915178.687,2013
+128528,130258998.0,Thursday,No,2013-05-02T10:30:00.000,LICViol,"[-71.085035, 42.28091]",Point,LICViol,5,CD35  ,421,B3,Day,No,MORTON ST,Part Three,Unarmed,768460.5296,,2927664.4069999997,2013
+200295,130259049.0,Thursday,No,2013-05-02T10:45:00.000,LICViol,"[-71.122266, 42.256372]",Point,LICViol,5,CD35  ,520,E18,Day,No,HARVARD AV,Part Three,Unarmed,758424.9995,,2918675.3210000005,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+138068,130806571.0,Monday,No,2013-12-23T16:06:00.000,FIRE,"[-71.148015, 42.346866]",Point,FIRE,12,FIREB ,777,D14,First,No,WASHINGTON ST,Part three,Unarmed,751318.4999,NANTASKET AV,2951623.277,2013
+201354,130806008.0,Monday,No,2013-12-23T11:28:00.000,FIRE,"[-71.095205, 42.316071]",Point,FIRE,12,HAZMAT,307,E13,Day,No,WESTMINSTER AV,Part three,Unarmed,765647.7216,,2940464.3589999997,2013
+211843,130806054.0,Monday,No,2013-12-23T11:35:00.000,FIRE,"[-71.067834, 42.363983]",Point,FIRE,12,FV    ,64,A1,Day,No,BLOSSOM ST,Part three,Unarmed,772961.7522,OCONNELL WY,2957960.397,2013

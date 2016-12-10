@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5920,130509280.0,Tuesday,No,2013-08-13T21:10:00.000,Service,"[-71.0968, 42.332951]",Point,Service,8,IVPREM,901,B2,First,No,SMITH ST,Other,Unarmed,765187.2629,,2946613.6810000003,2013
+64707,130509278.0,Tuesday,No,2013-08-13T21:06:00.000,Service,"[-71.05672, 42.361981]",Point,Service,8,VICDOG,93,A1,First,No,BLACKSTONE ST,Part three,Unarmed,775969.3409,HANOVER ST,2957246.52,2013
+79641,130508218.0,Tuesday,No,2013-08-13T13:31:00.000,Service,"[-71.08009, 42.335931]",Point,Service,8,ARREST,157,D4,Day,No,SHAWMUT AV,Part three,Unarmed,769700.0642,LENOX ST,2947721.4460000005,2013
+92727,130507912.0,Tuesday,No,2013-08-13T11:05:00.000,Service,"[-71.05936, 42.351041]",Point,Service,8,ARREST,173,A1,Day,No,BEACH ST,Part three,Unarmed,775276.4461,SURFACE RD,2953256.077,2013
+146720,130509164.0,Tuesday,No,2013-08-13T20:25:00.000,Service,"[-71.093834, 42.319031]",Point,Service,8,IVPREM,306,B2,First,No,CODMAN PARK,Other,Unarmed,766013.1401,,2941544.7060000002,2013
+158224,130509188.0,Tuesday,No,2013-08-13T20:35:00.000,Service,"[-71.089444, 42.319613]",Point,Service,8,IVPREM,305,B2,First,No,WALNUT AV,Other,Unarmed,767199.6299,,2941762.2860000003,2013
+187824,130508570.0,Tuesday,No,2013-08-13T16:28:00.000,Service,"[-71.0599, 42.301691]",Point,Service,8,REMOVE,352,C11,First,No,ADAMS ST,Part three,Unarmed,775223.272,,2935271.356,2013
+263735,130509308.0,Tuesday,No,2013-08-13T21:24:00.000,Service,"[0, 0]",Point,Service,8,IVPREM,281,B2,First,No,MT PLEASANT ST,Other,Unarmed,,,,2013

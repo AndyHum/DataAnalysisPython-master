@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61168,130599771.0,Friday,No,2013-09-20T10:00:00.000,PropFound,"[-71.05777, 42.36749]",Point,PropFound,9,FDPROP,80,A1,Day,No,COMMERCIAL ST,Part three,Unarmed,775675.0007,,2959252.627,2013
+121515,130600746.0,Friday,No,2013-09-20T19:54:00.000,PropFound,"[-71.10008, 42.328181]",Point,PropFound,9,IVDRUG,586,B2,First,No,PARKER HILL AV,Part three,Unarmed,764308.5468,CALUMET ST,2944871.232,2013
+142556,130599743.0,Friday,No,2013-09-20T09:30:00.000,PropFound,"[-71.07082, 42.360476]",Point,PropFound,9,FDPROP,66,A1,Day,No,CHARLES ST,Part three,Unarmed,772161.4146,,2956678.579,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19594,142024608.0,Sunday,No,2014-08-31T00:10:00.000,PropLost,"[-71.099385, 42.342666]",Point,PropLost,8,LARCEN,0,D4,Last,No,KILMARNOCK ST,Part three,Unarmed,764471.6869,,2950150.713,2014
+168988,142024722.0,Sunday,No,2014-08-31T09:30:00.000,PropLost,"[-71.061015, 42.353246]",Point,PropLost,8,LARCEN,0,A1,Day,No,AVENUE DE LAFAYETTE,Part three,Unarmed,774824.9513,,2954057.314,2014
+181246,142025226.0,Sunday,No,2014-08-31T16:00:00.000,PropLost,"[-71.07666, 42.351141]",Point,PropLost,8,MISC,0,D4,First,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2014
+263022,142025455.0,Sunday,No,2014-08-31T14:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,,,,2014

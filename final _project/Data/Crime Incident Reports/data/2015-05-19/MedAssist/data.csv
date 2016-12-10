@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1496,152041059.0,Tuesday,No,2015-05-19T11:15:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,INJOFF,0,C6,Day,No,W BROADWAY,Part three,Unarmed,,,,2015
+1497,152041107.0,Tuesday,No,2015-05-19T15:39:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,INVEST,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+1502,152041190.0,Tuesday,No,2015-05-19T19:31:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,IVPER,0,E18,First,No,MARCY RD,Part three,Unarmed,,RIVER ST,,2015
+36128,152041187.0,Tuesday,No,2015-05-19T19:25:00.000,MedAssist,"[-71.094485, 42.345101]",Point,MedAssist,5,DISTRB,0,D4,First,No,PARK DR,Part three,Unarmed,765791.9772,,2951044.3839999996,2015
+139354,152041046.0,Tuesday,No,2015-05-19T12:15:00.000,MedAssist,"[-71.038585, 42.370071]",Point,MedAssist,5,UNKEMS,0,A7,Day,No,CHELSEA ST,Part three,Unarmed,780854.579,MAVERICK ST,2960220.666,2015
+144479,152040959.0,Tuesday,No,2015-05-19T09:13:00.000,MedAssist,"[-71.151133, 42.341412]",Point,MedAssist,5,IVPER,0,D14,Day,No,WALLINGFORD RD,Part three,Unarmed,750483.54,,2949632.0689999997,2015
+172806,152041037.0,Tuesday,No,2015-05-19T11:10:00.000,MedAssist,"[-71.10766, 42.335096]",Point,MedAssist,5,INJ,0,B2,Day,No,FENWOOD RD,Part three,Other,762247.2746,,2947381.665,2015
+214136,152041027.0,Tuesday,No,2015-05-19T11:11:00.000,MedAssist,"[-71.078125, 42.316551]",Point,MedAssist,5,EDP,0,B2,Day,No,BLUE HILL AV,Part three,Other,770266.2773,,2940661.664,2015
+226796,152041094.0,Tuesday,No,2015-05-19T15:30:00.000,MedAssist,"[-71.03926, 42.368586]",Point,MedAssist,5,IVPER,0,A7,Day,No,SUMMER ST,Part three,Unarmed,780675.0997,,2959678.517,2015
+247882,152040916.0,Tuesday,No,2015-05-19T02:13:00.000,MedAssist,"[-71.068436, 42.290364]",Point,MedAssist,5,IVPER,0,C11,Last,No,LITHGOW ST,Part three,Unarmed,772934.9327,,2931131.8,2015

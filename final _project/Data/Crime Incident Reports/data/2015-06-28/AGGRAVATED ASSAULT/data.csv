@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91325,,Sunday,No,2015-06-28T00:00:00.000,Aggravated Assault,"[-71.07082, 42.361928]",Point,04xx,6,FIGHT,64,A1,,No,CHARLES ST,Part One,Personal Weapon (hand  foot  etc.),772159.0,,2960000.0,2015
+174148,,Sunday,No,2015-06-28T00:00:00.000,Aggravated Assault,"[-71.085306, 42.32952]",Point,04xx,6,IVPER,288,B2,,No,ROXBURY ST,Part One,Knife/Cutting Instrument,768301.0,,2950000.0,2015
+216785,,Sunday,No,2015-06-28T00:00:00.000,Aggravated Assault,"[-71.05826, 42.330035]",Point,04xx,6,STAB,174,C6,,No,ELLERY ST,Part One,Knife/Cutting Instrument,775613.0,,2950000.0,2015
+228044,,Sunday,No,2015-06-28T00:00:00.000,Aggravated Assault,"[-71.068847, 42.295815]",Point,04xx,6,PKNIFE,359,C11,,No,ALPHA RD,Part One,Knife/Cutting Instrument,772814.0,,2930000.0,2015

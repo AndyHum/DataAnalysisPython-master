@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27395,140168036.0,Wednesday,No,2014-03-19T17:00:00.000,Service,"[-71.073978, 42.333151]",Point,Service,3,TRANSP,171,D4,First,No,ALBANY ST,Part three,Unarmed,771357.6081,,2946716.26,2014
+57317,140167457.0,Wednesday,No,2014-03-19T11:15:00.000,Service,"[-71.06939, 42.339506]",Point,Service,3,IVPREM,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+87804,140166597.0,Wednesday,No,2014-03-19T01:35:00.000,Service,"[-71.165241, 42.338779]",Point,Service,3,IVPER ,749,D14,Last,No,ST THOMAS MORE RD,Part three,Unarmed,746673.3399,,2948657.375,2014
+107900,140167288.0,Wednesday,No,2014-03-19T11:35:00.000,Service,"[-71.144446, 42.256597]",Point,Service,3,AOD   ,822,E5,Day,No,GEORGETOWNE DR,Part three,Unarmed,752420.4223,,2918731.463,2014
+142688,140167224.0,Wednesday,No,2014-03-19T10:59:00.000,Service,"[-71.06204, 42.355151]",Point,Service,3,ARREST,111,A1,Day,No,TEMPLE PL,Part three,Unarmed,774544.3321,,2954750.1089999997,2014
+182761,140166759.0,Wednesday,No,2014-03-19T07:10:00.000,Service,"[-71.056445, 42.354941]",Point,Service,3,ARREST,0,A1,Last,No,FEDERAL ST,Part three,Unarmed,776057.0056,,2954681.191,2014
+189971,140166964.0,Wednesday,No,2014-03-19T08:58:00.000,Service,"[-71.049385, 42.331776]",Point,Service,3,IVPER ,217,C6,Day,No,E 8TH ST,Part three,Unarmed,778009.8586,,2946249.6580000003,2014
+197342,140167151.0,Wednesday,No,2014-03-19T10:32:00.000,Service,"[-71.088215, 42.282401]",Point,Service,3,ARREST,0,B3,Day,No,MORTON ST,Part three,Unarmed,767597.4582,,2928203.5439999998,2014
+201301,140168030.0,Wednesday,No,2014-03-19T17:00:00.000,Service,"[-71.05311, 42.337916]",Point,Service,3,ARREST,0,C6,First,No,FLAHERTY WY,Part three,Unarmed,776990.9328,,2948481.881,2014
+207954,140168597.0,Wednesday,No,2014-03-19T17:01:00.000,Service,"[-71.06065, 42.352521]",Point,Service,3,ARREST,116,A1,First,No,OXFORD ST,Part three,Unarmed,774924.9706,ESSEX ST,2953793.6180000002,2014
+249792,140166678.0,Wednesday,No,2014-03-19T04:48:00.000,Service,"[-71.073978, 42.333151]",Point,Service,3,ARREST,171,D4,Last,No,ALBANY ST,Part three,Unarmed,771357.6081,,2946716.26,2014

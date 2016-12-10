@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14627,120516949.0,Sunday,No,2012-08-19T15:15:00.000,Service,"[-71.03901, 42.371991]",Point,Service,8,ARREST,26,A7,Day,No,MERIDIAN ST,Part Three,Unarmed,780735.9508,DECATUR ST,2960919.73,2012
+20519,120517246.0,Sunday,No,2012-08-19T18:00:00.000,Service,"[-71.045296, 42.335003]",Point,Service,8,IVPER ,220,C6,First,No,SILVER ST,Part Three,Unarmed,779109.2065,,2947431.3189999997,2012
+47486,120517010.0,Sunday,No,2012-08-19T17:17:00.000,Service,"[-71.08747, 42.322251]",Point,Service,8,IVPER ,298,B2,First,No,ROCKLAND ST,Part Three,Unarmed,767728.8218,,2942726.477,2012
+247686,120517329.0,Sunday,No,2012-08-19T17:10:00.000,Service,"[-71.05096, 42.337551]",Point,Service,8,ARREST,214,C6,First,No,W 4TH ST,Part Three,Unarmed,777572.9162,,2948351.921,2012

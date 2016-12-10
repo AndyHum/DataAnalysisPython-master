@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13693,130793889.0,Tuesday,No,2013-12-17T20:15:00.000,FIRE,"[-71.09825, 42.317761]",Point,FIRE,12,FV    ,304,E13,First,No,COLUMBUS AV,Part three,Unarmed,764821.2754,,2941076.329,2013
+80504,130792809.0,Tuesday,No,2013-12-17T11:45:00.000,FIRE,"[-71.07033, 42.291278]",Point,FIRE,12,FIREB ,362,C11,Day,No,MOULTRIE ST,Part three,Unarmed,772420.6342,,2931462.2210000004,2013
+136046,130793692.0,Tuesday,No,2013-12-17T18:31:00.000,FIRE,"[-71.093783, 42.346092]",Point,FIRE,12,REQP  ,624,D4,First,No,BOYLSTON ST,Part three,Other,765979.9657,,2951406.105,2013
+248511,130793820.0,Tuesday,No,2013-12-17T19:30:00.000,FIRE,"[-71.08624, 42.351711]",Point,FIRE,12,FIREB ,139,D4,First,No,BEACON ST,Part three,Unarmed,768009.3740000001,,2953463.848,2013

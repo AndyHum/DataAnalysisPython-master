@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50253,130093860.0,Thursday,No,2013-02-14T11:36:00.000,InvPer,"[-71.052892, 42.338924]",Point,InvPer,2,DISTRB,936,C6,Day,No,CROWLEY ROGERS WY,Part Three,Unarmed,777047.9029,,2948849.325,2013
+169273,130095212.0,Thursday,No,2013-02-14T22:58:00.000,InvPer,"[-71.09366, 42.274281]",Point,InvPer,2,UNK   ,469,B3,First,No,ALMONT ST,Part Three,Unarmed,766138.128,BLUE HILL AV,2925237.437,2013
+175465,130093845.0,Thursday,No,2013-02-14T11:30:00.000,InvPer,"[-71.04974, 42.330836]",Point,InvPer,2,IVPER ,915,C6,Day,No,MERCER ST,Part Three,Unarmed,777915.6777,,2945906.598,2013
+190102,130094911.0,Thursday,No,2013-02-14T21:30:00.000,InvPer,"[-71.07409, 42.278081]",Point,InvPer,2,THREAT,413,B3,First,No,GALLIVAN BL,Part Three,Other,771427.5683,,2926648.047,2013

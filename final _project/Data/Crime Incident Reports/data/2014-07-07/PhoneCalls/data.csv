@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80733,142006953.0,Monday,No,2014-07-07T16:19:00.000,PhoneCalls,"[-71.155123, 42.35915]",Point,PhoneCalls,7,IVPER,0,D14,First,No,SOLDIERS FIELD RD,Part three,Unarmed,749378.8529,,2956092.008,2014
+262258,142006861.0,Monday,No,2014-07-07T13:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,7,IVPER,0,B3,Day,No,ARBORCREST TR,Part three,Unarmed,,,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34778,142037742.0,Friday,No,2014-10-10T10:20:00.000,Service,"[-71.08489, 42.348946]",Point,Service,10,ARREST,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,768379.1902,,2952458.002,2014
+97891,142037812.0,Friday,No,2014-10-10T13:40:00.000,Service,"[-71.0626, 42.352361]",Point,Service,10,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+222296,142037709.0,Friday,No,2014-10-10T07:45:00.000,Service,"[-71.06942, 42.362401]",Point,Service,10,ARREST,0,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+226176,142037802.0,Friday,No,2014-10-10T13:00:00.000,Service,"[-71.06428, 42.285761]",Point,Service,10,ARREST,0,C11,Day,No,DORCHESTER AV,Part three,Other,774068.0525,TALBOT AV,2929460.152,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19855,140263394.0,Wednesday,No,2014-04-30T11:20:00.000,WEAPONS CHARGE,"[-71.161115, 42.351651]",Point,15xx,4,TRANSP,761,D14,Day,No,BEECHCROFT ST,Part Two,Other,747770.2839,,2953352.688,2014
+42511,140263072.0,Wednesday,No,2014-04-30T13:25:00.000,WEAPONS CHARGE,"[-71.10622, 42.334186]",Point,15xx,4,IVPER ,611,B2,Day,No,FENWOOD RD,Part Two,Firearm,762638.1489,,2947051.838,2014
+113147,140262202.0,Wednesday,No,2014-04-30T06:28:00.000,WEAPONS CHARGE,"[-71.09879, 42.317201]",Point,15xx,4,ARREST,303,E13,Last,No,W WALNUT PARK,Part Two,Unarmed,764676.1927,,2940871.5689999997,2014
+250880,140262241.0,Wednesday,No,2014-04-30T06:00:00.000,WEAPONS CHARGE,"[-71.090319, 42.313599]",Point,15xx,4,ARREST,316,B2,Last,No,CRAWFORD ST,Part Two,Unarmed,766973.4358,,2939569.644,2014

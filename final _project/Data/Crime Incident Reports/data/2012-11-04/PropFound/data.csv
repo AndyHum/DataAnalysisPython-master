@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40569,120695644.0,Sunday,No,2012-11-04T01:00:00.000,PropFound,"[-71.067375, 42.352166]",Point,PropFound,11,LSTPRP,120,A1,Last,No,PARK PLAZA,Part Three,Unarmed,773107.8474,,2953654.958,2012
+117328,120695537.0,Sunday,No,2012-11-04T09:25:00.000,PropFound,"[-71.08146, 42.350831]",Point,PropFound,11,FDPROP,137,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,769303.0076,,2953149.465,2012
+140429,120696199.0,Sunday,No,2012-11-04T17:27:00.000,PropFound,"[-71.08908, 42.291676]",Point,PropFound,11,FDPROP,464,B3,First,No,BLUE HILL AV,Part Three,Unarmed,767347.104,,2931582.3589999997,2012
+153000,120695560.0,Sunday,No,2012-11-04T07:30:00.000,PropFound,"[-71.068765, 42.356891]",Point,PropFound,11,FDPROP,70,A1,Day,No,BRANCH ST,Part Three,Unarmed,772723.4194,,2955374.938,2012
+261952,120699526.0,Sunday,No,2012-11-04T11:00:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,566,B2,Day,No,CIRCUIT DR,Part Three,Unarmed,,,,2012

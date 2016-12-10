@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100332,130327967.0,Wednesday,No,2013-05-15T11:51:00.000,PropFound,"[-71.131285, 42.233681]",Point,PropFound,5,LARCRT,526,E18,Day,No,CLIFFORD ST,Part Three,Unarmed,756019.3708,,2910396.0110000004,2013
+134919,130290709.0,Wednesday,No,2013-05-15T19:30:00.000,PropFound,"[-71.10479, 42.334141]",Point,PropFound,5,FDPROP,604,B2,First,No,HUNTINGTON AV,Part three,Unarmed,763024.8693,TREMONT ST,2947037.227,2013
+262861,130290013.0,Wednesday,No,2013-05-15T15:15:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,0,A15,Day,No,BEACON ST,Part Three,Unarmed,,,,2013

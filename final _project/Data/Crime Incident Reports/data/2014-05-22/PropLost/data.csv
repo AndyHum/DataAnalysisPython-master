@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13363,140322219.0,Thursday,No,2014-05-22T18:30:00.000,PropLost,"[-71.133585, 42.353161]",Point,PropLost,5,LARCRT,794,D14,First,No,BRIGHTON AV,Part three,Other,755209.4662,,2953933.729,2014
+18838,140319314.0,Thursday,No,2014-05-22T08:40:00.000,PropLost,"[-71.145297, 42.349864]",Point,PropLost,5,LSTPRP,763,D14,Day,No,WARREN ST,Part three,Unarmed,752048.4758,,2952718.7569999998,2014
+31395,140319479.0,Thursday,No,2014-05-22T15:30:00.000,PropLost,"[-71.101005, 42.316411]",Point,PropLost,5,LSTPRP,577,E13,Day,No,SCHOOL ST,Part three,Unarmed,764078.4846,,2940580.869,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59943,140295227.0,Tuesday,No,2014-05-13T09:40:00.000,PersMiss,"[-71.09665, 42.279221]",Point,PersMiss,5,MISPER,469,B3,Day,No,MULVEY ST,Other,Unarmed,765320.4109,,2927033.8010000004,2014
+69213,140296730.0,Tuesday,No,2014-05-13T18:55:00.000,PersMiss,"[-71.080596, 42.327236]",Point,PersMiss,5,MISPER,281,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+131191,140296725.0,Tuesday,No,2014-05-13T18:45:00.000,PersMiss,"[-71.080596, 42.327236]",Point,PersMiss,5,MISPER,281,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+217489,140296789.0,Tuesday,No,2014-05-13T22:12:00.000,PersMiss,"[-71.07079, 42.300966]",Point,PersMiss,5,MISPER,344,C11,First,No,CORONA ST,Other,Unarmed,772278.647,,2934992.145,2014

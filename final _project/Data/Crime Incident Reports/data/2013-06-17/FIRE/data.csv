@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28585,130369192.0,Monday,No,2013-06-17T15:00:00.000,FIRE,"[-71.053615, 42.358191]",Point,FIRE,6,FV    ,101,A1,Day,No,MILK ST,Part three,Unarmed,776815.7301,,2955869.747,2013
+73212,130369753.0,Monday,No,2013-06-17T18:50:00.000,FIRE,"[-71.123104, 42.259722]",Point,FIRE,6,FIREB ,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,758192.8956,,2919895.084,2013
+96281,130368095.0,Monday,No,2013-06-17T03:49:00.000,FIRE,"[-71.058163, 42.312482]",Point,FIRE,6,FV    ,255,C11,Last,No,DEER ST,Part three,Unarmed,775672.5834,,2939206.0130000003,2013
+172745,130368877.0,Monday,No,2013-06-17T12:41:00.000,FIRE,"[-71.059575, 42.302511]",Point,FIRE,6,FIREB ,349,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775309.6471,,2935570.63,2013

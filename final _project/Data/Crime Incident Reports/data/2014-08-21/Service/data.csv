@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70815,142021698.0,Thursday,No,2014-08-21T23:00:00.000,Service,"[-71.098385, 42.337186]",Point,Service,8,ARREST,0,B2,First,No,EVANS WY,Part three,Unarmed,764751.434,,2948154.9710000004,2014
+90520,142021401.0,Thursday,No,2014-08-21T01:21:00.000,Service,"[-71.071735, 42.291806]",Point,Service,8,ARREST,0,C11,Last,No,WASHINGTON ST,Part three,Unarmed,772039.7656,ASPINWALL RD,2931652.818,2014
+119853,142021621.0,Thursday,No,2014-08-21T18:19:00.000,Service,"[-71.079641, 42.319008]",Point,Service,8,ARREST,0,B2,First,No,WOODBINE ST,Part three,Unarmed,769851.8126,,2941554.837,2014
+179243,142021676.0,Thursday,No,2014-08-21T17:34:00.000,Service,"[-71.143712, 42.252926]",Point,Service,8,IVPREM,0,E18,First,No,JOAN RD,Part three,Unarmed,752624.5957,,2917394.5110000004,2014
+188760,142021454.0,Thursday,No,2014-08-21T09:13:00.000,Service,"[-71.083303, 42.302514]",Point,Service,8,cd11,0,B3,Day,No,MICHIGAN AV,Part three,Unarmed,768890.6104,,2935539.2180000003,2014
+219546,142021415.0,Thursday,No,2014-08-21T04:43:00.000,Service,"[-71.0904, 42.280796]",Point,Service,8,SS,0,B3,Last,No,HOSMER ST,Part three,Unarmed,767009.0082,,2927615.818,2014
+244936,142021459.0,Thursday,No,2014-08-21T09:45:00.000,Service,"[-71.05926, 42.289901]",Point,Service,8,IVPER,0,C11,Day,No,FLORIDA ST,Part three,Unarmed,775418.6046,,2930975.8030000003,2014
+262839,142021395.0,Thursday,No,2014-08-21T01:30:00.000,Service,"[0, 0]",Point,Service,8,ARREST,0,A1,Last,No,LONG WHRF,Part three,Unarmed,,,,2014

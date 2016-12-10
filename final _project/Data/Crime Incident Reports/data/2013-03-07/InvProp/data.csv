@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15388,130137286.0,Thursday,No,2013-03-07T19:37:00.000,InvProp,"[-71.120705, 42.244871]",Point,InvProp,3,BEIP  ,517,E18,First,No,CHITTICK RD,Part Three,Unarmed,758866.4146,,2914486.341,2013
+69321,130135885.0,Thursday,No,2013-03-07T03:08:00.000,InvProp,"[-71.090345, 42.327121]",Point,InvProp,3,IVPREM,293,B2,Last,No,LAMBERT AV,Part Three,Unarmed,766942.8073,,2944497.442,2013
+136831,130135714.0,Thursday,No,2013-03-07T00:28:00.000,InvProp,"[-71.091351, 42.276486]",Point,InvProp,3,SCHALM,427,B3,Last,No,MILDRED AV,Part Three,Unarmed,766759.0071,,2926043.833,2013
+243360,130136741.0,Thursday,No,2013-03-07T14:14:00.000,InvProp,"[-71.11565, 42.321066]",Point,InvProp,3,ALARMR,634,E13,Day,No,PERKINS ST,Part Three,Unarmed,760110.0004,,2942259.0439999998,2013

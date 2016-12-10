@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107181,120701684.0,Wednesday,No,2012-11-07T10:04:00.000,Arrest,"[-71.086165, 42.321486]",Point,Arrest,11,IVPER ,0,B2,Day,No,WALNUT AV,Part Three,Unarmed,768083.0878,DALE ST,2942449.4080000003,2012
+215801,120701717.0,Wednesday,No,2012-11-07T09:57:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,11,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+260926,120701200.0,Wednesday,No,2012-11-07T02:45:00.000,Arrest,"[0, 0]",Point,Arrest,11,ARREST,103,A1,Last,No,SCHOOL ST,Part Three,Unarmed,,,,2012

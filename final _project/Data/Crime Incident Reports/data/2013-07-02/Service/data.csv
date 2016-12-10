@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49066,130404260.0,Tuesday,No,2013-07-02T00:33:00.000,Service,"[-71.08181, 42.318281]",Point,Service,7,ARREST,311,B2,Last,No,WARREN ST,Part three,Unarmed,769266.5575,MAYWOOD ST,2941287.1960000005,2013
+165760,130404604.0,Tuesday,No,2013-07-02T07:50:00.000,Service,"[-71.085036, 42.294732]",Point,Service,7,CD11  ,441,B3,Day,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2013
+201950,130405114.0,Tuesday,No,2013-07-02T11:53:00.000,Service,"[-71.078425, 42.312846]",Point,Service,7,IVPER ,326,B2,Day,No,LAWRENCE AV,Part three,Unarmed,770191.8168,,2939311.102,2013
+253953,130404883.0,Tuesday,No,2013-07-02T10:06:00.000,Service,"[-71.0644, 42.347331]",Point,Service,7,ARREST,127,A1,Day,No,WASHINGTON ST,Part three,Unarmed,773920.9976,MARGINAL ST,2951897.086,2013
+265293,130405277.0,Tuesday,No,2013-07-02T13:00:00.000,Service,"[0, 0]",Point,Service,7,ARREST,181,B2,Day,No,SHIRLEY ST,Part three,Unarmed,,,,2013

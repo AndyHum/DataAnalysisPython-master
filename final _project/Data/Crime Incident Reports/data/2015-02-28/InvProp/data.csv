@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22046,152016225.0,Saturday,No,2015-02-28T12:53:00.000,InvProp,"[-71.07319, 42.351426]",Point,InvProp,2,SUSOBJ,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,771537.3821,,2953377.369,2015
+84892,152016659.0,Saturday,No,2015-02-28T15:30:00.000,InvProp,"[-71.060032, 42.366129]",Point,InvProp,2,IVPER,0,A1,Day,No,CAUSEWAY ST,Part three,Unarmed,775066.2559,,2958753.215,2015
+117662,152016434.0,Saturday,No,2015-02-28T23:30:00.000,InvProp,"[-71.075058, 42.325188]",Point,InvProp,2,PERGUN,0,B2,First,No,BLUE HILL AV,Part three,Firearm,771080.0208,DUDLEY ST,2943813.1610000003,2015
+144542,152016126.0,Saturday,No,2015-02-28T01:20:00.000,InvProp,"[-71.12946, 42.363181]",Point,InvProp,2,ALARM,0,D14,Last,No,WESTERN AV,Part three,Unarmed,756308.5920000001,,2957590.041,2015
+205549,152016260.0,Saturday,No,2015-02-28T14:44:00.000,InvProp,"[-71.078868, 42.282637]",Point,InvProp,2,SHOTS,0,B3,Day,No,EVANS ST,Part three,Other,770126.1982,STANTON ST,2928301.683,2015
+223161,152016140.0,Saturday,No,2015-02-28T02:29:00.000,InvProp,"[-71.09212, 42.287476]",Point,InvProp,2,SSA,0,B3,Last,No,JOHNSTON RD,Part three,Firearm,766531.9163,,2930047.873,2015
+236960,152016192.0,Saturday,No,2015-02-28T10:17:00.000,InvProp,"[-71.126597, 42.284958]",Point,InvProp,2,FIRE,0,E5,Day,No,FLORENCE ST,Part three,Unarmed,757206.9104,,2929087.24,2015
+252568,152016332.0,Saturday,No,2015-02-28T18:43:00.000,InvProp,"[-71.071512, 42.302864]",Point,InvProp,2,SHOTS,0,C11,First,No,BOWDOIN ST,Part three,Unarmed,772079.7509999999,,2935682.6780000003,2015

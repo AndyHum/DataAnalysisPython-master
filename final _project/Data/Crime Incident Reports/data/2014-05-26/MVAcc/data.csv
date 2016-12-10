@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91426,140328494.0,Monday,No,2014-05-26T14:50:00.000,MVAcc,"[-71.06592, 42.279911]",Point,MVAcc,5,MVA   ,388,C11,Day,No,DORCHESTER AV,Other,Unarmed,773635.1388,GALLIVAN BL,2927326.07,2014
+167588,140327770.0,Monday,No,2014-05-26T03:16:00.000,MVAcc,"[-71.105345, 42.318236]",Point,MVAcc,5,MVA   ,578,E13,Last,No,PAUL GORE ST,Other,Unarmed,762901.6254,,2941240.4689999996,2014
+180350,140329275.0,Monday,No,2014-05-26T21:04:00.000,MVAcc,"[-71.08368, 42.328671]",Point,MVAcc,5,MVPED1,282,B2,First,No,DUDLEY ST,Other,Unarmed,768742.3382,WARREN ST,2945071.015,2014
+182863,140329422.0,Monday,No,2014-05-26T22:09:00.000,MVAcc,"[-71.08156, 42.310821]",Point,MVAcc,5,MVPED2,329,B2,First,No,BLUE HILL AV,Other,Unarmed,769347.5063,DEVON ST,2938568.982,2014
+220664,140327483.0,Monday,No,2014-05-26T00:12:00.000,MVAcc,"[-71.061984, 42.36231]",Point,MVAcc,5,MVA   ,74,A1,Last,No,NEW CHARDON ST,Other,Other,774546.0673,,2957359.042,2014

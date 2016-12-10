@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5415,140381435.0,Saturday,No,2014-06-14T20:30:00.000,PropLost,"[-71.1101, 42.2634]",Point,PropLost,6,LSTPRP,493,E18,First,No,LEWISTON ST,Part three,Unarmed,761706.9496,,2921251.1789999995,2014
+21868,140376682.0,Saturday,No,2014-06-14T11:41:00.000,PropLost,"[-71.097687, 42.265053]",Point,PropLost,6,LSTPRP,482,E18,Day,No,MALTA ST,Part three,Unarmed,765063.9117,,2921869.256,2014
+100705,142002953.0,Saturday,No,2014-06-14T16:00:00.000,PropLost,"[-71.093165, 42.285576]",Point,PropLost,6,PROP,0,B3,First,No,MORTON ST,Part three,Unarmed,766252.4605,,2929354.1319999998,2014
+121750,140377739.0,Saturday,No,2014-06-14T18:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,6,LSTPRP,143,D4,First,No,BOYLSTON ST,Part three,Other,769006.8448,,2952355.38,2014
+128268,140379206.0,Saturday,No,2014-06-14T16:00:00.000,PropLost,"[-71.072415, 42.348111]",Point,PropLost,6,LARCRT,128,D4,First,No,COLUMBUS AV,Part three,Unarmed,771752.9256,,2952170.37,2014
+181558,140378900.0,Saturday,No,2014-06-14T19:00:00.000,PropLost,"[-71.15169, 42.345881]",Point,PropLost,6,LSTPRP,776,D14,First,No,UNION ST,Part three,Unarmed,750326.5137,LYNE RD,2951260.245,2014
+200301,142003155.0,Saturday,No,2014-06-14T06:50:00.000,PropLost,"[-71.07102, 42.336701]",Point,PropLost,6,LARCEN,0,D4,Last,No,E NEWTON ST,Part three,Unarmed,772150.9382,,2948014.253,2014
+223382,140377571.0,Saturday,No,2014-06-14T10:30:00.000,PropLost,"[-71.08331, 42.339301]",Point,PropLost,6,LSTPRP,597,D4,Day,No,COLUMBUS AV,Part three,Unarmed,768823.4634,CAMDEN ST,2948945.265,2014
+262957,140378981.0,Saturday,No,2014-06-14T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,107,A1,First,No,MILK ST,Part three,Unarmed,,WATER ST,,2014

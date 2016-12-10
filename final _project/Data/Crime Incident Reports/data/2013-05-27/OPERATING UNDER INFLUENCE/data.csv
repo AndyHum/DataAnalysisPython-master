@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1098,130316998.0,Monday,No,2013-05-27T03:00:00.000,OPERATING UNDER INFLUENCE,"[-71.076105, 42.320506]",Point,21xx,5,ARREST,264,B2,Last,No,W COTTAGE ST,Part Two,Other,770805.4354,,2942105.64,2013
+136688,130318488.0,Monday,No,2013-05-27T20:39:00.000,OPERATING UNDER INFLUENCE,"[-71.020358, 42.384935]",Point,21xx,5,TRAUMA,15,A7,First,No,MCCLELLAN HY,Part Two,Unarmed,785749.5501,,2965664.599,2013
+229061,130316925.0,Monday,No,2013-05-27T02:10:00.000,OPERATING UNDER INFLUENCE,"[-71.06792, 42.313741]",Point,21xx,5,TSTOP ,331,B2,Last,No,COLUMBIA RD,Part Two,Unarmed,773031.4644,SAYWARD ST,2939651.47,2013

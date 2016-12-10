@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43957,130479512.0,Thursday,No,2013-08-01T15:30:00.000,FORGERY,"[-71.06618, 42.361141]",Point,10xx,8,LARCIP,67,A1,Day,No,CAMBRIDGE ST,Part Two,Unarmed,773414.2254,,2956927.262,2013
+49627,130506079.0,Thursday,No,2013-08-01T18:00:00.000,FORGERY,"[-71.084485, 42.348131]",Point,10xx,8,LARCRT,142,D4,First,No,BOYLSTON ST,Part Two,Unarmed,768490.1158,,2952161.534,2013
+126477,130479346.0,Thursday,No,2013-08-01T14:03:00.000,FORGERY,"[-71.058631, 42.357187]",Point,10xx,8,ARREST,103,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,775461.8627,,2955496.662,2013

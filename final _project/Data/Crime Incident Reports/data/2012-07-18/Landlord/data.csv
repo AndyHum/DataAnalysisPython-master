@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6244,120444603.0,Wednesday,No,2012-07-18T07:30:00.000,Landlord,"[-71.068995, 42.329296]",Point,Landlord,7,THREAT,178,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,772712.0693,,2945318.5,2012
+40603,120443294.0,Wednesday,No,2012-07-18T18:00:00.000,Landlord,"[-71.09212, 42.287476]",Point,Landlord,7,THREAT,465,B3,First,No,JOHNSTON RD,Part Three,Unarmed,766531.9163,,2930047.873,2012
+253495,120442421.0,Wednesday,No,2012-07-18T07:55:00.000,Landlord,"[-71.063235, 42.318836]",Point,Landlord,7,REQP  ,240,B2,Day,No,COLUMBIA RD,Part Three,Other,774289.098,,2941514.624,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102526,130673242.0,Tuesday,No,2013-10-22T11:01:00.000,InvProp,"[-71.008874, 42.39214]",Point,InvProp,10,BEIP  ,942,A7,Day,No,FAYSTON ST,Part three,Other,788836.8524,,2968307.764,2013
+208287,130704459.0,Tuesday,No,2013-10-22T08:00:00.000,InvProp,"[-71.142651, 42.28542]",Point,InvProp,10,IVPREM,687,E5,Day,No,REXHAME ST,Part three,Other,752862.2796,,2929237.14,2013
+245466,130678703.0,Tuesday,No,2013-10-22T18:00:00.000,InvProp,"[-71.08489, 42.348946]",Point,InvProp,10,IVPREM,142,D4,First,No,NEWBURY ST,Part three,Unarmed,768379.1902,,2952458.002,2013

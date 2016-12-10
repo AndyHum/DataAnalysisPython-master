@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159697,140258474.0,Sunday,No,2014-04-27T18:00:00.000,PropLost,"[-71.028815, 42.378451]",Point,PropLost,4,LSTPRP,17,A7,First,No,CHELSEA ST,Part three,Unarmed,783477.8204,,2963288.938,2014
+212411,140269127.0,Sunday,No,2014-04-27T16:00:00.000,PropLost,"[-71.06047, 42.355401]",Point,PropLost,4,LSTPRP,105,A1,First,No,SUMMER ST,Part three,Unarmed,774968.2164,WASHINGTON ST,2954843.395,2014
+218605,140261898.0,Sunday,No,2014-04-27T18:00:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,4,LSTPRP,112,A1,First,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2014
+237880,140259306.0,Sunday,No,2014-04-27T00:00:00.000,PropLost,"[-71.058866, 42.357544]",Point,PropLost,4,LSTPRP,97,A1,Last,No,SCHOOL ST,Part three,Unarmed,775397.5892,,2955626.3189999997,2014

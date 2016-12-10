@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+152358,142019786.0,Friday,No,2014-08-15T22:48:00.000,WEAPONS CHARGE,"[-71.061285, 42.301826]",Point,15xx,8,ARREST,0,C11,First,No,ARCADIA ST,Part Two,Unarmed,774848.3502,,2935318.622,2014
+168648,142019468.0,Friday,No,2014-08-15T01:44:00.000,WEAPONS CHARGE,"[-71.09193, 42.321671]",Point,15xx,8,ARREST,0,B2,Last,No,WASHINGTON ST,Part Two,Unarmed,766523.7083,VALENTINE ST,2942509.313,2014

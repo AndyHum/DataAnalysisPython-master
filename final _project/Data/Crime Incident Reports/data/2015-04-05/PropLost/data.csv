@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80004,152036771.0,Sunday,No,2015-04-05T16:30:00.000,PropLost,"[-71.067481, 42.331569]",Point,PropLost,4,MISC,0,C6,First,No,SOUTHAMPTON ST,Part three,Unarmed,773117.2696,,2946148.6539999996,2015
+121201,152029083.0,Sunday,No,2015-04-05T21:00:00.000,PropLost,"[-71.062548, 42.361157]",Point,PropLost,4,PROP,0,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,774395.6116,BOWDOIN ST,2956937.863,2015
+187820,152027644.0,Sunday,No,2015-04-05T13:52:00.000,PropLost,"[-71.086905, 42.345686]",Point,PropLost,4,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,767840.2549,,2951267.3510000003,2015
+198076,152040755.0,Sunday,No,2015-04-05T13:00:00.000,PropLost,"[-71.07538, 42.333949]",Point,PropLost,4,LARCEN,0,D4,Day,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2015
+267340,152027662.0,Sunday,No,2015-04-05T14:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,A1,Day,No,CHARLES ST,Part three,Unarmed,,,,2015
+267368,152027996.0,Sunday,No,2015-04-05T14:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,E5,Day,No,VFW PY,Part three,Unarmed,,,,2015

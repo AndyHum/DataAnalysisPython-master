@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9530,142056339.0,Wednesday,No,2014-12-10T20:00:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,12,MISC,0,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+47347,142056469.0,Wednesday,No,2014-12-10T17:50:00.000,PropLost,"[-71.093775, 42.269596]",Point,PropLost,12,PROP,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766115.135,,2923530.012,2014
+259159,142056573.0,Wednesday,No,2014-12-10T23:00:00.000,PropLost,"[-71.08507, 42.328881]",Point,PropLost,12,PROP,0,B2,First,No,DUDLEY ST,Part three,Unarmed,768366.1044,WASHINGTON ST,2945145.712,2014
+264170,142056342.0,Wednesday,No,2014-12-10T15:30:00.000,PropLost,"[0, 0]",Point,PropLost,12,LARCEN,0,,Day,No,RESERVOIR CT,Part three,Unarmed,,,,2014

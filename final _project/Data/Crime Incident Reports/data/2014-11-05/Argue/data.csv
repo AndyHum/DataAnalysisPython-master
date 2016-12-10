@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+160806,142046049.0,Wednesday,No,2014-11-05T10:45:00.000,Argue,"[-71.08257, 42.348656]",Point,Argue,11,IVPER,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+231596,142046149.0,Wednesday,No,2014-11-05T14:55:00.000,Argue,"[-71.086517, 42.334457]",Point,Argue,11,FIGHT,0,B2,Day,No,RAYNOR CR,Part three,Unarmed,767964.9617,,2947175.691,2014
+249632,142046043.0,Wednesday,No,2014-11-05T10:30:00.000,Argue,"[-71.039152, 42.376741]",Point,Argue,11,IVPER,0,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780688.0383,,2962650.535,2014

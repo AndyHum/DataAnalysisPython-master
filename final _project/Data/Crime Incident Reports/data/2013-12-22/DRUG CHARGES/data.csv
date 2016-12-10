@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55443,130804250.0,Sunday,No,2013-12-22T09:00:00.000,DRUG CHARGES,"[-71.085618, 42.32866]",Point,18xx,12,IVDRUG,282,B2,Day,No,WASHINGTON ST,Part Two,Other,768218.0809,,2945064.255,2013
+161091,130803554.0,Sunday,No,2013-12-22T00:49:00.000,DRUG CHARGES,"[-71.037275, 42.375496]",Point,18xx,12,ARREST,23,A7,Last,No,BENNINGTON ST,Part Two,Unarmed,781197.8470000001,PORTER ST,2962199.565,2013
+219379,130803593.0,Sunday,No,2013-12-22T01:06:00.000,DRUG CHARGES,"[-71.102, 42.329571]",Point,18xx,12,TSTOP ,0,B2,Last,No,CALUMET ST,Part Two,Unarmed,763787.0027,HARLESTON ST,2945375.345,2013

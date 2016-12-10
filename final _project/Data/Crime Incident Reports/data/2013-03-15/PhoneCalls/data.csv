@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41471,130159938.0,Friday,No,2013-03-15T08:00:00.000,PhoneCalls,"[-71.140134, 42.353928]",Point,PhoneCalls,3,IVPER ,795,D14,Day,No,N BEACON ST,Part Three,Unarmed,753437.9524,,2954205.5930000003,2013
+77652,130156485.0,Friday,No,2013-03-15T14:04:00.000,PhoneCalls,"[-71.044445, 42.336261]",Point,PhoneCalls,3,HARPT ,213,C6,Day,No,DORCHESTER ST,Part Three,Unarmed,779336.8566,,2947891.163,2013
+199454,130152957.0,Friday,No,2013-03-15T07:24:00.000,PhoneCalls,"[-71.067465, 42.342546]",Point,PhoneCalls,3,DISTRB,164,D4,Last,No,WASHINGTON ST,Part Three,Unarmed,773101.2969,,2950149.1289999997,2013

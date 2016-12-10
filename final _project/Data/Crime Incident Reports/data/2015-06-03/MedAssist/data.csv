@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2392,152045797.0,Wednesday,No,2015-06-03T11:06:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,INJ,0,C6,Day,No,BLACK FALCON AV,Part three,Unarmed,,,,2015
+2412,152045995.0,Wednesday,No,2015-06-03T22:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,EDP,0,D14,First,No,FOSTER ST,Part three,Unarmed,,,,2015
+2478,152045874.0,Wednesday,No,2015-06-03T14:48:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,UNCONS,0,C6,Day,No,ALLSTATE RD,Part three,Other,,,,2015
+54982,152045884.0,Wednesday,No,2015-06-03T15:22:00.000,MedAssist,"[-71.073665, 42.282068]",Point,MedAssist,6,EDP,0,B3,Day,No,MORA ST,Part three,Unarmed,771535.1918,,2928101.3230000003,2015
+56042,152045971.0,Wednesday,No,2015-06-03T19:30:00.000,MedAssist,"[-71.098625, 42.346181]",Point,MedAssist,6,IVPER,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,BROOKLINE AV,2951432.6119999997,2015
+70840,152045985.0,Wednesday,No,2015-06-03T20:50:00.000,MedAssist,"[-71.09958, 42.315711]",Point,MedAssist,6,UNCONS,0,E13,First,No,BEETHOVEN ST,Part three,Other,764465.0842,,2940327.584,2015
+90789,152045866.0,Wednesday,No,2015-06-03T14:25:00.000,MedAssist,"[-71.084485, 42.348131]",Point,MedAssist,6,BURN,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2015
+123609,152045930.0,Wednesday,No,2015-06-03T16:21:00.000,MedAssist,"[-71.135171, 42.349782]",Point,MedAssist,6,ALARM,0,D14,First,No,PRICE RD,Part three,Unarmed,754785.9736,,2952700.273,2015
+166981,152045729.0,Wednesday,No,2015-06-03T00:18:00.000,MedAssist,"[-71.10931, 42.311441]",Point,MedAssist,6,REQP,0,E13,Last,No,GREEN ST,Part three,Unarmed,761840.6373,,2938759.32,2015
+197391,152045892.0,Wednesday,No,2015-06-03T16:29:00.000,MedAssist,"[-71.115583, 42.281506]",Point,MedAssist,6,AB,0,E18,First,No,AMERICAN LEGION HY,Part three,Unarmed,760192.8732,,2927842.6380000003,2015
+212748,152045793.0,Wednesday,No,2015-06-03T10:24:00.000,MedAssist,"[-71.05899, 42.356791]",Point,MedAssist,6,UNKEMS,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775365.6264,,2955352.003,2015
+221005,152045867.0,Wednesday,No,2015-06-03T14:30:00.000,MedAssist,"[-71.017464, 42.384914]",Point,MedAssist,6,EDP,0,A7,Day,No,WORDSWORTH ST,Part three,Unarmed,786531.1838,,2965661.37,2015
+242729,152045791.0,Wednesday,No,2015-06-03T10:52:00.000,MedAssist,"[-71.06332, 42.364171]",Point,MedAssist,6,IVPER,0,A1,Day,No,CAUSEWAY ST,Part three,Unarmed,774181.5303,STANIFORD ST,2958035.398,2015

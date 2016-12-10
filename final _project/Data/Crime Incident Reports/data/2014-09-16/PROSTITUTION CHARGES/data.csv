@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+208330,142029858.0,Tuesday,No,2014-09-16T04:47:00.000,PROSTITUTION CHARGES,"[-71.07818, 42.316221]",Point,16xx,9,ARREST,0,B2,Last,No,BLUE HILL AV,Part Two,Unarmed,770251.9978,WOODCLIFF ST,2940541.332,2014
+254690,142030142.0,Tuesday,No,2014-09-16T22:22:00.000,PROSTITUTION CHARGES,"[-71.057685, 42.310896]",Point,16xx,9,ARREST,0,C11,First,No,DORCHESTER AV,Part Two,Unarmed,775805.0763,,2938628.897,2014
+262041,142030534.0,Tuesday,No,2014-09-16T11:30:00.000,PROSTITUTION CHARGES,"[0, 0]",Point,16xx,9,IVPER,0,D14,Day,No,HARRISON AV,Part Two,Unarmed,,,,2014

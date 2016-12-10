@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71072,140258502.0,Monday,No,2014-04-21T00:01:00.000,PropFound,"[-71.068225, 42.292577]",Point,PropFound,4,MEET  ,362,C11,Last,No,KENWOOD ST,Part three,Unarmed,772987.8959,,2931938.2739999997,2014
+235577,140242702.0,Monday,No,2014-04-21T16:51:00.000,PropFound,"[-71.07241, 42.346561]",Point,PropFound,4,IVPREM,151,D4,First,No,CAZENOVE ST,Part three,Unarmed,771757.1089,CHANDLER ST,2951605.527,2014
+244097,140242203.0,Monday,No,2014-04-21T12:11:00.000,PropFound,"[-71.053415, 42.356846]",Point,PropFound,4,FDPROP,100,A1,Day,No,FRANKLIN ST,Part three,Unarmed,776872.3520000001,,2955379.887,2014

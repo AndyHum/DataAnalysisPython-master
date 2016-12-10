@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+157966,152021132.0,Monday,No,2015-03-16T09:08:00.000,InvPer,"[-71.081525, 42.318121]",Point,InvPer,3,IVPER,0,B2,Day,No,MAYWOOD ST,Part three,Unarmed,769343.9209,,2941229.268,2015
+162117,152021287.0,Monday,No,2015-03-16T19:30:00.000,InvPer,"[-71.07931, 42.333736]",Point,InvPer,3,TS,0,D4,First,No,THORNDIKE ST,Part three,Unarmed,769914.901,WASHINGTON ST,2946922.5889999997,2015
+205084,152021270.0,Monday,No,2015-03-16T17:35:00.000,InvPer,"[-71.05784, 42.310196]",Point,InvPer,3,DISTRB,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775764.4743,,2938373.5889999997,2015
+206639,152021196.0,Monday,No,2015-03-16T13:55:00.000,InvPer,"[-71.081367, 42.336818]",Point,InvPer,3,PERGUN,0,D4,Day,No,LENOX ST,Part three,Unarmed,769353.1922,SHAWMUT AV,2948042.758,2015
+208598,152021752.0,Monday,No,2015-03-16T20:00:00.000,InvPer,"[-71.08892, 42.27058]",Point,InvPer,3,MISC,0,B3,First,No,MAMELON CR,Part three,Other,767427.2577,,2923894.7660000003,2015
+252700,152021177.0,Monday,No,2015-03-16T13:39:00.000,InvPer,"[-71.10383, 42.322836]",Point,InvPer,3,AB,0,E13,Day,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2015
+266473,152021190.0,Monday,No,2015-03-16T14:14:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,E5,Day,No,BROOKWAY RD,Part three,Unarmed,,,,2015
+266479,152021323.0,Monday,No,2015-03-16T17:05:00.000,InvPer,"[0, 0]",Point,InvPer,3,AB,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,,,,2015
+266488,152021345.0,Monday,No,2015-03-16T10:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,LARCEN,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,,,,2015
+266498,152021118.0,Monday,No,2015-03-16T03:10:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,C6,Last,No,MASSACHUSETTS AV,Part three,Unarmed,,SHIRLEY ST,,2015
+266499,152021360.0,Monday,No,2015-03-16T22:25:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,B2,First,No,LEYLAND ST,Part three,Unarmed,,,,2015
+266501,152021188.0,Monday,No,2015-03-16T13:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,AB,0,C11,Day,No,RADFORD LA,Part three,Unarmed,,,,2015
+266505,152021316.0,Monday,No,2015-03-16T17:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPREM,0,A7,First,No,BORDER ST,Part three,Unarmed,,,,2015
+267786,152023595.0,Monday,No,2015-03-16T09:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,HTU,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015

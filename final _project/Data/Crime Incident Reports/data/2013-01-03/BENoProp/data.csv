@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+143138,130005387.0,Thursday,No,2013-01-03T13:53:00.000,BENoProp,"[-71.07227, 42.316727]",Point,BENoProp,1,BEIP  ,260,B2,Day,No,LINGARD ST,Part One,Unarmed,771849.3676,,2940733.5539999995,2013
+158649,130005621.0,Thursday,No,2013-01-03T15:37:00.000,BENoProp,"[-71.075005, 42.298501]",Point,BENoProp,1,ALARMR,453,B3,Day,No,CHAMBERLAIN ST,Part One,Other,771142.8740000001,,2934088.15,2013
+215943,130006877.0,Thursday,No,2013-01-03T19:00:00.000,BENoProp,"[-71.07072, 42.359106]",Point,BENoProp,1,IVPREM,66,A1,First,No,CHARLES ST,Part One,Other,772190.9539,,2956179.46,2013

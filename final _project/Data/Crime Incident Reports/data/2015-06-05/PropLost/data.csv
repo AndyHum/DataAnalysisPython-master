@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2518,152046618.0,Friday,No,2015-06-05T19:30:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+2528,152046572.0,Friday,No,2015-06-05T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,,,,2015
+84703,152047116.0,Friday,No,2015-06-05T10:00:00.000,PropLost,"[-71.044545, 42.347516]",Point,PropLost,6,PROP,0,C6,Day,No,SUMMER ST,Part three,Unarmed,779287.9190000001,,2951992.539,2015
+142205,152046650.0,Friday,No,2015-06-05T17:00:00.000,PropLost,"[-71.100705, 42.342791]",Point,PropLost,6,IVPER,0,D4,First,No,PETERBOROUGH ST,Part three,Unarmed,764114.6170000001,,2950194.595,2015
+198659,152047515.0,Friday,No,2015-06-05T22:30:00.000,PropLost,"[-71.08387, 42.295991]",Point,PropLost,6,LARCEN,0,B3,First,No,HARVARD ST,Part three,Unarmed,768749.0615,,2933161.643,2015
+205147,152049606.0,Friday,No,2015-06-05T16:30:00.000,PropLost,"[-71.070055, 42.350121]",Point,PropLost,6,PROP,0,A1,First,No,STUART ST,Part three,Unarmed,772387.1904,COLUMBUS AV,2952906.059,2015
+228918,152046952.0,Friday,No,2015-06-05T21:00:00.000,PropLost,"[-71.08878, 42.348881]",Point,PropLost,6,MISC,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,767327.7704,,2952429.2210000004,2015
+234748,152046594.0,Friday,No,2015-06-05T15:30:00.000,PropLost,"[-71.088916, 42.342401]",Point,PropLost,6,PROP,0,D4,Day,No,GAINSBOROUGH ST,Part three,Unarmed,767302.2579999999,,2950067.662,2015
+253184,152046597.0,Friday,No,2015-06-05T18:35:00.000,PropLost,"[-71.116349, 42.307451]",Point,PropLost,6,LARCEN,0,E13,First,No,CUSTER ST,Part three,Unarmed,759943.105,,2937296.353,2015
+258099,152046638.0,Friday,No,2015-06-05T19:30:00.000,PropLost,"[-71.0651, 42.350151]",Point,PropLost,6,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,773726.5315,,2952923.7810000004,2015

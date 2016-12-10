@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10266,130304637.0,Tuesday,No,2013-05-21T17:22:00.000,Service,"[-71.04625, 42.354256]",Point,Service,5,CD9   ,200,C6,First,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2013
+40184,130303827.0,Tuesday,No,2013-05-21T11:24:00.000,Service,"[-71.059575, 42.302511]",Point,Service,5,IVPER ,347,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,775309.6471,,2935570.63,2013
+65678,130304241.0,Tuesday,No,2013-05-21T14:02:00.000,Service,"[-71.16085, 42.348916]",Point,Service,5,ARREST,786,D14,Day,No,WASHINGTON ST,Part three,Unarmed,747845.8786,,2952356.2819999997,2013
+86697,130305276.0,Tuesday,No,2013-05-21T22:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,5,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2013
+155536,130303828.0,Tuesday,No,2013-05-21T11:51:00.000,Service,"[-71.06293, 42.351166]",Point,Service,5,ARREST,117,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2013
+195335,130303700.0,Tuesday,No,2013-05-21T10:24:00.000,Service,"[-71.073461, 42.302702]",Point,Service,5,CD11  ,462,C11,Day,No,ROSSETER ST,Part Three,Unarmed,771552.865,,2935621.039,2013
+216013,130303330.0,Tuesday,No,2013-05-21T07:30:00.000,Service,"[-71.075986, 42.326608]",Point,Service,5,CD11  ,267,B2,Day,No,DUDLEY ST,Part three,Unarmed,770826.3215,,2944329.5,2013

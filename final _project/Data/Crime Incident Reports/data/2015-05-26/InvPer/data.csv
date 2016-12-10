@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1874,152043180.0,Tuesday,No,2015-05-26T11:30:00.000,InvPer,"[0, 0]",Point,InvPer,5,AB,0,C6,Day,No,D ST,Part three,Unarmed,,,,2015
+1905,152043205.0,Tuesday,No,2015-05-26T13:51:00.000,InvPer,"[0, 0]",Point,InvPer,5,PKNIFE,0,D4,Day,No,DARTMOUTH ST,Part three,Knife,,,,2015
+24468,152043346.0,Tuesday,No,2015-05-26T20:05:00.000,InvPer,"[-71.039415, 42.368976]",Point,InvPer,5,UNK,0,A7,First,No,MAVERICK SQ,Part three,Unarmed,780632.4456,,2959820.414,2015
+52989,152043163.0,Tuesday,No,2015-05-26T09:00:00.000,InvPer,"[-71.12088, 42.351821]",Point,InvPer,5,IVPER,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2015
+79210,152043296.0,Tuesday,No,2015-05-26T02:00:00.000,InvPer,"[-71.106187, 42.333032]",Point,InvPer,5,IVPER,0,B2,Last,No,WAIT ST,Part three,Unarmed,762648.7896,,2946631.079,2015
+86740,152043088.0,Tuesday,No,2015-05-26T09:03:00.000,InvPer,"[-71.081654, 42.320308]",Point,InvPer,5,AB,0,B2,Day,No,WARREN ST,Part three,Unarmed,769305.0476,,2942025.772,2015
+95347,152043064.0,Tuesday,No,2015-05-26T07:50:00.000,InvPer,"[-71.05901, 42.366686]",Point,InvPer,5,DISTRB,0,A1,Day,No,CAUSEWAY ST,Part three,Other,775341.5772,,2958957.9069999997,2015
+165812,152043039.0,Tuesday,No,2015-05-26T01:31:00.000,InvPer,"[-71.056715, 42.295031]",Point,InvPer,5,AB,0,C11,Last,No,CENTRE ST,Part three,Unarmed,776097.4878,,2932848.817,2015
+182357,152043044.0,Tuesday,No,2015-05-26T01:38:00.000,InvPer,"[-71.05679, 42.35006]",Point,InvPer,5,EDP,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,775972.8791,,2952902.028,2015
+186525,152043095.0,Tuesday,No,2015-05-26T09:30:00.000,InvPer,"[-71.092428, 42.2886]",Point,InvPer,5,IVPER,0,B3,Day,No,HARVARD ST,Part three,Unarmed,766446.5415,BROOKVIEW ST,2930456.7630000003,2015
+231272,152043145.0,Tuesday,No,2015-05-26T11:00:00.000,InvPer,"[-71.064325, 42.312501]",Point,InvPer,5,IVPER,0,C11,Day,No,HANCOCK ST,Part three,Unarmed,774006.1041,,2939204.54,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2516,152046555.0,Thursday,No,2015-06-04T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,6,LARCEN,0,E13,First,No,MCBRIDE ST,Part three,Unarmed,,,,2015
+55371,152046201.0,Thursday,No,2015-06-04T13:00:00.000,PropLost,"[-71.063705, 42.282481]",Point,PropLost,6,IVPER,0,C11,Day,No,VAN WINKLE ST,Part three,Unarmed,774229.7543,,2928265.671,2015
+59883,152046176.0,Thursday,No,2015-06-04T08:15:00.000,PropLost,"[-71.10383, 42.322836]",Point,PropLost,6,PROP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2015
+64259,152046261.0,Thursday,No,2015-06-04T15:30:00.000,PropLost,"[-71.07893, 42.382376]",Point,PropLost,6,INVEST,0,A15,Day,No,CAMBRIDGE ST,Part three,Unarmed,769930.1425,,2964648.47,2015
+64392,152047315.0,Thursday,No,2015-06-04T00:00:00.000,PropLost,"[-71.068825, 42.303566]",Point,PropLost,6,LARCEN,0,C11,Last,No,LEVANT ST,Part three,Unarmed,772805.4353,,2935942.3030000003,2015
+108212,152046504.0,Thursday,No,2015-06-04T17:30:00.000,PropLost,"[-71.14941, 42.355611]",Point,PropLost,6,PROP,0,D14,First,No,MARKET ST,Part three,Unarmed,750928.2947,,2954808.582,2015
+167789,152047516.0,Thursday,No,2015-06-04T00:00:00.000,PropLost,"[-71.101332, 42.326991]",Point,PropLost,6,BE,0,B2,Last,No,WENSLEY ST,Part three,Other,763971.8476,,2944435.8210000005,2015
+222465,152047136.0,Thursday,No,2015-06-04T14:48:00.000,PropLost,"[-71.060105, 42.357876]",Point,PropLost,6,PROP,0,A1,Day,No,SCHOOL ST,Part three,Unarmed,775062.2215,,2955745.8419999997,2015
+239969,152046127.0,Thursday,No,2015-06-04T00:10:00.000,PropLost,"[-71.133058, 42.351856]",Point,PropLost,6,PROP,0,D14,Last,No,PARK VALE AV,Part three,Unarmed,755353.9397,,2953458.643,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35028,130377378.0,Friday,No,2013-06-21T00:30:00.000,Argue,"[-71.153185, 42.355581]",Point,Argue,6,NIDV  ,939,D14,Last,No,FANEUIL ST,Part three,Unarmed,749907.9949,,2954793.478,2013
+65983,130379179.0,Friday,No,2013-06-21T19:22:00.000,Argue,"[-71.123165, 42.255916]",Point,Argue,6,DISTRB,521,E18,First,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2013
+164956,130378558.0,Friday,No,2013-06-21T14:19:00.000,Argue,"[-71.063588, 42.353669]",Point,Argue,6,DVIP  ,111,A1,Day,No,MASON ST,Part three,Unarmed,774128.6377,,2954207.6539999996,2013

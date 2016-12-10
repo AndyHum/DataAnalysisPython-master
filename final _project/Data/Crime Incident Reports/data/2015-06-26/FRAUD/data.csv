@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33164,,Friday,No,2015-06-26T00:00:00.000,Fraud,"[-71.085824, 42.3097]",Point,11xx,6,IVPER,320,B2,,No,CHENEY ST,Part Two,None,768196.0,,2940000.0,2015
+38606,,Friday,No,2015-06-26T00:00:00.000,Fraud,"[-71.065815, 42.288974]",Point,11xx,6,,817,C11,,No,ARGYLE ST,Part Two,None,773646.0,,2930000.0,2015
+94424,,Friday,No,2015-06-26T00:00:00.000,Fraud,"[-71.082529, 42.27915]",Point,11xx,6,,420,B3,,No,TIVERTON RD,Part Two,None,769142.0,,2930000.0,2015
+167993,,Friday,No,2015-06-26T22:33:00.000,Fraud,"[0, 0]",Point,11xx,6,ARREST,385,C11,,No,HALLET ST,Part Two,None,,,,2015
+172700,,Friday,No,2015-06-26T00:00:00.000,Fraud,"[-71.068344, 42.317827]",Point,11xx,6,,258,B2,,No,NONQUIT ST,Part Two,None,772909.0,,2940000.0,2015

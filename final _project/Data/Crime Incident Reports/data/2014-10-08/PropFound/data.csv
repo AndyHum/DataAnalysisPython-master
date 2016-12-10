@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86142,142037255.0,Wednesday,No,2014-10-08T18:00:00.000,PropFound,"[-71.13517, 42.285076]",Point,PropFound,10,IVPREM,0,E5,First,No,HASLET ST,Part three,Other,754887.1647,,2929120.51,2014
+151299,142037083.0,Wednesday,No,2014-10-08T12:15:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,10,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+168441,142039877.0,Wednesday,No,2014-10-08T22:00:00.000,PropFound,"[-71.071695, 42.345491]",Point,PropFound,10,PROP,0,D4,First,No,GRAY ST,Part three,Unarmed,771952.3501,,2951216.5710000005,2014
+260840,142037279.0,Wednesday,No,2014-10-08T19:30:00.000,PropFound,"[0, 0]",Point,PropFound,10,IVPREM,0,A7,First,No,CENTRAL SQ,Part three,Unarmed,,,,2014

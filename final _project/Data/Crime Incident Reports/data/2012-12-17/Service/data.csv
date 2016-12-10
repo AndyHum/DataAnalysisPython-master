@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56223,120788447.0,Monday,No,2012-12-17T08:56:00.000,Service,"[-71.070539, 42.312118]",Point,Service,12,ARREST,331,B2,Day,No,DRAPERS LA,Part Three,Unarmed,772325.9185,,2939056.353,2012
+59824,120789919.0,Monday,No,2012-12-17T21:00:00.000,Service,"[-71.148575, 42.287141]",Point,Service,12,IVPER ,691,E5,First,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2012
+147136,120788913.0,Monday,No,2012-12-17T13:04:00.000,Service,"[-71.123782, 42.253134]",Point,Service,12,SSTOP ,0,E18,Day,No,DANA AV,Part Three,Knife,758019.8943,,2917493.56,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+163319,120679994.0,Sunday,No,2012-10-28T11:47:00.000,Service,"[-71.098117, 42.315705]",Point,Service,10,ARREST,311,E13,Day,No,COLUMBUS AV,Part Three,Unarmed,764860.7468,WASHINGTON ST,2940327.014,2012
+187951,120680567.0,Sunday,No,2012-10-28T17:38:00.000,Service,"[-71.132568, 42.238048]",Point,Service,10,ARREST,527,E18,First,No,HYDE PARK AV,Part Three,Unarmed,755665.0627,NEPONSET VALLEY PY,2911985.7169999997,2012
+221817,120679859.0,Sunday,No,2012-10-28T10:07:00.000,Service,"[-71.089445, 42.290051]",Point,Service,10,ARREST,439,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,767251.1994,,2930989.709,2012

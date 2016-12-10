@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25017,130342807.0,Monday,No,2013-06-03T08:00:00.000,PhoneCalls,"[-71.07822, 42.339581]",Point,PhoneCalls,6,VIORDR,156,D4,Day,No,WORCESTER ST,Part three,Unarmed,770199.0842,,2949054.067,2013
+53513,130335707.0,Monday,No,2013-06-03T18:00:00.000,PhoneCalls,"[-71.13241, 42.353026]",Point,PhoneCalls,6,HARPT ,802,D14,First,No,BRIGHTON AV,Part three,Unarmed,755527.2809,,2953885.8989999997,2013
+153966,130335964.0,Monday,No,2013-06-03T16:00:00.000,PhoneCalls,"[-71.088325, 42.284031]",Point,PhoneCalls,6,HARPT ,429,B3,First,No,THEODORE ST,Part Three,Unarmed,767564.8231,,2928797.397,2013

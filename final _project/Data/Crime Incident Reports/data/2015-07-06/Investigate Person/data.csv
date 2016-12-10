@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8647,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.087708, 42.314421]",Point,InvPer,7,IVPER,315,B2,,No,WAUMBECK ST,Part Three,None,767678.0,,2940000.0,2015
+26773,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.130956, 42.259926]",Point,InvPer,7,FIGHT,545,E18,,No,GORDON AVE,Part Three,None,756067.0,,2920000.0,2015
+29672,,Monday,No,2015-07-06T18:43:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,INVEST,253,C11,,No,EVERETT ST,Part Three,None,,PARK ST,,2015
+38928,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.063488, 42.349973]",Point,InvPer,7,IVPER,123,A1,,No,WASHINGTON ST,Part Three,None,774162.0,,2950000.0,2015
+121113,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.072425, 42.32197]",Point,InvPer,7,AB,262,B2,,No,DUDLEY ST,Part Three,None,771798.0,,2940000.0,2015
+128523,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.075995, 42.291389]",Point,InvPer,7,IVPER,438,B3,,No,TALBOT AVE,Part Three,None,770888.0,,2930000.0,2015
+144021,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.081384, 42.321948]",Point,InvPer,7,NIDV,296,B2,,No,COPELAND ST,Part Three,None,769375.0,,2940000.0,2015
+145645,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.071296, 42.332337]",Point,InvPer,7,IVPER,175,C6,,No,SOUTHAMPTON ST,Part Three,None,772084.0,,2950000.0,2015
+176423,,Monday,No,2015-07-06T20:00:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,IVPER,608,E13,,No,BYNNER ST,Part Three,None,,JAMAICAWAY,,2015
+192414,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.051986, 42.336667]",Point,InvPer,7,IVPER,214,C6,,No,BOWEN ST,Part Three,None,777297.0,,2950000.0,2015
+195022,,Monday,No,2015-07-06T12:00:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,,573,E13,,No,UNION AVE,Part Three,None,,,,2015
+224687,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.06957, 42.356455]",Point,InvPer,7,ALARM,70,A1,,No,CHARLES ST,Part Three,None,772507.0,,2960000.0,2015
+254472,,Monday,No,2015-07-06T00:00:00.000,Investigate Person,"[-71.057414, 42.380205]",Point,InvPer,7,IVPER,43,A15,,No,OLD IRONSIDES WAY,Part Three,None,775747.0,,2960000.0,2015

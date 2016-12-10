@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26360,,Saturday,No,2015-06-20T20:01:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,PKNIFE,305,B2,,No,MARTIN LUTHER KING JR BLVD,Part One,Other,, WASHINGTON ST ,,2015
+33414,,Saturday,No,2015-06-20T20:40:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,STAB,820,D14,,No,CAMBRIDGE ST,Part One,Knife/Cutting Instrument,,LINDEN ST,,2015
+45751,,Saturday,No,2015-06-20T00:00:00.000,Aggravated Assault,"[-71.008939, 42.392146]",Point,04xx,6,ARREST,942,A7,,No,FAYWOOD AVE,Part One,Other,788819.0,,2970000.0,2015
+104775,,Saturday,No,2015-06-20T00:00:00.000,Aggravated Assault,"[-71.126735, 42.359707]",Point,04xx,6,AB,814,D14,,No,HOPEDALE ST,Part One,Blunt Object,757050.0,,2960000.0,2015
+115666,,Saturday,No,2015-06-20T00:00:00.000,Aggravated Assault,"[-71.072183, 42.304815]",Point,04xx,6,STAB,337,C11,,No,EVERTON ST,Part One,Knife/Cutting Instrument,771895.0,,2940000.0,2015
+154456,,Saturday,No,2015-06-20T00:00:00.000,Aggravated Assault,"[-71.081288, 42.300859]",Point,04xx,6,IVPER,456,B3,,No,FOWLER ST,Part One,Blunt Object,769439.0,,2930000.0,2015
+187805,,Saturday,No,2015-06-20T00:00:00.000,Aggravated Assault,"[-71.091825, 42.282829]",Point,04xx,6,AB,465,B3,,No,BLUE HILL AVE,Part One,Other,766620.0,,2930000.0,2015
+224485,,Saturday,No,2015-06-20T00:00:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,PSHOT,238,B2,,Yes,DUDLEY ST,Part One,Firearm,,WENDOVER ST,,2015
+240775,,Saturday,No,2015-06-20T12:30:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,ASLTIP,943,B3,,No,STANDARD ST,Part One,Knife/Cutting Instrument,,,,2015

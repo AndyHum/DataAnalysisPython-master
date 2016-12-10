@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51168,152018927.0,Saturday,No,2015-02-07T14:30:00.000,PropLost,"[-71.065185, 42.307956]",Point,PropLost,2,PROP,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773781.9406,,2937547.084,2015
+111668,152011287.0,Saturday,No,2015-02-07T10:00:00.000,PropLost,"[-71.054663, 42.334147]",Point,PropLost,2,LARCEN,0,C6,Day,No,OLD COLONY AV,Part three,Unarmed,776578.2112,,2947106.042,2015
+234355,152010211.0,Saturday,No,2015-02-07T16:45:00.000,PropLost,"[-71.101403, 42.263859]",Point,PropLost,2,PROP,0,E18,First,No,RIVER ST,Part three,Unarmed,764060.2484,,2921429.3239999996,2015
+260375,152010245.0,Saturday,No,2015-02-07T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,2,ROBBER,0,D4,First,No,LENOX ST,Part three,Unarmed,,,,2015

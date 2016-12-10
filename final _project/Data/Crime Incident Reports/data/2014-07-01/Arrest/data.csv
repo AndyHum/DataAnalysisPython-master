@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123477,142004959.0,Tuesday,No,2014-07-01T18:34:00.000,Arrest,"[-71.083825, 42.301956]",Point,Arrest,7,SS,0,B3,First,No,ELLINGTON ST,Part three,Unarmed,768750.6327,,2935335.441,2014
+154316,142005017.0,Tuesday,No,2014-07-01T20:45:00.000,Arrest,"[-71.04025, 42.380531]",Point,Arrest,7,CD11,0,A7,First,No,BORDER ST,Part three,Unarmed,780384.1047,WHITE ST,2964030.0719999997,2014
+183431,142004940.0,Tuesday,No,2014-07-01T18:00:00.000,Arrest,"[-71.07091, 42.326291]",Point,Arrest,7,INVEST,0,B2,First,No,NORFOLK ST,Part three,Unarmed,772199.7604,PROCTOR ST,2944220.815,2014
+207527,142004986.0,Tuesday,No,2014-07-01T19:00:00.000,Arrest,"[-71.106503, 42.326544]",Point,Arrest,7,IVPER,0,E13,First,No,HEATH ST,Part three,Unarmed,762574.3166,,2944266.457,2014

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48987,152026273.0,Wednesday,No,2015-04-01T04:45:00.000,InvProp,"[-71.068135, 42.325701]",Point,InvProp,4,ALARM,0,B2,Last,No,SHIRLEY ST,Part three,Other,772951.2457,,2944009.597,2015
+145065,152026686.0,Wednesday,No,2015-04-01T17:20:00.000,InvProp,"[-71.114273, 42.311901]",Point,InvProp,4,LARCEN,0,E13,First,No,CENTRE ST,Part three,Unarmed,760497.2545,,2938920.7630000003,2015
+165974,152026271.0,Wednesday,No,2015-04-01T04:00:00.000,InvProp,"[-71.0678, 42.348111]",Point,InvProp,4,ALARM,0,A1,Last,No,TREMONT ST,Part three,Unarmed,773000.4559,,2952176.6580000003,2015
+203626,152026446.0,Wednesday,No,2015-04-01T15:40:00.000,InvProp,"[-71.04723, 42.319566]",Point,InvProp,4,SUSOBJ,0,C6,Day,No,MT VERNON ST,Part three,Unarmed,778616.1691,,2941803.2180000003,2015
+217288,152026508.0,Wednesday,No,2015-04-01T18:25:00.000,InvProp,"[-71.113647, 42.291594]",Point,InvProp,4,ALARM,0,E13,First,No,EASTLAND RD,Part three,Unarmed,760700.1554,,2931521.232,2015
+221525,152026630.0,Wednesday,No,2015-04-01T18:00:00.000,InvProp,"[-71.05533, 42.339601]",Point,InvProp,4,VAND,0,C6,First,No,B ST,Part three,Other,776387.522,,2949092.787,2015
+234764,152026409.0,Wednesday,No,2015-04-01T14:03:00.000,InvProp,"[-71.106952, 42.264486]",Point,InvProp,4,ALARM,0,E18,Day,No,BLAKE ST,Part three,Unarmed,762557.0837,,2921650.892,2015
+238609,152026324.0,Wednesday,No,2015-04-01T10:07:00.000,InvProp,"[-71.071598, 42.293363]",Point,InvProp,4,ALARM,0,C11,Day,No,MELVILLE AV,Part three,Unarmed,772073.8459,,2932220.186,2015
+267190,152026259.0,Wednesday,No,2015-04-01T00:24:00.000,InvProp,"[0, 0]",Point,InvProp,4,REQP,0,C11,Last,No,HALLET ST,Part three,Unarmed,,,,2015
+267219,152026551.0,Wednesday,No,2015-04-01T21:33:00.000,InvProp,"[0, 0]",Point,InvProp,4,SHOTS,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,,ESSEX ST,,2015

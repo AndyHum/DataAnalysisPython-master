@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59293,,Thursday,No,2015-07-16T00:00:00.000,Towed,"[-71.073294, 42.346795]",Point,Towed,7,IVMV,150,D4,,No,CLARENDON ST,Part Three,None,771518.0,,2950000.0,2015
+83913,,Thursday,No,2015-07-16T00:00:00.000,Towed,"[-71.150615, 42.353738]",Point,Towed,7,IVMV,769,D14,,No,MARKET ST,Part Three,None,750605.0,,2950000.0,2015
+190746,,Thursday,No,2015-07-16T00:00:00.000,Towed,"[-71.090736, 42.313024]",Point,Towed,7,IVMV,316,B2,,No,RUTHVEN ST,Part Three,None,766862.0,,2940000.0,2015

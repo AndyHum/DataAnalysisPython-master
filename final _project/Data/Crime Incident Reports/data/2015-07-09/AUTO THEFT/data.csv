@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81625,,Thursday,No,2015-07-09T00:00:00.000,Auto Theft,"[-71.055377, 42.314922]",Point,07xx,7,IVMV,338,C11,,No,NAVILLUS TER,Part One,None,776422.0,,2940000.0,2015
+86318,,Thursday,No,2015-07-09T19:30:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,89,A1,,No,COMMERCIAL ST,Part One,None,,RICHMOND ST,,2015
+122748,,Thursday,No,2015-07-09T00:00:00.000,Auto Theft Recovery,"[-71.060522, 42.289433]",Point,07RV,7,IVMV,366,C11,,No,EDWIN ST,Other,None,775078.0,,2930000.0,2015
+139270,,Thursday,No,2015-07-09T00:00:00.000,Auto Theft,"[-71.092592, 42.329808]",Point,07xx,7,IVMV,291,B2,,No,CENTRE ST,Part One,None,766330.0,,2950000.0,2015
+154950,,Thursday,No,2015-07-09T00:00:00.000,Auto Theft,"[-71.127738, 42.282445]",Point,07xx,7,,558,E5,,No,POPLAR ST,Part One,None,756902.0,,2930000.0,2015
+174441,,Thursday,No,2015-07-09T00:00:00.000,Auto Theft Recovery,"[-71.138525, 42.355954]",Point,07RV,7,IVMV,804,D14,,No,EVERETT ST,Other,None,753870.0,,2950000.0,2015
+214009,,Thursday,No,2015-07-09T00:00:00.000,Auto Theft,"[-71.145757, 42.343599]",Point,07xx,7,IVMV,785,D14,,No,EUSTON RD,Part One,None,751934.0,,2950000.0,2015
+221986,,Thursday,No,2015-07-09T00:00:00.000,Auto Theft,"[-71.109949, 42.272986]",Point,07xx,7,IVMV,478,E18,,No,WOOD AVE,Part One,None,761732.0,,2920000.0,2015

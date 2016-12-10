@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8639,130252534.0,Monday,No,2013-04-29T16:59:00.000,InvProp,"[-71.077794, 42.318561]",Point,InvProp,4,VANRPT,264,B2,First,No,BLUE HILL AV,Part Three,Unarmed,770352.079,,2941394.42,2013
+18344,130251285.0,Monday,No,2013-04-29T01:55:00.000,InvProp,"[-71.10153, 42.322861]",Point,InvProp,4,CD19  ,564,E13,Last,No,CENTRE ST,Part Three,Unarmed,763925.5141,,2942930.6960000005,2013
+168110,130252301.0,Monday,No,2013-04-29T14:22:00.000,InvProp,"[-71.076285, 42.317841]",Point,InvProp,4,IVPER ,324,B2,Day,No,DACIA ST,Part Three,Unarmed,770761.5801,,2941134.228,2013
+191539,130251816.0,Monday,No,2013-04-29T11:00:00.000,InvProp,"[-71.16778, 42.284741]",Point,InvProp,4,IVPREM,731,E5,Day,No,TEMPLE ST,Part Three,Unarmed,746063.6579,VARICK RD,2928962.376,2013

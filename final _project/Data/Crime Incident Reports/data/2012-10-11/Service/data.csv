@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26029,120641332.0,Thursday,No,2012-10-11T18:03:00.000,Service,"[-71.07799, 42.301961]",Point,Service,10,AOD   ,455,B3,First,No,NORWELL ST,Part Three,Unarmed,770329.0944,,2935345.017,2012
+61393,120640146.0,Thursday,No,2012-10-11T09:27:00.000,Service,"[-71.033025, 42.377876]",Point,Service,10,IVPER ,19,A7,Day,No,SARATOGA ST,Part Three,Unarmed,782341.4644,,2963073.142,2012
+142726,120641550.0,Thursday,No,2012-10-11T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,10,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+191498,120641753.0,Thursday,No,2012-10-11T22:14:00.000,Service,"[-71.08046, 42.335661]",Point,Service,10,ARREST,903,D4,First,No,SHAWMUT AV,Part Three,Unarmed,769600.5096,,2947622.561,2012
+224950,120640264.0,Thursday,No,2012-10-11T10:21:00.000,Service,"[-71.095445, 42.349201]",Point,Service,10,ARREST,622,D4,Day,No,BEACON ST,Part Three,Unarmed,765525.5483,,2952537.22,2012
+239126,120640268.0,Thursday,No,2012-10-11T10:24:00.000,Service,"[-71.03434, 42.334776]",Point,Service,10,ARREST,226,C6,Day,No,E 4TH ST,Part Three,Unarmed,782071.9089,,2947364.7589999996,2012

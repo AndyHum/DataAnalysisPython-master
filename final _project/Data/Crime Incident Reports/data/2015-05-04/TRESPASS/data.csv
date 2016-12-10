@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13361,152036232.0,Monday,No,2015-05-04T08:20:00.000,TRESPASS,"[-71.071595, 42.320471]",Point,TRESPASS,5,BE,0,B2,Day,No,DUDLEY ST,Part Two,Unarmed,772025.179,,2942098.979,2015
+195641,152036515.0,Monday,No,2015-05-04T18:25:00.000,TRESPASS,"[-71.08411, 42.328726]",Point,TRESPASS,5,IVPREM,0,B2,First,No,DUDLEY ST,Part Two,Unarmed,768625.9666,,2945090.4910000004,2015
+241695,152036346.0,Monday,No,2015-05-04T14:15:00.000,TRESPASS,"[-71.09279, 42.335528]",Point,TRESPASS,5,IVPER,0,B2,Day,No,ANNUNCIATION RD,Part Two,Unarmed,766266.9936,,2947557.934,2015
+252839,152036517.0,Monday,No,2015-05-04T18:30:00.000,TRESPASS,"[-71.077661, 42.330753]",Point,TRESPASS,5,IVPER,0,B2,First,No,ALBANY ST,Part Two,Unarmed,770366.1347,,2945837.597,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87142,130288662.0,Wednesday,No,2013-05-15T00:40:00.000,InvProp,"[-71.0535, 42.300301]",Point,InvProp,5,SHOTS ,253,C11,Last,No,ASHLAND ST,Part Three,Other,776957.2439,ELM ST,2934773.817,2013
+90934,130289609.0,Wednesday,No,2013-05-15T13:19:00.000,InvProp,"[-71.08483, 42.346381]",Point,InvProp,5,IVPREM,144,D4,Day,No,DALTON ST,Part Three,Unarmed,768399.9598,,2951523.3460000004,2013
+106296,130289859.0,Wednesday,No,2013-05-15T12:27:00.000,InvProp,"[-71.08483, 42.346381]",Point,InvProp,5,FDPROP,0,D4,Day,No,DALTON ST,Part Three,Unarmed,768399.9598,,2951523.3460000004,2013
+121198,130289863.0,Wednesday,No,2013-05-15T08:00:00.000,InvProp,"[-71.056955, 42.303376]",Point,InvProp,5,BIOT  ,350,C11,Day,No,FENTON ST,Part Three,Unarmed,776016.7599,,2935889.52,2013
+135852,130288836.0,Wednesday,No,2013-05-15T04:00:00.000,InvProp,"[-71.140345, 42.358801]",Point,InvProp,5,ALARMC,808,D14,Last,No,ANTWERP ST,Part three,Unarmed,753373.5703,,2955981.285,2013
+156517,130289468.0,Wednesday,No,2013-05-15T11:21:00.000,InvProp,"[-71.09037, 42.315906]",Point,InvProp,5,REQP  ,312,B2,Day,No,HOLLANDER ST,Part three,Unarmed,766955.4726,,2940410.3619999997,2013

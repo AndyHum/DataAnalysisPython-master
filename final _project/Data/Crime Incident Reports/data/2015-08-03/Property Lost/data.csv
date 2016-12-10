@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8485,,Monday,No,2015-08-03T00:00:00.000,Property Lost,"[-71.055063, 42.287872]",Point,PropLost,8,PROP,378,C11,,No,ADAMS ST,Part Three,None,776558.0,,2930000.0,2015
+30278,,Monday,No,2015-08-03T00:00:00.000,Property Lost,"[-71.100879, 42.324694]",Point,PropLost,8,PROP,912,E13,,No,PARKER ST,Part Three,None,764098.0,,2940000.0,2015
+31982,,Monday,No,2015-08-03T00:00:00.000,Property Lost,"[-71.12418, 42.255469]",Point,PropLost,8,PROP,521,E18,,No,HYDE PARK AVE,Part Three,None,757908.0,,2920000.0,2015
+86676,,Monday,No,2015-08-03T00:00:00.000,Property Lost,"[-71.070249, 42.325877]",Point,PropLost,8,PROP,181,B2,,No,NORFOLK AVE,Part Three,None,772379.0,,2940000.0,2015
+96267,,Monday,No,2015-08-03T00:00:00.000,Property Lost,"[-71.053833, 42.31705]",Point,PropLost,8,,0,,,No,HARBOR VIEW,Part Three,None,776835.0,SPRING GARDEN ST,2940000.0,2015
+107543,,Monday,No,2015-08-03T00:00:00.000,Property Lost,"[-71.084824, 42.329259]",Point,PropLost,8,PROP,280,B2,,No,WASHINGTON ST,Part Three,None,768432.0,,2950000.0,2015
+165661,,Monday,No,2015-08-03T17:00:00.000,Property Lost,"[0, 0]",Point,PropLost,8,PROP,0,,,No,,Part Three,None,,CONGRESS ST,,2015
+166294,,Monday,No,2015-08-03T00:00:00.000,Property Lost,"[-71.058524, 42.359721]",Point,PropLost,8,PROP,92,A1,,No,CITY HALL PLZ,Part Three,None,775486.0,,2960000.0,2015
+184951,,Monday,No,2015-08-03T00:00:00.000,Property Lost,"[-71.077964, 42.32573]",Point,PropLost,8,PROP,267,B2,,No,MOUNT PLEASANT AVE,Part Three,None,770293.0,,2940000.0,2015

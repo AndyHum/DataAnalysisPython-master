@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21270,130590756.0,Monday,No,2013-09-16T15:00:00.000,Service,"[-71.101634, 42.271637]",Point,Service,9,LARCRT,475,B3,Day,No,CORMAN RD,Part three,Unarmed,763984.3525,,2924263.637,2013
+53065,130590896.0,Monday,No,2013-09-16T07:00:00.000,Service,"[-71.12435, 42.253991]",Point,Service,9,LARCRT,523,E18,Last,No,HYDE PARK AV,Part three,Unarmed,757864.8470000001,DANA AV,2917805.414,2013
+111660,130589572.0,Monday,No,2013-09-16T08:33:00.000,Service,"[-71.069675, 42.290772]",Point,Service,9,ARREST,397,C11,Day,No,CENTRE ST,Part three,Unarmed,772598.8888,,2931278.689,2013
+125345,130589786.0,Monday,No,2013-09-16T09:30:00.000,Service,"[-71.064905, 42.352371]",Point,Service,9,ARREST,119,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+170548,130589833.0,Monday,No,2013-09-16T09:53:00.000,Service,"[-71.059987, 42.361648]",Point,Service,9,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+204101,130589140.0,Monday,No,2013-09-16T00:23:00.000,Service,"[-71.05677, 42.320701]",Point,Service,9,SSTOP ,236,C11,Last,No,COLUMBIA RD,Part three,Unarmed,776033.9979,DORCHESTER AV,2942203.2789999996,2013
+265377,142058305.0,Monday,No,2013-09-16T09:00:00.000,Service,"[0, 0]",Point,Service,9,ARREST,0,D14,Day,No,BROOK ST,Part three,Unarmed,,,,2013

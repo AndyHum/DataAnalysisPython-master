@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27162,140149016.0,Tuesday,No,2014-03-11T11:08:00.000,Restrain,"[-71.092625, 42.314591]",Point,Restrain,3,VIORDR,316,B2,Day,No,ABBOTTSFORD ST,Part Two,Unarmed,766348.0804,,2939928.345,2014
+194530,140152926.0,Tuesday,No,2014-03-11T15:00:00.000,Restrain,"[-71.03186, 42.381966]",Point,Restrain,3,VIORDR,16,A7,Day,No,FALCON ST,Part Two,Unarmed,782648.0606,,2964565.349,2014
+207521,140150234.0,Tuesday,No,2014-03-11T20:10:00.000,Restrain,"[-71.077555, 42.336891]",Point,Restrain,3,VIORDR,273,D4,First,No,MASSACHUSETTS AV,Part Two,Unarmed,770383.7279,,2948074.672,2014

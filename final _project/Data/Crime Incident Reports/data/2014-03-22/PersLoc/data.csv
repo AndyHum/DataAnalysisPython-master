@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18564,140182783.0,Saturday,No,2014-03-22T08:00:00.000,PersLoc,"[-71.05238, 42.336371]",Point,PersLoc,3,MISPER,200,C6,Day,No,W 6TH ST,Other,Unarmed,777191.2536,,2947919.8910000003,2014
+62504,140175879.0,Saturday,No,2014-03-22T23:00:00.000,PersLoc,"[-71.10526, 42.323331]",Point,PersLoc,3,MSNCOM,582,E13,First,No,GAY HEAD ST,Other,Unarmed,762916.0207,,2943097.2819999997,2014
+149641,140187594.0,Saturday,No,2014-03-22T00:00:00.000,PersLoc,"[-71.095034, 42.275902]",Point,PersLoc,3,MISPER,469,B3,Last,No,TENNIS RD,Other,Unarmed,765763.285,,2925826.202,2014
+170322,140173419.0,Saturday,No,2014-03-22T00:23:00.000,PersLoc,"[-71.092706, 42.319572]",Point,PersLoc,3,MISPER,306,B2,Last,No,TOWNSEND ST,Other,Other,766317.3997,,2941743.244,2014
+182279,140175429.0,Saturday,No,2014-03-22T08:30:00.000,PersLoc,"[-71.069315, 42.313072]",Point,PersLoc,3,MISPER,331,B2,Day,No,GLENDALE ST,Other,Unarmed,772655.2814,,2939405.653,2014
+192214,140174549.0,Saturday,No,2014-03-22T16:20:00.000,PersLoc,"[-71.084605, 42.285364]",Point,PersLoc,3,MISPER,432,B3,First,No,MASCOT ST,Other,Unarmed,768569.032,,2929287.8910000003,2014
+254392,140174448.0,Saturday,No,2014-03-22T14:30:00.000,PersLoc,"[-71.07825, 42.335516]",Point,PersLoc,3,FDCHLD,273,D4,Day,No,WASHINGTON ST,Other,Unarmed,770198.2968,,2947572.668,2014
+263321,140175350.0,Saturday,No,2014-03-22T11:20:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,CURFEW,503,B3,Day,No,W MAIN ST,Other,Unarmed,,,,2014

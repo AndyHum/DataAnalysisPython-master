@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37551,152039916.0,Friday,No,2015-05-15T18:15:00.000,TRESPASS,"[-71.07463, 42.335321]",Point,TRESPASS,5,ARREST,0,D4,First,No,HARRISON AV,Part Two,Unarmed,771177.4087,,2947506.466,2015
+72804,152039732.0,Friday,No,2015-05-15T09:15:00.000,TRESPASS,"[-71.041515, 42.371511]",Point,TRESPASS,5,ARREST,0,A7,Day,No,LIVERPOOL ST,Part Two,Unarmed,780059.9946,,2960741.1610000003,2015
+244673,152040425.0,Friday,No,2015-05-15T23:30:00.000,TRESPASS,"[-71.135972, 42.292479]",Point,TRESPASS,5,IVPER,0,E5,First,No,ARDALE ST,Part Two,Unarmed,754658.4975,,2931817.288,2015

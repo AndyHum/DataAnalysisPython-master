@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+218571,130593164.0,Saturday,No,2013-09-14T23:00:00.000,STOLEN PROPERTY CHARGES,"[-71.05405, 42.295606]",Point,13xx,9,IVPREM,365,C11,First,No,NEPONSET AV,Part Two,Unarmed,776817.402,,2933062.113,2013
+224633,130586131.0,Saturday,No,2013-09-14T20:11:00.000,STOLEN PROPERTY CHARGES,"[-71.061745, 42.356021]",Point,13xx,9,IVPER ,111,A1,First,No,WINTER ST,Part Two,Unarmed,774622.4376,,2955067.563,2013
+231835,130585479.0,Saturday,No,2013-09-14T13:15:00.000,STOLEN PROPERTY CHARGES,"[-71.074985, 42.342171]",Point,13xx,9,ARREST,153,D4,Day,No,TREMONT ST,Part Two,Other,771068.9870000001,,2950002.251,2013

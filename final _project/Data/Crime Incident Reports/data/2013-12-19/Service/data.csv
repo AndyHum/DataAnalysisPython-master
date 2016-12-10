@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5722,130797891.0,Thursday,No,2013-12-19T15:30:00.000,Service,"[-71.076145, 42.282366]",Point,Service,12,ARREST,418,B3,Day,No,MILTON AV,Part three,Unarmed,770863.6843,,2928206.789,2013
+25803,130798253.0,Thursday,No,2013-12-19T17:45:00.000,Service,"[-71.07597, 42.307461]",Point,Service,12,SSTOP ,337,C11,First,No,COLUMBIA RD,Part three,Unarmed,770865.578,DEVON ST,2937352.012,2013
+50234,130796706.0,Thursday,No,2013-12-19T01:15:00.000,Service,"[-71.08046, 42.335661]",Point,Service,12,IVPER ,0,D4,Last,No,SHAWMUT AV,Part three,Unarmed,769600.5096,,2947622.561,2013
+55673,130797653.0,Thursday,No,2013-12-19T13:25:00.000,Service,"[-71.05944, 42.363946]",Point,Service,12,ARREST,76,A1,Day,No,CANAL ST,Part three,Unarmed,775230.5321,,2957958.797,2013
+100544,130798038.0,Thursday,No,2013-12-19T16:30:00.000,Service,"[-71.05842, 42.357421]",Point,Service,12,ARREST,97,A1,First,No,SCHOOL ST,Part three,Unarmed,775518.4991,WASHINGTON ST,2955582.383,2013
+101635,130796765.0,Thursday,No,2013-12-19T03:46:00.000,Service,"[-71.06223, 42.364936]",Point,Service,12,ARREST,75,A1,Last,No,CAUSEWAY ST,Part three,Unarmed,774474.6741,,2958315.689,2013
+150501,130800722.0,Thursday,No,2013-12-19T16:00:00.000,Service,"[-71.101108, 42.318551]",Point,Service,12,IVPREM,948,E13,First,No,AMORY ST,Part three,Other,764046.9216,,2941360.313,2013
+196337,130797717.0,Thursday,No,2013-12-19T13:54:00.000,Service,"[-71.064376, 42.317463]",Point,Service,12,IVPER ,0,B2,Day,No,COLUMBIA RD,Part three,Unarmed,773983.0238,STOUGHTON ST,2941012.528,2013
+219678,130800496.0,Thursday,No,2013-12-19T17:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,12,MISC  ,257,C11,First,No,HANCOCK ST,Part three,Other,774845.858,,2938432.619,2013
+262558,140119877.0,Thursday,No,2013-12-19T13:23:00.000,Service,"[0, 0]",Point,Service,12,IVDRUG,0,D14,Day,No,BEACON ST,Part three,Unarmed,,,,2013
+266211,140119885.0,Thursday,No,2013-12-19T13:23:00.000,Service,"[0, 0]",Point,Service,12,IVDRUG,0,D14,Day,No,GREEN ST,Part three,Unarmed,,,,2013

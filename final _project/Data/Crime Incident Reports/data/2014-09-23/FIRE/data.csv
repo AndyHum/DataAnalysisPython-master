@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54317,142032193.0,Tuesday,No,2014-09-23T11:15:00.000,FIRE,"[-71.109045, 42.333011]",Point,FIRE,9,FIRE,0,B2,Day,No,SHEPHERD AV,Part three,Unarmed,761876.2846,,2946620.133,2014
+100869,142032233.0,Tuesday,No,2014-09-23T15:15:00.000,FIRE,"[-71.074985, 42.342171]",Point,FIRE,9,FIRE,0,D4,Day,No,TREMONT ST,Part three,Unarmed,771068.9870000001,,2950002.251,2014
+132022,142032120.0,Tuesday,No,2014-09-23T09:24:00.000,FIRE,"[-71.07221, 42.290846]",Point,FIRE,9,FO,0,B3,Day,No,SOUTHERN AV,Part three,Unarmed,771913.003,,2931302.336,2014

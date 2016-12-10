@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8120,140358396.0,Saturday,No,2014-06-07T09:47:00.000,Service,"[-71.05828, 42.357541]",Point,Service,6,SSTOP ,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775556.1122,SPRING LA,2955626.31,2014
+27863,140359171.0,Saturday,No,2014-06-07T16:20:00.000,Service,"[-71.03981, 42.376191]",Point,Service,6,ARREST,27,A7,First,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2014
+67028,140360061.0,Saturday,No,2014-06-07T17:45:00.000,Service,"[-71.06942, 42.362401]",Point,Service,6,INVEST,64,A1,First,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+246550,140358292.0,Saturday,No,2014-06-07T08:37:00.000,Service,"[-71.12279, 42.291426]",Point,Service,6,IVPER ,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,758226.8467,,2931449.1180000002,2014

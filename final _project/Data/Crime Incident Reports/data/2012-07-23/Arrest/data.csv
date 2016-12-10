@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88051,120454024.0,Monday,No,2012-07-23T12:38:00.000,Arrest,"[-71.10907, 42.338411]",Point,Arrest,7,IVPER ,613,B2,Day,No,DEACONESS RD,Part Three,Unarmed,761860.5061,,2948587.962,2012
+126827,120454167.0,Monday,No,2012-07-23T14:00:00.000,Arrest,"[-71.07843, 42.349776]",Point,Arrest,7,ARREST,0,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770123.9452,,2952769.035,2012
+127496,120453994.0,Monday,No,2012-07-23T12:19:00.000,Arrest,"[-71.13907, 42.277856]",Point,Arrest,7,CD11  ,685,E5,Day,No,HAYDN ST,Part Three,Unarmed,753842.9942,,2926484.9460000005,2012

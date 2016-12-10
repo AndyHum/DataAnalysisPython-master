@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105477,130441989.0,Wednesday,No,2013-07-17T09:30:00.000,FIRE,"[-71.08806, 42.297106]",Point,FIRE,7,FIREB ,463,B3,Day,No,CALDER ST,Part three,Unarmed,767613.5228,,2933562.4639999997,2013
+174722,130442397.0,Wednesday,No,2013-07-17T12:34:00.000,FIRE,"[-71.093739, 42.334956]",Point,FIRE,7,FV    ,911,B2,Day,No,ANNUNCIATION RD,Part three,Unarmed,766011.2668,,2947348.014,2013
+203787,130442190.0,Wednesday,No,2013-07-17T11:03:00.000,FIRE,"[-71.05301, 42.357526]",Point,FIRE,7,FIREB ,100,A1,Day,No,BROAD ST,Part three,Unarmed,776980.5185,,2955628.265,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66671,142037653.0,Thursday,No,2014-10-09T10:40:00.000,Arrest,"[-71.0626, 42.352361]",Point,Arrest,10,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+201457,142037388.0,Thursday,No,2014-10-09T08:40:00.000,Arrest,"[-71.096606, 42.28424]",Point,Arrest,10,ARREST,0,B3,Day,No,WESTMORE RD,Part three,Unarmed,765323.5602,,2928862.752,2014
+232245,142037329.0,Thursday,No,2014-10-09T00:59:00.000,Arrest,"[-71.05201, 42.355211]",Point,Arrest,10,SS,0,A1,Last,No,PURCHASE ST,Part three,Unarmed,777255.2287,SEAPORT BL,2954786.0519999997,2014
+242829,142037652.0,Thursday,No,2014-10-09T22:00:00.000,Arrest,"[-71.03472, 42.378411]",Point,Arrest,10,ARREST,0,A7,First,No,BROOKS ST,Part three,Unarmed,781882.4253,,2963265.603,2014

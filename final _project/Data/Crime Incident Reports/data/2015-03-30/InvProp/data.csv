@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2338,152025839.0,Monday,No,2015-03-30T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+80587,152025785.0,Monday,No,2015-03-30T11:35:00.000,InvProp,"[-71.063107, 42.301073]",Point,InvProp,3,STAB,0,C11,Day,No,ARCADIA PARK,Part three,Unarmed,774356.6356,,2935041.712,2015
+267119,152025744.0,Monday,No,2015-03-30T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,MORRISSEY BL,Part three,Other,,,,2015

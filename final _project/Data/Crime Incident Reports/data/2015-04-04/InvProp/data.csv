@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39962,152027494.0,Saturday,No,2015-04-04T19:30:00.000,InvProp,"[-71.094565, 42.313746]",Point,InvProp,4,SSA,0,E13,First,No,WALNUT AV,Part three,Other,765824.8413,,2939617.912,2015
+216271,152027546.0,Saturday,No,2015-04-04T22:51:00.000,InvProp,"[-71.066256, 42.288553]",Point,InvProp,4,SHOTS,0,C11,First,No,TALBOT AV,Part three,Unarmed,773528.0244,WELLES AV,2930474.905,2015
+246358,152027288.0,Saturday,No,2015-04-04T00:47:00.000,InvProp,"[-71.067055, 42.290376]",Point,InvProp,4,SHOTS,0,C11,Last,No,WAINWRIGHT ST,Part three,Other,773308.6379999999,,2931138.099,2015
+267316,152027369.0,Saturday,No,2015-04-04T10:10:00.000,InvProp,"[0, 0]",Point,InvProp,4,SUSOBJ,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,,,,2015

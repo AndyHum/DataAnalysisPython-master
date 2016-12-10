@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42781,,Sunday,No,2015-07-19T00:00:00.000,Property Lost,"[-71.13971, 42.25548]",Point,PropLost,7,PROP,537,E18,,No,KOVEY CT,Part Three,None,753704.0,,2920000.0,2015
+89585,,Sunday,No,2015-07-19T00:00:00.000,Property Lost,"[-71.056923, 42.360289]",Point,PropLost,7,ADMRPT,93,A1,,No,NORTH ST,Part Three,None,775917.0,,2960000.0,2015
+111544,,Sunday,No,2015-07-19T00:00:00.000,Property Lost,"[-71.08926, 42.290561]",Point,PropLost,7,PROP,439,B3,,No,BLUE HILL AVE,Part Three,None,767300.0,,2930000.0,2015
+142422,,Sunday,No,2015-07-19T00:00:00.000,Property Lost,"[-71.061218, 42.296662]",Point,PropLost,7,PROP,355,C11,,No,DORCHESTER AVE,Part Three,None,774876.0,,2930000.0,2015
+166203,,Sunday,No,2015-07-19T00:00:00.000,Property Lost,"[-71.0987, 42.315384]",Point,PropLost,7,PROP,577,E13,,No,WASHINGTON ST,Part Three,None,764703.0,,2940000.0,2015
+186170,,Sunday,No,2015-07-19T00:00:00.000,Property Lost,"[-71.130484, 42.292341]",Point,PropLost,7,PROP,663,E5,,No,WALTER ST,Part Three,None,756144.0,,2930000.0,2015
+222601,,Sunday,No,2015-07-19T14:00:00.000,Property Lost,"[0, 0]",Point,PropLost,7,PROP,0,,,No,,Part Three,None,,SUMMER ST,,2015
+250265,,Sunday,No,2015-07-19T00:00:00.000,Property Lost,"[-71.067069, 42.317905]",Point,PropLost,7,PROP,258,B2,,No,DUDLEY ST,Part Three,None,773254.0,,2940000.0,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26409,142017273.0,Friday,No,2014-08-08T00:45:00.000,PropFound,"[-71.056895, 42.327426]",Point,PropFound,8,SS,0,C6,Last,No,DORCHESTER AV,Part three,Unarmed,775987.4621,,2944653.805,2014
+40248,142017280.0,Friday,No,2014-08-08T07:00:00.000,PropFound,"[-71.081151, 42.335152]",Point,PropFound,8,PROP,0,D4,Last,No,SHAWMUT AV,Part three,Unarmed,769414.552,,2947436.048,2014
+66935,142017502.0,Friday,No,2014-08-08T20:35:00.000,PropFound,"[-71.101875, 42.350446]",Point,PropFound,8,AOD,0,D4,First,No,BAY STATE RD,Part three,Unarmed,763785.2962,,2952982.747,2014
+140433,142017692.0,Friday,No,2014-08-08T23:00:00.000,PropFound,"[-71.05712, 42.353261]",Point,PropFound,8,PROP,0,A1,First,No,SUMMER ST,Part three,Unarmed,775877.7362,,2954068.223,2014
+169560,142017479.0,Friday,No,2014-08-08T18:00:00.000,PropFound,"[-71.05399, 42.355201]",Point,PropFound,8,IVPREM,0,A1,First,No,PEARL ST,Part three,Unarmed,776720.0732,HIGH ST,2954779.603,2014
+195412,142017476.0,Friday,No,2014-08-08T18:00:00.000,PropFound,"[-71.11802, 42.257532]",Point,PropFound,8,IVPREM,0,E18,First,No,DAVISON ST,Part three,Unarmed,759572.6547,,2919103.1789999995,2014

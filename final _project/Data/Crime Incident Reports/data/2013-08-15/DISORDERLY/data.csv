@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50774,130512619.0,Thursday,No,2013-08-15T10:04:00.000,DISORDERLY,"[-71.078035, 42.317096]",Point,24xx,8,ARREST,324,B2,Day,No,BLUE HILL AV,Part Two,Unarmed,770289.6362,,2940860.3910000003,2013
+193502,130513953.0,Thursday,No,2013-08-15T20:20:00.000,DISORDERLY,"[-71.07879, 42.301051]",Point,24xx,8,FIGHT ,455,B3,First,No,TRINITY TERRACE,Part Two,Unarmed,770114.3179,NORWELL ST,2935012.33,2013
+259581,130514254.0,Thursday,No,2013-08-15T22:43:00.000,DISORDERLY,"[-71.0567, 42.317541]",Point,24xx,8,SUSPER,245,C11,First,No,DORCHESTER AV,Part Two,Unarmed,776058.9135,HARBOR VIEW ST,2941051.8219999997,2013

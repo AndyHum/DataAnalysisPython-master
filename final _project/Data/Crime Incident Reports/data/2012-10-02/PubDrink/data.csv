@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58035,120620263.0,Tuesday,No,2012-10-02T13:40:00.000,PubDrink,"[-71.082855, 42.330921]",Point,PubDrink,10,IVPER ,287,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768961.3803,,2945892.07,2012
+76497,120620365.0,Tuesday,No,2012-10-02T12:45:00.000,PubDrink,"[-71.08212, 42.329941]",Point,PubDrink,10,IVPREM,280,B2,Day,No,HARRISON AV,Part Two,Unarmed,769161.9015,TABER ST,2945535.8880000003,2012
+180992,120620296.0,Tuesday,No,2012-10-02T14:30:00.000,PubDrink,"[-71.08411, 42.328726]",Point,PubDrink,10,IVPER ,282,B2,Day,No,DUDLEY ST,Part Two,Unarmed,768625.9666,,2945090.4910000004,2012

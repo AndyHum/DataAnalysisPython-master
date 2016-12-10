@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57418,130545973.0,Thursday,No,2013-08-29T09:50:00.000,InvProp,"[-71.063208, 42.364318]",Point,InvProp,8,BOMB  ,61,A1,Day,No,CAUSEWAY ST,Part three,Unarmed,774211.4955,,2958089.1139999996,2013
+98718,130550873.0,Thursday,No,2013-08-29T14:00:00.000,InvProp,"[-71.101659, 42.311342]",Point,InvProp,8,LARCRT,571,E13,Day,No,FOREST HILLS ST,Part three,Unarmed,763910.0449,,2938732.577,2013
+155051,130545364.0,Thursday,No,2013-08-29T00:16:00.000,InvProp,"[-71.0811, 42.298121]",Point,InvProp,8,SHOTS ,445,B3,Last,No,GLENWAY ST,Part three,Unarmed,769494.6555,ROXTON ST,2933941.5160000003,2013
+174040,130547513.0,Thursday,No,2013-08-29T22:45:00.000,InvProp,"[-71.097815, 42.334961]",Point,InvProp,8,EDP2  ,901,B2,First,No,MCGREEVEY WY,Part three,Unarmed,764909.3671,,2947344.8660000004,2013

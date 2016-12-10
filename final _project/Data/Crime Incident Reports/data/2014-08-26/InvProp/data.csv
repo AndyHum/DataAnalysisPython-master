@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4518,142023263.0,Tuesday,No,2014-08-26T20:39:00.000,InvProp,"[-71.09062, 42.329761]",Point,InvProp,8,ALARM,0,B2,First,No,JOHN ELIOT SQ,Part three,Unarmed,766863.8274,,2945459.148,2014
+11056,142023250.0,Tuesday,No,2014-08-26T21:30:00.000,InvProp,"[-71.07502, 42.332376]",Point,InvProp,8,BE,0,D4,First,No,ALBANY ST,Part three,Unarmed,771077.0854,,2946432.707,2014
+12480,142023205.0,Tuesday,No,2014-08-26T16:40:00.000,InvProp,"[-71.11498, 42.302276]",Point,InvProp,8,IVPREM,0,E13,First,No,ARBORVIEW RD,Part three,Unarmed,760321.8809,SOUTH ST,2935412.347,2014
+14748,142022998.0,Tuesday,No,2014-08-26T07:30:00.000,InvProp,"[-71.105925, 42.302926]",Point,InvProp,8,IVPREM,0,E13,Day,No,BROOKLEY RD,Part three,Unarmed,762770.5436,CEMETERY RD,2935660.5289999996,2014
+18618,142023284.0,Tuesday,No,2014-08-26T21:45:00.000,InvProp,"[-71.07003, 42.356421]",Point,InvProp,8,SHOTS,0,A1,First,No,RIVER ST,Part three,Unarmed,772382.3747,BYRON ST,2955201.932,2014
+48229,142023552.0,Tuesday,No,2014-08-26T19:00:00.000,InvProp,"[-71.107595, 42.320886]",Point,InvProp,8,BE,0,E13,First,No,SHERIDAN ST,Part three,Unarmed,762288.6725,,2942203.367,2014
+156870,142023117.0,Tuesday,No,2014-08-26T13:52:00.000,InvProp,"[-71.056345, 42.358871]",Point,InvProp,8,IVPER,0,A1,Day,No,STATE ST,Part three,Unarmed,776076.5836,,2956113.703,2014
+177663,142022969.0,Tuesday,No,2014-08-26T00:27:00.000,InvProp,"[-71.055805, 42.283141]",Point,InvProp,8,IVPREM,0,C11,Last,No,ADAMS ST,Part three,Unarmed,776366.2503,,2928517.216,2014
+195579,142023280.0,Tuesday,No,2014-08-26T21:30:00.000,InvProp,"[-71.09708, 42.341806]",Point,InvProp,8,LARCEN,0,D4,First,No,PARK DR,Part three,Unarmed,765096.3106,,2949840.249,2014
+233235,142023292.0,Tuesday,No,2014-08-26T22:27:00.000,InvProp,"[-71.041095, 42.338046]",Point,InvProp,8,ALARM,0,C6,First,No,E 1ST ST,Part three,Unarmed,780239.0996,,2948546.503,2014

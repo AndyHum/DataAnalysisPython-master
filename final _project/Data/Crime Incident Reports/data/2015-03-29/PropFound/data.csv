@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+220311,152025527.0,Sunday,No,2015-03-29T14:30:00.000,PropFound,"[-71.074855, 42.350756]",Point,PropFound,3,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2015
+221656,152025643.0,Sunday,No,2015-03-29T20:15:00.000,PropFound,"[-71.1406, 42.352406]",Point,PropFound,3,PROP,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,753314.4697,,2953650.5239999997,2015
+267056,152025449.0,Sunday,No,2015-03-29T09:15:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,D14,Day,No,EVERETT ST,Part three,Unarmed,,,,2015

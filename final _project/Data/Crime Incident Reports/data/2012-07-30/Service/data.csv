@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75042,120469587.0,Monday,No,2012-07-30T00:10:00.000,Service,"[-71.05932, 42.354551]",Point,Service,7,AOD   ,105,A1,Last,No,SUMMER ST,Part Three,Unarmed,775280.6508,,2954535.244,2012
+78410,120470788.0,Monday,No,2012-07-30T16:26:00.000,Service,"[-71.05989, 42.364351]",Point,Service,7,SSTOP ,76,A1,First,No,CANAL ST,Part Three,Unarmed,775108.1557,VALENTI WY,2958105.758,2012
+183979,120469990.0,Monday,No,2012-07-30T10:04:00.000,Service,"[-71.037826, 42.36655]",Point,Service,7,ARREST,35,A7,Day,No,HAYNES ST,Part Three,Unarmed,781066.5375,,2958938.579,2012

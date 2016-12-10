@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24130,130236710.0,Monday,No,2013-04-22T11:30:00.000,PropFound,"[-71.14312, 42.343861]",Point,PropFound,4,FDPROP,786,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,752646.3343,WASHINGTON ST,2950533.693,2013
+184943,130378556.0,Monday,No,2013-04-22T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,4,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+214717,130236635.0,Monday,No,2013-04-22T12:07:00.000,PropFound,"[-71.084805, 42.350516]",Point,PropFound,4,FDPROP,140,D4,Day,No,GLOUCESTER ST,Part Three,Unarmed,768399.3831,,2953030.251,2013

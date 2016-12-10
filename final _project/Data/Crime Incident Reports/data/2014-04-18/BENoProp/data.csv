@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64278,140235031.0,Friday,No,2014-04-18T02:10:00.000,BENoProp,"[-71.083771, 42.304147]",Point,BENoProp,4,DISTRB,330,B2,Last,No,NORMANDY ST,Part One,Unarmed,768761.2524,,2936133.9069999997,2014
+66970,140236505.0,Friday,No,2014-04-18T08:00:00.000,BENoProp,"[-71.051523, 42.345567]",Point,BENoProp,4,BERPT ,204,C6,Day,No,CHANNEL CENTER ST,Part One,Unarmed,777405.1722,,2951272.278,2014
+267958,140287988.0,Friday,No,2014-04-18T12:00:00.000,BENoProp,"[0, 0]",Point,BENoProp,4,IVPREM,466,B3,Day,No,ESTRELLA ST,Part One,Unarmed,,,,2014

@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22780,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.143836, 42.344258]",Point,14xx,6,VAND,785,D14,,No,WASHINGTON ST,Part Two,None,752452.0,,2950000.0,2015
+23132,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.095604, 42.27283]",Point,14xx,6,ARREST,472,B3,,No,WOODHAVEN ST,Part Two,None,765614.0,,2920000.0,2015
+24170,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.062801, 42.297664]",Point,14xx,6,VAND,358,C11,,No,BOURNESIDE ST,Part Two,None,774446.0,,2930000.0,2015
+28974,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.130479, 42.35074]",Point,14xx,6,VAND,796,D14,,No,COMMONWEALTH AVE,Part Two,None,756053.0,,2950000.0,2015
+29542,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.082011, 42.322724]",Point,14xx,6,VAND,296,B2,,No,DUNREATH ST,Part Two,None,769204.0,,2940000.0,2015
+42435,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.076343, 42.316662]",Point,14xx,6,VAND,324,B2,,No,DEWEY ST,Part Two,None,770748.0,,2940000.0,2015
+186372,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.113875, 42.316236]",Point,14xx,6,VAND,639,E13,,No,CENTRE ST,Part Two,None,760598.0,,2940000.0,2015
+188312,,Monday,No,2015-06-22T23:04:00.000,Vandalism,"[0, 0]",Point,14xx,6,IVPREM,276,B2,,No,WASHINGTON ST,Part Two,None,,WILLIAMS ST,,2015
+189643,,Monday,No,2015-06-22T22:00:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,29,A7,,No,BREMEN ST,Part Two,None,,MAVERICK ST,,2015
+192114,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.150615, 42.353738]",Point,14xx,6,VAND,779,D14,,No,MARKET ST,Part Two,None,750605.0,,2950000.0,2015
+208945,,Monday,No,2015-06-22T18:30:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,61,A1,,No,BEVERLY ST,Part Two,None,,,,2015
+217444,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.091945, 42.314998]",Point,14xx,6,NIDV,314,B2,,No,CRAWFORD ST,Part Two,None,766531.0,,2940000.0,2015
+229749,,Monday,No,2015-06-22T00:00:00.000,Vandalism,"[-71.068699, 42.30098]",Point,14xx,6,VAND,344,C11,,No,WESTVILLE TER,Part Two,None,772844.0,,2940000.0,2015

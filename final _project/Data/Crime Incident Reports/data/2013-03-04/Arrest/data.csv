@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12099,130735100.0,Monday,No,2013-03-04T00:00:00.000,Arrest,"[-71.063873, 42.325436]",Point,Arrest,3,IVPER ,186,C6,Last,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2013
+105925,130129896.0,Monday,No,2013-03-04T08:40:00.000,Arrest,"[-71.08826, 42.324542]",Point,Arrest,3,ARREST,299,B2,Day,No,CRISPUS ATTUCKS PL,Part Three,Unarmed,767511.1506,,2943560.184,2013
+212815,130131285.0,Monday,No,2013-03-04T18:20:00.000,Arrest,"[-71.03904, 42.372786]",Point,Arrest,3,IVPER ,26,A7,First,No,MERIDIAN ST,Part Three,Other,780726.2164,,2961209.3510000003,2013
+230368,130131022.0,Monday,No,2013-03-04T18:07:00.000,Arrest,"[-71.084747, 42.329375]",Point,Arrest,3,SSTOP ,288,B2,First,No,WASHINGTON ST,Part Three,Unarmed,768452.5418,,2945326.172,2013

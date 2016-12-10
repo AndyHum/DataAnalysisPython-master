@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11005,130783838.0,Sunday,No,2013-12-08T00:30:00.000,PropLost,"[-71.07119, 42.287911]",Point,PropLost,12,LSTPRP,399,C11,Last,No,WELLES AV,Part three,Unarmed,772194.3571,WASHINGTON ST,2930234.166,2013
+24655,130774183.0,Sunday,No,2013-12-08T00:30:00.000,PropLost,"[-71.13227, 42.353751]",Point,PropLost,12,LARCRT,801,D14,Last,No,HARVARD AV,Part three,Unarmed,755563.9839,,2954150.267,2013
+26451,130774589.0,Sunday,No,2013-12-08T02:00:00.000,PropLost,"[-71.06598, 42.350391]",Point,PropLost,12,LARCRT,121,A1,Last,No,WARRENTON ST,Part three,Unarmed,773488.0855,,2953009.8660000004,2013
+80713,130773274.0,Sunday,No,2013-12-08T02:02:00.000,PropLost,"[-71.08195, 42.282956]",Point,PropLost,12,LARCRT,417,B3,Last,No,CROWELL ST,Part three,Unarmed,769291.7881,,2928414.041,2013
+87773,130773865.0,Sunday,No,2013-12-08T00:01:00.000,PropLost,"[-71.049405, 42.332946]",Point,PropLost,12,LSTPRP,220,C6,Last,No,TELEGRAPH ST,Part three,Unarmed,778002.1979,,2946675.997,2013
+115462,130773747.0,Sunday,No,2013-12-08T09:30:00.000,PropLost,"[-71.068365, 42.328546]",Point,PropLost,12,LARCRT,177,C6,Day,No,MASSACHUSETTS AV,Part three,Other,772883.8062,,2945046.048,2013
+237161,130774070.0,Sunday,No,2013-12-08T00:00:00.000,PropLost,"[-71.082115, 42.340291]",Point,PropLost,12,LARCRT,597,D4,Last,No,COLUMBUS AV,Part three,Unarmed,769144.7736,,2949307.6210000003,2013
+253368,130806859.0,Sunday,No,2013-12-08T17:00:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,12,LARCRT,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013

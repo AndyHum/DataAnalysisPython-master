@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13116,130149322.0,Tuesday,No,2013-03-12T06:00:00.000,PersLoc,"[-71.07016, 42.307426]",Point,PersLoc,3,MISPER,348,C11,Last,No,BARRY ST,Part Three,Unarmed,772437.2149,,2937347.124,2013
+17317,130148000.0,Tuesday,No,2013-03-12T07:10:00.000,PersLoc,"[-71.072298, 42.304718]",Point,PersLoc,3,MISPER,348,C11,Last,No,EVERTON ST,Part Three,Unarmed,771863.6868,,2936357.135,2013
+207687,130146601.0,Tuesday,No,2013-03-12T07:00:00.000,PersLoc,"[-71.085943, 42.323494]",Point,PersLoc,3,MISPER,298,B2,Last,No,CIRCUIT ST,Part Three,Unarmed,768139.359,,2943181.309,2013

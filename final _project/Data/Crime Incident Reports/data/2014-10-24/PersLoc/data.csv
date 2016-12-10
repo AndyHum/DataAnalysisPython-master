@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33531,142042382.0,Friday,No,2014-10-24T21:00:00.000,PersLoc,"[-71.085911, 42.287721]",Point,PersLoc,10,MISSIN,0,B3,First,No,CALLENDER ST,Other,Unarmed,768211.3775,,2930145.1,2014
+47552,142042070.0,Friday,No,2014-10-24T00:14:00.000,PersLoc,"[-71.05385, 42.337311]",Point,PersLoc,10,IVPER,0,C6,Last,No,ORTON MAROTTA WY,Other,Unarmed,776792.0166,,2948260.361,2014
+64187,142042580.0,Friday,No,2014-10-24T16:30:00.000,PersLoc,"[-71.08301, 42.299371]",Point,PersLoc,10,MISSIN,0,B3,First,No,PAGE ST,Other,Unarmed,768975.7077,,2934394.502,2014
+79996,142042549.0,Friday,No,2014-10-24T07:45:00.000,PersLoc,"[-71.09345, 42.274701]",Point,PersLoc,10,IVPER,0,B3,Day,No,BLUE HILL AV,Other,Unarmed,766194.2316,,2925390.762,2014
+100698,142042335.0,Friday,No,2014-10-24T17:00:00.000,PersLoc,"[-71.065955, 42.291082]",Point,PersLoc,10,MISSIN,0,C11,First,No,MELBOURNE ST,Other,Unarmed,773604.8812,,2931396.827,2014
+189504,142042334.0,Friday,No,2014-10-24T17:21:00.000,PersLoc,"[-71.083825, 42.301956]",Point,PersLoc,10,IVPER,0,B3,First,No,ELLINGTON ST,Other,Unarmed,768750.6327,,2935335.441,2014
+209421,142042187.0,Friday,No,2014-10-24T07:00:00.000,PersLoc,"[-71.067485, 42.308271]",Point,PersLoc,10,IVPER,0,C11,Last,No,CLARKSON ST,Other,Unarmed,773159.2220000001,,2937658.715,2014

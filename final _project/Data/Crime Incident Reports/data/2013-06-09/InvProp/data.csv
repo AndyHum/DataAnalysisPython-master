@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82573,130349952.0,Sunday,No,2013-06-09T11:06:00.000,InvProp,"[-71.090755, 42.269537]",Point,InvProp,6,REQP  ,426,B3,Day,No,RIVER ST,Part Three,Unarmed,766932.4073,,2923512.3660000004,2013
+203339,130349155.0,Sunday,No,2013-06-09T01:45:00.000,InvProp,"[-71.06557, 42.299901]",Point,InvProp,6,SHOTS ,357,C11,Last,No,BLOOMFIELD ST,Part three,Unarmed,773692.7508,GENEVA AV,2934611.189,2013
+212821,130349795.0,Sunday,No,2013-06-09T10:30:00.000,InvProp,"[-71.048565, 42.290231]",Point,InvProp,6,CD9   ,377,C11,Day,No,NEPONSET AV,Part three,Unarmed,778311.7064,,2931111.1939999997,2013

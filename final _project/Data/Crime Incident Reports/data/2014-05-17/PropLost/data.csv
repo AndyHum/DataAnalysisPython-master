@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34713,140307340.0,Saturday,No,2014-05-17T19:45:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,5,LARCRT,143,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+36671,140307922.0,Saturday,No,2014-05-17T22:00:00.000,PropLost,"[-71.082385, 42.324956]",Point,PropLost,5,LARCRT,296,B2,First,No,ROCKVILLE PARK,Part three,Unarmed,769099.1392,,2943718.917,2014
+75739,140310593.0,Saturday,No,2014-05-17T15:00:00.000,PropLost,"[-71.057025, 42.335201]",Point,PropLost,5,LSTPRP,196,C6,Day,No,DORCHESTER AV,Part three,Unarmed,775937.5944,,2947486.966,2014
+167002,140306710.0,Saturday,No,2014-05-17T15:30:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,5,INVEST,112,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2014
+218798,140315615.0,Saturday,No,2014-05-17T00:20:00.000,PropLost,"[-71.064475, 42.360236]",Point,PropLost,5,LSTPRP,68,A1,Last,No,HANCOCK ST,Part three,Unarmed,773876.7114,,2956599.811,2014
+228284,140314559.0,Saturday,No,2014-05-17T00:01:00.000,PropLost,"[-71.147019, 42.34255]",Point,PropLost,5,LSTPRP,776,D14,Last,No,EUSTON RD,Part three,Unarmed,751594.0699,,2950051.557,2014
+241511,140306515.0,Saturday,No,2014-05-17T09:00:00.000,PropLost,"[-71.04344, 42.330466]",Point,PropLost,5,LSTPRP,233,C6,Day,No,COLUMBIA RD,Part three,Unarmed,779619.8833,,2945780.82,2014
+250441,140306632.0,Saturday,No,2014-05-17T15:54:00.000,PropLost,"[-71.06575, 42.325491]",Point,PropLost,5,LSTPRP,0,C6,Day,No,MASSACHUSETTS AV,Part three,Other,773596.582,,2943936.3439999996,2014
+257909,140318484.0,Saturday,No,2014-05-17T09:30:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,5,LSTPRP,186,C6,Day,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+266438,140314322.0,Saturday,No,2014-05-17T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LSTPRP,566,B3,First,No,BLUE HILL AV,Part three,Unarmed,,,,2014

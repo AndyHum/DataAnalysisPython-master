@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135505,130296781.0,Saturday,No,2013-05-18T10:18:00.000,PhoneCalls,"[-71.070482, 42.30876]",Point,PhoneCalls,5,IVPER ,333,C11,Day,No,HAMILTON ST,Part Three,Unarmed,772347.5182,,2937832.512,2013
+169595,130298170.0,Saturday,No,2013-05-18T22:00:00.000,PhoneCalls,"[-71.077685, 42.340711]",Point,PhoneCalls,5,HARPT ,154,D4,First,No,TREMONT ST,Part Three,Unarmed,770341.686,,2949466.575,2013
+238520,130297912.0,Saturday,No,2013-05-18T20:40:00.000,PhoneCalls,"[-71.076265, 42.312576]",Point,PhoneCalls,5,THREAT,326,B2,First,No,FAYSTON ST,Part three,Unarmed,770776.5217,,2939215.603,2013

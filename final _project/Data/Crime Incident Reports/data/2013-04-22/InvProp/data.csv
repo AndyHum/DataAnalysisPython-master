@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28324,130238525.0,Monday,No,2013-04-22T21:00:00.000,InvProp,"[-71.148635, 42.272161]",Point,InvProp,4,VANRPT,706,E5,First,No,PARTRIDGE ST,Part Three,Unarmed,751263.0404,,2924398.795,2013
+41412,130236806.0,Monday,No,2013-04-22T13:05:00.000,InvProp,"[-71.09533, 42.345211]",Point,InvProp,4,SHOTS ,591,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,765563.5335,IPSWICH ST,2951083.334,2013
+155525,130236933.0,Monday,No,2013-04-22T14:06:00.000,InvProp,"[-71.146978, 42.346426]",Point,InvProp,4,IVPREM,777,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,751599.4006,,2951463.961,2013
+192713,130236904.0,Monday,No,2013-04-22T14:00:00.000,InvProp,"[-71.1029, 42.347231]",Point,InvProp,4,INVEST,629,D4,Day,No,BEACON ST,Part Three,Unarmed,763513.6806,,2951809.8430000003,2013
+208288,130236708.0,Monday,No,2013-04-22T12:26:00.000,InvProp,"[-71.129353, 42.287094]",Point,InvProp,4,HAZ   ,562,E5,Day,No,SOUTH ST,Part Three,Other,756457.798,,2929862.543,2013
+219787,130236267.0,Monday,No,2013-04-22T08:50:00.000,InvProp,"[-71.086065, 42.341146]",Point,InvProp,4,BOMB  ,594,D4,Day,No,GAINSBOROUGH ST,Part Three,Unarmed,768075.3627,,2949613.9910000004,2013
+255942,130236047.0,Monday,No,2013-04-22T04:09:00.000,InvProp,"[-71.07805, 42.321431]",Point,InvProp,4,REQP  ,265,B2,Last,No,IRWIN AV,Part Three,Other,770277.7651,,2942440.117,2013

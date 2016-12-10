@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51085,130514301.0,Thursday,No,2013-08-15T23:15:00.000,FIRE,"[-71.07442, 42.341701]",Point,FIRE,8,FIREB ,158,D4,First,No,AGUADILLA ST,Part three,Unarmed,771222.5871,,2949831.736,2013
+194583,130513610.0,Thursday,No,2013-08-15T17:59:00.000,FIRE,"[-71.008841, 42.385972]",Point,FIRE,8,FV    ,12,A7,First,No,BENNINGTON ST,Part three,Unarmed,788858.6962,,2966060.0089999996,2013
+211596,130512106.0,Thursday,No,2013-08-15T01:40:00.000,FIRE,"[-71.095495, 42.26635]",Point,FIRE,8,FV    ,482,B3,Last,No,EDGEWATER DR,Part three,Unarmed,765655.0618,,2922344.655,2013

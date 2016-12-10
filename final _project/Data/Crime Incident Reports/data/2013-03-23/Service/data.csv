@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62799,130169991.0,Saturday,No,2013-03-23T01:28:00.000,Service,"[-71.086295, 42.272461]",Point,Service,3,ARREST,423,B3,Last,No,ARBORCREST TR,Part Three,Unarmed,768134.5837,,2924583.787,2013
+113989,130170397.0,Saturday,No,2013-03-23T08:45:00.000,Service,"[-71.085993, 42.283877]",Point,Service,3,ARREST,429,B3,Day,No,WILLOWWOOD ST,Part Three,Unarmed,768195.8917,,2928744.066,2013
+187813,130170266.0,Saturday,No,2013-03-23T06:00:00.000,Service,"[-71.05651, 42.366291]",Point,Service,3,ARREST,80,A1,Last,No,CLEVELAND ST,Part Three,Unarmed,776017.9286,SNOW HILL ST,2958817.4639999997,2013
+253728,130170400.0,Saturday,No,2013-03-23T08:54:00.000,Service,"[-71.12892, 42.285721]",Point,Service,3,ARREST,560,E5,Day,No,POPLAR ST,Part Three,Unarmed,756577.3359,WASHINGTON ST,2929362.854,2013

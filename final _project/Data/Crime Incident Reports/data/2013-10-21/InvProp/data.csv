@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31001,130689450.0,Monday,No,2013-10-21T15:00:00.000,InvProp,"[-71.105131, 42.262841]",Point,InvProp,10,IVPREM,484,E18,Day,No,POYDRAS ST,Part three,Unarmed,763052.7491,,2921053.932,2013
+76689,130671182.0,Monday,No,2013-10-21T13:00:00.000,InvProp,"[-71.13061, 42.282916]",Point,InvProp,10,IVPREM,559,E5,Day,No,ALBANO ST,Part three,Unarmed,756124.468,,2928338.685,2013
+101217,130672050.0,Monday,No,2013-10-21T19:49:00.000,InvProp,"[-71.064475, 42.360236]",Point,InvProp,10,IVPREM,68,A1,First,No,HANCOCK ST,Part three,Unarmed,773876.7114,,2956599.811,2013
+117788,130670999.0,Monday,No,2013-10-21T11:30:00.000,InvProp,"[-71.10748, 42.310681]",Point,InvProp,10,FDPROP,573,E13,Day,No,BARTLETT SQ,Part three,Unarmed,762336.8859999999,,2938484.6360000004,2013

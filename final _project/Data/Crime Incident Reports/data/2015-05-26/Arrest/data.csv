@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1892,152043125.0,Tuesday,No,2015-05-26T10:35:00.000,Arrest,"[0, 0]",Point,Arrest,5,IVPER,0,C11,Day,No,WICHITA TR,Part three,Unarmed,,,,2015
+13188,152043072.0,Tuesday,No,2015-05-26T08:15:00.000,Arrest,"[-71.070975, 42.295251]",Point,Arrest,5,CD11,0,C11,Day,No,REGINA RD,Part three,Unarmed,772239.0765,,2932909.262,2015
+43235,152043096.0,Tuesday,No,2015-05-26T09:30:00.000,Arrest,"[-71.09583, 42.279046]",Point,Arrest,5,ARREST,0,B3,Day,No,WALK HILL ST,Part three,Unarmed,765542.6188,,2926971.079,2015
+60411,152043185.0,Tuesday,No,2015-05-26T13:45:00.000,Arrest,"[-71.06723, 42.275326]",Point,Arrest,5,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773289.1151,ST GREGORY ST,2925653.433,2015
+226257,152043294.0,Tuesday,No,2015-05-26T18:50:00.000,Arrest,"[-71.079717, 42.319866]",Point,Arrest,5,CD11,0,B2,First,No,CLIFFORD ST,Part three,Unarmed,769829.6122,,2941867.4469999997,2015
+230582,152043079.0,Tuesday,No,2015-05-26T08:45:00.000,Arrest,"[-71.08068, 42.324911]",Point,Arrest,5,ARREST,0,B2,Day,No,MORELAND ST,Part three,Other,769560.2869,,2943704.7810000004,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+196702,,Friday,No,2015-07-31T00:00:00.000,Property Related Damage,"[-71.064471, 42.360254]",Point,PropDam,7,IVPER,68,A1,,No,HANCOCK ST,Part Three,None,773878.0,,2960000.0,2015
+216758,,Friday,No,2015-07-31T00:00:00.000,Property Related Damage,"[-71.033709, 42.367866]",Point,PropDam,7,VAND,33,A7,,No,MAVERICK ST,Part Three,None,782176.0,,2960000.0,2015
+235660,,Friday,No,2015-07-31T00:00:00.000,Property Related Damage,"[-71.068847, 42.295815]",Point,PropDam,7,MVA,359,C11,,No,ALPHA RD,Part Three,None,772814.0,,2930000.0,2015
+236621,,Friday,No,2015-07-31T00:00:00.000,Property Related Damage,"[-71.079184, 42.302621]",Point,PropDam,7,IVMV,456,B3,,No,GREENWOOD ST,Part Three,None,770005.0,,2940000.0,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65481,142020445.0,Friday,No,2014-08-15T17:30:00.000,PropLost,"[-71.08457, 42.280821]",Point,PropLost,8,PROP,0,B3,First,No,MORTON ST,Part three,Unarmed,768586.6065,EVANS ST,2927632.5530000003,2014
+139971,142019718.0,Friday,No,2014-08-15T12:00:00.000,PropLost,"[-71.125425, 42.245711]",Point,PropLost,8,PROP,0,E18,Day,No,FARADAY ST,Part three,Unarmed,757587.0701,,2914786.7989999996,2014
+207361,142021121.0,Friday,No,2014-08-15T19:00:00.000,PropLost,"[-71.125841, 42.308311]",Point,PropLost,8,PROP,0,E13,First,No,SLOCUM RD,Part three,Unarmed,757374.2818,,2937598.6010000003,2014
+242436,142021378.0,Friday,No,2014-08-15T10:45:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,8,PROP,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+261739,142019917.0,Friday,No,2014-08-15T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LARCEN,0,A1,First,No,NORTH ST,Part three,Unarmed,,,,2014
+262126,142022704.0,Friday,No,2014-08-15T11:30:00.000,PropLost,"[0, 0]",Point,PropLost,8,ADMRPT,0,A1,Day,No,SURFACE RD,Part three,Unarmed,,,,2014

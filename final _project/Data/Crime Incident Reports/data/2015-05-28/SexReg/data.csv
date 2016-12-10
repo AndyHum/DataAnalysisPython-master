@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2291,152045339.0,Thursday,No,2015-05-28T12:00:00.000,SexReg,"[0, 0]",Point,SexReg,5,IVPER,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015
+107191,152043846.0,Thursday,No,2015-05-28T11:30:00.000,SexReg,"[-71.07376, 42.282643]",Point,SexReg,5,CD11,0,C11,Day,No,STOCKTON ST,Part Two,Unarmed,771508.3897,,2928310.909,2015
+115714,152045169.0,Thursday,No,2015-05-28T10:58:00.000,SexReg,"[-71.0694, 42.331966]",Point,SexReg,5,IVPER,0,C6,Day,No,SOUTHAMPTON ST,Part Two,Unarmed,772597.6447,,2946290.941,2015

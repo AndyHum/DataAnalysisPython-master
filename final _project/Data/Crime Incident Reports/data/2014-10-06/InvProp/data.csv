@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74075,142036678.0,Monday,No,2014-10-06T22:50:00.000,InvProp,"[-71.052073, 42.366289]",Point,InvProp,10,VAND,0,A1,First,No,BATTERY ST,Part three,Other,777216.8195,,2958822.8789999997,2014
+91414,142036477.0,Monday,No,2014-10-06T13:49:00.000,InvProp,"[-71.128365, 42.276671]",Point,InvProp,10,ALARM,0,E5,Day,No,HIGHFIELD RD,Part three,Unarmed,756741.8798,,2926065.5539999995,2014
+111969,142046435.0,Monday,No,2014-10-06T13:15:00.000,InvProp,"[-71.07892, 42.341341]",Point,InvProp,10,IVPREM,0,D4,Day,No,CONCORD SQ,Part three,Unarmed,770006.6686,,2949694.508,2014
+197976,142036627.0,Monday,No,2014-10-06T18:00:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,10,CD19,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42425,142023017.0,Tuesday,No,2014-08-26T09:30:00.000,Service,"[-71.07293, 42.333901]",Point,Service,8,IVPER,0,D4,Day,No,ALBANY ST,Part three,Unarmed,771639.6374,,2946991.29,2014
+48427,142023123.0,Tuesday,No,2014-08-26T14:34:00.000,Service,"[-71.063155, 42.298481]",Point,Service,8,ARREST,0,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,,2934097.058,2014
+94897,142023184.0,Tuesday,No,2014-08-26T17:35:00.000,Service,"[-71.035295, 42.374421]",Point,Service,8,ARREST,0,A7,First,No,PARIS ST,Part three,Unarmed,781734.9847,,2961810.72,2014
+95763,142023157.0,Tuesday,No,2014-08-26T15:20:00.000,Service,"[-71.06704, 42.326996]",Point,Service,8,IVPER,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,773244.9577,,2944483.017,2014
+100865,142023159.0,Tuesday,No,2014-08-26T16:20:00.000,Service,"[-71.038995, 42.371556]",Point,Service,8,ARREST,0,A7,First,No,MERIDIAN ST,Part three,Unarmed,780740.8613,,2960761.23,2014
+121575,142023298.0,Tuesday,No,2014-08-26T23:00:00.000,Service,"[-71.09111, 42.330121]",Point,Service,8,ARREST,0,B2,First,No,CENTRE ST,Part three,Unarmed,766730.7028,ROXBURY ST,2945589.702,2014
+139338,142023043.0,Tuesday,No,2014-08-26T11:30:00.000,Service,"[-71.07366, 42.338811]",Point,Service,8,ARREST,0,D4,Day,No,E NEWTON ST,Part three,Unarmed,771433.3162,WASHINGTON ST,2948779.5939999996,2014
+139986,142023435.0,Tuesday,No,2014-08-26T10:00:00.000,Service,"[-71.144262, 42.255257]",Point,Service,8,IVPER,0,E5,Day,No,GEORGETOWNE PL,Part three,Unarmed,752472.2036,,2918243.367,2014
+223967,142023192.0,Tuesday,No,2014-08-26T17:20:00.000,Service,"[-71.09198, 42.282371]",Point,Service,8,SS,0,B3,First,No,WOOLSON ST,Part three,Unarmed,766578.6942,BLUE HILL AV,2928187.716,2014

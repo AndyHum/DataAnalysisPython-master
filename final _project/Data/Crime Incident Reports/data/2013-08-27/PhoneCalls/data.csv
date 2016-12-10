@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24192,130543497.0,Tuesday,No,2013-08-27T04:49:00.000,PhoneCalls,"[-71.142936, 42.345312]",Point,PhoneCalls,8,HARPT ,938,D14,Last,No,FIDELIS WY,Part Two,Unarmed,752693.6724,,2951062.6210000003,2013
+154839,130541823.0,Tuesday,No,2013-08-27T15:02:00.000,PhoneCalls,"[-71.139352, 42.240701]",Point,PhoneCalls,8,IVPER ,529,E18,Day,No,COMO RD,Part three,Other,753823.8916,,2912944.788,2013
+170037,130541551.0,Tuesday,No,2013-08-27T10:00:00.000,PhoneCalls,"[-71.082115, 42.340291]",Point,PhoneCalls,8,THREAT,284,D4,Day,No,COLUMBUS AV,Part three,Unarmed,769144.7736,,2949307.6210000003,2013
+235778,130541857.0,Tuesday,No,2013-08-27T15:00:00.000,PhoneCalls,"[-71.08356, 42.328666]",Point,PhoneCalls,8,IVPER ,280,B2,Day,No,DUDLEY ST,Part three,Unarmed,768774.7954,,2945069.352,2013

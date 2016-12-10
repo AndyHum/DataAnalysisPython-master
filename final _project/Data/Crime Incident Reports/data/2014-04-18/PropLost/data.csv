@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108173,140254044.0,Friday,No,2014-04-18T13:30:00.000,PropLost,"[-71.09045, 42.308695]",Point,PropLost,4,LSTPRP,318,B2,Day,No,SEAVER ST,Part three,Unarmed,766946.5418,,2937782.313,2014
+238697,140251478.0,Friday,No,2014-04-18T09:00:00.000,PropLost,"[-71.055337, 42.326537]",Point,PropLost,4,LSTPRP,914,C6,Day,No,OCALLAGHAN WY,Part three,Unarmed,776410.2447,,2944331.9760000003,2014
+260283,140319226.0,Friday,No,2014-04-18T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,INVEST,118,A1,First,No,BOYLSTON PL,Part three,Unarmed,,,,2014

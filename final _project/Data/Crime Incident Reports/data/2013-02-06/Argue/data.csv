@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56452,130106451.0,Wednesday,No,2013-02-06T12:00:00.000,Argue,"[0, 0]",Point,Argue,2,HARPT ,795,D14,Day,No,CAMBRIDGE TR,Part Three,Unarmed,,,,2013
+66631,130078222.0,Wednesday,No,2013-02-06T20:30:00.000,Argue,"[-71.055085, 42.363171]",Point,Argue,2,THREAT,91,A1,First,No,HANOVER ST,Part Three,Unarmed,776408.9563,,2957682.48,2013
+137786,130077228.0,Wednesday,No,2013-02-06T14:17:00.000,Argue,"[-71.13654, 42.364311]",Point,Argue,2,HARPT ,807,D14,Day,No,SOLDIERS FIELD RD,Part Three,Unarmed,754393.4147,,2957993.605,2013
+220748,130076340.0,Wednesday,No,2013-02-06T04:20:00.000,Argue,"[-71.07626, 42.283031]",Point,Argue,2,FIGHT ,434,B3,Last,No,MILTON AV,Part Three,Unarmed,770831.3612,,2928448.9689999996,2013
+255078,130076966.0,Wednesday,No,2013-02-06T12:12:00.000,Argue,"[-71.072175, 42.344486]",Point,Argue,2,SUSPER,152,D4,Day,No,CLARENDON ST,Part Three,Unarmed,771824.4287,,2950849.6780000003,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7218,130634274.0,Friday,No,2013-10-04T07:10:00.000,PersLoc,"[-71.07203, 42.339206]",Point,PersLoc,10,MISPER,905,D4,Last,No,E BROOKLINE ST,Other,Unarmed,771873.282,,2948925.7460000003,2013
+138180,130634084.0,Friday,No,2013-10-04T20:20:00.000,PersLoc,"[-71.053965, 42.359656]",Point,PersLoc,10,UNK   ,94,A1,First,No,CHATHAM ST,Other,Unarmed,776718.3415,,2956403.126,2013
+197284,130636229.0,Friday,No,2013-10-04T17:30:00.000,PersLoc,"[-71.100035, 42.320706]",Point,PersLoc,10,MISPER,303,E13,First,No,AMORY AV,Other,Unarmed,764333.4883,,2942147.27,2013
+253716,130635836.0,Friday,No,2013-10-04T14:20:00.000,PersLoc,"[-71.083825, 42.301956]",Point,PersLoc,10,MISPER,458,B3,Day,No,ELLINGTON ST,Other,Unarmed,768750.6327,,2935335.441,2013

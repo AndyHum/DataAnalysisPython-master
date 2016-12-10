@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93475,152006307.0,Friday,No,2015-01-23T15:45:00.000,Argue,"[-71.068653, 42.306188]",Point,Argue,1,IVPER,0,C11,Day,No,NORTON ST,Part three,Unarmed,772847.1206,,2936897.7789999996,2015
+159195,152006362.0,Friday,No,2015-01-23T17:43:00.000,Argue,"[-71.034775, 42.376486]",Point,Argue,1,DISTRB,0,A7,First,No,BENNINGTON ST,Part three,Unarmed,781871.3889,,2962564.014,2015
+208602,152006275.0,Friday,No,2015-01-23T13:57:00.000,Argue,"[-71.084747, 42.329375]",Point,Argue,1,FIGHT,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768452.5418,,2945326.172,2015

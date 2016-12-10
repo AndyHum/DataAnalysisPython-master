@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+192369,140253429.0,Saturday,No,2014-04-26T06:30:00.000,Service,"[-71.08507, 42.328881]",Point,Service,4,IVPREM,288,B2,Last,No,DUDLEY ST,Part three,Unarmed,768366.1044,WASHINGTON ST,2945145.712,2014
+215071,140254433.0,Saturday,No,2014-04-26T16:25:00.000,Service,"[-71.06305, 42.350871]",Point,Service,4,CD11  ,72,A1,First,No,STUART ST,Part three,Unarmed,774279.327,WASHINGTON ST,2953188.994,2014
+257223,140253246.0,Saturday,No,2014-04-26T02:36:00.000,Service,"[-71.088916, 42.342401]",Point,Service,4,SUSPER,619,D4,Last,No,GAINSBOROUGH ST,Part three,Unarmed,767302.2579999999,,2950067.662,2014

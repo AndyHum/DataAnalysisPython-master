@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87776,130073912.0,Monday,No,2013-02-04T23:40:00.000,FIRE,"[-71.03815, 42.367896]",Point,FIRE,2,FIREB ,35,A7,First,No,ORLEANS ST,Part Three,Other,780976.4193,,2959428.689,2013
+122734,130072025.0,Monday,No,2013-02-04T02:50:00.000,FIRE,"[-71.15331, 42.33931]",Point,FIRE,2,FIREB ,774,D14,Last,No,STRATHMORE RD,Part Three,Other,749898.3105,,2948863.793,2013
+165321,130071968.0,Monday,No,2013-02-04T01:53:00.000,FIRE,"[-71.123305, 42.290936]",Point,FIRE,2,FV    ,563,E5,Last,No,WASHINGTON ST,Part Three,Other,758088.2951,,2931269.939,2013

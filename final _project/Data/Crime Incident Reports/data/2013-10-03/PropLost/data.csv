@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12518,130631240.0,Thursday,No,2013-10-03T18:00:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,10,LSTPRP,282,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2013
+79095,130647342.0,Thursday,No,2013-10-03T21:00:00.000,PropLost,"[-71.071366, 42.282757]",Point,PropLost,10,LSTPRP,402,C11,First,No,WASHINGTON ST,Part three,Unarmed,772155.9576,,2928355.501,2013
+144796,130646860.0,Thursday,No,2013-10-03T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,MISC  ,435,B3,Day,No,PARK ST,Part three,Unarmed,,WEST ST,,2013
+145974,130639235.0,Thursday,No,2013-10-03T10:00:00.000,PropLost,"[-71.067485, 42.308271]",Point,PropLost,10,LSTPRP,335,C11,Day,No,CLARKSON ST,Part three,Unarmed,773159.2220000001,,2937658.715,2013
+197969,130631140.0,Thursday,No,2013-10-03T09:00:00.000,PropLost,"[-71.11663, 42.308696]",Point,PropLost,10,LARCRT,649,E13,Day,No,HATHAWAY ST,Part three,Unarmed,759865.2332,,2937750.012,2013
+200595,130644804.0,Thursday,No,2013-10-03T14:00:00.000,PropLost,"[-71.071675, 42.290936]",Point,PropLost,10,LSTPRP,362,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772057.5913,,2931335.86,2013
+209091,130632549.0,Thursday,No,2013-10-03T20:30:00.000,PropLost,"[-71.16763, 42.350551]",Point,PropLost,10,LSTPRP,752,D14,First,No,BRECK AV,Part three,Unarmed,746010.7963,WASHINGTON ST,2952944.895,2013
+242203,130630467.0,Thursday,No,2013-10-03T11:45:00.000,PropLost,"[-71.062335, 42.292806]",Point,PropLost,10,LSTPRP,363,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774581.1722,,2932030.142,2013

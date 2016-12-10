@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13035,120451032.0,Saturday,No,2012-07-21T23:41:00.000,InvProp,"[-71.079605, 42.347101]",Point,InvProp,7,ALARMC,146,D4,First,No,HUNTOON ST,Part Three,Other,769811.1326,,2951792.646,2012
+26255,120450754.0,Saturday,No,2012-07-21T21:22:00.000,InvProp,"[-71.10269, 42.306341]",Point,InvProp,7,SHOTS ,570,E13,First,No,FOREST HILLS ST,Part Three,Unarmed,763639.8581,,2936909.067,2012
+75543,120449234.0,Saturday,No,2012-07-21T03:16:00.000,InvProp,"[-71.10214, 42.334221]",Point,InvProp,7,INVEST,602,B2,Last,No,WORTHINGTON ST,Part Three,Other,763741.2418,,2947069.712,2012
+84096,120459474.0,Saturday,No,2012-07-21T15:00:00.000,InvProp,"[-71.066155, 42.319201]",Point,InvProp,7,IVPER ,238,B2,Day,No,WENDOVER ST,Part Three,Firearm,773498.7203,,2941643.606,2012
+116434,120471061.0,Saturday,No,2012-07-21T18:15:00.000,InvProp,"[0, 0]",Point,InvProp,7,IVMV  ,618,D4,First,No,SEAVER ST,Part Three,Unarmed,,WALNUT ST,,2012
+142265,120449136.0,Saturday,No,2012-07-21T02:18:00.000,InvProp,"[-71.06769, 42.310766]",Point,InvProp,7,IVPREM,332,C11,Last,No,BELLEVUE ST,Part Three,Other,773099.167,,2938567.648,2012
+198900,120451040.0,Saturday,No,2012-07-21T23:47:00.000,InvProp,"[-71.079466, 42.327327]",Point,InvProp,7,IVPREM,281,B2,Last,No,MT PLEASANT AV,Part Three,Other,769884.0976,,2944586.5360000003,2012

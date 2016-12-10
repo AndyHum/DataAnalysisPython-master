@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73056,120495238.0,Friday,No,2012-08-10T00:57:00.000,Arrest,"[-71.12366, 42.257651]",Point,Arrest,8,ARREST,520,E18,Last,No,HYDE PARK AV,Part Three,Unarmed,758045.7614,,2919139.9889999996,2012
+104632,120495252.0,Friday,No,2012-08-10T01:00:00.000,Arrest,"[-71.10476, 42.321911]",Point,Arrest,8,ARREST,579,E13,Last,No,MOZART ST,Part Three,Unarmed,763053.632,,2942580.435,2012
+175669,120495745.0,Friday,No,2012-08-10T09:30:00.000,Arrest,"[-71.0526, 42.328611]",Point,Arrest,8,ARREST,192,C6,Day,No,OLD COLONY AV,Part Three,Other,777146.6032,DEVINE WY,2945091.7010000004,2012
+180009,120495258.0,Friday,No,2012-08-10T01:36:00.000,Arrest,"[-71.08921, 42.289111]",Point,Arrest,8,VIORDR,439,B3,Last,No,CALLENDER ST,Part Three,Unarmed,767316.4335,,2930647.466,2012

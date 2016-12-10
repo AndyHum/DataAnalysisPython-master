@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36084,120692319.0,Friday,No,2012-11-02T20:00:00.000,InvProp,"[-71.059945, 42.352506]",Point,InvProp,11,DISTRB,116,A1,First,No,ESSEX ST,Part Three,Unarmed,775115.5622,,2953789.135,2012
+174005,120697133.0,Friday,No,2012-11-02T18:00:00.000,InvProp,"[-71.14184, 42.284881]",Point,InvProp,11,IVMV  ,687,E5,First,No,REXHAME ST,Part Three,Other,753082.6205,COLBERG AV,2929041.8,2012
+210114,120690372.0,Friday,No,2012-11-02T00:27:00.000,InvProp,"[-71.054725, 42.312146]",Point,InvProp,11,IVPREM,254,C11,Last,No,SAVIN HILL AV,Part Three,Unarmed,776603.3184,,2939088.582,2012
+248029,120690955.0,Friday,No,2012-11-02T08:54:00.000,InvProp,"[-71.053065, 42.327871]",Point,InvProp,11,FIREB ,914,C6,Day,No,MCDONOUGH WY,Part Three,Unarmed,777022.2779,,2944821.374,2012

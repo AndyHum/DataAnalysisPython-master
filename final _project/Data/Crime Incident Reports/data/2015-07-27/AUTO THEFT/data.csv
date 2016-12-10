@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18204,,Monday,No,2015-07-27T00:00:00.000,Auto Theft,"[-71.071509, 42.302918]",Point,07xx,7,IVMV,343,C11,,No,BOWDOIN ST,Part One,None,772081.0,,2940000.0,2015
+28323,,Monday,No,2015-07-27T00:00:00.000,Auto Theft,"[-71.062567, 42.306659]",Point,07xx,7,IVMV,340,C11,,No,FOX ST,Part One,None,774492.0,,2940000.0,2015
+81218,,Monday,No,2015-07-27T00:00:00.000,Auto Theft,"[-71.130863, 42.283902]",Point,07xx,7,IVMV,680,E5,,No,WASHINGTON ST,Part One,None,756054.0,,2930000.0,2015
+82199,,Monday,No,2015-07-27T21:59:00.000,Auto Theft Recovery,"[0, 0]",Point,07RV,7,SS,238,B2,,No,DUDLEY ST,Other,None,,DUDLEY TER,,2015
+84321,,Monday,No,2015-07-27T00:00:00.000,Auto Theft,"[-71.163139, 42.352664]",Point,07xx,7,,765,D14,,No,BROOKS ST,Part One,None,747222.0,,2950000.0,2015
+97097,,Monday,No,2015-07-27T00:00:00.000,Auto Theft,"[-71.025613, 42.380119]",Point,07xx,7,IVMV,15,A7,,No,NEPTUNE RD,Part One,None,784340.0,,2960000.0,2015
+154242,,Monday,No,2015-07-27T00:00:00.000,Auto Theft,"[-71.043421, 42.330494]",Point,07xx,7,IVMV,233,C6,,No,COLUMBIA RD,Part One,None,779625.0,,2950000.0,2015
+202666,,Monday,No,2015-07-27T00:00:00.000,Auto Theft,"[-71.050941, 42.331188]",Point,07xx,7,IVPER,915,C6,,No,REV RICHARD A BURKE ST,Part One,None,777590.0,,2950000.0,2015
+250937,,Monday,No,2015-07-27T00:00:00.000,Auto Theft,"[-71.085634, 42.328663]",Point,07xx,7,,282,B2,,No,WASHINGTON ST,Part One,None,768214.0,,2950000.0,2015

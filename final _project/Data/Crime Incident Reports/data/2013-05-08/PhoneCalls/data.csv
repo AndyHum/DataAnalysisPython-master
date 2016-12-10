@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34898,130273515.0,Wednesday,No,2013-05-08T11:53:00.000,PhoneCalls,"[-71.057598, 42.353427]",Point,PhoneCalls,5,IVPER ,106,A1,Day,No,SUMMER ST,Part Three,Unarmed,775748.1515,,2954127.966,2013
+38027,130274371.0,Wednesday,No,2013-05-08T17:10:00.000,PhoneCalls,"[-71.16302, 42.288991]",Point,PhoneCalls,5,IVPER ,691,E5,First,No,VERMONT ST,Part Three,Unarmed,747345.5584,,2930516.1969999997,2013
+62915,130273351.0,Wednesday,No,2013-05-08T13:10:00.000,PhoneCalls,"[-71.059987, 42.361648]",Point,PhoneCalls,5,IVPER ,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013

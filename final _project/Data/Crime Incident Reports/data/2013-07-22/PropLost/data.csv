@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7920,130456218.0,Monday,No,2013-07-22T14:00:00.000,PropLost,"[-71.084364, 42.306373]",Point,PropLost,7,LARCRT,330,B2,Day,No,BLUE HILL AV,Part three,Unarmed,768596.965,,2936944.225,2013
+26148,130455733.0,Monday,No,2013-07-22T14:30:00.000,PropLost,"[-71.108195, 42.338066]",Point,PropLost,7,LARCRT,593,B2,Day,No,BROOKLINE AV,Part three,Unarmed,762097.6509,,2948463.3230000003,2013
+73874,130456250.0,Monday,No,2013-07-22T22:15:00.000,PropLost,"[-71.050814, 42.357948]",Point,PropLost,7,LSTPRP,90,A1,First,No,E INDIA ROW,Part three,Unarmed,777573.203,,2955784.918,2013
+142281,130455481.0,Monday,No,2013-07-22T16:45:00.000,PropLost,"[-71.070165, 42.338916]",Point,PropLost,7,LSTPRP,167,D4,First,No,HARRISON AV,Part three,Unarmed,772378.0333,,2948822.6,2013
+179711,130455784.0,Monday,No,2013-07-22T18:50:00.000,PropLost,"[-71.02778, 42.379076]",Point,PropLost,7,LARCIP,17,A7,First,No,BENNINGTON ST,Part three,Unarmed,783756.2067,,2963518.247,2013
+201658,130457066.0,Monday,No,2013-07-22T00:00:00.000,PropLost,"[-71.15163, 42.349006]",Point,PropLost,7,LSTPRP,771,D14,Last,No,WASHINGTON ST,Part three,Unarmed,750338.0816,,2952399.125,2013
+236222,130455549.0,Monday,No,2013-07-22T17:17:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,7,LSTPRP,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+249794,130470226.0,Monday,No,2013-07-22T15:00:00.000,PropLost,"[-71.056374, 42.350817]",Point,PropLost,7,IVPER ,114,A1,Day,No,ATLANTIC AV,Part three,Unarmed,776084.0039,,2953178.441,2013
+260912,130460531.0,Monday,No,2013-07-22T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,LSTPRP,98,A1,Day,No,STATE ST,Part three,Unarmed,,,,2013
+262818,130513117.0,Monday,No,2013-07-22T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,LARCRT,666,E13,First,No,MASSACHUSETTS AV,Part three,Unarmed,,WESTLAND AV,,2013

@@ -1,0 +1,19 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42638,152012484.0,Monday,No,2015-02-16T12:19:00.000,MedAssist,"[-71.049401, 42.29763]",Point,MedAssist,2,UNKEMS,0,C11,Day,No,MORRISSEY BL,Part three,Unarmed,778071.2105,,2933806.111,2015
+60186,152012443.0,Monday,No,2015-02-16T10:49:00.000,MedAssist,"[-71.08574, 42.336966]",Point,MedAssist,2,ALARM,0,D4,Day,No,COVENTRY ST,Part three,Knife,768170.625,,2948091.15,2015
+103795,152012568.0,Monday,No,2015-02-16T16:40:00.000,MedAssist,"[-71.039275, 42.318716]",Point,MedAssist,2,DISTRB,0,C6,First,No,OYSTER BAY RD,Part three,Unarmed,780769.2107,,2941504.985,2015
+112291,152012507.0,Monday,No,2015-02-16T12:51:00.000,MedAssist,"[-71.13858, 42.278276]",Point,MedAssist,2,REQEP,0,E5,Day,No,MENDELSSOHN ST,Part three,Unarmed,753974.9506,,2926638.561,2015
+127979,152012392.0,Monday,No,2015-02-16T03:08:00.000,MedAssist,"[-71.05078, 42.356576]",Point,MedAssist,2,IVPER,0,A1,Last,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2015
+144692,152012638.0,Monday,No,2015-02-16T20:35:00.000,MedAssist,"[-71.077705, 42.326266]",Point,MedAssist,2,EDP,0,B2,First,No,VINE ST,Part three,Unarmed,770362.3408,,2944202.534,2015
+159077,152012411.0,Monday,No,2015-02-16T06:06:00.000,MedAssist,"[-71.062055, 42.306561]",Point,MedAssist,2,UNCONS,0,C11,Last,No,ADAMS ST,Part three,Unarmed,774631.1918,,2937043.057,2015
+160009,152012510.0,Monday,No,2015-02-16T11:59:00.000,MedAssist,"[-71.077565, 42.316091]",Point,MedAssist,2,IVPER,0,B2,Day,No,WOODCLIFF ST,Part three,Unarmed,770418.5634,,2940494.7819999997,2015
+179781,152012741.0,Monday,No,2015-02-16T15:35:00.000,MedAssist,"[-71.13091, 42.249931]",Point,MedAssist,2,IVPER,0,E18,Day,No,RIVER ST,Part three,Unarmed,756095.3011,,2916318.145,2015
+221978,152012491.0,Monday,No,2015-02-16T12:03:00.000,MedAssist,"[-71.07969, 42.324886]",Point,MedAssist,2,IVPER,0,B2,Day,No,WHITING ST,Part three,Unarmed,769828.0462,,2943696.988,2015
+244583,152012626.0,Monday,No,2015-02-16T18:00:00.000,MedAssist,"[-71.03561, 42.371676]",Point,MedAssist,2,ALARM,0,A7,First,No,BREMEN ST,Part three,Unarmed,781655.3152,,2960809.9239999996,2015
+250147,152012432.0,Monday,No,2015-02-16T09:44:00.000,MedAssist,"[-71.144331, 42.249805]",Point,MedAssist,2,REQEP,0,E18,Day,No,LEIGHTON RD,Part three,Unarmed,752461.6489,,2916256.687,2015
+256291,152012627.0,Monday,No,2015-02-16T19:23:00.000,MedAssist,"[-71.100095, 42.270424]",Point,MedAssist,2,INVEST,0,B3,First,No,CUMMINS HY,Part three,Unarmed,764403.0167,,2923823.66,2015
+260351,152012402.0,Monday,No,2015-02-16T06:15:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,POISON,0,D4,Last,No,DARTMOUTH ST,Part three,Unarmed,,,,2015
+260954,152012382.0,Monday,No,2015-02-16T00:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,DVIP,0,C6,Last,No,COLUMBIA RD,Part three,Unarmed,,,,2015
+262623,152012434.0,Monday,No,2015-02-16T11:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,DVIP,0,C11,Day,No,GIBSON ST,Part three,Unarmed,,,,2015
+262794,152012716.0,Monday,No,2015-02-16T15:30:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,INJOFF,0,E13,Day,No,CENTRE PZ,Part three,Unarmed,,,,2015
+263430,152012580.0,Monday,No,2015-02-16T16:53:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,INVEST,0,B2,First,No,WEAVER WY,Part three,Unarmed,,,,2015

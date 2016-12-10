@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113650,142050050.0,Tuesday,No,2014-11-18T12:00:00.000,SearchWarr,"[-71.061185, 42.351706]",Point,SearchWarr,11,CD11,0,A1,Day,No,HARRISON AV,Part three,Unarmed,774781.8874,,2953495.873,2014
+122511,142050025.0,Tuesday,No,2014-11-18T08:15:00.000,SearchWarr,"[-71.08144, 42.309931]",Point,SearchWarr,11,ADMRPT,0,B2,Day,No,STANWOOD ST,Part three,Other,769381.5557,BLUE HILL AV,2938244.811,2014
+149869,142050048.0,Tuesday,No,2014-11-18T12:04:00.000,SearchWarr,"[-71.061185, 42.351706]",Point,SearchWarr,11,CD11,0,A1,Day,No,HARRISON AV,Part three,Unarmed,774781.8874,,2953495.873,2014
+163387,142050055.0,Tuesday,No,2014-11-18T12:10:00.000,SearchWarr,"[-71.059741, 42.352052]",Point,SearchWarr,11,CD11,0,A1,Day,No,EDINBORO ST,Part three,Unarmed,775171.4473,,2953623.878,2014

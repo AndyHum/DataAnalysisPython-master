@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23667,130804647.0,Sunday,No,2013-12-22T16:18:00.000,Argue,"[-71.066075, 42.304986]",Point,Argue,12,REMOVE,341,C11,First,No,HAMILTON ST,Part three,Unarmed,773546.7091,,2936463.545,2013
+110642,130803855.0,Sunday,No,2013-12-22T03:50:00.000,Argue,"[-71.08559, 42.336381]",Point,Argue,12,FIGHT ,285,D4,Last,No,TREMONT ST,Part three,Unarmed,768212.2151,,2947878.162,2013
+156107,130804799.0,Sunday,No,2013-12-22T17:29:00.000,Argue,"[-71.072097, 42.321041]",Point,Argue,12,DVIP  ,183,B2,First,No,DUDLEY ST,Part three,Unarmed,771888.2764,,2942305.988,2013
+180621,130803625.0,Sunday,No,2013-12-22T01:23:00.000,Argue,"[-71.08195, 42.282956]",Point,Argue,12,ABIP  ,417,B3,Last,No,CROWELL ST,Part three,Unarmed,769291.7881,,2928414.041,2013

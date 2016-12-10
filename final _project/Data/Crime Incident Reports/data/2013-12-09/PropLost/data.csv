@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29911,130777048.0,Monday,No,2013-12-09T18:30:00.000,PropLost,"[-71.071975, 42.334581]",Point,PropLost,12,LSTPRP,172,D4,First,No,ALBANY ST,Part three,Unarmed,771896.608,,2947240.389,2013
+61275,130776110.0,Monday,No,2013-12-09T12:53:00.000,PropLost,"[-71.073415, 42.351136]",Point,PropLost,12,LARCRT,129,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771477.0915,,2953271.3839999996,2013
+71130,130780053.0,Monday,No,2013-12-09T12:00:00.000,PropLost,"[-71.06382, 42.361866]",Point,PropLost,12,LSTPRP,74,A1,Day,No,STANIFORD ST,Part three,Unarmed,774050.6995,,2957194.7189999996,2013
+100354,130776873.0,Monday,No,2013-12-09T20:28:00.000,PropLost,"[-71.13163, 42.249486]",Point,PropLost,12,LSTPRP,540,E18,First,No,ELLIS ST,Part three,Unarmed,755901.0685,,2916155.14,2013
+132908,130776518.0,Monday,No,2013-12-09T15:00:00.000,PropLost,"[-71.05423, 42.330916]",Point,PropLost,12,LSTPRP,193,C6,Day,No,DORCHESTER ST,Part three,Unarmed,776701.4554,,2945929.374,2013
+179043,130780971.0,Monday,No,2013-12-09T19:00:00.000,PropLost,"[-71.083946, 42.343457]",Point,PropLost,12,LSTPRP,145,D4,First,No,HUNTINGTON AV,Part three,Unarmed,768643.9003,,2950458.77,2013
+181168,130777826.0,Monday,No,2013-12-09T11:00:00.000,PropLost,"[-71.08507, 42.328881]",Point,PropLost,12,LSTPRP,288,B2,Day,No,DUDLEY ST,Part three,Unarmed,768366.1044,WASHINGTON ST,2945145.712,2013
+252642,130778147.0,Monday,No,2013-12-09T22:00:00.000,PropLost,"[-71.07163, 42.350686]",Point,PropLost,12,LSTPRP,129,D4,First,No,ST JAMES ST,Part three,Unarmed,771960.4134,,2953109.815,2013

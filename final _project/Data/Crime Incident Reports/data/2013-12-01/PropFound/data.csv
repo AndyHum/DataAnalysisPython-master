@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51899,130757957.0,Sunday,No,2013-12-01T09:56:00.000,PropFound,"[-71.04723, 42.319566]",Point,PropFound,12,FDPROP,913,C6,Day,No,MT VERNON ST,Part three,Unarmed,778616.1691,,2941803.2180000003,2013
+126352,130758345.0,Sunday,No,2013-12-01T14:00:00.000,PropFound,"[-71.07033, 42.291278]",Point,PropFound,12,LSTPRP,355,C11,Day,No,MOULTRIE ST,Part three,Unarmed,772420.6342,,2931462.2210000004,2013
+129657,130758342.0,Sunday,No,2013-12-01T10:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,12,LSTPRP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+150933,130759956.0,Sunday,No,2013-12-01T11:25:00.000,PropFound,"[-71.059871, 42.286907]",Point,PropFound,12,FDPROP,393,C11,Day,No,ASHMONT ST,Part three,Unarmed,775258.8904,,2929883.85,2013
+263210,130780574.0,Sunday,No,2013-12-01T21:30:00.000,PropFound,"[0, 0]",Point,PropFound,12,LSTPRP,87,A1,First,No,HANOVER ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107169,152033285.0,Friday,No,2015-04-24T09:45:00.000,Argue,"[-71.06561, 42.344456]",Point,Argue,4,DISTRB,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,773599.2408,,2950847.715,2015
+160323,152033410.0,Friday,No,2015-04-24T15:35:00.000,Argue,"[-71.090005, 42.343586]",Point,Argue,4,IVPER,0,D4,Day,No,HEMENWAY ST,Part three,Other,767005.9056,,2950498.028,2015
+160570,152033482.0,Friday,No,2015-04-24T19:37:00.000,Argue,"[-71.13012, 42.362786]",Point,Argue,4,PKNIFE,0,D14,First,No,N HARVARD ST,Part three,Unarmed,756130.8459,,2957445.3210000005,2015
+161857,152033242.0,Friday,No,2015-04-24T00:56:00.000,Argue,"[-71.058362, 42.358828]",Point,Argue,4,IVPER,0,A1,Last,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2015

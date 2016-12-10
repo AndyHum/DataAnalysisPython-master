@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84885,140113161.0,Sunday,No,2014-02-23T12:11:00.000,Service,"[-71.06512, 42.308021]",Point,Service,2,IVPER ,335,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773799.4015,QUINCY ST,2937570.861,2014
+137630,140112292.0,Sunday,No,2014-02-23T00:16:00.000,Service,"[-71.137415, 42.283171]",Point,Service,2,ARREST,681,E5,Last,No,WALWORTH ST,Part three,Unarmed,754282.6379999999,,2928423.709,2014
+171840,140112333.0,Sunday,No,2014-02-23T00:00:00.000,Service,"[-71.03894, 42.370111]",Point,Service,2,STAB  ,28,A7,Last,No,MERIDIAN ST,Part three,Knife,780758.5695,MAVERICK ST,2960234.723,2014
+196929,140113357.0,Sunday,No,2014-02-23T14:10:00.000,Service,"[-71.06143, 42.353081]",Point,Service,2,ARREST,112,A1,Day,No,HARRISON AV,Part three,Unarmed,774713.0862,HAYWARD PL,2953996.607,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50716,152028497.0,Wednesday,No,2015-04-08T12:00:00.000,SexReg,"[-71.0729, 42.333256]",Point,SexReg,4,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2015
+228908,152028468.0,Wednesday,No,2015-04-08T13:10:00.000,SexReg,"[-71.06287, 42.352321]",Point,SexReg,4,ARREST,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774325.2748,,2953717.652,2015
+267455,152028441.0,Wednesday,No,2015-04-08T09:00:00.000,SexReg,"[0, 0]",Point,SexReg,4,IVPER,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015

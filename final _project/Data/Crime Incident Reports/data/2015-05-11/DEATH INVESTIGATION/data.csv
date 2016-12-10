@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90847,152038460.0,Monday,No,2015-05-11T10:06:00.000,DEATH INVESTIGATION,"[-71.135492, 42.348735]",Point,01INV,5,UNKEMS,0,D14,Day,No,LONG AV,Part three,Unarmed,754700.8393,,2952318.46,2015
+197837,152038704.0,Monday,No,2015-05-11T15:00:00.000,DEATH INVESTIGATION,"[-71.115321, 42.255882]",Point,01INV,5,UNKEMS,0,E18,Day,No,TRUMAN PY,Part three,Unarmed,760305.8829,,2918505.3860000004,2015
+254652,152038694.0,Monday,No,2015-05-11T09:47:00.000,DEATH INVESTIGATION,"[-71.062875, 42.360186]",Point,01INV,5,UNKEMS,0,A1,Day,No,BOWDOIN ST,Part three,Unarmed,774309.2348,,2956583.8019999997,2015

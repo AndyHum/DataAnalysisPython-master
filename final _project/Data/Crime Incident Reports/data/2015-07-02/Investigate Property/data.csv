@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5586,,Thursday,No,2015-07-02T00:00:00.000,Investigate Property,"[-71.081153, 42.296297]",Point,InvProp,7,SSA,444,B3,,No,HARVARD ST,Part Three,None,769484.0,,2930000.0,2015
+26564,,Thursday,No,2015-07-02T00:00:00.000,Investigate Property,"[-71.069251, 42.281071]",Point,InvProp,7,ALARM,403,C11,,No,CROFTLAND AVE,Part Three,None,772732.0,,2930000.0,2015
+77042,,Thursday,No,2015-07-02T00:00:00.000,Investigate Property,"[-71.07161, 42.314784]",Point,InvProp,7,BE,259,B2,,No,MAGNOLIA ST,Part Three,None,772031.0,,2940000.0,2015
+100425,,Thursday,No,2015-07-02T00:00:00.000,Investigate Property,"[-71.038977, 42.371005]",Point,InvProp,7,BOMB,28,A7,,No,MERIDIAN ST,Part Three,None,780747.0,,2960000.0,2015
+186178,,Thursday,No,2015-07-02T00:48:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,SHOTS,395,C11,,No,BEALE ST,Part Three,None,,DORCHESTER AVE,,2015
+187043,,Thursday,No,2015-07-02T00:00:00.000,Investigate Property,"[-71.125736, 42.267509]",Point,InvProp,7,UNK,553,E18,,No,BEECHMONT ST,Part Three,None,757468.0,,2920000.0,2015
+251423,,Thursday,No,2015-07-02T00:00:00.000,Investigate Property,"[-71.082743, 42.297466]",Point,InvProp,7,PERGUN,444,B3,,No,BICKNELL ST,Part Three,None,769051.0,,2930000.0,2015
+254294,,Thursday,No,2015-07-02T00:00:00.000,Investigate Property,"[-71.114019, 42.25077]",Point,InvProp,7,IVPER,513,E18,,No,NORWAY PARK,Part Three,None,760667.0,,2920000.0,2015

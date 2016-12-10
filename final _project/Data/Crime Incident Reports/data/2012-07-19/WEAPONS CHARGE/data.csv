@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14728,120444063.0,Thursday,No,2012-07-19T01:25:00.000,WEAPONS CHARGE,"[-71.081695, 42.317194]",Point,15xx,7,IVPER ,311,B2,Last,No,SAVIN ST,Part Two,Unarmed,769299.3452,WARREN ST,2940891.212,2012
+125764,120446191.0,Thursday,No,2012-07-19T22:26:00.000,WEAPONS CHARGE,"[-71.086015, 42.319096]",Point,15xx,7,ARREST,310,B2,First,No,HUMBOLDT AV,Part Two,Firearm,768127.88,KING BL,2941578.648,2012
+194048,120446187.0,Thursday,No,2012-07-19T19:20:00.000,WEAPONS CHARGE,"[-71.1371, 42.277196]",Point,15xx,7,IVPER ,910,E5,First,No,BEECHLAND ST,Part Two,Knife,754377.1418,,2926246.6939999997,2012

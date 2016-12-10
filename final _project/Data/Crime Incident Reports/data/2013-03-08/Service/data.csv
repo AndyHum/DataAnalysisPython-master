@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110074,130138879.0,Friday,No,2013-03-08T15:52:00.000,Service,"[-71.05699, 42.377531]",Point,Service,3,INJAML,43,A15,Day,No,OREILLY WY,Part Three,Other,775866.9381,TUFTS ST,2962912.874,2013
+214307,130138682.0,Friday,No,2013-03-08T14:05:00.000,Service,"[-71.148575, 42.287141]",Point,Service,3,IVPER ,691,E5,Day,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2013
+221859,130139411.0,Friday,No,2013-03-08T17:30:00.000,Service,"[-71.073978, 42.333151]",Point,Service,3,ARREST,169,D4,First,No,ALBANY ST,Part Three,Unarmed,771357.6081,,2946716.26,2013

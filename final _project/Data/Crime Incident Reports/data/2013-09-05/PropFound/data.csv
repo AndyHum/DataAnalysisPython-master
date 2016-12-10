@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20215,130562644.0,Thursday,No,2013-09-05T03:30:00.000,PropFound,"[-71.07309, 42.351211]",Point,PropFound,9,FDPROP,129,D4,Last,No,BOYLSTON ST,Part three,Unarmed,771564.8051,BERKELEY ST,2953299.1539999996,2013
+47190,130563831.0,Thursday,No,2013-09-05T12:00:00.000,PropFound,"[-71.039935, 42.334491]",Point,PropFound,9,FDPROP,226,C6,Day,No,I ST,Part three,Unarmed,780559.7092,,2947252.689,2013
+54563,130562909.0,Thursday,No,2013-09-05T08:08:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,9,FDPROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+206238,130562642.0,Thursday,No,2013-09-05T00:30:00.000,PropFound,"[-71.08738, 42.346641]",Point,PropFound,9,FDPROP,620,D4,Last,No,HAVILAND ST,Part three,Unarmed,767710.1637,MASSACHUSETTS AV,2951614.749,2013
+207699,130564745.0,Thursday,No,2013-09-05T16:30:00.000,PropFound,"[-71.07351, 42.333491]",Point,PropFound,9,FDPROP,179,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,771483.5641,ALBANY ST,2946841.0930000003,2013

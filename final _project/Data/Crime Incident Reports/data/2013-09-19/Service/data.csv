@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90773,130596680.0,Thursday,No,2013-09-19T02:53:00.000,Service,"[-71.061434, 42.300547]",Point,Service,9,ARREST,356,C11,Last,No,CHARLES ST,Part three,Unarmed,774810.2974,,2934852.3389999997,2013
+130988,130596732.0,Thursday,No,2013-09-19T03:55:00.000,Service,"[-71.08319, 42.341546]",Point,Service,9,SSTOP ,284,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,768851.9087,,2949763.5439999998,2013
+155001,130596669.0,Thursday,No,2013-09-19T02:40:00.000,Service,"[-71.06031, 42.299771]",Point,Service,9,ARREST,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775115.9656,LINCOLN ST,2934571.107,2013
+198033,130598282.0,Thursday,No,2013-09-19T18:05:00.000,Service,"[-71.11617, 42.296071]",Point,Service,9,ARREST,509,E13,First,No,HYDE PARK AV,Part three,Unarmed,760010.3618,WALK HILL ST,2933149.8189999997,2013
+233702,130598297.0,Thursday,No,2013-09-19T18:13:00.000,Service,"[-71.09362, 42.275141]",Point,Service,9,SSTOP ,469,B3,First,No,BLUE HILL AV,Part three,Unarmed,766147.4607,TENNIS RD,2925550.885,2013

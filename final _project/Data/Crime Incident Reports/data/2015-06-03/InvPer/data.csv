@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2465,152045977.0,Wednesday,No,2015-06-03T20:35:00.000,InvPer,"[0, 0]",Point,InvPer,6,SHOTS,0,C6,First,No,GAVIN WY,Part three,Other,,,,2015
+3034,152048114.0,Wednesday,No,2015-06-03T12:00:00.000,InvPer,"[-71.14243, 42.349389]",Point,InvPer,6,IVPER,0,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2015
+7758,152045890.0,Wednesday,No,2015-06-03T14:30:00.000,InvPer,"[-71.074698, 42.318167]",Point,InvPer,6,IVPER,0,B2,Day,No,BROOKFORD ST,Part three,Unarmed,771190.0173,,2941254.8710000003,2015
+91811,152045981.0,Wednesday,No,2015-06-03T19:38:00.000,InvPer,"[-71.0545, 42.336796]",Point,InvPer,6,DISTRB,0,C6,First,No,LINSKY BARRY CT,Part three,Other,776617.2571,,2948071.767,2015
+152744,152047066.0,Wednesday,No,2015-06-03T08:00:00.000,InvPer,"[-71.046225, 42.334096]",Point,InvPer,6,IVPER,0,C6,Day,No,ATLANTIC ST,Part three,Unarmed,778859.7939,,2947099.6339999996,2015
+154871,152046016.0,Wednesday,No,2015-06-03T10:37:00.000,InvPer,"[-71.149195, 42.350047]",Point,InvPer,6,INVEST,0,D14,Day,No,ELKO ST,Part three,Unarmed,750994.5104,,2952781.203,2015
+196558,152045780.0,Wednesday,No,2015-06-03T09:00:00.000,InvPer,"[-71.077945, 42.295881]",Point,InvPer,6,VIORDR,0,B3,Day,No,ATHELWOLD ST,Part three,Unarmed,770352.2309,,2933129.433,2015
+220737,152045868.0,Wednesday,No,2015-06-03T14:48:00.000,InvPer,"[-71.054735, 42.321626]",Point,InvPer,6,VAND,0,C6,Day,No,MT VERNON ST,Part three,Unarmed,776582.579,,2942543.231,2015
+228203,152045926.0,Wednesday,No,2015-06-03T17:45:00.000,InvPer,"[-71.059588, 42.362914]",Point,InvPer,6,IVPER,0,A1,First,No,CONGRESS ST,Part three,Unarmed,775192.3665,NEW CHARDON ST,2957582.563,2015
+250229,152045802.0,Wednesday,No,2015-06-03T11:10:00.000,InvPer,"[-71.11582, 42.262541]",Point,InvPer,6,BE,0,E18,Day,No,LEXINGTON AV,Part three,Unarmed,760160.0941,,2920931.432,2015

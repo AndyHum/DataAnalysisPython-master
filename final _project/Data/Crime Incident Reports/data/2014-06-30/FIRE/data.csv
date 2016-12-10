@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75966,142004336.0,Monday,No,2014-06-30T02:30:00.000,FIRE,"[-71.05443, 42.284201]",Point,FIRE,6,FO,0,C11,Last,No,SARANAC ST,Part three,Other,776736.3057,,2928905.437,2014
+127142,142004638.0,Monday,No,2014-06-30T08:13:00.000,FIRE,"[-71.055895, 42.357101]",Point,FIRE,6,FIRE,0,A1,Day,No,POST OFFICE SQ,Part three,Unarmed,776201.5663,,2955469.313,2014
+129572,142004684.0,Monday,No,2014-06-30T22:05:00.000,FIRE,"[-71.102815, 42.334481]",Point,FIRE,6,FIRE,0,B2,First,No,WIGGLESWORTH ST,Part three,Unarmed,763558.2934,,2947163.611,2014

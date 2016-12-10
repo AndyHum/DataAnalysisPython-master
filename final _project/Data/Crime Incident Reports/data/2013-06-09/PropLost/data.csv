@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15601,130373936.0,Sunday,No,2013-06-09T12:00:00.000,PropLost,"[-71.152004, 42.340559]",Point,PropLost,6,LSTPRP,775,D14,Day,No,CHISWICK RD,Part three,Unarmed,750249.4873,,2949320.4060000004,2013
+71080,130422400.0,Sunday,No,2013-06-09T12:00:00.000,PropLost,"[-71.141445, 42.351256]",Point,PropLost,6,LSTPRP,783,D14,Day,No,RIDGEMONT ST,Part three,Unarmed,753087.8235,,2953230.483,2013
+125189,130350993.0,Sunday,No,2013-06-09T19:27:00.000,PropLost,"[-71.039731, 42.347751]",Point,PropLost,6,LARCRT,206,C6,First,No,CONGRESS ST,Part three,Unarmed,780588.7721,,2952085.0689999997,2013
+133192,130355111.0,Sunday,No,2013-06-09T15:00:00.000,PropLost,"[-71.05713, 42.339756]",Point,PropLost,6,LSTPRP,216,C6,Day,No,DORCHESTER AV,Part three,Unarmed,775900.5863,,2949146.74,2013
+178613,130350143.0,Sunday,No,2013-06-09T02:00:00.000,PropLost,"[-71.055312, 42.327496]",Point,PropLost,6,LSTPRP,914,C6,Last,No,OCALLAGHAN WY,Part three,Unarmed,776415.2591,,2944681.3510000003,2013
+192185,130368454.0,Sunday,No,2013-06-09T19:00:00.000,PropLost,"[-71.0649, 42.351031]",Point,PropLost,6,LSTPRP,118,A1,First,No,STUART ST,Part three,Unarmed,773778.9577,TREMONT ST,2953244.745,2013
+227258,130368623.0,Sunday,No,2013-06-09T00:00:00.000,PropLost,"[-71.05256, 42.359511]",Point,PropLost,6,LSTPRP,94,A1,Last,No,STATE ST,Part three,Unarmed,777098.3496,,2956352.275,2013
+260569,130350453.0,Sunday,No,2013-06-09T05:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,403,C11,Last,No,FULLER ST,Part three,Unarmed,,,,2013
+264804,130350619.0,Sunday,No,2013-06-09T02:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,754,D14,Last,No,NONANTUM ST,Part three,Unarmed,,,,2013

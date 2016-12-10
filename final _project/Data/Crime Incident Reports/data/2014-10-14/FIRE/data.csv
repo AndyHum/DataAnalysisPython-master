@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106968,142038947.0,Tuesday,No,2014-10-14T13:00:00.000,FIRE,"[-71.03981, 42.376191]",Point,FIRE,10,IVPREM,0,A7,Day,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2014
+143281,142039097.0,Tuesday,No,2014-10-14T18:45:00.000,FIRE,"[-71.074107, 42.284279]",Point,FIRE,10,FIRE,0,B3,First,No,ARMANDINE ST,Part three,Unarmed,771411.6405,,2928906.461,2014
+230331,142038942.0,Tuesday,No,2014-10-14T13:02:00.000,FIRE,"[-71.163424, 42.276105]",Point,FIRE,10,FIRE,0,E5,Day,No,CASS ST,Part three,Other,747254.6754,,2925819.856,2014
+255987,142039087.0,Tuesday,No,2014-10-14T18:50:00.000,FIRE,"[-71.127403, 42.353628]",Point,FIRE,10,FIRE,0,D14,First,No,GARDNER ST,Part three,Unarmed,756879.5915,,2954111.173,2014

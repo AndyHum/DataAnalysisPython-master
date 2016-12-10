@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7975,140107207.0,Thursday,No,2014-02-20T20:00:00.000,Arrest,"[-71.127345, 42.283136]",Point,Arrest,2,ARREST,560,E5,First,No,WILKINS PL,Part three,Unarmed,757007.6276,,2928422.6989999996,2014
+14316,130182763.0,Thursday,No,2014-02-20T10:54:00.000,Arrest,"[-71.0271, 42.333261]",Point,Arrest,2,INVEST,0,C6,Day,No,P ST,Part three,Unarmed,784032.5004,E 6TH ST,2946823.435,2014
+52717,140105691.0,Thursday,No,2014-02-20T04:36:00.000,Arrest,"[-71.10938, 42.337041]",Point,Arrest,2,ARREST,612,B2,Last,No,FRANCIS ST,Part three,Unarmed,761778.9797,,2948088.325,2014
+241490,140106398.0,Thursday,No,2014-02-20T13:00:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,2,ARREST,117,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

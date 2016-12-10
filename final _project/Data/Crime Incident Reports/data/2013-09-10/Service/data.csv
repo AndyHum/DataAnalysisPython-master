@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29758,130574509.0,Tuesday,No,2013-09-10T02:08:00.000,Service,"[-71.06721, 42.311641]",Point,Service,9,IVMV  ,332,C11,Last,No,TRULL ST,Part three,Unarmed,773227.38,,2938887.171,2013
+31264,130575005.0,Tuesday,No,2013-09-10T09:44:00.000,Service,"[-71.05842, 42.357421]",Point,Service,9,ARREST,97,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775518.4991,SCHOOL ST,2955582.383,2013
+57160,130576036.0,Tuesday,No,2013-09-10T17:25:00.000,Service,"[-71.046717, 42.336149]",Point,Service,9,ARREST,214,C6,First,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2013
+87958,130576566.0,Tuesday,No,2013-09-10T20:05:00.000,Service,"[-71.094815, 42.277296]",Point,Service,9,IVPER ,469,B3,First,No,MATTAPAN ST,Other,Unarmed,765820.3275,,2926334.66,2013
+130075,130576660.0,Tuesday,No,2013-09-10T22:22:00.000,Service,"[-71.09095, 42.285451]",Point,Service,9,ARREST,430,B3,First,No,BLUE HILL AV,Part three,Unarmed,766852.0318,,2929311.4460000005,2013
+158779,130574926.0,Tuesday,No,2013-09-10T09:00:00.000,Service,"[-71.04592, 42.291431]",Point,Service,9,ARREST,374,C11,Day,No,NORWOOD ST,Part three,Unarmed,779025.0334,,2931552.291,2013
+242103,130574905.0,Tuesday,No,2013-09-10T09:04:00.000,Service,"[-71.084511, 42.293888]",Point,Service,9,ARREST,441,B3,Day,No,TALBOT AV,Part three,Unarmed,768579.1911,,2932394.139,2013
+262600,130575352.0,Tuesday,No,2013-09-10T12:37:00.000,Service,"[0, 0]",Point,Service,9,ARREST,515,E18,Day,No,DANA AV,Part three,Unarmed,,,,2013

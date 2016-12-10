@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79507,120811172.0,Thursday,No,2012-12-27T09:25:00.000,PropLost,"[-71.095405, 42.348786]",Point,PropLost,12,LSTPRP,623,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,765537.0788,,2952386.037,2012
+176206,130015151.0,Thursday,No,2012-12-27T15:00:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,12,LSTPRP,612,B2,Day,No,FRANCIS ST,Part Three,Unarmed,762206.2941,,2947728.97,2012
+216303,120809460.0,Thursday,No,2012-12-27T13:15:00.000,PropLost,"[-71.07243, 42.349951]",Point,PropLost,12,LARCRT,129,D4,Day,No,BERKELEY ST,Part Three,Unarmed,771745.5102,,2952840.88,2012

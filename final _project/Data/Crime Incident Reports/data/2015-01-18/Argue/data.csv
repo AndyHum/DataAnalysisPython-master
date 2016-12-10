@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66423,152004846.0,Sunday,No,2015-01-18T19:16:00.000,Argue,"[-71.076585, 42.289031]",Point,Argue,1,FIGHT,0,B3,First,No,ELMHURST ST,Part three,Unarmed,770732.5638,,2930635.018,2015
+150278,152004768.0,Sunday,No,2015-01-18T13:44:00.000,Argue,"[-71.064047, 42.298759]",Point,Argue,1,DVIP,0,C11,Day,No,VINSON ST,Part three,Unarmed,774106.6587,,2934197.04,2015
+156610,152004674.0,Sunday,No,2015-01-18T04:00:00.000,Argue,"[-71.058163, 42.312482]",Point,Argue,1,REQP,0,C11,Last,No,DEER ST,Part three,Unarmed,775672.5834,,2939206.0130000003,2015

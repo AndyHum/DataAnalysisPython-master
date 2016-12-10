@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+156806,152003876.0,Thursday,No,2015-01-15T08:54:00.000,TRESPASS,"[-71.04923, 42.331291]",Point,TRESPASS,1,CARDIA,0,C6,Day,No,MERCER ST,Part Two,Other,778052.7024,,2946073.1360000004,2015
+213629,152003945.0,Thursday,No,2015-01-15T16:44:00.000,TRESPASS,"[-71.061015, 42.353246]",Point,TRESPASS,1,IVPER,0,A1,First,No,AVENUE DE LAFAYETTE,Part Two,Unarmed,774824.9513,,2954057.314,2015
+244302,152004043.0,Thursday,No,2015-01-15T22:00:00.000,TRESPASS,"[-71.08209, 42.336671]",Point,TRESPASS,1,ARREST,0,D4,First,No,LATTIMORE CT,Part Two,Unarmed,769157.9964,,2947988.46,2015

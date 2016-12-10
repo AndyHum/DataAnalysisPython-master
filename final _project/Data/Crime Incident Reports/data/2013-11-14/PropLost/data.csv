@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65412,130734625.0,Thursday,No,2013-11-14T21:30:00.000,PropLost,"[-71.06494, 42.343021]",Point,PropLost,11,LSTPRP,165,D4,First,No,HARRISON AV,Part three,Unarmed,773783.0344,,2950325.6980000003,2013
+113824,130726043.0,Thursday,No,2013-11-14T10:00:00.000,PropLost,"[-71.025616, 42.380095]",Point,PropLost,11,LSTPRP,28,A7,Day,No,NEPTUNE RD,Part three,Unarmed,784338.7236,,2963892.778,2013
+139056,130724012.0,Thursday,No,2013-11-14T01:00:00.000,PropLost,"[-71.09642, 42.266671]",Point,PropLost,11,LSTPRP,406,B3,Last,No,RIVER ST,Part three,Other,765404.2927,RIVER ST,2922460.705,2013
+215402,130723922.0,Thursday,No,2013-11-14T14:30:00.000,PropLost,"[-71.069859, 42.272316]",Point,PropLost,11,LSTPRP,406,C11,Day,No,RIVER ST,Part three,Unarmed,772582.9656,,2924552.8260000004,2013

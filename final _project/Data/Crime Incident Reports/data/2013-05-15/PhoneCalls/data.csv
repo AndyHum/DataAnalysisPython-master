@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+160232,130290527.0,Wednesday,No,2013-05-15T19:00:00.000,PhoneCalls,"[-71.050814, 42.357948]",Point,PhoneCalls,5,HARPT ,96,A1,First,No,E INDIA ROW,Part Three,Other,777573.203,,2955784.918,2013
+219222,130290065.0,Wednesday,No,2013-05-15T15:21:00.000,PhoneCalls,"[-71.064341, 42.324885]",Point,PhoneCalls,5,HARPT ,186,C6,Day,No,WILLOW CT,Part Three,Other,773978.5179,,2943717.437,2013
+225103,130294887.0,Wednesday,No,2013-05-15T10:30:00.000,PhoneCalls,"[-71.04705, 42.334831]",Point,PhoneCalls,5,HARPT ,220,C6,Day,No,DORCHESTER ST,Part Three,Unarmed,778635.3075,,2947366.295,2013

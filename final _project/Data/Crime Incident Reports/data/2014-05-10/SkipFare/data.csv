@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4978,140289243.0,Saturday,No,2014-05-10T15:00:00.000,SkipFare,"[-71.052015, 42.339541]",Point,SkipFare,5,IVPER ,72,C6,Day,No,BROADWAY,Part Two,Unarmed,777283.8706,,2949075.6119999997,2014
+90237,140288742.0,Saturday,No,2014-05-10T04:00:00.000,SkipFare,"[-71.053765, 42.378866]",Point,SkipFare,5,INVEST,41,A15,Last,No,MEDFORD ST,Part Two,Unarmed,776735.7719,,2963403.9189999998,2014
+105462,140289487.0,Saturday,No,2014-05-10T23:00:00.000,SkipFare,"[-71.130451, 42.35065]",Point,SkipFare,5,LARCIP,796,D14,First,No,COMMONWEALTH AV,Part Two,Other,756060.5505,,2953022.06,2014
+139677,140288148.0,Saturday,No,2014-05-10T13:04:00.000,SkipFare,"[-71.080195, 42.305116]",Point,SkipFare,5,LARCRT,460,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,769726.9437,,2936491.8039999995,2014

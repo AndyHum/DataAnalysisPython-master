@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85901,,Friday,No,2015-06-26T00:00:00.000,Violations,"[-71.064634, 42.352023]",Point,VAL,6,ARREST,117,A1,,No,TREMONT ST,Part Two,None,773849.0,,2950000.0,2015
+92594,,Friday,No,2015-06-26T00:00:00.000,Violations,"[-71.152658, 42.35046]",Point,VAL,6,MVA,770,D14,,No,MARKET ST,Part Two,None,750058.0,,2950000.0,2015
+100097,,Friday,No,2015-06-26T00:00:00.000,Violations,"[-71.093313, 42.312205]",Point,VAL,6,TS,316,B2,,No,HAROLD ST,Part Two,None,766166.0,,2940000.0,2015
+119010,,Friday,No,2015-06-26T13:18:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,250,C11,,No,HUBBARDSTON RD,Part Two,None,,SAVIN HILL AVE,,2015
+180630,,Friday,No,2015-06-26T00:00:00.000,Assembly or Gathering Violations,"[-71.102023, 42.330656]",Point,Gather,6,DISTRB,603,B2,,No,PONTIAC ST,Part Three,None,763779.0,,2950000.0,2015
+204928,,Friday,No,2015-06-26T00:00:00.000,Violations,"[-71.084058, 42.318601]",Point,VAL,6,ARREST,309,B2,,No,MARTIN LUTHER KING JR BLVD,Part Two,None,768658.0,,2940000.0,2015
+218787,,Friday,No,2015-06-26T19:30:00.000,Violations,"[0, 0]",Point,VAL,6,IVMV,900,A15,,No,BUNKER HILL ST,Part Two,None,,,,2015

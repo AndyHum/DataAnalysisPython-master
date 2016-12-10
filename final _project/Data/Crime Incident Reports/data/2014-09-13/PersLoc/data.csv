@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33479,142029020.0,Saturday,No,2014-09-13T08:40:00.000,PersLoc,"[-71.051615, 42.331601]",Point,PersLoc,9,IVPER,0,C6,Day,No,BURKE ST,Other,Unarmed,777407.2233,,2946182.707,2014
+94749,142029366.0,Saturday,No,2014-09-13T23:00:00.000,PersLoc,"[-71.120906, 42.29036]",Point,PersLoc,9,IVPER,0,E5,First,No,BRADEEN ST,Other,Unarmed,758738.1691,,2931062.6210000003,2014
+169831,142029158.0,Saturday,No,2014-09-13T18:21:00.000,PersLoc,"[-71.087946, 42.31793]",Point,PersLoc,9,IVPER,0,B2,First,No,CRESTWOOD PARK,Other,Unarmed,767607.5313,,2941151.18,2014

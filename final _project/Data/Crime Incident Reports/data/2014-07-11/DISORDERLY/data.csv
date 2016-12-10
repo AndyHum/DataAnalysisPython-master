@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78793,142008184.0,Friday,No,2014-07-11T13:15:00.000,DISORDERLY,"[-71.061984, 42.36231]",Point,24xx,7,ARREST,0,A1,Day,No,NEW CHARDON ST,Part Two,Unarmed,774546.0673,,2957359.042,2014
+94347,142008083.0,Friday,No,2014-07-11T01:30:00.000,DISORDERLY,"[-71.06163, 42.351416]",Point,24xx,7,ARREST,0,A1,Last,No,BEACH ST,Part Two,Other,774662.1445,HARRINGTON AV,2953389.5730000003,2014
+183215,142008080.0,Friday,No,2014-07-11T01:23:00.000,DISORDERLY,"[-71.07784, 42.318281]",Point,24xx,7,IVPER,0,B2,Last,No,BLUE HILL AV,Part Two,Unarmed,770340.2378,BROOKFORD ST,2941292.485,2014

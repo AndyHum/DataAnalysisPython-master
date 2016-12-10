@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+182404,140172112.0,Friday,No,2014-03-21T11:30:00.000,PhoneCalls,"[-71.09182, 42.310231]",Point,PhoneCalls,3,VIORDR,318,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,766573.4054,,2938340.53,2014
+247308,140172317.0,Friday,No,2014-03-21T15:12:00.000,PhoneCalls,"[-71.092435, 42.317711]",Point,PhoneCalls,3,VIORDR,306,B2,Day,No,HALEY ST,Part three,Unarmed,766394.0337,,2941065.5689999997,2014
+264304,142025520.0,Friday,No,2014-03-21T12:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,3,IVPER,0,D14,Day,No,BEACH ST,Part Two,Unarmed,,,,2014

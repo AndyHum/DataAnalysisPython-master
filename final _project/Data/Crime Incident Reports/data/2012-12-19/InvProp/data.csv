@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36173,120793605.0,Wednesday,No,2012-12-19T12:29:00.000,InvProp,"[-71.142936, 42.345312]",Point,InvProp,12,ALARMM,938,D14,Day,No,FIDELIS WY,Part Three,Unarmed,752693.6724,,2951062.6210000003,2012
+148102,120794428.0,Wednesday,No,2012-12-19T18:52:00.000,InvProp,"[-71.061434, 42.300547]",Point,InvProp,12,VANRPT,352,C11,First,No,CHARLES ST,Part Three,Other,774810.2974,,2934852.3389999997,2012
+179012,120794481.0,Wednesday,No,2012-12-19T19:27:00.000,InvProp,"[-71.077088, 42.306597]",Point,InvProp,12,SHOTS ,337,C11,First,No,COLUMBIA RD,Part Three,Other,770564.5385,,2937035.453,2012
+229214,120794479.0,Wednesday,No,2012-12-19T19:34:00.000,InvProp,"[-71.07597, 42.307461]",Point,InvProp,12,SHOTS ,337,C11,First,No,DEVON ST,Part Three,Unarmed,770865.578,COLUMBIA RD,2937352.012,2012

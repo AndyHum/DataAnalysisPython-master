@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13880,140292633.0,Monday,No,2014-05-12T10:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,INVEST,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+87957,140312226.0,Monday,No,2014-05-12T02:00:00.000,Service,"[0, 0]",Point,Service,5,IVPER ,376,B2,Last,No,TREMONT ST,Part three,Unarmed,,,,2014
+116044,140292666.0,Monday,No,2014-05-12T11:08:00.000,Service,"[-71.08562, 42.301656]",Point,Service,5,TSTOP ,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,768265.5812,,2935223.75,2014
+136866,140292690.0,Monday,No,2014-05-12T11:46:00.000,Service,"[-71.030739, 42.343951]",Point,Service,5,BOMBR ,207,C6,Day,No,BLACK FALCON AV,Part three,Unarmed,783026.9313,,2950713.4469999997,2014
+175218,140293998.0,Monday,No,2014-05-12T18:00:00.000,Service,"[-71.110205, 42.265226]",Point,Service,5,IVPER ,0,E18,First,No,WOOD AV,Part three,Unarmed,761675.5225,,2921916.775,2014
+220918,140292793.0,Monday,No,2014-05-12T11:40:00.000,Service,"[0, 0]",Point,Service,5,IVPER ,175,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,,ALLSTATE RD,,2014
+251440,140293768.0,Monday,No,2014-05-12T17:48:00.000,Service,"[-71.08462, 42.322811]",Point,Service,5,REQP  ,297,B2,First,No,FENNO ST,Part three,Unarmed,768498.5576,WALNUT AV,2942934.291,2014

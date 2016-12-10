@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29173,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.064946, 42.311856]",Point,MedAssist,7,ALARM,334,C11,,No,RILL ST,Part Three,None,773839.0,,2940000.0,2015
+32567,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.06493, 42.287148]",Point,MedAssist,7,UNKEMS,817,C11,,No,TALBOT AVE,Part Three,None,773889.0,,2930000.0,2015
+40023,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.119155, 42.271625]",Point,MedAssist,7,ALARM,498,E18,,No,CLARE AVE,Part Three,None,759242.0,,2920000.0,2015
+40759,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-70.99604, 42.388725]",Point,MedAssist,7,INVEST,3,A7,,No,LAWN AVE,Part Three,None,792311.0,,2970000.0,2015
+52930,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.07801, 42.384873]",Point,MedAssist,7,UNKEMS,50,A15,,No,CALDWELL ST,Part Three,None,770174.0,,2970000.0,2015
+84604,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.039433, 42.367803]",Point,MedAssist,7,I00015,902,A7,,No,S BREMEN ST,Part Three,None,780630.0,,2960000.0,2015
+96518,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.096237, 42.281987]",Point,MedAssist,7,ALARM,468,B3,,No,WELLINGTON HILL ST,Part Three,None,765427.0,,2930000.0,2015
+107690,,Wednesday,No,2015-07-29T08:13:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,UNCONS,0,,,No,,Part Three,None,,DARTMOUTH ST,,2015
+155120,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.13553, 42.357297]",Point,MedAssist,7,REQP,809,D14,,No,LINCOLN ST,Part Three,None,754677.0,,2960000.0,2015
+156693,,Wednesday,No,2015-07-29T19:27:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,369,C11,,No,MANLEY ST,Part Three,None,,VICTORY RD,,2015
+190653,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.081614, 42.351153]",Point,MedAssist,7,UNKEMS,136,D4,,No,COMMONWEALTH AVE,Part Three,None,769261.0,,2950000.0,2015
+222515,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.096804, 42.320957]",Point,MedAssist,7,EDP,304,B2,,No,WEAVER WAY,Part Three,None,765207.0,,2940000.0,2015
+230593,,Wednesday,No,2015-07-29T00:00:00.000,Medical Assistance,"[-71.091997, 42.27856]",Point,MedAssist,7,EDP,427,B3,,No,FESSENDEN ST,Part Three,None,766581.0,,2930000.0,2015

@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+810,152037309.0,Thursday,No,2015-05-07T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,B2,Day,No,MARTIN LUTHER RD,Part three,Unarmed,,WARREN ST,,2015
+817,152037462.0,Thursday,No,2015-05-07T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,IVPER,0,C6,First,No,HARVEST ST,Part three,Unarmed,,,,2015
+11346,152038240.0,Thursday,No,2015-05-07T22:00:00.000,PropLost,"[-71.142725, 42.344456]",Point,PropLost,5,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,752752.209,WASHINGTON ST,2950750.9710000004,2015
+68774,152037476.0,Thursday,No,2015-05-07T12:00:00.000,PropLost,"[-71.088, 42.347211]",Point,PropLost,5,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,767541.5577,MASSACHUSETTS AV,2951821.6580000003,2015
+82468,152037356.0,Thursday,No,2015-05-07T13:00:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,5,LARCEN,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2015
+94745,152037352.0,Thursday,No,2015-05-07T12:00:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,5,PROP,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+108710,152037257.0,Thursday,No,2015-05-07T10:08:00.000,PropLost,"[-71.068594, 42.297067]",Point,PropLost,5,PROP,0,C11,Day,No,LARCHMONT ST,Part three,Unarmed,772879.7803,,2933574.0539999995,2015
+130955,152037704.0,Thursday,No,2015-05-07T21:50:00.000,PropLost,"[-71.063757, 42.354358]",Point,PropLost,5,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2015
+150055,152037447.0,Thursday,No,2015-05-07T17:45:00.000,PropLost,"[-71.08559, 42.336381]",Point,PropLost,5,PROP,0,D4,First,No,TREMONT ST,Part three,Unarmed,768212.2151,,2947878.162,2015
+188960,152037471.0,Thursday,No,2015-05-07T13:30:00.000,PropLost,"[-71.06053, 42.374531]",Point,PropLost,5,PROP,0,A15,Day,No,WINTHROP ST,Part three,Unarmed,774916.0813,,2961814.665,2015
+209296,152048011.0,Thursday,No,2015-05-07T13:45:00.000,PropLost,"[-71.09345, 42.274701]",Point,PropLost,5,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766194.2316,,2925390.762,2015
+254146,152037645.0,Thursday,No,2015-05-07T21:00:00.000,PropLost,"[-71.05701, 42.351516]",Point,PropLost,5,PROP,0,A1,First,No,EAST ST,Part three,Unarmed,775910.7719,,2953432.4669999997,2015

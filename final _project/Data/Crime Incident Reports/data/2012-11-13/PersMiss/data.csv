@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+188103,120714707.0,Tuesday,No,2012-11-13T10:27:00.000,PersMiss,"[-71.106952, 42.264486]",Point,PersMiss,11,MISPER,487,E18,Day,No,BLAKE ST,Part Three,Unarmed,762557.0837,,2921650.892,2012
+192165,120718018.0,Tuesday,No,2012-11-13T17:00:00.000,PersMiss,"[-71.066256, 42.288553]",Point,PersMiss,11,MSNCOM,817,C11,First,No,TALBOT AV,Part Three,Unarmed,773528.0244,,2930474.905,2012
+263018,120717009.0,Tuesday,No,2012-11-13T17:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,11,MISPER,354,C11,First,No,PARK ST,Part Three,Unarmed,,,,2012

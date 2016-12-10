@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106445,142051530.0,Sunday,No,2014-11-23T10:42:00.000,PropFound,"[-71.094895, 42.270926]",Point,PropFound,11,PROP,0,B3,Day,No,ROCKWAY ST,Part three,Unarmed,765809.6983,,2924013.24,2014
+145134,142051551.0,Sunday,No,2014-11-23T12:00:00.000,PropFound,"[-71.07843, 42.349776]",Point,PropFound,11,MISC,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,DARTMOUTH ST,2952769.035,2014
+201475,142051611.0,Sunday,No,2014-11-23T15:37:00.000,PropFound,"[-71.08135, 42.332389]",Point,PropFound,11,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769365.5688,,2946429.0289999996,2014
+210014,142051620.0,Sunday,No,2014-11-23T16:10:00.000,PropFound,"[-71.05935, 42.372011]",Point,PropFound,11,PROP,0,A15,First,No,CONSTITUTION RD,Part three,Unarmed,775239.6699,,2960897.9710000004,2014
+210150,142051630.0,Sunday,No,2014-11-23T02:45:00.000,PropFound,"[-71.06305, 42.350871]",Point,PropFound,11,PROP,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774279.327,STUART ST,2953188.994,2014

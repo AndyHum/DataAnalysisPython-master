@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2385,152045517.0,Sunday,No,2015-03-29T14:30:00.000,STOLEN PROPERTY CHARGES,"[0, 0]",Point,13xx,3,IVPREM,0,B2,Day,No,SHIRLEY ST,Part Two,Unarmed,,,,2015
+185062,152025551.0,Sunday,No,2015-03-29T15:30:00.000,STOLEN PROPERTY CHARGES,"[-71.123165, 42.255916]",Point,13xx,3,IVPER,0,E18,Day,No,RIVER ST,Part Two,Unarmed,758182.5548,,2918508.325,2015
+254168,152025638.0,Sunday,No,2015-03-29T18:56:00.000,STOLEN PROPERTY CHARGES,"[-71.036545, 42.332271]",Point,13xx,3,LARCEN,0,C6,First,No,E 7TH ST,Part Two,Unarmed,781480.6873,,2946448.647,2015

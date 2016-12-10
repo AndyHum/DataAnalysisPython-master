@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4643,120648977.0,Monday,No,2012-10-15T10:42:00.000,Arrest,"[-71.110589, 42.301268]",Point,Arrest,10,CD9   ,510,E13,Day,No,ARBORWAY,Part Three,Unarmed,761511.4749,,2935050.5519999997,2012
+5951,120649176.0,Monday,No,2012-10-15T12:10:00.000,Arrest,"[-71.03722, 42.368996]",Point,Arrest,10,INVEST,29,A7,Day,No,ORLEANS ST,Part Three,Unarmed,781225.5635,,2959830.913,2012
+59446,120648491.0,Monday,No,2012-10-15T05:26:00.000,Arrest,"[-71.069575, 42.305421]",Point,Arrest,10,CD11  ,336,C11,Last,No,OLNEY ST,Part Three,Unarmed,772599.1411,,2936617.269,2012
+67742,120648628.0,Monday,No,2012-10-15T07:50:00.000,Arrest,"[-71.0775, 42.271566]",Point,Arrest,10,ARREST,409,B3,Day,No,RIVER ST,Part Three,Unarmed,770516.5134,,2924269.305,2012
+81369,120649229.0,Monday,No,2012-10-15T12:36:00.000,Arrest,"[-71.077815, 42.302411]",Point,Arrest,10,ARREST,455,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,770375.6239,NORWELL ST,2935509.238,2012
+88173,120648742.0,Monday,No,2012-10-15T08:45:00.000,Arrest,"[-71.084605, 42.285364]",Point,Arrest,10,CD11  ,0,B3,Day,No,MASCOT ST,Part Three,Unarmed,768569.032,,2929287.8910000003,2012
+98123,120649026.0,Monday,No,2012-10-15T11:00:00.000,Arrest,"[-71.05312, 42.335746]",Point,Arrest,10,ARREST,216,C6,Day,No,W 7TH ST,Part Three,Other,776992.3725,,2947691.0810000002,2012

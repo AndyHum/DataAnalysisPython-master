@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7518,152024212.0,Wednesday,No,2015-03-25T17:00:00.000,Arrest,"[-71.010615, 42.385781]",Point,Arrest,3,IVMV,0,A7,First,No,TRIDENT ST,Part three,Unarmed,788379.9593,SARATOGA ST,2965987.827,2015
+34559,152024167.0,Wednesday,No,2015-03-25T17:26:00.000,Arrest,"[-71.081633, 42.318648]",Point,Arrest,3,ARREST,0,B2,First,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2015
+231936,152023947.0,Wednesday,No,2015-03-25T08:04:00.000,Arrest,"[-71.068436, 42.290364]",Point,Arrest,3,NIDV,0,C11,Day,No,LITHGOW ST,Part three,Unarmed,772934.9327,,2931131.8,2015

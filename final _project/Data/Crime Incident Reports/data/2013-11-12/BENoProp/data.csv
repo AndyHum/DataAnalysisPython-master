@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106460,130719919.0,Tuesday,No,2013-11-12T18:00:00.000,BENoProp,"[-71.149598, 42.336942]",Point,BENoProp,11,BEIP  ,790,D14,First,No,ORKNEY RD,Part One,Other,750905.2078,,2948005.025,2013
+144733,130720129.0,Tuesday,No,2013-11-12T04:50:00.000,BENoProp,"[-71.158107, 42.342893]",Point,BENoProp,11,BERPT ,750,D14,Last,No,FOSTER ST,Part One,Unarmed,748596.1109999999,,2950164.144,2013
+190992,130720265.0,Tuesday,No,2013-11-12T21:12:00.000,BENoProp,"[-71.056628, 42.312896]",Point,BENoProp,11,BERPT ,255,C11,First,No,SAVIN HILL AV,Part One,Other,776087.0675,,2939359.1689999998,2013

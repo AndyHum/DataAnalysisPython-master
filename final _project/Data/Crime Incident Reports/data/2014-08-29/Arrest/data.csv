@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102148,142024032.0,Friday,No,2014-08-29T08:20:00.000,Arrest,"[-71.105714, 42.271503]",Point,Arrest,8,ARREST,0,E18,Day,No,CUMMINS HY,Part three,Unarmed,762880.5122,,2924209.798,2014
+117975,142023993.0,Friday,No,2014-08-29T01:45:00.000,Arrest,"[-71.094895, 42.313486]",Point,Arrest,8,ARREST,0,E13,Last,No,WALNUT AV,Part three,Unarmed,765736.037,SEAVER ST,2939522.74,2014
+228172,142024080.0,Friday,No,2014-08-29T11:04:00.000,Arrest,"[-71.137485, 42.363451]",Point,Arrest,8,ARREST,0,D14,Day,No,TELFORD ST,Part three,Unarmed,754139.3581,WESTERN AV,2957679.1160000004,2014

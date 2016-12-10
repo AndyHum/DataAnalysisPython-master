@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7306,140216612.0,Wednesday,No,2014-04-09T19:30:00.000,PropLost,"[-71.08702, 42.298151]",Point,PropLost,4,STOLEN,463,B3,First,No,BLUE HILL AV,Part three,Unarmed,767893.0389,AMERICAN LEGION HY,2933944.6380000003,2014
+54724,140225970.0,Wednesday,No,2014-04-09T01:30:00.000,PropLost,"[-71.083855, 42.337396]",Point,PropLost,4,LSTPRP,274,D4,Last,No,TREMONT ST,Part three,Unarmed,768679.5046,,2948250.33,2014
+98281,152021175.0,Wednesday,No,2014-04-09T07:30:00.000,PropLost,"[-71.058362, 42.358828]",Point,PropLost,4,LARCEN,0,A1,Day,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2014
+168203,140216406.0,Wednesday,No,2014-04-09T14:30:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,4,LSTPRP,112,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2014
+171975,140233594.0,Wednesday,No,2014-04-09T20:00:00.000,PropLost,"[-71.086818, 42.341185]",Point,PropLost,4,LSTPRP,283,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767871.7148,,2949627.0930000003,2014
+207894,140221404.0,Wednesday,No,2014-04-09T14:00:00.000,PropLost,"[-71.074385, 42.335516]",Point,PropLost,4,LSTPRP,171,D4,Day,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2014
+264216,140246598.0,Wednesday,No,2014-04-09T13:15:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,911,B2,Day,No,RUGGLES ST,Part three,Unarmed,,,,2014

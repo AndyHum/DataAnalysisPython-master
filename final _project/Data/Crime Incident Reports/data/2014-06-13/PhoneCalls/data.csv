@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10589,140374112.0,Friday,No,2014-06-13T11:23:00.000,PhoneCalls,"[-71.117489, 42.273359]",Point,PhoneCalls,6,DISTRB,497,E18,Day,No,AMERICAN LEGION HY,Part three,Unarmed,759690.4628,,2924871.3680000002,2014
+14806,140373363.0,Friday,No,2014-06-13T12:57:00.000,PhoneCalls,"[-71.05395, 42.378346]",Point,PhoneCalls,6,HARPT ,900,A15,Day,No,DECATUR ST,Part three,Other,776686.7773,,2963214.159,2014
+65095,140379619.0,Friday,No,2014-06-13T00:03:00.000,PhoneCalls,"[-71.065575, 42.342486]",Point,PhoneCalls,6,HARPT ,164,D4,Last,No,HARRISON AV,Part three,Unarmed,773612.3599,,2950129.86,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+187425,152000717.0,Friday,No,2015-01-02T17:30:00.000,Plates,"[-71.037275, 42.330401]",Point,Plates,1,IVMV,0,C6,First,No,K ST,Part three,Unarmed,781287.0013,,2945766.115,2015
+251794,152000736.0,Friday,No,2015-01-02T14:30:00.000,Plates,"[-71.166985, 42.276751]",Point,Plates,1,PROP,0,E5,Day,No,BAKER ST,Part three,Unarmed,746290.1465,,2926051.535,2015
+262022,152000701.0,Friday,No,2015-01-02T16:00:00.000,Plates,"[0, 0]",Point,Plates,1,IVMV,0,C11,First,No,WESTVILLE ST,Part three,Unarmed,,,,2015

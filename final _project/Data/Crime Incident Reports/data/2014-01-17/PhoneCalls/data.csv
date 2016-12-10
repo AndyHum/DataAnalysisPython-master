@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86159,140033428.0,Friday,No,2014-01-17T08:45:00.000,PhoneCalls,"[-71.143891, 42.345952]",Point,PhoneCalls,1,VIORDR,938,D14,Day,No,FIDELIS WY,Part three,Unarmed,752434.4823,,2951294.5710000005,2014
+221876,140033948.0,Friday,No,2014-01-17T14:00:00.000,PhoneCalls,"[-71.096304, 42.267137]",Point,PhoneCalls,1,HARPT ,481,E18,Day,No,MARCY RD,Part three,Unarmed,765434.7259,,2922630.522,2014
+242595,140034660.0,Friday,No,2014-01-17T17:10:00.000,PhoneCalls,"[-71.124925, 42.254256]",Point,PhoneCalls,1,HARPT ,520,E18,First,No,DANA AV,Part three,Unarmed,757708.6082,,2917901.058,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83346,142005500.0,Thursday,No,2014-07-03T06:30:00.000,DISORDERLY,"[-71.05899, 42.356791]",Point,24xx,7,ARREST,0,A1,Last,No,WASHINGTON ST,Part Two,Unarmed,775365.6264,,2955352.003,2014
+219168,142005770.0,Thursday,No,2014-07-03T20:01:00.000,DISORDERLY,"[-71.07898, 42.310441]",Point,24xx,7,ARREST,0,B2,First,No,NORMANDY ST,Part Two,Unarmed,770046.0291,BRUNSWICK ST,2938433.938,2014
+239473,142005474.0,Thursday,No,2014-07-03T01:12:00.000,DISORDERLY,"[-71.100235, 42.272161]",Point,24xx,7,ARREST,0,B3,Last,No,HALLOWELL ST,Part Two,Other,764362.3118,,2924456.472,2014
+258642,142005787.0,Thursday,No,2014-07-03T21:45:00.000,DISORDERLY,"[-71.07693, 42.354231]",Point,24xx,7,ARREST,0,D4,First,No,BEACON ST,Part Two,Unarmed,770521.3654,CLARENDON ST,2954394.5289999996,2014

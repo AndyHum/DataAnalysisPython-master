@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116850,142014853.0,Wednesday,No,2014-07-30T15:55:00.000,FIRE,"[-71.101715, 42.313866]",Point,FIRE,7,FIRE,0,E13,Day,No,GERMANIA ST,Part three,Other,763890.7907,,2939652.5310000004,2014
+253306,142014353.0,Wednesday,No,2014-07-30T08:16:00.000,FIRE,"[-71.037105, 42.367651]",Point,FIRE,7,FIRE,0,A7,Day,No,SUMNER ST,Part three,Unarmed,781259.3019,,2959340.939,2014
+260704,142014606.0,Wednesday,No,2014-07-30T21:20:00.000,FIRE,"[0, 0]",Point,FIRE,7,IVMV,0,A15,First,No,ALFORD ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48205,120612628.0,Saturday,No,2012-09-29T11:26:00.000,Service,"[-71.06698, 42.377476]",Point,Service,9,ARREST,54,A15,Day,No,MAIN ST,Part Three,Unarmed,773167.7925,,2962878.97,2012
+61738,120613791.0,Saturday,No,2012-09-29T21:51:00.000,Service,"[-71.06509, 42.317001]",Point,Service,9,TSTOP ,257,B2,First,No,COLUMBIA RD,Part Three,Unarmed,773790.8306,STOUGHTON ST,2940843.356,2012
+112143,120613839.0,Saturday,No,2012-09-29T20:18:00.000,Service,"[-71.039795, 42.382626]",Point,Service,9,IVPER ,28,A7,First,No,CONDOR ST,Part Three,Unarmed,780502.9192,,2964794.1969999997,2012

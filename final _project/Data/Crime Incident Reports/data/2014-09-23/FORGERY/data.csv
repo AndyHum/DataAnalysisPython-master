@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43374,142032602.0,Tuesday,No,2014-09-23T12:00:00.000,FORGERY,"[-71.087645, 42.349536]",Point,10xx,9,LARCEN,0,D4,Day,No,COMMONWEALTH AV,Part Two,Unarmed,767633.4266,,2952669.397,2014
+156038,142032388.0,Tuesday,No,2014-09-23T21:56:00.000,FORGERY,"[-71.04814, 42.296241]",Point,10xx,9,LARCEN,0,C11,First,No,MORRISSEY BL,Part Two,Unarmed,778415.0953,,2933301.9310000003,2014
+258415,142032285.0,Tuesday,No,2014-09-23T14:30:00.000,FORGERY,"[-71.079605, 42.347101]",Point,10xx,9,LARCEN,0,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769811.1326,,2951792.646,2014

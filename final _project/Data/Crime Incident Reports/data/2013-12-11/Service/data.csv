@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45684,130780134.0,Wednesday,No,2013-12-11T10:44:00.000,Service,"[-71.08652, 42.286581]",Point,Service,12,SSTOP ,429,B3,Day,No,WOODROW AV,Part three,Unarmed,768048.7445,WILLOWWOOD ST,2929729.015,2013
+53083,130781001.0,Wednesday,No,2013-12-11T17:26:00.000,Service,"[-71.13106, 42.350481]",Point,Service,12,ARREST,796,D14,First,No,HARVARD AV,Part three,Unarmed,755896.1988,COMMONWEALTH AV,2952960.025,2013
+57278,130780680.0,Wednesday,No,2013-12-11T14:45:00.000,Service,"[-71.075025, 42.309566]",Point,Service,12,ARREST,328,B2,Day,No,INTERVALE ST,Part three,Unarmed,771117.3727,,2938120.3789999997,2013
+92704,130781017.0,Wednesday,No,2013-12-11T17:31:00.000,Service,"[-71.09912, 42.333841]",Point,Service,12,ARREST,0,B2,First,No,CORNELIA ST,Part three,Unarmed,764558.4427,SMITH ST,2946935.0560000003,2013
+182339,130780624.0,Wednesday,No,2013-12-11T14:17:00.000,Service,"[-71.09829, 42.324901]",Point,Service,12,ARREST,302,B2,Day,No,COLUMBUS AV,Part three,Unarmed,764798.2033,CENTRE ST,2943678.2169999997,2013
+231320,130781647.0,Wednesday,No,2013-12-11T22:41:00.000,Service,"[-71.065845, 42.301366]",Point,Service,12,VANIP ,352,C11,First,No,WESTVILLE ST,Part three,Other,773615.6368,,2935144.682,2013

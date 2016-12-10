@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73743,130568457.0,Saturday,No,2013-09-07T12:44:00.000,FIRE,"[-71.03664, 42.330621]",Point,FIRE,9,FIREB ,234,C6,Day,No,MARINE RD,Part three,Other,781458.2674,,2945847.22,2013
+155989,130567898.0,Saturday,No,2013-09-07T04:49:00.000,FIRE,"[-71.132336, 42.358585]",Point,FIRE,9,REQP  ,815,D14,Last,No,BRADBURY ST,Part three,Unarmed,755538.3271,MANSFIELD ST,2955911.6769999997,2013
+187503,130569409.0,Saturday,No,2013-09-07T20:31:00.000,FIRE,"[-71.06439, 42.286036]",Point,FIRE,9,FIREB ,401,C11,First,No,TALBOT AV,Part three,Unarmed,774037.777,,2929560.213,2013

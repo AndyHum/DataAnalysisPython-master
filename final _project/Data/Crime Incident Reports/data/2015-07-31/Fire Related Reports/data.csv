@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60940,,Friday,No,2015-07-31T00:00:00.000,Fire Related Reports,"[-71.093695, 42.273862]",Point,Fire,7,FO,472,B3,,No,BLUE HILL AVE,Part Three,None,766129.0,,2930000.0,2015
+97088,,Friday,No,2015-07-31T19:29:00.000,Fire Related Reports,"[0, 0]",Point,Fire,7,FO,26,A7,,No,MERIDIAN ST,Part Three,None,,WHITE ST,,2015
+117620,,Friday,No,2015-07-31T00:00:00.000,Fire Related Reports,"[-71.067211, 42.311676]",Point,Fire,7,FIRE,332,C11,,No,TRULL ST,Part Three,None,773227.0,,2940000.0,2015
+166807,,Friday,No,2015-07-31T20:03:00.000,Fire Related Reports,"[0, 0]",Point,Fire,7,IVMV,566,B2,,No,ELM HILL AVE,Part Three,None,,SEAVER ST,,2015
+187319,,Friday,No,2015-07-31T00:00:00.000,Fire Related Reports,"[-71.044172, 42.33285]",Point,Fire,7,FO,220,C6,,No,G ST,Part Three,None,779417.0,,2950000.0,2015

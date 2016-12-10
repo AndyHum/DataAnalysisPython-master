@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24406,120424667.0,Tuesday,No,2012-07-10T17:08:00.000,Service,"[-71.074107, 42.284279]",Point,Service,7,CD11  ,0,B3,First,No,ARMANDINE ST,Part Three,Other,771411.6405,,2928906.461,2012
+61171,120423178.0,Tuesday,No,2012-07-10T01:00:00.000,Service,"[-71.072122, 42.300294]",Point,Service,7,IVPER ,344,C11,Last,No,BOWDOIN ST,Part Three,Unarmed,771919.4938,,2934745.1569999997,2012
+94313,120423109.0,Tuesday,No,2012-07-10T00:00:00.000,Service,"[-71.153185, 42.355581]",Point,Service,7,FIREB ,939,D14,Last,No,FANEUIL ST,Part Three,Unarmed,749907.9949,,2954793.478,2012
+109026,120424409.0,Tuesday,No,2012-07-10T15:18:00.000,Service,"[-71.063155, 42.298481]",Point,Service,7,ARREST,0,C11,Day,No,GENEVA AV,Part Three,Unarmed,774348.7245,,2934097.058,2012

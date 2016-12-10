@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+860,152037405.0,Thursday,No,2015-05-07T16:00:00.000,32GUN,"[0, 0]",Point,32GUN,5,IVPER,0,B2,First,No,TOWNSEND ST,Part three,Firearm,,,,2015
+13011,152037541.0,Thursday,No,2015-05-07T22:33:00.000,32GUN,"[-71.0896, 42.334621]",Point,32GUN,5,PERGUN,0,B2,First,No,RUGGLES ST,Part three,Firearm,767131.113,,2947231.5439999998,2015
+98577,152037223.0,Thursday,No,2015-05-07T05:45:00.000,32GUN,"[-71.0769, 42.336356]",Point,32GUN,5,FDWEAP,0,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,770561.7859,WASHINGTON ST,2947880.586,2015

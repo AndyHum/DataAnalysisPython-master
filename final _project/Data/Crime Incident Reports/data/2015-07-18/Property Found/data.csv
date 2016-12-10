@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19148,,Saturday,No,2015-07-18T13:50:00.000,Property Found,"[0, 0]",Point,PropFound,7,IVPREM,0,,,No,,Part Three,None,,,,2015
+79765,,Saturday,No,2015-07-18T00:00:00.000,Property Found,"[-71.122042, 42.310737]",Point,PropFound,7,PROP,644,E13,,No,ARBORWAY,Part Three,None,758398.0,,2940000.0,2015
+87656,,Saturday,No,2015-07-18T00:00:00.000,Property Found,"[-71.062708, 42.291472]",Point,PropFound,7,IVPREM,365,C11,,No,DORCHESTER AVE,Part Three,None,774483.0,,2930000.0,2015

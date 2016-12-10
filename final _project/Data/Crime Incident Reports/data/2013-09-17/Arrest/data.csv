@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11038,130592201.0,Tuesday,No,2013-09-17T09:48:00.000,Arrest,"[-71.07181, 42.313206]",Point,Arrest,9,SSTOP ,331,B2,Day,No,BIRD ST,Part three,Unarmed,771980.3251,,2939451.203,2013
+148862,130593818.0,Tuesday,No,2013-09-17T21:47:00.000,Arrest,"[-71.077517, 42.307584]",Point,Arrest,9,ARREST,329,B2,First,No,STANWOOD ST,Part three,Unarmed,770446.8849,,2937394.604,2013
+180571,130100483.0,Tuesday,No,2013-09-17T20:45:00.000,Arrest,"[-71.0692, 42.279996]",Point,Arrest,9,IVPER ,379,C11,First,No,OWENCROFT RD,Part three,Unarmed,772747.3773,,2927352.545,2013

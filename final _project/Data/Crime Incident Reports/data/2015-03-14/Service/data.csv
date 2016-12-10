@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+896,152020570.0,Saturday,No,2015-03-14T09:56:00.000,Service,"[0, 0]",Point,Service,3,AOD,0,A15,Day,No,BUNKER HILL ST,Other,Unarmed,,,,2015
+1568,152020720.0,Saturday,No,2015-03-14T09:00:00.000,Service,"[0, 0]",Point,Service,3,IVPREM,0,A7,Day,No,SARATOGA ST,Part three,Unarmed,,,,2015
+133117,152020585.0,Saturday,No,2015-03-14T11:30:00.000,Service,"[-71.080718, 42.303026]",Point,Service,3,ARREST,0,B3,Day,No,SEAVER ST,Part three,Unarmed,769588.9781,ERIE ST,2935729.2989999996,2015

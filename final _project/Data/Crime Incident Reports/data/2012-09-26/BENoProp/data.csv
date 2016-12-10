@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148689,120606450.0,Wednesday,No,2012-09-26T09:30:00.000,BENoProp,"[-71.125199, 42.258622]",Point,BENoProp,9,BERPT ,544,E18,Day,No,SUMMER ST,Part One,Other,757627.4302,,2919491.738,2012
+211498,120604990.0,Wednesday,No,2012-09-26T10:12:00.000,BENoProp,"[-71.08806, 42.297106]",Point,BENoProp,9,BERPT ,463,B3,Day,No,CALDER ST,Part One,Unarmed,767613.5228,,2933562.4639999997,2012
+212483,120605046.0,Wednesday,No,2012-09-26T10:30:00.000,BENoProp,"[-71.07041, 42.357126]",Point,BENoProp,9,ARREST,69,A1,Day,No,RIVER ST,Part One,Unarmed,772278.373,,2955458.3310000002,2012

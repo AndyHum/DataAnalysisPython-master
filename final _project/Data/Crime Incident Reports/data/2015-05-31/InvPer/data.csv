@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2242,152045009.0,Sunday,No,2015-05-31T15:08:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,,,,2015
+2248,152045055.0,Sunday,No,2015-05-31T19:15:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015
+2254,152044993.0,Sunday,No,2015-05-31T14:53:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,C11,Day,No,MOON ISLAND,Part three,Unarmed,,,,2015
+2280,152045077.0,Sunday,No,2015-05-31T22:15:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,A7,First,No,BORDER ST,Part three,Other,,,,2015
+119864,152045051.0,Sunday,No,2015-05-31T19:37:00.000,InvPer,"[-71.13277, 42.347846]",Point,InvPer,5,LARCEN,0,D14,First,No,BRAINERD RD,Part three,Unarmed,755438.0993,,2951997.784,2015
+137362,152044988.0,Sunday,No,2015-05-31T14:56:00.000,InvPer,"[-71.142926, 42.254115]",Point,InvPer,5,IVPER,0,E18,Day,No,ALWIN ST,Part three,Unarmed,752835.6107,,2917828.776,2015
+172623,152044862.0,Sunday,No,2015-05-31T02:20:00.000,InvPer,"[-71.131796, 42.352053]",Point,InvPer,5,INVEST,0,D14,Last,No,HARVARD AV,Part three,Unarmed,755694.562,,2953532.085,2015
+211655,152044989.0,Sunday,No,2015-05-31T14:40:00.000,InvPer,"[-71.07624, 42.314636]",Point,InvPer,5,IVPER,0,B2,Day,No,BALFOUR ST,Part three,Unarmed,770779.5532,,2939966.334,2015
+215338,152045001.0,Sunday,No,2015-05-31T14:48:00.000,InvPer,"[-71.053065, 42.327871]",Point,InvPer,5,RAPE,0,C6,Day,No,MCDONOUGH WY,Part three,Other,777022.2779,,2944821.374,2015
+228216,152047274.0,Sunday,No,2015-05-31T09:45:00.000,InvPer,"[-71.152777, 42.338603]",Point,InvPer,5,IVPER,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,750043.3771,,2948606.508,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44501,152033472.0,Friday,No,2015-04-24T17:23:00.000,InvProp,"[-71.064805, 42.346641]",Point,InvProp,4,INVEST,0,D4,First,No,HERALD ST,Part three,Unarmed,773812.7997,,2951645.079,2015
+94559,152033251.0,Friday,No,2015-04-24T04:48:00.000,InvProp,"[-71.069245, 42.344491]",Point,InvProp,4,IVPER,0,D4,Last,No,DWIGHT ST,Part three,Unarmed,772616.5062,TREMONT ST,2950855.488,2015
+147541,152033490.0,Friday,No,2015-04-24T20:00:00.000,InvProp,"[-71.109925, 42.263971]",Point,InvProp,4,IVMV,0,E18,First,No,EDWARDSON ST,Part three,Other,761753.4029,,2921459.7830000003,2015
+199397,152033483.0,Friday,No,2015-04-24T19:31:00.000,InvProp,"[-71.055705, 42.341631]",Point,InvProp,4,IVPREM,0,C6,First,No,A ST,Part three,Unarmed,776282.285,,2949832.027,2015
+228052,152033301.0,Friday,No,2015-04-24T09:47:00.000,InvProp,"[-71.129695, 42.232361]",Point,InvProp,4,ALARM,0,E18,Day,No,MEADOWVIEW RD,Part three,Unarmed,756452.0484,,2909916.853,2015

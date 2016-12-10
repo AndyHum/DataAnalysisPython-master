@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79769,,Tuesday,No,2015-07-28T00:00:00.000,Restraining Order Violations,"[-71.072966, 42.304613]",Point,Restrain,7,VIORDR,462,C11,,No,GENEVA AVE,Part Two,None,771683.0,,2940000.0,2015
+106426,,Tuesday,No,2015-07-28T18:03:00.000,Assembly or Gathering Violations,"[0, 0]",Point,Gather,7,I00039,288,B2,,No,MALCOLM X BLVD,Part Three,None,,ROXBURY ST,,2015
+125949,,Tuesday,No,2015-07-28T22:37:00.000,Violations,"[0, 0]",Point,VAL,7,TS,320,B2,,No,CRAWFORD ST,Part Two,None,,ELM HILL AVE,,2015
+183223,,Tuesday,No,2015-07-28T00:00:00.000,Firearm Violations,"[-71.062103, 42.302779]",Point,15xx,7,SS,345,C11,,No,ROBINSON ST,Part Two,Firearm,774625.0,,2940000.0,2015
+201770,,Tuesday,No,2015-07-28T00:00:00.000,Restraining Order Violations,"[-71.166468, 42.2848]",Point,Restrain,7,VIORDR,733,E5,,No,PERHAM ST,Part Two,None,746418.0,,2930000.0,2015
+237275,,Tuesday,No,2015-07-28T13:08:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,151,D4,,No,APPLETON ST,Part Two,None,,CLARENDON ST,,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61042,120507756.0,Wednesday,No,2012-08-15T13:39:00.000,MedAssist,"[-71.06872, 42.324601]",Point,MedAssist,8,INJOFF,282,B2,Day,No,NORFOLK AV,Part Three,Unarmed,772795.0802,SHETLAND ST,2943607.937,2012
+149667,120507150.0,Wednesday,No,2012-08-15T03:30:00.000,MedAssist,"[-71.14575, 42.357041]",Point,MedAssist,8,INJOFF,804,D14,Last,No,GUEST ST,Part Three,Unarmed,751915.3913,LIFE ST,2955333.79,2012
+162932,120510272.0,Wednesday,No,2012-08-15T19:15:00.000,MedAssist,"[-71.06317, 42.379201]",Point,MedAssist,8,HAZARD,45,A15,First,No,BUNKER HILL ST,Part Three,Other,774194.0169,MYSTIC ST,2963512.845,2012
+169959,120507199.0,Wednesday,No,2012-08-15T12:05:00.000,MedAssist,"[-71.059741, 42.352052]",Point,MedAssist,8,MVPED2,116,A1,Day,No,EDINBORO ST,Part Three,Unarmed,775171.4473,,2953623.878,2012
+193896,120506474.0,Wednesday,No,2012-08-15T01:35:00.000,MedAssist,"[-71.079775, 42.282511]",Point,MedAssist,8,AOD   ,418,B3,Last,No,EVANS ST,Part Three,Unarmed,769881.1393,,2928254.769,2012
+219698,120508161.0,Wednesday,No,2012-08-15T22:12:00.000,MedAssist,"[-71.055535, 42.283972]",Point,MedAssist,8,IVPER ,391,C11,First,No,ADAMS PL,Part Three,Unarmed,776437.5406,,2928820.4060000004,2012
+224190,120506589.0,Wednesday,No,2012-08-15T03:49:00.000,MedAssist,"[-71.079431, 42.305738]",Point,MedAssist,8,UNK   ,460,C11,Last,No,COLUMBIA RD,Part Three,Unarmed,769932.3196,,2936719.48,2012
+233605,120507931.0,Wednesday,No,2012-08-15T13:50:00.000,MedAssist,"[-71.082729, 42.303966]",Point,MedAssist,8,INJOFF,257,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,769043.4976,SEAVER ST,2936069.102,2012
+243343,120506878.0,Wednesday,No,2012-08-15T09:17:00.000,MedAssist,"[-71.119501, 42.266268]",Point,MedAssist,8,IVPER ,495,E18,Day,No,THACHER ST,Part Three,Unarmed,759157.5807,,2922284.952,2012

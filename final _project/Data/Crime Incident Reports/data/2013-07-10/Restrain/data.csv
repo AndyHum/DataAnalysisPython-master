@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89477,130426142.0,Wednesday,No,2013-07-10T17:22:00.000,Restrain,"[-71.122855, 42.280371]",Point,Restrain,7,VIORDR,556,E5,First,No,SEYMOUR ST,Part Two,Unarmed,758227.0734,,2927420.432,2013
+166601,130426216.0,Wednesday,No,2013-07-10T20:45:00.000,Restrain,"[-71.068175, 42.309816]",Point,Restrain,7,VIORDR,333,C11,First,No,BELLEVUE ST,Part Two,Other,772969.7365,,2938220.789,2013
+186199,130430672.0,Wednesday,No,2013-07-10T11:00:00.000,Restrain,"[-71.05697, 42.298096]",Point,Restrain,7,VIORDR,354,C11,Day,No,ADAMS ST,Part Two,Unarmed,776022.6969,,2933965.3880000003,2013

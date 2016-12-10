@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12496,142008726.0,Saturday,No,2014-07-12T10:00:00.000,BENoProp,"[-71.12931, 42.255846]",Point,BENoProp,7,BE,0,E18,Day,No,PERKINS AV,Part One,Knife,756519.1194,,2918475.526,2014
+67579,142008460.0,Saturday,No,2014-07-12T11:00:00.000,BENoProp,"[-71.059475, 42.378676]",Point,BENoProp,7,BE,0,A15,Day,No,MONUMENT ST,Part One,Unarmed,775193.3491,,2963326.659,2014
+89591,142008598.0,Saturday,No,2014-07-12T22:03:00.000,BENoProp,"[-71.074457, 42.325289]",Point,BENoProp,7,HOMINV,0,B2,First,No,MAGAZINE ST,Part One,Other,771242.4145,,2943850.8619999997,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59186,130720142.0,Saturday,No,2013-11-09T12:00:00.000,InvProp,"[-71.0557, 42.359816]",Point,InvProp,11,INVEST,93,A1,Day,No,S MARKET ST,Part three,Unarmed,776249.1174,,2956458.986,2013
+136848,130742131.0,Saturday,No,2013-11-09T12:00:00.000,InvProp,"[-71.079334, 42.308682]",Point,InvProp,11,INVEST,329,B2,Day,No,STANWOOD ST,Part three,Unarmed,769953.2615,,2937792.376,2013
+165562,130714030.0,Saturday,No,2013-11-09T17:56:00.000,InvProp,"[-71.076395, 42.297861]",Point,InvProp,11,IVPREM,446,B3,First,No,WATERLOW ST,Part three,Firearm,770767.9912,,2933853.0539999995,2013
+166495,130714577.0,Saturday,No,2013-11-09T23:12:00.000,InvProp,"[-71.05681, 42.378421]",Point,InvProp,11,PSHOT ,900,A15,First,No,TUFTS ST,Part three,Unarmed,775913.8886,WALFORD WY,2963237.461,2013
+167345,130713899.0,Saturday,No,2013-11-09T16:39:00.000,InvProp,"[-71.105242, 42.280519]",Point,InvProp,11,IVPREM,477,B3,First,No,HARVARD ST,Part three,Unarmed,762993.0697,,2927495.6780000003,2013
+199189,130712901.0,Saturday,No,2013-11-09T02:38:00.000,InvProp,"[-71.071885, 42.351536]",Point,InvProp,11,REQP  ,129,D4,Last,No,BOYLSTON ST,Part three,Other,771889.9292,,2953419.2260000003,2013
+216627,130713310.0,Saturday,No,2013-11-09T10:32:00.000,InvProp,"[-71.15251, 42.355526]",Point,InvProp,11,SHOTS ,939,D14,Day,No,FANEUIL ST,Part three,Unarmed,750090.5224,,2954774.1769999997,2013

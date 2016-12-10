@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51887,140295362.0,Tuesday,No,2014-05-13T10:40:00.000,07RV,"[-71.03813, 42.377501]",Point,07RV,5,RECMV ,23,A7,Day,No,LEXINGTON ST,Other,Unarmed,780962.8688,,2962928.974,2014
+187788,140295135.0,Tuesday,No,2014-05-13T08:53:00.000,07RV,"[-71.0826, 42.277496]",Point,07RV,5,RECMVO,412,B3,Day,No,GLENHILL RD,Other,Unarmed,769125.6333,,2926423.48,2014
+213073,140294629.0,Tuesday,No,2014-05-13T00:19:00.000,07RV,"[-71.100324, 42.275593]",Point,07RV,5,HITRUN,470,B3,Last,No,ITASCA ST,Other,Unarmed,764332.3102,,2925706.975,2014

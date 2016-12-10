@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54135,,Wednesday,No,2015-07-15T09:12:00.000,Robbery,"[0, 0]",Point,03xx,7,ARMROB,457,B3,,No,GLENWAY ST,Part One,Firearm,,HARLEM ST,,2015
+117991,,Wednesday,No,2015-07-15T00:00:00.000,Robbery,"[-71.076067, 42.347623]",Point,03xx,7,I00040,130,D4,,No,DARTMOUTH ST,Part One,Personal Weapon (hand  foot  etc.),770766.0,,2950000.0,2015
+219055,,Wednesday,No,2015-07-15T00:00:00.000,Robbery,"[-71.056154, 42.381808]",Point,03xx,7,STAB,44,A15,,No,TERMINAL ST,Part One,Knife/Cutting Instrument,776085.0,,2960000.0,2015

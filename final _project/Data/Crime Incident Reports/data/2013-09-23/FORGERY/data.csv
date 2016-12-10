@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7067,130626104.0,Monday,No,2013-09-23T12:00:00.000,FORGERY,"[-71.117934, 42.360844]",Point,10xx,9,LARCRT,820,D14,Day,No,CAMBRIDGE ST,Part Two,Other,759427.1540000001,,2956751.887,2013
+67474,130607551.0,Monday,No,2013-09-23T15:00:00.000,FORGERY,"[-71.06575, 42.325491]",Point,10xx,9,LARCIP,186,C6,Day,No,MASSACHUSETTS AV,Part Two,Other,773596.582,,2943936.3439999996,2013
+128718,130607406.0,Monday,No,2013-09-23T14:20:00.000,FORGERY,"[-71.087592, 42.290888]",Point,10xx,9,MISC  ,944,B3,Day,No,WESTVIEW ST,Part Two,Unarmed,767750.9008,,2931297.042,2013
+205449,130610228.0,Monday,No,2013-09-23T17:30:00.000,FORGERY,"[-71.060585, 42.298841]",Point,10xx,9,LARCRT,356,C11,First,No,DORCHESTER AV,Part Two,Unarmed,775043.317,,2934231.818,2013

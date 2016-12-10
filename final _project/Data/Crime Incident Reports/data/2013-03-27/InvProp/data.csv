@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109042,130179702.0,Wednesday,No,2013-03-27T15:10:00.000,InvProp,"[-71.13238, 42.282461]",Point,InvProp,3,BEIP  ,559,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,755646.2199,,2928170.807,2013
+124653,130179760.0,Wednesday,No,2013-03-27T07:50:00.000,InvProp,"[0, 0]",Point,InvProp,3,BERPT ,257,C11,Day,No,STOUGHTON ST,Part Three,Other,,,,2013
+132769,130179104.0,Wednesday,No,2013-03-27T10:58:00.000,InvProp,"[-71.06853, 42.295871]",Point,InvProp,3,BEIP  ,359,C11,Day,No,ALPHA RD,Part Three,Unarmed,772899.4194,,2933138.537,2013

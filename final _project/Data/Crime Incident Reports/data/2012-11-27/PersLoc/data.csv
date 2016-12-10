@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5260,120747838.0,Tuesday,No,2012-11-27T17:00:00.000,PersLoc,"[-71.054204, 42.31971]",Point,PersLoc,11,MISPER,235,C11,First,No,CARSON ST,Part Three,Unarmed,776729.6492,,2941845.811,2012
+8609,120744325.0,Tuesday,No,2012-11-27T13:55:00.000,PersLoc,"[-71.13117, 42.353511]",Point,PersLoc,11,MISPER,801,D14,Day,No,GARDNER ST,Part Three,Unarmed,755861.689,,2954064.091,2012
+11783,120744309.0,Tuesday,No,2012-11-27T13:30:00.000,PersLoc,"[-71.0696, 42.275751]",Point,PersLoc,11,INVCHD,404,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,772646.9359,ST GREGORY ST,2925805.063,2012
+97332,120744593.0,Tuesday,No,2012-11-27T13:55:00.000,PersLoc,"[-71.13117, 42.353511]",Point,PersLoc,11,MSNCOM,801,D14,Day,No,GARDNER ST,Part Three,Unarmed,755861.689,,2954064.091,2012
+136659,120773048.0,Tuesday,No,2012-11-27T10:00:00.000,PersLoc,"[-71.059987, 42.361648]",Point,PersLoc,11,MISPER,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+183528,120745235.0,Tuesday,No,2012-11-27T07:10:00.000,PersLoc,"[-71.03336, 42.370471]",Point,PersLoc,11,MISPER,30,A7,Last,No,LUBEC ST,Part Three,Unarmed,782265.7126,,2960374.1160000004,2012
+223481,120744594.0,Tuesday,No,2012-11-27T13:55:00.000,PersLoc,"[-71.13117, 42.353511]",Point,PersLoc,11,MSNCOM,801,D14,Day,No,GARDNER ST,Part Three,Unarmed,755861.689,,2954064.091,2012
+248050,120745464.0,Tuesday,No,2012-11-27T08:45:00.000,PersLoc,"[0, 0]",Point,PersLoc,11,IVPER ,648,B2,Day,No,CHILD ST,Part Three,Unarmed,,,,2012

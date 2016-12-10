@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6480,130318400.0,Monday,No,2013-05-27T19:58:00.000,InvProp,"[-71.072995, 42.304498]",Point,InvProp,5,BEIP  ,337,C11,First,No,GENEVA AV,Part three,Unarmed,771675.6285,,2936276.22,2013
+181162,130317547.0,Monday,No,2013-05-27T12:38:00.000,InvProp,"[-71.051665, 42.329316]",Point,InvProp,5,ALARMC,915,C6,Day,No,COLUMBIA RD,Part Three,Unarmed,777398.0803,,2945349.943,2013
+206335,130318749.0,Monday,No,2013-05-27T23:57:00.000,InvProp,"[-71.11303, 42.30488]",Point,InvProp,5,SHOTS ,651,E13,Last,No,HALL ST,Part Three,Unarmed,760845.1689,,2936363.647,2013
+230199,130317882.0,Monday,No,2013-05-27T15:45:00.000,InvProp,"[-71.00221, 42.384341]",Point,InvProp,5,FIREB ,5,A7,Day,No,ST ANDREW RD,Part Three,Unarmed,790653.7073,,2965476.203,2013
+232828,130316758.0,Monday,No,2013-05-27T00:47:00.000,InvProp,"[-71.05661, 42.361881]",Point,InvProp,5,IVPREM,93,A1,Last,No,BLACKSTONE ST,Part three,Unarmed,775999.2593,,2957210.233,2013
+246731,130318078.0,Monday,No,2013-05-27T17:10:00.000,InvProp,"[-71.089675, 42.287751]",Point,InvProp,5,IVPREM,431,B3,First,No,ARBUTUS ST,Part three,Unarmed,767193.0006,,2930151.2569999998,2013

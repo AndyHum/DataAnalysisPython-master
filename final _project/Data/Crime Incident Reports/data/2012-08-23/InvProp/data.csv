@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7882,120525139.0,Thursday,No,2012-08-23T11:00:00.000,InvProp,"[-71.065585, 42.309856]",Point,InvProp,8,CD19  ,334,C11,Day,No,HENDRY ST,Part Three,Unarmed,773670.2174,,2938238.923,2012
+116828,120526220.0,Thursday,No,2012-08-23T19:53:00.000,InvProp,"[-71.072298, 42.304718]",Point,InvProp,8,IVPREM,348,C11,First,No,EVERTON ST,Part Three,Unarmed,771863.6868,GENEVA AV,2936357.135,2012
+128031,120525457.0,Thursday,No,2012-08-23T13:50:00.000,InvProp,"[-71.080945, 42.311606]",Point,InvProp,8,BEIP  ,321,B2,Day,No,BLUE HILL AV,Part Three,Other,769512.4455,,2938855.865,2012
+167662,120526602.0,Thursday,No,2012-08-23T22:48:00.000,InvProp,"[-71.127754, 42.258731]",Point,InvProp,8,BEIP  ,544,E18,First,No,CHILD ST,Part Three,Unarmed,756935.5428,,2919528.672,2012
+185144,120525862.0,Thursday,No,2012-08-23T17:22:00.000,InvProp,"[-71.054864, 42.296187]",Point,InvProp,8,DISTRB,355,C11,First,No,NEPONSET AV,Part Three,Unarmed,776596.0681,,2933272.605,2012
+210236,120524669.0,Thursday,No,2012-08-23T04:51:00.000,InvProp,"[-71.071762, 42.302082]",Point,InvProp,8,IVPREM,0,C11,Last,No,BOWDOIN ST,Part Three,Unarmed,772013.5488,,2935397.4269999997,2012
+210859,120525969.0,Thursday,No,2012-08-23T18:20:00.000,InvProp,"[-71.07494, 42.350051]",Point,InvProp,8,INVEST,130,D4,First,No,CLARENDON ST,Part Three,Other,771066.8423,,2952873.9310000003,2012
+221613,120528219.0,Thursday,No,2012-08-23T09:30:00.000,InvProp,"[-71.066075, 42.304986]",Point,InvProp,8,IVPREM,341,C11,Day,No,HAMILTON ST,Part Three,Firearm,773546.7091,,2936463.545,2012

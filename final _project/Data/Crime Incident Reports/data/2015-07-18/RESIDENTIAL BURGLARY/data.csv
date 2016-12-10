@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67359,,Saturday,No,2015-07-18T00:00:00.000,Residential Burglary,"[-71.080974, 42.339983]",Point,05RB,7,BE,155,D4,,No,MASSACHUSETTS AVE,Part One,None,769454.0,,2950000.0,2015
+189760,,Saturday,No,2015-07-18T00:00:00.000,Residential Burglary,"[-71.081457, 42.338655]",Point,05RB,7,BE,273,D4,,No,TREMONT ST,Part One,None,769326.0,,2950000.0,2015
+205819,,Saturday,No,2015-07-18T00:00:00.000,Residential Burglary,"[-71.103717, 42.330675]",Point,05RB,7,BE,604,B2,,No,HILLSIDE ST,Part One,None,763321.0,,2950000.0,2015
+236964,,Saturday,No,2015-07-18T00:00:00.000,Residential Burglary,"[-71.052776, 42.366151]",Point,05RB,7,BE,87,A1,,No,HANOVER ST,Part One,None,777027.0,,2960000.0,2015

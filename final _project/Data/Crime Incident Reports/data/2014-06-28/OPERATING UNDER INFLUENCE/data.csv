@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76705,142003701.0,Saturday,No,2014-06-28T02:48:00.000,OPERATING UNDER INFLUENCE,"[-71.0639, 42.348971]",Point,21xx,6,ARREST,0,A1,Last,No,WASHINGTON ST,Part Two,Unarmed,774053.104,NASSAU ST,2952495.423,2014
+100667,142003681.0,Saturday,No,2014-06-28T01:22:00.000,OPERATING UNDER INFLUENCE,"[-71.03386, 42.379111]",Point,21xx,6,ARREST,0,A7,Last,No,LEXINGTON ST,Part Two,Other,782113.3934,,2963521.9669999997,2014
+265076,142003985.0,Saturday,No,2014-06-28T23:41:00.000,OPERATING UNDER INFLUENCE,"[0, 0]",Point,21xx,6,MVA,0,E13,First,No,PERRIN ST,Part Two,Unarmed,,JAMAICAWAY,,2014

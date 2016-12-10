@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111826,142001694.0,Sunday,No,2014-06-22T04:22:00.000,InvPer,"[-71.102874, 42.325388]",Point,InvPer,6,UNK,0,E13,Last,No,HORAN WY,Part three,Unarmed,763557.568,,2943849.8589999997,2014
+134747,142002046.0,Sunday,No,2014-06-22T17:00:00.000,InvPer,"[-71.14693, 42.355591]",Point,InvPer,6,IVPREM,0,D14,First,No,N BEACON ST,Part three,Other,751598.6440000001,,2954804.059,2014
+155349,142001860.0,Sunday,No,2014-06-22T17:20:00.000,InvPer,"[-71.119714, 42.292533]",Point,InvPer,6,STAB,0,E5,First,No,BROOKWAY RD,Part three,Other,759057.0586,,2931855.943,2014
+167371,142003207.0,Sunday,No,2014-06-22T14:00:00.000,InvPer,"[-71.06417, 42.292784]",Point,InvPer,6,IVPER,0,C11,Day,No,CENTRE ST,Part three,Unarmed,774084.5088,,2932019.28,2014
+223792,142001886.0,Sunday,No,2014-06-22T19:49:00.000,InvPer,"[-71.15417, 42.355656]",Point,InvPer,6,PERGUN,0,D14,First,No,FANEUIL ST,Part three,Firearm,749641.6483,,2954819.728,2014
+238293,142001916.0,Sunday,No,2014-06-22T22:18:00.000,InvPer,"[-71.05498, 42.317241]",Point,InvPer,6,IVPER,0,C11,First,No,HARBOR VIEW ST,Part three,Unarmed,776524.6605,,2940944.921,2014
+241094,142001912.0,Sunday,No,2014-06-22T19:24:00.000,InvPer,"[-71.073735, 42.290721]",Point,InvPer,6,IVPER,0,B3,First,No,TALBOT AV,Part three,Unarmed,771500.6187,,2931254.7189999996,2014
+261199,142001686.0,Sunday,No,2014-06-22T02:30:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,C11,Last,No,GLENROSE RD,Part three,Unarmed,,,,2014
+263563,142001793.0,Sunday,No,2014-06-22T14:27:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,C6,Day,No,GOLD ST,Part three,Knife,,E 1ST ST,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113246,130378571.0,Thursday,No,2013-06-20T12:00:00.000,PersLoc,"[-71.06382, 42.361866]",Point,PersLoc,6,MISPER,74,A1,Day,No,STANIFORD ST,Other,Unarmed,774050.6995,,2957194.7189999996,2013
+129140,130377228.0,Thursday,No,2013-06-20T17:00:00.000,PersLoc,"[-71.056085, 42.378751]",Point,PersLoc,6,MISPER,900,A15,First,No,COREY ST,Other,Unarmed,776109.1511,,2963358.74,2013
+213169,130377811.0,Thursday,No,2013-06-20T10:30:00.000,PersLoc,"[-71.097152, 42.266872]",Point,PersLoc,6,MSNCOM,481,E18,Day,No,VIOLANTE ST,Other,Unarmed,765205.7005,,2922532.943,2013

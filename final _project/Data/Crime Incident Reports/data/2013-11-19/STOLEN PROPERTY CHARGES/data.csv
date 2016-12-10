@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65687,130734156.0,Tuesday,No,2013-11-19T11:46:00.000,STOLEN PROPERTY CHARGES,"[-71.091665, 42.283876]",Point,13xx,11,IVPER ,0,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,766661.3085,,2928736.567,2013
+87343,130734402.0,Tuesday,No,2013-11-19T13:49:00.000,STOLEN PROPERTY CHARGES,"[-71.084525, 42.329741]",Point,13xx,11,ARREST,288,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768511.9472,,2945459.828,2013
+96111,130735731.0,Tuesday,No,2013-11-19T23:45:00.000,STOLEN PROPERTY CHARGES,"[-71.06176, 42.301701]",Point,13xx,11,INVEST,352,C11,First,No,ARCADIA ST,Part Two,Unarmed,774720.088,,2935272.409,2013

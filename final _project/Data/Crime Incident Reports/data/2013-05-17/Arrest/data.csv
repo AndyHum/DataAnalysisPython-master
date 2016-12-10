@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97120,130293975.0,Friday,No,2013-05-17T08:11:00.000,Arrest,"[-71.0781, 42.298361]",Point,Arrest,5,CD11  ,0,B3,Day,No,RADCLIFFE ST,Part Three,Unarmed,770305.6703,,2934032.814,2013
+124151,130293815.0,Friday,No,2013-05-17T07:00:00.000,Arrest,"[-71.084071, 42.320051]",Point,Arrest,5,CD11  ,309,B2,Last,No,CATAWBA ST,Part three,Unarmed,768651.8865,,2941929.1969999997,2013
+144870,130293547.0,Friday,No,2013-05-17T00:50:00.000,Arrest,"[-71.07726, 42.294581]",Point,Arrest,5,ARREST,447,B3,Last,No,PARK ST,Part Three,Unarmed,770539.9019,MILLET ST,2932656.6119999997,2013
+155079,130294079.0,Friday,No,2013-05-17T08:53:00.000,Arrest,"[-71.14624, 42.270961]",Point,Arrest,5,IVPER ,706,E5,Day,No,WASHINGTON ST,Part Three,Other,751913.0489,,2923964.1789999995,2013

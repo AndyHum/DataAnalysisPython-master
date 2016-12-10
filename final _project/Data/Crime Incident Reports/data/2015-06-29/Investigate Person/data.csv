@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63069,,Monday,No,2015-06-29T00:00:00.000,Investigate Person,"[-71.128294, 42.306195]",Point,InvPer,6,ALARM,656,E13,,No,DAVID RD,Part Three,None,756714.0,,2940000.0,2015
+96607,,Monday,No,2015-06-29T00:32:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,201,C6,,No,B ST,Part Three,None,,W THIRD ST,,2015
+111767,,Monday,No,2015-06-29T00:00:00.000,Investigate Person,"[-71.078146, 42.298378]",Point,InvPer,6,VIORDR,446,B3,,No,RADCLIFFE ST,Part Three,None,770293.0,,2930000.0,2015
+146034,,Monday,No,2015-06-29T00:00:00.000,Investigate Person,"[-71.077763, 42.319569]",Point,InvPer,6,IVPER,265,B2,,No,BLUE HILL AVE,Part Three,None,770359.0,,2940000.0,2015
+185397,,Monday,No,2015-06-29T00:00:00.000,Investigate Person,"[-71.076093, 42.321643]",Point,InvPer,6,IVPER,262,B2,,No,DENNIS ST,Part Three,None,770807.0,,2940000.0,2015
+187323,,Monday,No,2015-06-29T10:57:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,289,B2,,No,MALCOLM X BLVD,Part Three,None,,,,2015
+238458,,Monday,No,2015-06-29T10:35:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,960,C6,,No,L ST,Part Three,None,,,,2015
+247167,,Monday,No,2015-06-29T00:00:00.000,Investigate Person,"[-71.056975, 42.331384]",Point,InvPer,6,VAND,174,C6,,No,DORCHESTER AVE,Part Three,None,775958.0,,2950000.0,2015
+249784,,Monday,No,2015-06-29T00:00:00.000,Investigate Person,"[-71.054356, 42.327797]",Point,InvPer,6,I00027,914,C6,,No,GENERAL LAWRENCE J LOGAN WAY,Part Three,None,776673.0,,2940000.0,2015
+254582,,Monday,No,2015-06-29T00:00:00.000,Investigate Person,"[-71.127081, 42.300989]",Point,InvPer,6,DISTRB,657,E13,,No,CENTRE ST,Part Three,None,757050.0,,2930000.0,2015

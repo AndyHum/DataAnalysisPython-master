@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+168336,130543403.0,Wednesday,No,2013-08-28T08:45:00.000,PropFound,"[-71.07463, 42.335321]",Point,PropFound,8,FDPROP,171,D4,Day,No,HARRISON AV,Part three,Unarmed,771177.4087,,2947506.466,2013
+194229,130543450.0,Wednesday,No,2013-08-28T09:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+225448,130545306.0,Wednesday,No,2013-08-28T22:30:00.000,PropFound,"[-71.09782, 42.344541]",Point,PropFound,8,FDPROP,624,D4,First,No,BOYLSTON ST,Part three,Unarmed,764891.5542,YAWKEY WY,2950835.9889999996,2013

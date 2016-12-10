@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8940,142000274.0,Wednesday,No,2014-06-18T08:29:00.000,32GUN,"[-71.09666, 42.333711]",Point,32GUN,6,FDWEAP,0,B2,Day,No,HORADAN WY,Part three,Firearm,765223.8077,,2946890.818,2014
+25703,142000459.0,Wednesday,No,2014-06-18T17:53:00.000,32GUN,"[-71.08312, 42.308561]",Point,32GUN,6,SS,0,B2,First,No,BLUE HILL AV,Part three,Firearm,768929.5815,,2937743.336,2014
+237164,142000354.0,Wednesday,No,2014-06-18T12:45:00.000,32GUN,"[-71.059735, 42.297541]",Point,32GUN,6,CD9,0,C11,Day,No,GIBSON ST,Part three,Firearm,775275.7115,,2933759.268,2014
+251921,142000322.0,Wednesday,No,2014-06-18T11:03:00.000,32GUN,"[-71.125087, 42.262984]",Point,32GUN,6,IVPREM,0,E18,Day,No,WEST ST,Part three,Firearm,757650.8255,,2921081.477,2014

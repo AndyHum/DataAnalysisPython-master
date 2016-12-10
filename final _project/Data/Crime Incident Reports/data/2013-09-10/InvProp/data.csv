@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21166,130574895.0,Tuesday,No,2013-09-10T09:01:00.000,InvProp,"[-71.114525, 42.302651]",Point,InvProp,9,LOCK  ,651,E13,Day,No,SOUTH ST,Part three,Unarmed,760444.5696,,2935549.682,2013
+96421,130574599.0,Tuesday,No,2013-09-10T05:40:00.000,InvProp,"[-71.10027, 42.332581]",Point,InvProp,9,ALARMC,587,B2,Last,No,TREMONT ST,Part three,Unarmed,764249.6548,,2946474.43,2013
+117168,130575454.0,Tuesday,No,2013-09-10T22:45:00.000,InvProp,"[-71.12591, 42.318651]",Point,InvProp,9,CD9   ,0,E13,First,No,PERKINS ST,Part three,Other,757339.1762,PRINCE ST,2941366.639,2013
+121477,130574468.0,Tuesday,No,2013-09-10T01:36:00.000,InvProp,"[-71.07072, 42.359106]",Point,InvProp,9,REQP  ,66,A1,Last,No,CHARLES ST,Part three,Unarmed,772190.9539,,2956179.46,2013
+132787,130575144.0,Tuesday,No,2013-09-10T08:00:00.000,InvProp,"[-71.10086, 42.322816]",Point,InvProp,9,IVPREM,912,E13,Day,No,CENTRE ST,Part three,Unarmed,764106.7781,BICKFORD ST,2942915.144,2013

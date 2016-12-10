@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21451,130602715.0,Saturday,No,2013-09-21T13:05:00.000,BENoProp,"[-71.048935, 42.340401]",Point,BENoProp,9,BEIP  ,202,C6,Day,No,D ST,Part One,Unarmed,778114.9119,,2949393.4,2013
+65608,130606895.0,Saturday,No,2013-09-21T10:24:00.000,BENoProp,"[-71.05468, 42.358122]",Point,BENoProp,9,BERPT ,100,A1,Day,No,WATER ST,Part One,Unarmed,776527.9154,,2955842.918,2013
+256279,130602019.0,Saturday,No,2013-09-21T04:05:00.000,BENoProp,"[-71.07825, 42.335516]",Point,BENoProp,9,ARREST,273,D4,Last,No,WASHINGTON ST,Part One,Firearm,770198.2968,,2947572.668,2013

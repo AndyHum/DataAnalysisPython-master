@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65232,140135326.0,Wednesday,No,2014-03-05T10:31:00.000,Service,"[-71.06942, 42.362401]",Point,Service,3,CD11  ,64,A1,Day,No,FRUIT ST,Other,Other,772536.2528,CAMBRIDGE ST,2957381.922,2014
+92897,140135356.0,Wednesday,No,2014-03-05T10:46:00.000,Service,"[-71.13395, 42.279821]",Point,Service,3,CD11  ,552,E5,Day,No,WELLSMERE TR,Part three,Unarmed,755225.5029,,2927206.9239999996,2014
+133464,140135299.0,Wednesday,No,2014-03-05T10:30:00.000,Service,"[-71.033025, 42.377876]",Point,Service,3,IVPER ,19,A7,Day,No,SARATOGA ST,Other,Unarmed,782341.4644,,2963073.142,2014
+235790,140136223.0,Wednesday,No,2014-03-05T17:30:00.000,Service,"[-71.06219, 42.356241]",Point,Service,3,ARREST,102,A1,First,No,TREMONT ST,Part three,Unarmed,774501.7472,WINTER ST,2955147.117,2014
+252887,140134903.0,Wednesday,No,2014-03-05T06:45:00.000,Service,"[-71.06939, 42.339506]",Point,Service,3,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+263811,140136497.0,Wednesday,No,2014-03-05T19:15:00.000,Service,"[0, 0]",Point,Service,3,ARREST,936,D4,First,No,W 7TH ST,Part three,Unarmed,,,,2014

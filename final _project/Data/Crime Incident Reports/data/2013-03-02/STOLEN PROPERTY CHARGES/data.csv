@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13869,130126086.0,Saturday,No,2013-03-02T07:30:00.000,STOLEN PROPERTY CHARGES,"[-71.03932, 42.383261]",Point,13xx,3,ARREST,25,A7,Day,No,MERIDIAN ST,Part Two,Other,780630.0013,NAY ST,2965026.296,2013
+45127,130126339.0,Saturday,No,2013-03-02T10:58:00.000,STOLEN PROPERTY CHARGES,"[-71.097081, 42.319472]",Point,13xx,3,ARREST,304,B2,Day,No,DIMOCK ST,Part Two,Unarmed,765134.3663,,2941701.057,2013
+193871,130126210.0,Saturday,No,2013-03-02T09:41:00.000,STOLEN PROPERTY CHARGES,"[-71.03979, 42.374931]",Point,13xx,3,TSTOP ,27,A7,Day,No,BORDER ST,Part Two,Unarmed,780519.4002,,2961989.988,2013

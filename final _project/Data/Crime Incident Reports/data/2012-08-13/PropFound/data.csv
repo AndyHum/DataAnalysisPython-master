@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5987,120501931.0,Monday,No,2012-08-13T03:21:00.000,PropFound,"[-71.07831, 42.352031]",Point,PropFound,8,FDPROP,137,D4,Last,No,COMMONWEALTH AV,Part Three,Unarmed,770152.3215,DARTMOUTH ST,2953590.959,2012
+31866,120503771.0,Monday,No,2012-08-13T21:40:00.000,PropFound,"[-71.113692, 42.308557]",Point,PropFound,8,LSTPRP,574,E13,First,No,SEDGWICK ST,Part Three,Unarmed,760660.1525,,2937702.682,2012
+116971,120502814.0,Monday,No,2012-08-13T15:00:00.000,PropFound,"[-71.08257, 42.348656]",Point,PropFound,8,FDPROP,143,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,769006.8448,,2952355.38,2012
+167611,120503254.0,Monday,No,2012-08-13T17:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,8,FDPROP,72,A1,First,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+225911,120702069.0,Monday,No,2012-08-13T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+241720,120502007.0,Monday,No,2012-08-13T08:58:00.000,PropFound,"[-71.165339, 42.270273]",Point,PropFound,8,FDPROP,708,E5,Day,No,JOYCE KILMER RD,Part Three,Unarmed,746744.6915,,2923692.337,2012
+264356,120502191.0,Monday,No,2012-08-13T09:09:00.000,PropFound,"[0, 0]",Point,PropFound,8,IVPREM,546,E18,Day,No,AUSTIN ST,Part Three,Unarmed,,SHERRIN ST,,2012

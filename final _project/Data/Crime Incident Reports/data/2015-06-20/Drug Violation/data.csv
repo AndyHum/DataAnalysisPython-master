@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11192,,Saturday,No,2015-06-20T00:00:00.000,Drug Violation,"[-71.117331, 42.283931]",Point,18xx,6,IVPER,502,E18,,No,MOUNT HOPE ST,Part Two,None,759716.0,,2930000.0,2015
+86415,,Saturday,No,2015-06-20T18:00:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,117,A1,,No,LAGRANGE ST,Part Two,None,,TAMWORTH ST,,2015
+92739,,Saturday,No,2015-06-20T00:00:00.000,Drug Violation,"[-71.083658, 42.332488]",Point,18xx,6,IVPREM,276,B2,,No,SHAWMUT AVE,Part Two,None,768741.0,,2950000.0,2015
+100650,,Saturday,No,2015-06-20T07:30:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPREM,519,E18,,No,HYDE PARK AVE,Part Two,None,,,,2015
+105724,,Saturday,No,2015-06-20T14:53:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,179,C6,,No, MASSACHUSETTS AVE ,Part Two,None,, MELNEA CASS BLVD ,,2015
+107388,,Saturday,No,2015-06-20T11:40:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,117,A1,,No,LAGRANGE ST,Part Two,None,,TAMWORTH ST,,2015
+127444,,Saturday,No,2015-06-20T18:08:00.000,Drug Violation,"[0, 0]",Point,18xx,6,TS,300,B2,,No,CEDAR ST,Part Two,None,,WASHINGTON ST,,2015
+196343,,Saturday,No,2015-06-20T17:30:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ADMRPT,183,B2,,No,DUDLEY ST,Part Two,None,,MAGNOLIA ST,,2015
+207078,,Saturday,No,2015-06-20T00:00:00.000,Drug Violation,"[-71.13094, 42.249738]",Point,18xx,6,UNKEMS,540,E18,,No,RIVER ST,Part Two,None,756087.0,,2920000.0,2015
+247886,,Saturday,No,2015-06-20T11:42:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,76,A1,,No,CANAL ST,Part Two,None,, CAUSEWAY ST ,,2015
+249245,,Saturday,No,2015-06-20T17:00:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,0,,,No,MASSACHUSETTS AVE,Part Two,None,,,,2015
+256226,,Saturday,No,2015-06-20T00:00:00.000,Drug Violation,"[-71.06134, 42.310434]",Point,18xx,6,INVEST,257,C11,,No,HANCOCK ST,Part Two,None,774817.0,,2940000.0,2015

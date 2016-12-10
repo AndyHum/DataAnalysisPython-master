@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64287,130716274.0,Tuesday,No,2013-10-29T16:47:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,10,HARPT ,797,D14,First,No,FAIRLAWN AV,Part three,Unarmed,,,,2013
+108427,130689622.0,Tuesday,No,2013-10-29T16:31:00.000,PhoneCalls,"[-71.04139, 42.330941]",Point,PhoneCalls,10,THREAT,921,C6,First,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2013
+184052,130691684.0,Tuesday,No,2013-10-29T04:59:00.000,PhoneCalls,"[-71.1125, 42.297951]",Point,PhoneCalls,10,HARPT ,509,E13,Last,No,WELD HILL ST,Part three,Other,761000.1459,,2933839.409,2013

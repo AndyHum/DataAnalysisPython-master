@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19429,130758111.0,Sunday,No,2013-12-01T11:39:00.000,InvProp,"[-71.15185, 42.336806]",Point,InvProp,12,IVPREM,789,D14,Day,No,CHESTNUT HILL AV,Part three,Unarmed,750296.7595,,2947952.96,2013
+141317,130758608.0,Sunday,No,2013-12-01T17:02:00.000,InvProp,"[-71.04283, 42.333401]",Point,InvProp,12,ALARMR,229,C6,First,No,STORY ST,Part three,Unarmed,779779.0923,,2946851.269,2013
+158601,130757734.0,Sunday,No,2013-12-01T03:22:00.000,InvProp,"[-71.10044, 42.276576]",Point,InvProp,12,SHOTS ,470,B3,Last,No,COLORADO ST,Part three,Unarmed,764299.2922,,2926065.099,2013
+256771,130809704.0,Sunday,No,2013-12-01T09:00:00.000,InvProp,"[-71.070807, 42.323198]",Point,InvProp,12,IVPREM,182,B2,Day,No,CLIFTON ST,Part three,Firearm,772233.1097,,2943093.578,2013

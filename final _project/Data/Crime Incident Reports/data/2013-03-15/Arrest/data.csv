@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+156809,130153623.0,Friday,No,2013-03-15T13:25:00.000,Arrest,"[-71.15251, 42.355526]",Point,Arrest,3,ARREST,939,D14,Day,No,FANEUIL ST,Part Three,Unarmed,750090.5224,,2954774.1769999997,2013
+159585,130152910.0,Friday,No,2013-03-15T06:30:00.000,Arrest,"[-71.055595, 42.378741]",Point,Arrest,3,CD11  ,900,A15,Last,No,STARR KING CT,Part Three,Unarmed,776241.5629,,2963355.785,2013
+192336,130154149.0,Friday,No,2013-03-15T17:26:00.000,Arrest,"[-71.12579, 42.250966]",Point,Arrest,3,TSTOP ,543,E18,First,No,HYDE PARK AV,Part Three,Unarmed,757479.8409,,2916701.352,2013

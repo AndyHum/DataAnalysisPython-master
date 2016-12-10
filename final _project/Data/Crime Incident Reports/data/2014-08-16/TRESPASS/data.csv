@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+156134,142020079.0,Saturday,No,2014-08-16T19:00:00.000,TRESPASS,"[-71.075585, 42.340456]",Point,TRESPASS,8,IVPER,0,D4,First,No,W NEWTON ST,Part Two,Unarmed,770909.8909,,2949376.4669999997,2014
+174777,152028128.0,Saturday,No,2014-08-16T16:30:00.000,TRESPASS,"[-71.06056, 42.358011]",Point,TRESPASS,8,IVPER,0,A1,First,No,BEACON ST,Part Two,Unarmed,774938.9911,,2955794.405,2014
+187747,142019882.0,Saturday,No,2014-08-16T05:35:00.000,TRESPASS,"[-71.083303, 42.302514]",Point,TRESPASS,8,ARREST,0,B3,Last,No,MICHIGAN AV,Part Two,Unarmed,768890.6104,,2935539.2180000003,2014
+225264,142020809.0,Saturday,No,2014-08-16T10:00:00.000,TRESPASS,"[-71.07307, 42.294316]",Point,TRESPASS,8,IVPER,0,B3,Day,No,W TREMLETT ST,Part Two,Unarmed,771673.9868,,2932565.69,2014

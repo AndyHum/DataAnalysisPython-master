@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78187,142039599.0,Tuesday,No,2014-10-14T22:00:00.000,PhoneCalls,"[-71.089268, 42.295385]",Point,PhoneCalls,10,IVPER,0,B3,First,No,SHANDON RD,Part three,Unarmed,767289.676,,2932933.422,2014
+170339,142039002.0,Tuesday,No,2014-10-14T16:15:00.000,PhoneCalls,"[-71.071738, 42.318546]",Point,PhoneCalls,10,IVPER,0,B2,First,No,FOLSOM ST,Part Two,Unarmed,771989.8014,,2941397.037,2014
+207705,142038978.0,Tuesday,No,2014-10-14T14:00:00.000,PhoneCalls,"[-71.06051, 42.352066]",Point,PhoneCalls,10,IVPREM,0,A1,Day,No,OXFORD ST,Part three,Unarmed,774963.6679,,2953628.003,2014
+213879,152021510.0,Tuesday,No,2014-10-14T22:31:00.000,PhoneCalls,"[-71.074475, 42.348881]",Point,PhoneCalls,10,INVEST,0,D4,First,No,STUART ST,Part three,Unarmed,771194.6646,,2952448.188,2014

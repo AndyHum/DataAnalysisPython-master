@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46141,152016402.0,Sunday,No,2015-03-01T12:44:00.000,Gather,"[-71.097185, 42.343266]",Point,Gather,3,DISTRB,0,D4,Day,No,JERSEY ST,Part three,Unarmed,765065.4124,,2950372.166,2015
+97731,152016445.0,Sunday,No,2015-03-01T04:43:00.000,Gather,"[-71.0872, 42.321881]",Point,Gather,3,DISTRB,0,B2,Last,No,DALE ST,Part three,Unarmed,767802.4912,,2942591.997,2015
+254020,152016397.0,Sunday,No,2015-03-01T00:18:00.000,Gather,"[-71.102605, 42.329526]",Point,Gather,3,DISTRB,0,B2,Last,No,JUDGE ST,Part three,Unarmed,763623.4868,,2945358.183,2015

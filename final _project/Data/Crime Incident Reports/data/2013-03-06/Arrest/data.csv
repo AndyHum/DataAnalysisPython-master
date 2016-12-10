@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36155,130134586.0,Wednesday,No,2013-03-06T13:30:00.000,Arrest,"[-71.091274, 42.321187]",Point,Arrest,3,ARREST,310,B2,Day,No,MARTIN LUTHER KING BLVD,Part Three,Unarmed,766701.9547,,2942333.5039999997,2013
+76119,130133858.0,Wednesday,No,2013-03-06T06:39:00.000,Arrest,"[-71.078671, 42.29826]",Point,Arrest,3,CD11  ,455,B3,Last,No,NORWELL ST,Part Three,Unarmed,770151.3021,,2933995.437,2013
+202418,130134487.0,Wednesday,No,2013-03-06T13:00:00.000,Arrest,"[-71.06163, 42.351416]",Point,Arrest,3,ARREST,117,A1,Day,No,BEACH ST,Part Three,Unarmed,774662.1445,,2953389.5730000003,2013

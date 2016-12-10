@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32303,142025506.0,Tuesday,No,2014-09-02T18:05:00.000,07RV,"[-71.06703, 42.306221]",Point,07RV,9,TS,0,C11,First,No,BOWDOIN ST,Other,Unarmed,773286.0914,HAMILTON ST,2936912.285,2014
+60112,142025415.0,Tuesday,No,2014-09-02T14:40:00.000,07RV,"[-71.048865, 42.323941]",Point,07RV,9,ARREST,0,C6,Day,No,WILLIAM DAY BL,Other,Unarmed,778165.5627,,2943395.1960000005,2014
+203100,142025370.0,Tuesday,No,2014-09-02T12:15:00.000,07RV,"[-71.08191, 42.321701]",Point,07RV,9,IVMV,0,B2,Day,No,COPELAND ST,Other,Unarmed,769233.4040000001,WARREN ST,2942533.3680000002,2014

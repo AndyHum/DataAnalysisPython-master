@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21139,142009364.0,Tuesday,No,2014-07-15T13:00:00.000,Service,"[-71.065775, 42.352431]",Point,Service,7,IVPER,0,A1,Day,No,BOYLSTON ST,Other,Unarmed,773539.8413,,2953753.727,2014
+43639,142009514.0,Tuesday,No,2014-07-15T20:00:00.000,Service,"[-71.05936, 42.351041]",Point,Service,7,ARREST,0,A1,First,No,SURFACE RD,Part three,Unarmed,775276.4461,BEACH ST,2953256.077,2014
+49125,142009314.0,Tuesday,No,2014-07-15T09:37:00.000,Service,"[-71.0729, 42.333256]",Point,Service,7,ARREST,0,D4,Day,No,MASSACHUSETTS AV,Part three,Other,771648.9274,ALBANY ST,2946756.2810000004,2014
+51578,142010355.0,Tuesday,No,2014-07-15T12:00:00.000,Service,"[-71.118127, 42.30591]",Point,Service,7,LARCEN,0,E13,Day,No,JAMAICA ST,Part three,Unarmed,759464.6769,,2936732.769,2014
+59790,142009377.0,Tuesday,No,2014-07-15T13:40:00.000,Service,"[-71.063385, 42.307884]",Point,Service,7,IVPER,0,C11,Day,No,ADAMS ST,Part three,Unarmed,774268.9737,,2937523.3060000003,2014
+118061,142009503.0,Tuesday,No,2014-07-15T19:00:00.000,Service,"[-71.06427, 42.353331]",Point,Service,7,ARREST,0,A1,First,No,TREMONT ST,Part three,Other,773944.9704,AVERY ST,2954083.778,2014
+134662,142009504.0,Tuesday,No,2014-07-15T17:30:00.000,Service,"[-71.05718, 42.342551]",Point,Service,7,LARCEN,0,C6,First,No,DORCHESTER AV,Part three,Unarmed,775881.7799,BROADWAY,2950165.2180000003,2014

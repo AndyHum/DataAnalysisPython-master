@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63974,130449857.0,Saturday,No,2013-07-20T08:30:00.000,PropFound,"[-71.06081, 42.298111]",Point,PropFound,7,FDPROP,355,C11,Day,No,CHRISTOPHER ST,Part three,Unarmed,774983.817,DORCHESTER AV,2933965.482,2013
+103597,130450074.0,Saturday,No,2013-07-20T10:05:00.000,PropFound,"[-71.12892, 42.285721]",Point,PropFound,7,FDPROP,680,E5,Day,No,WASHINGTON ST,Part three,Unarmed,756577.3359,CORINTH ST,2929362.854,2013
+106530,130453110.0,Saturday,No,2013-07-20T19:30:00.000,PropFound,"[-71.087165, 42.346206]",Point,PropFound,7,LSTPRP,620,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767769.0517,,2951456.5089999996,2013
+113826,130451630.0,Saturday,No,2013-07-20T16:45:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,7,FDPROP,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+123502,130452043.0,Saturday,No,2013-07-20T18:00:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,7,FDPROP,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+219729,130449878.0,Saturday,No,2013-07-20T01:30:00.000,PropFound,"[-71.095795, 42.337511]",Point,PropFound,7,LSTPRP,600,B2,Last,No,HUNTINGTON AV,Part three,Other,765451.1255,,2948276.7139999997,2013

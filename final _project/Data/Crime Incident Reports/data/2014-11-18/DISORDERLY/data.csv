@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15957,142050335.0,Tuesday,No,2014-11-18T07:15:00.000,DISORDERLY,"[-71.044145, 42.332866]",Point,24xx,11,FIGHT,0,C6,Last,No,G ST,Part Two,Unarmed,779424.5802,THOMAS PK,2946654.4,2014
+37263,142050054.0,Tuesday,No,2014-11-18T12:30:00.000,DISORDERLY,"[-71.097855, 42.337786]",Point,24xx,11,IVPER,0,B2,Day,No,EVANS WY,Part Two,Unarmed,764893.6972,,2948374.297,2014
+241148,142049942.0,Tuesday,No,2014-11-18T12:20:00.000,DISORDERLY,"[-71.124215, 42.255236]",Point,24xx,11,TS,0,E18,Day,No,HYDE PARK AV,Part Two,Unarmed,757899.3955,DANA AV,2918259.269,2014

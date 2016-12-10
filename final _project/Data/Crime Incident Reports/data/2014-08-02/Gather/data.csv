@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43636,142015412.0,Saturday,No,2014-08-02T03:10:00.000,Gather,"[-71.067795, 42.360606]",Point,Gather,8,DISTRB,0,A1,Last,No,ANDERSON ST,Part three,Unarmed,772978.7348,,2956730.082,2014
+99386,142015661.0,Saturday,No,2014-08-02T11:04:00.000,Gather,"[-71.056571, 42.294477]",Point,Gather,8,DISTRB,0,C11,Day,No,ADAMS ST,Part three,Unarmed,776137.3217,,2932647.035,2014
+129533,142015464.0,Saturday,No,2014-08-02T07:30:00.000,Gather,"[-71.122665, 42.352056]",Point,Gather,8,IVPER,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758162.9245,,2953543.914,2014

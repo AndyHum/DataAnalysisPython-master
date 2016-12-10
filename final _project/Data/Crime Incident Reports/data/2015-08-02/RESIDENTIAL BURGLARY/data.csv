@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10530,,Sunday,No,2015-08-02T00:00:00.000,Residential Burglary,"[-71.082731, 42.30775]",Point,05RB,8,BE,330,B2,,No,WASHINGTON ST,Part One,None,769036.0,,2940000.0,2015
+42948,,Sunday,No,2015-08-02T00:00:00.000,Residential Burglary,"[-71.134153, 42.281801]",Point,05RB,8,ARREST,681,E5,,No,METROPOLITAN AVE,Part One,None,755167.0,,2930000.0,2015
+44016,,Sunday,No,2015-08-02T00:00:00.000,Residential Burglary,"[-71.070106, 42.283404]",Point,05RB,8,BE,402,C11,,No,BAILEY ST,Part One,None,772496.0,,2930000.0,2015
+201521,,Sunday,No,2015-08-02T00:00:00.000,Residential Burglary,"[-71.089093, 42.311277]",Point,05RB,8,UNK,317,B2,,No,HOMESTEAD ST,Part One,None,767309.0,,2940000.0,2015
+223064,,Sunday,No,2015-08-02T00:00:00.000,Residential Burglary,"[-71.10477, 42.303976]",Point,05RB,8,BE,570,E13,,No,WILLIAMS ST,Part One,None,763081.0,,2940000.0,2015

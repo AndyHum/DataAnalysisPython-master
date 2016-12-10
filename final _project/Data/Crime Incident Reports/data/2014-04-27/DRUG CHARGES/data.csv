@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106396,140256106.0,Sunday,No,2014-04-27T14:20:00.000,DRUG CHARGES,"[-71.063757, 42.354358]",Point,18xx,4,ARREST,78,A1,Day,No,TREMONT ST,Part Two,Other,774081.4655,,2954458.626,2014
+186132,140255971.0,Sunday,No,2014-04-27T12:45:00.000,DRUG CHARGES,"[-71.04391, 42.370631]",Point,18xx,4,IVDRUG,27,A7,Day,No,NEW ST,Part Two,Other,779414.5312,SUMNER ST,2960417.001,2014
+192650,140261311.0,Sunday,No,2014-04-27T12:00:00.000,DRUG CHARGES,"[-71.059735, 42.297541]",Point,18xx,4,IVDRUG,355,C11,Day,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2014

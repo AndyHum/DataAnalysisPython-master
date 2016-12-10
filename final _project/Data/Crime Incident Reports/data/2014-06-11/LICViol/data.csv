@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45873,140370350.0,Wednesday,No,2014-06-11T22:01:00.000,LICViol,"[-71.05903, 42.353676]",Point,LICViol,6,CD35  ,113,A1,First,No,KINGSTON ST,Part three,Unarmed,775360.6831,,2954216.7819999997,2014
+64460,140370452.0,Wednesday,No,2014-06-11T22:05:00.000,LICViol,"[-71.069802, 42.356821]",Point,LICViol,6,CD19  ,70,A1,First,No,CHARLES ST,Part three,Unarmed,772443.0889,,2955347.776,2014
+179546,140370428.0,Wednesday,No,2014-06-11T22:55:00.000,LICViol,"[-71.070085, 42.357381]",Point,LICViol,6,CD35  ,69,A1,First,No,CHARLES ST,Part three,Unarmed,772365.7465,,2955551.7010000004,2014

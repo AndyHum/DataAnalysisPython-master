@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+199298,142000990.0,Friday,No,2014-06-20T07:15:00.000,DEATH INVESTIGATION,"[-71.079565, 42.328976]",Point,01INV,6,CARDIA,0,B2,Last,No,ZEIGLER ST,Part three,Unarmed,769854.5029,,2945187.6210000003,2014
+205800,142001143.0,Friday,No,2014-06-20T13:20:00.000,DEATH INVESTIGATION,"[-71.077089, 42.305284]",Point,01INV,6,FDBODY,0,C11,Day,No,GENEVA AV,Part three,Unarmed,770566.6120000001,,2936556.8789999997,2014
+217822,142001095.0,Friday,No,2014-06-20T13:28:00.000,DEATH INVESTIGATION,"[-71.077323, 42.342044]",Point,01INV,6,UNKEMS,0,D4,Day,No,W NEWTON ST,Part three,Unarmed,770436.9896,,2949952.858,2014

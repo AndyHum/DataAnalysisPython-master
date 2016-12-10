@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7058,142004498.0,Monday,No,2014-06-30T14:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,6,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+63914,142004466.0,Monday,No,2014-06-30T10:30:00.000,PropFound,"[-71.058495, 42.354946]",Point,PropFound,6,IVPREM,0,A1,Day,No,ARCH ST,Part three,Other,775502.8971,,2954680.3419999997,2014
+69733,142004702.0,Monday,No,2014-06-30T22:00:00.000,PropFound,"[-71.06255, 42.365411]",Point,PropFound,6,PROP,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014
+104809,142004401.0,Monday,No,2014-06-30T10:19:00.000,PropFound,"[-71.10036, 42.263221]",Point,PropFound,6,IVPREM,0,E18,Day,No,HOLMFIELD AV,Part three,Unarmed,764343.7478,,2921198.459,2014
+124868,142004353.0,Monday,No,2014-06-30T07:35:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,6,IVPREM,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+147296,142004465.0,Monday,No,2014-06-30T10:30:00.000,PropFound,"[-71.058495, 42.354946]",Point,PropFound,6,IVPREM,0,A1,Day,No,ARCH ST,Part three,Other,775502.8971,,2954680.3419999997,2014
+157035,142004771.0,Monday,No,2014-06-30T18:30:00.000,PropFound,"[-71.098962, 42.31081]",Point,PropFound,6,PROP,0,E13,First,No,PARK LANE,Part three,Unarmed,764640.6042,,2938542.332,2014
+192290,142004941.0,Monday,No,2014-06-30T11:00:00.000,PropFound,"[-71.16929, 42.293531]",Point,PropFound,6,BE,0,E5,Day,No,ANDERER LA,Part three,Other,745642.5168,,2932163.695,2014
+215972,142004756.0,Monday,No,2014-06-30T21:45:00.000,PropFound,"[-71.14714, 42.354101]",Point,PropFound,6,PROP,0,D14,First,No,ETNA ST,Part three,Unarmed,751544.1287,,2954260.836,2014
+264729,142007781.0,Monday,No,2014-06-30T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,E5,Day,No,REDLANDS RD,Part three,Unarmed,,,,2014

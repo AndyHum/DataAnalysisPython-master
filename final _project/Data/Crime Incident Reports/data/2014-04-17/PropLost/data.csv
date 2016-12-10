@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116331,140244178.0,Thursday,No,2014-04-17T12:11:00.000,PropLost,"[-71.114273, 42.311901]",Point,PropLost,4,LARCRT,645,E13,Day,No,CENTRE ST,Part three,Unarmed,760497.2545,,2938920.7630000003,2014
+144302,140234459.0,Thursday,No,2014-04-17T14:45:00.000,PropLost,"[-71.11802, 42.268856]",Point,PropLost,4,LSTPRP,492,E18,Day,No,HUNTINGTON AV,Part three,Unarmed,759554.2784,,2923230.028,2014
+152789,140235909.0,Thursday,No,2014-04-17T12:51:00.000,PropLost,"[-71.12395, 42.256421]",Point,PropLost,4,LSTPRP,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+199194,140267501.0,Thursday,No,2014-04-17T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,IVPER ,296,B2,Day,No,DUDLEY ST,Part three,Unarmed,,,,2014
+205052,140234557.0,Thursday,No,2014-04-17T20:47:00.000,PropLost,"[-71.072422, 42.29719]",Point,PropLost,4,LSTPRP,358,C11,First,No,WASHINGTON ST,Part three,Unarmed,771843.9805,,2933613.758,2014
+210260,140234195.0,Thursday,No,2014-04-17T13:00:00.000,PropLost,"[-71.062413, 42.353534]",Point,PropLost,4,LSTPRP,111,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774446.4264,,2954160.1610000003,2014
+248920,140235543.0,Thursday,No,2014-04-17T08:00:00.000,PropLost,"[-71.06844, 42.352301]",Point,PropLost,4,LSTPRP,120,A1,Day,No,BOYLSTON ST,Part three,Unarmed,772819.7246,,2953702.6980000003,2014

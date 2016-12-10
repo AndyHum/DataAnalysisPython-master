@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31230,130531462.0,Friday,No,2013-08-23T00:31:00.000,PropLost,"[-71.051365, 42.359702]",Point,PropLost,8,LARCIP,95,A1,Last,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2013
+44496,130539287.0,Friday,No,2013-08-23T17:00:00.000,PropLost,"[-71.08501, 42.303481]",Point,PropLost,8,LSTPRP,330,B2,First,No,BLUE HILL AV,Part three,Unarmed,768427.3627,COLUMBIA RD,2935889.611,2013
+45271,130538757.0,Friday,No,2013-08-23T21:00:00.000,PropLost,"[-71.092958, 42.332518]",Point,PropLost,8,LARCRT,282,B2,First,No,TREMONT ST,Part three,Unarmed,766226.6627,,2946460.8189999997,2013
+101573,130532481.0,Friday,No,2013-08-23T12:00:00.000,PropLost,"[-71.15634, 42.287576]",Point,PropLost,8,LSTPRP,736,E5,Day,No,COREY ST,Part three,Unarmed,749155.08,,2930007.76,2013
+155357,130532350.0,Friday,No,2013-08-23T10:00:00.000,PropLost,"[-71.10974, 42.261984]",Point,PropLost,8,MISC  ,493,E18,Day,No,RIVER ST,Part three,Other,761806.7440000001,,2920735.827,2013
+201483,130533478.0,Friday,No,2013-08-23T00:00:00.000,PropLost,"[-71.06636, 42.352221]",Point,PropLost,8,LSTPRP,118,A1,Last,No,BOYLSTON PL,Part three,Unarmed,773382.1034,,2953676.394,2013
+204021,130543263.0,Friday,No,2013-08-23T11:30:00.000,PropLost,"[-71.05918, 42.356021]",Point,PropLost,8,LSTPRP,104,A1,Day,No,FRANKLIN ST,Part three,Unarmed,775315.7232,,2955071.135,2013
+206462,130539252.0,Friday,No,2013-08-23T11:00:00.000,PropLost,"[-71.079739, 42.329344]",Point,PropLost,8,LSTPRP,904,B2,Day,No,WHEATLEY WY,Part three,Unarmed,769806.7553,,2945321.255,2013
+225571,130533276.0,Friday,No,2013-08-23T17:47:00.000,PropLost,"[-71.15159, 42.356801]",Point,PropLost,8,LARCRT,939,D14,First,No,N BEACON ST,Part three,Unarmed,750337.2932,,2955239.8310000002,2013
+263586,130536620.0,Friday,No,2013-08-23T04:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,462,C11,Last,No,BOWDOIN ST,Part three,Unarmed,,,,2013
+264161,130534936.0,Friday,No,2013-08-23T10:30:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,93,A1,Day,No,CONGRESS ST,Part three,Unarmed,,,,2013

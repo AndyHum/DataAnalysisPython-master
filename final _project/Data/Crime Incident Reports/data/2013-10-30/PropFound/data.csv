@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33176,130692547.0,Wednesday,No,2013-10-30T19:45:00.000,PropFound,"[-71.096165, 42.349011]",Point,PropFound,10,FDPROP,622,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,765331.2485,,2952467.057,2013
+82245,130691894.0,Wednesday,No,2013-10-30T18:18:00.000,PropFound,"[-71.07585, 42.349591]",Point,PropFound,10,IVPREM,130,D4,First,No,ST JAMES AV,Part three,Unarmed,770821.6916,TRINITY PL,2952705.0739999996,2013
+123209,130691217.0,Wednesday,No,2013-10-30T10:30:00.000,PropFound,"[-71.09824, 42.345381]",Point,PropFound,10,INVEST,624,D4,Day,No,YAWKEY WY,Part three,Unarmed,764776.5712,VAN NESS ST,2951141.566,2013

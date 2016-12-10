@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3538,152032112.0,Sunday,No,2015-04-19T21:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,MISSIN,0,A7,First,No,TRENTON ST,Other,Unarmed,,,,2015
+193857,152032092.0,Sunday,No,2015-04-19T11:30:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,4,IVPER,0,B3,Day,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2015
+201554,152031947.0,Sunday,No,2015-04-19T11:00:00.000,PersLoc,"[-71.136045, 42.241286]",Point,PersLoc,4,MISSIN,0,E18,Day,No,CHESTERFIELD ST,Other,Unarmed,754718.4882,,2913161.827,2015
+230770,152031845.0,Sunday,No,2015-04-19T03:20:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,4,MVA,0,D14,Last,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015

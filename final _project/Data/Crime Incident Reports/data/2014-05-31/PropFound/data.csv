@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7053,140341274.0,Saturday,No,2014-05-31T10:00:00.000,PropFound,"[-71.13546, 42.295725]",Point,PropFound,5,FDPROP,660,E5,Day,No,BUCHANAN RD,Part three,Unarmed,754791.8483,,2933000.7410000004,2014
+8095,140340343.0,Saturday,No,2014-05-31T02:00:00.000,PropFound,"[-71.05349, 42.359321]",Point,PropFound,5,FDPROP,94,A1,Last,No,STATE ST,Part three,Unarmed,776847.3587,COMMERCIAL ST,2956281.7169999997,2014
+9420,140342236.0,Saturday,No,2014-05-31T18:00:00.000,PropFound,"[-71.15679, 42.349081]",Point,PropFound,5,LARCRT,105,D14,First,No,WASHINGTON ST,Part three,Unarmed,748943.1303,,2952420.8019999997,2014
+18339,140340937.0,Saturday,No,2014-05-31T11:00:00.000,PropFound,"[-71.100507, 42.309841]",Point,PropFound,5,FDPROP,640,E13,Day,No,ROBESON ST,Part three,Unarmed,764224.1683,,2938186.972,2014
+77208,140340336.0,Saturday,No,2014-05-31T03:30:00.000,PropFound,"[-71.0626, 42.343011]",Point,PropFound,5,FDPROP,165,D4,Last,No,ALBANY ST,Part three,Unarmed,774415.6545,E BERKELEY ST,2950325.289,2014
+99184,140341712.0,Saturday,No,2014-05-31T19:17:00.000,PropFound,"[-71.068133, 42.276692]",Point,PropFound,5,IVPER ,404,C11,First,No,RUGDALE RD,Part three,Unarmed,773042.0182,,2926149.98,2014
+206933,140341602.0,Saturday,No,2014-05-31T18:15:00.000,PropFound,"[-71.08357, 42.350261]",Point,PropFound,5,FDPROP,137,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,768733.6695,,2952938.954,2014
+207310,140341497.0,Saturday,No,2014-05-31T16:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,5,FDPROP,72,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+229062,140340785.0,Saturday,No,2014-05-31T12:00:00.000,PropFound,"[-71.16822, 42.351026]",Point,PropFound,5,FDPROP,756,D14,Day,No,FANEUIL ST,Part three,Unarmed,745850.6385,,2953117.375,2014

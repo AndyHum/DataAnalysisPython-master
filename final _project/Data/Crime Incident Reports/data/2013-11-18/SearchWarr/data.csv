@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29091,130732417.0,Monday,No,2013-11-18T14:00:00.000,SearchWarr,"[-71.059735, 42.297541]",Point,SearchWarr,11,INVEST,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+165449,130732301.0,Monday,No,2013-11-18T14:00:00.000,SearchWarr,"[-71.059735, 42.297541]",Point,SearchWarr,11,IVDRUG,193,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+262900,140005489.0,Monday,No,2013-11-18T16:00:00.000,SearchWarr,"[0, 0]",Point,SearchWarr,11,IVDRUG,651,E13,First,No,HYDE PARK AV,Part three,Other,,,,2013

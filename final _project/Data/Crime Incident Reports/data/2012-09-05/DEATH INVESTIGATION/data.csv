@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107162,120554314.0,Wednesday,No,2012-09-05T09:35:00.000,DEATH INVESTIGATION,"[-71.079765, 42.325614]",Point,01INV,9,CARST ,281,B2,Day,No,WINTHROP ST,Part Three,Unarmed,769806.2740000001,,2943961.912,2012
+202551,120555125.0,Wednesday,No,2012-09-05T07:30:00.000,DEATH INVESTIGATION,"[-71.108055, 42.267136]",Point,01INV,9,SDNDTH,489,E18,Day,No,ORCHARD ST,Part Three,Unarmed,762254.2763,,2922615.4710000004,2012
+258650,120555777.0,Wednesday,No,2012-09-05T21:33:00.000,DEATH INVESTIGATION,"[-71.08142, 42.299001]",Point,01INV,9,MVPED1,457,B3,First,No,GLENWAY ST,Part three,Other,769406.5107,BRADSHAW ST,2934261.776,2012

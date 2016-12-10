@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34616,152008609.0,Sunday,No,2015-02-01T22:00:00.000,MedAssist,"[-71.06115, 42.364581]",Point,MedAssist,2,UNCONS,0,A1,First,No,FRIEND ST,Part three,Other,774767.2102,,2958187.8210000005,2015
+100402,152008399.0,Sunday,No,2015-02-01T00:18:00.000,MedAssist,"[-71.12889, 42.354991]",Point,MedAssist,2,REQP,0,D14,Last,No,PRATT ST,Part three,Other,756475.6109999999,,2954606.095,2015
+117375,152008517.0,Sunday,No,2015-02-01T12:36:00.000,MedAssist,"[-71.077079, 42.27583]",Point,MedAssist,2,REQEP,0,B3,Day,No,CARYLL ST,Part three,Unarmed,770622.5099,,2925823.625,2015
+117504,152008557.0,Sunday,No,2015-02-01T16:00:00.000,MedAssist,"[-71.16051, 42.292526]",Point,MedAssist,2,UNKEMS,0,E5,First,No,CHILTON RD,Part three,Unarmed,748019.579,,2931807.1010000003,2015
+165084,152008587.0,Sunday,No,2015-02-01T19:22:00.000,MedAssist,"[-71.058866, 42.357544]",Point,MedAssist,2,INVEST,0,A1,First,No,SCHOOL ST,Part three,Other,775397.5892,,2955626.3189999997,2015
+199175,152008561.0,Sunday,No,2015-02-01T16:45:00.000,MedAssist,"[-71.061365, 42.283156]",Point,MedAssist,2,REQP,0,C11,First,No,VAN WINKLE ST,Part three,Unarmed,774861.6959,,2928514.897,2015
+200170,152008478.0,Sunday,No,2015-02-01T12:30:00.000,MedAssist,"[-71.104273, 42.309722]",Point,MedAssist,2,REQP,0,E13,Day,No,WASHINGTON ST,Part three,Other,763205.8082,,2938139.2,2015
+221910,152008602.0,Sunday,No,2015-02-01T19:44:00.000,MedAssist,"[-71.162515, 42.275321]",Point,MedAssist,2,CARDIA,0,E5,First,No,CASS ST,Part three,Unarmed,747501.9127,,2925535.1769999997,2015
+236617,152008516.0,Sunday,No,2015-02-01T13:58:00.000,MedAssist,"[-71.05713, 42.339756]",Point,MedAssist,2,EDP,0,C6,Day,No,DORCHESTER AV,Part three,Unarmed,775900.5863,,2949146.74,2015
+252367,152008567.0,Sunday,No,2015-02-01T16:16:00.000,MedAssist,"[-71.06082, 42.374271]",Point,MedAssist,2,IVPREM,0,A15,First,No,WINTHROP ST,Part three,Unarmed,774838.2089,COMMON ST,2961719.5110000004,2015
+263842,152008534.0,Sunday,No,2015-02-01T14:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,IVPER,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+264084,152008456.0,Sunday,No,2015-02-01T09:50:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,REQP,0,E5,Day,No,ROWE ST,Part three,Unarmed,,,,2015
+265780,152008595.0,Sunday,No,2015-02-01T20:12:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,UNCONS,0,C11,First,No,JOSEPHINE ST,Part three,Unarmed,,,,2015

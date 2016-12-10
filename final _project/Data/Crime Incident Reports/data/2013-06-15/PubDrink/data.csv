@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37129,130364995.0,Saturday,No,2013-06-15T17:00:00.000,PubDrink,"[-71.078586, 42.32835]",Point,PubDrink,6,IVPREM,268,B2,First,No,DUDLEY ST,Part Two,Other,770120.2868,,2944960.5310000004,2013
+155842,130365001.0,Saturday,No,2013-06-15T18:05:00.000,PubDrink,"[-71.079466, 42.327327]",Point,PubDrink,6,IVPER ,281,B2,First,No,MT PLEASANT AV,Part Two,Unarmed,769884.0976,,2944586.5360000003,2013
+260130,130364788.0,Saturday,No,2013-06-15T17:15:00.000,PubDrink,"[-71.077661, 42.330753]",Point,PubDrink,6,SSTOP ,278,B2,First,No,ALBANY ST,Part Two,Unarmed,770366.1347,,2945837.597,2013

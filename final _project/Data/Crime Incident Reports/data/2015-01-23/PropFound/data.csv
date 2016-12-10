@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11949,152006369.0,Friday,No,2015-01-23T18:30:00.000,PropFound,"[-71.101403, 42.263859]",Point,PropFound,1,IVPER,0,E18,First,No,RIVER ST,Part three,Unarmed,764060.2484,,2921429.3239999996,2015
+24198,152006285.0,Friday,No,2015-01-23T10:45:00.000,PropFound,"[-71.084224, 42.33012]",Point,PropFound,1,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768592.5333,ROXBURY ST,2945598.0519999997,2015
+45160,152006178.0,Friday,No,2015-01-23T09:00:00.000,PropFound,"[-71.147585, 42.350751]",Point,PropFound,1,PROP,0,D14,Day,No,MURDOCK ST,Part three,Unarmed,751428.8904,,2953039.53,2015
+161465,152006380.0,Friday,No,2015-01-23T18:56:00.000,PropFound,"[-71.05854, 42.366941]",Point,PropFound,1,PROP,0,A1,First,No,N WASHINGTON ST,Part three,Unarmed,775468.1105,CAUSEWAY ST,2959051.4910000004,2015
+264062,152006569.0,Friday,No,2015-01-23T23:30:00.000,PropFound,"[0, 0]",Point,PropFound,1,PROP,0,A1,First,No,HANOVER ST,Part three,Unarmed,,,,2015
+265412,152006409.0,Friday,No,2015-01-23T20:45:00.000,PropFound,"[0, 0]",Point,PropFound,1,PROP,0,A7,First,No,ORIENT AV,Part three,Unarmed,,,,2015
+267431,152006194.0,Friday,No,2015-01-23T10:30:00.000,PropFound,"[0, 0]",Point,PropFound,1,LARCEN,0,B3,Day,No,MORTON ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34307,142053440.0,Sunday,No,2014-11-30T16:44:00.000,Service,"[-71.03887, 42.371246]",Point,Service,11,CD11,0,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+116440,142053349.0,Sunday,No,2014-11-30T11:06:00.000,Service,"[-71.05956, 42.299808]",Point,Service,11,CD11,0,C11,Day,No,LINCOLN ST,Part three,Unarmed,775318.7039,,2934585.623,2014
+207877,142053268.0,Sunday,No,2014-11-30T02:02:00.000,Service,"[-71.059575, 42.302511]",Point,Service,11,ARREST,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775309.6471,,2935570.63,2014
+210518,142053706.0,Sunday,No,2014-11-30T07:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,11,CD9,0,A1,Last,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+214672,142053370.0,Sunday,No,2014-11-30T12:02:00.000,Service,"[-71.14333, 42.354691]",Point,Service,11,ARREST,0,D14,Day,No,N BEACON ST,Part three,Unarmed,752573.0588,HERRICK ST,2954480.127,2014
+230594,142053278.0,Sunday,No,2014-11-30T02:45:00.000,Service,"[-71.059987, 42.361648]",Point,Service,11,ARREST,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4487,142036811.0,Tuesday,No,2014-10-07T10:19:00.000,TRESPASS,"[-71.059415, 42.359251]",Point,TRESPASS,10,IVPER,0,A1,Day,No,CAMBRIDGE ST,Part Two,Unarmed,775246.1256,,2956247.881,2014
+114795,142036837.0,Tuesday,No,2014-10-07T14:33:00.000,TRESPASS,"[-71.05814, 42.378535]",Point,TRESPASS,10,IVPER,0,A15,Day,No,WALFORD WY,Part Two,Unarmed,775554.229,,2963277.1980000003,2014
+188245,142036858.0,Tuesday,No,2014-10-07T14:57:00.000,TRESPASS,"[-71.072127, 42.308537]",Point,TRESPASS,10,BE,0,C11,Day,No,RICHFIELD ST,Part Two,Unarmed,771903.1093,,2937749.188,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56159,140251243.0,Friday,No,2014-04-25T09:48:00.000,Arrest,"[-71.06287, 42.352321]",Point,Arrest,4,TRANSP,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2014
+89328,140250768.0,Friday,No,2014-04-25T01:30:00.000,Arrest,"[-71.093739, 42.334956]",Point,Arrest,4,ARREST,911,B2,Last,No,ANNUNCIATION RD,Part three,Unarmed,766011.2668,,2947348.014,2014
+118733,140251735.0,Friday,No,2014-04-25T13:10:00.000,Arrest,"[-71.07102, 42.336701]",Point,Arrest,4,ARREST,169,D4,Day,No,E NEWTON ST,Part three,Unarmed,772150.9382,,2948014.253,2014

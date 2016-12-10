@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7092,130056928.0,Monday,No,2013-01-28T08:45:00.000,Arrest,"[-71.067985, 42.361196]",Point,Arrest,1,ARREST,64,A1,Day,No,CAMBRIDGE ST,Part Three,Unarmed,772926.2953,,2956944.829,2013
+48896,130057189.0,Monday,No,2013-01-28T11:25:00.000,Arrest,"[-71.130364, 42.242611]",Point,Arrest,1,CD11  ,523,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,756254.4316,,2913651.113,2013
+55833,130057894.0,Monday,No,2013-01-28T16:36:00.000,Arrest,"[-71.13278, 42.241811]",Point,Arrest,1,CD11  ,533,E18,First,No,NEPONSET VALLEY PY,Part Three,Unarmed,755601.7541,,2913356.932,2013
+90058,130057326.0,Monday,No,2013-01-28T12:19:00.000,Arrest,"[-71.0904, 42.280796]",Point,Arrest,1,ARREST,428,B3,Day,No,HOSMER ST,Part Three,Unarmed,767009.0082,,2927615.818,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140963,130489921.0,Monday,No,2013-08-05T20:44:00.000,Arrest,"[-71.085257, 42.297402]",Point,Arrest,8,IVPREM,444,B3,First,No,WALES ST,Part three,Unarmed,768371.2601,,2933673.9289999995,2013
+165993,130489523.0,Monday,No,2013-08-05T14:20:00.000,Arrest,"[-71.07463, 42.335321]",Point,Arrest,8,ARREST,171,D4,Day,No,HARRISON AV,Part three,Unarmed,771177.4087,,2947506.466,2013
+227486,130489379.0,Monday,No,2013-08-05T17:10:00.000,Arrest,"[-71.10938, 42.337041]",Point,Arrest,8,ARREST,593,B2,First,No,FRANCIS ST,Part three,Unarmed,761778.9797,,2948088.325,2013

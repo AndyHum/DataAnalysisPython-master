@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106015,130444683.0,Thursday,No,2013-07-18T10:03:00.000,FIRE,"[-71.083645, 42.341856]",Point,FIRE,7,FIREB ,145,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,768728.349,,2949875.913,2013
+149260,130445519.0,Thursday,No,2013-07-18T16:19:00.000,FIRE,"[-71.096445, 42.349991]",Point,FIRE,7,FIREB ,622,D4,First,No,BAY STATE RD,Part three,Unarmed,765253.8703,,2952823.832,2013
+234344,130446004.0,Thursday,No,2013-07-18T19:29:00.000,FIRE,"[-71.07547, 42.346214]",Point,FIRE,7,FIREB ,149,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770930.358,,2951474.633,2013

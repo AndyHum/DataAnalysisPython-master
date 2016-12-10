@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+188367,142049612.0,Sunday,No,2014-11-16T22:12:00.000,InvProp,"[-71.061295, 42.288676]",Point,InvProp,11,REQP,0,C11,First,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Unarmed,774870.2865,,2930526.566,2014
+193934,142049525.0,Sunday,No,2014-11-16T12:02:00.000,InvProp,"[-71.087175, 42.308436]",Point,InvProp,11,SHOTS,0,B2,Day,No,SONOMA ST,Part three,Other,767832.9666,,2937692.45,2014
+253381,142049238.0,Sunday,No,2014-11-16T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,CD9,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014

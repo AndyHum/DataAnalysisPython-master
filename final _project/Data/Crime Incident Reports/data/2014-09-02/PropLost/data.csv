@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115660,142025764.0,Tuesday,No,2014-09-02T17:30:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,9,LARCEN,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+184685,142026389.0,Tuesday,No,2014-09-02T08:00:00.000,PropLost,"[-71.087165, 42.346206]",Point,PropLost,9,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,767769.0517,DALTON ST,2951456.5089999996,2014
+240580,142025544.0,Tuesday,No,2014-09-02T19:30:00.000,PropLost,"[-71.10383, 42.322836]",Point,PropLost,9,PROP,0,E13,First,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2014

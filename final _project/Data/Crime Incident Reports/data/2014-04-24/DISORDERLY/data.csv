@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79021,140250514.0,Thursday,No,2014-04-24T22:40:00.000,DISORDERLY,"[-71.098625, 42.346181]",Point,24xx,4,ARREST,620,D4,First,No,YAWKEY WY,Part Two,Unarmed,764671.1215,,2951432.6119999997,2014
+104627,140248315.0,Thursday,No,2014-04-24T01:08:00.000,DISORDERLY,"[-71.09154, 42.284251]",Point,24xx,4,ARREST,428,B3,Last,No,BLUE HILL AV,Part Two,Unarmed,766694.479,MORTON ST,2928873.385,2014
+208280,140248674.0,Thursday,No,2014-04-24T08:45:00.000,DISORDERLY,"[-71.06758, 42.352791]",Point,24xx,4,ARREST,120,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,773051.2799,CHARLES ST,2953882.438,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+183140,140132298.0,Tuesday,No,2014-03-04T01:15:00.000,WEAPONS CHARGE,"[-71.02615, 42.380761]",Point,15xx,3,ARREST,17,A7,Last,No,EAGLE SQ,Part Two,Unarmed,784193.2018,CHELSEA ST,2964134.7369999997,2014
+185013,140133910.0,Tuesday,No,2014-03-04T18:01:00.000,WEAPONS CHARGE,"[-71.080065, 42.310896]",Point,15xx,3,CD11  ,329,B2,First,No,BRUNSWICK ST,Part Two,Other,769751.7413,,2938598.3019999997,2014
+251197,140133456.0,Tuesday,No,2014-03-04T14:43:00.000,WEAPONS CHARGE,"[-71.059641, 42.327811]",Point,15xx,3,FDWEAP,191,C6,Day,No,BOSTON ST,Part Two,Firearm,775244.0823,,2944790.3039999995,2014

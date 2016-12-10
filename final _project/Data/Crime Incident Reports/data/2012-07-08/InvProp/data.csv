@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66524,120419871.0,Sunday,No,2012-07-08T16:20:00.000,InvProp,"[-71.052715, 42.374741]",Point,InvProp,7,IVPREM,38,A15,First,No,8TH ST,Part Three,Unarmed,777027.3537,,2961902.17,2012
+190826,120419811.0,Sunday,No,2012-07-08T13:00:00.000,InvProp,"[-71.098805, 42.317851]",Point,InvProp,7,IVPREM,303,E13,Day,No,BANCROFT ST,Part Three,Unarmed,764671.0201,,2941108.421,2012
+252816,120419328.0,Sunday,No,2012-07-08T10:00:00.000,InvProp,"[-71.080624, 42.337477]",Point,InvProp,7,INVEST,273,D4,Day,No,CAMDEN ST,Part Three,Unarmed,769552.6659,,2948284.111,2012

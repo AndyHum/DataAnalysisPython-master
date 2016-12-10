@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2264,142051246.0,Sunday,No,2014-11-09T19:00:00.000,Service,"[-71.15049, 42.268316]",Point,Service,11,IVPER,0,E5,First,No,CAROL CR,Part three,Unarmed,750766.7346,,2922995.559,2014
+98305,142047268.0,Sunday,No,2014-11-09T03:21:00.000,Service,"[-71.06007, 42.350711]",Point,Service,11,SS,0,A1,Last,No,HUDSON ST,Part three,Unarmed,775085.1479,,2953134.829,2014
+222031,142047488.0,Sunday,No,2014-11-09T21:00:00.000,Service,"[-71.092997, 42.320035]",Point,Service,11,SS,0,B2,First,No,CODMAN PARK,Part three,Unarmed,766238.0029,,2941911.626,2014
+251209,142047483.0,Sunday,No,2014-11-09T15:49:00.000,Service,"[-71.093062, 42.267991]",Point,Service,11,PROP,0,B3,Day,No,RIVER ST,Other,Unarmed,766310.7859,,2922945.837,2014

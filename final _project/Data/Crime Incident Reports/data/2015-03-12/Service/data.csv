@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2077,152020138.0,Thursday,No,2015-03-12T22:00:00.000,Service,"[0, 0]",Point,Service,3,ARREST,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015
+38144,152019969.0,Thursday,No,2015-03-12T13:00:00.000,Service,"[-71.03118, 42.376406]",Point,Service,3,LOCKOU,0,A7,Day,No,CHELSEA ST,Part three,Other,782842.9146,,2962540.1780000003,2015
+77420,152020128.0,Thursday,No,2015-03-12T20:30:00.000,Service,"[-71.02931, 42.378281]",Point,Service,3,IVPREM,0,A7,First,No,PRESCOTT ST,Part three,Unarmed,783344.4185,BENNINGTON ST,2963226.248,2015
+98226,152020091.0,Thursday,No,2015-03-12T17:58:00.000,Service,"[-71.08668, 42.309096]",Point,Service,3,IVPER,0,B2,First,No,SCHUYLER ST,Part three,Unarmed,767965.694,,2937933.613,2015
+170184,152020083.0,Thursday,No,2015-03-12T17:58:00.000,Service,"[-71.08668, 42.309096]",Point,Service,3,ARREST,0,B2,First,No,SCHUYLER ST,Part three,Unarmed,767965.694,,2937933.613,2015
+238659,152020121.0,Thursday,No,2015-03-12T20:56:00.000,Service,"[-71.054175, 42.296366]",Point,Service,3,ARREST,0,C11,First,No,MANLEY ST,Part three,Unarmed,776782.0162,,2933338.869,2015

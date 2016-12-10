@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44632,152019904.0,Thursday,No,2015-02-05T10:15:00.000,FIRE,"[-71.078815, 42.350571]",Point,FIRE,2,MISC,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,770018.4438,DARTMOUTH ST,2953058.235,2015
+129402,152009467.0,Thursday,No,2015-02-05T04:37:00.000,FIRE,"[-71.035455, 42.336821]",Point,FIRE,2,REQP,0,C6,Last,No,L ST,Part three,Unarmed,781766.38,,2948108.3460000004,2015
+224716,152009483.0,Thursday,No,2015-02-05T07:37:00.000,FIRE,"[-71.081935, 42.340711]",Point,FIRE,2,FIRE,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,769192.6879,,2949460.915,2015

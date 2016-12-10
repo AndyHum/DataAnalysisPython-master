@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3210,152031458.0,Friday,No,2015-04-17T19:15:00.000,Argue,"[0, 0]",Point,Argue,4,DISTRB,0,B3,First,No,JOHNSON TR,Part three,Unarmed,,,,2015
+16945,152031346.0,Friday,No,2015-04-17T14:45:00.000,Argue,"[-71.094606, 42.267258]",Point,Argue,4,FIGHT,0,B3,Day,No,RIVER ST,Part three,Unarmed,765894.2221,,2922676.722,2015
+29619,152031210.0,Friday,No,2015-04-17T07:37:00.000,Argue,"[-71.089444, 42.319613]",Point,Argue,4,NIDV,0,B2,Day,No,WALNUT AV,Part three,Unarmed,767199.6299,,2941762.2860000003,2015
+93071,152030858.0,Friday,No,2015-04-17T05:00:00.000,Argue,"[-71.07021, 42.347136]",Point,Argue,4,ARREST,0,D4,Last,No,CHANDLER ST,Part three,Unarmed,772350.7728,,2951818.058,2015

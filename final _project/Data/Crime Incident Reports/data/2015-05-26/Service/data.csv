@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52072,152043046.0,Tuesday,No,2015-05-26T03:30:00.000,Service,"[-71.062575, 42.352726]",Point,Service,5,ARREST,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774404.2569,ESSEX ST,2953865.65,2015
+95258,152043049.0,Tuesday,No,2015-05-26T04:17:00.000,Service,"[-71.061235, 42.310371]",Point,Service,5,ARREST,0,C11,Last,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015
+161460,152043178.0,Tuesday,No,2015-05-26T13:15:00.000,Service,"[-71.073978, 42.333151]",Point,Service,5,IVPER,0,D4,Day,No,ALBANY ST,Part three,Unarmed,771357.6081,MASSACHUSETTS AV,2946716.26,2015
+202244,152043136.0,Tuesday,No,2015-05-26T11:00:00.000,Service,"[-71.062545, 42.353156]",Point,Service,5,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774411.5623,AVERY ST,2954022.392,2015
+211070,152043250.0,Tuesday,No,2015-05-26T16:00:00.000,Service,"[-71.09019, 42.339951]",Point,Service,5,AB,0,D4,First,No,HUNTINGTON AV,Other,Unarmed,766962.2567,,2949173.127,2015
+223425,152043376.0,Tuesday,No,2015-05-26T22:19:00.000,Service,"[-71.068525, 42.356361]",Point,Service,5,ARREST,0,A1,First,No,BEACON ST,Part three,Unarmed,772789.2644,SPRUCE ST,2955182.123,2015

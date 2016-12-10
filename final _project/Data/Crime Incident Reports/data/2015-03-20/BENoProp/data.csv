@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1663,152022566.0,Friday,No,2015-03-20T06:50:00.000,BENoProp,"[0, 0]",Point,BENoProp,3,BE,0,C6,Last,No,ROSECLAIR ST,Part One,Unarmed,,,,2015
+34884,152022517.0,Friday,No,2015-03-20T15:28:00.000,BENoProp,"[-71.042715, 42.320681]",Point,BENoProp,3,IVPER,0,C6,Day,No,WESTWIND RD,Part One,Unarmed,779835.0377,,2942216.0560000003,2015
+160120,152023179.0,Friday,No,2015-03-20T17:30:00.000,BENoProp,"[-71.0973, 42.331401]",Point,BENoProp,3,BE,0,B2,First,No,PARKER ST,Part One,Other,765054.7362,,2946048.1939999997,2015

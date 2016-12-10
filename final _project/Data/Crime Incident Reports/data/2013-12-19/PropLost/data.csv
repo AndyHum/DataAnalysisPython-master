@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21614,140069716.0,Thursday,No,2013-12-19T07:00:00.000,PropLost,"[-71.076405, 42.313081]",Point,PropLost,12,LSTPRP,326,B2,Last,No,PERTH ST,Part three,Unarmed,770737.7409,,2939399.445,2013
+27667,130800301.0,Thursday,No,2013-12-19T15:30:00.000,PropLost,"[-71.059969, 42.355867]",Point,PropLost,12,LSTPRP,102,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2013
+196273,130799849.0,Thursday,No,2013-12-19T12:35:00.000,PropLost,"[-71.140968, 42.342648]",Point,PropLost,12,LARCRT,786,D14,Day,No,WASHINGTON ST,Part three,Unarmed,753229.9692,,2950093.872,2013
+233229,130800457.0,Thursday,No,2013-12-19T19:55:00.000,PropLost,"[-71.078952, 42.287581]",Point,PropLost,12,LSTPRP,437,B3,First,No,MILTON AV,Part three,Unarmed,770094.5293,,2930103.389,2013

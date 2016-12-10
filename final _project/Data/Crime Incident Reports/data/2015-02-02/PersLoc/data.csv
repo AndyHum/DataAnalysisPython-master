@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+166105,152008685.0,Monday,No,2015-02-02T07:00:00.000,PersLoc,"[-71.056015, 42.366386]",Point,PersLoc,2,IVPER,0,A1,Last,No,SHEAFE ST,Other,Unarmed,776151.5198,,2958852.78,2015
+238148,152009002.0,Monday,No,2015-02-02T11:00:00.000,PersLoc,"[-71.074107, 42.284279]",Point,PersLoc,2,IVPER,0,B3,Day,No,ARMANDINE ST,Other,Unarmed,771411.6405,,2928906.461,2015
+258861,152008673.0,Monday,No,2015-02-02T07:00:00.000,PersLoc,"[-71.081935, 42.340711]",Point,PersLoc,2,IVPER,0,D4,Last,No,MASSACHUSETTS AV,Other,Unarmed,769192.6879,,2949460.915,2015
+263581,152008694.0,Monday,No,2015-02-02T09:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,IVPER,0,C11,Day,No,EAST ST,Other,Unarmed,,,,2015

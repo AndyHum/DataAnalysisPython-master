@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+168788,130002459.0,Wednesday,No,2013-01-02T07:20:00.000,FIRE,"[-71.07666, 42.351141]",Point,FIRE,1,REQP  ,134,D4,Last,No,NEWBURY ST,Part Three,Unarmed,770599.9318,,2953268.837,2013
+256002,130003010.0,Wednesday,No,2013-01-02T12:01:00.000,FIRE,"[-71.0626, 42.352361]",Point,FIRE,1,AOD   ,0,A1,Day,No,WASHINGTON ST,Part Three,Other,774398.1813,BOYLSTON ST,2953732.602,2013

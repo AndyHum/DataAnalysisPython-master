@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8394,140294246.0,Monday,No,2014-05-12T21:00:00.000,InvProp,"[-71.037705, 42.382621]",Point,InvProp,5,STOLMV,26,A7,First,No,CONDOR ST,Part three,Unarmed,781067.5907,,2964795.432,2014
+9394,142010325.0,Monday,No,2014-05-12T00:00:00.000,InvProp,"[-71.084741, 42.271405]",Point,InvProp,5,IVPER,0,B3,Last,No,NEWCROFT CR,Part three,Unarmed,768556.8526,,2924200.7789999996,2014
+130702,140295048.0,Monday,No,2014-05-12T19:30:00.000,InvProp,"[-71.15597, 42.342621]",Point,InvProp,5,BERPT ,773,D14,First,No,COLWELL AV,Part three,Other,749174.286,,2950067.54,2014
+202274,140292670.0,Monday,No,2014-05-12T11:10:00.000,InvProp,"[-71.098383, 42.322987]",Point,InvProp,5,VANRPT,302,E13,Day,No,COLUMBUS AV,Part three,Other,764776.2479,,2942980.292,2014

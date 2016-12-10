@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47842,142001066.0,Thursday,No,2014-06-19T16:00:00.000,PersLoc,"[-71.077545, 42.343976]",Point,PersLoc,6,MISSIN,0,D4,First,No,COLUMBUS AV,Other,Unarmed,770373.6426,,2950656.5889999997,2014
+53837,142001217.0,Thursday,No,2014-06-19T06:25:00.000,PersLoc,"[-71.08453, 42.284221]",Point,PersLoc,6,MISSIN,0,B3,Last,No,MASCOT ST,Other,Unarmed,768591.3958,,2928871.613,2014
+63710,142000923.0,Thursday,No,2014-06-19T22:22:00.000,PersLoc,"[-71.114345, 42.288641]",Point,PersLoc,6,IVPER,0,E13,First,No,CATHERINE ST,Other,Unarmed,760516.3459999999,,2930444.44,2014
+157007,142000614.0,Thursday,No,2014-06-19T02:47:00.000,PersLoc,"[-71.049485, 42.337946]",Point,PersLoc,6,MISSIN,0,C6,Last,No,W BROADWAY,Other,Unarmed,777970.9433,,2948497.9680000003,2014
+185421,142000700.0,Thursday,No,2014-06-19T08:45:00.000,PersLoc,"[-71.078225, 42.325198]",Point,PersLoc,6,IVPER,0,B2,Day,No,FAIRLAND ST,Other,Unarmed,770223.47,,2943812.633,2014

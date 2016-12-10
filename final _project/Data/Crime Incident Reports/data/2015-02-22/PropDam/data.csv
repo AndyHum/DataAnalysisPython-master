@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14,152014306.0,Sunday,No,2015-02-22T13:00:00.000,PropDam,"[0, 0]",Point,PropDam,2,IVPREM,0,C11,Day,No,MOON ISLAND,Part three,Unarmed,,,,2015
+5778,152014508.0,Sunday,No,2015-02-22T21:00:00.000,PropDam,"[-71.16479, 42.352614]",Point,PropDam,2,PROP,0,D14,First,No,DUNBOY ST,Part three,Unarmed,746775.3407,,2953699.4289999995,2015
+11282,152016092.0,Sunday,No,2015-02-22T14:00:00.000,PropDam,"[-71.149598, 42.336942]",Point,PropDam,2,PROP,0,D14,Day,No,ORKNEY RD,Part three,Other,750905.2078,,2948005.025,2015
+127254,152014336.0,Sunday,No,2015-02-22T15:10:00.000,PropDam,"[-71.070905, 42.358756]",Point,PropDam,2,PROP,0,A1,Day,No,PINCKNEY ST,Part three,Other,772141.5948,,2956051.662,2015
+131215,152014695.0,Sunday,No,2015-02-22T19:00:00.000,PropDam,"[-71.080005, 42.342261]",Point,PropDam,2,PROP,0,D4,First,No,GREENWICH PARK,Part three,Unarmed,769711.6875,,2950028.327,2015
+148252,152014278.0,Sunday,No,2015-02-22T06:00:00.000,PropDam,"[-71.061535, 42.358951]",Point,PropDam,2,MVA,0,A1,Last,No,SOMERSET ST,Part three,Other,774673.7085,,2956135.603,2015
+209833,152014243.0,Sunday,No,2015-02-22T08:35:00.000,PropDam,"[-71.07363, 42.336791]",Point,PropDam,2,IVPREM,0,D4,Day,No,E CONCORD ST,Part three,Unarmed,771445.1073,,2948043.5110000004,2015
+260727,152014350.0,Sunday,No,2015-02-22T15:15:00.000,PropDam,"[0, 0]",Point,PropDam,2,PROP,0,A1,Day,No,DERNE ST,Part three,Other,,,,2015
+267815,152014401.0,Sunday,No,2015-02-22T18:11:00.000,PropDam,"[0, 0]",Point,PropDam,2,PROP,0,D4,First,No,BEACON ST,Part three,Unarmed,,,,2015

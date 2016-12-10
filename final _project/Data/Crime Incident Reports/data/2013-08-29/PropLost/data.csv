@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15758,130547587.0,Thursday,No,2013-08-29T22:27:00.000,PropLost,"[-71.06803, 42.272181]",Point,PropLost,8,TRANSP,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,773078.4134,ADAMS ST,2924506.2569999998,2013
+122413,130553817.0,Thursday,No,2013-08-29T20:30:00.000,PropLost,"[-71.134258, 42.349755]",Point,PropLost,8,LSTPRP,794,D14,First,No,GLENVILLE AV,Part three,Unarmed,755032.8284,,2952691.635,2013
+144838,130547062.0,Thursday,No,2013-08-29T12:00:00.000,PropLost,"[-71.131555, 42.297386]",Point,PropLost,8,LSTPRP,658,E5,Day,No,CENTRE ST,Part three,Unarmed,755845.9728,,2933610.67,2013
+150303,130546636.0,Thursday,No,2013-08-29T15:24:00.000,PropLost,"[-71.09873, 42.265356]",Point,PropLost,8,LARCRT,481,E18,Day,No,RIVER ST,Part three,Unarmed,764781.2998,,2921978.5519999997,2013
+170611,130546647.0,Thursday,No,2013-08-29T12:00:00.000,PropLost,"[-71.05724, 42.360116]",Point,PropLost,8,LARCRT,92,A1,Day,No,CITY HALL SQ,Part three,Unarmed,775832.3331,,2956566.147,2013
+220773,130546632.0,Thursday,No,2013-08-29T14:45:00.000,PropLost,"[-71.072674, 42.305479]",Point,PropLost,8,LARCIP,350,C11,Day,No,OLNEY ST,Part three,Unarmed,771760.7317,,2936634.146,2013
+244280,130575645.0,Thursday,No,2013-08-29T09:00:00.000,PropLost,"[-71.038548, 42.318574]",Point,PropLost,8,LSTPRP,256,C6,Day,No,OCEAN VIEW DR,Part three,Other,780965.9465,,2941454.045,2013
+258077,130551299.0,Thursday,No,2013-08-29T06:00:00.000,PropLost,"[-71.05766, 42.289566]",Point,PropLost,8,LANTEN,393,C11,Last,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Unarmed,775852.1484,,2930855.966,2013
+263993,130550896.0,Thursday,No,2013-08-29T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,116,D4,Day,No,HARRISON AV,Part three,Unarmed,,KNEELAND ST,,2013
+264809,130548891.0,Thursday,No,2013-08-29T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,235,C6,Day,No,MT VERNON ST,Part three,Unarmed,,,,2013
+266067,130546728.0,Thursday,No,2013-08-29T14:30:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,102,A1,Day,No,PARK ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107346,152023524.0,Monday,No,2015-03-23T22:30:00.000,PersLoc,"[-71.07837, 42.337556]",Point,PersLoc,3,IVPER,0,D4,First,No,MASSACHUSETTS AV,Other,Unarmed,770162.1788,,2948315.92,2015
+203037,152023343.0,Monday,No,2015-03-23T01:16:00.000,PersLoc,"[-71.075855, 42.295545]",Point,PersLoc,3,IVPER,0,B3,Last,No,THANE ST,Other,Unarmed,770918.0864,,2933009.814,2015
+218402,152024708.0,Monday,No,2015-03-23T21:30:00.000,PersLoc,"[-71.058105, 42.324441]",Point,PersLoc,3,IVPER,0,C6,First,No,BELLFLOWER ST,Other,Unarmed,775665.9046,,2943564.3260000004,2015
+221762,152023511.0,Monday,No,2015-03-23T19:00:00.000,PersLoc,"[-71.05751, 42.311671]",Point,PersLoc,3,IVPER,0,C11,First,No,DORCHESTER AV,Other,Unarmed,775850.9453,,2938911.564,2015

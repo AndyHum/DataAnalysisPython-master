@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8282,140356770.0,Friday,No,2014-06-06T17:08:00.000,PhoneCalls,"[-71.083395, 42.336506]",Point,PhoneCalls,6,IVPER ,274,D4,First,No,HAMMOND ST,Part three,Unarmed,768805.4577,,2947926.605,2014
+128131,140356719.0,Friday,No,2014-06-06T15:16:00.000,PhoneCalls,"[-71.09908, 42.344211]",Point,PhoneCalls,6,IVPER ,627,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,764551.4944,,2950714.1289999997,2014
+242971,140357355.0,Friday,No,2014-06-06T16:14:00.000,PhoneCalls,"[-71.148575, 42.287141]",Point,PhoneCalls,6,HARPT ,691,E5,First,No,CENTRE ST,Part three,Other,751256.7891,,2929857.7989999996,2014

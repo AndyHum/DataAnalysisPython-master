@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32261,,Monday,No,2015-06-29T10:42:00.000,Violations,"[0, 0]",Point,VAL,6,TS,354,C11,,No,ADAMS ST,Part Two,None,,GIBSON ST,,2015
+43239,,Monday,No,2015-06-29T00:00:00.000,Restraining Order Violations,"[-71.086611, 42.281996]",Point,Restrain,6,VIORDR,429,B3,,No,NORFOLK ST,Part Two,None,768032.0,,2930000.0,2015
+161272,,Monday,No,2015-06-29T00:00:00.000,Assembly or Gathering Violations,"[-71.053563, 42.313519]",Point,Gather,6,IVPER,249,C11,,No,TUTTLE ST,Part Three,None,776915.0,,2940000.0,2015
+163530,,Monday,No,2015-06-29T11:06:00.000,Violations,"[0, 0]",Point,VAL,6,TS,0,,,No,KING ST,Part Two,None,,,,2015
+168717,,Monday,No,2015-06-29T15:12:00.000,Violations,"[0, 0]",Point,VAL,6,TS,77,A1,,No,CAMBRIDGE ST,Part Two,None,, NEW SUDBURY ST ,,2015
+170977,,Monday,No,2015-06-29T10:50:00.000,Violations,"[0, 0]",Point,VAL,6,ARREST,784,D14,,No,COMMONWEALTH AVE,Part Two,None,, WARREN ST ,,2015
+172081,,Monday,No,2015-06-29T00:00:00.000,Violations,"[-71.064341, 42.31986]",Point,VAL,6,MVA,237,B2,,No,COLUMBIA RD,Part Two,None,773988.0,,2940000.0,2015
+203102,,Monday,No,2015-06-29T06:00:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,0,,,No,,Part Two,None,,BLOSSOM ST,,2015

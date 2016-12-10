@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13054,142029543.0,Monday,No,2014-09-15T08:15:00.000,PropFound,"[-71.078815, 42.350571]",Point,PropFound,9,PROP,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,770018.4438,,2953058.235,2014
+24460,142029728.0,Monday,No,2014-09-15T17:00:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,9,PROP,0,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+79859,142029766.0,Monday,No,2014-09-15T18:45:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,9,MISC,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+120269,142030043.0,Monday,No,2014-09-15T14:20:00.000,PropFound,"[-71.13057, 42.291931]",Point,PropFound,9,PROP,0,E5,Day,No,WALTER ST,Part three,Unarmed,756121.0632,COTTON ST,2931623.936,2014
+166224,142029684.0,Monday,No,2014-09-15T14:45:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,9,PROP,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+178196,142029561.0,Monday,No,2014-09-15T09:47:00.000,PropFound,"[-71.044728, 42.351393]",Point,PropFound,9,PROP,0,C6,Day,No,SEAPORT BL,Part three,Unarmed,779230.8470000001,,2953405.115,2014
+211143,142029690.0,Monday,No,2014-09-15T15:15:00.000,PropFound,"[-71.07632, 42.350356]",Point,PropFound,9,IVPREM,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2014
+261165,142029864.0,Monday,No,2014-09-15T13:45:00.000,PropFound,"[0, 0]",Point,PropFound,9,INVEST,0,D4,Day,No,FRONTAGE RD,Part three,Unarmed,,,,2014

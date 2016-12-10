@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60748,130527031.0,Wednesday,No,2013-08-21T09:10:00.000,TRESPASS,"[-71.063785, 42.349246]",Point,TRESPASS,8,ARREST,122,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774083.6785,,2952595.797,2013
+111328,130528177.0,Wednesday,No,2013-08-21T17:55:00.000,TRESPASS,"[-71.07041, 42.32969]",Point,TRESPASS,8,IVPREM,178,C6,First,No,POMPEII ST,Part Two,Unarmed,772328.5402,,2945459.939,2013
+144240,130528178.0,Wednesday,No,2013-08-21T17:51:00.000,TRESPASS,"[-71.08209, 42.336671]",Point,TRESPASS,8,ARREST,903,D4,First,No,LATTIMORE CT,Part Two,Unarmed,769157.9964,,2947988.46,2013

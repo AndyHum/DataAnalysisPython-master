@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+162753,142009700.0,Wednesday,No,2014-07-16T10:03:00.000,FIRE,"[-71.047745, 42.335521]",Point,FIRE,7,FIRE,0,C6,Day,No,W 4TH ST,Part three,Unarmed,778446.0644,,2947616.747,2014
+169164,142009657.0,Wednesday,No,2014-07-16T08:50:00.000,FIRE,"[-71.05766, 42.295991]",Point,FIRE,7,FO,0,C11,Day,No,DIX ST,Part three,Other,775840.0044,,2933197.329,2014
+234327,142009593.0,Wednesday,No,2014-07-16T23:52:00.000,FIRE,"[-71.037275, 42.375496]",Point,FIRE,7,FIRE,0,A7,Last,No,BENNINGTON ST,Part three,Other,781197.8470000001,,2962199.565,2014

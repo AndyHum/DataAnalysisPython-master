@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79973,142003705.0,Saturday,No,2014-06-28T03:56:00.000,Service,"[-71.087612, 42.312512]",Point,Service,6,TS,0,B2,Last,No,CRAWFORD ST,Part three,Unarmed,767707.5761,,2939177.0239999997,2014
+119442,142003765.0,Saturday,No,2014-06-28T09:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,6,CD9,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+217167,142003683.0,Saturday,No,2014-06-28T02:15:00.000,Service,"[-71.05958, 42.351571]",Point,Service,6,ARREST,0,A1,Last,No,EDINBORO ST,Part three,Unarmed,775215.9809999999,KINGSTON ST,2953448.912,2014
+264624,142003912.0,Saturday,No,2014-06-28T18:55:00.000,Service,"[0, 0]",Point,Service,6,ARREST,0,B3,First,No,WESTVIEW ST,Part three,Unarmed,,,,2014

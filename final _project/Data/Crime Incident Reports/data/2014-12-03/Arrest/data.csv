@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57359,142054307.0,Wednesday,No,2014-12-03T14:46:00.000,Arrest,"[-71.05923, 42.354471]",Point,Arrest,12,ARREST,0,A1,Day,No,CHAUNCY ST,Part three,Other,775305.127,SUMMER ST,2954506.216,2014
+118739,142054236.0,Wednesday,No,2014-12-03T11:15:00.000,Arrest,"[-71.062118, 42.33024]",Point,Arrest,12,ARREST,0,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,774569.7179,ALLSTATE RD,2945672.019,2014
+132963,142054199.0,Wednesday,No,2014-12-03T09:13:00.000,Arrest,"[-71.14559, 42.296981]",Point,Arrest,12,TS,0,E5,Day,No,VFW PY,Part three,Unarmed,752049.5783,W ROXBURY PY,2933446.994,2014

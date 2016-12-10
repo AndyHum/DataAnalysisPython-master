@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3405,152027778.0,Monday,No,2015-04-06T08:33:00.000,Arrest,"[0, 0]",Point,Arrest,4,IVPER,0,C11,Day,No,GENEVA AV,Part three,Unarmed,,VINSON ST,,2015
+99306,152027894.0,Monday,No,2015-04-06T14:19:00.000,Arrest,"[-71.065235, 42.292136]",Point,Arrest,4,IVPER,0,C11,Day,No,CENTRE ST,Part three,Other,773797.8011,SAMOSET ST,2931781.972,2015
+195732,152027826.0,Monday,No,2015-04-06T11:10:00.000,Arrest,"[-71.062575, 42.352726]",Point,Arrest,4,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774404.2569,BOYLSTON ST,2953865.65,2015
+239187,152028026.0,Monday,No,2015-04-06T19:07:00.000,Arrest,"[-71.059745, 42.350166]",Point,Arrest,4,SS,0,A1,First,No,SURFACE RD,Part three,Unarmed,775174.0241,KNEELAND ST,2952936.6739999996,2015
+267352,152027841.0,Monday,No,2015-04-06T11:30:00.000,Arrest,"[0, 0]",Point,Arrest,4,CD4,0,C6,Day,No,COURTHOUSE WY,Part three,Other,,,,2015

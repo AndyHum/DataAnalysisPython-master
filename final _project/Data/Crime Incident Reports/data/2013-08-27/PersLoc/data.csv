@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11446,130544851.0,Tuesday,No,2013-08-27T17:13:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,8,MISPER,806,D14,First,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2013
+36444,130547132.0,Tuesday,No,2013-08-27T20:00:00.000,PersLoc,"[-71.069055, 42.337746]",Point,PersLoc,8,MISPER,167,D4,First,No,E CANTON ST,Other,Unarmed,772680.2889,,2948397.747,2013
+173665,130541827.0,Tuesday,No,2013-08-27T14:53:00.000,PersLoc,"[-71.131009, 42.27649]",Point,PersLoc,8,MISPER,551,E5,Day,No,CORNELL ST,Other,Unarmed,756026.5856,,2925996.39,2013

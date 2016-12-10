@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91367,120705580.0,Friday,No,2012-11-09T01:45:00.000,BENoProp,"[-71.068177, 42.31206]",Point,BENoProp,11,IVPER ,332,C11,Last,No,BELLEVUE ST,Part One,Unarmed,772964.9832,COLUMBIA RD,2939038.224,2012
+233354,120705345.0,Friday,No,2012-11-09T00:13:00.000,BENoProp,"[-71.089615, 42.344991]",Point,BENoProp,11,VANRPT,591,D4,Last,No,HEMENWAY ST,Part One,Other,767108.76,,2951010.563,2012
+250177,120705998.0,Friday,No,2012-11-09T08:42:00.000,BENoProp,"[-71.094037, 42.278782]",Point,BENoProp,11,BERPT ,468,B3,Day,No,HAZELTON ST,Part One,Other,766028.2746,,2926876.8639999996,2012

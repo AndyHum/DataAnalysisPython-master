@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73426,142048097.0,Tuesday,No,2014-11-11T20:20:00.000,PropLost,"[-71.090205, 42.320711]",Point,PropLost,11,LARCEN,0,B2,First,No,MARTIN LUTHER RD,Part three,Other,766991.8872,,2942161.709,2014
+95648,152032422.0,Tuesday,No,2014-11-11T12:00:00.000,PropLost,"[-71.053685, 42.315516]",Point,PropLost,11,PROP,0,C11,Day,No,SAXTON ST,Part three,Unarmed,776878.185,,2940318.133,2014
+150681,152030298.0,Tuesday,No,2014-11-11T12:00:00.000,PropLost,"[-71.16048, 42.353771]",Point,PropLost,11,PROP,0,D14,Day,No,NEWCASTLE RD,Part three,Unarmed,747938.8554,,2954125.9460000005,2014
+215103,142047951.0,Tuesday,No,2014-11-11T13:00:00.000,PropLost,"[-71.096105, 42.321479]",Point,PropLost,11,PROP,0,B2,Day,No,WEAVER WY,Part three,Unarmed,765394.9806,,2942433.733,2014

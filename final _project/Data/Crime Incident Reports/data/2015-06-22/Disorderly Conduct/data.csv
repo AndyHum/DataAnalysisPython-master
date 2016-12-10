@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34279,,Monday,No,2015-06-22T00:00:00.000,Disorderly Conduct,"[-71.058354, 42.358923]",Point,24xx,6,IVPER,92,A1,,No,COURT ST,Part Two,None,775534.0,,2960000.0,2015
+34628,,Monday,No,2015-06-22T00:00:00.000,Disorderly Conduct,"[-71.097045, 42.33311]",Point,24xx,6,DISTRB,901,B2,,No,SMITH ST,Part Two,None,765121.0,,2950000.0,2015
+105060,,Monday,No,2015-06-22T00:00:00.000,Disorderly Conduct,"[-71.038009, 42.337888]",Point,24xx,6,IVPER,222,C6,,No,BAY STATE PL,Part Two,None,781074.0,,2950000.0,2015

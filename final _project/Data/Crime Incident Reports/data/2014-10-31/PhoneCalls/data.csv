@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33458,152005413.0,Friday,No,2014-10-31T23:00:00.000,PhoneCalls,"[-71.165505, 42.34934]",Point,PhoneCalls,10,IVPER,0,D14,First,No,LANGLEY RD,Part three,Unarmed,746586.7823,,2952505.836,2014
+148073,152000246.0,Friday,No,2014-10-31T12:00:00.000,PhoneCalls,"[-71.105365, 42.307306]",Point,PhoneCalls,10,IVPER,0,E13,Day,No,ROCKVALE CR,Part three,Unarmed,762914.6457,,2937257.3710000003,2014
+191906,142046741.0,Friday,No,2014-10-31T15:00:00.000,PhoneCalls,"[-71.06942, 42.362401]",Point,PhoneCalls,10,AOD,0,A1,Day,No,FRUIT ST,Part three,Other,772536.2528,,2957381.922,2014

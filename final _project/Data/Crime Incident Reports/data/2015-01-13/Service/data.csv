@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106701,152003387.0,Tuesday,No,2015-01-13T15:45:00.000,Service,"[-71.06076, 42.357671]",Point,Service,1,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774885.5732,BEACON ST,2955670.224,2015
+113241,152003484.0,Tuesday,No,2015-01-13T10:15:00.000,Service,"[-71.095913, 42.335108]",Point,Service,1,ARREST,0,B2,Day,No,WARD ST,Part three,Unarmed,765423.3474,,2947400.8019999997,2015
+191339,152003250.0,Tuesday,No,2015-01-13T05:10:00.000,Service,"[-71.07553, 42.312201]",Point,Service,1,CD11,0,B2,Last,No,FAYSTON ST,Part three,Unarmed,770975.9993,,2939079.935,2015
+198816,152003499.0,Tuesday,No,2015-01-13T22:38:00.000,Service,"[-71.06001, 42.300741]",Point,Service,1,TS,0,C11,First,No,CHARLES ST,Part three,Unarmed,775195.3011,DORCHESTER AV,2934925.0089999996,2015
+260467,152003350.0,Tuesday,No,2015-01-13T06:30:00.000,Service,"[0, 0]",Point,Service,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+266553,152003593.0,Tuesday,No,2015-01-13T18:00:00.000,Service,"[0, 0]",Point,Service,1,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015
+267410,152003281.0,Tuesday,No,2015-01-13T10:15:00.000,Service,"[0, 0]",Point,Service,1,IVPER,0,C6,Day,No,PREBLE ST,Part three,Unarmed,,,,2015

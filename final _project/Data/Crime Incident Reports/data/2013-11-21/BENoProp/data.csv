@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18229,130738668.0,Thursday,No,2013-11-21T12:00:00.000,BENoProp,"[-71.039315, 42.382861]",Point,BENoProp,11,ARREST,25,A7,Day,No,MERIDIAN ST,Part One,Unarmed,780632.1398,,2964880.5360000003,2013
+201909,130750957.0,Thursday,No,2013-11-21T10:31:00.000,BENoProp,"[-71.114435, 42.250166]",Point,BENoProp,11,BEIP  ,513,E18,Day,No,WARREN AV,Part One,Other,760555.3748,,2916423.515,2013
+221123,130739362.0,Thursday,No,2013-11-21T15:00:00.000,BENoProp,"[-71.12392, 42.312331]",Point,BENoProp,11,BERPTA,653,E13,Day,No,POND ST,Part One,Other,757887.5206,,2939065.89,2013

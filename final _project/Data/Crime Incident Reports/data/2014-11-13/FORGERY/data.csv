@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3428,142050320.0,Thursday,No,2014-11-13T14:05:00.000,FORGERY,"[-71.079605, 42.347101]",Point,10xx,11,LARCEN,0,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769811.1326,,2951792.646,2014
+18459,142048591.0,Thursday,No,2014-11-13T14:04:00.000,FORGERY,"[-71.060585, 42.298841]",Point,10xx,11,IVPER,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775043.317,,2934231.818,2014
+154677,142048664.0,Thursday,No,2014-11-13T13:00:00.000,FORGERY,"[-71.078815, 42.350571]",Point,10xx,11,LARCEN,0,D4,Day,No,NEWBURY ST,Part Two,Unarmed,770018.4438,,2953058.235,2014
+216132,142048483.0,Thursday,No,2014-11-13T06:15:00.000,FORGERY,"[-71.065153, 42.29921]",Point,10xx,11,IVPER,0,C11,Last,No,WALDECK ST,Part Two,Unarmed,773806.5957,,2934359.6689999998,2014

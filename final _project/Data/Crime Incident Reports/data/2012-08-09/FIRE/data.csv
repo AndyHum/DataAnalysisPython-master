@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63175,120494734.0,Thursday,No,2012-08-09T19:57:00.000,FIRE,"[-71.081795, 42.341536]",Point,FIRE,8,FIREB ,147,D4,First,No,WELLINGTON ST,Part Three,Other,769228.8289,,2949761.586,2012
+116880,120493533.0,Thursday,No,2012-08-09T11:00:00.000,FIRE,"[-71.101065, 42.270471]",Point,FIRE,8,FV    ,479,E18,Day,No,CUMMINS HY,Part Three,Unarmed,764140.557,,2923839.561,2012
+198757,120492933.0,Thursday,No,2012-08-09T01:57:00.000,FIRE,"[-71.131245, 42.350806]",Point,FIRE,8,IVPREM,796,D14,Last,No,HARVARD AV,Part Three,Other,755845.6789,,2953078.245,2012
+208746,120493350.0,Thursday,No,2012-08-09T09:31:00.000,FIRE,"[-71.10352, 42.315321]",Point,FIRE,8,FIREB ,576,E13,Day,No,JESS ST,Part Three,Other,763400.1319,,2940180.483,2012

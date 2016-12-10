@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33907,130490040.0,Monday,No,2013-08-05T21:39:00.000,Argue,"[-71.039415, 42.368976]",Point,Argue,8,ABIP  ,29,A7,First,No,MAVERICK SQ,Part three,Unarmed,780632.4456,,2959820.414,2013
+145923,130488176.0,Monday,No,2013-08-05T07:22:00.000,Argue,"[-71.084909, 42.299435]",Point,Argue,8,NIDV  ,457,B3,Last,No,CHARLOTTE ST,Part three,Unarmed,768461.8364,,2934415.332,2013
+152185,130489112.0,Monday,No,2013-08-05T15:05:00.000,Argue,"[-71.085036, 42.294732]",Point,Argue,8,PKNIFE,441,B3,Day,No,NIGHTINGALE ST,Part three,Knife,768435.6675,,2932701.1580000003,2013

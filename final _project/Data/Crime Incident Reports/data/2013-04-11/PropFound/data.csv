@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115894,130214863.0,Thursday,No,2013-04-11T23:21:00.000,PropFound,"[-71.103995, 42.333881]",Point,PropFound,4,FDPROP,282,B2,First,No,TREMONT ST,Part Three,Unarmed,763240.2622,,2946943.477,2013
+147259,130215253.0,Thursday,No,2013-04-11T01:58:00.000,PropFound,"[-71.0729, 42.333256]",Point,PropFound,4,FDPROP,172,D4,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2013
+201113,130213345.0,Thursday,No,2013-04-11T09:00:00.000,PropFound,"[-71.07196, 42.294391]",Point,PropFound,4,FDPROP,359,C11,Day,No,TREMLETT ST,Part Three,Unarmed,771974.1626,WASHINGTON ST,2932594.525,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22368,140103310.0,Wednesday,No,2014-02-19T02:23:00.000,FIRE,"[-71.089268, 42.295385]",Point,FIRE,2,FIREB ,908,B3,Last,No,SHANDON RD,Part three,Unarmed,767289.676,,2932933.422,2014
+25267,140104426.0,Wednesday,No,2014-02-19T14:45:00.000,FIRE,"[-71.09558, 42.323541]",Point,FIRE,2,FV    ,301,B2,Day,No,HIGHLAND ST,Part three,Unarmed,765533.3926,MARCELLA ST,2943186.0719999997,2014
+164809,140103887.0,Wednesday,No,2014-02-19T10:58:00.000,FIRE,"[-71.094585, 42.348806]",Point,FIRE,2,ALARMM,623,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765758.7053,,2952394.378,2014

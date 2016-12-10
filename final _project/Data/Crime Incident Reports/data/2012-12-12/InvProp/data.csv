@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51441,120779392.0,Wednesday,No,2012-12-12T19:35:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,12,IVPREM,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2012
+141758,120779396.0,Wednesday,No,2012-12-12T20:44:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,12,IVPREM,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2012
+157628,120778106.0,Wednesday,No,2012-12-12T16:49:00.000,InvProp,"[-71.084909, 42.299435]",Point,InvProp,12,IVMV  ,457,B3,First,No,CHARLOTTE ST,Part Three,Unarmed,768461.8364,,2934415.332,2012
+198602,120778798.0,Wednesday,No,2012-12-12T20:29:00.000,InvProp,"[-71.15251, 42.355526]",Point,InvProp,12,FIREB ,939,D14,First,No,FANEUIL ST,Part Three,Unarmed,750090.5224,,2954774.1769999997,2012
+232141,120778626.0,Wednesday,No,2012-12-12T18:41:00.000,InvProp,"[-71.104968, 42.334088]",Point,InvProp,12,VANRPT,604,B2,First,No,HUNTINGTON AV,Part Three,Other,762976.5829,,2947017.4080000003,2012

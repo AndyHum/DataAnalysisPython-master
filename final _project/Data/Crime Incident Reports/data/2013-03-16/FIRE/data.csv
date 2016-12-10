@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59656,130155939.0,Saturday,No,2013-03-16T13:20:00.000,FIRE,"[-71.074815, 42.312496]",Point,FIRE,3,FIREB ,326,B2,Day,No,MASCOMA ST,Part Three,Other,771168.8523,,2939188.401,2013
+130153,130155119.0,Saturday,No,2013-03-16T01:43:00.000,FIRE,"[-71.159135, 42.341091]",Point,FIRE,3,FIREB ,750,D14,Last,No,FOSTER ST,Part Three,Unarmed,748320.8701,,2949506.542,2013
+233283,130156173.0,Saturday,No,2013-03-16T15:34:00.000,FIRE,"[-71.0828, 42.283631]",Point,FIRE,3,FIREB ,417,B3,Day,No,NORFOLK AV,Part Three,Other,769060.5737,,2928658.894,2013

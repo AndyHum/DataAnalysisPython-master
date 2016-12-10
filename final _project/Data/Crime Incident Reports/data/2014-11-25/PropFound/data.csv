@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15346,142052453.0,Tuesday,No,2014-11-25T15:30:00.000,PropFound,"[-71.06575, 42.325491]",Point,PropFound,11,PROP,0,C6,Day,No,MASSACHUSETTS AV,Part three,Other,773596.582,,2943936.3439999996,2014
+86847,142052073.0,Tuesday,No,2014-11-25T09:00:00.000,PropFound,"[-71.046062, 42.335273]",Point,PropFound,11,PROP,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,778901.4874,,2947528.6980000003,2014
+171247,142052074.0,Tuesday,No,2014-11-25T10:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,11,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+188484,142052081.0,Tuesday,No,2014-11-25T09:43:00.000,PropFound,"[-71.077323, 42.342044]",Point,PropFound,11,IVPREM,0,D4,Day,No,W NEWTON ST,Part three,Unarmed,770436.9896,,2949952.858,2014
+232248,142050105.0,Tuesday,No,2014-11-25T11:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,11,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+261322,142052328.0,Tuesday,No,2014-11-25T23:30:00.000,PropFound,"[0, 0]",Point,PropFound,11,PROP,0,A1,First,No,PURCHASE ST,Part three,Unarmed,,ATLANTIC AV,,2014

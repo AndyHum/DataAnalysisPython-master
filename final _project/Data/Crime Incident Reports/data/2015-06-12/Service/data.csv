@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2957,152048888.0,Friday,No,2015-06-12T23:35:00.000,Service,"[0, 0]",Point,Service,6,AB,0,E13,First,No,CENTRE ST,Part three,Unarmed,,HEATH ST,,2015
+2967,152048629.0,Friday,No,2015-06-12T09:30:00.000,Service,"[0, 0]",Point,Service,6,ARREST,0,D4,Day,No,PUBLIC ALLEY 439,Part three,Unarmed,,,,2015
+5607,152048709.0,Friday,No,2015-06-12T14:36:00.000,Service,"[-71.06041, 42.299431]",Point,Service,6,ARREST,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775089.5518,LINCOLN ST,2934447.067,2015
+48112,152048656.0,Friday,No,2015-06-12T10:30:00.000,Service,"[-71.058228, 42.380058]",Point,Service,6,AOD,0,A15,Day,No,OLD IRONSIDES WY,Part three,Unarmed,775527.6205,,2963831.9760000003,2015
+63354,152048837.0,Friday,No,2015-06-12T19:40:00.000,Service,"[-71.15578, 42.264688]",Point,Service,6,ARREST,0,E5,First,No,ROCKINGHAM AV,Part three,Unarmed,749340.247,,2921667.5330000003,2015
+130229,152048639.0,Friday,No,2015-06-12T09:00:00.000,Service,"[-71.040765, 42.335861]",Point,Service,6,CD9,0,C6,Day,No,EMERSON ST,Part three,Unarmed,780332.6076,BROADWAY,2947750.733,2015
+253658,152048574.0,Friday,No,2015-06-12T01:07:00.000,Service,"[-71.05985, 42.311126]",Point,Service,6,ARREST,0,C11,Last,No,DOWNER AV,Part three,Unarmed,775219.0102,,2938709.6410000003,2015

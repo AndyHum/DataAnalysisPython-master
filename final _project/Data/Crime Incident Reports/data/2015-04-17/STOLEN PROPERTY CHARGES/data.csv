@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+146016,152031268.0,Friday,No,2015-04-17T10:42:00.000,STOLEN PROPERTY CHARGES,"[-71.08503, 42.303436]",Point,13xx,4,ARREST,0,B2,Day,No,BLUE HILL AV,Part Two,Other,768422.0317,COLUMBIA RD,2935873.186,2015
+146851,152031431.0,Friday,No,2015-04-17T18:15:00.000,STOLEN PROPERTY CHARGES,"[-71.06214, 42.354561]",Point,13xx,4,TS,0,A1,First,No,WEST ST,Part Two,Unarmed,774518.4056,,2954534.963,2015
+160255,152031422.0,Friday,No,2015-04-17T17:56:00.000,STOLEN PROPERTY CHARGES,"[-71.062525, 42.355916]",Point,13xx,4,ARREST,0,A1,First,No,TREMONT ST,Part Two,Unarmed,774411.8094,WINTER ST,2955028.2169999997,2015

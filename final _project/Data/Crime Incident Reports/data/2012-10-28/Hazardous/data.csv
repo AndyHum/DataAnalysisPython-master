@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19272,120679764.0,Sunday,No,2012-10-28T08:46:00.000,Hazardous,"[-71.080085, 42.346711]",Point,Hazardous,10,TEST  ,146,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,769682.0757,,2951649.883,2012
+58058,120680794.0,Sunday,No,2012-10-28T20:00:00.000,Hazardous,"[-71.141615, 42.343421]",Point,Hazardous,10,IVMV  ,791,D14,First,No,ALLSTON ST,Part Three,Unarmed,753053.8688,,2950375.055,2012
+64568,120681917.0,Sunday,No,2012-10-28T13:08:00.000,Hazardous,"[-71.129571, 42.291212]",Point,Hazardous,10,TREE  ,662,E5,Day,No,COTTON ST,Part Three,Other,756392.4251,WALTER ST,2931362.918,2012

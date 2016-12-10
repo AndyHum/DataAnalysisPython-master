@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142565,142040211.0,Saturday,No,2014-10-18T02:18:00.000,Service,"[-71.039249, 42.379971]",Point,Service,10,IVPER,0,A7,Last,No,MERIDIAN ST,Part three,Unarmed,780655.5561,,2963827.4560000002,2014
+151026,142040258.0,Saturday,No,2014-10-18T08:30:00.000,Service,"[-71.05301, 42.357526]",Point,Service,10,IVPREM,0,A1,Day,No,BROAD ST,Part three,Unarmed,776980.5185,,2955628.265,2014
+206296,142040228.0,Saturday,No,2014-10-18T04:04:00.000,Service,"[-71.141705, 42.253701]",Point,Service,10,ARREST,0,E18,Last,No,ALWIN ST,Part three,Unarmed,753166.8784,,2917679.521,2014
+218441,142040408.0,Saturday,No,2014-10-18T17:39:00.000,Service,"[-71.081436, 42.319231]",Point,Service,10,SS,0,B2,First,No,WARREN ST,Part three,Unarmed,769365.9983,,2941633.738,2014

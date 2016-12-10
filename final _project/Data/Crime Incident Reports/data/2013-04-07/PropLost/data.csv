@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14421,130205416.0,Sunday,No,2013-04-07T22:58:00.000,PropLost,"[-71.064475, 42.360236]",Point,PropLost,4,LSTPRP,68,A1,First,No,HANCOCK ST,Part Three,Unarmed,773876.7114,,2956599.811,2013
+20326,130214030.0,Sunday,No,2013-04-07T04:30:00.000,PropLost,"[-71.13724, 42.352471]",Point,PropLost,4,LSTPRP,795,D14,Last,No,WEBLEY ST,Part Three,Unarmed,754222.5888,ARMINGTON ST,2953678.0560000003,2013
+91845,130204199.0,Sunday,No,2013-04-07T00:30:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,4,ROBRPT,0,D4,Last,No,BOYLSTON ST,Part Three,Unarmed,769006.8448,,2952355.38,2013
+117955,130204796.0,Sunday,No,2013-04-07T01:00:00.000,PropLost,"[-71.05181, 42.359651]",Point,PropLost,4,MISC  ,95,A1,Last,No,STATE ST,Part Three,Unarmed,777300.7852,ATLANTIC AV,2956404.357,2013
+227646,130206434.0,Sunday,No,2013-04-07T14:45:00.000,PropLost,"[-71.090893, 42.321142]",Point,PropLost,4,LSTPRP,319,B2,Day,No,MARTIN LUTHER KING BLVD,Part Three,Unarmed,766804.8797,,2942317.77,2013

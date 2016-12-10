@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40064,152024885.0,Friday,No,2015-03-27T12:30:00.000,Service,"[-71.058105, 42.324441]",Point,Service,3,ARREST,0,C6,Day,No,BELLFLOWER ST,Part three,Unarmed,775665.9046,,2943564.3260000004,2015
+92677,152024913.0,Friday,No,2015-03-27T13:24:00.000,Service,"[-71.06051, 42.352066]",Point,Service,3,ARREST,0,A1,Day,No,OXFORD ST,Part three,Unarmed,774963.6679,ESSEX ST,2953628.003,2015
+135847,152024785.0,Friday,No,2015-03-27T09:17:00.000,Service,"[-71.05835, 42.357481]",Point,Service,3,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775537.3061,SCHOOL ST,2955604.347,2015
+147337,152024985.0,Friday,No,2015-03-27T17:00:00.000,Service,"[-71.11934, 42.280121]",Point,Service,3,IVPER,0,E18,First,No,CUMMINS HY,Part three,Unarmed,759178.6774,HYDE PARK AV,2927333.5539999995,2015

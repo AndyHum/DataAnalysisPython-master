@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31934,130329786.0,Saturday,No,2013-06-01T11:18:00.000,Arrest,"[-71.12348, 42.258416]",Point,Arrest,6,ARREST,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,758093.2583,,2919418.98,2013
+37283,130329434.0,Saturday,No,2013-06-01T08:00:00.000,Arrest,"[-71.097079, 42.280332]",Point,Arrest,6,ARREST,468,B3,Day,No,WALK HILL ST,Part Three,Unarmed,765202.2625,,2927437.8389999997,2013
+108308,130330735.0,Saturday,No,2013-06-01T18:50:00.000,Arrest,"[-71.061745, 42.356021]",Point,Arrest,6,ARREST,102,A1,First,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2013

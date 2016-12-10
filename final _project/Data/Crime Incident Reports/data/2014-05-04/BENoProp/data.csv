@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28118,140273796.0,Sunday,No,2014-05-04T00:00:00.000,BENoProp,"[-71.149238, 42.277212]",Point,BENoProp,5,BERPT ,704,E5,Last,No,TENNYSON ST,Part One,Other,751092.0401,,2926238.61,2014
+162965,140278646.0,Sunday,No,2014-05-04T16:00:00.000,BENoProp,"[-71.095345, 42.328167]",Point,BENoProp,5,BERPT ,291,B2,First,No,CENTRE ST,Part One,Other,765588.7109,,2944872.1489999997,2014
+212699,140273577.0,Sunday,No,2014-05-04T19:07:00.000,BENoProp,"[-71.03685, 42.379501]",Point,BENoProp,5,BEIP  ,24,A7,First,No,EUTAW ST,Part One,Other,781304.7602,,2963659.69,2014
+228073,140272342.0,Sunday,No,2014-05-04T05:54:00.000,BENoProp,"[-71.15647, 42.351815]",Point,BENoProp,5,ARREST,763,D14,Last,No,BENNETT ST,Part One,Unarmed,749025.3638,,2953417.247,2014

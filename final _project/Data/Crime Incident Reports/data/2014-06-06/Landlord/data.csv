@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111238,140355888.0,Friday,No,2014-06-06T11:15:00.000,Landlord,"[-71.151189, 42.339118]",Point,Landlord,6,LANTEN,788,D14,Day,No,STRATHMORE RD,Part three,Unarmed,750471.9337,,2948795.9439999997,2014
+119542,140355962.0,Friday,No,2014-06-06T11:58:00.000,Landlord,"[-71.083485, 42.298551]",Point,Landlord,6,LANTEN,457,B3,Day,No,BRADSHAW ST,Part three,Unarmed,768848.6656,,2934095.0539999995,2014
+226593,140356425.0,Friday,No,2014-06-06T10:30:00.000,Landlord,"[-71.069675, 42.290772]",Point,Landlord,6,MISC  ,362,C11,Day,No,CENTRE ST,Part three,Unarmed,772598.8888,,2931278.689,2014
+244524,140357375.0,Friday,No,2014-06-06T17:53:00.000,Landlord,"[-71.077634, 42.320912]",Point,Landlord,6,THREAT,265,B2,First,No,BLUE HILL AV,Part three,Unarmed,770391.0231,,2942251.5160000003,2014

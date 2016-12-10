@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37951,,Tuesday,No,2015-07-07T16:01:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,0,,,No,,Part Three,None,,,,2015
+138527,,Tuesday,No,2015-07-07T00:00:00.000,Investigate Property,"[-71.044332, 42.286545]",Point,InvProp,7,BOMB,375,C11,,No,NEPONSET AVE,Part Three,None,779464.0,,2930000.0,2015
+227451,,Tuesday,No,2015-07-07T00:00:00.000,Investigate Property,"[-71.109716, 42.261948]",Point,InvProp,7,LANTEN,493,E18,,No,RIVER ST,Part Three,None,761813.0,,2920000.0,2015

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3492,152038162.0,Sunday,No,2015-05-10T03:10:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,5,PERGUN,0,B2,Last,No,SHAWMUT AV,Part Two,Other,,LENOX ST,,2015
+78495,152038300.0,Sunday,No,2015-05-10T18:29:00.000,WEAPONS CHARGE,"[-71.068615, 42.304436]",Point,15xx,5,PERGUN,0,C11,First,No,TOPLIFF ST,Part Two,Firearm,772860.6399,BOWDOIN ST,2936259.6319999998,2015

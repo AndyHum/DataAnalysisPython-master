@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14498,,Friday,No,2015-07-24T00:00:00.000,Investigate Property,"[-71.104814, 42.267017]",Point,InvProp,7,ALARM,486,E18,,No,RUSKINDALE RD,Part Three,None,763132.0,,2920000.0,2015
+85035,,Friday,No,2015-07-24T00:00:00.000,Investigate Property,"[-71.087219, 42.283132]",Point,InvProp,7,VAND,429,B3,,No,HILDRETH ST,Part Three,None,767866.0,,2930000.0,2015
+87891,,Friday,No,2015-07-24T00:00:00.000,Investigate Property,"[-71.104294, 42.309719]",Point,InvProp,7,IVPREM,574,E13,,No,WASHINGTON ST,Part Three,None,763200.0,,2940000.0,2015
+137675,,Friday,No,2015-07-24T00:00:00.000,Investigate Property,"[-71.104276, 42.315324]",Point,InvProp,7,IVPER,576,E13,,No,AMORY ST,Part Three,None,763195.0,,2940000.0,2015
+194875,,Friday,No,2015-07-24T17:07:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,0,,,No,FENWAY,Part Three,None,,,,2015
+203934,,Friday,No,2015-07-24T00:00:00.000,Investigate Property,"[-71.052436, 42.361325]",Point,InvProp,7,BE,91,A1,,No,ATLANTIC AVE,Part Three,None,777128.0,,2960000.0,2015
+211592,,Friday,No,2015-07-24T00:00:00.000,Investigate Property,"[-71.050436, 42.37621]",Point,InvProp,7,IVPREM,38,A15,,No,THIRTEENTH ST,Part Three,None,777640.0,,2960000.0,2015
+222988,,Friday,No,2015-07-24T00:00:00.000,Investigate Property,"[-71.076924, 42.293687]",Point,InvProp,7,SHOTS,448,B3,,No,MILLET ST,Part Three,None,770632.0,,2930000.0,2015

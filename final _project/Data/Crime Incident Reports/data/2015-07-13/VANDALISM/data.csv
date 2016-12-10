@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15368,,Monday,No,2015-07-13T00:00:00.000,Vandalism,"[-71.038779, 42.379544]",Point,14xx,7,VAND,24,A7,,No,MONMOUTH ST,Part Two,None,780783.0,,2960000.0,2015
+46602,,Monday,No,2015-07-13T00:00:00.000,Vandalism,"[-71.079725, 42.319854]",Point,14xx,7,BE,265,B2,,No,CLIFFORD ST,Part Two,None,769827.0,,2940000.0,2015
+66473,,Monday,No,2015-07-13T00:00:00.000,Vandalism,"[-71.059105, 42.311905]",Point,14xx,7,MVA,255,C11,,No,PLEASANT ST,Part Two,None,775419.0,,2940000.0,2015
+103007,,Monday,No,2015-07-13T09:20:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,426,B3,,No,RIVER ST,Part Two,None,,,,2015

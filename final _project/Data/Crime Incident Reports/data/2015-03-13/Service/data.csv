@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27790,152020436.0,Friday,No,2015-03-13T18:53:00.000,Service,"[-71.06465, 42.351016]",Point,Service,3,ARREST,0,A1,First,No,STUART ST,Part three,Unarmed,773846.5631,,2953239.624,2015
+121483,152020489.0,Friday,No,2015-03-13T23:05:00.000,Service,"[-71.06942, 42.362401]",Point,Service,3,ARREST,0,A1,First,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+152558,152020366.0,Friday,No,2015-03-13T17:05:00.000,Service,"[-71.08058, 42.339166]",Point,Service,3,SS,0,D4,First,No,TREMONT ST,Part three,Unarmed,769561.7843,MASSACHUSETTS AV,2948899.687,2015
+169026,152020163.0,Friday,No,2015-03-13T00:24:00.000,Service,"[-71.082487, 42.302716]",Point,Service,3,IVPER,0,B3,Last,No,WOLCOTT ST,Part three,Unarmed,769111.0059999999,,2935614.0689999997,2015
+217268,152020400.0,Friday,No,2015-03-13T17:27:00.000,Service,"[-71.032385, 42.331111]",Point,Service,3,ARREST,0,C6,First,No,HARDY ST,Part three,Other,782607.8186,E 8TH ST,2946032.062,2015

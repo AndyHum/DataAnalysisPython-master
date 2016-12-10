@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100922,130445890.0,Thursday,No,2013-07-18T18:45:00.000,DISORDERLY,"[-71.059085, 42.304686]",Point,24xx,7,ARREST,348,C11,First,No,DORCHESTER AV,Part Two,Unarmed,775438.1029,,2936363.917,2013
+184210,130444205.0,Thursday,No,2013-07-18T03:00:00.000,DISORDERLY,"[-71.0292, 42.378121]",Point,24xx,7,ARREST,17,A7,Last,No,PRESCOTT ST,Part Two,Unarmed,783374.4608,CHELSEA ST,2963168.104,2013
+191580,130446100.0,Thursday,No,2013-07-18T20:04:00.000,DISORDERLY,"[-71.076375, 42.307291]",Point,24xx,7,ARREST,329,B2,First,No,COLUMBIA RD,Part Two,Unarmed,770756.3344,,2937289.517,2013

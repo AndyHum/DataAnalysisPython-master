@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31834,130091714.0,Wednesday,No,2013-02-13T12:30:00.000,InvProp,"[-71.076405, 42.338031]",Point,InvProp,2,IVPREM,170,D4,Day,No,WORCESTER ST,Part Three,Unarmed,770692.5881,,2948491.651,2013
+62570,130090866.0,Wednesday,No,2013-02-13T02:46:00.000,InvProp,"[-71.104145, 42.331248]",Point,InvProp,2,BEIP  ,604,B2,Last,No,OSWALD ST,Part Three,Other,763203.9971,,2945983.53,2013
+132423,130092373.0,Wednesday,No,2013-02-13T17:55:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,2,ALARMB,65,A1,First,No,CAMBRIDGE ST,Part Three,Unarmed,775246.1256,,2956247.881,2013

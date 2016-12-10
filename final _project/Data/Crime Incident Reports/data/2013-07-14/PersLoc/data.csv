@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49317,130436027.0,Sunday,No,2013-07-14T12:00:00.000,PersLoc,"[-71.08387, 42.295991]",Point,PersLoc,7,MSNCOM,444,B3,Day,No,HARVARD ST,Other,Unarmed,768749.0615,,2933161.643,2013
+161165,130436147.0,Sunday,No,2013-07-14T21:50:00.000,PersLoc,"[-71.09622, 42.280691]",Point,PersLoc,7,MISPER,468,B3,First,No,HAZELTON ST,Other,Unarmed,765434.0731,,2927570.023,2013
+225179,130434780.0,Sunday,No,2013-07-14T08:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,7,MISPER,784,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2013

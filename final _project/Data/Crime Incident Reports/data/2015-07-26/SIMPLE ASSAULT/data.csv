@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24169,,Sunday,No,2015-07-26T15:19:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,124,A1,,No,KNEELAND ST,Part Two,None,,TYLER ST,,2015
+113529,,Sunday,No,2015-07-26T00:00:00.000,Simple Assault,"[-71.060502, 42.364895]",Point,08xx,7,AB,76,A1,,No,CANAL ST,Part Two,None,774941.0,,2960000.0,2015
+114258,,Sunday,No,2015-07-26T02:07:00.000,Simple Assault,"[0, 0]",Point,08xx,7,ARREST,94,A1,,No,CHATHAM ROW,Part Two,Personal Weapon (hand  foot  etc.),,STATE ST,,2015
+165149,,Sunday,No,2015-07-26T00:00:00.000,Simple Assault,"[-71.055335, 42.354075]",Point,08xx,7,AB,108,A1,,No,HIGH ST,Part Two,Other,776358.0,,2950000.0,2015
+170520,,Sunday,No,2015-07-26T00:00:00.000,Simple Assault,"[-71.065366, 42.349429]",Point,08xx,7,AB,121,A1,,No,TREMONT ST,Part Two,Personal Weapon (hand  foot  etc.),773656.0,,2950000.0,2015
+206910,,Sunday,No,2015-07-26T23:19:00.000,Simple Assault,"[0, 0]",Point,08xx,7,ARREST,393,C11,,No,DORCHESTER AVE,Part Two,Personal Weapon (hand  foot  etc.),,MONSIGNOR PATRICK J. LYDON WAY,,2015
+215937,,Sunday,No,2015-07-26T00:00:00.000,Simple Assault,"[-71.062399, 42.310409]",Point,08xx,7,AB,338,C11,,No,BOWDOIN ST,Part Two,None,774531.0,,2940000.0,2015
+226127,,Sunday,No,2015-07-26T00:00:00.000,Simple Assault,"[-71.066088, 42.348685]",Point,08xx,7,AB,127,A1,,No,TREMONT ST,Part Two,None,773462.0,,2950000.0,2015
+254204,,Sunday,No,2015-07-26T00:00:00.000,Simple Assault,"[-71.060106, 42.32082]",Point,08xx,7,ARREST,236,C6,,No,ROSECLAIR ST,Part Two,None,775132.0,,2940000.0,2015

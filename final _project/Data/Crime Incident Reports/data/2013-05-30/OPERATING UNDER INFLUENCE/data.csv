@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20070,130325800.0,Thursday,No,2013-05-30T20:01:00.000,OPERATING UNDER INFLUENCE,"[-71.1601, 42.278231]",Point,21xx,5,MVANO ,720,E5,First,No,SPRING ST,Part Two,Other,748151.2646,TEMPLE ST,2926598.22,2013
+46213,130324983.0,Thursday,No,2013-05-30T14:21:00.000,OPERATING UNDER INFLUENCE,"[-71.08702, 42.298151]",Point,21xx,5,TSTOP ,458,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,767893.0389,AMERICAN LEGION HY,2933944.6380000003,2013
+95338,130323970.0,Thursday,No,2013-05-30T07:00:00.000,OPERATING UNDER INFLUENCE,"[-71.08631, 42.349516]",Point,21xx,5,ARREST,141,D4,Last,No,COMMONWEALTH AV,Part Two,Other,767994.3327,,2952663.856,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60850,120528251.0,Friday,No,2012-08-24T16:30:00.000,Arrest,"[-71.03979, 42.374931]",Point,Arrest,8,ARREST,27,A7,First,No,BORDER ST,Part Three,Unarmed,780519.4002,,2961989.988,2012
+175089,120526938.0,Friday,No,2012-08-24T02:35:00.000,Arrest,"[-71.072588, 42.384155]",Point,Arrest,8,ARREST,49,A15,Last,No,MAIN ST,Part Three,Unarmed,771640.2237,,2965305.2389999996,2012
+198662,120527342.0,Friday,No,2012-08-24T09:50:00.000,Arrest,"[-71.07738, 42.350061]",Point,Arrest,8,IVPER ,0,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770407.2615,BOYLSTON ST,2952874.296,2012
+243829,120527075.0,Friday,No,2012-08-24T06:59:00.000,Arrest,"[-71.103295, 42.263613]",Point,Arrest,8,CD11  ,485,E18,Last,No,RIVER ST,Part Three,Unarmed,763548.6087,,2921337.5739999996,2012

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43821,,Monday,No,2015-07-27T00:00:00.000,Missing Person Located,"[-71.077195, 42.322032]",Point,PersFound,7,I00027,265,B2,,No,BLUE HILL AVE,Part Three,None,770508.0,,2940000.0,2015
+175911,,Monday,No,2015-07-27T00:00:00.000,Missing Person Located,"[-71.167801, 42.277241]",Point,PersFound,7,I00027,727,E5,,No,GARDNER ST,Part Three,None,746069.0,,2930000.0,2015

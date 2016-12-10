@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2805,152048038.0,Wednesday,No,2015-06-10T13:14:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,C11,Day,No,STOUGHTON ST,Part three,Unarmed,,,,2015
+2826,152048025.0,Wednesday,No,2015-06-10T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,D14,Day,No,EVERETT ST,Part three,Unarmed,,,,2015
+2942,152048702.0,Wednesday,No,2015-06-10T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,,,,2015

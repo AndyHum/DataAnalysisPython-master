@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10350,140370035.0,Wednesday,No,2014-06-11T19:35:00.000,TRESPASS,"[-71.05253, 42.326571]",Point,TRESPASS,6,IVPER ,218,C6,First,No,OLD COLONY AV,Part Two,Unarmed,777169.4318,,2944348.39,2014
+201742,140368890.0,Wednesday,No,2014-06-11T12:52:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,6,ARREST,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014
+246560,140371656.0,Wednesday,No,2014-06-11T17:45:00.000,TRESPASS,"[-71.054975, 42.328581]",Point,TRESPASS,6,IVPREM,192,C6,First,No,DEVINE WY,Part Two,Unarmed,776504.4512,,2945077.409,2014

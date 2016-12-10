@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36986,130188887.0,Sunday,No,2013-03-31T14:00:00.000,PropFound,"[-71.07979, 42.344026]",Point,PropFound,3,FDPROP,168,D4,Day,No,W NEWTON ST,Part Three,Other,769766.6428,,2950671.812,2013
+111519,130189520.0,Sunday,No,2013-03-31T21:00:00.000,PropFound,"[-71.056873, 42.342678]",Point,PropFound,3,FDPROP,200,C6,First,No,W BROADWAY,Part Three,Unarmed,775964.3463,,2950211.663,2013
+115205,130188572.0,Sunday,No,2013-03-31T10:15:00.000,PropFound,"[-71.127735, 42.350476]",Point,PropFound,3,FDPROP,796,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,756794.8154,,2952961.9930000002,2013

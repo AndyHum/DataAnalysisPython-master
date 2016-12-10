@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112110,130352368.0,Monday,No,2013-06-10T10:41:00.000,FIRE,"[-71.08156, 42.348911]",Point,FIRE,6,FIREB ,143,D4,Day,No,BOYLSTON ST,Part three,Other,769279.4105,,2952449.645,2013
+194723,130352976.0,Monday,No,2013-06-10T15:21:00.000,FIRE,"[-71.09178, 42.268962]",Point,FIRE,6,FIREB ,426,B3,Day,No,RIVER ST,Part Three,Unarmed,766656.1487,,2923301.256,2013

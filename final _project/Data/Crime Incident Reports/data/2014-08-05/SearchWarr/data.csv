@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7498,142016458.0,Tuesday,No,2014-08-05T13:20:00.000,SearchWarr,"[-71.087193, 42.319551]",Point,SearchWarr,8,IVPER,0,B2,Day,No,MARTIN LUTHER KING BLVD,Part three,Unarmed,767808.4774,,2941742.683,2014
+86738,142016469.0,Tuesday,No,2014-08-05T13:11:00.000,SearchWarr,"[-71.090956, 42.333723]",Point,SearchWarr,8,CD11,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+162925,142016432.0,Tuesday,No,2014-08-05T13:32:00.000,SearchWarr,"[-71.089151, 42.311211]",Point,SearchWarr,8,CD11,0,B2,Day,No,HOMESTEAD ST,Part three,Unarmed,767293.447,,2938701.003,2014
+175243,142016415.0,Tuesday,No,2014-08-05T11:19:00.000,SearchWarr,"[-71.104292, 42.264537]",Point,SearchWarr,8,IVPREM,0,E18,Day,No,OAKCREST RD,Part three,Unarmed,763277.1209999999,,2921673.1,2014

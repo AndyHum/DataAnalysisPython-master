@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4207,130056136.0,Sunday,No,2013-01-27T19:53:00.000,FIRE,"[-71.078285, 42.381841]",Point,FIRE,1,FV    ,50,A15,First,No,ROLAND ST,Part Three,Other,770105.3688,,2964454.3660000004,2013
+19296,130055170.0,Sunday,No,2013-01-27T09:49:00.000,FIRE,"[-71.066745, 42.303426]",Point,FIRE,1,FIREB ,341,C11,Day,No,HOMES AV,Part Three,Other,773368.3558,,2935894.139,2013
+177806,130055186.0,Sunday,No,2013-01-27T10:01:00.000,FIRE,"[-71.10992, 42.270561]",Point,FIRE,1,PDRPT ,478,E18,Day,No,MARIPOSA ST,Part Three,Other,761743.7743,,2923861.2739999997,2013

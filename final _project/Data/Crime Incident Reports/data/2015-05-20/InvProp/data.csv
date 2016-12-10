@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1533,152041324.0,Wednesday,No,2015-05-20T10:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,PROP,0,D4,Day,No,BEACON ST,Part three,Unarmed,,,,2015
+1537,152041253.0,Wednesday,No,2015-05-20T02:13:00.000,InvProp,"[0, 0]",Point,InvProp,5,SHOTS,0,C11,Last,No,CUSHING AV,Part three,Firearm,,COLUMBIA RD,,2015
+1587,152041303.0,Wednesday,No,2015-05-20T09:32:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,0,C11,Day,No,CLARKSON ST,Part three,Unarmed,,,,2015
+1635,152041492.0,Wednesday,No,2015-05-20T17:45:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,0,A7,First,No,MONMOUTH SQ,Part three,Unarmed,,,,2015
+34707,152041453.0,Wednesday,No,2015-05-20T16:40:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,5,CD9,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+59357,152041565.0,Wednesday,No,2015-05-20T21:59:00.000,InvProp,"[-71.065007, 42.313187]",Point,InvProp,5,SSA,0,C11,First,No,HANCOCK ST,Part three,Firearm,773820.2587,,2939453.4489999996,2015
+87745,152041572.0,Wednesday,No,2015-05-20T11:53:00.000,InvProp,"[-71.08203, 42.306731]",Point,InvProp,5,SSA,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769227.6836,,2937077.898,2015
+237152,152041471.0,Wednesday,No,2015-05-20T17:20:00.000,InvProp,"[-71.080575, 42.318566]",Point,InvProp,5,IVPREM,0,B2,First,No,EDGEWOOD ST,Part three,Other,769599.9214,,2941392.703,2015

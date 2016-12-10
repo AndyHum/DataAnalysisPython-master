@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72071,130026507.0,Friday,No,2013-01-11T18:00:00.000,PersLoc,"[-71.10568, 42.264481]",Point,PersLoc,1,MISPER,487,E18,First,No,TILESTON ST,Part Three,Unarmed,762901.5847,,2921650.917,2013
+77256,130025976.0,Friday,No,2013-01-11T22:00:00.000,PersLoc,"[-71.075585, 42.340456]",Point,PersLoc,1,MISPER,157,D4,First,No,W NEWTON ST,Part Three,Unarmed,770909.8909,,2949376.4669999997,2013
+169732,130023630.0,Friday,No,2013-01-11T14:00:00.000,PersLoc,"[-71.07329, 42.346746]",Point,PersLoc,1,MISPER,150,D4,Day,No,CLARENDON ST,Part Three,Unarmed,771518.8837,,2951671.7539999997,2013
+196863,130023933.0,Friday,No,2013-01-11T15:00:00.000,PersLoc,"[-71.07713, 42.280711]",Point,PersLoc,1,MISPER,419,B3,Day,No,FULLER ST,Part Three,Unarmed,770600.1297,,2927602.3639999996,2013

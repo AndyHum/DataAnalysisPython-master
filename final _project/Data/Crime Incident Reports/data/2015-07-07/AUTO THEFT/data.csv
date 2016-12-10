@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60908,,Tuesday,No,2015-07-07T00:00:00.000,Auto Theft,"[-71.082025, 42.286643]",Point,07xx,7,IVMV,432,B3,,No,JONES AVE,Part One,None,769265.0,,2930000.0,2015
+84673,,Tuesday,No,2015-07-07T00:00:00.000,Auto Theft,"[-71.067945, 42.312756]",Point,07xx,7,IVMV,332,C11,,No,GLENDALE ST,Part One,None,773026.0,,2940000.0,2015
+109572,,Tuesday,No,2015-07-07T23:00:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,461,C11,,No,GENEVA AVE,Part One,None,,,,2015
+158674,,Tuesday,No,2015-07-07T00:00:00.000,Auto Theft,"[-71.083519, 42.288025]",Point,07xx,7,,432,B3,,No,LYFORD ST,Part One,None,768858.0,,2930000.0,2015
+165230,,Tuesday,No,2015-07-07T00:00:00.000,Auto Theft,"[-71.068353, 42.328564]",Point,07xx,7,IVMV,178,C6,,No,MASSACHUSETTS AVE,Part One,None,772887.0,,2950000.0,2015
+224579,,Tuesday,No,2015-07-07T00:00:00.000,Auto Theft,"[-71.039162, 42.377502]",Point,07xx,7,IVMV,24,A7,,No,MERIDIAN ST,Part One,None,780684.0,,2960000.0,2015
+232337,,Tuesday,No,2015-07-07T00:00:00.000,Auto Theft Recovery,"[-71.094571, 42.286874]",Point,07RV,7,IVMV,466,B3,,No,ESTELLA ST,Other,None,765870.0,,2930000.0,2015
+237042,,Tuesday,No,2015-07-07T00:00:00.000,Auto Theft,"[-71.060202, 42.375741]",Point,07xx,7,,57,A15,,No,MONUMENT SQ,Part One,None,775002.0,,2960000.0,2015
+256976,,Tuesday,No,2015-07-07T00:00:00.000,Auto Theft,"[-71.065366, 42.349429]",Point,07xx,7,IVMV,121,A1,,No,TREMONT ST,Part One,None,773656.0,,2950000.0,2015

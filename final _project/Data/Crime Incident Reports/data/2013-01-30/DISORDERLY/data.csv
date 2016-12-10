@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103160,130062240.0,Wednesday,No,2013-01-30T16:00:00.000,DISORDERLY,"[-71.083781, 42.329494]",Point,24xx,1,IVPER ,280,B2,First,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2013
+109861,130062195.0,Wednesday,No,2013-01-30T15:00:00.000,DISORDERLY,"[-71.061984, 42.36231]",Point,24xx,1,ARREST,74,A1,Day,No,NEW CHARDON ST,Part Two,Unarmed,774546.0673,,2957359.042,2013
+208094,130061451.0,Wednesday,No,2013-01-30T09:40:00.000,DISORDERLY,"[-71.090389, 42.331096]",Point,24xx,1,TRANSP,290,B2,Day,No,MALCOLM X BL,Part Two,Unarmed,766923.848,MALCOLM X BL,2945945.7830000003,2013

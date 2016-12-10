@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26352,142041438.0,Tuesday,No,2014-10-21T21:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,10,ARREST,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+36711,142041440.0,Tuesday,No,2014-10-21T21:50:00.000,Service,"[-71.06254, 42.353221]",Point,Service,10,ARREST,0,A1,First,No,AVERY ST,Part three,Unarmed,774412.7922,WASHINGTON ST,2954046.086,2014
+37141,142041151.0,Tuesday,No,2014-10-21T06:30:00.000,Service,"[-71.141721, 42.34306]",Point,Service,10,CD11,0,D14,Last,No,WASHINGTON ST,Part three,Unarmed,753025.5063,,2950243.078,2014
+101473,142041207.0,Tuesday,No,2014-10-21T11:00:00.000,Service,"[-71.06287, 42.352321]",Point,Service,10,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2014
+152152,142041345.0,Tuesday,No,2014-10-21T17:58:00.000,Service,"[-71.064346, 42.353072]",Point,Service,10,ARREST,0,A1,First,No,TREMONT ST,Part three,Unarmed,773924.729,,2953989.2660000003,2014
+166297,142041350.0,Tuesday,No,2014-10-21T17:30:00.000,Service,"[-71.037826, 42.36655]",Point,Service,10,ARREST,0,A7,First,No,HAYNES ST,Part three,Unarmed,781066.5375,,2958938.579,2014
+178584,142041206.0,Tuesday,No,2014-10-21T11:00:00.000,Service,"[-71.14243, 42.349389]",Point,Service,10,ARREST,0,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2014
+195565,142041444.0,Tuesday,No,2014-10-21T22:04:00.000,Service,"[-71.05789, 42.309941]",Point,Service,10,SS,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775751.431,DEWAR ST,2938280.5930000003,2014

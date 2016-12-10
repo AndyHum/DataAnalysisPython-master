@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35507,130193821.0,Tuesday,No,2013-04-02T18:57:00.000,PhoneCalls,"[-71.079739, 42.329344]",Point,PhoneCalls,4,HARPT ,904,B2,First,No,WHEATLEY WY,Part Three,Unarmed,769806.7553,,2945321.255,2013
+68589,130193465.0,Tuesday,No,2013-04-02T16:40:00.000,PhoneCalls,"[-71.135105, 42.276356]",Point,PhoneCalls,4,HARPT ,550,E5,First,No,JUNE ST,Part Three,Unarmed,754918.3457,,2925942.8880000003,2013
+148299,130192538.0,Tuesday,No,2013-04-02T09:00:00.000,PhoneCalls,"[-71.07571, 42.319916]",Point,PhoneCalls,4,THREAT,264,B2,Day,No,GAYLAND ST,Part Three,Unarmed,770913.3282,,2941891.165,2013

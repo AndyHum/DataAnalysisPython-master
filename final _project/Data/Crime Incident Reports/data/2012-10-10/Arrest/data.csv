@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66641,120637655.0,Wednesday,No,2012-10-10T08:50:00.000,Arrest,"[-71.06458, 42.352351]",Point,Arrest,10,ARREST,118,A1,Day,No,TREMONT ST,Part Three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2012
+186713,120638211.0,Wednesday,No,2012-10-10T13:23:00.000,Arrest,"[-71.096574, 42.328863]",Point,Arrest,10,VIORDR,291,B2,Day,No,COLUMBUS AV,Part Three,Unarmed,765255.1768,,2945124.079,2012
+187052,120637542.0,Wednesday,No,2012-10-10T08:30:00.000,Arrest,"[-71.03664, 42.336466]",Point,Arrest,10,ARREST,0,C6,Day,No,E 3RD ST,Part Three,Unarmed,781446.6959,,2947977.236,2012
+245839,120639252.0,Wednesday,No,2012-10-10T19:45:00.000,Arrest,"[-71.064905, 42.352371]",Point,Arrest,10,ARREST,72,A1,First,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2012

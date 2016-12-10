@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60164,140216668.0,Friday,No,2014-03-28T17:00:00.000,PropLost,"[-71.092001, 42.278561]",Point,PropLost,3,LSTPRP,427,B3,First,No,FESSENDEN ST,Part three,Unarmed,766579.5337,,2926799.047,2014
+84714,140231813.0,Friday,No,2014-03-28T12:00:00.000,PropLost,"[-71.084364, 42.306373]",Point,PropLost,3,LSTPRP,330,B2,Day,No,BLUE HILL AV,Part three,Unarmed,768596.965,,2936944.225,2014
+117561,140187495.0,Friday,No,2014-03-28T00:01:00.000,PropLost,"[-71.10086, 42.322816]",Point,PropLost,3,LSTPRP,912,E13,Last,No,CENTRE ST,Part three,Unarmed,764106.7781,,2942915.144,2014
+161438,140189702.0,Friday,No,2014-03-28T03:00:00.000,PropLost,"[-71.08621, 42.349901]",Point,PropLost,3,INVEST,140,D4,Last,No,COMMONWEALTH AV,Part three,Unarmed,768020.6834,HEREFORD ST,2952804.288,2014
+263001,140190121.0,Friday,No,2014-03-28T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,521,E18,First,No,PINGREE ST,Part three,Unarmed,,,,2014
+264597,140194469.0,Friday,No,2014-03-28T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,134,D4,Day,No,NEWBURY ST,Part three,Unarmed,,,,2014

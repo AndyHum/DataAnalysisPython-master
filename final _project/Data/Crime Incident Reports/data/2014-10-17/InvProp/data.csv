@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20393,142040149.0,Friday,No,2014-10-17T22:37:00.000,InvProp,"[-71.11662, 42.29735]",Point,InvProp,10,ALARM,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,759886.3972,,2933615.372,2014
+24100,142039950.0,Friday,No,2014-10-17T15:35:00.000,InvProp,"[-71.092625, 42.314591]",Point,InvProp,10,BE,0,B2,Day,No,ABBOTTSFORD ST,Part three,Unarmed,766348.0804,,2939928.345,2014
+58756,142039906.0,Friday,No,2014-10-17T10:29:00.000,InvProp,"[-71.06056, 42.374066]",Point,InvProp,10,REQP,0,A15,Day,No,COMMON ST,Part three,Unarmed,774908.8487,,2961645.167,2014
+97698,142040118.0,Friday,No,2014-10-17T19:25:00.000,InvProp,"[-71.08156, 42.348911]",Point,InvProp,10,ALARM,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769279.4105,,2952449.645,2014
+185578,142039933.0,Friday,No,2014-10-17T13:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,10,CD9,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+201972,142040659.0,Friday,No,2014-10-17T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,10,IVPER,0,A1,First,No,LOUISBURG SQ,Part three,Other,772766.5761,,2955927.264,2014
+206028,142040167.0,Friday,No,2014-10-17T18:00:00.000,InvProp,"[-71.057685, 42.310896]",Point,InvProp,10,BE,0,C11,First,No,DORCHESTER AV,Part three,Other,775805.0763,,2938628.897,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34118,142024389.0,Saturday,No,2014-08-30T06:30:00.000,Service,"[-71.05572, 42.352165]",Point,Service,8,CD19,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,776258.1643,,2953670.5760000004,2014
+119384,142024603.0,Saturday,No,2014-08-30T23:08:00.000,Service,"[-71.07504, 42.320621]",Point,Service,8,TS,0,B2,First,No,W COTTAGE ST,Part three,Unarmed,771093.2448,JUDSON ST,2942148.98,2014
+121356,142024974.0,Saturday,No,2014-08-30T09:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,8,IVPREM,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2014

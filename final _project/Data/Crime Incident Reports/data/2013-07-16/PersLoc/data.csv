@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114589,130441184.0,Tuesday,No,2013-07-16T07:30:00.000,PersLoc,"[-71.07621, 42.282721]",Point,PersLoc,7,MISPER,418,B3,Day,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2013
+190804,130440877.0,Tuesday,No,2013-07-16T16:00:00.000,PersLoc,"[-71.07677, 42.271507]",Point,PersLoc,7,MISPER,465,B3,First,No,RIVER ST,Other,Unarmed,770714.0920000001,,2924248.522,2013
+266440,130441647.0,Tuesday,No,2013-07-16T18:50:00.000,PersLoc,"[0, 0]",Point,PersLoc,7,MISPER,944,B3,First,No,AMES WY,Other,Unarmed,,,,2013

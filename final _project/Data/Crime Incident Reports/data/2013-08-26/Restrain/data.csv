@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51791,130538267.0,Monday,No,2013-08-26T00:10:00.000,Restrain,"[-71.054835, 42.367061]",Point,Restrain,8,VIORDR,81,A1,Last,No,MICHELANGELO ST,Part Two,Unarmed,776469.1215,,2959100.425,2013
+70002,130539615.0,Monday,No,2013-08-26T15:45:00.000,Restrain,"[-71.07381, 42.287161]",Point,Restrain,8,VIORDR,435,B3,Day,No,TORREY ST,Part Two,Unarmed,771486.8083,,2929957.3019999997,2013
+191508,130540285.0,Monday,No,2013-08-26T20:22:00.000,Restrain,"[-71.074875, 42.314326]",Point,Restrain,8,VIORDR,327,B2,First,No,CUNNINGHAM ST,Part Two,Unarmed,771149.2998,,2939855.202,2013
+223149,130544105.0,Monday,No,2013-08-26T22:52:00.000,Restrain,"[-71.14805, 42.259326]",Point,Restrain,8,THREAT,822,E5,First,No,GEORGETOWNE DR,Part Two,Other,751440.6434,,2919722.167,2013

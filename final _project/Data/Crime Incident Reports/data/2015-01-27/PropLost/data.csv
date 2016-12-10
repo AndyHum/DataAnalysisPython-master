@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12845,152007716.0,Tuesday,No,2015-01-27T01:30:00.000,PropLost,"[-71.140916, 42.349989]",Point,PropLost,1,PROP,0,D14,Last,No,CAMELOT CT,Part three,Unarmed,753232.5233,,2952769.203,2015
+112364,152007478.0,Tuesday,No,2015-01-27T09:00:00.000,PropLost,"[-71.10846, 42.333254]",Point,PropLost,1,PROP,0,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,762034.0211,,2946709.245,2015
+182332,152007297.0,Tuesday,No,2015-01-27T09:00:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,1,LARCEN,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+260561,152007331.0,Tuesday,No,2015-01-27T17:21:00.000,PropLost,"[0, 0]",Point,PropLost,1,LARCEN,0,E5,First,No,METROPOLITAN AV,Part three,Unarmed,,,,2015

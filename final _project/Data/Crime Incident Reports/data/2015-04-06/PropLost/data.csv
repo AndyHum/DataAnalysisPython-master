@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8262,152027865.0,Monday,No,2015-04-06T13:15:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,4,PROP,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+49546,152029682.0,Monday,No,2015-04-06T12:00:00.000,PropLost,"[-71.074855, 42.351641]",Point,PropLost,4,PROP,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,771086.9302,,2953453.473,2015
+51211,152028180.0,Monday,No,2015-04-06T12:00:00.000,PropLost,"[-71.080575, 42.318566]",Point,PropLost,4,PROP,0,B2,Day,No,EDGEWOOD ST,Part three,Other,769599.9214,,2941392.703,2015
+115243,152028673.0,Monday,No,2015-04-06T13:00:00.000,PropLost,"[-71.058756, 42.36273]",Point,PropLost,4,PROP,0,A1,Day,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2015
+120572,152033001.0,Monday,No,2015-04-06T08:00:00.000,PropLost,"[-71.05533, 42.352716]",Point,PropLost,4,PROP,0,A1,Day,No,ATLANTIC AV,Part three,Unarmed,776362.6063,,2953872.1319999998,2015
+229474,152028172.0,Monday,No,2015-04-06T09:00:00.000,PropLost,"[-71.068695, 42.360676]",Point,PropLost,4,PROP,0,A1,Day,No,GROVE ST,Part three,Unarmed,772735.3652,,2956754.36,2015
+250328,152028032.0,Monday,No,2015-04-06T14:30:00.000,PropLost,"[-71.05839, 42.307821]",Point,PropLost,4,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775620.1902,FREEPORT ST,2937507.3310000002,2015
+267354,152028047.0,Monday,No,2015-04-06T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+267372,152027962.0,Monday,No,2015-04-06T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B3,Day,No,HAZELTON ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46913,130610546.0,Tuesday,No,2013-09-24T19:50:00.000,InvProp,"[-71.090693, 42.345051]",Point,InvProp,9,FIREB ,591,D4,First,No,FENWAY,Part three,Other,766817.3009,,2951030.732,2013
+115550,130611795.0,Tuesday,No,2013-09-24T15:00:00.000,InvProp,"[-71.087705, 42.340771]",Point,InvProp,9,SUSLET,283,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767632.6471,,2949475.187,2013
+216223,130609906.0,Tuesday,No,2013-09-24T15:14:00.000,InvProp,"[-71.09082, 42.335871]",Point,InvProp,9,MVANO ,911,B2,Day,No,RUGGLES ST,Part three,Unarmed,766799.0657,,2947685.482,2013

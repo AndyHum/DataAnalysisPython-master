@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71219,140253213.0,Saturday,No,2014-04-26T02:09:00.000,FIRE,"[-71.10259, 42.343261]",Point,FIRE,4,REQEP ,618,D4,Last,No,BOYLSTON ST,Part three,Unarmed,763604.2226,PARK DR,2950363.4889999996,2014
+146705,140254824.0,Saturday,No,2014-04-26T22:01:00.000,FIRE,"[-71.07078, 42.359871]",Point,FIRE,4,FIREB ,66,A1,First,No,CHARLES ST,Part three,Other,772173.3348,,2956458.16,2014
+185567,140254989.0,Saturday,No,2014-04-26T23:55:00.000,FIRE,"[-71.0393, 42.381991]",Point,FIRE,4,FV    ,25,A7,Last,No,MERIDIAN ST,Part three,Other,780637.9047,FALCON ST,2964563.5110000004,2014
+207842,140254173.0,Saturday,No,2014-04-26T16:00:00.000,FIRE,"[-71.07751, 42.343401]",Point,FIRE,4,FV    ,153,D4,First,No,WARREN AV,Part three,Unarmed,770384.1426,PEMBROKE ST,2950447.0939999996,2014

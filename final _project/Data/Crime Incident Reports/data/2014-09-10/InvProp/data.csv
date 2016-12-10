@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85220,142028314.0,Wednesday,No,2014-09-10T11:00:00.000,InvProp,"[-71.09824, 42.345381]",Point,InvProp,9,IVPREM,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,764776.5712,VAN NESS ST,2951141.566,2014
+92284,142028054.0,Wednesday,No,2014-09-10T00:30:00.000,InvProp,"[-71.100941, 42.328972]",Point,InvProp,9,IVPREM,0,B2,Last,No,CALUMET ST,Part three,Unarmed,764074.2861,,2945158.251,2014
+153504,142037908.0,Wednesday,No,2014-09-10T09:00:00.000,InvProp,"[-71.102425, 42.317166]",Point,InvProp,9,IVPREM,0,E13,Day,No,AMORY ST,Part three,Other,763693.1517,,2940854.211,2014
+222127,142027988.0,Wednesday,No,2014-09-10T07:42:00.000,InvProp,"[-71.086905, 42.329971]",Point,InvProp,9,IVPREM,0,B2,Day,No,MALCOLM X BL,Part three,Unarmed,767867.9908,,2945540.519,2014
+265986,152009054.0,Wednesday,No,2014-09-10T15:00:00.000,InvProp,"[0, 0]",Point,InvProp,9,LARCEN,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2014

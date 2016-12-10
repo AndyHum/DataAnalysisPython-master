@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82631,142007443.0,Wednesday,No,2014-07-09T00:00:00.000,PersLoc,"[-71.056885, 42.360886]",Point,PersLoc,7,IVPER,0,A1,Last,No,UNION ST,Other,Unarmed,775926.8211,,2956847.249,2014
+129838,142007831.0,Wednesday,No,2014-07-09T18:00:00.000,PersLoc,"[-71.06587, 42.313256]",Point,PersLoc,7,IVPER,0,C11,First,No,GLENDALE ST,Other,Unarmed,773586.7516,,2939477.3189999997,2014
+228741,142007442.0,Wednesday,No,2014-07-09T02:45:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,7,IVPER,0,B3,Last,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2014
+247469,142007427.0,Wednesday,No,2014-07-09T01:14:00.000,PersLoc,"[-71.07784, 42.318281]",Point,PersLoc,7,IVPER,0,B2,Last,No,BLUE HILL AV,Other,Unarmed,770340.2378,BROOKFORD ST,2941292.485,2014

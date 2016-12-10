@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85028,120538154.0,Wednesday,No,2012-08-29T01:24:00.000,WEAPONS CHARGE,"[-71.08722, 42.333991]",Point,15xx,8,SHOTS ,287,B2,Last,No,RUGGLES ST,Part Two,Firearm,767775.7255,,2947005.066,2012
+87720,120539815.0,Wednesday,No,2012-08-29T18:49:00.000,WEAPONS CHARGE,"[-71.092073, 42.289674]",Point,15xx,8,SSTOP ,464,B3,First,No,HARVARD ST,Part Two,Firearm,766540.6237,,2930848.814,2012
+206137,120539995.0,Wednesday,No,2012-08-29T20:12:00.000,WEAPONS CHARGE,"[-71.07426, 42.313657]",Point,15xx,8,PERGUN,325,B2,First,No,WAYLAND ST,Part Two,Firearm,771316.8572,,2939612.229,2012

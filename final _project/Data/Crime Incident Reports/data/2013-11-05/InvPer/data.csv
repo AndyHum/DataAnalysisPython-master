@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64108,130705463.0,Tuesday,No,2013-11-05T17:50:00.000,InvPer,"[-71.074809, 42.308575]",Point,InvPer,11,SUSPER,282,B2,First,No,COLUMBIA RD,Part three,Other,771177.5147,,2937759.292,2013
+96998,130705826.0,Tuesday,No,2013-11-05T23:34:00.000,InvPer,"[-71.095715, 42.313821]",Point,InvPer,11,SHOTS ,316,E13,First,No,COLUMBUS AV,Part three,Unarmed,765513.6749,SEAVER ST,2939643.768,2013
+132276,130704478.0,Tuesday,No,2013-11-05T12:36:00.000,InvPer,"[-71.149766, 42.286525]",Point,InvPer,11,SUSPER,697,E5,Day,No,BELGRADE AV,Part three,Unarmed,750935.4131,,2929631.692,2013
+137095,130705176.0,Tuesday,No,2013-11-05T19:43:00.000,InvPer,"[-71.081592, 42.319267]",Point,InvPer,11,THREAT,309,B2,First,No,WARREN ST,Part three,Unarmed,769323.563,,2941646.557,2013
+182120,130767326.0,Tuesday,No,2013-11-05T14:00:00.000,InvPer,"[-71.088685, 42.307991]",Point,InvPer,11,EDP2  ,920,B2,Day,No,ELM HILL AV,Part three,Unarmed,767425.3056,,2937528.311,2013
+202407,130704920.0,Tuesday,No,2013-11-05T16:04:00.000,InvPer,"[-71.081085, 42.313576]",Point,InvPer,11,IVPER ,321,B2,First,No,GASTON ST,Part three,Other,769471.0529,,2939573.579,2013
+248647,130705552.0,Tuesday,No,2013-11-05T20:36:00.000,InvPer,"[-71.063785, 42.349246]",Point,InvPer,11,MSNCOM,123,A1,First,No,WASHINGTON ST,Part three,Unarmed,774083.6785,,2952595.797,2013

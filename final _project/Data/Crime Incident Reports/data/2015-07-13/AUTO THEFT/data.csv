@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33016,,Monday,No,2015-07-13T21:55:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,325,B2,,No,DALKEITH ST,Part One,None,,,,2015
+117060,,Monday,No,2015-07-13T19:43:00.000,Auto Theft Recovery,"[0, 0]",Point,07RV,7,IVMV,182,B2,,No,BATCHELDER ST,Other,None,,MARSHFIELD ST,,2015
+135641,,Monday,No,2015-07-13T00:00:00.000,Auto Theft,"[-71.077389, 42.314845]",Point,07xx,7,IVMV,325,B2,,No,DACIA ST,Part One,None,770468.0,,2940000.0,2015
+155644,,Monday,No,2015-07-13T00:00:00.000,Auto Theft,"[-71.087853, 42.350388]",Point,07xx,7,IVMV,139,D4,,No,MARLBOROUGH ST,Part One,None,767576.0,,2950000.0,2015
+166559,,Monday,No,2015-07-13T00:00:00.000,Auto Theft,"[-71.079328, 42.308701]",Point,07xx,7,IVMV,329,B2,,No,STANWOOD ST,Part One,None,769955.0,,2940000.0,2015
+184532,,Monday,No,2015-07-13T00:00:00.000,Auto Theft,"[-71.14071, 42.346666]",Point,07xx,7,IVMV,792,D14,,No,COMMONWEALTH AVE,Part One,None,753293.0,,2950000.0,2015
+211654,,Monday,No,2015-07-13T14:57:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,335,C11,,No,BOWDOIN ST,Part One,None,, MOUNT IDA RD ,,2015
+219355,,Monday,No,2015-07-13T00:00:00.000,Auto Theft,"[-71.078887, 42.342948]",Point,07xx,7,IVMV,148,D4,,No,COLUMBUS AVE,Part One,None,770013.0,,2950000.0,2015

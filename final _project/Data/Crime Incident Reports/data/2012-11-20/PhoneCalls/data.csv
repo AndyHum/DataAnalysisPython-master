@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22449,120731039.0,Tuesday,No,2012-11-20T17:56:00.000,PhoneCalls,"[-71.09342, 42.275896]",Point,PhoneCalls,11,HARPT ,427,B3,First,No,BLUE HILL AV,Part Three,Other,766200.2749,,2925826.275,2012
+70152,120731352.0,Tuesday,No,2012-11-20T12:30:00.000,PhoneCalls,"[-71.07703, 42.312031]",Point,PhoneCalls,11,HARPT ,328,B2,Day,No,LAWRENCE AV,Part three,Unarmed,770570.5949,,2939015.9689999996,2012
+94199,120732798.0,Tuesday,No,2012-11-20T23:48:00.000,PhoneCalls,"[-71.068642, 42.316293]",Point,PhoneCalls,11,HARPT ,258,B2,Last,No,MONADNOCK ST,Part Three,Unarmed,772831.4244,,2940580.485,2012
+128786,120730521.0,Tuesday,No,2012-11-20T11:54:00.000,PhoneCalls,"[-71.051205, 42.365951]",Point,PhoneCalls,11,ARREST,83,A1,Day,No,COMMERCIAL ST,Part Three,Unarmed,777452.22,,2958701.06,2012
+206773,120731688.0,Tuesday,No,2012-11-20T19:30:00.000,PhoneCalls,"[-71.075415, 42.339336]",Point,PhoneCalls,11,IVPER ,168,D4,First,No,RUTLAND ST,Part Three,Other,770957.8809,,2948968.547,2012

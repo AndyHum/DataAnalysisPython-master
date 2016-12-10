@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31339,120671488.0,Thursday,No,2012-10-25T23:30:00.000,PropFound,"[-71.052485, 42.332516]",Point,PropFound,10,SUSPER,925,C6,First,No,MITCHELL ST,Part Three,Unarmed,777170.233,,2946514.913,2012
+65003,120672334.0,Thursday,No,2012-10-25T10:50:00.000,PropFound,"[-71.05849, 42.362381]",Point,PropFound,10,FDPROP,93,A1,Day,No,CONGRESS ST,Part Three,Unarmed,775490.2232,SUDBURY ST,2957389.8060000003,2012
+256772,120671935.0,Thursday,No,2012-10-25T07:25:00.000,PropFound,"[-71.039015, 42.338076]",Point,PropFound,10,BERPT ,222,C6,Last,No,E 1ST ST,Part Three,Unarmed,780801.3963,,2948560.4689999996,2012

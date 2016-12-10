@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26419,142040740.0,Sunday,No,2014-10-19T20:30:00.000,MVAcc,"[-71.060835, 42.363466]",Point,MVAcc,10,MVA,0,A1,First,No,PORTLAND ST,Other,Unarmed,774854.4296,VALENTI WY,2957781.93,2014
+46240,142040709.0,Sunday,No,2014-10-19T18:10:00.000,MVAcc,"[-71.08749, 42.279631]",Point,MVAcc,10,MVA,0,B3,First,No,ASTORIA ST,Other,Unarmed,767798.5265,ELIZABETH ST,2927195.066,2014
+160991,142040554.0,Sunday,No,2014-10-19T05:32:00.000,MVAcc,"[-71.08185, 42.298891]",Point,MVAcc,10,MVA,0,B3,Last,No,BRADSHAW ST,Other,Unarmed,769290.3790000001,,2934221.12,2014
+216551,142040599.0,Sunday,No,2014-10-19T11:11:00.000,MVAcc,"[-71.0545, 42.318941]",Point,MVAcc,10,MVA,0,C11,Day,No,CARSON ST,Other,Unarmed,776651.2405,CRESCENT AV,2941565.104,2014
+247554,142040614.0,Sunday,No,2014-10-19T09:45:00.000,MVAcc,"[-71.15972, 42.340031]",Point,MVAcc,10,MVA,0,D14,Day,No,FOSTER ST,Other,Unarmed,748164.2559999999,COMMONWEALTH AV,2949119.625,2014

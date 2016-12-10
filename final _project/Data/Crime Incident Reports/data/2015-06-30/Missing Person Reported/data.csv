@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33678,,Tuesday,No,2015-06-30T00:00:00.000,Missing Person Reported,"[-71.103674, 42.307108]",Point,PersMiss,6,I00027,570,E13,,No,LOURDES AVE,Part Three,None,763372.0,,2940000.0,2015
+66356,,Tuesday,No,2015-06-30T00:00:00.000,Missing Person Reported,"[-71.066088, 42.348685]",Point,PersMiss,6,IVPER,127,A1,,No,TREMONT ST,Part Three,None,773462.0,,2950000.0,2015
+171226,,Tuesday,No,2015-06-30T00:00:00.000,Missing Person Reported,"[-71.130956, 42.259926]",Point,PersMiss,6,IVPER,545,E18,,No,GORDON AVE,Part Three,None,756067.0,,2920000.0,2015

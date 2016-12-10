@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10921,140026875.0,Tuesday,No,2014-01-14T10:23:00.000,PropFound,"[-71.118273, 42.261457]",Point,PropFound,1,LSTPRP,494,E18,Day,No,ARLINGTON AV,Part three,Unarmed,759497.6135,,2920533.2410000004,2014
+69856,140027443.0,Tuesday,No,2014-01-14T14:00:00.000,PropFound,"[-71.050165, 42.339386]",Point,PropFound,1,FDPROP,201,C6,Day,No,D ST,Part three,Unarmed,777784.3285,,2949021.7589999996,2014
+114742,140026782.0,Tuesday,No,2014-01-14T09:00:00.000,PropFound,"[-71.06732, 42.327316]",Point,PropFound,1,FDWEAP,177,C6,Day,No,MASSACHUSETTS AV,Part three,Knife,773168.6514,,2944599.247,2014
+172501,140026512.0,Tuesday,No,2014-01-14T05:05:00.000,PropFound,"[-71.123725, 42.240876]",Point,PropFound,1,IVPREM,524,E18,Last,No,CRANMORE RD,Part three,Unarmed,758055.1318,,2913026.893,2014

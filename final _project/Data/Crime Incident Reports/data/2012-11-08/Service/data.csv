@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65128,120703314.0,Thursday,No,2012-11-08T01:40:00.000,Service,"[-71.07825, 42.335516]",Point,Service,11,AOD   ,271,D4,Last,No,WASHINGTON ST,Part Three,Unarmed,770198.2968,,2947572.668,2012
+69451,120704674.0,Thursday,No,2012-11-08T16:45:00.000,Service,"[-71.060565, 42.361386]",Point,Service,11,TRANSP,72,A1,First,No,SUDBURY ST,Part Three,Unarmed,774931.3031,,2957024.314,2012
+139545,120703312.0,Thursday,No,2012-11-08T01:38:00.000,Service,"[-71.07744, 42.292581]",Point,Service,11,SSTOP ,448,B3,Last,No,NORWELL ST,Part Three,Unarmed,770494.8134,WHEATLAND AV,2931927.542,2012
+145456,120704001.0,Thursday,No,2012-11-08T11:26:00.000,Service,"[-71.138501, 42.353697]",Point,Service,11,ARREST,0,D14,Day,No,N BEACON ST,Part Three,Unarmed,753879.8163,,2954123.421,2012
+239930,120705204.0,Thursday,No,2012-11-08T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,11,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012

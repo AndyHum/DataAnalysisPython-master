@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9345,130266537.0,Sunday,No,2013-05-05T15:41:00.000,MedAssist,"[-71.14243, 42.349389]",Point,MedAssist,5,EDP2  ,784,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2013
+10194,130265788.0,Sunday,No,2013-05-05T04:08:00.000,MedAssist,"[-71.057723, 42.325525]",Point,MedAssist,5,UNK   ,187,C6,Last,No,WASHBURN ST,Part Three,Unarmed,775766.9805,,2943959.744,2013
+47236,130265587.0,Sunday,No,2013-05-05T00:30:00.000,MedAssist,"[-71.038139, 42.348013]",Point,MedAssist,5,ALARMI,207,C6,Last,No,PARK LANE,Part Three,Unarmed,781018.4556,,2952182.833,2013
+52866,130265937.0,Sunday,No,2013-05-05T08:05:00.000,MedAssist,"[-71.065955, 42.291082]",Point,MedAssist,5,REQEP ,397,C11,Day,No,MELBOURNE ST,Part Three,Unarmed,773604.8812,,2931396.827,2013
+87435,130267144.0,Sunday,No,2013-05-05T21:59:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,IVPER ,519,E18,First,No,RIVER ST,Part Three,Unarmed,,WEBBER ST,,2013
+129489,130266932.0,Sunday,No,2013-05-05T19:45:00.000,MedAssist,"[-71.151329, 42.264416]",Point,MedAssist,5,CARST ,822,E5,First,No,RUNNING BROOK RD,Part three,Unarmed,750545.4408,,2921573.278,2013
+158444,130265658.0,Sunday,No,2013-05-05T02:18:00.000,MedAssist,"[-71.06166, 42.364266]",Point,MedAssist,5,UNCONS,75,A1,Last,No,PORTLAND ST,Part Three,Unarmed,774629.9723,,2958072.32,2013
+174108,130266329.0,Sunday,No,2013-05-05T13:28:00.000,MedAssist,"[-71.059287, 42.313485]",Point,MedAssist,5,UNCONS,823,C11,Day,No,PLEASANT ST,Part Three,Unarmed,775366.7701,,2939569.9639999997,2013
+183332,130266380.0,Sunday,No,2013-05-05T13:51:00.000,MedAssist,"[-71.09108, 42.285561]",Point,MedAssist,5,IVPER ,465,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766816.6635,BAIRD ST,2929351.363,2013
+243404,130266419.0,Sunday,No,2013-05-05T14:15:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,IVPER ,223,C6,Day,No,M ST,Part Three,Unarmed,,,,2013
+264716,130291879.0,Sunday,No,2013-05-05T09:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,INJOFF,308,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,,MORA ST,,2013

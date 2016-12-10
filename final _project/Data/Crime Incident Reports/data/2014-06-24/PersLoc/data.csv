@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28151,142002890.0,Tuesday,No,2014-06-24T17:00:00.000,PersLoc,"[-71.121316, 42.260277]",Point,PersLoc,6,IVPER,0,E18,First,No,DELL AV,Other,Unarmed,758675.9698,,2920099.7410000004,2014
+146342,142002515.0,Tuesday,No,2014-06-24T19:00:00.000,PersLoc,"[-71.083303, 42.302514]",Point,PersLoc,6,MISSIN,0,B3,First,No,MICHIGAN AV,Other,Other,768890.6104,,2935539.2180000003,2014
+239305,142002562.0,Tuesday,No,2014-06-24T18:00:00.000,PersLoc,"[-71.134106, 42.349002]",Point,PersLoc,6,IVPER,0,D14,First,No,COMMONWEALTH AV,Other,Unarmed,755074.9875,,2952417.195,2014

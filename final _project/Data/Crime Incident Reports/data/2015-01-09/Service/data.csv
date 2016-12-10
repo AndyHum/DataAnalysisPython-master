@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23908,152002311.0,Friday,No,2015-01-09T11:15:00.000,Service,"[-71.078836, 42.300272]",Point,Service,1,SS,0,B3,Day,No,NORWELL ST,Part three,Unarmed,770103.1274,,2934728.188,2015
+28077,152002462.0,Friday,No,2015-01-09T21:20:00.000,Service,"[-71.084663, 42.335681]",Point,Service,1,IVPER,0,D4,First,No,WARWICK ST,Other,Unarmed,768464.0312,,2947624.3189999997,2015
+49672,152002327.0,Friday,No,2015-01-09T12:15:00.000,Service,"[-71.08121, 42.298426]",Point,Service,1,ARREST,0,B3,Day,No,GLENWAY ST,Part three,Unarmed,769464.3511,,2934052.5160000003,2015
+64130,152002267.0,Friday,No,2015-01-09T08:15:00.000,Service,"[-71.06761, 42.304043]",Point,Service,1,CD11,0,C11,Day,No,SPEEDWELL ST,Part three,Unarmed,773133.0281,,2936117.6139999996,2015
+266949,152002466.0,Friday,No,2015-01-09T22:00:00.000,Service,"[0, 0]",Point,Service,1,AOD,0,E13,First,No,FOREST HILLS ST,Part three,Unarmed,,,,2015

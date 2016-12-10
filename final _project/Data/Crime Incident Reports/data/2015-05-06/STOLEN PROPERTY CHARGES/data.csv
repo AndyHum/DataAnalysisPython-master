@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+692,152037201.0,Wednesday,No,2015-05-06T00:13:00.000,STOLEN PROPERTY CHARGES,"[0, 0]",Point,13xx,5,IVPER,0,C11,Last,No,DORCHESTER AV,Part Two,Unarmed,,GREENWICH ST,,2015
+788,152037207.0,Wednesday,No,2015-05-06T07:00:00.000,STOLEN PROPERTY CHARGES,"[0, 0]",Point,13xx,5,LARCEN,0,B2,Last,No,SEAVER ST,Part Two,Unarmed,,,,2015
+107852,152036995.0,Wednesday,No,2015-05-06T11:35:00.000,STOLEN PROPERTY CHARGES,"[-71.038595, 42.332231]",Point,13xx,5,ARREST,0,C6,Day,No,E 7TH ST,Part Two,Unarmed,780926.4712,,2946431.067,2015

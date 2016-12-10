@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8340,,Thursday,No,2015-07-02T00:00:00.000,Vandalism,"[-71.075478, 42.317439]",Point,14xx,7,VAND,324,B2,,No,DANUBE ST,Part Two,None,770980.0,,2940000.0,2015
+11635,,Thursday,No,2015-07-02T20:30:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,319,B2,,No,MAPLE ST,Part Two,None,,SONOMA ST,,2015
+14512,,Thursday,No,2015-07-02T00:00:00.000,Vandalism,"[-71.119347, 42.262036]",Point,14xx,7,BE,495,E18,,No,ARLINGTON ST,Part Two,None,759206.0,,2920000.0,2015
+100290,,Thursday,No,2015-07-02T00:00:00.000,Vandalism,"[-71.060343, 42.291582]",Point,14xx,7,IVPER,365,C11,,No,SAINT MARKS RD,Part Two,None,775122.0,,2930000.0,2015
+123065,,Thursday,No,2015-07-02T00:00:00.000,Vandalism,"[-71.056244, 42.314317]",Point,14xx,7,LANTEN,248,C11,,No,HALLAM ST,Part Two,None,776188.0,,2940000.0,2015
+160350,,Thursday,No,2015-07-02T18:47:00.000,Vandalism,"[0, 0]",Point,14xx,7,BE,44,A15,,No,TERMINAL ST,Part Two,None,,,,2015
+160351,,Thursday,No,2015-07-02T18:47:00.000,Vandalism,"[0, 0]",Point,14xx,7,BE,44,A15,,No,TERMINAL ST,Part Two,None,,,,2015
+209919,,Thursday,No,2015-07-02T00:00:00.000,Vandalism,"[-71.07761, 42.320944]",Point,14xx,7,VAND,264,B2,,No,BLUE HILL AVE,Part Two,None,770397.0,,2940000.0,2015
+235179,,Thursday,No,2015-07-02T00:00:00.000,Vandalism,"[-71.046184, 42.330863]",Point,14xx,7,,219,C6,,No,COVINGTON ST,Part Two,None,778877.0,,2950000.0,2015

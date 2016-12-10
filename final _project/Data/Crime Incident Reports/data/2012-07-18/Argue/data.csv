@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68977,120442697.0,Wednesday,No,2012-07-18T12:45:00.000,Argue,"[-71.151715, 42.355406]",Point,Argue,7,HARPT ,939,D14,Day,No,FANEUIL ST,Part Three,Unarmed,750305.3484,,2954731.285,2012
+130263,120443275.0,Wednesday,No,2012-07-18T12:00:00.000,Argue,"[-71.15568, 42.262746]",Point,Argue,7,DISTRB,712,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,749370.1869,,2920960.059,2012
+196874,120443714.0,Wednesday,No,2012-07-18T22:02:00.000,Argue,"[-71.066435, 42.320161]",Point,Argue,7,THREAT,184,B2,First,No,GROOM ST,Part Three,Unarmed,773421.2175,,2941993.061,2012
+235297,120442400.0,Wednesday,No,2012-07-18T11:15:00.000,Argue,"[0, 0]",Point,Argue,7,IVPER ,0,B2,Day,No,DORCHESTER ST,Part Three,Unarmed,,,,2012

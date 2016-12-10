@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5448,,Tuesday,No,2015-07-14T00:00:00.000,Property Found,"[-71.076261, 42.350379]",Point,PropFound,7,IVPREM,134,D4,,No,BOYLSTON ST,Part Three,None,770709.0,,2950000.0,2015
+191135,,Tuesday,No,2015-07-14T00:00:00.000,Property Found,"[-71.077487, 42.338983]",Point,PropFound,7,PROP,156,D4,,No,WORCESTER ST,Part Three,None,770398.0,,2950000.0,2015
+244081,,Tuesday,No,2015-07-14T00:00:00.000,Property Found,"[-71.146574, 42.264763]",Point,PropFound,7,IVPREM,822,E5,,No,BOUNDARY RD,Part Three,None,751832.0,,2920000.0,2015

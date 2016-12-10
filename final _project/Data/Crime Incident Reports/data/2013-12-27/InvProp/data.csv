@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38864,130813059.0,Friday,No,2013-12-27T14:48:00.000,InvProp,"[-71.077917, 42.343296]",Point,InvProp,12,IVPREM,150,D4,Day,No,WARREN AV,Part three,Unarmed,770274.0752,,2950408.285,2013
+150132,130813628.0,Friday,No,2013-12-27T20:10:00.000,InvProp,"[-71.13032, 42.235786]",Point,InvProp,12,BEIP  ,527,E18,First,No,CLIFFORD ST,Part three,Unarmed,756277.3771,,2911164.228,2013
+150566,140026845.0,Friday,No,2013-12-27T03:00:00.000,InvProp,"[-71.08411, 42.328726]",Point,InvProp,12,IVPER ,280,B2,Last,No,DUDLEY ST,Part three,Unarmed,768625.9666,,2945090.4910000004,2013
+151954,130812934.0,Friday,No,2013-12-27T13:43:00.000,InvProp,"[-71.126886, 42.237239]",Point,InvProp,12,EDP2  ,525,E18,Day,No,SIERRA RD,Part three,Unarmed,757204.8828,,2911697.675,2013

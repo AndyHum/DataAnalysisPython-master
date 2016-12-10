@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7225,152017083.0,Monday,No,2015-03-02T17:30:00.000,PropLost,"[-71.13636, 42.275376]",Point,PropLost,3,PROP,0,E5,First,No,JUNE ST,Part three,Unarmed,754580.2299,,2925584.311,2015
+7293,152016802.0,Monday,No,2015-03-02T13:28:00.000,PropLost,"[-71.092073, 42.289674]",Point,PropLost,3,LARCEN,0,B3,Day,No,HARVARD ST,Part three,Unarmed,766540.6237,,2930848.814,2015
+45094,152017143.0,Monday,No,2015-03-02T17:50:00.000,PropLost,"[-71.136223, 42.352183]",Point,PropLost,3,PROP,0,D14,First,No,HIGGINS ST,Part three,Unarmed,754497.8571,,2953574.006,2015
+79605,152017266.0,Monday,No,2015-03-02T20:00:00.000,PropLost,"[-71.057916, 42.31733]",Point,PropLost,3,PROP,0,C11,First,No,TAFT ST,Part three,Unarmed,775730.1985,,2940973.03,2015
+141458,152016970.0,Monday,No,2015-03-02T19:30:00.000,PropLost,"[-71.104895, 42.337681]",Point,PropLost,3,IVPER,0,B2,First,No,LONGWOOD AV,Part three,Unarmed,762990.5031,,2948327.137,2015
+263180,152017216.0,Monday,No,2015-03-02T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,B2,First,No,HUNTINGTON AV,Part three,Unarmed,,,,2015
+264877,152020977.0,Monday,No,2015-03-02T07:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,E13,Last,No,WASHINGTON ST,Part three,Unarmed,,,,2015

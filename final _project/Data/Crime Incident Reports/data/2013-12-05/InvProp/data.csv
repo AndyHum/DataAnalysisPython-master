@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43030,130766722.0,Thursday,No,2013-12-05T09:49:00.000,InvProp,"[-71.08584, 42.301001]",Point,InvProp,12,IVPER ,457,B3,Day,No,BLUE HILL AV,Part three,Unarmed,768207.2257,,2934984.769,2013
+53285,130767861.0,Thursday,No,2013-12-05T18:00:00.000,InvProp,"[-71.102818, 42.271878]",Point,InvProp,12,IVPER ,474,B3,First,No,SAVANNAH AV,Part three,Other,763663.5054,,2924349.957,2013
+88174,130785607.0,Thursday,No,2013-12-05T12:30:00.000,InvProp,"[-71.089075, 42.350966]",Point,InvProp,12,BERPT ,139,D4,Day,No,BEACON ST,Part three,Other,767244.3657,,2953188.651,2013
+184720,130767816.0,Thursday,No,2013-12-05T17:46:00.000,InvProp,"[-71.058775, 42.288821]",Point,InvProp,12,SHOTS ,393,C11,First,No,FLORIDA ST,Part three,Unarmed,775551.8668,,2930582.915,2013
+199420,130768361.0,Thursday,No,2013-12-05T22:06:00.000,InvProp,"[-71.066885, 42.276566]",Point,InvProp,12,MEET  ,404,C11,First,No,DORCHESTER AV,Part three,Unarmed,773380.1887,,2926105.7789999996,2013
+212611,130768258.0,Thursday,No,2013-12-05T21:07:00.000,InvProp,"[-71.086268, 42.306073]",Point,InvProp,12,SHOTS ,319,B2,First,No,SEAVER ST,Part three,Other,768082.2584,,2936832.35,2013
+252604,130768225.0,Thursday,No,2013-12-05T20:51:00.000,InvProp,"[-71.07587, 42.328061]",Point,InvProp,12,ALARMC,904,B2,First,No,PRESCOTT ST,Part three,Unarmed,770855.2984,,2944859.126,2013

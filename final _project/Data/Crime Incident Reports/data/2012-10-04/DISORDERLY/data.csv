@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+117035,120623686.0,Thursday,No,2012-10-04T03:24:00.000,DISORDERLY,"[-71.060375, 42.352521]",Point,24xx,10,IVPER ,116,A1,Last,No,ESSEX ST,Part Two,Unarmed,774999.3043,,2953794.002,2012
+165586,120623547.0,Thursday,No,2012-10-04T00:30:00.000,DISORDERLY,"[-71.083146, 42.31248]",Point,24xx,10,DISTRB,321,B2,Last,No,WARREN ST,Part Two,Unarmed,768915.3145,,2939171.46,2012
+248424,120630249.0,Thursday,No,2012-10-04T20:15:00.000,DISORDERLY,"[-71.04206, 42.317766]",Point,24xx,10,IVPER ,256,C6,First,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2012

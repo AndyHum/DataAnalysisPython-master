@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3366,152031623.0,Saturday,No,2015-04-18T10:36:00.000,Argue,"[0, 0]",Point,Argue,4,FIGHT,0,C11,Day,No,GENEVA AV,Part three,Unarmed,,,,2015
+8773,152031715.0,Saturday,No,2015-04-18T16:59:00.000,Argue,"[-71.058945, 42.378816]",Point,Argue,4,DVIP,0,A15,First,No,WALFORD WY,Part three,Unarmed,775336.2862,,2963378.418,2015
+134116,152031737.0,Saturday,No,2015-04-18T17:00:00.000,Argue,"[-71.086098, 42.311308]",Point,Argue,4,IVPER,0,B2,First,No,ELM HILL AV,Part three,Unarmed,768119.0474,,2938740.247,2015
+148765,152031743.0,Saturday,No,2015-04-18T16:54:00.000,Argue,"[-71.05572, 42.352165]",Point,Argue,4,IVPER,0,A1,First,No,ATLANTIC AV,Part three,Other,776258.1643,ESSEX ST,2953670.5760000004,2015
+214698,152031548.0,Saturday,No,2015-04-18T03:05:00.000,Argue,"[-71.075267, 42.272373]",Point,Argue,4,NIDV,0,B3,Last,No,CEDAR ST,Part three,Unarmed,771119.3087,,2924566.3189999997,2015
+267873,152031731.0,Saturday,No,2015-04-18T15:45:00.000,Argue,"[0, 0]",Point,Argue,4,DISTRB,0,E13,Day,No,MINDEN ST,Part three,Unarmed,,,,2015

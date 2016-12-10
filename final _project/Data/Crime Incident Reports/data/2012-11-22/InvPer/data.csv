@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8127,120734873.0,Thursday,No,2012-11-22T12:58:00.000,InvPer,"[-71.08992, 42.283476]",Point,InvPer,11,IVPER ,428,B3,Day,No,LESTON ST,Part Three,Unarmed,767134.1979,,2928593.067,2012
+24359,120759573.0,Thursday,No,2012-11-22T12:00:00.000,InvPer,"[-71.085085, 42.321061]",Point,InvPer,11,IVPER ,297,B2,Day,No,DALE ST,Part Three,Unarmed,768375.911,,2942295.95,2012
+130251,120735132.0,Thursday,No,2012-11-22T17:25:00.000,InvPer,"[-71.061985, 42.378526]",Point,InvPer,11,IVPER ,118,A15,First,No,GREEN ST,Part Three,Unarmed,774515.4525,,2963268.503,2012
+137761,120735343.0,Thursday,No,2012-11-22T22:40:00.000,InvPer,"[-71.117294, 42.259383]",Point,InvPer,11,IVPER ,494,E18,First,No,RIVER ST,Part Three,Unarmed,759766.2593,,2919778.597,2012
+157522,120734530.0,Thursday,No,2012-11-22T04:34:00.000,InvPer,"[-71.07547, 42.346214]",Point,InvPer,11,ABRPT ,149,D4,Last,No,DARTMOUTH ST,Part Three,Unarmed,770930.358,,2951474.633,2012
+212244,120735303.0,Thursday,No,2012-11-22T21:43:00.000,InvPer,"[-71.001283, 42.385595]",Point,InvPer,11,DISTRB,5,A7,First,No,BARNES AV,Part Three,Unarmed,790901.2403,,2965934.565,2012
+230156,120735287.0,Thursday,No,2012-11-22T21:11:00.000,InvPer,"[-71.080478, 42.293076]",Point,InvPer,11,IVPER ,442,B3,First,No,HELEN ST,Part Three,Other,769671.7444,,2932103.7410000004,2012

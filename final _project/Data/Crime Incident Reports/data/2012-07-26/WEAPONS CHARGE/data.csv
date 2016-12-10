@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16077,120461988.0,Thursday,No,2012-07-26T18:29:00.000,WEAPONS CHARGE,"[-71.008841, 42.385972]",Point,15xx,7,ARREST,0,A7,First,No,BENNINGTON ST,Part Two,Other,788858.6962,,2966060.0089999996,2012
+109951,120460497.0,Thursday,No,2012-07-26T02:32:00.000,WEAPONS CHARGE,"[-71.082049, 42.294765]",Point,15xx,7,ARREST,441,B3,Last,No,KINGSDALE ST,Part Two,Firearm,769243.8945,,2932717.086,2012
+230272,120462480.0,Thursday,No,2012-07-26T22:21:00.000,WEAPONS CHARGE,"[-71.071643, 42.290556]",Point,15xx,7,IVPER ,449,C11,First,No,WASHINGTON ST,Part Two,Firearm,772066.839,TALBOT AV,2931197.369,2012

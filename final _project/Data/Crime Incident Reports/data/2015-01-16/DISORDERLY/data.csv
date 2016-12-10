@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11468,152004362.0,Friday,No,2015-01-16T17:11:00.000,DISORDERLY,"[-71.064346, 42.353072]",Point,24xx,1,IVPER,0,A1,First,No,TREMONT ST,Part Two,Other,773924.729,,2953989.2660000003,2015
+150064,152004101.0,Friday,No,2015-01-16T04:45:00.000,DISORDERLY,"[-71.06768, 42.300426]",Point,24xx,1,DISTRB,0,C11,Last,No,IOWA ST,Part Two,Other,773120.9707,,2934799.607,2015
+166614,152004072.0,Friday,No,2015-01-16T00:51:00.000,DISORDERLY,"[-71.05728, 42.361701]",Point,24xx,1,REQP,0,A1,Last,No,UNION ST,Part Two,Unarmed,775818.5251,HANOVER ST,2957143.695,2015
+262459,152005232.0,Friday,No,2015-01-16T01:20:00.000,DISORDERLY,"[0, 0]",Point,24xx,1,FIGHT,0,E13,Last,No,MCBRIDE ST,Part Two,Unarmed,,WASHINGTON ST,,2015
+263762,152004077.0,Friday,No,2015-01-16T01:37:00.000,DISORDERLY,"[0, 0]",Point,24xx,1,FIGHT,0,D14,Last,No,BEACON ST,Part Two,Unarmed,,,,2015

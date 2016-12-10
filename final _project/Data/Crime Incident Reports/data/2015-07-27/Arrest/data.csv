@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55713,,Monday,No,2015-07-27T00:00:00.000,Warrant Arrests,"[-71.111243, 42.321]",Point,Arrest,7,ARREST,634,E13,,No,BARBARA ST,Part Three,None,761302.0,,2940000.0,2015
+178125,,Monday,No,2015-07-27T18:22:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,319,B2,,No,MAPLE ST,Part Three,None,,WAYNE ST,,2015
+182780,,Monday,No,2015-07-27T00:00:00.000,Warrant Arrests,"[-71.051758, 42.297943]",Point,Arrest,7,CD11,253,C11,,No,MILL ST,Part Three,None,777433.0,,2930000.0,2015
+247042,,Monday,No,2015-07-27T09:05:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,0,,,No,,Part Three,None,,MASSACHUSETTS AVE,,2015

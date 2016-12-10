@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19391,130024853.0,Saturday,No,2013-01-12T18:23:00.000,MVAcc,"[-71.15815, 42.280651]",Point,MVAcc,1,MVAINJ,703,E5,First,No,CENTRE ST,Part Three,Unarmed,748675.441,LAGRANGE ST,2927482.2139999997,2013
+24984,130023538.0,Saturday,No,2013-01-12T01:57:00.000,MVAcc,"[-71.05537, 42.288221]",Point,MVAcc,1,MVA   ,393,C11,Last,No,ADAMS ST,Part Three,Unarmed,776474.3102,ASHMONT ST,2930369.0510000004,2013
+79927,130023689.0,Saturday,No,2013-01-12T03:50:00.000,MVAcc,"[-71.064089, 42.309113]",Point,MVAcc,1,MVAINJ,334,C11,Last,No,BOWDOIN ST,Part Three,Other,774076.1526,,2937969.9289999995,2013
+210831,130023876.0,Saturday,No,2013-01-12T08:25:00.000,MVAcc,"[-71.05497, 42.285571]",Point,MVAcc,1,MVANO ,392,C11,Day,No,ADAMS ST,Part Three,Unarmed,776587.5794,BEAUMONT ST,2929403.9189999998,2013
+258023,130024794.0,Saturday,No,2013-01-12T17:49:00.000,MVAcc,"[-71.0977, 42.316381]",Point,MVAcc,1,MVAINJ,307,E13,First,No,WASHINGTON ST,Part Three,Unarmed,764972.3955,WALNUT PK,2940574.135,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103746,120625833.0,Thursday,No,2012-10-04T08:00:00.000,PersLoc,"[-71.143891, 42.345952]",Point,PersLoc,10,MISPER,938,D14,Day,No,FIDELIS WY,Part Three,Unarmed,752434.4823,,2951294.5710000005,2012
+182596,120625162.0,Thursday,No,2012-10-04T16:20:00.000,PersLoc,"[-71.157932, 42.281608]",Point,PersLoc,10,MSNCOM,703,E5,First,No,CENTRE ST,Part Three,Unarmed,748732.9867,,2927830.9889999996,2012
+183616,120625711.0,Thursday,No,2012-10-04T08:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,10,MISPER,446,B3,Day,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2012
+186914,120654623.0,Thursday,No,2012-10-04T07:00:00.000,PersLoc,"[-71.11747, 42.293702]",Point,PersLoc,10,MISPER,508,E13,Last,No,HYDE PARK AV,Part Three,Unarmed,759662.395,,2932284.793,2012

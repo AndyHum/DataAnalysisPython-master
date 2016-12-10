@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37991,130470243.0,Sunday,No,2013-07-28T01:00:00.000,InvProp,"[-71.03528, 42.332716]",Point,InvProp,7,BERPTA,230,C6,Last,No,L ST,Part three,Other,781821.8448,,2946612.673,2013
+61700,130470577.0,Sunday,No,2013-07-28T22:59:00.000,InvProp,"[0, 0]",Point,InvProp,7,FIREB ,179,B2,First,No,KEMBLE ST,Part three,Unarmed,,,,2013
+92986,130468958.0,Sunday,No,2013-07-28T04:37:00.000,InvProp,"[-71.03988, 42.332786]",Point,InvProp,7,IVPREM,230,C6,Last,No,I ST,Part three,Unarmed,780577.9312,,2946631.439,2013
+101920,130468896.0,Sunday,No,2013-07-28T03:31:00.000,InvProp,"[-71.13117, 42.353511]",Point,InvProp,7,SHOTS ,801,D14,Last,No,GARDNER ST,Part three,Unarmed,755861.689,,2954064.091,2013
+136338,130468632.0,Sunday,No,2013-07-28T01:07:00.000,InvProp,"[-71.140718, 42.255717]",Point,InvProp,7,SHOTS ,537,E18,Last,No,KOVEY RD,Part three,Unarmed,753430.9094,,2918415.2989999996,2013
+180415,130470544.0,Sunday,No,2013-07-28T21:00:00.000,InvProp,"[-71.130405, 42.348991]",Point,InvProp,7,INVEST,793,D14,First,No,BRAINERD RD,Part three,Unarmed,756075.6052,,2952417.8060000003,2013
+225431,130471726.0,Sunday,No,2013-07-28T16:00:00.000,InvProp,"[-71.07697, 42.349231]",Point,InvProp,7,IVPREM,130,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770519.5901,ST JAMES AV,2952572.3789999997,2013
+226877,130470139.0,Sunday,No,2013-07-28T19:02:00.000,InvProp,"[-71.078225, 42.295106]",Point,InvProp,7,IVPREM,447,B3,First,No,NORWELL ST,Part three,Unarmed,770277.8757,,2932846.637,2013

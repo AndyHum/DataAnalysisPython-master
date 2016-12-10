@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11242,130685206.0,Sunday,No,2013-10-27T20:00:00.000,PropLost,"[-71.15981, 42.348876]",Point,PropLost,10,LSTPRP,762,D14,First,No,WASHINGTON AV,Part three,Unarmed,748127.0411,,2952342.825,2013
+53559,130698330.0,Sunday,No,2013-10-27T06:30:00.000,PropLost,"[-71.066382, 42.37698]",Point,PropLost,10,LSTPRP,55,A15,Last,No,MAIN ST,Part three,Unarmed,773330.2338,,2962698.857,2013
+119043,130691152.0,Sunday,No,2013-10-27T11:30:00.000,PropLost,"[-71.106823, 42.339255]",Point,PropLost,10,IVPER ,614,B2,Day,No,BROOKLINE AV,Part three,Other,762466.4632,,2948898.37,2013
+141698,130693697.0,Sunday,No,2013-10-27T17:00:00.000,PropLost,"[-71.120811, 42.242465]",Point,PropLost,10,LSTPRP,940,E18,First,No,GARFIELD AV,Part three,Unarmed,758841.5183,,2913609.127,2013
+190861,130684928.0,Sunday,No,2013-10-27T12:00:00.000,PropLost,"[-71.071014, 42.303664]",Point,PropLost,10,LARCRT,337,C11,Day,No,BOWDOIN ST,Part three,Unarmed,772212.9014,,2935974.8819999998,2013

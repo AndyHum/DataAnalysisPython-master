@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44785,120681039.0,Sunday,No,2012-10-28T10:30:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,10,MISPER,256,C6,Day,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012
+81223,120678960.0,Sunday,No,2012-10-28T00:39:00.000,PersLoc,"[-71.065955, 42.291082]",Point,PersLoc,10,CURFEW,396,C11,Last,No,MELBOURNE ST,Part Three,Unarmed,773604.8812,,2931396.827,2012
+119098,120679503.0,Sunday,No,2012-10-28T04:15:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,10,MISPER,256,C6,Last,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012
+182588,120678800.0,Sunday,No,2012-10-28T00:42:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,10,MISPER,446,B3,Last,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2012
+212828,120681078.0,Sunday,No,2012-10-28T13:00:00.000,PersLoc,"[-71.07887, 42.293211]",Point,PersLoc,10,MISPER,465,B3,Day,No,WESTCOTT ST,Part Three,Unarmed,770106.7826,,2932155.209,2012

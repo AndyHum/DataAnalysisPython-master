@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65974,120585157.0,Tuesday,No,2012-09-18T07:15:00.000,Arrest,"[-71.054711, 42.341305]",Point,Arrest,9,ARREST,200,C6,Last,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2012
+121627,120415676.0,Tuesday,No,2012-09-18T11:00:00.000,Arrest,"[-71.092001, 42.278561]",Point,Arrest,9,ARREST,111,B3,Day,No,FESSENDEN ST,Part Three,Unarmed,766579.5337,,2926799.047,2012
+150942,120585247.0,Tuesday,No,2012-09-18T08:10:00.000,Arrest,"[-71.061552, 42.311798]",Point,Arrest,9,CD11  ,257,C11,Day,No,DOWNER AV,Part Three,Unarmed,774757.225,,2938952.006,2012

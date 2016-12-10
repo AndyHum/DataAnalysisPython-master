@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7119,,Sunday,No,2015-07-26T00:00:00.000,Drug Violation,"[-70.996769, 42.390271]",Point,18xx,7,ARREST,1,A7,,No,BENNINGTON ST,Part Two,None,792111.0,,2970000.0,2015
+35352,,Sunday,No,2015-07-26T00:00:00.000,Drug Violation,"[-71.130906, 42.355401]",Point,18xx,7,I00015,801,D14,,No,LINDEN ST,Part Two,None,755930.0,,2950000.0,2015
+91336,,Sunday,No,2015-07-26T20:57:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,0,,,No,,Part Two,None,,NORTHERN AVE,,2015
+169162,,Sunday,No,2015-07-26T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,7,ADMRPT,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+200234,,Sunday,No,2015-07-26T17:00:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ADMRPT,318,B2,,No,BROOKLEDGE ST,Part Two,None,,HUMBOLDT AVE,,2015

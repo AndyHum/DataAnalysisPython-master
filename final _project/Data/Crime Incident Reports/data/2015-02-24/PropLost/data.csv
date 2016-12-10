@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+209200,152017390.0,Tuesday,No,2015-02-24T18:27:00.000,PropLost,"[-71.08878, 42.348881]",Point,PropLost,2,PROP,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,767327.7704,,2952429.2210000004,2015
+220175,152014939.0,Tuesday,No,2015-02-24T11:30:00.000,PropLost,"[-71.088405, 42.334926]",Point,PropLost,2,IVPREM,0,B2,Day,No,TREMONT ST,Part three,Unarmed,767453.6793,,2947344.248,2015
+265866,152019941.0,Tuesday,No,2015-02-24T00:01:00.000,PropLost,"[0, 0]",Point,PropLost,2,CD19,0,B2,Last,No,JONES AV,Part three,Unarmed,,,,2015
+266658,152022201.0,Tuesday,No,2015-02-24T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015

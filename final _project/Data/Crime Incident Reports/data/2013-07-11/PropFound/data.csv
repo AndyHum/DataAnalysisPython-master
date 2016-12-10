@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29649,130427747.0,Thursday,No,2013-07-11T13:45:00.000,PropFound,"[-71.07078, 42.359871]",Point,PropFound,7,IVPREM,66,A1,Day,No,CHARLES ST,Part three,Unarmed,772173.3348,,2956458.16,2013
+124133,130427522.0,Thursday,No,2013-07-11T12:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,7,FDPROP,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2013
+182843,130432255.0,Thursday,No,2013-07-11T07:00:00.000,PropFound,"[-71.11439, 42.301901]",Point,PropFound,7,FDPROP,651,E13,Last,No,NEW WASHINGTON ST,Part three,Unarmed,760482.3248,SOUTH ST,2935276.5360000003,2013
+248079,130427519.0,Thursday,No,2013-07-11T12:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,7,FDPROP,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2013

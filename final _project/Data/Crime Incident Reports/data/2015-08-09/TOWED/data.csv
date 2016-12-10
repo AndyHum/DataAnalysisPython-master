@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26167,,Sunday,No,2015-08-09T00:00:00.000,Towed,"[-71.089311, 42.310269]",Point,Towed,8,IVMV,318,B2,,No,HUTCHINGS ST,Part Three,None,767252.0,,2940000.0,2015
+165362,,Sunday,No,2015-08-09T16:22:00.000,Towed,"[0, 0]",Point,Towed,8,IVMV,134,D4,,No,BOYLSTON ST,Part Three,None,,CLARENDON ST,,2015
+199831,,Sunday,No,2015-08-09T00:00:00.000,Towed,"[-71.074522, 42.351762]",Point,Towed,8,IVPER,134,D4,,No,NEWBURY ST,Part Three,None,771177.0,,2950000.0,2015

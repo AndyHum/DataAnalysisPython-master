@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52658,152000806.0,Saturday,No,2015-01-03T19:22:00.000,InvPer,"[-71.09384, 42.267876]",Point,InvPer,1,UNKEMS,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766100.5271,,2922903.1380000003,2015
+148546,152000707.0,Saturday,No,2015-01-03T11:45:00.000,InvPer,"[-71.091325, 42.284861]",Point,InvPer,1,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+193874,152000649.0,Saturday,No,2015-01-03T03:30:00.000,InvPer,"[-71.06293, 42.351166]",Point,InvPer,1,DISTRB,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2015
+209559,152000842.0,Saturday,No,2015-01-03T22:54:00.000,InvPer,"[-71.085618, 42.32866]",Point,InvPer,1,PRIOR,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+261936,152000706.0,Saturday,No,2015-01-03T08:00:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPER,0,C11,Day,No,COLUMBIA TR,Part three,Unarmed,,,,2015
+266143,152000647.0,Saturday,No,2015-01-03T02:46:00.000,InvPer,"[0, 0]",Point,InvPer,1,AB,0,A1,Last,No,STATE ST,Part three,Unarmed,,,,2015

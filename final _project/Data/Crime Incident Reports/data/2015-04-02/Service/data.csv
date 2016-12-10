@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76247,152027162.0,Thursday,No,2015-04-02T14:28:00.000,Service,"[-71.172333, 42.289233]",Point,Service,4,PROP,0,E5,Day,No,BAKER ST,Part three,Unarmed,744825.3226,,2930594.3660000004,2015
+191907,152026826.0,Thursday,No,2015-04-02T18:35:00.000,Service,"[-71.061495, 42.356911]",Point,Service,4,ARREST,0,A1,First,No,TREMONT ST,Part three,Other,774688.3413,,2955392.2430000002,2015
+267187,152026659.0,Thursday,No,2015-04-02T11:45:00.000,Service,"[0, 0]",Point,Service,4,IVPER,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14213,120508077.0,Wednesday,No,2012-08-15T19:25:00.000,Service,"[-71.066245, 42.289241]",Point,Service,8,CD11  ,397,C11,First,No,WELLES AV,Part Three,Unarmed,773529.9007,,2930725.602,2012
+55563,120506677.0,Wednesday,No,2012-08-15T06:47:00.000,Service,"[-71.08503, 42.309771]",Point,Service,8,CD11  ,320,B2,Last,No,MAPLE ST,Part Three,Unarmed,768410.8001,,2938181.76,2012
+120352,120507345.0,Wednesday,No,2012-08-15T13:00:00.000,Service,"[-71.087725, 42.323156]",Point,Service,8,VICDOG,299,B2,Day,No,REGENT ST,Part Three,Unarmed,767658.2674,,2943055.941,2012
+238408,120508328.0,Wednesday,No,2012-08-15T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+257459,120507658.0,Wednesday,No,2012-08-15T15:52:00.000,Service,"[-71.07946, 42.329651]",Point,Service,8,ARREST,278,B2,Day,No,ALBANY ST,Part Three,Unarmed,769881.682,EUSTIS ST,2945433.742,2012
+263115,120508204.0,Wednesday,No,2012-08-15T18:45:00.000,Service,"[0, 0]",Point,Service,8,IVDRUG,69,A1,First,No,CHARLES ST S,Part Three,Unarmed,,,,2012

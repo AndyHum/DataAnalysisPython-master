@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53299,120725613.0,Saturday,No,2012-11-17T00:47:00.000,InvProp,"[-71.05835, 42.294611]",Point,InvProp,11,SHOTS ,355,C11,Last,No,LESLIE ST,Part Three,Firearm,775655.9351,CENTRE ST,2932693.4680000003,2012
+84869,120723783.0,Saturday,No,2012-11-17T00:00:00.000,InvProp,"[-71.04623, 42.333581]",Point,InvProp,11,STOLMV,220,C6,Last,No,THOMAS PARK,Part Three,Unarmed,778859.4399,ATLANTIC ST,2946911.9510000004,2012
+129886,120723696.0,Saturday,No,2012-11-17T03:59:00.000,InvProp,"[-71.070689, 42.318046]",Point,InvProp,11,IVPREM,260,B2,Last,No,WOODFORD ST,Part Three,Unarmed,772274.6473,,2941216.4489999996,2012
+149158,120723472.0,Saturday,No,2012-11-17T01:30:00.000,InvProp,"[-71.170913, 42.281354]",Point,InvProp,11,ALARMC,727,E5,Last,No,VFW PY,Part Three,Other,745220.4708,,2927724.6489999997,2012
+247184,120728048.0,Saturday,No,2012-11-17T08:00:00.000,InvProp,"[-71.077325, 42.351931]",Point,InvProp,11,IVPREM,133,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,770418.7508,,2953555.837,2012

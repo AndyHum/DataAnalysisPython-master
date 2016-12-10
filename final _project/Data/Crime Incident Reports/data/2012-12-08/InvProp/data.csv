@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54091,120770019.0,Saturday,No,2012-12-08T22:09:00.000,InvProp,"[-71.08064, 42.296921]",Point,InvProp,12,SHOTS ,444,B3,First,No,GLENWAY ST,Part Three,Firearm,769621.252,,2933504.829,2012
+174092,120769596.0,Saturday,No,2012-12-08T17:58:00.000,InvProp,"[-71.10966, 42.320276]",Point,InvProp,12,NOISE ,636,E13,First,No,PAUL GORE ST,Part Three,Unarmed,761731.2359999999,,2941978.5110000004,2012
+180273,120775242.0,Saturday,No,2012-12-08T14:08:00.000,InvProp,"[-71.07805, 42.321431]",Point,InvProp,12,LSTPRP,265,B2,Day,No,IRWIN AV,Part Three,Other,770277.7651,,2942440.117,2012

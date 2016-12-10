@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92010,130257411.0,Wednesday,No,2013-05-01T16:49:00.000,STOLEN PROPERTY CHARGES,"[-71.07633, 42.297221]",Point,13xx,5,IVPER ,446,B3,First,No,HARVARD ST,Part Two,Unarmed,770786.7344,THANE ST,2933619.915,2013
+172217,130256241.0,Wednesday,No,2013-05-01T08:19:00.000,STOLEN PROPERTY CHARGES,"[-71.061285, 42.301826]",Point,13xx,5,IVMV  ,345,C11,Day,No,ARCADIA ST,Part Two,Unarmed,774848.3502,,2935318.622,2013
+229322,130256770.0,Wednesday,No,2013-05-01T15:10:00.000,STOLEN PROPERTY CHARGES,"[-71.102615, 42.274451]",Point,13xx,5,IVMV  ,474,B3,Day,No,COLORADO ST,Part Two,Unarmed,763714.2865,,2925287.97,2013

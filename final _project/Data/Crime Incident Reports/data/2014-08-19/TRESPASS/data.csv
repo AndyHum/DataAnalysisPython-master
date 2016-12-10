@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30315,142020831.0,Tuesday,No,2014-08-19T12:30:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,8,ARREST,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014
+46411,142021018.0,Tuesday,No,2014-08-19T21:37:00.000,TRESPASS,"[-71.10053, 42.344691]",Point,TRESPASS,8,IVPER,0,D4,First,No,VAN NESS ST,Part Two,Unarmed,764158.6864,KILMARNOCK ST,2950887.21,2014
+180800,142021009.0,Tuesday,No,2014-08-19T18:00:00.000,TRESPASS,"[-71.077661, 42.330753]",Point,TRESPASS,8,IVPREM,0,B2,First,No,ALBANY ST,Part Two,Unarmed,770366.1347,,2945837.597,2014

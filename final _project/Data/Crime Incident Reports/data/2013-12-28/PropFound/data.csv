@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121902,130814467.0,Saturday,No,2013-12-28T08:45:00.000,PropFound,"[-71.15612, 42.349091]",Point,PropFound,12,FDPROP,763,D14,Day,No,WASHINGTON ST,Part three,Unarmed,749124.2284,,2952425.175,2013
+122611,130814463.0,Saturday,No,2013-12-28T08:30:00.000,PropFound,"[-71.159685, 42.355001]",Point,PropFound,12,FDPROP,766,D14,Day,No,HOBART ST,Part three,Unarmed,748151.9534,,2954575.04,2013
+177945,130815426.0,Saturday,No,2013-12-28T18:00:00.000,PropFound,"[-71.12412, 42.255821]",Point,PropFound,12,INVEST,521,E18,First,No,RIVER ST,Part three,Unarmed,757924.1751,HYDE PARK AV,2918472.564,2013

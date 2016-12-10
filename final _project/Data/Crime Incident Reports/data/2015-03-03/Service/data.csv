@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41401,152017024.0,Tuesday,No,2015-03-03T02:23:00.000,Service,"[-71.061235, 42.310371]",Point,Service,3,DISTRB,0,C11,Last,No,HANCOCK ST,Part three,Other,774845.858,,2938432.619,2015
+61143,152017229.0,Tuesday,No,2015-03-03T18:30:00.000,Service,"[-71.033025, 42.377876]",Point,Service,3,ARREST,0,A7,First,No,SARATOGA ST,Part three,Unarmed,782341.4644,,2963073.142,2015
+146091,152017183.0,Tuesday,No,2015-03-03T16:00:00.000,Service,"[-71.158158, 42.280857]",Point,Service,3,ARREST,0,E5,First,No,CENTRE ST,Part three,Other,748672.8018,LAGRANGE ST,2927557.187,2015
+193612,152017274.0,Tuesday,No,2015-03-03T21:00:00.000,Service,"[-71.063902, 42.358422]",Point,Service,3,CD11,0,A1,First,No,MT VERNON ST,Part three,Unarmed,774034.7809,,2955939.334,2015
+216902,152017107.0,Tuesday,No,2015-03-03T12:10:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+241811,152017043.0,Tuesday,No,2015-03-03T08:51:00.000,Service,"[-71.061434, 42.300547]",Point,Service,3,IVPER,0,C11,Day,No,CHARLES ST,Part three,Unarmed,774810.2974,,2934852.3389999997,2015

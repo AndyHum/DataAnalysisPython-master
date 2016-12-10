@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25412,120655147.0,Tuesday,No,2012-10-16T21:00:00.000,PersLoc,"[-71.07188, 42.348846]",Point,PersLoc,10,MISPER,563,D4,First,No,BERKELEY ST,Part Three,Unarmed,771896.2029,,2952438.943,2012
+234077,120653366.0,Tuesday,No,2012-10-16T07:40:00.000,PersLoc,"[-71.039735, 42.371386]",Point,PersLoc,10,MISPER,26,A7,Day,No,HAVRE ST,Part Three,Unarmed,780541.2312,,2960698.1989999996,2012
+243181,120652398.0,Tuesday,No,2012-10-16T16:45:00.000,PersLoc,"[-71.07422, 42.324131]",Point,PersLoc,10,MSNCOM,182,B2,First,No,DUDLEY ST,Part Three,Unarmed,771308.6192,CLARENCE ST,2943429.189,2012

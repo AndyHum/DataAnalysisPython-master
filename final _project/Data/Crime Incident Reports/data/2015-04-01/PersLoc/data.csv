@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76726,152026566.0,Wednesday,No,2015-04-01T10:57:00.000,PersLoc,"[-71.092001, 42.278561]",Point,PersLoc,4,IVPER,0,B3,Day,No,FESSENDEN ST,Other,Unarmed,766579.5337,,2926799.047,2015
+228545,152026565.0,Wednesday,No,2015-04-01T10:57:00.000,PersLoc,"[-71.092001, 42.278561]",Point,PersLoc,4,MISSIN,0,B3,Day,No,FESSENDEN ST,Other,Unarmed,766579.5337,,2926799.047,2015
+249661,152026860.0,Wednesday,No,2015-04-01T20:30:00.000,PersLoc,"[-71.073304, 42.292786]",Point,PersLoc,4,MISSIN,0,B3,First,No,DUNLAP ST,Other,Unarmed,771613.2261,,2932007.611,2015

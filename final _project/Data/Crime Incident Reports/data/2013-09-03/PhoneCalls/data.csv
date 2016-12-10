@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27820,130557944.0,Tuesday,No,2013-09-03T11:42:00.000,PhoneCalls,"[-71.04974, 42.330836]",Point,PhoneCalls,9,LARCRT,915,C6,Day,No,MERCER ST,Part three,Unarmed,777915.6777,,2945906.598,2013
+44020,130669821.0,Tuesday,No,2013-09-03T12:00:00.000,PhoneCalls,"[-71.12532, 42.251951]",Point,PhoneCalls,9,THREAT,522,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757605.5093,,2917060.857,2013
+89062,130578496.0,Tuesday,No,2013-09-03T16:00:00.000,PhoneCalls,"[-71.090905, 42.289722]",Point,PhoneCalls,9,THREAT,464,B3,First,No,FABYAN ST,Part three,Unarmed,766856.5725,,2930867.615,2013
+160717,130557569.0,Tuesday,No,2013-09-03T07:19:00.000,PhoneCalls,"[-71.07837, 42.337556]",Point,PhoneCalls,9,INVCHD,273,D4,Last,No,MASSACHUSETTS AV,Part three,Other,770162.1788,,2948315.92,2013

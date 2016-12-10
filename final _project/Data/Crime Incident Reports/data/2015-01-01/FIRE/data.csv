@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+232720,152000130.0,Thursday,No,2015-01-01T07:58:00.000,FIRE,"[-71.095325, 42.322566]",Point,FIRE,1,FO,0,B2,Day,No,MARCELLA ST,Part three,Other,765604.037,,2942831.0930000003,2015
+260824,152000182.0,Thursday,No,2015-01-01T10:57:00.000,FIRE,"[0, 0]",Point,FIRE,1,FIRE,0,D14,Day,No,FOSTER ST,Part three,Other,,,,2015
+262220,152000449.0,Thursday,No,2015-01-01T02:00:00.000,FIRE,"[0, 0]",Point,FIRE,1,FIRE,0,C6,Last,No,WASHBURN ST,Part three,Other,,,,2015
+263623,152000075.0,Thursday,No,2015-01-01T02:25:00.000,FIRE,"[0, 0]",Point,FIRE,1,FIRE,0,C6,Last,No,DORCHESTER AV,Part three,Other,,,,2015

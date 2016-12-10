@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13913,152045260.0,Monday,No,2015-06-01T00:00:00.000,InvProp,"[-71.058945, 42.323216]",Point,InvProp,6,LARCEN,0,C6,Last,No,HARVEST ST,Part three,Unarmed,775441.0593,,2943116.74,2015
+26736,152045392.0,Monday,No,2015-06-01T21:12:00.000,InvProp,"[-71.09182, 42.310231]",Point,InvProp,6,IVPREM,0,B2,First,No,HUMBOLDT AV,Part three,Other,766573.4054,,2938340.53,2015
+46920,152045187.0,Monday,No,2015-06-01T10:58:00.000,InvProp,"[-71.052652, 42.366648]",Point,InvProp,6,REQP,0,A1,Day,No,HANOVER ST,Part three,Unarmed,777059.7148,,2958952.9489999996,2015
+59382,152045121.0,Monday,No,2015-06-01T04:34:00.000,InvProp,"[-71.148325, 42.354401]",Point,InvProp,6,IVPER,0,D14,Last,No,GLENCOE ST,Part three,Unarmed,751223.3771,,2954368.84,2015
+116915,152045172.0,Monday,No,2015-06-01T10:15:00.000,InvProp,"[-71.056445, 42.354941]",Point,InvProp,6,SUSOBJ,0,A1,Day,No,FEDERAL ST,Part three,Unarmed,776057.0056,,2954681.191,2015
+175748,152045257.0,Monday,No,2015-06-01T14:37:00.000,InvProp,"[-71.05385, 42.337311]",Point,InvProp,6,IVPREM,0,C6,Day,No,ORTON MAROTTA WY,Part three,Unarmed,776792.0166,,2948260.361,2015
+204725,152045406.0,Monday,No,2015-06-01T22:44:00.000,InvProp,"[-71.062411, 42.310968]",Point,InvProp,6,SHOTS,0,C11,First,No,HANCOCK ST,Part three,Unarmed,774526.4538,BOWDOIN ST,2938648.4469999997,2015

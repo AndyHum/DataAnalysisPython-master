@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116196,130786943.0,Friday,No,2013-12-13T23:30:00.000,PropFound,"[-71.076185, 42.349481]",Point,PropFound,12,LARCRT,130,D4,First,No,ST JAMES AV,Part three,Unarmed,770731.3351,,2952664.538,2013
+233328,130786852.0,Friday,No,2013-12-13T12:00:00.000,PropFound,"[-71.154289, 42.28644]",Point,PropFound,12,FDPROP,695,E5,Day,No,CENTRE ST,Part three,Unarmed,749711.5888,,2929595.788,2013
+250460,130785425.0,Friday,No,2013-12-13T17:08:00.000,PropFound,"[-71.07367, 42.344506]",Point,PropFound,12,IVPREM,150,D4,First,No,WARREN AV,Part three,Unarmed,771420.2386,,2950854.9439999997,2013
+262998,130785456.0,Friday,No,2013-12-13T17:00:00.000,PropFound,"[0, 0]",Point,PropFound,12,FDPROP,79,A1,First,No,THACHER ST,Part three,Unarmed,,,,2013
+264555,130785648.0,Friday,No,2013-12-13T18:58:00.000,PropFound,"[0, 0]",Point,PropFound,12,FDPROP,0,C6,First,No,SOUTHAMPTON ST,Part three,Unarmed,,ALLSTATE RD,,2013

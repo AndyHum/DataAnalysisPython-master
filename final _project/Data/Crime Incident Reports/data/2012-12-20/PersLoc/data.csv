@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33220,120798972.0,Thursday,No,2012-12-20T17:30:00.000,PersLoc,"[-71.072298, 42.304718]",Point,PersLoc,12,MISPER,348,C11,First,No,EVERTON ST,Part Three,Unarmed,771863.6868,,2936357.135,2012
+111478,120799869.0,Thursday,No,2012-12-20T04:30:00.000,PersLoc,"[-71.112634, 42.316692]",Point,PersLoc,12,MSNCOM,639,E13,Last,No,ROBINWOOD AV,Part Three,Unarmed,760932.8212,,2940668.6760000004,2012
+233545,120798795.0,Thursday,No,2012-12-20T07:30:00.000,PersLoc,"[-71.09132, 42.310841]",Point,PersLoc,12,MISPER,316,B2,Day,No,HUMBOLDT AV,Part Three,Unarmed,766707.582,,2938563.4710000004,2012

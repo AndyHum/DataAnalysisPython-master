@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86229,130376525.0,Thursday,No,2013-06-20T17:14:00.000,Arrest,"[-71.090893, 42.321142]",Point,Arrest,6,ARREST,309,B2,First,No,MARTIN LUTHER KING BLVD,Part three,Other,766804.8797,,2942317.77,2013
+150801,130376874.0,Thursday,No,2013-06-20T18:55:00.000,Arrest,"[-71.086274, 42.340541]",Point,Arrest,6,ARREST,283,D4,First,No,ST BOTOLPH ST,Part three,Unarmed,768019.9121,HUNTINGTON AV,2949392.937,2013
+151192,130375628.0,Thursday,No,2013-06-20T10:28:00.000,Arrest,"[-71.066745, 42.303426]",Point,Arrest,6,IVPER ,345,C11,Day,No,HOLMES ST,Part three,Unarmed,773368.3558,,2935894.139,2013

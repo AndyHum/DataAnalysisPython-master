@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23219,130148248.0,Wednesday,No,2013-03-13T02:21:00.000,Service,"[-71.148398, 42.270909]",Point,Service,3,ARREST,706,E5,Last,No,MAPLEWOOD ST,Part Three,Unarmed,751329.0261,,2923942.58,2013
+53825,130149191.0,Wednesday,No,2013-03-13T14:40:00.000,Service,"[-71.06281, 42.351461]",Point,Service,3,ARREST,117,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774343.0987,LAGRANGE ST,2953404.334,2013
+58437,130148746.0,Wednesday,No,2013-03-13T10:23:00.000,Service,"[-71.08974, 42.289761]",Point,Service,3,SSTOP ,464,B3,Day,No,GREENOCK ST,Part Three,Unarmed,767171.8905,BLUE HILL AV,2930883.646,2013
+78431,130148982.0,Wednesday,No,2013-03-13T12:09:00.000,Service,"[-71.05457, 42.282801]",Point,Service,3,ARREST,379,C11,Day,No,GALLIVAN BL,Part Three,Unarmed,776701.0863,ADAMS ST,2928395.059,2013
+189242,130149596.0,Wednesday,No,2013-03-13T15:30:00.000,Service,"[-71.13885, 42.353021]",Point,Service,3,IVPER ,795,D14,Day,No,CAMBRIDGE ST,Part Three,Unarmed,753786.5517,,2953876.6410000003,2013

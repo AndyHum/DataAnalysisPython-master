@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+171471,120598912.0,Saturday,No,2012-09-22T23:24:00.000,PubDrink,"[-71.041575, 42.319611]",Point,PubDrink,9,MISC  ,256,C6,First,No,HARBOR POINT BL,Part Two,Unarmed,780145.4311,,2941827.7860000003,2012
+230400,120596996.0,Saturday,No,2012-09-22T22:29:00.000,PubDrink,"[-71.075502, 42.317446]",Point,PubDrink,9,IVPER ,324,B2,First,No,DANUBE ST,Part Two,Unarmed,770973.8477,,2940991.1760000004,2012
+233410,120596640.0,Saturday,No,2012-09-22T19:38:00.000,PubDrink,"[-71.08271, 42.331051]",Point,PubDrink,9,SSTOP ,276,B2,First,No,WASHINGTON ST,Part Two,Unarmed,769000.3868,RUGGLES ST,2945939.61,2012

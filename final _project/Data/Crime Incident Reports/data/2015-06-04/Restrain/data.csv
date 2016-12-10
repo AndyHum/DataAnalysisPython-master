@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45784,152046260.0,Thursday,No,2015-06-04T18:00:00.000,Restrain,"[-71.09345, 42.274701]",Point,Restrain,6,VIORDR,0,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766194.2316,,2925390.762,2015
+129935,152046096.0,Thursday,No,2015-06-04T10:22:00.000,Restrain,"[-71.077945, 42.295881]",Point,Restrain,6,VIORDR,0,B3,Day,No,ATHELWOLD ST,Part Two,Unarmed,770352.2309,,2933129.433,2015
+251887,152047127.0,Thursday,No,2015-06-04T22:00:00.000,Restrain,"[-71.12395, 42.256421]",Point,Restrain,6,VIORDR,0,E18,First,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2015

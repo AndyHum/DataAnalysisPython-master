@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4524,130150310.0,Wednesday,No,2013-03-13T22:15:00.000,OPERATING UNDER INFLUENCE,"[-71.064489, 42.365368]",Point,21xx,3,ARREST,61,A1,First,No,LOMASNEY WY,Part Two,Other,773863.1707,,2958469.979,2013
+27797,130150200.0,Wednesday,No,2013-03-13T21:18:00.000,OPERATING UNDER INFLUENCE,"[-71.103083, 42.304586]",Point,21xx,3,MVA   ,510,E13,First,No,FOREST HILLS ST,Part Two,Unarmed,763536.3242,,2936268.938,2013
+79254,130148272.0,Wednesday,No,2013-03-13T02:53:00.000,OPERATING UNDER INFLUENCE,"[-71.07945, 42.332001]",Point,21xx,3,IVMV  ,269,B2,Last,No,HARRISON AV,Part Two,Other,769880.1638,MELNEA CASS BL,2946290.1360000004,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132906,130384235.0,Sunday,No,2013-06-23T23:18:00.000,Ballist,"[-71.07437, 42.317741]",Point,Ballist,6,SHOTS ,325,B2,First,No,HOWARD AV,Part Two,Firearm,771279.6746,,2941100.3639999996,2013
+189700,130382381.0,Sunday,No,2013-06-23T01:54:00.000,Ballist,"[-71.0807, 42.305191]",Point,Ballist,6,SHOTS ,459,C11,Last,No,COLUMBIA RD,Part Two,Firearm,769590.2042,,2936518.4639999997,2013
+203631,130382613.0,Sunday,No,2013-06-23T05:41:00.000,Ballist,"[-71.09486, 42.315301]",Point,Ballist,6,SHOTS ,307,E13,Last,No,WARDMAN RD,Part Two,Firearm,765742.3612,,2940184.2010000004,2013

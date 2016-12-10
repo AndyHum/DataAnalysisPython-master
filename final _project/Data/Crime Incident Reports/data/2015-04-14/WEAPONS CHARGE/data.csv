@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+208734,152030398.0,Tuesday,No,2015-04-14T19:00:00.000,WEAPONS CHARGE,"[-71.061015, 42.353246]",Point,15xx,4,ARREST,0,A1,First,No,AVENUE DE LAFAYETTE,Part Two,Other,774824.9513,CHAUNCY ST,2954057.314,2015
+213636,152030396.0,Tuesday,No,2015-04-14T19:11:00.000,WEAPONS CHARGE,"[-71.081745, 42.335371]",Point,15xx,4,ARREST,0,D4,First,No,KENDALL ST,Part Two,Unarmed,769253.5979,SHAWMUT AV,2947515.1739999996,2015
+267706,152030318.0,Tuesday,No,2015-04-14T15:00:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,4,ARREST,0,C11,Day,No,DORCHESTER AV,Part Two,Firearm,,,,2015

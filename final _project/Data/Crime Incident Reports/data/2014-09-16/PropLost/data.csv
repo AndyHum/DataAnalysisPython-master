@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94104,142029952.0,Tuesday,No,2014-09-16T10:00:00.000,PropLost,"[-71.05489, 42.362071]",Point,PropLost,9,PROP,0,A1,Day,No,NORTH ST,Part three,Unarmed,776463.7477,CROSS ST,2957281.893,2014
+115671,142029931.0,Tuesday,No,2014-09-16T11:40:00.000,PropLost,"[-71.128703, 42.266364]",Point,PropLost,9,PROP,0,E18,Day,No,DEFOREST ST,Part three,Unarmed,756666.5171,,2922308.852,2014
+151431,142030187.0,Tuesday,No,2014-09-16T11:30:00.000,PropLost,"[-71.14938, 42.287191]",Point,PropLost,9,PROP,0,E5,Day,No,CENTRE ST,Part three,Unarmed,751038.8958,,2929875.124,2014
+191179,142030369.0,Tuesday,No,2014-09-16T10:00:00.000,PropLost,"[-71.07296, 42.350976]",Point,PropLost,9,LARCEN,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,771600.3737,,2953213.692,2014

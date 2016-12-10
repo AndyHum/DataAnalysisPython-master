@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22964,142060048.0,Tuesday,No,2014-12-23T13:12:00.000,DEATH INVESTIGATION,"[-71.065185, 42.307956]",Point,01INV,12,UNKEMS,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773781.9406,,2937547.084,2014
+38161,142060051.0,Tuesday,No,2014-12-23T11:11:00.000,DEATH INVESTIGATION,"[-71.053506, 42.32612]",Point,01INV,12,ALARM,0,C6,Day,No,GAVIN WY,Part three,Unarmed,776906.2024,,2944182.5530000003,2014
+194910,142060057.0,Tuesday,No,2014-12-23T12:15:00.000,DEATH INVESTIGATION,"[-71.058362, 42.358828]",Point,01INV,12,UNCONS,0,A1,Day,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2014
+221013,142060064.0,Tuesday,No,2014-12-23T11:30:00.000,DEATH INVESTIGATION,"[-71.13512, 42.346536]",Point,01INV,12,ALARM,0,D14,Day,No,BRAINERD RD,Part three,Unarmed,754804.8827,,2951517.667,2014

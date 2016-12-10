@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97244,130160830.0,Monday,No,2013-03-18T18:00:00.000,Arrest,"[-71.008874, 42.39214]",Point,Arrest,3,ARREST,0,A7,First,No,FAYWOOD AV,Part Three,Unarmed,788836.8524,,2968307.764,2013
+141717,130161125.0,Monday,No,2013-03-18T15:15:00.000,Arrest,"[-71.074385, 42.335516]",Point,Arrest,3,ARREST,171,D4,Day,No,HARRISON AV,Part Three,Unarmed,771243.2964,,2947577.858,2013
+166714,130160097.0,Monday,No,2013-03-18T12:04:00.000,Arrest,"[-71.05431, 42.303841]",Point,Arrest,3,ARREST,253,C11,Day,No,BEACH ST,Part Three,Unarmed,776731.3784,FREEPORT ST,2936062.7,2013

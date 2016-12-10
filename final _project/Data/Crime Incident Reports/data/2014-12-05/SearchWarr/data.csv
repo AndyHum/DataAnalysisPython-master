@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9950,142054839.0,Friday,No,2014-12-05T11:30:00.000,SearchWarr,"[-71.07666, 42.307041]",Point,SearchWarr,12,CD11,0,B2,Day,No,STANWOOD ST,Part three,Other,770679.6955,COLUMBIA RD,2937198.0310000004,2014
+14854,142055031.0,Friday,No,2014-12-05T23:16:00.000,SearchWarr,"[-71.061235, 42.310371]",Point,SearchWarr,12,CD11,0,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2014
+73319,142054851.0,Friday,No,2014-12-05T12:49:00.000,SearchWarr,"[-71.070658, 42.318428]",Point,SearchWarr,12,CD11,0,B2,Day,No,WOODFORD ST,Part three,Unarmed,772282.104,,2941355.586,2014
+97182,142055005.0,Friday,No,2014-12-05T17:10:00.000,SearchWarr,"[-71.102665, 42.330421]",Point,SearchWarr,12,CD11,0,B2,First,No,HILLSIDE ST,Part three,Other,763605.7437,,2945684.262,2014

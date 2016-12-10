@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101838,152003240.0,Tuesday,No,2015-01-13T02:55:00.000,Arrest,"[-71.09108, 42.285561]",Point,Arrest,1,ARREST,0,B3,Last,No,BAIRD ST,Part three,Unarmed,766816.663,BLUE HILL AV,2929351.3639999996,2015
+235438,152003385.0,Tuesday,No,2015-01-13T15:30:00.000,Arrest,"[-71.083435, 42.280591]",Point,Arrest,1,ARREST,0,B3,Day,No,MORTON ST,Part three,Unarmed,768894.1564,,2927550.2369999997,2015

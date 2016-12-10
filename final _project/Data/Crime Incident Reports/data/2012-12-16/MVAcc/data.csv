@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2506,120787509.0,Sunday,No,2012-12-16T18:22:00.000,MVAcc,"[-71.120716, 42.270008]",Point,MVAcc,12,MVA   ,496,E18,First,No,HYDE PARK AV,Part Three,Other,758822.6985,,2923646.558,2012
+47125,120786156.0,Sunday,No,2012-12-16T00:25:00.000,MVAcc,"[-71.07649, 42.348291]",Point,MVAcc,12,MVA   ,130,D4,Last,No,STUART ST,Part Three,Unarmed,770651.0429,DARTMOUTH ST,2952230.4689999996,2012
+119591,120786928.0,Sunday,No,2012-12-16T11:50:00.000,MVAcc,"[-71.072995, 42.304498]",Point,MVAcc,12,MVAINJ,358,C11,Day,No,GENEVA AV,Part Three,Unarmed,771675.6285,,2936276.22,2012
+172792,120786269.0,Sunday,No,2012-12-16T01:33:00.000,MVAcc,"[-71.146005, 42.341426]",Point,MVAcc,12,MVAINJ,786,D14,Last,No,COMMONWEALTH AV,Part Three,Other,751870.0851,,2949643.082,2012

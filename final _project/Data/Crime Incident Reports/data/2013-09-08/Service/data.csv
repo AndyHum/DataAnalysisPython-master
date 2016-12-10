@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68664,130571471.0,Sunday,No,2013-09-08T15:25:00.000,Service,"[-71.059415, 42.359251]",Point,Service,9,ARREST,72,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2013
+121896,130570126.0,Sunday,No,2013-09-08T02:00:00.000,Service,"[-71.059406, 42.304177]",Point,Service,9,IVPER ,349,C11,Last,No,ELLET ST,Part three,Unarmed,775352.2202,,2936177.758,2013
+129588,130570380.0,Sunday,No,2013-09-08T06:08:00.000,Service,"[-71.06001, 42.300741]",Point,Service,9,ARREST,356,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775195.3002,CHARLES ST,2934925.008,2013
+199726,130570882.0,Sunday,No,2013-09-08T13:45:00.000,Service,"[-71.06378, 42.353241]",Point,Service,9,ARREST,111,A1,Day,No,AVERY ST,Part three,Unarmed,774077.5839,MASON ST,2954051.6569999997,2013

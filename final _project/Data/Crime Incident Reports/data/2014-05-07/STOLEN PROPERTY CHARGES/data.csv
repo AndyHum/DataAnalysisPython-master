@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7775,140280595.0,Wednesday,No,2014-05-07T15:25:00.000,STOLEN PROPERTY CHARGES,"[-71.106325, 42.319675]",Point,13xx,5,ARREST,578,E13,Day,No,SHERIDAN ST,Part Two,Unarmed,762633.995,,2941763.5560000003,2014
+56937,140280518.0,Wednesday,No,2014-05-07T15:03:00.000,STOLEN PROPERTY CHARGES,"[-71.057942, 42.379287]",Point,13xx,5,ARREST,900,A15,Day,No,MEDFORD ST,Part Two,Other,775606.1433,,2963551.393,2014
+58576,140280932.0,Wednesday,No,2014-05-07T17:34:00.000,STOLEN PROPERTY CHARGES,"[-71.063873, 42.325436]",Point,13xx,5,TSTOP ,0,C6,First,No,ALLSTATE RD,Part Two,Other,774104.1328,,2943918.604,2014

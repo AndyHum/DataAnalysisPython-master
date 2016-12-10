@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3372,152034088.0,Sunday,No,2015-04-26T20:50:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,IVPER,0,C11,First,No,NAZING ST,Other,Unarmed,,,,2015
+11817,152034026.0,Sunday,No,2015-04-26T16:45:00.000,PersLoc,"[-71.07461, 42.278136]",Point,PersLoc,4,IVPER,0,B3,First,No,GALLIVAN BL,Other,Unarmed,771286.7457,,2926667.387,2015
+121103,152034127.0,Sunday,No,2015-04-26T21:30:00.000,PersLoc,"[-71.07991, 42.312931]",Point,PersLoc,4,IVPER,0,B2,First,No,BLUE HILL AV,Other,Unarmed,769790.0109,,2939340.0939999996,2015

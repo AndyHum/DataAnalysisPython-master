@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10469,140246865.0,Sunday,No,2014-04-20T20:30:00.000,PhoneCalls,"[-71.03173, 42.379881]",Point,PhoneCalls,4,HARPT ,824,A7,First,No,LEXINGTON ST,Part three,Unarmed,782687.3529,,2963805.723,2014
+179628,140248204.0,Sunday,No,2014-04-20T14:00:00.000,PhoneCalls,"[-71.10171, 42.264576]",Point,PhoneCalls,4,THREAT,520,E18,Day,No,ALPINE ST,Part three,Unarmed,763976.0182,,2921690.5310000004,2014
+186801,140241348.0,Sunday,No,2014-04-20T21:55:00.000,PhoneCalls,"[-71.053506, 42.32612]",Point,PhoneCalls,4,HARPT ,914,C6,First,No,GAVIN WY,Part three,Unarmed,776906.2024,,2944182.5530000003,2014
+200053,140317101.0,Sunday,No,2014-04-20T03:00:00.000,PhoneCalls,"[-71.055015, 42.367361]",Point,PhoneCalls,4,INVEST,81,A1,Last,No,CHARTER ST,Part three,Unarmed,776419.9084,,2959209.498,2014

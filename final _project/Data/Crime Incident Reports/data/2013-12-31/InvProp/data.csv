@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41325,130821118.0,Tuesday,No,2013-12-31T18:16:00.000,InvProp,"[-71.089615, 42.344991]",Point,InvProp,12,REQP  ,591,D4,First,No,HEMENWAY ST,Part three,Unarmed,767108.76,,2951010.563,2013
+51287,130819903.0,Tuesday,No,2013-12-31T06:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,12,IVPREM,70,A1,Last,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2013
+94189,130820081.0,Tuesday,No,2013-12-31T09:25:00.000,InvProp,"[-71.052555, 42.327321]",Point,InvProp,12,IVPREM,914,C6,Day,No,OLD COLONY AV,Part three,Unarmed,777161.2379,,2944621.668,2013
+129743,130821504.0,Tuesday,No,2013-12-31T21:54:00.000,InvProp,"[-71.075605, 42.291256]",Point,InvProp,12,BEIP  ,438,B3,First,No,TALBOT AV,Part three,Unarmed,770993.6902,,2931447.1569999997,2013
+161860,130819965.0,Tuesday,No,2013-12-31T07:45:00.000,InvProp,"[-71.134255, 42.283241]",Point,InvProp,12,IVPREM,679,E5,Day,No,BIRCH ST,Part three,Unarmed,755137.6215,,2928452.869,2013
+169899,130821350.0,Tuesday,No,2013-12-31T20:28:00.000,InvProp,"[-71.092001, 42.278561]",Point,InvProp,12,FIREB ,427,B3,First,No,FESSENDEN ST,Part three,Unarmed,766579.5337,,2926799.047,2013
+241204,130819851.0,Tuesday,No,2013-12-31T04:36:00.000,InvProp,"[-71.063096, 42.31159]",Point,InvProp,12,ALARMC,334,C11,Last,No,HANCOCK ST,Part three,Unarmed,774340.0595,,2938874.267,2013

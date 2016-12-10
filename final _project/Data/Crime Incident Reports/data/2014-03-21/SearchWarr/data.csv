@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15269,140172302.0,Friday,No,2014-03-21T15:08:00.000,SearchWarr,"[-71.130821, 42.254372]",Point,SearchWarr,3,CD11  ,541,E18,Day,No,CHILD ST,Part three,Other,756112.3975,,2917936.392,2014
+40669,140172478.0,Friday,No,2014-03-21T11:36:00.000,SearchWarr,"[-71.12137, 42.264011]",Point,SearchWarr,3,CD11  ,520,E18,Day,No,HYDE PARK AV,Part three,Other,758655.3951,WESTMINSTER ST,2921460.4,2014
+126919,140171893.0,Friday,No,2014-03-21T12:01:00.000,SearchWarr,"[-71.083489, 42.308113]",Point,SearchWarr,3,CD11  ,319,B2,Day,No,BLUE HILL AV,Part three,Other,768830.3802,,2937579.3460000004,2014
+129149,140172288.0,Friday,No,2014-03-21T15:02:00.000,SearchWarr,"[-71.12395, 42.256421]",Point,SearchWarr,3,CD11  ,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014

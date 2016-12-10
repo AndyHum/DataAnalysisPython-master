@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122618,130038989.0,Saturday,No,2013-01-19T08:47:00.000,PhoneCalls,"[-71.075718, 42.319378]",Point,PhoneCalls,1,IVPER ,264,B2,Day,No,JULIAN ST,Part Three,Unarmed,770912.1543,,2941695.0239999997,2013
+159352,130040067.0,Saturday,No,2013-01-19T02:33:00.000,PhoneCalls,"[-71.11701, 42.309021]",Point,PhoneCalls,1,HARPT ,649,E13,Last,No,CENTRE ST,Part Three,Other,759761.8643,,2937867.938,2013
+209243,130038837.0,Saturday,No,2013-01-19T08:17:00.000,PhoneCalls,"[-71.122558, 42.289692]",Point,PhoneCalls,1,IVPER ,563,E5,Day,No,GRANFIELD AV,Part Three,Unarmed,758292.2559999999,,2930817.442,2013

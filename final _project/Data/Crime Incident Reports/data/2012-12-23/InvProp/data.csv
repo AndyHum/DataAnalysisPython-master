@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75035,120803143.0,Sunday,No,2012-12-23T21:39:00.000,InvProp,"[-71.004979, 42.388748]",Point,InvProp,12,UNK   ,7,A7,First,No,LEYDEN ST,Part Three,Other,789896.1298,,2967077.729,2012
+126890,120803201.0,Sunday,No,2012-12-23T22:28:00.000,InvProp,"[-71.078526, 42.322336]",Point,InvProp,12,UNK   ,265,B2,First,No,PERRIN ST,Part Three,Unarmed,770147.4212,,2942769.0110000004,2012
+216645,120802741.0,Sunday,No,2012-12-23T17:17:00.000,InvProp,"[-71.112411, 42.284053]",Point,InvProp,12,LSTPRP,503,E18,First,No,AMERICAN LEGION HY,Part Three,Unarmed,761047.1773,,2928774.728,2012

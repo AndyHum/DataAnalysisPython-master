@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28965,130637559.0,Saturday,No,2013-10-05T21:00:00.000,PropFound,"[-71.08105, 42.349046]",Point,PropFound,10,LARCRT,138,D4,First,No,BOYLSTON ST,Part three,Unarmed,769417.031,,2952499.519,2013
+62019,130636462.0,Saturday,No,2013-10-05T21:45:00.000,PropFound,"[-71.068175, 42.272201]",Point,PropFound,10,FDPROP,465,C11,First,No,WASHINGTON ST,Part three,Other,773039.1336,ADAMS ST,2924513.3460000004,2013
+83717,130635412.0,Saturday,No,2013-10-05T11:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,10,FDPROP,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2013
+86825,130635228.0,Saturday,No,2013-10-05T11:20:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,10,LSTPRP,574,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2013
+129122,130634989.0,Saturday,No,2013-10-05T10:12:00.000,PropFound,"[-71.083646, 42.332502]",Point,PropFound,10,FDPROP,276,B2,Day,No,SHAWMUT AV,Part three,Firearm,768744.4995,,2946467.083,2013
+184114,130636379.0,Saturday,No,2013-10-05T21:30:00.000,PropFound,"[-71.07251, 42.352266]",Point,PropFound,10,IVPREM,133,D4,First,No,NEWBURY ST,Part three,Unarmed,771719.655,,2953684.403,2013
+226132,130636039.0,Saturday,No,2013-10-05T17:40:00.000,PropFound,"[-71.03119, 42.331541]",Point,PropFound,10,FDPROP,223,C6,First,No,E 8TH ST,Part three,Unarmed,782930.0762,N ST,2946190.535,2013

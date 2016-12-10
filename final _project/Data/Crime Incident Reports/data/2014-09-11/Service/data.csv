@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46852,142028301.0,Thursday,No,2014-09-11T03:55:00.000,Service,"[-71.060375, 42.352521]",Point,Service,9,ARREST,0,A1,Last,No,ESSEX ST,Part three,Unarmed,774999.3043,,2953794.002,2014
+71761,142028321.0,Thursday,No,2014-09-11T05:46:00.000,Service,"[-71.161375, 42.339966]",Point,Service,9,MISC,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,747716.9094,,2949094.1580000003,2014
+114115,142028441.0,Thursday,No,2014-09-11T14:50:00.000,Service,"[-71.06577, 42.302076]",Point,Service,9,IVPER,0,C11,Day,No,RIDGEWOOD ST,Part three,Unarmed,773634.6072,,2935403.522,2014

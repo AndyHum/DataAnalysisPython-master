@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54055,152031065.0,Wednesday,No,2015-04-15T08:00:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,4,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2015
+92155,152038299.0,Wednesday,No,2015-04-15T00:00:00.000,PropLost,"[-71.008436, 42.39263]",Point,PropLost,4,PROP,0,A7,Last,No,VALLAR RD,Part three,Unarmed,788954.13,,2968486.8839999996,2015
+109704,152032182.0,Wednesday,No,2015-04-15T22:00:00.000,PropLost,"[-71.081506, 42.340404]",Point,PropLost,4,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,769309.2294,,2949349.501,2015

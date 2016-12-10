@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114141,142013352.0,Sunday,No,2014-07-27T05:45:00.000,Service,"[-71.08584, 42.301001]",Point,Service,7,SHOTS,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,768207.2257,,2934984.769,2014
+213382,142013446.0,Sunday,No,2014-07-27T14:00:00.000,Service,"[-71.03981, 42.376191]",Point,Service,7,ARREST,0,A7,Day,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2014
+240237,142013506.0,Sunday,No,2014-07-27T17:37:00.000,Service,"[-71.15074, 42.267156]",Point,Service,7,ARREST,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,750700.7977,,2922572.562,2014

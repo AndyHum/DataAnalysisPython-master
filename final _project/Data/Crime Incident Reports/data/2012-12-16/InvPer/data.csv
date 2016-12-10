@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23959,120789922.0,Sunday,No,2012-12-16T15:45:00.000,InvPer,"[-71.12841, 42.312121]",Point,InvPer,12,INVEST,654,E13,Day,No,CONRY CS,Part Three,Other,756673.2664,,2938983.8989999997,2012
+38012,120787733.0,Sunday,No,2012-12-16T10:00:00.000,InvPer,"[-71.12366, 42.257651]",Point,InvPer,12,THREAT,520,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,758045.7614,,2919139.9889999996,2012
+114079,120787055.0,Sunday,No,2012-12-16T13:20:00.000,InvPer,"[-71.10197, 42.266719]",Point,InvPer,12,MISC  ,486,E18,Day,No,RALSTON RD,Part Three,Unarmed,763901.7992,,2922471.0539999995,2012
+178713,120787346.0,Sunday,No,2012-12-16T16:26:00.000,InvPer,"[-71.03922, 42.379016]",Point,InvPer,12,ALARMI,26,A7,First,No,MERIDIAN ST,Part Three,Unarmed,780665.3756,,2963479.477,2012
+214101,120787557.0,Sunday,No,2012-12-16T18:00:00.000,InvPer,"[-71.052695, 42.289996]",Point,InvPer,12,INVEST,377,C11,First,No,TRAIN ST,Part Three,Unarmed,777194.7103,,2931019.67,2012

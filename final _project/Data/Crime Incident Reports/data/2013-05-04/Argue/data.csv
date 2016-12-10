@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123047,130264595.0,Saturday,No,2013-05-04T16:30:00.000,Argue,"[0, 0]",Point,Argue,5,FIGHT ,814,D14,First,No,WINDOM ST,Part three,Unarmed,,,,2013
+195538,130263990.0,Saturday,No,2013-05-04T11:20:00.000,Argue,"[-71.08377, 42.337451]",Point,Argue,5,IVPREM,274,D4,Day,No,TREMONT ST,Part Three,Other,768702.3882,DAVENPORT ST,2948270.485,2013
+203910,130264257.0,Saturday,No,2013-05-04T13:59:00.000,Argue,"[-71.05919, 42.379331]",Point,Argue,5,DISTRB,900,A15,Day,No,MONUMENT ST,Part Three,Unarmed,775269.1197,,2963565.753,2013

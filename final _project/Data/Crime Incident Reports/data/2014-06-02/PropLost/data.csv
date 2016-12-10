@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35027,142005176.0,Monday,No,2014-06-02T12:00:00.000,PropLost,"[-71.145679, 42.355277]",Point,PropLost,6,PROP,0,D14,Day,No,N BEACON ST,Part three,Other,751937.0492,,2954690.89,2014
+80314,140344943.0,Monday,No,2014-06-02T08:00:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,6,LSTPRP,282,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+112666,140346335.0,Monday,No,2014-06-02T14:00:00.000,PropLost,"[-71.04427, 42.351924]",Point,PropLost,6,INVEST,206,C6,Day,No,NORTHERN AV,Part three,Unarmed,779353.4688,,2953599.191,2014
+166148,140345960.0,Monday,No,2014-06-02T10:30:00.000,PropLost,"[-71.04037, 42.318416]",Point,PropLost,6,LSTPRP,256,C6,Day,No,SOUTH POINT DR,Part three,Unarmed,780473.6611,,2941394.063,2014
+238940,142024172.0,Monday,No,2014-06-02T13:00:00.000,PropLost,"[-71.10301, 42.343576]",Point,PropLost,6,LARCEN,0,D4,Day,No,PARK DR,Part three,Unarmed,763490.1442,,2950477.753,2014
+261440,140345990.0,Monday,No,2014-06-02T01:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,58,A15,Last,No,W SCHOOL ST,Part three,Unarmed,,,,2014
+264017,140353416.0,Monday,No,2014-06-02T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,936,C6,Day,No,FLAHERTY WY,Part three,Unarmed,,,,2014
+266079,140351218.0,Monday,No,2014-06-02T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,820,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43135,130354019.0,Tuesday,No,2013-06-11T01:15:00.000,PropFound,"[-71.100705, 42.342791]",Point,PropFound,6,FDPROP,627,D4,Last,No,PETERBOROUGH ST,Part three,Unarmed,764114.6170000001,,2950194.595,2013
+190448,130357107.0,Tuesday,No,2013-06-11T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,6,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2013
+220978,130354301.0,Tuesday,No,2013-06-11T07:40:00.000,PropFound,"[-71.059969, 42.355867]",Point,PropFound,6,FDPROP,105,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2013

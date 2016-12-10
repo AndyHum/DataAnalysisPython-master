@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29613,152017906.0,Thursday,No,2015-02-12T15:00:00.000,PropDam,"[-71.084125, 42.351386]",Point,PropDam,2,MVA,0,D4,Day,No,MARLBOROUGH ST,Part three,Other,768581.6478,,2953348.193,2015
+73322,152011800.0,Thursday,No,2015-02-12T16:05:00.000,PropDam,"[-71.059987, 42.361648]",Point,PropDam,2,PROP,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+168601,152011561.0,Thursday,No,2015-02-12T16:15:00.000,PropDam,"[-71.088028, 42.334461]",Point,PropDam,2,MVA,0,B2,First,No,RUGGLES ST,Part three,Unarmed,767556.2352,,2947175.229,2015

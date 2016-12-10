@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125166,130758094.0,Friday,No,2013-11-22T10:30:00.000,Service,"[-71.061775, 42.294771]",Point,Service,11,LARCRT,363,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774729.0049,,2932746.994,2013
+173134,130740682.0,Friday,No,2013-11-22T10:20:00.000,Service,"[-71.063675, 42.352301]",Point,Service,11,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+236775,130742019.0,Friday,No,2013-11-22T21:34:00.000,Service,"[-71.09188, 42.282681]",Point,Service,11,ARREST,428,B3,First,No,BLUE HILL AV,Part three,Unarmed,766605.2138,,2928300.813,2013

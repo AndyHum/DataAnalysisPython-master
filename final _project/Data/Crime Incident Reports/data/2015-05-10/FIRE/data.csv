@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90938,152038390.0,Sunday,No,2015-05-10T23:21:00.000,FIRE,"[-71.082735, 42.297456]",Point,FIRE,5,FIRE,0,B3,First,No,BICKNELL ST,Part three,Unarmed,769053.5199,,2933697.0110000004,2015
+202829,152038273.0,Sunday,No,2015-05-10T15:54:00.000,FIRE,"[-71.11451, 42.280554]",Point,FIRE,5,FIRE,0,E18,Day,No,CANTERBURY ST,Part three,Other,760484.7762,,2927497.021,2015
+214865,152038285.0,Sunday,No,2015-05-10T16:30:00.000,FIRE,"[-71.106825, 42.267466]",Point,FIRE,5,FIRE,0,E18,First,No,TAUNTON AV,Part three,Unarmed,762586.6437,,2922737.2610000004,2015

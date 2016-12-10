@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111284,130439116.0,Tuesday,No,2013-07-16T02:40:00.000,Service,"[-71.09385, 42.267631]",Point,Service,7,TSTOP ,426,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766098.2462,RIVER ST,2922813.8439999996,2013
+151195,130440865.0,Tuesday,No,2013-07-16T20:05:00.000,Service,"[-71.06443, 42.285251]",Point,Service,7,ARREST,402,C11,First,No,DORCHESTER AV,Part three,Unarmed,774028.4138,,2929274.0930000003,2013
+197469,130439204.0,Tuesday,No,2013-07-16T05:32:00.000,Service,"[-71.064875, 42.291466]",Point,Service,7,ARREST,396,C11,Last,No,SAMOSET ST,Part three,Unarmed,773896.4489,,2931538.311,2013

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14096,142004322.0,Monday,No,2014-06-30T03:15:00.000,InvProp,"[-71.069175, 42.323106]",Point,InvProp,6,ALARM,0,B2,Last,No,BATCHELDER ST,Part three,Unarmed,772674.7909,,2943062.5130000003,2014
+48382,142007571.0,Monday,No,2014-06-30T08:00:00.000,InvProp,"[-71.07293, 42.333901]",Point,InvProp,6,PROP,0,D4,Day,No,ALBANY ST,Part three,Unarmed,771639.6374,,2946991.29,2014
+49889,142006657.0,Monday,No,2014-06-30T16:26:00.000,InvProp,"[-71.069, 42.360271]",Point,InvProp,6,LARCEN,0,A1,First,No,PHILLIPS ST,Part three,Other,772653.6794,,2956606.354,2014
+86748,142004319.0,Monday,No,2014-06-30T00:39:00.000,InvProp,"[-71.10316, 42.326236]",Point,InvProp,6,SHOTS,0,E13,Last,No,HEATH ST,Part three,Other,763478.9920000001,,2944158.5510000004,2014
+223884,142004657.0,Monday,No,2014-06-30T19:16:00.000,InvProp,"[-71.076286, 42.340036]",Point,InvProp,6,ALARM,0,D4,First,No,RUTLAND ST,Part three,Unarmed,770721.1363,,2949222.187,2014
+255695,142004567.0,Monday,No,2014-06-30T16:40:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,6,IVPREM,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014

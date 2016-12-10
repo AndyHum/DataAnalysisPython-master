@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13451,130158220.0,Sunday,No,2013-03-17T01:20:00.000,PubDrink,"[-71.042845, 42.333821]",Point,PubDrink,3,ARREST,229,C6,Last,No,E 5TH ST,Part Two,Unarmed,779774.2159999999,,2947004.3019999997,2013
+96379,130159341.0,Sunday,No,2013-03-17T18:03:00.000,PubDrink,"[0, 0]",Point,PubDrink,3,MISC  ,915,C6,First,No,JAMES ONEILL ST,Part Two,Unarmed,,,,2013
+123757,130159268.0,Sunday,No,2013-03-17T18:49:00.000,PubDrink,"[0, 0]",Point,PubDrink,3,MISC  ,915,C6,First,No,JAMES ONEILL ST,Part Two,Unarmed,,,,2013
+179745,130159262.0,Sunday,No,2013-03-17T18:11:00.000,PubDrink,"[-71.05021, 42.330401]",Point,PubDrink,3,MISC  ,915,C6,First,No,MERCER ST,Part Two,Unarmed,777789.4286,,2945747.4060000004,2013
+194907,130159258.0,Sunday,No,2013-03-17T17:25:00.000,PubDrink,"[0, 0]",Point,PubDrink,3,MISC  ,915,C6,First,No,JAMES ONEILL ST,Part Two,Unarmed,,,,2013
+262881,130158063.0,Sunday,No,2013-03-17T20:13:00.000,PubDrink,"[0, 0]",Point,PubDrink,3,ARREST,219,C6,First,No,THOMAS PARK,Part Two,Unarmed,,,,2013

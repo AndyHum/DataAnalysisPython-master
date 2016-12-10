@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+141234,130068004.0,Saturday,No,2013-02-02T01:13:00.000,Service,"[-71.08696, 42.281611]",Point,Service,2,TSTOP ,429,B3,Last,No,MORTON ST,Part Three,Unarmed,767938.4574,NORFOLK ST,2927917.2989999996,2013
+155967,130069541.0,Saturday,No,2013-02-02T19:46:00.000,Service,"[-71.11799, 42.362286]",Point,Service,2,TRAUMA,820,D14,First,No,SOLDIERS FIELD RD,Part Three,Unarmed,759409.9027,,2957277.559,2013

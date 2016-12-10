@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31048,120507522.0,Tuesday,No,2012-08-14T22:30:00.000,InvProp,"[-71.055245, 42.379091]",Point,InvProp,8,SHOTS ,900,A15,First,No,MEDFORD ST,Part Three,Unarmed,776335.4643,,2963483.825,2012
+34851,120505389.0,Tuesday,No,2012-08-14T16:17:00.000,InvProp,"[-71.076585, 42.289031]",Point,InvProp,8,EDP2  ,437,B3,First,No,ELMHURST ST,Part Three,Unarmed,770732.5638,,2930635.018,2012
+230370,120505074.0,Tuesday,No,2012-08-14T14:00:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,8,CD9   ,624,D4,Day,No,YAWKEY WY,Part Three,Unarmed,764671.1215,,2951432.6119999997,2012
+247093,120505994.0,Tuesday,No,2012-08-14T20:40:00.000,InvProp,"[-71.071081, 42.300115]",Point,InvProp,8,IVPREM,344,C11,First,No,WESTVILLE ST,Part Three,Unarmed,772201.4742,,2934681.494,2012

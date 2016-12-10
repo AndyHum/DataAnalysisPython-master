@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+171246,152027143.0,Friday,No,2015-04-03T15:15:00.000,Arrest,"[-71.081835, 42.331851]",Point,Arrest,4,ARREST,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769235.5517,,2946232.3039999995,2015
+174502,152027082.0,Friday,No,2015-04-03T12:25:00.000,Arrest,"[-71.062495, 42.356936]",Point,Arrest,4,ARREST,0,A1,Day,No,PARK ST,Part three,Unarmed,774418.0128,TREMONT ST,2955399.966,2015

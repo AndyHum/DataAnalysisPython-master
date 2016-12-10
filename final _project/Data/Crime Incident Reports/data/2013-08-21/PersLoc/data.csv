@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18223,130528460.0,Wednesday,No,2013-08-21T15:45:00.000,PersLoc,"[-71.11825, 42.283676]",Point,PersLoc,8,MISPER,501,E18,Day,No,DESTEPHANO RD,Other,Unarmed,759467.8471,,2928630.367,2013
+86983,130526375.0,Wednesday,No,2013-08-21T00:15:00.000,PersLoc,"[-71.00474, 42.392707]",Point,PersLoc,8,MISPER,2,A7,Last,No,WALDEMAR AV,Other,Unarmed,789952.4141,,2968520.7180000003,2013
+94585,130527061.0,Wednesday,No,2013-08-21T07:00:00.000,PersLoc,"[-71.12738, 42.248721]",Point,PersLoc,8,MISPER,523,E18,Last,No,GLENWOOD AV,Other,Unarmed,757052.9438,,2915881.361,2013
+137967,130531198.0,Wednesday,No,2013-08-21T22:00:00.000,PersLoc,"[-71.083706, 42.279645]",Point,PersLoc,8,MISPER,420,B3,First,No,W SELDEN ST,Other,Unarmed,768822.4534,,2927205.091,2013

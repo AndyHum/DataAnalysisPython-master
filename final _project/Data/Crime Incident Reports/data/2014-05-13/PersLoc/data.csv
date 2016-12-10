@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52149,140296575.0,Tuesday,No,2014-05-13T19:00:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,5,CD19  ,0,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+160597,140296521.0,Tuesday,No,2014-05-13T18:53:00.000,PersLoc,"[-71.083533, 42.288775]",Point,PersLoc,5,MSNCOM,945,B3,First,No,STRATTON ST,Other,Unarmed,768852.8372,,2930532.1780000003,2014
+175458,140294878.0,Tuesday,No,2014-05-13T05:45:00.000,PersLoc,"[-71.075835, 42.289281]",Point,PersLoc,5,MISPER,437,B3,Last,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2014
+181196,140296573.0,Tuesday,No,2014-05-13T19:00:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,5,MISPER,281,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+222309,140299184.0,Tuesday,No,2014-05-13T07:00:00.000,PersLoc,"[-71.10314, 42.265736]",Point,PersLoc,5,MISPER,486,E18,Last,No,RALSTON RD,Other,Unarmed,763586.9796,,2922111.4439999997,2014
+265789,140296983.0,Tuesday,No,2014-05-13T23:02:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,CURFEW,503,B3,First,No,W MAIN ST,Other,Unarmed,,,,2014

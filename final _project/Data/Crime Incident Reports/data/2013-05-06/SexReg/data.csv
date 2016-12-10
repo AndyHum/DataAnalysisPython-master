@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87886,130270281.0,Monday,No,2013-05-06T13:50:00.000,SexReg,"[-71.059987, 42.361648]",Point,SexReg,5,IVPER ,72,A1,Day,No,SUDBURY ST,Part Two,Unarmed,775087.02,,2957120.525,2013
+164169,130268577.0,Monday,No,2013-05-06T12:00:00.000,SexReg,"[-71.06494, 42.343021]",Point,SexReg,5,IVPER ,165,D4,Day,No,HARRISON AV,Part Two,Unarmed,773783.0344,,2950325.6980000003,2013
+184697,130269531.0,Monday,No,2013-05-06T12:00:00.000,SexReg,"[-71.059735, 42.297541]",Point,SexReg,5,IVPER ,355,C11,Day,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013
+242371,130288061.0,Monday,No,2013-05-06T12:00:00.000,SexReg,"[-71.059735, 42.297541]",Point,SexReg,5,MISC  ,355,C11,Day,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013

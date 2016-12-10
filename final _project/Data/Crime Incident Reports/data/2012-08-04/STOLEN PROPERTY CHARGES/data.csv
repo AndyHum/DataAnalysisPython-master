@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72765,120483579.0,Saturday,No,2012-08-04T22:55:00.000,STOLEN PROPERTY CHARGES,"[-71.05845, 42.307551]",Point,13xx,8,FIGHT ,347,C11,First,No,DORCHESTER AV,Part Two,Other,775604.469,EAST ST,2937408.856,2012
+99950,120481826.0,Saturday,No,2012-08-04T04:33:00.000,STOLEN PROPERTY CHARGES,"[-71.082405, 42.352746]",Point,13xx,8,ARREST,135,D4,Last,No,BEACON ST,Part Two,Unarmed,769044.1485,,2953846.0760000004,2012
+172123,120482093.0,Saturday,No,2012-08-04T09:45:00.000,STOLEN PROPERTY CHARGES,"[-71.055484, 42.28852]",Point,13xx,8,INVEST,393,C11,Day,No,ADAMS ST,Part Two,Unarmed,776442.8056,,2930477.8860000004,2012

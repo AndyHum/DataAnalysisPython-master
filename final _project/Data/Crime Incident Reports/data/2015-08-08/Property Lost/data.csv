@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10099,,Saturday,No,2015-08-08T00:00:00.000,Property Lost,"[-71.087118, 42.302381]",Point,PropLost,8,BE,566,B2,,No,FRANKLIN PARK RD,Part Three,None,767859.0,,2940000.0,2015
+13924,,Saturday,No,2015-08-08T16:11:00.000,Property Lost,"[0, 0]",Point,PropLost,8,PROP,0,,,No,,Part Three,None,,D ST,,2015
+50822,,Saturday,No,2015-08-08T00:00:00.000,Property Lost,"[-71.056923, 42.360289]",Point,PropLost,8,ADMRPT,93,A1,,No,NORTH ST,Part Three,None,775917.0,,2960000.0,2015
+50823,,Saturday,No,2015-08-08T00:00:00.000,Property Lost,"[-71.056923, 42.360289]",Point,PropLost,8,ADMRPT,93,A1,,No,NORTH ST,Part Three,None,775917.0,,2960000.0,2015
+57941,,Saturday,No,2015-08-08T00:00:00.000,Property Lost,"[-71.098806, 42.346538]",Point,PropLost,8,PROP,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+179170,,Saturday,No,2015-08-08T00:00:00.000,Property Lost,"[-71.098806, 42.346538]",Point,PropLost,8,MISC,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+196647,,Saturday,No,2015-08-08T00:00:00.000,Property Lost,"[-71.149603, 42.33692]",Point,PropLost,8,PROP,790,D14,,No,ORKNEY RD,Part Three,None,750904.0,,2950000.0,2015
+248542,,Saturday,No,2015-08-08T19:00:00.000,Property Lost,"[0, 0]",Point,PropLost,8,IVPREM,257,C11,,No,HANCOCK ST,Part Three,None,,RILL ST,,2015

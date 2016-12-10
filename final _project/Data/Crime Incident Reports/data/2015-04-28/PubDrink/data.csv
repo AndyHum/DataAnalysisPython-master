@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+242,152034653.0,Tuesday,No,2015-04-28T17:00:00.000,PubDrink,"[0, 0]",Point,PubDrink,4,CD19,0,A7,First,No,CONDOR ST,Part Two,Unarmed,,,,2015
+116465,152034696.0,Tuesday,No,2015-04-28T16:00:00.000,PubDrink,"[-71.076905, 42.316146]",Point,PubDrink,4,IVPER,0,B2,First,No,DACIA ST,Part Two,Unarmed,770596.9656,WOODCLIFF ST,2940515.709,2015
+187214,152034647.0,Tuesday,No,2015-04-28T16:30:00.000,PubDrink,"[-71.083781, 42.329494]",Point,PubDrink,4,IVPER,0,B2,First,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2015

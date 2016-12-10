@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+157221,140323400.0,Thursday,No,2014-05-22T15:15:00.000,PropFound,"[-71.084955, 42.341456]",Point,PropFound,5,IVPREM,594,D4,Day,No,ST BOTOLPH ST,Part three,Unarmed,768374.9012,,2949728.42,2014
+166969,140318200.0,Thursday,No,2014-05-22T08:20:00.000,PropFound,"[-71.042894, 42.33551]",Point,PropFound,5,FDPROP,225,C6,Day,No,E BROADWAY,Part three,Unarmed,779757.4184,,2947619.498,2014
+261429,140318627.0,Thursday,No,2014-05-22T09:30:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,222,C6,Day,No,I ST,Part three,Unarmed,,,,2014

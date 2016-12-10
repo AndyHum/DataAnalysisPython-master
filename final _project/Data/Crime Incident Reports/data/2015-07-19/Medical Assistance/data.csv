@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8785,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.068998, 42.360278]",Point,MedAssist,7,INVEST,66,A1,,No,PHILLIPS ST,Part Three,None,772654.0,,2960000.0,2015
+14260,,Sunday,No,2015-07-19T23:00:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,304,B2,,No,TOWNSEND ST,Part Three,None,,WASHINGTON ST,,2015
+31924,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.065977, 42.360227]",Point,MedAssist,7,IVPER,67,A1,,No,S RUSSELL ST,Part Three,None,773471.0,,2960000.0,2015
+46501,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.068904, 42.312363]",Point,MedAssist,7,UNKEMS,331,B2,,No,COLUMBIA RD,Part Three,None,772768.0,,2940000.0,2015
+52682,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.074669, 42.311507]",Point,MedAssist,7,I00015,328,B2,,No,GREENHEYS ST,Part Three,None,771210.0,,2940000.0,2015
+89122,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.161158, 42.261684]",Point,MedAssist,7,IVPER,713,E5,,No,STIMSON ST,Part Three,None,747889.0,,2920000.0,2015
+191771,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.070125, 42.275835]",Point,MedAssist,7,UNKEMS,414,B3,,No,SAINT GREGORY ST,Part Three,None,772505.0,,2930000.0,2015
+204336,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.062495, 42.35697]",Point,MedAssist,7,UNCONS,102,A1,,No,PARK ST,Part Three,None,774418.0,,2960000.0,2015
+214566,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.09567, 42.266813]",Point,MedAssist,7,REQP,481,B3,,No,RIVER ST,Part Three,None,765607.0,,2920000.0,2015
+225393,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.117223, 42.270412]",Point,MedAssist,7,IVPREM,497,E18,,No,CRANE ST,Part Three,None,759767.0,,2920000.0,2015
+241521,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.039875, 42.332374]",Point,MedAssist,7,REQP,230,C6,,No,I ST,Part Three,None,780580.0,,2950000.0,2015
+243252,,Sunday,No,2015-07-19T00:00:00.000,Medical Assistance,"[-71.096211, 42.334319]",Point,MedAssist,7,EDP,901,B2,,No,MCGREEVEY WAY,Part Three,None,765344.0,,2950000.0,2015

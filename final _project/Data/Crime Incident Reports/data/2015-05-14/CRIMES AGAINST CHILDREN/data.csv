@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1262,152039573.0,Thursday,No,2015-05-14T16:38:00.000,CRIMES AGAINST CHILDREN,"[0, 0]",Point,20xx,5,CHDABU,0,E18,First,No,GALLIVAN BL,Part Two,Other,,,,2015
+133628,152045229.0,Thursday,No,2015-05-14T16:10:00.000,CRIMES AGAINST CHILDREN,"[-71.12088, 42.351821]",Point,20xx,5,AB,0,D14,First,No,COMMONWEALTH AV,Part Two,Unarmed,758645.7992,,2953460.415,2015
+173694,152045296.0,Thursday,No,2015-05-14T12:00:00.000,CRIMES AGAINST CHILDREN,"[-71.12088, 42.351821]",Point,20xx,5,CHDABU,0,D14,Day,No,COMMONWEALTH AV,Part Two,Unarmed,758645.7992,,2953460.415,2015

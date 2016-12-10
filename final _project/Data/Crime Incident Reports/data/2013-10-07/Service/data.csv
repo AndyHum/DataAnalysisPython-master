@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84844,130640294.0,Monday,No,2013-10-07T17:26:00.000,Service,"[-71.08878, 42.282781]",Point,Service,10,ARREST,429,B3,First,No,MORTON ST,Part three,Unarmed,767443.7938,,2928341.035,2013
+105608,130640447.0,Monday,No,2013-10-07T18:24:00.000,Service,"[-71.11917, 42.251963]",Point,Service,10,INVEST,0,E18,First,No,TRUMAN PY,Part three,Unarmed,759270.3839,,2917072.4560000002,2013
+188926,130639529.0,Monday,No,2013-10-07T11:44:00.000,Service,"[-71.11439, 42.301901]",Point,Service,10,ASSTPO,0,E13,Day,No,NEW WASHINGTON ST,Part three,Unarmed,760482.3248,SOUTH ST,2935276.5360000003,2013
+213319,130639440.0,Monday,No,2013-10-07T10:55:00.000,Service,"[-71.038105, 42.333906]",Point,Service,10,IVPER ,230,C6,Day,No,E 5TH ST,Other,Unarmed,781055.6557,,2947042.18,2013

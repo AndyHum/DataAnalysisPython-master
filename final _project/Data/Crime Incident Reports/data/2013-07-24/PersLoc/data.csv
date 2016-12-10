@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25955,130462867.0,Wednesday,No,2013-07-24T15:55:00.000,PersLoc,"[-71.07533, 42.337671]",Point,PersLoc,7,MISPER,168,D4,Day,No,WASHINGTON ST,Other,Unarmed,770983.8818,,2948361.905,2013
+37782,130459142.0,Wednesday,No,2013-07-24T08:00:00.000,PersLoc,"[-71.0545, 42.336796]",Point,PersLoc,7,MSNCOM,197,C6,Day,No,LINSKY BARRY CT,Other,Unarmed,776617.2571,,2948071.767,2013
+43989,130460803.0,Wednesday,No,2013-07-24T21:10:00.000,PersLoc,"[-71.05743, 42.300921]",Point,PersLoc,7,MSNCOM,351,C11,First,No,DICKENS ST,Other,Unarmed,775892.9091,,2934994.215,2013
+63477,130461398.0,Wednesday,No,2013-07-24T08:00:00.000,PersLoc,"[-71.09789, 42.320776]",Point,PersLoc,7,MISPER,304,B2,Day,No,ACADEMY CT,Other,Unarmed,764913.4583,,2942175.505,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58618,130101433.0,Monday,No,2013-02-18T02:37:00.000,InvProp,"[-71.074985, 42.342171]",Point,InvProp,2,ALARMC,153,D4,Last,No,TREMONT ST,Part Three,Unarmed,771068.9870000001,,2950002.251,2013
+138871,130101802.0,Monday,No,2013-02-18T10:47:00.000,InvProp,"[-71.15646, 42.284136]",Point,InvProp,2,ALARMC,735,E5,Day,No,MCKENNA TR,Part Three,Unarmed,749127.6572,,2928754.038,2013
+200592,130102126.0,Monday,No,2013-02-18T14:55:00.000,InvProp,"[-71.114685, 42.303916]",Point,InvProp,2,LARCRT,651,E13,Day,No,SOUTH ST,Part Three,Unarmed,760399.2049,,2936010.472,2013

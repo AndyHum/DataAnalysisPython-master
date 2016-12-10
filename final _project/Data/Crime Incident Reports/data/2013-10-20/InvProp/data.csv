@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61139,130669665.0,Sunday,No,2013-10-20T18:00:00.000,InvProp,"[-71.077625, 42.353141]",Point,InvProp,10,REQP  ,132,D4,First,No,MARLBOROUGH ST,Part three,Unarmed,770335.4753,,2953996.383,2013
+93177,130668420.0,Sunday,No,2013-10-20T00:29:00.000,InvProp,"[-71.07547, 42.280331]",Point,InvProp,10,SHOTS ,416,B3,Last,No,FAIRMOUNT ST,Part three,Other,771050.032,MILTON AV,2927466.1160000004,2013
+99018,130668509.0,Sunday,No,2013-10-20T01:24:00.000,InvProp,"[-71.132351, 42.3014]",Point,InvProp,10,BEIP  ,658,E13,Last,No,ALLANDALE ST,Part three,Other,755624.1590000001,,2935072.307,2013
+139805,130669715.0,Sunday,No,2013-10-20T18:24:00.000,InvProp,"[-71.090389, 42.331096]",Point,InvProp,10,SCHALM,290,B2,First,No,MALCOLM X BL,Part three,Unarmed,766923.848,,2945945.7830000003,2013
+196227,130670997.0,Sunday,No,2013-10-20T21:30:00.000,InvProp,"[-71.036455, 42.376976]",Point,InvProp,10,INVEST,23,A7,First,No,MARION ST,Part three,Unarmed,781416.4866,,2962740.107,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5566,140000137.0,Wednesday,No,2014-01-01T00:43:00.000,PropFound,"[-71.08257, 42.348656]",Point,PropFound,1,FDPROP,130,D4,Last,No,BOYLSTON ST,Part three,Unarmed,769006.8448,DARTMOUTH ST,2952355.38,2014
+126291,140002126.0,Wednesday,No,2014-01-01T18:00:00.000,PropFound,"[-71.14775, 42.285971]",Point,PropFound,1,FDPROP,691,E5,First,No,BELGRADE AV,Part three,Unarmed,751481.7802,W ROXBURY PY,2929432.354,2014
+178838,140001037.0,Wednesday,No,2014-01-01T10:05:00.000,PropFound,"[-71.07322, 42.354326]",Point,PropFound,1,FDPROP,132,D4,Day,No,MARLBOROUGH ST,Part three,Unarmed,771523.9831,,2954434.147,2014
+179014,140002105.0,Wednesday,No,2014-01-01T21:00:00.000,PropFound,"[-71.06942, 42.362401]",Point,PropFound,1,LSTPRP,72,A1,First,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+230966,140000755.0,Wednesday,No,2014-01-01T01:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,1,LSTPRP,72,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148985,152000602.0,Friday,No,2015-01-02T19:57:00.000,FIRE,"[-71.06769, 42.310766]",Point,FIRE,1,FIRE,0,C11,First,No,BELLEVUE ST,Part three,Unarmed,773099.167,,2938567.648,2015
+191927,152000650.0,Friday,No,2015-01-02T23:48:00.000,FIRE,"[-71.10819, 42.273356]",Point,FIRE,1,FIRE,0,B3,Last,No,CUMMINS HY,Part three,Unarmed,762207.3249,,2924881.9560000002,2015
+208810,152000552.0,Friday,No,2015-01-02T18:00:00.000,FIRE,"[-71.067485, 42.308271]",Point,FIRE,1,FIRE,0,C11,First,No,CLARKSON ST,Part three,Unarmed,773159.2220000001,,2937658.715,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63871,140246824.0,Wednesday,No,2014-04-23T12:30:00.000,32GUN,"[-71.065185, 42.307956]",Point,32GUN,4,BUYBAK,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773781.9406,,2937547.084,2014
+218172,140246836.0,Wednesday,No,2014-04-23T13:00:00.000,32GUN,"[-71.085618, 42.32866]",Point,32GUN,4,FDWEAP,282,B2,Day,No,WASHINGTON ST,Part three,Firearm,768218.0809,,2945064.255,2014
+221290,140246887.0,Wednesday,No,2014-04-23T13:00:00.000,32GUN,"[-71.059987, 42.361648]",Point,32GUN,4,BUYBAK,72,A1,Day,No,SUDBURY ST,Part three,Firearm,775087.02,,2957120.525,2014

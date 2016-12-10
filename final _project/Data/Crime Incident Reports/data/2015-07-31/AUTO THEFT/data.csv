@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43053,,Friday,No,2015-07-31T00:00:00.000,Auto Theft,"[-71.13035, 42.2426]",Point,07xx,7,IVMV,259,B2,,No,MAGNOLIA ST,Part One,None,756258.0,,2910000.0,2015
+74015,,Friday,No,2015-07-31T00:00:00.000,Auto Theft,"[-71.087733, 42.295904]",Point,07xx,7,,463,B3,,No,BLUE HILL AVE,Part One,None,767704.0,,2930000.0,2015
+87092,,Friday,No,2015-07-31T14:34:00.000,Auto Theft Recovery,"[0, 0]",Point,07RV,7,SS,0,,,No,,Other,None,,,,2015
+105652,,Friday,No,2015-07-31T00:00:00.000,Auto Theft,"[-71.052206, 42.337629]",Point,07xx,7,IVMV,214,C6,,No,D ST,Part One,None,777236.0,,2950000.0,2015
+119302,,Friday,No,2015-07-31T02:26:00.000,Auto Theft,"[0, 0]",Point,07xx,7,ARREST,768,D14,,No,ELECTRIC AVE,Part One,None,,GOODENOUGH ST,,2015
+156854,,Friday,No,2015-07-31T00:00:00.000,Auto Theft,"[-71.011501, 42.385121]",Point,07xx,7,IVMV,12,A7,,No,BENNINGTON ST,Part One,None,788142.0,,2970000.0,2015
+190496,,Friday,No,2015-07-31T00:00:00.000,Auto Theft,"[-71.050481, 42.333267]",Point,07xx,7,,216,C6,,No,DORCHESTER ST,Part One,None,777710.0,,2950000.0,2015
+203811,,Friday,No,2015-07-31T00:00:00.000,Auto Theft,"[-71.058419, 42.326921]",Point,07xx,7,IVMV,186,C6,,No,BOSTON ST,Part One,None,775576.0,,2940000.0,2015

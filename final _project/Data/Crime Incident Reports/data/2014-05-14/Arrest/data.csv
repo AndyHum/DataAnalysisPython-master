@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13223,140299256.0,Wednesday,No,2014-05-14T19:30:00.000,Arrest,"[-71.080171, 42.323684]",Point,Arrest,5,CD11  ,296,B2,First,No,ASPEN ST,Part three,Unarmed,769700.0537,,2943258.247,2014
+68116,140298040.0,Wednesday,No,2014-05-14T12:00:00.000,Arrest,"[-71.07502, 42.332376]",Point,Arrest,5,TRANSP,270,D4,Day,No,ALBANY ST,Part three,Unarmed,771077.0854,NORTH AV,2946432.707,2014
+215805,140298101.0,Wednesday,No,2014-05-14T12:16:00.000,Arrest,"[-71.064905, 42.352371]",Point,Arrest,5,ARREST,119,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014

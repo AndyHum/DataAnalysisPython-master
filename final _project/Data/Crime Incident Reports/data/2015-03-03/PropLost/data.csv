@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+200125,152017140.0,Tuesday,No,2015-03-03T12:00:00.000,PropLost,"[-71.09952, 42.317741]",Point,PropLost,3,PROP,0,E13,Day,No,W WALNUT PARK,Part three,Unarmed,764477.8371,,2941067.4260000004,2015
+207380,152017160.0,Tuesday,No,2015-03-03T15:00:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,3,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+209293,152018254.0,Tuesday,No,2015-03-03T02:00:00.000,PropLost,"[-71.097995, 42.344496]",Point,PropLost,3,LARCEN,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,764844.3223,JERSEY ST,2950819.3680000002,2015
+229217,152018446.0,Tuesday,No,2015-03-03T07:52:00.000,PropLost,"[-71.06942, 42.362401]",Point,PropLost,3,LARCEN,0,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+249507,152017454.0,Tuesday,No,2015-03-03T16:00:00.000,PropLost,"[-71.059969, 42.355867]",Point,PropLost,3,PROP,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775102.6197,WINTER ST,2955013.727,2015
+260338,152017347.0,Tuesday,No,2015-03-03T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,,,,2015

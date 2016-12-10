@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59518,140123240.0,Thursday,No,2014-02-27T20:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,2,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014
+125744,140122308.0,Thursday,No,2014-02-27T14:00:00.000,Service,"[0, 0]",Point,Service,2,AOD   ,207,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2014
+189468,140122349.0,Thursday,No,2014-02-27T14:00:00.000,Service,"[-71.10238, 42.263546]",Point,Service,2,ARREST,483,E18,Day,No,RIVER ST,Part three,Unarmed,763796.412,,2921314.337,2014
+203085,140122909.0,Thursday,No,2014-02-27T18:10:00.000,Service,"[-71.117179, 42.257119]",Point,Service,2,LOCK  ,519,E18,First,No,PIERCE ST,Part three,Unarmed,759800.8691,,2918953.793,2014
+206365,140122946.0,Thursday,No,2014-02-27T17:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,2,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014
+212149,140122337.0,Thursday,No,2014-02-27T13:47:00.000,Service,"[-71.090025, 42.316871]",Point,Service,2,AOD   ,312,B2,Day,No,HAROLD ST,Part three,Unarmed,767047.292,,2940762.583,2014

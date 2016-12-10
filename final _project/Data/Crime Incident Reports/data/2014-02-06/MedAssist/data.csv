@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101184,140076684.0,Thursday,No,2014-02-06T15:17:00.000,MedAssist,"[-71.058335, 42.314911]",Point,MedAssist,2,EDP2  ,247,C11,Day,No,PEARL ST,Part three,Unarmed,775621.6905,,2940091.1180000002,2014
+143243,140075590.0,Thursday,No,2014-02-06T06:12:00.000,MedAssist,"[-71.05718, 42.285086]",Point,MedAssist,2,SDNDTH,391,C11,Last,No,BERKSHIRE ST,Part three,Unarmed,775990.4981,,2929224.066,2014
+143724,140077088.0,Thursday,No,2014-02-06T18:05:00.000,MedAssist,"[-71.02121, 42.381561]",Point,MedAssist,2,UNK   ,15,A7,First,No,BENNINGTON ST,Part three,Unarmed,785526.2566,,2964433.728,2014
+156570,140077095.0,Thursday,No,2014-02-06T18:14:00.000,MedAssist,"[-71.09037, 42.315906]",Point,MedAssist,2,EDP2  ,312,B2,First,No,HOLLANDER ST,Part three,Unarmed,766955.4726,,2940410.3619999997,2014
+173805,140075650.0,Thursday,No,2014-02-06T07:54:00.000,MedAssist,"[-71.164659, 42.343432]",Point,MedAssist,2,THREAT,751,D14,Day,No,LAKE ST,Part three,Unarmed,746823.8458,,2950353.722,2014
+194811,140076961.0,Thursday,No,2014-02-06T17:24:00.000,MedAssist,"[-71.15342, 42.349091]",Point,MedAssist,2,IVPER ,771,D14,First,No,CHESTNUT HILL AV,Part three,Unarmed,749854.0873,WASHINGTON ST,2952428.1289999997,2014
+205234,140076899.0,Thursday,No,2014-02-06T16:30:00.000,MedAssist,"[-71.085628, 42.34206]",Point,MedAssist,2,IVPER ,283,D4,First,No,HUNTINGTON AV,Part three,Unarmed,768191.7788,,2949947.602,2014

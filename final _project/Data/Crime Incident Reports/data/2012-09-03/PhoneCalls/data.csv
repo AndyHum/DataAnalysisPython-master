@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23634,120558944.0,Monday,No,2012-09-03T20:00:00.000,PhoneCalls,"[-71.084445, 42.27046]",Point,PhoneCalls,9,HARPT ,406,B3,First,No,SOUTHMERE RD,Part Three,Unarmed,768638.816,,2923857.0330000003,2012
+116172,120550140.0,Monday,No,2012-09-03T01:00:00.000,PhoneCalls,"[-71.06939, 42.339506]",Point,PhoneCalls,9,IVPER ,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+249546,120552307.0,Monday,No,2012-09-03T10:15:00.000,PhoneCalls,"[-71.094521, 42.27791]",Point,PhoneCalls,9,HARPT ,469,B3,Day,No,WALK HILL ST,Part Three,Other,765898.5905,,2926558.567,2012

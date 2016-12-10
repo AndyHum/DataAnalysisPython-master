@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45726,142058686.0,Thursday,No,2014-12-18T14:51:00.000,InvProp,"[-71.039965, 42.318876]",Point,InvProp,12,BE,0,C6,Day,No,BEACH POINT PL,Part three,Unarmed,780582.2878,,2941562.285,2014
+50045,142058518.0,Thursday,No,2014-12-18T03:48:00.000,InvProp,"[-71.095995, 42.347161]",Point,InvProp,12,ALARM,0,D4,Last,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014
+84022,142058554.0,Thursday,No,2014-12-18T06:30:00.000,InvProp,"[-71.145297, 42.349864]",Point,InvProp,12,CD8,0,D14,Last,No,WARREN ST,Part three,Unarmed,752048.4758,,2952718.7569999998,2014

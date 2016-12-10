@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80405,120759898.0,Monday,No,2012-11-26T12:00:00.000,FORGERY,"[-71.098625, 42.346181]",Point,10xx,11,LARCRT,627,D4,Day,No,YAWKEY WY,Part Two,Other,764671.1215,,2951432.6119999997,2012
+155951,120784681.0,Monday,No,2012-11-26T07:00:00.000,FORGERY,"[-71.067275, 42.359286]",Point,10xx,11,LARCRT,67,A1,Last,No,MYRTLE ST,Part Two,Unarmed,773121.7145,,2956249.7610000004,2012
+250717,120787016.0,Monday,No,2012-11-26T09:00:00.000,FORGERY,"[-71.068695, 42.360676]",Point,10xx,11,LARCRT,64,A1,Day,No,GROVE ST,Part Two,Unarmed,772735.3652,,2956754.36,2012

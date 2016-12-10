@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91964,130593687.0,Tuesday,No,2013-09-17T20:36:00.000,DISORDERLY,"[-71.094726, 42.31315]",Point,24xx,9,MVPED1,316,E13,First,No,SEAVER ST,Part Two,Other,765782.1363,COLUMBUS AV,2939400.348,2013
+210306,130593825.0,Tuesday,No,2013-09-17T21:54:00.000,DISORDERLY,"[-71.07149, 42.297411]",Point,24xx,9,IVPER ,0,C11,First,No,CLAYBOURNE ST,Part Two,Other,772095.7925,TONAWANDA ST,2933695.6960000005,2013
+214679,130596734.0,Tuesday,No,2013-09-17T21:00:00.000,DISORDERLY,"[-71.043705, 42.318648]",Point,24xx,9,DISTRB,256,C6,First,No,HARBOR POINT BL,Part Two,Unarmed,779571.1183,NORTH POINT DR,2941473.478,2013

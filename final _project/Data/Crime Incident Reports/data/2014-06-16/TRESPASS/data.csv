@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+139767,140381256.0,Monday,No,2014-06-16T10:12:00.000,TRESPASS,"[-71.05862, 42.295126]",Point,TRESPASS,6,IVPER ,364,C11,Day,No,LESLIE ST,Part Two,Unarmed,775581.9166,,2932880.7630000003,2014
+212031,140381859.0,Monday,No,2014-06-16T14:55:00.000,TRESPASS,"[-71.063873, 42.325436]",Point,TRESPASS,6,ARREST,186,C6,Day,No,ALLSTATE RD,Part Two,Unarmed,774104.1328,,2943918.604,2014
+258111,140382277.0,Monday,No,2014-06-16T17:00:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,6,SSTOP ,280,B2,First,No,TABER ST,Part Two,Unarmed,,,,2014

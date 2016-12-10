@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2044,152024110.0,Wednesday,No,2015-03-25T08:45:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,MISSIN,0,B3,Day,No,STRATTON ST,Other,Unarmed,,,,2015
+100118,152024233.0,Wednesday,No,2015-03-25T14:45:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,3,IVPER,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015
+101143,152023926.0,Wednesday,No,2015-03-25T02:40:00.000,PersLoc,"[-71.05766, 42.295991]",Point,PersLoc,3,IVPER,0,C11,Last,No,DIX ST,Other,Unarmed,775840.0044,,2933197.329,2015
+118592,152024087.0,Wednesday,No,2015-03-25T12:57:00.000,PersLoc,"[-71.06563, 42.307516]",Point,PersLoc,3,MISSIN,0,C11,Day,No,BOWDOIN ST,Other,Unarmed,773662.3883,,2937386.1289999997,2015
+243647,152024274.0,Wednesday,No,2015-03-25T21:40:00.000,PersLoc,"[-71.067845, 42.299908]",Point,PersLoc,3,IVPER,0,C11,First,No,DAKOTA ST,Other,Unarmed,773077.1372,,2934610.3030000003,2015
+267077,152024520.0,Wednesday,No,2015-03-25T10:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,IVPER,0,E18,Day,No,AMORY ST,Other,Unarmed,,,,2015

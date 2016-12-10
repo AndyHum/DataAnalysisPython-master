@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7061,152045566.0,Tuesday,No,2015-06-02T14:13:00.000,Arrest,"[-71.08634, 42.314001]",Point,Arrest,6,ARREST,0,B2,Day,No,WAUMBECK ST,Part three,Unarmed,768048.9904,,2939721.52,2015
+76596,152045518.0,Tuesday,No,2015-06-02T12:15:00.000,Arrest,"[-71.057309, 42.342704]",Point,Arrest,6,IVPREM,0,C6,Day,No,W BROADWAY,Part three,Unarmed,775846.4397,DORCHESTER AV,2950220.7819999997,2015
+114633,152045463.0,Tuesday,No,2015-06-02T09:30:00.000,Arrest,"[-71.05899, 42.356791]",Point,Arrest,6,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775365.6264,,2955352.003,2015

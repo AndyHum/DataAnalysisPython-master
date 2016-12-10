@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45677,130728141.0,Saturday,No,2013-11-16T12:30:00.000,32GUN,"[-71.127043, 42.300948]",Point,32GUN,11,AOD   ,0,E13,Day,No,CENTRE ST,Part three,Unarmed,757060.8483,,2934913.767,2013
+75144,130727970.0,Saturday,No,2013-11-16T10:50:00.000,32GUN,"[-71.09324, 42.294511]",Point,32GUN,11,FDWEAP,566,B3,Day,No,AMERICAN LEGION HY,Part three,Unarmed,766216.6386,AUSTIN ST,2932610.08,2013
+228003,130728780.0,Saturday,No,2013-11-16T19:00:00.000,32GUN,"[-71.150915, 42.348981]",Point,32GUN,11,INVEST,454,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013

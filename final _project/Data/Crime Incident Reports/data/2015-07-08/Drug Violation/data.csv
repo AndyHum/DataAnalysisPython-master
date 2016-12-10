@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13149,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,7,INVEST,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+50230,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.054679, 42.341288]",Point,18xx,7,IVPREM,200,C6,,No,W BROADWAY,Part Two,None,776560.0,,2950000.0,2015
+51808,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,7,ADMRPT,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+72918,,Wednesday,No,2015-07-08T19:41:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPREM,522,E18,,No,HYDE PARK AVE,Part Two,None,,,,2015
+87329,,Wednesday,No,2015-07-08T20:17:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPREM,519,E18,,No,HYDE PARK AVE,Part Two,None,,,,2015
+100892,,Wednesday,No,2015-07-08T03:30:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,113,A1,,No,OTIS ST,Part Two,None,, SUMMER ST ,,2015
+111034,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,7,POISON,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+112749,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.091878, 42.333679]",Point,18xx,7,IVPREM,289,B2,,No,SCHROEDER PLZ,Part Two,None,766517.0,,2950000.0,2015
+125766,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.06134, 42.310434]",Point,18xx,7,IVPREM,257,C11,,No,HANCOCK ST,Part Two,None,774817.0,,2940000.0,2015
+128321,,Wednesday,No,2015-07-08T13:12:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPER,182,B2,,No,NORFOLK AVE,Part Two,None,,,,2015
+138591,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.088809, 42.333802]",Point,18xx,7,I00015,289,B2,,No,WHITTIER ST,Part Two,None,767346.0,,2950000.0,2015
+202184,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.065255, 42.352418]",Point,18xx,7,IVPER,119,A1,,No,BOYLSTON ST,Part Two,None,773680.0,,2950000.0,2015
+226625,,Wednesday,No,2015-07-08T17:29:00.000,Drug Violation,"[0, 0]",Point,18xx,7,I00015,290,B2,,No,MALCOLM X BLVD,Part Two,None,,,,2015
+230813,,Wednesday,No,2015-07-08T00:00:00.000,Drug Violation,"[-71.075976, 42.334637]",Point,18xx,7,IVPER,271,D4,,No,NORTHAMPTON ST,Part Two,None,770815.0,,2950000.0,2015

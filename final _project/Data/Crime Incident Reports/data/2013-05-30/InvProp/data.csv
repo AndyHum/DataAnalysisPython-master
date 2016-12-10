@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9257,130324679.0,Thursday,No,2013-05-30T13:08:00.000,InvProp,"[-71.038075, 42.337276]",Point,InvProp,5,THREAT,222,C6,Day,No,E 2ND ST,Part Three,Unarmed,781057.1166,,2948270.309,2013
+39390,130324454.0,Thursday,No,2013-05-30T09:30:00.000,InvProp,"[-71.08156, 42.348911]",Point,InvProp,5,IVPREM,143,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769279.4105,,2952449.645,2013
+52309,130325918.0,Thursday,No,2013-05-30T21:00:00.000,InvProp,"[-71.1745, 42.291705]",Point,InvProp,5,IVPER ,729,E5,First,No,BAKER ST,Part Three,Unarmed,744235.5882,,2931493.113,2013
+93723,130325823.0,Thursday,No,2013-05-30T20:20:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,5,INVEST,76,A1,First,No,CANAL ST,Part three,Unarmed,774746.5282,CAUSEWAY ST,2958530.278,2013
+205168,130323954.0,Thursday,No,2013-05-30T06:46:00.000,InvProp,"[-71.07483, 42.349831]",Point,InvProp,5,REQP  ,129,D4,Last,No,CLARENDON ST,Part three,Unarmed,771096.9764,ST JAMES AV,2952793.9069999997,2013
+210136,130325635.0,Thursday,No,2013-05-30T18:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPER ,0,B3,First,No,AMERICAN LEGION HY,Part Three,Unarmed,,,,2013
+231211,130325648.0,Thursday,No,2013-05-30T06:30:00.000,InvProp,"[-71.060515, 42.289416]",Point,InvProp,5,ABANMV,366,C11,Last,No,EDWIN ST,Part three,Unarmed,775079.9488,,2930797.313,2013
+239348,130324014.0,Thursday,No,2013-05-30T08:00:00.000,InvProp,"[-71.08156, 42.348911]",Point,InvProp,5,CD9   ,143,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769279.4105,,2952449.645,2013
+249560,130324316.0,Thursday,No,2013-05-30T10:00:00.000,InvProp,"[-71.10137, 42.336346]",Point,InvProp,5,CD9   ,612,B2,Day,No,LONGWOOD AV,Part three,Unarmed,763945.8169,,2947845.0730000003,2013
+256901,130326142.0,Thursday,No,2013-05-30T22:38:00.000,InvProp,"[-71.080301, 42.292654]",Point,InvProp,5,IVPREM,442,B3,First,No,TALBOT AV,Part Three,Other,769720.5959999999,,2931950.291,2013
+264166,130327619.0,Thursday,No,2013-05-30T14:25:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,577,E13,Day,No,ARMORY ST,Part Three,Unarmed,,,,2013

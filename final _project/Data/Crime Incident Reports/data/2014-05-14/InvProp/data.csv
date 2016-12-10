@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16126,140299864.0,Wednesday,No,2014-05-14T16:30:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,5,MISC  ,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+63938,140299160.0,Wednesday,No,2014-05-14T19:51:00.000,InvProp,"[-71.05889, 42.295641]",Point,InvProp,5,SHOTS ,364,C11,First,No,DIX ST,Part three,Firearm,775507.8974,LESLIE ST,2933068.059,2014
+105019,140297955.0,Wednesday,No,2014-05-14T11:16:00.000,InvProp,"[-71.094225, 42.349921]",Point,InvProp,5,LARCIP,622,D4,Day,No,BAY STATE RD,Part three,Unarmed,765854.0863,,2952801.1689999998,2014
+115057,140298529.0,Wednesday,No,2014-05-14T15:10:00.000,InvProp,"[-71.074855, 42.350756]",Point,InvProp,5,REQP  ,134,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2014
+173501,140297843.0,Wednesday,No,2014-05-14T10:30:00.000,InvProp,"[-71.094521, 42.27791]",Point,InvProp,5,LARCRT,468,B3,Day,No,WALK HILL ST,Part three,Unarmed,765898.5905,,2926558.567,2014
+187611,140298748.0,Wednesday,No,2014-05-14T16:41:00.000,InvProp,"[-71.087175, 42.308436]",Point,InvProp,5,BOMB  ,319,B2,First,No,SONOMA ST,Part three,Unarmed,767832.9666,,2937692.45,2014
+215392,140298366.0,Wednesday,No,2014-05-14T14:10:00.000,InvProp,"[0, 0]",Point,InvProp,5,BOMB  ,137,D4,Day,No,PUBLIC ALLEY 432,Part three,Unarmed,,,,2014
+229552,140299237.0,Wednesday,No,2014-05-14T19:00:00.000,InvProp,"[-71.101435, 42.342121]",Point,InvProp,5,FIGHT ,626,D4,First,No,PARK DR,Part three,Unarmed,763918.4088,,2949949.5089999996,2014
+239766,140299261.0,Wednesday,No,2014-05-14T20:41:00.000,InvProp,"[-71.10483, 42.322711]",Point,InvProp,5,SHOTS ,912,E13,First,No,MOZART ST,Part three,Firearm,763033.3512,CENTRE ST,2942871.881,2014
+256671,140298073.0,Wednesday,No,2014-05-14T13:10:00.000,InvProp,"[-71.05372, 42.356676]",Point,InvProp,5,BOMB  ,100,A1,Day,No,FRANKLIN ST,Part three,Unarmed,776790.2397,,2955317.5039999997,2014

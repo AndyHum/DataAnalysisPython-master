@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24541,142052867.0,Friday,No,2014-11-28T13:30:00.000,InvPer,"[-71.12532, 42.251951]",Point,InvPer,11,FIGHT,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757605.5093,,2917060.857,2014
+26863,142052869.0,Friday,No,2014-11-28T14:20:00.000,InvPer,"[-71.03887, 42.371246]",Point,InvPer,11,IVPER,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+50339,142052914.0,Friday,No,2014-11-28T17:15:00.000,InvPer,"[-71.08418, 42.308836]",Point,InvPer,11,REQEP,0,B2,First,No,CHENEY ST,Part three,Unarmed,768642.3737,,2937842.151,2014
+117817,142052769.0,Friday,No,2014-11-28T05:30:00.000,InvPer,"[-71.08185, 42.279916]",Point,InvPer,11,REQEP,0,B3,Last,No,MORTON ST,Part three,Unarmed,769324.2782,,2927306.356,2014
+121723,142052988.0,Friday,No,2014-11-28T09:00:00.000,InvPer,"[-71.127615, 42.357546]",Point,InvPer,11,NIDV,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,756816.1812,,2955538.702,2014
+195120,142052805.0,Friday,No,2014-11-28T10:00:00.000,InvPer,"[-71.15437, 42.263931]",Point,InvPer,11,IVPER,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,749723.0372,ROCKINGHAM AV,2921393.3230000003,2014
+212085,142052941.0,Friday,No,2014-11-28T19:04:00.000,InvPer,"[-71.090772, 42.341561]",Point,InvPer,11,IVPER,0,D4,First,No,HEMENWAY ST,Part three,Unarmed,766801.9673,,2949758.7819999997,2014
+243524,142052876.0,Friday,No,2014-11-28T14:30:00.000,InvPer,"[-71.0719, 42.293541]",Point,InvPer,11,UNK,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,771991.9497,,2932284.853,2014
+265598,142053549.0,Friday,No,2014-11-28T16:20:00.000,InvPer,"[0, 0]",Point,InvPer,11,IVPER,0,E13,First,No,CENTRE ST,Part three,Unarmed,,,,2014

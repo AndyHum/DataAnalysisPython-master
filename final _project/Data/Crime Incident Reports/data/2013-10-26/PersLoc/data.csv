@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27196,130694245.0,Saturday,No,2013-10-26T12:00:00.000,PersLoc,"[-71.07987, 42.299386]",Point,PersLoc,10,MISPER,445,B3,Day,No,GREENWOOD ST,Other,Unarmed,769825.1427,,2934404.137,2013
+29069,130684410.0,Saturday,No,2013-10-26T19:30:00.000,PersLoc,"[-71.05698, 42.301971]",Point,PersLoc,10,MISPER,350,C11,First,No,LEONARD ST,Other,Unarmed,776012.6569,,2935377.482,2013
+256123,130681684.0,Saturday,No,2013-10-26T00:04:00.000,PersLoc,"[-71.101367, 42.330119]",Point,PersLoc,10,MSNCOM,586,B2,Last,No,HILLSIDE ST,Other,Unarmed,763957.2066,,2945575.7389999996,2013
+257472,130682833.0,Saturday,No,2013-10-26T14:00:00.000,PersLoc,"[-71.08421, 42.300656]",Point,PersLoc,10,MISPER,457,B3,Day,No,DRUMMOND ST,Other,Unarmed,768648.7894,,2934861.192,2013
+261223,130683380.0,Saturday,No,2013-10-26T18:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,10,MSNCOM,315,B2,First,No,WELLINGTON CT,Other,Unarmed,,,,2013

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38201,140194391.0,Monday,No,2014-03-31T19:04:00.000,Service,"[-71.062525, 42.355916]",Point,Service,3,ABIP  ,102,A1,First,No,TREMONT ST,Part three,Unarmed,774411.8094,,2955028.2169999997,2014
+68832,140194426.0,Monday,No,2014-03-31T19:16:00.000,Service,"[-71.077885, 42.303252]",Point,Service,3,SSTOP ,0,C11,First,No,ELDON ST,Part three,Unarmed,770354.9176,WASHINGTON ST,2935815.463,2014
+111433,140193451.0,Monday,No,2014-03-31T12:02:00.000,Service,"[-71.080323, 42.340407]",Point,Service,3,CD11  ,155,D4,Day,No,W SPRINGFIELD ST,Part three,Unarmed,769629.0283,,2949352.1410000003,2014
+175456,140194638.0,Monday,No,2014-03-31T20:56:00.000,Service,"[-71.103995, 42.333881]",Point,Service,3,ARREST,603,B2,First,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2014
+211847,140194365.0,Monday,No,2014-03-31T13:10:00.000,Service,"[-71.130905, 42.282142]",Point,Service,3,THREAT,559,E5,Day,No,CLIFTONDALE ST,Part three,Other,756045.791,,2928055.9760000003,2014
+235354,140194772.0,Monday,No,2014-03-31T10:10:00.000,Service,"[-71.104087, 42.323863]",Point,Service,3,TRANSP,906,E13,Day,No,WALDEN ST,Part three,Unarmed,763232.0758,,2943292.542,2014

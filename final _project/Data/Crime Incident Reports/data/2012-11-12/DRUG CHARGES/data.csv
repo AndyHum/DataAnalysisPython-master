@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15046,120713526.0,Monday,No,2012-11-12T17:55:00.000,DRUG CHARGES,"[-71.0628, 42.358371]",Point,18xx,11,ARREST,0,A1,First,No,BOWDOIN ST,Part Two,Unarmed,774332.8948,,2955922.485,2012
+22286,120713698.0,Monday,No,2012-11-12T19:00:00.000,DRUG CHARGES,"[-71.091325, 42.284861]",Point,18xx,11,MISC  ,465,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766751.5911,,2929095.955,2012
+54276,120712825.0,Monday,No,2012-11-12T11:45:00.000,DRUG CHARGES,"[-71.08271, 42.331051]",Point,18xx,11,IVPER ,276,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,769000.3868,RUGGLES ST,2945939.61,2012
+118015,120713613.0,Monday,No,2012-11-12T16:00:00.000,DRUG CHARGES,"[-71.091325, 42.284861]",Point,18xx,11,IVDRUG,465,B3,First,No,BLUE HILL AV,Part Two,Other,766751.5911,,2929095.955,2012
+247007,120713700.0,Monday,No,2012-11-12T19:55:00.000,DRUG CHARGES,"[-71.064825, 42.343616]",Point,18xx,11,IVPER ,163,D4,First,No,E BERKELEY ST,Part Two,Other,773813.0179,,2950542.686,2012

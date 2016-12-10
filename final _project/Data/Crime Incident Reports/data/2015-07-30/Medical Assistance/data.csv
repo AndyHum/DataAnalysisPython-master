@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4155,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.051958, 42.359613]",Point,MedAssist,7,UNCONS,95,A1,,No,STATE ST,Part Three,None,777261.0,,2960000.0,2015
+54678,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.06091, 42.29769]",Point,MedAssist,7,EDP,360,C11,,No,DORCHESTER AVE,Part Three,None,774958.0,,2930000.0,2015
+93032,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.106796, 42.326655]",Point,MedAssist,7,ALARM,607,E13,,No,HEATH ST,Part Three,None,762495.0,,2940000.0,2015
+111079,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.075771, 42.383427]",Point,MedAssist,7,TRAUMA,50,A15,,No,CAMBRIDGE ST,Part Three,None,770781.0,,2970000.0,2015
+117993,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.146508, 42.271695]",Point,MedAssist,7,UNCONS,706,E5,,No,VERSHIRE ST,Part Three,None,751839.0,,2920000.0,2015
+133619,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.072088, 42.339268]",Point,MedAssist,7,UNK,905,D4,,No,E BROOKLINE ST,Part Three,None,771857.0,,2950000.0,2015
+161016,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.082513, 42.313635]",Point,MedAssist,7,I00015,322,B2,,No,GASTON ST,Part Three,None,769085.0,,2940000.0,2015
+161107,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.026166, 42.337475]",Point,MedAssist,7,I00015,224,C6,,No,E SECOND ST,Part Three,None,784276.0,,2950000.0,2015
+165890,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.14367, 42.356744]",Point,MedAssist,7,BURN,804,D14,,No,GUEST ST,Part Three,None,752478.0,,2960000.0,2015
+170206,,Thursday,No,2015-07-30T19:55:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,REQEP,235,C6,,No,BUTTONWOOD ST,Part Three,None,,MOUNT VERNON ST,,2015
+198342,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.05794, 42.287412]",Point,MedAssist,7,I00015,919,C11,,No,ASHMONT ST,Part Three,None,775780.0,,2930000.0,2015
+221095,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.035448, 42.369562]",Point,MedAssist,7,UNCONS,30,A7,,No,FRANKFORT ST,Part Three,None,781703.0,,2960000.0,2015
+258757,,Thursday,No,2015-07-30T00:00:00.000,Medical Assistance,"[-71.035602, 42.37766]",Point,MedAssist,7,EDP,23,A7,,No,PRINCETON ST,Part Three,None,781646.0,,2960000.0,2015

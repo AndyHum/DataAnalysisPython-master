@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123764,142032408.0,Wednesday,No,2014-09-24T00:50:00.000,Arrest,"[-71.06139, 42.352461]",Point,Arrest,9,ARREST,0,A1,Last,No,HARRISON AV,Part three,Unarmed,774725.0603,ESSEX ST,2953770.724,2014
+210269,142032608.0,Wednesday,No,2014-09-24T16:00:00.000,Arrest,"[-71.074855, 42.350756]",Point,Arrest,9,ARREST,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2014
+225174,142032467.0,Wednesday,No,2014-09-24T09:15:00.000,Arrest,"[-71.059735, 42.297541]",Point,Arrest,9,ARREST,0,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014

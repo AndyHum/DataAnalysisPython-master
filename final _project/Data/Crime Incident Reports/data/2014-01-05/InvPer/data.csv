@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45390,140008141.0,Sunday,No,2014-01-05T10:58:00.000,InvPer,"[-71.14628, 42.287389]",Point,InvPer,1,HARPT ,676,E5,Day,No,COLBERT ST,Part three,Unarmed,751877.2481,,2929950.63,2014
+73431,140008495.0,Sunday,No,2014-01-05T14:57:00.000,InvPer,"[-71.081035, 42.303661]",Point,InvPer,1,BEIP  ,459,B3,Day,No,GLENARM ST,Part three,Unarmed,769502.3238,,2935960.462,2014
+139203,140007839.0,Sunday,No,2014-01-05T04:00:00.000,InvPer,"[-71.081455, 42.338701]",Point,InvPer,1,CRIP  ,270,D4,Last,No,TREMONT ST,Part three,Unarmed,769326.0512,,2948729.0710000005,2014
+172304,140008357.0,Sunday,No,2014-01-05T13:46:00.000,InvPer,"[-71.12021, 42.284991]",Point,InvPer,1,THREAT,561,E5,Day,No,PALFREY ST,Part three,Unarmed,758935.3426,,2929107.204,2014
+193126,140008732.0,Sunday,No,2014-01-05T17:15:00.000,InvPer,"[-71.06778, 42.304421]",Point,InvPer,1,VIORDR,341,C11,First,No,STONEHURST ST,Part three,Other,773086.5394,,2936255.31,2014

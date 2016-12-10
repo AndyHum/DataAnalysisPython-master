@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41291,140310080.0,Monday,No,2014-05-19T04:56:00.000,WEAPONS CHARGE,"[-71.089268, 42.295385]",Point,15xx,5,CD11  ,908,B3,Last,No,SHANDON RD,Part Two,Unarmed,767289.676,,2932933.422,2014
+141356,140310908.0,Monday,No,2014-05-19T12:59:00.000,WEAPONS CHARGE,"[-71.07822, 42.302951]",Point,15xx,5,GANG  ,461,C11,Day,No,WASHINGTON ST,Part Two,Firearm,770265.0920000001,ELDON ST,2935705.481,2014
+175405,140310087.0,Monday,No,2014-05-19T04:56:00.000,WEAPONS CHARGE,"[-71.089268, 42.295385]",Point,15xx,5,CD11  ,908,B3,Last,No,SHANDON RD,Part Two,Unarmed,767289.676,,2932933.422,2014

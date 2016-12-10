@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2884,152027635.0,Saturday,No,2015-04-04T15:00:00.000,PropDam,"[0, 0]",Point,PropDam,4,IVPREM,0,B3,Day,No,NORFOLK ST,Part three,Unarmed,,,,2015
+20191,152027428.0,Saturday,No,2015-04-04T13:45:00.000,PropDam,"[-71.08121, 42.298426]",Point,PropDam,4,PROP,0,B3,Day,No,GLENWAY ST,Part three,Unarmed,769464.3511,,2934052.5160000003,2015
+149445,152027408.0,Saturday,No,2015-04-04T13:45:00.000,PropDam,"[-71.076712, 42.343431]",Point,PropDam,4,IVPREM,0,D4,Day,No,W BROOKLINE ST,Part three,Unarmed,770599.6667,,2950459.107,2015
+183002,152027429.0,Saturday,No,2015-04-04T13:30:00.000,PropDam,"[-71.062525, 42.355916]",Point,PropDam,4,IVPREM,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774411.8094,WINTER ST,2955028.2169999997,2015
+249926,152027435.0,Saturday,No,2015-04-04T13:00:00.000,PropDam,"[-71.066265, 42.382761]",Point,PropDam,4,IVPREM,0,A15,Day,No,MEDFORD ST,Part three,Unarmed,773351.1885,,2964805.918,2015
+267301,152027485.0,Saturday,No,2015-04-04T17:42:00.000,PropDam,"[0, 0]",Point,PropDam,4,PROP,0,C6,First,No,WASHBURN ST,Part three,Other,,,,2015
+267302,152027399.0,Saturday,No,2015-04-04T13:15:00.000,PropDam,"[0, 0]",Point,PropDam,4,MVA,0,E13,Day,No,CENTRE ST,Part three,Unarmed,,S HUNTINGTON AV,,2015

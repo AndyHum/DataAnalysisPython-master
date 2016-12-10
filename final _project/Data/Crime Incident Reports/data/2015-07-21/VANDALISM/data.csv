@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59015,,Tuesday,No,2015-07-21T07:45:00.000,Vandalism,"[0, 0]",Point,14xx,7,IVMV,51,A15,,No,BUNKER HILL ST,Part Two,None,, MEDFORD ST ,,2015
+101433,,Tuesday,No,2015-07-21T00:00:00.000,Vandalism,"[-71.143745, 42.354795]",Point,14xx,7,ALARM,804,D14,,No,N BEACON ST,Part Two,None,752461.0,,2950000.0,2015
+106082,,Tuesday,No,2015-07-21T00:00:00.000,Vandalism,"[-71.038569, 42.343911]",Point,14xx,7,VAND,209,C6,,No,SUMMER ST,Part Two,None,780910.0,,2950000.0,2015
+132350,,Tuesday,No,2015-07-21T00:00:00.000,Vandalism,"[-71.108662, 42.329336]",Point,14xx,7,VAND,606,B2,,No,FISHER AVE,Part Two,None,761986.0,,2950000.0,2015
+154479,,Tuesday,No,2015-07-21T00:00:00.000,Vandalism,"[-71.068646, 42.306265]",Point,14xx,7,VAND,336,C11,,No,NORTON ST,Part Two,None,772849.0,,2940000.0,2015

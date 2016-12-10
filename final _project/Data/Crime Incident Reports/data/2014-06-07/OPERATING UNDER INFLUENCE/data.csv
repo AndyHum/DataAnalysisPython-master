@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27253,140359874.0,Saturday,No,2014-06-07T21:39:00.000,OPERATING UNDER INFLUENCE,"[-71.074534, 42.318942]",Point,21xx,6,TRAUMA,261,B2,First,No,JULIAN ST,Part Two,Other,771233.0378,,2941537.659,2014
+64070,140357701.0,Saturday,No,2014-06-07T00:04:00.000,OPERATING UNDER INFLUENCE,"[-71.05907, 42.317781]",Point,21xx,6,ARREST,240,C11,Last,No,PLEASANT ST,Part Two,Unarmed,775417.4917,WILLIS ST,2941135.96,2014
+110551,140359292.0,Saturday,No,2014-06-07T17:19:00.000,OPERATING UNDER INFLUENCE,"[-71.067215, 42.394431]",Point,21xx,6,ARREST,48,A15,First,No,ALFORD ST,Part Two,Unarmed,773072.9459,,2969057.4189999998,2014

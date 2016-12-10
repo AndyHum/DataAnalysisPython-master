@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3453,152031669.0,Saturday,No,2015-04-18T12:45:00.000,DISORDERLY,"[0, 0]",Point,24xx,4,IVPER,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015
+174240,152031569.0,Saturday,No,2015-04-18T06:45:00.000,DISORDERLY,"[-71.093735, 42.316716]",Point,24xx,4,VAND,0,B2,Last,No,COBDEN ST,Part Two,Unarmed,766044.1755,,2940701.298,2015
+254038,152031516.0,Saturday,No,2015-04-18T00:11:00.000,DISORDERLY,"[-71.10547, 42.332593]",Point,24xx,4,DISTRB,0,B2,Last,No,CALUMET ST,Part Two,Unarmed,762843.4847,,2946472.0289999996,2015

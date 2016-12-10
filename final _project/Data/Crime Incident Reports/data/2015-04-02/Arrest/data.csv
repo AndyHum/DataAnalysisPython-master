@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2328,152026678.0,Thursday,No,2015-04-02T13:10:00.000,Arrest,"[0, 0]",Point,Arrest,4,ARREST,0,A7,Day,No,CLIPPER SHIP LA,Part three,Unarmed,,SUMNER ST,,2015
+24705,152026868.0,Thursday,No,2015-04-02T19:45:00.000,Arrest,"[-71.061745, 42.356021]",Point,Arrest,4,ARREST,0,A1,First,No,WINTER ST,Part three,Unarmed,774622.4376,TREMONT ST,2955067.563,2015
+138548,152026675.0,Thursday,No,2015-04-02T12:25:00.000,Arrest,"[-71.060554, 42.364937]",Point,Arrest,4,ARREST,0,A1,Day,No,CANAL ST,Part three,Unarmed,774927.5836,VALENTI WY,2958318.224,2015

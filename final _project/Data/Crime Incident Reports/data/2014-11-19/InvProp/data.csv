@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28219,142050297.0,Wednesday,No,2014-11-19T03:52:00.000,InvProp,"[-71.060674, 42.360562]",Point,InvProp,11,ALARM,0,A1,Last,No,CENTER PZ,Part three,Unarmed,774903.4055,,2956723.5960000004,2014
+45358,142050397.0,Wednesday,No,2014-11-19T13:00:00.000,InvProp,"[-71.05078, 42.356576]",Point,InvProp,11,CD9,0,A1,Day,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2014
+59808,142050413.0,Wednesday,No,2014-11-19T14:46:00.000,InvProp,"[-71.086517, 42.334457]",Point,InvProp,11,SHOTS,0,B2,Day,No,RAYNOR CR,Part three,Firearm,767964.9617,,2947175.691,2014
+156990,142050344.0,Wednesday,No,2014-11-19T09:57:00.000,InvProp,"[-71.075081, 42.315538]",Point,InvProp,11,ALARM,0,B2,Day,No,WOODCLIFF ST,Part three,Other,771091.3501,,2940296.3010000004,2014
+157893,142050515.0,Wednesday,No,2014-11-19T20:35:00.000,InvProp,"[-71.10395, 42.329316]",Point,InvProp,11,SHOTS,0,B2,First,No,PARKER HILL AV,Part three,Other,763260.1548,,2945279.966,2014
+165776,142050337.0,Wednesday,No,2014-11-19T09:37:00.000,InvProp,"[-71.053381, 42.33048]",Point,InvProp,11,IVPER,0,C6,Day,No,JENKINS ST,Part three,Unarmed,776931.7033,,2945771.62,2014
+201260,142050426.0,Wednesday,No,2014-11-19T14:40:00.000,InvProp,"[-71.12147, 42.263361]",Point,InvProp,11,REQP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,758629.3777,,2921223.4110000003,2014
+206075,142050479.0,Wednesday,No,2014-11-19T18:21:00.000,InvProp,"[-71.061933, 42.287398]",Point,InvProp,11,SHOTS,0,C11,First,No,DRACUT ST,Part three,Firearm,774699.9919,,2930059.777,2014
+229015,142050470.0,Wednesday,No,2014-11-19T16:00:00.000,InvProp,"[-71.083497, 42.321962]",Point,InvProp,11,MISC,0,B2,First,No,ROCKLAND ST,Part three,Unarmed,768803.7625,,2942626.381,2014

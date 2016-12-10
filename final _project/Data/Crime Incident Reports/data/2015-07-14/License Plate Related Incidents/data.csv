@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71643,,Tuesday,No,2015-07-14T00:00:00.000,License Plate Related Incidents,"[-71.047365, 42.280767]",Point,Plates,7,,385,C11,,No,HALLET ST,Part Three,None,778655.0,,2930000.0,2015
+165843,,Tuesday,No,2015-07-14T00:00:00.000,License Plate Related Incidents,"[-71.054679, 42.341288]",Point,Plates,7,IVMV,200,C6,,No,W BROADWAY,Part Three,None,776560.0,,2950000.0,2015
+183861,,Tuesday,No,2015-07-14T00:00:00.000,License Plate Related Incidents,"[-71.029294, 42.337839]",Point,Plates,7,IVMV,223,C6,,No,O ST,Part Three,None,783430.0,,2950000.0,2015

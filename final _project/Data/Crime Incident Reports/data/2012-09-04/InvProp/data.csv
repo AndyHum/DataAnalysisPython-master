@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6623,120552223.0,Tuesday,No,2012-09-04T11:15:00.000,InvProp,"[-71.153435, 42.347726]",Point,InvProp,9,INVEST,771,D14,Day,No,ACADEMY HILL RD,Part Three,Unarmed,749852.0524,,2951930.6789999995,2012
+127022,120553222.0,Tuesday,No,2012-09-04T17:00:00.000,InvProp,"[-71.059641, 42.327811]",Point,InvProp,9,CD19  ,0,C6,First,No,BOSTON ST,Part Three,Unarmed,775244.0823,,2944790.3039999995,2012
+132947,120551648.0,Tuesday,No,2012-09-04T01:37:00.000,InvProp,"[-71.130945, 42.251171]",Point,InvProp,9,IVPREM,540,E18,Last,No,RIVER ST,Part Three,Other,756083.8703,,2916769.9760000003,2012
+191484,120553515.0,Tuesday,No,2012-09-04T21:14:00.000,InvProp,"[-71.077661, 42.330753]",Point,InvProp,9,SHOTS ,904,B2,First,No,ALBANY ST,Part Three,Other,770366.1347,,2945837.597,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24670,152013529.0,Wednesday,No,2015-02-18T18:30:00.000,PersLoc,"[-71.05878, 42.294501]",Point,PersLoc,2,IVPER,0,C11,First,No,CENTRE ST,Other,Unarmed,775539.8065,,2932652.78,2015
+42157,152013560.0,Wednesday,No,2015-02-18T17:00:00.000,PersLoc,"[-71.060335, 42.291586]",Point,PersLoc,2,IVPER,0,C11,First,No,ST MARKS RD,Other,Unarmed,775124.5773,,2931588.34,2015
+76316,152014645.0,Wednesday,No,2015-02-18T16:30:00.000,PersLoc,"[-71.034775, 42.376486]",Point,PersLoc,2,MISSIN,0,A7,First,No,BENNINGTON ST,Other,Unarmed,781871.3889,,2962564.014,2015

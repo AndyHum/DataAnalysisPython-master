@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57261,130267944.0,Sunday,No,2013-05-05T10:05:00.000,InvProp,"[-71.121755, 42.351736]",Point,InvProp,5,INVEST,798,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758409.4191,,2953428.389,2013
+58859,130266632.0,Sunday,No,2013-05-05T16:40:00.000,InvProp,"[-71.05206, 42.337771]",Point,InvProp,5,BEIP  ,214,C6,First,No,D ST,Part Three,Unarmed,777275.0909,GOLD ST,2948430.528,2013
+183395,130266843.0,Sunday,No,2013-05-05T18:57:00.000,InvProp,"[-71.06205, 42.293831]",Point,InvProp,5,SCHALM,361,C11,First,No,DORCHESTER AV,Part Three,Unarmed,774656.363,,2932404.063,2013

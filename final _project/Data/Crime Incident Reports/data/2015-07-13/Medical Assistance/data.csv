@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49483,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.068173, 42.309832]",Point,MedAssist,7,UNKEMS,335,C11,,No,BELLEVUE ST,Part Three,None,772970.0,,2940000.0,2015
+71041,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.07948, 42.305775]",Point,MedAssist,7,DISTRB,460,C11,,No,COLUMBIA RD,Part Three,None,769919.0,,2940000.0,2015
+90191,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.095314, 42.324639]",Point,MedAssist,7,EDP,301,B2,,No,BEECH GLEN ST,Part Three,None,765603.0,,2940000.0,2015
+99531,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.071353, 42.284926]",Point,MedAssist,7,UNKEMS,435,C11,,No,WASHINGTON ST,Part Three,None,772156.0,,2930000.0,2015
+108792,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.085634, 42.328663]",Point,MedAssist,7,INJOFF,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+111714,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.066838, 42.305264]",Point,MedAssist,7,EDP,341,C11,,No,STONEHURST ST,Part Three,None,773340.0,,2940000.0,2015
+115576,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.063705, 42.352312]",Point,MedAssist,7,EDP,111,A1,,No,BOYLSTON ST,Part Three,None,774099.0,,2950000.0,2015
+122189,,Monday,No,2015-07-13T00:01:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,EDP,438,B3,,No,NORWELL ST,Part Three,None,,TALBOT AVE,,2015
+158764,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.103778, 42.333807]",Point,MedAssist,7,REQP,603,B2,,No,TREMONT ST,Part Three,None,763299.0,,2950000.0,2015
+192678,,Monday,No,2015-07-13T15:46:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,ALARM,83,A1,,No,UNITY ST,Part Three,None,,,,2015
+193378,,Monday,No,2015-07-13T13:41:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,187,C6,,No,BELLFLOWER ST,Part Three,None,,,,2015
+224126,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.040303, 42.381665]",Point,MedAssist,7,IVPER,26,A7,,No,BORDER ST,Part Three,None,780367.0,,2960000.0,2015
+233804,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.102264, 42.334097]",Point,MedAssist,7,UNKEMS,602,B2,,No,WORTHINGTON ST,Part Three,None,763708.0,,2950000.0,2015
+255835,,Monday,No,2015-07-13T00:00:00.000,Medical Assistance,"[-71.055727, 42.283386]",Point,MedAssist,7,REQP,379,C11,,No,ADAMS ST,Part Three,None,776387.0,,2930000.0,2015

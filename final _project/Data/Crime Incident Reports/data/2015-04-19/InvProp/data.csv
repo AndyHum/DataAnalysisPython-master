@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37520,152031933.0,Sunday,No,2015-04-19T13:32:00.000,InvProp,"[-71.171995, 42.296376]",Point,InvProp,4,IVPREM,0,E5,Day,No,LAGRANGE ST,Part three,Other,744906.8041,,2933197.9439999997,2015
+113398,152031843.0,Sunday,No,2015-04-19T03:02:00.000,InvProp,"[-71.00694, 42.386586]",Point,InvProp,4,ALARM,0,A7,Last,No,BENNINGTON ST,Part three,Other,789371.0967,,2966286.903,2015
+168937,152031925.0,Sunday,No,2015-04-19T12:10:00.000,InvProp,"[-71.071081, 42.300115]",Point,InvProp,4,ALARM,0,C11,Day,No,WESTVILLE ST,Part three,Unarmed,772201.4742,,2934681.494,2015
+180011,152031922.0,Sunday,No,2015-04-19T12:05:00.000,InvProp,"[-71.036061, 42.374826]",Point,InvProp,4,FIRE,0,A7,Day,No,HAVRE ST,Part three,Unarmed,781527.2066,,2961957.0919999997,2015
+184855,152032055.0,Sunday,No,2015-04-19T20:23:00.000,InvProp,"[-71.092538, 42.317182]",Point,InvProp,4,IVPREM,0,B2,First,No,DENNISON ST,Part three,Unarmed,766367.0256,HALEY ST,2940872.623,2015
+210674,152031940.0,Sunday,No,2015-04-19T14:30:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,4,CD9,0,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2015
+243557,152031976.0,Sunday,No,2015-04-19T16:25:00.000,InvProp,"[-71.10133, 42.325951]",Point,InvProp,4,VAND,0,E13,First,No,BICKFORD ST,Part three,Other,763974.3368,,2944056.999,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67273,142052574.0,Wednesday,No,2014-11-26T22:45:00.000,PropFound,"[-71.098385, 42.314711]",Point,PropFound,11,IVPER,0,E13,First,No,WELD AV,Part three,Unarmed,764789.9966,,2939964.687,2014
+133492,142052392.0,Wednesday,No,2014-11-26T10:35:00.000,PropFound,"[-71.059295, 42.356476]",Point,PropFound,11,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775283.7829999999,,2955236.785,2014
+214718,142052564.0,Wednesday,No,2014-11-26T22:30:00.000,PropFound,"[-71.098385, 42.314711]",Point,PropFound,11,IVPREM,0,E13,First,No,WELD AV,Part three,Unarmed,764789.9966,,2939964.687,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47472,142012924.0,Friday,No,2014-07-25T14:20:00.000,Service,"[-71.058185, 42.325141]",Point,Service,7,LARCEN,0,C6,Day,No,HOWELL ST,Part three,Unarmed,775642.9486,,2943819.3039999995,2014
+63942,142012886.0,Friday,No,2014-07-25T19:25:00.000,Service,"[-71.0626, 42.352361]",Point,Service,7,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014
+123013,142015458.0,Friday,No,2014-07-25T22:30:00.000,Service,"[-71.056041, 42.342169]",Point,Service,7,IVPER,0,C6,First,No,W BROADWAY,Part three,Unarmed,776190.2658,,2950027.5960000004,2014
+175590,142012661.0,Friday,No,2014-07-25T08:30:00.000,Service,"[-71.07705, 42.336481]",Point,Service,7,ARREST,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770521.0048,WASHINGTON ST,2947925.937,2014
+221262,142012744.0,Friday,No,2014-07-25T10:29:00.000,Service,"[-71.065155, 42.375041]",Point,Service,7,ARREST,0,A15,Day,No,AUSTIN ST,Other,Unarmed,773665.4224,,2961994.1139999996,2014
+228437,142012885.0,Friday,No,2014-07-25T19:10:00.000,Service,"[-71.08832, 42.314601]",Point,Service,7,SS,0,B2,First,No,HUMBOLDT AV,Part three,Unarmed,767512.4107,WAUMBECK ST,2939937.578,2014
+243082,142012848.0,Friday,No,2014-07-25T17:00:00.000,Service,"[-71.04078, 42.370086]",Point,Service,7,ARREST,0,A7,First,No,HAVRE ST,Part three,Unarmed,780261.4013,,2960222.932,2014

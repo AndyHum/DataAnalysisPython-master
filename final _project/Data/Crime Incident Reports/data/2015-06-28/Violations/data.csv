@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3864,,Sunday,No,2015-06-28T00:00:00.000,Violations,"[-71.073893, 42.312525]",Point,VAL,6,CD19,327,B2,,No,QUINCY ST,Part Two,None,771418.0,,2940000.0,2015
+6407,,Sunday,No,2015-06-28T00:00:00.000,Restraining Order Violations,"[-71.124019, 42.256216]",Point,Restrain,6,VIORDR,520,E18,,No,HYDE PARK AVE,Part Two,None,757951.0,,2920000.0,2015
+13792,,Sunday,No,2015-06-28T00:00:00.000,Violations,"[-71.057803, 42.299038]",Point,VAL,6,TS,355,C11,,No,ADAMS ST,Part Two,None,775795.0,,2930000.0,2015
+18776,,Sunday,No,2015-06-28T02:19:00.000,Violations,"[0, 0]",Point,VAL,6,IVPER,149,D4,,No,DARTMOUTH ST,Part Two,None,,,,2015
+34772,,Sunday,No,2015-06-28T08:43:00.000,Violations,"[0, 0]",Point,VAL,6,IVMV,357,C11,,No,BOWDOIN ST,Part Two,None,, CLAYBOURNE ST ,,2015
+82596,,Sunday,No,2015-06-28T00:00:00.000,Assembly or Gathering Violations,"[-71.084774, 42.33378]",Point,Gather,6,FIGHT,276,B2,,No,KERR PL,Part Three,None,768437.0,,2950000.0,2015
+149927,,Sunday,No,2015-06-28T00:00:00.000,Assembly or Gathering Violations,"[-71.10138, 42.330131]",Point,Gather,6,DISTRB,0,,,No,61 HILLSIDE ST,Part Three,None,763954.0,,2950000.0,2015
+193173,,Sunday,No,2015-06-28T00:00:00.000,Firearm Violations,"[-71.048649, 42.331297]",Point,15xx,6,SHOTS,915,C6,,No,E EIGHTH ST,Part Two,Firearm,778210.0,,2950000.0,2015
+251244,,Sunday,No,2015-06-28T23:03:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,329,B2,,No,GENEVA AVE,Part Two,None,,,,2015
+256446,,Sunday,No,2015-06-28T23:31:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,461,C11,,No,BOWDOIN AVE,Part Two,None,,ELDON ST,,2015

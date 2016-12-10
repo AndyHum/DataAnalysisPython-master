@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13683,130638602.0,Sunday,No,2013-10-06T22:43:00.000,InvProp,"[-71.09786, 42.310431]",Point,InvProp,10,SHOTS ,307,E13,First,No,WALNUT AV,Part three,Other,764939.3455,WALNUT PK,2938405.653,2013
+156936,130638591.0,Sunday,No,2013-10-06T22:33:00.000,InvProp,"[-71.06363, 42.306261]",Point,InvProp,10,SHOTS ,346,C11,First,No,FOX ST,Part three,Unarmed,774205.7156,PERCIVAL ST,2936931.5489999996,2013
+227518,130637039.0,Sunday,No,2013-10-06T02:00:00.000,InvProp,"[-71.160173, 42.340816]",Point,InvProp,10,PARTY ,750,D14,Last,No,GERALD RD,Part three,Unarmed,748040.3936,,2949405.098,2013
+244192,130637259.0,Sunday,No,2013-10-06T07:58:00.000,InvProp,"[-71.13939, 42.276226]",Point,InvProp,10,IVPREM,550,E5,Day,No,WASHINGTON ST,Part three,Unarmed,753758.9038,,2925890.582,2013

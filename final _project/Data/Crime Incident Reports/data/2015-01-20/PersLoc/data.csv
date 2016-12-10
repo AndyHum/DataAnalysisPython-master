@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+168731,152005659.0,Tuesday,No,2015-01-20T09:58:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,1,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+231095,152005397.0,Tuesday,No,2015-01-20T18:16:00.000,PersLoc,"[-71.08694, 42.324165]",Point,PersLoc,1,MISSIN,0,B2,First,No,CIRCUIT ST,Other,Unarmed,767868.6125,,2943424.355,2015

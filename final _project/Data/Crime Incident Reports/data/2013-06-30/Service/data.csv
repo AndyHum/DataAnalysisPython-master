@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9616,130401397.0,Sunday,No,2013-06-30T20:41:00.000,Service,"[-71.08729, 42.281271]",Point,Service,6,SSTOP ,428,B3,First,No,NORFOLK ST,Part three,Unarmed,767849.7578,FLINT ST,2927792.966,2013
+145475,130400558.0,Sunday,No,2013-06-30T12:45:00.000,Service,"[-71.05829, 42.323791]",Point,Service,6,IVPER ,187,C6,Day,No,DORSET ST,Part three,Unarmed,775617.1042,,2943327.1980000003,2013
+162964,130400074.0,Sunday,No,2013-06-30T07:56:00.000,Service,"[-71.061495, 42.356911]",Point,Service,6,ARREST,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2013
+224914,130399664.0,Sunday,No,2013-06-30T01:09:00.000,Service,"[-71.03543, 42.375801]",Point,Service,6,RAPEIP,22,A7,Last,No,MARION ST,Part three,Unarmed,781695.7705,,2962313.42,2013

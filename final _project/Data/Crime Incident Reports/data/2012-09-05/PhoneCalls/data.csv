@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35825,120554582.0,Wednesday,No,2012-09-05T12:00:00.000,PhoneCalls,"[-71.145785, 42.285586]",Point,PhoneCalls,9,HARPT ,686,E5,Day,No,MONTVALE ST,Part Three,Unarmed,752014.0674,,2929294.256,2012
+53866,120555647.0,Wednesday,No,2012-09-05T00:00:00.000,PhoneCalls,"[-71.108755, 42.275015]",Point,PhoneCalls,9,MISCRP,477,B3,Last,No,HARVARD AV,Part Three,Unarmed,762051.4053,,2925485.525,2012
+191812,120553690.0,Wednesday,No,2012-09-05T00:15:00.000,PhoneCalls,"[-71.067968, 42.292027]",Point,PhoneCalls,9,HARPT ,362,C11,Last,No,MOULTRIE ST,Part Three,Unarmed,773058.4128,,2931738.2210000004,2012

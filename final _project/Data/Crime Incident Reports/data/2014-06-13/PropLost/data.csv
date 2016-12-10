@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58900,140381785.0,Friday,No,2014-06-13T07:30:00.000,PropLost,"[-71.098625, 42.346181]",Point,PropLost,6,LSTPRP,624,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+68448,142000111.0,Friday,No,2014-06-13T20:00:00.000,PropLost,"[-71.063525, 42.351546]",Point,PropLost,6,PROP,0,A1,First,No,LAGRANGE ST,Part three,Unarmed,774149.6718,,2953434.3210000005,2014
+77692,140374839.0,Friday,No,2014-06-13T14:30:00.000,PropLost,"[-71.06942, 42.362401]",Point,PropLost,6,INVEST,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+103065,140375083.0,Friday,No,2014-06-13T14:20:00.000,PropLost,"[-71.07666, 42.351141]",Point,PropLost,6,LSTPRP,134,D4,Day,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2014
+263643,142001986.0,Friday,No,2014-06-13T21:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,A1,First,No,ADAMS ST,Part three,Unarmed,,,,2014

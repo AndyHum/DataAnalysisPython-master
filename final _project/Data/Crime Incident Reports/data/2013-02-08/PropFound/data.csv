@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28443,130093151.0,Friday,No,2013-02-08T23:30:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,2,LSTPRP,691,E5,First,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2013
+86857,130337766.0,Friday,No,2013-02-08T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,2,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+213777,130081166.0,Friday,No,2013-02-08T08:40:00.000,PropFound,"[-71.157932, 42.281608]",Point,PropFound,2,FDPROP,720,E5,Day,No,CENTRE ST,Part Three,Unarmed,748732.9867,,2927830.9889999996,2013
+263506,130081782.0,Friday,No,2013-02-08T15:30:00.000,PropFound,"[0, 0]",Point,PropFound,2,FDPROP,529,A7,Day,No,MARION ST,Part Three,Unarmed,,,,2013

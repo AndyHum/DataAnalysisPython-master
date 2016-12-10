@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4734,142052027.0,Tuesday,No,2014-11-25T01:21:00.000,InvProp,"[-71.109405, 42.322781]",Point,InvProp,11,SHOTS,0,E13,Last,No,MARK ST,Part three,Unarmed,761796.0177,,2942891.692,2014
+91581,142052060.0,Tuesday,No,2014-11-25T09:00:00.000,InvProp,"[-71.06056, 42.302016]",Point,InvProp,11,IVMV,0,C11,Day,No,ARCADIA ST,Part three,Unarmed,775044.1191,,2935388.87,2014
+148023,142052338.0,Tuesday,No,2014-11-25T07:30:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,CD9,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+200774,130301775.0,Saturday,No,2013-05-11T13:00:00.000,Service,"[-71.08121, 42.298426]",Point,Service,5,IVPER ,445,B3,Day,No,GLENWAY ST,Part three,Unarmed,769464.3511,,2934052.5160000003,2013
+208997,130279915.0,Saturday,No,2013-05-11T09:00:00.000,Service,"[-71.06942, 42.362401]",Point,Service,5,ARREST,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+224510,130279729.0,Saturday,No,2013-05-11T03:04:00.000,Service,"[-71.058802, 42.373371]",Point,Service,5,ARREST,0,A15,Last,No,CHELSEA ST,Part Three,Unarmed,775385.0561,,2961394.123,2013

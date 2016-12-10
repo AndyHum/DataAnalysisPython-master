@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46237,152014524.0,Monday,No,2015-02-23T10:00:00.000,Service,"[-71.06314, 42.378301]",Point,Service,2,ARREST,0,A15,Day,No,ELM ST,Part three,Unarmed,774203.8022,,2963184.909,2015
+139475,152014583.0,Monday,No,2015-02-23T12:51:00.000,Service,"[-71.063065, 42.315251]",Point,Service,2,IVPER,0,C11,Day,No,EVERETT AV,Part three,Unarmed,774341.7652,,2940208.4280000003,2015
+260610,152015126.0,Monday,No,2015-02-23T00:28:00.000,Service,"[0, 0]",Point,Service,2,ASSTPO,0,D14,Last,No,BEACON ST,Part three,Unarmed,,,,2015

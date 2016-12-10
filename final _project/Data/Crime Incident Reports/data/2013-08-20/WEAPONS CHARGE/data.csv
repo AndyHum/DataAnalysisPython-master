@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6295,130525017.0,Tuesday,No,2013-08-20T12:59:00.000,WEAPONS CHARGE,"[-71.07201, 42.303941]",Point,15xx,8,SSTOP ,337,C11,Day,No,EVERTON ST,Part Two,Knife,771943.1725,GENEVA ST,2936074.62,2013
+85299,130525331.0,Tuesday,No,2013-08-20T15:30:00.000,WEAPONS CHARGE,"[-71.071225, 42.287436]",Point,15xx,8,ARREST,435,C11,Day,No,WASHINGTON ST,Part Two,Firearm,772185.7571,TORREY ST,2930061.021,2013
+119277,130541822.0,Tuesday,No,2013-08-20T14:15:00.000,WEAPONS CHARGE,"[-71.150915, 42.348981]",Point,15xx,8,IVPER ,778,D14,Day,No,WASHINGTON ST,Part Two,Unarmed,750531.3965,,2952390.805,2013
+161633,130524031.0,Tuesday,No,2013-08-20T00:19:00.000,WEAPONS CHARGE,"[-71.07211, 42.298721]",Point,15xx,8,ARREST,357,C11,Last,No,DAKOTA ST,Part Two,Knife,771925.6639,CLAYBOURNE ST,2934172.2369999997,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101767,142026311.0,Friday,No,2014-09-05T03:00:00.000,Gather,"[-71.153145, 42.343791]",Point,Gather,9,DISTRB,0,D14,Last,No,LEDGEMERE RD,Part three,Unarmed,749936.2779,,2950497.005,2014
+167672,142026622.0,Friday,No,2014-09-05T23:20:00.000,Gather,"[-71.129035, 42.354281]",Point,Gather,9,DISTRB,0,D14,First,No,ASHFORD ST,Part three,Unarmed,756437.556,,2954347.1980000003,2014
+229372,142026293.0,Friday,No,2014-09-05T00:42:00.000,Gather,"[-71.09799, 42.329846]",Point,Gather,9,DISTRB,0,B2,Last,No,ALLEGHANY ST,Part three,Unarmed,764870.8367,,2945480.645,2014

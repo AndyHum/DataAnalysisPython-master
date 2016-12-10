@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59153,,Sunday,No,2015-07-05T00:00:00.000,Robbery,"[-71.085634, 42.328663]",Point,03xx,7,ARMROB,280,B2,,No,DUDLEY ST,Part One,Knife/Cutting Instrument,768214.0,,2950000.0,2015
+65260,,Sunday,No,2015-07-05T00:00:00.000,Robbery,"[-71.099377, 42.342681]",Point,03xx,7,ARMROB,626,D4,,No,KILMARNOCK ST,Part One,Knife/Cutting Instrument,764474.0,,2950000.0,2015
+105243,,Sunday,No,2015-07-05T00:00:00.000,Robbery,"[-71.094244, 42.312816]",Point,03xx,7,I00040,316,B2,,No,SEAVER ST,Part One,None,765913.0,,2940000.0,2015
+194914,,Sunday,No,2015-07-05T00:44:00.000,Robbery,"[0, 0]",Point,03xx,7,AB,418,B3,,No,SELDEN ST,Part One,None,,,,2015

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28906,,Wednesday,No,2015-06-24T21:30:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,748,E5,,No,INDEPENDENCE DR,Part Two,None,,,,2015
+33624,,Wednesday,No,2015-06-24T00:00:00.000,Vandalism,"[-71.118057, 42.265114]",Point,14xx,6,VAND,492,E18,,No,METROPOLITAN AVE,Part Two,None,759550.0,,2920000.0,2015
+64023,,Wednesday,No,2015-06-24T01:17:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,328,B2,,No,MAGNOLIA ST,Part Two,None,,,,2015
+73746,,Wednesday,No,2015-06-24T19:45:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,523,E18,,No,HYDE PARK AVE,Part Two,None,,MADISON ST,,2015
+73778,,Wednesday,No,2015-06-24T22:34:00.000,Vandalism,"[0, 0]",Point,14xx,6,SHOTS,524,E18,,No,TRUMAN PKWY,Part Two,None,,,,2015
+108938,,Wednesday,No,2015-06-24T00:00:00.000,Vandalism,"[-71.121727, 42.256794]",Point,14xx,6,VAND,520,E18,,No,WINTHROP ST,Part Two,None,758570.0,,2920000.0,2015
+121171,,Wednesday,No,2015-06-24T00:00:00.000,Vandalism,"[-71.088241, 42.283295]",Point,14xx,6,SHOTS,429,B3,,No,WILDWOOD ST,Part Two,None,767589.0,,2930000.0,2015
+143363,,Wednesday,No,2015-06-24T00:00:00.000,Vandalism,"[-71.065242, 42.314822]",Point,14xx,6,VAND,257,C11,,No,JEROME ST,Part Two,None,773754.0,,2940000.0,2015
+148617,,Wednesday,No,2015-06-24T00:00:00.000,Vandalism,"[-71.065701, 42.29882]",Point,14xx,6,VAND,358,C11,,No,WALDECK ST,Part Two,None,773659.0,,2930000.0,2015
+196154,,Wednesday,No,2015-06-24T00:00:00.000,Vandalism,"[-71.076863, 42.318388]",Point,14xx,6,VAND,324,B2,,No,BROOKFORD ST,Part Two,None,770604.0,,2940000.0,2015
+204760,,Wednesday,No,2015-06-24T00:00:00.000,Vandalism,"[-71.076238, 42.346354]",Point,14xx,6,VAND,149,D4,,No,YARMOUTH PL,Part Two,None,770723.0,,2950000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14860,130701956.0,Monday,No,2013-11-04T09:40:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,11,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+62178,130703482.0,Monday,No,2013-11-04T22:30:00.000,Arrest,"[-71.058219, 42.327261]",Point,Arrest,11,ARREST,191,C6,First,No,BOSTON ST,Part three,Other,775629.5451,,2944591.795,2013
+148457,130701994.0,Monday,No,2013-11-04T09:52:00.000,Arrest,"[-71.074734, 42.300181]",Point,Arrest,11,ARREST,461,C11,Day,No,WASHINGTON ST,Part three,Unarmed,771212.9109,,2934700.731,2013
+183753,130702678.0,Monday,No,2013-11-04T15:00:00.000,Arrest,"[-71.087325, 42.296546]",Point,Arrest,11,ARREST,330,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767813.3547,,2933359.352,2013

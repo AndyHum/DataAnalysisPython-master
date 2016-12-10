@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10630,,Tuesday,No,2015-06-23T00:00:00.000,Drug Violation,"[-71.104294, 42.309719]",Point,18xx,6,IVPREM,574,E13,,No,WASHINGTON ST,Part Two,None,763200.0,,2940000.0,2015
+11810,,Tuesday,No,2015-06-23T00:00:00.000,Drug Violation,"[-71.066919, 42.304603]",Point,18xx,6,CD11,341,C11,,No,NORTON ST,Part Two,None,773319.0,,2940000.0,2015
+23728,,Tuesday,No,2015-06-23T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,6,MISC,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+26109,,Tuesday,No,2015-06-23T19:09:00.000,Drug Violation,"[0, 0]",Point,18xx,6,TS,189,C6,,No,DORCHESTER AVE,Part Two,None,,MOUNT VERNON ST,,2015
+36305,,Tuesday,No,2015-06-23T00:00:00.000,Drug Violation,"[-71.059567, 42.302542]",Point,18xx,6,INVEST,349,C11,,No,DORCHESTER AVE,Part Two,None,775312.0,,2940000.0,2015
+47222,,Tuesday,No,2015-06-23T00:00:00.000,Drug Violation,"[-71.091878, 42.333679]",Point,18xx,6,IVPREM,289,B2,,No,SCHROEDER PLZ,Part Two,None,766517.0,,2950000.0,2015
+138721,,Tuesday,No,2015-06-23T00:00:00.000,Drug Violation,"[-71.133684, 42.357859]",Point,18xx,6,I00015,809,D14,,No,ADAMSON ST,Part Two,None,755175.0,,2960000.0,2015
+162914,,Tuesday,No,2015-06-23T18:52:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPER,549,E5,,No,WASHINGTON ST,Part Two,None,,,,2015
+195937,,Tuesday,No,2015-06-23T18:30:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPREM,303,E13,,No,AMORY AVE,Part Two,None,,AMORY ST,,2015
+198113,,Tuesday,No,2015-06-23T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,6,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015
+232473,,Tuesday,No,2015-06-23T07:30:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPREM,519,E18,,No,HYDE PARK AVE,Part Two,None,,,,2015
+257880,,Tuesday,No,2015-06-23T17:41:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,0,,,No,,Part Two,None,,NORTHAMPTON ST,,2015

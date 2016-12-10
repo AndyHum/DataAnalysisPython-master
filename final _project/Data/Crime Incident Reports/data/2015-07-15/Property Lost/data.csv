@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30569,,Wednesday,No,2015-07-15T00:00:00.000,Property Lost,"[-71.085634, 42.328663]",Point,PropLost,7,PROP,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+35182,,Wednesday,No,2015-07-15T00:00:00.000,Property Lost,"[-71.044891, 42.335468]",Point,PropLost,7,PROP,220,C6,,No,E BROADWAY,Part Three,None,779218.0,,2950000.0,2015
+82872,,Wednesday,No,2015-07-15T00:00:00.000,Property Lost,"[-71.06149, 42.362293]",Point,PropLost,7,,77,A1,,No,HAWKINS ST,Part Three,None,774680.0,,2960000.0,2015
+97594,,Wednesday,No,2015-07-15T00:00:00.000,Property Lost,"[-71.057687, 42.361394]",Point,PropLost,7,ADMRPT,77,A1,,No,CONGRESS ST,Part Three,None,775709.0,,2960000.0,2015
+187866,,Wednesday,No,2015-07-15T00:00:00.000,Property Lost,"[-71.076381, 42.334018]",Point,PropLost,7,,271,D4,,No,HARRISON AVE,Part Three,None,770706.0,,2950000.0,2015
+204724,,Wednesday,No,2015-07-15T00:00:00.000,Property Lost,"[-71.059709, 42.297555]",Point,PropLost,7,PROP,355,C11,,No,GIBSON ST,Part Three,None,775283.0,,2930000.0,2015
+227112,,Wednesday,No,2015-07-15T20:30:00.000,Property Lost,"[0, 0]",Point,PropLost,7,ADMRPT,0,,,No,,Part Three,None,,MILK ST,,2015
+256829,,Wednesday,No,2015-07-15T00:00:00.000,Property Lost,"[-71.093615, 42.269099]",Point,PropLost,7,PROP,426,B3,,No,BLUE HILL AVE,Part Three,None,766159.0,,2920000.0,2015

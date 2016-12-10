@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74365,,Thursday,No,2015-07-02T00:00:00.000,Ballistics,"[-71.09684, 42.321999]",Point,BALLIST,7,SSA,304,B2,,No,RITCHIE ST,Part Two,None,765195.0,,2940000.0,2015
+203275,,Thursday,No,2015-07-02T00:00:00.000,Ballistics,"[-71.049357, 42.336602]",Point,BALLIST,7,FDWEAP,214,C6,,No,W FOURTH ST,Part Two,None,778008.0,,2950000.0,2015

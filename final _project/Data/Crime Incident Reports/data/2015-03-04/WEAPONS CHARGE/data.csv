@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10109,152017504.0,Wednesday,No,2015-03-04T14:35:00.000,WEAPONS CHARGE,"[-71.03981, 42.376191]",Point,15xx,3,ARREST,0,A7,Day,No,BORDER ST,Part Two,Other,780511.5193,,2962449.128,2015
+91422,152017532.0,Wednesday,No,2015-03-04T13:36:00.000,WEAPONS CHARGE,"[-71.07041, 42.32969]",Point,15xx,3,IVPER,0,C6,Day,No,POMPEII ST,Part Two,Firearm,772328.5402,MASSACHUSETTS AV,2945459.939,2015
+249184,152017403.0,Wednesday,No,2015-03-04T10:20:00.000,WEAPONS CHARGE,"[-71.080301, 42.292654]",Point,15xx,3,IVPER,0,B3,Day,No,TALBOT AV,Part Two,Firearm,769720.5959999999,,2931950.291,2015

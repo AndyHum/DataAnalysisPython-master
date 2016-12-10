@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2037,152043741.0,Wednesday,No,2015-05-27T22:15:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,MISSIN,0,C11,First,No,ROCK TR,Other,Unarmed,,,,2015
+184693,152043733.0,Wednesday,No,2015-05-27T22:55:00.000,PersLoc,"[-71.08953, 42.270709]",Point,PersLoc,5,IVPER,0,B3,First,No,MAMELON CR,Other,Unarmed,767262.1281,,2923940.835,2015
+217819,152043569.0,Wednesday,No,2015-05-27T10:00:00.000,PersLoc,"[-71.063785, 42.349246]",Point,PersLoc,5,BOLO,0,A1,Day,No,WASHINGTON ST,Other,Unarmed,774083.6785,,2952595.797,2015

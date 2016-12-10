@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70932,130112804.0,Saturday,No,2013-02-23T21:15:00.000,InvProp,"[-71.076505, 42.336181]",Point,InvProp,2,IVPREM,170,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,770668.8989,,2947817.3430000003,2013
+152523,130115210.0,Saturday,No,2013-02-23T09:45:00.000,InvProp,"[-71.119485, 42.258571]",Point,InvProp,2,BERPT ,519,E18,Day,No,LINCOLN ST,Part Three,Other,759174.474,,2919480.265,2013
+215760,130111229.0,Saturday,No,2013-02-23T01:18:00.000,InvProp,"[-71.08913, 42.281956]",Point,InvProp,2,SHOTS ,428,B3,Last,No,SUTTON ST,Part Three,Unarmed,767350.6368,,2928040.186,2013
+224069,130111148.0,Saturday,No,2013-02-23T01:15:00.000,InvProp,"[-71.080575, 42.345061]",Point,InvProp,2,REMOVE,146,D4,Last,No,ST BOTOLPH ST,Part Three,Unarmed,769552.5724,,2951047.94,2013
+255371,130111933.0,Saturday,No,2013-02-23T12:11:00.000,InvProp,"[-71.071456, 42.279683]",Point,InvProp,2,INVCHD,415,B3,Day,No,CODMAN HILL AV,Part Three,Unarmed,772137.2854,,2927235.213,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+215525,130611167.0,Tuesday,No,2013-09-24T20:00:00.000,Landlord,"[-71.092897, 42.350341]",Point,Landlord,9,BERPT ,623,D4,First,No,CHARLESGATE,Part three,Other,766212.1985,,2952955.9060000004,2013
+234729,130612181.0,Tuesday,No,2013-09-24T16:20:00.000,Landlord,"[-71.05991, 42.301131]",Point,Landlord,9,IVPER ,352,C11,First,No,DORCHESTER AV,Part three,Unarmed,775221.6194,,2935067.269,2013
+238944,130610039.0,Tuesday,No,2013-09-24T16:27:00.000,Landlord,"[-71.092897, 42.350341]",Point,Landlord,9,DISTRB,623,D4,First,No,CHARLESGATE,Part three,Unarmed,766212.1985,,2952955.9060000004,2013

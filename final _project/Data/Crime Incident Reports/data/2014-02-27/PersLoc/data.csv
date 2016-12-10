@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104241,140122755.0,Thursday,No,2014-02-27T15:00:00.000,PersLoc,"[-71.09368, 42.287751]",Point,PersLoc,2,MSNCOM,0,B3,Day,No,HARVARD ST,Other,Unarmed,766109.332,JOHNSTON RD,2930146.0689999997,2014
+137069,140122120.0,Thursday,No,2014-02-27T07:00:00.000,PersLoc,"[-71.11802, 42.257532]",Point,PersLoc,2,MISPER,519,E18,Last,No,DAVISON ST,Other,Unarmed,759572.6547,,2919103.1789999995,2014
+168733,140122990.0,Thursday,No,2014-02-27T06:00:00.000,PersLoc,"[-71.093933, 42.282848]",Point,PersLoc,2,MISPER,466,B3,Last,No,ORMOND ST,Other,Unarmed,766049.1831,,2928358.769,2014
+264138,140122489.0,Thursday,No,2014-02-27T14:54:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,MISPER,630,D4,Day,No,ST MARYS ST,Other,Unarmed,,,,2014

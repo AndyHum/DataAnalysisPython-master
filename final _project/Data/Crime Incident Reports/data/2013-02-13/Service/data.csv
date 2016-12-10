@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7420,130091212.0,Wednesday,No,2013-02-13T09:00:00.000,Service,"[-71.078719, 42.30927]",Point,Service,2,ARREST,329,B2,Day,No,DEVON ST,Part Three,Unarmed,770118.7222,,2938007.273,2013
+45309,130092939.0,Wednesday,No,2013-02-13T23:02:00.000,Service,"[-71.08876, 42.286081]",Point,Service,2,TSTOP ,430,B3,First,No,WOODROW AV,Part Three,Unarmed,767443.5151,LUCERNE ST,2929543.877,2013
+92629,130091587.0,Wednesday,No,2013-02-13T08:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,2,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+101408,130090680.0,Wednesday,No,2013-02-13T00:31:00.000,Service,"[-71.072055, 42.343736]",Point,Service,2,ROBIP ,159,D4,Last,No,TREMONT ST,Part Three,Unarmed,771858.24,UNION PARK ST,2950576.527,2013
+116886,130091404.0,Wednesday,No,2013-02-13T09:45:00.000,Service,"[-71.078719, 42.30927]",Point,Service,2,IVPER ,329,B2,Day,No,DEVON ST,Part Three,Unarmed,770118.7222,,2938007.273,2013
+178188,130090904.0,Wednesday,No,2013-02-13T03:58:00.000,Service,"[-71.07203, 42.274456]",Point,Service,2,ARREST,410,B3,Last,No,OLD MORTON ST,Part Three,Unarmed,771991.6738,,2925329.8389999997,2013
+210736,130091642.0,Wednesday,No,2013-02-13T11:37:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,ARREST,111,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774107.7181,,2953709.249,2013
+213247,130091191.0,Wednesday,No,2013-02-13T08:10:00.000,Service,"[-71.09776, 42.278796]",Point,Service,2,CD11  ,469,B3,Day,No,COLORADO ST,Part Three,Unarmed,765020.7576,,2926877.5069999998,2013

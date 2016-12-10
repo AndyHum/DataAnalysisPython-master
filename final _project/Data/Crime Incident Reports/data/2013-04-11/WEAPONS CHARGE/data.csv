@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102325,130213807.0,Thursday,No,2013-04-11T14:33:00.000,WEAPONS CHARGE,"[-71.073901, 42.283379]",Point,15xx,4,SHOTS ,417,B3,Day,No,ROCKWELL ST,Part Two,Firearm,771468.8277,,2928578.735,2013
+200615,130214404.0,Thursday,No,2013-04-11T18:10:00.000,WEAPONS CHARGE,"[-71.054486, 42.32689]",Point,15xx,4,ARREST,193,C6,First,No,STERLING SQ,Part Two,Firearm,776639.7695,,2944461.602,2013
+202029,130214174.0,Thursday,No,2013-04-11T16:56:00.000,WEAPONS CHARGE,"[-71.082049, 42.294765]",Point,15xx,4,IVPER ,441,B3,First,No,KINGSDALE ST,Part Two,Knife,769243.8945,,2932717.086,2013

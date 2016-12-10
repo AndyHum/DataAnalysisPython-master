@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16745,152020798.0,Saturday,No,2015-03-14T22:00:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,3,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+49507,152020520.0,Saturday,No,2015-03-14T02:30:00.000,PropFound,"[-71.053263, 42.317977]",Point,PropFound,3,IVPREM,0,C11,Last,No,SPRING GARDEN ST,Part three,Unarmed,776987.5988,CRESCENT ST,2941215.353,2015
+162649,152020611.0,Saturday,No,2015-03-14T11:30:00.000,PropFound,"[-71.078133, 42.285884]",Point,PropFound,3,PROP,0,B3,Day,No,MILTON AV,Part three,Unarmed,770319.2890000001,EDSON ST,2929485.997,2015

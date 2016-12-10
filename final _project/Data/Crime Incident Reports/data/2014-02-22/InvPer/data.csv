@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20544,140110704.0,Saturday,No,2014-02-22T10:41:00.000,InvPer,"[-71.090565, 42.295709]",Point,InvPer,2,EDP2  ,908,B3,Day,No,FERMOY HTS AV,Part three,Unarmed,766938.2656,,2933050.11,2014
+39588,140110010.0,Saturday,No,2014-02-22T00:32:00.000,InvPer,"[-71.071303, 42.31078]",Point,InvPer,2,PERGUN,331,B2,Last,No,COLUMBIA RD,Part three,Firearm,772121.7044,,2938567.833,2014
+63340,140110844.0,Saturday,No,2014-02-22T12:00:00.000,InvPer,"[-71.085257, 42.297402]",Point,InvPer,2,THREAT,444,B3,Day,No,WALES ST,Part three,Unarmed,768371.2601,,2933673.9289999995,2014
+112593,140110733.0,Saturday,No,2014-02-22T03:33:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER ,915,C6,Last,No,MARY BOYLE WY,Part three,Unarmed,,,,2014
+155090,140110071.0,Saturday,No,2014-02-22T01:12:00.000,InvPer,"[-71.05827, 42.301551]",Point,InvPer,2,REMOVE,350,C11,Last,No,LEONARD ST,Part three,Unarmed,775664.4821,,2935222.617,2014
+214963,140111294.0,Saturday,No,2014-02-22T15:20:00.000,InvPer,"[-71.059735, 42.297541]",Point,InvPer,2,IVPER ,357,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+224424,140112102.0,Saturday,No,2014-02-22T22:31:00.000,InvPer,"[-71.08544, 42.288939]",Point,InvPer,2,IVPER ,439,B3,First,No,STRATTON ST,Part three,Other,768336.6188,,2930589.4839999997,2014

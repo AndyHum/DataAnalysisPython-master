@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21901,142031654.0,Sunday,No,2014-09-21T18:23:00.000,Arrest,"[-71.08109, 42.329136]",Point,Arrest,9,ARREST,0,B2,First,No,ZEIGLER ST,Part three,Unarmed,769441.8521,,2945243.898,2014
+42883,142031556.0,Sunday,No,2014-09-21T11:15:00.000,Arrest,"[-71.081263, 42.300851]",Point,Arrest,9,ARREST,0,B3,Day,No,FOWLER ST,Part three,Unarmed,769445.6713,,2934935.9480000003,2014
+226328,142031553.0,Sunday,No,2014-09-21T11:00:00.000,Arrest,"[-71.06074, 42.356916]",Point,Arrest,9,ARREST,0,A1,Day,No,BROMFIELD ST,Part three,Unarmed,774892.3963,,2955395.115,2014

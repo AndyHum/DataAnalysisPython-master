@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1823,152042817.0,Monday,No,2015-05-25T08:20:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVMV,0,B3,Day,No,WENTWORTH TR,Part three,Unarmed,,,,2015
+6484,152042755.0,Monday,No,2015-05-25T01:00:00.000,InvProp,"[-71.05784, 42.317911]",Point,InvProp,5,BE,0,C11,Last,No,HOWES ST,Part three,Unarmed,775749.9015,,2941185.059,2015
+16602,152042788.0,Monday,No,2015-05-25T03:39:00.000,InvProp,"[-71.069, 42.360271]",Point,InvProp,5,SHOTS,0,A1,Last,No,PHILLIPS ST,Part three,Unarmed,772653.6794,,2956606.354,2015
+59358,152042792.0,Monday,No,2015-05-25T04:26:00.000,InvProp,"[-71.06435, 42.307566]",Point,InvProp,5,SHOTS,0,C11,Last,No,PERCIVAL ST,Part three,Unarmed,774008.5284,,2937406.115,2015
+66862,152042916.0,Monday,No,2015-05-25T15:10:00.000,InvProp,"[-71.122285, 42.287586]",Point,InvProp,5,ALARM,0,E5,Day,No,FLORENCE ST,Part three,Unarmed,758369.6781,,2930050.3680000002,2015
+75481,152042791.0,Monday,No,2015-05-25T04:30:00.000,InvProp,"[-71.09032, 42.285726]",Point,InvProp,5,SHOTS,0,B3,Last,No,WOODROW AV,Part three,Unarmed,767022.021,,2929412.479,2015
+111961,152042774.0,Monday,No,2015-05-25T02:36:00.000,InvProp,"[-71.07066, 42.297336]",Point,InvProp,5,SHOTS,0,C11,Last,No,GREENBRIER ST,Part three,Other,772320.4759999999,TONAWANDA ST,2933669.4930000002,2015
+122121,152042994.0,Monday,No,2015-05-25T04:45:00.000,InvProp,"[-71.15597, 42.342621]",Point,InvProp,5,BE,0,D14,Last,No,COLWELL AV,Part three,Unarmed,749174.286,,2950067.54,2015
+226952,152042883.0,Monday,No,2015-05-25T14:00:00.000,InvProp,"[-71.081515, 42.320271]",Point,InvProp,5,LARCEN,0,B2,Day,No,WARREN ST,Part three,Unarmed,769342.7391,,2942012.768,2015

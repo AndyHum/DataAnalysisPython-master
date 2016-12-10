@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18331,,Sunday,No,2015-08-02T00:00:00.000,Robbery,"[-71.071216, 42.287469]",Point,03xx,8,I00040,435,B3,,No,,Part One,Other,772188.0,WASHINGTON ST,2930000.0,2015
+35213,,Sunday,No,2015-08-02T02:22:00.000,Robbery,"[0, 0]",Point,03xx,8,I00040,623,D4,,No,CHARLESGATE,Part One,Knife/Cutting Instrument,, COMMONWEALTH AVE ,,2015
+73805,,Sunday,No,2015-08-02T00:00:00.000,Robbery,"[-71.153898, 42.359344]",Point,03xx,8,ARMROB,767,D14,,No,SOLDIERS FIELD RD,Part One,Firearm,749710.0,,2960000.0,2015
+90368,,Sunday,No,2015-08-02T00:00:00.000,Robbery,"[-71.11986, 42.245373]",Point,03xx,8,I00040,570,E13,,No,FOREST HILLS ST,Part One,Firearm,759094.0,LOURDES AVE,2910000.0,2015
+173687,,Sunday,No,2015-08-02T00:00:00.000,Robbery,"[-71.065939, 42.316355]",Point,03xx,8,ARREST,257,B2,,No,COLUMBIA RD,Part One,Other,773562.0,,2940000.0,2015
+182144,,Sunday,No,2015-08-02T00:00:00.000,Robbery,"[-71.060091, 42.302039]",Point,03xx,8,ARMROB,352,C11,,No,ADAMS ST,Part One,Firearm,775171.0,,2940000.0,2015
+233358,,Sunday,No,2015-08-02T00:00:00.000,Robbery,"[-71.155158, 42.286525]",Point,03xx,8,AB,687,E5,,No,BELGRADE AVE,Part One,None,749476.0,,2930000.0,2015

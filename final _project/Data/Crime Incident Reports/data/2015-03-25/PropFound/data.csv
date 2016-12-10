@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82412,152024100.0,Wednesday,No,2015-03-25T14:00:00.000,PropFound,"[-71.013745, 42.385036]",Point,PropFound,3,PROP,0,A7,Day,No,SARATOGA ST,Part three,Unarmed,787535.9081,,2965711.498,2015
+111224,152024119.0,Wednesday,No,2015-03-25T11:00:00.000,PropFound,"[-71.098195, 42.313716]",Point,PropFound,3,PROP,0,E13,Day,No,SCHOOL ST,Part three,Unarmed,764843.0943,,2939602.334,2015
+143815,152024224.0,Wednesday,No,2015-03-25T18:45:00.000,PropFound,"[-71.10387, 42.337281]",Point,PropFound,3,PROP,0,B2,First,No,LONGWOOD AV,Part three,Unarmed,763268.3054,AVE LOUIS PASTEUR,2948182.655,2015
+224726,152023966.0,Wednesday,No,2015-03-25T08:30:00.000,PropFound,"[-71.07231, 42.357206]",Point,PropFound,3,IVPREM,0,A1,Day,No,OTIS PL,Part three,Unarmed,771764.6903,,2955484.9039999996,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54469,152006731.0,Sunday,No,2015-01-25T01:37:00.000,Service,"[-71.038515, 42.372161]",Point,Service,1,STAB,0,A7,Last,No,GOVE ST,Part three,Knife,780869.3745,,2960982.4060000004,2015
+143742,152006894.0,Sunday,No,2015-01-25T17:30:00.000,Service,"[-71.05681, 42.358851]",Point,Service,1,IVPER,0,A1,First,No,CONGRESS ST,Part three,Unarmed,775950.9442,STATE ST,2956105.76,2015
+235529,152006756.0,Sunday,No,2015-01-25T07:08:00.000,Service,"[-71.034645, 42.373451]",Point,Service,1,BLEED,0,A7,Last,No,CHELSEA ST,Part three,Unarmed,781912.5513,,2961458.189,2015
+255517,152006785.0,Sunday,No,2015-01-25T11:27:00.000,Service,"[-71.053645, 42.295946]",Point,Service,1,ARREST,0,C11,Day,No,VICTORY RD,Part three,Unarmed,776926.3234,,2933186.587,2015

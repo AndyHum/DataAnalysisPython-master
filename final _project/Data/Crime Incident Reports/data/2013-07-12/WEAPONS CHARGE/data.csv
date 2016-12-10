@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99199,130430970.0,Friday,No,2013-07-12T18:45:00.000,WEAPONS CHARGE,"[-71.137, 42.278291]",Point,15xx,7,ARREST,550,E5,First,No,BEECH ST,Part Two,Unarmed,754402.5049,WASHINGTON ST,2926645.8419999997,2013
+123909,130429687.0,Friday,No,2013-07-12T09:02:00.000,WEAPONS CHARGE,"[-71.03685, 42.379501]",Point,15xx,7,ARREST,24,A7,Day,No,EUTAW ST,Part Two,Unarmed,781304.7602,,2963659.69,2013
+167494,130431057.0,Friday,No,2013-07-12T19:15:00.000,WEAPONS CHARGE,"[-71.05919, 42.379331]",Point,15xx,7,IVPER ,900,A15,First,No,MONUMENT ST,Part Two,Unarmed,775269.1197,,2963565.753,2013
+174734,130430331.0,Friday,No,2013-07-12T14:07:00.000,WEAPONS CHARGE,"[-71.078671, 42.29826]",Point,15xx,7,ARREST,446,B3,Day,No,NORWELL ST,Part Two,Unarmed,770151.3021,,2933995.437,2013

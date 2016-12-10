@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23703,152025894.0,Monday,No,2015-03-30T18:00:00.000,PersLoc,"[-71.12802, 42.352501]",Point,PersLoc,3,IVPER,0,D14,First,No,BRIGHTON AV,Other,Unarmed,756714.7352,,2953699.723,2015
+139285,152025940.0,Monday,No,2015-03-30T20:46:00.000,PersLoc,"[-71.100635, 42.326431]",Point,PersLoc,3,IVPER,0,E13,First,No,HEATH ST,Other,Unarmed,764161.4568,,2944232.798,2015
+213904,152025960.0,Monday,No,2015-03-30T08:30:00.000,PersLoc,"[-71.073214, 42.295708]",Point,PersLoc,3,IVPER,0,B3,Day,No,KENBERMA RD,Other,Unarmed,771632.4514,,2933072.564,2015
+247627,152025936.0,Monday,No,2015-03-30T03:00:00.000,PersLoc,"[-71.074858, 42.316251]",Point,PersLoc,3,IVPER,0,B2,Last,No,HOWARD AV,Other,Unarmed,771150.25,,2940556.622,2015

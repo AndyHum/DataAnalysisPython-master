@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18063,140231860.0,Wednesday,No,2014-04-16T16:45:00.000,Service,"[-71.059987, 42.361648]",Point,Service,4,ARREST,72,A1,First,No,SUDBURY ST,Part three,Other,775087.02,,2957120.525,2014
+28348,140230953.0,Wednesday,No,2014-04-16T11:02:00.000,Service,"[-71.168289, 42.280997]",Point,Service,4,BRKDOG,727,E5,Day,No,BAKER ST,Part three,Other,745930.9808,,2927597.41,2014
+69764,140274895.0,Wednesday,No,2014-04-16T12:00:00.000,Service,"[-71.083725, 42.350576]",Point,Service,4,IVPER ,136,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,768691.2109,,2953053.541,2014
+79426,140230716.0,Wednesday,No,2014-04-16T09:18:00.000,Service,"[-71.05582, 42.377506]",Point,Service,4,ARREST,900,A15,Day,No,STARR KING CT,Part three,Other,776183.1139,,2962905.4080000003,2014
+94572,140230889.0,Wednesday,No,2014-04-16T10:25:00.000,Service,"[-71.09267, 42.276491]",Point,Service,4,ARREST,427,B3,Day,No,NORFOLK ST,Part three,Unarmed,766402.212,BABSON ST,2926044.0689999997,2014
+103237,140231293.0,Wednesday,No,2014-04-16T13:22:00.000,Service,"[-71.091325, 42.284861]",Point,Service,4,ARREST,465,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+199819,140230713.0,Wednesday,No,2014-04-16T09:40:00.000,Service,"[-71.063675, 42.352301]",Point,Service,4,ARREST,111,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+210204,140230309.0,Wednesday,No,2014-04-16T01:50:00.000,Service,"[-71.04778, 42.292776]",Point,Service,4,ARREST,370,C11,Last,No,MORRISSEY BL,Part three,Unarmed,778519.0387,,2932039.6360000004,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42456,142051649.0,Sunday,No,2014-11-23T19:45:00.000,Arrest,"[-71.07538, 42.333949]",Point,Arrest,11,IVPER,0,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,HARRISON AV,2947005.207,2014
+199870,142051501.0,Sunday,No,2014-11-23T09:32:00.000,Arrest,"[-71.08754, 42.295846]",Point,Arrest,11,TS,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767756.4214,,2933103.981,2014
+259824,142051641.0,Sunday,No,2014-11-23T18:45:00.000,Arrest,"[-71.063106, 42.355355]",Point,Arrest,11,ARREST,0,A1,First,No,TREMONT ST,Part three,Other,774255.6857,,2954822.79,2014

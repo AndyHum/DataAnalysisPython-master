@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19679,130508237.0,Thursday,No,2013-08-08T19:00:00.000,PropLost,"[-71.060105, 42.357876]",Point,PropLost,8,LSTPRP,103,A1,First,No,SCHOOL ST,Part three,Unarmed,775062.2215,,2955745.8419999997,2013
+44811,130496107.0,Thursday,No,2013-08-08T10:00:00.000,PropLost,"[-71.050315, 42.359846]",Point,PropLost,8,IVPER ,28,A1,Day,No,LONG WHRF,Part three,Unarmed,777704.4662,,2956477.546,2013
+115203,130571005.0,Thursday,No,2013-08-08T00:00:00.000,PropLost,"[-71.072741, 42.348575]",Point,PropLost,8,LARCRT,128,D4,Last,No,STANHOPE ST,Part three,Unarmed,771663.9468,,2952338.836,2013
+219290,130497927.0,Thursday,No,2013-08-08T13:00:00.000,PropLost,"[-71.076399, 42.333996]",Point,PropLost,8,IVPER ,271,D4,Day,No,HARRISON AV,Part three,Unarmed,770701.3598,,2947021.0810000002,2013
+244820,130498906.0,Thursday,No,2013-08-08T23:00:00.000,PropLost,"[-71.077578, 42.324227]",Point,PropLost,8,LSTPRP,266,B2,First,No,WINTHROP ST,Part three,Unarmed,770400.1993,,2943459.37,2013
+251860,130498004.0,Thursday,No,2013-08-08T13:00:00.000,PropLost,"[-71.10045, 42.334301]",Point,PropLost,8,LSTPRP,601,B2,Day,No,SMITH ST,Part three,Unarmed,764198.0495,ST ALPHONSUS ST,2947101.001,2013
+263257,130498038.0,Thursday,No,2013-08-08T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,139,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2013

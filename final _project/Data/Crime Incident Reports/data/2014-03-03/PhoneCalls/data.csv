@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35284,140132905.0,Monday,No,2014-03-03T12:42:00.000,PhoneCalls,"[-71.058105, 42.324441]",Point,PhoneCalls,3,IVPER ,187,C6,Day,No,BELLFLOWER ST,Part three,Unarmed,775665.9046,,2943564.3260000004,2014
+93771,140131282.0,Monday,No,2014-03-03T15:30:00.000,PhoneCalls,"[-71.06385, 42.379516]",Point,PhoneCalls,3,HARPT ,55,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,774009.7026,,2963626.6980000003,2014
+159147,140131309.0,Monday,No,2014-03-03T15:55:00.000,PhoneCalls,"[-71.091713, 42.316633]",Point,PhoneCalls,3,HARPT ,312,B2,Day,No,CRAWFORD ST,Part three,Unarmed,766591.1813,,2940673.6560000004,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61400,142061001.0,Saturday,No,2014-12-27T19:00:00.000,TRESPASS,"[-71.058362, 42.358828]",Point,TRESPASS,12,ARREST,0,A1,First,No,COURT ST,Part Two,Unarmed,775531.3609,,2956095.0919999997,2014
+198270,142060844.0,Saturday,No,2014-12-27T04:00:00.000,TRESPASS,"[-71.051215, 42.332156]",Point,TRESPASS,12,IVMV,0,C6,Last,No,E 9TH ST,Part Two,Unarmed,777514.316,,2946385.527,2014
+221223,142061027.0,Saturday,No,2014-12-27T20:13:00.000,TRESPASS,"[-71.057245, 42.351566]",Point,TRESPASS,12,ARREST,0,A1,First,No,SOUTH ST,Part Two,Unarmed,775847.1556,,2953450.358,2014
+234110,142061233.0,Saturday,No,2014-12-27T10:15:00.000,TRESPASS,"[-71.125735, 42.267482]",Point,TRESPASS,12,BE,0,E18,Day,No,BEECHMONT ST,Part Two,Unarmed,757468.2586,,2922719.901,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10670,130459467.0,Wednesday,No,2013-07-24T11:01:00.000,Argue,"[-71.05437, 42.320681]",Point,Argue,7,DISTRB,235,C11,Day,No,MOSELEY ST,Part three,Unarmed,776683.0863,,2942199.373,2013
+14221,130460505.0,Wednesday,No,2013-07-24T18:16:00.000,Argue,"[-71.079775, 42.282511]",Point,Argue,7,THREAT,434,B3,First,No,EVANS ST,Part three,Unarmed,769881.1393,,2928254.769,2013
+18111,130459582.0,Wednesday,No,2013-07-24T11:59:00.000,Argue,"[-71.058185, 42.325141]",Point,Argue,7,FIGHT ,187,C6,Day,No,HOWELL ST,Part three,Unarmed,775642.9486,,2943819.3039999995,2013
+193842,130460730.0,Wednesday,No,2013-07-24T19:51:00.000,Argue,"[-71.102874, 42.325388]",Point,Argue,7,IVPER ,906,E13,First,No,HEATH ST,Part three,Other,763557.568,HORAN WY,2943849.8589999997,2013

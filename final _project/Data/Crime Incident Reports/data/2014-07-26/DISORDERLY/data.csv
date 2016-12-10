@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35832,142013274.0,Saturday,No,2014-07-26T22:15:00.000,DISORDERLY,"[-71.093582, 42.330188]",Point,24xx,7,IVPER,0,B2,First,No,ROXBURY ST,Part Two,Unarmed,766061.9973,GARDNER ST,2945610.765,2014
+80161,142013250.0,Saturday,No,2014-07-26T20:00:00.000,DISORDERLY,"[-71.063873, 42.325436]",Point,24xx,7,ARREST,0,C6,First,No,ALLSTATE RD,Part Two,Unarmed,774104.1328,,2943918.604,2014
+182965,142013092.0,Saturday,No,2014-07-26T12:00:00.000,DISORDERLY,"[-71.09794, 42.316146]",Point,24xx,7,ARREST,0,E13,Day,No,WASHINGTON ST,Part Two,Unarmed,764907.8894,,2940488.191,2014

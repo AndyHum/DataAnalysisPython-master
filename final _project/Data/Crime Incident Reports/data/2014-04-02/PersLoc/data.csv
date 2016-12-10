@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31821,140197659.0,Wednesday,No,2014-04-02T07:03:00.000,PersLoc,"[-71.088865, 42.279666]",Point,PersLoc,4,MSNCOM,427,B3,Last,No,NORFOLK ST,Other,Unarmed,767426.3706,,2927206.023,2014
+103809,140198475.0,Wednesday,No,2014-04-02T14:16:00.000,PersLoc,"[-71.119418, 42.257595]",Point,PersLoc,4,MSNCOM,519,E18,Day,No,RIVER ST,Other,Unarmed,759194.1554,,2919124.6739999996,2014
+161788,140199124.0,Wednesday,No,2014-04-02T06:50:00.000,PersLoc,"[-71.066534, 42.313851]",Point,PersLoc,4,MISPER,332,C11,Last,No,PAYSON AV,Other,Unarmed,773405.9843,,2939693.4289999995,2014

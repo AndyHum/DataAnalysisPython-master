@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24073,152043447.0,Wednesday,No,2015-05-27T08:15:00.000,InvProp,"[-71.066547, 42.363593]",Point,InvProp,5,IVPREM,0,A1,Day,No,HAWTHORNE PL,Part three,Unarmed,773310.3309,,2957820.1980000003,2015
+34507,152043656.0,Wednesday,No,2015-05-27T18:35:00.000,InvProp,"[-71.062113, 42.377125]",Point,InvProp,5,BE,0,A15,First,No,HILARY ST,Part three,Other,774483.3525,,2962757.474,2015
+41521,152043421.0,Wednesday,No,2015-05-27T04:30:00.000,InvProp,"[-71.056345, 42.358871]",Point,InvProp,5,ALARM,0,A1,Last,No,STATE ST,Part three,Unarmed,776076.5836,,2956113.703,2015
+47811,152043728.0,Wednesday,No,2015-05-27T21:57:00.000,InvProp,"[-71.08624, 42.308161]",Point,InvProp,5,SHOTS,0,B2,First,No,MAPLE ST,Part three,Unarmed,768086.3598,,2937593.46,2015
+73355,152043418.0,Wednesday,No,2015-05-27T00:31:00.000,InvProp,"[-71.083533, 42.288775]",Point,InvProp,5,IVPREM,0,B3,Last,No,STRATTON ST,Part three,Other,768852.8372,,2930532.1780000003,2015
+145545,152043572.0,Wednesday,No,2015-05-27T14:18:00.000,InvProp,"[-71.065463, 42.312484]",Point,InvProp,5,BE,0,C11,Day,No,TRULL ST,Part three,Unarmed,773698.2790000001,,2939196.77,2015
+227529,152043415.0,Wednesday,No,2015-05-27T00:10:00.000,InvProp,"[-71.078394, 42.32898]",Point,InvProp,5,SHOTS,0,B2,Last,No,EUSTIS ST,Part three,Firearm,770171.0377,,2945190.659,2015

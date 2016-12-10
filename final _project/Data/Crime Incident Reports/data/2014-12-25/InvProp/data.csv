@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69866,142060536.0,Thursday,No,2014-12-25T15:00:00.000,InvProp,"[-71.070385, 42.343771]",Point,InvProp,12,ALARM,0,D4,Day,No,HANSON ST,Part three,Unarmed,772309.6443,,2950591.5519999997,2014
+76641,142060520.0,Thursday,No,2014-12-25T13:05:00.000,InvProp,"[-71.1406, 42.352406]",Point,InvProp,12,ALARM,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,753314.4697,,2953650.5239999997,2014
+98400,142060502.0,Thursday,No,2014-12-25T09:19:00.000,InvProp,"[-71.14941, 42.355611]",Point,InvProp,12,ALARM,0,D14,Day,No,MARKET ST,Part three,Unarmed,750928.2947,,2954808.582,2014
+247303,142060500.0,Thursday,No,2014-12-25T09:04:00.000,InvProp,"[-71.093739, 42.334956]",Point,InvProp,12,ALARM,0,B2,Day,No,ANNUNCIATION RD,Part three,Other,766011.2668,,2947348.014,2014

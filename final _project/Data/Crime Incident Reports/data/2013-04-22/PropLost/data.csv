@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16450,130237993.0,Monday,No,2013-04-22T22:00:00.000,PropLost,"[-71.002965, 42.390144]",Point,PropLost,4,LSTPRP,8,A7,First,No,ORIENT AV,Part Three,Unarmed,790437.3715,,2967589.732,2013
+65981,130237651.0,Monday,No,2013-04-22T18:30:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,4,LARCRT,118,A1,First,No,BOYLSTON ST,Part Three,Other,773775.1158,,2953733.06,2013
+117634,130239364.0,Monday,No,2013-04-22T23:00:00.000,PropLost,"[-71.069527, 42.351443]",Point,PropLost,4,LSTPRP,120,A1,First,No,PARK PLAZA,Part Three,Unarmed,772527.4805,,2953388.3860000004,2013
+195760,130241202.0,Monday,No,2013-04-22T15:00:00.000,PropLost,"[-71.10128, 42.312726]",Point,PropLost,4,LSTPRP,575,E13,Day,No,WASHINGTON ST,Part Three,Unarmed,764010.3856,,2939237.646,2013
+216918,130237432.0,Monday,No,2013-04-22T10:20:00.000,PropLost,"[-71.05256, 42.359511]",Point,PropLost,4,INVEST,94,A1,Day,No,STATE ST,Part Three,Unarmed,777098.3496,,2956352.275,2013
+219297,130262211.0,Monday,No,2013-04-22T12:00:00.000,PropLost,"[-71.061434, 42.300547]",Point,PropLost,4,LSTPRP,356,C11,Day,No,CHARLES ST,Part Three,Unarmed,774810.2974,,2934852.3389999997,2013
+263019,130237934.0,Monday,No,2013-04-22T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCRT,102,A1,Day,No,BEACON ST,Part Three,Unarmed,,,,2013

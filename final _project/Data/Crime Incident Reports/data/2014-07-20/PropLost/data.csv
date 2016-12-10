@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53533,142011097.0,Sunday,No,2014-07-20T18:25:00.000,PropLost,"[-71.123165, 42.255916]",Point,PropLost,7,PROP,0,E18,First,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2014
+81889,142011298.0,Sunday,No,2014-07-20T21:00:00.000,PropLost,"[-71.092328, 42.284664]",Point,PropLost,7,PROP,0,B3,First,No,MORTON ST,Part three,Unarmed,766480.3443,,2929022.5560000003,2014
+144667,142011084.0,Sunday,No,2014-07-20T16:30:00.000,PropLost,"[-71.0717, 42.291311]",Point,PropLost,7,PROP,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772050.1409,,2931472.481,2014
+165558,142011293.0,Sunday,No,2014-07-20T21:00:00.000,PropLost,"[-71.06166, 42.364266]",Point,PropLost,7,PROP,0,A1,First,No,PORTLAND ST,Part three,Unarmed,774629.9723,,2958072.32,2014
+206330,142011385.0,Sunday,No,2014-07-20T17:30:00.000,PropLost,"[-71.10182, 42.342491]",Point,PropLost,7,PROP,0,D4,First,No,PETERBOROUGH ST,Part three,Unarmed,763813.6951,PARK DR,2950083.857,2014
+227416,142011027.0,Sunday,No,2014-07-20T14:02:00.000,PropLost,"[-71.079178, 42.304207]",Point,PropLost,7,DISTRB,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,770003.4383,,2936161.74,2014
+238021,142011723.0,Sunday,No,2014-07-20T08:30:00.000,PropLost,"[-71.074079, 42.346119]",Point,PropLost,7,PROP,0,D4,Day,No,CHANDLER ST,Part three,Unarmed,771306.5826,,2951441.914,2014

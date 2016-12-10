@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74857,130414545.0,Friday,No,2013-07-05T16:00:00.000,PersLoc,"[-71.071365, 42.284885]",Point,PersLoc,7,MSNCOM,435,C11,First,No,WASHINGTON ST,Other,Unarmed,772152.4973,,2929130.9869999997,2013
+89380,130414740.0,Friday,No,2013-07-05T12:00:00.000,PersLoc,"[-71.06818, 42.298401]",Point,PersLoc,7,MSNCOM,358,C11,Day,No,TONAWANDA ST,Other,Unarmed,772989.4359,,2934060.992,2013
+96496,130414156.0,Friday,No,2013-07-05T18:19:00.000,PersLoc,"[-71.079626, 42.316792]",Point,PersLoc,7,FDCHLD,311,B2,First,No,MAYWOOD ST,Other,Unarmed,769859.6508,,2940747.383,2013
+157828,130416290.0,Friday,No,2013-07-05T17:00:00.000,PersLoc,"[-71.08421, 42.300656]",Point,PersLoc,7,MISPER,457,B3,First,No,DRUMMOND ST,Other,Unarmed,768648.7894,,2934861.192,2013
+201788,130437778.0,Friday,No,2013-07-05T12:00:00.000,PersLoc,"[-71.124869, 42.260867]",Point,PersLoc,7,MISPER,544,E18,Day,No,SUMMER ST,Other,Unarmed,757713.2594,,2920310.207,2013

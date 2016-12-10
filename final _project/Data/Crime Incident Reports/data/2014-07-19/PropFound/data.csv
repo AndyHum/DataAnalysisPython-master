@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+205374,142010794.0,Saturday,No,2014-07-19T18:15:00.000,PropFound,"[-71.0707, 42.346451]",Point,PropFound,7,SUSOBJ,0,D4,First,No,BERKELEY ST,Part three,Unarmed,772219.5706,,2951567.764,2014
+207122,142010822.0,Saturday,No,2014-07-19T19:58:00.000,PropFound,"[-71.042185, 42.286095]",Point,PropFound,7,IVPREM,0,C11,First,No,MORRISSEY BL,Part three,Unarmed,780045.8463,,2929612.9280000003,2014
+242964,142010814.0,Saturday,No,2014-07-19T16:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,7,PROP,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

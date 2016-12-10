@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35998,140158117.0,Saturday,No,2014-03-15T04:54:00.000,FIRE,"[-71.034775, 42.376486]",Point,FIRE,3,FIREB ,23,A7,Last,No,BENNINGTON ST,Part three,Unarmed,781871.3889,,2962564.014,2014
+55155,140158843.0,Saturday,No,2014-03-15T14:14:00.000,FIRE,"[-71.131495, 42.273616]",Point,FIRE,3,FIREB ,550,E18,Day,No,HAUTEVALE ST,Part three,Other,755899.6305,,2924948.5939999996,2014
+98765,140157771.0,Saturday,No,2014-03-15T00:29:00.000,FIRE,"[-71.08676, 42.311131]",Point,FIRE,3,FV    ,317,B2,Last,No,RUTHVEN ST,Part three,Unarmed,767940.4608,,2938675.0939999996,2014

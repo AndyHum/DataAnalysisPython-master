@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67549,120808680.0,Wednesday,No,2012-12-26T19:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,12,LSTPRP,186,C6,First,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2012
+113733,120806655.0,Wednesday,No,2012-12-26T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,PDRPT ,288,B2,Day,No,DUDLEY ST,Part Three,Unarmed,,,,2012
+152977,130009399.0,Wednesday,No,2012-12-26T15:00:00.000,PropLost,"[-71.06028, 42.306752]",Point,PropLost,12,LSTPRP,347,C11,Day,No,HECLA ST,Part Three,Unarmed,775110.7209999999,,2937115.057,2012
+159795,120808507.0,Wednesday,No,2012-12-26T23:30:00.000,PropLost,"[-71.051523, 42.345567]",Point,PropLost,12,LSTPRP,204,C6,First,No,CHANNEL CENTER ST,Part Three,Unarmed,777405.1722,,2951272.278,2012
+218750,120806897.0,Wednesday,No,2012-12-26T11:30:00.000,PropLost,"[-71.07115, 42.347376]",Point,PropLost,12,LSTPRP,151,D4,Day,No,BERKELEY ST,Part Three,Other,772096.0407,,2951904.171,2012
+257638,120808203.0,Wednesday,No,2012-12-26T09:00:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,12,LSTPRP,465,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52062,152045337.0,Monday,No,2015-06-01T17:56:00.000,Arrest,"[-71.061495, 42.356911]",Point,Arrest,6,ARREST,0,A1,First,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2015
+57002,152045400.0,Monday,No,2015-06-01T21:45:00.000,Arrest,"[-71.0729, 42.333256]",Point,Arrest,6,ARREST,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2015
+95869,152045262.0,Monday,No,2015-06-01T15:05:00.000,Arrest,"[-71.10086, 42.322816]",Point,Arrest,6,SS,0,E13,Day,No,CENTRE ST,Part three,Unarmed,764106.7781,LAMARTINE ST,2942915.144,2015

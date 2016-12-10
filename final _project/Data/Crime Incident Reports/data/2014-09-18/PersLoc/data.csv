@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53010,142030802.0,Thursday,No,2014-09-18T06:30:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,9,IVPER,0,C11,Last,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+73762,142030688.0,Thursday,No,2014-09-18T18:15:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,9,IVPER,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+203680,142030545.0,Thursday,No,2014-09-18T09:17:00.000,PersLoc,"[-71.06382, 42.297036]",Point,PersLoc,9,REQP,0,C11,Day,No,PAISLEY PARK,Other,Unarmed,774171.5109999999,,2933569.559,2014
+204750,142030781.0,Thursday,No,2014-09-18T16:00:00.000,PersLoc,"[-71.055312, 42.327496]",Point,PersLoc,9,IVPER,0,C6,First,No,OCALLAGHAN WY,Other,Unarmed,776415.2591,,2944681.3510000003,2014
+209089,142030659.0,Thursday,No,2014-09-18T14:00:00.000,PersLoc,"[-71.094482, 42.282429]",Point,PersLoc,9,IVPER,0,B3,Day,No,OUTLOOK RD,Other,Unarmed,765901.4635,,2928205.646,2014
+250593,142030773.0,Thursday,No,2014-09-18T21:00:00.000,PersLoc,"[-71.079717, 42.319866]",Point,PersLoc,9,IVPER,0,B2,First,No,CLIFFORD ST,Other,Unarmed,769829.6122,,2941867.4469999997,2014

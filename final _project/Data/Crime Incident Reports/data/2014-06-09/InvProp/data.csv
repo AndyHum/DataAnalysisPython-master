@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19423,140366863.0,Monday,No,2014-06-09T12:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,6,IVPREM,70,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+56253,140363116.0,Monday,No,2014-06-09T08:20:00.000,InvProp,"[-71.088026, 42.290197]",Point,InvProp,6,IVPREM,439,B3,Day,No,STRATTON ST,Part three,Unarmed,767634.6963,,2931044.4889999996,2014
+128425,140367348.0,Monday,No,2014-06-09T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,6,MISC  ,70,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+189395,140364742.0,Monday,No,2014-06-09T19:45:00.000,InvProp,"[-71.057788, 42.318557]",Point,InvProp,6,ALARMC,244,C11,First,No,E COTTAGE ST,Part three,Unarmed,775762.743,,2941420.5689999997,2014

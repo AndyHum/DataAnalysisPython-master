@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123478,130267498.0,Monday,No,2013-05-06T02:20:00.000,OPERATING UNDER INFLUENCE,"[-71.097, 42.328151]",Point,21xx,5,ARREST,302,B2,Last,No,COLUMBUS AV,Part Two,Other,765141.45,CEDAR ST,2944864.2189999996,2013
+219112,130269385.0,Monday,No,2013-05-06T19:50:00.000,OPERATING UNDER INFLUENCE,"[-71.07365, 42.299381]",Point,21xx,5,TSTOP ,0,C11,First,No,BOWDOIN ST,Part Two,Unarmed,771507.8429,WASHINGTON ST,2934410.665,2013

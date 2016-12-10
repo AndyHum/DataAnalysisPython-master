@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33684,142053586.0,Monday,No,2014-12-01T09:29:00.000,Landlord,"[-71.089425, 42.281191]",Point,Landlord,12,NIDV,0,B3,Day,No,WOOLSON ST,Part three,Unarmed,767272.1524,,2927761.025,2014
+41179,142053729.0,Monday,No,2014-12-01T15:50:00.000,Landlord,"[-71.06321, 42.302461]",Point,Landlord,12,LANTEN,0,C11,Day,No,ROBINSON ST,Part three,Unarmed,774326.4172,,2935547.353,2014
+44870,142053569.0,Monday,No,2014-12-01T08:33:00.000,Landlord,"[-71.097191, 42.2828]",Point,Landlord,12,LANTEN,0,B3,Day,No,GILMER ST,Part three,Unarmed,765167.6589,,2928337.16,2014

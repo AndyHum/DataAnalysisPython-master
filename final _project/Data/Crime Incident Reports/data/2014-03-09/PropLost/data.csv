@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39869,140145112.0,Sunday,No,2014-03-09T14:00:00.000,PropLost,"[-71.137903, 42.276186]",Point,PropLost,3,LSTPRP,550,E5,Day,No,BLUE LEDGE DR,Part three,Other,754161.3702,,2925877.4239999996,2014
+188536,140146804.0,Sunday,No,2014-03-09T16:30:00.000,PropLost,"[-71.120977, 42.267011]",Point,PropLost,3,LSTPRP,496,E18,First,No,HYDE PARK AV,Part three,Other,758756.7157,,2922553.869,2014
+225895,140147500.0,Sunday,No,2014-03-09T22:00:00.000,PropLost,"[-71.04556, 42.338751]",Point,PropLost,3,LSTPRP,212,C6,First,No,W 1ST ST,Part three,Unarmed,779030.5581,F ST,2948796.953,2014

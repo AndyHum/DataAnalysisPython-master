@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15521,152024300.0,Thursday,No,2015-03-26T01:20:00.000,PropFound,"[-71.099725, 42.311756]",Point,PropFound,3,PROP,0,E13,Last,No,MONTEBELLO RD,Part three,Unarmed,764432.6351,,2938886.137,2015
+111075,152024705.0,Thursday,No,2015-03-26T19:30:00.000,PropFound,"[-71.052906, 42.365682]",Point,PropFound,3,PROP,0,A1,First,No,HANOVER ST,Part three,Unarmed,776993.0581,,2958600.3239999996,2015
+121027,152024492.0,Thursday,No,2015-03-26T11:50:00.000,PropFound,"[-71.068825, 42.303566]",Point,PropFound,3,IVPREM,0,C11,Day,No,LEVANT ST,Part three,Unarmed,772805.4353,,2935942.3030000003,2015
+239002,152024534.0,Thursday,No,2015-03-26T13:30:00.000,PropFound,"[-71.065185, 42.307956]",Point,PropFound,3,IVPREM,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773781.9406,QUINCY ST,2937547.084,2015
+266913,152024349.0,Thursday,No,2015-03-26T09:30:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+266926,152024528.0,Thursday,No,2015-03-26T13:20:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,C6,Day,No,W BROADWAY,Part three,Unarmed,,,,2015
+266942,152024362.0,Thursday,No,2015-03-26T11:00:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015

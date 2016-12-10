@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55990,130555210.0,Monday,No,2013-09-02T03:48:00.000,TRESPASS,"[-71.055686, 42.362643]",Point,TRESPASS,9,IVPREM,91,A1,Last,No,HANOVER ST,Part Two,Unarmed,776247.5311,,2957489.24,2013
+148497,130556867.0,Monday,No,2013-09-02T12:30:00.000,TRESPASS,"[-71.062548, 42.361157]",Point,TRESPASS,9,IVPER ,72,A1,Day,No,CAMBRIDGE ST,Part Two,Unarmed,774395.6116,,2956937.863,2013
+168630,130555269.0,Monday,No,2013-09-02T06:34:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,9,SSTOP ,116,A1,Last,No,OXFORD PL,Part Two,Unarmed,,,,2013

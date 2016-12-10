@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20750,120741689.0,Wednesday,No,2012-08-29T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+97681,120759502.0,Wednesday,No,2012-08-29T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+121115,120538507.0,Wednesday,No,2012-08-29T08:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,8,LSTPRP,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+148926,120539984.0,Wednesday,No,2012-08-29T18:30:00.000,PropFound,"[-71.042735, 42.285531]",Point,PropFound,8,FDPROP,386,C11,First,No,GALLIVAN BL,Part Three,Unarmed,779898.2977,,2929406.853,2012

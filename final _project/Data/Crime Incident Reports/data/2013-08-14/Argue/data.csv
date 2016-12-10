@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+173003,130510967.0,Wednesday,No,2013-08-14T16:16:00.000,Argue,"[-71.08315, 42.330241]",Point,Argue,8,FIGHT ,280,B2,First,No,WARREN ST,Part three,Unarmed,768882.8559,,2945643.8510000003,2013
+200956,130510818.0,Wednesday,No,2013-08-14T14:43:00.000,Argue,"[-71.093636, 42.286747]",Point,Argue,8,FIGHT ,466,B3,Day,No,MORTON ST,Part three,Unarmed,766122.8443,,2929780.182,2013
+248527,130510815.0,Wednesday,No,2013-08-14T14:30:00.000,Argue,"[-71.06427, 42.306086]",Point,Argue,8,CARBLK,340,C11,Day,No,FOX ST,Part three,Unarmed,774032.922,,2936866.8910000003,2013

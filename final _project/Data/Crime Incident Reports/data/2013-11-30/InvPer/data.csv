@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27831,130756011.0,Saturday,No,2013-11-30T09:15:00.000,InvPer,"[-71.06939, 42.339506]",Point,InvPer,11,IVPER ,150,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+28840,130757161.0,Saturday,No,2013-11-30T22:00:00.000,InvPer,"[-71.061985, 42.317751]",Point,InvPer,11,IVPER ,918,C11,First,No,SUMNER ST,Part three,Unarmed,774629.1856,,2941120.966,2013
+35928,130757608.0,Saturday,No,2013-11-30T11:45:00.000,InvPer,"[-71.084605, 42.285364]",Point,InvPer,11,BERPT ,432,B3,Day,No,MASCOT ST,Part three,Other,768569.032,,2929287.8910000003,2013
+78188,130756816.0,Saturday,No,2013-11-30T12:30:00.000,InvPer,"[-71.135885, 42.353451]",Point,InvPer,11,IVPER ,795,D14,Day,No,BRIGHTON AV,Part three,Unarmed,754587.3247,,2954036.749,2013
+101142,130755486.0,Saturday,No,2013-11-30T00:29:00.000,InvPer,"[-71.16269, 42.355051]",Point,InvPer,11,SHOTS ,765,D14,Last,No,BROOKS ST,Part three,Firearm,747339.6503,,2954590.0319999997,2013
+117902,130755622.0,Saturday,No,2013-11-30T02:01:00.000,InvPer,"[-71.106823, 42.339255]",Point,InvPer,11,IVPREM,614,B2,Last,No,BROOKLINE AV,Part three,Unarmed,762466.4632,,2948898.37,2013
+153733,130757171.0,Saturday,No,2013-11-30T21:31:00.000,InvPer,"[-71.054465, 42.281571]",Point,InvPer,11,IVPREM,355,C11,First,No,LENOXDALE AV,Part three,Unarmed,776731.8425,,2927946.979,2013

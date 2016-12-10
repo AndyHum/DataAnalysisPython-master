@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71247,130511219.0,Wednesday,No,2013-08-14T18:05:00.000,FIRE,"[-71.10512, 42.316616]",Point,FIRE,8,FIREB ,640,E13,First,No,LAMARTINE ST,Part three,Unarmed,762965.2086,,2940650.395,2013
+119774,130511810.0,Wednesday,No,2013-08-14T23:36:00.000,FIRE,"[-71.076265, 42.312576]",Point,FIRE,8,FIREB ,326,B2,First,No,FAYSTON ST,Part three,Other,770776.5217,,2939215.603,2013
+124671,130510484.0,Wednesday,No,2013-08-14T12:06:00.000,FIRE,"[-71.075585, 42.340456]",Point,FIRE,8,FIREB ,157,D4,Day,No,W NEWTON ST,Part three,Unarmed,770909.8909,,2949376.4669999997,2013

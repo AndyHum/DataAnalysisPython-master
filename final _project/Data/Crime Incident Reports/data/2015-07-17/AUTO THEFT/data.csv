@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57199,,Friday,No,2015-07-17T00:00:00.000,Auto Theft,"[-71.065376, 42.300955]",Point,07xx,7,MVA,352,C11,,No,LEROY ST,Part One,None,773743.0,,2940000.0,2015
+63229,,Friday,No,2015-07-17T00:00:00.000,Auto Theft,"[-71.120018, 42.257191]",Point,07xx,7,IVMV,519,E18,,No,RIVER ST,Part One,None,759032.0,,2920000.0,2015
+80329,,Friday,No,2015-07-17T00:00:00.000,Auto Theft Recovery,"[-71.011529, 42.39362]",Point,07RV,7,IVMV,11,A7,,No,WILLIAM F MCCLELLAN HWY,Other,None,788117.0,,2970000.0,2015
+188376,,Friday,No,2015-07-17T10:30:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,402,C11,,No,ASHMONT ST,Part One,None,,DORCHESTER AVE,,2015

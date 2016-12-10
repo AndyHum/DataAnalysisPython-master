@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27515,142045391.0,Monday,No,2014-11-03T09:44:00.000,PropLost,"[-71.085387, 42.289863]",Point,PropLost,11,PROP,0,B3,Day,No,AMES ST,Part three,Unarmed,768349.27,,2930926.4310000003,2014
+70259,142054816.0,Monday,No,2014-11-03T23:00:00.000,PropLost,"[-71.095995, 42.347161]",Point,PropLost,11,PROP,0,D4,First,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014
+87794,142046617.0,Monday,No,2014-11-03T06:07:00.000,PropLost,"[-71.10479, 42.334141]",Point,PropLost,11,PROP,0,B2,Last,No,HUNTINGTON AV,Part three,Unarmed,763024.8693,TREMONT ST,2947037.227,2014
+146888,142045777.0,Monday,No,2014-11-03T14:30:00.000,PropLost,"[-71.07351, 42.333491]",Point,PropLost,11,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771483.5641,ALBANY ST,2946841.0930000003,2014
+172856,142048327.0,Monday,No,2014-11-03T12:00:00.000,PropLost,"[-71.06844, 42.352301]",Point,PropLost,11,PROP,0,A1,Day,No,BOYLSTON ST,Part three,Other,772819.7246,,2953702.6980000003,2014
+248666,142046041.0,Monday,No,2014-11-03T20:00:00.000,PropLost,"[-71.103295, 42.263613]",Point,PropLost,11,PROP,0,E18,First,No,RIVER ST,Part three,Other,763548.6087,,2921337.5739999996,2014
+251389,142045716.0,Monday,No,2014-11-03T22:45:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,11,PROP,0,D4,First,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2014
+255963,142046339.0,Monday,No,2014-11-03T12:30:00.000,PropLost,"[-71.06071, 42.350866]",Point,PropLost,11,ADMRPT,0,A1,Day,No,TYLER ST,Part three,Unarmed,774911.8589,,2953190.422,2014

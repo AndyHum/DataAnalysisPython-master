@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43903,152021818.0,Wednesday,No,2015-03-18T12:50:00.000,PropLost,"[-71.02245, 42.384247]",Point,PropLost,3,LARCEN,0,A7,Day,No,CHELSEA ST,Part three,Unarmed,785185.7448,,2965410.5810000002,2015
+151342,152021942.0,Wednesday,No,2015-03-18T16:45:00.000,PropLost,"[-71.07013, 42.311296]",Point,PropLost,3,PROP,0,B2,First,No,QUINCY ST,Part three,Unarmed,772438.2221,COLUMBIA RD,2938757.453,2015
+225121,152021829.0,Wednesday,No,2015-03-18T14:04:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,3,LARCEN,0,B2,Day,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2015
+225227,152021693.0,Wednesday,No,2015-03-18T00:31:00.000,PropLost,"[-71.057141, 42.361472]",Point,PropLost,3,LARCEN,0,A1,Last,No,UNION ST,Part three,Unarmed,775856.5178,,2957060.42,2015
+266654,152022020.0,Wednesday,No,2015-03-18T01:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,D4,Last,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+266671,152022378.0,Wednesday,No,2015-03-18T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,D4,First,No,ST MARYS ST,Part three,Unarmed,,,,2015
+267782,152030544.0,Wednesday,No,2015-03-18T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,E13,First,No,WALNUT AV,Part three,Unarmed,,,,2015

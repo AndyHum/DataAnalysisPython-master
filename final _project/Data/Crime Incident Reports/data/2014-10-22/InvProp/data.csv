@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37424,142041722.0,Wednesday,No,2014-10-22T19:38:00.000,InvProp,"[-71.093739, 42.334956]",Point,InvProp,10,ALARM,0,B2,First,No,ANNUNCIATION RD,Part three,Unarmed,766011.2668,,2947348.014,2014
+40709,142041581.0,Wednesday,No,2014-10-22T09:00:00.000,InvProp,"[-71.07335, 42.337581]",Point,InvProp,10,INVEST,0,D4,Day,No,GILDAY ST,Part three,Unarmed,771519.3683,,2948331.78,2014
+41560,142041647.0,Wednesday,No,2014-10-22T18:00:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,10,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+57783,142041714.0,Wednesday,No,2014-10-22T20:15:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,10,SUSOBJ,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+204492,142041549.0,Wednesday,No,2014-10-22T10:48:00.000,InvProp,"[-71.069575, 42.305421]",Point,InvProp,10,ALARM,0,C11,Day,No,OLNEY ST,Part three,Unarmed,772599.1411,,2936617.269,2014
+214942,142041817.0,Wednesday,No,2014-10-22T19:00:00.000,InvProp,"[-71.07376, 42.282643]",Point,InvProp,10,VAND,0,B3,First,No,STOCKTON ST,Part three,Unarmed,771508.3897,,2928310.909,2014
+245722,142041640.0,Wednesday,No,2014-10-22T15:30:00.000,InvProp,"[-71.05464, 42.325816]",Point,InvProp,10,IVPREM,0,C6,Day,No,OCALLAGHAN WY,Part three,Unarmed,776600.2984,,2944070.27,2014
+264233,142041556.0,Wednesday,No,2014-10-22T11:27:00.000,InvProp,"[0, 0]",Point,InvProp,10,REQP,0,B2,Day,No,MORTON ST,Part three,Unarmed,,JEWISH WAR VETS DR,,2014
+264725,142041741.0,Wednesday,No,2014-10-22T17:30:00.000,InvProp,"[0, 0]",Point,InvProp,10,IVMV,0,A1,First,No,NORTHERN AV,Part three,Unarmed,,,,2014

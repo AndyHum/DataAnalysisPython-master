@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49049,142035669.0,Friday,No,2014-10-03T23:30:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,10,MISSIN,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+149920,142035665.0,Friday,No,2014-10-03T23:30:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,10,MISSIN,0,D14,First,No,WARREN AV,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+160452,142035667.0,Friday,No,2014-10-03T08:00:00.000,PersLoc,"[-71.055575, 42.329684]",Point,PersLoc,10,IVPER,0,C6,Day,No,ROGERS ST,Other,Unarmed,776340.0168,,2945478.4069999997,2014
+218143,142035614.0,Friday,No,2014-10-03T18:15:00.000,PersLoc,"[-71.099695, 42.330611]",Point,PersLoc,10,MISSIN,0,B2,First,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2014
+246376,142035775.0,Friday,No,2014-10-03T06:30:00.000,PersLoc,"[-71.087612, 42.312512]",Point,PersLoc,10,MISSIN,0,B2,Last,No,CRAWFORD ST,Other,Unarmed,767707.5761,,2939177.0239999997,2014
+259783,142035494.0,Friday,No,2014-10-03T15:18:00.000,PersLoc,"[-71.06768, 42.300426]",Point,PersLoc,10,IVPER,0,C11,Day,No,IOWA ST,Other,Unarmed,773120.9707,,2934799.607,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12553,152023108.0,Sunday,No,2015-03-22T21:29:00.000,Argue,"[-71.079765, 42.315061]",Point,Argue,3,NIDV,0,B2,First,No,QUINCY ST,Part three,Unarmed,769825.4058,,2940116.494,2015
+213080,152023016.0,Sunday,No,2015-03-22T14:25:00.000,Argue,"[-71.093739, 42.334956]",Point,Argue,3,DVIP,0,B2,Day,No,ANNUNCIATION RD,Part three,Unarmed,766011.2668,,2947348.014,2015
+266737,152022918.0,Sunday,No,2015-03-22T02:16:00.000,Argue,"[0, 0]",Point,Argue,3,NIDV,0,C11,Last,No,GENEVA AV,Part three,Unarmed,,,,2015
+266746,152023047.0,Sunday,No,2015-03-22T17:04:00.000,Argue,"[0, 0]",Point,Argue,3,PKNIFE,0,B2,First,No,HUMBOLDT AV,Part three,Unarmed,,,,2015

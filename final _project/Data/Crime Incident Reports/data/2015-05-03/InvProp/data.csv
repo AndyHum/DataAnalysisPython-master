@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+539,152035923.0,Sunday,No,2015-05-03T01:01:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,0,B2,Last,No,WHITTIER ST,Part three,Firearm,,,,2015
+12283,152036083.0,Sunday,No,2015-05-03T08:30:00.000,InvProp,"[-71.10603, 42.277126]",Point,InvProp,5,BE,0,B3,Day,No,STONECREST RD,Part three,Other,762785.5656,,2926258.4910000004,2015
+106158,152035970.0,Sunday,No,2015-05-03T05:03:00.000,InvProp,"[-71.075718, 42.319378]",Point,InvProp,5,SSA,0,B2,Last,No,JULIAN ST,Part three,Unarmed,770912.1543,,2941695.0239999997,2015
+120186,152035976.0,Sunday,No,2015-05-03T06:00:00.000,InvProp,"[-71.070625, 42.361461]",Point,InvProp,5,IVPREM,0,A1,Last,No,CHARLES ST,Part three,Unarmed,772212.3098,,2957037.798,2015
+120358,152035981.0,Sunday,No,2015-05-03T06:00:00.000,InvProp,"[-71.06928, 42.355886]",Point,InvProp,5,CD9,0,A1,Last,No,CHARLES ST S,Part three,Unarmed,772586.0739,BEACON ST,2955007.9910000004,2015
+127734,152035965.0,Sunday,No,2015-05-03T03:48:00.000,InvProp,"[-71.071643, 42.290556]",Point,InvProp,5,SSA,0,C11,Last,No,WASHINGTON ST,Part three,Other,772066.839,,2931197.369,2015
+153345,152035985.0,Sunday,No,2015-05-03T08:30:00.000,InvProp,"[-71.05078, 42.356576]",Point,InvProp,5,CD9,0,A1,Day,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2015
+193313,152036183.0,Sunday,No,2015-05-03T23:10:00.000,InvProp,"[-71.059287, 42.313485]",Point,InvProp,5,SHOTS,0,C11,First,No,PLEASANT ST,Part three,Unarmed,775366.7701,,2939569.9639999997,2015
+197618,152035964.0,Sunday,No,2015-05-03T04:37:00.000,InvProp,"[-71.072097, 42.321041]",Point,InvProp,5,SHOTS,0,B2,Last,No,DUDLEY ST,Part three,Unarmed,771888.2764,E COTTAGE ST,2942305.988,2015

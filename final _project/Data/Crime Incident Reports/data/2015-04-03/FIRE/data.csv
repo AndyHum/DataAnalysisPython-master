@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130114,152026998.0,Friday,No,2015-04-03T03:18:00.000,FIRE,"[-71.062901, 42.302122]",Point,FIRE,4,FO,0,C11,Last,No,WESTVILLE ST,Part three,Other,774410.5987,CORWIN ST,2935424.046,2015
+136575,152027180.0,Friday,No,2015-04-03T15:52:00.000,FIRE,"[-71.122558, 42.289692]",Point,FIRE,4,FIRE,0,E5,Day,No,GRANFIELD AV,Part three,Unarmed,758292.2559999999,,2930817.442,2015
+150846,152027241.0,Friday,No,2015-04-03T20:04:00.000,FIRE,"[-71.092503, 42.268483]",Point,FIRE,4,FO,0,B3,First,No,RIVER ST,Part three,Unarmed,766461.2137,,2923125.834,2015

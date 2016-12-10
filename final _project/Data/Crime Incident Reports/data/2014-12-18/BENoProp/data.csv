@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111784,142059733.0,Thursday,No,2014-12-18T15:30:00.000,BENoProp,"[-71.10253, 42.316171]",Point,BENoProp,12,BE,0,E13,Day,No,BOYLSTON PL,Part One,Unarmed,763666.4454,,2940491.483,2014
+133614,142058604.0,Thursday,No,2014-12-18T11:45:00.000,BENoProp,"[-71.083365, 42.331551]",Point,BENoProp,12,BE,0,B2,Day,No,RUGGLES ST,Part One,Unarmed,768822.3904,,2946120.954,2014
+207392,142058606.0,Thursday,No,2014-12-18T11:46:00.000,BENoProp,"[-71.06171, 42.295001]",Point,BENoProp,12,ARREST,0,C11,Day,No,DIX ST,Part One,Other,774746.1592,DORCHESTER AV,2932830.9,2014

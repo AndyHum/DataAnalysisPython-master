@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6003,120429721.0,Thursday,No,2012-07-12T19:45:00.000,Argue,"[-71.06764, 42.318136]",Point,Argue,7,IVDRUG,238,B2,First,No,DUDLEY ST,Part Three,Unarmed,773099.0777,,2941253.463,2012
+49569,120427842.0,Thursday,No,2012-07-12T00:57:00.000,Argue,"[-71.075986, 42.326608]",Point,Argue,7,FIGHT ,267,B2,Last,No,DUDLEY ST,Part Three,Other,770826.3215,,2944329.5,2012
+229172,120430156.0,Thursday,No,2012-07-12T23:17:00.000,Argue,"[-71.095683, 42.266817]",Point,Argue,7,DVIP  ,482,B3,First,No,RIVER ST,Part Three,Unarmed,765603.2765,,2922514.73,2012
+232721,120429710.0,Thursday,No,2012-07-12T19:24:00.000,Argue,"[-71.056815, 42.378781]",Point,Argue,7,NIDV  ,900,A15,First,No,TUFTS ST,Part Three,Unarmed,775911.8562,,2963368.646,2012

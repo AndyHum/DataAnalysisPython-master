@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41134,140017193.0,Thursday,No,2014-01-09T14:45:00.000,FIRE,"[-71.07695, 42.308106]",Point,FIRE,1,FIREB ,329,B2,Day,No,DEVON ST,Part three,Unarmed,770599.3288,,2937585.745,2014
+70964,140017895.0,Thursday,No,2014-01-09T20:50:00.000,FIRE,"[-71.140238, 42.347978]",Point,FIRE,1,FIREB ,792,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,753419.0321,,2952037.0760000004,2014
+71960,140017219.0,Thursday,No,2014-01-09T14:52:00.000,FIRE,"[-71.07695, 42.308106]",Point,FIRE,1,FIREB ,329,B2,Day,No,DEVON ST,Part three,Unarmed,770599.3288,,2937585.745,2014

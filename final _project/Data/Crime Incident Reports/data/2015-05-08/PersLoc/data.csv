@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+858,152037708.0,Friday,No,2015-05-08T13:45:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,C6,Day,No,DORCHESTER ST,Other,Unarmed,,,,2015
+1052,152037964.0,Friday,No,2015-05-08T10:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,E5,Day,No,ROANOKE RD,Other,Unarmed,,,,2015
+28313,152037987.0,Friday,No,2015-05-08T21:00:00.000,PersLoc,"[-71.12576, 42.249511]",Point,PersLoc,5,MISSIN,0,E18,First,No,GRANTLEY ST,Other,Unarmed,757490.2901,,2916171.168,2015
+39334,152037854.0,Friday,No,2015-05-08T12:00:00.000,PersLoc,"[-71.069802, 42.322607]",Point,PersLoc,5,IVPER,0,B2,Day,No,MARSHFIELD ST,Other,Unarmed,772505.9969,,2942879.5360000003,2015
+45176,152037877.0,Friday,No,2015-05-08T05:45:00.000,PersLoc,"[-71.13839, 42.279181]",Point,PersLoc,5,MISSIN,0,E5,Last,No,BEECH ST,Other,Unarmed,754024.9683,,2926968.5730000003,2015
+57122,152037903.0,Friday,No,2015-05-08T13:00:00.000,PersLoc,"[-71.076775, 42.335256]",Point,PersLoc,5,MISSIN,0,D4,Day,No,NORTHAMPTON ST,Other,Unarmed,770597.5713,,2947479.894,2015
+166522,152038942.0,Friday,No,2015-05-08T07:30:00.000,PersLoc,"[-71.08301, 42.299371]",Point,PersLoc,5,MISSIN,0,B3,Day,No,PAGE ST,Other,Unarmed,768975.7077,,2934394.502,2015

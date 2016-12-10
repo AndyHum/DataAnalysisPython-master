@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5801,140210886.0,Monday,No,2014-04-07T22:31:00.000,InvProp,"[-71.05766, 42.295991]",Point,InvProp,4,SHOTS ,364,C11,First,No,DIX ST,Part three,Firearm,775840.0044,,2933197.329,2014
+19156,140210160.0,Monday,No,2014-04-07T16:35:00.000,InvProp,"[-71.09435, 42.347161]",Point,InvProp,4,IVPREM,624,D4,First,No,LANSDOWNE ST,Part three,Unarmed,765825.0812,IPSWICH ST,2951795.21,2014
+35251,140210028.0,Monday,No,2014-04-07T15:45:00.000,InvProp,"[-71.05406, 42.300621]",Point,InvProp,4,BEIP  ,253,C11,Day,No,ASHLAND ST,Part three,Unarmed,776805.1419,,2934889.6380000003,2014
+108029,140212255.0,Monday,No,2014-04-07T21:00:00.000,InvProp,"[-71.07105, 42.352651]",Point,InvProp,4,IVPREM,134,D4,First,No,ARLINGTON ST,Part three,Unarmed,772113.5933,NEWBURY ST,2953826.685,2014
+148234,140209207.0,Monday,No,2014-04-07T09:06:00.000,InvProp,"[-71.03996, 42.377891]",Point,InvProp,4,INVEST,26,A7,Day,No,BORDER ST,Part three,Unarmed,780467.6477,,2963068.4239999996,2014
+163681,140211847.0,Monday,No,2014-04-07T19:30:00.000,InvProp,"[-71.041495, 42.333621]",Point,InvProp,4,BERPT ,229,C6,First,No,H ST,Part three,Unarmed,780139.6227,,2946933.375,2014
+194785,140332985.0,Monday,No,2014-04-07T12:10:00.000,InvProp,"[-71.049296, 42.298615]",Point,InvProp,4,VANRPT,353,C11,Day,No,MORRISSEY BL,Part three,Other,778097.5609,,2934165.4080000003,2014
+216062,140313629.0,Monday,No,2014-04-07T16:00:00.000,InvProp,"[-71.082985, 42.308821]",Point,InvProp,4,IVPER ,329,B2,First,No,BLUE HILL AV,Part three,Unarmed,768965.6346,,2937838.262,2014

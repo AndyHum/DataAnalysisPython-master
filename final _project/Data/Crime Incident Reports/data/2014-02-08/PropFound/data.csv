@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45252,140080328.0,Saturday,No,2014-02-08T00:01:00.000,PropFound,"[-71.134874, 42.353333]",Point,PropFound,2,FDPROP,795,D14,Last,No,BRIGHTON AV,Part three,Unarmed,754860.65,,2953994.954,2014
+61451,140080768.0,Saturday,No,2014-02-08T11:50:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,2,FDPROP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+141267,140081752.0,Saturday,No,2014-02-08T21:00:00.000,PropFound,"[-71.08105, 42.349046]",Point,PropFound,2,FDPROP,138,D4,First,No,BOYLSTON ST,Part three,Unarmed,769417.031,,2952499.519,2014
+264115,140081632.0,Saturday,No,2014-02-08T19:00:00.000,PropFound,"[0, 0]",Point,PropFound,2,FDPROP,766,D14,First,No,BROOK ST,Part three,Unarmed,,,,2014

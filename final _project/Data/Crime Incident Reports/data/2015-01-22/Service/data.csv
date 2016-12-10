@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28524,152005917.0,Thursday,No,2015-01-22T12:30:00.000,Service,"[-71.03981, 42.376191]",Point,Service,1,ARREST,0,A7,Day,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2015
+96132,152006101.0,Thursday,No,2015-01-22T18:50:00.000,Service,"[-71.10316, 42.326236]",Point,Service,1,PROP,0,E13,First,No,HEATH ST,Part three,Unarmed,763478.9920000001,,2944158.5510000004,2015
+125702,152006097.0,Thursday,No,2015-01-22T21:20:00.000,Service,"[-71.13471, 42.251251]",Point,Service,1,CD11,0,E18,First,No,THOMPSON ST,Part three,Unarmed,755064.3418,,2916794.5069999998,2015
+266140,152005852.0,Thursday,No,2015-01-22T09:15:00.000,Service,"[0, 0]",Point,Service,1,ARREST,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015

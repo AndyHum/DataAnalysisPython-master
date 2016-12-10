@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8744,130652156.0,Saturday,No,2013-10-12T12:30:00.000,InvProp,"[-71.13949, 42.345458]",Point,InvProp,10,LARCRT,792,D14,Day,No,ALLSTON ST,Part three,Unarmed,753625.0517,,2951119.6119999997,2013
+218815,130651678.0,Saturday,No,2013-10-12T12:22:00.000,InvProp,"[-71.064786, 42.373665]",Point,InvProp,10,DISTRB,59,A15,Day,No,RUTHERFORD AV,Part three,Unarmed,773767.5059,,2961492.917,2013
+224832,130651729.0,Saturday,No,2013-10-12T12:50:00.000,InvProp,"[-71.154203, 42.35619]",Point,InvProp,10,IVPER ,768,D14,Day,No,GOODENOUGH ST,Part three,Unarmed,749631.9118,,2955014.312,2013

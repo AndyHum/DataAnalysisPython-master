@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20034,140049000.0,Friday,No,2014-01-24T17:00:00.000,Argue,"[-71.085618, 42.32866]",Point,Argue,1,IVPER ,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+165947,140048784.0,Friday,No,2014-01-24T17:50:00.000,Argue,"[-71.1698, 42.273806]",Point,Argue,1,DISTRB,724,E5,First,No,SPRAGUE ST,Part three,Unarmed,745532.4856,,2924975.3710000003,2014
+208172,140048246.0,Friday,No,2014-01-24T13:40:00.000,Argue,"[-71.06939, 42.339506]",Point,Argue,1,HARPT ,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014

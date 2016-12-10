@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4179,130745995.0,Monday,No,2013-11-25T00:05:00.000,PersLoc,"[-71.06255, 42.365411]",Point,PersLoc,11,MSNCOM,61,A1,Last,No,LEGENDS WAY,Other,Unarmed,774387.3075,,2958488.345,2013
+20534,130746042.0,Monday,No,2013-11-25T23:30:00.000,PersLoc,"[-71.03386, 42.379111]",Point,PersLoc,11,INVCHD,824,A7,First,No,LEXINGTON ST,Other,Unarmed,782113.3934,,2963521.9669999997,2013
+33491,130746028.0,Monday,No,2013-11-25T00:18:00.000,PersLoc,"[-71.099695, 42.330611]",Point,PersLoc,11,MISPER,587,B2,Last,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2013
+83612,130749969.0,Monday,No,2013-11-25T19:00:00.000,PersLoc,"[-71.066505, 42.311986]",Point,PersLoc,11,MISPER,332,C11,First,No,TRULL ST,Other,Unarmed,773417.4268,,2939013.8619999997,2013
+190421,130748814.0,Monday,No,2013-11-25T08:00:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,11,MISPER,817,C11,Day,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2013
+209343,130748166.0,Monday,No,2013-11-25T06:00:00.000,PersLoc,"[-71.077545, 42.343976]",Point,PersLoc,11,MISPER,150,D4,Last,No,COLUMBUS AV,Other,Unarmed,770373.6426,,2950656.5889999997,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43078,140324329.0,Saturday,No,2014-05-24T16:48:00.000,DISORDERLY,"[-71.03723, 42.370306]",Point,24xx,5,IVPER ,29,A7,First,No,BREMEN ST,Part Two,Firearm,781220.2692,,2960308.289,2014
+45116,140323825.0,Saturday,No,2014-05-24T12:36:00.000,DISORDERLY,"[-71.12157, 42.262711]",Point,24xx,5,ARREST,495,E18,Day,No,ARLINGTON ST,Part Two,Unarmed,758603.3605,HYDE PARK AV,2920986.422,2014
+196035,140324546.0,Saturday,No,2014-05-24T18:28:00.000,DISORDERLY,"[-71.06509, 42.317001]",Point,24xx,5,ARREST,239,B2,First,No,COLUMBIA RD,Part Two,Unarmed,773790.8306,DUDLEY ST,2940843.356,2014
+224899,140323152.0,Saturday,No,2014-05-24T02:10:00.000,DISORDERLY,"[-71.081742, 42.299704]",Point,24xx,5,PARTY ,445,B3,Last,No,GLENWAY ST,Part Two,Unarmed,769318.0765,,2934517.415,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61755,152020525.0,Saturday,No,2015-03-14T03:42:00.000,InvProp,"[-71.083575, 42.307776]",Point,InvProp,3,SSA,0,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768807.9052,,2937456.668,2015
+70177,152020723.0,Saturday,No,2015-03-14T21:19:00.000,InvProp,"[-71.087625, 42.325776]",Point,InvProp,3,IVMV,0,B2,First,No,HOMMAGEN CT,Part three,Unarmed,767680.6942,,2944010.845,2015
+75571,152020650.0,Saturday,No,2015-03-14T13:30:00.000,InvProp,"[-71.064942, 42.283487]",Point,InvProp,3,IVMV,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773893.0371,,2928630.318,2015
+81502,152020516.0,Saturday,No,2015-03-14T02:47:00.000,InvProp,"[-71.05799, 42.294706]",Point,InvProp,3,SSA,0,C11,Last,No,CENTRE ST,Part three,Other,775753.1538,,2932728.5919999997,2015
+183075,152020704.0,Saturday,No,2015-03-14T20:23:00.000,InvProp,"[-71.038515, 42.372161]",Point,InvProp,3,SHOTS,0,A7,First,No,GOVE ST,Part three,Firearm,780869.3745,,2960982.4060000004,2015
+187234,152020592.0,Saturday,No,2015-03-14T11:48:00.000,InvProp,"[-71.110875, 42.271096]",Point,InvProp,3,ALARM,0,E18,Day,No,ROANOKE RD,Part three,Unarmed,761484.4123,,2924055.055,2015
+259927,152020547.0,Saturday,No,2015-03-14T08:30:00.000,InvProp,"[-71.050025, 42.283391]",Point,InvProp,3,VAND,0,C11,Day,No,GALLIVAN BL,Part three,Unarmed,777929.8266,,2928616.518,2015

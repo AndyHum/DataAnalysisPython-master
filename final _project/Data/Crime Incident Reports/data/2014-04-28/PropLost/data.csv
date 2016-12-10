@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30886,140263086.0,Monday,No,2014-04-28T14:00:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,4,LSTPRP,905,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+43803,140260245.0,Monday,No,2014-04-28T18:00:00.000,PropLost,"[-71.109903, 42.314487]",Point,PropLost,4,LSTPRP,639,E13,First,No,ROCKVIEW ST,Part three,Unarmed,761674.9897,,2939868.537,2014
+69954,142009338.0,Monday,No,2014-04-28T12:00:00.000,PropLost,"[-71.145679, 42.355277]",Point,PropLost,4,PROP,0,D14,Day,No,N BEACON ST,Part three,Unarmed,751937.0492,,2954690.89,2014
+140450,140265412.0,Monday,No,2014-04-28T13:00:00.000,PropLost,"[-71.067955, 42.272631]",Point,PropLost,4,MISC  ,388,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773097.8819,,2924670.345,2014
+180454,140262959.0,Monday,No,2014-04-28T13:00:00.000,PropLost,"[-71.09119, 42.270306]",Point,PropLost,4,LARCRT,426,B3,Day,No,DELNORE PL,Part three,Unarmed,766813.5424,,2923792.088,2014
+199256,140268073.0,Monday,No,2014-04-28T22:45:00.000,PropLost,"[-71.102355, 42.343326]",Point,PropLost,4,LSTPRP,627,D4,First,No,BOYLSTON ST,Part three,Unarmed,763667.6419,,2950387.473,2014
+209806,140258819.0,Monday,No,2014-04-28T17:47:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,4,MISC  ,167,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+262682,140257358.0,Monday,No,2014-04-28T06:15:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,29,A7,Last,No,MAVERICK SQ,Part three,Unarmed,,,,2014

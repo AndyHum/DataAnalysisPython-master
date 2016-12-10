@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100398,130048762.0,Thursday,No,2013-01-24T09:42:00.000,Arrest,"[-71.060345, 42.302616]",Point,Arrest,1,ARREST,349,C11,Day,No,ADAMS ST,Part Three,Unarmed,775101.1541,,2935607.8189999997,2013
+110596,130049660.0,Thursday,No,2013-01-24T14:45:00.000,Arrest,"[-71.054711, 42.341305]",Point,Arrest,1,IVDRUG,200,C6,Day,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2013

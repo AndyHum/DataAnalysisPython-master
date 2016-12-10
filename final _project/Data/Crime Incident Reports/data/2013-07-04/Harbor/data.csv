@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40860,130411616.0,Thursday,No,2013-07-04T21:30:00.000,Harbor,"[-71.047405, 42.353651]",Point,Harbor,7,DROWN ,207,C6,First,No,NORTHERN AV,Part three,Unarmed,778502.9324,,2954224.131,2013
+259102,130410080.0,Thursday,No,2013-07-04T08:00:00.000,Harbor,"[-71.058468, 42.371544]",Point,Harbor,7,IVPREM,39,A15,Day,No,CONSTITUTION PLAZA,Part three,Unarmed,775478.8873,,2960728.833,2013
+259182,130410327.0,Thursday,No,2013-07-04T12:28:00.000,Harbor,"[0, 0]",Point,Harbor,7,IVPER ,69,A1,Day,No,SPECTACLE ISLAND,Part three,Unarmed,,,,2013
+264431,130411563.0,Thursday,No,2013-07-04T21:23:00.000,Harbor,"[0, 0]",Point,Harbor,7,INVEST,0,C6,First,No,BOSTON HARBOR - OUTER,Part three,Unarmed,,,,2013

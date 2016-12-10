@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94560,130587354.0,Sunday,No,2013-09-15T05:00:00.000,TRESPASS,"[-71.07825, 42.335516]",Point,TRESPASS,9,IVPER ,273,D4,Last,No,WASHINGTON ST,Part Two,Unarmed,770198.2968,LENOX ST,2947572.668,2013
+110726,130588985.0,Sunday,No,2013-09-15T22:11:00.000,TRESPASS,"[-71.076719, 42.32513]",Point,TRESPASS,9,ARREST,267,B2,First,No,MT PLEASANT AV,Part Two,Unarmed,770630.7858,,2943789.723,2013
+245177,130590206.0,Sunday,No,2013-09-15T16:35:00.000,TRESPASS,"[-71.105167, 42.306334]",Point,TRESPASS,9,IVPER ,570,E13,First,No,KENTON RD,Part Two,Unarmed,762969.6026,,2936903.188,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47005,130629507.0,Thursday,No,2013-10-03T00:45:00.000,LICViol,"[-71.128815, 42.352601]",Point,LICViol,10,CD35  ,0,D14,Last,No,BRIGHTON AV,Part three,Unarmed,756499.6857,,2953735.229,2013
+122633,130629484.0,Thursday,No,2013-10-03T00:20:00.000,LICViol,"[-71.131805, 42.352961]",Point,LICViol,10,CD35  ,796,D14,Last,No,BRIGHTON AV,Part three,Unarmed,755690.9151,,2953862.917,2013
+131792,130631797.0,Thursday,No,2013-10-03T22:50:00.000,LICViol,"[-71.0981, 42.347161]",Point,LICViol,10,CD35  ,624,D4,First,No,LANSDOWNE ST,Part three,Unarmed,764811.3611,,2951790.4110000003,2013
+156456,130631827.0,Thursday,No,2013-10-03T23:14:00.000,LICViol,"[-71.099385, 42.342666]",Point,LICViol,10,CD35  ,626,D4,First,No,KILMARNOCK ST,Part three,Unarmed,764471.6869,,2950150.713,2013
+252219,130631770.0,Thursday,No,2013-10-03T22:30:00.000,LICViol,"[-71.099165, 42.349011]",Point,LICViol,10,CD35  ,631,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,764520.2963,,2952463.232,2013

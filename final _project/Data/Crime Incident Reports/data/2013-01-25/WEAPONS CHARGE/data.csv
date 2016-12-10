@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23464,130051108.0,Friday,No,2013-01-25T11:25:00.000,WEAPONS CHARGE,"[-71.046717, 42.336149]",Point,15xx,1,TSTOP ,214,C6,Day,No,W BROADWAY,Part Two,Unarmed,778722.6466,,2947847.002,2013
+61586,130052246.0,Friday,No,2013-01-25T20:00:00.000,WEAPONS CHARGE,"[-71.09538, 42.322061]",Point,15xx,1,IVPER ,302,B2,First,No,MARCELLA ST,Part Two,Firearm,765590.0364,RITCHIE ST,2942646.9910000004,2013
+203022,130051442.0,Friday,No,2013-01-25T13:50:00.000,WEAPONS CHARGE,"[-71.06433, 42.308751]",Point,15xx,1,ARREST,347,C11,Day,No,ADAMS ST,Part Two,Firearm,774011.7317,BOWDOIN ST,2937837.9760000003,2013

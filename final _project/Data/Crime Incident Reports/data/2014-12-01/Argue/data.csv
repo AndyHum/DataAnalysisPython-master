@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55131,142053544.0,Monday,No,2014-12-01T05:01:00.000,Argue,"[-71.079178, 42.304207]",Point,Argue,12,IVPER,0,C11,Last,No,WASHINGTON ST,Part three,Unarmed,770003.4383,,2936161.74,2014
+161128,142053550.0,Monday,No,2014-12-01T06:58:00.000,Argue,"[-71.079466, 42.327327]",Point,Argue,12,DVIP,0,B2,Last,No,MT PLEASANT ST,Part three,Other,769884.0976,,2944586.5360000003,2014
+186085,142053555.0,Monday,No,2014-12-01T07:52:00.000,Argue,"[-71.076829, 42.301465]",Point,Argue,12,DISTRB,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,770644.0423,,2935165.667,2014
+218462,142053858.0,Monday,No,2014-12-01T23:10:00.000,Argue,"[-71.079178, 42.304207]",Point,Argue,12,DISTRB,0,C11,First,No,WASHINGTON ST,Part three,Other,770003.4383,,2936161.74,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49573,142058501.0,Thursday,No,2014-12-18T00:03:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,12,IVPER,0,C11,Last,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+51178,142059880.0,Thursday,No,2014-12-18T21:00:00.000,PersLoc,"[-71.065286, 42.272802]",Point,PersLoc,12,MISSIN,0,C11,First,No,ADAMS ST,Other,Unarmed,773819.6967,,2924736.0489999996,2014
+132048,142058529.0,Thursday,No,2014-12-18T06:51:00.000,PersLoc,"[-71.037465, 42.366871]",Point,PersLoc,12,IVPER,0,A7,Last,No,WEBSTER ST,Other,Unarmed,781163.5587,,2959056.164,2014
+229903,142058735.0,Thursday,No,2014-12-18T15:46:00.000,PersLoc,"[-71.09342, 42.275896]",Point,PersLoc,12,IVPER,0,B3,Day,No,BLUE HILL AV,Other,Unarmed,766200.2749,,2925826.275,2014
+232226,142058567.0,Thursday,No,2014-12-18T09:30:00.000,PersLoc,"[-71.077917, 42.343296]",Point,PersLoc,12,IVPER,0,D4,Day,No,WARREN AV,Other,Unarmed,770274.0752,,2950408.285,2014

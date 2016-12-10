@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77124,,Wednesday,No,2015-07-08T00:00:00.000,Ballistics,"[-71.078719, 42.311955]",Point,BALLIST,7,SSA,326,B2,,No,CRESTON ST,Part Two,None,770114.0,,2940000.0,2015
+171082,,Wednesday,No,2015-07-08T00:00:00.000,Ballistics,"[-71.097045, 42.33311]",Point,BALLIST,7,SHOTS,901,B2,,No,SMITH ST,Part Two,Firearm,765121.0,,2950000.0,2015
+247476,,Wednesday,No,2015-07-08T15:35:00.000,Ballistics,"[0, 0]",Point,BALLIST,7,IVPREM,450,B3,,No,,Part Two,None,,WHEATLAND AVE,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7103,142052614.0,Wednesday,No,2014-11-26T18:00:00.000,PropLost,"[-71.04777, 42.283691]",Point,PropLost,11,PROP,0,C11,First,No,GALLIVAN BL,Part three,Unarmed,778539.4432,,2928729.0689999997,2014
+142737,142052394.0,Wednesday,No,2014-11-26T11:45:00.000,PropLost,"[-71.073065, 42.298546]",Point,PropLost,11,IVPER,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,771667.6249,,2934107.1689999998,2014
+166055,142052662.0,Wednesday,No,2014-11-26T19:00:00.000,PropLost,"[-71.052551, 42.356436]",Point,PropLost,11,PROP,0,A1,First,No,HIGH ST,Part three,Unarmed,777106.6048,,2955231.5510000004,2014
+184933,142052399.0,Wednesday,No,2014-11-26T12:13:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,11,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014

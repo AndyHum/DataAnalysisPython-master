@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24807,152002883.0,Sunday,No,2015-01-11T00:00:00.000,PropLost,"[-71.098335, 42.347376]",Point,PropLost,1,LARCEN,0,D4,Last,No,BROOKLINE AV,Part three,Unarmed,764747.4655,,2951868.462,2015
+101205,152039274.0,Sunday,No,2015-01-11T11:00:00.000,PropLost,"[-71.08754, 42.295846]",Point,PropLost,1,IVMV,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767756.4214,,2933103.981,2015
+238571,152005253.0,Sunday,No,2015-01-11T13:50:00.000,PropLost,"[-71.053601, 42.35182]",Point,PropLost,1,PROP,0,A1,Day,No,SUMMER ST,Part three,Unarmed,776831.4925,,2953548.019,2015

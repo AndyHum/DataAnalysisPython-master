@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37750,140291797.0,Sunday,No,2014-05-11T23:10:00.000,Ballist,"[-71.06577, 42.302076]",Point,Ballist,5,IVPREM,345,C11,First,No,RIDGEWOOD ST,Part Two,Firearm,773634.6072,,2935403.522,2014
+60289,140289925.0,Sunday,No,2014-05-11T02:49:00.000,Ballist,"[-71.099375, 42.318306]",Point,Ballist,5,SHOTS ,303,E13,Last,No,ERNST ST,Part Two,Firearm,764516.0847,,2941273.506,2014
+117541,140291034.0,Sunday,No,2014-05-11T16:00:00.000,Ballist,"[-71.058453, 42.377893]",Point,Ballist,5,FDWEAP,900,A15,First,No,OREILLY WY,Part Two,Unarmed,775470.7498,,2963042.695,2014
+180349,140291340.0,Sunday,No,2014-05-11T19:42:00.000,Ballist,"[-71.060323, 42.31276]",Point,Ballist,5,FDWEAP,823,C11,First,No,SAWYER AV,Part Two,Firearm,775087.9498,,2939304.402,2014

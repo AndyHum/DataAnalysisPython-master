@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8080,120615789.0,Thursday,No,2012-09-27T09:00:00.000,PropLost,"[-71.161235, 42.277927]",Point,PropLost,9,LSTPRP,720,E5,Day,No,SPRING ST,Part Three,Unarmed,747844.3566,,2926486.139,2012
+31146,120609178.0,Thursday,No,2012-09-27T20:30:00.000,PropLost,"[-71.146519, 42.34135]",Point,PropLost,9,MISC  ,786,D14,First,No,COMMONWEALTH AV,Part Three,Unarmed,751731.2412,,2949614.8460000004,2012
+244926,120710877.0,Thursday,No,2012-09-27T13:00:00.000,PropLost,"[-71.098625, 42.346181]",Point,PropLost,9,LSTPRP,627,D4,Day,No,YAWKEY WY,Part Three,Unarmed,764671.1215,,2951432.6119999997,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61911,120646168.0,Saturday,No,2012-10-13T18:45:00.000,InvProp,"[-71.06894, 42.288516]",Point,InvProp,10,IVPREM,398,C11,First,No,WELLES AV,Part Three,Unarmed,772802.0436,,2930457.7060000002,2012
+70559,120644949.0,Saturday,No,2012-10-13T11:38:00.000,InvProp,"[-71.048875, 42.282616]",Point,InvProp,10,IVPER ,384,C11,Day,No,FRAZER ST,Part Three,Unarmed,778242.5071,,2928335.742,2012
+70761,120646061.0,Saturday,No,2012-10-13T21:45:00.000,InvProp,"[-71.096242, 42.292687]",Point,InvProp,10,IVPREM,566,E13,First,No,MORTON ST,Part Three,Unarmed,765407.5003,CANTERBURY ST,2931941.425,2012
+81239,120644450.0,Saturday,No,2012-10-13T02:40:00.000,InvProp,"[-71.094469, 42.273687]",Point,InvProp,10,IVPREM,472,B3,Last,No,CULBERT ST,Part Three,Other,765920.2243,,2925019.903,2012
+147807,120645884.0,Saturday,No,2012-10-13T20:07:00.000,InvProp,"[-71.06047, 42.314346]",Point,InvProp,10,SHOTS ,823,C11,First,No,WHITBY TR,Part Three,Other,775045.3117,,2939882.238,2012
+196756,120644485.0,Saturday,No,2012-10-13T02:54:00.000,InvProp,"[-71.095034, 42.275902]",Point,InvProp,10,IVPREM,469,B3,Last,No,TENNIS RD,Part Three,Other,765763.285,,2925826.202,2012
+205761,120645331.0,Saturday,No,2012-10-13T14:50:00.000,InvProp,"[-71.07688, 42.319311]",Point,InvProp,10,HAZ   ,264,B2,Day,No,JULIAN ST,Part Three,Unarmed,770598.0064,DALIN PL,2941669.1210000003,2012
+265872,120645714.0,Saturday,No,2012-10-13T18:38:00.000,InvProp,"[0, 0]",Point,InvProp,10,CTYALM,233,C6,First,No,WILLIAM DAY BL,Part Three,Unarmed,,,,2012

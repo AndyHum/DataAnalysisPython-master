@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32069,142052658.0,Tuesday,No,2014-11-25T12:30:00.000,PropLost,"[-71.076505, 42.336181]",Point,PropLost,11,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770668.8989,,2947817.3430000003,2014
+107865,142055946.0,Tuesday,No,2014-11-25T00:30:00.000,PropLost,"[-71.106975, 42.334666]",Point,PropLost,11,PROP,0,B2,Last,No,FENWOOD RD,Part three,Unarmed,762433.2051,,2947225.818,2014
+221383,142054010.0,Tuesday,No,2014-11-25T12:00:00.000,PropLost,"[-71.039165, 42.378066]",Point,PropLost,11,PROP,0,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780681.9241,,2963133.358,2014

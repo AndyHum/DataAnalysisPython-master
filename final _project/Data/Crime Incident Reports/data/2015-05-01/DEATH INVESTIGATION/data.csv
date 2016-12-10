@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+428,152035449.0,Friday,No,2015-05-01T08:31:00.000,DEATH INVESTIGATION,"[0, 0]",Point,01INV,5,REQEP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+121538,152035650.0,Friday,No,2015-05-01T22:00:00.000,DEATH INVESTIGATION,"[-71.06115, 42.372676]",Point,01INV,5,CARDIA,0,A15,First,No,PARK ST,Part three,Other,774752.0301,,2961137.8019999997,2015

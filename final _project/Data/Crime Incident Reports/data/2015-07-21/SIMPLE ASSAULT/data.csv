@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76061,,Tuesday,No,2015-07-21T13:11:00.000,Simple Assault,"[0, 0]",Point,08xx,7,ARREST,119,A1,,No,TREMONT ST,Part Two,Other,, WEST ST ,,2015
+94455,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.061776, 42.356024]",Point,08xx,7,,111,A1,,No,WINTER ST,Part Two,None,774614.0,,2960000.0,2015
+107604,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.074098, 42.339273]",Point,08xx,7,IVPER,168,D4,,No,W NEWTON ST,Part Two,Personal Weapon (hand  foot  etc.),771314.0,,2950000.0,2015
+133621,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.074949, 42.342187]",Point,08xx,7,FIGHT,157,D4,,No,TREMONT ST,Part Two,None,771079.0,,2950000.0,2015
+155806,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.058354, 42.358923]",Point,08xx,7,REQP,92,A1,,No,COURT ST,Part Two,None,775534.0,,2960000.0,2015
+161476,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.054013, 42.359695]",Point,08xx,7,IVPER,94,A1,,No,CHATHAM ST,Part Two,Personal Weapon (hand  foot  etc.),776705.0,,2960000.0,2015
+175954,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.09567, 42.266813]",Point,08xx,7,PKNIFE,481,B3,,No,RIVER ST,Part Two,Other,765607.0,,2920000.0,2015
+182400,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.053105, 42.337947]",Point,08xx,7,AB,936,C6,,No,FLAHERTY WAY,Part Two,Personal Weapon (hand  foot  etc.),776992.0,,2950000.0,2015
+184623,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.077788, 42.335875]",Point,08xx,7,AB,271,D4,,No,WASHINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),770322.0,,2950000.0,2015
+215451,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.061696, 42.363574]",Point,08xx,7,AB,75,A1,,No,MERRIMAC ST,Part Two,Personal Weapon (hand  foot  etc.),774621.0,,2960000.0,2015
+254418,,Tuesday,No,2015-07-21T00:00:00.000,Simple Assault,"[-71.106497, 42.339623]",Point,08xx,7,AB,614,B2,,No,BROOKLINE AVE,Part Two,None,762554.0,,2950000.0,2015

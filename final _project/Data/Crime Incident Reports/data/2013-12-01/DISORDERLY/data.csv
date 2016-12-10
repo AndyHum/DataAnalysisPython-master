@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101254,130757468.0,Sunday,No,2013-12-01T00:30:00.000,DISORDERLY,"[-71.05072, 42.334281]",Point,24xx,12,FIGHT ,215,C6,Last,No,W 7TH ST,Part Two,Unarmed,777644.0788,F ST,2947160.617,2013
+195016,130757659.0,Sunday,No,2013-12-01T02:20:00.000,DISORDERLY,"[-71.05256, 42.359511]",Point,24xx,12,ARREST,101,A1,Last,No,STATE ST,Part Two,Unarmed,777098.3496,,2956352.275,2013
+231119,130758717.0,Sunday,No,2013-12-01T18:00:00.000,DISORDERLY,"[-71.06293, 42.351166]",Point,24xx,12,ARREST,117,A1,First,No,WASHINGTON ST,Part Two,Unarmed,774311.2131,,2953296.665,2013

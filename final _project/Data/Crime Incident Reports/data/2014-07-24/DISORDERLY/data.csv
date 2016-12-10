@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+195078,142012506.0,Thursday,No,2014-07-24T15:30:00.000,DISORDERLY,"[-71.08609, 42.336106]",Point,24xx,7,PERGUN,0,D4,Day,No,TREMONT ST,Part Two,Unarmed,768077.5159,,2947777.29,2014
+237246,142012478.0,Thursday,No,2014-07-24T04:35:00.000,DISORDERLY,"[-71.081656, 42.330447]",Point,24xx,7,ARREST,0,B2,Last,No,HARRISON AV,Part Two,Unarmed,769286.3327,,2945720.856,2014
+262190,142012509.0,Thursday,No,2014-07-24T18:24:00.000,DISORDERLY,"[0, 0]",Point,24xx,7,ARREST,0,A1,First,No,BEACON ST,Part Two,Unarmed,,,,2014

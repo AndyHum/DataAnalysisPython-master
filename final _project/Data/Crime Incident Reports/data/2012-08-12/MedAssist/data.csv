@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18346,120499665.0,Sunday,No,2012-08-12T23:55:00.000,MedAssist,"[-71.13069, 42.350403]",Point,MedAssist,8,IVPER ,796,D14,Last,No,COMM,Part Three,Other,755996.2452,HARVARD AV,2952932.0810000002,2012
+32258,120500800.0,Sunday,No,2012-08-12T14:35:00.000,MedAssist,"[-71.105834, 42.269482]",Point,MedAssist,8,BURN1 ,478,E18,Day,No,RIDLON RD,Part Three,Unarmed,762851.4391,,2923473.19,2012
+41500,120500624.0,Sunday,No,2012-08-12T11:30:00.000,MedAssist,"[-71.164699, 42.302973]",Point,MedAssist,8,CARST ,748,E5,Day,No,BROADLAWN PARK,Part Three,Unarmed,746871.1209999999,,2935609.664,2012
+53120,120501183.0,Sunday,No,2012-08-12T18:53:00.000,MedAssist,"[-71.057916, 42.31733]",Point,MedAssist,8,OVRDOS,244,C11,First,No,TAFT ST,Part Three,Unarmed,775730.1985,,2940973.03,2012
+84220,120500428.0,Sunday,No,2012-08-12T10:00:00.000,MedAssist,"[-71.1549, 42.286141]",Point,MedAssist,8,INJOFF,691,E5,Day,No,CENTRE ST,Part Three,Unarmed,749546.8296,COREY ST,2929486.396,2012
+144811,120500374.0,Sunday,No,2012-08-12T09:44:00.000,MedAssist,"[-71.12279, 42.291426]",Point,MedAssist,8,INVEST,563,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,758226.8467,,2931449.1180000002,2012
+166702,120500942.0,Sunday,No,2012-08-12T16:45:00.000,MedAssist,"[-71.139352, 42.240701]",Point,MedAssist,8,IVPER ,529,E18,First,No,COMO RD,Part Three,Unarmed,753823.8916,,2912944.788,2012
+207689,120500024.0,Sunday,No,2012-08-12T02:36:00.000,MedAssist,"[-71.036575, 42.369096]",Point,MedAssist,8,EDP2  ,30,A7,Last,No,MAVERICK ST,Part Three,Unarmed,781399.6651,,2959868.3010000004,2012

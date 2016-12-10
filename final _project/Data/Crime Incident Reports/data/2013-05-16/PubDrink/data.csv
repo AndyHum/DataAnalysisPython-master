@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82032,130292655.0,Thursday,No,2013-05-16T17:15:00.000,PubDrink,"[-71.081388, 42.342955]",Point,PubDrink,5,CD19  ,0,D4,First,No,CLERMONT ST,Part Two,Unarmed,769336.5325,GREENWICH PK,2950279.3060000003,2013
+115993,130292828.0,Thursday,No,2013-05-16T16:30:00.000,PubDrink,"[-71.083699, 42.330436]",Point,PubDrink,5,IVPER ,287,B2,First,No,WASHINGTON ST,Part Two,Other,768733.8404,,2945714.085,2013
+138693,130292734.0,Thursday,No,2013-05-16T17:41:00.000,PubDrink,"[-71.07776, 42.319041]",Point,PubDrink,5,SSTOP ,265,B2,First,No,BLUE HILL AV,Part Two,Unarmed,770360.5021,CLIFFORD ST,2941569.5489999996,2013

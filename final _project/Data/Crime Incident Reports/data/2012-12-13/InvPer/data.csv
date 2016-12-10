@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2228,120780805.0,Thursday,No,2012-12-13T17:16:00.000,InvPer,"[-71.066425, 42.278251]",Point,InvPer,12,MISPER,388,C11,First,No,DORCHESTER AV,Part Three,Unarmed,773501.5553,,2926720.4480000003,2012
+94402,120779099.0,Thursday,No,2012-12-13T00:16:00.000,InvPer,"[-71.06556, 42.339131]",Point,InvPer,12,IVPER ,167,D4,Last,No,ALBANY ST,Part Three,Unarmed,773622.6422,MALDEN ST,2948907.2569999998,2012
+214375,120779707.0,Thursday,No,2012-12-13T09:00:00.000,InvPer,"[-71.07525, 42.314076]",Point,InvPer,12,IVPER ,328,B2,Day,No,HOWARD AV,Part Three,Unarmed,771048.3292,BALFOUR ST,2939763.5919999997,2012
+249403,120781261.0,Thursday,No,2012-12-13T21:10:00.000,InvPer,"[-71.012211, 42.387175]",Point,InvPer,12,SUSPER,12,A7,First,No,BRANDYWYNE DR,Part Three,Unarmed,787945.8755,,2966493.185,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78497,140122174.0,Thursday,No,2014-02-27T12:21:00.000,MVAcc,"[-71.0684, 42.362151]",Point,MVAcc,2,MVPED1,64,A1,Day,No,PARKMAN ST,Other,Unarmed,772812.3743,,2957292.2830000003,2014
+166950,140121963.0,Thursday,No,2014-02-27T10:30:00.000,MVAcc,"[-71.131001, 42.251857]",Point,MVAcc,2,MVAINJ,540,E18,Day,No,RIVER ST,Other,Unarmed,756067.5583,,2917019.702,2014
+191592,140123397.0,Thursday,No,2014-02-27T22:21:00.000,MVAcc,"[0, 0]",Point,MVAcc,2,MVA   ,131,D4,First,No,ARLINGTON ST,Other,Unarmed,,MARLBOROUGH ST,,2014
+202744,140121549.0,Thursday,No,2014-02-27T06:46:00.000,MVAcc,"[-71.07822, 42.302951]",Point,MVAcc,2,MVPED1,461,C11,Last,No,WASHINGTON ST,Other,Unarmed,770265.0920000001,ELDON ST,2935705.481,2014
+203421,140122723.0,Thursday,No,2014-02-27T16:57:00.000,MVAcc,"[0, 0]",Point,MVAcc,2,MVA   ,49,A15,First,No,ALFORD ST,Other,Unarmed,,,,2014
+248420,140122043.0,Thursday,No,2014-02-27T11:12:00.000,MVAcc,"[-71.11547, 42.307651]",Point,MVAcc,2,MVA   ,646,E13,Day,No,SOUTH ST,Other,Unarmed,760180.7182,CAROLINA AV,2937370.61,2014
+261607,140123043.0,Thursday,No,2014-02-27T19:07:00.000,MVAcc,"[0, 0]",Point,MVAcc,2,MVPED2,915,C6,First,No,W 9TH ST,Other,Unarmed,,F ST,,2014

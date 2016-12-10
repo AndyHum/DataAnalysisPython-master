@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1257,152039872.0,Thursday,No,2015-05-14T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,,,,2015
+1748,152042356.0,Thursday,No,2015-05-14T07:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+36603,152039743.0,Thursday,No,2015-05-14T13:00:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,5,PROP,0,D4,Day,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2015
+66858,152041439.0,Thursday,No,2015-05-14T14:00:00.000,PropLost,"[-71.11677, 42.258026]",Point,PropLost,5,PROP,0,E18,Day,No,WEST ST,Part three,Unarmed,759910.3262,,2919284.9480000003,2015
+197772,152039590.0,Thursday,No,2015-05-14T10:15:00.000,PropLost,"[-71.125667, 42.250171]",Point,PropLost,5,PROP,0,E18,Day,No,B ST,Part three,Unarmed,757514.2723,,2916411.591,2015

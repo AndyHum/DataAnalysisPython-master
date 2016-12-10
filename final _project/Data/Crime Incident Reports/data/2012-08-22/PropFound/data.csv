@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+204541,120522434.0,Wednesday,No,2012-08-22T06:34:00.000,PropFound,"[-71.06764, 42.343831]",Point,PropFound,8,IVPREM,160,D4,Last,No,DWIGHT ST,Part Three,Unarmed,773051.6136,SHAWMUT AV,2950617.165,2012
+221433,120522230.0,Wednesday,No,2012-08-22T01:00:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,8,FDPROP,520,E18,Last,No,HYDE PARK AV,Part Three,Unarmed,757969.2324,,2918691.415,2012
+240801,120715258.0,Wednesday,No,2012-08-22T17:30:00.000,PropFound,"[-71.10942, 42.315611]",Point,PropFound,8,FDPROP,639,E13,First,No,ROCKVIEW ST,Part Three,Unarmed,761803.9251,,2940278.8019999997,2012

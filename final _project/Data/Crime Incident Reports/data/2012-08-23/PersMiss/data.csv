@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33586,120524735.0,Thursday,No,2012-08-23T06:59:00.000,PersMiss,"[-71.075835, 42.289281]",Point,PersMiss,8,MISPER,437,B3,Last,No,DARLINGTON ST,Part Three,Unarmed,770935.0404,,2930727.1289999997,2012
+33774,120525671.0,Thursday,No,2012-08-23T16:30:00.000,PersMiss,"[-71.13095, 42.249381]",Point,PersMiss,8,MISPER,533,E18,First,No,RIVER ST,Part Three,Unarmed,756085.3388,,2916117.671,2012
+259659,120526176.0,Thursday,No,2012-08-23T19:33:00.000,PersMiss,"[-71.100941, 42.328972]",Point,PersMiss,8,MSNCOM,585,B2,First,No,CALUMET ST,Part Three,Unarmed,764074.2861,,2945158.251,2012

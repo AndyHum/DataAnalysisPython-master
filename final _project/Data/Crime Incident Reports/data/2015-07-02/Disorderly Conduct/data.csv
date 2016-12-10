@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84868,,Thursday,No,2015-07-02T12:31:00.000,Disorderly Conduct,"[0, 0]",Point,24xx,7,ARREST,520,E18,,No,EVERETT ST,Part Two,None,,HYDE PARK AVE,,2015
+154272,,Thursday,No,2015-07-02T06:19:00.000,Disorderly Conduct,"[0, 0]",Point,24xx,7,ARREST,356,C11,,No,DORCHESTER AVE,Part Two,None,,,,2015
+173098,,Thursday,No,2015-07-02T00:00:00.000,Disorderly Conduct,"[-71.041952, 42.371468]",Point,24xx,7,IVPER,907,A7,,No,MAVERICK ST,Part Two,None,779942.0,,2960000.0,2015
+251035,,Thursday,No,2015-07-02T00:00:00.000,Disorderly Conduct,"[-71.072107, 42.315785]",Point,24xx,7,IVPER,260,B2,,No,CHAMBLET ST,Part Two,None,771895.0,,2940000.0,2015

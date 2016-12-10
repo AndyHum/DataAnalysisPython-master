@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19753,152021364.0,Monday,No,2015-03-16T21:00:00.000,MedAssist,"[-71.07591, 42.290956]",Point,MedAssist,3,INJOFF,0,B3,First,No,MILLET ST,Part three,Unarmed,770911.712,COLONIAL AV,2931337.422,2015
+52923,152021279.0,Monday,No,2015-03-16T16:00:00.000,MedAssist,"[-71.133124, 42.255179]",Point,MedAssist,3,UNKEMS,0,E18,First,No,BRAINARD ST,Part three,Unarmed,755487.5086,,2918227.905,2015
+84267,152021256.0,Monday,No,2015-03-16T16:00:00.000,MedAssist,"[-71.049296, 42.298615]",Point,MedAssist,3,UNCONS,0,C11,First,No,MORRISSEY BL,Part three,Unarmed,778097.5609,,2934165.4080000003,2015
+88297,152021221.0,Monday,No,2015-03-16T14:00:00.000,MedAssist,"[-71.056765, 42.310466]",Point,MedAssist,3,UNKEMS,0,C11,Day,No,AUCKLAND ST,Part three,Unarmed,776054.7316,,2938473.49,2015
+160638,152021204.0,Monday,No,2015-03-16T13:40:00.000,MedAssist,"[-71.105224, 42.327963]",Point,MedAssist,3,REQP,0,B2,Day,No,FISHER AV,Part three,Unarmed,762917.9131,,2944785.227,2015
+171810,152021365.0,Monday,No,2015-03-16T21:00:00.000,MedAssist,"[-71.07591, 42.290956]",Point,MedAssist,3,IVPER,0,B3,First,No,MILLET ST,Part three,Unarmed,770911.712,COLONIAL AV,2931337.422,2015
+177275,152021363.0,Monday,No,2015-03-16T23:35:00.000,MedAssist,"[-71.08064, 42.296921]",Point,MedAssist,3,EDP,0,B3,First,No,GLENWAY ST,Part three,Unarmed,769621.252,,2933504.829,2015
+185408,152021176.0,Monday,No,2015-03-16T09:56:00.000,MedAssist,"[-71.0573, 42.286036]",Point,MedAssist,3,CARDIA,0,C11,Day,No,SEDALIA RD,Part three,Unarmed,775956.2315,,2929570.091,2015
+203950,152021087.0,Monday,No,2015-03-16T09:20:00.000,MedAssist,"[-71.073901, 42.283379]",Point,MedAssist,3,IVPER,0,B3,Day,No,ROCKWELL ST,Part three,Unarmed,771468.8277,,2928578.735,2015
+208127,152021203.0,Monday,No,2015-03-16T14:23:00.000,MedAssist,"[-71.145038, 42.251969]",Point,MedAssist,3,IVPER,0,E18,Day,No,DODGE RD,Part three,Unarmed,752267.0761,,2917044.51,2015
+228200,152021224.0,Monday,No,2015-03-16T14:57:00.000,MedAssist,"[-71.080568, 42.310368]",Point,MedAssist,3,REQP,0,B2,Day,No,DEVON ST,Part three,Unarmed,769616.463,,2938405.0069999998,2015
+242568,152021361.0,Monday,No,2015-03-16T23:31:00.000,MedAssist,"[-71.06255, 42.365411]",Point,MedAssist,3,POISON,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+266472,152021125.0,Monday,No,2015-03-16T11:05:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,IVPER,0,D14,Day,No,BRIGHTON ST,Part three,Unarmed,,,,2015
+266489,152021362.0,Monday,No,2015-03-16T23:40:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,IVPER,0,C11,First,No,GIBSON ST,Part three,Unarmed,,,,2015
+266490,152021206.0,Monday,No,2015-03-16T14:25:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,EDP,0,B2,Day,No,PARKER HILL AV,Part three,Unarmed,,,,2015
+266493,152021193.0,Monday,No,2015-03-16T13:32:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,REQEP,0,C6,Day,No,MT VERNON ST,Part three,Unarmed,,,,2015
+266500,152021217.0,Monday,No,2015-03-16T15:11:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,EDP,0,C11,Day,No,GRANITE AV,Part three,Unarmed,,HILL TOP ST,,2015

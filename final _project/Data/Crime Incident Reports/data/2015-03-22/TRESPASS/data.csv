@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85205,152023643.0,Sunday,No,2015-03-22T12:45:00.000,TRESPASS,"[-71.104895, 42.337681]",Point,TRESPASS,3,IVPER,0,B2,Day,No,LONGWOOD AV,Part Two,Unarmed,762990.5031,,2948327.137,2015
+266741,152023043.0,Sunday,No,2015-03-22T05:15:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,3,CD19,0,C11,Last,No,DORCHESTER AV,Part Two,Unarmed,,GIBSON ST,,2015
+266756,152022946.0,Sunday,No,2015-03-22T06:12:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,3,ARREST,0,E13,Last,No,CENTRE ST,Part Two,Unarmed,,,,2015

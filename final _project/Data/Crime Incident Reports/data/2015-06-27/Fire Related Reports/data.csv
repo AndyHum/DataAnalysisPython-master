@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11261,,Saturday,No,2015-06-27T00:00:00.000,Fire Related Reports,"[-71.081505, 42.320268]",Point,Fire,6,FIRE,311,B2,,No,WARREN ST,Part Three,None,769345.0,,2940000.0,2015
+122989,,Saturday,No,2015-06-27T00:00:00.000,Fire Related Reports,"[-71.089093, 42.311277]",Point,Fire,6,REQP,318,B2,,No,HOMESTEAD ST,Part Three,None,767309.0,,2940000.0,2015
+135960,,Saturday,No,2015-06-27T00:00:00.000,Fire Related Reports,"[-71.06778, 42.313634]",Point,Fire,6,FIRE,332,C11,,No,COLUMBIA RD,Part Three,None,773069.0,,2940000.0,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55627,142000028.0,Monday,No,2014-06-16T10:00:00.000,PersLoc,"[-71.054486, 42.32689]",Point,PersLoc,6,MISSIN,0,C6,Day,No,STERLING SQ,Other,Unarmed,776639.7695,,2944461.602,2014
+70906,140383063.0,Monday,No,2014-06-16T05:50:00.000,PersLoc,"[-71.07547, 42.346214]",Point,PersLoc,6,MISPER,149,D4,Last,No,DARTMOUTH ST,Other,Unarmed,770930.358,,2951474.633,2014
+71190,142000363.0,Monday,No,2014-06-16T07:45:00.000,PersLoc,"[-71.072995, 42.304498]",Point,PersLoc,6,MISSIN,0,C11,Day,No,GENEVA AV,Other,Unarmed,771675.6285,,2936276.22,2014
+154705,140380988.0,Monday,No,2014-06-16T10:31:00.000,PersLoc,"[-71.097079, 42.280332]",Point,PersLoc,6,IVPER ,469,B3,Day,No,WALK HILL ST,Other,Unarmed,765202.2625,,2927437.8389999997,2014
+226057,140380491.0,Monday,No,2014-06-16T00:13:00.000,PersLoc,"[-71.05974, 42.318386]",Point,PersLoc,6,MISPER,240,C11,Last,No,CHASE ST,Other,Unarmed,775235.1522,,2941355.4960000003,2014
+251702,140383049.0,Monday,No,2014-06-16T06:15:00.000,PersLoc,"[-71.085549, 42.28187]",Point,PersLoc,6,MISPER,429,B3,Last,No,HANNON ST,Other,Unarmed,768319.6746,,2928013.539,2014

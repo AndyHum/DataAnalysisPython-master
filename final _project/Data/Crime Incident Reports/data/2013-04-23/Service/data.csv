@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85643,130238420.0,Tuesday,No,2013-04-23T09:00:00.000,Service,"[-71.059735, 42.297541]",Point,Service,4,CD11  ,817,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2013
+128660,130239704.0,Tuesday,No,2013-04-23T19:45:00.000,Service,"[-71.06942, 42.362401]",Point,Service,4,ARREST,64,A1,First,No,FRUIT ST,Part Three,Unarmed,772536.2528,PARKMAN ST,2957381.922,2013
+193717,130238818.0,Tuesday,No,2013-04-23T12:33:00.000,Service,"[-71.086268, 42.306073]",Point,Service,4,VICDOG,319,B2,Day,No,SEAVER ST,Part Three,Unarmed,768082.2584,,2936832.35,2013
+245102,130239048.0,Tuesday,No,2013-04-23T14:29:00.000,Service,"[-71.047405, 42.353651]",Point,Service,4,CD11  ,207,C6,Day,No,NORTHERN AV,Part Three,Unarmed,778502.9324,,2954224.131,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33365,120707168.0,Friday,No,2012-11-09T17:44:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,11,FDPROP,200,C6,First,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2012
+53434,130013566.0,Friday,No,2012-11-09T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,11,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+75587,120707725.0,Friday,No,2012-11-09T18:30:00.000,PropFound,"[-71.080624, 42.337477]",Point,PropFound,11,INVEST,273,D4,First,No,CAMDEN ST,Part Three,Unarmed,769552.6659,,2948284.111,2012
+168686,120706926.0,Friday,No,2012-11-09T16:00:00.000,PropFound,"[-71.14938, 42.287191]",Point,PropFound,11,FDPROP,691,E5,First,No,CENTRE ST,Part Three,Unarmed,751038.8958,,2929875.124,2012
+212997,120706260.0,Friday,No,2012-11-09T10:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,11,FDPROP,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+222788,120706482.0,Friday,No,2012-11-09T12:43:00.000,PropFound,"[-71.16238, 42.356121]",Point,PropFound,11,FDPROP,766,D14,Day,No,BROOKS ST,Part Three,Unarmed,747421.8978,,2954980.2939999998,2012
+234463,120705509.0,Friday,No,2012-11-09T00:40:00.000,PropFound,"[-71.05676, 42.358791]",Point,PropFound,11,FDPROP,98,A1,Last,No,CONGRESS ST,Part Three,Unarmed,775964.5706,STATE ST,2956083.966,2012
+241945,120714954.0,Friday,No,2012-11-09T16:30:00.000,PropFound,"[-71.137715, 42.275161]",Point,PropFound,11,LSTPRP,550,E5,First,No,HIGHCREST RD,Part Three,Unarmed,754213.8553,,2925504.402,2012

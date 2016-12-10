@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+223029,152033185.0,Thursday,No,2015-04-23T20:00:00.000,WEAPONS CHARGE,"[-71.15529, 42.355626]",Point,15xx,4,ARREST,0,D14,First,No,FANEUIL ST,Part Two,Unarmed,749338.8913,PARSONS ST,2954807.595,2015
+231554,152032940.0,Thursday,No,2015-04-23T01:01:00.000,WEAPONS CHARGE,"[-71.082832, 42.337385]",Point,15xx,4,SS,0,D4,Last,No,KENDALL ST,Part Two,Other,768956.1018,LENOX ST,2948247.514,2015

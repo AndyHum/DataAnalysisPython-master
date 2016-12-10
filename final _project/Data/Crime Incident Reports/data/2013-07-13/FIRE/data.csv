@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120168,130431821.0,Saturday,No,2013-07-13T01:08:00.000,FIRE,"[-71.09896, 42.329141]",Point,FIRE,7,FIRE  ,586,B2,Last,No,HILLSIDE ST,Part three,Other,764609.7569,PARKER ST,2945222.495,2013
+216287,130431696.0,Saturday,No,2013-07-13T00:14:00.000,FIRE,"[-71.07523, 42.327021]",Point,FIRE,7,FV    ,268,B2,Last,No,EUSTIS ST,Part three,Other,771030.2465,HAMPDEN ST,2944480.992,2013
+249388,130432207.0,Saturday,No,2013-07-13T07:13:00.000,FIRE,"[-71.08765, 42.280906]",Point,FIRE,7,FIREB ,428,B3,Last,No,NORFOLK ST,Part three,Unarmed,767752.9815,,2927659.4839999997,2013

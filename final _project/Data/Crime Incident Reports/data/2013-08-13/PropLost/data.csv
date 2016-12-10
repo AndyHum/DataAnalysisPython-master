@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17228,130508352.0,Tuesday,No,2013-08-13T10:00:00.000,PropLost,"[-71.107429, 42.274187]",Point,PropLost,8,PDRPT ,473,B3,Day,No,LIVERMORE ST,Part three,Unarmed,762411.6772,,2925185.642,2013
+23475,130524969.0,Tuesday,No,2013-08-13T01:48:00.000,PropLost,"[-71.0723, 42.356471]",Point,PropLost,8,LSTPRP,93,A1,Last,No,CHESTNUT ST,Part three,Unarmed,771768.7359,,2955217.07,2013
+40083,130510787.0,Tuesday,No,2013-08-13T21:00:00.000,PropLost,"[-71.05378, 42.359296]",Point,PropLost,8,LSTPRP,94,A1,First,No,STATE ST,Part three,Unarmed,776769.0281,,2956272.1969999997,2013
+63234,130541401.0,Tuesday,No,2013-08-13T12:00:00.000,PropLost,"[-71.125199, 42.258622]",Point,PropLost,8,LSTPRP,961,E18,Day,No,SUMMER ST,Part three,Unarmed,757627.4302,,2919491.738,2013
+81177,130511092.0,Tuesday,No,2013-08-13T13:00:00.000,PropLost,"[-71.056345, 42.358871]",Point,PropLost,8,LSTPRP,99,A1,Day,No,STATE ST,Part three,Unarmed,776076.5836,,2956113.703,2013
+117766,140147655.0,Tuesday,No,2013-08-13T21:30:00.000,PropLost,"[-71.073275, 42.348286]",Point,PropLost,8,INVEST,128,D4,First,No,STANHOPE ST,Part three,Unarmed,771520.1304,,2952232.979,2013
+151551,130508309.0,Tuesday,No,2013-08-13T13:00:00.000,PropLost,"[-71.12412, 42.255821]",Point,PropLost,8,LSTPRP,521,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757924.1751,RIVER ST,2918472.564,2013
+156533,130508862.0,Tuesday,No,2013-08-13T18:31:00.000,PropLost,"[-71.069825, 42.344106]",Point,PropLost,8,LARCRT,160,D4,First,No,MILFORD ST,Part three,Unarmed,772460.4186,,2950714.395,2013
+171541,130509300.0,Tuesday,No,2013-08-13T21:52:00.000,PropLost,"[-71.08773, 42.347281]",Point,PropLost,8,LSTPRP,142,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767614.423,BOYLSTON ST,2951847.52,2013
+262924,130508326.0,Tuesday,No,2013-08-13T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,624,D4,Day,No,PETERBOROUGH ST,Part three,Unarmed,,,,2013

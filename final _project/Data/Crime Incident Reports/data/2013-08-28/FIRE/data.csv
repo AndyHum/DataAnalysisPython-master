@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70933,130543180.0,Wednesday,No,2013-08-28T03:29:00.000,FIRE,"[-71.05539, 42.338296]",Point,FIRE,8,FIREB ,936,C6,Last,No,ORTON MAROTTA WY,Part three,Other,776373.7815,,2948617.1380000003,2013
+177641,130543733.0,Wednesday,No,2013-08-28T11:30:00.000,FIRE,"[-71.03927, 42.370256]",Point,FIRE,8,FIREB ,27,A7,Day,No,MAVERICK ST,Part three,Unarmed,780669.1099,,2960287.083,2013
+207092,130543954.0,Wednesday,No,2013-08-28T13:13:00.000,FIRE,"[-71.133345, 42.291393]",Point,FIRE,8,IVPREM,673,E5,Day,No,KNOLL ST,Part three,Unarmed,755370.8858,,2931424.47,2013

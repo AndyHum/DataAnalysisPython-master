@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66396,120674204.0,Friday,No,2012-10-26T02:15:00.000,PropFound,"[-71.08773, 42.347281]",Point,PropFound,10,FDPROP,620,D4,Last,No,BOYLSTON ST,Part Three,Unarmed,767614.423,MASSACHUSETTS AV,2951847.52,2012
+72577,130005101.0,Friday,No,2012-10-26T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,10,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+87621,120675855.0,Friday,No,2012-10-26T14:00:00.000,PropFound,"[-71.09841, 42.319561]",Point,PropFound,10,FDPROP,574,E13,Day,No,COLUMBUS AV,Part Three,Unarmed,764774.9156,DIMOCK ST,2941732.075,2012
+104514,120675995.0,Friday,No,2012-10-26T19:20:00.000,PropFound,"[-71.03981, 42.376191]",Point,PropFound,10,FDPROP,27,A7,First,No,BORDER ST,Part Three,Unarmed,780511.5193,,2962449.128,2012
+112764,120680312.0,Friday,No,2012-10-26T17:00:00.000,PropFound,"[-71.16151, 42.347251]",Point,PropFound,10,BERPT ,752,D14,First,No,LAKE ST,Part Three,Unarmed,747669.8757,,2951748.814,2012
+198020,120674533.0,Friday,No,2012-10-26T08:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,10,FDPROP,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+202108,120675201.0,Friday,No,2012-10-26T13:00:00.000,PropFound,"[-71.03993, 42.334671]",Point,PropFound,10,FDPROP,226,C6,Day,No,E 4TH ST,Part Three,Unarmed,780560.7067,I ST,2947318.291,2012
+222180,120675981.0,Friday,No,2012-10-26T17:00:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,10,MISC  ,200,C6,First,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2012
+242168,120675961.0,Friday,No,2012-10-26T19:20:00.000,PropFound,"[-71.11499, 42.310226]",Point,PropFound,10,REQP  ,646,E13,First,No,CENTRE ST,Part Three,Unarmed,760306.3192,,2938309.568,2012

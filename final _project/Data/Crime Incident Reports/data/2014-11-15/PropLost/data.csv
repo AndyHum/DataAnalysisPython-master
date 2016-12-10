@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29642,142049430.0,Saturday,No,2014-11-15T21:00:00.000,PropLost,"[-71.10367, 42.347016]",Point,PropLost,11,ADMRPT,0,D4,First,No,BEACON ST,Part three,Unarmed,763305.8942,,2951730.525,2014
+50979,142049428.0,Saturday,No,2014-11-15T18:00:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,11,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2014
+70098,142049148.0,Saturday,No,2014-11-15T10:15:00.000,PropLost,"[-71.07122, 42.338081]",Point,PropLost,11,LARCEN,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772094.3327,,2948516.876,2014
+118709,142050030.0,Saturday,No,2014-11-15T04:15:00.000,PropLost,"[-71.066937, 42.365823]",Point,PropLost,11,LARCEN,0,A1,Last,No,WHITTIER PL,Part three,Other,773200.7718,,2958632.311,2014
+129230,142049188.0,Saturday,No,2014-11-15T12:10:00.000,PropLost,"[-71.060585, 42.298841]",Point,PropLost,11,LARCEN,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775043.317,,2934231.818,2014
+215386,142049526.0,Saturday,No,2014-11-15T20:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,11,PROP,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+262764,142053661.0,Saturday,No,2014-11-15T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LARCEN,0,A1,Day,No,HANOVER ST,Part three,Unarmed,,PURCHASE ST,,2014

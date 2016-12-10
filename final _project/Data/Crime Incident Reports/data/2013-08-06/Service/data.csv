@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22142,130491593.0,Tuesday,No,2013-08-06T15:27:00.000,Service,"[-71.04625, 42.354256]",Point,Service,8,CD11  ,207,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2013
+53002,130492231.0,Tuesday,No,2013-08-06T18:15:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER ,257,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2013
+97445,130490852.0,Tuesday,No,2013-08-06T10:08:00.000,Service,"[-71.07709, 42.349476]",Point,Service,8,ARREST,130,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,770486.7093,,2952661.501,2013

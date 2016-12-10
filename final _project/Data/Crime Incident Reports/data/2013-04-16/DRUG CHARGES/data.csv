@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18074,130224235.0,Tuesday,No,2013-04-16T12:02:00.000,DRUG CHARGES,"[-71.06939, 42.329836]",Point,18xx,4,IVPER ,177,C6,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,772604.2674,,2945514.745,2013
+20724,130225397.0,Tuesday,No,2013-04-16T21:18:00.000,DRUG CHARGES,"[-71.100035, 42.320706]",Point,18xx,4,IVPER ,0,E13,First,No,AMORY AV,Part Two,Unarmed,764333.4883,,2942147.27,2013
+21095,130224665.0,Tuesday,No,2013-04-16T15:24:00.000,DRUG CHARGES,"[-71.12836, 42.352541]",Point,18xx,4,ARREST,799,D14,Day,No,BRIGHTON AV,Part Two,Unarmed,756622.7689,CHESTER ST,2953713.8989999997,2013
+42065,130224443.0,Tuesday,No,2013-04-16T10:20:00.000,DRUG CHARGES,"[-71.069545, 42.336291]",Point,18xx,4,IVDRUG,169,D4,Day,No,ALBANY ST,Part Two,Unarmed,772550.4834,,2947866.849,2013

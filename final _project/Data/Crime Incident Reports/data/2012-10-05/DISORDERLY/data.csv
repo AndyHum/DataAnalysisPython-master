@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110146,120625938.0,Friday,No,2012-10-05T00:00:00.000,DISORDERLY,"[-71.074385, 42.335516]",Point,24xx,10,ARREST,171,D4,Last,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2012
+231898,120626978.0,Friday,No,2012-10-05T11:40:00.000,DISORDERLY,"[-71.145297, 42.349864]",Point,24xx,10,IVPER ,783,D14,Day,No,WARREN ST,Part Two,Unarmed,752048.4758,,2952718.7569999998,2012
+233948,120628467.0,Friday,No,2012-10-05T23:30:00.000,DISORDERLY,"[-71.04206, 42.317766]",Point,24xx,10,TRANSP,256,C6,First,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2012

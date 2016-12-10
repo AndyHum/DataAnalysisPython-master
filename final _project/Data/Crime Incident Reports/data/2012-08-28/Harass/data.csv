@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65534,120536939.0,Tuesday,No,2012-08-28T14:25:00.000,Harass,"[-71.053335, 42.295101]",Point,Harass,8,HARPT ,369,C11,Day,No,NEPONSET AV,Part Two,Unarmed,777011.8048,,2932879.0960000004,2012
+146227,120537232.0,Tuesday,No,2012-08-28T12:20:00.000,Harass,"[-71.048195, 42.291061]",Point,Harass,8,IVPER ,374,C11,Day,No,FREEPORT ST,Part Two,Other,778410.2138,,2931414.187,2012
+191097,120536931.0,Tuesday,No,2012-08-28T14:55:00.000,Harass,"[-71.053975, 42.27847]",Point,Harass,8,ALARMP,387,C11,Day,No,GRANITE AV,Part Two,Unarmed,776870.3405,,2926817.5110000004,2012

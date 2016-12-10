@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13000,130240706.0,Wednesday,No,2013-04-24T11:00:00.000,DEATH INVESTIGATION,"[-71.051365, 42.359702]",Point,01INV,4,CARST ,96,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777420.9352,,2956423.3710000003,2013
+33246,130240630.0,Wednesday,No,2013-04-24T10:14:00.000,DEATH INVESTIGATION,"[-71.136479, 42.349047]",Point,01INV,4,SDNDTH,794,D14,Day,No,GLENVILLE AV,Part Three,Unarmed,754433.5091,,2952431.1789999995,2013
+135205,130241965.0,Wednesday,No,2013-04-24T21:01:00.000,DEATH INVESTIGATION,"[-71.033655, 42.374681]",Point,01INV,4,SDNDTH,21,A7,First,No,MARION ST,Part Three,Unarmed,782177.6104,,2961907.887,2013

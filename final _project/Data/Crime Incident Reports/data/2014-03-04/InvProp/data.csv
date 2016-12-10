@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6555,140132713.0,Tuesday,No,2014-03-04T09:06:00.000,InvProp,"[-71.073892, 42.318014]",Point,InvProp,3,UNK   ,260,B2,Day,No,HARTFORD ST,Part three,Other,771408.2816,,2941200.329,2014
+56098,140132783.0,Tuesday,No,2014-03-04T10:28:00.000,InvProp,"[-71.09037, 42.315906]",Point,InvProp,3,BERPT ,312,B2,Day,No,HOLLANDER ST,Part three,Unarmed,766955.4726,,2940410.3619999997,2014
+73622,140132735.0,Tuesday,No,2014-03-04T09:29:00.000,InvProp,"[-71.112305, 42.261326]",Point,InvProp,3,IVPREM,493,E18,Day,No,RIVER ST,Part three,Unarmed,761113.5637,,2920492.973,2014
+73974,140132300.0,Tuesday,No,2014-03-04T01:22:00.000,InvProp,"[-71.15797, 42.291681]",Point,InvProp,3,ALARMC,695,E5,Last,No,WELD ST,Part three,Unarmed,748708.0327,,2931501.914,2014
+147123,140134509.0,Tuesday,No,2014-03-04T23:03:00.000,InvProp,"[-71.048936, 42.297587]",Point,InvProp,3,ALARMC,353,C11,First,No,MORRISSEY BL,Part three,Unarmed,778196.916,,2933791.0689999997,2014
+155502,140133568.0,Tuesday,No,2014-03-04T15:49:00.000,InvProp,"[-71.087325, 42.296546]",Point,InvProp,3,REQP  ,444,B3,Day,No,BLUE HILL AV,Part three,Other,767813.3547,,2933359.352,2014
+157131,140132191.0,Tuesday,No,2014-03-04T00:08:00.000,InvProp,"[-71.114098, 42.278973]",Point,InvProp,3,ALARMC,500,E18,Last,No,MT CALVARY RD,Part three,Unarmed,760598.9987,,2926921.495,2014
+193564,140132328.0,Tuesday,No,2014-03-04T01:34:00.000,InvProp,"[-71.065845, 42.301366]",Point,InvProp,3,SHOTS ,345,C11,Last,No,WESTVILLE ST,Part three,Unarmed,773615.6368,,2935144.682,2014
+239551,140132803.0,Tuesday,No,2014-03-04T09:59:00.000,InvProp,"[-71.058885, 42.305581]",Point,InvProp,3,AOD   ,347,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775490.5175,,2936690.348,2014

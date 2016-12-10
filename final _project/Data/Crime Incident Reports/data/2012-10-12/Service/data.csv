@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39843,120642889.0,Friday,No,2012-10-12T14:30:00.000,Service,"[-71.04625, 42.354256]",Point,Service,10,ARREST,207,C6,Day,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012
+98737,120642601.0,Friday,No,2012-10-12T10:15:00.000,Service,"[-71.061235, 42.310371]",Point,Service,10,IVPREM,372,C11,Day,No,HANCOCK ST,Part Three,Other,774845.858,,2938432.619,2012
+114938,120642483.0,Friday,No,2012-10-12T09:30:00.000,Service,"[-71.082385, 42.324956]",Point,Service,10,CD11  ,326,B2,Day,No,ROCKVILLE PARK,Part Three,Unarmed,769099.1392,,2943718.917,2012
+185245,120642282.0,Friday,No,2012-10-12T07:39:00.000,Service,"[-71.073855, 42.279191]",Point,Service,10,ARREST,415,B3,Day,No,CODMAN HILL AV,Part Three,Unarmed,771489.1417,,2927052.865,2012
+264663,120643556.0,Friday,No,2012-10-12T18:30:00.000,Service,"[0, 0]",Point,Service,10,INVEST,273,D4,First,No,CAMDEN ST,Part Three,Unarmed,,,,2012

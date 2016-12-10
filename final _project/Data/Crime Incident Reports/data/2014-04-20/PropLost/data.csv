@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29290,140240941.0,Sunday,No,2014-04-20T15:15:00.000,PropLost,"[-71.065491, 42.305384]",Point,PropLost,4,LSTPRP,340,C11,Day,No,DRAPER ST,Part three,Unarmed,773703.9466,,2936609.337,2014
+56064,140244207.0,Sunday,No,2014-04-20T00:55:00.000,PropLost,"[-71.142936, 42.345312]",Point,PropLost,4,LSTPRP,938,D14,Last,No,FIDELIS WY,Part three,Unarmed,752693.6724,,2951062.6210000003,2014
+94083,142032946.0,Sunday,No,2014-04-20T10:00:00.000,PropLost,"[-71.039965, 42.318876]",Point,PropLost,4,PROP,0,C6,Day,No,BEACH POINT PL,Part three,Unarmed,780582.2878,,2941562.285,2014
+124910,140241079.0,Sunday,No,2014-04-20T19:14:00.000,PropLost,"[-71.044345, 42.284861]",Point,PropLost,4,LARCRT,385,C11,First,No,GALLIVAN BL,Part three,Unarmed,779463.9551,,2929160.365,2014
+210192,140298536.0,Sunday,No,2014-04-20T20:00:00.000,PropLost,"[-71.0722, 42.349491]",Point,PropLost,4,LSTPRP,128,D4,First,No,BERKELEY ST,Part three,Unarmed,771808.5228,STUART ST,2952673.559,2014
+216270,140240772.0,Sunday,No,2014-04-20T14:30:00.000,PropLost,"[-71.059874, 42.283399]",Point,PropLost,4,LSTPRP,391,C11,Day,No,MINOT ST,Part three,Unarmed,775264.4596,,2928605.499,2014
+264067,140242558.0,Sunday,No,2014-04-20T12:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,94,A1,Day,No,N MARKET ST,Part three,Unarmed,,,,2014

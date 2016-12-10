@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12760,120431678.0,Friday,No,2012-07-13T17:50:00.000,PropFound,"[-71.079384, 42.35173]",Point,PropFound,7,IVPREM,136,D4,First,No,COMMONWEALTH AV,Part Three,Unarmed,769862.4769,,2953479.561,2012
+103588,120432154.0,Friday,No,2012-07-13T17:35:00.000,PropFound,"[-71.11477, 42.319851]",Point,PropFound,7,LSTPRP,634,E13,First,No,MORAINE ST,Part Three,Unarmed,760349.9851,,2941817.352,2012
+122154,120430904.0,Friday,No,2012-07-13T10:00:00.000,PropFound,"[-71.05937, 42.359201]",Point,PropFound,7,FDPROP,72,A1,Day,No,CAMBRIDGE ST,Part Three,Unarmed,775258.3821,COURT ST,2956229.722,2012
+190220,120432511.0,Friday,No,2012-07-13T23:10:00.000,PropFound,"[-71.09154, 42.284251]",Point,PropFound,7,FDPROP,428,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766694.479,MORTON ST,2928873.385,2012
+194845,120432982.0,Friday,No,2012-07-13T02:00:00.000,PropFound,"[-71.082606, 42.30757]",Point,PropFound,7,LSTPRP,329,B2,Last,No,WASHINGTON ST,Part Three,Unarmed,769070.3581,,2937382.568,2012
+222502,120430964.0,Friday,No,2012-07-13T10:40:00.000,PropFound,"[-71.12461, 42.281516]",Point,PropFound,7,FDPROP,558,E5,Day,No,HAWTHORNE ST,Part Three,Unarmed,757750.3145,,2927835.5919999997,2012
+263014,120432090.0,Friday,No,2012-07-13T08:00:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,141,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,,,,2012

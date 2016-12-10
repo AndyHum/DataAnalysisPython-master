@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48704,142026873.0,Saturday,No,2014-09-06T17:30:00.000,PubDrink,"[-71.08009, 42.335931]",Point,PubDrink,9,CD19,0,D4,First,No,LENOX ST,Part Two,Unarmed,769700.0642,SHAWMUT AV,2947721.4460000005,2014
+260270,142026855.0,Saturday,No,2014-09-06T16:40:00.000,PubDrink,"[0, 0]",Point,PubDrink,9,ARREST,0,A1,First,No,EDINBORO ST,Part Two,Other,,,,2014
+262708,142026876.0,Saturday,No,2014-09-06T18:00:00.000,PubDrink,"[0, 0]",Point,PubDrink,9,IVPER,0,A7,First,No,CENTRAL SQ,Part Two,Unarmed,,,,2014

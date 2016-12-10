@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119481,142054549.0,Thursday,No,2014-12-04T11:00:00.000,TRESPASS,"[-71.081625, 42.336141]",Point,TRESPASS,12,ARREST,0,D4,Day,No,TROTTER CT,Part Two,Unarmed,769284.6658,,2947795.935,2014
+185155,142054540.0,Thursday,No,2014-12-04T10:30:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,12,ARREST,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014
+189526,142054538.0,Thursday,No,2014-12-04T09:50:00.000,TRESPASS,"[-71.077917, 42.343296]",Point,TRESPASS,12,INVEST,0,D4,Day,No,WARREN AV,Part Two,Unarmed,770274.0752,,2950408.285,2014

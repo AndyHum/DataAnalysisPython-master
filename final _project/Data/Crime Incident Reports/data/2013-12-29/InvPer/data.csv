@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49901,130817276.0,Sunday,No,2013-12-29T19:26:00.000,InvPer,"[-71.068585, 42.351241]",Point,InvPer,12,BERPTA,120,A1,First,No,COLUMBUS AV,Part three,Other,772782.4849,,2953316.2139999997,2013
+117100,130817073.0,Sunday,No,2013-12-29T17:48:00.000,InvPer,"[-71.08257, 42.348656]",Point,InvPer,12,SHPLFT,143,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2013
+197818,140012369.0,Sunday,No,2013-12-29T19:00:00.000,InvPer,"[-71.05999, 42.373916]",Point,InvPer,12,IVPER ,40,A15,First,No,PUTNAM ST,Part three,Unarmed,775063.1499,,2961591.298,2013
+208458,130816058.0,Sunday,No,2013-12-29T02:31:00.000,InvPer,"[-71.049883, 42.347245]",Point,InvPer,12,THREAT,205,C6,Last,No,WORMWOOD ST,Part three,Unarmed,777845.2231,,2951885.838,2013
+212658,130816986.0,Sunday,No,2013-12-29T17:09:00.000,InvPer,"[-71.081745, 42.335371]",Point,InvPer,12,ARMROB,903,D4,First,No,KENDALL ST,Part three,Unarmed,769253.5979,SHAWMUT AV,2947515.1739999996,2013
+251248,130816950.0,Sunday,No,2013-12-29T16:00:00.000,InvPer,"[-71.12021, 42.284991]",Point,InvPer,12,IVPER ,561,E5,First,No,PALFREY ST,Part three,Unarmed,758935.3426,,2929107.204,2013
+254089,130816687.0,Sunday,No,2013-12-29T13:28:00.000,InvPer,"[-71.05726, 42.364201]",Point,InvPer,12,BEIP  ,86,A1,Day,No,ENDICOTT ST,Part three,Other,775819.2009,,2958054.773,2013

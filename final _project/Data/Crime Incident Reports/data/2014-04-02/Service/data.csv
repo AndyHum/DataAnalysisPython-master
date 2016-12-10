@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20121,140198123.0,Wednesday,No,2014-04-02T11:37:00.000,Service,"[-71.077785, 42.341391]",Point,Service,4,NOTIFY,154,D4,Day,No,RUTLAND SQ,Part three,Unarmed,770313.4245,,2949714.2460000003,2014
+29519,140198607.0,Wednesday,No,2014-04-02T11:57:00.000,Service,"[-71.032864, 42.364113]",Point,Service,4,LARCRT,34,A7,Day,No,MARGINAL ST,Part three,Unarmed,782412.4049,,2958057.764,2014
+54277,140199039.0,Wednesday,No,2014-04-02T17:47:00.000,Service,"[-71.056254, 42.330538]",Point,Service,4,ARREST,194,C6,First,No,LEEDS ST,Part three,Unarmed,776154.7111,,2945788.8,2014
+55076,140199015.0,Wednesday,No,2014-04-02T18:36:00.000,Service,"[-71.06894, 42.288516]",Point,Service,4,INJAML,817,C11,First,No,WELLES AV,Part three,Unarmed,772802.0436,,2930457.7060000002,2014
+87838,140198093.0,Wednesday,No,2014-04-02T11:03:00.000,Service,"[-71.08938, 42.293761]",Point,Service,4,ARREST,463,B3,Day,No,HARVARD ST,Part three,Unarmed,767262.2778,WILBERT RD,2932341.7739999997,2014
+92748,140198079.0,Wednesday,No,2014-04-02T10:50:00.000,Service,"[-71.03028, 42.336586]",Point,Service,4,ARREST,223,C6,Day,No,E 3RD ST,Part three,Other,783166.0081,,2948030.372,2014
+203078,140199148.0,Wednesday,No,2014-04-02T19:05:00.000,Service,"[-71.08689, 42.297981]",Point,Service,4,TRANSP,444,B3,First,No,BLUE HILL AV,Part three,Unarmed,767928.5077,,2933882.857,2014
+220547,140197545.0,Wednesday,No,2014-04-02T03:13:00.000,Service,"[-71.08323, 42.327536]",Point,Service,4,ARREST,0,B2,Last,No,WARREN ST,Part three,Unarmed,768866.0406,,2944657.9960000003,2014
+222843,140198151.0,Wednesday,No,2014-04-02T11:41:00.000,Service,"[-71.08095, 42.296291]",Point,Service,4,ARREST,443,B3,Day,No,HARVARD ST,Part three,Unarmed,769538.5128,BERNARD ST,2933274.836,2014

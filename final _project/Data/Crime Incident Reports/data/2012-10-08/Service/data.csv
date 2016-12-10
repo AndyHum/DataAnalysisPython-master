@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65335,120633378.0,Monday,No,2012-10-08T11:38:00.000,Service,"[-71.06214, 42.354561]",Point,Service,10,ARREST,111,A1,Day,No,WEST ST,Part Three,Unarmed,774518.4056,,2954534.963,2012
+85914,120633835.0,Monday,No,2012-10-08T15:45:00.000,Service,"[-71.06078, 42.310191]",Point,Service,10,ARREST,338,C11,Day,No,HIGH ST,Part Three,Unarmed,774969.2644,HANCOCK ST,2938367.6580000003,2012
+128312,120634452.0,Monday,No,2012-10-08T21:20:00.000,Service,"[-71.08829, 42.287481]",Point,Service,10,SSTOP ,431,B3,First,No,ARBUTUS ST,Part Three,Unarmed,767568.2275,LUCERNE ST,2930054.671,2012
+156355,120633992.0,Monday,No,2012-10-08T17:00:00.000,Service,"[-71.110589, 42.301268]",Point,Service,10,ARREST,510,E13,First,No,ARBORWAY,Part Three,Unarmed,761511.4749,,2935050.5519999997,2012
+171526,120633789.0,Monday,No,2012-10-08T15:10:00.000,Service,"[-71.060915, 42.320201]",Point,Service,10,ARREST,237,C11,Day,No,COLUMBIA RD,Part Three,Unarmed,774913.8799,E COTTAGE ST,2942015.04,2012

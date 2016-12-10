@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2787,152048255.0,Thursday,No,2015-06-11T00:30:00.000,Arrest,"[0, 0]",Point,Arrest,6,ARREST,0,D14,Last,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+58233,152048365.0,Thursday,No,2015-06-11T12:47:00.000,Arrest,"[-71.064215, 42.351781]",Point,Arrest,6,IVPER,0,A1,Day,No,TAMWORTH ST,Part three,Unarmed,773962.7227,LAGRANGE ST,2953519.005,2015
+203272,152048293.0,Thursday,No,2015-06-11T08:00:00.000,Arrest,"[-71.093548, 42.283568]",Point,Arrest,6,CD11,0,B3,Day,No,GOODALE RD,Part three,Unarmed,766152.2222,,2928621.874,2015
+241989,152048269.0,Thursday,No,2015-06-11T02:15:00.000,Arrest,"[-71.061235, 42.310371]",Point,Arrest,6,ARREST,0,C11,Last,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015

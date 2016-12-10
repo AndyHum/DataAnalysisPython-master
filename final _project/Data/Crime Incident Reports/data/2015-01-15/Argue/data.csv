@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18136,152004011.0,Thursday,No,2015-01-15T08:30:00.000,Argue,"[-71.07372, 42.340181]",Point,Argue,1,MISC,0,D4,Day,No,SHAWMUT AV,Part three,Unarmed,771414.5992,,2949278.7660000003,2015
+28882,152004090.0,Thursday,No,2015-01-15T23:50:00.000,Argue,"[-71.071975, 42.334581]",Point,Argue,1,IVPER,0,D4,Last,No,ALBANY ST,Part three,Unarmed,771896.608,,2947240.389,2015
+45001,152003767.0,Thursday,No,2015-01-15T05:05:00.000,Argue,"[-71.1153, 42.309871]",Point,Argue,1,UNK,0,E13,Last,No,CENTRE ST,Part three,Firearm,760223.053,,2938179.8210000005,2015
+79420,152003974.0,Thursday,No,2015-01-15T18:10:00.000,Argue,"[-71.06527, 42.373336]",Point,Argue,1,NIDV,0,A15,First,No,WASHINGTON PL,Part three,Unarmed,773637.516,,2961372.619,2015
+260925,152004016.0,Thursday,No,2015-01-15T20:30:00.000,Argue,"[0, 0]",Point,Argue,1,DISTRB,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+263857,152003830.0,Thursday,No,2015-01-15T11:00:00.000,Argue,"[0, 0]",Point,Argue,1,DVIP,0,B2,Day,No,SEAVER ST,Part three,Other,,,,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16182,152005186.0,Sunday,No,2015-01-18T00:01:00.000,PersLoc,"[-71.0885, 42.280036]",Point,PersLoc,1,MISSIN,0,B3,Last,No,NORFOLK ST,Other,Other,767524.4944,,2927341.333,2015
+19140,152004866.0,Sunday,No,2015-01-18T10:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISSIN,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+36106,152004738.0,Sunday,No,2015-01-18T11:00:00.000,PersLoc,"[-71.11498, 42.288901]",Point,PersLoc,1,MISSIN,0,E13,Day,No,MEYER ST,Other,Unarmed,760344.1029,,2930538.4110000003,2015
+83086,152004635.0,Sunday,No,2015-01-18T00:30:00.000,PersLoc,"[-71.097395, 42.278141]",Point,PersLoc,1,IVPER,0,B3,Last,No,ITASCA ST,Other,Unarmed,765120.6587,,2926639.2819999997,2015
+120066,152004777.0,Sunday,No,2015-01-18T13:55:00.000,PersLoc,"[-71.13133, 42.309535]",Point,PersLoc,1,IVPER,0,E13,Day,No,POND ST,Other,Unarmed,755887.6742,,2938038.0289999996,2015
+184485,152004913.0,Sunday,No,2015-01-18T10:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,1,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+261676,152004678.0,Sunday,No,2015-01-18T01:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,D14,Last,No,HIGH ST,Other,Unarmed,,,,2015

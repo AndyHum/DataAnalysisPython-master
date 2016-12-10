@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24933,152023336.0,Wednesday,No,2015-03-18T15:00:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,3,CD11,0,A1,Day,No,BULFINCH PL,Part three,Unarmed,774549.1083,,2957241.005,2015
+30364,152023379.0,Wednesday,No,2015-03-18T13:23:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,3,CD11,0,A1,Day,No,BULFINCH PL,Part three,Unarmed,774549.1083,,2957241.005,2015
+71002,152021967.0,Wednesday,No,2015-03-18T13:31:00.000,SearchWarr,"[-71.061235, 42.310371]",Point,SearchWarr,3,CD11,0,C11,Day,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015
+257561,152021948.0,Wednesday,No,2015-03-18T17:40:00.000,SearchWarr,"[-71.083894, 42.298213]",Point,SearchWarr,3,CD11,0,B3,First,No,BRADSHAW ST,Part three,Unarmed,768738.3647,ESMOND ST,2933971.1289999997,2015

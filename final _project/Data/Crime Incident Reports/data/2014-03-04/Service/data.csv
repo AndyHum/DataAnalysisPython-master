@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140495,140148080.0,Tuesday,No,2014-03-04T18:00:00.000,Service,"[-71.085618, 42.32866]",Point,Service,3,MISC  ,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+240006,140132956.0,Tuesday,No,2014-03-04T11:48:00.000,Service,"[-71.060565, 42.361386]",Point,Service,3,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,774931.3031,,2957024.314,2014
+245597,140132760.0,Tuesday,No,2014-03-04T10:20:00.000,Service,"[-71.07102, 42.336701]",Point,Service,3,ARREST,169,D4,Day,No,E NEWTON ST,Part three,Unarmed,772150.9382,,2948014.253,2014
+246082,140133557.0,Tuesday,No,2014-03-04T15:39:00.000,Service,"[-71.091325, 42.284861]",Point,Service,3,ARREST,465,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014

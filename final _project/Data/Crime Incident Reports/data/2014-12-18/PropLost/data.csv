@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24526,142058959.0,Thursday,No,2014-12-18T10:00:00.000,PropLost,"[-71.166437, 42.350427]",Point,PropLost,12,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Other,746333.4308,,2952900.885,2014
+57347,142058591.0,Thursday,No,2014-12-18T09:30:00.000,PropLost,"[-71.059015, 42.300266]",Point,PropLost,12,LARCEN,0,C11,Day,No,ADAMS ST,Part three,Unarmed,775465.3659999999,,2934753.3010000004,2014
+156650,142059330.0,Thursday,No,2014-12-18T17:00:00.000,PropLost,"[-71.06458, 42.352351]",Point,PropLost,12,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2014
+210265,152021509.0,Thursday,No,2014-12-18T00:01:00.000,PropLost,"[-71.088916, 42.342401]",Point,PropLost,12,PROP,0,D4,Last,No,GAINSBOROUGH ST,Part three,Unarmed,767302.2579999999,,2950067.662,2014
+214221,142058722.0,Thursday,No,2014-12-18T15:00:00.000,PropLost,"[-71.06091, 42.350401]",Point,PropLost,12,LARCEN,0,A1,Day,No,TYLER ST,Part three,Unarmed,774858.6696,KNEELAND ST,2953020.689,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72975,120615590.0,Saturday,No,2012-09-29T11:45:00.000,BENoProp,"[-71.0904, 42.280796]",Point,BENoProp,9,ABRPT ,428,B3,Day,No,HOSMER ST,Part One,Unarmed,767009.0082,,2927615.818,2012
+146073,120634541.0,Saturday,No,2012-09-29T16:30:00.000,BENoProp,"[-71.064299, 42.363418]",Point,BENoProp,9,BERPT ,74,A1,First,No,LONGFELLOW PL,Part One,Unarmed,773918.166,,2957759.4680000003,2012
+165463,120612490.0,Saturday,No,2012-09-29T10:00:00.000,BENoProp,"[-71.136045, 42.241286]",Point,BENoProp,9,ARREST,532,E18,Day,No,CHESTERFIELD ST,Part One,Unarmed,754718.4882,,2913161.827,2012
+215883,120654423.0,Saturday,No,2012-09-29T18:00:00.000,BENoProp,"[-71.039875, 42.332366]",Point,BENoProp,9,BERPTA,230,C6,First,No,I ST,Part One,Other,780580.109,,2946478.3910000003,2012

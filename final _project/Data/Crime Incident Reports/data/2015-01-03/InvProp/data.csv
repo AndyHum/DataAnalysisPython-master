@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43555,152000722.0,Saturday,No,2015-01-03T12:38:00.000,InvProp,"[-71.06432, 42.301751]",Point,InvProp,1,IVMV,0,C11,Day,No,WESTVILLE ST,Part three,Other,774027.4669,DITSON ST,2935287.082,2015
+48784,152000807.0,Saturday,No,2015-01-03T19:18:00.000,InvProp,"[-71.0435, 42.286166]",Point,InvProp,1,PROP,0,C11,First,No,NEPONSET AV,Part three,Other,779690.0596,,2929637.147,2015
+74576,152000830.0,Saturday,No,2015-01-03T11:30:00.000,InvProp,"[-71.0612, 42.365521]",Point,InvProp,1,IVPREM,0,A1,Day,No,CAUSEWAY ST,Part three,Unarmed,774751.9335,CANAL ST,2958530.305,2015
+147568,152000856.0,Saturday,No,2015-01-03T23:57:00.000,InvProp,"[-71.072895, 42.316241]",Point,InvProp,1,SHOTS,0,B2,Last,No,HARTFORD ST,Part three,Firearm,771681.3266,,2940555.7339999997,2015
+260835,152000814.0,Saturday,No,2015-01-03T19:45:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVPER,0,C11,First,No,NEPONSET AV,Part three,Unarmed,,,,2015

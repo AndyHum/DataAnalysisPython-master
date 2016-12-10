@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71531,142025342.0,Tuesday,No,2014-09-02T11:00:00.000,Arrest,"[-71.060565, 42.361386]",Point,Arrest,9,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,774931.3031,,2957024.314,2014
+135001,142025417.0,Tuesday,No,2014-09-02T14:20:00.000,Arrest,"[-71.07553, 42.312201]",Point,Arrest,9,ARREST,0,B2,Day,No,FAYSTON ST,Part three,Unarmed,770975.9993,,2939079.935,2014
+183250,142025309.0,Tuesday,No,2014-09-02T08:50:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,9,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32587,142060110.0,Tuesday,No,2014-12-23T16:45:00.000,Service,"[-71.06254, 42.353221]",Point,Service,12,ARREST,0,A1,First,No,AVERY ST,Part three,Other,774412.7922,WASHINGTON ST,2954046.086,2014
+50791,142059989.0,Tuesday,No,2014-12-23T08:46:00.000,Service,"[-71.102775, 42.311211]",Point,Service,12,MVA,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763608.6007,,2938683.668,2014
+109467,142059974.0,Tuesday,No,2014-12-23T07:30:00.000,Service,"[-71.08421, 42.300656]",Point,Service,12,ARREST,0,B3,Day,No,DRUMMOND ST,Part three,Unarmed,768648.7894,,2934861.192,2014
+154088,142060080.0,Tuesday,No,2014-12-23T13:00:00.000,Service,"[-71.111042, 42.319185]",Point,Service,12,LARCEN,0,E13,Day,No,BOYLSTON ST,Part three,Unarmed,761359.2902,,2941578.997,2014
+251471,142060067.0,Tuesday,No,2014-12-23T13:00:00.000,Service,"[-71.008841, 42.385972]",Point,Service,12,ARREST,0,A7,Day,No,BENNINGTON ST,Other,Unarmed,788858.6962,,2966060.0089999996,2014
+262719,152000423.0,Tuesday,No,2014-12-23T15:30:00.000,Service,"[0, 0]",Point,Service,12,PROP,0,B2,Day,No,MORTON ST,Part three,Unarmed,,,,2014
+264991,142060197.0,Tuesday,No,2014-12-23T20:20:00.000,Service,"[0, 0]",Point,Service,12,IVPER,0,D14,First,No,SUDBURY ST,Part three,Unarmed,,,,2014

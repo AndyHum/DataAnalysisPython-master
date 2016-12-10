@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12221,130763408.0,Tuesday,No,2013-12-03T19:50:00.000,PropFound,"[-71.073505, 42.347156]",Point,PropFound,12,BOMB  ,151,D4,First,No,CLARENDON ST,Part three,Unarmed,771460.0161,,2951820.875,2013
+35634,130762449.0,Tuesday,No,2013-12-03T12:00:00.000,PropFound,"[-71.055985, 42.363381]",Point,PropFound,12,FDPROP,86,A1,Day,No,SALEM ST,Part three,Unarmed,776165.3272,,2957757.7410000004,2013
+114854,130763515.0,Tuesday,No,2013-12-03T20:30:00.000,PropFound,"[-71.09641, 42.332791]",Point,PropFound,12,IVPER ,282,B2,First,No,PARKER ST,Part three,Other,765292.9891,SMITH ST,2946555.872,2013
+170287,130763683.0,Tuesday,No,2013-12-03T16:00:00.000,PropFound,"[-71.07837, 42.337556]",Point,PropFound,12,FDPROP,273,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770162.1788,,2948315.92,2013
+182329,130763536.0,Tuesday,No,2013-12-03T20:45:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,12,FDPROP,200,C6,First,No,BROADWAY,Part three,Other,776551.5679,,2949714.607,2013

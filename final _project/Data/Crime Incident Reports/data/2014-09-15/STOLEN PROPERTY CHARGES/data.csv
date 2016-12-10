@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24559,142029630.0,Monday,No,2014-09-15T12:51:00.000,STOLEN PROPERTY CHARGES,"[-71.13134, 42.363061]",Point,13xx,9,ARREST,0,D14,Day,No,WESTERN AV,Part Two,Unarmed,755800.6975,SPURR ST,2957544.108,2014
+83754,142029833.0,Monday,No,2014-09-15T22:05:00.000,STOLEN PROPERTY CHARGES,"[-71.08634, 42.299491]",Point,13xx,9,ARREST,0,B3,First,No,BLUE HILL AV,Part Two,Other,768074.6337,ESMOND ST,2934433.8460000004,2014
+88316,142029710.0,Monday,No,2014-09-15T16:30:00.000,STOLEN PROPERTY CHARGES,"[-71.08257, 42.348656]",Point,13xx,9,LARCEN,0,D4,First,No,BOYLSTON ST,Part Two,Unarmed,769006.8448,,2952355.38,2014
+234353,142029795.0,Monday,No,2014-09-15T21:00:00.000,STOLEN PROPERTY CHARGES,"[-71.03887, 42.371246]",Point,13xx,9,PROP,0,A7,First,No,PARIS ST,Part Two,Unarmed,780775.2494,,2960648.442,2014

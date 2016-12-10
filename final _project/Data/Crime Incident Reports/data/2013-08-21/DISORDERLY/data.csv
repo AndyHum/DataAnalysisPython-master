@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85947,130526620.0,Wednesday,No,2013-08-21T01:40:00.000,DISORDERLY,"[-71.07825, 42.335516]",Point,24xx,8,MISC  ,273,D4,Last,No,WASHINGTON ST,Part Two,Unarmed,770198.2968,LENOX ST,2947572.668,2013
+94384,130528700.0,Wednesday,No,2013-08-21T21:18:00.000,DISORDERLY,"[-71.06428, 42.285761]",Point,24xx,8,DISTRB,393,C11,First,No,DORCHESTER AV,Part Two,Unarmed,774068.0525,TALBOT AV,2929460.152,2013
+183325,130527486.0,Wednesday,No,2013-08-21T12:41:00.000,DISORDERLY,"[-71.119055, 42.278921]",Point,24xx,8,THREAT,501,E18,Day,No,HYDE PARK AV,Part Two,Unarmed,759257.7544,,2926896.6010000003,2013

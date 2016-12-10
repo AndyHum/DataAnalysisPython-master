@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122141,152004245.0,Tuesday,No,2015-01-13T00:00:00.000,PhoneCalls,"[-71.052073, 42.366289]",Point,PhoneCalls,1,ADMRPT,0,A1,Last,No,BATTERY ST,Part three,Unarmed,777216.8195,,2958822.8789999997,2015
+223283,152003444.0,Tuesday,No,2015-01-13T19:25:00.000,PhoneCalls,"[-71.091325, 42.284861]",Point,PhoneCalls,1,IVPER,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015

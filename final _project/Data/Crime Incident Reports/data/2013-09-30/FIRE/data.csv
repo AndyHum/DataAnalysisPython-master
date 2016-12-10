@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+187882,130623963.0,Monday,No,2013-09-30T16:56:00.000,FIRE,"[-71.052155, 42.335431]",Point,FIRE,9,FIREB ,215,C6,First,No,E ST,Part three,Unarmed,777253.8837,,2947577.6569999997,2013
+225402,130624109.0,Monday,No,2013-09-30T17:54:00.000,FIRE,"[-71.079605, 42.347101]",Point,FIRE,9,FIREB ,146,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769811.1326,,2951792.646,2013
+254455,130622986.0,Monday,No,2013-09-30T09:42:00.000,FIRE,"[-71.10834, 42.322771]",Point,FIRE,9,VANRPT,582,E13,Day,No,CREIGHTON ST,Part three,Unarmed,762084.0417,,2942889.3680000002,2013

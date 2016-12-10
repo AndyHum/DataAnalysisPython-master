@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24068,,Thursday,No,2015-06-25T00:00:00.000,Fraud,"[-71.046089, 42.284106]",Point,11xx,6,,385,C11,,No,GALLIVAN BLVD,Part Two,None,778993.0,,2930000.0,2015
+52225,,Thursday,No,2015-06-25T00:00:00.000,Fraud,"[-71.08824, 42.280335]",Point,11xx,6,,428,B3,,No,NORFOLK ST,Part Two,None,767594.0,,2930000.0,2015
+194246,,Thursday,No,2015-06-25T00:00:00.000,Fraud,"[-71.104294, 42.309719]",Point,11xx,6,,574,E13,,No,WASHINGTON ST,Part Two,None,763200.0,,2940000.0,2015

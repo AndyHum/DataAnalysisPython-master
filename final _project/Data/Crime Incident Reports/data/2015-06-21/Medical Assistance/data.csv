@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16556,,Sunday,No,2015-06-21T14:31:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,REQEP,681,E5,,No,METROPOLITAN AVE,Part Three,None,,WASHINGTON ST,,2015
+38876,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.063304, 42.309292]",Point,MedAssist,6,EDP,338,C11,,No,FIFIELD ST,Part Three,None,774288.0,,2940000.0,2015
+40282,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.092432, 42.317724]",Point,MedAssist,6,REQP,306,B2,,No,HALEY ST,Part Three,None,766395.0,,2940000.0,2015
+65413,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.051958, 42.359613]",Point,MedAssist,6,I00015,95,A1,,No,STATE ST,Part Three,None,777261.0,,2960000.0,2015
+104675,,Sunday,No,2015-06-21T19:16:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,AB,600,B2,,No,HUNTINGTON AVE,Part Three,None,,,,2015
+108610,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.13836, 42.289428]",Point,MedAssist,6,UNCONS,675,E5,,No,CONGREVE ST,Part Three,None,754017.0,,2930000.0,2015
+147005,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.093441, 42.274701]",Point,MedAssist,6,NIDV,427,B3,,No,BLUE HILL AVE,Part Three,None,766197.0,,2930000.0,2015
+174538,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.142275, 42.351829]",Point,MedAssist,6,UNCONS,783,D14,,No,CAMBRIDGE ST,Part Three,None,752862.0,,2950000.0,2015
+230889,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.069409, 42.339542]",Point,MedAssist,6,IVPER,165,D4,,No,HARRISON AVE,Part Three,None,772581.0,,2950000.0,2015
+251049,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.150499, 42.349056]",Point,MedAssist,6,MISC,778,D14,,No,WASHINGTON ST,Part Three,None,750644.0,,2950000.0,2015
+255501,,Sunday,No,2015-06-21T00:00:00.000,Medical Assistance,"[-71.069501, 42.377827]",Point,MedAssist,6,UNCONS,0,,,No,TIBBETT'S TOWN,Part Three,None,772486.0,ESSEX ST,2960000.0,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120689,142062150.0,Wednesday,No,2014-12-31T20:30:00.000,FIRE,"[-71.123635, 42.273681]",Point,FIRE,12,REQP,0,E18,First,No,METROPOLITAN AV,Part three,Unarmed,758026.7539,,2924981.568,2014
+186412,142062151.0,Wednesday,No,2014-12-31T19:11:00.000,FIRE,"[-71.10086, 42.322816]",Point,FIRE,12,FIRE,0,E13,First,No,CENTRE ST,Part three,Unarmed,764106.7781,,2942915.144,2014
+238302,142061945.0,Wednesday,No,2014-12-31T07:01:00.000,FIRE,"[-71.119609, 42.36402]",Point,FIRE,12,MVA,0,D14,Last,No,WESTERN AV,Part three,Unarmed,758969.2963,,2957907.486,2014
+246225,142061933.0,Wednesday,No,2014-12-31T02:45:00.000,FIRE,"[-71.066375, 42.360716]",Point,FIRE,12,FIRE,0,A1,Last,No,IRVING ST,Part three,Unarmed,773362.3108,,2956772.1160000004,2014
+261938,142061947.0,Wednesday,No,2014-12-31T07:20:00.000,FIRE,"[0, 0]",Point,FIRE,12,FIRE,0,C11,Last,No,DELMONT ST,Part three,Unarmed,,,,2014
+263156,142062103.0,Wednesday,No,2014-12-31T18:25:00.000,FIRE,"[0, 0]",Point,FIRE,12,FIRE,0,D4,First,No,W NEWTON ST,Part three,Unarmed,,,,2014

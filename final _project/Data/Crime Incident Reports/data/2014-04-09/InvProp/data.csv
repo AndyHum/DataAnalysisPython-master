@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29679,140213411.0,Wednesday,No,2014-04-09T00:45:00.000,InvProp,"[-71.074107, 42.284279]",Point,InvProp,4,IVPREM,435,B3,Last,No,ARMANDINE ST,Part three,Firearm,771411.6405,,2928906.461,2014
+46323,140213584.0,Wednesday,No,2014-04-09T05:23:00.000,InvProp,"[-71.06898, 42.301436]",Point,InvProp,4,SHOTS ,344,C11,Last,No,CORONA ST,Part three,Firearm,772767.4281,,2935165.887,2014
+254757,140214366.0,Wednesday,No,2014-04-09T12:40:00.000,InvProp,"[-71.10238, 42.263546]",Point,InvProp,4,IVPREM,483,E18,Day,No,RIVER ST,Part three,Unarmed,763796.412,,2921314.337,2014
+259338,140217085.0,Wednesday,No,2014-04-09T09:00:00.000,InvProp,"[-71.107425, 42.316975]",Point,InvProp,4,VANRPT,637,E13,Day,No,DRESDEN ST,Part three,Unarmed,762340.9625,,2940778.087,2014

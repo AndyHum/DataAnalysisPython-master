@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11547,130488942.0,Saturday,No,2013-08-03T09:00:00.000,DISORDERLY,"[-71.047745, 42.335521]",Point,24xx,8,IVPER ,214,C6,Day,No,W 4TH ST,Part Two,Unarmed,778446.0644,,2947616.747,2013
+53482,130485392.0,Saturday,No,2013-08-03T22:40:00.000,DISORDERLY,"[-71.054165, 42.367806]",Point,24xx,8,DISTRB,82,A1,First,No,COMMERCIAL ST,Part Two,Unarmed,776648.7632,,2959372.8639999996,2013
+72904,130484756.0,Saturday,No,2013-08-03T17:55:00.000,DISORDERLY,"[-71.094024, 42.331949]",Point,24xx,8,SSTOP ,588,B2,First,No,TREMONT ST,Part Two,Unarmed,765939.4694,,2946252.05,2013
+191075,130483319.0,Saturday,No,2013-08-03T00:53:00.000,DISORDERLY,"[-71.082755, 42.281741]",Point,24xx,8,IVPER ,417,B3,Last,No,EVANS ST,Part Two,Unarmed,769076.1199,,2927970.212,2013
+210993,130515873.0,Saturday,No,2013-08-03T07:00:00.000,DISORDERLY,"[-71.107525, 42.300191]",Point,24xx,8,HARPT ,509,E13,Last,No,MORTON ST,Part Two,Unarmed,762342.3043,,2934661.854,2013

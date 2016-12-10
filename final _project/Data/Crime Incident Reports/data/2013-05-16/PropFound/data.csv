@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63769,130291501.0,Thursday,No,2013-05-16T09:20:00.000,PropFound,"[-71.05793, 42.356691]",Point,PropFound,5,FDPROP,98,A1,Day,No,MILK ST,Part three,Unarmed,775652.3161,,2955317.0439999998,2013
+166377,130291225.0,Thursday,No,2013-05-16T06:15:00.000,PropFound,"[-71.075315, 42.334781]",Point,PropFound,5,FDPROP,150,D4,Last,No,HARRISON AV,Part Three,Other,770993.181,,2947308.758,2013

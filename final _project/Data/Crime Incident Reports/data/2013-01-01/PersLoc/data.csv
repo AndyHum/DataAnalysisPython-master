@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23585,130000928.0,Tuesday,No,2013-01-01T14:05:00.000,PersLoc,"[-71.083015, 42.335956]",Point,PersLoc,1,IVPER ,274,D4,Day,No,HAMMOND ST,Part Three,Unarmed,768909.1786,,2947726.6769999997,2013
+28652,130001702.0,Tuesday,No,2013-01-01T06:11:00.000,PersLoc,"[-71.05464, 42.325816]",Point,PersLoc,1,MISPER,914,C6,Last,No,OCALLAGHAN WY,Part Three,Unarmed,776600.2984,,2944070.27,2013
+201105,130000587.0,Tuesday,No,2013-01-01T05:24:00.000,PersLoc,"[-71.08195, 42.282956]",Point,PersLoc,1,MISPER,417,B3,Last,No,CROWELL ST,Part Three,Unarmed,769291.7881,,2928414.041,2013
+209701,130000030.0,Tuesday,No,2013-01-01T00:15:00.000,PersLoc,"[-71.093933, 42.282848]",Point,PersLoc,1,MSNCOM,466,B3,Last,No,ORMOND ST,Part Three,Unarmed,766049.1831,,2928358.769,2013
+253401,130002665.0,Tuesday,No,2013-01-01T00:30:00.000,PersLoc,"[-71.07791, 42.313396]",Point,PersLoc,1,MSNCOM,326,B2,Last,No,FAYSTON ST,Part Three,Unarmed,770330.1184,,2939512.22,2013

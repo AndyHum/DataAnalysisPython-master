@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115891,130175091.0,Monday,No,2013-03-25T13:15:00.000,FORGERY,"[-71.07632, 42.350356]",Point,10xx,3,LARCRT,134,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770693.2587,,2952983.224,2013
+141538,130174631.0,Monday,No,2013-03-25T11:30:00.000,FORGERY,"[-71.08238, 42.285582]",Point,10xx,3,MISCRP,465,B3,Day,No,BALLOU AV,Part Two,Unarmed,769170.6683,,2929370.341,2013
+231807,130180062.0,Monday,No,2013-03-25T15:00:00.000,FORGERY,"[-71.091035, 42.285706]",Point,10xx,3,IVPREM,465,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,766828.5864,,2929404.262,2013

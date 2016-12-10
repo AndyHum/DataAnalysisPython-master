@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10087,130369034.0,Sunday,No,2013-06-16T19:00:00.000,PropLost,"[-71.071145, 42.315821]",Point,PropLost,6,LARCRT,260,B2,First,No,MAGNOLIA ST,Part three,Unarmed,772155.3959,,2940405.0539999995,2013
+20623,130561863.0,Sunday,No,2013-06-16T15:00:00.000,PropLost,"[-71.06071, 42.350866]",Point,PropLost,6,LSTPRP,116,A1,Day,No,TYLER ST,Part three,Unarmed,774911.8589,,2953190.422,2013
+138347,130367281.0,Sunday,No,2013-06-16T01:00:00.000,PropLost,"[-71.05349, 42.359321]",Point,PropLost,6,LSTPRP,94,A1,Last,No,STATE ST,Part three,Unarmed,776847.3587,COMMERCIAL ST,2956281.7169999997,2013
+148730,130498889.0,Sunday,No,2013-06-16T02:00:00.000,PropLost,"[-71.1519, 42.351631]",Point,PropLost,6,LSTPRP,779,D14,Last,No,MARKET ST,Part three,Unarmed,750261.1923,SPARHAWK ST,2953355.43,2013
+217871,130371034.0,Sunday,No,2013-06-16T14:50:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,6,LSTPRP,111,A1,Day,No,TREMONT ST,Part three,Unarmed,773924.729,,2953989.2660000003,2013
+231314,130366798.0,Sunday,No,2013-06-16T02:00:00.000,PropLost,"[-71.114425, 42.302226]",Point,PropLost,6,LSTPRP,651,E13,Last,No,SOUTH ST,Part three,Unarmed,760472.3215,,2935394.9269999997,2013
+232445,130456946.0,Sunday,No,2013-06-16T08:00:00.000,PropLost,"[-71.102135, 42.267591]",Point,PropLost,6,LSTPRP,485,E18,Day,No,GREENFIELD RD,Part three,Unarmed,763855.8538,,2922788.6980000003,2013
+243530,130367614.0,Sunday,No,2013-06-16T02:00:00.000,PropLost,"[-71.131805, 42.352961]",Point,PropLost,6,LARCRT,796,D14,Last,No,BRIGHTON AV,Part three,Unarmed,755690.9151,,2953862.917,2013
+261728,130368767.0,Sunday,No,2013-06-16T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,110,C6,First,No,NORTHERN AV,Part three,Unarmed,,,,2013
+262037,130371581.0,Sunday,No,2013-06-16T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,54,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,,,,2013
+262631,130403082.0,Sunday,No,2013-06-16T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,54,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,,,,2013
+262975,130377865.0,Sunday,No,2013-06-16T05:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,453,B3,Last,No,ALGONQUIN ST,Part three,Unarmed,,,,2013

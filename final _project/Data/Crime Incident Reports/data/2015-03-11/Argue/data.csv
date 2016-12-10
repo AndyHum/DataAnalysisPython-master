@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1990,152019657.0,Wednesday,No,2015-03-11T13:54:00.000,Argue,"[0, 0]",Point,Argue,3,IVMV,0,D4,Day,No,HARRISON AV,Part three,Unarmed,,,,2015
+29708,152019516.0,Wednesday,No,2015-03-11T02:30:00.000,Argue,"[-71.099715, 42.329496]",Point,Argue,3,DISTRB,0,B2,Last,No,HILLSIDE ST,Part three,Unarmed,764404.997,,2945350.905,2015
+44365,152020341.0,Wednesday,No,2015-03-11T14:45:00.000,Argue,"[-71.07372, 42.340181]",Point,Argue,3,MISC,0,D4,Day,No,SHAWMUT AV,Part three,Unarmed,771414.5992,,2949278.7660000003,2015
+180309,152019763.0,Wednesday,No,2015-03-11T16:28:00.000,Argue,"[-71.074513, 42.314688]",Point,Argue,3,NIDV,0,B2,First,No,WOODLEDGE ST,Part three,Unarmed,771246.3715,,2939987.483,2015
+207811,152019595.0,Wednesday,No,2015-03-11T11:00:00.000,Argue,"[-71.064405, 42.283177]",Point,Argue,3,IVPER,0,C11,Day,No,BEALE ST,Part three,Unarmed,774038.9669,,2928518.187,2015

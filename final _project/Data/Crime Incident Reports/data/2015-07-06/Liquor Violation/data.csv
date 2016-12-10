@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16573,,Monday,No,2015-07-06T00:00:00.000,Liquor Violation,"[-71.066708, 42.356784]",Point,22xx,7,ARREST,119,A1,,No,BOYLSTON ST,Part Two,None,773279.0,,2960000.0,2015
+119166,,Monday,No,2015-07-06T09:54:00.000,Liquor Violation,"[0, 0]",Point,22xx,7,CD19,245,C11,,No,DORCHESTER AVE,Part Two,None,, HARBOR VIEW ST ,,2015
+128489,,Monday,No,2015-07-06T12:47:00.000,Liquor Violation,"[0, 0]",Point,22xx,7,ARREST,116,A1,,No,BEACH ST,Part Two,None,,HUDSON ST,,2015

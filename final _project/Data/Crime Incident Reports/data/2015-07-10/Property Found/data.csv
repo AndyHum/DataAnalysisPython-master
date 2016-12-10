@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12227,,Friday,No,2015-07-10T00:00:00.000,Property Found,"[-71.148647, 42.341369]",Point,PropFound,7,FDWEAP,788,D14,,No,COMMONWEALTH AVE,Part Three,None,751156.0,,2950000.0,2015
+17283,,Friday,No,2015-07-10T08:39:00.000,Property Found,"[0, 0]",Point,PropFound,7,FDWEAP,462,C11,,No,BOWDOIN ST,Part Three,None,,,,2015
+75353,,Friday,No,2015-07-10T23:30:00.000,Property Found,"[0, 0]",Point,PropFound,7,PROP,0,,,No,HUNTINGTON,Part Three,None,,,,2015
+146325,,Friday,No,2015-07-10T06:21:00.000,Property Found,"[0, 0]",Point,PropFound,7,PROP,749,D14,,No,COMMONWEALTH AVE,Part Three,None,, SOUTH ST ,,2015

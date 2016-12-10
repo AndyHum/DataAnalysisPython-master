@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+178447,140214663.0,Wednesday,No,2014-04-09T14:38:00.000,Arrest,"[-71.09657, 42.326036]",Point,Arrest,4,IVPER ,302,B2,Day,No,CENTRE STREET TR,Part three,Unarmed,765261.37,,2944094.026,2014
+215640,140214769.0,Wednesday,No,2014-04-09T15:38:00.000,Arrest,"[-71.05356, 42.378771]",Point,Arrest,4,ARREST,900,A15,Day,No,DECATUR ST,Part three,Unarmed,776791.3417,MEDFORD ST,2963369.588,2014
+219591,140214242.0,Wednesday,No,2014-04-09T11:50:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,4,ARREST,111,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

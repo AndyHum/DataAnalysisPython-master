@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41862,130568250.0,Friday,No,2013-09-06T19:40:00.000,InvProp,"[-71.158055, 42.331741]",Point,InvProp,9,IVPREM,790,D14,First,No,BEACON ST,Part three,Unarmed,748626.5109,,2946100.389,2013
+77244,130567198.0,Friday,No,2013-09-06T21:43:00.000,InvProp,"[-71.076438, 42.323222]",Point,InvProp,9,CRIP  ,263,B2,First,No,BLUE HILL AV,Part three,Other,770710.4018,,2943095.0,2013
+261733,130568248.0,Friday,No,2013-09-06T16:30:00.000,InvProp,"[0, 0]",Point,InvProp,9,IVPREM,790,D14,First,No,ST THOMAS MORE RD,Part three,Unarmed,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22262,120696054.0,Sunday,No,2012-11-04T04:12:00.000,BENoProp,"[-71.055575, 42.329684]",Point,BENoProp,11,BEIP  ,193,C6,Last,No,ROGERS ST,Part One,Other,776340.0168,,2945478.4069999997,2012
+173942,120696313.0,Sunday,No,2012-11-04T19:31:00.000,BENoProp,"[-71.064255, 42.299891]",Point,BENoProp,11,HARPT ,356,C11,First,No,CHARLES ST,Part One,Unarmed,774048.5119,,2934609.361,2012
+185156,120696450.0,Sunday,No,2012-11-04T15:15:00.000,BENoProp,"[-71.147508, 42.257526]",Point,BENoProp,11,IVPREM,822,E5,Day,No,CROWN POINT DR,Part One,Other,751589.8849,MARGARETTA DR,2919066.82,2012

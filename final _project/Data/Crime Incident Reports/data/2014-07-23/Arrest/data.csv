@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27922,142012022.0,Wednesday,No,2014-07-23T10:30:00.000,Arrest,"[-71.082735, 42.297456]",Point,Arrest,7,IVPREM,0,B3,Day,No,BICKNELL ST,Part three,Unarmed,769053.5199,,2933697.0110000004,2014
+84993,142012273.0,Wednesday,No,2014-07-23T22:45:00.000,Arrest,"[-71.091425, 42.322041]",Point,Arrest,7,ARREST,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,766659.6303,,2942644.8019999997,2014
+195464,142011975.0,Wednesday,No,2014-07-23T08:02:00.000,Arrest,"[-71.07334, 42.273686]",Point,Arrest,7,ARREST,0,B3,Day,No,SANFORD ST,Part three,Unarmed,771638.5443,,2925047.465,2014
+201969,142012001.0,Wednesday,No,2014-07-23T09:30:00.000,Arrest,"[-71.077794, 42.318561]",Point,Arrest,7,CD11,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770352.079,,2941394.42,2014

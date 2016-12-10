@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42854,130372489.0,Tuesday,No,2013-06-18T23:58:00.000,Argue,"[-71.096744, 42.348749]",Point,Argue,6,REQP  ,623,D4,Last,No,COMMONWEALTH AV,Part three,Unarmed,765174.9696,,2952370.769,2013
+65898,130370472.0,Tuesday,No,2013-06-18T03:35:00.000,Argue,"[-71.059683, 42.29651]",Point,Argue,6,REMOVE,355,C11,Last,No,PARKMAN ST,Part three,Other,775291.6849,,2933383.425,2013
+90775,130371257.0,Tuesday,No,2013-06-18T12:45:00.000,Argue,"[-71.08992, 42.283476]",Point,Argue,6,DVIP  ,428,B3,Day,No,LESTON ST,Part three,Unarmed,767134.1979,,2928593.067,2013
+162416,130372151.0,Tuesday,No,2013-06-18T19:59:00.000,Argue,"[-71.10225, 42.312741]",Point,Argue,6,ABIP  ,574,E13,First,No,HAVERFORD ST,Part three,Unarmed,763748.0032,MONTEBELLO RD,2939241.8880000003,2013

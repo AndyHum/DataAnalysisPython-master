@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+143562,130078200.0,Wednesday,No,2013-02-06T22:16:00.000,FIRE,"[-71.09279, 42.335528]",Point,FIRE,2,FIREB ,911,B2,First,No,ANNUNCIATION RD,Part Three,Unarmed,766266.9936,,2947557.934,2013
+149390,130076297.0,Wednesday,No,2013-02-06T02:33:00.000,FIRE,"[-71.079605, 42.347101]",Point,FIRE,2,FIREB ,146,D4,Last,No,HUNTINGTON AV,Part Three,Unarmed,769811.1326,,2951792.646,2013
+250125,130076925.0,Wednesday,No,2013-02-06T11:44:00.000,FIRE,"[-71.058429, 42.311378]",Point,FIRE,2,FIREB ,255,C11,Day,No,DEER ST,Part Three,Unarmed,775602.9363,,2938803.439,2013

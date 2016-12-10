@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3491,152036668.0,Monday,No,2015-05-04T12:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,,,,2015
+54831,152036639.0,Monday,No,2015-05-04T09:30:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,5,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+74956,152036537.0,Monday,No,2015-05-04T22:46:00.000,PersLoc,"[-71.10526, 42.323331]",Point,PersLoc,5,IVPER,0,E13,First,No,GAY HEAD ST,Other,Unarmed,762916.0207,,2943097.2819999997,2015
+133225,152036526.0,Monday,No,2015-05-04T07:25:00.000,PersLoc,"[-71.070658, 42.318428]",Point,PersLoc,5,IVPER,0,B2,Last,No,WOODFORD ST,Other,Unarmed,772282.104,,2941355.586,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110863,152012318.0,Sunday,No,2015-02-15T17:43:00.000,MVAcc,"[-71.0985, 42.322151]",Point,MVAcc,2,IVPER,0,E13,First,No,COLUMBUS AV,Other,Other,764746.1322,CENTRE ST,2942675.8019999997,2015
+118787,152012219.0,Sunday,No,2015-02-15T07:39:00.000,MVAcc,"[-71.082485, 42.328571]",Point,MVAcc,2,MVA,0,B2,Day,No,DUDLEY ST,Other,Unarmed,769065.6491,HARRISON AV,2945036.153,2015
+189672,152012151.0,Sunday,No,2015-02-15T00:15:00.000,MVAcc,"[-71.078575, 42.336996]",Point,MVAcc,2,MVA,0,D4,Last,No,SHAWMUT AV,Other,Unarmed,770107.7616,,2948111.5719999997,2015
+236951,152012280.0,Sunday,No,2015-02-15T14:54:00.000,MVAcc,"[-71.100235, 42.272161]",Point,MVAcc,2,MVA,0,B3,Day,No,HALLOWELL ST,Other,Unarmed,764362.3118,,2924456.472,2015
+259347,152012307.0,Sunday,No,2015-02-15T15:17:00.000,MVAcc,"[-71.030825, 42.337391]",Point,MVAcc,2,MVA,0,C6,Day,No,E 2ND ST,Other,Other,783017.0431,,2948322.916,2015
+260180,152012279.0,Sunday,No,2015-02-15T14:35:00.000,MVAcc,"[0, 0]",Point,MVAcc,2,PKNIFE,0,B2,Day,No,ACADEMY TR,Other,Knife,,,,2015
+262747,152012375.0,Sunday,No,2015-02-15T22:59:00.000,MVAcc,"[0, 0]",Point,MVAcc,2,MVA,0,B3,First,No,BABSON ST,Other,Unarmed,,FREMONT ST,,2015

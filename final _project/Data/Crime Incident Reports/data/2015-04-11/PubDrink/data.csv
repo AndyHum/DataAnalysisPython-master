@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+117206,152029458.0,Saturday,No,2015-04-11T16:30:00.000,PubDrink,"[-71.08046, 42.335661]",Point,PubDrink,4,CD19,0,D4,First,No,SHAWMUT AV,Part Two,Unarmed,769600.5096,,2947622.561,2015
+231717,152029472.0,Saturday,No,2015-04-11T16:46:00.000,PubDrink,"[-71.082855, 42.330921]",Point,PubDrink,4,IVPER,0,B2,First,No,WASHINGTON ST,Part Two,Other,768961.3803,,2945892.07,2015
+267574,152029262.0,Saturday,No,2015-04-11T00:31:00.000,PubDrink,"[0, 0]",Point,PubDrink,4,ARREST,0,D4,Last,No,AGUADILLA ST,Part Two,Other,,,,2015

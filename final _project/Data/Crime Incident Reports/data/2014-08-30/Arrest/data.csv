@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14655,142024444.0,Saturday,No,2014-08-30T11:27:00.000,Arrest,"[-71.05839, 42.287871]",Point,Arrest,8,CD11,0,C11,Day,No,FLORIDA ST,Part three,Unarmed,775657.8305,,2930237.2610000004,2014
+248441,142024329.0,Saturday,No,2014-08-30T00:49:00.000,Arrest,"[-71.108089, 42.323474]",Point,Arrest,8,ARREST,0,E13,Last,No,CREIGHTON ST,Part three,Unarmed,762150.5458,,2943145.577,2014
+264658,142024548.0,Saturday,No,2014-08-30T18:34:00.000,Arrest,"[0, 0]",Point,Arrest,8,ARREST,0,B2,First,No,WALNUT AV,Part three,Unarmed,,KING BL,,2014

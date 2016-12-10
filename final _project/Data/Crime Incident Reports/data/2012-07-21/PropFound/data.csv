@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34831,120449399.0,Saturday,No,2012-07-21T08:00:00.000,PropFound,"[-71.135365, 42.240761]",Point,PropFound,7,FDPROP,0,E18,Day,No,READVILLE ST,Part Three,Other,754903.4343,,2912971.296,2012
+91139,120449852.0,Saturday,No,2012-07-21T13:15:00.000,PropFound,"[-71.0587, 42.350476]",Point,PropFound,7,FDPROP,0,A1,Day,No,LINCOLN ST,Part Three,Unarmed,775455.9149,,2953051.103,2012
+166629,120450693.0,Saturday,No,2012-07-21T20:51:00.000,PropFound,"[-71.07666, 42.351141]",Point,PropFound,7,FDPROP,134,D4,First,No,NEWBURY ST,Part Three,Unarmed,770599.9318,,2953268.837,2012
+188646,120450790.0,Saturday,No,2012-07-21T21:36:00.000,PropFound,"[-71.12147, 42.263361]",Point,PropFound,7,LSTPRP,495,E18,First,No,HYDE PARK AV,Part Three,Unarmed,758629.3777,,2921223.4110000003,2012
+230629,120451829.0,Saturday,No,2012-07-21T20:30:00.000,PropFound,"[-71.09097, 42.313121]",Point,PropFound,7,LARCRT,316,B2,First,No,RUTHVEN ST,Part Three,Other,766798.2685,,2939394.796,2012
+237917,120450480.0,Saturday,No,2012-07-21T18:00:00.000,PropFound,"[-71.09894, 42.339081]",Point,PropFound,7,INVEST,615,B2,First,No,FENWAY,Part Three,Unarmed,764598.1334,PALACE RD,2948844.837,2012

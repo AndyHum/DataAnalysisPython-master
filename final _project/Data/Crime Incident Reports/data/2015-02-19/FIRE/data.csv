@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61346,152013601.0,Thursday,No,2015-02-19T23:52:00.000,FIRE,"[-71.08892, 42.27058]",Point,FIRE,2,FIRE,0,B3,Last,No,MAMELON CR,Part three,Unarmed,767427.2577,,2923894.7660000003,2015
+64809,152013469.0,Thursday,No,2015-02-19T15:00:00.000,FIRE,"[-71.085978, 42.296806]",Point,FIRE,2,FIRE,0,B3,Day,No,ABBOT ST,Part three,Unarmed,768177.1099,,2933455.566,2015
+228821,152022002.0,Thursday,No,2015-02-19T01:30:00.000,FIRE,"[-71.054585, 42.377671]",Point,FIRE,2,FIRE,0,A15,Last,No,DECATUR ST,Part three,Unarmed,776516.4905,,2962967.278,2015

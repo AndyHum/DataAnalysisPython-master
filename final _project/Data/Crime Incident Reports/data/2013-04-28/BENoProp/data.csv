@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89272,130250721.0,Sunday,No,2013-04-28T19:05:00.000,BENoProp,"[-71.122855, 42.280371]",Point,BENoProp,4,BEIP  ,556,E5,First,No,SEYMOUR ST,Part One,Other,758227.0734,,2927420.432,2013
+198195,130250571.0,Sunday,No,2013-04-28T15:01:00.000,BENoProp,"[-71.033281, 42.365059]",Point,BENoProp,4,ARREST,34,A7,Day,No,WEBSTER ST,Part One,Unarmed,782297.6407,,2958401.9560000002,2013
+251239,130249578.0,Sunday,No,2013-04-28T04:21:00.000,BENoProp,"[-71.058866, 42.357544]",Point,BENoProp,4,ARREST,97,A1,Last,No,SCHOOL ST,Part One,Unarmed,775397.5892,,2955626.3189999997,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33321,120687920.0,Friday,No,2012-10-26T21:15:00.000,Service,"[-71.07293, 42.333901]",Point,Service,10,RAPRPT,172,D4,First,No,ALBANY ST,Part Three,Unarmed,771639.6374,,2946991.29,2012
+34607,120674920.0,Friday,No,2012-10-26T11:15:00.000,Service,"[-71.07738, 42.350061]",Point,Service,10,ARREST,130,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770407.2615,BOYLSTON ST,2952874.296,2012
+39093,120675664.0,Friday,No,2012-10-26T17:00:00.000,Service,"[-71.084364, 42.306373]",Point,Service,10,CD11  ,330,B2,First,No,BLUE HILL AV,Part Three,Unarmed,768596.965,,2936944.225,2012
+102887,120674613.0,Friday,No,2012-10-26T08:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,10,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+167189,120675195.0,Friday,No,2012-10-26T14:14:00.000,Service,"[-71.063675, 42.352301]",Point,Service,10,ARREST,111,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774107.7181,,2953709.249,2012
+184212,120674823.0,Friday,No,2012-10-26T10:39:00.000,Service,"[-71.063675, 42.352301]",Point,Service,10,ARREST,111,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774107.7181,,2953709.249,2012
+235622,120676225.0,Friday,No,2012-10-26T21:26:00.000,Service,"[-71.071785, 42.321386]",Point,Service,10,SSTOP ,183,B2,First,No,E COTTAGE ST,Part Three,Unarmed,771972.1213,,2942432.162,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17423,130601637.0,Saturday,No,2013-09-21T00:40:00.000,LICViol,"[-71.134523, 42.348375]",Point,LICViol,9,CD35  ,793,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,754963.3522,,2952188.313,2013
+72121,130603341.0,Saturday,No,2013-09-21T19:50:00.000,LICViol,"[-71.05301, 42.357526]",Point,LICViol,9,CD35  ,0,A1,First,No,BROAD ST,Part three,Unarmed,776980.5185,,2955628.265,2013
+125694,130601661.0,Saturday,No,2013-09-21T01:05:00.000,LICViol,"[-71.13255, 42.354731]",Point,LICViol,9,CD35  ,801,D14,Last,No,HARVARD AV,Part three,Unarmed,755486.7626,,2954507.0730000003,2013

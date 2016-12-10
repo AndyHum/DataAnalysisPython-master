@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+152091,152001203.0,Monday,No,2015-01-05T13:20:00.000,InvProp,"[-71.1002, 42.268416]",Point,InvProp,1,BE,0,E18,Day,No,FAIRLAWN AV,Part three,Other,764378.1779,,2923091.789,2015
+154605,152001833.0,Monday,No,2015-01-05T20:00:00.000,InvProp,"[-71.084515, 42.352176]",Point,InvProp,1,VAND,0,D4,First,No,BEACON ST,Part three,Unarmed,768474.8252,,2953635.5710000005,2015
+170671,152001292.0,Monday,No,2015-01-05T17:30:00.000,InvProp,"[-71.0612, 42.365521]",Point,InvProp,1,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774751.9335,CANAL ST,2958530.305,2015
+263793,152001287.0,Monday,No,2015-01-05T17:05:00.000,InvProp,"[0, 0]",Point,InvProp,1,BE,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+264071,152001192.0,Monday,No,2015-01-05T06:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,Last,No,NORTHERN AV,Part three,Unarmed,,,,2015
+264912,152001600.0,Monday,No,2015-01-05T13:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVMV,0,D4,Day,No,RUGGLES ST,Part three,Other,,,,2015

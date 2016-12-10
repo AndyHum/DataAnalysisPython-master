@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102781,140342975.0,Sunday,No,2014-06-01T10:34:00.000,Landlord,"[-71.09531, 42.269846]",Point,Landlord,6,FIGHT ,476,B3,Day,No,REXFORD ST,Part three,Unarmed,765699.2422,,2923619.142,2014
+237325,140343503.0,Sunday,No,2014-06-01T17:09:00.000,Landlord,"[-71.127575, 42.358101]",Point,Landlord,6,LANTEN,816,D14,First,No,EMPIRE ST,Part three,Unarmed,756826.1087,,2955741.003,2014
+264616,142037475.0,Sunday,No,2014-06-01T08:00:00.000,Landlord,"[0, 0]",Point,Landlord,6,LANTEN,0,C6,Day,No,MT EVERETT ST,Part three,Unarmed,,,,2014

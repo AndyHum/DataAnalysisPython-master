@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24408,,Friday,No,2015-06-26T00:00:00.000,Property Found,"[-71.071399, 42.338696]",Point,PropFound,6,PROP,905,D4,,No,E BROOKLINE ST,Part Three,None,772045.0,,2950000.0,2015
+71833,,Friday,No,2015-06-26T01:41:00.000,Property Found,"[0, 0]",Point,PropFound,6,PROP,213,C6,,No,F ST,Part Three,None,,W THIRD ST,,2015
+101016,,Friday,No,2015-06-26T19:00:00.000,Property Found,"[0, 0]",Point,PropFound,6,PROP,776,D14,,No,COLBORNE RD,Part Three,None,,,,2015

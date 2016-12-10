@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30200,142056949.0,Thursday,No,2014-12-11T18:00:00.000,PropLost,"[-71.0851, 42.342906]",Point,PropLost,12,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,768333.1312,,2950256.6360000004,2014
+89394,142056593.0,Thursday,No,2014-12-11T16:15:00.000,PropLost,"[-71.07686, 42.344536]",Point,PropLost,12,PROP,0,D4,First,No,COLUMBUS AV,Part three,Unarmed,770557.8118,,2950861.5810000002,2014
+92235,142056876.0,Thursday,No,2014-12-11T13:15:00.000,PropLost,"[-71.082985, 42.308821]",Point,PropLost,12,PROP,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,768965.6346,,2937838.262,2014
+138811,142056793.0,Thursday,No,2014-12-11T17:15:00.000,PropLost,"[-71.055985, 42.363381]",Point,PropLost,12,PROP,0,A1,First,No,SALEM ST,Part three,Unarmed,776165.3272,,2957757.7410000004,2014
+202468,142056790.0,Thursday,No,2014-12-11T14:00:00.000,PropLost,"[-71.088595, 42.340561]",Point,PropLost,12,PROP,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767392.4028,,2949397.497,2014
+234749,142058796.0,Thursday,No,2014-12-11T12:00:00.000,PropLost,"[-71.093283, 42.316332]",Point,PropLost,12,LARCEN,0,B2,Day,No,WALNUT AV,Part three,Unarmed,766167.0440000001,,2940561.7989999996,2014
+256656,142056919.0,Thursday,No,2014-12-11T15:24:00.000,PropLost,"[-71.07257, 42.332816]",Point,PropLost,12,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771738.9571,,2946596.385,2014

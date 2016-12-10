@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113369,142021147.0,Wednesday,No,2014-08-20T12:05:00.000,SearchWarr,"[-71.059987, 42.361648]",Point,SearchWarr,8,CD11,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+141781,142021158.0,Wednesday,No,2014-08-20T12:46:00.000,SearchWarr,"[-71.059987, 42.361648]",Point,SearchWarr,8,CD11,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+148363,142021176.0,Wednesday,No,2014-08-20T13:50:00.000,SearchWarr,"[-71.082308, 42.327083]",Point,SearchWarr,8,CD11,0,B2,Day,No,KEARSARGE AV,Part three,Unarmed,769115.9555,,2944493.9269999997,2014

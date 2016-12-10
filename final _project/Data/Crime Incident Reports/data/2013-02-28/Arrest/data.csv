@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42583,130122527.0,Thursday,No,2013-02-28T16:32:00.000,Arrest,"[-71.08275, 42.328591]",Point,Arrest,2,IVPER ,280,B2,First,No,DUDLEY ST,Part Three,Unarmed,768993.9571,HARRISON AV,2945043.09,2013
+69271,130122334.0,Thursday,No,2013-02-28T16:17:00.000,Arrest,"[-71.04625, 42.354256]",Point,Arrest,2,CD5   ,207,C6,First,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2013
+102163,130121349.0,Thursday,No,2013-02-28T07:59:00.000,Arrest,"[-71.07837, 42.337556]",Point,Arrest,2,ARREST,273,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,770162.1788,,2948315.92,2013
+141651,130121935.0,Thursday,No,2013-02-28T12:47:00.000,Arrest,"[-71.121755, 42.351736]",Point,Arrest,2,IVPER ,622,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,758409.4191,,2953428.389,2013

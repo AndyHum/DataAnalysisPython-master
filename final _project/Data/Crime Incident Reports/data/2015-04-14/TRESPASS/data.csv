@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85690,152030187.0,Tuesday,No,2015-04-14T04:41:00.000,TRESPASS,"[-71.067375, 42.352166]",Point,TRESPASS,4,ARREST,0,A1,Last,No,CHARLES ST S,Part Two,Unarmed,773107.8474,,2953654.958,2015
+140584,152030162.0,Tuesday,No,2015-04-14T00:42:00.000,TRESPASS,"[-71.064905, 42.352371]",Point,TRESPASS,4,ARREST,0,A1,Last,No,BOYLSTON ST,Part Two,Unarmed,773775.1158,,2953733.06,2015
+142141,152030185.0,Tuesday,No,2015-04-14T02:30:00.000,TRESPASS,"[-71.06942, 42.362401]",Point,TRESPASS,4,ARREST,0,A1,Last,No,FRUIT ST,Part Two,Unarmed,772536.2528,PARKMAN ST,2957381.922,2015
+225223,152030436.0,Tuesday,No,2015-04-14T21:09:00.000,TRESPASS,"[-71.062085, 42.356341]",Point,TRESPASS,4,ARREST,0,A1,First,No,TREMONT ST,Part Two,Unarmed,774529.9407,,2955183.704,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13701,130005644.0,Monday,No,2012-12-31T12:00:00.000,SexReg,"[-71.06494, 42.343021]",Point,SexReg,12,IVPER ,165,D4,Day,No,HARRISON AV,Part Two,Unarmed,773783.0344,,2950325.6980000003,2012
+174178,120817118.0,Monday,No,2012-12-31T20:00:00.000,SexReg,"[-71.06761, 42.304043]",Point,SexReg,12,IVPER ,341,C11,First,No,SPEEDWELL ST,Part Two,Unarmed,773133.0281,,2936117.6139999996,2012
+210717,130005748.0,Monday,No,2012-12-31T12:00:00.000,SexReg,"[-71.0729, 42.333256]",Point,SexReg,12,IVPER ,172,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2012

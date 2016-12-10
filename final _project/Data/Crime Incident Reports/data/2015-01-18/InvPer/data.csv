@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44485,152004835.0,Sunday,No,2015-01-18T18:43:00.000,InvPer,"[-71.070311, 42.310124]",Point,InvPer,1,DISTRB,0,C11,First,No,MT EVERETT ST,Part three,Unarmed,772391.3521,,2938329.9689999996,2015
+159831,152004876.0,Sunday,No,2015-01-18T22:29:00.000,InvPer,"[-71.049385, 42.331776]",Point,InvPer,1,IVPER,0,C6,First,No,E 8TH ST,Part three,Unarmed,778009.8586,,2946249.6580000003,2015
+174487,152004750.0,Sunday,No,2015-01-18T12:16:00.000,InvPer,"[-71.129941, 42.357471]",Point,InvPer,1,VIORDR,0,D14,Day,No,ROYAL ST,Part three,Unarmed,756187.4751,,2955508.568,2015
+193781,152004844.0,Sunday,No,2015-01-18T20:00:00.000,InvPer,"[-71.088738, 42.346309]",Point,InvPer,1,IVPER,0,D4,First,No,HAVILAND ST,Part three,Unarmed,767343.5085,,2951492.037,2015
+261214,152004766.0,Sunday,No,2015-01-18T13:00:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPER,0,D4,Day,No,HARRISON AV,Part three,Unarmed,,,,2015

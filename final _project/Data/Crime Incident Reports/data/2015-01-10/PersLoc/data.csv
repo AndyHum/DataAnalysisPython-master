@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8936,152002660.0,Saturday,No,2015-01-10T16:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISSIN,0,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+132409,152002855.0,Saturday,No,2015-01-10T13:37:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,1,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+203699,152003597.0,Saturday,No,2015-01-10T23:00:00.000,PersLoc,"[-71.05696, 42.329301]",Point,PersLoc,1,MISSIN,0,C6,First,No,DORCHESTER AV,Other,Unarmed,775966.3364,,2945336.995,2015
+265592,152002699.0,Saturday,No,2015-01-10T20:17:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,B2,First,No,WASHINGTON ST,Other,Unarmed,,,,2015

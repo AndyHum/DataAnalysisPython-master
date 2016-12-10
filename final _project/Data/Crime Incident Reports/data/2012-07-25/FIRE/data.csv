@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108662,120461185.0,Wednesday,No,2012-07-25T11:57:00.000,FIRE,"[-71.1061, 42.329581]",Point,FIRE,7,FV    ,0,B2,Day,No,PARKER HILL AV,Part Three,Unarmed,762678.3437,,2945373.8419999997,2012
+175860,120460001.0,Wednesday,No,2012-07-25T20:55:00.000,FIRE,"[-71.06417, 42.292784]",Point,FIRE,7,FIREB ,361,C11,First,No,CENTRE ST,Part Three,Unarmed,774084.5088,,2932019.28,2012
+225003,120458618.0,Wednesday,No,2012-07-25T11:00:00.000,FIRE,"[-71.078317, 42.306979]",Point,FIRE,7,FIREB ,329,B2,Day,No,OLDFIELDS RD,Part Three,Unarmed,770231.5569,,2937172.905,2012

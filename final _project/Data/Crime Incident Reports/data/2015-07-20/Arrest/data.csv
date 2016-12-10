@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39650,,Monday,No,2015-07-20T00:00:00.000,Warrant Arrests,"[-71.091089, 42.31613]",Point,Arrest,7,TS,312,B2,,No,HOLLANDER ST,Part Three,None,766761.0,,2940000.0,2015
+46742,,Monday,No,2015-07-20T15:10:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,279,B2,,No,DUDLEY ST,Part Three,None,,GREENVILLE ST,,2015
+87294,,Monday,No,2015-07-20T03:35:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,61,A1,,No,CAUSEWAY ST,Part Three,None,,N WASHINGTON ST ,,2015

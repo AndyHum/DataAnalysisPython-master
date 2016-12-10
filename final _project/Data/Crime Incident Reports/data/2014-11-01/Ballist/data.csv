@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47670,142044843.0,Saturday,No,2014-11-01T05:16:00.000,Ballist,"[-71.0715, 42.314991]",Point,Ballist,11,SHOTS,0,B2,Last,No,MAGNOLIA ST,Part Two,Firearm,772060.9028,MAGNOLIA SQ,2940102.105,2014
+168463,142044817.0,Saturday,No,2014-11-01T02:56:00.000,Ballist,"[-71.083338, 42.287555]",Point,Ballist,11,SHOTS,0,B3,Last,No,LYFORD ST,Part Two,Firearm,768907.7515,,2930088.1739999996,2014
+184080,142044783.0,Saturday,No,2014-11-01T01:24:00.000,Ballist,"[-71.093936, 42.314321]",Point,Ballist,11,SHOTS,0,E13,Last,No,WALNUT AV,Part Two,Firearm,765993.8570000001,,2939828.063,2014

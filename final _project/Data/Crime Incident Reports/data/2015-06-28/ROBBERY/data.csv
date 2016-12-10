@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+162448,,Sunday,No,2015-06-28T00:00:00.000,Robbery,"[-71.03838, 42.370249]",Point,03xx,6,I00040,29,A7,,No,CHELSEA ST,Part One,Knife/Cutting Instrument,780910.0,,2960000.0,2015
+211341,,Sunday,No,2015-06-28T00:00:00.000,Robbery,"[-71.038931, 42.374686]",Point,03xx,6,ARMROB,28,A7,,No,CENTRAL SQ,Part One,None,780752.0,,2960000.0,2015
+212194,,Sunday,No,2015-06-28T00:00:00.000,Robbery,"[-71.081213, 42.328491]",Point,03xx,6,PERGUN,281,B2,,No,DUDLEY ST,Part One,Firearm,769410.0,,2950000.0,2015
+221975,,Sunday,No,2015-06-28T00:00:00.000,Robbery,"[-71.066932, 42.311065]",Point,03xx,6,I00040,334,C11,,No,RONAN ST,Part One,None,773303.0,,2940000.0,2015
+255006,,Sunday,No,2015-06-28T00:00:00.000,Robbery,"[-71.082731, 42.338022]",Point,03xx,6,CARJAK,274,D4,,No,TREMONT ST,Part One,Knife/Cutting Instrument,768982.0,,2950000.0,2015

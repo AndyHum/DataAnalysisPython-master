@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3365,152029316.0,Saturday,No,2015-04-11T03:15:00.000,Service,"[0, 0]",Point,Service,4,IVPER,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+31322,152029402.0,Saturday,No,2015-04-11T12:10:00.000,Service,"[-71.063675, 42.352301]",Point,Service,4,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+91736,152029494.0,Saturday,No,2015-04-11T19:00:00.000,Service,"[-71.139352, 42.240701]",Point,Service,4,IVPREM,0,E18,First,No,COMO RD,Part three,Unarmed,753823.8916,,2912944.788,2015
+134047,152029358.0,Saturday,No,2015-04-11T09:45:00.000,Service,"[-71.061495, 42.356911]",Point,Service,4,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2015

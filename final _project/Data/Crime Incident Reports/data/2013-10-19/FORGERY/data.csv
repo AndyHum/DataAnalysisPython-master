@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47142,130703098.0,Saturday,No,2013-10-19T10:11:00.000,FORGERY,"[-71.085618, 42.32866]",Point,10xx,10,IVPER ,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2013
+66820,130687001.0,Saturday,No,2013-10-19T14:35:00.000,FORGERY,"[-71.039415, 42.368976]",Point,10xx,10,LARCRT,29,A7,Day,No,MAVERICK SQ,Part Two,Unarmed,780632.4456,,2959820.414,2013
+191662,130734918.0,Saturday,No,2013-10-19T20:44:00.000,FORGERY,"[-71.07271, 42.290416]",Point,10xx,10,LARCRT,437,B3,First,No,TALBOT AV,Part Two,Unarmed,771778.5062,,2931144.96,2013
+240017,130703094.0,Saturday,No,2013-10-19T13:36:00.000,FORGERY,"[-71.085618, 42.32866]",Point,10xx,10,IVPER ,330,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2013

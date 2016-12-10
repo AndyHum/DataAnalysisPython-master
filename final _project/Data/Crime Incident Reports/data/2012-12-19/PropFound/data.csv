@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101652,120792609.0,Wednesday,No,2012-12-19T00:50:00.000,PropFound,"[-71.11191, 42.319141]",Point,PropFound,12,FDPROP,637,E13,Last,No,ROSEWAY ST,Part Three,Unarmed,761124.6266,CENTRE ST,2941562.119,2012
+110155,120794738.0,Wednesday,No,2012-12-19T21:55:00.000,PropFound,"[-71.063757, 42.354358]",Point,PropFound,12,FDPROP,111,A1,First,No,TREMONT ST,Part Three,Unarmed,774081.4655,,2954458.626,2012
+221769,120794756.0,Wednesday,No,2012-12-19T22:30:00.000,PropFound,"[-71.15007, 42.294971]",Point,PropFound,12,FDPROP,689,E5,First,No,CHURCH AV,Part Three,Unarmed,750840.5625,COURTNEY RD,2932709.5130000003,2012

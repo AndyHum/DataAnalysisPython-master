@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41212,,Tuesday,No,2015-06-16T00:00:00.000,Vandalism,"[-71.126733, 42.354587]",Point,14xx,6,VAND,799,D14,,No,ASHFORD ST,Part Two,None,757059.0,,2950000.0,2015
+66718,,Tuesday,No,2015-06-16T00:00:00.000,Vandalism,"[-71.054407, 42.284199]",Point,14xx,6,VAND,379,C11,,No,SARANAC ST,Part Two,None,776742.0,,2930000.0,2015
+90590,,Tuesday,No,2015-06-16T00:00:00.000,Vandalism,"[-71.052278, 42.337402]",Point,14xx,6,VAND,214,C6,,No,W FIFTH ST,Part Two,None,777217.0,,2950000.0,2015
+93165,,Tuesday,No,2015-06-16T00:00:00.000,Vandalism,"[-71.130822, 42.255249]",Point,14xx,6,VAND,541,E18,,No,CLEVELAND ST,Part Two,None,756111.0,,2920000.0,2015
+150413,,Tuesday,No,2015-06-16T19:30:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,334,C11,,No,BOWDOIN ST,Part Two,None,, HENDRY ST ,,2015
+178161,,Tuesday,No,2015-06-16T17:00:00.000,Vandalism,"[0, 0]",Point,14xx,6,BE,229,C6,,No,E SIXTH ST,Part Two,None,,H ST,,2015
+257562,,Tuesday,No,2015-06-16T00:00:00.000,Vandalism,"[-71.051416, 42.332659]",Point,14xx,6,VAND,216,C6,,No,DORCHESTER ST,Part Two,None,777459.0,,2950000.0,2015

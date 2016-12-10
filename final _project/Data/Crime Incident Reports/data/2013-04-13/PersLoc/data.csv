@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27409,130222892.0,Saturday,No,2013-04-13T17:30:00.000,PersLoc,"[-71.08312, 42.30356]",Point,PersLoc,4,MISPER,458,B3,First,No,COLUMBIA RD,Part Three,Unarmed,768938.3069,,2935920.87,2013
+31767,130219348.0,Saturday,No,2013-04-13T09:00:00.000,PersLoc,"[-71.03343, 42.378486]",Point,PersLoc,4,MISPER,19,A7,Day,No,PRINCETON ST,Part Three,Unarmed,782230.82,,2963294.84,2013
+35951,130225732.0,Saturday,No,2013-04-13T17:00:00.000,PersLoc,"[-71.03685, 42.379501]",Point,PersLoc,4,MISPER,24,A7,First,No,EUTAW ST,Part Three,Unarmed,781304.7602,,2963659.69,2013
+74318,130220155.0,Saturday,No,2013-04-13T10:00:00.000,PersLoc,"[-71.077272, 42.311259]",Point,PersLoc,4,IVPER ,328,B2,Day,No,FERNBORO ST,Other,Unarmed,770506.5071,,2938734.265,2013
+79122,130219122.0,Saturday,No,2013-04-13T21:30:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,4,MISPER,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+127983,130217703.0,Saturday,No,2013-04-13T08:35:00.000,PersLoc,"[-71.08479, 42.332036]",Point,PersLoc,4,MISPER,276,B2,Day,No,ESTABROOK RD,Part Three,Unarmed,768436.2206,,2946295.818,2013
+128015,130217323.0,Saturday,No,2013-04-13T01:00:00.000,PersLoc,"[-71.092706, 42.319572]",Point,PersLoc,4,MISPER,306,B2,Last,No,TOWNSEND ST,Part Three,Unarmed,766317.3997,,2941743.244,2013
+199280,130221016.0,Saturday,No,2013-04-13T19:45:00.000,PersLoc,"[-71.083515, 42.288006]",Point,PersLoc,4,MSNCOM,432,B3,First,No,LYFORD ST,Part Three,Unarmed,768859.3133,,2930252.2610000004,2013

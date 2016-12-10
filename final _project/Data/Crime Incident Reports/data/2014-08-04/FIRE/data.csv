@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48428,142015986.0,Monday,No,2014-08-04T02:05:00.000,FIRE,"[-71.08099, 42.300209]",Point,FIRE,8,FO,0,B3,Last,No,HARLEM ST,Part three,Unarmed,769520.6679,,2934702.57,2014
+188853,142015987.0,Monday,No,2014-08-04T03:46:00.000,FIRE,"[-71.048485, 42.349406]",Point,FIRE,8,FIRE,0,C6,Last,No,SUMMER ST,Part three,Unarmed,778219.2009999999,,2952675.627,2014
+204913,142016291.0,Monday,No,2014-08-04T23:10:00.000,FIRE,"[-71.10189, 42.270611]",Point,FIRE,8,FO,0,E18,First,No,CUMMINS HY,Part three,Unarmed,763917.0302,,2923889.5360000003,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60443,152027905.0,Monday,No,2015-04-06T01:37:00.000,SearchWarr,"[-71.08691, 42.280196]",Point,SearchWarr,4,CD11,0,B3,Last,No,ASTORIA ST,Part three,Unarmed,767954.4837,,2927401.7189999996,2015
+250823,152027994.0,Monday,No,2015-04-06T13:27:00.000,SearchWarr,"[-71.08691, 42.280196]",Point,SearchWarr,4,CD11,0,B3,Day,No,ASTORIA ST,Part three,Unarmed,767954.4837,,2927401.7189999996,2015
+258597,152027868.0,Monday,No,2015-04-06T01:27:00.000,SearchWarr,"[-71.08691, 42.280196]",Point,SearchWarr,4,ARREST,0,B3,Last,No,ASTORIA ST,Part three,Unarmed,767954.4837,,2927401.7189999996,2015

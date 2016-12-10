@@ -1,0 +1,35 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+853,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.146277, 42.342793]",Point,MVAcc,7,MVA,776,D14,,No,COLBORNE RD,Part Three,None,751794.0,,2950000.0,2015
+12378,,Monday,No,2015-07-06T17:07:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,321,B2,,No,BLUE HILL AVE,Part Three,None,,WARREN ST,,2015
+12418,,Monday,No,2015-07-06T00:25:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,755,D14,,No,FANEUIL ST,Part Three,None,,WASHINGTON ST,,2015
+21119,,Monday,No,2015-07-06T17:40:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,PROP,162,D4,,No,HARRISON AVE,Part Three,None,, HERALD ST ,,2015
+39133,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.066425, 42.352495]",Point,MVAcc,7,MVA,118,A1,,No,BOYLSTON ST,Part Three,None,773364.0,,2950000.0,2015
+41195,,Monday,No,2015-07-06T15:13:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,110,A1,,No,OLIVER ST,Part Three,None,,PURCHASE ST,,2015
+48466,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.088669, 42.343765]",Point,MVAcc,7,IVPREM,619,D4,,No,WESTLAND AVE,Part Three,None,767367.0,,2950000.0,2015
+50469,,Monday,No,2015-07-06T09:21:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,211,C6,,No,D ST,Part Three,None,,W BROADWAY,,2015
+56361,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.048523, 42.337314]",Point,MVAcc,7,IVMV,213,C6,,No,W BROADWAY,Part Three,None,778232.0,,2950000.0,2015
+59229,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.058861, 42.292731]",Point,MVAcc,7,MVA,367,C11,,No,KING ST,Part Three,None,775521.0,,2930000.0,2015
+61369,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.112264, 42.318626]",Point,MVAcc,7,MVA,637,E13,,No,CENTRE ST,Part Three,None,761030.0,,2940000.0,2015
+67008,,Monday,No,2015-07-06T19:45:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,IVPER,187,C6,,No,BOSTON ST,Part Three,None,,HARVEST ST,,2015
+78674,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.074364, 42.33556]",Point,MVAcc,7,REQP,171,D4,,No,HARRISON AVE,Part Three,None,771249.0,,2950000.0,2015
+84841,,Monday,No,2015-07-06T13:37:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,455,C11,,No,ELDON ST,Part Three,None,,WASHINGTON ST,,2015
+98420,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.061986, 42.326966]",Point,MVAcc,7,MVA,186,C6,,No,ALLSTATE RD,Part Three,None,774612.0,,2940000.0,2015
+100913,,Monday,No,2015-07-06T07:30:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,77,A1,,No,STORROW DR,Part Three,None,,,,2015
+103130,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.055142, 42.301789]",Point,MVAcc,7,MVA,253,C11,,No,BEACH ST,Part Three,None,776510.0,,2940000.0,2015
+109039,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.063069, 42.315267]",Point,MVAcc,7,MVA,257,C11,,No,EVERETT AVE,Part Three,None,774341.0,,2940000.0,2015
+119642,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.063264, 42.371673]",Point,MVAcc,7,IVMV,60,A15,,No,RUTHERFORD AVE,Part Three,None,774183.0,,2960000.0,2015
+142617,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.052133, 42.354383]",Point,MVAcc,7,MVA,114,A1,,No,ATLANTIC AVE,Part Three,None,777224.0,,2950000.0,2015
+143071,,Monday,No,2015-07-06T19:45:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,0,,,No,DUDLEY ST,Part Three,None,,,,2015
+147905,,Monday,No,2015-07-06T08:32:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,22,A7,,No,PORTER ST,Part Three,None,,,,2015
+158388,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.076261, 42.350379]",Point,MVAcc,7,VAND,130,D4,,No,HUNTINGTON AVE,Part Three,None,770709.0,,2950000.0,2015
+163073,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.108896, 42.32227]",Point,MVAcc,7,MVA,578,E13,,No,CENTRE ST,Part Three,None,761934.0,,2940000.0,2015
+166369,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.063636, 42.308479]",Point,MVAcc,7,MVA,338,C11,,No,CHURCH ST,Part Three,None,774200.0,,2940000.0,2015
+166774,,Monday,No,2015-07-06T12:30:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,143,D4,,No,HUNTINGTON AVE,Part Three,None,,RING RD,,2015
+170409,,Monday,No,2015-07-06T08:33:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,273,D4,,No,NORTHAMPTON ST,Part Three,None,,SHAWMUT AVE,,2015
+174199,,Monday,No,2015-07-06T19:46:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,184,B2,,No,E COTTAGE ST,Part Three,None,,NORFOLK AVE,,2015
+183479,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.076397, 42.3131]",Point,MVAcc,7,MVA,326,B2,,No,PERTH ST,Part Three,None,770740.0,,2940000.0,2015
+183480,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.076397, 42.3131]",Point,MVAcc,7,MVA,326,B2,,No,PERTH ST,Part Three,None,770740.0,,2940000.0,2015
+214992,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.087219, 42.283132]",Point,MVAcc,7,MVA,429,B3,,No,HILDRETH ST,Part Three,None,767866.0,,2930000.0,2015
+216373,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.082623, 42.309384]",Point,MVAcc,7,MVA,329,B2,,No,BLUE HILL AVE,Part Three,None,769062.0,,2940000.0,2015
+238474,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.10419, 42.261302]",Point,MVAcc,7,MVA,484,E18,,No,BELNEL RD,Part Three,None,763310.0,,2920000.0,2015
+240360,,Monday,No,2015-07-06T00:00:00.000,Motor Vehicle Accident Response,"[-71.058741, 42.326186]",Point,MVAcc,7,MVA,187,C6,,No,BOSTON ST,Part Three,None,775490.0,,2940000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67880,130386294.0,Monday,No,2013-06-24T18:43:00.000,PersLoc,"[-71.11524, 42.305536]",Point,PersLoc,6,MSNCOM,946,E13,First,No,METCALF CT,Other,Unarmed,760246.4079,,2936600.15,2013
+69998,130386300.0,Monday,No,2013-06-24T12:00:00.000,PersLoc,"[-71.065485, 42.351054]",Point,PersLoc,6,MSNCOM,413,A1,Day,No,STUART ST,Other,Unarmed,773620.7745,TREMONT ST,2953252.21,2013
+219510,130385067.0,Monday,No,2013-06-24T10:18:00.000,PersLoc,"[-71.09322, 42.333601]",Point,PersLoc,6,FDCHLD,911,B2,Day,No,PRENTISS ST,Other,Unarmed,766154.1144,ALBERT ST,2946855.1489999997,2013

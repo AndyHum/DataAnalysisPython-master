@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57688,140111956.0,Saturday,No,2014-02-22T21:03:00.000,InvProp,"[-71.07456, 42.272901]",Point,InvProp,2,PKNIFE,408,B3,First,No,STURBRIDGE ST,Part three,Other,771309.7923,,2924759.751,2014
+59925,140111884.0,Saturday,No,2014-02-22T20:25:00.000,InvProp,"[-71.075785, 42.297]",Point,InvProp,2,SCHALM,453,B3,First,No,SCHOOL ST,Part three,Unarmed,770934.5115,,2933539.867,2014
+80831,140113123.0,Saturday,No,2014-02-22T22:00:00.000,InvProp,"[-71.125436, 42.257211]",Point,InvProp,2,BERPTA,544,E18,First,No,SUMMER ST,Part three,Unarmed,757565.4448,,2918977.563,2014
+164458,140111946.0,Saturday,No,2014-02-22T20:53:00.000,InvProp,"[-71.08195, 42.282956]",Point,InvProp,2,SHOT  ,417,B3,First,No,CROWELL ST,Part three,Other,769291.7881,,2928414.041,2014
+209157,140110124.0,Saturday,No,2014-02-22T01:37:00.000,InvProp,"[-71.136325, 42.294097]",Point,InvProp,2,ALARMC,677,E5,Last,No,CENTRE ST,Part three,Unarmed,754560.4944,,2932406.309,2014
+255141,140111943.0,Saturday,No,2014-02-22T20:54:00.000,InvProp,"[0, 0]",Point,InvProp,2,SHOTS ,346,C11,First,No,MARIE ST,Part three,Unarmed,,FOX ST,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+367,152031691.0,Friday,No,2015-04-17T19:35:00.000,SkipFare,"[0, 0]",Point,SkipFare,4,LARCEN,0,E5,First,No,VFW PY,Part Two,Other,,,,2015
+136955,152031182.0,Friday,No,2015-04-17T01:45:00.000,SkipFare,"[-71.06013, 42.298741]",Point,SkipFare,4,INVEST,0,C11,Last,No,PARK ST,Part Two,Unarmed,775166.5959,DORCHESTER AV,2934196.0110000004,2015
+268020,152031494.0,Friday,No,2015-04-17T22:11:00.000,SkipFare,"[0, 0]",Point,SkipFare,4,IVPER,0,E18,First,No,CUMMINS HY,Part Two,Unarmed,,,,2015

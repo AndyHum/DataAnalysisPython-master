@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43949,142023702.0,Thursday,No,2014-08-28T01:00:00.000,PersLoc,"[-71.139555, 42.277451]",Point,PersLoc,8,MISSIN,0,E5,Last,No,BRAHMS ST,Other,Unarmed,753712.3665,,2926336.8019999997,2014
+77074,142024046.0,Thursday,No,2014-08-28T11:30:00.000,PersLoc,"[-71.087612, 42.312512]",Point,PersLoc,8,MISSIN,0,B2,Day,No,CRAWFORD ST,Other,Unarmed,767707.5761,,2939177.0239999997,2014
+128722,142023968.0,Thursday,No,2014-08-28T07:15:00.000,PersLoc,"[-71.0712, 42.285371]",Point,PersLoc,8,IVPER,0,C11,Last,No,WASHINGTON ST,Other,Unarmed,772196.305,ASHMONT ST,2929308.541,2014
+248218,142023904.0,Thursday,No,2014-08-28T17:46:00.000,PersLoc,"[-71.065491, 42.305384]",Point,PersLoc,8,IVPER,0,C11,First,No,DRAPER ST,Other,Unarmed,773703.9466,,2936609.337,2014
+251592,142023835.0,Thursday,No,2014-08-28T14:00:00.000,PersLoc,"[-71.097081, 42.319472]",Point,PersLoc,8,IVPER,0,B2,Day,No,DIMOCK ST,Other,Unarmed,765134.3663,,2941701.057,2014

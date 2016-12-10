@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83635,152018402.0,Saturday,No,2015-03-07T05:55:00.000,InvProp,"[-71.04472, 42.290356]",Point,InvProp,3,IVPREM,0,C11,Last,No,MORRISSEY BL,Part three,Other,779351.7959,,2931162.275,2015
+116705,152018367.0,Saturday,No,2015-03-07T01:26:00.000,InvProp,"[-71.068436, 42.290364]",Point,InvProp,3,SSA,0,C11,Last,No,LITHGOW ST,Part three,Other,772934.9327,,2931131.8,2015
+129724,152020462.0,Saturday,No,2015-03-07T17:30:00.000,InvProp,"[-71.063208, 42.364318]",Point,InvProp,3,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774211.4955,,2958089.1139999996,2015
+133052,152018370.0,Saturday,No,2015-03-07T01:29:00.000,InvProp,"[-71.09192, 42.270941]",Point,InvProp,3,SSA,0,B3,Last,No,FREMONT ST,Part three,Firearm,766614.8591,,2924022.545,2015
+192614,152018608.0,Saturday,No,2015-03-07T11:13:00.000,InvProp,"[-71.00474, 42.392707]",Point,InvProp,3,SHOTS,0,A7,Day,No,WALDEMAR AV,Part three,Unarmed,789952.4141,,2968520.7180000003,2015
+234061,152018615.0,Saturday,No,2015-03-07T23:00:00.000,InvProp,"[-71.06939, 42.339506]",Point,InvProp,3,IVPER,0,D4,First,No,HARRISON AV,Part three,Firearm,772586.4767,,2949038.664,2015
+237518,152018566.0,Saturday,No,2015-03-07T18:55:00.000,InvProp,"[-71.073314, 42.296573]",Point,InvProp,3,IVPREM,0,B3,First,No,SCHOOL ST,Part three,Unarmed,771603.8025,,2933387.865,2015
+250696,152037022.0,Saturday,No,2015-03-07T12:00:00.000,InvProp,"[-71.081625, 42.336141]",Point,InvProp,3,LARCEN,0,D4,Day,No,TROTTER CT,Part three,Unarmed,769284.6658,,2947795.935,2015
+260820,152018377.0,Saturday,No,2015-03-07T02:27:00.000,InvProp,"[0, 0]",Point,InvProp,3,SSA,0,B2,Last,No,HUMBOLDT AV,Part three,Other,,HOMESTEAD ST,,2015

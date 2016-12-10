@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41126,130581839.0,Thursday,No,2013-09-12T23:20:00.000,PubDrink,"[-71.06115, 42.364581]",Point,PubDrink,9,CD35  ,75,A1,First,No,FRIEND ST,Part Two,Unarmed,774767.2102,,2958187.8210000005,2013
+145881,130580938.0,Thursday,No,2013-09-12T14:40:00.000,PubDrink,"[-71.07632, 42.350356]",Point,PubDrink,9,CD19  ,0,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770693.2587,,2952983.224,2013
+198016,130580686.0,Thursday,No,2013-09-12T13:50:00.000,PubDrink,"[-71.07161, 42.290211]",Point,PubDrink,9,TRANSP,397,C11,Day,No,TALBOT AV,Part Two,Unarmed,772076.5056,CENTRE ST,2931071.748,2013

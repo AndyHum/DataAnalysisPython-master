@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69351,152048414.0,Thursday,No,2015-06-11T06:30:00.000,PersMiss,"[-71.130665, 42.232646]",Point,PersMiss,6,ALARM,0,E18,Last,No,COLCHESTER ST,Other,Unarmed,756188.9065,,2910019.5710000005,2015
+92975,152048284.0,Thursday,No,2015-06-11T06:26:00.000,PersMiss,"[-71.073395, 42.323221]",Point,PersMiss,6,IVPER,0,B2,Last,No,DUDLEY ST,Other,Unarmed,771533.3762,,2943098.685,2015
+217024,152048805.0,Thursday,No,2015-06-11T06:00:00.000,PersMiss,"[-71.066455, 42.315761]",Point,PersMiss,6,IVPER,0,B2,Last,No,COLUMBIA RD,Other,Unarmed,773423.9583,,2940389.6010000003,2015

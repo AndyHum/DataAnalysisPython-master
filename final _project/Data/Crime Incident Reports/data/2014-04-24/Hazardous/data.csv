@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14570,140249722.0,Thursday,No,2014-04-24T16:47:00.000,Hazardous,"[-71.07072, 42.359106]",Point,Hazardous,4,HAZARD,66,A1,First,No,CHARLES ST,Other,Unarmed,772190.9539,,2956179.46,2014
+178353,140249587.0,Thursday,No,2014-04-24T15:45:00.000,Hazardous,"[-71.0639, 42.350956]",Point,Hazardous,4,IVPER ,122,A1,Day,No,STUART ST,Other,Other,774049.4062,,2953218.795,2014
+232815,140248946.0,Thursday,No,2014-04-24T11:00:00.000,Hazardous,"[-71.06514, 42.378976]",Point,Hazardous,4,HITRUN,54,A15,Day,No,SULLIVAN ST,Other,Unarmed,773662.1649,,2963428.131,2014

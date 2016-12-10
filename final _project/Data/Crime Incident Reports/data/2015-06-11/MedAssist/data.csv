@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2903,152048307.0,Thursday,No,2015-06-11T08:32:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,REQP,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,,,,2015
+3295,152048271.0,Thursday,No,2015-06-11T00:12:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,REQP,0,A1,Last,No,CORNHILL ST,Part three,Unarmed,,,,2015
+3331,152048615.0,Thursday,No,2015-06-11T20:15:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,IVPER,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,,,,2015
+23244,152048512.0,Thursday,No,2015-06-11T19:01:00.000,MedAssist,"[-71.051815, 42.362931]",Point,MedAssist,6,REQP,0,A1,First,No,COMMERCIAL ST,Part three,Unarmed,777293.1537,,2957599.646,2015
+53956,152048294.0,Thursday,No,2015-06-11T02:19:00.000,MedAssist,"[-71.08718, 42.307476]",Point,MedAssist,6,INJOFF,0,B2,Last,No,NAZING CT,Part three,Unarmed,767833.3058,,2937342.604,2015
+64269,152048268.0,Thursday,No,2015-06-11T01:37:00.000,MedAssist,"[-71.1153, 42.309871]",Point,MedAssist,6,UNK,0,E13,Last,No,CENTRE STREET TR,Part three,Unarmed,760223.053,,2938179.8210000005,2015
+117305,152048413.0,Thursday,No,2015-06-11T09:12:00.000,MedAssist,"[-71.04222, 42.345006]",Point,MedAssist,6,MVA,0,C6,Day,No,FARGO ST,Part three,Unarmed,779921.3305,,2951081.216,2015
+129077,152048541.0,Thursday,No,2015-06-11T21:15:00.000,MedAssist,"[-71.069815, 42.282456]",Point,MedAssist,6,IVPER,0,C11,First,No,FULLER ST,Part three,Unarmed,772576.4249,WASHINGTON ST,2928248.165,2015
+136357,152048326.0,Thursday,No,2015-06-11T09:40:00.000,MedAssist,"[-71.011672, 42.390029]",Point,MedAssist,6,IVPER,0,A7,Day,No,BOARDMAN ST,Part three,Unarmed,788085.4379,,2967534.048,2015
+169910,152048383.0,Thursday,No,2015-06-11T13:15:00.000,MedAssist,"[-71.130369, 42.350302]",Point,MedAssist,6,REQEP,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,756083.2302,,2952895.6410000003,2015
+174434,152048551.0,Thursday,No,2015-06-11T21:48:00.000,MedAssist,"[-71.069883, 42.320965]",Point,MedAssist,6,EDP,0,B2,First,No,CLIFTON ST,Part three,Unarmed,772487.079,,2942281.2539999997,2015
+187599,152048464.0,Thursday,No,2015-06-11T16:27:00.000,MedAssist,"[-71.077145, 42.350131]",Point,MedAssist,6,UNCONS,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,770470.6585,,2952900.122,2015
+197213,152048532.0,Thursday,No,2015-06-11T20:24:00.000,MedAssist,"[-71.04923, 42.331291]",Point,MedAssist,6,EDP,0,C6,First,No,MERCER ST,Part three,Unarmed,778052.7024,,2946073.1360000004,2015
+209444,152048488.0,Thursday,No,2015-06-11T18:31:00.000,MedAssist,"[-71.13863, 42.273351]",Point,MedAssist,6,UNCONS,0,E5,First,No,HIGHCREST RD,Part three,Other,753968.9756,,2924843.538,2015
+245187,152048549.0,Thursday,No,2015-06-11T10:00:00.000,MedAssist,"[-71.143891, 42.345952]",Point,MedAssist,6,INVEST,0,D14,Day,No,FIDELIS WY,Part three,Unarmed,752434.4823,,2951294.5710000005,2015

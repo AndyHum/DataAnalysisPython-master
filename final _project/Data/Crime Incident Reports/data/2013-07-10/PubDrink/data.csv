@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70137,130429034.0,Wednesday,No,2013-07-10T21:43:00.000,PubDrink,"[-71.07565, 42.312741]",Point,PubDrink,7,ARREST,326,B2,First,No,DUNKELD ST,Part Two,Unarmed,770942.5627,,2939276.558,2013
+135132,130424723.0,Wednesday,No,2013-07-10T09:39:00.000,PubDrink,"[-71.088875, 42.291651]",Point,PubDrink,7,IVPER ,440,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,767402.6131,,2931573.5160000003,2013
+150524,130425910.0,Wednesday,No,2013-07-10T18:24:00.000,PubDrink,"[-71.079739, 42.329344]",Point,PubDrink,7,SSTOP ,904,B2,First,No,WHEATLEY WY,Part Two,Unarmed,769806.7553,,2945321.255,2013
+150798,130425510.0,Wednesday,No,2013-07-10T15:22:00.000,PubDrink,"[-71.046717, 42.336149]",Point,PubDrink,7,SSTOP ,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,778722.6466,,2947847.002,2013

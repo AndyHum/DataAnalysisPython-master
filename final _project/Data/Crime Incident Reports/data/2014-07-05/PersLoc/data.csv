@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108433,142006475.0,Saturday,No,2014-07-05T23:20:00.000,PersLoc,"[-71.088028, 42.334461]",Point,PersLoc,7,IVPER,0,B2,First,No,RUGGLES ST,Other,Unarmed,767556.2352,TREMONT ST,2947175.229,2014
+136099,142006408.0,Saturday,No,2014-07-05T20:00:00.000,PersLoc,"[-71.08864, 42.286466]",Point,PersLoc,7,MISSIN,0,B3,First,No,LUCERNE ST,Other,Unarmed,767475.3082,,2929684.333,2014
+183124,142006366.0,Saturday,No,2014-07-05T19:55:00.000,PersLoc,"[-71.091161, 42.342922]",Point,PersLoc,7,MISSIN,0,D4,First,No,FENWAY,Other,Unarmed,766694.2972,,2950254.445,2014
+194058,142006309.0,Saturday,No,2014-07-05T14:50:00.000,PersLoc,"[-71.06047, 42.355401]",Point,PersLoc,7,MISSIN,0,A1,Day,No,WASHINGTON ST,Other,Unarmed,774968.2164,WINTER ST,2954843.395,2014
+198979,142006533.0,Saturday,No,2014-07-05T17:00:00.000,PersLoc,"[-71.093548, 42.283568]",Point,PersLoc,7,MISSIN,0,B3,First,No,GOODALE RD,Other,Unarmed,766152.2222,,2928621.874,2014
+206712,142006420.0,Saturday,No,2014-07-05T17:30:00.000,PersLoc,"[-71.100758, 42.335565]",Point,PersLoc,7,ALARM,0,B2,First,No,HUNTINGTON AV,Other,Unarmed,764112.391,,2947560.9480000003,2014
+240080,142007674.0,Saturday,No,2014-07-05T01:32:00.000,PersLoc,"[-71.076625, 42.279361]",Point,PersLoc,7,MISSIN,0,B3,Last,No,WILMINGTON AV,Other,Unarmed,770739.2291,,2927111.083,2014

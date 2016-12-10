@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18296,120668698.0,Tuesday,No,2012-10-23T19:00:00.000,Service,"[-71.072706, 42.318621]",Point,Service,10,CD11  ,0,B2,First,No,WOODWARD PARK ST,Part Three,Unarmed,771727.9447,,2941423.043,2012
+38353,120668717.0,Tuesday,No,2012-10-23T19:10:00.000,Service,"[-71.05712, 42.353261]",Point,Service,10,REMOVE,113,A1,First,No,SUMMER ST,Part Three,Unarmed,775877.7362,,2954068.223,2012
+61569,120668710.0,Tuesday,No,2012-10-23T19:05:00.000,Service,"[-71.080055, 42.337976]",Point,Service,10,SSTOP ,273,D4,First,No,NORTHAMPTON ST,Part Three,Unarmed,769705.8585,,2948466.728,2012
+117904,120667882.0,Tuesday,No,2012-10-23T10:54:00.000,Service,"[-71.083045, 42.327576]",Point,Service,10,ARREST,281,B2,Day,No,WARREN ST,Part Three,Unarmed,768915.9952,,2944672.817,2012
+151919,120668168.0,Tuesday,No,2012-10-23T14:45:00.000,Service,"[-71.06799, 42.318281]",Point,Service,10,ARREST,0,B2,Day,No,DUDLEY ST,Part Three,Other,773004.1522,NONQUIT ST,2941305.8230000003,2012
+198047,120667402.0,Tuesday,No,2012-10-23T09:14:00.000,Service,"[-71.13778, 42.356076]",Point,Service,10,ARREST,803,D14,Day,No,BLAINE ST,Part Three,Unarmed,754071.0453,,2954991.172,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65814,120738408.0,Saturday,No,2012-11-24T15:36:00.000,PropFound,"[-71.08025, 42.313341]",Point,PropFound,11,FDPROP,322,B2,Day,No,GASTON ST,Part Three,Unarmed,769697.3158,,2939489.0519999997,2012
+95505,120738209.0,Saturday,No,2012-11-24T13:30:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,11,LSTPRP,465,B3,Day,No,BLUE HILL AV,Part Three,Other,766751.5911,,2929095.955,2012
+180433,120738763.0,Saturday,No,2012-11-24T18:15:00.000,PropFound,"[-71.0626, 42.352361]",Point,PropFound,11,FDPROP,117,A1,First,No,WASHINGTON ST,Part Three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2012
+203046,120738013.0,Saturday,No,2012-11-24T11:32:00.000,PropFound,"[-71.06942, 42.356141]",Point,PropFound,11,FDPROP,120,A1,Day,No,CHARLES ST S,Part Three,Unarmed,772547.7636,BEACON ST,2955100.727,2012

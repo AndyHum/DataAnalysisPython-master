@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11445,140104032.0,Wednesday,No,2014-02-05T00:01:00.000,PropLost,"[-71.08966, 42.340951]",Point,PropLost,2,INVEST,618,D4,Last,No,SPEARE PL,Part three,Unarmed,767103.7928,,2949538.233,2014
+11950,140074465.0,Wednesday,No,2014-02-05T14:45:00.000,PropLost,"[-71.047669, 42.310436]",Point,PropLost,2,LSTPRP,252,C11,Day,No,GRAMPIAN WY,Part three,Unarmed,778515.0252,,2938475.163,2014
+256060,140076360.0,Wednesday,No,2014-02-05T13:00:00.000,PropLost,"[-71.150915, 42.348981]",Point,PropLost,2,LSTPRP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63309,142053159.0,Thursday,No,2014-11-27T10:00:00.000,PropLost,"[-71.126256, 42.241229]",Point,PropLost,11,PROP,0,E18,Day,No,TRUMAN PY,Part three,Unarmed,757369.1604,,2913152.458,2014
+88151,142052818.0,Thursday,No,2014-11-27T11:00:00.000,PropLost,"[-71.058108, 42.309016]",Point,PropLost,11,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775694.0122,,2937943.142,2014
+183144,142054259.0,Thursday,No,2014-11-27T08:00:00.000,PropLost,"[-71.124149, 42.352208]",Point,PropLost,11,PROP,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,757761.4962,,2953597.4260000004,2014

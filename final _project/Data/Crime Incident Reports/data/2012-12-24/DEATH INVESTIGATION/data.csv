@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21852,120803508.0,Monday,No,2012-12-24T04:06:00.000,DEATH INVESTIGATION,"[-71.083615, 42.323217]",Point,01INV,12,CARST ,297,B2,Last,No,ST RICHARD ST,Part Three,Unarmed,768769.5313,,2943083.394,2012
+40137,120804133.0,Monday,No,2012-12-24T13:28:00.000,DEATH INVESTIGATION,"[-71.146535, 42.349796]",Point,01INV,12,MVA   ,784,D14,Day,No,NEVINS ST,Part Three,Other,751714.1596,,2952692.683,2012
+125526,120803821.0,Monday,No,2012-12-24T10:00:00.000,DEATH INVESTIGATION,"[-71.17115, 42.285691]",Point,01INV,12,SDNDTH,744,E5,Day,No,CAPITAL ST,Part three,Unarmed,745150.4240000001,,2929305.037,2012

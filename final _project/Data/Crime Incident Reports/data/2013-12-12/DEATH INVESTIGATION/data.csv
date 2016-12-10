@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+154432,130782259.0,Thursday,No,2013-12-12T08:55:00.000,DEATH INVESTIGATION,"[-71.037705, 42.382621]",Point,01INV,12,FDBODY,26,A7,Day,No,CONDOR ST,Part three,Unarmed,781067.5907,,2964795.432,2013
+162317,130783233.0,Thursday,No,2013-12-12T17:01:00.000,DEATH INVESTIGATION,"[-71.069145, 42.376221]",Point,01INV,12,MVAINJ,60,A15,First,No,RUTHERFORD AV,Part three,Other,772585.1309,,2962418.66,2013
+200475,130783120.0,Thursday,No,2013-12-12T16:18:00.000,DEATH INVESTIGATION,"[-71.090755, 42.269537]",Point,01INV,12,SDNDTH,426,B3,First,No,RIVER ST,Part three,Other,766932.4073,,2923512.3660000004,2013

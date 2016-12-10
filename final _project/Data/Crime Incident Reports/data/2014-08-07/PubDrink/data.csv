@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+118511,142017128.0,Thursday,No,2014-08-07T17:30:00.000,PubDrink,"[-71.062825, 42.361341]",Point,PubDrink,8,IVPREM,0,A1,First,No,BOWDOIN SQ,Part Two,Unarmed,774320.5907,,2957004.776,2014
+194084,142016971.0,Thursday,No,2014-08-07T09:30:00.000,PubDrink,"[-71.05987, 42.351191]",Point,PubDrink,8,ARREST,0,A1,Day,No,HUDSON ST,Part Two,Unarmed,775138.3074,BEACH ST,2953310.028,2014
+205685,142016968.0,Thursday,No,2014-08-07T09:35:00.000,PubDrink,"[-71.06105, 42.297191]",Point,PubDrink,8,ARREST,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,774920.6138,GIBSON ST,2933629.8860000004,2014

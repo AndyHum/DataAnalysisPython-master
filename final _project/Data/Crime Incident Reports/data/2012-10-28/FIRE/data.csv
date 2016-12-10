@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59745,120680887.0,Sunday,No,2012-10-28T20:56:00.000,FIRE,"[-71.07196, 42.311961]",Point,FIRE,10,FV    ,331,B2,First,No,CEYLON ST,Part Three,Unarmed,771942.0317,QUINCY ST,2938997.3010000004,2012
+81139,120679548.0,Sunday,No,2012-10-28T03:43:00.000,FIRE,"[-71.081795, 42.341536]",Point,FIRE,10,FIREB ,147,D4,Last,No,WELLINGTON ST,Part Three,Unarmed,769228.8289,COLUMBUS AV,2949761.586,2012
+102778,120679645.0,Sunday,No,2012-10-28T06:19:00.000,FIRE,"[-71.135695, 42.353041]",Point,FIRE,10,FV    ,795,D14,Last,No,HIGGINS ST,Part Three,Unarmed,754639.3194,,2953887.5560000003,2012
+257871,120679648.0,Sunday,No,2012-10-28T06:06:00.000,FIRE,"[-71.038408, 42.369069]",Point,FIRE,10,FIREB ,29,A7,Last,No,BREMEN ST,Part Three,Other,780904.1422,,2959855.522,2012

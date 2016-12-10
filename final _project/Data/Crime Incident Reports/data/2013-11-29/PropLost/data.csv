@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13274,130756105.0,Friday,No,2013-11-29T16:30:00.000,PropLost,"[-71.074415, 42.346491]",Point,PropLost,11,LSTPRP,149,D4,First,No,COLUMBUS AV,Part three,Unarmed,771215.2292,,2951577.308,2013
+59887,130760662.0,Friday,No,2013-11-29T12:00:00.000,PropLost,"[-71.15334, 42.264836]",Point,PropLost,11,LSTPRP,712,E5,Day,No,WASHINGTON ST,Part three,Unarmed,750000.4983,,2921724.25,2013
+197245,130759857.0,Friday,No,2013-11-29T09:00:00.000,PropLost,"[-71.081633, 42.318648]",Point,PropLost,11,LSTPRP,311,B2,Day,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2013
+253032,130753754.0,Friday,No,2013-11-29T04:28:00.000,PropLost,"[-71.055337, 42.326537]",Point,PropLost,11,LARCRT,914,C6,Last,No,OCALLAGHAN WY,Part three,Unarmed,776410.2447,,2944331.9760000003,2013
+264880,130754949.0,Friday,No,2013-11-29T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,72,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,,,,2013
+266044,130754658.0,Friday,No,2013-11-29T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,72,A1,Day,No,CONGRESS ST,Part three,Unarmed,,,,2013

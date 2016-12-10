@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69414,130396137.0,Wednesday,No,2013-06-26T14:00:00.000,Service,"[-71.0726, 42.341736]",Point,Service,6,LARCRT,158,D4,Day,No,W DEDHAM ST,Part three,Unarmed,771714.5582,,2949846.952,2013
+94811,130389761.0,Wednesday,No,2013-06-26T03:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,6,ARREST,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+108859,130391800.0,Wednesday,No,2013-06-26T20:30:00.000,Service,"[-71.06962, 42.311081]",Point,Service,6,ARREST,335,C11,First,No,QUINCY ST,Part three,Unarmed,772576.5604,MT EVERETT ST,2938679.8,2013
+194069,130391259.0,Wednesday,No,2013-06-26T16:40:00.000,Service,"[-71.07079, 42.300966]",Point,Service,6,ARREST,344,C11,First,No,CORONA ST,Part three,Unarmed,772278.647,,2934992.145,2013

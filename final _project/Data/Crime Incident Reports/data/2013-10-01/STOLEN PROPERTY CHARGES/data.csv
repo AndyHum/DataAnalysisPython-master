@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15618,130626843.0,Tuesday,No,2013-10-01T21:44:00.000,STOLEN PROPERTY CHARGES,"[-71.0729, 42.333256]",Point,13xx,10,IVPER ,0,D4,First,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2013
+27187,130626514.0,Tuesday,No,2013-10-01T18:57:00.000,STOLEN PROPERTY CHARGES,"[-71.061745, 42.356021]",Point,13xx,10,FDPROP,111,A1,First,No,WINTER ST,Part Two,Unarmed,774622.4376,,2955067.563,2013
+178042,130624825.0,Tuesday,No,2013-10-01T01:52:00.000,STOLEN PROPERTY CHARGES,"[-71.061285, 42.301826]",Point,13xx,10,ARREST,345,C11,Last,No,ARCADIA ST,Part Two,Unarmed,774848.3502,,2935318.622,2013
+220834,130629968.0,Tuesday,No,2013-10-01T15:00:00.000,STOLEN PROPERTY CHARGES,"[-71.08041, 42.298256]",Point,13xx,10,IVMV  ,445,B3,Day,No,ROXTON ST,Part Two,Unarmed,769681.0823,,2933991.6289999997,2013

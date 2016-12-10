@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19483,130175680.0,Monday,No,2013-03-25T19:01:00.000,Service,"[-71.083365, 42.331551]",Point,Service,3,INVEST,276,B2,First,No,RUGGLES ST,Part Three,Unarmed,768822.3904,,2946120.954,2013
+22058,130174704.0,Monday,No,2013-03-25T11:45:00.000,Service,"[-71.06939, 42.339506]",Point,Service,3,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+48132,130174566.0,Monday,No,2013-03-25T11:30:00.000,Service,"[-71.06906, 42.331901]",Point,Service,3,FIGHT ,175,C6,Day,No,SOUTHAMPTON ST,Part Three,Unarmed,772689.6961,ATKINSON ST,2946267.7169999997,2013
+60239,130175639.0,Monday,No,2013-03-25T18:39:00.000,Service,"[-71.0615, 42.320481]",Point,Service,3,ARREST,186,C6,First,No,COLUMBIA RD,Part Three,Unarmed,774755.2395,BOSTON ST,2942116.4960000003,2013
+74470,130389130.0,Monday,No,2013-03-25T20:15:00.000,Service,"[-71.086905, 42.329971]",Point,Service,3,ARREST,0,B2,First,No,MALCOLM X BL,Part three,Unarmed,767867.9908,,2945540.519,2013
+191253,130175678.0,Monday,No,2013-03-25T15:40:00.000,Service,"[-71.054711, 42.341305]",Point,Service,3,ARREST,200,C6,Day,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2013

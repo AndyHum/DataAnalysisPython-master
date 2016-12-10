@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40112,130354537.0,Tuesday,No,2013-06-11T10:15:00.000,Argue,"[-71.05582, 42.377506]",Point,Argue,6,REMOVE,900,A15,Day,No,STARR KING CT,Part three,Other,776183.1139,,2962905.4080000003,2013
+135243,130354692.0,Tuesday,No,2013-06-11T11:37:00.000,Argue,"[-71.0658, 42.272081]",Point,Argue,6,NIDV  ,387,C11,Day,No,MEDWAY ST,Part three,Unarmed,773682.1389,,2924472.88,2013
+163606,130355887.0,Tuesday,No,2013-06-11T20:57:00.000,Argue,"[-71.075315, 42.334781]",Point,Argue,6,VIORDR,270,D4,First,No,HARRISON AV,Part three,Unarmed,770993.181,,2947308.758,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+167095,142035002.0,Wednesday,No,2014-10-01T19:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,10,MISSIN,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,COMMONWEALTH AV,2952548.8430000003,2014
+258564,142034988.0,Wednesday,No,2014-10-01T18:00:00.000,PersLoc,"[-71.072997, 42.30119]",Point,PersLoc,10,MISSIN,0,C11,First,No,ROSSETER ST,Other,Unarmed,771681.0593,,2935070.74,2014
+259874,142035639.0,Wednesday,No,2014-10-01T07:00:00.000,PersLoc,"[-71.149522, 42.343085]",Point,PersLoc,10,MISSIN,0,D14,Last,No,NOTTINGHILL RD,Other,Unarmed,750916.71,,2950243.7369999997,2014

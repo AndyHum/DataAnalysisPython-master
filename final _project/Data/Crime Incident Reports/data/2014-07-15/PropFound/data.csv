@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+138615,142009510.0,Tuesday,No,2014-07-15T13:00:00.000,PropFound,"[-71.085845, 42.350926]",Point,PropFound,7,IVPREM,0,D4,Day,No,MARLBOROUGH ST,Part three,Unarmed,768117.5339,,2953178.298,2014
+204064,142009554.0,Tuesday,No,2014-07-15T22:30:00.000,PropFound,"[-71.075585, 42.340456]",Point,PropFound,7,PROP,0,D4,First,No,W NEWTON ST,Part three,Unarmed,770909.8909,,2949376.4669999997,2014
+253770,142009535.0,Tuesday,No,2014-07-15T20:15:00.000,PropFound,"[-71.06494, 42.343021]",Point,PropFound,7,IVPREM,0,D4,First,No,HARRISON AV,Part three,Unarmed,773783.0344,,2950325.6980000003,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32486,130770699.0,Friday,No,2013-12-06T20:38:00.000,PropFound,"[-71.07251, 42.352266]",Point,PropFound,12,FDPROP,134,D4,First,No,NEWBURY ST,Part three,Unarmed,771719.655,,2953684.403,2013
+46385,130770407.0,Friday,No,2013-12-06T18:00:00.000,PropFound,"[-71.063675, 42.352301]",Point,PropFound,12,FDPROP,777,A1,First,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+247650,130770905.0,Friday,No,2013-12-06T18:00:00.000,PropFound,"[-71.088028, 42.334461]",Point,PropFound,12,FDPROP,286,B2,First,No,SHAWMUT AV,Part three,Unarmed,767556.2352,,2947175.229,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17275,130170059.0,Saturday,No,2013-03-23T02:05:00.000,LICViol,"[-71.102645, 42.334936]",Point,LICViol,3,CD35  ,602,B2,Last,No,HUNTINGTON AV,Part Three,Unarmed,763603.4862,,2947329.635,2013
+35813,130169837.0,Saturday,No,2013-03-23T00:30:00.000,LICViol,"[-71.072741, 42.348575]",Point,LICViol,3,CD35  ,128,D4,Last,No,STANHOPE ST,Part Three,Unarmed,771663.9468,,2952338.836,2013
+103223,130170095.0,Saturday,No,2013-03-23T02:30:00.000,LICViol,"[-71.087815, 42.340856]",Point,LICViol,3,CD35  ,283,D4,Last,No,HUNTINGTON AV,Part Three,Unarmed,767602.7587,,2949506.019,2013

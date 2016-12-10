@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7650,130206634.0,Monday,No,2013-04-08T13:56:00.000,LICViol,"[-71.066645, 42.350021]",Point,LICViol,4,CD35  ,126,A1,Day,No,CHARLES ST S,Part Three,Unarmed,773309.1403,,2952874.2819999997,2013
+118874,130206681.0,Monday,No,2013-04-08T14:15:00.000,LICViol,"[-71.066645, 42.350021]",Point,LICViol,4,CD35  ,120,A1,Day,No,CHARLES ST S,Part Three,Unarmed,773309.1403,CHARLES ST S,2952874.2819999997,2013
+158422,130207092.0,Monday,No,2013-04-08T17:12:00.000,LICViol,"[-71.078107, 42.288709]",Point,LICViol,4,ENVADM,437,B3,First,No,NEW ENGLAND AV,Part Three,Unarmed,770321.1,,2930515.45,2013

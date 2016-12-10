@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16142,130518074.0,Saturday,No,2013-08-17T14:00:00.000,PropFound,"[-71.079605, 42.347101]",Point,PropFound,8,LARCRT,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769811.1326,,2951792.646,2013
+67504,130517389.0,Saturday,No,2013-08-17T07:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,8,FDPROP,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+210523,130517161.0,Saturday,No,2013-08-17T03:00:00.000,PropFound,"[-71.046717, 42.336149]",Point,PropFound,8,FDPROP,213,C6,Last,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2013
+212141,130520026.0,Saturday,No,2013-08-17T10:30:00.000,PropFound,"[-71.163555, 42.277366]",Point,PropFound,8,STOLMV,726,E5,Day,No,SPRING ST,Part three,Unarmed,747217.5137,,2926279.2939999998,2013

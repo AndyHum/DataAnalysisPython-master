@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45437,,Sunday,No,2015-07-26T00:00:00.000,Auto Theft,"[-71.039301, 42.38229]",Point,07xx,7,IVMV,25,A7,,No,MERIDIAN ST,Part One,None,780637.0,,2960000.0,2015
+84786,,Sunday,No,2015-07-26T00:00:00.000,Auto Theft,"[-71.094529, 42.277915]",Point,07xx,7,IVMV,469,B3,,No,WALK HILL ST,Part One,None,765896.0,,2930000.0,2015
+103813,,Sunday,No,2015-07-26T21:30:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,338,C11,,No,CHURCH ST,Part One,None,,WINTER ST,,2015
+230337,,Sunday,No,2015-07-26T00:00:00.000,Auto Theft,"[-71.030161, 42.332385]",Point,07xx,7,IVMV,231,C6,,No,E SEVENTH ST,Part One,None,783207.0,,2950000.0,2015
+244689,,Sunday,No,2015-07-26T15:00:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,646,E13,,No,ELM ST,Part One,None,,GREENOUGH AVE,,2015

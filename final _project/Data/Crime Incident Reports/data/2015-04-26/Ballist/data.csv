@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52705,152033985.0,Sunday,No,2015-04-26T10:00:00.000,Ballist,"[-71.098625, 42.346181]",Point,Ballist,4,IVPREM,0,D4,Day,No,YAWKEY WY,Part Two,Unarmed,764671.1215,,2951432.6119999997,2015
+55550,152033863.0,Sunday,No,2015-04-26T01:54:00.000,Ballist,"[-71.099043, 42.346706]",Point,Ballist,4,SHOTS,0,D4,Last,No,BROOKLINE AV,Part Two,Firearm,764557.0305,YAWKEY WY,2951623.113,2015

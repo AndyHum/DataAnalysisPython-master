@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92031,140347992.0,Monday,No,2014-06-02T17:00:00.000,InvProp,"[-71.03688, 42.348011]",Point,InvProp,6,IVPREM,207,C6,First,No,NORTHERN AV,Part three,Unarmed,781358.9651,,2952184.084,2014
+93433,140347007.0,Monday,No,2014-06-02T22:09:00.000,InvProp,"[-71.05253, 42.326571]",Point,InvProp,6,SHOTS ,914,C6,First,No,OLD COLONY AV,Part three,Other,777169.4318,,2944348.39,2014
+114151,140345443.0,Monday,No,2014-06-02T11:00:00.000,InvProp,"[-71.090956, 42.333723]",Point,InvProp,6,THREAT,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+127381,140346955.0,Monday,No,2014-06-02T12:00:00.000,InvProp,"[-71.05259, 42.354126]",Point,InvProp,6,CD19  ,115,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777100.5353,,2954389.836,2014
+192300,142014746.0,Monday,No,2014-06-02T12:17:00.000,InvProp,"[-71.127588, 42.266024]",Point,InvProp,6,PROP,0,E18,Day,No,LODGEHILL RD,Part three,Unarmed,756968.9486,,2922186.358,2014
+195952,140344727.0,Monday,No,2014-06-02T02:36:00.000,InvProp,"[-71.088026, 42.290197]",Point,InvProp,6,SHOTS ,439,B3,Last,No,STRATTON ST,Part three,Unarmed,767634.6963,,2931044.4889999996,2014
+242997,140344953.0,Monday,No,2014-06-02T07:55:00.000,InvProp,"[-71.129399, 42.350373]",Point,InvProp,6,FDPROP,796,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,756345.1195,,2952922.521,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54060,130652424.0,Saturday,No,2013-10-12T18:00:00.000,PropFound,"[-71.06521, 42.294191]",Point,PropFound,10,FDPROP,361,C11,First,No,NIXON ST,Part three,Unarmed,773800.7479,MATHER ST,2932530.8789999997,2013
+115515,130652680.0,Saturday,No,2013-10-12T21:00:00.000,PropFound,"[-71.12937, 42.236511]",Point,PropFound,10,IVPREM,526,E18,First,No,NEPONSET VALLEY PY,Part three,Unarmed,756533.4924,,2911429.543,2013
+142783,130652337.0,Saturday,No,2013-10-12T19:07:00.000,PropFound,"[-71.061745, 42.356021]",Point,PropFound,10,IVPER ,111,A1,First,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2013
+266399,130653441.0,Saturday,No,2013-10-12T15:45:00.000,PropFound,"[0, 0]",Point,PropFound,10,FDPROP,57,A15,Day,No,MONUMENT SQ,Part three,Unarmed,,,,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39814,120802992.0,Sunday,No,2012-12-23T20:00:00.000,Service,"[-71.07632, 42.350356]",Point,Service,12,ARREST,134,D4,First,No,BOYLSTON ST,Part Three,Unarmed,770693.2587,,2952983.224,2012
+116674,120802869.0,Sunday,No,2012-12-23T19:07:00.000,Service,"[-71.04246, 42.346456]",Point,Service,12,MEET  ,206,C6,First,No,SUMMER ST,Part Three,Unarmed,779853.6144,,2951609.273,2012
+168664,120802887.0,Sunday,No,2012-12-23T18:40:00.000,Service,"[-71.06561, 42.344456]",Point,Service,12,ARREST,163,D4,First,No,WASHINGTON ST,Part Three,Unarmed,773599.2408,,2950847.715,2012
+258349,120804357.0,Sunday,No,2012-12-23T23:20:00.000,Service,"[-71.056015, 42.366386]",Point,Service,12,NIDV  ,797,A1,First,No,SHEAFE ST,Part Three,Unarmed,776151.5198,,2958852.78,2012

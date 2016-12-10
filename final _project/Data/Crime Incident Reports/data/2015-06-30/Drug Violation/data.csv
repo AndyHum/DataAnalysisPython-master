@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59292,,Tuesday,No,2015-06-30T00:00:00.000,Drug Violation,"[-71.070249, 42.325877]",Point,18xx,6,UNCONS,181,B2,,No,NORFOLK AVE,Part Two,None,772379.0,,2940000.0,2015
+68179,,Tuesday,No,2015-06-30T00:00:00.000,Drug Violation,"[-71.087454, 42.333382]",Point,18xx,6,ARREST,909,B2,,No,CABOT ST,Part Two,None,767713.0,,2950000.0,2015
+78832,,Tuesday,No,2015-06-30T16:16:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,444,B3,,No,AMERICAN LEGION HWY,Part Two,None,,BLUE HILL AVE,,2015
+95149,,Tuesday,No,2015-06-30T00:00:00.000,Drug Violation,"[-71.027787, 42.378429]",Point,18xx,6,UNCONS,18,A7,,No,BREMEN ST,Part Two,None,783756.0,,2960000.0,2015
+116955,,Tuesday,No,2015-06-30T20:20:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,112,A1,,No,HAWLEY ST,Part Two,None,, SUMMER ST ,,2015
+155317,,Tuesday,No,2015-06-30T00:00:00.000,Drug Violation,"[-71.058708, 42.30636]",Point,18xx,6,TS,347,C11,,No,DORCHESTER AVE,Part Two,None,775537.0,,2940000.0,2015
+174356,,Tuesday,No,2015-06-30T00:00:00.000,Drug Violation,"[-71.148221, 42.287094]",Point,18xx,6,SS,691,E5,,No,CENTRE ST,Part Two,None,751352.0,,2930000.0,2015
+189423,,Tuesday,No,2015-06-30T17:00:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPREM,77,A1,,No,NEW SUDBURY ST,Part Two,None,,,,2015
+197711,,Tuesday,No,2015-06-30T16:48:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,171,D4,,No, ALBANY ST ,Part Two,None,, MASSACHUSETTS AVE ,,2015
+205719,,Tuesday,No,2015-06-30T14:28:00.000,Drug Violation,"[0, 0]",Point,18xx,6,REQEP,179,B2,,No,ISLAND ST,Part Two,None,,READING ST,,2015
+220520,,Tuesday,No,2015-06-30T17:30:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,573,E13,,No,GREEN ST,Part Two,None,,,,2015
+225652,,Tuesday,No,2015-06-30T00:00:00.000,Drug Violation,"[-71.088809, 42.333802]",Point,18xx,6,POISON,909,B2,,No,WHITTIER ST,Part Two,None,767346.0,,2950000.0,2015
+225943,,Tuesday,No,2015-06-30T00:00:00.000,Drug Violation,"[-71.083956, 42.34342]",Point,18xx,6,UNCONS,145,D4,,No,HUNTINGTON AVE,Part Two,None,768641.0,,2950000.0,2015
+245392,,Tuesday,No,2015-06-30T00:00:00.000,Drug Violation,"[-71.064002, 42.352324]",Point,18xx,6,ARREST,117,A1,,No,BOYLSTON ST,Part Two,None,774019.0,,2950000.0,2015

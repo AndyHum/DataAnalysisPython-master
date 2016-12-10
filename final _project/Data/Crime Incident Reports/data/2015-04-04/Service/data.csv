@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121407,152027324.0,Saturday,No,2015-04-04T03:50:00.000,Service,"[-71.060315, 42.351296]",Point,Service,4,ARREST,0,A1,Last,No,BEACH ST,Part three,Unarmed,775017.8236,OXFORD PL,2953347.672,2015
+147794,152027378.0,Saturday,No,2015-04-04T11:00:00.000,Service,"[-71.08323, 42.327536]",Point,Service,4,ARREST,0,B2,Day,No,WARREN ST,Part three,Unarmed,768866.0406,,2944657.9960000003,2015
+169120,152027484.0,Saturday,No,2015-04-04T17:20:00.000,Service,"[-71.059987, 42.361648]",Point,Service,4,AOD,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015

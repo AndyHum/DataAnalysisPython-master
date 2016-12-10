@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8099,,Thursday,No,2015-07-02T10:05:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,463,B3,,No,AMERICAN LEGION HWY,Part Two,None,,FRANKLIN HILL AVE,,2015
+26771,,Thursday,No,2015-07-02T00:00:00.000,Violations,"[-71.085634, 42.328663]",Point,VAL,7,ARREST,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+42874,,Thursday,No,2015-07-02T00:00:00.000,Firearm Violations,"[-71.075066, 42.320303]",Point,15xx,7,ARREST,261,B2,,No,JUDSON ST,Part Two,Firearm,771087.0,,2940000.0,2015
+161122,,Thursday,No,2015-07-02T00:00:00.000,Violations,"[-71.034733, 42.371234]",Point,VAL,7,IVMV,30,A7,,No,ORLEANS ST,Part Two,None,781893.0,,2960000.0,2015
+167658,,Thursday,No,2015-07-02T17:30:00.000,Violations,"[0, 0]",Point,VAL,7,TS,358,C11,,No,GREENBRIER ST,Part Two,None,,LARCHMONT ST,,2015
+207996,,Thursday,No,2015-07-02T00:00:00.000,Assembly or Gathering Violations,"[-71.054823, 42.36068]",Point,Gather,7,I00039,94,A1,,No,CLINTON ST,Part Three,None,776484.0,,2960000.0,2015
+217147,,Thursday,No,2015-07-02T17:53:00.000,Violations,"[0, 0]",Point,VAL,7,TS,441,B3,,No,BERNARD ST,Part Two,None,,NIGHTINGALE ST,,2015
+235861,,Thursday,No,2015-07-02T00:00:00.000,Violations,"[-71.068646, 42.306265]",Point,VAL,7,IVMV,336,C11,,No,NORTON ST,Part Two,None,772849.0,,2940000.0,2015
+240757,,Thursday,No,2015-07-02T00:00:00.000,Assembly or Gathering Violations,"[-71.079796, 42.350119]",Point,Gather,7,I00039,138,D4,,No,EXETER ST,Part Three,None,769754.0,,2950000.0,2015

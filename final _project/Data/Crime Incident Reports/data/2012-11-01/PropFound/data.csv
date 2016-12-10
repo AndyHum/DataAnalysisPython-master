@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20712,120689655.0,Thursday,No,2012-11-01T17:34:00.000,PropFound,"[-71.056755, 42.319461]",Point,PropFound,11,IVPREM,236,C11,First,No,DORCHESTER AV,Part Three,Unarmed,776040.4029,,2941751.4239999996,2012
+58987,120689595.0,Thursday,No,2012-11-01T16:15:00.000,PropFound,"[-71.060845, 42.355056]",Point,PropFound,11,INVEST,111,A1,First,No,WASHINGTON ST,Part Three,Unarmed,774867.5053,,2954717.1489999997,2012
+170130,120688404.0,Thursday,No,2012-11-01T08:00:00.000,PropFound,"[-71.08489, 42.348946]",Point,PropFound,11,INVEST,141,D4,Day,No,NEWBURY ST,Part Three,Unarmed,768379.1902,,2952458.002,2012

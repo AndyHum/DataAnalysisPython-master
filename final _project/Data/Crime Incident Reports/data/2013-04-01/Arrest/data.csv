@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107624,130190608.0,Monday,No,2013-04-01T12:10:00.000,Arrest,"[-71.06458, 42.352351]",Point,Arrest,4,ARREST,118,A1,Day,No,TREMONT ST,Part Three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2013
+130109,130190240.0,Monday,No,2013-04-01T09:15:00.000,Arrest,"[-71.052395, 42.292636]",Point,Arrest,4,SSTOP ,0,C11,Day,No,N MUNROE TR,Part Three,Unarmed,777270.8292,,2931982.152,2013
+140322,130190070.0,Monday,No,2013-04-01T07:55:00.000,Arrest,"[-71.0958, 42.285506]",Point,Arrest,4,ARREST,466,B3,Day,No,DEERING RD,Part Three,Unarmed,765539.5814,,2929325.233,2013

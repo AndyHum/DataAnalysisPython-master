@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114263,130524234.0,Tuesday,No,2013-08-20T02:48:00.000,STOLEN PROPERTY CHARGES,"[-71.079626, 42.316792]",Point,13xx,8,MVANO ,311,B2,Last,No,MAYWOOD ST,Part Two,Firearm,769859.6508,,2940747.383,2013
+139399,130525500.0,Tuesday,No,2013-08-20T18:06:00.000,STOLEN PROPERTY CHARGES,"[-71.061745, 42.356021]",Point,13xx,8,LARCRT,111,A1,First,No,WINTER ST,Part Two,Unarmed,774622.4376,,2955067.563,2013
+162343,130524833.0,Tuesday,No,2013-08-20T12:25:00.000,STOLEN PROPERTY CHARGES,"[-71.061745, 42.356021]",Point,13xx,8,IVPER ,102,A1,Day,No,WINTER ST,Part Two,Unarmed,774622.4376,,2955067.563,2013
+213438,130527641.0,Tuesday,No,2013-08-20T14:00:00.000,STOLEN PROPERTY CHARGES,"[-71.06509, 42.317001]",Point,13xx,8,SSTOP ,239,B2,Day,No,DUDLEY ST,Part Two,Other,773790.8306,COLUMBIA ST,2940843.356,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28504,120721910.0,Friday,No,2012-11-16T12:10:00.000,Service,"[-71.134106, 42.349002]",Point,Service,11,PKNIFE,794,D14,Day,No,COMMONWEALTH AV,Part Three,Knife,755074.9875,,2952417.195,2012
+87625,120721462.0,Friday,No,2012-11-16T08:52:00.000,Service,"[-71.060255, 42.358246]",Point,Service,11,TRANSP,72,A1,Day,No,TREMONT ST,Part Three,Unarmed,775020.984,,2955880.4680000003,2012
+259131,120721554.0,Friday,No,2012-11-16T10:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,11,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012

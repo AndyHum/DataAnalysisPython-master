@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60734,142030519.0,Wednesday,No,2014-09-17T15:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,9,CD11,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+64313,142030223.0,Wednesday,No,2014-09-17T10:29:00.000,Service,"[-71.073665, 42.282068]",Point,Service,9,ARREST,0,B3,Day,No,MORA ST,Part three,Unarmed,771535.1918,,2928101.3230000003,2014
+110052,142030163.0,Wednesday,No,2014-09-17T01:00:00.000,Service,"[-71.065485, 42.351054]",Point,Service,9,ARREST,0,A1,Last,No,STUART ST,Part three,Unarmed,773620.7745,TREMONT ST,2953252.21,2014
+123519,142030287.0,Wednesday,No,2014-09-17T13:25:00.000,Service,"[-71.063675, 42.352301]",Point,Service,9,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+176302,142030184.0,Wednesday,No,2014-09-17T09:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,9,CD9,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+263021,142031846.0,Wednesday,No,2014-09-17T12:00:00.000,Service,"[0, 0]",Point,Service,9,IVPER,0,B3,Day,No,GENEVA AV,Part three,Unarmed,,,,2014

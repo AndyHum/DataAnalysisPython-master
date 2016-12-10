@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13469,120432669.0,Saturday,No,2012-07-14T00:35:00.000,InvProp,"[-71.09259, 42.328501]",Point,InvProp,7,REQP  ,291,B2,Last,No,HIGHLAND AV,Part Three,Other,766333.3331,,2944997.4310000003,2012
+76051,120433990.0,Saturday,No,2012-07-14T17:15:00.000,InvProp,"[-71.06946, 42.320411]",Point,InvProp,7,SHOTS ,183,B2,First,No,BATCHELDER ST,Part Three,Firearm,772602.6751,CLIFTON ST,2942080.02,2012
+99575,120438679.0,Saturday,No,2012-07-14T00:01:00.000,InvProp,"[-71.064348, 42.375438]",Point,InvProp,7,PDRPT ,60,A15,Last,No,MAIN ST,Part Three,Other,773882.7245,,2962139.622,2012
+115329,120435428.0,Saturday,No,2012-07-14T10:30:00.000,InvProp,"[-71.05501, 42.336961]",Point,InvProp,7,BERPT ,936,C6,Day,No,W 7TH ST,Part Three,Other,776479.0559,,2948131.1760000004,2012
+174274,120434599.0,Saturday,No,2012-07-14T22:03:00.000,InvProp,"[-71.069812, 42.273029]",Point,InvProp,7,IVPREM,405,C11,First,No,WASHINGTON ST,Part Three,Other,772594.4688,,2924812.603,2012
+198872,120432994.0,Saturday,No,2012-07-14T03:43:00.000,InvProp,"[-71.080596, 42.327236]",Point,InvProp,7,IVPREM,0,B2,Last,No,GREENVILLE ST,Part Three,Other,769578.6737,,2944551.923,2012
+210759,120434177.0,Saturday,No,2012-07-14T19:13:00.000,InvProp,"[-71.08676, 42.311131]",Point,InvProp,7,FIREB ,317,B2,First,No,RUTHVEN ST,Part Three,Unarmed,767940.4608,,2938675.0939999996,2012
+229469,120434400.0,Saturday,No,2012-07-14T20:40:00.000,InvProp,"[0, 0]",Point,InvProp,7,SHOTS ,470,B3,First,No,ALABAMA ST,Part Three,Unarmed,,CANAAN ST,,2012

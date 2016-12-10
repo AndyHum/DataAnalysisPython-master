@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83513,130800510.0,Friday,No,2013-12-20T16:52:00.000,Service,"[-71.144024, 42.346747]",Point,Service,12,REQP  ,938,D14,First,No,JETTE CT,Part three,Unarmed,752397.4732,,2951584.079,2013
+110512,130799025.0,Friday,No,2013-12-20T00:40:00.000,Service,"[-71.06356, 42.318611]",Point,Service,12,SSTOP ,0,B2,Last,No,COLUMBIA RD,Part three,Unarmed,774201.6227,HOLDEN ST,2941432.1789999995,2013
+123054,130800700.0,Friday,No,2013-12-20T18:07:00.000,Service,"[-71.066019, 42.284605]",Point,Service,12,SHOT  ,402,C11,First,Yes,BAILEY ST,Part three,Firearm,773599.5243,,2929036.4439999997,2013
+138940,130799802.0,Friday,No,2013-12-20T11:28:00.000,Service,"[-71.087155, 42.283776]",Point,Service,12,ARREST,429,B3,Day,No,WILDWOOD ST,Part three,Unarmed,767881.8707,,2928706.0,2013

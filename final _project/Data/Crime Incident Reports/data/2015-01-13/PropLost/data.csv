@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69905,152004023.0,Tuesday,No,2015-01-13T23:00:00.000,PropLost,"[-71.063757, 42.354358]",Point,PropLost,1,MISC,0,A1,First,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2015
+86370,152003362.0,Tuesday,No,2015-01-13T07:30:00.000,PropLost,"[-71.07215, 42.339826]",Point,PropLost,1,PROP,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,771839.7049,,2949151.523,2015
+264064,152003935.0,Tuesday,No,2015-01-13T09:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,B3,Day,No,WELLINGTON HILL ST,Part three,Unarmed,,,,2015

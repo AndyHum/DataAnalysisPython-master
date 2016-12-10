@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26903,142000668.0,Wednesday,No,2014-05-14T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,5,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+109012,140298013.0,Wednesday,No,2014-05-14T11:43:00.000,PropFound,"[-71.063755, 42.362998]",Point,PropFound,5,FDPROP,65,A1,Day,No,STANIFORD ST,Part three,Unarmed,774066.1319,,2957607.1339999996,2014
+132206,140300681.0,Wednesday,No,2014-05-14T12:00:00.000,PropFound,"[-71.055755, 42.297501]",Point,PropFound,5,FDPROP,354,C11,Day,No,PARKMAN ST,Part three,Firearm,776352.2852,,2933750.1780000003,2014
+157531,140298777.0,Wednesday,No,2014-05-14T16:00:00.000,PropFound,"[-71.074855, 42.350756]",Point,PropFound,5,SUSPER,134,D4,First,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2014

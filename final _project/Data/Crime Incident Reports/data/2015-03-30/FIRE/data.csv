@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+211669,152025826.0,Monday,No,2015-03-30T13:30:00.000,FIRE,"[-71.0672, 42.350816]",Point,FIRE,3,FIRE,0,A1,Day,No,STUART ST,Part three,Unarmed,773157.6465,,2953163.233,2015
+225748,152025816.0,Monday,No,2015-03-30T12:50:00.000,FIRE,"[-71.074175, 42.37913]",Point,FIRE,3,FIRE,0,A15,Day,No,BUNKER HILL IND PARK,Part three,Unarmed,771220.5057,,2963471.807,2015
+250016,152025941.0,Monday,No,2015-03-30T20:50:00.000,FIRE,"[-71.057755, 42.357565]",Point,FIRE,3,FO,0,A1,First,No,WATER ST,Part three,Unarmed,775697.8979999999,DEVONSHIRE ST,2955635.5510000004,2015

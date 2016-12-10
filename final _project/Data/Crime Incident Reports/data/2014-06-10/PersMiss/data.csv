@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33809,140382713.0,Tuesday,No,2014-06-10T18:00:00.000,PersMiss,"[-71.144024, 42.346747]",Point,PersMiss,6,MISPER,938,D14,First,No,JETTE CT,Other,Unarmed,752397.4732,,2951584.079,2014
+84538,140366207.0,Tuesday,No,2014-06-10T11:40:00.000,PersMiss,"[-71.137685, 42.344561]",Point,PersMiss,6,MSNCOM,792,D14,Day,No,COREY ST,Other,Unarmed,754114.5468,,2950794.983,2014
+96940,140368118.0,Tuesday,No,2014-06-10T21:30:00.000,PersMiss,"[-71.098725, 42.315361]",Point,PersMiss,6,MISPER,577,E13,First,No,WASHINGTON ST,Other,Unarmed,764696.9253,,2940201.124,2014

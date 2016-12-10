@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21429,130109913.0,Monday,No,2013-02-11T12:56:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,2,CD11  ,72,A1,Day,No,BULFINCH PL,Part Three,Unarmed,774549.1083,,2957241.005,2013
+89139,130109955.0,Monday,No,2013-02-11T12:56:00.000,SearchWarr,"[0, 0]",Point,SearchWarr,2,CD11  ,289,B2,Day,No,BULFINCH PL,Part Three,Unarmed,,,,2013
+107647,130106165.0,Monday,No,2013-02-11T12:56:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,2,CD11  ,72,A1,Day,No,BULFINCH PL,Part Three,Unarmed,774549.1083,,2957241.005,2013

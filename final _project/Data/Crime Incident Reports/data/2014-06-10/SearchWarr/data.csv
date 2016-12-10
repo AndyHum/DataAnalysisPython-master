@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58298,140367195.0,Tuesday,No,2014-06-10T15:10:00.000,SearchWarr,"[-71.075539, 42.301738]",Point,SearchWarr,6,IVPER ,461,C11,Day,No,BOWDOIN AV,Part three,Unarmed,770992.4228,,2935266.7830000003,2014
+114689,140365514.0,Tuesday,No,2014-06-10T04:53:00.000,SearchWarr,"[-71.10985, 42.264676]",Point,SearchWarr,6,CD11  ,488,E18,Last,No,WOOD AV,Part three,Unarmed,761772.5295,,2921716.787,2014
+117633,140365877.0,Tuesday,No,2014-06-10T09:30:00.000,SearchWarr,"[-71.05857, 42.307001]",Point,SearchWarr,6,IVPER ,347,C11,Day,No,HECLA ST,Part three,Unarmed,775573.0469,DORCHESTER AV,2937208.2589999996,2014

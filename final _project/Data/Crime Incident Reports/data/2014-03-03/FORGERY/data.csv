@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6030,140131833.0,Monday,No,2014-03-03T19:50:00.000,FORGERY,"[-71.07825, 42.335516]",Point,10xx,3,LARCIP,273,D4,First,No,WASHINGTON ST,Part Two,Unarmed,770198.2968,NORTHAMPTON ST,2947572.668,2014
+14556,140131796.0,Monday,No,2014-03-03T19:30:00.000,FORGERY,"[-71.084885, 42.309181]",Point,10xx,3,IVPER ,320,B2,First,No,CHENEY ST,Part Two,Unarmed,768451.0674,,2937966.9460000005,2014
+53207,140193943.0,Monday,No,2014-03-03T00:00:00.000,FORGERY,"[-71.052084, 42.378071]",Point,10xx,3,LARCRT,38,A15,Last,No,13TH ST,Part Two,Other,777191.2871,,2963116.374,2014

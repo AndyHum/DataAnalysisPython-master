@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15591,,Monday,No,2015-07-06T22:50:00.000,Property Found,"[0, 0]",Point,PropFound,7,PROP,60,A15,,No,HENLEY ST,Part Three,None,,MAIN ST,,2015
+102772,,Monday,No,2015-07-06T12:15:00.000,Property Found,"[0, 0]",Point,PropFound,7,PROP,519,E18,,No,RIVER ST,Part Three,None,,WALTER ST,,2015
+151773,,Monday,No,2015-07-06T00:00:00.000,Property Found,"[-71.070725, 42.349445]",Point,PropFound,7,IVPREM,128,A1,,No,COLUMBUS AVE,Part Three,None,772207.0,,2950000.0,2015
+192124,,Monday,No,2015-07-06T00:00:00.000,Property Found,"[-71.156763, 42.339998]",Point,PropFound,7,PROP,773,D14,,No,SOUTH ST,Part Three,None,748964.0,,2950000.0,2015

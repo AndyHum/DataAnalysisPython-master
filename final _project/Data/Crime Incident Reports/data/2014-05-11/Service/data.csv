@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9605,140290113.0,Sunday,No,2014-05-11T07:54:00.000,Service,"[-71.058675, 42.354781]",Point,Service,5,ARREST,106,A1,Day,No,ARCH ST,Part three,Unarmed,775454.5556,,2954619.961,2014
+155358,140290319.0,Sunday,No,2014-05-11T10:00:00.000,Service,"[-71.06844, 42.352301]",Point,Service,5,IVPREM,120,A1,Day,No,BOYLSTON ST,Part three,Unarmed,772819.7246,,2953702.6980000003,2014
+211253,140290136.0,Sunday,No,2014-05-11T07:30:00.000,Service,"[-71.068595, 42.358406]",Point,Service,5,CD19  ,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11196,140310183.0,Monday,No,2014-05-19T07:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD19  ,70,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,,,,2014
+34511,140312009.0,Monday,No,2014-05-19T20:55:00.000,InvProp,"[-71.07502, 42.332376]",Point,InvProp,5,BEIP  ,270,D4,First,No,ALBANY ST,Part three,Unarmed,771077.0854,,2946432.707,2014
+45803,140311356.0,Monday,No,2014-05-19T16:03:00.000,InvProp,"[-71.059408, 42.287539]",Point,InvProp,5,ALARMR,393,C11,First,No,BRUCE ST,Part three,Unarmed,775382.9912,,2930114.625,2014
+46283,140311794.0,Monday,No,2014-05-19T19:00:00.000,InvProp,"[-71.090671, 42.318728]",Point,InvProp,5,IVPER ,305,B2,First,No,WALNUT AV,Part three,Unarmed,766869.1168,,2941438.501,2014
+113750,140312092.0,Monday,No,2014-05-19T21:42:00.000,InvProp,"[-71.066765, 42.312461]",Point,InvProp,5,BEIP  ,332,C11,First,No,GLEN ST,Part three,Unarmed,773346.0645,,2939186.352,2014
+224237,140310171.0,Monday,No,2014-05-19T07:00:00.000,InvProp,"[-71.070625, 42.361461]",Point,InvProp,5,CD19  ,64,A1,Last,No,CHARLES ST,Part three,Unarmed,772212.3098,,2957037.798,2014

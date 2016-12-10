@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34051,,Sunday,No,2015-06-21T00:00:00.000,Simple Assault,"[-71.086847, 42.33376]",Point,08xx,6,AB,286,B2,,No,RUGGLES ST,Part Two,None,767877.0,,2950000.0,2015
+67632,,Sunday,No,2015-06-21T00:00:00.000,Simple Assault,"[-71.088852, 42.319337]",Point,08xx,6,NIDV,308,B2,,No,HAROLD ST,Part Two,None,767360.0,,2940000.0,2015
+86521,,Sunday,No,2015-06-21T02:48:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,109,A1,,No,HIGH ST,Part Two,None,,PURCHASE ST,,2015
+99070,,Sunday,No,2015-06-21T00:00:00.000,Simple Assault,"[-71.093335, 42.331301]",Point,08xx,6,FIGHT,290,B2,,No,MALCOLM X BLVD,Part Two,None,766127.0,,2950000.0,2015
+256223,,Sunday,No,2015-06-21T00:00:00.000,Simple Assault,"[-71.072225, 42.348343]",Point,08xx,6,FIGHT,128,D4,,No,COLUMBUS AVE,Part Two,Personal Weapon (hand  foot  etc.),771804.0,,2950000.0,2015

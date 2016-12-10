@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13992,120741738.0,Monday,No,2012-11-26T11:02:00.000,Service,"[-71.046205, 42.349303]",Point,Service,11,TRAUMA,206,C6,Day,No,CONGRESS ST,Part Three,Other,778835.4885,,2952641.216,2012
+58228,120742530.0,Monday,No,2012-11-26T17:08:00.000,Service,"[-71.100575, 42.264277]",Point,Service,11,TSTOP ,485,E18,First,No,RIVER ST,Part Three,Unarmed,764283.681,,2921582.988,2012
+114962,120741144.0,Monday,No,2012-11-26T02:03:00.000,Service,"[-71.10186, 42.270696]",Point,Service,11,IVPREM,475,B3,Last,No,CUMMINS HY,Part Three,Unarmed,763925.0049,,2923920.5489999996,2012
+118609,120742889.0,Monday,No,2012-11-26T20:02:00.000,Service,"[-71.10228, 42.269496]",Point,Service,11,FIGHT ,480,E18,First,No,HARMON ST,Part Three,Unarmed,763813.3663,,2923482.724,2012
+161076,120742405.0,Monday,No,2012-11-26T16:00:00.000,Service,"[-71.102195, 42.323541]",Point,Service,11,THREAT,916,E13,First,No,BICKFORD ST,Part Three,Unarmed,763744.522,,2943177.66,2012
+182338,120742734.0,Monday,No,2012-11-26T17:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,11,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+205434,120743199.0,Monday,No,2012-11-26T21:29:00.000,Service,"[-71.07635, 42.326051]",Point,Service,11,IVPER ,267,B2,First,No,FOREST PL,Part Three,Unarmed,770729.1415,,2944126.002,2012

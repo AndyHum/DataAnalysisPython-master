@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52912,142055710.0,Monday,No,2014-12-08T15:00:00.000,Service,"[-71.060845, 42.355056]",Point,Service,12,IVPER,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2014
+79056,142055661.0,Monday,No,2014-12-08T12:30:00.000,Service,"[-71.04625, 42.354256]",Point,Service,12,ARREST,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+145202,142055794.0,Monday,No,2014-12-08T21:31:00.000,Service,"[-71.061255, 42.355781]",Point,Service,12,ARREST,0,A1,First,No,WINTER ST,Part three,Other,774755.3274,,2954980.7830000003,2014
+232822,142055686.0,Monday,No,2014-12-08T14:00:00.000,Service,"[-71.08352, 42.278561]",Point,Service,12,IVPER,0,B3,Day,No,LORNA RD,Part three,Unarmed,768874.7661,DOONE AV,2926810.363,2014
+253608,142058336.0,Monday,No,2014-12-08T18:00:00.000,Service,"[-71.085875, 42.316854]",Point,Service,12,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,768169.7113,,2940761.772,2014
+259263,142056212.0,Monday,No,2014-12-08T08:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,12,AOD,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32703,140090756.0,Wednesday,No,2014-02-12T16:00:00.000,PhoneCalls,"[-71.07629, 42.311596]",Point,PhoneCalls,2,THREAT,326,B2,First,No,LAWRENCE AV,Part three,Unarmed,770771.5345,,2938858.442,2014
+219852,140089697.0,Wednesday,No,2014-02-12T14:24:00.000,PhoneCalls,"[-71.077405, 42.345396]",Point,PhoneCalls,2,HARPT ,149,D4,Day,No,W CANTON ST,Part three,Unarmed,770408.9273,,2951174.251,2014
+254704,140117236.0,Wednesday,No,2014-02-12T10:20:00.000,PhoneCalls,"[-71.058631, 42.357187]",Point,PhoneCalls,2,HARPT ,98,A1,Day,No,WASHINGTON ST,Part three,Other,775461.8627,,2955496.662,2014

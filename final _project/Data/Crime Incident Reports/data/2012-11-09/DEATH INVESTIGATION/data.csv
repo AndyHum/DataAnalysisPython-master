@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8888,120705863.0,Friday,No,2012-11-09T07:44:00.000,DEATH INVESTIGATION,"[-71.062875, 42.360186]",Point,01INV,11,UNK   ,68,A1,Day,No,BOWDOIN ST,Part Three,Unarmed,774309.2348,,2956583.8019999997,2012
+95947,120707159.0,Friday,No,2012-11-09T17:38:00.000,DEATH INVESTIGATION,"[-71.0413, 42.290136]",Point,01INV,11,CARST ,372,C11,First,No,LAWLEY ST,Part Three,Unarmed,780277.5654,,2931087.062,2012
+133645,120706478.0,Friday,No,2012-11-09T12:40:00.000,DEATH INVESTIGATION,"[-71.080615, 42.346296]",Point,01INV,11,SDNDTH,143,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,769539.5462,,2951497.9439999997,2012

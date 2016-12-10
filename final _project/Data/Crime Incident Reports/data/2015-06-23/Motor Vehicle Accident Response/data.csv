@@ -1,0 +1,26 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4885,,Tuesday,No,2015-06-23T09:30:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,402,C11,,No,ASHMONT ST,Part Three,None,,DORCHESTER AVE,,2015
+11507,,Tuesday,No,2015-06-23T16:20:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,133,D4,,No,CLARENDON ST,Part Three,None,,NEWBURY ST,,2015
+12517,,Tuesday,No,2015-06-23T21:58:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,463,B3,,No,BLUE HILL AVE,Part Three,None,, TALBOT AVE ,,2015
+32677,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.129337, 42.285932]",Point,MVAcc,6,MVA,680,E5,,No,CORINTH ST,Part Three,None,756464.0,,2930000.0,2015
+42595,,Tuesday,No,2015-06-23T20:00:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,0,,,No,DUDLEY ST,Part Three,None,,,,2015
+42912,,Tuesday,No,2015-06-23T17:55:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,0,,,No,,Part Three,None,,,,2015
+61237,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.080817, 42.323005]",Point,MVAcc,6,MVA,296,B2,,No,DUNREATH ST,Part Three,None,769527.0,,2940000.0,2015
+61844,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.087341, 42.343559]",Point,MVAcc,6,MVA,619,D4,,No,WESTLAND AVE,Part Three,None,767726.0,,2950000.0,2015
+67862,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.072568, 42.312106]",Point,MVAcc,6,MVA,328,B2,,No,QUINCY ST,Part Three,None,771777.0,,2940000.0,2015
+99936,,Tuesday,No,2015-06-23T19:00:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,149,D4,,No,BRADDOCK PARK,Part Three,None,,COLUMBUS AVE,,2015
+114097,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.058493, 42.355559]",Point,MVAcc,6,MVA,104,A1,,No,FRANKLIN ST,Part Three,None,775502.0,,2950000.0,2015
+119400,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.077755, 42.319153]",Point,MVAcc,6,IVPER,265,B2,,No,BLUE HILL AVE,Part Three,None,770362.0,,2940000.0,2015
+141101,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.114484, 42.311275]",Point,MVAcc,6,MVA,643,E13,,No,CENTRE ST,Part Three,None,760441.0,,2940000.0,2015
+142069,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.096068, 42.348776]",Point,MVAcc,6,MVA,623,D4,,No,COMMONWEALTH AVE,Part Three,None,765358.0,,2950000.0,2015
+148547,,Tuesday,No,2015-06-23T15:55:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,IVMV,612,B2,,No,LONGWOOD AVE,Part Three,None,,,,2015
+170170,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.104446, 42.320564]",Point,MVAcc,6,MVA,579,E13,,No,MOZART ST,Part Three,None,763141.0,,2940000.0,2015
+187567,,Tuesday,No,2015-06-23T21:25:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,347,C11,,No,ADAMS ST,Part Three,None,,LINDEN ST,,2015
+192279,,Tuesday,No,2015-06-23T16:30:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,77,A1,,No,NEW SUDBURY ST,Part Three,None,,,,2015
+192665,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.095908, 42.329873]",Point,MVAcc,6,MVA,291,B2,,No,COLUMBUS AVE,Part Three,None,765434.0,,2950000.0,2015
+195349,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.059169, 42.317417]",Point,MVAcc,6,MVA,243,C11,,No,PLEASANT ST,Part Three,None,775391.0,,2940000.0,2015
+218070,,Tuesday,No,2015-06-23T15:45:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,276,B2,,No,WASHINGTON ST,Part Three,None,,WILLIAMS ST,,2015
+220764,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.090397, 42.280797]",Point,MVAcc,6,MVA,428,B3,,No,HOSMER ST,Part Three,None,767010.0,,2930000.0,2015
+229962,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.072534, 42.297453]",Point,MVAcc,6,MVA,357,C11,,No,WASHINGTON ST,Part Three,None,771813.0,,2930000.0,2015
+231175,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.138191, 42.29259]",Point,MVAcc,6,MVA,673,E5,,No,CENTRE ST,Part Three,None,754058.0,,2930000.0,2015
+241894,,Tuesday,No,2015-06-23T00:00:00.000,Motor Vehicle Accident Response,"[-71.087212, 42.346215]",Point,MVAcc,6,MVA,620,D4,,No,MASSACHUSETTS AVE,Part Three,None,767756.0,,2950000.0,2015

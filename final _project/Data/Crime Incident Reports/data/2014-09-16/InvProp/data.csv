@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48111,142030048.0,Tuesday,No,2014-09-16T16:52:00.000,InvProp,"[-71.131165, 42.284826]",Point,InvProp,9,ABAN,0,E5,First,No,COHASSET ST,Part three,Unarmed,755971.2708,,2929034.0689999997,2014
+61252,142030066.0,Tuesday,No,2014-09-16T17:50:00.000,InvProp,"[-71.171675, 42.278601]",Point,InvProp,9,LARCEN,0,E5,First,No,VFW PY,Part three,Unarmed,745018.3088,,2926720.784,2014
+98442,142030144.0,Tuesday,No,2014-09-16T22:03:00.000,InvProp,"[-71.088294, 42.341504]",Point,InvProp,9,ALARM,0,D4,First,No,ST STEPHEN ST,Part three,Unarmed,767472.0844,,2949741.2860000003,2014
+108223,142030124.0,Tuesday,No,2014-09-16T13:00:00.000,InvProp,"[-71.0979, 42.284119]",Point,InvProp,9,IVPER,0,B3,Day,No,HARVARD ST,Part three,Other,764973.6117,,2928817.0319999997,2014
+119436,142030036.0,Tuesday,No,2014-09-16T16:39:00.000,InvProp,"[-71.06881, 42.379656]",Point,InvProp,9,LARCEN,0,A15,First,No,MEAD ST,Part three,Unarmed,772669.3191,,2963670.9039999996,2014
+138494,142030040.0,Tuesday,No,2014-09-16T16:46:00.000,InvProp,"[-71.145604, 42.340262]",Point,InvProp,9,IVPREM,0,D14,First,No,KILSYTH RD,Part three,Unarmed,751980.2404,,2949219.361,2014
+157703,142029913.0,Tuesday,No,2014-09-16T09:00:00.000,InvProp,"[-71.080085, 42.346711]",Point,InvProp,9,IVPREM,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2014
+206230,142029972.0,Tuesday,No,2014-09-16T13:00:00.000,InvProp,"[-71.03231, 42.376995]",Point,InvProp,9,IVPREM,0,A7,Day,No,PARIS ST,Part three,Unarmed,782536.3817,,2962753.2,2014
+212804,142030019.0,Tuesday,No,2014-09-16T15:12:00.000,InvProp,"[-71.056374, 42.350817]",Point,InvProp,9,BOMB,0,A1,Day,No,ATLANTIC AV,Part three,Unarmed,776084.0039,,2953178.441,2014

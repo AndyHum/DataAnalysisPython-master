@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98830,140193135.0,Monday,No,2014-03-31T09:23:00.000,Argue,"[-71.06202, 42.379876]",Point,Argue,3,DISTRB,45,A15,Day,No,ELM ST,Part three,Unarmed,774503.468,,2963760.4239999996,2014
+117972,140193733.0,Monday,No,2014-03-31T14:30:00.000,Argue,"[-71.07321, 42.292406]",Point,Argue,3,REMOVE,450,B3,Day,No,ROSEDALE ST,Part three,Unarmed,771639.5912,,2931869.47,2014
+159578,140193469.0,Monday,No,2014-03-31T12:10:00.000,Argue,"[-71.05177, 42.373926]",Point,Argue,3,THREAT,38,A15,Day,No,8TH ST,Part three,Unarmed,777284.2597,,2961606.5069999998,2014
+164020,140193038.0,Monday,No,2014-03-31T08:33:00.000,Argue,"[-71.077842, 42.305734]",Point,Argue,3,MEET  ,460,C11,Day,No,GENEVA AV,Part three,Unarmed,770362.262,,2936719.962,2014

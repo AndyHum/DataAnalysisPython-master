@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+164114,130028392.0,Monday,No,2013-01-14T14:26:00.000,BENoProp,"[-71.1079, 42.263866]",Point,BENoProp,1,BEIP  ,488,E18,Day,No,GEORGE ST,Part One,Other,762301.7089,,2921424.0330000003,2013
+175104,130027438.0,Monday,No,2013-01-14T04:45:00.000,BENoProp,"[-71.09574, 42.268581]",Point,BENoProp,1,ALARMC,481,B3,Last,No,CUMMINS HY,Part One,Other,765585.0485,,2923157.606,2013
+183392,130028382.0,Monday,No,2013-01-14T14:22:00.000,BENoProp,"[-71.052625, 42.31811]",Point,BENoProp,1,BEIP  ,245,C11,Day,No,SYDNEY ST,Part One,Other,777159.8741,,2941264.903,2013

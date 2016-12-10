@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120697,130263473.0,Saturday,No,2013-05-04T03:19:00.000,DISORDERLY,"[-71.097702, 42.348699]",Point,24xx,5,REMOVE,622,D4,Last,No,BEACON ST,Part Two,Unarmed,764916.1761,,2952351.106,2013
+154951,130263823.0,Saturday,No,2013-05-04T08:45:00.000,DISORDERLY,"[-71.05683, 42.323736]",Point,24xx,5,IVPER ,189,C6,Day,No,DORCHESTER AV,Part Two,Firearm,776012.0253,,2943309.1989999996,2013
+211568,130264972.0,Saturday,No,2013-05-04T20:22:00.000,DISORDERLY,"[-71.07738, 42.350061]",Point,24xx,5,ARREST,130,D4,First,No,DARTMOUTH ST,Part Two,Unarmed,770407.2615,BOYLSTON ST,2952874.296,2013

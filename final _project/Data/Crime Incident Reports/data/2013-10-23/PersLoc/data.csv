@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66139,130676955.0,Wednesday,No,2013-10-23T07:00:00.000,PersLoc,"[-71.053506, 42.32612]",Point,PersLoc,10,MISPER,914,C6,Last,No,GAVIN WY,Other,Unarmed,776906.2024,,2944182.5530000003,2013
+96819,130676838.0,Wednesday,No,2013-10-23T21:59:00.000,PersLoc,"[-71.071365, 42.284885]",Point,PersLoc,10,MISPER,435,C11,First,No,WASHINGTON ST,Other,Unarmed,772152.4973,,2929130.9869999997,2013
+139570,130676685.0,Wednesday,No,2013-10-23T18:35:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,10,MISPER,281,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2013

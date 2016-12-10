@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30860,140194024.0,Monday,No,2014-03-31T16:15:00.000,BENoProp,"[-71.058204, 42.319415]",Point,BENoProp,3,ARREST,236,C11,First,No,EDISON,Part One,Unarmed,775648.6035,,2941732.436,2014
+52907,140195399.0,Monday,No,2014-03-31T17:30:00.000,BENoProp,"[-71.05468, 42.358122]",Point,BENoProp,3,BERPT ,100,A1,First,No,WATER ST,Part One,Unarmed,776527.9154,,2955842.918,2014
+207500,140195262.0,Monday,No,2014-03-31T17:20:00.000,BENoProp,"[-71.05468, 42.358122]",Point,BENoProp,3,BERPT ,100,A1,First,No,WATER ST,Part One,Unarmed,776527.9154,,2955842.918,2014
+245247,140193376.0,Monday,No,2014-03-31T11:25:00.000,BENoProp,"[-71.075236, 42.302275]",Point,BENoProp,3,BEIP  ,461,C11,Day,No,MALLON RD,Part One,Unarmed,771073.2957,,2935463.0739999996,2014

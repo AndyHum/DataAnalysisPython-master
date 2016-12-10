@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35923,120537578.0,Tuesday,No,2012-08-28T18:30:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,8,IVPER ,0,D4,First,No,YAWKEY WY,Part Three,Unarmed,764671.1215,,2951432.6119999997,2012
+57846,120535778.0,Tuesday,No,2012-08-28T00:53:00.000,InvProp,"[-71.061295, 42.296361]",Point,InvProp,8,IVPREM,360,C11,Last,No,DORCHESTER AV,Part Three,Other,774855.8882,,2933327.0810000002,2012
+68400,120536368.0,Tuesday,No,2012-08-28T10:18:00.000,InvProp,"[-71.08301, 42.299371]",Point,InvProp,8,BEIP  ,457,B3,Day,No,PAGE ST,Part Three,Unarmed,768975.7077,,2934394.502,2012
+105109,120539617.0,Tuesday,No,2012-08-28T18:00:00.000,InvProp,"[-71.132336, 42.358585]",Point,InvProp,8,ABANRE,815,D14,First,No,BRADBURY ST,Part Three,Unarmed,755538.3271,FRANKLIN ST,2955911.6769999997,2012
+164262,120537780.0,Tuesday,No,2012-08-28T21:06:00.000,InvProp,"[-71.008874, 42.39214]",Point,InvProp,8,BEIP  ,942,A7,First,No,FAYWOOD AV,Part Three,Unarmed,788836.8524,,2968307.764,2012
+175276,120537774.0,Tuesday,No,2012-08-28T21:10:00.000,InvProp,"[-71.076983, 42.314285]",Point,InvProp,8,IVPREM,325,B2,First,No,WAYLAND ST,Part Three,Other,770579.0601,,2939837.128,2012
+207476,120538006.0,Tuesday,No,2012-08-28T23:46:00.000,InvProp,"[-71.06882, 42.295106]",Point,InvProp,8,IVPREM,359,C11,Last,No,TREMLETT ST,Part Three,Unarmed,772822.3726,,2932859.36,2012
+218731,120536650.0,Tuesday,No,2012-08-28T08:15:00.000,InvProp,"[-71.07337, 42.351831]",Point,InvProp,8,MVANO ,133,D4,Day,No,BERKELEY ST,Part Three,Unarmed,771487.9884,,2953524.716,2012

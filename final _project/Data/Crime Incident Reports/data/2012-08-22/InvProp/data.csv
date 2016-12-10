@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42865,120522277.0,Wednesday,No,2012-08-22T01:54:00.000,InvProp,"[-71.13939, 42.276226]",Point,InvProp,8,ALARMC,550,E5,Last,No,WASHINGTON ST,Part Three,Unarmed,753758.9038,,2925890.582,2012
+48691,120522149.0,Wednesday,No,2012-08-22T00:10:00.000,InvProp,"[-71.078683, 42.275897]",Point,InvProp,8,SHOTS ,411,B3,Last,No,MARYKNOLL TR,Part Three,Unarmed,770188.3811,,2925845.941,2012
+62480,120523925.0,Wednesday,No,2012-08-22T19:30:00.000,InvProp,"[-71.067384, 42.365755]",Point,InvProp,8,IVPREM,62,A1,First,No,WHITTIER PL,Part Three,Unarmed,773080.2704,,2958606.917,2012
+64351,120522288.0,Wednesday,No,2012-08-22T02:00:00.000,InvProp,"[-71.093623, 42.280668]",Point,InvProp,8,INVEST,466,B3,Last,No,ORMOND ST,Part Three,Unarmed,766136.9752,,2927564.867,2012

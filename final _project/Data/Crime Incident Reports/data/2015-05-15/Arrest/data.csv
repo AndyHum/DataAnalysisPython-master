@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3882,152007699.0,Friday,No,2015-05-15T10:00:00.000,Arrest,"[0, 0]",Point,Arrest,5,ARREST,0,C11,Day,No,ROXBURY ST,Part three,Unarmed,,,,2015
+110348,152039752.0,Friday,No,2015-05-15T11:00:00.000,Arrest,"[-71.096595, 42.317476]",Point,Arrest,5,ARREST,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,765269.3624,,2940974.583,2015
+129523,152039697.0,Friday,No,2015-05-15T06:30:00.000,Arrest,"[-71.120211, 42.287414]",Point,Arrest,5,CD11,0,E5,Last,No,MARION ST,Part three,Unarmed,758930.9145,,2929989.9310000003,2015

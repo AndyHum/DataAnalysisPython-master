@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100842,120704011.0,Saturday,No,2012-10-27T23:30:00.000,InvProp,"[0, 0]",Point,InvProp,10,MEET  ,38,A15,First,No,9ST ST,Part Three,Unarmed,,,,2012
+105022,120676773.0,Saturday,No,2012-10-27T01:30:00.000,InvProp,"[-71.05242, 42.324351]",Point,InvProp,10,SHOTS ,914,C6,Last,No,OCALLAGHAN WY,Part Three,Unarmed,777203.4219,OLD COLONY AV,2943539.541,2012
+118191,120679125.0,Saturday,No,2012-10-27T20:30:00.000,InvProp,"[-71.076655, 42.336766]",Point,InvProp,10,BERPT ,170,D4,First,No,WASHINGTON ST,Part Three,Unarmed,770627.2848,,2948030.3260000004,2012
+152411,120686701.0,Saturday,No,2012-10-27T17:00:00.000,InvProp,"[-71.01291, 42.385371]",Point,InvProp,10,VANRPT,12,A7,First,No,BRANDYWYNE DR,Part Three,Other,787760.7968,SARATOGA ST,2965834.865,2012
+189451,120677920.0,Saturday,No,2012-10-27T15:15:00.000,InvProp,"[-71.085637, 42.325786]",Point,InvProp,10,BERPT ,294,B2,Day,No,AKRON ST,Part Three,Unarmed,768218.1006,,2944016.8219999997,2012

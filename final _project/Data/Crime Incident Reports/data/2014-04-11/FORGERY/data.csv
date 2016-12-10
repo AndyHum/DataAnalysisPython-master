@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15242,140220195.0,Friday,No,2014-04-11T21:51:00.000,FORGERY,"[-71.08037, 42.349236]",Point,10xx,4,LARCIP,138,D4,First,No,BOYLSTON ST,Part Two,Unarmed,769600.5057,,2952569.662,2014
+132937,140351225.0,Friday,No,2014-04-11T00:00:00.000,FORGERY,"[-71.052084, 42.378071]",Point,10xx,4,LARCRT,38,A15,Last,No,13TH ST,Part Two,Unarmed,777191.2871,,2963116.374,2014
+235546,140220451.0,Friday,No,2014-04-11T21:03:00.000,FORGERY,"[-71.08037, 42.349236]",Point,10xx,4,LARCRT,138,D4,First,No,BOYLSTON ST,Part Two,Unarmed,769600.5057,,2952569.662,2014
+244697,140219142.0,Friday,No,2014-04-11T12:54:00.000,FORGERY,"[-71.071735, 42.291806]",Point,10xx,4,ARREST,450,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,772039.7656,,2931652.818,2014

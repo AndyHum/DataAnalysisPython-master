@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18882,,Friday,No,2015-08-07T17:30:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,0,,,No,AVENUE DE LAFAYETTE,Part Two,None,,,,2015
+107235,,Friday,No,2015-08-07T01:28:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,244,C11,,No,PLEASANT ST,Part Two,None,,TAFT ST,,2015
+108765,,Friday,No,2015-08-07T18:01:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,493,E18,,No,LEXINGTON AVE,Part Two,None,,RIVER ST,,2015
+111854,,Friday,No,2015-08-07T09:15:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,176,C6,,No,NEWMARKET SQ,Part Two,None,, THEODORE A GLYNN WAY ,,2015
+138023,,Friday,No,2015-08-07T13:56:00.000,Drug Violation,"[0, 0]",Point,18xx,8,IVMV,309,B2,,No,WARREN ST,Part Two,None,,,,2015
+140699,,Friday,No,2015-08-07T00:56:00.000,Drug Violation,"[0, 0]",Point,18xx,8,UNKEMS,206,C6,,No,SEAPORT BLVD,Part Two,None,, SLEEPER ST ,,2015
+186172,,Friday,No,2015-08-07T00:00:00.000,Drug Violation,"[-71.082067, 42.322216]",Point,18xx,8,ADMRPT,296,B2,,No,WARREN ST,Part Two,None,769190.0,,2940000.0,2015
+201681,,Friday,No,2015-08-07T12:00:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ADMRPT,0,,,No,,Part Two,None,,ALBANY ST,,2015
+225736,,Friday,No,2015-08-07T00:00:00.000,Drug Violation,"[-71.124019, 42.256216]",Point,18xx,8,IVPREM,519,E18,,No,HYDE PARK AVE,Part Two,None,757951.0,,2920000.0,2015
+239153,,Friday,No,2015-08-07T13:50:00.000,Drug Violation,"[0, 0]",Point,18xx,8,IVPER,559,E5,,No,,Part Two,None,,,,2015

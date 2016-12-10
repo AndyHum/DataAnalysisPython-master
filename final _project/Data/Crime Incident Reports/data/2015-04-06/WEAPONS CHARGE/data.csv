@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27403,152027888.0,Monday,No,2015-04-06T08:54:00.000,WEAPONS CHARGE,"[-71.060895, 42.380496]",Point,15xx,4,IVPREM,0,A15,Day,No,MEDFORD ST,Part Two,Knife,774806.2656,,2963987.9280000003,2015
+207613,152028050.0,Monday,No,2015-04-06T21:50:00.000,WEAPONS CHARGE,"[-71.062575, 42.352726]",Point,15xx,4,ARREST,0,A1,First,No,WASHINGTON ST,Part Two,Knife,774404.2569,,2953865.65,2015

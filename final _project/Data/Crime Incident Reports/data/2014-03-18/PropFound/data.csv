@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31464,140197976.0,Tuesday,No,2014-03-18T20:00:00.000,PropFound,"[-71.07547, 42.346214]",Point,PropFound,3,LSTPRP,149,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770930.358,,2951474.633,2014
+111524,140164934.0,Tuesday,No,2014-03-18T11:37:00.000,PropFound,"[-71.061255, 42.351116]",Point,PropFound,3,FDPROP,117,A1,Day,No,HARRISON AV,Part three,Unarmed,774764.0718,,2953280.768,2014
+260769,140165258.0,Tuesday,No,2014-03-18T00:05:00.000,PropFound,"[0, 0]",Point,PropFound,3,FDPROP,293,B2,Last,No,GUILD ST,Part three,Unarmed,,,,2014

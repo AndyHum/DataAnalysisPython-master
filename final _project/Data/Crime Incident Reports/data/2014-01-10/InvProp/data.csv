@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8289,140020058.0,Friday,No,2014-01-10T20:04:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,1,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+13862,140022775.0,Friday,No,2014-01-10T18:00:00.000,InvProp,"[-71.06737, 42.274786]",Point,InvProp,1,BERPTA,388,C11,First,No,DORCHESTER AV,Part three,Unarmed,773252.2248,,2925456.457,2014
+35228,140020256.0,Friday,No,2014-01-10T23:20:00.000,InvProp,"[-71.139106, 42.348998]",Point,InvProp,1,ALARMM,795,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,753723.3022,,2952410.229,2014
+66923,140019268.0,Friday,No,2014-01-10T00:00:00.000,InvProp,"[-71.08045, 42.382573]",Point,InvProp,1,BERPT ,50,A15,Last,No,CRESCENT ST,Part three,Unarmed,769519.0833,,2964718.045,2014
+91455,140020165.0,Friday,No,2014-01-10T14:00:00.000,InvProp,"[-71.087645, 42.296111]",Point,InvProp,1,MEET  ,463,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767727.5475,,2933200.413,2014
+152444,140018859.0,Friday,No,2014-01-10T10:57:00.000,InvProp,"[-71.141345, 42.289926]",Point,InvProp,1,REQP  ,675,E5,Day,No,CENTRE ST,Part three,Unarmed,753208.8318,,2930880.8389999997,2014
+160874,140002030.0,Friday,No,2014-01-10T23:58:00.000,InvProp,"[-71.09456, 42.331431]",Point,InvProp,1,SSTOP ,102,B2,Last,No,COLUMBUS AV,Part three,Unarmed,765795.5609,TREMONT ST,2946062.6360000004,2014
+191537,140019588.0,Friday,No,2014-01-10T16:50:00.000,InvProp,"[-71.089285, 42.279236]",Point,InvProp,1,REQP  ,428,B3,First,No,NORFOLK ST,Part three,Other,767313.4676,,2927048.778,2014

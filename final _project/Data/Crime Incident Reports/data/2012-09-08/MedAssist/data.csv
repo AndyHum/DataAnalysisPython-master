@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50444,120561766.0,Saturday,No,2012-09-08T08:30:00.000,MedAssist,"[-71.06667, 42.277346]",Point,MedAssist,9,IVPER ,404,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,773436.9288,,2926390.317,2012
+129274,120562327.0,Saturday,No,2012-09-08T14:03:00.000,MedAssist,"[-71.146974, 42.343717]",Point,MedAssist,9,CARST ,785,D14,Day,No,COLBORNE RD,Part Three,Unarmed,751604.5371,,2950476.8219999997,2012
+145183,120562621.0,Saturday,No,2012-09-08T16:54:00.000,MedAssist,"[-71.06707, 42.317896]",Point,MedAssist,9,UNK   ,238,B2,First,No,DUDLEY ST,Part Three,Unarmed,773253.6772,,2941166.785,2012
+151259,120561230.0,Saturday,No,2012-09-08T00:36:00.000,MedAssist,"[-71.050115, 42.331466]",Point,MedAssist,9,CARST ,915,C6,Last,No,E 9TH ST,Part Three,Other,777813.0703,,2946135.647,2012
+158078,120562091.0,Saturday,No,2012-09-08T11:51:00.000,MedAssist,"[-71.13493, 42.289844]",Point,MedAssist,9,IVPREM,674,E5,Day,No,HEWLETT ST,Part Three,Other,754944.6305,,2930858.341,2012
+199877,120562873.0,Saturday,No,2012-09-08T18:45:00.000,MedAssist,"[-71.08803, 42.294881]",Point,MedAssist,9,IVPER ,440,B3,First,No,BLUE HILL AV,Part Three,Unarmed,767625.554,TALBOT AV,2932751.6789999995,2012
+240376,120562328.0,Saturday,No,2012-09-08T13:49:00.000,MedAssist,"[-71.12892, 42.285721]",Point,MedAssist,9,PKNIFE,680,E5,Day,No,POPLAR ST,Part Three,Unarmed,756577.3359,WASHINGTON ST,2929362.854,2012
+244290,120561839.0,Saturday,No,2012-09-08T09:23:00.000,MedAssist,"[-71.090545, 42.270186]",Point,MedAssist,9,IVPER ,425,B3,Day,No,FREMONT ST,Part Three,Unarmed,766988.3245,,2923749.1960000005,2012
+251772,120562484.0,Saturday,No,2012-09-08T15:25:00.000,MedAssist,"[-71.076286, 42.340036]",Point,MedAssist,9,NIDV  ,157,D4,Day,No,RUTLAND ST,Part Three,Unarmed,770721.1363,,2949222.187,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56832,152006612.0,Saturday,No,2015-01-24T15:40:00.000,PersLoc,"[-71.067485, 42.308271]",Point,PersLoc,1,MISSIN,0,C11,Day,No,CLARKSON ST,Other,Unarmed,773159.2220000001,,2937658.715,2015
+100033,152006724.0,Saturday,No,2015-01-24T22:00:00.000,PersLoc,"[-71.069315, 42.313072]",Point,PersLoc,1,IVPER,0,B2,First,No,GLENDALE ST,Other,Unarmed,772655.2814,,2939405.653,2015
+147373,152006702.0,Saturday,No,2015-01-24T10:15:00.000,PersLoc,"[-71.057908, 42.293715]",Point,PersLoc,1,IVPER,0,C11,Day,No,WHITTEN ST,Other,Unarmed,775776.9943,,2932367.5560000003,2015
+150673,152006705.0,Saturday,No,2015-01-24T10:15:00.000,PersLoc,"[-71.057908, 42.293715]",Point,PersLoc,1,IVPER,0,C11,Day,No,WHITTEN ST,Other,Unarmed,775776.9943,,2932367.5560000003,2015
+155761,152006606.0,Saturday,No,2015-01-24T13:30:00.000,PersLoc,"[-71.070165, 42.338916]",Point,PersLoc,1,MISSIN,0,D4,Day,No,HARRISON AV,Other,Unarmed,772378.0333,,2948822.6,2015
+189564,152006490.0,Saturday,No,2015-01-24T01:04:00.000,PersLoc,"[-71.073214, 42.295708]",Point,PersLoc,1,IVPER,0,B3,Last,No,KENBERMA RD,Other,Unarmed,771632.4514,,2933072.564,2015
+227406,152006562.0,Saturday,No,2015-01-24T10:30:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,1,IVPER,0,B3,Day,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2015
+267480,152006784.0,Saturday,No,2015-01-24T10:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,B2,Day,No,WAYLAND ST,Other,Unarmed,,,,2015

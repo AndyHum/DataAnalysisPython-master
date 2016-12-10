@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8954,120724696.0,Saturday,No,2012-11-17T12:00:00.000,BENoProp,"[-71.03089, 42.378666]",Point,BENoProp,11,BERPT ,19,A7,Day,No,SARATOGA ST,Part One,Other,782916.7432,,2963364.2,2012
+42252,120725517.0,Saturday,No,2012-11-17T09:00:00.000,BENoProp,"[-71.07376, 42.282643]",Point,BENoProp,11,BERPTA,417,B3,Day,No,STOCKTON ST,Part One,Other,771508.3897,,2928310.909,2012
+62828,120724594.0,Saturday,No,2012-11-17T06:00:00.000,BENoProp,"[-71.068653, 42.306188]",Point,BENoProp,11,BERPT ,336,C11,Last,No,NORTON ST,Part One,Other,772847.1206,,2936897.7789999996,2012
+181380,120725049.0,Saturday,No,2012-11-17T19:34:00.000,BENoProp,"[-71.07376, 42.282643]",Point,BENoProp,11,BEIP  ,417,B3,First,No,STOCKTON ST,Part One,Unarmed,771508.3897,,2928310.909,2012
+248409,120724383.0,Saturday,No,2012-11-17T13:38:00.000,BENoProp,"[-71.06042, 42.323311]",Point,BENoProp,11,BEIP  ,188,C6,Day,No,BOSTON ST,Part One,Unarmed,775041.9987,,2943149.298,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101357,120484030.0,Sunday,No,2012-08-05T04:12:00.000,Gather,"[-71.074955, 42.299506]",Point,Gather,8,PARTY ,454,B3,Last,No,ARDALE ST,Part Three,Unarmed,771154.5747,,2934454.455,2012
+194939,120484180.0,Sunday,No,2012-08-05T04:50:00.000,Gather,"[-71.080596, 42.327236]",Point,Gather,8,IVPREM,281,B2,Last,No,GREENVILLE ST,Part Three,Other,769578.6737,,2944551.923,2012
+225741,120486986.0,Sunday,No,2012-08-05T19:00:00.000,Gather,"[-71.10269, 42.306341]",Point,Gather,8,IVPER ,570,E13,First,No,FOREST HILLS ST,Part Three,Unarmed,763639.8581,,2936909.067,2012

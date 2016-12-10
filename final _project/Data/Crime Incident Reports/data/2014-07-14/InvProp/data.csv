@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17909,142010727.0,Monday,No,2014-07-14T14:00:00.000,InvProp,"[-71.12789, 42.351536]",Point,InvProp,7,IVPREM,0,D14,Day,No,FORDHAM RD,Part three,Unarmed,756751.4077,,2953348.21,2014
+96369,142009172.0,Monday,No,2014-07-14T08:00:00.000,InvProp,"[-71.085402, 42.302343]",Point,InvProp,7,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,768323.3179,,2935474.13,2014
+170668,142009085.0,Monday,No,2014-07-14T14:06:00.000,InvProp,"[-71.06732, 42.327316]",Point,InvProp,7,SHOTS,0,C6,Day,No,MASSACHUSETTS AV,Part three,Other,773168.6514,,2944599.247,2014
+224151,142009059.0,Monday,No,2014-07-14T10:19:00.000,InvProp,"[-71.068695, 42.350416]",Point,InvProp,7,IVPREM,0,A1,Day,No,STUART ST,Part three,Unarmed,772754.2717,,2953015.418,2014

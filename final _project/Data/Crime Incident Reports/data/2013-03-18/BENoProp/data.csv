@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12301,130159633.0,Monday,No,2013-03-18T07:28:00.000,BENoProp,"[-71.057685, 42.310896]",Point,BENoProp,3,ALARMC,254,C11,Last,No,DORCHESTER AV,Part One,Other,775805.0763,,2938628.897,2013
+24365,130160275.0,Monday,No,2013-03-18T13:50:00.000,BENoProp,"[-71.05437, 42.320681]",Point,BENoProp,3,BEIP  ,235,C11,Day,No,MOSELEY ST,Part One,Other,776683.0863,,2942199.373,2013
+180565,130160845.0,Monday,No,2013-03-18T14:25:00.000,BENoProp,"[-71.06028, 42.306752]",Point,BENoProp,3,BEIP  ,347,C11,Day,No,HECLA ST,Part One,Unarmed,775110.7209999999,,2937115.057,2013

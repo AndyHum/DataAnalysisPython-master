@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26910,120737043.0,Friday,No,2012-11-23T20:54:00.000,PersLoc,"[-71.09134, 42.279336]",Point,PersLoc,11,MISPER,427,B3,First,No,EVELYN ST,Part Three,Unarmed,766757.183,,2927082.5519999997,2012
+63937,120741880.0,Friday,No,2012-11-23T09:00:00.000,PersLoc,"[-71.059683, 42.29651]",Point,PersLoc,11,MISPER,355,C11,Day,No,PARKMAN ST,Part Three,Unarmed,775291.6849,,2933383.425,2012
+114296,120737174.0,Friday,No,2012-11-23T23:03:00.000,PersLoc,"[-71.06969, 42.304686]",Point,PersLoc,11,CURFEW,336,C11,First,No,DEVER ST,Part Three,Unarmed,772569.3849,,2936349.2660000003,2012
+148016,120736531.0,Friday,No,2012-11-23T22:15:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,11,MISPER,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2012

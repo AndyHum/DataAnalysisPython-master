@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26254,142059302.0,Sunday,No,2014-12-07T01:00:00.000,InvProp,"[-71.161002, 42.340975]",Point,InvProp,12,IVPER,0,D14,Last,No,GREYCLIFFE RD,Part three,Unarmed,747816.2448,,2949461.9480000003,2014
+62028,142055941.0,Sunday,No,2014-12-07T01:30:00.000,InvProp,"[-71.057141, 42.361472]",Point,InvProp,12,MISC,0,A1,Last,No,UNION ST,Part three,Unarmed,775856.5178,,2957060.42,2014
+147719,142055553.0,Sunday,No,2014-12-07T22:22:00.000,InvProp,"[-71.106683, 42.320865]",Point,InvProp,12,SHOTS,0,E13,First,No,FORBES ST,Part three,Firearm,762535.1284,,2942196.902,2014
+150329,142055379.0,Sunday,No,2014-12-07T06:11:00.000,InvProp,"[-71.099375, 42.318306]",Point,InvProp,12,SHOTS,0,E13,Last,No,ERNST ST,Part three,Unarmed,764516.0847,,2941273.506,2014
+197934,142055401.0,Sunday,No,2014-12-07T09:30:00.000,InvProp,"[-71.136105, 42.346511]",Point,InvProp,12,DISTRB,0,D14,Day,No,KELTON ST,Part three,Unarmed,754538.6490000001,,2951507.42,2014

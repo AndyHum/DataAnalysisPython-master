@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8207,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.065701, 42.29882]",Point,MedAssist,6,UNCONS,358,C11,,No,WALDECK ST,Part Three,None,773659.0,,2930000.0,2015
+37944,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.123293, 42.292673]",Point,MedAssist,6,UNK,664,E5,,No,SOUTH ST,Part Three,None,758089.0,,2930000.0,2015
+42470,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.098916, 42.344265]",Point,MedAssist,6,REQEP,627,D4,,No,BOYLSTON ST,Part Three,None,764596.0,,2950000.0,2015
+43407,,Tuesday,No,2015-06-23T11:01:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,INJOFF,524,E18,,No,TRUMAN PKWY,Part Three,None,,,,2015
+58026,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.14523, 42.349886]",Point,MedAssist,6,EDP,784,D14,,No,WARREN ST,Part Three,None,752067.0,,2950000.0,2015
+59243,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,UNCONS,207,C6,,No,DRY DOCK AVE,Part Three,None,,,,2015
+69761,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.096444, 42.347174]",Point,MedAssist,6,REQP,624,D4,,No,LANSDOWNE ST,Part Three,None,765259.0,,2950000.0,2015
+97676,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.054951, 42.363862]",Point,MedAssist,6,REQP,84,A1,,No,PARMENTER ST,Part Three,None,776444.0,,2960000.0,2015
+102644,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.078116, 42.316564]",Point,MedAssist,6,EDP,311,B2,,No,BLUE HILL AVE,Part Three,None,770269.0,,2940000.0,2015
+128445,,Tuesday,No,2015-06-23T12:54:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,REQEP,298,B2,,No,DALE ST,Part Three,None,,REGENT ST,,2015
+151673,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.081505, 42.320268]",Point,MedAssist,6,UNCONS,311,B2,,No,WARREN ST,Part Three,None,769345.0,,2940000.0,2015
+155348,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.033262, 42.366054]",Point,MedAssist,6,ASSTPO,33,A7,,No,SUMNER ST,Part Three,None,782301.0,,2960000.0,2015
+192598,,Tuesday,No,2015-06-23T00:00:00.000,Medical Assistance,"[-71.098745, 42.346988]",Point,MedAssist,6,INJ,628,D4,,No,BROOKLINE AVE,Part Three,None,764637.0,,2950000.0,2015

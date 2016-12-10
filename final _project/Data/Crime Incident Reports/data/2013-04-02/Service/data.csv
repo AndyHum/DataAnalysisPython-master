@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7017,130193306.0,Tuesday,No,2013-04-02T15:30:00.000,Service,"[-71.04732, 42.288671]",Point,Service,4,SSTOP ,374,C11,Day,No,NEPONSET AV,Part Three,Unarmed,778651.5793,TOLMAN ST,2930544.494,2013
+22349,130192494.0,Tuesday,No,2013-04-02T09:00:00.000,Service,"[-71.06293, 42.351166]",Point,Service,4,ARREST,117,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774311.2131,,2953296.665,2013
+57933,130192532.0,Tuesday,No,2013-04-02T09:30:00.000,Service,"[-71.05937, 42.352471]",Point,Service,4,DISTRB,116,A1,Day,No,ESSEX ST,Part Three,Unarmed,775271.0513,KINGSTON ST,2953777.182,2013
+179408,130194202.0,Tuesday,No,2013-04-02T22:30:00.000,Service,"[-71.102425, 42.317166]",Point,Service,4,ARREST,577,E13,First,No,AMORY ST,Part Three,Unarmed,763693.1517,,2940854.211,2013
+182331,130192323.0,Tuesday,No,2013-04-02T07:21:00.000,Service,"[-71.07887, 42.293211]",Point,Service,4,CD11  ,442,B3,Last,No,WESTCOTT ST,Part Three,Unarmed,770106.7826,,2932155.209,2013
+195847,130192718.0,Tuesday,No,2013-04-02T11:00:00.000,Service,"[-71.053375, 42.362136]",Point,Service,4,ARREST,91,A1,Day,No,FULTON ST,Part Three,Unarmed,776873.0689,,2957307.7210000004,2013
+211402,130192407.0,Tuesday,No,2013-04-02T08:05:00.000,Service,"[-71.05783, 42.358771]",Point,Service,4,ARREST,97,A1,Day,No,COURT ST,Part Three,Other,775675.4145,WASHINGTON ST,2956075.1760000004,2013
+226756,130194073.0,Tuesday,No,2013-04-02T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,4,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2013

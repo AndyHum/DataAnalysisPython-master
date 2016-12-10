@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113328,130339002.0,Wednesday,No,2013-06-05T00:30:00.000,InvProp,"[-71.063065, 42.315251]",Point,InvProp,6,BEIP  ,257,C11,Last,No,EVERETT AV,Part three,Unarmed,774341.7652,,2940208.4280000003,2013
+176215,130340425.0,Wednesday,No,2013-06-05T16:23:00.000,InvProp,"[-71.06248, 42.298081]",Point,InvProp,6,IVPREM,358,C11,First,No,GENEVA AV,Part three,Unarmed,774532.0806,PARK ST,2933952.228,2013
+204052,130340223.0,Wednesday,No,2013-06-05T14:12:00.000,InvProp,"[-71.09247, 42.277951]",Point,InvProp,6,MEET  ,427,B3,Day,No,WILMORE ST,Part three,Unarmed,766453.7971,,2926576.373,2013
+207349,130339815.0,Wednesday,No,2013-06-05T12:40:00.000,InvProp,"[-71.07524, 42.350651]",Point,InvProp,6,PROTES,134,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770984.6601,CLARENDON ST,2953092.1780000003,2013

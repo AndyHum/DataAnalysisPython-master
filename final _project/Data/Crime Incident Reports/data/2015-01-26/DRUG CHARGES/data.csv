@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+201974,152007009.0,Monday,No,2015-01-26T10:00:00.000,DRUG CHARGES,"[-71.123635, 42.286941]",Point,18xx,1,IVPER,0,E5,Day,No,FLORENCE ST,Part Two,Unarmed,758005.4321,,2929813.7060000002,2015
+222285,152006954.0,Monday,No,2015-01-26T01:36:00.000,DRUG CHARGES,"[-71.054495, 42.321335]",Point,18xx,1,ARREST,0,C11,Last,No,COLUMBIA RD,Part Two,Unarmed,776647.8177,,2942437.512,2015
+262897,152007097.0,Monday,No,2015-01-26T14:00:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,IVPREM,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,,,,2015
+263104,152007096.0,Monday,No,2015-01-26T12:30:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,IVPREM,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,,,,2015

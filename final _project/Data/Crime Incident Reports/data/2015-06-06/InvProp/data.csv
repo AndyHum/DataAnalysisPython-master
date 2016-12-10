@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2598,152046745.0,Saturday,No,2015-06-06T09:05:00.000,InvProp,"[0, 0]",Point,InvProp,6,SUSOBJ,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,,,,2015
+100196,152046707.0,Saturday,No,2015-06-06T04:59:00.000,InvProp,"[-71.078421, 42.284653]",Point,InvProp,6,SSA,0,B3,Last,No,THETFORD AV,Part three,Other,770243.5782,,2929036.869,2015
+120198,152046950.0,Saturday,No,2015-06-06T23:15:00.000,InvProp,"[-71.08829, 42.294066]",Point,InvProp,6,LARCEN,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767556.6446,HARVARD ST,2932454.341,2015
+129414,152046794.0,Saturday,No,2015-06-06T11:00:00.000,InvProp,"[-71.06844, 42.352301]",Point,InvProp,6,IVPREM,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,772819.7246,,2953702.6980000003,2015
+247359,152046806.0,Saturday,No,2015-06-06T13:30:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,6,CD9,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015

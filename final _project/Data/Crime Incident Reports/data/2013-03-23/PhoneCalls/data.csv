@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75957,130170296.0,Saturday,No,2013-03-23T07:57:00.000,PhoneCalls,"[-71.104355, 42.271956]",Point,PhoneCalls,3,HARPT ,474,B3,Day,No,CROYDON ST,Part Three,Unarmed,763247.5981,,2924376.568,2013
+133335,130170912.0,Saturday,No,2013-03-23T12:00:00.000,PhoneCalls,"[-71.071225, 42.316831]",Point,PhoneCalls,3,HARPT ,260,B2,Day,No,LINGARD ST,Part Three,Unarmed,772131.9094,,2940773.006,2013
+177227,130172941.0,Saturday,No,2013-03-23T15:06:00.000,PhoneCalls,"[-71.139125, 42.279651]",Point,PhoneCalls,3,HARPT ,685,E5,Day,No,BEECH ST,Part Two,Unarmed,753825.3407,,2927139.006,2013
+248765,130202584.0,Saturday,No,2013-03-23T00:01:00.000,PhoneCalls,"[-71.132865, 42.283266]",Point,PhoneCalls,3,HARPT ,680,E5,Last,No,FILOMENA RD,Part Three,Unarmed,755513.7153,,2928463.595,2013

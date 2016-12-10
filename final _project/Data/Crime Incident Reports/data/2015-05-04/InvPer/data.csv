@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+577,152036401.0,Monday,No,2015-05-04T15:57:00.000,InvPer,"[0, 0]",Point,InvPer,5,VAND,0,B3,Day,No,MORTON ST,Part three,Unarmed,,,,2015
+578,152036404.0,Monday,No,2015-05-04T16:30:00.000,InvPer,"[0, 0]",Point,InvPer,5,REQP,0,A7,First,No,MCCLELLAN HY,Part three,Unarmed,,,,2015
+582,152036345.0,Monday,No,2015-05-04T13:30:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+21079,152043116.0,Monday,No,2015-05-04T16:00:00.000,InvPer,"[-71.063588, 42.353669]",Point,InvPer,5,IVPER,0,A1,First,No,MASON ST,Part three,Unarmed,774128.6377,,2954207.6539999996,2015
+33460,152036947.0,Monday,No,2015-05-04T16:45:00.000,InvPer,"[-71.08784, 42.315206]",Point,InvPer,5,IVPER,0,B2,First,No,HUMBOLDT AV,Part three,Other,767641.1664,WAUMBECK ST,2940158.6769999997,2015
+155265,152036242.0,Monday,No,2015-05-04T08:40:00.000,InvPer,"[-71.07428, 42.300894]",Point,InvPer,5,UNK,0,C11,Day,No,BOWDOIN AV,Part three,Firearm,771334.5603,,2934961.063,2015
+202778,152036525.0,Monday,No,2015-05-04T21:40:00.000,InvPer,"[-71.056615, 42.289831]",Point,InvPer,5,IVPER,0,C11,First,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Other,776134.3925,ADAMS ST,2930954.0039999997,2015
+211481,152036546.0,Monday,No,2015-05-04T22:30:00.000,InvPer,"[-71.05021, 42.330401]",Point,InvPer,5,IVPER,0,C6,First,No,MERCER ST,Part three,Unarmed,777789.4286,BURKE ST,2945747.4060000004,2015

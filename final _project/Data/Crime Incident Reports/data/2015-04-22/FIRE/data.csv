@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79572,152032760.0,Wednesday,No,2015-04-22T14:31:00.000,FIRE,"[-71.01565, 42.383626]",Point,FIRE,4,FIRE,0,A7,Day,No,BENNINGTON ST,Part three,Unarmed,787024.1674,,2965194.7369999997,2015
+195971,152032876.0,Wednesday,No,2015-04-22T19:20:00.000,FIRE,"[-71.085841, 42.306613]",Point,FIRE,4,FIRE,0,B2,First,No,NAZING ST,Part three,Other,768196.8940000001,,2937029.841,2015
+240745,152032904.0,Wednesday,No,2015-04-22T19:49:00.000,FIRE,"[-71.098595, 42.271346]",Point,FIRE,4,FIRE,0,B3,First,No,BROCKTON ST,Part three,Unarmed,764807.5651,,2924161.561,2015
+267973,152032762.0,Wednesday,No,2015-04-22T13:45:00.000,FIRE,"[0, 0]",Point,FIRE,4,FO,0,C6,Day,No,DRY DOCK AV,Part three,Unarmed,,,,2015

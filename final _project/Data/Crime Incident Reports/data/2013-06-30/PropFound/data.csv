@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4775,130400505.0,Sunday,No,2013-06-30T12:00:00.000,PropFound,"[-71.06942, 42.356141]",Point,PropFound,6,INVEST,69,A1,Day,No,BEACON ST,Part three,Unarmed,772547.7636,CHARLES ST,2955100.727,2013
+46015,130401176.0,Sunday,No,2013-06-30T17:30:00.000,PropFound,"[-71.098625, 42.346181]",Point,PropFound,6,LARCRT,624,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2013
+70882,130401479.0,Sunday,No,2013-06-30T21:07:00.000,PropFound,"[-71.075205, 42.352516]",Point,PropFound,6,FDPROP,133,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,770990.7349,,2953771.8680000002,2013
+121350,130400954.0,Sunday,No,2013-06-30T18:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,6,FDPROP,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+159809,130400187.0,Sunday,No,2013-06-30T09:30:00.000,PropFound,"[-71.07589, 42.343901]",Point,PropFound,6,FDPROP,150,D4,Day,No,W CANTON ST,Part three,Unarmed,770821.1899,WARREN AV,2950631.478,2013
+224428,130399999.0,Sunday,No,2013-06-30T06:04:00.000,PropFound,"[-71.06458, 42.352351]",Point,PropFound,6,IVPER ,118,A1,Last,No,TREMONT ST,Part three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2013

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47335,152014043.0,Saturday,No,2015-02-21T13:00:00.000,InvPer,"[-71.151197, 42.342646]",Point,InvPer,2,IVPER,0,D14,Day,No,WALLINGFORD RD,Part three,Unarmed,750464.5072,,2950081.732,2015
+47532,152014155.0,Saturday,No,2015-02-21T23:42:00.000,InvPer,"[-71.03974, 42.369131]",Point,InvPer,2,SHOTS,0,A7,First,No,MAVERICK SQ,Part three,Firearm,780544.3158,SUMNER ST,2959876.425,2015
+73607,152013997.0,Saturday,No,2015-02-21T10:25:00.000,InvPer,"[-71.07571, 42.319916]",Point,InvPer,2,DISTRB,0,B2,Day,No,GAYLAND ST,Part three,Other,770913.3282,,2941891.165,2015
+117668,152014122.0,Saturday,No,2015-02-21T19:56:00.000,InvPer,"[-71.058195, 42.350366]",Point,InvPer,2,ARREST,0,A1,First,No,UTICA ST,Part three,Firearm,775592.6298,UTICA PL,2953011.724,2015
+152404,152013905.0,Saturday,No,2015-02-21T00:03:00.000,InvPer,"[-71.07098, 42.271966]",Point,InvPer,2,DISTRB,0,B3,Last,No,RIVER ST,Part three,Unarmed,772280.4048,,2924423.878,2015
+155199,152014152.0,Saturday,No,2015-02-21T22:30:00.000,InvPer,"[-71.096165, 42.349011]",Point,InvPer,2,AB,0,D4,First,No,BEACON ST,Part three,Unarmed,765331.2485,,2952467.057,2015
+210643,152014118.0,Saturday,No,2015-02-21T08:00:00.000,InvPer,"[-71.058362, 42.358828]",Point,InvPer,2,LARCEN,0,A1,Day,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2015
+264467,152013999.0,Saturday,No,2015-02-21T12:10:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+264620,152014035.0,Saturday,No,2015-02-21T12:35:00.000,InvPer,"[0, 0]",Point,InvPer,2,PERGUN,0,B2,Day,No,VINING ST,Part three,Firearm,,,,2015
+265169,152014131.0,Saturday,No,2015-02-21T21:12:00.000,InvPer,"[0, 0]",Point,InvPer,2,PKNIFE,0,B2,First,No,WARNER ST,Part three,Knife,,DALE ST,,2015

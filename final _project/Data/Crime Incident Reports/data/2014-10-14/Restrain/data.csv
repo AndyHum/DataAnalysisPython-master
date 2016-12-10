@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10997,142038897.0,Tuesday,No,2014-10-14T10:00:00.000,Restrain,"[-71.07351, 42.333491]",Point,Restrain,10,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771483.5641,ALBANY ST,2946841.0930000003,2014
+187339,142038835.0,Tuesday,No,2014-10-14T09:00:00.000,Restrain,"[-71.085111, 42.315866]",Point,Restrain,10,IVPER,0,B2,Day,No,DECKARD ST,Part Two,Unarmed,768377.9117,,2940402.647,2014
+192898,142039674.0,Tuesday,No,2014-10-14T17:00:00.000,Restrain,"[-71.117835, 42.311561]",Point,Restrain,10,VIORDR,0,E13,First,No,DANE ST,Part Two,Unarmed,759534.6144,,2938792.604,2014

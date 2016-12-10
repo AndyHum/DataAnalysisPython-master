@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66086,130662200.0,Thursday,No,2013-10-17T10:02:00.000,InvProp,"[-71.07263, 42.299721]",Point,InvProp,10,IVPREM,462,C11,Day,No,BOWDOIN ST,Part three,Unarmed,771783.1615,GREENBRIER ST,2934535.9469999997,2013
+160719,130663812.0,Thursday,No,2013-10-17T17:30:00.000,InvProp,"[-71.104625, 42.347766]",Point,InvProp,10,LARCRT,630,D4,First,No,BUSWELL ST,Part three,Unarmed,763046.4653,,2952002.643,2013
+163038,130662563.0,Thursday,No,2013-10-17T13:12:00.000,InvProp,"[-71.047065, 42.337731]",Point,InvProp,10,IVPREM,213,C6,Day,No,W 3RD ST,Part three,Other,778625.6402,,2948423.084,2013
+197697,130663328.0,Thursday,No,2013-10-17T18:51:00.000,InvProp,"[-71.04448, 42.338051]",Point,InvProp,10,SHOTS ,209,C6,First,No,E 1ST ST,Part three,Other,779323.9099,W 1ST ST,2948543.4189999998,2013
+236968,130661646.0,Thursday,No,2013-10-17T01:44:00.000,InvProp,"[-71.04472, 42.290356]",Point,InvProp,10,IVPREM,0,C11,Last,No,MORRISSEY BL,Part three,Other,779351.7959,,2931162.275,2013

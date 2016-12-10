@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+157319,152007305.0,Tuesday,No,2015-01-27T13:30:00.000,MVAcc,"[-71.104273, 42.309722]",Point,MVAcc,1,PRIOR,0,E13,Day,No,WASHINGTON ST,Other,Unarmed,763205.8082,,2938139.2,2015
+229333,152007324.0,Tuesday,No,2015-01-27T16:27:00.000,MVAcc,"[-71.06262, 42.377671]",Point,MVAcc,1,MVA,0,A15,First,No,BARTLETT ST,Other,Unarmed,774345.4805,GREEN ST,2962956.042,2015
+251360,152007345.0,Tuesday,No,2015-01-27T19:45:00.000,MVAcc,"[-71.16125, 42.348941]",Point,MVAcc,1,MVA,0,D14,First,No,BEECHCROFT ST,Other,Unarmed,747737.7147,WASHINGTON ST,2952364.962,2015

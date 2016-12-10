@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30426,130528827.0,Wednesday,No,2013-08-21T20:20:00.000,LICViol,"[-71.05554, 42.359266]",Point,LICViol,8,CD35  ,0,A1,First,No,MERCHANTS RW,Part three,Unarmed,776293.405,,2956258.7810000004,2013
+32768,130528781.0,Wednesday,No,2013-08-21T22:00:00.000,LICViol,"[0, 0]",Point,LICViol,8,CD35  ,93,A1,First,No,FANEUIL HALL SQ,Part three,Unarmed,,,,2013
+56460,130528763.0,Wednesday,No,2013-08-21T21:50:00.000,LICViol,"[-71.05582, 42.360091]",Point,LICViol,8,CD35  ,93,A1,First,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2013
+237468,130528949.0,Wednesday,No,2013-08-21T23:25:00.000,LICViol,"[-71.06465, 42.352016]",Point,LICViol,8,CD35  ,117,A1,First,No,TREMONT ST,Part three,Unarmed,773844.7032,,2953604.043,2013

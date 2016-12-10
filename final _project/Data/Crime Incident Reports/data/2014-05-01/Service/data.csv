@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49831,140264610.0,Thursday,No,2014-05-01T06:00:00.000,Service,"[-71.093582, 42.330188]",Point,Service,5,CD11  ,290,B2,Last,No,ROXBURY ST,Part three,Unarmed,766061.9973,,2945610.765,2014
+61601,140265080.0,Thursday,No,2014-05-01T10:40:00.000,Service,"[-71.059987, 42.361648]",Point,Service,5,ARREST,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+78089,140265944.0,Thursday,No,2014-05-01T16:00:00.000,Service,"[-71.03887, 42.371246]",Point,Service,5,ARREST,28,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+79707,140265905.0,Thursday,No,2014-05-01T16:37:00.000,Service,"[-71.058362, 42.358828]",Point,Service,5,ARREST,92,A1,First,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2014
+84308,140266622.0,Thursday,No,2014-05-01T21:44:00.000,Service,"[-71.08171, 42.315448]",Point,Service,5,CURFEW,323,B2,First,No,WELDON ST,Other,Unarmed,769298.5017,,2940254.7789999996,2014
+115399,140265131.0,Thursday,No,2014-05-01T10:57:00.000,Service,"[-71.061495, 42.356911]",Point,Service,5,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2014
+147764,140265309.0,Thursday,No,2014-05-01T12:18:00.000,Service,"[-71.064983, 42.287156]",Point,Service,5,ARREST,817,C11,Day,No,TALBOT AV,Part three,Unarmed,773875.1664,,2929967.579,2014
+161718,140266065.0,Thursday,No,2014-05-01T16:29:00.000,Service,"[-71.058805, 42.358531]",Point,Service,5,IVPER ,72,A1,First,No,COURT SQ,Part three,Unarmed,775412.349,,2955986.3510000003,2014
+164690,140264976.0,Thursday,No,2014-05-01T09:39:00.000,Service,"[-71.087815, 42.340856]",Point,Service,5,ARREST,283,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767602.7587,,2949506.019,2014
+246199,140264841.0,Thursday,No,2014-05-01T08:34:00.000,Service,"[-71.048222, 42.33785]",Point,Service,5,CD11  ,213,C6,Day,No,ATHENS ST,Other,Unarmed,778312.5847,,2948464.69,2014

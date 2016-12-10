@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14266,142032588.0,Wednesday,No,2014-09-24T11:30:00.000,SearchWarr,"[-71.078742, 42.303175]",Point,SearchWarr,9,IVMV,0,C11,Day,No,ERIE ST,Part three,Unarmed,770123.4728,WASHINGTON ST,2935786.126,2014
+158587,142032585.0,Wednesday,No,2014-09-24T12:00:00.000,SearchWarr,"[-71.082445, 42.300186]",Point,SearchWarr,9,IVPREM,0,B3,Day,No,GLENWAY ST,Part three,Unarmed,769127.1034,,2934692.249,2014
+213833,142033385.0,Wednesday,No,2014-09-24T12:00:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,9,CD11,0,A1,Day,No,BULFINCH PL,Part three,Other,774549.1083,,2957241.005,2014

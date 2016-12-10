@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133661,152033248.0,Friday,No,2015-04-24T03:30:00.000,DISORDERLY,"[-71.084225, 42.349351]",Point,24xx,4,DISTRB,0,D4,Last,No,GLOUCESTER ST,Part Two,Unarmed,768558.2328,,2952606.4669999997,2015
+161077,152033404.0,Friday,No,2015-04-24T15:15:00.000,DISORDERLY,"[-71.062575, 42.352726]",Point,24xx,4,AB,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774404.2569,,2953865.65,2015
+229228,152033241.0,Friday,No,2015-04-24T02:30:00.000,DISORDERLY,"[-71.065485, 42.351054]",Point,24xx,4,ARREST,0,A1,Last,No,STUART ST,Part Two,Unarmed,773620.7745,WARRENTON ST,2953252.21,2015

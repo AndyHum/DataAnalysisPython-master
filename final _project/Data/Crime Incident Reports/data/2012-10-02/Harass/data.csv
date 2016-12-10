@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+118805,120619924.0,Tuesday,No,2012-10-02T15:45:00.000,Harass,"[-71.082485, 42.332456]",Point,Harass,10,HARPT ,276,B2,Day,No,WILLIAMS ST,Part Two,Unarmed,769058.7207,,2946451.916,2012
+230868,120620111.0,Tuesday,No,2012-10-02T15:30:00.000,Harass,"[-71.131796, 42.352053]",Point,Harass,10,DKDIST,794,D14,Day,No,HARVARD AV,Part Two,Other,755694.562,,2953532.085,2012
+251969,120620652.0,Tuesday,No,2012-10-02T21:00:00.000,Harass,"[-71.053666, 42.329958]",Point,Harass,10,THREAT,193,C6,First,No,VINTON ST,Part Two,Unarmed,776855.6936,,2945580.857,2012

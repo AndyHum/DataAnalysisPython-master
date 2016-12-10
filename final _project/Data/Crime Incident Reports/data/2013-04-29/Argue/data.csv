@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11128,130251471.0,Monday,No,2013-04-29T07:04:00.000,Argue,"[-71.05794, 42.287391]",Point,Argue,4,IVPER ,0,C11,Last,No,ASHMONT ST,Part Three,Unarmed,775780.4966,FLORIDA ST,2930062.973,2013
+191704,130252849.0,Monday,No,2013-04-29T18:38:00.000,Argue,"[-71.064315, 42.299161]",Point,Argue,4,NIDV  ,356,C11,First,No,GENEVA AV,Part Three,Unarmed,774033.6405,,2934343.255,2013
+238511,130252302.0,Monday,No,2013-04-29T14:20:00.000,Argue,"[-71.069582, 42.284133]",Point,Argue,4,FIGHT ,402,C11,Day,No,BURT ST,Part Three,Unarmed,772636.202,,2928859.293,2013

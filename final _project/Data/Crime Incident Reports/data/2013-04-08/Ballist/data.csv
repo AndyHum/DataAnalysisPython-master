@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+171666,130205610.0,Monday,No,2013-04-08T01:47:00.000,Ballist,"[-71.0804, 42.328511]",Point,Ballist,4,SHOTS ,281,B2,Last,No,DUDLEY ST,Part Two,Firearm,769629.4938,,2945016.955,2013
+215912,130207242.0,Monday,No,2013-04-08T18:06:00.000,Ballist,"[-71.13907, 42.277856]",Point,Ballist,4,FDPROP,685,E5,First,No,HAYDN ST,Part Two,Firearm,753842.9942,,2926484.9460000005,2013
+231137,130206008.0,Monday,No,2013-04-08T09:10:00.000,Ballist,"[-71.11412, 42.248561]",Point,Ballist,4,IVPREM,514,E18,Day,No,FAIRMOUNT AV,Part Two,Unarmed,760643.3031,,2915839.019,2013
+258311,130205527.0,Monday,No,2013-04-08T00:38:00.000,Ballist,"[-71.068529, 42.377114]",Point,Ballist,4,SHOTS ,58,A15,Last,No,DUNSTABLE ST,Part Two,Other,772749.7668,,2962744.6810000003,2013

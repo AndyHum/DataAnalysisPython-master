@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88,152032177.0,Wednesday,No,2015-04-15T12:00:00.000,EMBEZELLMENT,"[0, 0]",Point,12xx,4,LARCEN,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015
+162254,152032421.0,Wednesday,No,2015-04-15T22:20:00.000,EMBEZELLMENT,"[-71.056345, 42.358871]",Point,12xx,4,LARCEN,0,A1,First,No,STATE ST,Part Two,Unarmed,776076.5836,,2956113.703,2015

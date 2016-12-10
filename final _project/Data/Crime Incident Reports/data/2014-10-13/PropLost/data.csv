@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18224,142038649.0,Monday,No,2014-10-13T12:00:00.000,PropLost,"[-71.07772, 42.350841]",Point,PropLost,10,PROP,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,770313.9482,DARTMOUTH ST,2953158.0889999997,2014
+18984,142038639.0,Monday,No,2014-10-13T10:45:00.000,PropLost,"[-71.13241, 42.353026]",Point,PropLost,10,PROP,0,D14,Day,No,BRIGHTON AV,Part three,Unarmed,755527.2809,,2953885.8989999997,2014
+100182,142038759.0,Monday,No,2014-10-13T21:43:00.000,PropLost,"[-71.08051, 42.307658]",Point,PropLost,10,PROP,0,B2,First,No,GENEVA AV,Part three,Unarmed,769636.9643,,2937417.7189999996,2014
+102864,142039920.0,Monday,No,2014-10-13T22:00:00.000,PropLost,"[-71.07739, 42.314841]",Point,PropLost,10,PROP,0,B2,First,No,DACIA ST,Part three,Unarmed,770468.1499,,2940039.4960000003,2014
+106535,142038875.0,Monday,No,2014-10-13T18:00:00.000,PropLost,"[-71.145052, 42.34499]",Point,PropLost,10,PROP,0,D14,First,No,WASHINGTON ST,Part three,Unarmed,752122.333,,2950942.686,2014
+119776,142038591.0,Monday,No,2014-10-13T11:35:00.000,PropLost,"[-71.08936, 42.290331]",Point,PropLost,10,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767273.7072,FLOYD ST,2931091.857,2014
+146230,142038722.0,Monday,No,2014-10-13T19:15:00.000,PropLost,"[-71.092958, 42.332518]",Point,PropLost,10,PROP,0,B2,First,No,TREMONT ST,Part three,Unarmed,766226.6627,,2946460.8189999997,2014
+237966,142038600.0,Monday,No,2014-10-13T12:00:00.000,PropLost,"[-71.082055, 42.316091]",Point,PropLost,10,PROP,0,B2,Day,No,QUINCY ST,Part three,Unarmed,769204.2079,,2940488.7989999996,2014
+260810,142038896.0,Monday,No,2014-10-13T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,PROP,0,C11,First,No,SAVIN HILL AV,Part three,Unarmed,,,,2014
+261086,142038549.0,Monday,No,2014-10-13T07:51:00.000,PropLost,"[0, 0]",Point,PropLost,10,LARCEN,0,B2,Day,No,FRANKLIN PARK RD,Part three,Unarmed,,,,2014
+264369,142038690.0,Monday,No,2014-10-13T15:30:00.000,PropLost,"[0, 0]",Point,PropLost,10,LARCEN,0,A1,Day,No,OCONNELL WY,Part three,Unarmed,,,,2014
+264521,142041247.0,Monday,No,2014-10-13T09:30:00.000,PropLost,"[0, 0]",Point,PropLost,10,PROP,0,B2,Day,No,ATLANTIC AV,Part three,Unarmed,,,,2014
+265149,142038824.0,Monday,No,2014-10-13T23:30:00.000,PropLost,"[0, 0]",Point,PropLost,10,PROP,0,A1,First,No,HANOVER ST,Part three,Unarmed,,,,2014

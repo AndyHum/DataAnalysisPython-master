@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79465,142033049.0,Thursday,No,2014-09-25T19:12:00.000,Service,"[-71.091095, 42.320611]",Point,Service,9,IVPER,0,B2,First,No,KENSINGTON ST,Part three,Unarmed,766751.3719,,2942124.113,2014
+142446,142032862.0,Thursday,No,2014-09-25T10:15:00.000,Service,"[-71.06923, 42.302081]",Point,Service,9,ARREST,0,C11,Day,No,GENEVA AV,Part three,Unarmed,772698.6120000001,HOLIDAY ST,2935400.5930000003,2014
+251546,142033073.0,Thursday,No,2014-09-25T20:30:00.000,Service,"[-71.052015, 42.339541]",Point,Service,9,IVPER,0,C6,First,No,W BROADWAY,Other,Unarmed,777283.8706,,2949075.6119999997,2014

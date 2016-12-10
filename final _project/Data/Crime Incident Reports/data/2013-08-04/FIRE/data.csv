@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86767,130486618.0,Sunday,No,2013-08-04T13:20:00.000,FIRE,"[-71.11279, 42.256516]",Point,FIRE,8,FIREB ,511,E18,Day,No,PLEASANT AV,Part three,Unarmed,760990.2348,,2918739.5510000004,2013
+105685,130486009.0,Sunday,No,2013-08-04T03:29:00.000,FIRE,"[-71.057942, 42.379287]",Point,FIRE,8,FV    ,900,A15,Last,No,MEDFORD ST,Part three,Other,775606.1433,,2963551.393,2013
+239015,130487431.0,Sunday,No,2013-08-04T20:25:00.000,FIRE,"[-71.10539, 42.286761]",Point,FIRE,8,FV    ,503,E18,First,No,WALK HILL ST,Part three,Unarmed,762942.5197,PAINE ST,2929770.423,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14326,120453096.0,Sunday,No,2012-07-22T23:38:00.000,Ballist,"[-71.070615, 42.320596]",Point,Ballist,7,SHOTS ,183,B2,First,No,LEYLAND ST,Part Two,Firearm,772289.9823,,2942145.8639999996,2012
+61516,120451323.0,Sunday,No,2012-07-22T02:00:00.000,Ballist,"[-71.107209, 42.304861]",Point,Ballist,7,SHOTS ,570,E13,Last,No,ROSSMORE RD,Part Two,Firearm,762419.7822,,2936364.061,2012
+241033,120452390.0,Sunday,No,2012-07-22T16:40:00.000,Ballist,"[-71.06623, 42.349561]",Point,Ballist,7,FDWEAP,121,A1,First,No,LYNDEBORO PL,Part Two,Unarmed,773422.1726,,2952707.2189999996,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18316,140000744.0,Wednesday,No,2014-01-01T04:35:00.000,InvProp,"[-71.118295, 42.277426]",Point,InvProp,1,SHOTS ,498,E18,Last,No,CLARE AV,Part three,Unarmed,759465.8606,,2926352.7210000004,2014
+39987,140000535.0,Wednesday,No,2014-01-01T02:52:00.000,InvProp,"[-71.0869, 42.334601]",Point,InvProp,1,IVPREM,288,B2,Last,No,RAYNOR CR,Part three,Firearm,767861.1711,ST FRANCIS DESALES CT,2947227.7789999996,2014
+51528,140001667.0,Wednesday,No,2014-01-01T17:11:00.000,InvProp,"[-71.115975, 42.321771]",Point,InvProp,1,THREAT,610,E13,First,No,PERKINS SQ,Part three,Unarmed,760020.9284,,2942515.559,2014
+137943,140001809.0,Wednesday,No,2014-01-01T18:30:00.000,InvProp,"[-71.122285, 42.287586]",Point,InvProp,1,CTYALM,562,E5,First,No,FLORENCE ST,Part three,Unarmed,758369.6781,,2930050.3680000002,2014
+158842,140000730.0,Wednesday,No,2014-01-01T04:21:00.000,InvProp,"[-71.10603, 42.277126]",Point,InvProp,1,SHOTS ,477,B3,Last,No,STONECREST RD,Part three,Other,762785.5656,,2926258.4910000004,2014
+176628,140001386.0,Wednesday,No,2014-01-01T14:04:00.000,InvProp,"[-71.152305, 42.349041]",Point,InvProp,1,REQP  ,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750155.5649,,2952411.135,2014
+176813,140000033.0,Wednesday,No,2014-01-01T00:06:00.000,InvProp,"[-71.093933, 42.282848]",Point,InvProp,1,IVPREM,466,B3,Last,No,ORMOND ST,Part three,Unarmed,766049.1831,,2928358.769,2014

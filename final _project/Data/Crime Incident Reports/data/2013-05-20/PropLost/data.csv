@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10999,130303742.0,Monday,No,2013-05-20T09:00:00.000,PropLost,"[-71.054711, 42.341305]",Point,PropLost,5,LSTPRP,200,C6,Day,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2013
+41491,130346806.0,Monday,No,2013-05-20T16:00:00.000,PropLost,"[-71.088875, 42.325151]",Point,PropLost,5,LSTPRP,293,B2,First,No,JUNIPER ST,Part three,Unarmed,767343.7713,,2943781.453,2013
+68679,130327915.0,Monday,No,2013-05-20T18:00:00.000,PropLost,"[-71.10549, 42.322646]",Point,PropLost,5,LSTPRP,582,E13,First,No,CENTRE ST,Part Three,Unarmed,762854.9768,,2942847.3680000002,2013
+69246,130301277.0,Monday,No,2013-05-20T11:53:00.000,PropLost,"[-71.115975, 42.321771]",Point,PropLost,5,LARCRT,610,E13,Day,No,PERKINS ST,Part Three,Unarmed,760020.9284,,2942515.559,2013
+120015,130303659.0,Monday,No,2013-05-20T12:00:00.000,PropLost,"[-71.08769, 42.282081]",Point,PropLost,5,LSTPRP,429,B3,Day,No,MORTON ST,Part Three,Unarmed,767740.0878,,2928087.6180000002,2013
+166754,130330537.0,Monday,No,2013-05-20T13:45:00.000,PropLost,"[-71.088875, 42.291651]",Point,PropLost,5,IVPREM,440,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767402.6131,,2931573.5160000003,2013
+216867,130304521.0,Monday,No,2013-05-20T16:00:00.000,PropLost,"[-71.05385, 42.337311]",Point,PropLost,5,INVEST,936,C6,First,No,ORTON MAROTTA WY,Part Three,Unarmed,776792.0166,,2948260.361,2013
+229324,130303492.0,Monday,No,2013-05-20T17:43:00.000,PropLost,"[-71.07214, 42.337631]",Point,PropLost,5,LSTPRP,168,D4,First,No,E NEWTON ST,Part three,Unarmed,771846.4215,,2948351.639,2013
+262241,130324718.0,Monday,No,2013-05-20T14:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LSTPRP,139,D4,Day,No,GLOUCESTER ST,Part three,Unarmed,,,,2013
+263596,130300896.0,Monday,No,2013-05-20T06:50:00.000,PropLost,"[0, 0]",Point,PropLost,5,LSTPRP,397,E13,Last,No,SCHOOL ST,Part Three,Unarmed,,,,2013

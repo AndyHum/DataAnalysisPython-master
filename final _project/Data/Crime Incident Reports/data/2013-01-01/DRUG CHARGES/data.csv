@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63501,130000099.0,Tuesday,No,2013-01-01T00:35:00.000,DRUG CHARGES,"[-71.08561, 42.309006]",Point,18xx,1,IVPREM,0,B2,Last,No,MAPLE ST,Part Two,Other,768255.2731,,2937902.2189999996,2013
+98070,130001382.0,Tuesday,No,2013-01-01T14:30:00.000,DRUG CHARGES,"[-71.07065, 42.319551]",Point,18xx,1,IVPER ,183,B2,Day,No,DUDLEY ST,Part Two,Other,772282.4306,FOLSOM ST,2941765.0,2013
+175363,130000877.0,Tuesday,No,2013-01-01T12:51:00.000,DRUG CHARGES,"[-71.077145, 42.350131]",Point,18xx,1,FDPROP,134,D4,Day,No,BOYLSTON PL,Part Two,Unarmed,770470.6585,,2952900.122,2013
+188244,130001677.0,Tuesday,No,2013-01-01T17:14:00.000,DRUG CHARGES,"[-71.087885, 42.309016]",Point,18xx,1,ARREST,319,B2,First,No,ELM HILL AV,Part Two,Other,767639.8954,,2937902.8819999998,2013

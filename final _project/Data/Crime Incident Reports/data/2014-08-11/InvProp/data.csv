@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50271,142018360.0,Monday,No,2014-08-11T00:00:00.000,InvProp,"[-71.074462, 42.298821]",Point,InvProp,8,BE,0,B3,Last,No,HARVARD PARK,Part three,Unarmed,771289.1227,,2934205.2589999996,2014
+53812,142018345.0,Monday,No,2014-08-11T10:15:00.000,InvProp,"[-71.074698, 42.318167]",Point,InvProp,8,IVPREM,0,B2,Day,No,BROOKFORD ST,Part three,Unarmed,771190.0173,,2941254.8710000003,2014
+61667,142018487.0,Monday,No,2014-08-11T22:50:00.000,InvProp,"[-71.087943, 42.271329]",Point,InvProp,8,SHOTS,0,B3,First,No,LINVALE TR,Part three,Unarmed,767690.3241,,2924169.039,2014
+63118,142018122.0,Monday,No,2014-08-11T02:00:00.000,InvProp,"[-71.121654, 42.269662]",Point,InvProp,8,IVPREM,0,E18,Last,No,PROVIDENCE ST,Part three,Unarmed,758569.1685,,2923519.163,2014
+75450,142018208.0,Monday,No,2014-08-11T10:08:00.000,InvProp,"[-71.095034, 42.275902]",Point,InvProp,8,IVMV,0,B3,Day,No,TENNIS RD,Part three,Unarmed,765763.285,,2925826.202,2014
+94634,142018464.0,Monday,No,2014-08-11T21:01:00.000,InvProp,"[-71.10141, 42.274511]",Point,InvProp,8,SHOTS,0,B3,First,No,ITASCA ST,Part three,Unarmed,764040.3017,MESSINGER ST,2925311.356,2014
+126393,142018401.0,Monday,No,2014-08-11T18:30:00.000,InvProp,"[-71.072235, 42.323546]",Point,InvProp,8,SSA,0,B2,First,No,SHIRLEY ST,Part three,Unarmed,771846.4759,,2943218.693,2014
+176715,142018107.0,Monday,No,2014-08-11T00:10:00.000,InvProp,"[-71.050315, 42.359846]",Point,InvProp,8,BE,0,A1,Last,No,LONG WHRF,Part three,Unarmed,777704.4662,,2956477.546,2014
+212754,142018161.0,Monday,No,2014-08-11T09:00:00.000,InvProp,"[-71.145305, 42.360826]",Point,InvProp,8,IVPREM,0,D14,Day,No,WAVERLY ST,Part three,Unarmed,752029.9319,,2956713.625,2014

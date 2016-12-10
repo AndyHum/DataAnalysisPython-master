@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133716,152001020.0,Wednesday,No,2014-12-31T20:00:00.000,PersLoc,"[-71.119205, 42.293366]",Point,PersLoc,12,IVPER,0,E5,First,No,BROOKWAY RD,Other,Unarmed,759193.6613,,2932160.394,2014
+144050,142062097.0,Wednesday,No,2014-12-31T12:40:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,12,IVPER,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+195067,142062066.0,Wednesday,No,2014-12-31T16:32:00.000,PersLoc,"[-71.07713, 42.280711]",Point,PersLoc,12,IVPER,0,B3,First,No,FULLER ST,Other,Unarmed,770600.1297,,2927602.3639999996,2014
+201523,152000041.0,Wednesday,No,2014-12-31T21:00:00.000,PersLoc,"[-71.10839, 42.264916]",Point,PersLoc,12,IVPER,0,E18,First,No,GEORGE ST,Other,Unarmed,762167.3171,,2921806.057,2014
+217428,152000204.0,Wednesday,No,2014-12-31T20:00:00.000,PersLoc,"[-71.06471, 42.292631]",Point,PersLoc,12,MISSIN,0,C11,First,No,NIXON ST,Other,Unarmed,773938.9248,,2931963.082,2014
+260449,152000510.0,Wednesday,No,2014-12-31T20:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,12,MISSIN,0,C11,First,No,SEMONT RD,Other,Unarmed,,,,2014
+261374,142062047.0,Wednesday,No,2014-12-31T07:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,12,MISSIN,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,,,,2014

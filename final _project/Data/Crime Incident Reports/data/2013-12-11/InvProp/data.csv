@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92614,130780150.0,Wednesday,No,2013-12-11T10:50:00.000,InvProp,"[-71.073978, 42.333151]",Point,InvProp,12,IVPREM,171,D4,Day,No,ALBANY ST,Part three,Unarmed,771357.6081,,2946716.26,2013
+161876,130779986.0,Wednesday,No,2013-12-11T09:30:00.000,InvProp,"[-71.086655, 42.348466]",Point,InvProp,12,ALARMC,141,D4,Day,No,NEWBURY ST,Part three,Other,767902.9271,,2952280.765,2013
+180444,130820578.0,Wednesday,No,2013-12-11T14:17:00.000,InvProp,"[-71.122975, 42.292076]",Point,InvProp,12,LARCRT,664,E5,Day,No,MOSGROVE AV,Part three,Unarmed,758175.7464,,2931685.767,2013
+243637,130780456.0,Wednesday,No,2013-12-11T08:00:00.000,InvProp,"[-71.058795, 42.358941]",Point,InvProp,12,LARCRT,97,A1,Day,No,COURT ST,Part three,Unarmed,775414.2792,,2956135.777,2013

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103,152033328.0,Friday,No,2015-04-24T11:33:00.000,InvPer,"[0, 0]",Point,InvPer,4,VIORDR,0,B3,Day,No,NORFOLK TR,Part three,Unarmed,,,,2015
+2438,152046221.0,Friday,No,2015-04-24T13:00:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVPER,0,C11,Day,No,COTTAGE ST,Part three,Unarmed,,,,2015
+26682,152033461.0,Friday,No,2015-04-24T18:00:00.000,InvPer,"[-71.093142, 42.325992]",Point,InvPer,4,IVPER,0,B2,First,No,HIGHLAND ST,Part three,Unarmed,766188.2507,,2944082.33,2015
+60062,152033346.0,Friday,No,2015-04-24T09:00:00.000,InvPer,"[-71.061984, 42.36231]",Point,InvPer,4,IVPER,0,A1,Day,No,NEW CHARDON ST,Part three,Unarmed,774546.0673,,2957359.042,2015
+101910,152033419.0,Friday,No,2015-04-24T16:40:00.000,InvPer,"[-71.084646, 42.304835]",Point,InvPer,4,IVPER,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,768523.3694,,2936383.492,2015
+159486,152033467.0,Friday,No,2015-04-24T18:31:00.000,InvPer,"[-71.091908, 42.320862]",Point,InvPer,4,IVPER,0,B2,First,No,ELMORE ST,Part three,Unarmed,766530.9472,,2942214.5519999997,2015
+176719,152033387.0,Friday,No,2015-04-24T13:00:00.000,InvPer,"[-71.134445, 42.278796]",Point,InvPer,4,ALARM,0,E5,Day,No,CORNELL ST,Part three,Unarmed,755093.1538,,2926832.8260000004,2015
+197486,152033524.0,Friday,No,2015-04-24T23:30:00.000,InvPer,"[-71.069885, 42.302466]",Point,InvPer,4,SS,0,C11,First,No,GENEVA AV,Part three,Unarmed,772520.7157,,2935539.999,2015
+218308,152043582.0,Friday,No,2015-04-24T16:00:00.000,InvPer,"[-70.99966, 42.389901]",Point,InvPer,4,IVMV,0,A7,First,No,ORIENT AV,Part three,Unarmed,791330.7408,,2967506.409,2015
+243520,152033479.0,Friday,No,2015-04-24T19:15:00.000,InvPer,"[-71.06459, 42.375656]",Point,InvPer,4,IVPREM,0,A15,First,No,MAIN ST,Part three,Unarmed,773816.9451,GREEN ST,2962219.012,2015
+259592,152033681.0,Friday,No,2015-04-24T21:30:00.000,InvPer,"[-71.071785, 42.321386]",Point,InvPer,4,IVPER,0,B2,First,No,E COTTAGE ST,Part three,Unarmed,771972.1213,DUDLEY ST,2942432.162,2015

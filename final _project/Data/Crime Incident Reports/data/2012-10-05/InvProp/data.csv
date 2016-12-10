@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+156372,120628436.0,Friday,No,2012-10-05T23:19:00.000,InvProp,"[-71.100769, 42.325321]",Point,InvProp,10,IVPREM,912,E13,First,No,PARKER ST,Part Three,Other,764127.0458,,2943828.1319999998,2012
+240392,120627374.0,Friday,No,2012-10-05T14:24:00.000,InvProp,"[-71.094815, 42.277296]",Point,InvProp,10,INVEST,469,B3,Day,No,MATTAPAN ST,Part Three,Unarmed,765820.3275,,2926334.66,2012
+250697,120626195.0,Friday,No,2012-10-05T05:55:00.000,InvProp,"[-71.059615, 42.312879]",Point,InvProp,10,BEIP  ,823,C11,Last,No,SAWYER AV,Part Three,Unarmed,775279.099,,2939348.8310000002,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10800,142033346.0,Friday,No,2014-09-26T17:05:00.000,SkipFare,"[-71.09908, 42.344211]",Point,SkipFare,9,LARCEN,0,D4,First,No,BOYLSTON ST,Part Two,Unarmed,764551.4944,,2950714.1289999997,2014
+54816,142033146.0,Friday,No,2014-09-26T05:12:00.000,SkipFare,"[-71.079084, 42.274661]",Point,SkipFare,9,LARCEN,0,B3,Last,No,FREELAND ST,Part Two,Unarmed,770082.1684,,2925394.732,2014
+163587,142033939.0,Friday,No,2014-09-26T10:23:00.000,SkipFare,"[-71.064041, 42.330883]",Point,SkipFare,9,LARCEN,0,C6,Day,No,SOUTHAMPTON ST,Part Two,Unarmed,774048.6618,,2945903.515,2014
+206874,142033140.0,Friday,No,2014-09-26T03:22:00.000,SkipFare,"[-71.15342, 42.349091]",Point,SkipFare,9,LARCEN,0,D14,Last,No,MARKET ST,Part Two,Unarmed,749854.0873,WASHINGTON ST,2952428.1289999997,2014

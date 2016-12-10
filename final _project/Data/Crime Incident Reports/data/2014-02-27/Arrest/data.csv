@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46412,140121808.0,Thursday,No,2014-02-27T09:17:00.000,Arrest,"[-71.105, 42.322691]",Point,Arrest,2,IVPER ,0,E13,Day,No,CENTRE ST,Part three,Unarmed,762987.4119,,2942864.38,2014
+55520,140121645.0,Thursday,No,2014-02-27T08:05:00.000,Arrest,"[-71.10015, 42.270356]",Point,Arrest,2,ARREST,480,E18,Day,No,CUMMINS HY,Part three,Unarmed,764388.4009,,2923798.814,2014
+163382,140121944.0,Thursday,No,2014-02-27T10:30:00.000,Arrest,"[-71.078394, 42.32898]",Point,Arrest,2,ARREST,904,B2,Day,No,EUSTIS ST,Part three,Unarmed,770171.0377,,2945190.659,2014
+185044,140122921.0,Thursday,No,2014-02-27T18:16:00.000,Arrest,"[-71.05677, 42.320701]",Point,Arrest,2,ARREST,236,C11,First,No,COLUMBIA RD,Part three,Unarmed,776033.9979,DORCHESTER AV,2942203.2789999996,2014

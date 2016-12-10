@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+138974,142013937.0,Monday,No,2014-07-28T19:03:00.000,PropDam,"[-71.05836, 42.365211]",Point,PropDam,7,REQP,0,A1,First,No,N WASHINGTON ST,Part three,Unarmed,775520.0173,THACHER ST,2958421.296,2014
+248959,142013685.0,Monday,No,2014-07-28T10:48:00.000,PropDam,"[-71.03343, 42.378486]",Point,PropDam,7,PROP,0,A7,Day,No,PRINCETON ST,Part three,Unarmed,782230.82,,2963294.84,2014
+261715,142013669.0,Monday,No,2014-07-28T10:30:00.000,PropDam,"[0, 0]",Point,PropDam,7,IVPREM,0,A7,Day,No,VIENNA ST,Part three,Unarmed,,,,2014

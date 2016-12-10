@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57027,120775930.0,Tuesday,No,2012-12-11T14:30:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,12,MISPER,784,D14,Day,No,WARREN ST,Part Three,Unarmed,752824.3316,,2952548.8430000003,2012
+95119,120782084.0,Tuesday,No,2012-12-11T11:00:00.000,PersLoc,"[-71.06543, 42.348736]",Point,PersLoc,12,MSNCOM,127,A1,Day,No,TREMONT ST,Part Three,Unarmed,773639.9559,,2952407.6739999996,2012
+179736,120776329.0,Tuesday,No,2012-12-11T19:14:00.000,PersLoc,"[-71.10269, 42.306341]",Point,PersLoc,12,MSNCOM,567,E13,First,No,FOREST HILLS ST,Part Three,Unarmed,763639.8581,,2936909.067,2012

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18166,,Tuesday,No,2015-06-30T00:00:00.000,Simple Assault,"[-71.082513, 42.313635]",Point,08xx,6,AB,322,B2,,No,GASTON ST,Part Two,None,769085.0,,2940000.0,2015
+24680,,Tuesday,No,2015-06-30T00:00:00.000,Simple Assault,"[-71.095081, 42.3232]",Point,08xx,6,REQP,302,B2,,No,HIGHLAND ST,Part Two,None,765669.0,,2940000.0,2015
+80164,,Tuesday,No,2015-06-30T00:00:00.000,Simple Assault,"[-71.040364, 42.382292]",Point,08xx,6,AB,26,,,No,BORDER ST,Part Two,None,780350.0,,2960000.0,2015
+86776,,Tuesday,No,2015-06-30T00:00:00.000,Simple Assault,"[-71.093913, 42.314305]",Point,08xx,6,AB,316,E13,,No,WALNUT AVE,Part Two,Personal Weapon (hand  foot  etc.),766000.0,,2940000.0,2015
+133208,,Tuesday,No,2015-06-30T00:00:00.000,Simple Assault,"[-71.107629, 42.263025]",Point,08xx,6,IVPER,488,E18,,No,RIVER ST,Part Two,None,762376.0,,2920000.0,2015
+192342,,Tuesday,No,2015-06-30T14:00:00.000,Simple Assault,"[0, 0]",Point,08xx,6,REQP,134,D4,,No,BOYLSTON ST,Part Two,None,,DARTMOUTH ST,,2015
+205724,,Tuesday,No,2015-06-30T00:00:00.000,Simple Assault,"[-71.102204, 42.322903]",Point,08xx,6,AB,912,E13,,No,CENTRE ST,Part Two,None,763743.0,,2940000.0,2015
+216828,,Tuesday,No,2015-06-30T05:20:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,812,D14,,No,N HARVARD ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+229467,,Tuesday,No,2015-06-30T11:12:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,175,C6,,No,BRADSTON ST,Part Two,None,,,,2015
+233754,,Tuesday,No,2015-06-30T00:00:00.000,Simple Assault,"[-71.089499, 42.292252]",Point,08xx,6,ARREST,464,B3,,No,PAXTON ST,Part Two,None,767233.0,,2930000.0,2015

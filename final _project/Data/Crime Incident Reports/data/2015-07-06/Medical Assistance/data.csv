@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23757,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.082623, 42.309384]",Point,MedAssist,7,PERGUN,329,B2,,No,BLUE HILL AVE,Part Three,None,769062.0,,2940000.0,2015
+33420,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.099224, 42.314855]",Point,MedAssist,7,REQEP,572,E13,,No,WASHINGTON ST,Part Three,None,764563.0,,2940000.0,2015
+56506,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.154077, 42.262803]",Point,MedAssist,7,ALARM,822,E5,,No,RIDGECREST TER,Part Three,None,749804.0,,2920000.0,2015
+76543,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.066316, 42.288638]",Point,MedAssist,7,DISTRB,817,C11,,No,TALBOT AVE,Part Three,None,773512.0,,2930000.0,2015
+138012,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.074192, 42.343734]",Point,MedAssist,7,IVPER,153,D4,,No,DARTMOUTH ST,Part Three,None,771281.0,,2950000.0,2015
+144701,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.07113, 42.315849]",Point,MedAssist,7,EDP,259,B2,,No,MAGNOLIA ST,Part Three,None,772159.0,,2940000.0,2015
+157482,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.156438, 42.260747]",Point,MedAssist,7,ALARM,549,E5,,No,CHERITON RD,Part Three,None,749168.0,,2920000.0,2015
+167119,,Monday,No,2015-07-06T22:36:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,INJOFF,187,C6,,No,BOSTON ST,Part Three,None,,HARVEST ST,,2015
+204726,,Monday,No,2015-07-06T22:38:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,INJOFF,187,C6,,No,BOSTON ST,Part Three,None,,HARVEST ST,,2015
+228657,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.077513, 42.382818]",Point,MedAssist,7,MVA,50,A15,,No,CAMBRIDGE ST,Part Three,None,770312.0,,2960000.0,2015
+242596,,Monday,No,2015-07-06T00:00:00.000,Medical Assistance,"[-71.055856, 42.360051]",Point,MedAssist,7,RESP,93,A1,,No,FANEUIL HALL MARKETPLACE,Part Three,None,776206.0,,2960000.0,2015

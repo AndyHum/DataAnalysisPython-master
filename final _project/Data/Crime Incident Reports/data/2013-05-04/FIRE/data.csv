@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12853,130265284.0,Saturday,No,2013-05-04T22:47:00.000,FIRE,"[-71.046345, 42.350666]",Point,FIRE,5,FV    ,207,C6,First,No,BOSTON WHARF RD,Part Three,Unarmed,778795.1671,,2953137.57,2013
+83999,130265022.0,Saturday,No,2013-05-04T20:45:00.000,FIRE,"[-71.147876, 42.339513]",Point,FIRE,5,FIREB ,787,D14,First,No,SELKIRK RD,Part three,Unarmed,751367.0244,,2948943.689,2013
+234967,130264138.0,Saturday,No,2013-05-04T12:53:00.000,FIRE,"[-71.045897, 42.334558]",Point,FIRE,5,FIREB ,220,C6,Day,No,E 4TH ST,Part Three,Unarmed,778947.4407,,2947268.271,2013

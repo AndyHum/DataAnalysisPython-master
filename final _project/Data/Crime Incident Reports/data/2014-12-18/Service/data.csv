@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11467,142058525.0,Thursday,No,2014-12-18T04:10:00.000,Service,"[-71.053152, 42.350913]",Point,Service,12,HAZMAT,0,A1,Last,No,DORCHESTER AV,Part three,Unarmed,776954.5983,,2953218.1769999997,2014
+73469,142058584.0,Thursday,No,2014-12-18T10:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,12,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+114050,142058568.0,Thursday,No,2014-12-18T09:45:00.000,Service,"[-71.059987, 42.361648]",Point,Service,12,SS,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+148082,142058635.0,Thursday,No,2014-12-18T13:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,12,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

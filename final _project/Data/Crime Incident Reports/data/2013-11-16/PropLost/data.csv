@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72420,130728572.0,Saturday,No,2013-11-16T11:00:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,11,LSTPRP,146,D4,Day,No,HUNTINGTON AV,Part three,Other,769682.0757,,2951649.883,2013
+189005,130728430.0,Saturday,No,2013-11-16T11:30:00.000,PropLost,"[-71.08718, 42.307476]",Point,PropLost,11,LARCRT,319,B2,Day,No,NAZING CT,Part three,Unarmed,767833.3058,,2937342.604,2013
+266383,130730009.0,Saturday,No,2013-11-16T22:30:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,820,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,,,,2013

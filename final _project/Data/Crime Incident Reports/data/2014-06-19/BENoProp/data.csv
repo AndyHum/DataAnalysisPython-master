@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14591,142001840.0,Thursday,No,2014-06-19T12:15:00.000,BENoProp,"[-71.06831, 42.349341]",Point,BENoProp,6,BE,0,A1,Day,No,CHURCH ST,Part One,Unarmed,772860.3243,,2952624.1939999997,2014
+89987,142000690.0,Thursday,No,2014-06-19T03:00:00.000,BENoProp,"[-71.107605, 42.263016]",Point,BENoProp,6,BE,0,E18,Last,No,RIVER ST,Part One,Unarmed,762382.984,,2921114.6489999997,2014
+247448,142000905.0,Thursday,No,2014-06-19T21:50:00.000,BENoProp,"[-71.11142, 42.330431]",Point,BENoProp,6,BE,0,E13,First,No,S HUNTINGTON AV,Part One,Unarmed,761238.4013,,2945677.0,2014

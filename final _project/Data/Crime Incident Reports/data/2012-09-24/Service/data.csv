@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99188,120600961.0,Monday,No,2012-09-24T17:38:00.000,Service,"[-71.06346, 42.343236]",Point,Service,9,IVPER ,0,D4,First,No,E BERKELEY ST,Part Three,Unarmed,774182.7413,,2950406.0939999996,2012
+189356,120599413.0,Monday,No,2012-09-24T01:30:00.000,Service,"[-71.08773, 42.347281]",Point,Service,9,ARREST,620,D4,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,767614.423,BOYLSTON ST,2951847.52,2012
+233507,120599427.0,Monday,No,2012-09-24T01:50:00.000,Service,"[-71.058202, 42.305288]",Point,Service,9,IVPREM,0,C11,Last,No,ELLSWORTH ST,Part Three,Unarmed,775675.8354,,2936584.56,2012
+259282,120603141.0,Monday,No,2012-09-24T15:05:00.000,Service,"[-71.0622, 42.293286]",Point,Service,9,ARREST,363,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,774616.7994,,2932205.249,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91,152033395.0,Friday,No,2015-04-24T14:45:00.000,FIRE,"[0, 0]",Point,FIRE,4,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,,,,2015
+152249,152033503.0,Friday,No,2015-04-24T21:11:00.000,FIRE,"[-71.070505, 42.346036]",Point,FIRE,4,FO,0,D4,First,No,BERKELEY ST,Part three,Unarmed,772273.0459,,2951416.795,2015
+153805,152033230.0,Friday,No,2015-04-24T00:05:00.000,FIRE,"[-71.106593, 42.268755]",Point,FIRE,4,FO,0,E18,Last,No,MARIPOSA ST,Part three,Unarmed,762647.2614,,2923207.0360000003,2015

@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38150,152005793.0,Wednesday,No,2015-01-21T22:09:00.000,Service,"[-71.071643, 42.290556]",Point,Service,1,ARMROB,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772066.839,,2931197.369,2015
+69144,152005596.0,Wednesday,No,2015-01-21T12:30:00.000,Service,"[-71.05976, 42.350111]",Point,Service,1,ARREST,0,A1,Day,No,KNEELAND ST,Part three,Unarmed,775170.0732,SURFACE RD,2952916.6089999997,2015
+87663,152005557.0,Wednesday,No,2015-01-21T10:31:00.000,Service,"[-71.062499, 42.310479]",Point,Service,1,IVPER,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,774503.7672,,2938470.1689999998,2015
+153630,152011608.0,Wednesday,No,2015-01-21T09:00:00.000,Service,"[-71.156334, 42.293841]",Point,Service,1,LARCEN,0,E5,Day,No,GARNET RD,Part three,Unarmed,749147.2392,,2932290.833,2015
+179654,152005778.0,Wednesday,No,2015-01-21T21:14:00.000,Service,"[-71.088555, 42.293241]",Point,Service,1,IVPER,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767486.3984,,2932153.353,2015
+208679,152005608.0,Wednesday,No,2015-01-21T13:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,1,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+212077,152005694.0,Wednesday,No,2015-01-21T10:45:00.000,Service,"[-71.070835, 42.331511]",Point,Service,1,ARREST,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2015
+230732,152005551.0,Wednesday,No,2015-01-21T10:35:00.000,Service,"[-71.06219, 42.356241]",Point,Service,1,IVPER,0,A1,Day,No,WINTER ST,Part three,Unarmed,774501.7485,TREMONT ST,2955147.1160000004,2015
+262117,152005515.0,Wednesday,No,2015-01-21T06:30:00.000,Service,"[0, 0]",Point,Service,1,CD9,0,A1,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+266209,152005631.0,Wednesday,No,2015-01-21T14:30:00.000,Service,"[0, 0]",Point,Service,1,CD11,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+266766,152005888.0,Wednesday,No,2015-01-21T19:00:00.000,Service,"[0, 0]",Point,Service,1,PROP,0,B2,First,No,LONGWOOD AV,Part three,Unarmed,,,,2015
+266999,152005513.0,Wednesday,No,2015-01-21T06:00:00.000,Service,"[0, 0]",Point,Service,1,IVPER,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,,DUDLEY ST,,2015

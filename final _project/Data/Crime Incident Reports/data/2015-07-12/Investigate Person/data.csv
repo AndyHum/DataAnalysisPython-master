@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67689,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.075178, 42.336029]",Point,InvPer,7,IVPREM,170,D4,,No,E SPRINGFIELD ST,Part Three,None,771028.0,,2950000.0,2015
+79250,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.067478, 42.308297]",Point,InvPer,7,IVPER,335,C11,,No,CLARKSON ST,Part Three,None,773161.0,,2940000.0,2015
+95274,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.082139, 42.328535]",Point,InvPer,7,NIDV,281,B2,,No,DUDLEY ST,Part Three,None,769159.0,,2950000.0,2015
+95276,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.087733, 42.295904]",Point,InvPer,7,NIDV,463,B3,,No,BLUE HILL AVE,Part Three,None,767704.0,,2930000.0,2015
+99665,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.059709, 42.297555]",Point,InvPer,7,IVPER,345,C11,,No,RIDGEWOOD ST,Part Three,None,775283.0,TOPLIFF ST,2930000.0,2015
+108492,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.081785, 42.304513]",Point,InvPer,7,IVPER,459,B3,,No,COLUMBIA RD,Part Three,None,769298.0,,2940000.0,2015
+111964,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.071353, 42.284926]",Point,InvPer,7,VIORDR,435,C11,,No,WASHINGTON ST,Part Three,None,772156.0,,2930000.0,2015
+174380,,Sunday,No,2015-07-12T20:03:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,INJ,214,C6,,No,SILVER ST,Part Three,None,,,,2015
+183881,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.079041, 42.334831]",Point,InvPer,7,AB,272,D4,,No,WASHINGTON ST,Part Three,Other,769985.0,,2950000.0,2015
+192340,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.128331, 42.286259]",Point,InvPer,7,,560,E5,,No,WASHINGTON ST,Part Three,None,756736.0,,2930000.0,2015
+201000,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.087349, 42.309733]",Point,InvPer,7,NIDV,318,B2,,No,ELM HILL AVE,Part Three,None,767784.0,,2940000.0,2015
+208722,,Sunday,No,2015-07-12T00:00:00.000,Investigate Person,"[-71.054828, 42.3604]",Point,InvPer,7,ADMRPT,94,A1,,No,FANEUIL HALL MARKETPLACE,Part Three,None,776483.0,,2960000.0,2015
+219625,,Sunday,No,2015-07-12T23:54:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,PERGUN,651,E13,,No,HALL ST,Part Three,None,,SOUTH ST,,2015

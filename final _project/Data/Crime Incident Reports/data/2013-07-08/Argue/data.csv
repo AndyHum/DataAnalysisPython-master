@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+150825,130420947.0,Monday,No,2013-07-08T18:06:00.000,Argue,"[-71.06789, 42.305511]",Point,Argue,7,FIGHT ,341,C11,First,No,BOWDOIN ST,Part three,Unarmed,773054.7721,NORTON ST,2936652.3710000003,2013
+204485,130421111.0,Monday,No,2013-07-08T19:23:00.000,Argue,"[-71.067845, 42.319206]",Point,Argue,7,DVIP  ,184,B2,First,No,HUMPHREYS PL,Part three,Unarmed,773041.4351,,2941643.002,2013
+245448,130420152.0,Monday,No,2013-07-08T12:15:00.000,Argue,"[-71.075585, 42.340456]",Point,Argue,7,IVPER ,157,D4,Day,No,W NEWTON ST,Part three,Unarmed,770909.8909,,2949376.4669999997,2013

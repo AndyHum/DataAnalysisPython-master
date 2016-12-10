@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3585,152003736.0,Wednesday,No,2015-01-14T23:00:00.000,Argue,"[-71.094521, 42.27791]",Point,Argue,1,DISTRB,0,B3,First,No,WALK HILL ST,Part three,Unarmed,765898.5905,,2926558.567,2015
+116270,152003659.0,Wednesday,No,2015-01-14T17:40:00.000,Argue,"[-71.060208, 42.30637]",Point,Argue,1,PKNIFE,0,C11,First,No,LYON ST,Part three,Unarmed,775131.0737,,2936975.959,2015
+262005,152003655.0,Wednesday,No,2015-01-14T16:51:00.000,Argue,"[0, 0]",Point,Argue,1,FIGHT,0,B2,First,No,GREENVILLE ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16349,120606469.0,Wednesday,No,2012-09-26T20:37:00.000,Ballist,"[-71.073606, 42.301168]",Point,Ballist,9,SHOTS ,462,C11,First,No,NOTTINGHAM ST,Part Two,Unarmed,771516.4205,,2935061.943,2012
+160919,120606001.0,Wednesday,No,2012-09-26T17:09:00.000,Ballist,"[-71.06147, 42.305351]",Point,Ballist,9,SHOTS ,347,C11,First,No,ADAMS ST,Part Two,Unarmed,774791.6996,LINDEN ST,2936602.9269999997,2012
+165685,120606667.0,Wednesday,No,2012-09-26T22:24:00.000,Ballist,"[-71.07695, 42.308106]",Point,Ballist,9,SHOTS ,329,B2,First,Yes,DEVON ST,Part Two,Firearm,770599.3288,,2937585.745,2012
+231087,120604294.0,Wednesday,No,2012-09-26T00:42:00.000,Ballist,"[-71.093739, 42.334956]",Point,Ballist,9,SHOTS ,588,B2,Last,No,ANNUNCIATION RD,Part Two,Firearm,766011.2668,,2947348.014,2012

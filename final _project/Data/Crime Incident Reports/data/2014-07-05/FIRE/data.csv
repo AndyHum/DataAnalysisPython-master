@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63084,142006447.0,Saturday,No,2014-07-05T23:00:00.000,FIRE,"[-71.0712, 42.286816]",Point,FIRE,7,IVPREM,0,C11,First,No,WASHINGTON ST,Part three,Other,772193.6576,,2929835.119,2014
+95520,142006321.0,Saturday,No,2014-07-05T15:50:00.000,FIRE,"[-71.105224, 42.327963]",Point,FIRE,7,FIRE,0,B2,Day,No,FISHER AV,Part three,Unarmed,762917.9131,,2944785.227,2014
+121241,142006383.0,Saturday,No,2014-07-05T19:46:00.000,FIRE,"[-71.074816, 42.385377]",Point,FIRE,7,FO,0,A15,First,No,BEACHAM ST,Part three,Other,771036.1803,,2965747.5510000004,2014

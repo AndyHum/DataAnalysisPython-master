@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3309,152033855.0,Sunday,No,2015-04-26T01:19:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,B2,Last,No,KERR PL,Part three,Unarmed,,,,2015
+18494,152033945.0,Sunday,No,2015-04-26T12:10:00.000,Service,"[-71.06644, 42.341791]",Point,Service,4,IVPER,0,D4,Day,No,HARRISON AV,Part three,Unarmed,773379.7993,,2949875.3989999997,2015
+189235,152034040.0,Sunday,No,2015-04-26T18:28:00.000,Service,"[-71.058572, 42.362448]",Point,Service,4,ARREST,0,A1,First,No,CONGRESS ST,Part three,Unarmed,775467.8473,SUDBURY ST,2957414.135,2015
+225918,152033902.0,Sunday,No,2015-04-26T08:01:00.000,Service,"[-71.075668, 42.271467]",Point,Service,4,LOCKOU,0,B3,Day,No,RIVER ST,Part three,Unarmed,771012.5176,,2924235.704,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39729,152026897.0,Thursday,No,2015-04-02T23:20:00.000,InvProp,"[-71.054095, 42.301466]",Point,InvProp,4,ALARM,0,C11,First,No,PARK ST,Part three,Unarmed,776794.0615,,2935197.519,2015
+74143,152026587.0,Thursday,No,2015-04-02T01:22:00.000,InvProp,"[-71.05633, 42.340496]",Point,InvProp,4,IVPREM,0,C6,Last,No,GOLD ST,Part three,Unarmed,776115.469,,2949417.5330000003,2015
+81361,152027480.0,Thursday,No,2015-04-02T01:00:00.000,InvProp,"[-71.05464, 42.325816]",Point,InvProp,4,BE,0,C6,Last,No,OCALLAGHAN WY,Part three,Other,776600.2984,,2944070.27,2015
+82721,152026838.0,Thursday,No,2015-04-02T16:33:00.000,InvProp,"[-71.090755, 42.269537]",Point,InvProp,4,IVPER,0,B3,First,No,RIVER ST,Part three,Unarmed,766932.4073,,2923512.3660000004,2015
+191404,152026857.0,Thursday,No,2015-04-02T20:45:00.000,InvProp,"[-71.093219, 42.311324]",Point,InvProp,4,SHOTS,0,B2,First,No,SEAVER ST,Part three,Unarmed,766193.1083,HAROLD ST,2938736.974,2015

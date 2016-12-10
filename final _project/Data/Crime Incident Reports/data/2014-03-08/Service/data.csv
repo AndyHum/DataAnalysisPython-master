@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50003,140142302.0,Saturday,No,2014-03-08T09:39:00.000,Service,"[-71.131855, 42.243691]",Point,Service,3,DISTRB,533,E18,Day,No,WESTINGHOUSE PLAZA,Part three,Other,755849.2651,,2914043.106,2014
+81035,140161395.0,Saturday,No,2014-03-08T11:00:00.000,Service,"[-71.12414, 42.271941]",Point,Service,3,PDRPT ,554,E18,Day,No,DALE ST,Part three,Other,757892.8751,SHERRIN ST,2924346.885,2014
+87702,140145444.0,Saturday,No,2014-03-08T22:00:00.000,Service,"[-71.038605, 42.348716]",Point,Service,3,LSTPRP,207,C6,First,No,NORTHERN AV,Part three,Unarmed,780891.2712,,2952438.4710000004,2014
+133557,140142811.0,Saturday,No,2014-03-08T14:32:00.000,Service,"[-71.12131, 42.248936]",Point,Service,3,LOCK  ,516,E18,Day,No,DANA AV,Part three,Other,758696.0304,,2915966.95,2014
+206385,140141887.0,Saturday,No,2014-03-08T01:49:00.000,Service,"[-71.05681, 42.322086]",Point,Service,3,ARREST,189,C6,Last,No,DORCHESTER AV,Part three,Unarmed,776020.5581,,2942707.94,2014

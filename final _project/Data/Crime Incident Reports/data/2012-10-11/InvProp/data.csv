@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7308,120641184.0,Thursday,No,2012-10-11T17:00:00.000,InvProp,"[-71.082485, 42.328571]",Point,InvProp,10,INVEST,281,B2,First,No,DUDLEY ST,Part Three,Other,769065.6491,,2945036.153,2012
+70149,120641400.0,Thursday,No,2012-10-11T18:32:00.000,InvProp,"[-71.071675, 42.287581]",Point,InvProp,10,IVPREM,435,B3,First,No,TORREY ST,Part Three,Unarmed,772063.7304,,2930113.25,2012
+81172,120640053.0,Thursday,No,2012-10-11T08:59:00.000,InvProp,"[-71.06576, 42.373451]",Point,InvProp,10,ALARMM,931,A15,Day,No,WASHINGTON ST,Part Three,Unarmed,773504.8988,,2961413.852,2012
+103656,120641839.0,Thursday,No,2012-10-11T23:20:00.000,InvProp,"[-71.069705, 42.279116]",Point,InvProp,10,STAB  ,403,C11,First,No,WASHINGTON ST,Part Three,Other,772612.3343,,2927031.17,2012
+124382,120639614.0,Thursday,No,2012-10-11T01:01:00.000,InvProp,"[-71.055665, 42.365316]",Point,InvProp,10,IVPREM,80,A1,Last,No,PRINCE ST,Part Three,Unarmed,776248.1361,,2958463.3430000003,2012
+152061,120775196.0,Thursday,No,2012-10-11T17:00:00.000,InvProp,"[-71.084844, 42.326396]",Point,InvProp,10,LSTPRP,294,B2,First,No,ST JAMES ST,Part Three,Unarmed,768431.5605,,2944240.148,2012
+168054,120639675.0,Thursday,No,2012-10-11T01:40:00.000,InvProp,"[-71.144024, 42.346747]",Point,InvProp,10,SHOTS ,938,D14,Last,No,JETTE CT,Part Three,Unarmed,752397.4732,,2951584.079,2012
+229139,120641061.0,Thursday,No,2012-10-11T16:15:00.000,InvProp,"[-71.090319, 42.313599]",Point,InvProp,10,IVPREM,316,B2,First,No,CRAWFORD ST,Part Three,Firearm,766973.4358,,2939569.644,2012

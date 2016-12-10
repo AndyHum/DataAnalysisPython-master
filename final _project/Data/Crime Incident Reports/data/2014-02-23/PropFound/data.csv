@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31481,140114268.0,Sunday,No,2014-02-23T21:30:00.000,PropFound,"[-71.110845, 42.269309]",Point,PropFound,2,IVPREM,478,E18,First,No,WOOD AV,Part three,Unarmed,761495.4707,,2923403.6989999996,2014
+64946,140112837.0,Sunday,No,2014-02-23T07:30:00.000,PropFound,"[-71.06269, 42.357911]",Point,PropFound,2,LSTPRP,72,A1,Day,No,BOWDOIN ST,Part three,Unarmed,774363.4841,BEACON ST,2955755.0039999997,2014
+86131,140113743.0,Sunday,No,2014-02-23T17:00:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,2,LSTPRP,28,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+148254,140114793.0,Sunday,No,2014-02-23T00:00:00.000,PropFound,"[-71.06115, 42.364581]",Point,PropFound,2,LARCRT,76,A1,Last,No,FRIEND ST,Part three,Unarmed,774767.2102,,2958187.8210000005,2014

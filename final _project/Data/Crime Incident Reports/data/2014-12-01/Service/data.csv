@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30431,142053624.0,Monday,No,2014-12-01T11:28:00.000,Service,"[-71.060271, 42.307553]",Point,Service,12,ARREST,0,C11,Day,No,EAST ST,Part three,Unarmed,775111.7335,,2937407.012,2014
+40626,142053620.0,Monday,No,2014-12-01T11:10:00.000,Service,"[-71.063675, 42.352301]",Point,Service,12,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+54231,142054011.0,Monday,No,2014-12-01T22:00:00.000,Service,"[-71.03601, 42.378311]",Point,Service,12,IVPREM,0,A7,First,No,LEXINGTON ST,Part three,Unarmed,781534.0756,,2963227.264,2014
+82322,142053583.0,Monday,No,2014-12-01T09:45:00.000,Service,"[-71.05814, 42.352331]",Point,Service,12,ARREST,0,A1,Day,No,SURFACE RD,Part three,Unarmed,775603.787,ESSEX ST,2953727.883,2014
+118470,142053831.0,Monday,No,2014-12-01T21:15:00.000,Service,"[-71.06149, 42.348856]",Point,Service,12,ARREST,0,A1,First,No,TYLER ST,Part three,Unarmed,774704.7832,,2952456.856,2014
+121105,142053582.0,Monday,No,2014-12-01T09:45:00.000,Service,"[-71.07011, 42.283376]",Point,Service,12,ARREST,0,C11,Day,No,BAILEY ST,Part three,Unarmed,772494.9087,,2928583.022,2014
+123122,142053527.0,Monday,No,2014-12-01T01:45:00.000,Service,"[-71.056374, 42.350817]",Point,Service,12,ARREST,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,776084.0039,,2953178.441,2014
+170844,142053733.0,Monday,No,2014-12-01T15:30:00.000,Service,"[-71.0904, 42.280796]",Point,Service,12,IVPER,0,B3,Day,No,HOSMER ST,Other,Unarmed,767009.0082,,2927615.818,2014
+207379,142053598.0,Monday,No,2014-12-01T10:30:00.000,Service,"[-71.059987, 42.361648]",Point,Service,12,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

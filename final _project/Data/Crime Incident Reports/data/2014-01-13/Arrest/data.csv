@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5989,140024721.0,Monday,No,2014-01-13T10:00:00.000,Arrest,"[-71.05849, 42.314151]",Point,Arrest,1,CD11  ,247,C11,Day,No,THORNLEY ST,Part three,Unarmed,775581.202,,2939813.945,2014
+56758,140025012.0,Monday,No,2014-01-13T13:30:00.000,Arrest,"[-71.0708, 42.333203]",Point,Arrest,1,ARREST,175,C6,Day,No,BRADSTON ST,Part three,Unarmed,772216.8065,,2946739.535,2014
+158083,140025502.0,Monday,No,2014-01-13T16:30:00.000,Arrest,"[-71.0626, 42.352361]",Point,Arrest,1,ARREST,0,A1,First,No,ESSEX ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+160523,140025297.0,Monday,No,2014-01-13T14:43:00.000,Arrest,"[-71.111426, 42.326534]",Point,Arrest,1,CD5   ,0,E13,Day,No,S HUNTINGTON AV,Part three,Unarmed,761243.045,,2944256.8310000002,2014
+206783,140024232.0,Monday,No,2014-01-13T01:28:00.000,Arrest,"[-71.07166, 42.348431]",Point,Arrest,1,ARREST,0,A1,Last,No,BERKELEY ST,Part three,Unarmed,771956.4324,,2952288.008,2014

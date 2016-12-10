@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6328,130126209.0,Saturday,No,2013-03-02T09:42:00.000,Service,"[-71.077985, 42.317371]",Point,Service,3,RAPRPT,311,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,770302.6631,,2940960.672,2013
+11745,130126138.0,Saturday,No,2013-03-02T04:00:00.000,Service,"[-71.10677, 42.337636]",Point,Service,3,IVPREM,593,B2,Last,No,BINNEY ST,Part Three,Unarmed,762483.642,,2948308.396,2013
+87612,130126952.0,Saturday,No,2013-03-02T17:37:00.000,Service,"[-71.058228, 42.380058]",Point,Service,3,MISPER,37,A15,First,No,OLD IRONSIDES WY,Part Three,Other,775527.6205,,2963831.9760000003,2013
+140585,130125773.0,Saturday,No,2013-03-02T01:44:00.000,Service,"[-71.05681, 42.322086]",Point,Service,3,SSTOP ,189,C6,Last,No,DORCHESTER AV,Part Three,Unarmed,776020.5581,,2942707.94,2013
+169771,130128399.0,Saturday,No,2013-03-02T19:30:00.000,Service,"[-71.053065, 42.327871]",Point,Service,3,CD11  ,914,C6,First,No,MCDONOUGH WY,Part Three,Unarmed,777022.2779,,2944821.374,2013
+178634,130126205.0,Saturday,No,2013-03-02T09:38:00.000,Service,"[-71.0626, 42.352361]",Point,Service,3,ARREST,111,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2013

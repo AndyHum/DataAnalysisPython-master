@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21747,140330555.0,Tuesday,No,2014-05-27T11:00:00.000,32GUN,"[-71.085618, 42.32866]",Point,32GUN,5,FDWEAP,282,B2,Day,No,WASHINGTON ST,Part three,Firearm,768218.0809,,2945064.255,2014
+66706,140330283.0,Tuesday,No,2014-05-27T10:00:00.000,32GUN,"[-71.085618, 42.32866]",Point,32GUN,5,FDWEAP,282,B2,Day,No,WASHINGTON ST,Part three,Firearm,768218.0809,,2945064.255,2014
+116847,140330282.0,Tuesday,No,2014-05-27T10:00:00.000,32GUN,"[-71.085618, 42.32866]",Point,32GUN,5,FDWEAP,282,B2,Day,No,WASHINGTON ST,Part three,Firearm,768218.0809,,2945064.255,2014

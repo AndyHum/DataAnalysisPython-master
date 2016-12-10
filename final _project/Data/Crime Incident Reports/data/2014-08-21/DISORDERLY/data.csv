@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100675,142021665.0,Thursday,No,2014-08-21T21:09:00.000,DISORDERLY,"[-71.052934, 42.331324]",Point,24xx,8,IVPER,0,C6,First,No,OLD COLONY AV,Part Two,Unarmed,777051.041,,2946079.86,2014
+113412,142021481.0,Thursday,No,2014-08-21T09:44:00.000,DISORDERLY,"[-71.06942, 42.362401]",Point,24xx,8,ARREST,0,A1,Day,No,FRUIT ST,Part Two,Unarmed,772536.2528,,2957381.922,2014
+216292,142021514.0,Thursday,No,2014-08-21T13:00:00.000,DISORDERLY,"[-71.092186, 42.286881]",Point,24xx,8,IVPER,0,B3,Day,No,WILCOCK ST,Part Two,Other,766515.0283,,2929830.797,2014

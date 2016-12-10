@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52921,152018938.0,Monday,No,2015-03-09T11:21:00.000,InvProp,"[-71.06084, 42.377896]",Point,InvProp,3,ALARM,0,A15,Day,No,CONCORD ST,Part three,Unarmed,774826.0028,,2963040.5089999996,2015
+89116,152023411.0,Monday,No,2015-03-09T14:00:00.000,InvProp,"[-71.073462, 42.293481]",Point,InvProp,3,IVMV,0,B3,Day,No,WHEATLAND AV,Part three,Unarmed,771569.3712,,2932260.5689999997,2015
+102461,152019050.0,Monday,No,2015-03-09T16:42:00.000,InvProp,"[-71.075539, 42.301738]",Point,InvProp,3,ALARM,0,C11,First,No,BOWDOIN AV,Part three,Unarmed,770992.4228,,2935266.7830000003,2015
+113960,152019871.0,Monday,No,2015-03-09T12:00:00.000,InvProp,"[-71.061745, 42.356021]",Point,InvProp,3,PROP,0,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2015
+157640,152018867.0,Monday,No,2015-03-09T01:25:00.000,InvProp,"[-71.082355, 42.322981]",Point,InvProp,3,SHOTS,0,B2,Last,No,WARREN ST,Part three,Firearm,769110.7763,DUNREATH ST,2942999.233,2015
+222815,152018991.0,Monday,No,2015-03-09T13:15:00.000,InvProp,"[-71.07475, 42.291236]",Point,InvProp,3,BE,0,B3,Day,No,ASPINWALL RD,Part three,Other,771225.0582,,2931441.021,2015
+265073,152019140.0,Monday,No,2015-03-09T20:41:00.000,InvProp,"[0, 0]",Point,InvProp,3,ALARM,0,A7,First,No,CONCORD ST,Part three,Unarmed,,,,2015
+265509,152020127.0,Monday,No,2015-03-09T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD19,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+266483,152021147.0,Monday,No,2015-03-09T11:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,LARCEN,0,E13,Day,No,HEATH ST,Part three,Unarmed,,,,2015

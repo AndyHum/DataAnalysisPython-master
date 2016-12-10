@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2379,152028101.0,Tuesday,No,2015-04-07T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+37988,152028199.0,Tuesday,No,2015-04-07T12:46:00.000,InvProp,"[-71.06355, 42.378721]",Point,InvProp,4,IVPER,0,A15,Day,No,SCHOOL ST,Part three,Unarmed,774092.2401,,2963337.398,2015
+217467,152028341.0,Tuesday,No,2015-04-07T19:29:00.000,InvProp,"[-71.063856, 42.321027]",Point,InvProp,4,BE,0,B2,First,No,E COTTAGE ST,Part three,Other,774116.9615,,2942312.133,2015
+248175,152028134.0,Tuesday,No,2015-04-07T09:19:00.000,InvProp,"[-71.14004, 42.346126]",Point,InvProp,4,ALARM,0,D14,Day,No,COMMONWEALTH CT,Part three,Unarmed,753475.4982,,2951362.605,2015
+267382,152028320.0,Tuesday,No,2015-04-07T21:06:00.000,InvProp,"[0, 0]",Point,InvProp,4,LOCKOU,0,E5,First,No,ARCHDALE RD,Part three,Other,,,,2015
+267408,152028099.0,Tuesday,No,2015-04-07T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,A7,Last,No,HARBORSIDE DR,Part three,Unarmed,,,,2015
+267419,152028178.0,Tuesday,No,2015-04-07T12:10:00.000,InvProp,"[0, 0]",Point,InvProp,4,BE,0,A15,Day,No,RUTHERFORD AV,Part three,Unarmed,,,,2015

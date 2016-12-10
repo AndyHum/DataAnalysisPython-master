@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17417,142057610.0,Monday,No,2014-12-15T08:59:00.000,PersLoc,"[-71.112361, 42.316208]",Point,PersLoc,12,IVPER,0,E13,Day,No,ROBINWOOD AV,Other,Unarmed,761007.4093,,2940492.683,2014
+25283,142057783.0,Monday,No,2014-12-15T13:00:00.000,PersLoc,"[-71.055978, 42.294612]",Point,PersLoc,12,MISSIN,0,C11,Day,No,ELMDALE ST,Other,Unarmed,776297.656,,2932696.97,2014
+37617,142057880.0,Monday,No,2014-12-15T15:45:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,12,IVPER,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+43423,142057692.0,Monday,No,2014-12-15T09:55:00.000,PersLoc,"[-71.145297, 42.349864]",Point,PersLoc,12,IVPER,0,D14,Day,No,WARREN ST,Other,Unarmed,752048.4758,,2952718.7569999998,2014
+183456,142057868.0,Monday,No,2014-12-15T07:30:00.000,PersLoc,"[-71.08282, 42.296196]",Point,PersLoc,12,IVPER,0,B3,Day,No,HARVARD ST,Other,Unarmed,769032.7673,,2933237.736,2014
+221152,142057809.0,Monday,No,2014-12-15T17:41:00.000,PersLoc,"[-71.08244, 42.323251]",Point,PersLoc,12,IVPER,0,B2,First,No,WARREN ST,Other,Unarmed,769087.3088,MONTROSE ST,2943097.512,2014

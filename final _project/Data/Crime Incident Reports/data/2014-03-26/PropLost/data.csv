@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53644,140183335.0,Wednesday,No,2014-03-26T08:00:00.000,PropLost,"[-71.144637, 42.342441]",Point,PropLost,3,LSTPRP,785,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,752238.2041,,2950014.455,2014
+159889,140183352.0,Wednesday,No,2014-03-26T09:25:00.000,PropLost,"[-71.079416, 42.284079]",Point,PropLost,3,LSTPRP,434,B3,Day,No,STANTON ST,Part three,Unarmed,769975.3356,,2928826.4189999998,2014
+171346,140184049.0,Wednesday,No,2014-03-26T22:26:00.000,PropLost,"[-71.10819, 42.273356]",Point,PropLost,3,LSTPRP,472,B3,First,No,CUMMINS HY,Part three,Other,762207.3249,,2924881.9560000002,2014
+189585,140184171.0,Wednesday,No,2014-03-26T16:30:00.000,PropLost,"[-71.068105, 42.291236]",Point,PropLost,3,LSTPRP,397,C11,First,No,CENTRE ST,Part three,Unarmed,773022.9545,,2931450.055,2014

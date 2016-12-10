@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51800,152007015.0,Monday,No,2015-01-26T10:30:00.000,PhoneCalls,"[-71.089755, 42.344446]",Point,PhoneCalls,1,IVPER,0,D4,Day,No,HEMENWAY ST,Part three,Unarmed,767071.9835,,2950811.753,2015
+184863,152008999.0,Monday,No,2015-01-26T11:42:00.000,PhoneCalls,"[-71.105875, 42.265661]",Point,PhoneCalls,1,IVPER,0,E18,Day,No,MERCER ST,Part three,Unarmed,762846.8148,,2922080.6810000003,2015
+255470,152007185.0,Monday,No,2015-01-26T20:13:00.000,PhoneCalls,"[-71.068974, 42.289773]",Point,PhoneCalls,1,VIORDR,0,C11,First,No,TALBOT AV,Part three,Unarmed,772790.5334,,2930915.749,2015

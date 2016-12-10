@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9719,142025335.0,Tuesday,No,2014-09-02T10:30:00.000,Service,"[-71.069575, 42.303406]",Point,Service,9,IVPER,0,C11,Day,No,LEVANT ST,Part three,Unarmed,772602.8465,,2935882.972,2014
+33185,142025399.0,Tuesday,No,2014-09-02T13:07:00.000,Service,"[-71.112585, 42.297281]",Point,Service,9,AOD,0,E13,Day,No,LELAND ST,Part three,Unarmed,760978.2585,,2933595.146,2014
+55545,142025494.0,Tuesday,No,2014-09-02T17:53:00.000,Service,"[-71.061365, 42.305081]",Point,Service,9,IVPREM,0,C11,First,No,ADAMS ST,Part three,Other,774820.6088,,2936504.6810000003,2014
+95695,142025666.0,Tuesday,No,2014-09-02T21:00:00.000,Service,"[-71.04038, 42.348011]",Point,Service,9,BE,0,C6,First,No,D ST,Part three,Other,780412.8409,CONGRESS ST,2952178.9639999997,2014
+99626,142025380.0,Tuesday,No,2014-09-02T12:10:00.000,Service,"[-71.058756, 42.36273]",Point,Service,9,ARREST,0,A1,Day,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2014
+122820,142025476.0,Tuesday,No,2014-09-02T17:00:00.000,Service,"[-71.06281, 42.351461]",Point,Service,9,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Other,774343.0987,LAGRANGE ST,2953404.334,2014
+147098,142026433.0,Tuesday,No,2014-09-02T12:00:00.000,Service,"[-71.086215, 42.343382]",Point,Service,9,LARCEN,0,D4,Day,No,WESTLAND AV,Part three,Unarmed,768030.7109,,2950428.4460000005,2014
+207286,142025325.0,Tuesday,No,2014-09-02T10:00:00.000,Service,"[-71.061123, 42.296931]",Point,Service,9,ARREST,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774901.1102,,2933534.9710000004,2014
+209254,142025439.0,Tuesday,No,2014-09-02T14:30:00.000,Service,"[-71.03924, 42.379401]",Point,Service,9,ARREST,0,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780659.2138,MONMOUTH ST,2963619.749,2014

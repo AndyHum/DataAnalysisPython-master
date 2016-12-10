@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73293,,Sunday,No,2015-07-05T00:00:00.000,Drug Violation,"[-71.056764, 42.297606]",Point,18xx,7,I00015,355,C11,,No,ADAMS ST,Part Two,None,776079.0,,2930000.0,2015
+89779,,Sunday,No,2015-07-05T13:55:00.000,Drug Violation,"[0, 0]",Point,18xx,7,POISON,401,C11,,No,ALBAN ST,Part Two,None,,,,2015
+192038,,Sunday,No,2015-07-05T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,7,IVPER,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+219295,,Sunday,No,2015-07-05T12:48:00.000,Drug Violation,"[0, 0]",Point,18xx,7,POISON,175,B2,,No,SOUTHAMPTON ST,Part Two,None,,,,2015

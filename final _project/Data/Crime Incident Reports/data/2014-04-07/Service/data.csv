@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7940,140209436.0,Monday,No,2014-04-07T11:00:00.000,Service,"[-71.06073, 42.351846]",Point,Service,4,ARREST,116,A1,Day,No,OXFORD PL,Part three,Unarmed,774904.6138,,2953547.5239999997,2014
+116788,140209109.0,Monday,No,2014-04-07T08:00:00.000,Service,"[-71.092186, 42.286881]",Point,Service,4,CD11  ,465,B3,Day,No,WILCOCK ST,Part three,Unarmed,766515.0283,,2929830.797,2014
+131872,140209477.0,Monday,No,2014-04-07T11:20:00.000,Service,"[-71.14243, 42.349389]",Point,Service,4,ARREST,783,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2014
+136080,140214533.0,Monday,No,2014-04-07T11:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,4,IVPREM,257,C11,Day,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2014

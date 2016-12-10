@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+272,152034655.0,Thursday,No,2014-12-11T17:25:00.000,InvProp,"[0, 0]",Point,InvProp,12,LARCEN,0,A7,First,No,BENNINGTON ST,Part three,Unarmed,,,,2014
+8131,142056554.0,Thursday,No,2014-12-11T14:00:00.000,InvProp,"[-71.06747, 42.294001]",Point,InvProp,12,BE,0,C11,Day,No,ALLSTON ST,Part three,Other,773189.6540000001,,2932458.5310000004,2014
+41806,142056603.0,Thursday,No,2014-12-11T16:15:00.000,InvProp,"[-71.094535, 42.345486]",Point,InvProp,12,CD9,0,D4,First,No,BOYLSTON ST,Part three,Firearm,765777.9720000001,,2951184.57,2014
+60623,142056685.0,Thursday,No,2014-12-11T20:24:00.000,InvProp,"[-71.120865, 42.258636]",Point,InvProp,12,BE,0,E18,First,No,CENTRAL AV,Part three,Unarmed,758800.7947,,2919502.2860000003,2014
+94340,142056494.0,Thursday,No,2014-12-11T10:30:00.000,InvProp,"[-71.068105, 42.291236]",Point,InvProp,12,BOMB,0,C11,Day,No,CENTRE ST,Part three,Unarmed,773022.9545,,2931450.055,2014
+126045,142058061.0,Thursday,No,2014-12-11T14:00:00.000,InvProp,"[-71.091425, 42.322041]",Point,InvProp,12,VAND,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,766659.6303,,2942644.8019999997,2014

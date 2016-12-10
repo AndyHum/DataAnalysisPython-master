@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1814,152042562.0,Thursday,No,2015-05-21T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,C11,Day,No,MORRISSEY BL,Part three,Unarmed,,,,2015
+3288,152047513.0,Thursday,No,2015-05-21T09:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,A1,Day,No,CHARLES ST,Part three,Unarmed,,,,2015
+3723,152041576.0,Thursday,No,2015-05-21T01:15:00.000,PropLost,"[0, 0]",Point,PropLost,5,IVPER,0,C6,Last,No,MORRISSEY BL,Part three,Unarmed,,,,2015
+6209,152041716.0,Thursday,No,2015-05-21T14:30:00.000,PropLost,"[-71.057745, 42.358776]",Point,PropLost,5,ADMRPT,0,A1,Day,No,STATE ST,Part three,Unarmed,775698.3790000001,,2956077.1180000002,2015
+113486,152041717.0,Thursday,No,2015-05-21T08:00:00.000,PropLost,"[-71.089268, 42.295385]",Point,PropLost,5,PROP,0,B3,Day,No,SHANDON RD,Part three,Other,767289.676,,2932933.422,2015
+207060,152041794.0,Thursday,No,2015-05-21T17:00:00.000,PropLost,"[-71.059969, 42.355867]",Point,PropLost,5,PROP,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2015
+219692,152041866.0,Thursday,No,2015-05-21T17:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,5,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Other,769006.8448,,2952355.38,2015
+248254,152041832.0,Thursday,No,2015-05-21T13:15:00.000,PropLost,"[-71.061015, 42.353246]",Point,PropLost,5,PROP,0,A1,Day,No,AVENUE DE LAFAYETTE,Part three,Unarmed,774824.9513,,2954057.314,2015
+250890,152041805.0,Thursday,No,2015-05-21T14:00:00.000,PropLost,"[-71.062945, 42.350856]",Point,PropLost,5,PROP,0,A1,Day,No,KNEELAND ST,Part three,Unarmed,774307.7377,,2953183.6739999996,2015

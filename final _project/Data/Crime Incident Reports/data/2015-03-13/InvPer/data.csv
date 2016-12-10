@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5523,152020173.0,Friday,No,2015-03-13T02:30:00.000,InvPer,"[-71.15647, 42.351815]",Point,InvPer,3,IVPER,0,D14,Last,No,BENNET ST,Part three,Unarmed,749025.3638,,2953417.247,2015
+56280,152020378.0,Friday,No,2015-03-13T17:25:00.000,InvPer,"[-71.08586, 42.295476]",Point,InvPer,3,IVPER,0,B3,First,No,HARVARD ST,Part three,Unarmed,768211.5908,,2932971.349,2015
+79665,152021076.0,Friday,No,2015-03-13T16:00:00.000,InvPer,"[-71.102315, 42.338336]",Point,InvPer,3,IVPER,0,B2,First,No,AVENUE LOUIS PASTEUR,Part three,Unarmed,763686.9342,,2948569.0730000003,2015
+153191,152020327.0,Friday,No,2015-03-13T14:33:00.000,InvPer,"[-71.06657, 42.318186]",Point,InvPer,3,IVPER,0,B2,Day,No,WENDOVER ST,Part three,Unarmed,773388.3646,,2941273.152,2015
+171029,152020289.0,Friday,No,2015-03-13T01:02:00.000,InvPer,"[-71.078394, 42.32898]",Point,InvPer,3,EDP,0,B2,Last,No,EUSTIS ST,Part three,Unarmed,770171.0377,,2945190.659,2015
+209361,152020367.0,Friday,No,2015-03-13T14:30:00.000,InvPer,"[-71.098335, 42.347376]",Point,InvPer,3,IVPER,0,D4,Day,No,BROOKLINE AV,Part three,Unarmed,764747.4655,,2951868.462,2015
+241286,152020281.0,Friday,No,2015-03-13T12:14:00.000,InvPer,"[-71.052825, 42.326881]",Point,InvPer,3,PERGUN,0,C6,Day,No,GAVIN WY,Part three,Firearm,777089.0678,LOGAN WY,2944460.941,2015
+259963,152020469.0,Friday,No,2015-03-13T21:32:00.000,InvPer,"[-71.079641, 42.319008]",Point,InvPer,3,AB,0,B2,First,No,WOODBINE ST,Part three,Unarmed,769851.8126,,2941554.837,2015
+264968,152020185.0,Friday,No,2015-03-13T06:46:00.000,InvPer,"[0, 0]",Point,InvPer,3,AB,0,A7,Last,No,CHELSEA ST,Part three,Unarmed,,AIRPORT RD,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123786,152023587.0,Sunday,No,2015-03-15T07:00:00.000,FIRE,"[-71.068653, 42.306188]",Point,FIRE,3,IVPREM,0,C11,Last,No,NORTON ST,Part three,Other,772847.1206,,2936897.7789999996,2015
+192170,152021078.0,Sunday,No,2015-03-15T20:30:00.000,FIRE,"[-71.069362, 42.37829]",Point,FIRE,3,FO,0,A15,First,No,TIBBETTS TOWN WY,Part three,Other,772522.6176,,2963172.204,2015
+202912,152021034.0,Sunday,No,2015-03-15T20:14:00.000,FIRE,"[-71.136535, 42.355511]",Point,FIRE,3,REQP,0,D14,First,No,PENNIMAN RD,Part three,Unarmed,754408.4298,,2954786.7060000002,2015
+221882,152020863.0,Sunday,No,2015-03-15T11:46:00.000,FIRE,"[-71.09378, 42.287451]",Point,FIRE,3,FIRE,0,B3,Day,No,MORTON ST,Part three,Other,766082.7945,,2930036.6160000004,2015

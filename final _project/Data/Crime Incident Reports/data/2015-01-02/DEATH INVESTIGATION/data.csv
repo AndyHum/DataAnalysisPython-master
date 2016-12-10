@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61494,152002636.0,Friday,No,2015-01-02T11:00:00.000,DEATH INVESTIGATION,"[-71.05676, 42.297621]",Point,01INV,1,UNKEMS,0,C11,Day,No,ADAMS ST,Part three,Unarmed,776080.4091,,2933792.586,2015
+96883,152000426.0,Friday,No,2015-01-02T12:20:00.000,DEATH INVESTIGATION,"[-71.068455, 42.324331]",Point,01INV,1,REQP,0,B2,Day,No,NORFOLK AV,Part three,Unarmed,772867.24,,2943509.9080000003,2015
+166386,152000406.0,Friday,No,2015-01-02T10:59:00.000,DEATH INVESTIGATION,"[-71.107534, 42.298312]",Point,01INV,1,ALARM,0,E13,Day,No,FOREST HILLS AV,Part three,Unarmed,762342.9851,,2933976.913,2015
+225532,152000493.0,Friday,No,2015-01-02T10:59:00.000,DEATH INVESTIGATION,"[-71.107534, 42.298312]",Point,01INV,1,ALARM,0,E13,Day,No,FOREST HILLS AV,Part three,Unarmed,762342.9851,,2933976.913,2015

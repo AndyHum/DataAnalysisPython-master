@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24706,120528346.0,Friday,No,2012-08-24T17:45:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,8,FDPROP,0,A1,First,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2012
+79811,120528808.0,Friday,No,2012-08-24T21:37:00.000,PropFound,"[-71.058468, 42.371544]",Point,PropFound,8,FDPROP,39,A15,First,No,CONSTITUTION PLAZA,Part Three,Unarmed,775478.8873,,2960728.833,2012
+100615,120527747.0,Friday,No,2012-08-24T13:10:00.000,PropFound,"[-71.07547, 42.346214]",Point,PropFound,8,IVPREM,0,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770930.358,,2951474.633,2012
+135998,120626636.0,Friday,No,2012-08-24T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+161819,120529600.0,Friday,No,2012-08-24T22:00:00.000,PropFound,"[-71.06494, 42.343021]",Point,PropFound,8,LARCRT,165,D4,First,No,HARRISON AV,Part Three,Unarmed,773783.0344,,2950325.6980000003,2012
+209803,120527414.0,Friday,No,2012-08-24T09:30:00.000,PropFound,"[-71.074691, 42.311475]",Point,PropFound,8,FDPROP,328,B2,Day,No,GREENHEYS ST,Part Three,Unarmed,771204.0884,,2938816.3910000003,2012
+238145,120528713.0,Friday,No,2012-08-24T21:05:00.000,PropFound,"[-71.06575, 42.361141]",Point,PropFound,8,MISC  ,67,A1,First,No,CAMBRIDGE ST,Part Three,Unarmed,773530.4391,,2956927.854,2012
+243463,120538650.0,Friday,No,2012-08-24T14:00:00.000,PropFound,"[-71.064691, 42.284347]",Point,PropFound,8,FDPROP,402,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,773959.2319,,2928944.028,2012

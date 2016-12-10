@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131604,152006746.0,Sunday,No,2015-01-25T02:23:00.000,MedAssist,"[-71.06255, 42.365411]",Point,MedAssist,1,IVPER,0,A1,Last,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+152902,152006892.0,Sunday,No,2015-01-25T18:44:00.000,MedAssist,"[-71.05266, 42.329646]",Point,MedAssist,1,INVEST,0,C6,First,No,OLD COLONY AV,Part three,Unarmed,777128.4011,,2945468.788,2015
+161355,152007000.0,Sunday,No,2015-01-25T22:00:00.000,MedAssist,"[-71.081633, 42.318648]",Point,MedAssist,1,INJOFF,0,B2,First,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2015
+183656,152006749.0,Sunday,No,2015-01-25T04:40:00.000,MedAssist,"[-71.034531, 42.367406]",Point,MedAssist,1,IVPER,0,A7,Last,No,EVERETT ST,Part three,Unarmed,781955.3875,,2959255.3219999997,2015
+195496,152006720.0,Sunday,No,2015-01-25T00:20:00.000,MedAssist,"[-71.073281, 42.276791]",Point,MedAssist,1,IVPER,0,B3,Last,No,ELLISON AV,Part three,Unarmed,771648.6299,,2926179.027,2015
+205121,152006861.0,Sunday,No,2015-01-25T16:22:00.000,MedAssist,"[-71.08689, 42.297981]",Point,MedAssist,1,EDP,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767928.5077,,2933882.857,2015
+209889,152006839.0,Sunday,No,2015-01-25T14:16:00.000,MedAssist,"[-71.03996, 42.377891]",Point,MedAssist,1,UNCONS,0,A7,Day,No,BORDER ST,Part three,Unarmed,780467.6477,,2963068.4239999996,2015
+255255,152006762.0,Sunday,No,2015-01-25T09:10:00.000,MedAssist,"[-71.096606, 42.28424]",Point,MedAssist,1,IVPREM,0,B3,Day,No,WESTMORE RD,Part three,Unarmed,765323.5602,,2928862.752,2015
+262053,152006945.0,Sunday,No,2015-01-25T23:35:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,UNCONS,0,C6,First,No,E 9TH ST,Part three,Unarmed,,,,2015

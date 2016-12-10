@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88565,130387652.0,Tuesday,No,2013-06-25T11:30:00.000,Arrest,"[-71.0729, 42.333256]",Point,Arrest,6,ARREST,619,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2013
+171581,130388856.0,Tuesday,No,2013-06-25T18:00:00.000,Arrest,"[-71.071606, 42.341043]",Point,Arrest,6,TRANSP,166,D4,First,No,W DEDHAM ST,Part three,Unarmed,771984.4806,SHAWMUT AV,2949595.622,2013

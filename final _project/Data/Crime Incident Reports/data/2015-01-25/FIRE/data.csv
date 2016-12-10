@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+213926,152006943.0,Sunday,No,2015-01-25T23:09:00.000,FIRE,"[-71.111055, 42.248171]",Point,FIRE,1,FIRE,0,E18,First,No,PROSPECT ST,Part three,Unarmed,761473.788,,2915700.667,2015
+242110,152006725.0,Sunday,No,2015-01-25T01:08:00.000,FIRE,"[-71.07406, 42.320731]",Point,FIRE,1,FO,0,B2,Last,No,W COTTAGE ST,Part three,Unarmed,771358.0742,BROOK AV,2942190.3880000003,2015
+261366,152006890.0,Sunday,No,2015-01-25T16:47:00.000,FIRE,"[0, 0]",Point,FIRE,1,FIRE,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015

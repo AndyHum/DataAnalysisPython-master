@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58737,130737452.0,Wednesday,No,2013-11-20T20:10:00.000,SearchWarr,"[-71.120299, 42.271739]",Point,SearchWarr,11,CD11  ,498,E18,First,No,HYDE PARK AV,Part three,Unarmed,758932.4988,,2924277.797,2013
+82371,130735756.0,Wednesday,No,2013-11-20T05:23:00.000,SearchWarr,"[-71.121858, 42.287497]",Point,SearchWarr,11,ARREST,562,E5,Last,No,FLORENCE ST,Part three,Unarmed,758485.3225,,2930018.325,2013
+103333,130737413.0,Wednesday,No,2013-11-20T19:50:00.000,SearchWarr,"[-71.11297, 42.300811]",Point,SearchWarr,11,ARREST,510,E13,First,No,WASHINGTON ST,Part three,Unarmed,760868.2636,,2934881.061,2013

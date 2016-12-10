@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35265,142034789.0,Wednesday,No,2014-10-01T10:25:00.000,PhoneCalls,"[-71.139347, 42.237741]",Point,PhoneCalls,10,IVPER,0,E18,Day,No,INDUSTRIAL DR,Part three,Unarmed,753829.6373,,2911866.1,2014
+92103,142034915.0,Wednesday,No,2014-10-01T17:00:00.000,PhoneCalls,"[-71.09131, 42.330001]",Point,PhoneCalls,10,IVPER,0,B2,First,No,JOHN ELIOT SQ,Part three,Unarmed,766676.8321,,2945545.713,2014
+163095,142034924.0,Wednesday,No,2014-10-01T14:45:00.000,PhoneCalls,"[-71.101151, 42.283429]",Point,PhoneCalls,10,IVPER,0,B3,Day,No,WALK HILL ST,Part Two,Unarmed,764095.122,,2928561.4239999996,2014

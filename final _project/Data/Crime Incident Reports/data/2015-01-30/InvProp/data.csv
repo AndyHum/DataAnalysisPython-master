@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2580,152008138.0,Friday,No,2015-01-30T17:00:00.000,InvProp,"[-71.085055, 42.315075]",Point,InvProp,1,VAND,0,B2,First,No,WYOMING ST,Part three,Unarmed,768394.5258,,2940114.298,2015
+149712,152008106.0,Friday,No,2015-01-30T19:30:00.000,InvProp,"[-71.080145, 42.271406]",Point,InvProp,1,SHOTS,0,B3,First,No,RIVER ST,Part three,Other,769800.9367,,2924207.4639999997,2015
+155274,152008157.0,Friday,No,2015-01-30T23:30:00.000,InvProp,"[-71.079615, 42.313341]",Point,InvProp,1,ALARM,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,769869.0635,,2939489.898,2015
+158981,152007892.0,Friday,No,2015-01-30T00:22:00.000,InvProp,"[-71.10636, 42.347296]",Point,InvProp,1,ALARM,0,D4,Last,No,BUSWELL ST,Part three,Unarmed,762578.2461,,2951829.1960000005,2015
+159904,152008184.0,Friday,No,2015-01-30T03:00:00.000,InvProp,"[-71.112411, 42.284053]",Point,InvProp,1,ALARM,0,E18,Last,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2015
+167572,152008039.0,Friday,No,2015-01-30T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,1,IVPREM,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+261079,152007969.0,Friday,No,2015-01-30T10:36:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVMV,0,D14,Day,No,HARVARD AV,Part three,Unarmed,,,,2015
+262980,152007920.0,Friday,No,2015-01-30T02:10:00.000,InvProp,"[0, 0]",Point,InvProp,1,SHOTS,0,B3,Last,No,KINGBIRD RD,Part three,Unarmed,,,,2015

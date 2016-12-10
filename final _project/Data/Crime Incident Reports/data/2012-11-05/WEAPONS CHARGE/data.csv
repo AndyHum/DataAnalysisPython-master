@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29240,120698234.0,Monday,No,2012-11-05T18:07:00.000,WEAPONS CHARGE,"[-71.08574, 42.336966]",Point,15xx,11,ARREST,285,D4,First,No,COVENTRY ST,Part Two,Knife,768170.625,,2948091.15,2012
+33319,120696904.0,Monday,No,2012-11-05T04:43:00.000,WEAPONS CHARGE,"[-71.06898, 42.301436]",Point,15xx,11,ARREST,344,C11,Last,No,CORONA ST,Part Two,Unarmed,772767.4281,,2935165.887,2012
+189381,120696998.0,Monday,No,2012-11-05T05:00:00.000,WEAPONS CHARGE,"[-71.06898, 42.301436]",Point,15xx,11,CD11  ,344,C11,Last,No,CORONA ST,Part Two,Unarmed,772767.4281,,2935165.887,2012

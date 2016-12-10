@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6461,130564398.0,Tuesday,No,2013-08-20T12:00:00.000,07RV,"[-71.063779, 42.338579]",Point,07RV,8,RECMV ,174,C6,Day,No,FRONTAGE RD,Other,Unarmed,774104.9678,,2948708.453,2013
+59485,130524712.0,Tuesday,No,2013-08-20T13:36:00.000,07RV,"[-71.09681, 42.325671]",Point,07RV,8,RECMV ,302,B2,Day,No,CENTRE ST,Other,Unarmed,765197.0991,,2943960.707,2013
+103205,130524736.0,Tuesday,No,2013-08-20T10:50:00.000,07RV,"[-71.073665, 42.282068]",Point,07RV,8,IVMV  ,0,B3,Day,No,MORA ST,Other,Unarmed,771535.1918,,2928101.3230000003,2013
+128533,130525292.0,Tuesday,No,2013-08-20T15:01:00.000,07RV,"[-71.104495, 42.325606]",Point,07RV,8,RECMV ,583,E13,Day,No,WALDEN ST,Other,Other,763119.0537,,2943927.29,2013

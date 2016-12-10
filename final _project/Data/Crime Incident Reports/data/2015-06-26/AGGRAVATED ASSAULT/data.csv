@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48007,,Friday,No,2015-06-26T02:08:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,SSA,312,B2,,Yes,HOLWORTHY ST,Part One,Firearm,,,,2015
+147357,,Friday,No,2015-06-26T00:00:00.000,Aggravated Assault,"[-71.094611, 42.315773]",Point,04xx,6,SHOTS,307,E13,,No,WESTMINSTER AVE,Part One,Firearm,765809.0,,2940000.0,2015
+251851,,Friday,No,2015-06-26T00:00:00.000,Aggravated Assault,"[-71.085662, 42.342018]",Point,04xx,6,ARREST,594,D4,,No,HUNTINGTON AVE,Part One,Knife/Cutting Instrument,768183.0,,2950000.0,2015

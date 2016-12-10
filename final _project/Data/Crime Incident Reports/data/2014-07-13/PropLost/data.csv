@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8614,142009373.0,Sunday,No,2014-07-13T18:00:00.000,PropLost,"[-71.085036, 42.294732]",Point,PropLost,7,PROP,0,B3,First,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2014
+13590,142008878.0,Sunday,No,2014-07-13T20:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,7,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+17682,142010017.0,Sunday,No,2014-07-13T13:00:00.000,PropLost,"[-71.163537, 42.344846]",Point,PropLost,7,PROP,0,D14,Day,No,LAKE ST,Part three,Unarmed,747125.1395,,2950870.1,2014
+26727,142008998.0,Sunday,No,2014-07-13T00:01:00.000,PropLost,"[-71.057055, 42.361776]",Point,PropLost,7,PROP,0,A1,Last,No,HANOVER ST,Part three,Unarmed,775879.1916,,2957171.3439999996,2014
+113190,142008789.0,Sunday,No,2014-07-13T15:24:00.000,PropLost,"[-71.06212, 42.301953]",Point,PropLost,7,LARCEN,0,C11,Day,No,CORWIN ST,Part three,Unarmed,774622.1052,,2935363.728,2014
+170011,142008893.0,Sunday,No,2014-07-13T19:00:00.000,PropLost,"[-71.039415, 42.368976]",Point,PropLost,7,PROP,0,A7,First,No,MAVERICK SQ,Part three,Unarmed,780632.4456,,2959820.414,2014
+171320,142011849.0,Sunday,No,2014-07-13T12:30:00.000,PropLost,"[-71.089565, 42.285061]",Point,PropLost,7,PROP,0,B3,Day,No,LIVINGSTONE ST,Part three,Unarmed,767227.4812,,2929171.126,2014
+189610,142010667.0,Sunday,No,2014-07-13T01:00:00.000,PropLost,"[-71.151133, 42.341412]",Point,PropLost,7,PROP,0,D14,Last,No,WALLINGFORD RD,Part three,Unarmed,750483.54,,2949632.0689999997,2014
+202885,142008806.0,Sunday,No,2014-07-13T13:30:00.000,PropLost,"[-71.10164, 42.344226]",Point,PropLost,7,IVPREM,0,D4,Day,No,BROOKLINE AV,Part three,Unarmed,763859.4027,,2950716.352,2014
+217636,142008864.0,Sunday,No,2014-07-13T19:00:00.000,PropLost,"[-71.134735, 42.354686]",Point,PropLost,7,PROP,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,754896.2411,,2954488.137,2014
+260777,142008903.0,Sunday,No,2014-07-13T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,A1,First,No,MYRTLE ST,Part three,Unarmed,,,,2014
+266053,142008818.0,Sunday,No,2014-07-13T02:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,A1,Last,No,BROAD ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37024,140066280.0,Saturday,No,2014-02-01T17:30:00.000,PropFound,"[-71.08773, 42.347281]",Point,PropFound,2,FDPROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767614.423,BOYLSTON ST,2951847.52,2014
+66361,140066428.0,Saturday,No,2014-02-01T18:35:00.000,PropFound,"[-71.078815, 42.350571]",Point,PropFound,2,LARCRT,137,D4,First,No,NEWBURY ST,Part three,Other,770018.4438,,2953058.235,2014
+78501,140064817.0,Saturday,No,2014-02-01T00:10:00.000,PropFound,"[-71.123104, 42.259722]",Point,PropFound,2,FDPROP,520,E18,Last,No,HYDE PARK AV,Part three,Unarmed,758192.8956,,2919895.084,2014
+262521,140065963.0,Saturday,No,2014-02-01T14:45:00.000,PropFound,"[0, 0]",Point,PropFound,2,FDPROP,544,E18,Day,No,SUMMER ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36119,130081004.0,Friday,No,2013-02-08T08:21:00.000,Service,"[-71.121059, 42.292094]",Point,Service,2,CD11  ,664,E5,Day,No,DELFORD ST,Part Three,Unarmed,758693.8598,,2931694.54,2013
+225789,130080903.0,Friday,No,2013-02-08T06:20:00.000,Service,"[-71.11662, 42.29735]",Point,Service,2,ARREST,564,E5,Last,No,WASHINGTON ST,Part Three,Unarmed,759886.3972,,2933615.372,2013
+252588,130081347.0,Friday,No,2013-02-08T12:02:00.000,Service,"[-71.09362, 42.275141]",Point,Service,2,EMSMVA,469,B3,Day,No,TENNIS RD,Part Three,Unarmed,766147.4607,BLUE HILL AV,2925550.885,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19747,140058921.0,Wednesday,No,2014-01-29T13:23:00.000,InvProp,"[-71.054375, 42.327796]",Point,InvProp,1,LARCIP,914,C6,Day,No,LOGAN WY,Part three,Unarmed,776668.1887,,2944792.189,2014
+77361,140065546.0,Wednesday,No,2014-01-29T20:35:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,1,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+98631,140058030.0,Wednesday,No,2014-01-29T00:30:00.000,InvProp,"[-71.064115, 42.317839]",Point,InvProp,1,REMOVE,239,B2,Last,No,COLUMBIA RD,Part three,Other,774052.7186,,2941150.083,2014

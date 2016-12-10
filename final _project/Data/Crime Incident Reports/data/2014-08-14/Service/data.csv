@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15600,142019145.0,Thursday,No,2014-08-14T03:00:00.000,Service,"[-71.05464, 42.366496]",Point,Service,8,AOD,0,A1,Last,No,SALEM ST,Part three,Unarmed,776522.8934,,2958894.8030000003,2014
+117881,142019352.0,Thursday,No,2014-08-14T17:45:00.000,Service,"[-71.065155, 42.375041]",Point,Service,8,ARREST,0,A15,First,No,AUSTIN ST,Part three,Unarmed,773665.4224,,2961994.1139999996,2014
+151707,142019289.0,Thursday,No,2014-08-14T14:45:00.000,Service,"[-71.07351, 42.333491]",Point,Service,8,ARREST,0,D4,Day,No,ALBANY ST,Part three,Unarmed,771483.5641,MASSACHUSETTS AV,2946841.0930000003,2014
+156659,142019304.0,Thursday,No,2014-08-14T15:00:00.000,Service,"[-71.09092, 42.286081]",Point,Service,8,SS,0,B3,Day,No,HAVELOCK ST,Part three,Unarmed,766859.0485,BLUE HILL AV,2929541.066,2014
+158483,142019248.0,Thursday,No,2014-08-14T11:30:00.000,Service,"[-71.09178, 42.268962]",Point,Service,8,cd11,0,B3,Day,No,RIVER ST,Part three,Unarmed,766656.1487,,2923301.256,2014

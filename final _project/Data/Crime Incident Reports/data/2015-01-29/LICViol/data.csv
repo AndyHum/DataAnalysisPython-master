@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151253,152007888.0,Thursday,No,2015-01-29T23:45:00.000,LICViol,"[-71.0639, 42.350956]",Point,LICViol,1,CD35,0,A1,First,No,STUART ST,Part three,Unarmed,774049.4062,,2953218.795,2015
+217726,152007816.0,Thursday,No,2015-01-29T16:00:00.000,LICViol,"[-71.05795, 42.358781]",Point,LICViol,1,IVPREM,0,A1,First,No,COURT ST,Part three,Unarmed,775642.9631,,2956078.653,2015
+234658,152007822.0,Thursday,No,2015-01-29T19:30:00.000,LICViol,"[-71.064348, 42.375438]",Point,LICViol,1,CD35,0,A15,First,No,MAIN ST,Part three,Unarmed,773882.7245,,2962139.622,2015

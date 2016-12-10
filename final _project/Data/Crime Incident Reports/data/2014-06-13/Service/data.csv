@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61627,140375506.0,Friday,No,2014-06-13T18:30:00.000,Service,"[-71.06255, 42.353091]",Point,Service,6,CD11  ,117,A1,First,No,WASHINGTON ST,Part three,Unarmed,774410.3318,HAYWARD PL,2953998.6969999997,2014
+99319,140375647.0,Friday,No,2014-06-13T22:16:00.000,Service,"[-71.063389, 42.291099]",Point,Service,6,IVPREM,396,C11,First,No,ROSELAND ST,Part three,Unarmed,774299.037,,2931406.633,2014
+221017,140376734.0,Friday,No,2014-06-13T23:30:00.000,Service,"[-71.059987, 42.361648]",Point,Service,6,ARREST,72,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+227943,140373879.0,Friday,No,2014-06-13T09:45:00.000,Service,"[-71.059987, 42.361648]",Point,Service,6,CD9   ,72,A1,Day,No,SUDAN ST,Part three,Unarmed,775087.02,,2957120.525,2014
+233589,140373874.0,Friday,No,2014-06-13T08:56:00.000,Service,"[-71.07146, 42.332341]",Point,Service,6,IVPER ,0,C6,Day,No,BRADSTON ST,Part three,Unarmed,772039.955,SOUTHAMPTON ST,2946424.791,2014
+242264,140374203.0,Friday,No,2014-06-13T11:48:00.000,Service,"[-71.062575, 42.352726]",Point,Service,6,CD19  ,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774404.2569,,2953865.65,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41137,152026137.0,Monday,No,2015-03-23T19:30:00.000,PropLost,"[-71.128355, 42.283788]",Point,PropLost,3,PROP,0,E5,First,No,POPLAR ST,Part three,Unarmed,756733.2686,,2928658.8060000003,2015
+86604,152023351.0,Monday,No,2015-03-23T06:30:00.000,PropLost,"[-71.13636, 42.275376]",Point,PropLost,3,PROP,0,E5,Last,No,JUNE ST,Part three,Unarmed,754580.2299,,2925584.311,2015
+89965,152026319.0,Monday,No,2015-03-23T00:00:00.000,PropLost,"[-71.067665, 42.283116]",Point,PropLost,3,LARCEN,0,C11,Last,No,FULLER ST,Part three,Unarmed,773157.0009,,2928491.617,2015
+221338,152023416.0,Monday,No,2015-03-23T16:47:00.000,PropLost,"[-71.05851, 42.307276]",Point,PropLost,3,LARCEN,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775588.7588,,2937308.557,2015
+227484,152023879.0,Monday,No,2015-03-23T21:30:00.000,PropLost,"[-71.115994, 42.275121]",Point,PropLost,3,PROP,0,E18,First,No,AMERICAN LEGION HY,Part three,Unarmed,760092.1353,,2925515.338,2015

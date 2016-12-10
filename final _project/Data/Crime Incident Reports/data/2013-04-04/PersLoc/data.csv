@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73590,130198668.0,Thursday,No,2013-04-04T18:00:00.000,PersLoc,"[-71.103701, 42.320824]",Point,PersLoc,4,MSNCOM,579,E13,First,No,ASHLEY ST,Part Three,Unarmed,763341.7347,,2942185.445,2013
+95386,130198447.0,Thursday,No,2013-04-04T15:43:00.000,PersLoc,"[-71.073665, 42.282068]",Point,PersLoc,4,MISPER,417,B3,Day,No,MORA ST,Part Three,Unarmed,771535.1918,,2928101.3230000003,2013
+169614,130198985.0,Thursday,No,2013-04-04T20:00:00.000,PersLoc,"[-71.07321, 42.292406]",Point,PersLoc,4,MISPER,450,B3,First,No,ROSEDALE ST,Part Three,Unarmed,771639.5912,,2931869.47,2013

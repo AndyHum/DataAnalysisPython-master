@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34925,130043045.0,Monday,No,2013-01-21T13:00:00.000,InvPer,"[-71.14635, 42.284661]",Point,InvPer,1,IVPER ,686,E5,Day,No,IONA ST,Part Three,Unarmed,751862.5815,,2928956.5360000003,2013
+55469,130042437.0,Monday,No,2013-01-21T02:07:00.000,InvPer,"[-71.102874, 42.325388]",Point,InvPer,1,SHOTS ,906,E13,Last,No,HORAN WY,Part Three,Firearm,763557.568,,2943849.8589999997,2013
+122691,130043616.0,Monday,No,2013-01-21T18:55:00.000,InvPer,"[-71.048005, 42.286251]",Point,InvPer,1,HARPT ,378,C11,First,No,CHICKATAWBUT ST,Part Three,Unarmed,778470.9095,,2929661.63,2013
+156356,130044811.0,Monday,No,2013-01-21T09:25:00.000,InvPer,"[-71.078886, 42.317624]",Point,InvPer,1,NIDV  ,311,B2,Day,No,EDGEWOOD ST,Part Three,Unarmed,770058.3496,,2941051.543,2013
+204107,130043927.0,Monday,No,2013-01-21T21:54:00.000,InvPer,"[-71.117294, 42.259383]",Point,InvPer,1,MSNCOM,494,E18,First,No,RIVER ST,Part Three,Unarmed,759766.2593,,2919778.597,2013

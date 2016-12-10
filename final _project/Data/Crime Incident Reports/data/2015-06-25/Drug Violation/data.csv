@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4602,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,6,ADMRPT,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+12710,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[-71.061751, 42.294803]",Point,18xx,6,TS,363,C11,,No,DORCHESTER AVE,Part Two,None,774735.0,,2930000.0,2015
+52832,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[-71.063071, 42.320229]",Point,18xx,6,POISON,237,B2,,No,ELDER ST,Part Two,None,774331.0,,2940000.0,2015
+53387,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[-71.06134, 42.310434]",Point,18xx,6,IVPREM,257,C11,,No,HANCOCK ST,Part Two,None,774817.0,,2940000.0,2015
+86376,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[-71.058839, 42.307582]",Point,18xx,6,UNKEMS,347,C11,,No,EAST ST,Part Two,None,775499.0,,2940000.0,2015
+111080,,Thursday,No,2015-06-25T17:20:00.000,Drug Violation,"[0, 0]",Point,18xx,6,TS,392,C11,,No,ADAMS ST,Part Two,None,, ASHMONT ST ,,2015
+128236,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[-71.052668, 42.354846]",Point,18xx,6,I00015,110,A1,,No,PURCHASE ST,Part Two,None,777078.0,,2950000.0,2015
+158387,,Thursday,No,2015-06-25T19:00:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPER,396,C11,,No,ROSELAND ST,Part Two,None,,SANTUIT ST,,2015
+184732,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[-71.133632, 42.347483]",Point,18xx,6,SS,793,D14,,No,BRAINERD RD,Part Two,None,755206.0,,2950000.0,2015
+197942,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[-71.161666, 42.265802]",Point,18xx,6,IVPER,713,E5,,No,LINDEN RD,Part Two,None,747745.0,,2920000.0,2015
+206132,,Thursday,No,2015-06-25T00:00:00.000,Drug Violation,"[0, 0]",Point,18xx,6,I00015,110,A1,,No,PEARL ST,Part Two,None,,PURCHASE ST,,2015

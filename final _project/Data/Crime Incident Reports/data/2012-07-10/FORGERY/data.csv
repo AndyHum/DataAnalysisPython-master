@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30026,120424175.0,Tuesday,No,2012-07-10T13:14:00.000,FORGERY,"[-71.039415, 42.368976]",Point,10xx,7,INVEST,27,A7,Day,No,MAVERICK SQ,Part Two,Other,780632.4456,,2959820.414,2012
+97877,120426341.0,Tuesday,No,2012-07-10T08:00:00.000,FORGERY,"[-71.044313, 42.285011]",Point,10xx,7,IVPER ,381,C11,Day,No,GALLIVAN BL,Part Two,Unarmed,779472.1208,,2929214.769,2012
+123259,120716007.0,Tuesday,No,2012-07-10T19:17:00.000,FORGERY,"[-71.049401, 42.29763]",Point,10xx,7,IVPER ,373,C11,First,No,MORRISSEY BL,Part Two,Unarmed,778071.2105,,2933806.111,2012

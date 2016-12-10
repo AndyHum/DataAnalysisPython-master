@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130104,140223638.0,Wednesday,No,2014-03-19T15:00:00.000,PropLost,"[-71.173052, 42.350045]",Point,PropLost,3,LSTPRP,754,D14,Day,No,NONANTUM ST,Part three,Unarmed,744545.6808,,2952754.648,2014
+152601,140167551.0,Wednesday,No,2014-03-19T10:20:00.000,PropLost,"[-71.06214, 42.354561]",Point,PropLost,3,TRACK ,111,A1,Day,No,WEST ST,Part three,Other,774518.4056,,2954534.963,2014
+152939,140168813.0,Wednesday,No,2014-03-19T23:30:00.000,PropLost,"[-71.06223, 42.364936]",Point,PropLost,3,LARCRT,120,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774474.6741,,2958315.689,2014
+161133,140168493.0,Wednesday,No,2014-03-19T20:36:00.000,PropLost,"[-71.097081, 42.319472]",Point,PropLost,3,IVPER ,304,B2,First,No,DIMOCK ST,Part three,Unarmed,765134.3663,,2941701.057,2014
+169813,140167784.0,Wednesday,No,2014-03-19T14:30:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,3,REMOVE,93,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2014
+246770,140167478.0,Wednesday,No,2014-03-19T10:00:00.000,PropLost,"[-71.06732, 42.327316]",Point,PropLost,3,LSTPRP,177,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,773168.6514,,2944599.247,2014
+248121,140169656.0,Wednesday,No,2014-03-19T08:35:00.000,PropLost,"[-71.0695, 42.356281]",Point,PropLost,3,LSTPRP,70,A1,Day,No,CHARLES ST,Part three,Unarmed,772525.8840000001,,2955151.637,2014

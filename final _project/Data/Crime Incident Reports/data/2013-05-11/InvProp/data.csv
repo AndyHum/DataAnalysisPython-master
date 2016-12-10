@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71756,130279803.0,Saturday,No,2013-05-11T04:45:00.000,InvProp,"[-71.09128, 42.315476]",Point,InvProp,5,SHOTS ,314,B2,Last,No,WAUMBECK ST,Part Three,Other,766710.3084,,2940252.5930000003,2013
+197738,130292357.0,Saturday,No,2013-05-11T22:30:00.000,InvProp,"[-71.1055, 42.32078]",Point,InvProp,5,FDPROP,577,E13,First,No,WYMAN ST,Part Three,Unarmed,762855.2941,,2942167.099,2013
+214584,130279676.0,Saturday,No,2013-05-11T02:39:00.000,InvProp,"[-71.05694, 42.314156]",Point,InvProp,5,PARTY ,247,C11,Last,No,DORCHESTER AV,Part Three,Unarmed,776000.4132,,2939817.938,2013
+246174,130281487.0,Saturday,No,2013-05-11T22:35:00.000,InvProp,"[-71.078421, 42.284653]",Point,InvProp,5,IVPREM,434,B3,First,No,THETFORD AV,Part three,Unarmed,770243.5782,,2929036.869,2013

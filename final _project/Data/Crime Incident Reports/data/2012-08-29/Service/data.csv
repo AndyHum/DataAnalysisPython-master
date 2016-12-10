@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37462,120541093.0,Wednesday,No,2012-08-29T17:30:00.000,Service,"[-71.077517, 42.307584]",Point,Service,8,IVPER ,329,B2,First,No,STANWOOD ST,Part Three,Unarmed,770446.8849,,2937394.604,2012
+89689,120539399.0,Wednesday,No,2012-08-29T15:30:00.000,Service,"[-71.085618, 42.32866]",Point,Service,8,IVPER ,282,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012
+103443,120538925.0,Wednesday,No,2012-08-29T12:11:00.000,Service,"[-71.097081, 42.319472]",Point,Service,8,IVPREM,304,B2,Day,No,DIMOCK ST,Part Three,Unarmed,765134.3663,,2941701.057,2012
+152032,120539016.0,Wednesday,No,2012-08-29T10:30:00.000,Service,"[-71.059987, 42.361648]",Point,Service,8,IVPER ,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+173554,120538554.0,Wednesday,No,2012-08-29T10:15:00.000,Service,"[-71.070539, 42.312118]",Point,Service,8,ARREST,331,B2,Day,No,DRAYTON AV,Part Three,Unarmed,772325.9185,,2939056.353,2012
+250546,120538632.0,Wednesday,No,2012-08-29T09:32:00.000,Service,"[-71.04625, 42.354256]",Point,Service,8,CD4   ,207,C6,Day,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012

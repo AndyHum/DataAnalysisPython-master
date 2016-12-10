@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97304,120435257.0,Sunday,No,2012-07-15T02:44:00.000,DISORDERLY,"[-71.12405, 42.246833]",Point,24xx,7,ARREST,518,E18,Last,No,GLENWOOD AV,Part Two,Unarmed,757957.4309,,2915197.248,2012
+132148,120436459.0,Sunday,No,2012-07-15T20:02:00.000,DISORDERLY,"[-71.064945, 42.300521]",Point,24xx,7,MVA   ,352,C11,First,No,JOSEPHINE ST,Part Two,Other,773860.6766,,2934837.9910000004,2012
+201003,120436192.0,Sunday,No,2012-07-15T17:27:00.000,DISORDERLY,"[-71.09847, 42.315621]",Point,24xx,7,ARREST,0,E13,First,No,ATHERTON ST,Part Two,Unarmed,764765.4479,WASHINGTON ST,2940296.1969999997,2012
+204166,120439533.0,Sunday,No,2012-07-15T06:20:00.000,DISORDERLY,"[-71.040034, 42.317592]",Point,24xx,7,PARTY ,256,C6,Last,No,SOUTH POINT DR,Part Two,Other,780565.8978,,2941094.309,2012

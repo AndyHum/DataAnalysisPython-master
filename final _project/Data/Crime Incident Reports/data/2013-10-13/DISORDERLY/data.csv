@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142659,130653175.0,Sunday,No,2013-10-13T02:22:00.000,DISORDERLY,"[-71.13209, 42.352991]",Point,24xx,10,FIGHT ,794,D14,Last,No,BRIGHTON AV,Part Two,Unarmed,755613.8322,HARVARD AV,2953873.517,2013
+148518,130652878.0,Sunday,No,2013-10-13T01:06:00.000,DISORDERLY,"[-71.06607, 42.351061]",Point,24xx,10,ARREST,121,A1,Last,No,STUART ST,Part Two,Unarmed,773462.6412,WARRENTON ST,2953254.067,2013
+184201,130653058.0,Sunday,No,2013-10-13T01:30:00.000,DISORDERLY,"[-71.073462, 42.293481]",Point,24xx,10,PARTY ,449,B3,Last,No,WHEATLAND AV,Part Two,Unarmed,771569.3712,,2932260.5689999997,2013
+214904,130653266.0,Sunday,No,2013-10-13T03:30:00.000,DISORDERLY,"[-71.06704, 42.326996]",Point,24xx,10,FIGHT ,177,C6,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,773244.9577,,2944483.017,2013

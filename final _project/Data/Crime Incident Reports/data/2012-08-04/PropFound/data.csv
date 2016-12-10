@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93764,120482915.0,Saturday,No,2012-08-04T17:21:00.000,PropFound,"[-71.08446, 42.342426]",Point,PropFound,8,FDPROP,594,D4,First,No,MASSACHUSETTS AV,Part Three,Other,768507.0033,,2950082.557,2012
+126406,120482520.0,Saturday,No,2012-08-04T12:30:00.000,PropFound,"[-71.091075, 42.285061]",Point,PropFound,8,FDPROP,430,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766818.8895,,2929169.163,2012
+187842,120482449.0,Saturday,No,2012-08-04T13:00:00.000,PropFound,"[-71.05201, 42.355211]",Point,PropFound,8,IVDRUG,110,A1,Day,No,PURCHASE ST,Part Three,Unarmed,777255.2287,OLIVER ST,2954786.0519999997,2012
+188583,120481433.0,Saturday,No,2012-08-04T00:35:00.000,PropFound,"[-71.085233, 42.347129]",Point,PropFound,8,FDPROP,598,D4,Last,No,DALTON ST,Part Three,Unarmed,768289.5178,,2951795.253,2012
+193465,120481985.0,Saturday,No,2012-08-04T04:33:00.000,PropFound,"[-71.082405, 42.352746]",Point,PropFound,8,FDPROP,135,D4,Last,No,BEACON ST,Part Three,Unarmed,769044.1485,,2953846.0760000004,2012
+263204,120482028.0,Saturday,No,2012-08-04T08:41:00.000,PropFound,"[0, 0]",Point,PropFound,8,LSTPRP,915,C6,Day,No,BOSTON ST,Part Three,Unarmed,,,,2012

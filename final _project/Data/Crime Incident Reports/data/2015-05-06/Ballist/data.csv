@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64105,152037004.0,Wednesday,No,2015-05-06T13:21:00.000,Ballist,"[-71.091454, 42.317281]",Point,Ballist,5,SHOTS,0,B2,Day,No,WALNUT AV,Part Two,Firearm,766660.0168,HARRISHOF ST,2940910.057,2015
+75800,152036883.0,Wednesday,No,2015-05-06T06:50:00.000,Ballist,"[-71.09279, 42.335528]",Point,Ballist,5,SSA,0,B2,Last,No,ANNUNCIATION RD,Part Two,Firearm,766266.9936,,2947557.934,2015
+112902,152037108.0,Wednesday,No,2015-05-06T18:05:00.000,Ballist,"[-71.08174, 42.294146]",Point,Ballist,5,SHOTS,0,B3,First,No,BROWNING AV,Part Two,Firearm,769328.6148,,2932492.12,2015

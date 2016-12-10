@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10123,120486971.0,Monday,No,2012-08-06T14:30:00.000,InvProp,"[-71.052675, 42.340716]",Point,InvProp,8,IVPREM,201,C6,Day,No,ATHENS ST,Part Three,Unarmed,777103.1901,,2949502.867,2012
+132881,120487911.0,Monday,No,2012-08-06T21:58:00.000,InvProp,"[-71.087984, 42.322181]",Point,InvProp,8,SHOTS ,299,B2,First,No,DALE ST,Part Three,Other,767589.9529,,2942700.296,2012
+239327,120485836.0,Monday,No,2012-08-06T00:22:00.000,InvProp,"[-71.089151, 42.311211]",Point,InvProp,8,IVPREM,318,B2,Last,No,HOMESTEAD ST,Part Three,Unarmed,767293.447,,2938701.003,2012

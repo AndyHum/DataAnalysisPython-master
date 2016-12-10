@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53109,130819353.0,Monday,No,2013-12-30T21:14:00.000,Landlord,"[-71.144024, 42.346747]",Point,Landlord,12,HARPT ,938,D14,First,No,JETTE CT,Part three,Unarmed,752397.4732,,2951584.079,2013
+87190,130818911.0,Monday,No,2013-12-30T17:12:00.000,Landlord,"[-71.07058, 42.317051]",Point,Landlord,12,IVPER ,259,B2,First,No,MAGNOLIA ST,Part three,Unarmed,772305.9484,,2940854.055,2013
+137985,130818000.0,Monday,No,2013-12-30T09:00:00.000,Landlord,"[-71.055028, 42.287827]",Point,Landlord,12,VIORDR,378,C11,Day,No,ADAMS ST,Part three,Unarmed,776567.4852,,2930225.7180000003,2013
+155865,130818514.0,Monday,No,2013-12-30T14:07:00.000,Landlord,"[-71.069665, 42.308156]",Point,Landlord,12,REMOVE,335,C11,Day,No,HAMILTON ST,Part three,Unarmed,772569.7675,,2937613.8219999997,2013

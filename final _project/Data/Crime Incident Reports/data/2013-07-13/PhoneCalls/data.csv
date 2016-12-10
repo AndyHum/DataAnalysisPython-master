@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21444,130439814.0,Saturday,No,2013-07-13T00:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,7,HARPT ,15,A7,Last,No,MCCLELLAN HY,Part three,Other,,,,2013
+213612,130433138.0,Saturday,No,2013-07-13T16:42:00.000,PhoneCalls,"[-71.100035, 42.320706]",Point,PhoneCalls,7,IVPER ,303,E13,First,No,AMORY AV,Part three,Other,764333.4883,,2942147.27,2013
+239240,130432337.0,Saturday,No,2013-07-13T09:00:00.000,PhoneCalls,"[-71.087665, 42.318571]",Point,PhoneCalls,7,HARPT ,308,B2,Day,No,MUNROE ST,Part three,Unarmed,767682.5728,,2941385.171,2013

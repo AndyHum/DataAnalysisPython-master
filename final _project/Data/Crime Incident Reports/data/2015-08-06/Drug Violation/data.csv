@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53433,,Thursday,No,2015-08-06T00:00:00.000,Drug Violation,"[-71.091407, 42.331238]",Point,18xx,8,ARREST,289,B2,,No,MALCOLM X BLVD,Part Two,None,766648.0,,2950000.0,2015
+79631,,Thursday,No,2015-08-06T20:30:00.000,Drug Violation,"[0, 0]",Point,18xx,8,SS,172,D4,,No,MASSACHUSETTS AVE,Part Two,None,,,,2015
+91566,,Thursday,No,2015-08-06T17:15:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,914,C6,,No,GENERAL LAWRENCE J LOGAN WAY,Part Two,None,,,,2015
+178569,,Thursday,No,2015-08-06T00:00:00.000,Drug Violation,"[-71.12382, 42.241911]",Point,18xx,8,IVPER,524,E18,,No,VAN BRUNT ST,Part Two,None,758028.0,,2910000.0,2015
+238153,,Thursday,No,2015-08-06T18:00:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,0,,,No,ELLARD RD,Part Two,None,,,,2015

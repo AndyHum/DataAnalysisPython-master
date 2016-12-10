@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15258,,Monday,No,2015-08-10T00:00:00.000,Motor Vehicle Accident Response,"[-71.059249, 42.313537]",Point,MVAcc,8,MVA,823,C11,,No,PLEASANT ST,Part Three,None,775377.0,,2940000.0,2015
+78303,,Monday,No,2015-08-10T05:20:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,0,,,No,,Part Three,None,,HYDE PARK AVE,,2015
+142072,,Monday,No,2015-08-10T00:00:00.000,Motor Vehicle Accident Response,"[-71.060522, 42.289433]",Point,MVAcc,8,UNKEMS,366,C11,,No,EDWIN ST,Part Three,None,775078.0,,2930000.0,2015
+151894,,Monday,No,2015-08-10T02:38:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,565,B3,,No,HARVARD ST,Part Three,None,, WALK HILL ST ,,2015
+155211,,Monday,No,2015-08-10T04:48:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,313,B2,,No,DECKARD ST,Part Three,None,,HUMBOLDT AVE,,2015
+257297,,Monday,No,2015-08-10T02:28:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,101,A1,,No,BROAD ST,Part Three,None,,CENTRAL ST,,2015

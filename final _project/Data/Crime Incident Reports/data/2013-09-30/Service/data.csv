@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9890,130624387.0,Monday,No,2013-09-30T20:00:00.000,Service,"[-71.03887, 42.371246]",Point,Service,9,IVPER ,28,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2013
+36308,130623157.0,Monday,No,2013-09-30T10:50:00.000,Service,"[-71.12247, 42.250051]",Point,Service,9,SSTOP ,516,E18,Day,No,TRUMAN PY,Part three,Unarmed,758380.1632,DANA AV,2916371.876,2013
+65298,130624391.0,Monday,No,2013-09-30T19:00:00.000,Service,"[-71.15242, 42.351791]",Point,Service,9,MISC  ,133,D14,First,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2013
+99609,130622521.0,Monday,No,2013-09-30T01:23:00.000,Service,"[-71.05758, 42.311341]",Point,Service,9,ARREST,254,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775832.6352,BAY ST,2938791.209,2013
+161581,130623080.0,Monday,No,2013-09-30T10:30:00.000,Service,"[-71.095405, 42.348786]",Point,Service,9,IVPREM,0,D4,Day,No,COMMONWEALTH AV,Other,Unarmed,765537.0788,,2952386.037,2013
+189490,130624117.0,Monday,No,2013-09-30T17:58:00.000,Service,"[-71.072217, 42.281007]",Point,Service,9,AOD   ,417,B3,First,No,FAIRMOUNT ST,Part three,Unarmed,771929.0719,,2927716.809,2013
+201878,130625582.0,Monday,No,2013-09-30T10:00:00.000,Service,"[-71.105714, 42.271503]",Point,Service,9,LARCRT,479,E18,Day,No,CUMMINS HY,Part three,Unarmed,762880.5122,,2924209.798,2013
+205327,130624173.0,Monday,No,2013-09-30T18:00:00.000,Service,"[-71.090772, 42.341561]",Point,Service,9,IVPER ,618,D4,First,No,HEMENWAY ST,Part three,Unarmed,766801.9673,,2949758.7819999997,2013
+264249,130639917.0,Monday,No,2013-09-30T00:00:00.000,Service,"[0, 0]",Point,Service,9,SEXOFF,566,B2,Last,No,SHATTUCK ST,Part three,Unarmed,,,,2013

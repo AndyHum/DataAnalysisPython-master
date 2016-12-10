@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3573,152041690.0,Thursday,No,2015-05-21T11:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPER,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+17454,152041823.0,Thursday,No,2015-05-21T18:59:00.000,InvProp,"[-71.06483, 42.292251]",Point,InvProp,5,SSA,0,C11,First,No,CENTRE ST,Part three,Unarmed,773907.1641,,2931824.439,2015
+22468,152041654.0,Thursday,No,2015-05-21T12:00:00.000,InvProp,"[-71.056825, 42.357526]",Point,InvProp,5,SUSOBJ,0,A1,Day,No,WATER ST,Part three,Unarmed,775949.3985,,2955622.8839999996,2015
+57293,152041681.0,Thursday,No,2015-05-21T09:00:00.000,InvProp,"[-71.090835, 42.286361]",Point,InvProp,5,BE,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766881.5587,,2929643.213,2015

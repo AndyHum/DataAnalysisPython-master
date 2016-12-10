@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2530,152046590.0,Friday,No,2015-06-05T17:56:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,UNKEMS,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,,,,2015
+2538,152046514.0,Friday,No,2015-06-05T01:36:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,ALARM,0,B2,Last,No,HOLLANDER ST,Part three,Unarmed,,,,2015
+3982,152046501.0,Friday,No,2015-06-05T12:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,EDP,0,C11,Day,No,CLARKSON ST,Part three,Unarmed,,,,2015
+22407,152046366.0,Friday,No,2015-06-05T00:58:00.000,MedAssist,"[-71.063503, 42.310262]",Point,MedAssist,6,NIDV,0,C11,Last,No,TOVAR ST,Part three,Unarmed,774232.417,,2938389.63,2015
+29125,152046389.0,Friday,No,2015-06-05T02:43:00.000,MedAssist,"[-71.032515, 42.334806]",Point,MedAssist,6,REQP,0,C6,Last,No,E 4TH ST,Part three,Unarmed,782565.2875,,2947378.39,2015
+60488,152046368.0,Friday,No,2015-06-05T01:30:00.000,MedAssist,"[-71.09674, 42.268171]",Point,MedAssist,6,EDP,0,E18,Last,No,ROCKDALE ST,Part three,Other,765315.0917,,2923006.916,2015
+78769,152046437.0,Friday,No,2015-06-05T09:15:00.000,MedAssist,"[-71.08046, 42.335661]",Point,MedAssist,6,UNKEMS,0,D4,Day,No,SHAWMUT AV,Part three,Unarmed,769600.5096,,2947622.561,2015
+131282,152046467.0,Friday,No,2015-06-05T11:43:00.000,MedAssist,"[-71.08483, 42.346381]",Point,MedAssist,6,IVPER,0,D4,Day,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2015
+138823,152046459.0,Friday,No,2015-06-05T11:30:00.000,MedAssist,"[-71.084975, 42.329021]",Point,MedAssist,6,UNCONS,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768391.5439,,2945196.855,2015
+151400,152046613.0,Friday,No,2015-06-05T19:30:00.000,MedAssist,"[-71.098625, 42.346181]",Point,MedAssist,6,IVPREM,0,D4,First,No,YAWKEY WY,Part three,Other,764671.1215,,2951432.6119999997,2015
+187301,152046768.0,Friday,No,2015-06-05T02:52:00.000,MedAssist,"[-71.05774, 42.350716]",Point,MedAssist,6,INJOFF,0,A1,Last,No,BEACH ST,Part three,Unarmed,775714.96,SOUTH ST,2953139.9080000003,2015
+233759,152046606.0,Friday,No,2015-06-05T18:06:00.000,MedAssist,"[-71.061434, 42.300547]",Point,MedAssist,6,SS,0,C11,First,No,CHARLES ST,Part three,Unarmed,774810.2974,,2934852.3389999997,2015

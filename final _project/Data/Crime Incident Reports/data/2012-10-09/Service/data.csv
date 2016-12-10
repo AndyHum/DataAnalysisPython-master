@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13829,120635962.0,Tuesday,No,2012-10-09T14:28:00.000,Service,"[-71.08199, 42.334391]",Point,Service,10,ARREST,274,D4,Day,No,HAMMOND ST,Part Three,Unarmed,769189.1056,SHAWMUT AV,2947157.7189999996,2012
+54032,120636030.0,Tuesday,No,2012-10-09T14:50:00.000,Service,"[-71.063478, 42.349957]",Point,Service,10,ARREST,123,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774165.0979,,2952855.298,2012
+112606,120636027.0,Tuesday,No,2012-10-09T14:51:00.000,Service,"[-71.093675, 42.268966]",Point,Service,10,DISTRB,426,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766143.2941,,2923300.56,2012
+200060,120635493.0,Tuesday,No,2012-10-09T11:11:00.000,Service,"[-71.06412, 42.352331]",Point,Service,10,ARREST,117,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,773987.3769,TAMWORTH ST,2953719.567,2012

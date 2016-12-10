@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4269,140006340.0,Saturday,No,2014-01-04T11:23:00.000,MedAssist,"[-71.078452, 42.304244]",Point,MedAssist,1,EDP2  ,460,C11,Day,No,MORSE ST,Part three,Unarmed,770199.8024,,2936176.0889999997,2014
+19928,140006781.0,Saturday,No,2014-01-04T15:50:00.000,MedAssist,"[-71.129941, 42.357471]",Point,MedAssist,1,IVPER ,816,D14,Day,No,ROYAL ST,Part three,Unarmed,756187.4751,,2955508.568,2014
+92332,140007502.0,Saturday,No,2014-01-04T23:45:00.000,MedAssist,"[-71.1696, 42.276996]",Point,MedAssist,1,CARST ,725,E5,First,No,WYCLIFF AV,Part three,Unarmed,745582.1111,,2926138.065,2014
+94228,140006345.0,Saturday,No,2014-01-04T11:32:00.000,MedAssist,"[-71.1564, 42.354466]",Point,MedAssist,1,UNK   ,764,D14,Day,No,MADELINE ST,Part three,Unarmed,749040.6488,,2954383.6319999998,2014
+149910,140006881.0,Saturday,No,2014-01-04T16:45:00.000,MedAssist,"[-71.06939, 42.339506]",Point,MedAssist,1,IVPER ,167,D4,First,No,HARRISON AV,Part three,Other,772586.4767,,2949038.664,2014
+156726,140007310.0,Saturday,No,2014-01-04T21:28:00.000,MedAssist,"[-71.05696, 42.329301]",Point,MedAssist,1,OVRDOS,191,C6,First,No,DORCHESTER AV,Part three,Unarmed,775966.3364,,2945336.995,2014
+209305,140007446.0,Saturday,No,2014-01-04T23:10:00.000,MedAssist,"[-71.070155, 42.350601]",Point,MedAssist,1,CARST ,120,A1,First,No,ARLINGTON ST,Part three,Unarmed,772359.2779999999,,2953080.8430000003,2014
+258593,140007295.0,Saturday,No,2014-01-04T21:00:00.000,MedAssist,"[-71.085618, 42.32866]",Point,MedAssist,1,MISC  ,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+259239,142035633.0,Saturday,No,2014-01-04T23:23:00.000,MedAssist,"[-71.06255, 42.353091]",Point,MedAssist,1,INVEST,0,A1,First,No,HAYWARD PL,Part three,Unarmed,774410.3318,WASHINGTON ST,2953998.6969999997,2014

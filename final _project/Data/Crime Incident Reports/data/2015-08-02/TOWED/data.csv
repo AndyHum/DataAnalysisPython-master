@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+139360,,Sunday,No,2015-08-02T00:00:00.000,Towed,"[-71.062395, 42.323088]",Point,Towed,8,TS,188,C6,,No,CLAPP ST,Part Three,None,774508.0,,2940000.0,2015
+231197,,Sunday,No,2015-08-02T00:00:00.000,Towed,"[-71.050698, 42.34008]",Point,Towed,8,IVMV,201,C6,,No,W THIRD ST,Part Three,None,777639.0,,2950000.0,2015
+232073,,Sunday,No,2015-08-02T00:00:00.000,Towed,"[-71.143249, 42.341939]",Point,Towed,8,IVMV,786,D14,,No,MOUNT HOOD RD,Part Three,None,752614.0,,2950000.0,2015

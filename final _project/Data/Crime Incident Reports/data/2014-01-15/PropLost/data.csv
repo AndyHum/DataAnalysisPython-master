@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9645,140228280.0,Wednesday,No,2014-01-15T12:00:00.000,PropLost,"[-71.069055, 42.337746]",Point,PropLost,1,LSTPRP,167,D4,Day,No,E CANTON ST,Part three,Unarmed,772680.2889,,2948397.747,2014
+11263,140083181.0,Wednesday,No,2014-01-15T15:00:00.000,PropLost,"[-71.146433, 42.341822]",Point,PropLost,1,LSTPRP,776,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,751753.6867,,2949786.905,2014
+84119,140031628.0,Wednesday,No,2014-01-15T19:30:00.000,PropLost,"[-71.054663, 42.334147]",Point,PropLost,1,LSTPRP,195,C6,First,No,OLD COLONY AV,Part three,Unarmed,776578.2112,,2947106.042,2014
+134746,140029257.0,Wednesday,No,2014-01-15T11:30:00.000,PropLost,"[-71.09154, 42.284251]",Point,PropLost,1,LSTPRP,263,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766694.479,MORTON ST,2928873.385,2014
+143787,140031799.0,Wednesday,No,2014-01-15T04:00:00.000,PropLost,"[-71.09486, 42.346715]",Point,PropLost,1,LSTPRP,620,D4,Last,No,IPSWICH ST,Part three,Unarmed,765687.8183,,2951631.78,2014
+172629,140031320.0,Wednesday,No,2014-01-15T18:00:00.000,PropLost,"[-71.143597, 42.34252]",Point,PropLost,1,LSTPRP,786,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,752519.2055,,2950044.309,2014
+174789,140054249.0,Wednesday,No,2014-01-15T12:00:00.000,PropLost,"[-71.049883, 42.319643]",Point,PropLost,1,IVPER ,256,C6,Day,No,MORRISSEY BL,Part three,Unarmed,777898.4159,,2941827.522,2014
+204662,140028389.0,Wednesday,No,2014-01-15T00:02:00.000,PropLost,"[-71.06575, 42.325491]",Point,PropLost,1,IVPER ,182,C6,Last,No,MASSACHUSETTS AV,Part three,Other,773596.582,,2943936.3439999996,2014
+243835,140031818.0,Wednesday,No,2014-01-15T21:00:00.000,PropLost,"[-71.066745, 42.303426]",Point,PropLost,1,LSTPRP,345,C11,First,No,HOMES AV,Part three,Unarmed,773368.3558,,2935894.139,2014

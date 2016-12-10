@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53043,,Thursday,No,2015-07-30T00:00:00.000,Investigate Property,"[-71.053408, 42.334326]",Point,InvProp,7,CD9,822,E5,,No,BOUNDARY RD,Part Three,None,776917.0,,2950000.0,2015
+78750,,Thursday,No,2015-07-30T00:00:00.000,Investigate Property,"[-71.134349, 42.29043]",Point,InvProp,7,ALARM,673,E5,,No,SHEFFIELD RD,Part Three,None,755101.0,,2930000.0,2015
+122152,,Thursday,No,2015-07-30T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,7,IVPREM,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+126182,,Thursday,No,2015-07-30T22:51:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,320,B2,,No,ELM HILL AVE,Part Three,None,,RUTHVEN ST,,2015
+154220,,Thursday,No,2015-07-30T00:00:00.000,Investigate Property,"[-71.080759, 42.304508]",Point,InvProp,7,SHOTS,459,B3,,No,POWELLTON RD,Part Three,None,769575.0,,2940000.0,2015
+230687,,Thursday,No,2015-07-30T00:00:00.000,Investigate Property,"[-71.091216, 42.276654]",Point,InvProp,7,ALARM,427,B3,,No,MILDRED AVE,Part Three,None,766795.0,,2930000.0,2015

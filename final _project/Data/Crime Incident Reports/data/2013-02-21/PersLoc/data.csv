@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69823,130109125.0,Thursday,No,2013-02-21T07:00:00.000,PersLoc,"[-71.145028, 42.258426]",Point,PersLoc,2,MISPER,822,E5,Last,No,GEORGETOWNE DR,Part Three,Unarmed,752259.9616,,2919397.542,2013
+194800,130107796.0,Thursday,No,2013-02-21T13:02:00.000,PersLoc,"[-71.00172, 42.389136]",Point,PersLoc,2,IVPER ,7,A7,Day,No,GLADSTONE ST,Part Three,Unarmed,790775.7783,,2967224.12,2013
+213523,130110790.0,Thursday,No,2013-02-21T19:30:00.000,PersLoc,"[-71.078225, 42.295106]",Point,PersLoc,2,MISPER,447,B3,First,No,NORWELL ST,Part Three,Unarmed,770277.8757,,2932846.637,2013
+229919,130108978.0,Thursday,No,2013-02-21T14:30:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,2,MSNCOM,281,B2,Day,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013

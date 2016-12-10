@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123662,142019007.0,Wednesday,No,2014-08-13T11:30:00.000,InvProp,"[-71.08785, 42.350376]",Point,InvProp,8,BE,0,D4,Day,No,MARLBOROUGH ST,Part three,Other,767576.5314,,2952975.2430000002,2014
+216060,142018846.0,Wednesday,No,2014-08-13T00:39:00.000,InvProp,"[-71.09716, 42.3243]",Point,InvProp,8,IVPER,0,B2,Last,No,HIGHLAND ST,Part three,Unarmed,765104.6197,,2943460.599,2014
+263703,142018887.0,Wednesday,No,2014-08-13T09:55:00.000,InvProp,"[0, 0]",Point,InvProp,8,ALARM,0,B3,Day,No,BLUE JAY CIRCLE,Part three,Unarmed,,,,2014

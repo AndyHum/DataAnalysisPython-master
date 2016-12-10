@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55338,140202609.0,Tuesday,No,2014-04-01T19:30:00.000,PersLoc,"[-71.088325, 42.284031]",Point,PersLoc,4,MISPER,429,B3,First,No,THEODORE ST,Other,Unarmed,767564.8231,,2928797.397,2014
+150099,140203254.0,Tuesday,No,2014-04-01T08:00:00.000,PersLoc,"[-71.06645, 42.291761]",Point,PersLoc,4,MISPER,397,C11,Day,No,CENTRE ST,Other,Unarmed,773469.7657,,2931643.644,2014
+153787,140198706.0,Tuesday,No,2014-04-01T08:10:00.000,PersLoc,"[-71.09231, 42.313296]",Point,PersLoc,4,MISPER,316,B2,Day,No,HAROLD ST,Other,Unarmed,766435.5304,,2939456.832,2014
+224600,140195911.0,Tuesday,No,2014-04-01T12:48:00.000,PersLoc,"[-71.07345, 42.352021]",Point,PersLoc,4,INVCHD,133,D4,Day,No,NEWBURY ST,Other,Unarmed,771466.0179999999,BERKELEY ST,2953593.847,2014

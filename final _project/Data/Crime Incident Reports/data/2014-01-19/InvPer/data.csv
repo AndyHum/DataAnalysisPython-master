@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48099,140038813.0,Sunday,No,2014-01-19T22:04:00.000,InvPer,"[-71.05716, 42.313186]",Point,InvPer,1,FIGHT ,247,C11,First,No,DORCHESTER AV,Part three,Unarmed,775942.7453,,2939464.145,2014
+53473,140037799.0,Sunday,No,2014-01-19T10:00:00.000,InvPer,"[-71.07376, 42.282643]",Point,InvPer,1,IVPER ,417,C11,Day,No,STOCKTON ST,Part three,Unarmed,771508.3897,,2928310.909,2014
+70220,140037514.0,Sunday,No,2014-01-19T02:57:00.000,InvPer,"[-71.0541, 42.364136]",Point,InvPer,1,PRWLER,84,A1,Last,No,HANOVER ST,Part three,Other,776673.3203,,2958035.535,2014
+86600,140038883.0,Sunday,No,2014-01-19T22:05:00.000,InvPer,"[-71.07948, 42.292411]",Point,InvPer,1,IVPER ,439,B3,First,No,BERNARD ST,Part three,Unarmed,769943.1805,TALBOT AV,2931862.863,2014
+169539,140037589.0,Sunday,No,2014-01-19T04:31:00.000,InvPer,"[-71.104585, 42.325006]",Point,InvPer,1,PERGUN,583,E13,Last,No,MINDEN ST,Part three,Unarmed,763095.7293,,2943708.527,2014
+191266,140037758.0,Sunday,No,2014-01-19T09:25:00.000,InvPer,"[-71.06939, 42.339506]",Point,InvPer,1,INVEST,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+246104,140038795.0,Sunday,No,2014-01-19T21:40:00.000,InvPer,"[-71.03946, 42.331396]",Point,InvPer,1,BEIP  ,234,C6,First,No,E 8TH ST,Part three,Other,780694.2286,,2946125.5130000003,2014

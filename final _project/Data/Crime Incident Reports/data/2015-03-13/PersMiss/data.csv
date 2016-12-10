@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28410,152020586.0,Friday,No,2015-03-13T07:00:00.000,PersMiss,"[-71.071598, 42.293363]",Point,PersMiss,3,IVPER,0,C11,Last,No,MELVILLE AV,Other,Unarmed,772073.8459,,2932220.186,2015
+62816,152021994.0,Friday,No,2015-03-13T19:30:00.000,PersMiss,"[-71.14243, 42.349389]",Point,PersMiss,3,MISSIN,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015
+221381,152020240.0,Friday,No,2015-03-13T10:51:00.000,PersMiss,"[-71.099099, 42.26809]",Point,PersMiss,3,IVPER,0,E18,Day,No,HOLLINGSWORTH ST,Other,Unarmed,764676.6933,,2922974.147,2015
+266988,152024822.0,Friday,No,2015-03-13T17:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,3,IVPER,0,A15,First,No,BUNKER HILL ST,Other,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26369,120475212.0,Wednesday,No,2012-08-01T11:00:00.000,PhoneCalls,"[-71.09579, 42.313756]",Point,PhoneCalls,8,IVPER ,572,E13,Day,No,COLUMBUS AV,Part Three,Unarmed,765493.5024,,2939619.9839999997,2012
+77057,120741942.0,Wednesday,No,2012-08-01T11:24:00.000,PhoneCalls,"[-71.05726, 42.364201]",Point,PhoneCalls,8,HARPT ,86,A1,Day,No,ENDICOTT ST,Part Three,Other,775819.2009,,2958054.773,2012
+166837,120498856.0,Wednesday,No,2012-08-01T08:00:00.000,PhoneCalls,"[-71.03158, 42.375606]",Point,PhoneCalls,8,INVEST,21,A7,Day,No,BROOKS ST,Part Three,Unarmed,782736.4381,,2962248.048,2012

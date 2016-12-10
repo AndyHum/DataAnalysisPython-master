@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68382,130213776.0,Thursday,No,2013-04-11T13:45:00.000,LICViol,"[-71.066195, 42.316026]",Point,LICViol,4,CD35  ,332,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,773493.7866,,2940486.5289999996,2013
+242467,130213773.0,Thursday,No,2013-04-11T13:10:00.000,LICViol,"[-71.07776, 42.318941]",Point,LICViol,4,CD35  ,264,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,770360.6823,,2941533.107,2013
+243235,130213774.0,Thursday,No,2013-04-11T13:25:00.000,LICViol,"[-71.080945, 42.311606]",Point,LICViol,4,CD35  ,321,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,769512.4455,,2938855.865,2013

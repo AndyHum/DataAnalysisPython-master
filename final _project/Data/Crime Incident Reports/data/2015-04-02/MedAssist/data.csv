@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10374,152026900.0,Thursday,No,2015-04-02T22:49:00.000,MedAssist,"[-71.095995, 42.347161]",Point,MedAssist,4,IVPER,0,D4,First,No,LANSDOWNE ST,Part three,Other,765380.3957,,2951793.104,2015
+34345,152026793.0,Thursday,No,2015-04-02T16:20:00.000,MedAssist,"[-71.04376, 42.319041]",Point,MedAssist,4,EDP,0,C6,First,No,HARBOR POINT BL,Part three,Unarmed,779555.6265,,2941616.9,2015
+45793,152026647.0,Thursday,No,2015-04-02T11:15:00.000,MedAssist,"[-71.06013, 42.298741]",Point,MedAssist,4,IVPER,0,C11,Day,No,PARK ST,Part three,Unarmed,775166.5959,,2934196.0110000004,2015
+46034,152026779.0,Thursday,No,2015-04-02T15:30:00.000,MedAssist,"[-71.170535, 42.285701]",Point,MedAssist,4,IVPREM,0,E5,Day,No,BAKER ST,Part three,Unarmed,745316.8233,,2929309.3230000003,2015
+52414,152026894.0,Thursday,No,2015-04-02T23:00:00.000,MedAssist,"[-71.10766, 42.335096]",Point,MedAssist,4,CARDIA,0,B2,First,No,FENWOOD RD,Part three,Unarmed,762247.2746,,2947381.665,2015
+76332,152026889.0,Thursday,No,2015-04-02T20:41:00.000,MedAssist,"[-71.05679, 42.35006]",Point,MedAssist,4,EDP,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,775972.8791,BEACH ST,2952902.028,2015
+90230,152026749.0,Thursday,No,2015-04-02T13:41:00.000,MedAssist,"[-71.078125, 42.316551]",Point,MedAssist,4,UNCONS,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770266.2773,,2940661.664,2015
+98087,152026644.0,Thursday,No,2015-04-02T11:05:00.000,MedAssist,"[-71.070415, 42.332156]",Point,MedAssist,4,CARDIA,0,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,772322.8506,,2946358.797,2015
+114318,152026683.0,Thursday,No,2015-04-02T12:42:00.000,MedAssist,"[-71.084701, 42.283566]",Point,MedAssist,4,UNCONS,0,B3,Day,No,BALLOU AV,Part three,Unarmed,768546.2493,,2928632.702,2015
+124899,152026750.0,Thursday,No,2015-04-02T14:15:00.000,MedAssist,"[-71.054905, 42.377836]",Point,MedAssist,4,EDP,0,A15,Day,No,OBRIEN CT,Part three,Unarmed,776429.7148,,2963026.9560000002,2015
+156383,152026821.0,Thursday,No,2015-04-02T17:14:00.000,MedAssist,"[-71.12599, 42.250546]",Point,MedAssist,4,IVPER,0,E18,First,No,HYDE PARK AV,Part three,Firearm,757426.3647,,2916548.062,2015
+176476,152026681.0,Thursday,No,2015-04-02T11:30:00.000,MedAssist,"[-71.158917, 42.299371]",Point,MedAssist,4,INVEST,0,E5,Day,No,SHERMAN RD,Part three,Unarmed,748440.3469,,2934303.026,2015
+179983,152026899.0,Thursday,No,2015-04-02T22:20:00.000,MedAssist,"[-71.095995, 42.347161]",Point,MedAssist,4,IVPER,0,D4,First,No,LANSDOWNE ST,Part three,Other,765380.3957,,2951793.104,2015
+267234,152026576.0,Thursday,No,2015-04-02T00:13:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,IVPER,0,C6,Last,No,C ST,Part three,Unarmed,,,,2015
+267240,152026827.0,Thursday,No,2015-04-02T18:34:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,UNCONS,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015

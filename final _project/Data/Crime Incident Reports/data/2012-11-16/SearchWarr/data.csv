@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47438,120750944.0,Friday,No,2012-11-16T11:45:00.000,SearchWarr,"[-71.046717, 42.336149]",Point,SearchWarr,11,MISC  ,213,C6,Day,No,W BROADWAY,Part Three,Unarmed,778722.6466,,2947847.002,2012
+101177,120722775.0,Friday,No,2012-11-16T18:30:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,11,CD11  ,282,B2,First,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012
+182798,120722531.0,Friday,No,2012-11-16T15:40:00.000,SearchWarr,"[-71.07903, 42.320369]",Point,SearchWarr,11,CD11  ,265,B2,Day,No,WAVERLY ST,Part Three,Other,770014.5147,,2942051.588,2012

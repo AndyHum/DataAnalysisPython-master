@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29458,140094315.0,Friday,No,2014-02-14T16:44:00.000,FORGERY,"[-71.044313, 42.285011]",Point,10xx,2,LARCIP,381,C11,First,No,GALLIVAN BL,Part Two,Other,779472.1208,,2929214.769,2014
+129601,140258516.0,Friday,No,2014-02-14T10:00:00.000,FORGERY,"[-71.078526, 42.322336]",Point,10xx,2,IVPER ,265,B2,Day,No,PERRIN ST,Part Two,Unarmed,770147.4212,,2942769.0110000004,2014
+146808,140117847.0,Friday,No,2014-02-14T18:00:00.000,FORGERY,"[-71.05437, 42.320681]",Point,10xx,2,LARCRT,235,C11,First,No,MOSELEY ST,Part Two,Unarmed,776683.0863,,2942199.373,2014

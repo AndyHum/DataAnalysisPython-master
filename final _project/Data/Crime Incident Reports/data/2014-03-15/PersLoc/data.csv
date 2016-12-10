@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45674,140160496.0,Saturday,No,2014-03-15T17:00:00.000,PersLoc,"[-71.10526, 42.323331]",Point,PersLoc,3,MISPER,582,E13,First,No,GAY HEAD ST,Other,Unarmed,762916.0207,,2943097.2819999997,2014
+207873,140157866.0,Saturday,No,2014-03-15T01:14:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,IVPER ,456,B3,Last,No,SUMNER ST,Other,Unarmed,,,,2014
+208834,140160053.0,Saturday,No,2014-03-15T09:00:00.000,PersLoc,"[-71.127195, 42.248256]",Point,PersLoc,3,MISPER,523,E18,Day,No,HYDE PARK AV,Other,Unarmed,757103.7718,,2915712.128,2014
+256300,140158460.0,Saturday,No,2014-03-15T10:58:00.000,PersLoc,"[-71.094521, 42.27791]",Point,PersLoc,3,MISPER,468,B3,Day,No,WALK HILL ST,Other,Unarmed,765898.5905,,2926558.567,2014

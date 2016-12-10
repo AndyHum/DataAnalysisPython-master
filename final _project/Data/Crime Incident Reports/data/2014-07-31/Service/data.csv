@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83243,142014926.0,Thursday,No,2014-07-31T19:40:00.000,Service,"[-71.083489, 42.308113]",Point,Service,7,IVPER,0,B2,First,No,BLUE HILL AV,Other,Unarmed,768830.3802,,2937579.3460000004,2014
+248377,142014890.0,Thursday,No,2014-07-31T16:16:00.000,Service,"[-71.078859, 42.318019]",Point,Service,7,CD7,0,B2,First,No,SOUTHWOOD ST,Part three,Unarmed,770065.0454,,2941195.3789999997,2014
+255016,142014759.0,Thursday,No,2014-07-31T12:15:00.000,Service,"[-71.0626, 42.352361]",Point,Service,7,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014

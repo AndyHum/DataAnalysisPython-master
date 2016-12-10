@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47029,120662134.0,Saturday,No,2012-10-20T21:50:00.000,LICViol,"[-71.028937, 42.378653]",Point,LICViol,10,CD35  ,17,A7,First,No,BENNINGTON ST,Part Three,Unarmed,783444.3714,,2963362.309,2012
+100343,120662029.0,Saturday,No,2012-10-20T21:15:00.000,LICViol,"[-71.027055, 42.379981]",Point,LICViol,10,CD35  ,17,A7,First,No,CHELSEA ST,Part Three,Unarmed,783950.2644,,2963849.1319999998,2012
+215638,120662217.0,Saturday,No,2012-10-20T22:40:00.000,LICViol,"[-71.084485, 42.348131]",Point,LICViol,10,CD35  ,142,D4,First,No,BOYLSTON ST,Part Three,Unarmed,768490.1158,,2952161.534,2012

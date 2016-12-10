@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3394,152034285.0,Monday,No,2015-04-27T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+5411,152034333.0,Monday,No,2015-04-27T15:40:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,4,CD9,0,D4,Day,No,YAWKEY WY,Part three,Other,764671.1215,,2951432.6119999997,2015
+10545,152034133.0,Monday,No,2015-04-27T02:45:00.000,InvProp,"[-71.040275, 42.369036]",Point,InvProp,4,REQP,0,A7,Last,No,SUMNER ST,Part three,Other,780399.9293,,2959841.025,2015
+141917,152034146.0,Monday,No,2015-04-27T08:38:00.000,InvProp,"[-71.093636, 42.286747]",Point,InvProp,4,ALARM,0,B3,Day,No,MORTON ST,Part three,Unarmed,766122.8443,,2929780.182,2015
+227757,152034393.0,Monday,No,2015-04-27T20:30:00.000,InvProp,"[-71.11996, 42.273791]",Point,InvProp,4,REQP,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,759021.1748,,2925026.064,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33901,140287772.0,Saturday,No,2014-05-10T09:49:00.000,PersLoc,"[-71.044345, 42.284861]",Point,PersLoc,5,KIDNAP,385,C11,Day,No,GALLIVAN BL,Other,Unarmed,779463.9551,,2929160.365,2014
+90118,140288514.0,Saturday,No,2014-05-10T16:56:00.000,PersLoc,"[-71.09342, 42.275896]",Point,PersLoc,5,MISPER,427,B3,First,No,BLUE HILL AV,Other,Unarmed,766200.2749,,2925826.275,2014
+91917,140287002.0,Saturday,No,2014-05-10T00:52:00.000,PersLoc,"[-71.097995, 42.330816]",Point,PersLoc,5,MISPER,587,B2,Last,No,DELLE AV,Other,Unarmed,764867.8186,,2945834.124,2014
+156909,140289597.0,Saturday,No,2014-05-10T13:30:00.000,PersLoc,"[-71.08864, 42.286466]",Point,PersLoc,5,MISPER,430,B3,Day,No,LUCERNE ST,Other,Unarmed,767475.3082,,2929684.333,2014
+163140,140289685.0,Saturday,No,2014-05-10T17:30:00.000,PersLoc,"[-71.07959, 42.276258]",Point,PersLoc,5,MISPER,943,B3,First,No,WOODGATE ST,Other,Unarmed,769942.4463,,2925976.1360000004,2014
+234961,140288888.0,Saturday,No,2014-05-10T18:40:00.000,PersLoc,"[-71.08113, 42.284241]",Point,PersLoc,5,MSNCOM,428,B3,First,No,NORFOLK AV,Other,Unarmed,769511.3792,CAPEN ST,2928883.402,2014

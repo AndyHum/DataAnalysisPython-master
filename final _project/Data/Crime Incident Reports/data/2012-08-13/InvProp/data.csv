@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62797,120502533.0,Monday,No,2012-08-13T12:15:00.000,InvProp,"[-71.16098, 42.291931]",Point,InvProp,8,IVPREM,738,E5,Day,No,COREY ST,Part Three,Other,747893.2758,DWINELL ST,2931589.7660000003,2012
+65049,120502190.0,Monday,No,2012-08-13T09:09:00.000,InvProp,"[-71.028615, 42.379511]",Point,InvProp,8,SHOTS ,17,A7,Day,No,SARATOGA ST,Part Three,Unarmed,783529.7216,,2963675.5239999997,2012
+101863,120502870.0,Monday,No,2012-08-13T17:00:00.000,InvProp,"[-71.093933, 42.282848]",Point,InvProp,8,PDRPT ,466,B3,First,No,ORMOND ST,Part Three,Unarmed,766049.1831,,2928358.769,2012

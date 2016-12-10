@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47967,120563117.0,Saturday,No,2012-09-08T16:00:00.000,PersLoc,"[-71.061235, 42.310371]",Point,PersLoc,9,MSNCOM,338,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+107431,120561166.0,Saturday,No,2012-09-08T00:57:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,9,MISPER,281,B2,Last,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2012
+237810,120563064.0,Saturday,No,2012-09-08T12:30:00.000,PersLoc,"[-71.056374, 42.350817]",Point,PersLoc,9,IVPER ,114,A1,Day,No,ATLANTIC AV,Part Three,Unarmed,776084.0039,,2953178.441,2012

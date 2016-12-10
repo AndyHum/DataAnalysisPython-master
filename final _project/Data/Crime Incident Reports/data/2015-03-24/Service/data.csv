@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4211,152023561.0,Tuesday,No,2015-03-24T08:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+176591,152023732.0,Tuesday,No,2015-03-24T15:35:00.000,Service,"[-71.06138, 42.353241]",Point,Service,3,ARREST,0,A1,Day,No,HARRISON AV,Part three,Unarmed,774726.3015,HAYWARD PL,2954054.985,2015
+252067,152023622.0,Tuesday,No,2015-03-24T10:42:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+266828,152023728.0,Tuesday,No,2015-03-24T15:18:00.000,Service,"[0, 0]",Point,Service,3,CD13,0,E5,Day,No,HANCOCK ST,Part three,Unarmed,,,,2015

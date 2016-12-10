@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83934,130736789.0,Wednesday,No,2013-11-20T14:30:00.000,Ballist,"[-71.11256, 42.318171]",Point,Ballist,11,FDPROP,635,E13,Day,No,CENTRE ST,Part Two,Unarmed,760950.4426,,2941207.836,2013
+161494,130736568.0,Wednesday,No,2013-11-20T13:00:00.000,Ballist,"[-71.072725, 42.320461]",Point,Ballist,11,FDWEAP,261,B2,Day,No,BROOK AV,Part Two,Unarmed,771719.5995,,2942093.8019999997,2013
+177995,130736130.0,Wednesday,No,2013-11-20T09:56:00.000,Ballist,"[-71.05563, 42.310931]",Point,Ballist,11,IVPREM,254,C11,Day,No,MARYLAND ST,Part Two,Firearm,776360.8454,BAY ST,2938644.541,2013

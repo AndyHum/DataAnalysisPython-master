@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28360,152003026.0,Thursday,No,2015-01-08T00:01:00.000,InvProp,"[-71.113366, 42.276708]",Point,InvProp,1,VAND,0,E18,Last,No,CUMMINS HY,Part three,Unarmed,760800.8031,,2926097.0730000003,2015
+170812,152002100.0,Thursday,No,2015-01-08T13:00:00.000,InvProp,"[-71.070213, 42.319216]",Point,InvProp,1,IVPREM,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,772401.1225,,2941643.2810000004,2015
+181418,152001976.0,Thursday,No,2015-01-08T07:00:00.000,InvProp,"[-71.061495, 42.356911]",Point,InvProp,1,CD9,0,A1,Last,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2015
+214459,152002020.0,Thursday,No,2015-01-08T11:00:00.000,InvProp,"[-71.09182, 42.310231]",Point,InvProp,1,LANTEN,0,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,766573.4054,,2938340.53,2015
+235268,152002085.0,Thursday,No,2015-01-08T15:05:00.000,InvProp,"[-71.11234, 42.332572]",Point,InvProp,1,REQP,0,B2,Day,No,RIVERWAY,Part three,Unarmed,760985.8664,,2946455.8589999997,2015
+260966,152002064.0,Thursday,No,2015-01-08T13:04:00.000,InvProp,"[0, 0]",Point,InvProp,1,PRSCRM,0,C6,Day,No,W BROADWAY,Part three,Unarmed,,,,2015
+262361,152002209.0,Thursday,No,2015-01-08T16:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,First,No,SUMMER ST,Part three,Unarmed,,,,2015
+263057,152001969.0,Thursday,No,2015-01-08T06:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,A1,Last,No,ST JAMES AV,Part three,Unarmed,,,,2015
+266151,152002184.0,Thursday,No,2015-01-08T20:27:00.000,InvProp,"[0, 0]",Point,InvProp,1,REQP,0,B2,First,No,WASHINGTON AV,Part three,Unarmed,,,,2015
+266425,152001974.0,Thursday,No,2015-01-08T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,A1,Last,No,BROAD ST,Part three,Unarmed,,,,2015

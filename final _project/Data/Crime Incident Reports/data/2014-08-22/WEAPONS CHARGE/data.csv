@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81845,142021850.0,Friday,No,2014-08-22T13:50:00.000,WEAPONS CHARGE,"[-71.09208, 42.321571]",Point,15xx,8,TS,0,B2,Day,No,MARTIN LUTHER KING BLVD,Part Two,Unarmed,766483.3172,WASHINGTON ST,2942472.6769999997,2014
+100789,142021988.0,Friday,No,2014-08-22T21:23:00.000,WEAPONS CHARGE,"[-71.069675, 42.290772]",Point,15xx,8,ARREST,0,C11,First,No,CENTRE ST,Part Two,Firearm,772598.8888,,2931278.689,2014
+250938,142021872.0,Friday,No,2014-08-22T15:25:00.000,WEAPONS CHARGE,"[-71.069815, 42.282456]",Point,15xx,8,CD11,0,C11,Day,No,FULLER ST,Part Two,Unarmed,772576.4249,,2928248.165,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4688,152040265.0,Friday,No,2015-05-15T13:00:00.000,PersLoc,"[-71.139414, 42.289087]",Point,PersLoc,5,IVPER,0,E5,Day,No,BRADFIELD AV,Other,Unarmed,753732.5131,CENTRE ST,2930577.3260000004,2015
+20169,152039991.0,Friday,No,2015-05-15T07:30:00.000,PersLoc,"[-71.081419, 42.321935]",Point,PersLoc,5,IVPER,0,B2,Day,No,COPELAND ST,Other,Unarmed,769365.6108,,2942619.2830000003,2015
+218401,152039786.0,Friday,No,2015-05-15T10:30:00.000,PersLoc,"[-71.074107, 42.284279]",Point,PersLoc,5,IVPER,0,B3,Day,No,ARMANDINE ST,Other,Unarmed,771411.6405,,2928906.461,2015

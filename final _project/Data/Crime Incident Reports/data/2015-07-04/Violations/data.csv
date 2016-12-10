@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20351,,Saturday,No,2015-07-04T00:00:00.000,Firearm Violations,"[-71.102132, 42.311906]",Point,15xx,7,STAB,571,E13,,No,WASHINGTON ST,Part Two,Firearm,763781.0,,2940000.0,2015
+80524,,Saturday,No,2015-07-04T17:34:00.000,Violations,"[0, 0]",Point,VAL,7,SS,421,B3,,No,VIOLET ST,Part Two,None,,,,2015
+96623,,Saturday,No,2015-07-04T10:24:00.000,Violations,"[0, 0]",Point,VAL,7,TS,255,C11,,No,PLEASANT ST,Part Two,None,,,,2015
+130301,,Saturday,No,2015-07-04T13:49:00.000,Assembly or Gathering Violations,"[0, 0]",Point,Gather,7,I00039,119,A1,,No,PARK ST,Part Three,None,,TREMONT ST,,2015
+133767,,Saturday,No,2015-07-04T00:00:00.000,Restraining Order Violations,"[-71.078382, 42.329004]",Point,Restrain,7,REQP,268,B2,,No,EUSTIS ST,Part Two,None,770174.0,,2950000.0,2015
+182768,,Saturday,No,2015-07-04T00:00:00.000,Violations,"[-71.06091, 42.29769]",Point,VAL,7,TS,355,C11,,No,DORCHESTER AVE,Part Two,None,774958.0,,2930000.0,2015
+226054,,Saturday,No,2015-07-04T00:00:00.000,Restraining Order Violations,"[-71.056725, 42.295064]",Point,Restrain,7,VIORDR,364,C11,,No,CENTRE ST,Part Two,None,776095.0,,2930000.0,2015
+237500,,Saturday,No,2015-07-04T00:00:00.000,Firearm Violations,"[-71.065701, 42.29882]",Point,15xx,7,PKNIFE,358,C11,,No,WALDECK ST,Part Two,Knife/Cutting Instrument,773659.0,,2930000.0,2015

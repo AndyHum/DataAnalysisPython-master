@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40060,142050747.0,Wednesday,No,2014-11-19T12:30:00.000,07RV,"[-71.08189, 42.330231]",Point,07RV,11,IVMV,0,B2,Day,No,PALMER ST,Other,Other,769223.5749,HARRISON ST,2945641.874,2014
+65331,142050349.0,Wednesday,No,2014-11-19T09:13:00.000,07RV,"[-71.10106, 42.326421]",Point,07RV,11,IVMV,0,E13,Day,No,HEATH ST,Other,Unarmed,764046.548,,2944228.6160000004,2014
+91209,142050390.0,Wednesday,No,2014-11-19T11:59:00.000,07RV,"[-71.040415, 42.37168]",Point,07RV,11,IVMV,0,A7,Day,No,LONDON ST,Other,Unarmed,780356.8579,,2960804.075,2014

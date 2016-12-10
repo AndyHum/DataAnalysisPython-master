@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26981,120553490.0,Tuesday,No,2012-09-04T21:25:00.000,Service,"[-71.135305, 42.359841]",Point,Service,9,VICDOG,809,D14,First,No,HOLTON ST,Part Three,Other,754734.1417,,2956366.067,2012
+46803,120552157.0,Tuesday,No,2012-09-04T10:22:00.000,Service,"[-71.060565, 42.361386]",Point,Service,9,CD9   ,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,774931.3031,,2957024.314,2012
+76773,120559337.0,Tuesday,No,2012-09-04T12:00:00.000,Service,"[-71.076649, 42.342321]",Point,Service,9,LARCRT,153,D4,Day,No,PEMBROKE ST,Part Three,Unarmed,770618.712,,2950054.729,2012
+98145,120552023.0,Tuesday,No,2012-09-04T09:15:00.000,Service,"[0, 0]",Point,Service,9,SSTOP ,0,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,,HAMPDEN ST,,2012
+118377,120623868.0,Tuesday,No,2012-09-04T08:00:00.000,Service,"[0, 0]",Point,Service,9,MISC  ,15,B2,Day,No,MCLELLAN ST,Part Three,Unarmed,,,,2012
+224865,120552271.0,Tuesday,No,2012-09-04T11:16:00.000,Service,"[-71.094727, 42.26796]",Point,Service,9,ARREST,476,B3,Day,No,CUMMINS HY,Part Three,Unarmed,765860.1933,,2922932.318,2012
+233171,120552094.0,Tuesday,No,2012-09-04T08:45:00.000,Service,"[-71.027985, 42.380956]",Point,Service,9,ARREST,17,A7,Day,No,SHELBY ST,Part Three,Unarmed,783697.0277,,2964203.0510000004,2012
+241953,120553205.0,Tuesday,No,2012-09-04T18:33:00.000,Service,"[-71.055116, 42.321272]",Point,Service,9,IVPER ,0,C11,First,No,COLUMBIA RD,Part Three,Unarmed,776479.9772,,2942413.607,2012
+250622,120553183.0,Tuesday,No,2012-09-04T18:50:00.000,Service,"[-71.055575, 42.329684]",Point,Service,9,IVPREM,0,C6,First,No,ROGERS ST,Part Three,Unarmed,776340.0168,,2945478.4069999997,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18543,140065921.0,Thursday,No,2014-01-30T08:00:00.000,PropFound,"[-71.06509, 42.317001]",Point,PropFound,1,FDPROP,239,B2,Day,No,COLUMBIA RD,Part three,Other,773790.8306,DUDLEY ST,2940843.356,2014
+104615,140060597.0,Thursday,No,2014-01-30T08:17:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,1,CD9   ,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+232381,140060395.0,Thursday,No,2014-01-30T05:30:00.000,PropFound,"[-71.072549, 42.35359]",Point,PropFound,1,FDPROP,132,D4,Last,No,COMMONWEALTH AV,Part three,Unarmed,771706.6517,,2954166.672,2014

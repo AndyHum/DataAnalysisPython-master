@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16261,120742103.0,Monday,No,2012-11-26T13:00:00.000,FIRE,"[-71.03334, 42.376651]",Point,FIRE,11,FIREB ,22,A7,Day,No,BROOKS ST,Part Three,Unarmed,782258.7976,,2962626.26,2012
+45724,120743178.0,Monday,No,2012-11-26T23:13:00.000,FIRE,"[-71.077923, 42.282182]",Point,FIRE,11,FV    ,418,B3,First,No,MAXWELL ST,Part Three,Unarmed,770382.7502,,2928137.329,2012
+239055,120742233.0,Monday,No,2012-11-26T14:48:00.000,FIRE,"[-71.092073, 42.289674]",Point,FIRE,11,FV    ,566,B3,Day,No,Harvard St,Part Three,Other,766540.6237,,2930848.814,2012
+247142,120742715.0,Monday,No,2012-11-26T18:30:00.000,FIRE,"[-71.047535, 42.288951]",Point,FIRE,11,FIREB ,374,C11,First,No,NEPONSET AV,Part Three,Unarmed,778592.8653,,2930646.2210000004,2012

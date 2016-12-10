@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13772,,Saturday,No,2015-07-04T00:00:00.000,Aggravated Assault,"[-71.069547, 42.362403]",Point,04xx,7,STAB,64,A1,,No,FRUIT ST,Part One,Knife/Cutting Instrument,772502.0,,2960000.0,2015
+17195,,Saturday,No,2015-07-04T00:00:00.000,Aggravated Assault,"[-71.072843, 42.301161]",Point,04xx,7,IVPER,462,C11,,Yes,ROSSETER ST,Part One,Firearm,771723.0,,2940000.0,2015
+86595,,Saturday,No,2015-07-04T00:00:00.000,Aggravated Assault,"[-71.107828, 42.336063]",Point,04xx,7,IVPER,612,B2,,Yes,FRANCIS ST,Part One,None,762200.0,,2950000.0,2015
+90994,,Saturday,No,2015-07-04T18:42:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PERGUN,239,B2,,No,BELDEN SQ,Part One,Firearm,,,,2015
+102538,,Saturday,No,2015-07-04T03:18:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,FIGHT,421,B3,,No,W SELDEN ST,Part One,Other,,,,2015
+117482,,Saturday,No,2015-07-04T01:40:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,IVPER,0,,,No,FRANKLIN FIELD,Part One,Firearm,,,,2015
+134453,,Saturday,No,2015-07-04T00:00:00.000,Aggravated Assault,"[-71.039952, 42.377876]",Point,04xx,7,STAB,26,A7,,No,BORDER ST,Part One,Knife/Cutting Instrument,780470.0,,2960000.0,2015
+175797,,Saturday,No,2015-07-04T00:00:00.000,Aggravated Assault,"[-71.072843, 42.301161]",Point,04xx,7,PSHOT,462,C11,,No,ROSSETER ST,Part One,Firearm,771723.0,,2940000.0,2015
+177203,,Saturday,No,2015-07-04T00:00:00.000,Aggravated Assault,"[-71.093557, 42.330192]",Point,04xx,7,IVPREM,290,B2,,No,ROXBURY ST,Part One,Other,766069.0,,2950000.0,2015
+201334,,Saturday,No,2015-07-04T00:00:00.000,Aggravated Assault,"[-71.087971, 42.279138]",Point,04xx,7,AB,427,B3,,No,ASTORIA ST,Part One,Blunt Object,767669.0,,2930000.0,2015
+218405,,Saturday,No,2015-07-04T00:00:00.000,Aggravated Assault,"[-71.131583, 42.359401]",Point,04xx,7,ARREST,815,D14,,No,EASTON ST,Part One,Knife/Cutting Instrument,755741.0,,2960000.0,2015

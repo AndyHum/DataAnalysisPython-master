@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35774,130598534.0,Thursday,No,2013-09-19T19:00:00.000,InvProp,"[-71.054711, 42.341305]",Point,InvProp,9,MISCRP,200,C6,First,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+86019,130598668.0,Thursday,No,2013-09-19T21:13:00.000,InvProp,"[-71.083825, 42.301956]",Point,InvProp,9,SHOTS ,456,B3,First,No,ELLINGTON ST,Part three,Unarmed,768750.6327,,2935335.441,2013
+131358,130596831.0,Thursday,No,2013-09-19T06:56:00.000,InvProp,"[-71.09219, 42.309831]",Point,InvProp,9,SHOTS ,316,B2,Last,No,HUMBOLDT AV,Part three,Other,766474.0251,SEAVER ST,2938194.284,2013
+230712,130596466.0,Thursday,No,2013-09-19T00:06:00.000,InvProp,"[-71.065676, 42.320349]",Point,InvProp,9,DVIP  ,237,B2,Last,No,HUMPHREYS ST,Part three,Other,773625.9852,,2942062.316,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70475,120512044.0,Thursday,No,2012-08-16T05:00:00.000,PersLoc,"[-71.093739, 42.334956]",Point,PersLoc,8,MSNCOM,911,B2,Last,No,ANNUNCIATION RD,Part Three,Unarmed,766011.2668,,2947348.014,2012
+196774,120509702.0,Thursday,No,2012-08-16T13:45:00.000,PersLoc,"[-71.060855, 42.293001]",Point,PersLoc,8,IVPER ,363,C11,Day,No,WHITTEN ST,Other,Unarmed,774981.2305,,2932103.2610000004,2012
+258070,120517137.0,Thursday,No,2012-08-16T20:00:00.000,PersLoc,"[-71.09626, 42.333006]",Point,PersLoc,8,MISPER,901,B2,First,No,PARKER ST,Part Three,Unarmed,765333.1763,,2946634.415,2012

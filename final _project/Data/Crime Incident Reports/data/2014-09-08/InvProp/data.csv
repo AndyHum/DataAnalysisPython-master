@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7425,142027340.0,Monday,No,2014-09-08T08:00:00.000,InvProp,"[-71.118285, 42.260211]",Point,InvProp,9,ALARM,0,E18,Day,No,ELM ST,Part three,Other,759496.6404,,2920079.352,2014
+34727,142028191.0,Monday,No,2014-09-08T22:30:00.000,InvProp,"[-71.098435, 42.333576]",Point,InvProp,9,LARCEN,0,B2,First,No,SMITH ST,Part three,Unarmed,764744.1099,,2946839.358,2014
+42033,142027500.0,Monday,No,2014-09-08T15:00:00.000,InvProp,"[-71.053925, 42.335066]",Point,InvProp,9,IVPER,0,C6,Day,No,EIGHTH ST,Part three,Other,776776.0179,,2947442.1380000003,2014
+64717,142027360.0,Monday,No,2014-09-08T10:16:00.000,InvProp,"[-71.137903, 42.276186]",Point,InvProp,9,IVMV,0,E5,Day,No,BLUE LEDGE DR,Part three,Unarmed,754161.3702,,2925877.4239999996,2014
+110732,142027513.0,Monday,No,2014-09-08T17:10:00.000,InvProp,"[-71.09437, 42.323678]",Point,InvProp,9,PROP,0,B2,First,No,THWING ST,Part three,Unarmed,765860.2474,,2943237.543,2014
+151343,142027579.0,Monday,No,2014-09-08T16:40:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,9,CD9,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+231366,142027422.0,Monday,No,2014-09-08T12:31:00.000,InvProp,"[-71.081178, 42.274496]",Point,InvProp,9,BE,0,B3,Day,No,WOODRUFF WY,Part three,Unarmed,769515.6581,,2925332.0319999997,2014

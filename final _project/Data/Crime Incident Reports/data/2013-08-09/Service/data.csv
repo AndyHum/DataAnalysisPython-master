@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79037,130498444.0,Friday,No,2013-08-09T12:30:00.000,Service,"[-71.063155, 42.298481]",Point,Service,8,CD11  ,351,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,PARK ST,2934097.058,2013
+100117,130498855.0,Friday,No,2013-08-09T15:55:00.000,Service,"[-71.082514, 42.313627]",Point,Service,8,MVPED1,321,B2,Day,No,GASTON ST,Part three,Other,769084.2869,,2939590.0089999996,2013
+139719,130497976.0,Friday,No,2013-08-09T08:40:00.000,Service,"[-71.05464, 42.325816]",Point,Service,8,CD11  ,225,C6,Day,No,OCALLAGHAN WY,Other,Unarmed,776600.2984,,2944070.27,2013
+187439,130499416.0,Friday,No,2013-08-09T20:37:00.000,Service,"[-71.08989, 42.317181]",Point,Service,8,INJAML,312,B2,First,No,HAROLD ST,Part three,Unarmed,767083.2608,HARRISHOF ST,2940875.727,2013
+217536,130497795.0,Friday,No,2013-08-09T05:26:00.000,Service,"[-71.063385, 42.307884]",Point,Service,8,ARREST,340,C11,Last,No,ADAMS ST,Part three,Unarmed,774268.9737,,2937523.3060000003,2013

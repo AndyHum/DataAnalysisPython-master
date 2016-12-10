@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151839,130434377.0,Sunday,No,2013-07-14T00:00:00.000,07RV,"[-71.077545, 42.343976]",Point,07RV,7,STOLMV,149,D4,Last,No,COLUMBUS AV,Other,Unarmed,770373.6426,,2950656.5889999997,2013
+176651,130434897.0,Sunday,No,2013-07-14T10:40:00.000,07RV,"[-71.083781, 42.329494]",Point,07RV,7,RECMV ,280,B2,Day,No,ZEIGLER ST,Other,Other,768713.5278,,2945370.85,2013
+213313,130435810.0,Sunday,No,2013-07-14T12:00:00.000,07RV,"[-71.05367, 42.364171]",Point,07RV,7,INVEST,88,A1,Day,No,PRINCE ST,Other,Unarmed,776789.4621,,2958048.897,2013
+215630,130436024.0,Sunday,No,2013-07-14T20:36:00.000,07RV,"[-71.09997, 42.327151]",Point,07RV,7,RECMV ,584,B2,First,No,FISHER AV,Other,Unarmed,764340.0516,,2944496.022,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102224,152040291.0,Saturday,No,2015-05-16T21:00:00.000,PersLoc,"[-71.033173, 42.366804]",Point,PersLoc,5,IVPER,0,A7,First,No,EVERETT ST,Other,Unarmed,782323.4920000001,,2959037.808,2015
+107343,152040196.0,Saturday,No,2015-05-16T16:40:00.000,PersLoc,"[-71.112075, 42.265646]",Point,PersLoc,5,IVPER,0,E18,First,No,WESTMINSTER AV,Other,Unarmed,761168.663,AYLES RD,2922067.522,2015
+159886,152041222.0,Saturday,No,2015-05-16T12:00:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,5,MISSIN,0,C6,Day,No,N POINT DR,Other,Unarmed,780248.572,,2942010.5539999995,2015

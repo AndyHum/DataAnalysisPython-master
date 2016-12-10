@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2381,152046031.0,Thursday,No,2015-06-04T02:29:00.000,LICViol,"[0, 0]",Point,LICViol,6,IVPER,0,A7,Last,No,BENNINGTON ST,Part three,Unarmed,,,,2015
+21815,152046309.0,Thursday,No,2015-06-04T21:30:00.000,LICViol,"[-71.086655, 42.348466]",Point,LICViol,6,DISTRB,0,D4,First,No,NEWBURY ST,Part three,Unarmed,767902.9271,,2952280.765,2015
+53367,152046350.0,Thursday,No,2015-06-04T23:57:00.000,LICViol,"[-71.1342, 42.354901]",Point,LICViol,6,CD35,0,D14,Last,No,CAMBRIDGE ST,Part three,Unarmed,755040.5122,,2954567.108,2015
+236795,152046365.0,Thursday,No,2015-06-04T01:30:00.000,LICViol,"[-71.052551, 42.356436]",Point,LICViol,6,CD35,0,A1,Last,No,HIGH ST,Part three,Unarmed,777106.6048,,2955231.5510000004,2015

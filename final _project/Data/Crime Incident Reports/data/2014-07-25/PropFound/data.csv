@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93382,142012648.0,Friday,No,2014-07-25T08:00:00.000,PropFound,"[-71.11477, 42.319851]",Point,PropFound,7,FDWEAP,0,E13,Day,No,MORAINE ST,Part three,Other,760349.9851,,2941817.352,2014
+146836,142012711.0,Friday,No,2014-07-25T11:50:00.000,PropFound,"[-71.10697, 42.310471]",Point,PropFound,7,PROP,0,E13,Day,No,GREEN ST,Part three,Unarmed,762475.1843,AMORY ST,2938408.744,2014
+166822,142012883.0,Friday,No,2014-07-25T19:25:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,7,MISC,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+172268,142012759.0,Friday,No,2014-07-25T13:00:00.000,PropFound,"[-71.11317, 42.309675]",Point,PropFound,7,PROP,0,E13,Day,No,GREENOUGH AV,Part three,Unarmed,760799.418,,2938110.8880000003,2014
+211935,142012758.0,Friday,No,2014-07-25T13:02:00.000,PropFound,"[-71.054165, 42.367806]",Point,PropFound,7,IVPREM,0,A1,Day,No,COMMERCIAL ST,Part three,Unarmed,776648.7632,,2959372.8639999996,2014
+228462,142013065.0,Friday,No,2014-07-25T09:00:00.000,PropFound,"[-71.06859, 42.347431]",Point,PropFound,7,PROP,0,D4,Day,No,HERALD ST,Part three,Unarmed,772788.1556,TREMONT ST,2951927.771,2014
+249216,142012947.0,Friday,No,2014-07-25T22:59:00.000,PropFound,"[-71.05677, 42.320701]",Point,PropFound,7,PROP,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,776033.9979,DORCHESTER AV,2942203.2789999996,2014
+262417,142012600.0,Friday,No,2014-07-25T00:00:00.000,PropFound,"[0, 0]",Point,PropFound,7,PROP,0,D4,Last,No,WORCESTER ST,Part three,Other,,,,2014

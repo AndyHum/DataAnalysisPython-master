@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12764,152012110.0,Saturday,No,2015-02-14T17:47:00.000,MedAssist,"[-71.033173, 42.366804]",Point,MedAssist,2,INJOFF,0,A7,First,No,EVERETT ST,Part three,Unarmed,782323.4920000001,,2959037.808,2015
+17826,152012142.0,Saturday,No,2015-02-14T20:57:00.000,MedAssist,"[-71.066256, 42.288553]",Point,MedAssist,2,INJOFF,0,C11,First,No,TALBOT AV,Part three,Unarmed,773528.0244,WELLES AV,2930474.905,2015
+30400,152012159.0,Saturday,No,2015-02-14T23:53:00.000,MedAssist,"[-71.126585, 42.287876]",Point,MedAssist,2,IVPER,0,E5,Last,No,WASHINGTON ST,Part three,Unarmed,757205.7204,,2930150.9260000004,2015
+87865,152012106.0,Saturday,No,2015-02-14T18:38:00.000,MedAssist,"[-71.100769, 42.325321]",Point,MedAssist,2,REQP,0,E13,First,No,PARKER ST,Part three,Unarmed,764127.0458,,2943828.1319999998,2015
+125755,152012093.0,Saturday,No,2015-02-14T16:57:00.000,MedAssist,"[-71.05931, 42.316971]",Point,MedAssist,2,IVPER,0,C11,First,No,PLEASANT ST,Part three,Unarmed,775354.109,,2940840.4480000003,2015
+128302,152011988.0,Saturday,No,2015-02-14T09:44:00.000,MedAssist,"[-71.066, 42.290251]",Point,MedAssist,2,REQP,0,C11,Day,No,BRENT ST,Part three,Unarmed,773594.3182,,2931093.998,2015
+130358,152012116.0,Saturday,No,2015-02-14T19:58:00.000,MedAssist,"[-71.083705, 42.307601]",Point,MedAssist,2,DVIP,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,768773.0526,,2937392.724,2015
+132807,152026127.0,Saturday,No,2015-02-14T21:00:00.000,MedAssist,"[-71.03887, 42.371246]",Point,MedAssist,2,INJOFF,0,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+134414,152012069.0,Saturday,No,2015-02-14T12:00:00.000,MedAssist,"[-71.066256, 42.288553]",Point,MedAssist,2,UNCONS,0,C11,Day,No,TALBOT AV,Part three,Unarmed,773528.0244,,2930474.905,2015
+243119,152012147.0,Saturday,No,2015-02-14T20:57:00.000,MedAssist,"[-71.064983, 42.287156]",Point,MedAssist,2,INJOFF,0,C11,First,No,TALBOT AV,Part three,Unarmed,773875.1664,,2929967.579,2015
+254486,152011955.0,Saturday,No,2015-02-14T05:30:00.000,MedAssist,"[-71.071975, 42.334581]",Point,MedAssist,2,AB,0,D4,Last,No,ALBANY ST,Part three,Other,771896.608,,2947240.389,2015
+258807,152012103.0,Saturday,No,2015-02-14T17:58:00.000,MedAssist,"[-71.07149, 42.308026]",Point,MedAssist,2,EDP,0,C11,First,No,RICHFIELD ST,Part three,Unarmed,772076.359,,2937563.963,2015
+263006,152012090.0,Saturday,No,2015-02-14T17:12:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,ASTEMS,0,E5,First,No,FAWNDALE RD,Part three,Unarmed,,,,2015
+263353,152012118.0,Saturday,No,2015-02-14T22:07:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,EDP,0,A7,First,No,SARATOGA ST,Part three,Unarmed,,,,2015

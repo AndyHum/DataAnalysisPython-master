@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7187,152018137.0,Friday,No,2015-03-06T11:25:00.000,InvProp,"[-71.08364, 42.312078]",Point,InvProp,3,SSA,0,B2,Day,No,BRUNSWICK ST,Part three,Unarmed,768782.4588,,2939024.0539999995,2015
+56631,152018326.0,Friday,No,2015-03-06T22:00:00.000,InvProp,"[-71.076965, 42.326206]",Point,InvProp,3,SSA,0,B2,First,No,FOREST ST,Part three,Firearm,770562.5566,,2944181.6610000003,2015
+61125,152017987.0,Friday,No,2015-03-06T00:48:00.000,InvProp,"[-71.061625, 42.305676]",Point,InvProp,3,FIGHT,0,C11,Last,No,ADAMS ST,Part three,Unarmed,774749.1634,,2936721.147,2015
+134598,152018142.0,Friday,No,2015-03-06T11:25:00.000,InvProp,"[-71.061665, 42.352441]",Point,InvProp,3,IVPREM,0,A1,Day,No,ESSEX ST,Part three,Unarmed,774650.7646,HARRISON AV,2953763.0539999995,2015
+184156,152018000.0,Friday,No,2015-03-06T03:15:00.000,InvProp,"[-71.091598, 42.327271]",Point,InvProp,3,IVPREM,0,B2,Last,No,DORR ST,Part three,Other,766603.7056,,2944550.183,2015

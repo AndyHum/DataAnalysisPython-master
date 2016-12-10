@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79180,142049185.0,Saturday,No,2014-11-15T11:57:00.000,Argue,"[-71.090755, 42.269537]",Point,Argue,11,NIDV,0,B3,Day,No,RIVER ST,Part three,Unarmed,766932.4073,,2923512.3660000004,2014
+173937,142049190.0,Saturday,No,2014-11-15T11:25:00.000,Argue,"[-71.095683, 42.266817]",Point,Argue,11,FIGHT,0,B3,Day,No,RIVER ST,Part three,Unarmed,765603.2765,,2922514.73,2014
+176194,142049203.0,Saturday,No,2014-11-15T13:20:00.000,Argue,"[-71.153185, 42.355581]",Point,Argue,11,AB,0,D14,Day,No,FARADAY ST,Part three,Unarmed,749907.9949,,2954793.478,2014

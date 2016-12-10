@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89555,130290491.0,Wednesday,No,2013-05-15T18:50:00.000,Service,"[-71.0626, 42.343011]",Point,Service,5,ARREST,165,D4,First,No,ALBANY ST,Part Three,Unarmed,774415.6545,BERKELEY ST,2950325.289,2013
+139322,130291443.0,Wednesday,No,2013-05-15T08:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+150532,130289813.0,Wednesday,No,2013-05-15T14:00:00.000,Service,"[-71.07257, 42.332816]",Point,Service,5,ARREST,179,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771738.9571,MELNEA CASS BL,2946596.385,2013
+204210,130289751.0,Wednesday,No,2013-05-15T13:29:00.000,Service,"[-71.17312, 42.351201]",Point,Service,5,ARREST,755,D14,Day,No,TREMONT ST,Part three,Unarmed,744525.8777,,2953176.035,2013
+249439,130289429.0,Wednesday,No,2013-05-15T11:15:00.000,Service,"[-71.08411, 42.328726]",Point,Service,5,TSTOP ,282,B2,Day,No,DUDLEY ST,Part three,Unarmed,768625.9666,,2945090.4910000004,2013
+261151,130289762.0,Wednesday,No,2013-05-15T13:30:00.000,Service,"[0, 0]",Point,Service,5,ARREST,182,B2,Day,No,SHIRLEY ST,Part Three,Unarmed,,,,2013

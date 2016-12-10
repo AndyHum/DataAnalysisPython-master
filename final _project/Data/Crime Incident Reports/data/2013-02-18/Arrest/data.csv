@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133424,130101745.0,Monday,No,2013-02-18T10:05:00.000,Arrest,"[-71.07347, 42.319996]",Point,Arrest,2,CD11  ,261,B2,Day,No,DOWNEY CT,Part Three,Unarmed,771518.9709999999,,2941923.34,2013
+138212,130104534.0,Monday,No,2013-02-18T14:00:00.000,Arrest,"[-71.034775, 42.376486]",Point,Arrest,2,MISPER,22,A7,Day,No,BENNINGTON ST,Part Three,Unarmed,781871.3889,,2962564.014,2013
+146687,130102113.0,Monday,No,2013-02-18T13:57:00.000,Arrest,"[-71.094969, 42.271415]",Point,Arrest,2,CD11  ,476,B3,Day,No,REGIS RD,Part Three,Unarmed,765788.6311,,2924191.133,2013
+239885,130101959.0,Monday,No,2013-02-18T12:15:00.000,Arrest,"[-71.05899, 42.356791]",Point,Arrest,2,ARREST,98,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,775365.6264,,2955352.003,2013

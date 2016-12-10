@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9119,152037235.0,Wednesday,No,2015-05-06T15:00:00.000,PropLost,"[-71.089205, 42.316173]",Point,PropLost,5,PROP,0,B2,Day,No,HOLWORTHY ST,Part three,Unarmed,767270.2679,,2940509.336,2015
+25804,152037589.0,Wednesday,No,2015-05-06T17:00:00.000,PropLost,"[-71.093635, 42.269586]",Point,PropLost,5,PROP,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766153.0444,,2923526.548,2015
+33214,152037662.0,Wednesday,No,2015-05-06T19:00:00.000,PropLost,"[-71.080575, 42.318566]",Point,PropLost,5,PROP,0,B2,First,No,EDGEWOOD ST,Part three,Unarmed,769599.9214,,2941392.703,2015
+104115,152038551.0,Wednesday,No,2015-05-06T16:30:00.000,PropLost,"[-71.122385, 42.257056]",Point,PropLost,5,PROP,0,E18,First,No,HARVARD AV,Part three,Other,758391.8746,,2918924.689,2015
+107914,152036985.0,Wednesday,No,2015-05-06T12:40:00.000,PropLost,"[-71.06563, 42.307516]",Point,PropLost,5,UNK,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773662.3883,,2937386.1289999997,2015
+212140,152038053.0,Wednesday,No,2015-05-06T13:00:00.000,PropLost,"[-71.14897, 42.356341]",Point,PropLost,5,PROP,0,D14,Day,No,MARKET ST,Part three,Unarmed,751046.1271,N BEACON ST,2955075.098,2015

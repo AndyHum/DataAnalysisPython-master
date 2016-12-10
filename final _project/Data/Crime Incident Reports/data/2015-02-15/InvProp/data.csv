@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+182528,152012180.0,Sunday,No,2015-02-15T02:10:00.000,InvProp,"[-71.13462, 42.280376]",Point,InvProp,2,ALARM,0,E5,Last,No,WASHINGTON ST,Part three,Unarmed,755043.3258,,2927408.397,2015
+195407,152012374.0,Sunday,No,2015-02-15T23:23:00.000,InvProp,"[-71.118955, 42.273566]",Point,InvProp,2,SHOTS,0,E18,First,No,CLARE AV,Part three,Unarmed,759293.5338,,2924945.284,2015
+260691,152012158.0,Sunday,No,2015-02-15T00:55:00.000,InvProp,"[0, 0]",Point,InvProp,2,SSA,0,E13,Last,No,HORAN WY,Part three,Other,,,,2015
+264819,152012369.0,Sunday,No,2015-02-15T21:00:00.000,InvProp,"[0, 0]",Point,InvProp,2,MISC,0,B3,First,No,STANDARD ST,Part three,Unarmed,,,,2015

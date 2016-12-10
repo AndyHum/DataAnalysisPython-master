@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+139382,152022014.0,Thursday,No,2015-03-19T06:05:00.000,Arrest,"[-71.07791, 42.313396]",Point,Arrest,3,CD11,0,B2,Last,No,FAYSTON ST,Part three,Unarmed,770330.1184,,2939512.22,2015
+141747,152022059.0,Thursday,No,2015-03-19T10:20:00.000,Arrest,"[-71.058477, 42.29221]",Point,Arrest,3,CD11,0,C11,Day,No,ST MARKS RD,Part three,Unarmed,775625.8785,,2931818.126,2015
+266631,152022054.0,Thursday,No,2015-03-19T10:15:00.000,Arrest,"[0, 0]",Point,Arrest,3,ARREST,0,C11,Day,No,ADAMS ST,Part three,Unarmed,,,,2015

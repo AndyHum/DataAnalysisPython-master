@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1056,,Wednesday,No,2015-08-05T00:00:00.000,Drug Violation,"[-71.075864, 42.335482]",Point,18xx,8,ARREST,271,D4,,No,MASSACHUSETTS AVE,Part Two,None,770843.0,,2950000.0,2015
+33997,,Wednesday,No,2015-08-05T00:00:00.000,Drug Violation,"[-71.127663, 42.286882]",Point,18xx,8,TS,563,E5,,No,FLORENCE ST,Part Two,None,756916.0,,2930000.0,2015
+46071,,Wednesday,No,2015-08-05T00:00:00.000,Drug Violation,"[-71.035104, 42.380532]",Point,18xx,8,IVPER,25,A7,,No,WHITE ST,Part Two,None,781774.0,,2960000.0,2015
+87156,,Wednesday,No,2015-08-05T13:52:00.000,Drug Violation,"[0, 0]",Point,18xx,8,IVPER,796,D14,,No,BRAINERD RD,Part Two,None,,HARVARD AVE,,2015
+96647,,Wednesday,No,2015-08-05T12:40:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,316,B2,,No,ABBOTSFORD ST,Part Two,None,,HAROLD ST,,2015
+96818,,Wednesday,No,2015-08-05T22:32:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,432,B3,,No,TUCKER ST,Part Two,None,,WOODROW AVE,,2015
+104165,,Wednesday,No,2015-08-05T19:45:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,,,,2015
+118776,,Wednesday,No,2015-08-05T16:56:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,119,A1,,No,BOYLSTON ST,Part Two,None,,,,2015
+148691,,Wednesday,No,2015-08-05T20:17:00.000,Drug Violation,"[0, 0]",Point,18xx,8,IVPER,0,,,No,MASSACHUSETTS AVE,Part Two,None,,,,2015
+202620,,Wednesday,No,2015-08-05T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,8,IVPER,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+207745,,Wednesday,No,2015-08-05T00:00:00.000,Drug Violation,"[-71.066708, 42.356784]",Point,18xx,8,ARREST,119,A1,,No,BEACON ST,Part Two,None,773279.0,JOY ST,2960000.0,2015
+212232,,Wednesday,No,2015-08-05T00:00:00.000,Drug Violation,"[-71.091878, 42.333679]",Point,18xx,8,IVPER,289,B2,,No,SCHROEDER PLZ,Part Two,None,766517.0,,2950000.0,2015
+214169,,Wednesday,No,2015-08-05T05:17:00.000,Drug Violation,"[0, 0]",Point,18xx,8,PRSCRM,293,B2,,No,DORR ST,Part Two,None,,LAMBERT AVE,,2015
+217552,,Wednesday,No,2015-08-05T00:00:00.000,Drug Violation,"[-71.065125, 42.306291]",Point,18xx,8,ARREST,340,C11,,No,MOUNT IDA RD,Part Two,None,773801.0,,2940000.0,2015

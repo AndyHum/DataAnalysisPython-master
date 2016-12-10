@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99113,130039606.0,Saturday,No,2013-01-19T08:00:00.000,PersLoc,"[-71.0372, 42.376306]",Point,PersLoc,1,MISPER,23,A7,Day,No,SARATOGA ST,Part Three,Unarmed,781216.5126,,2962494.853,2013
+103736,130040378.0,Saturday,No,2013-01-19T09:30:00.000,PersLoc,"[-71.067775, 42.301881]",Point,PersLoc,1,MSNCOM,342,C11,Day,No,TOPLIFF ST,Part Three,Unarmed,773092.584,,2935329.7010000004,2013
+200989,130041374.0,Saturday,No,2013-01-19T10:30:00.000,PersLoc,"[-71.07329, 42.346746]",Point,PersLoc,1,MISPER,150,D4,Day,No,CLARENDON ST,Part Three,Unarmed,771518.8837,,2951671.7539999997,2013
+213445,130038659.0,Saturday,No,2013-01-19T03:39:00.000,PersLoc,"[-71.051995, 42.332266]",Point,PersLoc,1,MISPER,915,C6,Last,No,DORCHESTER ST,Part Three,Unarmed,777303.2016,,2946424.5039999997,2013
+225383,130053668.0,Saturday,No,2013-01-19T17:00:00.000,PersLoc,"[-71.06853, 42.295871]",Point,PersLoc,1,MISPER,359,C11,First,No,ALPHA RD,Part Three,Unarmed,772899.4194,,2933138.537,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77617,130222136.0,Monday,No,2013-04-15T11:30:00.000,PhoneCalls,"[-71.083489, 42.308113]",Point,PhoneCalls,4,HARPT ,319,B2,Day,No,BLUE HILL AV,Part Three,Other,768830.3802,,2937579.3460000004,2013
+140316,130375635.0,Monday,No,2013-04-15T12:00:00.000,PhoneCalls,"[-71.124925, 42.254256]",Point,PhoneCalls,4,IVPER ,521,E18,Day,No,DANA AV,Part three,Unarmed,757708.6082,,2917901.058,2013
+183823,130222631.0,Monday,No,2013-04-15T14:30:00.000,PhoneCalls,"[-71.058468, 42.371544]",Point,PhoneCalls,4,REQP  ,39,A15,Day,No,CONSTITUTION PLAZA,Part Three,Other,775478.8873,,2960728.833,2013

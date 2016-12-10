@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32628,130737469.0,Tuesday,No,2013-11-05T12:00:00.000,SexReg,"[-71.059735, 42.297541]",Point,SexReg,11,IVPER ,355,C11,Day,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013
+94173,130715586.0,Tuesday,No,2013-11-05T12:00:00.000,SexReg,"[-71.058362, 42.358828]",Point,SexReg,11,SEXOFF,92,A1,Day,No,COURT ST,Part Two,Unarmed,775531.3609,,2956095.0919999997,2013
+116832,130740581.0,Tuesday,No,2013-11-05T12:00:00.000,SexReg,"[-71.063675, 42.352301]",Point,SexReg,11,IVPER ,111,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2013

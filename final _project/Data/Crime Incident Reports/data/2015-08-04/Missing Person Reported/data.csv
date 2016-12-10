@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6703,,Tuesday,No,2015-08-04T00:00:00.000,Missing Person Reported,"[-71.08923, 42.316321]",Point,PersMiss,8,I00027,312,B2,,No,HOLWORTHY ST,Part Three,None,767263.0,,2940000.0,2015
+46875,,Tuesday,No,2015-08-04T00:00:00.000,Missing Person Reported,"[-71.080519, 42.326968]",Point,PersMiss,8,I00027,281,B2,,No,GREENVILLE ST,Part Three,None,769600.0,,2940000.0,2015
+148908,,Tuesday,No,2015-08-04T00:00:00.000,Missing Person Reported,"[-71.120532, 42.251199]",Point,PersMiss,8,IVPER,516,E18,,No,TRUMAN PKWY,Part Three,None,758903.0,,2920000.0,2015

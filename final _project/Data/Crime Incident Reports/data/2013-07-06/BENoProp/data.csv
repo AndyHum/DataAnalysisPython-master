@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21343,130416362.0,Saturday,No,2013-07-06T17:40:00.000,BENoProp,"[-71.052393, 42.339061]",Point,BENoProp,7,ABIP  ,936,C6,First,No,COSTELLO CIRCLE,Part One,Unarmed,777182.4101,,2948900.1789999995,2013
+102451,130415507.0,Saturday,No,2013-07-06T02:30:00.000,BENoProp,"[-71.054155, 42.358231]",Point,BENoProp,7,BERPT ,101,A1,Last,No,BROAD ST,Part One,Other,776669.7045,,2955883.561,2013
+194414,130416453.0,Saturday,No,2013-07-06T09:00:00.000,BENoProp,"[-71.10476, 42.321911]",Point,BENoProp,7,BERPT ,579,E13,Day,No,MOZART ST,Part One,Other,763053.632,,2942580.435,2013

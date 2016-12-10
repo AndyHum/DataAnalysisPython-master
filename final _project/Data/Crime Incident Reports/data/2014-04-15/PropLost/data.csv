@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39199,140231856.0,Tuesday,No,2014-04-15T16:00:00.000,PropLost,"[-71.106503, 42.326544]",Point,PropLost,4,LSTPRP,583,E13,First,No,HEATH ST,Part three,Unarmed,762574.3166,,2944266.457,2014
+84133,140244817.0,Tuesday,No,2014-04-15T11:00:00.000,PropLost,"[-71.060554, 42.364937]",Point,PropLost,4,LSTPRP,76,A1,Day,No,CANAL ST,Part three,Unarmed,774927.5836,,2958318.224,2014
+173049,140311450.0,Tuesday,No,2014-04-15T09:00:00.000,PropLost,"[-71.09307, 42.284131]",Point,PropLost,4,LSTPRP,466,B3,Day,No,DEERING RD,Part three,Unarmed,766280.6819,,2928827.6780000003,2014
+210764,140236088.0,Tuesday,No,2014-04-15T00:00:00.000,PropLost,"[-71.057792, 42.299027]",Point,PropLost,4,LSTPRP,354,C11,Last,No,ADAMS ST,Part three,Unarmed,775798.5461,,2934303.316,2014
+211526,140229570.0,Tuesday,No,2014-04-15T18:22:00.000,PropLost,"[-71.094552, 42.28689]",Point,PropLost,4,LSTPRP,466,B3,First,No,ESTELLA ST,Part three,Other,765874.6752,,2929830.954,2014
+245676,140229702.0,Tuesday,No,2014-04-15T19:25:00.000,PropLost,"[-71.092328, 42.284664]",Point,PropLost,4,LSTPRP,466,B3,First,No,MORTON ST,Part three,Other,766480.3443,,2929022.5560000003,2014
+260383,140229765.0,Tuesday,No,2014-04-15T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,INVEST,109,A1,First,No,PEARL ST,Part three,Unarmed,,,,2014
+262215,140263374.0,Tuesday,No,2014-04-15T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,618,A1,First,No,HEMENWAY ST,Part three,Unarmed,,,,2014

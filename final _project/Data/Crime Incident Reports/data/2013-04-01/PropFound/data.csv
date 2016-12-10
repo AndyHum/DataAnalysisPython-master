@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12422,130192366.0,Monday,No,2013-04-01T15:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,4,FDPROP,778,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2013
+46027,130191181.0,Monday,No,2013-04-01T14:40:00.000,PropFound,"[-71.098005, 42.324861]",Point,PropFound,4,LSTPRP,302,B2,Day,No,CENTRE ST,Part Three,Unarmed,764875.3416,,2943664.003,2013
+67050,130190958.0,Monday,No,2013-04-01T14:35:00.000,PropFound,"[-71.146005, 42.341426]",Point,PropFound,4,FDPROP,786,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,751870.0851,,2949643.082,2013
+98531,130190893.0,Monday,No,2013-04-01T14:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,4,FDPROP,691,E5,Day,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2013
+112635,130191949.0,Monday,No,2013-04-01T19:00:00.000,PropFound,"[-71.06618, 42.373631]",Point,PropFound,4,FDPROP,59,A15,First,No,WASHINGTON ST,Part Three,Unarmed,773391.0751,UNION ST,2961478.869,2013
+116261,130191555.0,Monday,No,2013-04-01T19:15:00.000,PropFound,"[-71.14714, 42.350141]",Point,PropFound,4,FDPROP,778,D14,First,No,CAMBRIDGE ST,Part Three,Unarmed,751550.0989,SPARHAWK ST,2952817.73,2013
+179516,130191019.0,Monday,No,2013-04-01T15:00:00.000,PropFound,"[-71.06072, 42.355536]",Point,PropFound,4,FDPROP,102,A1,Day,No,WINTER ST,Part Three,Other,774900.3914,,2954892.244,2013
+187689,130192328.0,Monday,No,2013-04-01T15:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,4,FDPROP,778,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2013

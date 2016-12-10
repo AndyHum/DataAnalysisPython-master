@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56257,140302489.0,Friday,No,2014-05-16T02:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,5,FDPROP,72,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+125316,140303236.0,Friday,No,2014-05-16T12:00:00.000,PropFound,"[-71.13219, 42.353461]",Point,PropFound,5,IVPREM,799,D14,Day,No,GARDNER ST,Part three,Unarmed,755586.0635,GARDNER TR,2954044.6780000003,2014
+156249,140302462.0,Friday,No,2014-05-16T03:15:00.000,PropFound,"[-71.06666, 42.305854]",Point,PropFound,5,FDPROP,341,C11,Last,No,HAMILTON ST,Part three,Unarmed,773386.7248,,2936778.7630000003,2014
+191265,140302459.0,Friday,No,2014-05-16T03:00:00.000,PropFound,"[-71.069527, 42.351443]",Point,PropFound,5,FDPROP,120,A1,Last,No,PARK PLAZA,Part three,Unarmed,772527.4805,,2953388.3860000004,2014
+200390,140304719.0,Friday,No,2014-05-16T23:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,5,FDPROP,72,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+265049,140304098.0,Friday,No,2014-05-16T18:41:00.000,PropFound,"[0, 0]",Point,PropFound,5,LSTPRP,566,B2,First,No,CIRCUIT DR,Part three,Unarmed,,,,2014
+266027,140304284.0,Friday,No,2014-05-16T18:41:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,566,B2,First,No,CIRCUIT DR,Part three,Unarmed,,,,2014

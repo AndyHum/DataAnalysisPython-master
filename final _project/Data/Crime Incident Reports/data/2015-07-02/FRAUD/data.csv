@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6116,,Thursday,No,2015-07-02T00:00:00.000,Fraud,"[-71.085634, 42.328663]",Point,11xx,7,IVPER,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+45311,,Thursday,No,2015-07-02T00:00:00.000,Fraud,"[-71.084892, 42.348958]",Point,11xx,7,,141,D4,,No,NEWBURY ST,Part Two,None,768379.0,,2950000.0,2015
+97652,,Thursday,No,2015-07-02T00:58:00.000,Fraud,"[0, 0]",Point,11xx,7,ARREST,444,B3,,No,ABBOT ST,Part Two,None,,BLUE HILL AVE,,2015
+102635,,Thursday,No,2015-07-02T00:00:00.000,Fraud,"[-71.070461, 42.28964]",Point,11xx,7,IVPER,398,C11,,No,LITHGOW ST,Part Two,None,772388.0,,2930000.0,2015
+111089,,Thursday,No,2015-07-02T00:00:00.000,Fraud,"[-71.044703, 42.320585]",Point,11xx,7,IVPER,913,C6,,No,PENINSULA PL,Part Two,None,779297.0,,2940000.0,2015
+120602,,Thursday,No,2015-07-02T00:00:00.000,Fraud,"[0, 0]",Point,11xx,7,,305,B2,,No,MARTIN LUTHER KING JR BLVD,Part Two,None,, WASHINGTON ST ,,2015
+141592,,Thursday,No,2015-07-02T00:00:00.000,Fraud,"[-71.127081, 42.300989]",Point,11xx,7,,657,E13,,No,CENTRE ST,Part Two,None,757050.0,,2930000.0,2015
+165159,,Thursday,No,2015-07-02T00:00:00.000,Fraud,"[-71.1242, 42.286472]",Point,11xx,7,,562,E5,,No,FLORENCE ST,Part Two,None,757853.0,,2930000.0,2015
+222510,,Thursday,No,2015-07-02T00:00:00.000,Fraud,"[-71.059709, 42.297555]",Point,11xx,7,,355,C11,,No,GIBSON ST,Part Two,None,775283.0,,2930000.0,2015

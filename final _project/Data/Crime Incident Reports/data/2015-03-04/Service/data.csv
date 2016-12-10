@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114975,152017419.0,Wednesday,No,2015-03-04T11:05:00.000,Service,"[-71.084295, 42.300056]",Point,Service,3,CD11,0,B3,Day,No,MCLELLAN ST,Part three,Unarmed,768626.8616,,2934642.43,2015
+157443,152017433.0,Wednesday,No,2015-03-04T12:02:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+240297,152017378.0,Wednesday,No,2015-03-04T09:45:00.000,Service,"[-71.042894, 42.33551]",Point,Service,3,ARREST,0,C6,Day,No,E BROADWAY,Part three,Unarmed,779757.4184,,2947619.498,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46383,130006677.0,Thursday,No,2013-01-03T22:30:00.000,InvProp,"[-71.055631, 42.381676]",Point,InvProp,1,IVMV  ,37,A15,First,No,TERMINAL ST,Part Three,Other,776226.2569,,2964425.193,2013
+84326,130005171.0,Thursday,No,2013-01-03T12:10:00.000,InvProp,"[-71.09106, 42.323372]",Point,InvProp,1,IVPER ,300,B2,Day,No,THORNTON ST,Part Three,Other,766755.9881,,2943130.135,2013
+109646,130006352.0,Thursday,No,2013-01-03T22:35:00.000,InvProp,"[-71.12864, 42.351584]",Point,InvProp,1,IVPREM,796,D14,First,No,CHESTER ST,Part Three,Unarmed,756548.412,,2953364.769,2013
+133569,130005036.0,Thursday,No,2013-01-03T10:50:00.000,InvProp,"[-71.03834, 42.378186]",Point,InvProp,1,IVPREM,24,A7,Day,No,TRENTON ST,Part Three,Unarmed,780904.7774,,2963178.2939999998,2013
+155162,130005317.0,Thursday,No,2013-01-03T13:17:00.000,InvProp,"[-71.068135, 42.305341]",Point,InvProp,1,LARCIP,336,C11,Day,No,BOWDOIN ST,Part Three,Unarmed,772988.8132,,2936590.084,2013
+215867,130006233.0,Thursday,No,2013-01-03T21:27:00.000,InvProp,"[-71.093349, 42.277799]",Point,InvProp,1,ALARMC,427,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766216.0603,,2926519.602,2013

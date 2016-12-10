@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54837,130292637.0,Thursday,No,2013-05-16T17:00:00.000,PropDam,"[-71.05814, 42.352331]",Point,PropDam,5,INVEST,115,A1,First,No,ESSEX ST,Part Three,Unarmed,775603.787,SURFACE RD,2953727.883,2013
+175621,130294353.0,Thursday,No,2013-05-16T20:00:00.000,PropDam,"[-71.05514, 42.292916]",Point,PropDam,5,HAZ   ,367,C11,First,No,ROSEMONT ST,Part Three,Other,776527.6191,,2932080.2989999996,2013
+181930,130319114.0,Thursday,No,2013-05-16T18:00:00.000,PropDam,"[0, 0]",Point,PropDam,5,MISC  ,256,C6,First,No,MORRISSEY BL,Part Three,Unarmed,,,,2013

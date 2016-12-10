@@ -1,0 +1,21 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2542,152046671.0,Saturday,No,2015-06-06T00:38:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,IVPER,0,D4,Last,No,TREMONT ST,Part three,Unarmed,,,,2015
+2594,152046873.0,Saturday,No,2015-06-06T16:40:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,CARDIA,0,A15,First,No,RUTHERFORD AV,Part three,Other,,,,2015
+2602,152046912.0,Saturday,No,2015-06-06T18:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,EDP,0,C11,First,No,GENEVA AV,Part three,Unarmed,,,,2015
+2604,152046715.0,Saturday,No,2015-06-06T04:55:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,UNK,0,E5,Last,No,CENTRE ST,Part three,Unarmed,,,,2015
+2607,152046817.0,Saturday,No,2015-06-06T14:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,EDP,0,C11,Day,No,WASHINGTON ST,Part three,Other,,,,2015
+2619,152046694.0,Saturday,No,2015-06-06T02:57:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,UNCONS,0,A7,Last,No,LEYDEN ST,Part three,Unarmed,,,,2015
+3920,152046881.0,Saturday,No,2015-06-06T17:26:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,UNKEMS,0,B2,First,No,JOHN ELIOT SQ,Part three,Unarmed,,,,2015
+3964,152046804.0,Saturday,No,2015-06-06T11:55:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,LANTEN,0,B3,Day,No,NORFOLK ST,Part three,Unarmed,,,,2015
+4138,152046714.0,Saturday,No,2015-06-06T05:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,PRSCRM,0,D14,Last,No,CAMBRIDGE ST,Part three,Unarmed,,N BEACON ST,,2015
+7748,152046894.0,Saturday,No,2015-06-06T18:30:00.000,MedAssist,"[-71.057795, 42.364826]",Point,MedAssist,6,CARDIA,0,A1,First,No,LYNN ST,Part three,Unarmed,775673.4351,,2958281.7860000003,2015
+10591,152046653.0,Saturday,No,2015-06-06T23:19:00.000,MedAssist,"[-71.137665, 42.243261]",Point,MedAssist,6,IVPER,0,E18,First,No,NORTON ST,Part three,Unarmed,754276.7696,EDSON ST,2913879.672,2015
+100773,152046721.0,Saturday,No,2015-06-06T06:34:00.000,MedAssist,"[-71.069362, 42.37829]",Point,MedAssist,6,REQP,0,A15,Last,No,TIBBETTS TOWN WY,Part three,Other,772522.6176,,2963172.204,2015
+131788,152046668.0,Saturday,No,2015-06-06T00:29:00.000,MedAssist,"[-71.034945, 42.373206]",Point,MedAssist,6,FIGHT,0,A7,Last,No,CHELSEA ST,Part three,Unarmed,781831.9743,,2961368.4639999997,2015
+133362,152046813.0,Saturday,No,2015-06-06T13:23:00.000,MedAssist,"[-71.129399, 42.350373]",Point,MedAssist,6,UNK,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,756345.1195,,2952922.521,2015
+179259,152047240.0,Saturday,No,2015-06-06T21:00:00.000,MedAssist,"[-71.138825, 42.292036]",Point,MedAssist,6,UNKEMS,0,E5,First,No,CENTRE ST,Part three,Unarmed,753887.4134,,2931652.633,2015
+189368,152046675.0,Saturday,No,2015-06-06T00:50:00.000,MedAssist,"[-71.055405, 42.316671]",Point,MedAssist,6,NIDV,0,C11,Last,No,SUDAN ST,Part three,Unarmed,776410.8018,,2940736.606,2015
+196391,152046954.0,Saturday,No,2015-06-06T23:02:00.000,MedAssist,"[-71.061015, 42.353246]",Point,MedAssist,6,INVEST,0,A1,First,No,AVENUE DE LAFAYETTE,Part three,Other,774824.9513,,2954057.314,2015
+206792,152046921.0,Saturday,No,2015-06-06T20:00:00.000,MedAssist,"[-71.061485, 42.292056]",Point,MedAssist,6,INJ,0,C11,First,No,KING ST,Part three,Unarmed,774812.5494,,2931758.015,2015
+224760,152046932.0,Saturday,No,2015-06-06T20:55:00.000,MedAssist,"[-71.03929, 42.370761]",Point,MedAssist,6,ALARM,0,A7,First,No,PARIS ST,Part three,Unarmed,780662.7109,,2960471.086,2015
+257706,152046934.0,Saturday,No,2015-06-06T20:50:00.000,MedAssist,"[-71.104125, 42.334364]",Point,MedAssist,6,INJOFF,0,B2,First,No,HUNTINGTON AV,Part three,Other,763204.1277,,2947119.097,2015

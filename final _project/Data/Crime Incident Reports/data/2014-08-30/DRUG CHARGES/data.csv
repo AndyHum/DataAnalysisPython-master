@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92861,142024561.0,Saturday,No,2014-08-30T19:45:00.000,DRUG CHARGES,"[-71.08046, 42.335661]",Point,18xx,8,IVPER,0,D4,First,No,SHAWMUT AV,Part Two,Unarmed,769600.5096,,2947622.561,2014
+195863,142024584.0,Saturday,No,2014-08-30T21:00:00.000,DRUG CHARGES,"[-71.080967, 42.305758]",Point,18xx,8,ADMRPT,0,B2,First,No,WASHINGTON ST,Part Two,Other,769516.8457,,2936724.604,2014
+204774,142024582.0,Saturday,No,2014-08-30T19:47:00.000,DRUG CHARGES,"[-71.09095, 42.318221]",Point,18xx,8,TS,0,B2,First,No,TOWNSEND ST,Part Two,Unarmed,766794.7629,WALNUT AV,2941253.3430000003,2014

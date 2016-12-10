@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38372,140076419.0,Thursday,No,2014-02-06T13:36:00.000,Arrest,"[-71.062105, 42.351171]",Point,Arrest,2,ARREST,117,A1,Day,No,KNAPP ST,Part three,Unarmed,774534.2074,,2953299.631,2014
+93329,140075941.0,Thursday,No,2014-02-06T09:40:00.000,Arrest,"[-71.06537, 42.300926]",Point,Arrest,2,ARREST,352,C11,Day,No,LEROY ST,Part three,Unarmed,773744.9518,,2934984.9930000002,2014
+200431,140076055.0,Thursday,No,2014-02-06T10:30:00.000,Arrest,"[-71.050805, 42.335386]",Point,Arrest,2,ARREST,0,C6,Day,No,W 6TH ST,Part three,Unarmed,777618.9778,,2947563.1789999995,2014

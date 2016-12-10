@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15038,142045922.0,Tuesday,No,2014-11-04T20:16:00.000,Argue,"[-71.076245, 42.335806]",Point,Argue,11,NIDV,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770739.8745,,2947681.035,2014
+78280,142045831.0,Tuesday,No,2014-11-04T16:00:00.000,Argue,"[-71.13045, 42.354651]",Point,Argue,11,LANTEN,0,D14,First,No,LINDEN ST,Part three,Unarmed,756054.2565,,2954480.297,2014
+256550,142045927.0,Tuesday,No,2014-11-04T20:11:00.000,Argue,"[-71.090316, 42.291894]",Point,Argue,11,NIDV,0,B3,First,No,HARVARD ST,Part three,Unarmed,767012.0663,,2931660.0,2014

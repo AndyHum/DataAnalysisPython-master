@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3927,152026795.0,Thursday,No,2015-04-02T11:30:00.000,PropLost,"[-71.066755, 42.338261]",Point,PropLost,4,PROP,0,D4,Day,No,ALBANY ST,Part three,Unarmed,773301.1735,WAREHAM ST,2948588.5710000005,2015
+59136,152026656.0,Thursday,No,2015-04-02T12:00:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,4,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015
+81066,152028848.0,Thursday,No,2015-04-02T12:00:00.000,PropLost,"[-71.120098, 42.288432]",Point,PropLost,4,PROP,0,E5,Day,No,HARRISON ST,Part three,Unarmed,758959.8386,,2930361.1969999997,2015
+149545,152027146.0,Thursday,No,2015-04-02T17:30:00.000,PropLost,"[-71.097994, 42.315324]",Point,PropLost,4,PROP,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,764894.4888,WELD AV,2940188.546,2015
+267237,152026669.0,Thursday,No,2015-04-02T12:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,,,,2015
+267259,152026810.0,Thursday,No,2015-04-02T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,C6,Day,No,ATKINSON ST,Part three,Unarmed,,MASSACHUSETTS AV,,2015
+267285,152027087.0,Thursday,No,2015-04-02T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,First,No,E BROADWAY,Part three,Unarmed,,,,2015

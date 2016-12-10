@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32737,152025795.0,Monday,No,2015-03-30T12:20:00.000,Argue,"[-71.163555, 42.277366]",Point,Argue,3,IVPER,0,E5,Day,No,SPRING ST,Part three,Unarmed,747217.5137,,2926279.2939999998,2015
+139214,152025961.0,Monday,No,2015-03-30T22:55:00.000,Argue,"[-71.094521, 42.27791]",Point,Argue,3,IVPER,0,B3,First,No,WALK HILL ST,Part three,Unarmed,765898.5905,,2926558.567,2015
+267083,152025869.0,Monday,No,2015-03-30T17:09:00.000,Argue,"[0, 0]",Point,Argue,3,DISTRB,0,B3,First,No,WESTVIEW ST,Part three,Other,,,,2015

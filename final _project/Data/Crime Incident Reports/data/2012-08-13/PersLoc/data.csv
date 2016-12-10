@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13385,120503725.0,Monday,No,2012-08-13T21:37:00.000,PersLoc,"[-71.094245, 42.314001]",Point,PersLoc,8,IVPER ,574,E13,First,No,WALNUT AV,Part Three,Unarmed,765910.9491,,2939711.25,2012
+49968,120503527.0,Monday,No,2012-08-13T20:20:00.000,PersLoc,"[-71.11456, 42.260911]",Point,PersLoc,8,MISPER,493,E18,First,No,RIVER ST,Part Three,Unarmed,760503.8362,,2920338.975,2012
+206446,120503807.0,Monday,No,2012-08-13T22:18:00.000,PersLoc,"[-71.089912, 42.309524]",Point,PersLoc,8,MSNCOM,318,B2,First,No,BROOKLEDGE ST,Part Three,Unarmed,767090.6075,,2938085.256,2012

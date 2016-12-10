@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2464,152028399.0,Sunday,No,2015-03-08T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+8545,152018642.0,Sunday,No,2015-03-08T01:02:00.000,InvProp,"[-71.07181, 42.313206]",Point,InvProp,3,SSA,0,B2,Last,No,BIRD ST,Part three,Unarmed,771980.3251,,2939451.203,2015
+9558,152018738.0,Sunday,No,2015-03-08T11:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,3,IVPREM,0,A1,Day,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+23930,152018871.0,Sunday,No,2015-03-08T23:30:00.000,InvProp,"[-71.068325, 42.299081]",Point,InvProp,3,LARCEN,0,C11,First,No,BLOOMFIELD ST,Part three,Unarmed,772948.953,,2934308.597,2015
+127768,152018670.0,Sunday,No,2015-03-08T12:51:00.000,InvProp,"[-71.088925, 42.329891]",Point,InvProp,3,ALARM,0,B2,Day,No,PUTNAM ST,Part three,Unarmed,767321.9259,,2945508.7260000003,2015
+143217,152018711.0,Sunday,No,2015-03-08T11:45:00.000,InvProp,"[-71.16418, 42.284066]",Point,InvProp,3,FIRE,0,E5,Day,No,DENT ST,Part three,Unarmed,747038.7608,,2928720.21,2015
+264000,152018641.0,Sunday,No,2015-03-08T02:25:00.000,InvProp,"[0, 0]",Point,InvProp,3,SHOTS,0,C11,Last,No,COLUMBIA RD,Part three,Unarmed,,BIRD ST,,2015

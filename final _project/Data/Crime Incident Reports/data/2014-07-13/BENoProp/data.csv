@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27641,142008715.0,Sunday,No,2014-07-13T10:39:00.000,BENoProp,"[-71.147508, 42.257526]",Point,BENoProp,7,IVPER,0,E5,Day,No,CROWN POINT DR,Part One,Unarmed,751589.8849,,2919066.82,2014
+78953,142009115.0,Sunday,No,2014-07-13T04:00:00.000,BENoProp,"[-71.129035, 42.354281]",Point,BENoProp,7,IVPER,0,D14,Last,No,ASHFORD ST,Part One,Unarmed,756437.556,,2954347.1980000003,2014
+93414,142008642.0,Sunday,No,2014-07-13T01:50:00.000,BENoProp,"[-71.05464, 42.325816]",Point,BENoProp,7,ARREST,0,C6,Last,No,OCALLAGHAN WY,Part One,Other,776600.2984,,2944070.27,2014

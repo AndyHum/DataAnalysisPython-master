@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56386,130254778.0,Tuesday,No,2013-04-30T15:35:00.000,PropFound,"[-71.06564, 42.347651]",Point,PropFound,4,FDPROP,127,A1,Day,No,SHAWMUT AV,Part Three,Unarmed,773585.2017,MARGINAL RD,2952011.99,2013
+141575,130263931.0,Tuesday,No,2013-04-30T10:00:00.000,PropFound,"[-71.09899, 42.348321]",Point,PropFound,4,FDPROP,631,D4,Day,No,BEACON ST,Part Three,Unarmed,764568.7831,,2952212.0069999998,2013
+142540,130254475.0,Tuesday,No,2013-04-30T13:23:00.000,PropFound,"[-71.062575, 42.352726]",Point,PropFound,4,IVPREM,111,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774404.2569,,2953865.65,2013
+155142,130254126.0,Tuesday,No,2013-04-30T10:40:00.000,PropFound,"[-71.07738, 42.350061]",Point,PropFound,4,FDPROP,138,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2013
+265115,130255167.0,Tuesday,No,2013-04-30T18:20:00.000,PropFound,"[0, 0]",Point,PropFound,4,FDPROP,87,A1,First,No,HANOVER ST,Part Three,Unarmed,,,,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32901,,Friday,No,2015-07-17T00:00:00.000,Towed,"[-71.080519, 42.342629]",Point,Towed,7,IVMV,147,D4,,No,GREENWICH PARK,Part Three,None,769572.0,,2950000.0,2015
+85710,,Friday,No,2015-07-17T00:00:00.000,Towed,"[-71.131434, 42.349897]",Point,Towed,7,IVMV,793,D14,,No,COMMONWEALTH AVE,Part Three,None,755796.0,,2950000.0,2015
+99570,,Friday,No,2015-07-17T00:00:00.000,Towed,"[-71.151249, 42.342523]",Point,Towed,7,IVMV,775,D14,,No,WALLINGFORD RD,Part Three,None,750451.0,,2950000.0,2015
+153566,,Friday,No,2015-07-17T00:00:00.000,Towed,"[-71.052728, 42.367271]",Point,Towed,7,IVMV,83,A1,,No,COMMERCIAL ST,Part Three,None,777038.0,,2960000.0,2015
+202119,,Friday,No,2015-07-17T00:00:00.000,Towed,"[-71.04823, 42.332084]",Point,Towed,7,IVMV,219,C6,,No,GATES ST,Part Three,None,778321.0,,2950000.0,2015

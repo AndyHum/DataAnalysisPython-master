@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24960,120636776.0,Tuesday,No,2012-10-09T14:00:00.000,PropLost,"[-71.082815, 42.281001]",Point,PropLost,10,LARCRT,418,B3,Day,No,CORBET ST,Part Three,Unarmed,769061.2036,,2927700.466,2012
+128503,120635940.0,Tuesday,No,2012-10-09T11:00:00.000,PropLost,"[-71.093485, 42.273776]",Point,PropLost,10,MISC  ,427,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766186.3659,,2925053.6339999996,2012
+146225,120650032.0,Tuesday,No,2012-10-09T12:00:00.000,PropLost,"[-71.0692, 42.279996]",Point,PropLost,10,LSTPRP,403,C11,Day,No,OWENCROFT RD,Part Three,Unarmed,772747.3773,,2927352.545,2012
+152361,120637602.0,Tuesday,No,2012-10-09T13:47:00.000,PropLost,"[-71.093609, 42.320423]",Point,PropLost,10,LSTPRP,304,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,766071.6322,,2942052.082,2012
+262435,120636639.0,Tuesday,No,2012-10-09T19:20:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,336,C11,First,No,OLNEY ST,Part Three,Unarmed,,,,2012
+264331,120638209.0,Tuesday,No,2012-10-09T20:30:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,186,A1,First,No,ALLSTATE RD,Part Three,Other,,,,2012

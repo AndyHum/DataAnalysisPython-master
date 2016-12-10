@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24901,130377481.0,Friday,No,2013-06-21T01:40:00.000,Arrest,"[-71.06769, 42.323461]",Point,Arrest,6,ARREST,182,B2,Last,No,NORFOLK AV,Part three,Unarmed,773075.7198,MARSHFIELD ST,2943193.912,2013
+36059,130379595.0,Friday,No,2013-06-21T22:50:00.000,Arrest,"[-71.090565, 42.295709]",Point,Arrest,6,AOD   ,908,B3,First,No,FERMOY HTS AV,Part three,Unarmed,766938.2656,SHANDON RD,2933050.11,2013
+136288,130377774.0,Friday,No,2013-06-21T08:05:00.000,Arrest,"[-71.092577, 42.329813]",Point,Arrest,6,IVPER ,0,B2,Day,No,CENTRE ST,Part three,Unarmed,766334.4984,,2945475.4,2013
+181233,130378186.0,Friday,No,2013-06-21T11:00:00.000,Arrest,"[-71.06942, 42.362401]",Point,Arrest,6,INVEST,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013

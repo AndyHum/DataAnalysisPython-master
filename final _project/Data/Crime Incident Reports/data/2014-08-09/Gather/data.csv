@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10935,142017760.0,Saturday,No,2014-08-09T19:00:00.000,Gather,"[-71.054486, 42.32689]",Point,Gather,8,DISTRB,0,C6,First,No,STERLING SQ,Part three,Unarmed,776639.7695,,2944461.602,2014
+122078,142018297.0,Saturday,No,2014-08-09T02:00:00.000,Gather,"[-71.1571, 42.350921]",Point,Gather,8,DISTRB,0,D14,Last,No,SURREY ST,Part three,Unarmed,748856.6357,,2953090.999,2014
+190434,142017626.0,Saturday,No,2014-08-09T07:30:00.000,Gather,"[-71.122665, 42.352056]",Point,Gather,8,IVPREM,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758162.9245,,2953543.914,2014

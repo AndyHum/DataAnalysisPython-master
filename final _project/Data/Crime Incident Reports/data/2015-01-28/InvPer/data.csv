@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73793,152007574.0,Wednesday,No,2015-01-28T20:00:00.000,InvPer,"[-71.088865, 42.279666]",Point,InvPer,1,IVPER,0,B3,First,No,NORFOLK ST,Part three,Unarmed,767426.3706,,2927206.023,2015
+79522,152007560.0,Wednesday,No,2015-01-28T19:27:00.000,InvPer,"[-71.066885, 42.276566]",Point,InvPer,1,IVPER,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,773380.1887,,2926105.7789999996,2015
+94610,152007607.0,Wednesday,No,2015-01-28T23:14:00.000,InvPer,"[-71.071505, 42.310521]",Point,InvPer,1,IVPER,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,772067.5772,,2938472.97,2015
+117377,152008015.0,Wednesday,No,2015-01-28T04:30:00.000,InvPer,"[-71.0729, 42.333256]",Point,InvPer,1,MISC,0,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2015
+120721,152007594.0,Wednesday,No,2015-01-28T23:00:00.000,InvPer,"[-71.076455, 42.283472]",Point,InvPer,1,IVPER,0,B3,First,No,MILTON AV,Part three,Unarmed,770777.6487,,2928609.295,2015
+182378,152007467.0,Wednesday,No,2015-01-28T10:20:00.000,InvPer,"[-71.061495, 42.356911]",Point,InvPer,1,IVPER,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2015
+188632,152007531.0,Wednesday,No,2015-01-28T17:23:00.000,InvPer,"[-71.10732, 42.272466]",Point,InvPer,1,LARCEN,0,B3,First,No,CUMMINS HY,Part three,Unarmed,762444.2756,,2924558.711,2015
+261012,152007499.0,Wednesday,No,2015-01-28T16:29:00.000,InvPer,"[0, 0]",Point,InvPer,1,PERGUN,0,A7,First,No,LEXINGTON ST,Part three,Unarmed,,,,2015
+261982,152007377.0,Wednesday,No,2015-01-28T01:58:00.000,InvPer,"[0, 0]",Point,InvPer,1,SSA,0,B3,Last,No,AMES ST,Part three,Other,,,,2015

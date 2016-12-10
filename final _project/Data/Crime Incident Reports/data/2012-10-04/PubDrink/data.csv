@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38468,120623961.0,Thursday,No,2012-10-04T08:20:00.000,PubDrink,"[-71.03981, 42.376191]",Point,PubDrink,10,IVPER ,0,A7,Day,No,BORDER ST,Part Two,Unarmed,780511.5193,,2962449.128,2012
+48090,120624486.0,Thursday,No,2012-10-04T12:30:00.000,PubDrink,"[-71.064905, 42.352371]",Point,PubDrink,10,ARREST,102,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,773775.1158,,2953733.06,2012
+133975,120625463.0,Thursday,No,2012-10-04T18:35:00.000,PubDrink,"[-71.08462, 42.329591]",Point,PubDrink,10,IVPER ,280,B2,First,No,ZEIGLER ST,Part Two,Unarmed,768486.5259,WASHINGTON ST,2945405.04,2012
+134237,120625246.0,Thursday,No,2012-10-04T18:00:00.000,PubDrink,"[-71.08046, 42.335661]",Point,PubDrink,10,CD19  ,0,D4,First,No,SHAWMUT AV,Part Two,Unarmed,769600.5096,,2947622.561,2012
+250899,120624325.0,Thursday,No,2012-10-04T11:25:00.000,PubDrink,"[-71.0405, 42.372711]",Point,PubDrink,10,ARREST,26,A7,Day,No,LIVERPOOL ST,Part Two,Unarmed,780331.9121,DECATUR ST,2961179.94,2012

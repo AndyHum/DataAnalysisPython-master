@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5675,142061660.0,Tuesday,No,2014-12-30T00:52:00.000,InvPer,"[-71.07074, 42.302036]",Point,InvPer,12,BE,0,C11,Last,No,HOLIDAY ST,Part three,Unarmed,772290.2119,,2935382.137,2014
+58395,142061839.0,Tuesday,No,2014-12-30T18:00:00.000,InvPer,"[-71.065575, 42.309181]",Point,InvPer,12,IVPER,0,C11,First,No,TRENT ST,Part three,Unarmed,773674.1754,,2937992.9560000002,2014
+86977,142062116.0,Tuesday,No,2014-12-30T17:30:00.000,InvPer,"[-71.05789, 42.309941]",Point,InvPer,12,SS,0,C11,First,No,DORCHESTER AV,Part three,Other,775751.4323,DEWAR ST,2938280.5930000003,2014
+99194,142061883.0,Tuesday,No,2014-12-30T20:30:00.000,InvPer,"[-71.09427, 42.329876]",Point,InvPer,12,NIDV,0,B2,First,No,GARDNER ST,Part three,Unarmed,765876.6699,,2945496.34,2014
+138966,142061697.0,Tuesday,No,2014-12-30T08:40:00.000,InvPer,"[-71.09908, 42.344211]",Point,InvPer,12,MVA,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,764551.4944,,2950714.1289999997,2014
+183646,152029384.0,Tuesday,No,2014-12-30T11:00:00.000,InvPer,"[-71.147605, 42.354461]",Point,InvPer,12,IVPER,0,D14,Day,No,SAYBROOK ST,Part three,Other,751417.8997,,2954391.5089999996,2014
+260839,142061738.0,Tuesday,No,2014-12-30T12:05:00.000,InvPer,"[0, 0]",Point,InvPer,12,IVPER,0,C11,Day,No,SEMONT RD,Part three,Unarmed,,,,2014
+260861,152001748.0,Tuesday,No,2014-12-30T12:00:00.000,InvPer,"[0, 0]",Point,InvPer,12,IVPER,0,B2,Day,No,ELM HILL AV,Part three,Unarmed,,,,2014
+262537,152015843.0,Tuesday,No,2014-12-30T09:00:00.000,InvPer,"[0, 0]",Point,InvPer,12,IVPER,0,B3,Day,No,BALLOU AV,Part three,Unarmed,,,,2014

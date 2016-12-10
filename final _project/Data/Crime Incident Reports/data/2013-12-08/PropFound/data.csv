@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30984,130773952.0,Sunday,No,2013-12-08T13:00:00.000,PropFound,"[-71.118273, 42.261457]",Point,PropFound,12,IVPREM,494,E18,Day,No,ARLINGTON ST,Part three,Other,759497.6135,,2920533.2410000004,2013
+52030,130774238.0,Sunday,No,2013-12-08T11:00:00.000,PropFound,"[0, 0]",Point,PropFound,12,MISC  ,26,A7,Day,No,MERIDIAN ST,Part three,Unarmed,,,,2013
+66310,130773961.0,Sunday,No,2013-12-08T12:51:00.000,PropFound,"[-71.06854, 42.343841]",Point,PropFound,12,FDPROP,160,D4,Day,No,TAYLOR ST,Part three,Unarmed,772808.2896,,2950619.578,2013
+95489,130774598.0,Sunday,No,2013-12-08T18:42:00.000,PropFound,"[-71.112411, 42.284053]",Point,PropFound,12,FDPROP,503,E18,First,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2013
+149994,130773448.0,Sunday,No,2013-12-08T03:30:00.000,PropFound,"[-71.05884, 42.356951]",Point,PropFound,12,FDPROP,98,A1,Last,No,WASHINGTON ST,Part three,Unarmed,775405.8674,MILK ST,2955410.519,2013
+253271,130773563.0,Sunday,No,2013-12-08T06:00:00.000,PropFound,"[-71.059943, 42.314286]",Point,PropFound,12,FDPROP,823,C11,Last,No,PLEASANT ST,Part three,Unarmed,775187.9158,,2939860.7989999996,2013
+253466,130776796.0,Sunday,No,2013-12-08T12:00:00.000,PropFound,"[-71.059527, 42.319622]",Point,PropFound,12,FDPROP,236,C11,Day,No,POND ST,Part three,Unarmed,775290.3243,,2941806.0739999996,2013

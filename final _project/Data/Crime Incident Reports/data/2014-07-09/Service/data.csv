@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23598,142007505.0,Wednesday,No,2014-07-09T11:00:00.000,Service,"[-71.060605, 42.379941]",Point,Service,7,CD12,0,A15,Day,No,POLK ST,Other,Unarmed,774885.6595,,2963786.077,2014
+34612,142007532.0,Wednesday,No,2014-07-09T12:45:00.000,Service,"[-71.08462, 42.329591]",Point,Service,7,ARREST,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768486.5259,ROXBURY ST,2945405.04,2014
+60257,142007743.0,Wednesday,No,2014-07-09T23:00:00.000,Service,"[-71.138515, 42.353131]",Point,Service,7,LARCEN,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,753876.9328,,2953917.11,2014
+181318,142007630.0,Wednesday,No,2014-07-09T17:30:00.000,Service,"[-71.06287, 42.352321]",Point,Service,7,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2014
+207755,142007724.0,Wednesday,No,2014-07-09T22:00:00.000,Service,"[-71.0979, 42.281201]",Point,Service,7,TS,0,B3,First,No,ALMONT ST,Part three,Unarmed,764978.7409,WALK HILL ST,2927753.744,2014
+231572,142007518.0,Wednesday,No,2014-07-09T12:00:00.000,Service,"[-71.054711, 42.341305]",Point,Service,7,MISC,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+234108,142007419.0,Wednesday,No,2014-07-09T00:50:00.000,Service,"[-71.05814, 42.352331]",Point,Service,7,SS,0,A1,Last,No,ESSEX ST,Part three,Unarmed,775603.787,SURFACE RD,2953727.883,2014

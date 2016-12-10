@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31282,,Saturday,No,2015-06-27T00:00:00.000,Simple Assault,"[-71.07772, 42.348577]",Point,08xx,6,ARREST,130,D4,,No,HUNTINGTON AVE,Part Two,None,770318.0,,2950000.0,2015
+77921,,Saturday,No,2015-06-27T00:00:00.000,Simple Assault,"[-71.061655, 42.364238]",Point,08xx,6,AB,75,A1,,No,PORTLAND ST,Part Two,None,774631.0,,2960000.0,2015
+92502,,Saturday,No,2015-06-27T14:13:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,0,,,No,LONG,Part Two,None,,OLD ATLANTIC AVE,,2015
+100012,,Saturday,No,2015-06-27T00:00:00.000,Simple Assault,"[-71.058354, 42.358923]",Point,08xx,6,REQP,92,A1,,No,COURT ST,Part Two,None,775534.0,,2960000.0,2015
+134487,,Saturday,No,2015-06-27T00:00:00.000,Simple Assault,"[-71.073226, 42.29574]",Point,08xx,6,ARREST,452,B3,,No,KENBERMA RD,Part Two,None,771629.0,,2930000.0,2015
+147304,,Saturday,No,2015-06-27T00:13:00.000,Simple Assault,"[0, 0]",Point,08xx,6,TS,914,C6,,No,MONSIGNOR DENNIS F O'CALLAGHAN WAY,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+172093,,Saturday,No,2015-06-27T00:00:00.000,Simple Assault,"[-71.042219, 42.350201]",Point,08xx,6,I00015,207,C6,,No,NORTHERN AVE,Part Two,None,779911.0,,2950000.0,2015
+223763,,Saturday,No,2015-06-27T04:05:00.000,Simple Assault,"[0, 0]",Point,08xx,6,IVPER,169,D4,,No,HARRISON AVE,Part Two,None,,,,2015
+232518,,Saturday,No,2015-06-27T00:00:00.000,Simple Assault,"[-71.063548, 42.37874]",Point,08xx,6,IVPER,55,A15,,No,SCHOOL ST,Part Two,None,774093.0,,2960000.0,2015
+254714,,Saturday,No,2015-06-27T00:00:00.000,Simple Assault,"[-71.054154, 42.358245]",Point,08xx,6,AB,101,A1,,No,BROAD ST,Part Two,None,776670.0,,2960000.0,2015

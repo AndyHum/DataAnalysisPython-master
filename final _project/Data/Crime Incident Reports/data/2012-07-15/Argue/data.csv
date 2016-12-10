@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+200298,120436221.0,Sunday,No,2012-07-15T17:00:00.000,Argue,"[-71.119079, 42.351603]",Point,Argue,7,IVPER ,797,D14,First,No,COMMONWEALTH AV,Part Three,Other,759132.7976,,2953383.027,2012
+202392,120436489.0,Sunday,No,2012-07-15T20:14:00.000,Argue,"[-71.0576, 42.330336]",Point,Argue,7,NIDV  ,174,C6,First,No,DEXTER ST,Part Three,Unarmed,775791.3237,,2945713.269,2012
+234162,120435041.0,Sunday,No,2012-07-15T01:50:00.000,Argue,"[-71.07766, 42.335991]",Point,Argue,7,FIGHT ,271,D4,Last,No,NORTHAMPTON ST,Part Three,Unarmed,770356.9623,WASHINGTON ST,2947746.555,2012

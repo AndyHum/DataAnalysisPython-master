@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3493,152037397.0,Thursday,No,2015-05-07T15:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B2,Day,No,MAYWOOD ST,Other,Unarmed,,,,2015
+4476,152037560.0,Thursday,No,2015-05-07T09:00:00.000,PersLoc,"[-71.080471, 42.322391]",Point,PersLoc,5,MISSIN,0,B2,Day,No,COPELAND ST,Other,Unarmed,769621.2376,,2942786.6739999996,2015
+22884,152037419.0,Thursday,No,2015-05-07T17:03:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,5,MISSIN,0,B3,First,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2015
+138889,152037498.0,Thursday,No,2015-05-07T19:30:00.000,PersLoc,"[-71.05501, 42.336961]",Point,PersLoc,5,IVPER,0,C6,First,No,W 7TH ST,Other,Unarmed,776479.0559,,2948131.1760000004,2015
+140135,152037208.0,Thursday,No,2015-05-07T00:36:00.000,PersLoc,"[-71.049385, 42.331776]",Point,PersLoc,5,IVPER,0,C6,Last,No,E 8TH ST,Other,Unarmed,778009.8586,,2946249.6580000003,2015
+152110,152037539.0,Thursday,No,2015-05-07T13:00:00.000,PersLoc,"[-71.089425, 42.281191]",Point,PersLoc,5,IVPER,0,B3,Day,No,WOOLSON ST,Other,Unarmed,767272.1524,,2927761.025,2015
+168254,152037742.0,Thursday,No,2015-05-07T08:00:00.000,PersLoc,"[-71.089205, 42.316173]",Point,PersLoc,5,IVPER,0,B2,Day,No,HOLWORTHY ST,Other,Other,767270.2679,,2940509.336,2015
+225768,152037485.0,Thursday,No,2015-05-07T15:00:00.000,PersLoc,"[-71.02818, 42.334881]",Point,PersLoc,5,IVPER,0,C6,Day,No,E 4TH ST,Other,Unarmed,783737.2208,,2947412.175,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11179,142061603.0,Monday,No,2014-12-29T19:45:00.000,BENoProp,"[-71.053775, 42.338936]",Point,BENoProp,12,BE,0,C6,First,No,ST CASIMIR,Part One,Unarmed,776809.1943,,2948852.645,2014
+57225,142061523.0,Monday,No,2014-12-29T15:30:00.000,BENoProp,"[-71.074107, 42.284279]",Point,BENoProp,12,BE,0,B3,Day,No,ARMANDINE ST,Part One,Other,771411.6405,,2928906.461,2014
+94279,142061631.0,Monday,No,2014-12-29T21:22:00.000,BENoProp,"[-71.068585, 42.341776]",Point,BENoProp,12,ARREST,0,D4,First,No,WASHINGTON ST,Part One,Unarmed,772799.9307,,2949866.9930000002,2014

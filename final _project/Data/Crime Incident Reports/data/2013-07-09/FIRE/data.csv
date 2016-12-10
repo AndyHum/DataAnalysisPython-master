@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38678,130423854.0,Tuesday,No,2013-07-09T21:24:00.000,FIRE,"[-71.075613, 42.307223]",Point,FIRE,7,FV    ,337,C11,First,No,DEVON ST,Part three,Unarmed,770962.3353,,2937265.653,2013
+78470,130423515.0,Tuesday,No,2013-07-09T18:55:00.000,FIRE,"[-71.043165, 42.318831]",Point,FIRE,7,FIREB ,256,C6,First,No,HARBOR POINT BL,Part three,Unarmed,779716.9513,,2941541.235,2013
+112735,130421914.0,Tuesday,No,2013-07-09T05:40:00.000,FIRE,"[-71.12858, 42.359195]",Point,FIRE,7,FIREB ,816,D14,Last,No,HASKELL ST,Part three,Unarmed,756552.5528,,2956138.415,2013
+121759,130424024.0,Tuesday,No,2013-07-09T22:40:00.000,FIRE,"[-71.12279, 42.291426]",Point,FIRE,7,FIREB ,563,E5,First,No,WASHINGTON ST,Part three,Unarmed,758226.8467,,2931449.1180000002,2013
+250883,130421808.0,Tuesday,No,2013-07-09T02:00:00.000,FIRE,"[-71.10842, 42.273481]",Point,FIRE,7,MVACC ,478,E18,Last,No,CUMMINS HY,Part three,Unarmed,762144.8691,LIVERMORE ST,2924927.222,2013

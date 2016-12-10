@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113499,120460675.0,Monday,No,2012-07-23T08:30:00.000,PersMiss,"[-71.077701, 42.327925]",Point,PersMiss,7,MISPER,267,B2,Day,No,DUDLEY ST,Part Three,Unarmed,770360.3001,,2944807.002,2012
+174595,120454958.0,Monday,No,2012-07-23T20:20:00.000,PersMiss,"[-71.10766, 42.335096]",Point,PersMiss,7,MSNCOM,611,B2,First,No,FENWOOD RD,Part Three,Unarmed,762247.2746,,2947381.665,2012
+214578,120455374.0,Monday,No,2012-07-23T16:00:00.000,PersMiss,"[-71.06218, 42.309996]",Point,PersMiss,7,MISPER,338,C11,First,No,NAVILLUS TR,Part Three,Unarmed,774590.9544,,2938294.65,2012

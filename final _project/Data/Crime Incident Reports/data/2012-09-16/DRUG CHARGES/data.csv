@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68993,120581281.0,Sunday,No,2012-09-16T11:30:00.000,DRUG CHARGES,"[-71.01623, 42.383411]",Point,18xx,9,IVDRUG,14,A7,Day,No,BENNINGTON ST,Part Two,Other,786867.9142,BYRON ST,2965115.4960000003,2012
+154285,120581429.0,Sunday,No,2012-09-16T10:00:00.000,DRUG CHARGES,"[-71.054711, 42.341305]",Point,18xx,9,IVDRUG,200,C6,Day,No,W BROADWAY,Part Two,Unarmed,776551.5679,,2949714.607,2012
+154706,120581234.0,Sunday,No,2012-09-16T07:30:00.000,DRUG CHARGES,"[-71.085618, 42.32866]",Point,18xx,9,IVDRUG,282,B2,Day,No,WASHINGTON ST,Part Two,Other,768218.0809,,2945064.255,2012
+212971,120581920.0,Sunday,No,2012-09-16T18:15:00.000,DRUG CHARGES,"[-71.14568, 42.361561]",Point,18xx,9,IVDRUG,806,D14,First,No,BIRMINGHAM PY,Part Two,Unarmed,751927.469,WESTERN AV,2956981.0519999997,2012

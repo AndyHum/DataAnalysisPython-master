@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48403,130100879.0,Monday,No,2013-02-11T16:00:00.000,InvProp,"[-71.101765, 42.328681]",Point,InvProp,2,DISTRB,585,B2,First,No,PARKER HILL AV,Part Three,Other,763852.0615,,2945051.31,2013
+112376,130087694.0,Monday,No,2013-02-11T17:40:00.000,InvProp,"[-71.141721, 42.34306]",Point,InvProp,2,ALARMM,956,D14,First,No,WASHINGTON ST,Part Three,Unarmed,753025.5063,,2950243.078,2013
+167113,130086975.0,Monday,No,2013-02-11T12:52:00.000,InvProp,"[-71.109405, 42.322781]",Point,InvProp,2,BRKDOG,582,E13,Day,No,MARK ST,Part Three,Unarmed,761796.0177,,2942891.692,2013
+199357,130088298.0,Monday,No,2013-02-11T22:47:00.000,InvProp,"[-71.06087, 42.322701]",Point,InvProp,2,NOISE ,186,C6,First,No,BOSTON ST,Part Three,Unarmed,774921.4508,ENTERPRISE ST,2942926.377,2013
+203716,130165062.0,Monday,No,2013-02-11T18:00:00.000,InvProp,"[-71.069315, 42.313072]",Point,InvProp,2,IVMV  ,331,B2,First,No,GLENDALE ST,Part Three,Unarmed,772655.2814,,2939405.653,2013
+258669,130087794.0,Monday,No,2013-02-11T18:15:00.000,InvProp,"[-71.071885, 42.351536]",Point,InvProp,2,REQPF ,134,D4,First,No,BOYLSTON ST,Part Three,Unarmed,771889.9292,,2953419.2260000003,2013

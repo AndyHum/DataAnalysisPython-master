@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34650,,Wednesday,No,2015-07-22T17:25:00.000,Violations,"[0, 0]",Point,VAL,7,TS,311,B2,,No,BLUE HILL AVE,Part Two,None,, DOVE ST ,,2015
+102924,,Wednesday,No,2015-07-22T00:00:00.000,Restraining Order Violations,"[-71.102831, 42.267359]",Point,Restrain,7,VIORDR,486,E18,,No,RANLEY RD,Part Two,None,763668.0,,2920000.0,2015
+145007,,Wednesday,No,2015-07-22T00:00:00.000,Violations,"[-71.071124, 42.278305]",Point,VAL,7,TS,414,B3,,No,GALLIVAN BLVD,Part Two,None,772230.0,,2930000.0,2015
+174696,,Wednesday,No,2015-07-22T00:00:00.000,Restraining Order Violations,"[-71.081153, 42.296297]",Point,Restrain,7,VIORDR,441,B3,,No,HARVARD ST,Part Two,None,769484.0,,2930000.0,2015
+199924,,Wednesday,No,2015-07-22T00:36:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,ARREST,319,B2,,No,SEAVER ST,Part Two,Firearm,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38705,130004194.0,Wednesday,No,2013-01-02T22:41:00.000,Argue,"[-71.043581, 42.321064]",Point,Argue,1,NIDV  ,256,C6,First,No,N POINT DR,Part Three,Unarmed,779600.0536,,2942354.07,2013
+91988,130002759.0,Wednesday,No,2013-01-02T10:11:00.000,Argue,"[-71.1002, 42.268416]",Point,Argue,1,DVIP  ,480,E18,Day,No,FAIRLAWN AV,Part Three,Unarmed,764378.1779,,2923091.789,2013
+206109,130003363.0,Wednesday,No,2013-01-02T15:08:00.000,Argue,"[-71.03771, 42.381986]",Point,Argue,1,NIDV  ,25,A7,Day,No,FALCON ST,Part Three,Unarmed,781067.4939,,2964564.018,2013

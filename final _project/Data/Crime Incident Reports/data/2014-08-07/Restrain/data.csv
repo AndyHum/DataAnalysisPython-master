@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28484,142017224.0,Thursday,No,2014-08-07T19:40:00.000,Restrain,"[-71.052533, 42.36293]",Point,Restrain,8,VIORDR,0,A1,First,No,FULTON ST,Part Two,Unarmed,777098.9175,,2957598.0160000003,2014
+83385,142017086.0,Thursday,No,2014-08-07T15:30:00.000,Restrain,"[-71.080301, 42.292654]",Point,Restrain,8,VIORDR,0,B3,Day,No,TALBOT AV,Part Two,Unarmed,769720.5959999999,,2931950.291,2014
+188405,142018782.0,Thursday,No,2014-08-07T12:00:00.000,Restrain,"[-71.011876, 42.385742]",Point,Restrain,8,VIORDR,0,A7,Day,No,SARATOGA ST,Part Two,Unarmed,788039.123,,2965971.414,2014

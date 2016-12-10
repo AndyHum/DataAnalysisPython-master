@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+467,,Thursday,No,2015-07-30T00:00:00.000,Violations,"[-71.089934, 42.314448]",Point,VAL,7,TS,314,B2,,No,HOWLAND ST,Part Two,None,767076.0,,2940000.0,2015
+32314,,Thursday,No,2015-07-30T00:00:00.000,Violations,"[-71.075644, 42.271483]",Point,VAL,7,TS,406,B3,,No,RIVER ST,Part Two,None,771019.0,,2920000.0,2015
+81370,,Thursday,No,2015-07-30T23:01:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,429,B3,,No,MORTON ST,Part Two,None,, VERRILL ST ,,2015
+149093,,Thursday,No,2015-07-30T13:16:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,ARREST,449,B3,,No,WHEATLAND AVE,Part Two,None,,WHITFIELD ST,,2015
+153682,,Thursday,No,2015-07-30T00:00:00.000,Restraining Order Violations,"[-71.063638, 42.282502]",Point,Restrain,7,VIORDR,395,C11,,No,VAN WINKLE ST,Part Two,None,774248.0,,2930000.0,2015
+164092,,Thursday,No,2015-07-30T00:00:00.000,Restraining Order Violations,"[-71.053603, 42.355638]",Point,Restrain,7,VIORDR,110,A1,,No,HIGH ST,Part Two,None,776824.0,,2950000.0,2015
+215304,,Thursday,No,2015-07-30T10:00:00.000,Violations,"[0, 0]",Point,VAL,7,TS,105,A1,,No,WASHINGTON ST,Part Two,None,, WINTER ST ,,2015
+226921,,Thursday,No,2015-07-30T00:00:00.000,Firearm Violations,"[-71.06787, 42.298509]",Point,15xx,7,ARREST,357,C11,,No,TONAWANDA ST,Part Two,Firearm,773073.0,,2930000.0,2015
+229266,,Thursday,No,2015-07-30T08:54:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,0,,,No,,Part Two,None,,BLUE HILL AVE,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53587,130491870.0,Tuesday,No,2013-08-06T17:00:00.000,PubDrink,"[-71.083781, 42.329494]",Point,PubDrink,8,SSTOP ,0,B2,First,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2013
+174161,130491848.0,Tuesday,No,2013-08-06T17:16:00.000,PubDrink,"[-71.084525, 42.329741]",Point,PubDrink,8,IVPER ,130,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768511.9472,ROXBURY ST,2945459.828,2013
+245206,130491945.0,Tuesday,No,2013-08-06T17:29:00.000,PubDrink,"[-71.08106, 42.332841]",Point,PubDrink,8,SSTOP ,277,B2,First,No,WASHINGTON ST,Part Two,Unarmed,769443.3336,MELNEA CASS BL,2946594.105,2013

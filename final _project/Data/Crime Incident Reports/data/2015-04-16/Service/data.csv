@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35332,152031054.0,Thursday,No,2015-04-16T16:44:00.000,Service,"[-71.107805, 42.33605]",Point,Service,4,ARREST,0,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2015
+45211,152031035.0,Thursday,No,2015-04-16T16:29:00.000,Service,"[-71.091325, 42.284861]",Point,Service,4,PROP,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+238630,152030934.0,Thursday,No,2015-04-16T11:30:00.000,Service,"[-71.15508, 42.263116]",Point,Service,4,ARREST,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,749532.0534,,2921095.548,2015

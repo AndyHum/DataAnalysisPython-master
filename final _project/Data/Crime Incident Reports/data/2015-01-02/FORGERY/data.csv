@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90583,152007707.0,Friday,No,2015-01-02T14:16:00.000,FORGERY,"[-71.098253, 42.315627]",Point,10xx,1,LARCEN,0,E13,Day,No,COLUMBUS AV,Part Two,Unarmed,764823.949,,2940298.416,2015
+174924,152007703.0,Friday,No,2015-01-02T17:00:00.000,FORGERY,"[-71.098253, 42.315627]",Point,10xx,1,LARCEN,0,E13,First,No,COLUMBUS AV,Part Two,Unarmed,764823.949,,2940298.416,2015

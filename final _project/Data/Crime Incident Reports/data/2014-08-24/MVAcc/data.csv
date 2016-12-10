@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20920,142022446.0,Sunday,No,2014-08-24T03:30:00.000,MVAcc,"[-71.154553, 42.333154]",Point,MVAcc,8,MVA,0,D14,Last,No,BEACON ST,Other,Unarmed,749571.0815,,2946618.982,2014
+94715,142022579.0,Sunday,No,2014-08-24T20:50:00.000,MVAcc,"[-71.098528, 42.327445]",Point,MVAcc,8,MVA,0,B2,First,No,TERRACE ST,Other,Unarmed,764729.4865,,2944604.955,2014
+132850,142022584.0,Sunday,No,2014-08-24T20:00:00.000,MVAcc,"[-71.045296, 42.335003]",Point,MVAcc,8,IVPER,0,C6,First,No,SILVER ST,Other,Unarmed,779109.2065,,2947431.3189999997,2014
+141044,142022609.0,Sunday,No,2014-08-24T22:55:00.000,MVAcc,"[-71.07585, 42.311341]",Point,MVAcc,8,MVA,0,B2,First,No,MASCOMA ST,Other,Unarmed,770891.0061,LAWRENCE AV,2938766.107,2014
+261926,142022384.0,Sunday,No,2014-08-24T07:00:00.000,MVAcc,"[0, 0]",Point,MVAcc,8,MVA,0,A7,Last,No,MERIDIAN ST,Other,Unarmed,,PORTER ST,,2014

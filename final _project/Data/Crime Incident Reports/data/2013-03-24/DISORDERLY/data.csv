@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47258,130172191.0,Sunday,No,2013-03-24T02:45:00.000,DISORDERLY,"[-71.096318, 42.283356]",Point,24xx,3,CD19IV,467,B3,Last,No,WELLINGTON HILL ST,Part Two,Unarmed,765402.9291,,2928540.905,2013
+114784,130173432.0,Sunday,No,2013-03-24T18:53:00.000,DISORDERLY,"[-71.078186, 42.334556]",Point,24xx,3,TRANSP,271,D4,First,No,E LENOX ST,Part Two,Unarmed,770217.2220000001,,2947222.7819999997,2013
+213055,130172274.0,Sunday,No,2013-03-24T03:45:00.000,DISORDERLY,"[-71.058756, 42.36273]",Point,24xx,3,INVEST,86,A1,Last,No,CONGRESS ST,Part Two,Unarmed,775417.5164,BLACKSTONE ST,2957516.3419999997,2013
+229929,130173379.0,Sunday,No,2013-03-24T18:30:00.000,DISORDERLY,"[-71.056374, 42.350817]",Point,24xx,3,ARREST,114,A1,First,No,ATLANTIC AV,Part Two,Unarmed,776084.0039,SUMMER ST,2953178.441,2013

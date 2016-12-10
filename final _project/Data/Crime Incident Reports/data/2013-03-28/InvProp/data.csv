@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55175,130182574.0,Thursday,No,2013-03-28T18:15:00.000,InvProp,"[-71.100225, 42.341036]",Point,InvProp,3,ALARMB,628,D4,First,No,PARK DR,Part Three,Unarmed,764247.3815,,2949555.645,2013
+178424,130181817.0,Thursday,No,2013-03-28T13:20:00.000,InvProp,"[-71.088865, 42.279666]",Point,InvProp,3,BERPT ,427,B3,Day,No,NORFOLK AV,Part Three,Unarmed,767426.3706,,2927206.023,2013
+194355,130182704.0,Thursday,No,2013-03-28T19:13:00.000,InvProp,"[-71.091095, 42.320611]",Point,InvProp,3,SHOTS ,305,B2,First,No,KENSINGTON ST,Part Three,Unarmed,766751.3719,,2942124.113,2013
+259803,130182751.0,Thursday,No,2013-03-28T19:30:00.000,InvProp,"[-71.173055, 42.352926]",Point,InvProp,3,IVPREM,755,D14,First,No,WASHINGTON ST,Part Three,Unarmed,744541.0371,,2953804.728,2013

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48168,142024237.0,Friday,No,2014-08-29T19:15:00.000,InvPer,"[-71.069055, 42.337746]",Point,InvPer,8,PSHOT,0,D4,First,No,E CANTON ST,Part three,Unarmed,772680.2889,,2948397.747,2014
+57270,142024278.0,Friday,No,2014-08-29T21:15:00.000,InvPer,"[-71.082755, 42.281741]",Point,InvPer,8,PERGUN,0,B3,First,No,EVANS ST,Part three,Unarmed,769076.1199,,2927970.212,2014
+58409,142025190.0,Friday,No,2014-08-29T18:00:00.000,InvPer,"[-71.05653, 42.296801]",Point,InvPer,8,IVMV,0,C11,First,No,ADAMS ST,Part three,Unarmed,776144.1858,,2933494.09,2014
+94654,142024230.0,Friday,No,2014-08-29T18:15:00.000,InvPer,"[-71.085618, 42.32866]",Point,InvPer,8,IVPER,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+138640,142024284.0,Friday,No,2014-08-29T20:23:00.000,InvPer,"[-71.07825, 42.335516]",Point,InvPer,8,LARCEN,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,770198.2968,,2947572.668,2014
+177749,142030639.0,Friday,No,2014-08-29T13:00:00.000,InvPer,"[-71.039079, 42.375371]",Point,InvPer,8,IVPER,0,A7,Day,No,CENTRAL SQ,Part three,Unarmed,780710.6016,,2962151.396,2014
+198604,142024218.0,Friday,No,2014-08-29T11:00:00.000,InvPer,"[-71.06512, 42.308021]",Point,InvPer,8,AB,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773799.4015,QUINCY ST,2937570.861,2014
+210942,142027073.0,Friday,No,2014-08-29T09:00:00.000,InvPer,"[-71.137961, 42.273376]",Point,InvPer,8,IVPER,0,E5,Day,No,BLUE LEDGE DR,Part three,Unarmed,754149.8141,,2924853.36,2014
+227338,142024084.0,Friday,No,2014-08-29T10:30:00.000,InvPer,"[-71.037895, 42.376816]",Point,InvPer,8,MISSIN,0,A7,Day,No,PRINCETON ST,Part three,Unarmed,781027.7161,,2962679.691,2014
+264929,142024194.0,Friday,No,2014-08-29T14:00:00.000,InvPer,"[0, 0]",Point,InvPer,8,MISC,0,C6,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2014
+265407,142024117.0,Friday,No,2014-08-29T11:26:00.000,InvPer,"[0, 0]",Point,InvPer,8,MVA,0,B2,Day,No,JEWISH WAR VETERANS,Part three,Other,,,,2014

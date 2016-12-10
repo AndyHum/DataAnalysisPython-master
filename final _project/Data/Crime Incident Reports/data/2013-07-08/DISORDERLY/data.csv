@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145920,130421018.0,Monday,No,2013-07-08T18:33:00.000,DISORDERLY,"[-71.07821, 42.279591]",Point,24xx,7,IVPER ,416,B3,First,No,FAIRMOUNT ST,Part Two,Unarmed,770309.8921,CAPEN ST,2927192.771,2013
+151088,130421123.0,Monday,No,2013-07-08T19:00:00.000,DISORDERLY,"[-71.09435, 42.347161]",Point,24xx,7,ARREST,624,D4,First,No,LANSDOWNE ST,Part Two,Unarmed,765825.0812,IPSWICH ST,2951795.21,2013
+166132,130420362.0,Monday,No,2013-07-08T13:50:00.000,DISORDERLY,"[-71.06293, 42.306501]",Point,24xx,7,ARREST,346,C11,Day,No,FOX ST,Part Two,Unarmed,774394.6177,JULIETTE ST,2937019.978,2013
+199317,130421011.0,Monday,No,2013-07-08T18:31:00.000,DISORDERLY,"[-71.05455, 42.337761]",Point,24xx,7,PERGUN,936,C6,First,No,ORTON MAROTTA WY,Part Two,Unarmed,776601.9018,JOYCE HAYES WY,2948423.358,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14346,152010675.0,Monday,No,2015-02-09T00:01:00.000,PropLost,"[-71.08612, 42.347688]",Point,PropLost,2,PROP,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,768048.7683,,2951997.703,2015
+34891,152010669.0,Monday,No,2015-02-09T13:45:00.000,PropLost,"[-71.06376, 42.344931]",Point,PropLost,2,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,774098.478,,2951023.367,2015
+132718,152010911.0,Monday,No,2015-02-09T20:00:00.000,PropLost,"[-71.12955, 42.286056]",Point,PropLost,2,LARCEN,0,E5,First,No,CORINTH ST,Part three,Unarmed,756406.3346,,2929484.192,2015
+193055,152018917.0,Monday,No,2015-02-09T12:00:00.000,PropLost,"[-71.066994, 42.322664]",Point,PropLost,2,PROP,0,B2,Day,No,NORFOLK AV,Part three,Unarmed,773265.3136,,2942904.412,2015

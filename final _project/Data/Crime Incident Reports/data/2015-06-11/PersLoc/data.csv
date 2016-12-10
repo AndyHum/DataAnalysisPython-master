@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3922,152048547.0,Thursday,No,2015-06-11T20:58:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,IVPER,0,B2,First,No,CRESCENT ST,Other,Unarmed,,,,2015
+128366,152048424.0,Thursday,No,2015-06-11T15:40:00.000,PersLoc,"[-71.145297, 42.349864]",Point,PersLoc,6,EDP,0,D14,Day,No,WARREN ST,Other,Unarmed,752048.4758,,2952718.7569999998,2015
+131909,152048544.0,Thursday,No,2015-06-11T07:50:00.000,PersLoc,"[-71.089495, 42.279021]",Point,PersLoc,6,IVPER,0,B3,Day,No,NORFOLK ST,Other,Unarmed,767257.0156,,2926970.155,2015

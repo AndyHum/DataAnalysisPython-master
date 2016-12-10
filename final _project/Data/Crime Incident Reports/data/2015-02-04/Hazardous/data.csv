@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30818,152009286.0,Wednesday,No,2015-02-04T15:44:00.000,Hazardous,"[-71.070311, 42.310124]",Point,Hazardous,2,IVPREM,0,C11,Day,No,MT EVERETT ST,Other,Unarmed,772391.3521,,2938329.9689999996,2015
+120259,152017517.0,Wednesday,No,2015-02-04T14:30:00.000,Hazardous,"[-71.05774, 42.350716]",Point,Hazardous,2,PROP,0,A1,Day,No,BEECH ST,Other,Unarmed,775714.96,,2953139.9080000003,2015
+149279,152009401.0,Wednesday,No,2015-02-04T20:22:00.000,Hazardous,"[-71.07659, 42.386061]",Point,Hazardous,2,IVMV,0,A15,First,No,MYSTIC AV,Other,Unarmed,770555.6851,SHERMAN ST,2965994.4930000002,2015
+253719,152009240.0,Wednesday,No,2015-02-04T18:30:00.000,Hazardous,"[-71.10747, 42.333256]",Point,Hazardous,2,PROP,0,B2,First,No,HUNTINGTON AV,Other,Unarmed,762301.7319,,2946711.372,2015
+260584,152009369.0,Wednesday,No,2015-02-04T18:01:00.000,Hazardous,"[0, 0]",Point,Hazardous,2,REQP,0,B2,First,No,DUDLEY ST,Other,Unarmed,,,,2015

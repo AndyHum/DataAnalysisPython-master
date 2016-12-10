@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85460,142042413.0,Friday,No,2014-10-10T00:00:00.000,PropLost,"[-71.09134, 42.279336]",Point,PropLost,10,IVPREM,0,B3,Last,No,EVELYN ST,Part three,Unarmed,766757.183,,2927082.5519999997,2014
+108006,142037788.0,Friday,No,2014-10-10T11:00:00.000,PropLost,"[-71.059295, 42.356476]",Point,PropLost,10,LARCEN,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775283.7829999999,,2955236.785,2014
+150927,142056179.0,Friday,No,2014-10-10T12:00:00.000,PropLost,"[-71.078337, 42.300192]",Point,PropLost,10,PROP,0,B3,Day,No,RADCLIFFE ST,Part three,Unarmed,770238.1871,,2934699.5960000004,2014
+250103,142037958.0,Friday,No,2014-10-10T21:30:00.000,PropLost,"[-71.06122, 42.354711]",Point,PropLost,10,PROP,0,A1,First,No,TEMPLE PL,Part three,Unarmed,774766.7932,WASHINGTON ST,2954590.902,2014
+254693,142037710.0,Friday,No,2014-10-10T01:00:00.000,PropLost,"[-71.068585, 42.351241]",Point,PropLost,10,PROP,0,A1,Last,No,COLUMBUS AV,Part three,Unarmed,772782.4849,,2953316.2139999997,2014

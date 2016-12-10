@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25896,,Tuesday,No,2015-07-14T00:00:00.000,Auto Theft,"[-71.108376, 42.286766]",Point,07xx,7,,503,E18,,No,AMERICAN LEGION HWY,Part One,None,762134.0,,2930000.0,2015
+31298,,Tuesday,No,2015-07-14T00:00:00.000,Auto Theft,"[-71.097821, 42.329119]",Point,07xx,7,,586,B2,,No,TERRACE ST,Part One,None,764918.0,,2950000.0,2015
+81048,,Tuesday,No,2015-07-14T00:00:00.000,Auto Theft Recovery,"[-71.095264, 42.276838]",Point,07RV,7,IVMV,469,B3,,No,HIAWATHA RD,Other,None,765699.0,,2930000.0,2015
+105349,,Tuesday,No,2015-07-14T14:10:00.000,Auto Theft,"[0, 0]",Point,07xx,7,ARREST,16,A7,,No,NEPTUNE RD,Part One,None,,SARATOGA ST,,2015
+106988,,Tuesday,No,2015-07-14T00:00:00.000,Auto Theft Recovery,"[-71.078861, 42.318067]",Point,07RV,7,IVMV,311,B2,,No,SOUTHWOOD ST,Other,None,770064.0,,2940000.0,2015
+176783,,Tuesday,No,2015-07-14T00:00:00.000,Auto Theft,"[-71.08029, 42.333839]",Point,07xx,7,IVMV,903,D4,,No,WASHINGTON ST,Part One,None,769650.0,,2950000.0,2015
+205237,,Tuesday,No,2015-07-14T00:45:00.000,Auto Theft,"[0, 0]",Point,07xx,7,ARREST,940,E18,,No,GARFIELD AVE,Part One,None,,WOODGLEN RD,,2015
+234338,,Tuesday,No,2015-07-14T00:00:00.000,Auto Theft,"[-71.079841, 42.322822]",Point,07xx,7,IVMV,265,B2,,No,COPELAND ST,Part One,None,769791.0,,2940000.0,2015

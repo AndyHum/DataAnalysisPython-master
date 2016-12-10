@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1308,152039756.0,Friday,No,2015-05-15T10:59:00.000,32GUN,"[0, 0]",Point,32GUN,5,IVPER,0,E13,Day,No,ARBORWAY,Part three,Unarmed,,,,2015
+56136,152039946.0,Friday,No,2015-05-15T21:30:00.000,32GUN,"[-71.054095, 42.301466]",Point,32GUN,5,FDWEAP,0,C11,First,No,PARK ST,Part three,Unarmed,776794.0615,,2935197.519,2015

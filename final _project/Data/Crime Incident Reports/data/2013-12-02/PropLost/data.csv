@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+118714,130761034.0,Monday,No,2013-12-02T19:10:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,12,LSTPRP,138,D4,First,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2013
+160645,130759780.0,Monday,No,2013-12-02T06:30:00.000,PropLost,"[-71.078795, 42.300916]",Point,PropLost,12,LSTPRP,455,B3,Last,No,NORWELL ST,Part three,Unarmed,770113.2077,,2934963.126,2013
+188565,130761027.0,Monday,No,2013-12-02T12:00:00.000,PropLost,"[-71.095405, 42.348786]",Point,PropLost,12,LSTPRP,623,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765537.0788,,2952386.037,2013
+221188,130760823.0,Monday,No,2013-12-02T17:00:00.000,PropLost,"[-71.112411, 42.284053]",Point,PropLost,12,LSTPRP,503,E18,First,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2013

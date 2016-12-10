@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+181587,130641150.0,Saturday,No,2013-10-05T01:26:00.000,Service,"[-71.086542, 42.270593]",Point,Service,10,ARREST,423,B3,Last,No,RIVER ST,Part three,Unarmed,768070.8139,,2923902.518,2013
+191607,130637844.0,Saturday,No,2013-10-05T17:00:00.000,Service,"[-71.119069, 42.244442]",Point,Service,10,MISC  ,940,E18,First,No,GARFIELD AV,Part three,Other,759309.8602,,2914331.84,2013
+246112,130639184.0,Saturday,No,2013-10-05T08:00:00.000,Service,"[-71.097905, 42.310216]",Point,Service,10,IVPER ,571,E13,Day,No,WALNUT AV,Part three,Unarmed,764927.5426,,2938327.2460000003,2013

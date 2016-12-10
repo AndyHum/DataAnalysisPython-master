@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47920,152011496.0,Thursday,No,2015-02-12T13:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+84541,152039444.0,Thursday,No,2015-02-12T15:58:00.000,Service,"[-71.154, 42.352251]",Point,Service,2,LARCEN,0,D14,Day,No,ARLINGTON ST,Part three,Unarmed,749692.6308,,2953579.062,2015
+94618,152011407.0,Thursday,No,2015-02-12T07:10:00.000,Service,"[-71.068974, 42.289773]",Point,Service,2,ARREST,0,C11,Last,No,TALBOT AV,Part three,Unarmed,772790.5334,,2930915.749,2015
+155621,152011454.0,Thursday,No,2015-02-12T10:15:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+175874,152011507.0,Thursday,No,2015-02-12T14:20:00.000,Service,"[-71.039731, 42.347751]",Point,Service,2,STAB,0,C6,Day,No,CONGRESS ST,Part three,Knife,780588.7721,,2952085.0689999997,2015
+187528,152039442.0,Thursday,No,2015-02-12T15:36:00.000,Service,"[-71.07632, 42.350356]",Point,Service,2,LARCEN,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2015
+207972,152011404.0,Thursday,No,2015-02-12T07:00:00.000,Service,"[-71.07428, 42.300894]",Point,Service,2,CD11,0,C11,Last,No,BOWDOIN AV,Part three,Unarmed,771334.5603,,2934961.063,2015
+247640,152011485.0,Thursday,No,2015-02-12T11:17:00.000,Service,"[-71.042665, 42.371716]",Point,Service,2,IVMV,0,A7,Day,No,MAVERICK ST,Part three,Unarmed,779748.8414,NEW ST,2960814.1989999996,2015
+265763,152011413.0,Thursday,No,2015-02-12T08:48:00.000,Service,"[0, 0]",Point,Service,2,ARREST,0,C11,Day,No,GENEVA AV,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119018,130211245.0,Wednesday,No,2013-04-10T12:41:00.000,BENoProp,"[-71.14781, 42.341787]",Point,BENoProp,4,BERPTA,776,D14,Day,No,COMMONWEALTH AV,Part One,Firearm,751381.5205,,2949772.502,2013
+135889,130210431.0,Wednesday,No,2013-04-10T02:35:00.000,BENoProp,"[-71.097185, 42.343266]",Point,BENoProp,4,ARREST,626,D4,Last,No,JERSEY ST,Part One,Other,765065.4124,,2950372.166,2013
+250693,130210502.0,Wednesday,No,2013-04-10T05:04:00.000,BENoProp,"[-71.071303, 42.31078]",Point,BENoProp,4,BEIP  ,331,B2,Last,No,COLUMBIA RD,Part One,Other,772121.7044,,2938567.833,2013

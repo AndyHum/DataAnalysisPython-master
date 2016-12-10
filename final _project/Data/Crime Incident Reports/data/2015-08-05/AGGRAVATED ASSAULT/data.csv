@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34535,,Wednesday,No,2015-08-05T11:59:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,ARREST,796,D14,,No, COMMONWEALTH AVE ,Part One,Other,, HARVARD AVE ,,2015
+41070,,Wednesday,No,2015-08-05T00:00:00.000,Aggravated Assault,"[-71.07841, 42.349802]",Point,04xx,8,REQP,138,D4,,No,BOYLSTON ST,Part One,Other,770129.0,,2950000.0,2015
+72538,,Wednesday,No,2015-08-05T14:16:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,,335,C11,,No,BOWDOIN ST,Part One,None,,,,2015
+90578,,Wednesday,No,2015-08-05T18:04:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,PERGUN,634,E13,,No,PERKINS ST,Part One,Firearm,,POND VIEW AVE,,2015
+133780,,Wednesday,No,2015-08-05T01:52:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,INVEST,598,D4,,No,BOYLSTON ST,Part One,Knife/Cutting Instrument,,MASSACHUSETTS AVE,,2015
+175587,,Wednesday,No,2015-08-05T00:00:00.000,Aggravated Assault,"[-71.096674, 42.279241]",Point,04xx,8,STAB,469,B3,,No,MULVEY ST,Part One,Other,765314.0,,2930000.0,2015
+254364,,Wednesday,No,2015-08-05T00:00:00.000,Aggravated Assault,"[-71.074364, 42.33556]",Point,04xx,8,STAB,171,C6,,No,OLD COLONY AVE,Part One,Knife/Cutting Instrument,771249.0,,2950000.0,2015
+258363,,Wednesday,No,2015-08-05T00:00:00.000,Aggravated Assault,"[-71.077065, 42.287017]",Point,04xx,8,AB,435,B3,,No,WHITMAN ST,Part One,Blunt Object,770606.0,,2930000.0,2015

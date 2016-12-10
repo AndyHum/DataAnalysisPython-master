@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88087,142021181.0,Wednesday,No,2014-08-20T13:57:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,8,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+247138,142021063.0,Wednesday,No,2014-08-20T07:00:00.000,PropFound,"[-71.066403, 42.343387]",Point,PropFound,8,PROP,0,D4,Last,No,WASHINGTON ST,Part three,Unarmed,773386.6818,,2950456.92,2014
+262365,142021368.0,Wednesday,No,2014-08-20T22:44:00.000,PropFound,"[0, 0]",Point,PropFound,8,PROP,0,B2,First,No,DUDLEY ST,Part three,Unarmed,,,,2014

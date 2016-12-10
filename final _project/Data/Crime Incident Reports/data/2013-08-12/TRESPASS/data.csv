@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6956,130578297.0,Monday,No,2013-08-12T23:00:00.000,TRESPASS,"[-71.157647, 42.292941]",Point,TRESPASS,8,TRESPS,694,E5,First,No,WESTOVER ST,Part Two,Unarmed,748793.526,,2931961.3260000004,2013
+88907,130506829.0,Monday,No,2013-08-12T21:25:00.000,TRESPASS,"[-71.083303, 42.302514]",Point,TRESPASS,8,ARREST,458,B3,First,No,MICHIGAN AV,Part Two,Unarmed,768890.6104,,2935539.2180000003,2013
+242752,130506592.0,Monday,No,2013-08-12T15:30:00.000,TRESPASS,"[-71.053355, 42.324819]",Point,TRESPASS,8,IVPER ,914,C6,Day,No,OCALLAGHAN WY,Part Two,Unarmed,776949.5422,,2943708.555,2013

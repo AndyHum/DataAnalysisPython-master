@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8691,,Wednesday,No,2015-08-05T09:02:00.000,Counterfeiting,"[0, 0]",Point,10xx,8,ARREST,130,D4,,No,DARTMOUTH ST,Part Two,None,, STUART ST ,,2015
+31929,,Wednesday,No,2015-08-05T00:00:00.000,Counterfeiting,"[-71.063133, 42.298489]",Point,10xx,8,,358,C11,,No,GENEVA AVE,Part Two,None,774355.0,,2930000.0,2015
+50419,,Wednesday,No,2015-08-05T00:00:00.000,Counterfeiting,"[-71.080545, 42.310387]",Point,10xx,8,IVPER,329,B2,,No,DEVON ST,Part Two,None,769623.0,,2940000.0,2015
+219006,,Wednesday,No,2015-08-05T00:00:00.000,Counterfeiting,"[-71.084779, 42.30434]",Point,10xx,8,,458,B3,,No,BLUE HILL AVE,Part Two,None,768488.0,,2940000.0,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5223,142014036.0,Monday,No,2014-07-28T21:00:00.000,PropLost,"[-71.051365, 42.359702]",Point,PropLost,7,PROP,0,A1,First,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2014
+40476,142013886.0,Monday,No,2014-07-28T20:00:00.000,PropLost,"[-71.081654, 42.320308]",Point,PropLost,7,PROP,0,B2,First,No,WARREN ST,Part three,Unarmed,769305.0476,,2942025.772,2014
+120591,142014381.0,Monday,No,2014-07-28T08:00:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,7,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+200221,142013760.0,Monday,No,2014-07-28T13:30:00.000,PropLost,"[-71.08284, 42.309116]",Point,PropLost,7,PROP,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,769004.3297,,2937945.957,2014
+203263,142014339.0,Monday,No,2014-07-28T12:30:00.000,PropLost,"[-71.06925, 42.341481]",Point,PropLost,7,PROP,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,772620.6919,,2949758.5810000002,2014
+245729,142013676.0,Monday,No,2014-07-28T11:45:00.000,PropLost,"[-71.05484, 42.363456]",Point,PropLost,7,LARCEN,0,A1,Day,No,HANOVER ST,Part three,Unarmed,776474.6268,,2957786.685,2014
+248350,142030032.0,Monday,No,2014-07-28T12:00:00.000,PropLost,"[-71.08457, 42.313461]",Point,PropLost,7,PROP,0,B2,Day,No,WAUMBECK ST,Part three,Unarmed,768528.6758,,2939527.063,2014
+263354,142013699.0,Monday,No,2014-07-28T12:50:00.000,PropLost,"[0, 0]",Point,PropLost,7,LARCEN,0,B2,Day,No,W NEWTON ST,Part three,Unarmed,,,,2014
+265218,142016086.0,Monday,No,2014-07-28T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,B3,First,No,GREENFIELD RD,Part three,Unarmed,,,,2014

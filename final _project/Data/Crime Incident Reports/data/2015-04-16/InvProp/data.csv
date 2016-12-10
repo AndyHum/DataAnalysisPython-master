@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17282,152032180.0,Thursday,No,2015-04-16T08:00:00.000,InvProp,"[-71.060375, 42.352521]",Point,InvProp,4,IVPER,0,A1,Day,No,ESSEX ST,Part three,Unarmed,774999.3043,,2953794.002,2015
+63590,152031007.0,Thursday,No,2015-04-16T10:30:00.000,InvProp,"[-71.118805, 42.285971]",Point,InvProp,4,DISTRB,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759313.9272,,2929466.027,2015
+82479,152031093.0,Thursday,No,2015-04-16T17:34:00.000,InvProp,"[-71.07937, 42.303496]",Point,InvProp,4,SSA,0,B3,First,No,FENELON ST,Part three,Firearm,769953.0207,MERRILL ST,2935902.5510000004,2015
+114120,152031126.0,Thursday,No,2015-04-16T17:00:00.000,InvProp,"[-71.16533, 42.339971]",Point,InvProp,4,CD9,0,D14,First,No,COMMONWEALTH AV,Part three,Other,746647.6402,,2949091.7610000004,2015
+127258,152030943.0,Thursday,No,2015-04-16T12:00:00.000,InvProp,"[-71.056765, 42.320426]",Point,InvProp,4,IVPREM,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,776035.8714,,2942103.0719999997,2015
+248727,152030971.0,Thursday,No,2015-04-16T13:30:00.000,InvProp,"[-71.07936, 42.349221]",Point,InvProp,4,CD9,0,D4,Day,No,EXETER ST,Part three,Unarmed,769873.5524,,2952565.54,2015
+267797,152031162.0,Thursday,No,2015-04-16T22:07:00.000,InvProp,"[0, 0]",Point,InvProp,4,SSA,0,B2,First,No,RUGGLES ST,Part three,Unarmed,,,,2015
+267802,152031049.0,Thursday,No,2015-04-16T15:45:00.000,InvProp,"[0, 0]",Point,InvProp,4,PKNIFE,0,D14,Day,No,COREY RD,Part three,Unarmed,,,,2015

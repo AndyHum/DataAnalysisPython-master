@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55945,130816584.0,Sunday,No,2013-12-29T12:41:00.000,MedAssist,"[-71.080967, 42.305758]",Point,MedAssist,12,IVPER ,330,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769516.8457,,2936724.604,2013
+62314,130817027.0,Sunday,No,2013-12-29T17:13:00.000,MedAssist,"[-71.065007, 42.313187]",Point,MedAssist,12,UNK   ,257,C11,First,No,HANCOCK ST,Part three,Unarmed,773820.2587,,2939453.4489999996,2013
+113895,130817375.0,Sunday,No,2013-12-29T21:20:00.000,MedAssist,"[-71.163153, 42.269416]",Point,MedAssist,12,CARST ,716,E5,First,No,GLENELLEN RD,Part three,Unarmed,747337.5289,,2923382.341,2013
+169234,130816214.0,Sunday,No,2013-12-29T06:48:00.000,MedAssist,"[-71.061395, 42.290356]",Point,MedAssist,12,UNK   ,365,C11,Last,No,LONSDALE ST,Part three,Other,774840.0835,,2931138.639,2013
+176443,130816119.0,Sunday,No,2013-12-29T03:16:00.000,MedAssist,"[-71.07517, 42.334901]",Point,MedAssist,12,IVPER ,170,D4,Last,No,HARRISON AV,Part three,Unarmed,771032.1683,MASSACHUSETTS AV,2947352.683,2013
+180362,130817024.0,Sunday,No,2013-12-29T17:12:00.000,MedAssist,"[-71.049384, 42.330326]",Point,MedAssist,12,DOGBIT,915,C6,First,No,COLUMBIA RD,Part three,Unarmed,778012.8107,,2945721.11,2013
+209494,130816886.0,Sunday,No,2013-12-29T15:40:00.000,MedAssist,"[-71.057805, 42.282971]",Point,MedAssist,12,EDP2  ,390,C11,Day,No,ELY RD,Part three,Unarmed,775825.3745,,2928452.455,2013
+222228,130817483.0,Sunday,No,2013-12-29T23:01:00.000,MedAssist,"[-71.13085, 42.352856]",Point,MedAssist,12,IVDRUG,796,D14,First,No,BRIGHTON AV,Part three,Unarmed,755949.2183,HARVARD AV,2953825.769,2013
+249432,130816470.0,Sunday,No,2013-12-29T11:15:00.000,MedAssist,"[-71.09579, 42.313756]",Point,MedAssist,12,SDNDTH,572,E13,Day,No,COLUMBUS AV,Part three,Unarmed,765493.5024,,2939619.9839999997,2013

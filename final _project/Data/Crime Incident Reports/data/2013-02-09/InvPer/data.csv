@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24846,130086927.0,Saturday,No,2013-02-09T14:00:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER ,748,E5,Day,No,BRYON RD,Part Three,Unarmed,,,,2013
+98289,130082523.0,Saturday,No,2013-02-09T00:45:00.000,InvPer,"[-71.068325, 42.343063]",Point,InvPer,2,IVPER ,163,D4,Last,No,BRADFORD ST,Part Three,Unarmed,772867.6845,,2950336.36,2013
+133678,130083611.0,Saturday,No,2013-02-09T18:00:00.000,InvPer,"[-71.055996, 42.331949]",Point,InvPer,2,THREAT,195,C6,First,No,MIDDLE ST,Part Three,Unarmed,776221.8717,,2946303.285,2013
+160337,130098140.0,Saturday,No,2013-02-09T00:00:00.000,InvPer,"[-71.140595, 42.284051]",Point,InvPer,2,IVPER ,682,E5,Last,No,NEWBURG ST,Part Three,Unarmed,753420.7792,,2928740.7539999997,2013
+225463,130084484.0,Saturday,No,2013-02-09T07:10:00.000,InvPer,"[-71.05329, 42.364346]",Point,InvPer,2,IVPER ,67,A1,Last,No,GARDEN CT ST,Part Three,Unarmed,776891.8238,,2958113.208,2013
+253260,130084103.0,Saturday,No,2013-02-09T23:29:00.000,InvPer,"[-71.090319, 42.313599]",Point,InvPer,2,UNK   ,316,B2,First,No,CRAWFORD ST,Part Three,Unarmed,766973.4358,,2939569.644,2013

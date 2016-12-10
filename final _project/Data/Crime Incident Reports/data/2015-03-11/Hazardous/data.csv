@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53069,152019622.0,Wednesday,No,2015-03-11T12:25:00.000,Hazardous,"[-71.117875, 42.291441]",Point,Hazardous,3,MAJOR,0,E13,Day,No,HYDE PARK AV,Other,Other,759556.6432,,2931460.5039999997,2015
+89214,152019774.0,Wednesday,No,2015-03-11T08:00:00.000,Hazardous,"[-71.066375, 42.360716]",Point,Hazardous,3,PROP,0,A1,Day,No,IRVING ST,Other,Other,773362.3108,,2956772.1160000004,2015
+154298,152019701.0,Wednesday,No,2015-03-11T15:50:00.000,Hazardous,"[-71.071045, 42.359451]",Point,Hazardous,3,IVPREM,0,A1,Day,No,REVERE ST,Other,Unarmed,772102.4826,CHARLES ST,2956304.7430000002,2015
+164803,152019532.0,Wednesday,No,2015-03-11T05:10:00.000,Hazardous,"[-71.118685, 42.275481]",Point,Hazardous,3,FIRE,0,E18,Last,No,CLARE AV,Other,Other,759363.4865,,2925643.4639999997,2015
+260492,152019578.0,Wednesday,No,2015-03-11T11:00:00.000,Hazardous,"[0, 0]",Point,Hazardous,3,REQP,0,C6,Day,No,W BROADWAY,Other,Unarmed,,,,2015

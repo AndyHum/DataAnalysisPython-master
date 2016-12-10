@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6715,142043995.0,Wednesday,No,2014-10-29T21:51:00.000,MedAssist,"[-71.06281, 42.342461]",Point,MedAssist,10,POISON,0,D4,First,No,ALBANY ST,Part three,Unarmed,774359.9099,,2950124.5689999997,2014
+26217,142043895.0,Wednesday,No,2014-10-29T15:45:00.000,MedAssist,"[-71.082725, 42.338011]",Point,MedAssist,10,CARDIA,0,D4,Day,No,TREMONT ST,Part three,Unarmed,768983.9229,,2948475.94,2014
+35430,142043744.0,Wednesday,No,2014-10-29T07:42:00.000,MedAssist,"[-71.040645, 42.290121]",Point,MedAssist,10,CARDIA,0,C11,Day,No,PORT NORFOLK ST,Part three,Unarmed,780454.817,,2931082.55,2014
+43613,142043877.0,Wednesday,No,2014-10-29T13:47:00.000,MedAssist,"[-71.05932, 42.354551]",Point,MedAssist,10,IVPER,0,A1,Day,No,SUMMER ST,Part three,Unarmed,775280.6508,ARCH ST,2954535.244,2014
+95638,142043936.0,Wednesday,No,2014-10-29T17:36:00.000,MedAssist,"[-71.090755, 42.269537]",Point,MedAssist,10,CARDIA,0,B3,First,No,RIVER ST,Part three,Unarmed,766932.4073,,2923512.3660000004,2014
+108343,142043697.0,Wednesday,No,2014-10-29T00:06:00.000,MedAssist,"[-71.10549, 42.322646]",Point,MedAssist,10,REQEP,0,E13,Last,No,CENTRE ST,Part three,Unarmed,762854.9768,,2942847.3680000002,2014
+111778,142043878.0,Wednesday,No,2014-10-29T15:15:00.000,MedAssist,"[-71.07271, 42.290416]",Point,MedAssist,10,INVEST,0,B3,Day,No,TALBOT AV,Part three,Unarmed,771778.5062,,2931144.96,2014
+131093,142043963.0,Wednesday,No,2014-10-29T20:15:00.000,MedAssist,"[-71.119079, 42.351603]",Point,MedAssist,10,POISON,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,759132.7976,,2953383.027,2014
+133146,142043709.0,Wednesday,No,2014-10-29T03:00:00.000,MedAssist,"[-71.036845, 42.371111]",Point,MedAssist,10,AB,0,A7,Last,No,GOVE ST,Part three,Unarmed,781322.7155,,2960602.211,2014
+157490,142043923.0,Wednesday,No,2014-10-29T14:43:00.000,MedAssist,"[-71.12088, 42.351821]",Point,MedAssist,10,INJOFF,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2014
+218525,142044010.0,Wednesday,No,2014-10-29T19:52:00.000,MedAssist,"[-71.07442, 42.341701]",Point,MedAssist,10,INJOFF,0,D4,First,No,AGUADILLA ST,Part three,Unarmed,771222.5871,,2949831.736,2014
+262607,142043944.0,Wednesday,No,2014-10-29T15:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,10,MVA,0,A1,Day,No,SUMNER TR,Part three,Other,,,,2014
+264985,142043897.0,Wednesday,No,2014-10-29T14:43:00.000,MedAssist,"[0, 0]",Point,MedAssist,10,INVEST,0,C6,Day,No,W 7TH ST,Part three,Unarmed,,DALESSIO CT,,2014

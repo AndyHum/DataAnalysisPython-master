@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23855,130515413.0,Thursday,No,2013-08-15T09:00:00.000,InvProp,"[-71.10074, 42.313266]",Point,InvProp,8,LARCRT,575,E13,Day,No,WASHINGTON ST,Part three,Unarmed,764155.5198,,2939435.1139999996,2013
+128694,130514966.0,Thursday,No,2013-08-15T22:00:00.000,InvProp,"[-71.077675, 42.291891]",Point,InvProp,8,VANRPT,439,B3,First,No,TALBOT AV,Part three,Other,770432.4774,,2931675.7810000004,2013
+158411,130512663.0,Thursday,No,2013-08-15T10:30:00.000,InvProp,"[-71.08087, 42.328491]",Point,InvProp,8,IVLIC ,281,B2,Day,No,DUDLEY ST,Part three,Unarmed,769502.4961,GREENVILLE ST,2945009.1410000003,2013
+190420,130514226.0,Thursday,No,2013-08-15T22:32:00.000,InvProp,"[-71.046693, 42.332349]",Point,InvProp,8,SHOTS ,229,C6,First,No,THOMAS PARK,Part three,Other,778736.5205,,2946462.358,2013

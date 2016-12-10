@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47242,,Tuesday,No,2015-07-14T00:00:00.000,Robbery,"[-71.046654, 42.336112]",Point,03xx,7,ALARM,213,C6,,No,W BROADWAY,Part One,None,778740.0,,2950000.0,2015
+53304,,Tuesday,No,2015-07-14T22:20:00.000,Robbery,"[0, 0]",Point,03xx,7,FIGHT,268,B2,,No,EUSTIS ST,Part One,Other,,,,2015
+66541,,Tuesday,No,2015-07-14T00:00:00.000,Robbery,"[-71.110419, 42.332962]",Point,03xx,7,ARMROB,611,B2,,No,ST. ALPHONSUS ST,Part One,Knife/Cutting Instrument,761505.0,,2950000.0,2015
+70124,,Tuesday,No,2015-07-14T00:00:00.000,Robbery,"[-71.117665, 42.274581]",Point,03xx,7,ARMROB,498,E18,,No,NAVARRE ST,Part One,Knife/Cutting Instrument,759641.0,,2930000.0,2015
+206656,,Tuesday,No,2015-07-14T00:00:00.000,Robbery,"[-71.063133, 42.298489]",Point,03xx,7,I00040,358,C11,,No,GENEVA AVE,Part One,None,774355.0,,2930000.0,2015
+258944,,Tuesday,No,2015-07-14T00:00:00.000,Robbery,"[-71.067736, 42.348725]",Point,03xx,7,ARREST,126,A1,,No,FAYETTE ST,Part One,None,773016.0,,2950000.0,2015

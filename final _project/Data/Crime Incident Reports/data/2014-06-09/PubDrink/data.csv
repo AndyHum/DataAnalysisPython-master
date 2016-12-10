@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8271,140364524.0,Monday,No,2014-06-09T18:15:00.000,PubDrink,"[-71.08337, 42.337666]",Point,PubDrink,6,IVPER ,274,D4,First,No,TREMONT ST,Part Two,Unarmed,768810.1519,,2948349.363,2014
+172735,140364680.0,Monday,No,2014-06-09T19:21:00.000,PubDrink,"[-71.081549, 42.319686]",Point,PubDrink,6,SSTOP ,311,B2,First,No,WARREN ST,Part Two,Unarmed,769334.4655,,2941799.5510000004,2014
+186160,140363692.0,Monday,No,2014-06-09T13:15:00.000,PubDrink,"[-71.08135, 42.332389]",Point,PubDrink,6,IVPER ,274,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,769365.5688,,2946429.0289999996,2014

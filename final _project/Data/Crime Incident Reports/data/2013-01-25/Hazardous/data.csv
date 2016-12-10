@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72856,130052506.0,Friday,No,2013-01-25T22:57:00.000,Hazardous,"[-71.075605, 42.334536]",Point,Hazardous,1,REQP  ,271,D4,First,No,HARRISON AV,Part Three,Unarmed,770915.2156,,2947219.085,2013
+84515,130051014.0,Friday,No,2013-01-25T10:00:00.000,Hazardous,"[-71.10341, 42.350601]",Point,Hazardous,1,IVPREM,599,D4,Day,No,BAY STATE RD,Part Three,Unarmed,763370.1054,GRANBY ST,2953037.295,2013
+111776,130052021.0,Friday,No,2013-01-25T18:31:00.000,Hazardous,"[-71.150743, 42.337862]",Point,Hazardous,1,REQP  ,789,D14,First,No,CHISWICK RD,Part Three,Unarmed,750594.4735,,2948338.913,2013
+158377,130050674.0,Friday,No,2013-01-25T05:29:00.000,Hazardous,"[-71.124881, 42.277114]",Point,Hazardous,1,REQP  ,555,E18,Last,No,POPLAR ST,Part Three,Unarmed,757683.9675,,2926230.893,2013

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159,152033820.0,Saturday,No,2015-04-25T21:48:00.000,DEATH INVESTIGATION,"[0, 0]",Point,01INV,4,MVA,0,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,,SHIRLEY ST,,2015
+146750,152033899.0,Saturday,No,2015-04-25T22:00:00.000,DEATH INVESTIGATION,"[-71.038395, 42.379261]",Point,01INV,4,CARDIA,0,A7,First,No,MARION PL,Part three,Unarmed,780887.7977,,2963569.965,2015

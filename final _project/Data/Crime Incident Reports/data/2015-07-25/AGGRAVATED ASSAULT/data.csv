@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6645,,Saturday,No,2015-07-25T11:32:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PKNIFE,333,C11,,No,QUINCY ST,Part One,Knife/Cutting Instrument,,,,2015
+49659,,Saturday,No,2015-07-25T00:00:00.000,Aggravated Assault,"[-71.062567, 42.306659]",Point,04xx,7,PKNIFE,340,C11,,No,FOX ST,Part One,Knife/Cutting Instrument,774492.0,,2940000.0,2015
+70722,,Saturday,No,2015-07-25T00:00:00.000,Aggravated Assault,"[-71.04823, 42.332084]",Point,04xx,7,BE,219,C6,,No,GATES ST,Part One,Other,778321.0,,2950000.0,2015
+197408,,Saturday,No,2015-07-25T00:00:00.000,Aggravated Assault,"[-71.089093, 42.311277]",Point,04xx,7,PSHOT,318,B2,,Yes,HOMESTEAD ST,Part One,Firearm,767309.0,,2940000.0,2015
+214411,,Saturday,No,2015-07-25T00:00:00.000,Aggravated Assault,"[-71.080646, 42.329374]",Point,04xx,7,STAB,904,B2,,No,BETHUNE WAY,Part One,Knife/Cutting Instrument,769561.0,,2950000.0,2015
+257382,,Saturday,No,2015-07-25T00:00:00.000,Aggravated Assault,"[-71.106299, 42.30768]",Point,04xx,7,AB,570,E13,,No,WASHINGTON ST,Part One,Knife/Cutting Instrument,762661.0,,2940000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112659,140184108.0,Wednesday,No,2014-03-26T23:15:00.000,DISORDERLY,"[-71.05321, 42.327191]",Point,24xx,3,ARREST,914,C6,First,No,LOGAN ST,Part Two,Unarmed,776984.3679,,2944573.365,2014
+143851,140182012.0,Wednesday,No,2014-03-26T01:00:00.000,DISORDERLY,"[-71.05294, 42.359431]",Point,24xx,3,ARREST,101,A1,Last,No,STATE ST,Part Two,Unarmed,776995.7993,,2956322.582,2014
+198653,140182234.0,Wednesday,No,2014-03-26T06:15:00.000,DISORDERLY,"[-71.0604, 42.355356]",Point,24xx,3,REMOVE,105,A1,Last,No,SUMMER ST,Part Two,Unarmed,774987.2219,,2954827.095,2014

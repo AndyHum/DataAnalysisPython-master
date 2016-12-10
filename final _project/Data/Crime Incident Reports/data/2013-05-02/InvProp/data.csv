@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50065,130258609.0,Thursday,No,2013-05-02T08:00:00.000,InvProp,"[-71.07524, 42.350651]",Point,InvProp,5,IVPREM,134,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770984.6601,CLARENDON ST,2953092.1780000003,2013
+61646,130258491.0,Thursday,No,2013-05-02T04:02:00.000,InvProp,"[0, 0]",Point,InvProp,5,SHOTS ,304,B2,Last,No,NOTRE DAME ST,Part Three,Unarmed,,,,2013
+159518,130260011.0,Thursday,No,2013-05-02T18:11:00.000,InvProp,"[-71.089151, 42.311211]",Point,InvProp,5,MISCRP,318,B2,First,No,HOMESTEAD ST,Part Three,Unarmed,767293.447,,2938701.003,2013
+160766,130260597.0,Thursday,No,2013-05-02T23:45:00.000,InvProp,"[-71.12485, 42.351824]",Point,InvProp,5,FDWEAP,796,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,757572.4943,,2953456.4669999997,2013
+196596,130258471.0,Thursday,No,2013-05-02T03:06:00.000,InvProp,"[-71.13022, 42.354111]",Point,InvProp,5,IVPREM,800,D14,Last,No,ASHFORD ST,Part three,Unarmed,756117.5257,LINDEN ST,2954283.853,2013
+205943,130262744.0,Thursday,No,2013-05-02T20:00:00.000,InvProp,"[-71.054475, 42.363816]",Point,InvProp,5,INVEST,78,A1,First,No,HANOVER ST,Part Three,Unarmed,776572.5846,,2957918.3910000003,2013

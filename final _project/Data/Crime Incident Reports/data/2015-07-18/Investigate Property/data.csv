@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6362,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.066708, 42.356784]",Point,InvProp,7,IVPREM,119,A1,,No,BEACON ST,Part Three,None,773279.0,,2960000.0,2015
+15497,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.053883, 42.31111]",Point,InvProp,7,SUSOBJ,254,C11,,No,S SYDNEY ST,Part Three,None,776833.0,,2940000.0,2015
+70192,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.094733, 42.284647]",Point,InvProp,7,ALARM,467,B3,,No,WELLINGTON HILL ST,Part Three,None,765830.0,,2930000.0,2015
+97875,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.120424, 42.28336]",Point,InvProp,7,ABAN,561,E5,,No,ROWE ST,Part Three,None,758880.0,,2930000.0,2015
+98684,,Saturday,No,2015-07-18T21:10:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD19,628,D4,,No,YAWKEY WAY,Part Three,None,,,,2015
+108220,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.06171, 42.374908]",Point,InvProp,7,IVPREM,57,A15,,No,MONUMENT AVE,Part Three,None,774596.0,,2960000.0,2015
+133042,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.150499, 42.349056]",Point,InvProp,7,PROP,778,D14,,No,WASHINGTON ST,Part Three,None,750644.0,,2950000.0,2015
+137084,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.037337, 42.332678]",Point,InvProp,7,SHOTS,230,C6,,No,K ST,Part Three,None,781266.0,,2950000.0,2015
+144366,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.074746, 42.343387]",Point,InvProp,7,BE,153,D4,,No,MONTGOMERY ST,Part Three,None,771131.0,,2950000.0,2015
+163702,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.077026, 42.327426]",Point,InvProp,7,ALARM,267,B2,,No,DUDLEY ST,Part Three,None,770544.0,,2940000.0,2015
+186020,,Saturday,No,2015-07-18T00:00:00.000,Investigate Property,"[-71.150217, 42.347446]",Point,InvProp,7,INVEST,777,D14,,No,SHEPARD ST,Part Three,None,750722.0,,2950000.0,2015

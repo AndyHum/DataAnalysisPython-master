@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97616,142045533.0,Wednesday,No,2014-10-29T17:00:00.000,PropLost,"[-71.08376, 42.337056]",Point,PropLost,10,PROP,0,D4,First,No,HAMMOND ST,Part three,Unarmed,768705.7942,,2948126.5530000003,2014
+99610,142044522.0,Wednesday,No,2014-10-29T09:00:00.000,PropLost,"[-71.059287, 42.313485]",Point,PropLost,10,PROP,0,C11,Day,No,PLEASANT ST,Part three,Unarmed,775366.7701,,2939569.9639999997,2014
+149566,142044631.0,Wednesday,No,2014-10-29T15:00:00.000,PropLost,"[-71.058756, 42.36273]",Point,PropLost,10,PROP,0,A1,Day,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2014
+210039,142044070.0,Wednesday,No,2014-10-29T23:00:00.000,PropLost,"[-71.0639, 42.350956]",Point,PropLost,10,PROP,0,A1,First,No,STUART ST,Part three,Unarmed,774049.4062,,2953218.795,2014
+261315,142045468.0,Wednesday,No,2014-10-29T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,INJOFF,0,A1,Day,No,SUMNER TR,Part three,Other,,,,2014
+264669,142043778.0,Wednesday,No,2014-10-29T10:44:00.000,PropLost,"[0, 0]",Point,PropLost,10,LARCEN,0,B3,Day,No,RIVER ST,Part three,Unarmed,,,,2014

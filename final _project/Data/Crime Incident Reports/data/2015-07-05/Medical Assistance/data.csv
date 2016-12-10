@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8405,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.059709, 42.297555]",Point,MedAssist,7,INJOFF,355,C11,,No,GIBSON ST,Part Three,None,775283.0,,2930000.0,2015
+18440,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.078863, 42.326358]",Point,MedAssist,7,EDP,267,B2,,No,MOUNT PLEASANT AVE,Part Three,None,770049.0,,2940000.0,2015
+56022,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.142981, 42.345317]",Point,MedAssist,7,I00015,938,D14,,No,FIDELIS WAY,Part Three,None,752682.0,,2950000.0,2015
+56692,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.075443, 42.315315]",Point,MedAssist,7,UNK,325,B2,,No,HOWARD AVE,Part Three,None,770994.0,,2940000.0,2015
+89110,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.059683, 42.296485]",Point,MedAssist,7,UNCONS,355,C11,,No,PARKMAN ST,Part Three,None,775292.0,,2930000.0,2015
+116338,,Sunday,No,2015-07-05T05:47:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,UNCONS,175,B2,,No,SOUTHAMPTON ST,Part Three,None,,,,2015
+132433,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.112588, 42.257154]",Point,MedAssist,7,UNCONS,511,E18,,No,METROPOLITAN AVE,Part Three,None,761044.0,,2920000.0,2015
+135042,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.08029, 42.333839]",Point,MedAssist,7,MISC,903,D4,,No,WASHINGTON ST,Part Three,None,769650.0,,2950000.0,2015
+137629,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.101018, 42.275999]",Point,MedAssist,7,BE,470,B3,,No,COLORADO ST,Part Three,None,764144.0,,2930000.0,2015
+138993,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.074403, 42.324355]",Point,MedAssist,7,POISON,181,B2,,No,DUDLEY ST,Part Three,None,771259.0,,2940000.0,2015
+154027,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.083116, 42.303557]",Point,MedAssist,7,UNCONS,458,B3,,No,COLUMBIA RD,Part Three,None,768939.0,,2940000.0,2015
+199697,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.079648, 42.311419]",Point,MedAssist,7,UNKEMS,326,B2,,No,INTERVALE ST,Part Three,None,769864.0,,2940000.0,2015
+208340,,Sunday,No,2015-07-05T00:00:00.000,Medical Assistance,"[-71.074848, 42.310129]",Point,MedAssist,7,IVPER,328,B2,,No,MAGNOLIA ST,Part Three,None,771164.0,,2940000.0,2015

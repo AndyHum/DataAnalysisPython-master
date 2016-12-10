@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19057,140284714.0,Friday,No,2014-05-09T02:39:00.000,DISORDERLY,"[-71.08778, 42.345531]",Point,24xx,5,PARTY ,620,D4,Last,No,EDGERLY RD,Part Two,Unarmed,767603.9883,,2951209.722,2014
+104964,140286937.0,Friday,No,2014-05-09T22:45:00.000,DISORDERLY,"[-71.063707, 42.319915]",Point,24xx,5,ARREST,237,B2,First,No,CAWFIELD ST,Part Two,Unarmed,774159.445,,2941907.062,2014
+199679,140286481.0,Friday,No,2014-05-09T18:56:00.000,DISORDERLY,"[-71.08284, 42.309116]",Point,24xx,5,GANG  ,329,B2,First,No,BLUE HILL AV,Part Two,Firearm,769004.3297,,2937945.957,2014
+208677,140286448.0,Friday,No,2014-05-09T18:43:00.000,DISORDERLY,"[-71.09163, 42.316981]",Point,24xx,5,ARREST,0,B2,First,No,CRAWFORD ST,Part Two,Unarmed,766613.0216,HOLWORTHY ST,2940800.586,2014

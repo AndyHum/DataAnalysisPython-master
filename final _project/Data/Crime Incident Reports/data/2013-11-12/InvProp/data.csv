@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32355,130721721.0,Tuesday,No,2013-11-12T14:00:00.000,InvProp,"[-71.0327, 42.377236]",Point,InvProp,11,LSTPRP,20,A7,Day,No,BENNINGTON ST,Part three,Unarmed,782430.5548,,2962840.394,2013
+67433,130718545.0,Tuesday,No,2013-11-12T03:25:00.000,InvProp,"[-71.047162, 42.280687]",Point,InvProp,11,UNK   ,386,C11,Last,No,HALLET ST,Part three,Unarmed,778709.5751,,2927635.23,2013
+101794,130718980.0,Tuesday,No,2013-11-12T10:15:00.000,InvProp,"[-71.100758, 42.335565]",Point,InvProp,11,IVPER ,602,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,764112.391,,2947560.9480000003,2013
+118017,130721417.0,Tuesday,No,2013-11-12T20:00:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,11,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2013
+130058,130718335.0,Tuesday,No,2013-11-12T00:01:00.000,InvProp,"[-71.061205, 42.304681]",Point,InvProp,11,SHOTS ,346,C11,Last,No,ADAMS ST,Part three,Firearm,774864.6395,,2936359.1380000003,2013
+207322,130718924.0,Tuesday,No,2013-11-12T09:40:00.000,InvProp,"[-71.05551, 42.364446]",Point,InvProp,11,REQP  ,84,A1,Day,No,SALEM ST,Part three,Unarmed,776291.676,,2958146.5160000003,2013
+253570,130719294.0,Tuesday,No,2013-11-12T13:48:00.000,InvProp,"[-71.094779, 42.328859]",Point,InvProp,11,RECMVI,291,B2,Day,No,CENTRE ST,Part three,Unarmed,765740.5665,,2945125.119,2013
+254209,130721416.0,Tuesday,No,2013-11-12T19:21:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,11,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2013

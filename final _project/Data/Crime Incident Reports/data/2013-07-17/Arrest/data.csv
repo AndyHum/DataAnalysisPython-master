@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+144545,130442478.0,Wednesday,No,2013-07-17T13:08:00.000,Arrest,"[-71.075585, 42.340456]",Point,Arrest,7,IVPER ,168,D4,Day,No,W NEWTON ST,Part three,Unarmed,770909.8909,,2949376.4669999997,2013
+229194,130442764.0,Wednesday,No,2013-07-17T15:20:00.000,Arrest,"[-71.08803, 42.294881]",Point,Arrest,7,ARREST,440,B3,Day,No,TALBOT AV,Part three,Unarmed,767625.554,BLUE HILL AV,2932751.6789999995,2013
+247656,130442539.0,Wednesday,No,2013-07-17T13:35:00.000,Arrest,"[-71.10692, 42.335461]",Point,Arrest,7,IVPER ,593,B2,Day,No,FRANCIS ST,Part three,Unarmed,762446.7411,,2947515.599,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12566,130564060.0,Thursday,No,2013-09-05T16:15:00.000,DISORDERLY,"[-71.07502, 42.332376]",Point,24xx,9,CD28  ,200,D4,First,No,ALBANY ST,Part Two,Unarmed,771077.0854,,2946432.707,2013
+41327,130562503.0,Thursday,No,2013-09-05T01:06:00.000,DISORDERLY,"[-71.03974, 42.369131]",Point,24xx,9,FIGHT ,29,A7,Last,No,MAVERICK SQ,Part Two,Unarmed,780544.3158,,2959876.425,2013
+196135,130563257.0,Thursday,No,2013-09-05T11:10:00.000,DISORDERLY,"[-71.056315, 42.357256]",Point,24xx,9,ARREST,99,A1,Day,No,POST OFFICE SQ,Part Two,Unarmed,776087.7535,,2955525.208,2013

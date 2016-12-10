@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78306,130665441.0,Friday,No,2013-10-18T19:49:00.000,PhoneCalls,"[-71.06123, 42.318241]",Point,PhoneCalls,10,HARPT ,242,C11,First,No,WILLIS ST,Part three,Unarmed,774832.4575,,2941300.58,2013
+114934,130666035.0,Friday,No,2013-10-18T21:21:00.000,PhoneCalls,"[-71.083365, 42.331551]",Point,PhoneCalls,10,HARPT ,276,B2,First,No,RUGGLES ST,Part three,Unarmed,768822.3904,,2946120.954,2013
+170388,130670289.0,Friday,No,2013-10-18T06:00:00.000,PhoneCalls,"[-71.118005, 42.244221]",Point,PhoneCalls,10,THREAT,940,E18,Last,No,BOW ST,Part three,Unarmed,759598.3147,,2914252.558,2013
+179410,130667218.0,Friday,No,2013-10-18T08:28:00.000,PhoneCalls,"[-71.126886, 42.237239]",Point,PhoneCalls,10,HARPT ,525,E18,Day,No,SIERRA RD,Part three,Unarmed,757204.8828,,2911697.675,2013

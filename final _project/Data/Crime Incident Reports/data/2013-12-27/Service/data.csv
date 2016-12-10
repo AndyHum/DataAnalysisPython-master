@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3185,130812906.0,Friday,No,2013-12-27T13:14:00.000,Service,"[-71.059735, 42.297541]",Point,Service,12,IVPER ,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+36343,130813880.0,Friday,No,2013-12-27T22:47:00.000,Service,"[-71.08599, 42.300556]",Point,Service,12,IVPER ,457,B3,First,No,BLUE HILL AV,Part three,Unarmed,768167.4344,,2934822.4069999997,2013
+111177,130812054.0,Friday,No,2013-12-27T01:00:00.000,Service,"[-71.09867, 42.318526]",Point,Service,12,ARREST,303,E13,Last,No,BRAGDON ST,Part three,Unarmed,764706.3744,,2941354.5739999996,2013
+142880,130812397.0,Friday,No,2013-12-27T08:35:00.000,Service,"[-71.063675, 42.352301]",Point,Service,12,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+142956,130813784.0,Friday,No,2013-12-27T21:35:00.000,Service,"[-71.059735, 42.297541]",Point,Service,12,IVPER ,257,C11,First,No,GIBSON ST,Other,Unarmed,775275.7115,,2933759.268,2013
+152720,130812569.0,Friday,No,2013-12-27T10:15:00.000,Service,"[-71.03802, 42.337906]",Point,Service,12,IVPER ,234,C6,Day,No,BAY STATE PL,Other,Unarmed,781070.7432,,2948499.972,2013

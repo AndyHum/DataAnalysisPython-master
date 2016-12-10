@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60398,140275796.0,Monday,No,2014-05-05T18:00:00.000,Ballist,"[-71.06392, 42.301046]",Point,Ballist,5,INVEST,352,C11,First,No,DITSON ST,Part Two,Unarmed,774136.9874,,2935030.722,2014
+90517,140275965.0,Monday,No,2014-05-05T19:00:00.000,Ballist,"[-71.051615, 42.331601]",Point,Ballist,5,IVPREM,915,C6,First,No,BURKE ST,Part Two,Unarmed,777407.2233,,2946182.707,2014
+154244,140274908.0,Monday,No,2014-05-05T12:35:00.000,Ballist,"[-71.075902, 42.328515]",Point,Ballist,5,FDPROP,180,B2,Day,No,DUBOIS ST,Part Two,Unarmed,770845.6928,,2945024.3,2014

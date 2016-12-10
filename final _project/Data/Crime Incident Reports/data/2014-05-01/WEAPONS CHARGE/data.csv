@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110390,140265127.0,Thursday,No,2014-05-01T11:03:00.000,WEAPONS CHARGE,"[-71.05899, 42.356791]",Point,15xx,5,THREAT,103,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,775365.6264,,2955352.003,2014
+150605,140266303.0,Thursday,No,2014-05-01T18:59:00.000,WEAPONS CHARGE,"[-71.091115, 42.317901]",Point,15xx,5,CD11  ,306,B2,First,No,WALNUT AV,Part Two,Firearm,766750.6974,,2941136.517,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35702,120478227.0,Tuesday,No,2012-07-31T08:00:00.000,PropLost,"[-71.05776, 42.378251]",Point,PropLost,7,LSTPRP,900,A15,Day,No,MCNULTY CT,Part Three,Unarmed,775657.5279999999,,2963174.1780000003,2012
+55510,120473549.0,Tuesday,No,2012-07-31T18:40:00.000,PropLost,"[-71.05724, 42.360116]",Point,PropLost,7,LSTPRP,99,A1,First,No,CONGRESS ST,Part Three,Unarmed,775832.3331,,2956566.147,2012
+127201,120477903.0,Tuesday,No,2012-07-31T23:00:00.000,PropLost,"[-71.07927, 42.336541]",Point,PropLost,7,LARCRT,273,D4,First,No,SHAWMUT AV,Part Three,Unarmed,769920.673,CAMDEN ST,2947944.833,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30880,120549583.0,Sunday,No,2012-09-02T00:30:00.000,DISORDERLY,"[-71.065995, 42.319861]",Point,24xx,9,DISTRB,184,B2,Last,No,HUMPHREYS ST,Part Two,Unarmed,773540.7672,,2941884.341,2012
+120238,120547421.0,Sunday,No,2012-09-02T00:20:00.000,DISORDERLY,"[-71.099725, 42.328071]",Point,24xx,9,PARTY ,586,B2,Last,No,PARKER HILL AV,Part Two,Unarmed,764404.729,,2944831.5960000004,2012
+131730,120547554.0,Sunday,No,2012-09-02T01:20:00.000,DISORDERLY,"[-71.100988, 42.332045]",Point,24xx,9,ARREST,586,B2,Last,No,PONTIAC ST,Part Two,Unarmed,764056.3176,,2946278.0439999998,2012
+236352,120547751.0,Sunday,No,2012-09-02T03:00:00.000,DISORDERLY,"[-71.008874, 42.39214]",Point,24xx,9,ARREST,942,A7,Last,No,FAYWOOD AV,Part Two,Unarmed,788836.8524,,2968307.764,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13991,130060415.0,Tuesday,No,2013-01-29T20:10:00.000,PersLoc,"[-71.077707, 42.28625]",Point,PersLoc,1,MISPER,435,B3,First,No,EDSON ST,Part Three,Unarmed,770433.7566,,2929619.983,2013
+140139,130066391.0,Tuesday,No,2013-01-29T08:00:00.000,PersLoc,"[-71.07825, 42.335516]",Point,PersLoc,1,MISPER,273,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,770198.2968,,2947572.668,2013
+161830,130060614.0,Tuesday,No,2013-01-29T20:50:00.000,PersLoc,"[-71.104747, 42.303975]",Point,PersLoc,1,NIDV  ,570,E13,First,No,WILLIAMS AV,Part Three,Unarmed,763087.2917,,2936044.1989999996,2013

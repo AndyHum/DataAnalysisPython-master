@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11657,130531980.0,Thursday,No,2013-08-22T02:00:00.000,PersLoc,"[-71.031875, 42.382581]",Point,PersLoc,8,MISPER,16,A7,Last,No,CONDOR ST,Other,Unarmed,782642.7781,,2964789.4460000005,2013
+173794,130531275.0,Thursday,No,2013-08-22T22:21:00.000,PersLoc,"[-71.034765, 42.381976]",Point,PersLoc,8,MISPER,25,A7,First,No,FALCON ST,Other,Unarmed,781863.1806,,2964564.6980000003,2013
+174717,130530518.0,Thursday,No,2013-08-22T16:45:00.000,PersLoc,"[-71.131009, 42.27649]",Point,PersLoc,8,MISPER,551,E5,First,No,CORNELL ST,Other,Unarmed,756026.5856,,2925996.39,2013
+240014,130530919.0,Thursday,No,2013-08-22T19:45:00.000,PersLoc,"[-71.08586, 42.295476]",Point,PersLoc,8,ALARMI,441,B3,First,No,HARVARD ST,Other,Unarmed,768211.5908,,2932971.349,2013
+250167,130531197.0,Thursday,No,2013-08-22T21:00:00.000,PersLoc,"[-71.091095, 42.320611]",Point,PersLoc,8,MISPER,305,B2,First,No,KENSINGTON ST,Other,Unarmed,766751.3719,,2942124.113,2013

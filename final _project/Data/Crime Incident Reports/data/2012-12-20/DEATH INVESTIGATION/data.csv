@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+153771,120795733.0,Thursday,No,2012-12-20T11:41:00.000,DEATH INVESTIGATION,"[-71.058496, 42.355529]",Point,01INV,12,CARST ,105,A1,Day,No,FRANKLIN ST,Part Three,Unarmed,775501.3361,,2954892.767,2012
+160734,120796394.0,Thursday,No,2012-12-20T16:30:00.000,DEATH INVESTIGATION,"[-71.10722, 42.338891]",Point,01INV,12,MVAINJ,614,B2,First,No,LONGWOOD AV,Part Three,Unarmed,762359.8722,BROOKLINE AV,2948765.1810000003,2012
+258141,120795519.0,Thursday,No,2012-12-20T03:00:00.000,DEATH INVESTIGATION,"[-71.03386, 42.379111]",Point,01INV,12,CARST ,824,A7,Last,No,LEXINGTON ST,Part Three,Unarmed,782113.3934,,2963521.9669999997,2012

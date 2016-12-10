@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2083,152043964.0,Thursday,No,2015-05-28T06:45:00.000,PropDam,"[0, 0]",Point,PropDam,5,VAND,0,C6,Last,No,MT VERNON ST,Part three,Other,,,,2015
+3569,152044101.0,Thursday,No,2015-05-28T19:45:00.000,PropDam,"[0, 0]",Point,PropDam,5,PROP,0,E5,First,No,BROOKWAY,Part three,Unarmed,,,,2015
+200078,152043781.0,Thursday,No,2015-05-28T04:51:00.000,PropDam,"[-71.055735, 42.326861]",Point,PropDam,5,IVPREM,0,C6,Last,No,KEMP ST,Part three,Other,776302.2091,,2944449.541,2015

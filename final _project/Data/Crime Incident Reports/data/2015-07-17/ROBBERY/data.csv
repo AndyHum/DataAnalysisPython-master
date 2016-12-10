@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11944,,Friday,No,2015-07-17T00:00:00.000,Robbery,"[-71.052318, 42.328092]",Point,03xx,7,I00040,0,C6,,No,COLUMBIA RD,Part One,None,777224.0,,2940000.0,2015
+36876,,Friday,No,2015-07-17T00:00:00.000,Robbery,"[-71.063693, 42.35354]",Point,03xx,7,I00040,111,A1,,No,MASON ST,Part One,None,774100.0,,2950000.0,2015
+85099,,Friday,No,2015-07-17T00:00:00.000,Robbery,"[-71.059914, 42.301717]",Point,03xx,7,REQEP,352,C11,,No,ADAMS ST,Part One,None,775219.0,,2940000.0,2015
+122799,,Friday,No,2015-07-17T09:23:00.000,Robbery,"[0, 0]",Point,03xx,7,,565,E13,,No,,Part One,None,,,,2015
+224696,,Friday,No,2015-07-17T00:00:00.000,Robbery,"[-71.037229, 42.380118]",Point,03xx,7,CARJAK,24,A7,,No,MONMOUTH ST,Part One,Knife/Cutting Instrument,781201.0,,2960000.0,2015
+236859,,Friday,No,2015-07-17T00:00:00.000,Robbery,"[-71.056248, 42.295093]",Point,03xx,7,ALARM,364,C11,,No,ADAMS ST,Part One,Firearm,776224.0,,2930000.0,2015
+242295,,Friday,No,2015-07-17T00:00:00.000,Robbery,"[-71.10138, 42.330131]",Point,03xx,7,HOMINV,586,B2,,No,HILLSIDE ST,Part One,Other,763954.0,,2950000.0,2015

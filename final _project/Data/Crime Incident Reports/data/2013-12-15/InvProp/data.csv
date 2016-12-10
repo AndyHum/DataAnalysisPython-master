@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10020,130794985.0,Sunday,No,2013-12-15T11:00:00.000,InvProp,"[-71.052465, 42.333151]",Point,InvProp,12,BERPT ,216,C6,Day,No,W 9TH ST,Part three,Other,777174.4275,,2946746.3460000004,2013
+93268,130788504.0,Sunday,No,2013-12-15T07:00:00.000,InvProp,"[-71.11761, 42.256191]",Point,InvProp,12,REQP  ,519,E18,Last,No,WALTER ST,Part three,Unarmed,759685.931,,2918615.23,2013
+144988,130788777.0,Sunday,No,2013-12-15T11:22:00.000,InvProp,"[-71.048347, 42.31996]",Point,InvProp,12,ALARMC,913,C6,Day,No,MT VERNON ST,Part three,Unarmed,778313.0768,,2941944.941,2013
+160990,130788458.0,Sunday,No,2013-12-15T05:47:00.000,InvProp,"[-71.04739, 42.332326]",Point,InvProp,12,BEIP  ,219,C6,Last,No,OLD HARBOR ST,Part three,Other,778548.2233,,2946452.942,2013
+239397,130788513.0,Sunday,No,2013-12-15T07:46:00.000,InvProp,"[-71.071014, 42.303664]",Point,InvProp,12,BEIP  ,337,C11,Day,No,BOWDOIN ST,Part three,Unarmed,772212.9014,,2935974.8819999998,2013
+258166,130789095.0,Sunday,No,2013-12-15T15:05:00.000,InvProp,"[-71.08678, 42.284796]",Point,InvProp,12,IVPER ,429,B3,Day,No,MARDEN AV,Part three,Other,767981.5434,,2929078.1939999997,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96332,130387259.0,Tuesday,No,2013-06-25T11:00:00.000,PropFound,"[-71.04845, 42.309942]",Point,PropFound,6,IVPREM,252,C11,Day,No,GRAMPIAN WY,Part three,Unarmed,778304.5887,,2938294.3219999997,2013
+147183,130391385.0,Tuesday,No,2013-06-25T15:00:00.000,PropFound,"[-71.1032, 42.261326]",Point,PropFound,6,LSTPRP,484,E18,Day,No,HOPEWELL RD,Part three,Unarmed,763578.2142,,2920504.309,2013
+253833,130389105.0,Tuesday,No,2013-06-25T19:10:00.000,PropFound,"[-71.12256, 42.248006]",Point,PropFound,6,LARCRT,518,E18,First,No,GARFIELD AV,Part three,Unarmed,758359.0971,,2915626.546,2013
+262038,130387219.0,Tuesday,No,2013-06-25T06:32:00.000,PropFound,"[0, 0]",Point,PropFound,6,IVPREM,512,E18,Last,No,FAIRMOUNT ST,Part three,Knife,,,,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14693,130056148.0,Sunday,No,2013-01-27T20:03:00.000,PropLost,"[-71.134445, 42.278796]",Point,PropLost,1,TRACK ,552,E5,First,No,CORNELL ST,Part Three,Unarmed,755093.1538,,2926832.8260000004,2013
+24376,130057290.0,Sunday,No,2013-01-27T17:00:00.000,PropLost,"[-71.06537, 42.300926]",Point,PropLost,1,LSTPRP,352,C11,First,No,LEROY ST,Part Three,Unarmed,773744.9518,,2934984.9930000002,2013
+72276,130057650.0,Sunday,No,2013-01-27T09:00:00.000,PropLost,"[-71.102, 42.330656]",Point,PropLost,1,TRACK ,586,B2,Day,No,PONTIAC ST,Part Three,Other,763785.1574,,2945770.738,2013
+129221,130144109.0,Sunday,No,2013-01-27T12:00:00.000,PropLost,"[-71.061365, 42.305081]",Point,PropLost,1,LSTPRP,347,C11,Day,No,ADAMS ST,Part Three,Unarmed,774820.6088,,2936504.6810000003,2013
+179336,130055941.0,Sunday,No,2013-01-27T05:45:00.000,PropLost,"[-71.16779, 42.277226]",Point,PropLost,1,LSTPRP,727,E5,Last,No,GARDNER ST,Part Three,Unarmed,746071.6184,,2926223.784,2013
+186489,130069007.0,Sunday,No,2013-01-27T12:30:00.000,PropLost,"[-71.051876, 42.35661]",Point,PropLost,1,LARCRT,109,A1,Day,No,HIGH ST,Part Three,Unarmed,777288.6819,,2955295.825,2013
+205003,130105627.0,Sunday,No,2013-01-27T12:00:00.000,PropLost,"[-71.074855, 42.351641]",Point,PropLost,1,LSTPRP,134,D4,Day,No,NEWBURY ST,Part Three,Unarmed,771086.9302,,2953453.473,2013

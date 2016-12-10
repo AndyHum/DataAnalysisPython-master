@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52273,130592037.0,Tuesday,No,2013-09-17T08:12:00.000,Hazardous,"[-71.07004, 42.381201]",Point,Hazardous,9,TRAUMA,52,A15,Day,No,ALBION PL,Other,Unarmed,772334.1515,,2964232.2569999998,2013
+198465,130593451.0,Tuesday,No,2013-09-17T18:44:00.000,Hazardous,"[-71.122335, 42.263034]",Point,Hazardous,9,ENVADM,495,E18,First,No,ARLINGTON ST,Other,Unarmed,758395.6295,,2921103.163,2013
+205982,130592354.0,Tuesday,No,2013-09-17T09:01:00.000,Hazardous,"[-71.071975, 42.334581]",Point,Hazardous,9,AOD   ,172,D4,Day,No,ALBANY ST,Other,Unarmed,771896.608,,2947240.389,2013

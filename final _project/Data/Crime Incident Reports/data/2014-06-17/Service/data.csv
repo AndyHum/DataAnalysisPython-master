@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43932,140383485.0,Tuesday,No,2014-06-17T03:55:00.000,Service,"[-71.058885, 42.305581]",Point,Service,6,IVPER ,347,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775490.5175,,2936690.348,2014
+59429,140383629.0,Tuesday,No,2014-06-17T07:30:00.000,Service,"[-71.120705, 42.244871]",Point,Service,6,ARREST,517,E18,Day,No,CHITTICK RD,Part three,Unarmed,758866.4146,,2914486.341,2014
+126209,140383567.0,Tuesday,No,2014-06-17T03:55:00.000,Service,"[-71.058885, 42.305581]",Point,Service,6,IVPER ,355,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775490.5175,,2936690.348,2014
+254317,140383754.0,Tuesday,No,2014-06-17T08:55:00.000,Service,"[-71.062525, 42.355916]",Point,Service,6,ARREST,111,A1,Day,No,TREMONT ST,Part three,Unarmed,774411.8094,,2955028.2169999997,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39007,120513111.0,Friday,No,2012-08-17T21:21:00.000,PersLoc,"[-71.064035, 42.298171]",Point,PersLoc,8,MISPER,358,C11,First,No,MARLOWE ST,Part Three,Unarmed,774111.2325,,2933982.8710000003,2012
+66326,120513223.0,Friday,No,2012-08-17T20:30:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,8,MISPER,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2012
+169838,120513149.0,Friday,No,2012-08-17T09:00:00.000,PersLoc,"[-71.06934, 42.285836]",Point,PersLoc,8,MISPER,400,C11,Day,No,MELLEN ST,Part Three,Unarmed,772698.7442,,2929480.5289999996,2012

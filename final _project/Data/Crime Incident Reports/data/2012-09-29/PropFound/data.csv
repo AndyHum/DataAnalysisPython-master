@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17045,120612792.0,Saturday,No,2012-09-29T10:00:00.000,PropFound,"[-71.09247, 42.277951]",Point,PropFound,9,FDPROP,427,B3,Day,No,WILMORE ST,Part Three,Unarmed,766453.7971,,2926576.373,2012
+155943,120612409.0,Saturday,No,2012-09-29T09:00:00.000,PropFound,"[-71.15336, 42.338161]",Point,PropFound,9,FDPROP,774,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,749886.4928,CHESTNUT HILL AV,2948445.084,2012
+178405,120624293.0,Saturday,No,2012-09-29T14:00:00.000,PropFound,"[-71.060845, 42.355056]",Point,PropFound,9,FDPROP,112,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774867.5053,,2954717.1489999997,2012
+246409,120612103.0,Saturday,No,2012-09-29T03:02:00.000,PropFound,"[-71.0639, 42.350956]",Point,PropFound,9,FDPROP,117,A1,Last,No,STUART ST,Part Three,Unarmed,774049.4062,,2953218.795,2012
+262324,120612079.0,Saturday,No,2012-09-29T02:15:00.000,PropFound,"[0, 0]",Point,PropFound,9,FDPROP,85,A1,Last,No,CAUSEWAY ST,Part Three,Other,,,,2012

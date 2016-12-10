@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7873,,Sunday,No,2015-07-12T00:00:00.000,Auto Theft,"[-71.067032, 42.35764]",Point,07xx,7,IVMV,70,A1,,No,CHESTNUT ST,Part One,None,773190.0,,2960000.0,2015
+92620,,Sunday,No,2015-07-12T00:00:00.000,Auto Theft,"[-71.147115, 42.274573]",Point,07xx,7,IVMV,705,E5,,No,SEARLE RD,Part One,None,751671.0,,2930000.0,2015
+120391,,Sunday,No,2015-07-12T00:30:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,223,C6,,No,E FIRST ST,Part One,None,,,,2015
+155306,,Sunday,No,2015-07-12T00:00:00.000,Auto Theft,"[-71.094052, 42.278825]",Point,07xx,7,,468,B3,,No,HAZLETON ST,Part One,None,766024.0,,2930000.0,2015
+173204,,Sunday,No,2015-07-12T00:00:00.000,Auto Theft,"[-71.083772, 42.305761]",Point,07xx,7,IVMV,330,B2,,No,PASADENA RD,Part One,None,768758.0,,2940000.0,2015
+225344,,Sunday,No,2015-07-12T00:00:00.000,Auto Theft,"[-71.078116, 42.316564]",Point,07xx,7,IVMV,311,B2,,No,BLUE HILL AVE,Part One,None,770269.0,,2940000.0,2015

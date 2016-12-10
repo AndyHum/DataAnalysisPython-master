@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+712,152017954.0,Thursday,No,2015-03-05T06:00:00.000,BENoProp,"[0, 0]",Point,BENoProp,3,BE,0,A1,Last,No,JOY ST,Part One,Unarmed,,,,2015
+9824,152017971.0,Thursday,No,2015-03-05T09:00:00.000,BENoProp,"[-71.07321, 42.292406]",Point,BENoProp,3,IVPREM,0,B3,Day,No,ROSEDALE ST,Part One,Unarmed,771639.5912,,2931869.47,2015
+244275,152017820.0,Thursday,No,2015-03-05T13:41:00.000,BENoProp,"[-71.062825, 42.361341]",Point,BENoProp,3,BE,0,A1,Day,No,BOWDOIN SQ,Part One,Other,774320.5907,,2957004.776,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111800,120502844.0,Monday,No,2012-08-13T15:00:00.000,DEATH INVESTIGATION,"[-71.0672, 42.350816]",Point,01INV,8,TRAUMA,125,A1,Day,No,STUART ST,Part Three,Other,773157.6465,,2953163.233,2012
+211813,120501819.0,Monday,No,2012-08-13T01:27:00.000,DEATH INVESTIGATION,"[-71.050789, 42.330072]",Point,01INV,8,TRAUMA,913,C6,Last,No,COLUMBIA RD,Part Three,Unarmed,777633.4427,,2945626.6289999997,2012
+232852,120501817.0,Monday,No,2012-08-13T01:27:00.000,DEATH INVESTIGATION,"[-71.050789, 42.330072]",Point,01INV,8,MVAINJ,915,C6,Last,No,COLUMBIA RD,Part Three,Unarmed,777633.4427,,2945626.6289999997,2012

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31994,142024575.0,Saturday,No,2014-08-30T20:05:00.000,InvPer,"[-71.05419, 42.278931]",Point,InvPer,8,DROWN,0,C11,First,No,GRANITE AV,Part three,Unarmed,776811.2845,HILL TOP ST,2926985.317,2014
+49570,142024343.0,Saturday,No,2014-08-30T01:49:00.000,InvPer,"[-71.06068, 42.286371]",Point,InvPer,8,REQP,0,C11,Last,No,RUNDEL PARK,Part three,Unarmed,775041.022,,2929687.44,2014
+90956,142024578.0,Saturday,No,2014-08-30T21:00:00.000,InvPer,"[-71.03865, 42.380136]",Point,InvPer,8,PERGUN,0,A7,First,No,MARION ST,Part three,Firearm,780817.1758,,2963888.46,2014
+104151,142024553.0,Saturday,No,2014-08-30T19:16:00.000,InvPer,"[-71.080019, 42.274578]",Point,InvPer,8,MISC,0,B3,First,No,STANDARD ST,Part three,Unarmed,769829.1535,,2925363.5489999996,2014
+108655,142024524.0,Saturday,No,2014-08-30T16:35:00.000,InvPer,"[-71.064475, 42.315686]",Point,InvPer,8,AB,0,C11,First,No,CUSHING AV,Part three,Unarmed,773959.6065,,2940364.998,2014
+137861,142024566.0,Saturday,No,2014-08-30T19:50:00.000,InvPer,"[-71.03853, 42.330581]",Point,InvPer,8,MVA,0,C6,First,No,MARINE RD,Part three,Unarmed,780947.2996,,2945829.874,2014
+151726,142024323.0,Saturday,No,2014-08-30T00:43:00.000,InvPer,"[-71.10438, 42.268031]",Point,InvPer,8,IVPER,0,E18,Last,No,RADCLIFFE RD,Part three,Other,763247.4633,,2922946.215,2014
+157520,142024503.0,Saturday,No,2014-08-30T16:00:00.000,InvPer,"[-71.147876, 42.339513]",Point,InvPer,8,IVPER,0,D14,First,No,SELKIRK RD,Part three,Unarmed,751367.0244,,2948943.689,2014
+227623,142024565.0,Saturday,No,2014-08-30T19:42:00.000,InvPer,"[-71.141585, 42.241891]",Point,InvPer,8,IVMV,0,E18,First,No,DANNY RD,Part three,Unarmed,753217.4508,SANFORD ST,2913375.945,2014

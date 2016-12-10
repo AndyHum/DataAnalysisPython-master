@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92249,142008711.0,Saturday,No,2014-07-12T05:00:00.000,PropLost,"[-71.06262, 42.364691]",Point,PropLost,7,PROP,0,A1,Last,No,CAUSEWAY ST,Part three,Unarmed,774369.7347,,2958225.8660000004,2014
+111628,142008447.0,Saturday,No,2014-07-12T11:00:00.000,PropLost,"[-71.071635, 42.286426]",Point,PropLost,7,PROP,0,B3,Day,No,DUNBAR AV,Part three,Unarmed,772076.6677,,2929692.4060000004,2014
+145129,142008698.0,Saturday,No,2014-07-12T18:00:00.000,PropLost,"[-71.150915, 42.348981]",Point,PropLost,7,PROP,0,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5376,130049020.0,Thursday,No,2013-01-24T11:45:00.000,Service,"[-71.06939, 42.339506]",Point,Service,1,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+7301,130049126.0,Thursday,No,2013-01-24T13:00:00.000,Service,"[-71.08696, 42.281611]",Point,Service,1,ARREST,428,B3,Day,No,MORTON ST,Part Three,Unarmed,767938.4574,NORFOLK ST,2927917.2989999996,2013
+45326,130049347.0,Thursday,No,2013-01-24T14:40:00.000,Service,"[-71.06802, 42.313206]",Point,Service,1,IVMV  ,332,C11,Day,No,COLUMBIA RD,Part Three,Unarmed,773005.405,,2939456.3710000003,2013
+130816,130048405.0,Thursday,No,2013-01-24T04:24:00.000,Service,"[-71.041975, 42.350116]",Point,Service,1,FIREB ,207,C6,Last,No,SEAPORT BL,Part Three,Unarmed,779977.5607,,2952943.7460000003,2013
+169839,130048985.0,Thursday,No,2013-01-24T14:22:00.000,Service,"[-71.032575, 42.332761]",Point,Service,1,CD11  ,225,C6,Day,No,MONKS ST,Part Three,Unarmed,782553.1491,,2946633.068,2013
+214854,130049981.0,Thursday,No,2013-01-24T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,1,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2013

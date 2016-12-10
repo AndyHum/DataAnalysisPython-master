@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19320,152035261.0,Thursday,No,2015-04-30T17:55:00.000,Landlord,"[-71.084909, 42.299435]",Point,Landlord,4,LANTEN,0,B3,First,No,CHARLOTTE ST,Part three,Unarmed,768461.8364,,2934415.332,2015
+51879,152035332.0,Thursday,No,2015-04-30T09:30:00.000,Landlord,"[-71.14781, 42.341787]",Point,Landlord,4,BE,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,751381.5205,,2949772.502,2015
+258903,152035324.0,Thursday,No,2015-04-30T21:15:00.000,Landlord,"[-71.134258, 42.349755]",Point,Landlord,4,INVEST,0,D14,First,No,GLENVILLE AV,Part three,Unarmed,755032.8284,,2952691.635,2015

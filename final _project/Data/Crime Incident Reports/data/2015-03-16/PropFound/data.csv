@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113286,152021301.0,Monday,No,2015-03-16T20:15:00.000,PropFound,"[-71.056085, 42.373901]",Point,PropFound,3,IVPER,0,A15,First,No,1ST AV,Part three,Unarmed,776118.3496,,2961591.2989999996,2015
+121211,152021174.0,Monday,No,2015-03-16T20:15:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,3,PROP,0,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+146953,152021198.0,Monday,No,2015-03-16T14:30:00.000,PropFound,"[-71.145857, 42.351592]",Point,PropFound,3,PROP,0,D14,Day,No,DUSTIN ST,Part three,Unarmed,751894.4896,CAMBRIDGE ST,2953347.787,2015
+182488,152021295.0,Monday,No,2015-03-16T08:00:00.000,PropFound,"[-71.100705, 42.342791]",Point,PropFound,3,SUSOBJ,0,D4,Day,No,PETERBOROUGH ST,Part three,Unarmed,764114.6170000001,,2950194.595,2015
+218990,152021197.0,Monday,No,2015-03-16T14:40:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,3,PROP,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+266494,152021102.0,Monday,No,2015-03-16T07:15:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,B2,Last,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015

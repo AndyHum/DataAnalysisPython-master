@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39940,130267950.0,Monday,No,2013-05-06T09:00:00.000,PropFound,"[-71.08969, 42.346756]",Point,PropFound,5,FDPROP,591,D4,Day,No,BOYLSTON ST,Part Three,Other,767085.5061,,2951653.646,2013
+78247,130270359.0,Monday,No,2013-05-06T11:00:00.000,PropFound,"[-71.12804, 42.363416]",Point,PropFound,5,FDWEAP,813,D14,Day,No,STADIUM WY,Part three,Firearm,756691.9836,,2957677.3510000003,2013
+112441,130267615.0,Monday,No,2013-05-06T05:40:00.000,PropFound,"[-71.0542, 42.310611]",Point,PropFound,5,IVPER ,254,C11,Last,No,SYDNEY ST,Part Three,Unarmed,776748.2402,BAY ST,2938529.9460000005,2013
+133649,130268657.0,Monday,No,2013-05-06T08:30:00.000,PropFound,"[-71.113275, 42.312996]",Point,PropFound,5,LSTPRP,639,E13,Day,No,GREEN ST,Part Three,Other,760765.6221,,2939321.102,2013
+223122,130268667.0,Monday,No,2013-05-06T16:53:00.000,PropFound,"[-71.08969, 42.346756]",Point,PropFound,5,IVPREM,617,D4,First,No,BOYLSTON ST,Part Three,Unarmed,767085.5061,,2951653.646,2013
+264148,130267958.0,Monday,No,2013-05-06T09:45:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,111,A1,Day,No,MORTON ST,Part Three,Unarmed,,,,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33425,152035455.0,Friday,No,2015-05-01T12:30:00.000,TRESPASS,"[-71.06942, 42.362401]",Point,TRESPASS,5,LARCEN,0,A1,Day,No,FRUIT ST,Part Two,Unarmed,772536.2528,,2957381.922,2015
+143709,152035367.0,Friday,No,2015-05-01T04:02:00.000,TRESPASS,"[-71.061235, 42.310371]",Point,TRESPASS,5,SS,0,C11,Last,No,HANCOCK ST,Part Two,Other,774845.858,,2938432.619,2015
+159304,152035642.0,Friday,No,2015-05-01T21:45:00.000,TRESPASS,"[-71.143489, 42.341248]",Point,TRESPASS,5,BE,0,D14,First,No,EGREMONT RD,Part Two,Unarmed,752550.3574,,2949581.088,2015
+203496,152035655.0,Friday,No,2015-05-01T23:16:00.000,TRESPASS,"[-71.066085, 42.289756]",Point,TRESPASS,5,IVPREM,0,C11,First,No,JOSEPH ST,Part Two,Firearm,773572.2382,,2930913.495,2015

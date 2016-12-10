@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35956,142036756.0,Sunday,No,2014-09-28T10:30:00.000,Service,"[-71.145297, 42.349864]",Point,Service,9,ROBBER,0,D14,Day,No,WARREN ST,Part three,Unarmed,752048.4758,,2952718.7569999998,2014
+61680,142034069.0,Sunday,No,2014-09-28T23:20:00.000,Service,"[-71.087592, 42.290888]",Point,Service,9,ARREST,0,B3,First,No,WESTVIEW ST,Part three,Unarmed,767750.9008,,2931297.042,2014
+63464,142033878.0,Sunday,No,2014-09-28T11:25:00.000,Service,"[-71.05863, 42.306721]",Point,Service,9,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775557.3459,LYON ST,2937106.139,2014

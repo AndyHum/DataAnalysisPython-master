@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4305,120748830.0,Thursday,No,2012-11-29T13:09:00.000,MedAssist,"[-71.078815, 42.350571]",Point,MedAssist,11,INVEST,138,D4,Day,No,NEWBURY ST,Part Three,Firearm,770018.4438,,2953058.235,2012
+25302,120748725.0,Thursday,No,2012-11-29T12:25:00.000,MedAssist,"[-71.07709, 42.349476]",Point,MedAssist,11,IVPER ,130,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770486.7093,,2952661.501,2012
+57824,120750052.0,Thursday,No,2012-11-29T23:45:00.000,MedAssist,"[-71.106362, 42.271374]",Point,MedAssist,11,REQEP ,478,E18,First,No,GREENFIELD RD,Part Three,Other,762705.2862,CUMMINS HY,2924161.748,2012
+101647,120749000.0,Thursday,No,2012-11-29T14:12:00.000,MedAssist,"[-71.073281, 42.276791]",Point,MedAssist,11,NIDV  ,413,B3,Day,No,ELLISON AV,Part Three,Unarmed,771648.6299,,2926179.027,2012
+106649,120748547.0,Thursday,No,2012-11-29T10:45:00.000,MedAssist,"[-71.06317, 42.373476]",Point,MedAssist,11,REQEP ,60,A15,Day,No,HARVARD ST,Part Three,Unarmed,774204.7018,,2961426.5360000003,2012
+128173,120748706.0,Thursday,No,2012-11-29T12:16:00.000,MedAssist,"[-71.05539, 42.338296]",Point,MedAssist,11,EDP2  ,936,C6,Day,No,ORTON MAROTTA WY,Part Three,Unarmed,776373.7815,,2948617.1380000003,2012
+132388,120749012.0,Thursday,No,2012-11-29T14:18:00.000,MedAssist,"[-71.03722, 42.368996]",Point,MedAssist,11,EDP2  ,35,A7,Day,No,ORLEANS ST,Part Three,Unarmed,781225.5635,,2959830.913,2012
+154056,120749529.0,Thursday,No,2012-11-29T18:05:00.000,MedAssist,"[-71.127626, 42.257756]",Point,MedAssist,11,TRAUMA,544,E18,First,No,GORDON AV,Part Three,Unarmed,756971.7603,,2919173.352,2012
+200668,120749635.0,Thursday,No,2012-11-29T19:01:00.000,MedAssist,"[-71.049444, 42.288906]",Point,MedAssist,11,CARST ,378,C11,First,No,COFFEY ST,Part Three,Unarmed,778076.2623,,2930627.1010000003,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69240,130247281.0,Saturday,No,2013-04-27T03:42:00.000,FIRE,"[-71.071885, 42.351536]",Point,FIRE,4,REQP  ,129,D4,Last,No,BOYLSTON ST,Part Three,Unarmed,771889.9292,,2953419.2260000003,2013
+79717,130248373.0,Saturday,No,2013-04-27T17:13:00.000,FIRE,"[-71.03231, 42.376995]",Point,FIRE,4,FIREB ,20,A7,First,No,PARIS ST,Part Three,Other,782536.3817,,2962753.2,2013
+203310,130247277.0,Saturday,No,2013-04-27T03:36:00.000,FIRE,"[-71.09134, 42.279336]",Point,FIRE,4,FIREB ,427,B3,Last,No,EVELYN ST,Part Three,Unarmed,766757.183,,2927082.5519999997,2013
+254218,130247722.0,Saturday,No,2013-04-27T11:27:00.000,FIRE,"[-71.058335, 42.314911]",Point,FIRE,4,FIREB ,247,C11,Day,No,PEARL ST,Part Three,Other,775621.6905,,2940091.1180000002,2013

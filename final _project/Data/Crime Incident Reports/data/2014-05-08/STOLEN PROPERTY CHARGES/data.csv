@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19656,140355505.0,Thursday,No,2014-05-08T12:00:00.000,STOLEN PROPERTY CHARGES,"[-71.06561, 42.344456]",Point,13xx,5,IVPER ,162,D4,Day,No,WASHINGTON ST,Part Two,Unarmed,773599.2408,,2950847.715,2014
+115800,140283383.0,Thursday,No,2014-05-08T15:30:00.000,STOLEN PROPERTY CHARGES,"[-71.111625, 42.308696]",Point,13xx,5,IVPER ,646,E13,Day,No,ELM ST,Part Two,Unarmed,761219.0343,,2937756.137,2014
+172746,140282410.0,Thursday,No,2014-05-08T09:32:00.000,STOLEN PROPERTY CHARGES,"[-71.07176, 42.292251]",Point,13xx,5,ARREST,362,C11,Day,No,WASHINGTON ST,Part Two,Firearm,772032.1873,LYNDHURST ST,2931814.9489999996,2014

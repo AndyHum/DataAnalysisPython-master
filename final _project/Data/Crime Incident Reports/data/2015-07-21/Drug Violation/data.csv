@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24134,,Tuesday,No,2015-07-21T18:08:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,0,C11,,No,,Part Two,None,,BOWDOIN ST,,2015
+25139,,Tuesday,No,2015-07-21T16:59:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,,,,2015
+39745,,Tuesday,No,2015-07-21T00:00:00.000,Drug Violation,"[-71.055594, 42.366747]",Point,18xx,7,ARREST,80,A1,,No,HULL ST,Part Two,None,776264.0,,2960000.0,2015
+48257,,Tuesday,No,2015-07-21T18:15:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,328,B2,,No,CEYLON ST,Part Two,None,,COLUMBIA RD,,2015
+89080,,Tuesday,No,2015-07-21T00:00:00.000,Drug Violation,"[0, 0]",Point,18xx,7,SS,33,A7,,No,EVERETT ST,Part Two,None,,JEFFRIES ST,,2015
+108249,,Tuesday,No,2015-07-21T00:00:00.000,Drug Violation,"[-71.103284, 42.322914]",Point,18xx,7,IVPREM,581,E13,,No,CENTRE ST,Part Two,None,763451.0,,2940000.0,2015
+112033,,Tuesday,No,2015-07-21T13:16:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPER,0,,,No,ALBANY ST,Part Two,None,,,,2015
+121560,,Tuesday,No,2015-07-21T00:00:00.000,Drug Violation,"[-71.115228, 42.248758]",Point,18xx,7,UNCONS,515,E18,,No,SUMMIT ST,Part Two,None,760343.0,,2920000.0,2015
+137002,,Tuesday,No,2015-07-21T00:00:00.000,Drug Violation,"[-71.075386, 42.308192]",Point,18xx,7,ARREST,328,B2,,No,COLUMBIA RD,Part Two,None,771022.0,,2940000.0,2015
+143943,,Tuesday,No,2015-07-21T00:00:00.000,Drug Violation,"[-71.124019, 42.256216]",Point,18xx,7,IVPREM,519,E18,,No,HYDE PARK AVE,Part Two,None,757951.0,,2920000.0,2015
+146426,,Tuesday,No,2015-07-21T17:45:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,173,A1,,No,ATLANTIC AVE,Part Two,None,,ESSEX ST,,2015
+189511,,Tuesday,No,2015-07-21T00:00:00.000,Drug Violation,"[-71.085283, 42.280984]",Point,18xx,7,PSHOT,421,B3,,No,MORTON ST,Part Two,None,768393.0,,2930000.0,2015
+237647,,Tuesday,No,2015-07-21T12:30:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPER,0,,,No,CUMMINS HWY,Part Two,None,,,,2015
+254964,,Tuesday,No,2015-07-21T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,7,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015
+255410,,Tuesday,No,2015-07-21T06:40:00.000,Drug Violation,"[0, 0]",Point,18xx,7,CD11,519,E18,,No,CENTRAL AVE,Part Two,None,,EVERETT ST,,2015

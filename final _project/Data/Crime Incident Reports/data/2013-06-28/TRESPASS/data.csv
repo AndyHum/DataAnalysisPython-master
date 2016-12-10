@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46750,130395855.0,Friday,No,2013-06-28T14:25:00.000,TRESPASS,"[-71.05794, 42.287391]",Point,TRESPASS,6,ARREST,392,C11,Day,No,ASHMONT ST,Part Two,Unarmed,775780.4966,,2930062.973,2013
+135015,130395525.0,Friday,No,2013-06-28T11:45:00.000,TRESPASS,"[-71.051805, 42.377766]",Point,TRESPASS,6,IVPER ,38,A15,Day,No,13TH ST,Part Two,Unarmed,777267.449,4TH AV,2963005.832,2013
+139411,130396450.0,Friday,No,2013-06-28T18:45:00.000,TRESPASS,"[-71.0968, 42.320621]",Point,TRESPASS,6,GANG  ,304,B2,First,No,ACADEMY RD,Part Two,Unarmed,765208.5029,WEAVER WY,2942120.4110000003,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23788,,Tuesday,No,2015-06-16T00:00:00.000,Property Lost,"[-71.062668, 42.352135]",Point,PropLost,6,PROP,111,A1,,No,WASHINGTON ST,Part Three,None,774380.0,,2950000.0,2015
+134383,,Tuesday,No,2015-06-16T00:00:00.000,Property Lost,"[-71.160371, 42.274174]",Point,PropLost,6,PROP,710,E5,,No,CENTRE ST,Part Three,None,748084.0,,2930000.0,2015
+149123,,Tuesday,No,2015-06-16T21:00:00.000,Property Lost,"[0, 0]",Point,PropLost,6,PROP,2,A7,,No,WILLIAM F MCCLELLAN HWY,Part Three,None,,,,2015

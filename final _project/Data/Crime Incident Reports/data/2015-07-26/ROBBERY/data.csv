@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16074,,Sunday,No,2015-07-26T18:55:00.000,Robbery,"[0, 0]",Point,03xx,7,I00040,0,,,No,,Part One,Knife/Cutting Instrument,,,,2015
+41965,,Sunday,No,2015-07-26T00:00:00.000,Robbery,"[-71.1242, 42.286472]",Point,03xx,7,I00040,563,E5,,No,FAWNDALE RD,Part One,None,757853.0,,2930000.0,2015
+96974,,Sunday,No,2015-07-26T07:00:00.000,Robbery,"[0, 0]",Point,03xx,7,CARJAK,265,B2,,No,BLUE HILL AVE,Part One,None,,W COTTAGE ST ,,2015
+111785,,Sunday,No,2015-07-26T00:00:00.000,Robbery,"[-71.093345, 42.317791]",Point,03xx,7,I00040,306,B2,,No,DENNISON ST,Part One,None,766148.0,,2940000.0,2015
+164322,,Sunday,No,2015-07-26T00:00:00.000,Robbery,"[-71.070716, 42.286304]",Point,03xx,7,ARMROB,399,C11,,No,ROSLIN ST,Part One,Firearm,772325.0,,2930000.0,2015
+202921,,Sunday,No,2015-07-26T00:00:00.000,Robbery,"[-71.172049, 42.269321]",Point,03xx,7,HOMINV,724,E5,,No,VFW PKWY,Part One,Knife/Cutting Instrument,744930.0,,2920000.0,2015
+221682,,Sunday,No,2015-07-26T00:00:00.000,Robbery,"[-71.064028, 42.309158]",Point,03xx,7,I00040,347,C11,,No,ADAMS ST,Part One,None,774093.0,LINDEN ST,2940000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21399,130045837.0,Tuesday,No,2013-01-22T20:20:00.000,LICViol,"[-71.086065, 42.341146]",Point,LICViol,1,CD35  ,594,D4,First,No,GAINSBOROUGH ST,Part Three,Unarmed,768075.3627,,2949613.9910000004,2013
+201799,130045900.0,Tuesday,No,2013-01-22T21:00:00.000,LICViol,"[-71.10137, 42.336346]",Point,LICViol,1,IVPREM,615,B2,First,No,LONGWOOD AV,Part Three,Unarmed,763945.8169,,2947845.0730000003,2013
+242825,130045868.0,Tuesday,No,2013-01-22T20:40:00.000,LICViol,"[-71.09802, 42.336676]",Point,LICViol,1,MISC  ,600,B2,First,No,HUNTINGTON AV,Part Three,Unarmed,764850.9942,,2947969.582,2013

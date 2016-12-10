@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14150,130085184.0,Saturday,No,2013-02-09T12:40:00.000,PropDam,"[-71.08249, 42.340001]",Point,PropDam,2,VANRPT,273,D4,Day,No,NORTHAMPTON ST,Part Three,Other,769043.9088,COLUMBUS AV,2949201.442,2013
+27064,130083564.0,Saturday,No,2013-02-09T17:25:00.000,PropDam,"[-71.06019, 42.353591]",Point,PropDam,2,PDRPT ,112,A1,First,No,BEDFORD ST,Part Three,Other,775047.2994,CHAUNCY ST,2954184.187,2013
+45669,130084680.0,Saturday,No,2013-02-09T05:00:00.000,PropDam,"[-71.017464, 42.384914]",Point,PropDam,2,PDRPT ,14,A7,Last,No,WORDSWORTH ST,Part Three,Other,786531.1838,,2965661.37,2013

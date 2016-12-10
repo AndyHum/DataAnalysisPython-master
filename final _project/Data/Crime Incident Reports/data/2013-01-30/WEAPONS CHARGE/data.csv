@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1238,130062108.0,Wednesday,No,2013-01-30T15:30:00.000,WEAPONS CHARGE,"[-71.08046, 42.335661]",Point,15xx,1,ARREST,274,D4,Day,No,SHAWMUT AV,Part Two,Knife,769600.5096,,2947622.561,2013
+59961,130062481.0,Wednesday,No,2013-01-30T18:15:00.000,WEAPONS CHARGE,"[-71.074066, 42.321146]",Point,15xx,1,ASSTPO,183,B2,First,No,BROOK AV,Part Two,Firearm,771355.6892,,2942341.587,2013
+153214,130062465.0,Wednesday,No,2013-01-30T18:05:00.000,WEAPONS CHARGE,"[-71.07618, 42.282541]",Point,15xx,1,SSTOP ,418,B3,First,No,MILTON AV,Part Two,Knife,770853.897,MAXWELL ST,2928270.515,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12346,130299145.0,Friday,No,2013-03-01T00:01:00.000,PhoneCalls,"[-71.052615, 42.331906]",Point,PhoneCalls,3,HARPT ,195,C6,Last,No,DORCHESTER ST,Part Three,Unarmed,777136.2488,,2946292.434,2013
+40437,130256757.0,Friday,No,2013-03-01T05:00:00.000,PhoneCalls,"[-71.056345, 42.358871]",Point,PhoneCalls,3,IVPER ,93,A1,Last,No,STATE ST,Part Three,Other,776076.5836,,2956113.703,2013
+70441,130162489.0,Friday,No,2013-03-01T13:00:00.000,PhoneCalls,"[-71.07152, 42.341606]",Point,PhoneCalls,3,HARPT ,166,D4,Day,No,SHAWMUT AV,Part Three,Unarmed,772006.7712,,2949801.042,2013

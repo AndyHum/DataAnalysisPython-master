@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13504,130584756.0,Saturday,No,2013-09-14T03:00:00.000,DISORDERLY,"[-71.070045, 42.323146]",Point,24xx,9,ARREST,182,B2,Last,No,BURRELL ST,Part Two,Unarmed,772439.4442,,2943075.903,2013
+94739,130584791.0,Saturday,No,2013-09-14T02:52:00.000,DISORDERLY,"[-71.07052, 42.322301]",Point,24xx,9,ARREST,182,B2,Last,No,ALBION ST,Part Two,Unarmed,772312.5416,CLIFTON ST,2942767.3219999997,2013
+122428,130586176.0,Saturday,No,2013-09-14T19:20:00.000,DISORDERLY,"[-71.07825, 42.335516]",Point,24xx,9,FIGHT ,273,D4,First,No,WASHINGTON ST,Part Two,Unarmed,770198.2968,,2947572.668,2013
+215585,130585935.0,Saturday,No,2013-09-14T17:21:00.000,DISORDERLY,"[-71.160173, 42.340816]",Point,24xx,9,PARTY ,750,D14,First,No,GERALD RD,Part Two,Unarmed,748040.3936,,2949405.098,2013

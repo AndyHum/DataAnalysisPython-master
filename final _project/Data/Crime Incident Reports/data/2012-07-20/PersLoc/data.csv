@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56922,120459702.0,Friday,No,2012-07-20T00:01:00.000,PersLoc,"[-71.075645, 42.296301]",Point,PersLoc,7,MISPER,452,B3,Last,No,ATHELWOLD ST,Part Three,Unarmed,770973.7211,,2933285.575,2012
+60260,120449680.0,Friday,No,2012-07-20T22:30:00.000,PersLoc,"[-71.062705, 42.296941]",Point,PersLoc,7,MISPER,360,C11,First,No,BOURNESIDE ST,Part Three,Unarmed,774473.3407,,2933536.483,2012
+170436,120454963.0,Friday,No,2012-07-20T12:00:00.000,PersLoc,"[-71.09639, 42.334426]",Point,PersLoc,7,MISPER,901,B2,Day,No,MCGREEVEY WY,Part Three,Unarmed,765295.5776,,2947151.722,2012
+177306,120451191.0,Friday,No,2012-07-20T07:30:00.000,PersLoc,"[-71.103282, 42.273251]",Point,PersLoc,7,MISPER,473,B3,Day,No,CANAAN ST,Part Three,Unarmed,763535.608,,2924849.547,2012

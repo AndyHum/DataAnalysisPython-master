@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61920,142056200.0,Tuesday,No,2014-12-09T14:20:00.000,TRESPASS,"[-71.04206, 42.317766]",Point,TRESPASS,12,IVPREM,0,C6,Day,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2014
+66683,142055864.0,Tuesday,No,2014-12-09T08:40:00.000,TRESPASS,"[-71.099898, 42.317195]",Point,TRESPASS,12,BE,0,E13,Day,No,COPLEY ST,Part Two,Other,764376.3481,,2940867.934,2014
+249988,142056064.0,Tuesday,No,2014-12-09T20:18:00.000,TRESPASS,"[-71.09794, 42.316146]",Point,TRESPASS,12,CD19,0,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764907.8894,,2940488.191,2014
+255411,142056499.0,Tuesday,No,2014-12-09T23:05:00.000,TRESPASS,"[-71.060845, 42.355056]",Point,TRESPASS,12,IVPER,0,A1,First,No,WASHINGTON ST,Part Two,Unarmed,774867.5053,,2954717.1489999997,2014

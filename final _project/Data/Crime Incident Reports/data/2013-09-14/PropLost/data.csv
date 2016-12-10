@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58832,130585954.0,Saturday,No,2013-09-14T10:00:00.000,PropLost,"[-71.071455, 42.283306]",Point,PropLost,9,LSTPRP,417,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772131.0856,STOCKTON ST,2928555.6789999995,2013
+68062,130587782.0,Saturday,No,2013-09-14T22:00:00.000,PropLost,"[-71.07517, 42.334901]",Point,PropLost,9,LSTPRP,170,D4,First,No,HARRISON AV,Part three,Unarmed,771032.1683,MASSACHUSETTS AV,2947352.683,2013
+209753,130600762.0,Saturday,No,2013-09-14T12:00:00.000,PropLost,"[-71.066605, 42.318716]",Point,PropLost,9,LARCRT,238,B2,Day,No,QUINCEFIELD ST,Part three,Unarmed,773377.9184,,2941466.245,2013
+245660,130594915.0,Saturday,No,2013-09-14T11:00:00.000,PropLost,"[-71.08279, 42.324316]",Point,PropLost,9,LARCRT,296,B2,Day,No,WARREN ST,Part three,Unarmed,768990.7605,,2943485.1539999996,2013

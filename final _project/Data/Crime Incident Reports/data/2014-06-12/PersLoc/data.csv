@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99392,140370621.0,Thursday,No,2014-06-12T00:42:00.000,PersLoc,"[-71.095683, 42.266817]",Point,PersLoc,6,IVPER ,482,B3,Last,No,RIVER ST,Other,Unarmed,765603.2765,EDGEWATER DR,2922514.73,2014
+116984,140372688.0,Thursday,No,2014-06-12T18:30:00.000,PersLoc,"[-71.08195, 42.282956]",Point,PersLoc,6,MISPER,417,B3,First,No,CROWELL ST,Other,Unarmed,769291.7881,,2928414.041,2014
+131802,140372945.0,Thursday,No,2014-06-12T21:17:00.000,PersLoc,"[-71.077705, 42.326266]",Point,PersLoc,6,MSNCOM,267,B2,First,No,VINE ST,Other,Unarmed,770362.3408,,2944202.534,2014
+236520,140371267.0,Thursday,No,2014-06-12T10:19:00.000,PersLoc,"[-71.113635, 42.292791]",Point,PersLoc,6,MSNCOM,506,E13,Day,No,BOURNE ST,Other,Unarmed,760701.6039,,2931957.6319999998,2014
+249802,140373544.0,Thursday,No,2014-06-12T23:45:00.000,PersLoc,"[-71.07278, 42.324196]",Point,PersLoc,6,MISPER,263,B2,First,No,LANGDON ST,Other,Unarmed,771697.7981,,2943454.6319999998,2014
+258046,140371255.0,Thursday,No,2014-06-12T07:00:00.000,PersLoc,"[-71.07891, 42.294836]",Point,PersLoc,6,MSNCOM,443,B3,Last,No,STANDISH ST,Other,Unarmed,770093.0368,,2932747.33,2014

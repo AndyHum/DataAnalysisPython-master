@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2965,152048659.0,Friday,No,2015-06-12T10:20:00.000,Argue,"[0, 0]",Point,Argue,6,DISTRB,0,B2,Day,No,TREMONT ST,Part three,Unarmed,,,,2015
+17862,152048875.0,Friday,No,2015-06-12T22:00:00.000,Argue,"[-71.148885, 42.356096]",Point,Argue,6,AB,0,D14,First,No,N BEACON ST,Part three,Unarmed,751069.4692,MARKET ST,2954985.91,2015
+124183,152048796.0,Friday,No,2015-06-12T18:11:00.000,Argue,"[-71.09279, 42.335528]",Point,Argue,6,DISTRB,0,B2,First,No,ANNUNCIATION RD,Part three,Unarmed,766266.9936,,2947557.934,2015
+202494,152048694.0,Friday,No,2015-06-12T11:57:00.000,Argue,"[-71.048935, 42.340401]",Point,Argue,6,CD7,0,C6,Day,No,D ST,Part three,Unarmed,778114.9119,,2949393.4,2015

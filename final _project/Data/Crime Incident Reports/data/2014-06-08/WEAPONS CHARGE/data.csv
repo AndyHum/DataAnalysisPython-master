@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38368,140361955.0,Sunday,No,2014-06-08T19:07:00.000,WEAPONS CHARGE,"[-71.09551, 42.334101]",Point,15xx,6,ARREST,901,B2,First,No,PARKER ST,Part Two,Firearm,765534.0738,MCGREEVEY WY,2947034.413,2014
+200979,140361885.0,Sunday,No,2014-06-08T18:36:00.000,WEAPONS CHARGE,"[-71.085816, 42.30968]",Point,15xx,6,IVPER ,320,B2,First,No,CHENEY ST,Part Two,Firearm,768198.1833,,2938147.32,2014
+213288,140362830.0,Sunday,No,2014-06-08T23:29:00.000,WEAPONS CHARGE,"[-71.078719, 42.30927]",Point,15xx,6,ARREST,329,B2,First,No,DEVON ST,Part Two,Firearm,770118.7222,,2938007.273,2014

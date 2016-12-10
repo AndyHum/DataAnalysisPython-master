@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34310,130059905.0,Tuesday,No,2013-01-29T11:45:00.000,PhoneCalls,"[-71.091325, 42.284861]",Point,PhoneCalls,1,IVPER ,465,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2013
+57741,130062282.0,Tuesday,No,2013-01-29T09:00:00.000,PhoneCalls,"[-71.055155, 42.338841]",Point,PhoneCalls,1,INVEST,936,C6,Day,No,DALESSIO CT,Part Three,Unarmed,776436.2784,,2948816.0760000004,2013
+157110,130110392.0,Tuesday,No,2013-01-29T08:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,1,HARPT ,503,B3,Day,No,W MAIN ST,Part Three,Unarmed,,,,2013
+167603,130088985.0,Tuesday,No,2013-01-29T07:00:00.000,PhoneCalls,"[-71.065539, 42.365847]",Point,PhoneCalls,1,HARPT ,70,A1,Last,No,MARTHA RD,Part Three,Unarmed,773578.6116,,2958642.849,2013

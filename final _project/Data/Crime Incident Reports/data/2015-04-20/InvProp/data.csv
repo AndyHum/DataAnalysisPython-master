@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82451,152032114.0,Monday,No,2015-04-20T09:45:00.000,InvProp,"[-71.112505, 42.282558]",Point,InvProp,4,IVPREM,0,E18,Day,No,CANTERBURY ST,Part three,Unarmed,761024.1098,,2928229.6769999997,2015
+199154,152032105.0,Monday,No,2015-04-20T08:30:00.000,InvProp,"[-71.159491, 42.340458]",Point,InvProp,4,IVPREM,0,D14,Day,No,FOSTER ST,Part three,Unarmed,748225.3555,,2949275.4889999996,2015
+267937,152032289.0,Monday,No,2015-04-20T21:55:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPREM,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,,,,2015

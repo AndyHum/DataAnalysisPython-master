@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10928,130016257.0,Sunday,No,2013-01-06T15:00:00.000,PropLost,"[-71.06752, 42.301071]",Point,PropLost,1,LARCRT,342,C11,Day,No,GENEVA AV,Part Three,Unarmed,773163.0622,TOPLIFF ST,2935034.875,2013
+30275,140074709.0,Sunday,No,2013-01-06T17:00:00.000,PropLost,"[-71.063785, 42.349246]",Point,PropLost,1,LSTPRP,402,A1,First,No,WASHINGTON ST,Part three,Unarmed,774083.6785,,2952595.797,2013
+55776,130011707.0,Sunday,No,2013-01-06T15:30:00.000,PropLost,"[-71.06561, 42.344456]",Point,PropLost,1,LARCIP,162,D4,Day,No,WASHINGTON ST,Part Three,Other,773599.2408,,2950847.715,2013
+146873,130013337.0,Sunday,No,2013-01-06T13:40:00.000,PropLost,"[-71.10974, 42.261984]",Point,PropLost,1,LARCRT,493,E18,Day,No,RIVER ST,Part Three,Unarmed,761806.7440000001,,2920735.827,2013
+147726,130011194.0,Sunday,No,2013-01-06T06:00:00.000,PropLost,"[-71.030011, 42.369985]",Point,PropLost,1,LSTPRP,21,A7,Last,No,PORTER ST,Part Three,Unarmed,783171.6278,,2960201.673,2013
+220619,130012994.0,Sunday,No,2013-01-06T06:30:00.000,PropLost,"[-71.130482, 42.349666]",Point,PropLost,1,LSTPRP,796,D14,Last,No,HARVARD AV,Part Three,Unarmed,756053.6909,,2952663.646,2013

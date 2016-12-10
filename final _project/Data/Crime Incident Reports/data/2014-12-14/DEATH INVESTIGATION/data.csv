@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36570,142057466.0,Sunday,No,2014-12-14T13:17:00.000,DEATH INVESTIGATION,"[-71.040345, 42.381666]",Point,01INV,12,ALARM,0,A7,Day,No,BORDER ST,Part three,Unarmed,780356.2099,,2964443.5510000004,2014
+115430,142057487.0,Sunday,No,2014-12-14T15:00:00.000,DEATH INVESTIGATION,"[-71.068862, 42.34092]",Point,01INV,12,CARDIA,0,D4,Day,No,UNION PARK ST,Part three,Unarmed,772726.4489,,2949554.4439999997,2014
+255781,142057450.0,Sunday,No,2014-12-14T12:35:00.000,DEATH INVESTIGATION,"[-71.051965, 42.330791]",Point,01INV,12,UNKEMS,0,C6,Day,No,PATTERSON WY,Part three,Unarmed,777314.1349,,2945887.0319999997,2014

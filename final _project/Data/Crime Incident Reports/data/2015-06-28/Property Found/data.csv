@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10172,,Sunday,No,2015-06-28T00:00:00.000,Property Found,"[-71.084802, 42.308552]",Point,PropFound,6,IVPER,435,B3,,No,TORREY ST,Part Three,None,768475.0,,2940000.0,2015
+67597,,Sunday,No,2015-06-28T00:00:00.000,Property Found,"[-71.064703, 42.292656]",Point,PropFound,6,PROP,0,,,No,NIXON,Part Three,None,773941.0,CENTRE ST,2930000.0,2015
+224862,,Sunday,No,2015-06-28T19:18:00.000,Property Found,"[0, 0]",Point,PropFound,6,PROP,231,C6,,No,E SIXTH ST,Part Three,None,,M ST,,2015
+236751,,Sunday,No,2015-06-28T00:00:00.000,Property Found,"[-71.064323, 42.35311]",Point,PropFound,6,PROP,111,A1,,No,TREMONT ST,Part Three,None,773931.0,,2950000.0,2015

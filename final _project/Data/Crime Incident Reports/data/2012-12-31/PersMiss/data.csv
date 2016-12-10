@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46024,120817496.0,Monday,No,2012-12-31T10:30:00.000,PersMiss,"[-71.079775, 42.282511]",Point,PersMiss,12,MISPER,418,B3,Day,No,EVANS ST,Part Three,Unarmed,769881.1393,,2928254.769,2012
+122560,120817495.0,Monday,No,2012-12-31T10:30:00.000,PersMiss,"[-71.079775, 42.282511]",Point,PersMiss,12,MISPER,418,B3,Day,No,EVANS ST,Part Three,Unarmed,769881.1393,,2928254.769,2012
+207170,120817481.0,Monday,No,2012-12-31T22:00:00.000,PersMiss,"[-71.14243, 42.349389]",Point,PersMiss,12,MISPER,784,D14,First,No,WARREN ST,Part Three,Unarmed,752824.3316,,2952548.8430000003,2012

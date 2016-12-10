@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90406,130737317.0,Tuesday,No,2013-11-12T21:00:00.000,PropLost,"[-71.12836, 42.286221]",Point,PropLost,11,LARCRT,562,E5,First,No,WASHINGTON ST,Part three,Unarmed,756728.0705,,2929545.7210000004,2013
+102895,130720133.0,Tuesday,No,2013-11-12T19:15:00.000,PropLost,"[-71.06066, 42.298591]",Point,PropLost,11,LARCRT,351,C11,First,No,DORCHESTER AV,Part three,Unarmed,775023.4954,PARK ST,2934140.61,2013
+147397,130724108.0,Tuesday,No,2013-11-12T00:00:00.000,PropLost,"[-71.094124, 42.347355]",Point,PropLost,11,LSTPRP,624,D4,Last,No,IPSWICH ST,Part three,Unarmed,765885.7661,,2951866.0330000003,2013
+149417,130719207.0,Tuesday,No,2013-11-12T12:25:00.000,PropLost,"[-71.05353, 42.359506]",Point,PropLost,11,LSTPRP,94,A1,Day,No,COMMERCIAL ST,Part three,Unarmed,776836.1956,,2956349.079,2013
+161855,130736692.0,Tuesday,No,2013-11-12T15:00:00.000,PropLost,"[-71.07064, 42.338541]",Point,PropLost,11,LSTPRP,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772250.2999,,2948685.297,2013

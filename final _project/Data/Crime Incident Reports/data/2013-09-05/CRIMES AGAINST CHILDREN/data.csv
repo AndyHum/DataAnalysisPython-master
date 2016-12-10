@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92479,130563857.0,Thursday,No,2013-09-05T14:00:00.000,CRIMES AGAINST CHILDREN,"[-71.039249, 42.379971]",Point,20xx,9,INVEST,21,A7,Day,No,MERIDIAN ST,Part Two,Other,780655.5561,,2963827.4560000002,2013
+129794,130563596.0,Thursday,No,2013-09-05T08:40:00.000,CRIMES AGAINST CHILDREN,"[-71.101035, 42.270546]",Point,20xx,9,IVPER ,562,B3,Day,No,CUMMINS HY,Part Two,Unarmed,764148.5484,FAVRE ST,2923866.93,2013
+160098,130562924.0,Thursday,No,2013-09-05T08:20:00.000,CRIMES AGAINST CHILDREN,"[-71.058775, 42.288821]",Point,20xx,9,INVCHD,393,C11,Day,No,FLORIDA ST,Part Two,Unarmed,775551.8668,,2930582.915,2013

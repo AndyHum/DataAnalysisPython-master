@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10679,130807993.0,Tuesday,No,2013-12-24T10:29:00.000,MedAssist,"[-71.075605, 42.291256]",Point,MedAssist,12,OVRDOS,438,B3,Day,No,TALBOT AV,Part three,Other,770993.6902,,2931447.1569999997,2013
+38709,130809057.0,Tuesday,No,2013-12-24T22:24:00.000,MedAssist,"[-71.091505, 42.288081]",Point,MedAssist,12,UNCONS,464,B3,First,No,HANSBOROUGH ST,Part three,Unarmed,766697.2661,,2930269.139,2013
+48142,130807499.0,Tuesday,No,2013-12-24T00:53:00.000,MedAssist,"[-71.067375, 42.352166]",Point,MedAssist,12,REMOVE,120,A1,Last,No,PARK PLAZA,Part three,Unarmed,773107.8474,,2953654.958,2013
+108227,130808131.0,Tuesday,No,2013-12-24T12:10:00.000,MedAssist,"[-71.054486, 42.32689]",Point,MedAssist,12,CARST ,190,C6,Day,No,STERLING SQ,Part three,Unarmed,776639.7695,,2944461.602,2013
+124128,130808093.0,Tuesday,No,2013-12-24T11:33:00.000,MedAssist,"[-71.135661, 42.289355]",Point,MedAssist,12,EDP2  ,674,E5,Day,No,FARQUHAR ST,Part three,Unarmed,754747.5721,,2930679.055,2013
+189839,130809038.0,Tuesday,No,2013-12-24T22:11:00.000,MedAssist,"[-71.06218, 42.309996]",Point,MedAssist,12,REQP  ,338,C11,First,No,NAVILLUS TR,Part three,Unarmed,774590.9544,,2938294.65,2013
+197754,130808740.0,Tuesday,No,2013-12-24T18:00:00.000,MedAssist,"[-71.050465, 42.335676]",Point,MedAssist,12,UNCONS,214,C6,First,No,BOWEN ST,Part three,Unarmed,777710.3484,,2947669.3439999996,2013
+202566,130807539.0,Tuesday,No,2013-12-24T01:23:00.000,MedAssist,"[-71.083648, 42.296992]",Point,MedAssist,12,CARST ,457,B3,Last,No,ESMOND ST,Part three,Unarmed,768807.2851,,2933526.475,2013
+237420,130809056.0,Tuesday,No,2013-12-24T22:38:00.000,MedAssist,"[-71.069815, 42.282456]",Point,MedAssist,12,EDP2  ,402,C11,First,No,FULLER ST,Part three,Unarmed,772576.4249,,2928248.165,2013

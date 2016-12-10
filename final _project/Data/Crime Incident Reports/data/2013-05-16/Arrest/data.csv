@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50102,130298828.0,Thursday,No,2013-05-16T17:00:00.000,Arrest,"[-71.062085, 42.356341]",Point,Arrest,5,ABRPT ,102,A1,First,No,TREMONT ST,Part three,Unarmed,774529.9407,,2955183.704,2013
+150146,130291161.0,Thursday,No,2013-05-16T03:54:00.000,Arrest,"[-71.061485, 42.292056]",Point,Arrest,5,SSTOP ,0,C11,Last,No,KING ST,Part Three,Unarmed,774812.5494,,2931758.015,2013
+190863,130291518.0,Thursday,No,2013-05-16T09:22:00.000,Arrest,"[-71.075535, 42.313156]",Point,Arrest,5,CD11  ,326,B2,Day,No,QUINCY ST,Part three,Unarmed,770972.9147,,2939427.9460000005,2013

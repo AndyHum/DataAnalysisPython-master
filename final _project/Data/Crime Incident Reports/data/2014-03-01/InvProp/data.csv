@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37921,140126264.0,Saturday,No,2014-03-01T04:33:00.000,InvProp,"[-71.062705, 42.313451]",Point,InvProp,3,SHOTS ,823,C11,Last,No,CUSHING AV,Part three,Other,774442.4953,,2939552.978,2014
+134704,140125819.0,Saturday,No,2014-03-01T23:41:00.000,InvProp,"[-71.13851, 42.292301]",Point,InvProp,3,SHOTS ,673,E5,First,No,CENTRE ST,Part three,Unarmed,753972.2319,HEWLETT ST,2931749.564,2014
+252457,140127111.0,Saturday,No,2014-03-01T15:11:00.000,InvProp,"[-71.05877, 42.356921]",Point,InvProp,3,REQP  ,104,A1,Day,No,MILK ST,Part three,Unarmed,775424.8438,,2955399.685,2014

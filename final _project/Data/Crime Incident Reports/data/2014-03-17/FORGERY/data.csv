@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22807,152023837.0,Monday,No,2014-03-17T10:00:00.000,FORGERY,"[-71.073635, 42.288136]",Point,10xx,3,LARCEN,0,B3,Day,No,OAKWOOD ST,Part Two,Unarmed,771532.3853,,2930312.8430000003,2014
+52815,140162993.0,Monday,No,2014-03-17T13:07:00.000,FORGERY,"[-71.061255, 42.355781]",Point,10xx,3,LARCIP,111,A1,Day,No,WINTER ST,Part Two,Unarmed,774755.3274,,2954980.7830000003,2014
+246036,142001097.0,Monday,No,2014-03-17T08:00:00.000,FORGERY,"[-71.055337, 42.326537]",Point,10xx,3,IVPER,0,C6,Day,No,OCALLAGHAN WY,Part Two,Unarmed,776410.2447,,2944331.9760000003,2014

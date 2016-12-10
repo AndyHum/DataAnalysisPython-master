@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12458,142013001.0,Saturday,No,2014-07-26T03:15:00.000,InvProp,"[-71.072422, 42.29719]",Point,InvProp,7,IVMV,0,C11,Last,No,WASHINGTON ST,Part three,Unarmed,771843.9805,,2933613.758,2014
+20728,142013298.0,Saturday,No,2014-07-26T23:48:00.000,InvProp,"[-71.11996, 42.273791]",Point,InvProp,7,REQP,0,E18,Last,No,HYDE PARK AV,Part three,Unarmed,759021.1748,,2925026.064,2014
+46146,142013172.0,Saturday,No,2014-07-26T16:30:00.000,InvProp,"[-71.113546, 42.316777]",Point,InvProp,7,ALARM,0,E13,First,No,CENTRE ST,Part three,Unarmed,760685.8903,,2940698.4869999997,2014
+93327,142013016.0,Saturday,No,2014-07-26T04:34:00.000,InvProp,"[-71.03329, 42.333161]",Point,InvProp,7,SHOTS,0,C6,Last,No,E 6TH ST,Part three,Other,782359.0253,M ST,2946777.776,2014
+154993,142013078.0,Saturday,No,2014-07-26T09:00:00.000,InvProp,"[-71.044545, 42.347516]",Point,InvProp,7,CD9,0,C6,Day,No,SUMMER ST,Part three,Unarmed,779287.9190000001,,2951992.539,2014
+155577,142013018.0,Saturday,No,2014-07-26T03:54:00.000,InvProp,"[-71.136786, 42.285421]",Point,InvProp,7,SHOTS,0,E5,Last,No,DURNELL AV,Part three,Other,754449.3103,,2929244.3639999996,2014
+214907,142013245.0,Saturday,No,2014-07-26T20:00:00.000,InvProp,"[-71.07322, 42.354326]",Point,InvProp,7,ALARM,0,D4,First,No,MARLBOROUGH ST,Part three,Unarmed,771523.9831,,2954434.147,2014

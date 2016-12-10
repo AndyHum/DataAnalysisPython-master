@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53163,142028147.0,Wednesday,No,2014-09-10T16:29:00.000,PersLoc,"[-71.05622, 42.295151]",Point,PersLoc,9,IVPER,0,C11,First,No,CENTRE ST,Other,Unarmed,776231.1809,ADAMS ST,2932893.2430000002,2014
+84182,142029075.0,Wednesday,No,2014-09-10T11:00:00.000,PersLoc,"[-71.054095, 42.301466]",Point,PersLoc,9,IVPER,0,C11,Day,No,PARK ST,Other,Unarmed,776794.0615,,2935197.519,2014
+164389,142028369.0,Wednesday,No,2014-09-10T08:45:00.000,PersLoc,"[-71.069315, 42.313072]",Point,PersLoc,9,IVPER,0,B2,Day,No,GLENDALE ST,Other,Unarmed,772655.2814,,2939405.653,2014
+179200,142028239.0,Wednesday,No,2014-09-10T21:15:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,9,IVPER,0,D14,First,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105103,142023920.0,Thursday,No,2014-08-28T19:09:00.000,Argue,"[-71.05318, 42.288841]",Point,Argue,8,IVPER,0,C11,First,No,ASHMONT ST,Part three,Other,777065.6892,,2930598.084,2014
+124154,142023896.0,Thursday,No,2014-08-28T18:23:00.000,Argue,"[-71.084816, 42.308552]",Point,Argue,8,IVPER,0,B2,First,No,HARTWELL ST,Part three,Unarmed,768470.7278,,2937737.78,2014
+182479,142023673.0,Thursday,No,2014-08-28T00:06:00.000,Argue,"[-71.070045, 42.323146]",Point,Argue,8,DISTRB,0,B2,Last,No,BURRELL ST,Part three,Unarmed,772439.4442,,2943075.903,2014

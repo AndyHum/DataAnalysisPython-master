@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78969,120573040.0,Wednesday,No,2012-09-12T20:30:00.000,DEATH INVESTIGATION,"[-71.117763, 42.304559]",Point,01INV,9,UNK   ,652,E13,First,No,ST ROSE ST,Part Three,Unarmed,759565.5051,,2936240.985,2012
+108535,120570816.0,Wednesday,No,2012-09-12T08:57:00.000,DEATH INVESTIGATION,"[-71.067775, 42.273361]",Point,01INV,9,SDNDTH,935,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,773145.2492,,2924936.613,2012
+255590,120572469.0,Wednesday,No,2012-09-12T21:00:00.000,DEATH INVESTIGATION,"[-71.03075, 42.377181]",Point,01INV,9,SDNDTH,20,A7,First,No,PUTNAM ST,Part Three,Unarmed,782957.5485,,2962823.242,2012

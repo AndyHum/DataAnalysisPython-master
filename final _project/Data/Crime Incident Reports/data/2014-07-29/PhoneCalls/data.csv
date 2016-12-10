@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79196,142014159.0,Tuesday,No,2014-07-29T17:19:00.000,PhoneCalls,"[-71.080145, 42.271406]",Point,PhoneCalls,7,IVPER,0,B3,First,No,RIVER ST PL,Part three,Unarmed,769800.9367,,2924207.4639999997,2014
+126976,142014085.0,Tuesday,No,2014-07-29T13:15:00.000,PhoneCalls,"[-71.07529, 42.316511]",Point,PhoneCalls,7,IVPER,0,B2,Day,No,DEWEY ST,Part three,Unarmed,771033.0924,,2940650.892,2014
+134430,142015618.0,Tuesday,No,2014-07-29T18:00:00.000,PhoneCalls,"[-71.06644, 42.341791]",Point,PhoneCalls,7,MISC,0,D4,First,No,HARRISON AV,Part three,Unarmed,773379.7993,,2949875.3989999997,2014

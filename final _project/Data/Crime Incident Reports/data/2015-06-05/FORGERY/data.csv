@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2548,152046474.0,Friday,No,2015-06-05T11:47:00.000,FORGERY,"[0, 0]",Point,10xx,6,IVPER,0,C11,Day,No,DORCHESTER AV,Part Two,Other,,,,2015
+178711,152048719.0,Friday,No,2015-06-05T12:00:00.000,FORGERY,"[-71.065491, 42.305384]",Point,10xx,6,IVPER,0,C11,Day,No,DRAPER ST,Part Two,Unarmed,773703.9466,,2936609.337,2015
+194792,152046547.0,Friday,No,2015-06-05T16:45:00.000,FORGERY,"[-71.08893, 42.343806]",Point,10xx,6,IVPER,0,D4,First,No,WESTLAND AV,Part Two,Unarmed,767296.1359,,2950579.599,2015

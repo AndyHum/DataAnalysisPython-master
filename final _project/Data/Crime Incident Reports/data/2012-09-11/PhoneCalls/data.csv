@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43524,120570116.0,Tuesday,No,2012-09-11T00:00:00.000,PhoneCalls,"[-71.091325, 42.284861]",Point,PhoneCalls,9,IVPER ,465,B3,Last,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2012
+66266,120583445.0,Tuesday,No,2012-09-11T12:30:00.000,PhoneCalls,"[-71.06923, 42.302081]",Point,PhoneCalls,9,THREAT,342,C11,Day,No,GENEVA AV,Part Three,Unarmed,772698.6120000001,,2935400.5930000003,2012
+163201,120569348.0,Tuesday,No,2012-09-11T10:40:00.000,PhoneCalls,"[-71.08668, 42.309096]",Point,PhoneCalls,9,INVEST,319,B2,Day,No,SCHUYLER ST,Part Three,Other,767965.694,,2937933.613,2012
+202519,120573894.0,Tuesday,No,2012-09-11T09:00:00.000,PhoneCalls,"[-71.166621, 42.293977]",Point,PhoneCalls,9,IVPER ,746,E5,Day,No,FURBUSH RD,Part Three,Unarmed,746363.9327,,2932329.3789999997,2012

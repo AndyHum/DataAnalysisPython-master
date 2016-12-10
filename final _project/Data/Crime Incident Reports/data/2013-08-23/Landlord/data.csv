@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134431,130531620.0,Friday,No,2013-08-23T02:05:00.000,Landlord,"[-71.126705, 42.35455]",Point,Landlord,8,IVPER ,799,D14,Last,No,ASHFORD ST,Part three,Unarmed,757066.8659999999,,2954448.0039999997,2013
+163913,130532054.0,Friday,No,2013-08-23T09:30:00.000,Landlord,"[-71.05624, 42.314286]",Point,Landlord,8,THREAT,248,C11,Day,No,HALLAM ST,Part three,Other,776189.4928,,2939866.297,2013
+173906,130532306.0,Friday,No,2013-08-23T11:58:00.000,Landlord,"[-71.164206, 42.262124]",Point,Landlord,8,LANTEN,714,E5,Day,No,CROSSTOWN AV,Part three,Unarmed,747063.0468,,2920724.2189999996,2013
+230467,130532378.0,Friday,No,2013-08-23T12:38:00.000,Landlord,"[-71.074079, 42.346119]",Point,Landlord,8,BEIP  ,150,D4,Day,No,CHANDLER ST,Part three,Unarmed,771306.5826,,2951441.914,2013

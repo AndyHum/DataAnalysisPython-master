@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9169,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.115878, 42.275313]",Point,14xx,7,VAND,490,E18,,No,AMERICAN LEGION HWY,Part Two,None,760123.0,,2930000.0,2015
+25768,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.063508, 42.30599]",Point,14xx,7,VAND,346,C11,,No,PERCIVAL ST,Part Two,None,774239.0,,2940000.0,2015
+30206,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.063914, 42.31223]",Point,14xx,7,MVA,257,C11,,No,HANCOCK ST,Part Two,None,774118.0,,2940000.0,2015
+35914,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.050939, 42.375029]",Point,14xx,7,IVPER,38,A15,,No,NINTH ST,Part Two,None,777507.0,,2960000.0,2015
+90745,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.033867, 42.379073]",Point,14xx,7,VAND,824,A7,,No,LEXINGTON ST,Part Two,None,782111.0,,2960000.0,2015
+129755,,Sunday,No,2015-07-05T18:45:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,900,A15,,No,WALFORD WAY,Part Two,None,,,,2015
+186538,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.109565, 42.321997]",Point,14xx,7,VAND,578,E13,,No,CENTRE ST,Part Two,None,761754.0,,2940000.0,2015
+200861,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.132894, 42.353159]",Point,14xx,7,IVPER,802,D14,,No,BRIGHTON AVE,Part Two,None,755396.0,,2950000.0,2015
+213994,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.070444, 42.329695]",Point,14xx,7,VAND,178,B2,,No,POMPEII ST,Part Two,None,772319.0,,2950000.0,2015
+233253,,Sunday,No,2015-07-05T00:00:00.000,Vandalism,"[-71.03475, 42.382593]",Point,14xx,7,VAND,25,A7,,No,CONDOR ST,Part Two,None,781866.0,,2960000.0,2015
+241871,,Sunday,No,2015-07-05T20:11:00.000,Vandalism,"[0, 0]",Point,14xx,7,IVMV,442,B3,,No,BERNARD ST,Part Two,None,,BROWNING AVE,,2015

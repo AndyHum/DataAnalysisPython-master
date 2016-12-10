@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42453,142017642.0,Saturday,No,2014-08-09T09:00:00.000,PersLoc,"[-71.074385, 42.335516]",Point,PersLoc,8,IVPER,0,D4,Day,No,HARRISON AV,Other,Unarmed,771243.2964,,2947577.858,2014
+74714,142018757.0,Saturday,No,2014-08-09T11:00:00.000,PersLoc,"[-71.0904, 42.280796]",Point,PersLoc,8,IVPER,0,B3,Day,No,HOSMER ST,Other,Unarmed,767009.0082,,2927615.818,2014
+78067,142020656.0,Saturday,No,2014-08-09T12:00:00.000,PersLoc,"[-71.0729, 42.333256]",Point,PersLoc,8,MISSIN,0,D4,Day,No,MASSACHUSETTS AV,Other,Unarmed,771648.9274,,2946756.2810000004,2014
+91186,142017791.0,Saturday,No,2014-08-09T10:00:00.000,PersLoc,"[-71.066552, 42.314692]",Point,PersLoc,8,IVPER,0,B2,Day,No,BIRD ST,Other,Unarmed,773399.5187,,2939999.607,2014
+108919,142017825.0,Saturday,No,2014-08-09T08:00:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,8,IVPER,0,B3,Day,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33049,,Thursday,No,2015-07-16T09:25:00.000,Police Service Incidents,"[0, 0]",Point,Service,7,ARREST,117,A1,,No,WASHINGTON ST,Part Three,None,,,,2015
+63345,,Thursday,No,2015-07-16T00:00:00.000,Police Service Incidents,"[-71.059567, 42.302542]",Point,Service,7,ARREST,350,C11,,No,DORCHESTER AVE,Part Three,None,775312.0,,2940000.0,2015
+117132,,Thursday,No,2015-07-16T00:00:00.000,Police Service Incidents,"[-71.06088, 42.355123]",Point,Service,7,,112,A1,,No,WASHINGTON ST,Part Three,None,774858.0,,2950000.0,2015

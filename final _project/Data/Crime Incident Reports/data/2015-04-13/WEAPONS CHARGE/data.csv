@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2712,152030051.0,Monday,No,2015-04-13T17:30:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,4,ARREST,0,A7,First,No,CONDOR ST,Part Two,Knife,,,,2015
+108900,152030045.0,Monday,No,2015-04-13T17:22:00.000,WEAPONS CHARGE,"[-71.087188, 42.320054]",Point,15xx,4,SSA,0,B2,First,No,BOWER ST,Part Two,Firearm,767808.8692,,2941926.166,2015
+169323,152029841.0,Monday,No,2015-04-13T01:10:00.000,WEAPONS CHARGE,"[-71.061985, 42.317751]",Point,15xx,4,TS,0,C11,Last,No,SUMNER ST,Part Two,Firearm,774629.1856,,2941120.966,2015
+219717,152030074.0,Monday,No,2015-04-13T18:05:00.000,WEAPONS CHARGE,"[-71.07188, 42.348846]",Point,15xx,4,TS,0,D4,First,No,BERKELEY ST,Part Two,Other,771896.2029,COLUMBUS AV,2952438.943,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55230,152016557.0,Sunday,No,2015-03-01T12:45:00.000,PropFound,"[-71.04946, 42.359981]",Point,PropFound,3,PROP,0,A1,Day,No,LONG WHRF,Part three,Unarmed,777935.2879,,2956527.962,2015
+199983,152016651.0,Sunday,No,2015-03-01T20:25:00.000,PropFound,"[-71.084485, 42.348131]",Point,PropFound,3,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2015
+221207,152016511.0,Sunday,No,2015-03-01T12:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,3,PROP,0,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2015
+260339,152016493.0,Sunday,No,2015-03-01T07:45:00.000,PropFound,"[0, 0]",Point,PropFound,3,IVPREM,0,C6,Day,No,W BROADWAY,Part three,Unarmed,,,,2015
+264217,152016525.0,Sunday,No,2015-03-01T13:30:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,A1,Day,No,PRINCE ST,Part three,Unarmed,,N MARGIN ST,,2015

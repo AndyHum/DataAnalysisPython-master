@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31101,130621740.0,Sunday,No,2013-09-29T16:15:00.000,InvProp,"[-71.054691, 42.36476]",Point,InvProp,9,INVEST,84,A1,First,No,PRINCE ST,Part three,Other,776512.2642,,2958261.829,2013
+48235,130621355.0,Sunday,No,2013-09-29T12:00:00.000,InvProp,"[-71.07547, 42.288226]",Point,InvProp,9,MISC  ,435,B3,Day,No,WENTWORTH ST,Part three,Unarmed,771035.7121,,2930343.163,2013
+133878,130621881.0,Sunday,No,2013-09-29T18:16:00.000,InvProp,"[-71.064475, 42.360236]",Point,InvProp,9,REQP  ,68,A1,First,No,HANCOCK ST,Part three,Unarmed,773876.7114,,2956599.811,2013

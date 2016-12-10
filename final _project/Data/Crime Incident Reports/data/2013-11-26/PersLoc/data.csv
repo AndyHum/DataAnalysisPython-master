@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4871,130750514.0,Tuesday,No,2013-11-26T21:00:00.000,PersLoc,"[-71.06573, 42.282101]",Point,PersLoc,11,MISPER,403,C11,First,No,HURLCROFT AV,Other,Unarmed,773682.4923,,2928124.396,2013
+33418,130750196.0,Tuesday,No,2013-11-26T22:47:00.000,PersLoc,"[-71.08864, 42.286466]",Point,PersLoc,11,MISPER,430,B3,First,No,LUCERNE ST,Other,Other,767475.3082,,2929684.333,2013
+159316,130750917.0,Tuesday,No,2013-11-26T07:00:00.000,PersLoc,"[-71.143891, 42.345952]",Point,PersLoc,11,MISPER,938,D14,Last,No,FIDELIS WY,Other,Unarmed,752434.4823,,2951294.5710000005,2013

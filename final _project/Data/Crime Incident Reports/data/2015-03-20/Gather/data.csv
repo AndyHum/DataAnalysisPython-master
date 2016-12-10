@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86701,152022337.0,Friday,No,2015-03-20T00:52:00.000,Gather,"[-71.089645, 42.348856]",Point,Gather,3,DISTRB,0,D4,Last,No,COMMONWEALTH AV,Part three,Unarmed,767093.9894,,2952418.985,2015
+236231,152022550.0,Friday,No,2015-03-20T16:06:00.000,Gather,"[-71.058496, 42.355529]",Point,Gather,3,PROTES,0,A1,First,No,FRANKLIN ST,Part three,Unarmed,775501.3361,,2954892.767,2015
+236709,152022339.0,Friday,No,2015-03-20T00:16:00.000,Gather,"[-71.100235, 42.334626]",Point,Gather,3,DISTRB,0,B2,Last,No,ST ALPHONSUS ST,Part three,Unarmed,764255.6256,,2947219.71,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6283,130736752.0,Wednesday,No,2013-11-20T16:40:00.000,PropFound,"[-71.143891, 42.345952]",Point,PropFound,11,IVPREM,938,D14,First,No,FIDELIS WY,Part three,Other,752434.4823,WINSHIP ST,2951294.5710000005,2013
+14289,130740751.0,Wednesday,No,2013-11-20T19:30:00.000,PropFound,"[-71.08462, 42.329591]",Point,PropFound,11,FDPROP,288,B2,First,No,WASHINGTON ST,Part three,Unarmed,768486.5259,ROXBURY ST,2945405.04,2013
+47064,130736137.0,Wednesday,No,2013-11-20T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,11,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+137961,130735870.0,Wednesday,No,2013-11-20T07:45:00.000,PropFound,"[-71.05673, 42.318631]",Point,PropFound,11,LSTPRP,235,C11,Day,No,CRESCENT AV,Part three,Unarmed,776048.7354,DORCHESTER AV,2941448.994,2013
+213068,130736156.0,Wednesday,No,2013-11-20T09:19:00.000,PropFound,"[-71.06563, 42.307516]",Point,PropFound,11,LSTPRP,335,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773662.3883,,2937386.1289999997,2013

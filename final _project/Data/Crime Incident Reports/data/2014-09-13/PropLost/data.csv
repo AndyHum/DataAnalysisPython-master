@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4517,142029005.0,Saturday,No,2014-09-13T09:00:00.000,PropLost,"[-71.02821, 42.380441]",Point,PropLost,9,PROP,0,A7,Day,No,PRINCETON ST,Part three,Unarmed,783637.2745,,2964015.038,2014
+19708,142029240.0,Saturday,No,2014-09-13T23:21:00.000,PropLost,"[-71.127043, 42.300948]",Point,PropLost,9,LARCEN,0,E13,First,No,CENTRE ST,Part three,Unarmed,757060.8483,,2934913.767,2014
+87380,142029031.0,Saturday,No,2014-09-13T10:11:00.000,PropLost,"[-71.08284, 42.309116]",Point,PropLost,9,LARCEN,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,769004.3297,,2937945.957,2014
+144528,142029135.0,Saturday,No,2014-09-13T16:30:00.000,PropLost,"[-71.07214, 42.354851]",Point,PropLost,9,PROP,0,D4,First,No,ARLINGTON ST,Part three,Unarmed,771814.9432,MARLBOROUGH ST,2954626.9269999997,2014
+170543,142029067.0,Saturday,No,2014-09-13T13:00:00.000,PropLost,"[-71.06001, 42.300741]",Point,PropLost,9,LARCEN,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775195.3002,CHARLES ST,2934925.008,2014
+199907,142029327.0,Saturday,No,2014-09-13T23:30:00.000,PropLost,"[-71.058944, 42.350973]",Point,PropLost,9,PROP,0,A1,First,No,BEACH ST,Part three,Unarmed,775388.8422,,2953231.6119999997,2014
+212665,142032614.0,Saturday,No,2014-09-13T21:00:00.000,PropLost,"[-71.13885, 42.352606]",Point,PropLost,9,PROP,0,D14,First,No,IMRIE RD,Part three,Unarmed,753787.1922,,2953725.4060000004,2014
+221688,142029580.0,Saturday,No,2014-09-13T14:00:00.000,PropLost,"[-71.051995, 42.332266]",Point,PropLost,9,PROP,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,777303.2016,,2946424.5039999997,2014
+225839,142029224.0,Saturday,No,2014-09-13T09:00:00.000,PropLost,"[-71.074385, 42.335516]",Point,PropLost,9,MISC,0,D4,Day,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2014

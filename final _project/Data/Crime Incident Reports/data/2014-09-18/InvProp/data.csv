@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130536,142030583.0,Thursday,No,2014-09-18T10:00:00.000,InvProp,"[-71.083, 42.333266]",Point,InvProp,9,LARCEN,0,B2,Day,No,SHAWMUT AV,Part three,Unarmed,768918.0261,,2946746.413,2014
+150824,142030500.0,Thursday,No,2014-09-18T05:30:00.000,InvProp,"[-71.089205, 42.316173]",Point,InvProp,9,BE,0,B2,Last,No,HOLWORTHY ST,Part three,Unarmed,767270.2679,,2940509.336,2014
+232140,142031233.0,Thursday,No,2014-09-18T11:30:00.000,InvProp,"[-71.144168, 42.251974]",Point,InvProp,9,IVPER,0,E18,Day,No,DODGE RD,Part three,Unarmed,752502.6239,,2917047.236,2014

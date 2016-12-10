@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32801,142011124.0,Sunday,No,2014-07-20T19:00:00.000,Service,"[-71.07825, 42.335516]",Point,Service,7,IVPER,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,770198.2968,,2947572.668,2014
+164119,142011001.0,Sunday,No,2014-07-20T11:30:00.000,Service,"[-71.062525, 42.355916]",Point,Service,7,IVPER,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774411.8094,,2955028.2169999997,2014
+262920,142011034.0,Sunday,No,2014-07-20T13:46:00.000,Service,"[0, 0]",Point,Service,7,IVMV,0,A1,Day,No,CHARLES ST,Part three,Unarmed,,,,2014

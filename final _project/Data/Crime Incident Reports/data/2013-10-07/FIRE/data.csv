@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41488,130639378.0,Monday,No,2013-10-07T10:28:00.000,FIRE,"[-71.0626, 42.343011]",Point,FIRE,10,FV    ,165,D4,Day,No,ALBANY ST,Part three,Unarmed,774415.6545,E BERKELEY ST,2950325.289,2013
+147995,130640049.0,Monday,No,2013-10-07T15:56:00.000,FIRE,"[-71.08058, 42.305421]",Point,FIRE,10,FV    ,330,B2,Day,No,COLUMBIA RD,Part three,Other,769622.2533,WASHINGTON ST,2936602.439,2013
+247271,130639493.0,Monday,No,2013-10-07T11:23:00.000,FIRE,"[-71.066745, 42.303426]",Point,FIRE,10,FIREB ,345,C11,Day,No,HOMES AV,Part three,Other,773368.3558,,2935894.139,2013

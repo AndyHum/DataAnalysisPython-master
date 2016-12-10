@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+579,152036315.0,Monday,No,2015-05-04T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,PROP,0,A7,Day,No,BREMEN ST,Part three,Unarmed,,,,2015
+605,152036408.0,Monday,No,2015-05-04T16:34:00.000,PropFound,"[0, 0]",Point,PropFound,5,IVPREM,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,,E COTTAGE ST,,2015
+81877,152036431.0,Monday,No,2015-05-04T17:00:00.000,PropFound,"[-71.078133, 42.285884]",Point,PropFound,5,PROP,0,B3,First,No,MILTON AV,Part three,Unarmed,770319.2890000001,,2929485.997,2015
+216333,152036359.0,Monday,No,2015-05-04T14:00:00.000,PropFound,"[-71.12913, 42.356986]",Point,PropFound,5,PROP,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,756407.5908,LINCOLN ST,2955332.8430000003,2015
+225704,152036486.0,Monday,No,2015-05-04T02:30:00.000,PropFound,"[-71.13636, 42.240791]",Point,PropFound,5,PROP,0,E18,Last,No,DANNY RD,Part three,Unarmed,754633.9624,,2912981.079,2015
+228408,152036429.0,Monday,No,2015-05-04T17:50:00.000,PropFound,"[-71.14311, 42.346776]",Point,PropFound,5,IVPREM,0,D14,First,No,JETTE CT,Part three,Unarmed,752644.5924,,2951595.9889999996,2015
+229742,152036476.0,Monday,No,2015-05-04T19:45:00.000,PropFound,"[-71.06948, 42.278691]",Point,PropFound,5,PROP,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772674.0041,GALLIVAN BL,2926876.602,2015

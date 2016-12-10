@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16936,130277467.0,Friday,No,2013-05-10T09:20:00.000,Service,"[-71.059683, 42.29651]",Point,Service,5,ARREST,355,C11,Day,No,PARKMAN ST,Part Three,Unarmed,775291.6849,,2933383.425,2013
+18808,130279046.0,Friday,No,2013-05-10T20:30:00.000,Service,"[0, 0]",Point,Service,5,IVPER ,257,C11,First,No,BOW ST,Other,Unarmed,,,,2013
+27855,130277695.0,Friday,No,2013-05-10T11:11:00.000,Service,"[-71.136442, 42.348404]",Point,Service,5,ARREST,793,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,754444.5294,,2952196.889,2013
+82644,130279962.0,Friday,No,2013-05-10T08:25:00.000,Service,"[-71.07969, 42.324886]",Point,Service,5,BRKDOG,266,B2,Day,No,WHITING ST,Part three,Unarmed,769828.0462,,2943696.988,2013
+117719,130277583.0,Friday,No,2013-05-10T10:09:00.000,Service,"[-71.055116, 42.321272]",Point,Service,5,ARREST,235,C11,Day,No,COLUMBIA RD,Part Three,Unarmed,776479.9772,,2942413.607,2013
+170526,130278395.0,Friday,No,2013-05-10T16:31:00.000,Service,"[-71.084747, 42.329375]",Point,Service,5,ARREST,288,B2,First,No,WASHINGTON ST,Part three,Unarmed,768452.5418,,2945326.172,2013
+200658,130278935.0,Friday,No,2013-05-10T20:20:00.000,Service,"[-71.089397, 42.283726]",Point,Service,5,MVPED1,429,B3,First,No,MORTON ST,Part three,Other,767275.2285,,2928684.77,2013
+239059,130278012.0,Friday,No,2013-05-10T13:52:00.000,Service,"[-71.085036, 42.294732]",Point,Service,5,TSTOP ,0,B3,Day,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2013

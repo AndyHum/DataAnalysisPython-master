@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15655,140000373.0,Wednesday,No,2014-01-01T01:57:00.000,Argue,"[-71.060745, 42.289931]",Point,Argue,1,PKNIFE,366,C11,Last,No,SHEPTON ST,Part three,Unarmed,775016.7511,,2930984.666,2014
+128549,140000356.0,Wednesday,No,2014-01-01T01:53:00.000,Argue,"[-71.16591, 42.351746]",Point,Argue,1,REQPE ,759,D14,Last,No,FANEUIL ST,Part three,Unarmed,746474.0254,,2953382.1960000005,2014
+202293,140148929.0,Wednesday,No,2014-01-01T14:00:00.000,Argue,"[-71.10931, 42.311441]",Point,Argue,1,THREAT,640,E13,Day,No,GREEN ST,Part three,Unarmed,761840.6373,,2938759.32,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6503,120623244.0,Friday,No,2012-09-28T09:00:00.000,PropLost,"[-71.119805, 42.294201]",Point,PropLost,9,LSTPRP,564,E5,Day,No,WASHINGTON ST,Part Three,Other,759029.9720000001,,2932463.957,2012
+74808,120613382.0,Friday,No,2012-09-28T15:30:00.000,PropLost,"[-71.070775, 42.319686]",Point,PropLost,9,LSTPRP,183,B2,Day,No,DUDLEY ST,Part Three,Unarmed,772248.378,,2941814.026,2012
+98347,120613126.0,Friday,No,2012-09-28T23:00:00.000,PropLost,"[-71.083145, 42.349411]",Point,PropLost,9,LSTPRP,138,D4,First,No,NEWBURY ST,Part Three,Unarmed,768850.0656,,2952629.758,2012
+122045,120816546.0,Friday,No,2012-09-28T12:00:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,9,LSTPRP,112,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774867.5053,,2954717.1489999997,2012
+199789,120619246.0,Friday,No,2012-09-28T14:30:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,9,LARCRT,144,D4,Day,No,DALTON ST,Part Three,Unarmed,768399.9598,,2951523.3460000004,2012
+200779,120612059.0,Friday,No,2012-09-28T22:00:00.000,PropLost,"[-71.041225, 42.368566]",Point,PropLost,9,LSTPRP,902,A7,First,No,FATHER JACOBEE RD,Part Three,Other,780144.1312,,2959668.3660000004,2012
+224908,120617196.0,Friday,No,2012-09-28T10:00:00.000,PropLost,"[-71.069825, 42.311171]",Point,PropLost,9,LSTPRP,333,C11,Day,No,QUINCY ST,Part Three,Unarmed,772520.9477,,2938712.317,2012

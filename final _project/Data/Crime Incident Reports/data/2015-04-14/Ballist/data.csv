@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15217,152030313.0,Tuesday,No,2015-04-14T14:10:00.000,Ballist,"[-71.062543, 42.29522]",Point,Ballist,4,IVPREM,0,C11,Day,No,SILLOWAY ST,Part Two,Unarmed,774520.3334,,2932909.547,2015
+80035,152030270.0,Tuesday,No,2015-04-14T11:15:00.000,Ballist,"[-71.070225, 42.339211]",Point,Ballist,4,CD9,0,D4,Day,No,HARRISON ARCHWAYS,Part Two,Firearm,772361.2702,,2948930.022,2015
+80595,152030369.0,Tuesday,No,2015-04-14T17:53:00.000,Ballist,"[-71.094315, 42.322096]",Point,Ballist,4,IVPER,0,B2,First,No,VALE ST,Part Two,Unarmed,765877.8163,THORNTON ST,2942661.108,2015
+197993,152030388.0,Tuesday,No,2015-04-14T18:25:00.000,Ballist,"[-71.070501, 42.291911]",Point,Ballist,4,SSA,0,C11,First,No,KENWOOD ST,Part Two,Firearm,772373.2925,,2931692.459,2015

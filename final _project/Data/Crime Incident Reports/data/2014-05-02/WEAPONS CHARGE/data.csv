@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71449,140269205.0,Friday,No,2014-05-02T20:10:00.000,WEAPONS CHARGE,"[-71.085618, 42.32866]",Point,15xx,5,IVPER ,282,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2014
+187250,140267574.0,Friday,No,2014-05-02T09:50:00.000,WEAPONS CHARGE,"[-71.07199, 42.357421]",Point,15xx,5,PKNIFE,70,A1,Day,No,MT VERNON ST,Part Two,Knife,771850.7882,BRIMMER ST,2955563.688,2014
+188117,140268954.0,Friday,No,2014-05-02T19:52:00.000,WEAPONS CHARGE,"[-71.083485, 42.306386]",Point,15xx,5,CD11  ,330,B2,First,No,SUPPLE RD,Part Two,Unarmed,768834.7241,,2936950.25,2014

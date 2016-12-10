@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101211,142029101.0,Saturday,No,2014-09-13T14:59:00.000,PropFound,"[-71.069615, 42.356111]",Point,PropFound,9,PROP,0,A1,Day,No,BEACON ST,Part three,Unarmed,772495.1137,,2955089.5289999996,2014
+137096,142029156.0,Saturday,No,2014-09-13T17:00:00.000,PropFound,"[-71.05724, 42.360116]",Point,PropFound,9,PROP,0,A1,First,No,CONGRESS ST,Part three,Other,775832.3331,,2956566.147,2014
+209867,142030390.0,Saturday,No,2014-09-13T18:00:00.000,PropFound,"[-71.135885, 42.353451]",Point,PropFound,9,PROP,0,D14,First,No,BRIGHTON AV,Part three,Unarmed,754587.3247,,2954036.749,2014

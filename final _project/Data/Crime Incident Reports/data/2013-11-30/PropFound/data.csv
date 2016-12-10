@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57880,130756285.0,Saturday,No,2013-11-30T09:30:00.000,PropFound,"[-71.061745, 42.356021]",Point,PropFound,11,FDPROP,111,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2013
+122480,130755664.0,Saturday,No,2013-11-30T02:40:00.000,PropFound,"[-71.093375, 42.349156]",Point,PropFound,11,LSTPRP,622,D4,Last,No,COMMONWEALTH AV,Part three,Unarmed,766085.183,,2952523.4080000003,2013
+137730,130757404.0,Saturday,No,2013-11-30T23:52:00.000,PropFound,"[-71.059445, 42.294906]",Point,PropFound,11,UNK   ,364,C11,Last,No,LAFIELD ST,Part three,Unarmed,775359.1293,,2932799.438,2013
+153589,130760057.0,Saturday,No,2013-11-30T11:00:00.000,PropFound,"[-71.05531, 42.282616]",Point,PropFound,11,FDPROP,389,C11,Day,No,GALLIVAN BL,Part three,Unarmed,776501.1936,,2928326.598,2013
+196769,130756712.0,Saturday,No,2013-11-30T16:51:00.000,PropFound,"[-71.07686, 42.344536]",Point,PropFound,11,FDPROP,150,D4,First,No,COLUMBUS AV,Part three,Unarmed,770557.8118,,2950861.5810000002,2013
+218106,130758635.0,Saturday,No,2013-11-30T23:00:00.000,PropFound,"[-71.08464, 42.346051]",Point,PropFound,11,LARCRT,144,D4,First,No,DALTON ST,Part three,Other,768451.9078,BELVIDERE ST,2951403.337,2013

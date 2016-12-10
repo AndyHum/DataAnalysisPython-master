@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58881,130220568.0,Sunday,No,2013-04-14T16:00:00.000,PropLost,"[-71.07232, 42.276786]",Point,PropLost,4,LSTPRP,414,B3,First,No,PLEASANT HILL AV,Part Three,Unarmed,771908.9325,,2926178.528,2013
+79020,130222834.0,Sunday,No,2013-04-14T02:45:00.000,PropLost,"[-71.06636, 42.352221]",Point,PropLost,4,LSTPRP,118,A1,Last,No,BOYLSTON PL,Part Three,Unarmed,773382.1034,,2953676.394,2013
+80014,130224376.0,Sunday,No,2013-04-14T12:00:00.000,PropLost,"[-71.08832, 42.345211]",Point,PropLost,4,LSTPRP,620,D4,Day,No,NORWAY ST,Part Three,Unarmed,767458.5713,,2951092.403,2013
+91491,130222166.0,Sunday,No,2013-04-14T16:00:00.000,PropLost,"[-71.064725, 42.308386]",Point,PropLost,4,LSTPRP,949,C11,First,No,BOWDOIN ST,Part Three,Unarmed,773905.5669,,2937704.418,2013
+102181,130226390.0,Sunday,No,2013-04-14T23:00:00.000,PropLost,"[-71.1371, 42.277196]",Point,PropLost,4,LSTPRP,910,E5,First,No,BEECHLAND ST,Part Three,Other,754377.1418,,2926246.6939999997,2013
+131913,130220398.0,Sunday,No,2013-04-14T14:57:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,4,LARCRT,119,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2013
+216744,130227128.0,Sunday,No,2013-04-14T00:30:00.000,PropLost,"[-71.05489, 42.359141]",Point,PropLost,4,LSTPRP,94,A1,Last,No,STATE ST,Part Three,Unarmed,776469.3197,,2956214.145,2013
+233014,130220223.0,Sunday,No,2013-04-14T01:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,IVPER ,113,A1,Last,No,KINGSTON ST,Part Three,Unarmed,,,,2013

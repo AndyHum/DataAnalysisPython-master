@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88074,140225321.0,Monday,No,2014-04-14T02:50:00.000,InvProp,"[-71.099225, 42.314846]",Point,InvProp,4,SHOTS ,577,E13,Last,No,WASHINGTON ST,Part three,Unarmed,764562.5768,,2940012.814,2014
+135057,140298419.0,Monday,No,2014-04-14T09:00:00.000,InvProp,"[-71.083145, 42.349411]",Point,InvProp,4,IVPREM,138,D4,Day,No,NEWBURY ST,Part three,Other,768850.0656,,2952629.758,2014
+135330,140226436.0,Monday,No,2014-04-14T14:41:00.000,InvProp,"[-71.081275, 42.340976]",Point,InvProp,4,DISTRB,147,D4,Day,No,COLUMBUS AV,Part three,Unarmed,769370.6466,,2949558.361,2014
+135969,140225686.0,Monday,No,2014-04-14T09:00:00.000,InvProp,"[-71.03343, 42.378486]",Point,InvProp,4,HARPT ,23,A7,Day,No,PRINCETON ST,Part three,Other,782230.82,,2963294.84,2014
+153793,140225761.0,Monday,No,2014-04-14T09:56:00.000,InvProp,"[-71.048389, 42.308881]",Point,InvProp,4,ALARMR,252,C11,Day,No,SAVIN HILL AV,Part three,Unarmed,778323.1004,,2937907.564,2014
+189871,140226634.0,Monday,No,2014-04-14T16:20:00.000,InvProp,"[-71.09037, 42.315906]",Point,InvProp,4,IVPREM,314,B2,First,No,HOLLANDER ST,Part three,Other,766955.4726,,2940410.3619999997,2014
+262501,140225318.0,Monday,No,2014-04-14T02:47:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPREM,0,B2,Last,No,BATCHELDER ST,Part three,Unarmed,,,,2014

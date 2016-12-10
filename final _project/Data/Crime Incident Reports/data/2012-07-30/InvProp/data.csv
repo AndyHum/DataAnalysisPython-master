@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8834,120507026.0,Monday,No,2012-07-30T10:00:00.000,InvProp,"[-71.12502, 42.358441]",Point,InvProp,7,HITRUN,814,D14,Day,No,CAMBRIDGE ST,Part Three,Unarmed,757516.1276,,2955867.9310000003,2012
+48332,120475203.0,Monday,No,2012-07-30T00:00:00.000,InvProp,"[-71.073901, 42.283379]",Point,InvProp,7,VANRPT,417,B3,Last,No,ROCKWELL ST,Part Three,Other,771468.8277,,2928578.735,2012
+176780,120472066.0,Monday,No,2012-07-30T19:44:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,7,IVPREM,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2012
+250373,120470855.0,Monday,No,2012-07-30T16:56:00.000,InvProp,"[-71.050071, 42.289664]",Point,InvProp,7,IVPER ,377,C11,First,No,ASHMONT ST,Part Three,Unarmed,777905.2214,,2930902.401,2012

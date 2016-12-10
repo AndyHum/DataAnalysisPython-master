@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122600,142019523.0,Friday,No,2014-08-15T07:17:00.000,PersMiss,"[-71.069315, 42.313072]",Point,PersMiss,8,IVPER,0,B2,Last,No,GLENDALE ST,Other,Unarmed,772655.2814,,2939405.653,2014
+190719,142019821.0,Friday,No,2014-08-15T23:00:00.000,PersMiss,"[-71.07621, 42.282721]",Point,PersMiss,8,IVPER,0,B3,First,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2014
+240423,142019808.0,Friday,No,2014-08-15T07:30:00.000,PersMiss,"[-71.127195, 42.248256]",Point,PersMiss,8,IVPER,0,E18,Day,No,HYDE PARK AV,Other,Unarmed,757103.7718,,2915712.128,2014

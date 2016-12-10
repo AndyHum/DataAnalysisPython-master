@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3581,152037307.0,Thursday,No,2015-05-07T11:12:00.000,Service,"[0, 0]",Point,Service,5,ARREST,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+7242,152037322.0,Thursday,No,2015-05-07T11:43:00.000,Service,"[-71.053685, 42.341001]",Point,Service,5,DISTRB,0,C6,Day,No,B ST,Part three,Other,776829.5893,,2949605.295,2015
+53032,152039474.0,Thursday,No,2015-05-07T11:30:00.000,Service,"[-71.075307, 42.297484]",Point,Service,5,LARCEN,0,B3,Day,No,ALGONQUIN ST,Part three,Unarmed,771062.8043,,2933717.1160000004,2015
+54428,152037374.0,Thursday,No,2015-05-07T15:00:00.000,Service,"[-71.07741, 42.321511]",Point,Service,5,TS,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770450.6982,,2942470.127,2015
+167530,152037306.0,Thursday,No,2015-05-07T11:45:00.000,Service,"[-71.069615, 42.356111]",Point,Service,5,CD19,0,A1,Day,No,BEACON ST,Part three,Unarmed,772495.1137,CHARLES ST,2955089.5289999996,2015
+197954,152037594.0,Thursday,No,2015-05-07T13:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,5,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+200948,152037297.0,Thursday,No,2015-05-07T12:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,5,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+228371,152037528.0,Thursday,No,2015-05-07T17:23:00.000,Service,"[-71.087592, 42.290888]",Point,Service,5,CD9,0,B3,First,No,WESTVIEW ST,Part three,Unarmed,767750.9008,,2931297.042,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26296,130714081.0,Saturday,No,2013-11-09T17:10:00.000,PersLoc,"[-71.097305, 42.320801]",Point,PersLoc,11,MISPER,304,B2,First,No,ACADEMY TR,Other,Unarmed,765071.6214,,2942185.3619999997,2013
+87123,130714489.0,Saturday,No,2013-11-09T22:30:00.000,PersLoc,"[-71.114275, 42.267891]",Point,PersLoc,11,MISPER,492,E18,First,No,TACOMA ST,Other,Unarmed,760569.4808,,2922882.9289999995,2013
+242566,130723192.0,Saturday,No,2013-11-09T18:30:00.000,PersLoc,"[-71.07713, 42.280711]",Point,PersLoc,11,MISPER,419,B3,First,No,FULLER ST,Other,Unarmed,770600.1297,,2927602.3639999996,2013

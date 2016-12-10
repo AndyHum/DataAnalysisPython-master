@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78250,142061743.0,Tuesday,No,2014-12-30T10:44:00.000,Landlord,"[-71.135885, 42.353451]",Point,Landlord,12,LANTEN,0,D14,Day,No,BRIGHTON AV,Part three,Other,754587.3247,,2954036.749,2014
+167225,142061762.0,Tuesday,No,2014-12-30T12:27:00.000,Landlord,"[-71.06876, 42.322956]",Point,Landlord,12,REQP,0,B2,Day,No,MARSHFIELD ST,Part three,Unarmed,772787.2943,,2943008.417,2014
+172533,142061887.0,Tuesday,No,2014-12-30T21:26:00.000,Landlord,"[-71.071081, 42.300115]",Point,Landlord,12,LANTEN,0,C11,First,No,WESTVILLE ST,Part three,Unarmed,772201.4742,,2934681.494,2014
+226314,142061842.0,Tuesday,No,2014-12-30T16:55:00.000,Landlord,"[-71.07571, 42.319916]",Point,Landlord,12,IVPER,0,B2,First,No,GAYLAND ST,Part three,Unarmed,770913.3282,,2941891.165,2014

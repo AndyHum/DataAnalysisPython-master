@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20436,152031783.0,Saturday,No,2015-04-18T20:33:00.000,MedAssist,"[-71.129915, 42.363004]",Point,MedAssist,4,REQP,0,D14,First,No,N HARVARD ST,Part three,Unarmed,756185.8465,,2957524.977,2015
+31070,152031628.0,Saturday,No,2015-04-18T10:29:00.000,MedAssist,"[-71.15804, 42.353696]",Point,MedAssist,4,UNCONS,0,D14,Day,No,S HOBART ST,Part three,Unarmed,748598.4903,,2954101.2460000003,2015
+33621,152031657.0,Saturday,No,2015-04-18T11:48:00.000,MedAssist,"[-71.05572, 42.328936]",Point,MedAssist,4,REQP,0,C6,Day,No,MOHAWK ST,Part three,Unarmed,776302.3266,,2945205.727,2015
+35302,152031805.0,Saturday,No,2015-04-18T21:35:00.000,MedAssist,"[-71.138423, 42.345885]",Point,MedAssist,4,REQEP,0,D14,First,No,VINAL ST,Part three,Unarmed,753912.8947,,2951276.645,2015
+40649,152031686.0,Saturday,No,2015-04-18T14:22:00.000,MedAssist,"[-71.04049, 42.373806]",Point,MedAssist,4,IVPER,0,A7,Day,No,BORDER ST,Part three,Unarmed,780332.2546,,2961578.942,2015
+54705,152031714.0,Saturday,No,2015-04-18T16:42:00.000,MedAssist,"[-71.083648, 42.296992]",Point,MedAssist,4,POISON,0,B3,First,No,ESMOND ST,Part three,Other,768807.2851,,2933526.475,2015
+127608,152031571.0,Saturday,No,2015-04-18T06:30:00.000,MedAssist,"[-71.07538, 42.333949]",Point,MedAssist,4,CARDIA,0,D4,Last,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2015
+181416,152031560.0,Saturday,No,2015-04-18T00:47:00.000,MedAssist,"[-71.052946, 42.357137]",Point,MedAssist,4,INJ,0,A1,Last,No,FRANKLIN ST,Part three,Unarmed,776998.3439,,2955486.627,2015
+193319,152031700.0,Saturday,No,2015-04-18T14:14:00.000,MedAssist,"[-71.071555, 42.272931]",Point,MedAssist,4,IVPER,0,B3,Day,No,OLD MORTON ST,Part three,Unarmed,772123.0179999999,,2924774.7539999997,2015
+224737,152031668.0,Saturday,No,2015-04-18T12:02:00.000,MedAssist,"[-71.093405, 42.276511]",Point,MedAssist,4,MVA,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766203.2661,,2926050.409,2015
+242285,152031627.0,Saturday,No,2015-04-18T11:05:00.000,MedAssist,"[-71.141445, 42.351256]",Point,MedAssist,4,UNCONS,0,D14,Day,No,RIDGEMONT ST,Part three,Unarmed,753087.8235,,2953230.483,2015
+250961,152031653.0,Saturday,No,2015-04-18T12:50:00.000,MedAssist,"[-71.060585, 42.298841]",Point,MedAssist,4,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775043.317,,2934231.818,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5623,120630919.0,Sunday,No,2012-10-07T00:42:00.000,PROSTITUTION CHARGES,"[-71.05682, 42.323371]",Point,16xx,10,ARREST,189,C6,Last,No,DORCHESTER AV,Part Two,Unarmed,776015.4199,LOCUST ST,2943176.2010000004,2012
+81821,120630872.0,Sunday,No,2012-10-07T00:20:00.000,PROSTITUTION CHARGES,"[-71.05682, 42.323371]",Point,16xx,10,ARREST,189,C6,Last,No,DORCHESTER AV,Part Two,Unarmed,776015.4199,LOCUST ST,2943176.2010000004,2012
+98416,120630989.0,Sunday,No,2012-10-07T01:09:00.000,PROSTITUTION CHARGES,"[-71.05682, 42.323371]",Point,16xx,10,ARREST,189,C6,Last,No,LOCUST ST,Part Two,Other,776015.4199,DORCHESTER AV,2943176.2010000004,2012

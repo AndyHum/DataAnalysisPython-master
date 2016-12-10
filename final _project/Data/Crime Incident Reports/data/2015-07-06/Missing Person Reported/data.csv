@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48166,,Monday,No,2015-07-06T00:00:00.000,Missing Person Reported,"[-71.094675, 42.31944]",Point,PersMiss,7,IVPER,304,B2,,No,WASHINGTON ST,Part Three,None,765785.0,,2940000.0,2015
+254940,,Monday,No,2015-07-06T00:00:00.000,Missing Person Reported,"[-71.070376, 42.344701]",Point,PersMiss,7,I00027,152,D4,,No,TREMONT ST,Part Three,None,772310.0,,2950000.0,2015

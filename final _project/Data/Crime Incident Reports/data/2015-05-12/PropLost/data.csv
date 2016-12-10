@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20630,152039146.0,Tuesday,No,2015-05-12T13:00:00.000,PropLost,"[-71.060045, 42.355131]",Point,PropLost,5,PROP,0,A1,Day,No,SUMMER ST,Part three,Unarmed,775083.5981,,2954745.595,2015
+38083,152038844.0,Tuesday,No,2015-05-12T13:30:00.000,PropLost,"[-71.092997, 42.320035]",Point,PropLost,5,PROP,0,B2,Day,No,CODMAN PARK,Part three,Unarmed,766238.0029,,2941911.626,2015
+40302,152038864.0,Tuesday,No,2015-05-12T14:50:00.000,PropLost,"[-71.099035, 42.281985]",Point,PropLost,5,PROP,0,B3,Day,No,WALK HILL ST,Part three,Unarmed,764670.0205,,2928038.012,2015
+74737,152038999.0,Tuesday,No,2015-05-12T17:00:00.000,PropLost,"[-71.062735, 42.351706]",Point,PropLost,5,PROP,0,A1,First,No,WASHINGTON ST,Part three,Other,774362.9145,,2953493.7210000004,2015
+157868,152038795.0,Tuesday,No,2015-05-12T08:45:00.000,PropLost,"[-71.085677, 42.342263]",Point,PropLost,5,LARCEN,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,768178.1968,,2950021.377,2015
+214520,152038952.0,Tuesday,No,2015-05-12T17:30:00.000,PropLost,"[-71.057141, 42.361472]",Point,PropLost,5,LARCEN,0,A1,First,No,UNION ST,Part three,Unarmed,775856.5178,,2957060.42,2015
+247815,152038827.0,Tuesday,No,2015-05-12T11:40:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,5,PROP,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+255555,152039320.0,Tuesday,No,2015-05-12T01:20:00.000,PropLost,"[-71.052846, 42.358532]",Point,PropLost,5,PROP,0,A1,Last,No,MILK ST,Part three,Unarmed,777022.7129,,2955994.982,2015

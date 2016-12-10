@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132823,140064432.0,Friday,No,2014-01-31T20:32:00.000,DISORDERLY,"[-71.1173, 42.283911]",Point,24xx,1,NIDV  ,503,E18,First,No,MT HOPE ST,Part Two,Unarmed,759724.5313,,2928717.1569999997,2014
+138025,140063082.0,Friday,No,2014-01-31T10:16:00.000,DISORDERLY,"[-71.05842, 42.357421]",Point,24xx,1,FIGHT ,97,A1,Day,No,SCHOOL ST,Part Two,Unarmed,775518.4991,WASHINGTON ST,2955582.383,2014
+214024,140063386.0,Friday,No,2014-01-31T12:50:00.000,DISORDERLY,"[-71.063675, 42.352301]",Point,24xx,1,ARREST,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014

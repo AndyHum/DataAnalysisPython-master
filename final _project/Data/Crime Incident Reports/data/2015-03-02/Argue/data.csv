@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116427,152017000.0,Monday,No,2015-03-02T22:53:00.000,Argue,"[-71.07376, 42.282643]",Point,Argue,3,IVPER,0,B3,First,No,STOCKTON ST,Part three,Unarmed,771508.3897,,2928310.909,2015
+130217,152016734.0,Monday,No,2015-03-02T09:00:00.000,Argue,"[-71.084364, 42.306373]",Point,Argue,3,VAND,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,768596.965,,2936944.225,2015
+255559,152016719.0,Monday,No,2015-03-02T07:47:00.000,Argue,"[-71.119175, 42.278916]",Point,Argue,3,DISTRB,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759225.2889,,2926894.6339999996,2015

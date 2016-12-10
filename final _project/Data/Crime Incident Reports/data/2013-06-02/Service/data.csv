@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133361,130335651.0,Sunday,No,2013-06-02T00:00:00.000,Service,"[-71.114785, 42.350901]",Point,Service,6,IVPREM,797,D14,Last,No,COMMONWEALTH AV,Part three,Other,760294.8271,,2953132.5310000004,2013
+150944,130332853.0,Sunday,No,2013-06-02T16:22:00.000,Service,"[-71.085978, 42.296806]",Point,Service,6,ARREST,441,B3,First,No,ABBOT ST,Part three,Unarmed,768177.1099,,2933455.566,2013
+181106,130332193.0,Sunday,No,2013-06-02T10:05:00.000,Service,"[-71.074385, 42.335516]",Point,Service,6,IVPER ,169,D4,Day,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2013
+240386,130333518.0,Sunday,No,2013-06-02T21:30:00.000,Service,"[-71.06428, 42.285761]",Point,Service,6,ARREST,402,C11,First,No,DORCHESTER AV,Part three,Unarmed,774068.0525,ASHMONT ST,2929460.152,2013
+247197,130333323.0,Sunday,No,2013-06-02T18:20:00.000,Service,"[-71.0393, 42.381991]",Point,Service,6,IVDRUG,28,A7,First,No,FALCON ST,Part three,Other,780637.9047,MERIDIAN ST,2964563.5110000004,2013

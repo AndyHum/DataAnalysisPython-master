@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14840,130340137.0,Wednesday,No,2013-06-05T13:43:00.000,PropFound,"[-71.07831, 42.352031]",Point,PropFound,6,FDPROP,137,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,770152.3215,DARTMOUTH ST,2953590.959,2013
+163568,130341204.0,Wednesday,No,2013-06-05T21:42:00.000,PropFound,"[-71.08761, 42.345191]",Point,PropFound,6,IVPREM,620,D4,First,No,EDGERLY RD,Part three,Unarmed,767650.5441,NORWAY ST,2951086.041,2013
+205218,130340884.0,Wednesday,No,2013-06-05T19:14:00.000,PropFound,"[-71.119065, 42.311061]",Point,PropFound,6,FDPROP,644,E13,First,No,DANE ST,Part three,Unarmed,759202.7409999999,,2938608.9069999997,2013

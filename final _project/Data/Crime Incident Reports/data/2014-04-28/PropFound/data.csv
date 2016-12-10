@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99166,140259111.0,Monday,No,2014-04-28T20:02:00.000,PropFound,"[-71.08372, 42.300901]",Point,PropFound,4,SSTOP ,0,B3,First,No,GLENWAY ST,Part three,Unarmed,768780.9111,ERIE ST,2934951.12,2014
+170656,140258191.0,Monday,No,2014-04-28T09:00:00.000,PropFound,"[0, 0]",Point,PropFound,4,CD13  ,520,E18,Day,No,FAIRMOUNT ST,Part three,Other,,,,2014
+225722,140257113.0,Monday,No,2014-04-28T00:38:00.000,PropFound,"[-71.130142, 42.351748]",Point,PropFound,4,FDPROP,796,D14,Last,No,LINDEN ST,Part three,Unarmed,756142.2724,,2953422.686,2014
+236097,140275543.0,Monday,No,2014-04-28T10:39:00.000,PropFound,"[-71.107435, 42.316016]",Point,PropFound,4,LARCRT,639,E13,Day,No,CHESTNUT AV,Part three,Unarmed,762340.1098,,2940428.855,2014

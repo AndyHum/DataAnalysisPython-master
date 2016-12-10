@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46250,152016455.0,Sunday,No,2015-03-01T07:30:00.000,FIRE,"[-71.120985, 42.352991]",Point,FIRE,3,FIRE,0,D14,Day,No,BABCOCK ST,Part three,Unarmed,758615.5224,,2953886.66,2015
+177434,152016449.0,Sunday,No,2015-03-01T05:05:00.000,FIRE,"[-71.10342, 42.315831]",Point,FIRE,3,FIRE,0,E13,Last,No,PORTER ST,Part three,Unarmed,763426.3143,,2940366.461,2015
+252264,152016671.0,Sunday,No,2015-03-01T22:22:00.000,FIRE,"[-71.07033, 42.313096]",Point,FIRE,3,FO,0,B2,First,No,BODWELL ST,Part three,Unarmed,772380.8223,BIRD ST,2939413.13,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8999,130644517.0,Tuesday,No,2013-10-08T12:15:00.000,PropLost,"[-71.056615, 42.356066]",Point,PropLost,10,LARCRT,107,A1,Day,No,FEDERAL ST,Part three,Unarmed,776008.9236,,2955091.127,2013
+128857,130648012.0,Tuesday,No,2013-10-08T08:00:00.000,PropLost,"[-71.064115, 42.288601]",Point,PropLost,10,LSTPRP,817,C11,Day,No,BANTON ST,Part three,Unarmed,774107.412,,2930495.315,2013
+151698,130644914.0,Tuesday,No,2013-10-08T22:00:00.000,PropLost,"[-71.055985, 42.363381]",Point,PropLost,10,LARCRT,91,A1,First,No,SALEM ST,Part three,Unarmed,776165.3272,,2957757.7410000004,2013
+161684,130646871.0,Tuesday,No,2013-10-08T21:00:00.000,PropLost,"[-71.069615, 42.356111]",Point,PropLost,10,LSTPRP,69,A1,First,No,BEACON ST,Part three,Unarmed,772495.1137,,2955089.5289999996,2013
+176109,130643820.0,Tuesday,No,2013-10-08T22:00:00.000,PropLost,"[-71.05081, 42.338801]",Point,PropLost,10,LSTPRP,936,C6,First,No,W BROADWAY,Part three,Unarmed,777611.0702,D ST,2948807.6560000004,2013
+230502,130643159.0,Tuesday,No,2013-10-08T16:30:00.000,PropLost,"[-71.056735, 42.360596]",Point,PropLost,10,LSTPRP,93,A1,First,No,UNION ST,Part three,Unarmed,775967.9099,,2956741.778,2013
+262431,130649848.0,Tuesday,No,2013-10-08T19:30:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,476,D4,First,No,REXFORD ST,Part three,Unarmed,,,,2013
+266132,130657527.0,Tuesday,No,2013-10-08T09:30:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,107,A1,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2013

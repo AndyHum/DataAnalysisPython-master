@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69931,140189450.0,Saturday,No,2014-03-29T11:15:00.000,Service,"[-71.12157, 42.243854]",Point,Service,3,CD11  ,940,E18,Day,No,WOODGLEN RD,Part three,Unarmed,758633.7996,,2914114.7339999997,2014
+123437,140190208.0,Saturday,No,2014-03-29T18:46:00.000,Service,"[-71.063873, 42.325436]",Point,Service,3,IVPER ,186,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+167689,140190277.0,Saturday,No,2014-03-29T19:28:00.000,Service,"[-71.09636, 42.343971]",Point,Service,3,NIDV  ,624,D4,First,No,PETERBOROUGH ST,Part three,Unarmed,765287.2269,,2950630.137,2014

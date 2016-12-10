@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+118645,120558479.0,Thursday,No,2012-09-06T23:55:00.000,Arrest,"[-71.085618, 42.32866]",Point,Arrest,9,IVPER ,282,B2,Last,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012
+123789,120364421.0,Thursday,No,2012-09-06T14:20:00.000,Arrest,"[-71.074385, 42.335516]",Point,Arrest,9,ARREST,824,D4,Day,No,HARRISON AV,Part Three,Unarmed,771243.2964,,2947577.858,2012
+150127,120556056.0,Thursday,No,2012-09-06T00:48:00.000,Arrest,"[-71.060825, 42.351386]",Point,Arrest,9,ARREST,113,A1,Last,No,BEACH ST,Part Three,Unarmed,774879.7976,,2953379.76,2012

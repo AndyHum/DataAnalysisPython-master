@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54201,,Tuesday,No,2015-08-04T00:00:00.000,Property Found,"[-71.051368, 42.330814]",Point,PropFound,8,IVPER,915,C6,,No,MARY BOYLE WAY,Part Three,None,777475.0,,2950000.0,2015
+248993,,Tuesday,No,2015-08-04T17:30:00.000,Property Found,"[0, 0]",Point,PropFound,8,PROP,643,E13,,No,CENTRE ST,Part Three,None,,GREENOUGH AVE,,2015
+252844,,Tuesday,No,2015-08-04T00:24:00.000,Property Found,"[0, 0]",Point,PropFound,8,IVPREM,620,D4,,No,EDGERLY RD,Part Three,None,,HAVILAND ST,,2015

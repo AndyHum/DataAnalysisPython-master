@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130387,142025997.0,Thursday,No,2014-09-04T03:20:00.000,DISORDERLY,"[-71.033575, 42.371691]",Point,24xx,9,DISTRB,0,A7,Last,No,PORTER ST,Part Two,Other,782205.1855,,2960818.39,2014
+158934,142026167.0,Thursday,No,2014-09-04T10:00:00.000,DISORDERLY,"[-71.05842, 42.357421]",Point,24xx,9,PROTES,0,A1,Day,No,SCHOOL ST,Part Two,Unarmed,775518.4991,WASHINGTON ST,2955582.383,2014
+240163,142026204.0,Thursday,No,2014-09-04T19:15:00.000,DISORDERLY,"[-71.06287, 42.297971]",Point,24xx,9,FIGHT,0,C11,First,No,BOURNESIDE ST,Part Two,Unarmed,774426.7778,PARK ST,2933911.6010000003,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4056,,Wednesday,No,2015-07-08T00:00:00.000,Violations,"[-71.05826, 42.330035]",Point,VAL,7,IVPER,174,C6,,No,ELLERY ST,Part Two,None,775613.0,,2950000.0,2015
+102202,,Wednesday,No,2015-07-08T12:19:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,ARREST,225,C6,,No,E BROADWAY,Part Two,Firearm,,,,2015
+147969,,Wednesday,No,2015-07-08T21:47:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,421,B3,,No,EVANS ST,Part Two,None,, MORTON ST ,,2015
+172478,,Wednesday,No,2015-07-08T20:49:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,495,E18,,No,HYDE PARK AVE,Part Two,None,,WEST ST,,2015
+227372,,Wednesday,No,2015-07-08T00:00:00.000,Firearm Violations,"[-71.055116, 42.378573]",Point,15xx,7,ARREST,900,A15,,No,STARR KING CT,Part Two,Firearm,776371.0,,2960000.0,2015
+258200,,Wednesday,No,2015-07-08T16:58:00.000,Violations,"[0, 0]",Point,VAL,7,TS,437,B3,,No,NORFOLK ST,Part Two,None,,PEACEVALE RD,,2015

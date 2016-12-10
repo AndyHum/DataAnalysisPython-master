@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59628,152013841.0,Friday,No,2015-02-20T19:30:00.000,Arrest,"[-71.078425, 42.312846]",Point,Arrest,2,CD11,0,B2,First,No,LAWRENCE AV,Part three,Unarmed,770191.8168,,2939311.102,2015
+198445,152013647.0,Friday,No,2015-02-20T09:14:00.000,Arrest,"[-71.064693, 42.281257]",Point,Arrest,2,CD11,0,C11,Day,No,BECKET ST,Part three,Unarmed,773964.6544,,2927818.0730000003,2015
+246596,152013654.0,Friday,No,2015-02-20T09:21:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,2,ARREST,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015

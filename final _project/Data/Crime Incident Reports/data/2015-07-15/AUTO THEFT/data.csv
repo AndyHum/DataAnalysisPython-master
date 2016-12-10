@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7214,,Wednesday,No,2015-07-15T18:19:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,28,A7,,No,PARIS ST,Part One,None,,PORTER ST,,2015
+31286,,Wednesday,No,2015-07-15T00:00:00.000,Auto Theft,"[-71.085105, 42.28957]",Point,07xx,7,,944,B3,,No,AMES ST,Part One,None,768426.0,,2930000.0,2015
+49642,,Wednesday,No,2015-07-15T00:00:00.000,Auto Theft,"[-71.143491, 42.351587]",Point,07xx,7,,782,D14,,No,CAMBRIDGE ST,Part One,None,752534.0,,2950000.0,2015
+83083,,Wednesday,No,2015-07-15T00:00:00.000,Auto Theft,"[-71.077487, 42.338983]",Point,07xx,7,IVMV,156,D4,,No,WORCESTER ST,Part One,None,770398.0,,2950000.0,2015

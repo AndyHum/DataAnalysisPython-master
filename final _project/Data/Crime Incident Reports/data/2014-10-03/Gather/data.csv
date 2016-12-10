@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46906,142035315.0,Friday,No,2014-10-03T00:15:00.000,Gather,"[-71.11003, 42.331491]",Point,Gather,10,DISTRB,0,B2,Last,No,PARKER HILL TR,Part three,Unarmed,761612.4872,,2946064.999,2014
+144568,142035314.0,Friday,No,2014-10-03T01:44:00.000,Gather,"[-71.105666, 42.331797]",Point,Gather,10,DISTRB,0,B2,Last,No,DARLING ST,Part three,Unarmed,762791.8067,,2946181.974,2014
+165209,142035424.0,Friday,No,2014-10-03T12:20:00.000,Gather,"[-71.05066, 42.332571]",Point,Gather,10,DISTRB,0,C6,Day,No,E 8TH ST,Part three,Other,777663.585,,2946537.55,2014

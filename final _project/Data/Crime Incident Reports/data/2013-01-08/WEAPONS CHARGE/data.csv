@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27657,130015842.0,Tuesday,No,2013-01-08T13:46:00.000,WEAPONS CHARGE,"[-71.08331, 42.339301]",Point,15xx,1,ARREST,597,D4,Day,No,CAMDEN ST,Part Two,Firearm,768823.4634,COLUMBUS AV,2948945.265,2013
+74386,130015616.0,Tuesday,No,2013-01-08T14:00:00.000,WEAPONS CHARGE,"[-71.055835, 42.320276]",Point,15xx,1,IVDRUG,235,C11,Day,No,BUTTONWOOD ST,Part Two,Unarmed,776287.6639,,2942049.7180000003,2013
+83563,130016234.0,Tuesday,No,2013-01-08T17:54:00.000,WEAPONS CHARGE,"[-71.1202, 42.272521]",Point,15xx,1,ARREST,498,E18,First,No,HYDE PARK AV,Part Two,Unarmed,758958.2829,AMERICAN LEGION HY,2924562.9680000003,2013
+214263,130015294.0,Tuesday,No,2013-01-08T07:35:00.000,WEAPONS CHARGE,"[-71.106752, 42.273678]",Point,15xx,1,IVPER ,473,B3,Day,No,HEBRON ST,Part Two,Unarmed,762595.8353,,2925000.897,2013

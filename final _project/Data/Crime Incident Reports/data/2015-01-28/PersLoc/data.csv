@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123493,152007586.0,Wednesday,No,2015-01-28T22:53:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISSIN,0,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+173796,152007585.0,Wednesday,No,2015-01-28T15:00:00.000,PersLoc,"[-71.06931, 42.305981]",Point,PersLoc,1,IVPER,0,C11,Day,No,INWOOD ST,Other,Unarmed,772669.6888,,2936821.6360000004,2015
+199786,152008762.0,Wednesday,No,2015-01-28T17:00:00.000,PersLoc,"[-71.03173, 42.379881]",Point,PersLoc,1,IVPER,0,A7,First,No,LEXINGTON ST,Other,Unarmed,782687.3529,,2963805.723,2015
+218159,152009617.0,Wednesday,No,2015-01-28T12:00:00.000,PersLoc,"[-71.166065, 42.353471]",Point,PersLoc,1,IVPER,0,D14,Day,No,PERTHSHIRE RD,Other,Unarmed,746429.6340000001,,2954010.538,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68824,130753863.0,Friday,No,2013-11-29T08:15:00.000,Service,"[-71.077405, 42.295266]",Point,Service,11,CD11  ,447,B3,Day,No,MILLET ST,Other,Unarmed,770499.4356,,2932906.042,2013
+206322,130754857.0,Friday,No,2013-11-29T17:30:00.000,Service,"[-71.064905, 42.352371]",Point,Service,11,ARREST,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+223771,130754113.0,Friday,No,2013-11-29T10:57:00.000,Service,"[-71.03075, 42.377181]",Point,Service,11,CD11  ,20,A7,Day,No,PUTNAM ST,Other,Unarmed,782957.5485,,2962823.242,2013
+259212,130755033.0,Friday,No,2013-11-29T19:45:00.000,Service,"[-71.06378, 42.353241]",Point,Service,11,ARREST,111,A1,First,No,AVERY ST,Part three,Unarmed,774077.5839,MASON ST,2954051.6569999997,2013

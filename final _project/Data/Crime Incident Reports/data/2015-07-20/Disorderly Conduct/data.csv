@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39730,,Monday,No,2015-07-20T00:00:00.000,Disorderly Conduct,"[-71.041789, 42.318787]",Point,24xx,7,IVPER,913,C6,,No,WESTWIND RD,Part Two,None,780089.0,,2940000.0,2015
+71570,,Monday,No,2015-07-20T00:00:00.000,Disorderly Conduct,"[-71.028621, 42.378623]",Point,24xx,7,ARREST,17,A7,,No,CHELSEA ST,Part Two,None,783530.0,,2960000.0,2015
+172572,,Monday,No,2015-07-20T00:00:00.000,Disorderly Conduct,"[-71.075991, 42.308334]",Point,24xx,7,IVPER,328,B2,,No,BRUNSWICK ST,Part Two,None,770858.0,,2940000.0,2015

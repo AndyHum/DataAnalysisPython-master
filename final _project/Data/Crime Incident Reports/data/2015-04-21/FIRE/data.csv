@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129525,152032599.0,Tuesday,No,2015-04-21T22:45:00.000,FIRE,"[-71.07372, 42.340181]",Point,FIRE,4,FIRE,0,D4,First,No,SHAWMUT AV,Part three,Other,771414.5992,,2949278.7660000003,2015
+157517,152032324.0,Tuesday,No,2015-04-21T00:26:00.000,FIRE,"[-71.036319, 42.33449]",Point,FIRE,4,FIRE,0,C6,Last,No,EMERSON ST,Part three,Unarmed,781537.2275,,2947257.534,2015
+243528,152032597.0,Tuesday,No,2015-04-21T21:19:00.000,FIRE,"[-71.079318, 42.305193]",Point,FIRE,4,REQP,0,C11,First,No,STRATHCONA RD,Part three,Other,769963.8491,,2936520.9689999996,2015

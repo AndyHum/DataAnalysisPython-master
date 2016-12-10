@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43533,120720174.0,Thursday,No,2012-11-15T17:15:00.000,Service,"[-71.04625, 42.354256]",Point,Service,11,CD5   ,207,C6,First,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012
+48897,120757354.0,Thursday,No,2012-11-15T10:00:00.000,Service,"[-71.04739, 42.332326]",Point,Service,11,LARCRT,219,C6,Day,No,OLD HARBOR ST,Part Three,Unarmed,778548.2233,,2946452.942,2012
+166388,120720659.0,Thursday,No,2012-11-15T21:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,11,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Other,774845.858,,2938432.619,2012
+200090,120719707.0,Thursday,No,2012-11-15T12:59:00.000,Service,"[-71.074734, 42.300181]",Point,Service,11,INVEST,0,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,771212.9109,,2934700.731,2012
+203152,120720049.0,Thursday,No,2012-11-15T16:00:00.000,Service,"[-71.081074, 42.321329]",Point,Service,11,ARREST,265,B2,First,No,WAVERLY ST,Part Three,Unarmed,769459.9305,,2942398.693,2012

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13972,130764203.0,Tuesday,No,2013-12-03T14:15:00.000,Service,"[-71.06443, 42.285251]",Point,Service,12,IVPER ,402,C11,Day,No,DORCHESTER AV,Other,Unarmed,774028.4138,,2929274.0930000003,2013
+166068,130762019.0,Tuesday,No,2013-12-03T09:20:00.000,Service,"[-71.07577, 42.318421]",Point,Service,12,TSTOP ,0,B2,Day,No,JUDSON ST,Part three,Unarmed,770899.8118,BROOKFORD ST,2941346.2810000004,2013
+211878,130763733.0,Tuesday,No,2013-12-03T23:14:00.000,Service,"[-71.05134, 42.281581]",Point,Service,12,BEIP  ,383,C11,First,No,RITA RD,Part three,Unarmed,777577.4609,ST BRENDAN RD,2927955.0560000003,2013
+216917,130763472.0,Tuesday,No,2013-12-03T19:30:00.000,Service,"[-71.150524, 42.344801]",Point,Service,12,THREAT,776,D14,First,No,BLENFORD RD,Part three,Unarmed,750643.2076,,2950867.705,2013
+234114,130763290.0,Tuesday,No,2013-12-03T17:50:00.000,Service,"[-71.05862, 42.295126]",Point,Service,12,IVPER ,364,C11,First,No,LESLIE ST,Other,Unarmed,775581.9166,,2932880.7630000003,2013
+257450,130763665.0,Tuesday,No,2013-12-03T22:05:00.000,Service,"[-71.089445, 42.290051]",Point,Service,12,ARREST,439,B3,First,No,BLUE HILL AV,Part three,Unarmed,767251.1994,ARBUTUS ST,2930989.709,2013

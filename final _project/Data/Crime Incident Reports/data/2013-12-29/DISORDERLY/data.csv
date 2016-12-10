@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131344,130817436.0,Sunday,No,2013-12-29T22:05:00.000,DISORDERLY,"[-71.098335, 42.347376]",Point,24xx,12,ARREST,624,D4,First,No,BROOKLINE AV,Part Two,Unarmed,764747.4655,,2951868.462,2013
+142939,130815934.0,Sunday,No,2013-12-29T00:05:00.000,DISORDERLY,"[-71.09116, 42.284801]",Point,24xx,12,ARREST,0,B3,Last,No,BLUE HILL AV,Part Two,Unarmed,766796.344,FRONTENAC ST,2929074.305,2013
+188217,130815872.0,Sunday,No,2013-12-29T00:49:00.000,DISORDERLY,"[-71.09154, 42.284251]",Point,24xx,12,ARREST,465,B3,Last,No,BLUE HILL AV,Part Two,Unarmed,766694.479,MORTON ST,2928873.385,2013

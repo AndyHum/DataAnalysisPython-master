@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110154,130740818.0,Wednesday,No,2013-11-20T11:00:00.000,PropLost,"[-71.041075, 42.318581]",Point,PropLost,11,LSTPRP,256,C6,Day,No,BEACH POINT PL,Part three,Unarmed,780282.672,,2941453.165,2013
+175252,130737751.0,Wednesday,No,2013-11-20T20:00:00.000,PropLost,"[-71.056651, 42.353055]",Point,PropLost,11,LARCRT,0,A1,First,No,SUMMER ST,Part three,Unarmed,776004.7599,ATLANTIC AV,2953993.539,2013
+178731,130737465.0,Wednesday,No,2013-11-20T18:38:00.000,PropLost,"[-71.069245, 42.344491]",Point,PropLost,11,LARCRT,160,D4,First,No,DWIGHT ST,Part three,Unarmed,772616.5062,,2950855.488,2013
+178795,130738515.0,Wednesday,No,2013-11-20T11:14:00.000,PropLost,"[-71.095405, 42.348786]",Point,PropLost,11,LARCRT,623,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765537.0788,,2952386.037,2013
+264910,130737662.0,Wednesday,No,2013-11-20T15:15:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,26,A7,Day,No,LIVERPOOL ST,Part three,Unarmed,,SUMNER ST,,2013

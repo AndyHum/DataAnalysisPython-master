@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16325,130711327.0,Friday,No,2013-11-08T12:42:00.000,Argue,"[-71.06283, 42.307571]",Point,Argue,11,DISTRB,347,C11,Day,No,ADAMS ST,Part three,Unarmed,774419.6684,EAST ST,2937410.041,2013
+73522,130813691.0,Friday,No,2013-11-08T16:00:00.000,Argue,"[-71.053675, 42.367211]",Point,Argue,11,INVEST,83,A1,First,No,HENCHMAN ST,Part three,Unarmed,776782.3132,,2959156.727,2013
+80132,130711906.0,Friday,No,2013-11-08T17:15:00.000,Argue,"[-71.071937, 42.314077]",Point,Argue,11,FIGHT ,260,B2,First,No,MAGNOLIA ST,Part three,Unarmed,771944.3583,,2939768.275,2013
+103250,130711937.0,Friday,No,2013-11-08T17:30:00.000,Argue,"[-71.150489, 42.338608]",Point,Argue,11,INVEST,789,D14,First,No,CHISWICK RD,Part three,Unarmed,750661.9271,,2948610.9669999997,2013

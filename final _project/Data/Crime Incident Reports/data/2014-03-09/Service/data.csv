@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47856,140144971.0,Sunday,No,2014-03-09T14:14:00.000,Service,"[-71.093126, 42.278923]",Point,Service,3,IVPER ,427,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766274.5068,,2926929.441,2014
+70583,140156659.0,Sunday,No,2014-03-09T13:00:00.000,Service,"[-71.102145, 42.273781]",Point,Service,3,IVPER ,474,B3,Day,No,ITASCA ST,Part three,Unarmed,763842.6228,,2925044.4060000004,2014
+140129,140246874.0,Sunday,No,2014-03-09T00:00:00.000,Service,"[-71.07979, 42.312486]",Point,Service,3,IVPER ,326,B2,Last,No,CRESTON ST,Part three,Unarmed,769823.267,,2939178.0889999997,2014
+263579,140144405.0,Sunday,No,2014-03-09T05:10:00.000,Service,"[0, 0]",Point,Service,3,MVARPT,169,C6,Last,No,MASSACHUSETTS AV,Part three,Unarmed,,SOUTHBOURNE RD,,2014

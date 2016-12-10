@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+995,152038812.0,Tuesday,No,2015-05-12T11:39:00.000,Argue,"[0, 0]",Point,Argue,5,IVPER,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,,,,2015
+1006,152038701.0,Tuesday,No,2015-05-12T23:08:00.000,Argue,"[0, 0]",Point,Argue,5,PKNIFE,0,C11,First,No,ADAMS ST,Part three,Unarmed,,,,2015
+1303,152039721.0,Tuesday,No,2015-05-12T14:35:00.000,Argue,"[0, 0]",Point,Argue,5,IVPER,0,B2,Day,No,MALCOLM X BL,Part three,Other,,,,2015
+48776,152038859.0,Tuesday,No,2015-05-12T14:30:00.000,Argue,"[-70.99779, 42.389421]",Point,Argue,5,IVPER,0,A7,Day,No,BENNINGTON ST,Part three,Unarmed,791836.6886,,2967334.336,2015
+186150,152039022.0,Tuesday,No,2015-05-12T21:33:00.000,Argue,"[-71.094763, 42.284636]",Point,Argue,5,IVPER,0,B3,First,No,WELLINGTON HILL ST,Part three,Unarmed,765821.7009,,2929009.2339999997,2015

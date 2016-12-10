@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22782,120567949.0,Tuesday,No,2012-09-11T01:21:00.000,InvProp,"[-71.085955, 42.343151]",Point,InvProp,9,SHOTS ,619,D4,Last,No,ST STEPHEN ST,Part Three,Unarmed,768101.5539,,2950344.795,2012
+60458,120569262.0,Tuesday,No,2012-09-11T16:08:00.000,InvProp,"[-71.115454, 42.290223]",Point,InvProp,9,ALARMR,506,E13,First,No,SOUTHBOURNE RD,Part Three,Unarmed,760213.6307,,2931019.334,2012
+99218,120569200.0,Tuesday,No,2012-09-11T10:30:00.000,InvProp,"[-71.07242, 42.321961]",Point,InvProp,9,LARCRT,182,B2,Day,No,DUDLEY ST,Part Three,Unarmed,771799.3448,,2942640.84,2012
+206711,120567873.0,Tuesday,No,2012-09-11T00:27:00.000,InvProp,"[-71.093675, 42.273786]",Point,InvProp,9,INVEST,472,B3,Last,No,BLUE HILL AV,Part Three,Other,766134.927,,2925057.0330000003,2012

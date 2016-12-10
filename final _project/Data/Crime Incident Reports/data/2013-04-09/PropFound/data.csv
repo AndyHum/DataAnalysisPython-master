@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58794,130208941.0,Tuesday,No,2013-04-09T12:35:00.000,PropFound,"[-71.129273, 42.28538]",Point,PropFound,4,FDPROP,680,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,756482.1399,,2929237.938,2013
+94908,130210145.0,Tuesday,No,2013-04-09T21:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,4,FDPROP,796,D14,First,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2013
+181235,130209107.0,Tuesday,No,2013-04-09T14:20:00.000,PropFound,"[-71.06432, 42.343461]",Point,PropFound,4,FDPROP,152,D4,Day,No,E BERKELEY ST,Part Three,Unarmed,773949.8274,HARRISON AV,2950486.898,2013

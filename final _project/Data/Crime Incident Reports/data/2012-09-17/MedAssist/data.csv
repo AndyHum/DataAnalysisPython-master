@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4402,120583302.0,Monday,No,2012-09-17T11:30:00.000,MedAssist,"[-71.116525, 42.253356]",Point,MedAssist,9,CARST ,512,E18,Day,No,BEACON ST,Part Three,Unarmed,759984.2985,,2917583.439,2012
+5716,120583180.0,Monday,No,2012-09-17T10:08:00.000,MedAssist,"[-71.06281, 42.342461]",Point,MedAssist,9,AOD   ,165,D4,Day,No,ALBANY ST,Part Three,Unarmed,774359.9099,,2950124.5689999997,2012
+51926,120582607.0,Monday,No,2012-09-17T00:11:00.000,MedAssist,"[-71.078726, 42.311953]",Point,MedAssist,9,INJOFF,326,B2,Last,No,CRESTON ST,Part Three,Unarmed,770112.0165,,2938984.9930000002,2012
+57725,120584176.0,Monday,No,2012-09-17T18:20:00.000,MedAssist,"[-71.06974, 42.289166]",Point,MedAssist,9,EDP2  ,398,C11,First,No,BRENT ST,Part Three,Unarmed,772584.3859,,2930693.4839999997,2012
+63795,120583360.0,Monday,No,2012-09-17T10:22:00.000,MedAssist,"[-71.16821, 42.290621]",Point,MedAssist,9,INJOFF,747,E5,Day,No,VFW PY,Part Three,Unarmed,745938.9685,LAGRANGE ST,2931104.689,2012
+132049,120583240.0,Monday,No,2012-09-17T10:46:00.000,MedAssist,"[-71.077185, 42.296021]",Point,MedAssist,9,ABIP  ,446,B3,Day,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2012
+179817,120584301.0,Monday,No,2012-09-17T18:57:00.000,MedAssist,"[-71.039085, 42.369936]",Point,MedAssist,9,EDP2  ,27,A7,First,No,MAVERICK SQ,Part Three,Unarmed,780719.7315,,2960170.738,2012
+191138,120583117.0,Monday,No,2012-09-17T09:41:00.000,MedAssist,"[-71.15206, 42.265841]",Point,MedAssist,9,UNCONS,711,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,750345.4717,,2922091.897,2012

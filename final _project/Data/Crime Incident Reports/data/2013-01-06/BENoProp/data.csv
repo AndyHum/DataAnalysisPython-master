@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12122,130011007.0,Sunday,No,2013-01-06T04:17:00.000,BENoProp,"[-71.037909, 42.373095]",Point,BENoProp,1,BEIP  ,22,A7,Last,No,HAVRE ST,Part One,Unarmed,781031.1626,,2961323.418,2013
+47212,130011592.0,Sunday,No,2013-01-06T14:26:00.000,BENoProp,"[-71.06042, 42.323311]",Point,BENoProp,1,BERPT ,188,C6,Day,No,BOSTON ST,Part One,Unarmed,775041.9987,,2943149.298,2013
+242340,130011113.0,Sunday,No,2013-01-06T07:55:00.000,BENoProp,"[-71.13696, 42.293561]",Point,BENoProp,1,BEIP  ,677,E5,Day,No,CENTRE ST,Part One,Other,754389.6453,,2932210.51,2013

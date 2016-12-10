@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5425,142000437.0,Tuesday,No,2014-06-17T17:00:00.000,PropLost,"[-71.061155, 42.357256]",Point,PropLost,6,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,774779.5911,,2955518.44,2014
+106596,142000719.0,Tuesday,No,2014-06-17T21:00:00.000,PropLost,"[-71.08803, 42.294881]",Point,PropLost,6,LARCEN,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767625.554,TALBOT AV,2932751.6789999995,2014
+194453,142000090.0,Tuesday,No,2014-06-17T17:30:00.000,PropLost,"[-71.030225, 42.334021]",Point,PropLost,6,PROP,0,C6,First,No,E 5TH ST,Part three,Other,783186.0267,,2947095.725,2014
+218282,142000842.0,Tuesday,No,2014-06-17T22:30:00.000,PropLost,"[-71.08845, 42.349336]",Point,PropLost,6,PROP,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,767416.1751,,2952595.462,2014
+238625,142000739.0,Tuesday,No,2014-06-17T23:30:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,6,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2014
+263963,142001846.0,Tuesday,No,2014-06-17T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,C6,Day,No,SHETLAND ST,Part three,Unarmed,,MASSACHUSETTS AV,,2014

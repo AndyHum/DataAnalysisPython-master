@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+172320,142047277.0,Sunday,No,2014-11-09T06:34:00.000,OPERATING UNDER INFLUENCE,"[-71.009504, 42.38977]",Point,21xx,11,MVA,0,A7,Last,No,LEYDEN ST,Part Two,Other,788671.5371,,2967443.041,2014
+221413,142047257.0,Sunday,No,2014-11-09T01:25:00.000,OPERATING UNDER INFLUENCE,"[-71.05192, 42.298591]",Point,21xx,11,FIGHT,0,C11,Last,No,MILL ST,Part Two,Unarmed,777387.9466,GREEN HILL ST,2934152.91,2014
+224692,142047267.0,Sunday,No,2014-11-09T02:14:00.000,OPERATING UNDER INFLUENCE,"[-71.06942, 42.356141]",Point,21xx,11,ARREST,0,A1,Last,No,BEACON ST,Part Two,Other,772547.7636,CHARLES ST,2955100.727,2014

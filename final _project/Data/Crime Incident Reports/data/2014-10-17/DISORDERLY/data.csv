@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51541,142039856.0,Friday,No,2014-10-17T00:30:00.000,DISORDERLY,"[-71.040034, 42.317592]",Point,24xx,10,DISTRB,0,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780565.8978,,2941094.309,2014
+55218,142039980.0,Friday,No,2014-10-17T13:32:00.000,DISORDERLY,"[-71.058866, 42.357544]",Point,24xx,10,IVPER,0,A1,Day,No,SCHOOL ST,Part Two,Other,775397.5892,,2955626.3189999997,2014
+120995,142039912.0,Friday,No,2014-10-17T10:10:00.000,DISORDERLY,"[-71.03511, 42.380531]",Point,24xx,10,IVPER,0,A7,Day,No,WHITE ST,Part Two,Unarmed,781772.8403,,2964037.6010000003,2014

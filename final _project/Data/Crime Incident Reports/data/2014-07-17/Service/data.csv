@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51713,142009915.0,Thursday,No,2014-07-17T00:44:00.000,Service,"[-71.0626, 42.352361]",Point,Service,7,ARREST,0,A1,Last,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+117759,142010153.0,Thursday,No,2014-07-17T19:54:00.000,Service,"[-71.060964, 42.352801]",Point,Service,7,ARREST,0,A1,First,No,CHAUNCY ST,Part three,Unarmed,774839.4243,,2953895.0289999996,2014
+176117,142010130.0,Thursday,No,2014-07-17T14:00:00.000,Service,"[-71.089444, 42.319613]",Point,Service,7,LARCEN,0,B2,Day,No,WALNUT AV,Part three,Unarmed,767199.6299,,2941762.2860000003,2014
+201661,142010157.0,Thursday,No,2014-07-17T21:45:00.000,Service,"[-71.061235, 42.310371]",Point,Service,7,IVPER,0,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014

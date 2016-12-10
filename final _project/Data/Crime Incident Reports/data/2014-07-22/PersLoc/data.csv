@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47735,142011879.0,Tuesday,No,2014-07-22T07:15:00.000,PersLoc,"[-71.119115, 42.271606]",Point,PersLoc,7,IVPER,0,E18,Last,No,CLARE AV,Other,Unarmed,759253.4211,,2924230.8389999997,2014
+113333,142021231.0,Tuesday,No,2014-07-22T10:00:00.000,PersLoc,"[-71.075585, 42.340456]",Point,PersLoc,7,MISC,0,D4,Day,No,W NEWTON ST,Other,Unarmed,770909.8909,,2949376.4669999997,2014
+146043,142011883.0,Tuesday,No,2014-07-22T21:16:00.000,PersLoc,"[-71.08908, 42.291676]",Point,PersLoc,7,IVPER,0,B3,First,No,BLUE HILL AV,Other,Unarmed,767347.104,,2931582.3589999997,2014

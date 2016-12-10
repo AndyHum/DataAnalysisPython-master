@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81020,130044098.0,Tuesday,No,2013-01-22T00:53:00.000,WEAPONS CHARGE,"[-71.029435, 42.379976]",Point,15xx,1,IVPER ,17,A7,Last,No,PRINCETON ST,Part Two,Firearm,783307.2358,,2963843.755,2013
+119840,130044175.0,Tuesday,No,2013-01-22T01:58:00.000,WEAPONS CHARGE,"[-71.08696, 42.281611]",Point,15xx,1,ARREST,428,B3,Last,No,NORFOLK ST,Part Two,Firearm,767938.4574,MORTON ST,2927917.2989999996,2013
+146103,130044200.0,Tuesday,No,2013-01-22T02:39:00.000,WEAPONS CHARGE,"[-71.07807, 42.316881]",Point,15xx,1,TSTOP ,324,B2,Last,No,BLUE HILL AV,Part Two,Unarmed,770280.5576,DEWEY ST,2940781.994,2013

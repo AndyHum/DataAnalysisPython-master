@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129358,,Monday,No,2015-08-10T00:00:00.000,Simple Assault,"[-71.066929, 42.379976]",Point,08xx,8,AB,54,A15,,No,RUSSELL ST,Part Two,Personal Weapon (hand  foot  etc.),773177.0,,2960000.0,2015
+166326,,Monday,No,2015-08-10T00:00:00.000,Simple Assault,"[-71.077706, 42.327885]",Point,08xx,8,DISTRB,268,B2,,No,DUDLEY ST,Part Two,None,770359.0,,2940000.0,2015
+259495,,Monday,No,2015-08-10T00:00:00.000,Simple Assault,"[-71.088417, 42.347102]",Point,08xx,8,IVPER,620,D4,,No,BOYLSTON ST,Part Two,Knife/Cutting Instrument,767429.0,,2950000.0,2015

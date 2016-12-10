@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105783,142020317.0,Saturday,No,2014-08-16T14:30:00.000,PersLoc,"[-71.086495, 42.271257]",Point,PersLoc,8,MISSIN,0,B3,Day,No,BRIARCLIFF TR,Other,Unarmed,768082.4093,,2924144.47,2014
+186175,142019825.0,Saturday,No,2014-08-16T01:20:00.000,PersLoc,"[-71.078555, 42.272263]",Point,PersLoc,8,IVPER,0,B3,Last,No,STANDARD ST,Other,Unarmed,770229.5474,,2924521.909,2014
+240716,142019937.0,Saturday,No,2014-08-16T11:39:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,8,IVPER,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+250574,142020457.0,Saturday,No,2014-08-16T08:00:00.000,PersLoc,"[-71.113855, 42.261701]",Point,PersLoc,8,IVPER,0,E18,Day,No,HUNTINGTON AV,Other,Other,760693.3729,,2920627.725,2014

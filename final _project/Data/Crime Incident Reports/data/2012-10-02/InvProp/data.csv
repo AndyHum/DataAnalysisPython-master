@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7560,120618583.0,Tuesday,No,2012-10-02T01:16:00.000,InvProp,"[-71.074215, 42.303326]",Point,InvProp,10,BEIP  ,461,C11,Last,No,ROSSETER ST,Part Three,Other,771347.8181,,2935847.519,2012
+50413,120619944.0,Tuesday,No,2012-10-02T15:00:00.000,InvProp,"[-71.09131, 42.330001]",Point,InvProp,10,IVPER ,288,B2,Day,No,JOHN ELIOT SQ,Part Three,Unarmed,766676.8321,,2945545.713,2012
+67959,120620475.0,Tuesday,No,2012-10-02T15:00:00.000,InvProp,"[-71.06537, 42.300926]",Point,InvProp,10,REMOVE,352,C11,Day,No,LEROY ST,Part Three,Unarmed,773744.9518,,2934984.9930000002,2012
+75469,120619391.0,Tuesday,No,2012-10-02T11:40:00.000,InvProp,"[-71.04949, 42.335321]",Point,InvProp,10,IVPREM,214,C6,Day,No,F ST,Part Three,Unarmed,777974.6441,,2947541.3660000004,2012
+141583,120621427.0,Tuesday,No,2012-10-02T13:00:00.000,InvProp,"[-71.064983, 42.287156]",Point,InvProp,10,IVPREM,817,C11,Day,No,TALBOT AV,Part Three,Unarmed,773875.1664,,2929967.579,2012
+166184,120619978.0,Tuesday,No,2012-10-02T15:08:00.000,InvProp,"[-71.121806, 42.256008]",Point,InvProp,10,VANRPT,521,E18,Day,No,RIVER ST,Part Three,Other,758550.1928,,2918543.29,2012
+246817,120621004.0,Tuesday,No,2012-10-02T22:02:00.000,InvProp,"[-71.11941, 42.277721]",Point,InvProp,10,BERPT ,498,E18,First,No,HYDE PARK AV,Part Three,Other,759163.6361,,2926458.875,2012

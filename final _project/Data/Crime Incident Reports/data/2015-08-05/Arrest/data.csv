@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42053,,Wednesday,No,2015-08-05T00:00:00.000,Warrant Arrests,"[-71.029855, 42.377573]",Point,Arrest,8,ARREST,20,A7,,No,CHELSEA ST,Part Three,None,783198.0,,2960000.0,2015
+55806,,Wednesday,No,2015-08-05T00:00:00.000,Warrant Arrests,"[-71.064441, 42.28526]",Point,Arrest,8,IVPER,402,C11,,No,DORCHESTER AVE,Part Three,None,774025.0,,2930000.0,2015
+80018,,Wednesday,No,2015-08-05T01:25:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,ARREST,350,C11,,No,ADAMS ST,Part Three,None,, DORCHESTER AVE ,,2015
+105584,,Wednesday,No,2015-08-05T00:00:00.000,Warrant Arrests,"[-71.063705, 42.352312]",Point,Arrest,8,ARREST,111,A1,,No,BOYLSTON ST,Part Three,None,774099.0,,2950000.0,2015
+130500,,Wednesday,No,2015-08-05T09:15:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,ARREST,441,B3,,No,NIGHTINGALE ST,Part Three,None,,,,2015
+133832,,Wednesday,No,2015-08-05T00:00:00.000,Warrant Arrests,"[-71.061776, 42.356024]",Point,Arrest,8,ARREST,111,A1,,No,WINTER ST,Part Three,None,774614.0,,2960000.0,2015
+181462,,Wednesday,No,2015-08-05T09:59:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,ARREST,117,A1,,No,WASHINGTON ST,Part Three,None,,,,2015
+190777,,Wednesday,No,2015-08-05T15:12:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,ARREST,349,C11,,No,ADAMS ST,Part Three,None,,ROBINSON ST,,2015
+196218,,Wednesday,No,2015-08-05T00:00:00.000,Warrant Arrests,"[-71.039799, 42.376203]",Point,Arrest,8,ARREST,26,A7,,No,BORDER ST,Part Three,None,780514.0,,2960000.0,2015
+221055,,Wednesday,No,2015-08-05T23:11:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,ARREST,245,C11,,No,DORCHESTER AVE,Part Three,None,,HARBOR VIEW ST,,2015

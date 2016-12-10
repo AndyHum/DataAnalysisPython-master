@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57955,140019066.0,Friday,No,2014-01-10T08:00:00.000,PropFound,"[-71.00413, 42.385721]",Point,PropFound,1,FDPROP,6,A7,Day,No,SARATOGA ST,Part three,Unarmed,790131.9348,,2965975.807,2014
+90023,140018868.0,Friday,No,2014-01-10T11:00:00.000,PropFound,"[-71.10226, 42.329636]",Point,PropFound,1,IVPER ,585,B2,Day,No,CALUMET ST,Part three,Unarmed,763716.588,,2945398.704,2014
+96866,140018892.0,Friday,No,2014-01-10T11:05:00.000,PropFound,"[-71.079495, 42.351356]",Point,PropFound,1,FDPROP,137,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,769833.2231,,2953343.396,2014
+187709,140021055.0,Friday,No,2014-01-10T13:00:00.000,PropFound,"[-71.046717, 42.336149]",Point,PropFound,1,FDPROP,213,C6,Day,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2014

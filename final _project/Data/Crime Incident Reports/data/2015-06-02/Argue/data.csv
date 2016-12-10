@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3883,152045704.0,Tuesday,No,2015-06-02T21:53:00.000,Argue,"[0, 0]",Point,Argue,6,IVPER,0,D4,First,No,PARK DR,Part three,Unarmed,,,,2015
+84569,152045531.0,Tuesday,No,2015-06-02T13:00:00.000,Argue,"[-71.08014, 42.381606]",Point,Argue,6,DISTRB,0,A15,Day,No,ROLAND ST,Part three,Other,769604.6126,,2964366.2539999997,2015
+90133,152045544.0,Tuesday,No,2015-06-02T14:00:00.000,Argue,"[-71.11655, 42.258881]",Point,Argue,6,BE,0,E18,Day,No,DAVISON ST,Part three,Unarmed,759968.479,,2919596.789,2015
+157087,152045590.0,Tuesday,No,2015-06-02T16:00:00.000,Argue,"[-71.069245, 42.344491]",Point,Argue,6,NIDV,0,D4,First,No,DWIGHT ST,Part three,Unarmed,772616.5062,,2950855.488,2015

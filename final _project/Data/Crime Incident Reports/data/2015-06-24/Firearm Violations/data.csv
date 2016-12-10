@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26395,,Wednesday,No,2015-06-24T16:59:00.000,Firearm Violations,"[0, 0]",Point,15xx,6,PERGUN,285,D4,,No,CUNARD ST,Part Two,Firearm,,TREMONT ST,,2015
+101458,,Wednesday,No,2015-06-24T08:02:00.000,Firearm Violations,"[0, 0]",Point,15xx,6,ARREST,358,C11,,No,GENEVA AVE,Part Two,Knife/Cutting Instrument,,,,2015
+238287,,Wednesday,No,2015-06-24T00:00:00.000,Firearm Violations,"[-71.04639, 42.354048]",Point,15xx,6,IVPER,207,C6,,No,COURTHOUSE WAY,Part Two,Knife/Cutting Instrument,778776.0,,2950000.0,2015

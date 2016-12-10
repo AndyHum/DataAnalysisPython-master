@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55723,120663827.0,Sunday,No,2012-10-21T16:39:00.000,Service,"[-71.109528, 42.265583]",Point,Service,10,ARREST,0,E18,First,No,JOYCE RD,Part Three,Unarmed,761858.1265,,2922047.578,2012
+105151,120663691.0,Sunday,No,2012-10-21T15:13:00.000,Service,"[-71.05921, 42.300571]",Point,Service,10,IVPER ,351,C11,Day,No,ADAMS ST,Part Three,Unarmed,775412.0386,DICKENS ST,2934864.175,2012
+106614,120664040.0,Sunday,No,2012-10-21T18:55:00.000,Service,"[-71.089124, 42.283313]",Point,Service,10,ARREST,429,B3,First,No,MORTON ST,Part Three,Unarmed,767349.8104,,2928534.724,2012
+195600,120663397.0,Sunday,No,2012-10-21T12:22:00.000,Service,"[-71.06939, 42.329836]",Point,Service,10,ARREST,178,C6,Day,No,MASSACHUSETTS AV,Part Three,Other,772604.2674,,2945514.745,2012
+219511,120663705.0,Sunday,No,2012-10-21T02:00:00.000,Service,"[-71.16644, 42.339861]",Point,Service,10,TRAUMX,282,D14,Last,No,COMMONWEALTH AV,Part Three,Unarmed,746347.7011,ST THOMAS MORE RD,2949050.498,2012
+232562,120664116.0,Sunday,No,2012-10-21T19:47:00.000,Service,"[-71.06458, 42.352351]",Point,Service,10,IVPER ,118,A1,First,No,BOYLSTON ST,Part Three,Unarmed,773863.0013,TREMONT ST,2953726.22,2012

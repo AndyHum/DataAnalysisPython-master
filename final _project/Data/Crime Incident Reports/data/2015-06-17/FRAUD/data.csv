@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45331,,Wednesday,No,2015-06-17T00:00:00.000,Fraud,"[-71.049951, 42.357216]",Point,11xx,6,,0,A1,,No,ROWES,Part Two,None,777808.0,ATLANTIC AVE,2960000.0,2015
+133928,,Wednesday,No,2015-06-17T00:00:00.000,Fraud,"[-71.119985, 42.254564]",Point,11xx,6,,521,E18,,No,FAIRMOUNT AVE,Part Two,None,759045.0,,2920000.0,2015
+186671,,Wednesday,No,2015-06-17T00:00:00.000,Fraud,"[-71.066226, 42.289273]",Point,11xx,6,IVPER,817,C11,,No,WELLES AVE,Part Two,None,773535.0,,2930000.0,2015
+187774,,Wednesday,No,2015-06-17T00:00:00.000,Fraud,"[-71.136442, 42.286271]",Point,11xx,6,,679,E5,,No,BELGRADE AVE,Part Two,None,754541.0,,2930000.0,2015
+238903,,Wednesday,No,2015-06-17T00:00:00.000,Fraud,"[-71.106707, 42.33857]",Point,11xx,6,,593,B2,,No,LONGWOOD AVE,Part Two,None,762499.0,,2950000.0,2015

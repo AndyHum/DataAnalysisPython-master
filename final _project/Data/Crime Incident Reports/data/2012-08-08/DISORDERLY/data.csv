@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119221,120649655.0,Wednesday,No,2012-08-08T16:00:00.000,DISORDERLY,"[-71.141721, 42.34306]",Point,24xx,8,LMUSIC,786,D14,First,No,WASHINGTON ST,Part Two,Other,753025.5063,,2950243.078,2012
+123814,120492981.0,Wednesday,No,2012-08-08T02:30:00.000,DISORDERLY,"[-71.070045, 42.323146]",Point,24xx,8,ARREST,183,B2,Last,No,BURRELL ST,Part Two,Other,772439.4442,,2943075.903,2012
+169634,120492049.0,Wednesday,No,2012-08-08T10:30:00.000,DISORDERLY,"[-71.03792, 42.369701]",Point,24xx,8,IVPER ,29,A7,Day,No,BREMEN ST,Part Two,Unarmed,781035.0096,MAVERICK ST,2960086.8030000003,2012

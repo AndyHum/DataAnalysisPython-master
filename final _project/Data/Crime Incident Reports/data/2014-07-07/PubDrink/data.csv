@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31384,142006837.0,Monday,No,2014-07-07T12:23:00.000,PubDrink,"[-71.06105, 42.297191]",Point,PubDrink,7,IVPER,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,774920.6138,GIBSON ST,2933629.8860000004,2014
+95760,142006978.0,Monday,No,2014-07-07T18:15:00.000,PubDrink,"[-71.05172, 42.308581]",Point,PubDrink,7,ARREST,0,C11,First,No,PLAYSTEAD RD,Part Two,Unarmed,777422.9199,DENNY ST,2937793.6989999996,2014
+107563,142006937.0,Monday,No,2014-07-07T17:45:00.000,PubDrink,"[-71.08106, 42.332841]",Point,PubDrink,7,IVPER,0,B2,First,No,WASHINGTON ST,Part Two,Unarmed,769443.3336,MELNEA CASS BL,2946594.105,2014

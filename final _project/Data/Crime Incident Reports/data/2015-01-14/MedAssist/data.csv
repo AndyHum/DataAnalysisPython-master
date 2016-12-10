@@ -1,0 +1,20 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3698,152003633.0,Wednesday,No,2015-01-14T15:36:00.000,MedAssist,"[-71.085085, 42.321061]",Point,MedAssist,1,POISON,0,B2,Day,No,DALE ST,Part three,Unarmed,768375.911,,2942295.95,2015
+50925,152003568.0,Wednesday,No,2015-01-14T08:10:00.000,MedAssist,"[-71.13644, 42.360521]",Point,MedAssist,1,SDNDTH,0,D14,Day,No,EVERETT ST,Part three,Unarmed,754426.327,,2956612.564,2015
+62294,152003574.0,Wednesday,No,2015-01-14T11:30:00.000,MedAssist,"[-71.14243, 42.349389]",Point,MedAssist,1,UNK,0,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2015
+67453,152003635.0,Wednesday,No,2015-01-14T13:15:00.000,MedAssist,"[-71.065153, 42.29921]",Point,MedAssist,1,UNCONS,0,C11,Day,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2015
+75568,152003525.0,Wednesday,No,2015-01-14T04:13:00.000,MedAssist,"[-71.081833, 42.302999]",Point,MedAssist,1,NIDV,0,B3,Last,No,HEWINS ST,Part three,Unarmed,769287.5512,,2935718.12,2015
+132578,152003510.0,Wednesday,No,2015-01-14T00:54:00.000,MedAssist,"[-71.057335, 42.312466]",Point,MedAssist,1,BE,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775896.7749,,2939201.52,2015
+137399,152003527.0,Wednesday,No,2015-01-14T05:33:00.000,MedAssist,"[-71.096413, 42.344914]",Point,MedAssist,1,EDP,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,765271.056,,2950973.562,2015
+139058,152003570.0,Wednesday,No,2015-01-14T11:40:00.000,MedAssist,"[-71.06749, 42.306571]",Point,MedAssist,1,EDP,0,C11,Day,No,HAMILTON ST,Part three,Unarmed,773161.0159,,2937039.2,2015
+143225,152003579.0,Wednesday,No,2015-01-14T07:35:00.000,MedAssist,"[-71.130364, 42.242611]",Point,MedAssist,1,IVPER,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,756254.4316,,2913651.113,2015
+157731,152003544.0,Wednesday,No,2015-01-14T09:00:00.000,MedAssist,"[-71.136479, 42.349047]",Point,MedAssist,1,CD9,0,D14,Day,No,GLENVILLE AV,Part three,Unarmed,754433.5091,,2952431.1789999995,2015
+165576,152003602.0,Wednesday,No,2015-01-14T12:35:00.000,MedAssist,"[-71.056815, 42.378781]",Point,MedAssist,1,REQP,0,A15,Day,No,TUFTS ST,Part three,Unarmed,775911.8562,,2963368.646,2015
+191623,152003641.0,Wednesday,No,2015-01-14T15:45:00.000,MedAssist,"[-71.07251, 42.322091]",Point,MedAssist,1,UNCONS,0,B2,Day,No,DUDLEY ST,Part three,Other,771774.7690000001,NORTH AV,2942688.0919999997,2015
+198321,152003604.0,Wednesday,No,2015-01-14T13:19:00.000,MedAssist,"[-71.08261, 42.337161]",Point,MedAssist,1,CARDIA,0,D4,Day,No,DITMUS CT,Part three,Unarmed,769016.5305,,2948166.337,2015
+201093,152003606.0,Wednesday,No,2015-01-14T13:15:00.000,MedAssist,"[-71.065153, 42.29921]",Point,MedAssist,1,UNCONS,0,C11,Day,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2015
+234707,152003516.0,Wednesday,No,2015-01-14T00:23:00.000,MedAssist,"[-71.076105, 42.320506]",Point,MedAssist,1,UNK,0,B2,Last,No,W COTTAGE ST,Part three,Unarmed,770805.4354,,2942105.64,2015
+260483,152003697.0,Wednesday,No,2015-01-14T18:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,INJ,0,C6,First,No,STERLING SQ,Part three,Unarmed,,,,2015
+262847,152003522.0,Wednesday,No,2015-01-14T00:57:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,INVEST,0,B2,Last,No,HUMBOLDT AV,Part three,Unarmed,,,,2015
+263220,152003573.0,Wednesday,No,2015-01-14T10:38:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,REQP,0,C6,Day,No,W 6TH ST,Part three,Other,,,,2015
+265371,152003702.0,Wednesday,No,2015-01-14T19:25:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,FIGHT,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,,,,2015

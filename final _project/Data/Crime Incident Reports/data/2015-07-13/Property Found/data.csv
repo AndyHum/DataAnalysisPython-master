@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90781,,Monday,No,2015-07-13T16:46:00.000,Property Found,"[0, 0]",Point,PropFound,7,IVPREM,144,D4,,No,BELVIDERE ST,Part Three,None,, HUNTINGTON AVE ,,2015
+119412,,Monday,No,2015-07-13T13:41:00.000,Property Found,"[0, 0]",Point,PropFound,7,IVPREM,729,E5,,No,GARDNER ST,Part Three,None,,,,2015
+122008,,Monday,No,2015-07-13T00:00:00.000,Property Found,"[-71.118691, 42.294707]",Point,PropFound,7,PROP,564,E5,,No,BROOKWAY RD,Part Three,None,759330.0,,2930000.0,2015
+198664,,Monday,No,2015-07-13T00:00:00.000,Property Found,"[-71.103778, 42.333807]",Point,PropFound,7,FDWEAP,603,B2,,No,TREMONT ST,Part Three,None,763299.0,,2950000.0,2015

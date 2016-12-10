@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30037,130519488.0,Sunday,No,2013-08-18T01:00:00.000,DISORDERLY,"[-71.102955, 42.316296]",Point,24xx,8,PARTY ,576,E13,Last,No,BOYLSTON ST,Part Two,Unarmed,763551.2894,,2940536.5,2013
+56941,130520815.0,Sunday,No,2013-08-18T19:00:00.000,DISORDERLY,"[-71.04339, 42.350736]",Point,24xx,8,DROWN ,207,C6,First,No,NORTHERN AV,Part Two,Unarmed,779593.8607,,2953167.635,2013
+105306,130519551.0,Sunday,No,2013-08-18T02:44:00.000,DISORDERLY,"[-71.080085, 42.346711]",Point,24xx,8,ARREST,146,D4,Last,No,HUNTINGTON AV,Part Two,Unarmed,769682.0757,,2951649.883,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125218,142056621.0,Thursday,No,2014-12-11T17:00:00.000,07RV,"[-71.077285, 42.297391]",Point,07RV,12,IVMV,0,B3,First,No,WATERLOW ST,Other,Unarmed,770527.9028,,2933680.564,2014
+134522,142056670.0,Thursday,No,2014-12-11T16:45:00.000,07RV,"[-71.063155, 42.298481]",Point,07RV,12,IVMV,0,C11,First,No,GENEVA AV,Other,Unarmed,774348.7245,,2934097.058,2014
+142302,142056500.0,Thursday,No,2014-12-11T10:22:00.000,07RV,"[-71.072235, 42.323546]",Point,07RV,12,IVMV,0,B2,Day,No,SHIRLEY ST,Other,Unarmed,771846.4759,,2943218.693,2014

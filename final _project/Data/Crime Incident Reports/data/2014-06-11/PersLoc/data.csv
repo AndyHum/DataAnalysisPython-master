@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6060,140370217.0,Wednesday,No,2014-06-11T21:06:00.000,PersLoc,"[-71.084295, 42.300056]",Point,PersLoc,6,MISPER,457,B3,First,No,MCLELLAN ST,Other,Other,768626.8616,,2934642.43,2014
+21142,140369917.0,Wednesday,No,2014-06-11T16:30:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,6,MISPER,784,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+147184,140371437.0,Wednesday,No,2014-06-11T14:30:00.000,PersLoc,"[-71.084836, 42.273059]",Point,PersLoc,6,MISPER,423,B3,Day,No,RIDGEVIEW AV,Other,Unarmed,768528.2841,,2924803.389,2014
+201534,140371005.0,Wednesday,No,2014-06-11T07:00:00.000,PersLoc,"[-71.094221, 42.285525]",Point,PersLoc,6,MISPER,466,B3,Last,No,GREENDALE RD,Other,Unarmed,765966.6819,,2929333.8819999998,2014

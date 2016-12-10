@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13809,152026911.0,Friday,No,2015-04-03T01:30:00.000,InvProp,"[-71.054925, 42.366056]",Point,InvProp,4,LOCKOU,0,A1,Last,No,SALEM ST,Part three,Other,776446.7111,,2958734.0560000003,2015
+76972,152027255.0,Friday,No,2015-04-03T21:52:00.000,InvProp,"[-71.066019, 42.284605]",Point,InvProp,4,SHOTS,0,C11,First,No,BAILEY ST,Part three,Unarmed,773599.5243,DORCHESTER AV,2929036.4439999997,2015
+251938,152026962.0,Friday,No,2015-04-03T02:50:00.000,InvProp,"[-71.054042, 42.318015]",Point,InvProp,4,SHOTS,0,C11,Last,No,NEWPORT ST,Part three,Unarmed,776776.8138,HARBOR VIEW ST,2941228.0689999997,2015

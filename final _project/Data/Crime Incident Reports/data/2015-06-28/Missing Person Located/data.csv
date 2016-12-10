@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+187089,,Sunday,No,2015-06-28T22:15:00.000,Missing Person Located,"[0, 0]",Point,PersFound,6,IVPER,806,D14,,No,RICHARDSON ST,Part Three,None,,,,2015
+188019,,Sunday,No,2015-06-28T00:00:00.000,Missing Person Located,"[-71.106136, 42.26948]",Point,PersFound,6,IVPER,478,E18,,No,RIDLON RD,Part Three,None,762770.0,,2920000.0,2015
+190995,,Sunday,No,2015-06-28T00:00:00.000,Missing Person Located,"[-71.104294, 42.309719]",Point,PersFound,6,IVPER,582,E13,,No,WALDEN ST,Part Three,None,763200.0,,2940000.0,2015

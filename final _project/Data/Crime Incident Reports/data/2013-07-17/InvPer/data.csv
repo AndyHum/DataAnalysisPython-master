@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9555,130443803.0,Wednesday,No,2013-07-17T22:19:00.000,InvPer,"[-71.04139, 42.330941]",Point,InvPer,7,REQP  ,921,C6,First,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2013
+19340,130442848.0,Wednesday,No,2013-07-17T16:05:00.000,InvPer,"[-71.072205, 42.296246]",Point,InvPer,7,IVPER ,358,C11,First,No,WASHINGTON ST,Part three,Unarmed,771904.4870000001,,2933270.1810000003,2013
+44145,130443309.0,Wednesday,No,2013-07-17T19:15:00.000,InvPer,"[-71.097525, 42.271046]",Point,InvPer,7,IVPER ,472,B3,First,No,WOODHAVEN ST,Part three,Unarmed,765097.6768,,2924053.6010000003,2013
+61543,130444695.0,Wednesday,No,2013-07-17T12:00:00.000,InvPer,"[-71.052652, 42.366648]",Point,InvPer,7,THREAT,83,A1,Day,No,HANOVER ST,Part three,Other,777059.7148,,2958952.9489999996,2013
+84848,130443525.0,Wednesday,No,2013-07-17T20:03:00.000,InvPer,"[-71.09092, 42.286081]",Point,InvPer,7,IVPER ,465,B3,First,No,HAVELOCK ST,Part three,Unarmed,766859.0485,BLUE HILL AV,2929541.066,2013
+90462,130443245.0,Wednesday,No,2013-07-17T18:36:00.000,InvPer,"[-71.077413, 42.34321]",Point,InvPer,7,INVEST,167,D4,First,No,PEMBROKE ST,Part three,Unarmed,770410.4653,,2950377.4110000003,2013
+185793,130441623.0,Wednesday,No,2013-07-17T05:16:00.000,InvPer,"[-71.06703, 42.306221]",Point,InvPer,7,VIORDR,335,C11,Last,No,BOWDOIN AV,Part three,Unarmed,773286.0914,HAMILTON ST,2936912.285,2013
+229875,130443299.0,Wednesday,No,2013-07-17T18:50:00.000,InvPer,"[-71.035175, 42.377081]",Point,InvPer,7,NIDV  ,23,A7,First,No,SARATOGA ST,Part three,Unarmed,781762.128,,2962780.255,2013

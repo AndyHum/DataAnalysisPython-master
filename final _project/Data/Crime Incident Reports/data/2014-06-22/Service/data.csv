@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23325,142001661.0,Sunday,No,2014-06-22T02:24:00.000,Service,"[-71.060775, 42.303651]",Point,Service,6,TS,0,C11,Last,No,ADAMS ST,Part three,Unarmed,774982.8899,,2935984.389,2014
+162876,142001710.0,Sunday,No,2014-06-22T08:38:00.000,Service,"[-71.08064, 42.296921]",Point,Service,6,ARREST,0,B3,Day,No,GLENWAY ST,Part three,Unarmed,769621.252,,2933504.829,2014

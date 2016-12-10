@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55574,120684723.0,Tuesday,No,2012-10-30T17:36:00.000,PropDam,"[-71.145326, 42.339676]",Point,PropDam,10,TREE  ,787,D14,First,No,COLLISTON RD,Part Three,Unarmed,752056.1398,,2949005.889,2012
+122230,120683733.0,Tuesday,No,2012-10-30T04:30:00.000,PropDam,"[-71.08551, 42.307211]",Point,PropDam,10,VANRPT,319,B2,Last,No,WAYNE ST,Part Three,Other,768285.5034,,2937248.2260000003,2012
+244005,120684475.0,Tuesday,No,2012-10-30T16:00:00.000,PropDam,"[-71.148575, 42.287141]",Point,PropDam,10,PDRPT ,691,E5,First,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2012

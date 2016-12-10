@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2290,152045295.0,Monday,No,2015-06-01T16:36:00.000,FORGERY,"[0, 0]",Point,10xx,6,LARCEN,0,B3,First,No,CUMMINS HY,Part Two,Unarmed,,,,2015
+3923,152045267.0,Monday,No,2015-06-01T15:22:00.000,FORGERY,"[0, 0]",Point,10xx,6,DISTRB,0,E5,Day,No,CUMMINS HY,Part Two,Unarmed,,,,2015
+135634,152045357.0,Monday,No,2015-06-01T17:00:00.000,FORGERY,"[-71.170989, 42.268377]",Point,10xx,6,LARCEN,0,E5,First,No,VFW PY,Part Two,Other,745218.0879,,2922995.5889999997,2015
+219771,152045371.0,Monday,No,2015-06-01T19:48:00.000,FORGERY,"[-71.106975, 42.287486]",Point,10xx,6,LARCEN,0,E18,First,No,AMERICAN LEGION HY,Part Two,Unarmed,762512.4267,,2930032.643,2015

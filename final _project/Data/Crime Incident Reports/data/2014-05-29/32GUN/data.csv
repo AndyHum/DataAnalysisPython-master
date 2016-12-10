@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31898,140336489.0,Thursday,No,2014-05-29T17:49:00.000,32GUN,"[-71.090956, 42.333723]",Point,32GUN,5,FDWEAP,289,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+99395,140336404.0,Thursday,No,2014-05-29T17:30:00.000,32GUN,"[-71.059735, 42.297541]",Point,32GUN,5,IVPER ,355,C11,First,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+148761,140336206.0,Thursday,No,2014-05-29T16:15:00.000,32GUN,"[-71.059987, 42.361648]",Point,32GUN,5,BUYBAK,72,A1,First,No,SUDBURY ST,Part three,Firearm,775087.02,,2957120.525,2014
+174523,140336157.0,Thursday,No,2014-05-29T14:20:00.000,32GUN,"[-71.03887, 42.371246]",Point,32GUN,5,BUYBAK,28,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014

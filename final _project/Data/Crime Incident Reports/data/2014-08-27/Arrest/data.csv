@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87325,142023366.0,Wednesday,No,2014-08-27T09:20:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,8,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+215545,142023497.0,Wednesday,No,2014-08-27T15:51:00.000,Arrest,"[-71.1151, 42.297646]",Point,Arrest,8,ARREST,0,E13,Day,No,HYDE PARK AV,Part three,Unarmed,760297.2533,UKRAINE WY,2933725.078,2014
+263101,142023389.0,Wednesday,No,2014-08-27T10:45:00.000,Arrest,"[0, 0]",Point,Arrest,8,ARREST,0,A1,Day,No,COURT SQ,Part three,Unarmed,,,,2014

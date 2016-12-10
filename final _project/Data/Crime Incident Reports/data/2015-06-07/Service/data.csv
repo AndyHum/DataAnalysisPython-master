@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2944,152047188.0,Sunday,No,2015-06-07T16:00:00.000,Service,"[0, 0]",Point,Service,6,LARCEN,0,E13,First,No,BOYLSTON ST,Part three,Unarmed,,,,2015
+38806,152047268.0,Sunday,No,2015-06-07T22:15:00.000,Service,"[-71.061235, 42.310371]",Point,Service,6,CD13,0,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015
+75633,152047032.0,Sunday,No,2015-06-07T06:30:00.000,Service,"[-71.05592, 42.376646]",Point,Service,6,CD9,0,A15,Last,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+214659,152047264.0,Sunday,No,2015-06-07T22:02:00.000,Service,"[-71.06818, 42.298401]",Point,Service,6,IVPREM,0,C11,First,No,TONAWANDA ST,Part three,Unarmed,772989.4359,,2934060.992,2015

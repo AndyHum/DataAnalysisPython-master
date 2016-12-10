@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73489,130182281.0,Wednesday,No,2013-03-27T08:00:00.000,PersLoc,"[-71.08724, 42.329171]",Point,PersLoc,3,MISPER,292,B2,Day,No,DUDLEY ST,Part Three,Unarmed,767778.8177,,2945248.546,2013
+124654,130180083.0,Wednesday,No,2013-03-27T17:40:00.000,PersLoc,"[-71.01859, 42.382876]",Point,PersLoc,3,MSNCOM,15,A7,First,No,MOORE ST,Part Three,Unarmed,786231.4166,,2964916.9239999996,2013
+192744,130180485.0,Wednesday,No,2013-03-27T18:30:00.000,PersLoc,"[-71.084165, 42.309351]",Point,PersLoc,3,MISPER,320,B2,First,No,HARTWELL ST,Part Three,Unarmed,768645.5155,,2938029.845,2013

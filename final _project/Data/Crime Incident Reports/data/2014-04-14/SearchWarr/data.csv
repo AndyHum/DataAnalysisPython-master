@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20428,140310656.0,Monday,No,2014-04-14T12:00:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,4,IVDRUG,282,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+45233,140226221.0,Monday,No,2014-04-14T10:30:00.000,SearchWarr,"[-71.05241, 42.324251]",Point,SearchWarr,4,CD11  ,218,C6,Day,No,OLD COLONY AV,Part three,Unarmed,777206.3176,,2943503.115,2014
+59069,140226649.0,Monday,No,2014-04-14T16:10:00.000,SearchWarr,"[-71.054471, 42.291232]",Point,SearchWarr,4,CD11  ,367,C11,First,No,MANOR ST,Part three,Unarmed,776711.7962,,2931467.606,2014
+98254,140226862.0,Monday,No,2014-04-14T17:18:00.000,SearchWarr,"[-71.07529, 42.287551]",Point,SearchWarr,4,CD11  ,436,B3,First,No,WENTWORTH ST,Part three,Unarmed,771085.6408,,2930097.4260000004,2014

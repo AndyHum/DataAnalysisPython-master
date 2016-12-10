@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+126822,152040732.0,Monday,No,2015-05-18T13:33:00.000,Argue,"[-71.013745, 42.385036]",Point,Argue,5,DVIP,0,A7,Day,No,SARATOGA ST,Part three,Unarmed,787535.9081,,2965711.498,2015
+132113,152040847.0,Monday,No,2015-05-18T18:01:00.000,Argue,"[-71.071606, 42.341043]",Point,Argue,5,DVIP,0,D4,First,No,W DEDHAM ST,Part three,Unarmed,771984.4806,,2949595.622,2015
+150466,152040576.0,Monday,No,2015-05-18T00:22:00.000,Argue,"[-71.039755, 42.380536]",Point,Argue,5,FIGHT,0,A7,Last,No,WHITE ST,Part three,Unarmed,780517.8359,BORDER ST,2964032.6160000004,2015

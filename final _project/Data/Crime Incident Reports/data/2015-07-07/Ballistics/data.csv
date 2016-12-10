@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15189,,Tuesday,No,2015-07-07T14:16:00.000,Ballistics,"[0, 0]",Point,BALLIST,7,PERGUN,428,B3,,No,NORFOLK ST,Part Two,None,,WOOLSON ST,,2015
+140347,,Tuesday,No,2015-07-07T00:00:00.000,Ballistics,"[-71.157459, 42.357127]",Point,BALLIST,7,CD9,766,D14,,No,PARSONS ST,Part Two,None,748750.0,,2960000.0,2015

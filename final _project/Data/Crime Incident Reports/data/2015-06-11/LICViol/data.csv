@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2887,152048459.0,Thursday,No,2015-06-11T17:36:00.000,LICViol,"[0, 0]",Point,LICViol,6,CD35,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+26589,152048427.0,Thursday,No,2015-06-11T16:36:00.000,LICViol,"[-71.08754, 42.295846]",Point,LICViol,6,CD35,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767756.4214,,2933103.981,2015
+28747,152048261.0,Thursday,No,2015-06-11T01:25:00.000,LICViol,"[-71.06293, 42.351166]",Point,LICViol,6,CD35,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2015
+173856,152048451.0,Thursday,No,2015-06-11T17:20:00.000,LICViol,"[-71.113273, 42.300388]",Point,LICViol,6,CD35,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,760786.7644,,2934726.341,2015
+242501,152048444.0,Thursday,No,2015-06-11T17:05:00.000,LICViol,"[-71.113273, 42.300388]",Point,LICViol,6,CD35,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,760786.7644,,2934726.341,2015
+243946,152048472.0,Thursday,No,2015-06-11T18:00:00.000,LICViol,"[-71.122175, 42.292011]",Point,LICViol,6,CD35,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,758392.2988,,2931663.038,2015

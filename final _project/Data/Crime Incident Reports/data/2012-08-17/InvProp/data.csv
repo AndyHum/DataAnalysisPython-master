@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59517,120516468.0,Friday,No,2012-08-17T08:00:00.000,InvProp,"[-71.06799, 42.374201]",Point,InvProp,8,VANRPT,59,A15,Day,No,NEW RUTHERFORD AV,Part Three,Other,772900.9399,AUSTIN ST,2961684.108,2012
+121280,120512974.0,Friday,No,2012-08-17T20:23:00.000,InvProp,"[-71.130865, 42.277409]",Point,InvProp,8,SHOTS ,552,E5,First,No,HEMMAN ST,Part Three,Other,756064.1295,,2926331.2610000004,2012
+133729,120511700.0,Friday,No,2012-08-17T10:00:00.000,InvProp,"[-71.085618, 42.32866]",Point,InvProp,8,FDPROP,282,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012
+145013,120511203.0,Friday,No,2012-08-17T02:50:00.000,InvProp,"[-71.07428, 42.300894]",Point,InvProp,8,VANIP ,462,C11,Last,No,BOWDOIN AV,Part Three,Unarmed,771334.5603,,2934961.063,2012
+147955,120513041.0,Friday,No,2012-08-17T20:55:00.000,InvProp,"[-71.08417, 42.288116]",Point,InvProp,8,IVPREM,439,B3,First,No,CALLENDER ST,Part Three,Unarmed,768681.8887,,2930291.482,2012
+192498,120511713.0,Friday,No,2012-08-17T10:30:00.000,InvProp,"[-71.059683, 42.29651]",Point,InvProp,8,INVEST,355,C11,Day,No,PARKMAN ST,Part Three,Unarmed,775291.6849,,2933383.425,2012
+233834,120511575.0,Friday,No,2012-08-17T09:20:00.000,InvProp,"[-71.084574, 42.282941]",Point,InvProp,8,SHOTS ,434,B3,Day,No,NORFOLK ST,Part Three,Firearm,768581.5176,,2928405.05,2012

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42604,152002997.0,Monday,No,2015-01-12T07:50:00.000,InvProp,"[-71.177848, 42.27836]",Point,InvProp,1,REQP,0,E5,Day,No,RIVERMOOR ST,Part three,Unarmed,743348.0949,,2926626.597,2015
+144367,152003135.0,Monday,No,2015-01-12T17:30:00.000,InvProp,"[-71.0612, 42.365521]",Point,InvProp,1,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774751.9335,CANAL ST,2958530.305,2015
+167040,152003200.0,Monday,No,2015-01-12T20:53:00.000,InvProp,"[-71.131855, 42.243691]",Point,InvProp,1,SHOTS,0,E18,First,No,WESTINGHOUSE PLAZA,Part three,Unarmed,755849.2651,,2914043.106,2015
+211335,152003187.0,Monday,No,2015-01-12T17:57:00.000,InvProp,"[-71.10732, 42.272466]",Point,InvProp,1,BE,0,B3,First,No,CUMMINS HY,Part three,Unarmed,762444.2756,,2924558.711,2015
+248938,152003018.0,Monday,No,2015-01-12T10:42:00.000,InvProp,"[-71.067225, 42.358816]",Point,InvProp,1,REQP,0,A1,Day,No,PINCKNEY ST,Part three,Other,773136.0967,,2956078.5519999997,2015
+267457,152003783.0,Monday,No,2015-01-12T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

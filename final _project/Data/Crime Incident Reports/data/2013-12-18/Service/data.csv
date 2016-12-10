@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20248,130795732.0,Wednesday,No,2013-12-18T17:30:00.000,Service,"[-71.05464, 42.325816]",Point,Service,12,INJAML,914,C6,First,No,OCALLAGHAN WY,Part three,Unarmed,776600.2984,,2944070.27,2013
+86614,130795397.0,Wednesday,No,2013-12-18T13:45:00.000,Service,"[-71.06942, 42.362401]",Point,Service,12,ARREST,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+199515,130796040.0,Wednesday,No,2013-12-18T19:00:00.000,Service,"[-71.07665, 42.336146]",Point,Service,12,SSTOP ,271,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770629.7582,,2947804.394,2013
+212012,130795529.0,Wednesday,No,2013-12-18T15:36:00.000,Service,"[-71.1079, 42.263866]",Point,Service,12,INJAML,488,E18,Day,No,GEORGE ST,Part three,Other,762301.7089,,2921424.0330000003,2013

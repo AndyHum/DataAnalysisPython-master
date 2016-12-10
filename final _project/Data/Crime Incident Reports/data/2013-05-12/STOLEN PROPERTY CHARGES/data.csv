@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25615,130282104.0,Sunday,No,2013-05-12T05:30:00.000,STOLEN PROPERTY CHARGES,"[-71.059575, 42.302511]",Point,13xx,5,IVPREM,349,C11,Last,No,DORCHESTER AV,Part Two,Unarmed,775309.6471,,2935570.63,2013
+81958,130284793.0,Sunday,No,2013-05-12T18:00:00.000,STOLEN PROPERTY CHARGES,"[-71.051055, 42.310511]",Point,13xx,5,BEMVRT,251,C11,First,No,CASTLE ROCK ST,Part Two,Unarmed,777599.095,,2938497.9669999997,2013
+125209,130282974.0,Sunday,No,2013-05-12T16:20:00.000,STOLEN PROPERTY CHARGES,"[-71.03715, 42.371311]",Point,13xx,5,ARREST,29,A7,First,No,CHELSEA ST,Part Two,Other,781239.9013,GOVE ST,2960674.647,2013

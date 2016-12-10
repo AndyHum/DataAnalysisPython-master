@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52152,,Tuesday,No,2015-07-07T00:00:00.000,Fire Related Reports,"[-71.074322, 42.280587]",Point,Fire,7,FIRE,416,B3,,No,FAIRMOUNT ST,Part Three,None,771360.0,,2930000.0,2015
+123347,,Tuesday,No,2015-07-07T00:00:00.000,Fire Related Reports,"[-71.050958, 42.363162]",Point,Fire,7,FIRE,90,A1,,No,ATLANTIC AVE,Part Three,None,777524.0,,2960000.0,2015
+153886,,Tuesday,No,2015-07-07T00:00:00.000,Fire Related Reports,"[-71.054811, 42.3657]",Point,Fire,7,FIRE,84,A1,,No,N BENNET ST,Part Three,None,776478.0,,2960000.0,2015

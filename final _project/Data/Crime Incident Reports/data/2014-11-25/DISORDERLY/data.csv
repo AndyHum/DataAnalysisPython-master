@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20931,142052281.0,Tuesday,No,2014-11-25T20:47:00.000,DISORDERLY,"[-71.07257, 42.332816]",Point,24xx,11,PROTES,0,C6,First,No,MASSACHUSETTS AV,Part Two,Unarmed,771738.9571,MELNEA CASS BL,2946596.385,2014
+46155,142052304.0,Tuesday,No,2014-11-25T23:00:00.000,DISORDERLY,"[-71.05634, 42.352901]",Point,24xx,11,ARREST,0,A1,First,No,SUMMER ST,Part Two,Unarmed,776089.2508,PURCHASE ST,2953938.128,2014
+237338,142052298.0,Tuesday,No,2014-11-25T10:30:00.000,DISORDERLY,"[-71.07393, 42.348016]",Point,24xx,11,ARREST,0,D4,Day,No,CLARENDON ST,Part Two,Unarmed,771343.5626,,2952133.7010000004,2014

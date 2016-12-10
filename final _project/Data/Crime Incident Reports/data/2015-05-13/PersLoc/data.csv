@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23533,152039208.0,Wednesday,No,2015-05-13T12:45:00.000,PersLoc,"[-71.112361, 42.316208]",Point,PersLoc,5,IVPER,0,E13,Day,No,ROBINWOOD AV,Other,Unarmed,761007.4093,,2940492.683,2015
+109474,152039215.0,Wednesday,No,2015-05-13T15:00:00.000,PersLoc,"[-71.145297, 42.349864]",Point,PersLoc,5,MISSIN,0,D14,Day,No,WARREN ST,Other,Unarmed,752048.4758,,2952718.7569999998,2015
+143049,152039197.0,Wednesday,No,2015-05-13T12:45:00.000,PersLoc,"[-71.112361, 42.316208]",Point,PersLoc,5,IVPER,0,E13,Day,No,ROBINWOOD AV,Other,Unarmed,761007.4093,,2940492.683,2015
+249641,152039352.0,Wednesday,No,2015-05-13T10:00:00.000,PersLoc,"[-71.072715, 42.319641]",Point,PersLoc,5,IVPER,0,B2,Day,No,HARLOW ST,Other,Unarmed,771723.8026,,2941794.9930000002,2015

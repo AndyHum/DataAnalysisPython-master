@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23690,130489537.0,Monday,No,2013-08-05T17:57:00.000,PersLoc,"[-71.10086, 42.322816]",Point,PersLoc,8,MISPER,912,E13,First,No,CENTRE ST,Other,Unarmed,764106.7781,,2942915.144,2013
+38889,130490958.0,Monday,No,2013-08-05T11:53:00.000,PersLoc,"[-71.079717, 42.319866]",Point,PersLoc,8,MSNCOM,311,B2,Day,No,CLIFFORD ST,Other,Unarmed,769829.6122,,2941867.4469999997,2013
+47314,130490213.0,Monday,No,2013-08-05T23:18:00.000,PersLoc,"[-71.166065, 42.353471]",Point,PersLoc,8,MISPER,759,D14,First,No,PERTHSHIRE RD,Other,Unarmed,746429.6340000001,,2954010.538,2013
+182979,130489181.0,Monday,No,2013-08-05T16:20:00.000,PersLoc,"[-71.092377, 42.311075]",Point,PersLoc,8,MISPER,316,B2,First,No,PARK VIEW ST,Other,Unarmed,766421.0875,,2938647.2260000003,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+146100,140032465.0,Thursday,No,2014-01-16T20:53:00.000,InvProp,"[-71.07037, 42.351041]",Point,InvProp,1,BOMBT ,129,A1,First,No,ARLINGTON ST,Part three,Unarmed,772300.3527,ST JAMES AV,2953240.895,2014
+157427,140032647.0,Thursday,No,2014-01-16T22:12:00.000,InvProp,"[-71.07799, 42.301961]",Point,InvProp,1,BEIP  ,455,B3,First,No,NORWELL ST,Part three,Unarmed,770329.0944,,2935345.017,2014
+182762,140030940.0,Thursday,No,2014-01-16T08:25:00.000,InvProp,"[-71.16954, 42.283771]",Point,InvProp,1,BEIP  ,744,E5,Day,No,BAKER ST,Part three,Unarmed,745588.7837,,2928607.043,2014

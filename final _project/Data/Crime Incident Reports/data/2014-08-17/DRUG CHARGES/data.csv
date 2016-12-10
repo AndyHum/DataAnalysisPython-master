@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3742,142020230.0,Sunday,No,2014-08-17T12:50:00.000,DRUG CHARGES,"[-71.07664, 42.327121]",Point,18xx,8,ARREST,0,B2,Day,No,DUDLEY ST,Part Two,Other,770648.7859,VINE ST,2944515.538,2014
+31746,142020111.0,Sunday,No,2014-08-17T02:00:00.000,DRUG CHARGES,"[-71.080055, 42.337976]",Point,18xx,8,AB,0,D4,Last,No,NORTHAMPTON ST,Part Two,Other,769705.8585,,2948466.728,2014
+57241,142020895.0,Sunday,No,2014-08-17T07:30:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,8,IVPREM,0,E18,Day,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2014
+178091,142020303.0,Sunday,No,2014-08-17T17:00:00.000,DRUG CHARGES,"[-71.08516, 42.336631]",Point,18xx,8,ADMRPT,0,D4,First,No,TREMONT ST,Part Two,Other,768328.0322,COVENTRY ST,2947969.832,2014

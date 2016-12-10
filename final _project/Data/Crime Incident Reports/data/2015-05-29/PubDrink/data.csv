@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44410,152044489.0,Friday,No,2015-05-29T21:51:00.000,PubDrink,"[-71.076375, 42.307291]",Point,PubDrink,5,ARREST,0,B2,First,No,COLUMBIA RD,Part Two,Unarmed,770756.3344,STANWOOD ST,2937289.517,2015
+62490,152044267.0,Friday,No,2015-05-29T10:15:00.000,PubDrink,"[-71.084525, 42.329741]",Point,PubDrink,5,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768511.9472,ROXBURY ST,2945459.828,2015
+198491,152044266.0,Friday,No,2015-05-29T10:08:00.000,PubDrink,"[-71.084525, 42.329741]",Point,PubDrink,5,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768511.9472,,2945459.828,2015
+232969,152044268.0,Friday,No,2015-05-29T11:00:00.000,PubDrink,"[-71.081446, 42.328822]",Point,PubDrink,5,IVPER,0,B2,Day,No,WINSLOW ST,Part Two,Unarmed,769345.9583,,2945128.941,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5322,152042313.0,Friday,No,2015-05-22T14:00:00.000,PropFound,"[-71.062525, 42.355916]",Point,PropFound,5,PROP,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774411.8094,WEST ST,2955028.2169999997,2015
+39106,152042320.0,Friday,No,2015-05-22T07:30:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,5,PROP,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+153388,152042303.0,Friday,No,2015-05-22T12:00:00.000,PropFound,"[-71.04139, 42.330941]",Point,PropFound,5,IVPREM,0,C6,Day,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2015
+203832,152041913.0,Friday,No,2015-05-22T06:29:00.000,PropFound,"[-71.055655, 42.352681]",Point,PropFound,5,SUSOBJ,0,A1,Last,No,SUMMER ST,Part three,Unarmed,776274.825,,2953858.92,2015
+209768,152042095.0,Friday,No,2015-05-22T15:50:00.000,PropFound,"[-71.127131, 42.287359]",Point,PropFound,5,PROP,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,757058.5836,,2929961.8510000003,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15623,142027642.0,Tuesday,No,2014-09-09T00:28:00.000,LICViol,"[-71.083145, 42.349411]",Point,LICViol,9,CD35,0,D4,Last,No,NEWBURY ST,Part three,Unarmed,768850.0656,,2952629.758,2014
+39509,142027946.0,Tuesday,No,2014-09-09T23:20:00.000,LICViol,"[-71.08901, 42.349841]",Point,LICViol,9,CD35,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767263.9116,,2952778.7630000003,2014
+230600,142027638.0,Tuesday,No,2014-09-09T00:00:00.000,LICViol,"[-71.096413, 42.344914]",Point,LICViol,9,CD35,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,765271.056,,2950973.562,2014
+239846,142027950.0,Tuesday,No,2014-09-09T23:53:00.000,LICViol,"[-71.1029, 42.347231]",Point,LICViol,9,CD35,0,D4,Last,No,BEACON ST,Part three,Unarmed,763513.6806,,2951809.8430000003,2014

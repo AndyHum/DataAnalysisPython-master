@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1819,152042857.0,Sunday,No,2015-02-01T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,LARCEN,0,E13,Day,No,HORAN WY,Part three,Unarmed,,,,2015
+18145,152008405.0,Sunday,No,2015-02-01T01:00:00.000,PropLost,"[-71.06166, 42.364266]",Point,PropLost,2,LARCEN,0,A1,Last,No,PORTLAND ST,Part three,Unarmed,774629.9723,,2958072.32,2015
+41783,152036236.0,Sunday,No,2015-02-01T08:00:00.000,PropLost,"[-71.126886, 42.237239]",Point,PropLost,2,PROP,0,E18,Day,No,SIERRA RD,Part three,Other,757204.8828,,2911697.675,2015
+97998,152029917.0,Sunday,No,2015-02-01T15:00:00.000,PropLost,"[-71.084485, 42.348131]",Point,PropLost,2,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Other,768490.1158,GLOUCESTER ST,2952161.534,2015
+101589,152009555.0,Sunday,No,2015-02-01T20:30:00.000,PropLost,"[-71.08284, 42.309116]",Point,PropLost,2,PROP,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,769004.3297,,2937945.957,2015
+112851,152008583.0,Sunday,No,2015-02-01T18:44:00.000,PropLost,"[-71.106823, 42.339255]",Point,PropLost,2,LARCEN,0,B2,First,No,BROOKLINE AV,Part three,Unarmed,762466.4632,,2948898.37,2015
+132585,152026784.0,Sunday,No,2015-02-01T00:00:00.000,PropLost,"[-71.123165, 42.255916]",Point,PropLost,2,PROP,0,E18,Last,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2015
+149196,152008537.0,Sunday,No,2015-02-01T15:30:00.000,PropLost,"[-71.104125, 42.334364]",Point,PropLost,2,PROP,0,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,763204.1277,,2947119.097,2015
+163701,152009175.0,Sunday,No,2015-02-01T16:00:00.000,PropLost,"[-71.131796, 42.352053]",Point,PropLost,2,PROP,0,D14,First,No,HARVARD AV,Part three,Unarmed,755694.562,,2953532.085,2015
+261918,152009199.0,Sunday,No,2015-02-01T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015

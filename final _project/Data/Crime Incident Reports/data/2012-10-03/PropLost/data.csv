@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7501,120624674.0,Wednesday,No,2012-10-03T14:15:00.000,PropLost,"[-71.13817, 42.352776]",Point,PropLost,10,LSTPRP,795,D14,Day,No,BARROWS ST,Part Three,Unarmed,753970.7351,,2953788.137,2012
+19749,120621057.0,Wednesday,No,2012-10-03T00:15:00.000,PropLost,"[-71.03887, 42.371246]",Point,PropLost,10,LSTPRP,28,A7,Last,No,PARIS ST,Part Three,Other,780775.2494,,2960648.442,2012
+40102,120623400.0,Wednesday,No,2012-10-03T22:15:00.000,PropLost,"[-71.086818, 42.341185]",Point,PropLost,10,LARCRT,283,D4,First,No,HUNTINGTON AV,Part Three,Other,767871.7148,,2949627.0930000003,2012
+51876,120622195.0,Wednesday,No,2012-10-03T12:50:00.000,PropLost,"[-71.09789, 42.320776]",Point,PropLost,10,LSTPRP,304,B2,Day,No,ACADEMY CT,Part Three,Unarmed,764913.4583,,2942175.505,2012
+73435,120622688.0,Wednesday,No,2012-10-03T14:30:00.000,PropLost,"[-71.063155, 42.298481]",Point,PropLost,10,LSTPRP,356,C11,Day,No,GENEVA AV,Part Three,Unarmed,774348.7245,,2934097.058,2012
+78919,120627754.0,Wednesday,No,2012-10-03T21:00:00.000,PropLost,"[-71.08746, 42.346791]",Point,PropLost,10,LSTPRP,598,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,767688.2733,,2951669.308,2012
+183637,120624287.0,Wednesday,No,2012-10-03T14:15:00.000,PropLost,"[-71.130787, 42.357518]",Point,PropLost,10,LSTPRP,816,D14,Day,No,MANSFIELD ST,Part Three,Other,755958.6573,,2955524.797,2012
+220388,120621809.0,Wednesday,No,2012-10-03T11:15:00.000,PropLost,"[-71.104955, 42.337916]",Point,PropLost,10,LARCRT,612,B2,Day,No,BLACKFAN CR,Part Three,Unarmed,762973.8844,,2948412.7010000004,2012
+265089,120624425.0,Wednesday,No,2012-10-03T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,15,A7,First,No,MCCLELLAN HY,Part Three,Unarmed,,,,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+127181,120439260.0,Tuesday,No,2012-07-17T00:28:00.000,FIRE,"[-71.08041, 42.298256]",Point,FIRE,7,FIREB ,445,B3,Last,No,ROXTON ST,Part Three,Unarmed,769681.0823,,2933991.6289999997,2012
+153867,120440168.0,Tuesday,No,2012-07-17T12:00:00.000,FIRE,"[-71.082313, 42.280256]",Point,FIRE,7,FIREB ,421,B3,Day,No,MORTON ST,Part Three,Unarmed,769198.3224,,2927429.483,2012
+228605,120439411.0,Tuesday,No,2012-07-17T02:37:00.000,FIRE,"[-71.080145, 42.330296]",Point,FIRE,7,FV    ,279,B2,Last,No,EUSTIS ST,Part Three,Other,769695.3014,,2945667.8789999997,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34252,140295510.0,Tuesday,No,2014-05-13T11:45:00.000,Service,"[-71.10352, 42.315321]",Point,Service,5,ARREST,576,E13,Day,No,JESS ST,Part three,Unarmed,763400.1319,,2940180.483,2014
+61850,140295185.0,Tuesday,No,2014-05-13T09:00:00.000,Service,"[-71.097815, 42.334961]",Point,Service,5,ARREST,901,B2,Day,No,MCGREEVEY WY,Other,Unarmed,764909.3671,,2947344.8660000004,2014
+144025,140296253.0,Tuesday,No,2014-05-13T15:00:00.000,Service,"[-71.06261, 42.291781]",Point,Service,5,IVDRUG,355,C11,Day,No,KING ST,Part three,Unarmed,774508.684,DORCHESTER AV,2931656.236,2014

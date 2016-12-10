@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22865,120427159.0,Wednesday,No,2012-07-11T17:00:00.000,PersLoc,"[-71.068653, 42.306188]",Point,PersLoc,7,MISPER,336,C11,First,No,NORTON ST,Part Three,Unarmed,772847.1206,,2936897.7789999996,2012
+188678,120425372.0,Wednesday,No,2012-07-11T00:15:00.000,PersLoc,"[-71.119115, 42.271606]",Point,PersLoc,7,MISPER,498,E18,Last,No,CLARE AV,Part Three,Unarmed,759253.4211,,2924230.8389999997,2012
+204542,120425688.0,Wednesday,No,2012-07-11T03:37:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,7,MISPER,784,D14,Last,No,WARREN ST,Part Three,Unarmed,752824.3316,,2952548.8430000003,2012

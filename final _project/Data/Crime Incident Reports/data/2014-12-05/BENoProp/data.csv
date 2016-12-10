@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50459,142054778.0,Friday,No,2014-12-05T02:45:00.000,BENoProp,"[-71.062545, 42.321656]",Point,BENoProp,12,ALARM,0,C6,Last,No,MASSACHUSETTS AV,Part One,Unarmed,774470.4366,,2942543.235,2014
+116737,142055062.0,Friday,No,2014-12-05T23:15:00.000,BENoProp,"[-71.15529, 42.355026]",Point,BENoProp,12,BE,0,D14,First,No,NILES ST,Part One,Unarmed,749339.8509999999,,2954588.918,2014
+187911,142056915.0,Friday,No,2014-12-05T18:00:00.000,BENoProp,"[-71.127466, 42.354525]",Point,BENoProp,12,BE,0,D14,First,No,ASHFORD ST,Part One,Other,756861.1942,PRATT ST,2954437.913,2014

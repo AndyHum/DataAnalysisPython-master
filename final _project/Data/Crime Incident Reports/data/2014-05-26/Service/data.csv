@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96945,140328067.0,Monday,No,2014-05-26T10:20:00.000,Service,"[-71.08882, 42.291121]",Point,Service,5,ARREST,944,B3,Day,No,STRATTON ST,Part three,Unarmed,767418.4261,WESTVIEW ST,2931380.4480000003,2014
+103148,140327981.0,Monday,No,2014-05-26T08:11:00.000,Service,"[-71.05945, 42.356321]",Point,Service,5,IVPER ,103,A1,Day,No,BROMFIELD ST,Part three,Unarmed,775242.1801,WASHINGTON ST,2955180.083,2014
+245781,140328181.0,Monday,No,2014-05-26T11:50:00.000,Service,"[-71.063675, 42.352301]",Point,Service,5,IVPER ,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

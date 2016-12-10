@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87968,130590125.0,Sunday,No,2013-09-15T12:00:00.000,PropLost,"[-71.091075, 42.285061]",Point,PropLost,9,LARCRT,430,B3,Day,No,BLUE HILL AV,Part three,Other,766818.8895,,2929169.163,2013
+104231,130590522.0,Sunday,No,2013-09-15T20:00:00.000,PropLost,"[-71.068585, 42.351241]",Point,PropLost,9,LSTPRP,120,A1,First,No,COLUMBUS AV,Part three,Unarmed,772782.4849,,2953316.2139999997,2013
+153534,130588593.0,Sunday,No,2013-09-15T14:00:00.000,PropLost,"[-71.087905, 42.294641]",Point,PropLost,9,LARCRT,440,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767659.7947,,2932664.383,2013
+154570,130592449.0,Sunday,No,2013-09-15T12:00:00.000,PropLost,"[-71.07936, 42.349221]",Point,PropLost,9,LSTPRP,143,D4,Day,No,EXETER ST,Part three,Unarmed,769873.5524,,2952565.54,2013
+180598,130592979.0,Sunday,No,2013-09-15T07:00:00.000,PropLost,"[-71.0755, 42.311141]",Point,PropLost,9,LSTPRP,328,B2,Last,No,LAWRENCE AV,Part three,Unarmed,770986.036,,2938693.695,2013
+262065,130589826.0,Sunday,No,2013-09-15T00:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,97,A1,Last,No,TREMONT ST,Part three,Unarmed,,,,2013
+266420,130595646.0,Sunday,No,2013-09-15T01:50:00.000,PropLost,"[0, 0]",Point,PropLost,9,INVEST,69,A1,Last,No,CHARLES ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3478,152039095.0,Wednesday,No,2015-05-13T09:15:00.000,Arrest,"[0, 0]",Point,Arrest,5,IVPER,0,B2,Day,No,MALCOLM X BL,Part three,Unarmed,,,,2015
+3646,152039138.0,Wednesday,No,2015-05-13T11:00:00.000,Arrest,"[0, 0]",Point,Arrest,5,IVPER,0,C6,Day,No,SOUTHAMPTON ST,Part three,Other,,FRONTAGE RD,,2015
+71025,152039269.0,Wednesday,No,2015-05-13T18:33:00.000,Arrest,"[-71.08284, 42.309116]",Point,Arrest,5,IVPER,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,769004.3297,,2937945.957,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29167,120684573.0,Tuesday,No,2012-10-30T19:23:00.000,InvPer,"[-71.057465, 42.354681]",Point,InvPer,10,HARPT ,106,A1,First,No,DEVONSHIRE ST,Part Three,Unarmed,775781.7984,,2954585.2139999997,2012
+34447,120685244.0,Tuesday,No,2012-10-30T22:09:00.000,InvPer,"[-71.070387, 42.344687]",Point,InvPer,10,DISTRB,151,D4,First,No,TREMONT ST,Part Three,Unarmed,772307.4035,,2950925.22,2012
+91941,120684391.0,Tuesday,No,2012-10-30T15:11:00.000,InvPer,"[-71.05895, 42.325681]",Point,InvPer,10,IVPER ,187,C6,Day,No,BOSTON ST,Part Three,Knife,775435.0596,,2944015.017,2012
+183454,120684188.0,Tuesday,No,2012-10-30T13:38:00.000,InvPer,"[-71.10877, 42.265731]",Point,InvPer,10,PERGUN,493,E18,Day,No,JOYCE RD,Part Three,Firearm,762063.098,GEORGE ST,2922102.582,2012

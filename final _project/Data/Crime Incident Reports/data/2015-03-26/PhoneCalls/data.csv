@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2448,152024821.0,Thursday,No,2015-03-26T18:33:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,3,VIORDR,0,D14,First,No,BRIGHTON AV,Part three,Other,,,,2015
+65856,152024553.0,Thursday,No,2015-03-26T14:53:00.000,PhoneCalls,"[-71.090655, 42.275071]",Point,PhoneCalls,3,IVPER,0,B3,Day,No,DELHI ST,Part three,Unarmed,766950.0084,,2925529.213,2015
+82270,152024481.0,Thursday,No,2015-03-26T11:35:00.000,PhoneCalls,"[-71.10732, 42.272466]",Point,PhoneCalls,3,IVPER,0,B3,Day,No,CUMMINS HY,Part three,Unarmed,762444.2756,,2924558.711,2015
+97068,152024346.0,Thursday,No,2015-03-26T09:27:00.000,PhoneCalls,"[-71.09212, 42.287476]",Point,PhoneCalls,3,AB,0,B3,Day,No,JOHNSTON RD,Part three,Unarmed,766531.9163,,2930047.873,2015

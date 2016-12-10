@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24496,120686459.0,Wednesday,No,2012-10-31T13:10:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,10,LSTPRP,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+98122,120691653.0,Wednesday,No,2012-10-31T18:00:00.000,PropLost,"[-71.056357, 42.320993]",Point,PropLost,10,IVPER ,235,C6,First,No,COLUMBIA RD,Part Three,Unarmed,776144.9394,,2942310.3,2012
+163959,130003317.0,Wednesday,No,2012-10-31T12:00:00.000,PropLost,"[-71.13227, 42.353751]",Point,PropLost,10,LSTPRP,801,D14,Day,No,HARVARD AV,Part Three,Unarmed,755563.9839,,2954150.267,2012
+174254,120686137.0,Wednesday,No,2012-10-31T05:15:00.000,PropLost,"[-71.06465, 42.351016]",Point,PropLost,10,LSTPRP,121,A1,Last,No,STUART ST,Part Three,Unarmed,773846.5631,,2953239.624,2012

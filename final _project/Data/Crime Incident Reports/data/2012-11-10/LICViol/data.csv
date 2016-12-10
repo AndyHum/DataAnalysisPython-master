@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97224,120709528.0,Saturday,No,2012-11-10T19:00:00.000,LICViol,"[-71.1503, 42.335451]",Point,LICViol,11,CD35  ,749,D14,First,No,CHESTNUT HILL AV,Part Three,Unarmed,750717.8571,,2947460.8860000004,2012
+146512,120709965.0,Saturday,No,2012-11-10T23:35:00.000,LICViol,"[-71.07764, 42.350661]",Point,LICViol,11,CD35  ,134,D4,First,No,DARTMOUTH ST,Part Three,Unarmed,770335.8976,,2953092.6010000003,2012
+230820,120709484.0,Saturday,No,2012-11-10T18:40:00.000,LICViol,"[-71.150478, 42.33617]",Point,LICViol,11,CD35  ,790,D14,First,No,BEACON ST,Part Three,Unarmed,750668.6334,,2947722.4289999995,2012
+258358,120708044.0,Saturday,No,2012-11-10T01:40:00.000,LICViol,"[-71.090835, 42.286361]",Point,LICViol,11,CD35  ,465,B3,Last,No,BLUE HILL AV,Part Three,Unarmed,766881.5587,,2929643.213,2012

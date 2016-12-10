@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79165,130489867.0,Monday,No,2013-08-05T20:21:00.000,InvProp,"[-71.076485, 42.300416]",Point,InvProp,8,SHOTS ,455,C11,First,No,VASSAR ST,Part three,Firearm,770739.0185,WASHINGTON ST,2934784.014,2013
+168331,130541806.0,Monday,No,2013-08-05T14:00:00.000,InvProp,"[-71.12802, 42.352501]",Point,InvProp,8,LARCRT,611,D14,Day,No,BRIGHTON AV,Part three,Unarmed,756714.7352,,2953699.723,2013
+219053,130489282.0,Monday,No,2013-08-05T16:30:00.000,InvProp,"[-71.06782, 42.312751]",Point,InvProp,8,VANIP ,332,C11,First,No,GLENDALE ST,Part three,Other,773060.3396,,2939290.836,2013
+222621,130516149.0,Monday,No,2013-08-05T19:00:00.000,InvProp,"[-71.07708, 42.287021]",Point,InvProp,8,STOLMV,435,B3,First,No,WHITMAN ST,Part three,Other,770602.2625,,2929901.88,2013

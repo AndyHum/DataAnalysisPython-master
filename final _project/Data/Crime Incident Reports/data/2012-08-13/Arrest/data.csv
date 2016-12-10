@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10421,120510023.0,Monday,No,2012-08-13T12:00:00.000,Arrest,"[-71.07016, 42.307426]",Point,Arrest,8,MISPER,336,C11,Day,No,BARRY ST,Part Three,Unarmed,772437.2149,,2937347.124,2012
+77204,120502096.0,Monday,No,2012-08-13T08:20:00.000,Arrest,"[-71.05872, 42.282051]",Point,Arrest,8,ARREST,390,C11,Day,No,GALLIVAN BL,Part Three,Unarmed,775579.5118,,2928115.9110000003,2012
+82321,120503275.0,Monday,No,2012-08-13T18:20:00.000,Arrest,"[-71.06698, 42.377476]",Point,Arrest,8,ARREST,54,A15,First,No,MAIN ST,Part Three,Unarmed,773167.7925,,2962878.97,2012
+252283,120502320.0,Monday,No,2012-08-13T07:06:00.000,Arrest,"[-71.065893, 42.283662]",Point,Arrest,8,ARREST,402,C11,Last,No,FULLER ST,Part Three,Unarmed,773635.2414,,2928692.7430000002,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28536,140356787.0,Friday,No,2014-06-06T17:46:00.000,Service,"[-71.062658, 42.289458]",Point,Service,6,ARREST,366,C11,First,No,SHEPTON ST,Part three,Unarmed,774500.0162,,2930809.455,2014
+66675,140356421.0,Friday,No,2014-06-06T15:07:00.000,Service,"[-71.124595, 42.287901]",Point,Service,6,SSTOP ,0,E5,Day,No,FIRTH RD,Part three,Unarmed,757744.1367,,2930162.402,2014
+97569,140356765.0,Friday,No,2014-06-06T17:00:00.000,Service,"[-71.060905, 42.297751]",Point,Service,6,IVDRUG,355,C11,First,No,DORCHESTER AV,Part three,Other,774958.7915,,2933834.16,2014
+146710,140355910.0,Friday,No,2014-06-06T12:00:00.000,Service,"[-71.064905, 42.352371]",Point,Service,6,IVPER ,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+167932,140355226.0,Friday,No,2014-06-06T05:10:00.000,Service,"[-71.08873, 42.316866]",Point,Service,6,CD11  ,312,B2,Last,No,HARRISHOF ST,Other,Unarmed,767397.5413,,2940762.4489999996,2014
+187546,140356700.0,Friday,No,2014-06-06T17:20:00.000,Service,"[-71.05682, 42.323371]",Point,Service,6,ARREST,189,C6,First,No,DORCHESTER AV,Part three,Unarmed,776015.4199,LOCUST ST,2943176.2010000004,2014
+250653,140356652.0,Friday,No,2014-06-06T16:51:00.000,Service,"[-71.10247, 42.322921]",Point,Service,6,ARREST,912,E13,First,No,BICKFORD ST,Part three,Unarmed,763671.2087,CENTRE ST,2942951.374,2014
+251267,140355556.0,Friday,No,2014-06-06T09:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,6,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

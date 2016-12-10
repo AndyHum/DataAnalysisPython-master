@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94407,140024637.0,Monday,No,2014-01-13T09:21:00.000,PhoneCalls,"[-71.089205, 42.316173]",Point,PhoneCalls,1,HARPT ,312,B2,Day,No,HOLWORTHY ST,Part three,Unarmed,767270.2679,,2940509.336,2014
+139706,140024822.0,Monday,No,2014-01-13T10:55:00.000,PhoneCalls,"[-71.053313, 42.376979]",Point,PhoneCalls,1,THREAT,38,A15,Day,No,9TH ST,Part three,Unarmed,776861.4528,,2962716.724,2014
+161110,140027115.0,Monday,No,2014-01-13T13:00:00.000,PhoneCalls,"[-71.055875, 42.379707]",Point,PhoneCalls,1,HARPT ,37,A15,Day,No,OLD LANDING WY,Part three,Unarmed,776164.0067,,2963707.4760000003,2014
+165477,140027994.0,Monday,No,2014-01-13T16:00:00.000,PhoneCalls,"[-71.09973, 42.269758]",Point,PhoneCalls,1,HARPT ,480,E18,First,No,BISMARCK ST,Part three,Unarmed,764503.0772,,2923581.22,2014

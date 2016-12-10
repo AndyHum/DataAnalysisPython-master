@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23493,,Friday,No,2015-07-31T02:18:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,279,B2,,No,DUDLEY ST,Part Two,None,,GREENVILLE ST,,2015
+41215,,Friday,No,2015-07-31T15:00:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,111,A1,,No,BOYLSTON ST,Part Two,None,,,,2015
+64053,,Friday,No,2015-07-31T00:00:00.000,Drug Violation,"[-71.067704, 42.273577]",Point,18xx,7,ARREST,405,C11,,No,DORCHESTER AVE,Part Two,None,773164.0,,2930000.0,2015
+95858,,Friday,No,2015-07-31T00:00:00.000,Drug Violation,"[-71.06257, 42.364743]",Point,18xx,7,UNKEMS,61,A1,,No,CAUSEWAY ST,Part Two,None,774383.0,,2960000.0,2015
+98952,,Friday,No,2015-07-31T17:15:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,503,E18,,No,AMERICAN LEGION HWY,Part Two,None,,,,2015
+107951,,Friday,No,2015-07-31T17:40:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,115,A1,,No,BEACH ST,Part Two,None,,UTICA ST,,2015
+233177,,Friday,No,2015-07-31T00:00:00.000,Drug Violation,"[-71.060486, 42.351935]",Point,18xx,7,IVPREM,116,A1,,No,OXFORD ST,Part Two,None,774970.0,,2950000.0,2015
+247368,,Friday,No,2015-07-31T00:00:00.000,Drug Violation,"[-71.124019, 42.256216]",Point,18xx,7,IVPREM,519,E18,,No,HYDE PARK AVE,Part Two,None,757951.0,,2920000.0,2015
+258914,,Friday,No,2015-07-31T00:00:00.000,Drug Violation,"[-71.063804, 42.354284]",Point,18xx,7,ARREST,111,A1,,No,TREMONT ST,Part Two,None,774069.0,,2950000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50146,130277724.0,Friday,No,2013-05-10T10:00:00.000,PhoneCalls,"[-71.060545, 42.294026]",Point,PhoneCalls,5,HARPT ,363,C11,Day,No,CENTRE ST,Part Three,Unarmed,775063.1785,,2932477.2180000003,2013
+81202,130287882.0,Friday,No,2013-05-10T19:19:00.000,PhoneCalls,"[-71.068275, 42.341231]",Point,PhoneCalls,5,HARPT ,165,D4,First,No,WALTHAM ST,Part Three,Unarmed,772884.7448,,2949668.809,2013
+161995,130278748.0,Friday,No,2013-05-10T18:45:00.000,PhoneCalls,"[-71.0599, 42.301691]",Point,PhoneCalls,5,HARPT ,352,C11,First,No,ADAMS ST,Part Three,Unarmed,775223.272,,2935271.356,2013

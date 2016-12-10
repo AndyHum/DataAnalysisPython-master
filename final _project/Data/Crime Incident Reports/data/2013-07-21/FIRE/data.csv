@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9090,130452988.0,Sunday,No,2013-07-21T16:05:00.000,FIRE,"[-71.067535, 42.274196]",Point,FIRE,7,FIREB ,405,C11,First,No,DORCHESTER AV,Part three,Unarmed,773208.6602,,2925241.227,2013
+22460,130451911.0,Sunday,No,2013-07-21T02:18:00.000,FIRE,"[-71.08873, 42.316866]",Point,FIRE,7,FIREB ,312,B2,Last,No,HARRISHOF ST,Part three,Other,767397.5413,,2940762.4489999996,2013
+47442,130454052.0,Sunday,No,2013-07-21T00:59:00.000,FIRE,"[-71.055028, 42.287827]",Point,FIRE,7,FIREB ,378,C11,Last,No,ADAMS ST,Part three,Other,776567.4852,,2930225.7180000003,2013
+168310,130452121.0,Sunday,No,2013-07-21T05:59:00.000,FIRE,"[-71.079915, 42.321206]",Point,FIRE,7,FIREB ,265,B2,Last,No,PERRIN ST,Part three,Other,769773.8068,,2942355.6339999996,2013
+248340,130452152.0,Sunday,No,2013-07-21T07:01:00.000,FIRE,"[-71.07214, 42.337631]",Point,FIRE,7,FIREB ,168,D4,Last,No,E NEWTON ST,Part three,Unarmed,771846.4215,,2948351.639,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19627,152031272.0,Friday,No,2015-04-17T01:30:00.000,PropFound,"[-71.07922, 42.337276]",Point,PropFound,4,PROP,0,D4,Last,No,NORTHAMPTON ST,Part three,Unarmed,769932.7179,,2948212.611,2015
+109459,152031304.0,Friday,No,2015-04-17T12:45:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,4,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015
+173310,152031756.0,Friday,No,2015-04-17T11:00:00.000,PropFound,"[-71.062522, 42.350788]",Point,PropFound,4,SUSOBJ,0,A1,Day,No,KNEELAND ST,Part three,Unarmed,774421.9655,,2953159.211,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4475,142057876.0,Monday,No,2014-12-15T22:18:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,12,IVPREM,0,C11,First,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+71517,142057709.0,Monday,No,2014-12-15T14:41:00.000,PropFound,"[-71.071715, 42.355646]",Point,PropFound,12,PROP,0,A1,Day,No,BEACON ST,Part three,Unarmed,771928.3622,,2954917.2169999997,2014
+109450,142057698.0,Monday,No,2014-12-15T13:55:00.000,PropFound,"[-71.124149, 42.352208]",Point,PropFound,12,PROP,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,757761.4962,,2953597.4260000004,2014
+115265,142057848.0,Monday,No,2014-12-15T19:00:00.000,PropFound,"[-71.134258, 42.349755]",Point,PropFound,12,PROP,0,D14,First,No,GLENVILLE AV,Part three,Unarmed,755032.8284,,2952691.635,2014
+210116,142057815.0,Monday,No,2014-12-15T18:48:00.000,PropFound,"[-71.05618, 42.351231]",Point,PropFound,12,IVPREM,0,A1,First,No,EAST ST,Part three,Unarmed,776135.6658,ATLANTIC AV,2953329.773,2014

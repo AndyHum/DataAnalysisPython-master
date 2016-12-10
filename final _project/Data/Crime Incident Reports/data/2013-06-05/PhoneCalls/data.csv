@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57522,130343136.0,Wednesday,No,2013-06-05T10:00:00.000,PhoneCalls,"[-71.068642, 42.316293]",Point,PhoneCalls,6,HARPT ,258,B2,Day,No,MONADNOCK ST,Part three,Unarmed,772831.4244,,2940580.485,2013
+136712,130340520.0,Wednesday,No,2013-06-05T16:41:00.000,PhoneCalls,"[-71.119945, 42.257207]",Point,PhoneCalls,6,HARPT ,519,E18,First,No,RIVER ST,Part three,Other,759051.9569,,2918982.675,2013
+211284,130341230.0,Wednesday,No,2013-06-05T15:30:00.000,PhoneCalls,"[-71.13439, 42.288766]",Point,PhoneCalls,6,HARPT ,674,E5,Day,No,SOUTH ST,Part three,Other,755092.4612,,2930466.106,2013

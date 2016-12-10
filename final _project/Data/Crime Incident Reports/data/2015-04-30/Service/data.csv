@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+362,152035301.0,Thursday,No,2015-04-30T18:51:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,B3,First,No,AMES ST,Part three,Unarmed,,STRATTON ST,,2015
+52009,152035133.0,Thursday,No,2015-04-30T09:31:00.000,Service,"[-71.13637, 42.280101]",Point,Service,4,EDP,0,E5,Day,No,CORNELL ST,Part three,Unarmed,754570.1853,,2927306.16,2015
+131516,152035284.0,Thursday,No,2015-04-30T18:55:00.000,Service,"[-71.061495, 42.356911]",Point,Service,4,ARREST,0,A1,First,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2015
+202952,152035109.0,Thursday,No,2015-04-30T08:43:00.000,Service,"[-71.04802, 42.292301]",Point,Service,4,IVPER,0,C11,Day,No,FREEPORT ST,Part three,Unarmed,778455.1684,,2931866.311,2015
+251616,152035186.0,Thursday,No,2015-04-30T13:00:00.000,Service,"[-71.062895, 42.357831]",Point,Service,4,DISTRB,0,A1,Day,No,BEACON ST,Part three,Unarmed,774308.2269,BOWDOIN ST,2955725.566,2015

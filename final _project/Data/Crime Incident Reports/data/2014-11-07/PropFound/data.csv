@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9237,142046833.0,Friday,No,2014-11-07T16:00:00.000,PropFound,"[-71.07697, 42.349231]",Point,PropFound,11,IVPREM,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770519.5901,ST JAMES ST,2952572.3789999997,2014
+118400,142046901.0,Friday,No,2014-11-07T23:00:00.000,PropFound,"[-71.056655, 42.373546]",Point,PropFound,11,INVEST,0,A15,First,No,1ST AV,Part three,Other,775965.0021,,2961461.1289999997,2014
+126789,142046781.0,Friday,No,2014-11-07T14:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,11,PROP,0,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+171533,142046908.0,Friday,No,2014-11-07T23:06:00.000,PropFound,"[-71.05783, 42.358771]",Point,PropFound,11,INVEST,0,A1,First,No,COURT ST,Part three,Unarmed,775675.4145,STATE ST,2956075.1760000004,2014

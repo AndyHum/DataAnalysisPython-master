@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17404,142012297.0,Wednesday,No,2014-07-23T20:00:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,7,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,773924.729,,2953989.2660000003,2014
+18905,142012043.0,Wednesday,No,2014-07-23T11:00:00.000,PropLost,"[-71.10626, 42.335016]",Point,PropLost,7,PROP,0,B2,Day,No,FRANCIS ST,Part three,Unarmed,762625.9366,,2947354.255,2014
+101578,142012723.0,Wednesday,No,2014-07-23T12:30:00.000,PropLost,"[-71.095995, 42.347161]",Point,PropLost,7,PROP,0,D4,Day,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014
+102344,142013792.0,Wednesday,No,2014-07-23T10:00:00.000,PropLost,"[-71.0829, 42.339651]",Point,PropLost,7,PROP,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,768933.6861,,2949073.354,2014
+145921,142013790.0,Wednesday,No,2014-07-23T16:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,7,PROP,0,C6,First,No,ALLSTATE RD,Part three,Other,774104.1328,,2943918.604,2014
+154489,142023860.0,Wednesday,No,2014-07-23T17:30:00.000,PropLost,"[-71.061295, 42.288676]",Point,PropLost,7,IVPER,0,C11,First,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Unarmed,774870.2865,,2930526.566,2014
+172616,142012690.0,Wednesday,No,2014-07-23T17:30:00.000,PropLost,"[-71.1061, 42.329581]",Point,PropLost,7,LARCEN,0,B2,First,No,PARKER HILL AV,Part three,Other,762678.3437,,2945373.8419999997,2014
+176777,142012089.0,Wednesday,No,2014-07-23T03:30:00.000,PropLost,"[-71.094124, 42.347355]",Point,PropLost,7,LARCEN,0,D4,Last,No,IPSWICH ST,Part three,Other,765885.7661,,2951866.0330000003,2014
+242435,142012265.0,Wednesday,No,2014-07-23T17:51:00.000,PropLost,"[-71.098625, 42.346181]",Point,PropLost,7,LARCEN,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+263981,142012102.0,Wednesday,No,2014-07-23T12:30:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,,WASHINGTON ST,,2014

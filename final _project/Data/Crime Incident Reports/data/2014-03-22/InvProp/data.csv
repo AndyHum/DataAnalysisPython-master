@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9885,140174312.0,Saturday,No,2014-03-22T06:00:00.000,InvProp,"[-71.070022, 42.274208]",Point,InvProp,3,BEMVRT,405,C11,Last,No,WASHINGTON ST,Part three,Other,772535.3804,,2925241.96,2014
+26192,142039660.0,Saturday,No,2014-03-22T12:00:00.000,InvProp,"[-71.039755, 42.380536]",Point,InvProp,3,IVMV,0,A7,Day,No,WHITE ST,Part three,Unarmed,780517.8359,,2964032.6160000004,2014
+164841,140174461.0,Saturday,No,2014-03-22T14:30:00.000,InvProp,"[-71.065135, 42.350006]",Point,InvProp,3,IVPREM,121,A1,Day,No,TREMONT ST,Part three,Unarmed,773717.34,,2952870.892,2014
+233693,140173695.0,Saturday,No,2014-03-22T03:00:00.000,InvProp,"[-71.07075, 42.297631]",Point,InvProp,3,SHOTS ,358,C11,Last,No,GREENBRIER ST,Part three,Other,772295.5862,TONAWANDA ST,2933776.874,2014

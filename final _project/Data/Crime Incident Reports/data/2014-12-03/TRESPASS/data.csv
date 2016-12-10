@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7156,142054411.0,Wednesday,No,2014-12-03T21:01:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,12,ARREST,0,A1,First,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014
+230771,142054445.0,Wednesday,No,2014-12-03T22:23:00.000,TRESPASS,"[-71.06166, 42.364266]",Point,TRESPASS,12,IVPER,0,A1,First,No,PORTLAND ST,Part Two,Other,774629.9723,,2958072.32,2014
+253671,142054165.0,Wednesday,No,2014-12-03T03:20:00.000,TRESPASS,"[-70.972049, 42.312511]",Point,TRESPASS,12,REQP,0,C11,Last,No,LONG ISLAND RD,Part Two,Unarmed,798964.0477,,2939348.963,2014

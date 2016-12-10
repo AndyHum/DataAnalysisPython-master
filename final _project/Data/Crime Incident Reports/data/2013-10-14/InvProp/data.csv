@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8742,130655372.0,Monday,No,2013-10-14T09:30:00.000,InvProp,"[-71.128836, 42.26851]",Point,InvProp,10,REQP  ,547,E18,Day,No,HALLRON ST,Part three,Unarmed,756627.2682,,2923090.711,2013
+183047,130656715.0,Monday,No,2013-10-14T22:14:00.000,InvProp,"[-71.079335, 42.328182]",Point,InvProp,10,SHOTS ,267,B2,First,No,MT PLEASANT AV,Part three,Firearm,769917.9148,,2944898.3210000005,2013
+258579,130655264.0,Monday,No,2013-10-14T08:03:00.000,InvProp,"[-71.153952, 42.291225]",Point,InvProp,10,FIREB ,692,E5,Day,No,REDLANDS RD,Part three,Unarmed,749795.7208,,2931340.1160000004,2013

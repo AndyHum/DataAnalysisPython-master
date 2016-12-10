@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20411,140124536.0,Wednesday,No,2014-02-26T19:30:00.000,Service,"[-71.093739, 42.334956]",Point,Service,2,IVPER ,911,B2,First,No,ANNUNCIATION RD,Other,Unarmed,766011.2668,,2947348.014,2014
+23649,140120990.0,Wednesday,No,2014-02-26T21:15:00.000,Service,"[-71.075838, 42.321323]",Point,Service,2,INVEST,262,B2,First,No,WOODVILLE ST,Other,Other,770875.9749,,2942403.608,2014
+38886,140121217.0,Wednesday,No,2014-02-26T23:44:00.000,Service,"[-71.07497, 42.325271]",Point,Service,2,ARREST,263,B2,First,No,BLUE HILL AV,Part three,Unarmed,771103.7314,DUDLEY ST,2943843.613,2014
+49274,140120748.0,Wednesday,No,2014-02-26T19:10:00.000,Service,"[-71.0626, 42.352361]",Point,Service,2,OT    ,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014
+165167,140119756.0,Wednesday,No,2014-02-26T11:31:00.000,Service,"[-71.06942, 42.362401]",Point,Service,2,CD11  ,64,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,CAMBRIDGE ST,2957381.922,2014
+236626,140120314.0,Wednesday,No,2014-02-26T17:30:00.000,Service,"[-71.04625, 42.354256]",Point,Service,2,ARREST,200,C6,First,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32937,130315973.0,Sunday,No,2013-05-26T16:45:00.000,Ballist,"[-71.059735, 42.297541]",Point,Ballist,5,FDWEAP,400,C11,First,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013
+210901,130322163.0,Sunday,No,2013-05-26T17:00:00.000,Ballist,"[-71.05905, 42.379701]",Point,Ballist,5,MEET  ,37,A15,First,No,MONUMENT ST,Part Two,Unarmed,775306.2487,MEDFORD ST,2963700.7830000003,2013
+238781,130315938.0,Sunday,No,2013-05-26T16:46:00.000,Ballist,"[-71.059735, 42.297541]",Point,Ballist,5,INVEST,355,C11,First,No,GIBSON ST,Part Two,Other,775275.7115,,2933759.268,2013

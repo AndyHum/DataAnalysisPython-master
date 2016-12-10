@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42292,142030898.0,Thursday,No,2014-09-18T06:00:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,9,PROP,0,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+98918,142031071.0,Thursday,No,2014-09-18T11:50:00.000,PropLost,"[-71.065775, 42.352431]",Point,PropLost,9,PROP,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773539.8413,,2953753.727,2014
+110010,142030710.0,Thursday,No,2014-09-18T17:00:00.000,PropLost,"[-71.12532, 42.251951]",Point,PropLost,9,LARCEN,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,757605.5093,,2917060.857,2014
+111526,142030626.0,Thursday,No,2014-09-18T09:00:00.000,PropLost,"[-71.145305, 42.360826]",Point,PropLost,9,PROP,0,D14,Day,No,WAVERLY ST,Part three,Unarmed,752029.9319,,2956713.625,2014
+143342,142030731.0,Thursday,No,2014-09-18T18:45:00.000,PropLost,"[-71.07738, 42.350061]",Point,PropLost,9,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2014
+147917,142030861.0,Thursday,No,2014-09-18T20:30:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,9,PROP,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2014
+186896,142030478.0,Thursday,No,2014-09-18T00:10:00.000,PropLost,"[-71.062735, 42.351706]",Point,PropLost,9,PROP,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774362.9145,,2953493.7210000004,2014
+190352,142030723.0,Thursday,No,2014-09-18T19:30:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,9,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014

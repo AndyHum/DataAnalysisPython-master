@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81351,152028698.0,Thursday,No,2015-04-09T11:43:00.000,TRESPASS,"[-71.058185, 42.325141]",Point,TRESPASS,4,BE,0,C6,Day,No,HOWELL ST,Part Two,Unarmed,775642.9486,,2943819.3039999995,2015
+225251,152028869.0,Thursday,No,2015-04-09T20:45:00.000,TRESPASS,"[-71.10086, 42.322816]",Point,TRESPASS,4,IVPREM,0,E13,First,No,CENTRE ST,Part Two,Unarmed,764106.7781,,2942915.144,2015
+267482,152028879.0,Thursday,No,2015-04-09T21:30:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,4,ARREST,0,E13,First,No,WASHINGTON ST,Part Two,Unarmed,,,,2015

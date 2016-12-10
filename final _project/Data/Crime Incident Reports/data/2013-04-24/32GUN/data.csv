@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65535,130240646.0,Wednesday,No,2013-04-24T10:26:00.000,32GUN,"[-71.06175, 42.342771]",Point,32GUN,4,FDPROP,174,C6,Day,No,W 4TH ST,Part Three,Unarmed,774645.8944,FRONTAGE RD,2950239.008,2013
+80037,130240789.0,Wednesday,No,2013-04-24T11:45:00.000,32GUN,"[-71.153755, 42.280031]",Point,32GUN,4,FDPROP,703,E5,Day,No,LANDSEER ST,Part Three,Unarmed,749865.6885,,2927261.0739999996,2013
+113258,130240593.0,Wednesday,No,2013-04-24T10:00:00.000,32GUN,"[-71.05532, 42.311616]",Point,32GUN,4,FDWEAP,254,C11,Day,No,MARYLAND ST,Part Three,Unarmed,776443.3919,,2938894.602,2013

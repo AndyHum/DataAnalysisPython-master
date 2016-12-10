@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128707,142020013.0,Friday,No,2014-08-15T01:00:00.000,PersLoc,"[-71.083489, 42.308113]",Point,PersLoc,8,IVPER,0,B2,Last,No,BLUE HILL AV,Other,Unarmed,768830.3802,,2937579.3460000004,2014
+239607,142019757.0,Friday,No,2014-08-15T21:00:00.000,PersLoc,"[-71.095087, 42.323178]",Point,PersLoc,8,IVPER,0,B2,First,No,HIGHLAND ST,Other,Unarmed,765667.2517,,2943054.258,2014
+249543,142019652.0,Friday,No,2014-08-15T14:15:00.000,PersLoc,"[-71.15159, 42.356801]",Point,PersLoc,8,IVPER,0,D14,Day,No,N BEACON ST,Other,Unarmed,750337.2932,,2955239.8310000002,2014
+256178,142020093.0,Friday,No,2014-08-15T07:00:00.000,PersLoc,"[-71.04162, 42.369616]",Point,PersLoc,8,MISSIN,0,A7,Last,No,SUMNER ST,Other,Unarmed,780035.3332,,2960050.433,2014

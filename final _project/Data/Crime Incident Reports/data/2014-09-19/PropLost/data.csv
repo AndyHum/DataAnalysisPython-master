@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+358,142030922.0,Friday,No,2014-09-19T01:15:00.000,PropLost,"[-71.025498, 42.361624]",Point,PropLost,9,PROP,0,A7,Last,No,HARBORSIDE DR,Part three,Unarmed,784407.9679,,2957161.6210000003,2014
+36578,142032817.0,Friday,No,2014-09-19T16:00:00.000,PropLost,"[-71.085901, 42.320954]",Point,PropLost,9,LARCEN,0,B2,First,No,WALNUT AV,Part three,Unarmed,768155.212,,2942255.8210000005,2014
+111093,142031224.0,Friday,No,2014-09-19T20:00:00.000,PropLost,"[-71.08363, 42.339061]",Point,PropLost,9,PROP,0,D4,First,No,COLUMBUS AV,Part three,Unarmed,768737.3752,,2948857.383,2014
+123631,142031344.0,Friday,No,2014-09-19T23:00:00.000,PropLost,"[-71.13241, 42.353026]",Point,PropLost,9,LARCEN,0,D14,First,No,BRIGHTON AV,Part three,Unarmed,755527.2809,,2953885.8989999997,2014
+134592,142033022.0,Friday,No,2014-09-19T12:00:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,9,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+147011,142031795.0,Friday,No,2014-09-19T07:00:00.000,PropLost,"[-71.05533, 42.352716]",Point,PropLost,9,PROP,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,776362.6063,,2953872.1319999998,2014
+237069,142031399.0,Friday,No,2014-09-19T19:30:00.000,PropLost,"[-71.058756, 42.36273]",Point,PropLost,9,PROP,0,A1,First,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2014
+240126,142033304.0,Friday,No,2014-09-19T09:40:00.000,PropLost,"[-71.066547, 42.363593]",Point,PropLost,9,PROP,0,A1,Day,No,HAWTHORNE PL,Part three,Unarmed,773310.3309,,2957820.1980000003,2014
+262979,142031080.0,Friday,No,2014-09-19T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,PROP,0,E18,Day,No,MORTON VILLAGE DR,Part three,Unarmed,,,,2014

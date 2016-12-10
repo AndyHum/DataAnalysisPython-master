@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32107,130354870.0,Tuesday,No,2013-06-11T12:46:00.000,PhoneCalls,"[-71.07741, 42.321511]",Point,PhoneCalls,6,HARPT ,262,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770450.6982,,2942470.127,2013
+157179,130355164.0,Tuesday,No,2013-06-11T15:00:00.000,PhoneCalls,"[-71.079404, 42.278655]",Point,PhoneCalls,6,REQP  ,432,B3,Day,No,GALLIVAN BL,Part Three,Unarmed,769988.2273,,2926849.825,2013
+158945,130357577.0,Tuesday,No,2013-06-11T18:56:00.000,PhoneCalls,"[-71.04162, 42.369616]",Point,PhoneCalls,6,IVPER ,907,A7,First,No,SUMNER ST,Part three,Unarmed,780035.3332,,2960050.433,2013
+243327,130578334.0,Tuesday,No,2013-06-11T11:48:00.000,PhoneCalls,"[-71.12088, 42.351821]",Point,PhoneCalls,6,INVEST,797,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2013

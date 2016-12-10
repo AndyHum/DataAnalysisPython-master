@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25877,152021837.0,Wednesday,No,2015-03-18T05:10:00.000,InvProp,"[-71.10171, 42.264576]",Point,InvProp,3,INVEST,0,E18,Last,No,ALPINE ST,Part three,Other,763976.0182,,2921690.5310000004,2015
+235812,152021875.0,Wednesday,No,2015-03-18T15:14:00.000,InvProp,"[-71.037705, 42.382621]",Point,InvProp,3,IVPER,0,A7,Day,No,CONDOR ST,Part three,Unarmed,781067.5907,,2964795.432,2015
+266585,152021729.0,Wednesday,No,2015-03-18T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD19,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

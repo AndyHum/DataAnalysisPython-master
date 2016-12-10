@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131532,142057133.0,Saturday,No,2014-12-13T11:20:00.000,Service,"[-71.112343, 42.313839]",Point,Service,12,ADMRPT,0,E13,Day,No,ST JOHN ST,Part three,Unarmed,761016.3063,,2939629.3430000003,2014
+189542,142057243.0,Saturday,No,2014-12-13T16:49:00.000,Service,"[-71.090795, 42.311506]",Point,Service,12,IVPER,0,B2,First,No,HUMBOLDT AV,Part three,Unarmed,766848.4216,,2938806.488,2014
+236923,142059538.0,Saturday,No,2014-12-13T12:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,12,PROP,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+244102,142057219.0,Saturday,No,2014-12-13T16:03:00.000,Service,"[-71.08222, 42.317771]",Point,Service,12,AOD,0,B2,First,No,WARREN ST,Part three,Unarmed,769156.5833,KING BL,2941100.8,2014

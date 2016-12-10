@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29104,142023628.0,Wednesday,No,2014-08-27T23:00:00.000,InvPer,"[-71.134106, 42.349002]",Point,InvPer,8,DISTRB,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,755074.9875,,2952417.195,2014
+30505,142023473.0,Wednesday,No,2014-08-27T03:00:00.000,InvPer,"[-71.142936, 42.345312]",Point,InvPer,8,IVPER,0,D14,Last,No,FIDELIS WY,Part three,Unarmed,752693.6724,,2951062.6210000003,2014
+80455,142023535.0,Wednesday,No,2014-08-27T17:30:00.000,InvPer,"[-71.077, 42.339601]",Point,InvPer,8,LANTEN,0,D4,First,No,W CONCORD ST,Part three,Unarmed,770528.8857,,2949062.99,2014
+95596,142023555.0,Wednesday,No,2014-08-27T16:00:00.000,InvPer,"[-71.05106, 42.332831]",Point,InvPer,8,IVPER,0,C6,First,No,E 8TH ST,Part three,Unarmed,777554.9304,DORCHESTER ST,2946631.728,2014
+187953,142023387.0,Wednesday,No,2014-08-27T10:13:00.000,InvPer,"[-71.094585, 42.348806]",Point,InvPer,8,IVPER,0,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765758.7053,,2952394.378,2014
+206992,142024062.0,Wednesday,No,2014-08-27T15:00:00.000,InvPer,"[-71.07227, 42.332601]",Point,InvPer,8,MVA,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771820.4655,MELNEA CASS BL,2946518.441,2014
+262637,142023360.0,Wednesday,No,2014-08-27T09:18:00.000,InvPer,"[0, 0]",Point,InvPer,8,IVPER,0,C11,Day,No,ADAMS ST,Part three,Other,,,,2014

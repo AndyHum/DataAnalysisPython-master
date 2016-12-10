@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1715,130499494.0,Friday,No,2013-08-09T16:45:00.000,PropLost,"[-71.06264, 42.352111]",Point,PropLost,8,LSTPRP,117,A1,First,No,WASHINGTON ST,Part three,Unarmed,774387.8367,,2953641.442,2013
+19063,130504117.0,Friday,No,2013-08-09T11:30:00.000,PropLost,"[-71.06432, 42.343461]",Point,PropLost,8,LSTPRP,162,D4,Day,No,HARRISON AV,Part three,Unarmed,773949.8274,E BERKELEY ST,2950486.898,2013
+19284,130498780.0,Friday,No,2013-08-09T14:50:00.000,PropLost,"[-71.082295, 42.344966]",Point,PropLost,8,TRACK ,145,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769087.7662,,2951011.039,2013
+24370,130503815.0,Friday,No,2013-08-09T22:00:00.000,PropLost,"[-71.06047, 42.355401]",Point,PropLost,8,INVEST,105,A1,First,No,WASHINGTON ST,Part three,Unarmed,774968.2164,SUMMER ST,2954843.395,2013
+109774,130500845.0,Friday,No,2013-08-09T23:00:00.000,PropLost,"[-71.06975, 42.345371]",Point,PropLost,8,LSTPRP,126,D4,First,No,TREMONT ST,Part three,Unarmed,772478.3670000001,BERKELEY ST,2951175.486,2013
+132241,130497753.0,Friday,No,2013-08-09T02:00:00.000,PropLost,"[-71.052551, 42.356436]",Point,PropLost,8,LSTPRP,101,A1,Last,No,INDIA ST,Part three,Unarmed,777106.6048,HIGH ST,2955231.5510000004,2013
+150676,130497583.0,Friday,No,2013-08-09T08:30:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,8,LSTPRP,112,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2013

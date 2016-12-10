@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+161731,142015346.0,Friday,No,2014-08-01T22:40:00.000,PhoneCalls,"[-71.080822, 42.273493]",Point,PhoneCalls,8,IVPER,0,B3,First,No,BEATTY CR,Part three,Unarmed,769613.8042,,2924966.8010000004,2014
+199915,142019558.0,Friday,No,2014-08-01T12:00:00.000,PhoneCalls,"[-71.132455, 42.361311]",Point,PhoneCalls,8,IVPER,0,D14,Day,No,RAYMOND ST,Part three,Other,755502.1074,,2956905.0719999997,2014
+211258,142016063.0,Friday,No,2014-08-01T23:00:00.000,PhoneCalls,"[-71.052652, 42.366648]",Point,PhoneCalls,8,AB,0,A1,First,No,HANOVER ST,Part three,Unarmed,777059.7148,,2958952.9489999996,2014

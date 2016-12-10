@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55071,152008070.0,Friday,No,2015-01-30T16:52:00.000,FIRE,"[-71.050247, 42.338434]",Point,FIRE,1,FO,0,C6,First,No,W BROADWAY,Part three,Unarmed,777763.844,,2948674.624,2015
+251928,152008132.0,Friday,No,2015-01-30T18:30:00.000,FIRE,"[-71.085111, 42.315866]",Point,FIRE,1,FIRE,0,B2,First,No,DECKARD ST,Part three,Other,768377.9117,,2940402.647,2015
+265875,152008066.0,Friday,No,2015-01-30T17:02:00.000,FIRE,"[0, 0]",Point,FIRE,1,FIRE,0,B3,First,No,AMES ST,Part three,Unarmed,,,,2015

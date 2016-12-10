@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39859,152039482.0,Thursday,No,2015-05-14T12:53:00.000,InvProp,"[-71.097718, 42.321928]",Point,InvProp,5,REQEP,0,B2,Day,No,SLAYTON WY,Part three,Unarmed,764957.8611,,2942595.539,2015
+109655,152039574.0,Thursday,No,2015-05-14T18:02:00.000,InvProp,"[-71.05571, 42.304386]",Point,InvProp,5,PROP,0,C11,First,No,FREEPORT ST,Part three,Unarmed,776351.6018,,2936259.272,2015
+214022,152039370.0,Thursday,No,2015-05-14T01:43:00.000,InvProp,"[-71.07341, 42.325021]",Point,InvProp,5,BE,0,B2,Last,No,WOODWARD AV,Part three,Other,771525.8315,,2943754.437,2015

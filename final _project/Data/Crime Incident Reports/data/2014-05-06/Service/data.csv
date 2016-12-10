@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38767,140277240.0,Tuesday,No,2014-05-06T09:52:00.000,Service,"[-71.083485, 42.298551]",Point,Service,5,DISTRB,457,B3,Day,No,BRADSHAW ST,Part three,Unarmed,768848.6656,,2934095.0539999995,2014
+88543,140277220.0,Tuesday,No,2014-05-06T09:43:00.000,Service,"[-71.152394, 42.340033]",Point,Service,5,ARREST,774,D14,Day,No,SIDLAW RD,Part three,Unarmed,750144.7008,,2949128.27,2014
+193001,140277549.0,Tuesday,No,2014-05-06T07:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,IVPREM,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+216800,140278745.0,Tuesday,No,2014-05-06T20:28:00.000,Service,"[-71.048625, 42.332956]",Point,Service,5,ARREST,219,C6,First,No,TELEGRAPH ST,Part three,Unarmed,778213.0793,,2946680.756,2014
+224088,140276715.0,Tuesday,No,2014-05-06T01:27:00.000,Service,"[-71.075315, 42.334781]",Point,Service,5,TRANSP,270,D4,Last,No,HARRISON AV,Part three,Unarmed,770993.181,,2947308.758,2014
+224718,140277442.0,Tuesday,No,2014-05-06T11:22:00.000,Service,"[-71.05591, 42.300171]",Point,Service,5,IVPER ,354,C11,Day,No,PARK ST,Part three,Unarmed,776305.5261,,2934723.04,2014
+257247,140278970.0,Tuesday,No,2014-05-06T21:05:00.000,Service,"[-71.082649, 42.341187]",Point,Service,5,IVPER ,284,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,768998.8176,COLUMBUS AV,2949633.397,2014

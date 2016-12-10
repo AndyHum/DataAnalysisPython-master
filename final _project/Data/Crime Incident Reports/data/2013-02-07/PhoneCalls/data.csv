@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84816,130094006.0,Thursday,No,2013-02-07T21:30:00.000,PhoneCalls,"[-71.08823, 42.348246]",Point,PhoneCalls,2,HARPT ,141,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,767477.5621,,2952198.5319999997,2013
+157168,130079225.0,Thursday,No,2013-02-07T11:00:00.000,PhoneCalls,"[-71.07442, 42.341701]",Point,PhoneCalls,2,IVPER ,158,D4,Day,No,AGUADILLA ST,Part Three,Other,771222.5871,,2949831.736,2013
+222230,130081261.0,Thursday,No,2013-02-07T22:32:00.000,PhoneCalls,"[-71.10622, 42.334186]",Point,PhoneCalls,2,HARPT ,593,B2,First,No,FENWOOD RD,Part Three,Other,762638.1489,,2947051.838,2013
+255161,130098972.0,Thursday,No,2013-02-07T00:32:00.000,PhoneCalls,"[-71.05667, 42.338541]",Point,PhoneCalls,2,IVPER ,936,C6,Last,No,B ST,Part Three,Unarmed,776027.2509999999,,2948704.619,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3988,152049017.0,Saturday,No,2015-06-13T13:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,MISSIN,0,C11,Day,No,DORCHESTER AV,Other,Unarmed,,,,2015
+4024,152049290.0,Saturday,No,2015-06-13T08:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,MISSIN,0,E13,Day,No,HEATH ST,Other,Unarmed,,,,2015
+235841,152049209.0,Saturday,No,2015-06-13T14:40:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,6,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015

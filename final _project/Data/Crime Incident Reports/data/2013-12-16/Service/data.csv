@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80144,130790418.0,Monday,No,2013-12-16T09:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,12,AOD   ,311,C11,Day,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2013
+133337,130790625.0,Monday,No,2013-12-16T12:55:00.000,Service,"[-71.106415, 42.338441]",Point,Service,12,CD11  ,282,B2,Day,No,LONGWOOD AV,Other,Unarmed,762578.2691,,2948602.1960000005,2013
+237068,130790635.0,Monday,No,2013-12-16T11:46:00.000,Service,"[-71.048242, 42.316663]",Point,Service,12,PERGUN,256,C6,Day,No,MORRISSEY BL,Part three,Unarmed,778348.0479,,2940743.602,2013
+241819,130790703.0,Monday,No,2013-12-16T07:10:00.000,Service,"[-71.059735, 42.297541]",Point,Service,12,LARCRT,355,C11,Last,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+247404,130795840.0,Monday,No,2013-12-16T17:15:00.000,Service,"[-71.13417, 42.276486]",Point,Service,12,LARCRT,691,E5,First,No,BEACH ST,Part three,Unarmed,755171.1815,,2925991.3460000004,2013

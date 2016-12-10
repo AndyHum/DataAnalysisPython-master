@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120987,142031762.0,Monday,No,2014-09-22T08:40:00.000,Arrest,"[-71.03398, 42.370806]",Point,Arrest,9,ARREST,0,A7,Day,No,FRANKFORT ST,Part three,Unarmed,782097.5063,,2960495.28,2014
+244529,142031899.0,Monday,No,2014-09-22T16:00:00.000,Arrest,"[-71.038975, 42.370956]",Point,Arrest,9,ARREST,0,A7,First,No,MERIDIAN ST,Part three,Unarmed,780747.4476,,2960542.607,2014

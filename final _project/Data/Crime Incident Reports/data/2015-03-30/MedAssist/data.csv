@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6613,152025794.0,Monday,No,2015-03-30T11:17:00.000,MedAssist,"[-71.121625, 42.245126]",Point,MedAssist,3,INVEST,0,E18,Day,No,WASHINGTON ST,Part three,Unarmed,758616.8990000001,,2914578.159,2015
+12036,152025897.0,Monday,No,2015-03-30T17:00:00.000,MedAssist,"[-71.153145, 42.343791]",Point,MedAssist,3,UNCONS,0,D14,First,No,LEDGEMERE RD,Part three,Unarmed,749936.2779,,2950497.005,2015
+19721,152025762.0,Monday,No,2015-03-30T10:15:00.000,MedAssist,"[-71.164206, 42.262124]",Point,MedAssist,3,EDP,0,E5,Day,No,CROSSTOWN AV,Part three,Unarmed,747063.0468,,2920724.2189999996,2015
+59430,152025935.0,Monday,No,2015-03-30T20:34:00.000,MedAssist,"[-71.03981, 42.376191]",Point,MedAssist,3,REQEP,0,A7,First,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2015
+99224,152025923.0,Monday,No,2015-03-30T19:43:00.000,MedAssist,"[-71.085118, 42.298635]",Point,MedAssist,3,EDP,0,B3,First,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2015
+154111,152025906.0,Monday,No,2015-03-30T18:57:00.000,MedAssist,"[-71.097718, 42.321928]",Point,MedAssist,3,IVPER,0,B2,First,No,SLAYTON WY,Part three,Unarmed,764957.8611,,2942595.539,2015
+163750,152025761.0,Monday,No,2015-03-30T10:25:00.000,MedAssist,"[-71.083648, 42.296992]",Point,MedAssist,3,CARDIA,0,B3,Day,No,ESMOND ST,Part three,Unarmed,768807.2851,,2933526.475,2015
+181441,152025928.0,Monday,No,2015-03-30T20:00:00.000,MedAssist,"[-71.10205, 42.311961]",Point,MedAssist,3,UNCONS,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,763803.4218,,2938957.895,2015
+227779,152025909.0,Monday,No,2015-03-30T16:22:00.000,MedAssist,"[-71.054465, 42.281571]",Point,MedAssist,3,UNKEMS,0,C11,First,No,LENOXDALE AV,Part three,Unarmed,776731.8425,,2927946.979,2015
+250011,152025773.0,Monday,No,2015-03-30T11:22:00.000,MedAssist,"[-71.066755, 42.338261]",Point,MedAssist,3,UNCONS,0,D4,Day,No,ALBANY ST,Part three,Unarmed,773301.1735,,2948588.5710000005,2015
+252285,152025863.0,Monday,No,2015-03-30T16:30:00.000,MedAssist,"[-71.076935, 42.290401]",Point,MedAssist,3,IVPER,0,B3,First,No,COLONIAL AV,Part three,Unarmed,770635.3845,,2931133.797,2015
+252620,152025753.0,Monday,No,2015-03-30T07:59:00.000,MedAssist,"[-71.08284, 42.309116]",Point,MedAssist,3,INJOFF,0,B2,Day,No,BLUE HILL AV,Part three,Other,769004.3297,,2937945.957,2015
+267071,152025874.0,Monday,No,2015-03-30T17:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,POISON,0,D4,First,No,HARRISON AV,Part three,Unarmed,,,,2015
+267079,152025919.0,Monday,No,2015-03-30T19:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,REQEP,0,C6,First,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+267088,152025704.0,Monday,No,2015-03-30T04:55:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,IVPER,0,E13,Last,No,BICKFORD ST,Part three,Unarmed,,,,2015
+267103,152025752.0,Monday,No,2015-03-30T08:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,INJOFF,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,,,,2015
+267109,152025778.0,Monday,No,2015-03-30T11:28:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,INVEST,0,C11,Day,No,ADAMS ST,Part three,Unarmed,,WINTER ST,,2015

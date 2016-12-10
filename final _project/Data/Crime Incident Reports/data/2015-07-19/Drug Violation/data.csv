@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26258,,Sunday,No,2015-07-19T00:00:00.000,Drug Violation,"[-71.058354, 42.358923]",Point,18xx,7,IVPREM,92,A1,,No,COURT ST,Part Two,None,775534.0,,2960000.0,2015
+37320,,Sunday,No,2015-07-19T14:21:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVMV,679,E5,,No,BELGRADE AVE,Part Two,None,, CORINTH ST ,,2015
+135080,,Sunday,No,2015-07-19T00:00:00.000,Drug Violation,"[-71.077408, 42.335805]",Point,18xx,7,ARREST,271,D4,,No,NORTHAMPTON ST,Part Two,None,770425.0,,2950000.0,2015

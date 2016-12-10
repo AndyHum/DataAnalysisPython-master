@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20602,130734006.0,Tuesday,No,2013-11-19T10:30:00.000,InvProp,"[-71.05078, 42.356576]",Point,InvProp,11,BERPTA,96,A1,Day,No,ROWES WHRF,Part three,Other,777585.0668,,2955285.233,2013
+28759,130734952.0,Tuesday,No,2013-11-19T18:02:00.000,InvProp,"[-71.10453, 42.306026]",Point,InvProp,11,ALARMR,570,E13,First,No,KENTON RD,Part three,Unarmed,763142.6708,,2936791.9639999997,2013
+121672,130735479.0,Tuesday,No,2013-11-19T23:40:00.000,InvProp,"[-71.15064, 42.348981]",Point,InvProp,11,CRIP  ,771,D14,First,No,WINSHIP ST,Part three,Other,750605.7341,WASHINGTON ST,2952391.108,2013
+140389,140031819.0,Tuesday,No,2013-11-19T13:00:00.000,InvProp,"[-71.05357, 42.340566]",Point,InvProp,11,IVPER ,201,C6,Day,No,W BROADWAY,Part three,Unarmed,776861.5099,,2949446.936,2013

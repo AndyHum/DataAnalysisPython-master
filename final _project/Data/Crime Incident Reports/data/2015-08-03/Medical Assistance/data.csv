@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33550,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.092389, 42.328031]",Point,MedAssist,8,POISON,293,B2,,No,HIGHLAND ST,Part Three,None,766388.0,,2940000.0,2015
+47887,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.084244, 42.311659]",Point,MedAssist,8,INJ,320,B2,,No,HOWLAND ST,Part Three,None,768620.0,,2940000.0,2015
+66831,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.063381, 42.364347]",Point,MedAssist,8,I00015,63,A1,,No,STANIFORD ST,Part Three,None,774165.0,,2960000.0,2015
+75744,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.081807, 42.306493]",Point,MedAssist,8,UNCONS,330,B2,,No,WASHINGTON ST,Part Three,None,769288.0,,2940000.0,2015
+77502,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.10067, 42.267888]",Point,MedAssist,8,I00015,480,E18,,No,FAIRLAWN AVE,Part Three,None,764252.0,,2920000.0,2015
+79718,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.062756, 42.347534]",Point,MedAssist,8,UNCONS,124,A1,,No,HARRISON AVE,Part Three,None,774365.0,,2950000.0,2015
+83480,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.081835, 42.271324]",Point,MedAssist,8,NIDV,422,B3,,No,RIVER ST,Part Three,None,769344.0,,2920000.0,2015
+118732,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.069397, 42.329801]",Point,MedAssist,8,EDP,177,C6,,No,MASSACHUSETTS AVE,Part Three,None,772602.0,,2950000.0,2015
+157866,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.054878, 42.326485]",Point,MedAssist,8,EDP,914,C6,,No,HENRY STERLING SQ,Part Three,None,776535.0,,2940000.0,2015
+193512,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.071419, 42.289622]",Point,MedAssist,8,IVPER,436,C11,,No,WASHINGTON ST,Part Three,None,772129.0,,2930000.0,2015
+204159,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.085634, 42.328663]",Point,MedAssist,8,INJOFF,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+224102,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.098713, 42.33528]",Point,MedAssist,8,I00015,901,B2,,No,MCGREEVEY WAY,Part Three,None,764666.0,,2950000.0,2015
+251822,,Monday,No,2015-08-03T00:00:00.000,Medical Assistance,"[-71.127463, 42.35455]",Point,MedAssist,8,IVPER,800,D14,,No,ASHFORD ST,Part Three,None,756862.0,,2950000.0,2015

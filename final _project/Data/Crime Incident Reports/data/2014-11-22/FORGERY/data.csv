@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5854,142051341.0,Saturday,No,2014-11-22T16:30:00.000,FORGERY,"[-71.05672, 42.361981]",Point,10xx,11,LARCEN,0,A1,First,No,HANOVER ST,Part Two,Unarmed,775969.3409,BLACKSTONE ST,2957246.52,2014
+119959,142051352.0,Saturday,No,2014-11-22T17:59:00.000,FORGERY,"[-71.086213, 42.281187]",Point,10xx,11,LARCEN,0,B3,First,No,MORTON ST,Part Two,Unarmed,768141.3278,,2927763.512,2014
+220908,142051340.0,Saturday,No,2014-11-22T17:30:00.000,FORGERY,"[-71.05674, 42.318846]",Point,10xx,11,LARCEN,0,C11,First,No,DORCHESTER AV,Part Two,Unarmed,776045.6240000001,,2941527.329,2014

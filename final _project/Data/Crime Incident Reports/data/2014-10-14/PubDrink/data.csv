@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46053,142038863.0,Tuesday,No,2014-10-14T10:15:00.000,PubDrink,"[-71.037425, 42.335196]",Point,PubDrink,10,SS,0,C6,Day,No,K ST,Part Two,Unarmed,781236.9657,,2947513.2739999997,2014
+169808,142039033.0,Tuesday,No,2014-10-14T17:30:00.000,PubDrink,"[-71.07901, 42.329261]",Point,PubDrink,10,SS,0,B2,First,No,EUSTIS ST,Part Two,Unarmed,770004.0637,DEARBORN ST,2945292.2189999996,2014
+252411,142039122.0,Tuesday,No,2014-10-14T20:50:00.000,PubDrink,"[-71.044085, 42.319721]",Point,PubDrink,10,INVEST,0,C6,First,No,ISLAND VIEW PL,Part Two,Unarmed,779466.4075,,2941864.2339999997,2014

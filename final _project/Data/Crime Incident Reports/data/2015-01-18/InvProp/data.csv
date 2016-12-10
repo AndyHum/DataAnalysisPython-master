@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5903,152004736.0,Sunday,No,2015-01-18T11:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,1,IVPREM,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+123819,152004802.0,Sunday,No,2015-01-18T17:00:00.000,InvProp,"[-71.100115, 42.341996]",Point,InvProp,1,IVPER,0,D4,First,No,QUEENSBERRY ST,Part three,Unarmed,764275.4786,,2949905.628,2015
+166759,152004784.0,Sunday,No,2015-01-18T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,1,CD9,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+196813,152004633.0,Sunday,No,2015-01-18T00:44:00.000,InvProp,"[-71.102615, 42.328926]",Point,InvProp,1,SHOTS,0,B2,Last,No,PARKER HILL AV,Part three,Other,763621.8014,,2945139.52,2015
+215499,152004807.0,Sunday,No,2015-01-18T16:50:00.000,InvProp,"[-71.061295, 42.296361]",Point,InvProp,1,ALARM,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,774855.8882,,2933327.0810000002,2015
+232814,152004815.0,Sunday,No,2015-01-18T16:48:00.000,InvProp,"[-71.062485, 42.336024]",Point,InvProp,1,IVMV,0,C6,First,No,FOODMART RD,Part three,Unarmed,774459.6718,,2947779.227,2015
+261125,152004861.0,Sunday,No,2015-01-18T20:43:00.000,InvProp,"[0, 0]",Point,InvProp,1,SHOTS,0,E5,First,No,FLORENCE ST,Part three,Firearm,,,,2015
+266306,152004881.0,Sunday,No,2015-01-18T22:55:00.000,InvProp,"[0, 0]",Point,InvProp,1,ALARM,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015

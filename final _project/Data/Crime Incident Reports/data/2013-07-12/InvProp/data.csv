@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82432,130430226.0,Friday,No,2013-07-12T02:20:00.000,InvProp,"[-71.10369, 42.330671]",Point,InvProp,7,BERPTA,585,B2,Last,No,HILLSIDE ST,Part three,Unarmed,763328.1639,,2945774.077,2013
+102990,130439868.0,Friday,No,2013-07-12T22:30:00.000,InvProp,"[-71.168065, 42.343824]",Point,InvProp,7,IVPREM,751,D14,First,No,LAKE SHORE RD,Part three,Unarmed,745902.6,,2950492.775,2013
+144408,130429344.0,Friday,No,2013-07-12T02:28:00.000,InvProp,"[-71.15242, 42.351791]",Point,InvProp,7,ROBIP ,133,D14,Last,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2013
+146159,130429262.0,Friday,No,2013-07-12T01:21:00.000,InvProp,"[-71.08066, 42.287626]",Point,InvProp,7,IVPREM,432,B3,Last,No,BALLOU AV,Part three,Other,769632.4938,,2930117.568,2013
+205793,130429332.0,Friday,No,2013-07-12T02:20:00.000,InvProp,"[-71.078452, 42.304244]",Point,InvProp,7,BEIP  ,460,C11,Last,No,MORSE ST,Part three,Other,770199.8024,,2936176.0889999997,2013
+238826,130429360.0,Friday,No,2013-07-12T02:50:00.000,InvProp,"[-71.078742, 42.303175]",Point,InvProp,7,IVPREM,0,C11,Last,No,ERIE ST,Part three,Firearm,770123.4728,,2935786.126,2013

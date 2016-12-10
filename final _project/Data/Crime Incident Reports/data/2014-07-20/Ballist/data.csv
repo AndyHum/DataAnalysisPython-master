@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102440,142010940.0,Sunday,No,2014-07-20T03:34:00.000,Ballist,"[-71.068325, 42.299081]",Point,Ballist,7,SHOTS,0,C11,Last,No,BLOOMFIELD ST,Part Two,Unarmed,772948.953,,2934308.597,2014
+158065,142010905.0,Sunday,No,2014-07-20T02:56:00.000,Ballist,"[-71.086955, 42.313219]",Point,Ballist,7,SHOTS,0,B2,Last,No,HOWLAND ST,Part Two,Firearm,767883.9343,,2939435.784,2014
+163585,142011080.0,Sunday,No,2014-07-20T17:58:00.000,Ballist,"[-71.066019, 42.284605]",Point,Ballist,7,IVPREM,0,C11,First,No,BAILEY ST,Part Two,Firearm,773599.5243,,2929036.4439999997,2014

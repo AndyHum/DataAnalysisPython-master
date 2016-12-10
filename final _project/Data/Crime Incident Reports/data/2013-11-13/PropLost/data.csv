@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12521,130723535.0,Wednesday,No,2013-11-13T13:00:00.000,PropLost,"[-71.060585, 42.298841]",Point,PropLost,11,LARCRT,351,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775043.317,,2934231.818,2013
+78296,130720787.0,Wednesday,No,2013-11-13T06:30:00.000,PropLost,"[-71.056405, 42.336941]",Point,PropLost,11,LARCIP,196,C6,Last,No,OLD COLONY AV,Part three,Unarmed,776101.93,,2948121.923,2013
+80489,130736514.0,Wednesday,No,2013-11-13T13:08:00.000,PropLost,"[-71.08721, 42.281771]",Point,PropLost,11,LSTPRP,428,B3,Day,No,MORTON ST,Part three,Unarmed,767870.5239,,2927975.278,2013
+140183,130734922.0,Wednesday,No,2013-11-13T18:00:00.000,PropLost,"[-71.081633, 42.318648]",Point,PropLost,11,LSTPRP,311,B2,First,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2013
+261924,130724582.0,Wednesday,No,2013-11-13T10:45:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,143,D4,Day,No,BELVIDERE ST,Part three,Unarmed,,,,2013

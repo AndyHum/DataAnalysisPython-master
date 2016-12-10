@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11706,120495968.0,Friday,No,2012-08-10T15:30:00.000,PropLost,"[-71.10479, 42.334141]",Point,PropLost,8,LSTPRP,604,B2,Day,No,HUNTINGTON AV,Part Three,Unarmed,763024.8693,TREMONT ST,2947037.227,2012
+23086,120497294.0,Friday,No,2012-08-10T05:00:00.000,PropLost,"[-71.087635, 42.347111]",Point,PropLost,8,LARCRT,620,D4,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,767640.4026,,2951785.693,2012
+50883,120519011.0,Friday,No,2012-08-10T16:00:00.000,PropLost,"[-71.059735, 42.297541]",Point,PropLost,8,LSTPRP,355,C11,First,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2012
+59661,120505885.0,Friday,No,2012-08-10T00:00:00.000,PropLost,"[-71.05694, 42.314156]",Point,PropLost,8,IVPER ,247,C11,Last,No,DORCHESTER AV,Part Three,Unarmed,776000.4132,,2939817.938,2012
+62006,120498246.0,Friday,No,2012-08-10T20:00:00.000,PropLost,"[-71.093485, 42.273776]",Point,PropLost,8,LSTPRP,427,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766186.3659,,2925053.6339999996,2012
+115828,120504757.0,Friday,No,2012-08-10T08:00:00.000,PropLost,"[-71.085387, 42.289863]",Point,PropLost,8,IVPER ,944,B3,Day,No,AMES ST,Part Three,Unarmed,768349.27,,2930926.4310000003,2012
+242411,120495358.0,Friday,No,2012-08-10T02:21:00.000,PropLost,"[-71.09893, 42.346811]",Point,PropLost,8,LARCRT,624,D4,Last,No,BROOKLINE AV,Part Three,Other,764587.5916,YAWKEY WY,2951661.808,2012
+261712,120499274.0,Friday,No,2012-08-10T21:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,465,B3,First,No,MORTON ST,Part Three,Unarmed,,,,2012
+262251,120496763.0,Friday,No,2012-08-10T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,102,A1,First,No,PARK ST,Part Three,Unarmed,,,,2012
+263782,120499050.0,Friday,No,2012-08-10T21:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,329,B3,First,No,WASHINGTON ST,Part Three,Unarmed,,,,2012

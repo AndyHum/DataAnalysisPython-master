@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82045,142023312.0,Wednesday,No,2014-08-27T00:51:00.000,FORGERY,"[-71.08537, 42.284501]",Point,10xx,8,ARREST,0,B3,Last,No,DUMAS ST,Part Two,Unarmed,768363.6003,MOUNTAIN AV,2928972.543,2014
+84642,142058837.0,Wednesday,No,2014-08-27T00:00:00.000,FORGERY,"[-71.152931, 42.345833]",Point,10xx,8,LARCEN,0,D14,Last,No,CHESTNUT HILL AV,Part Two,Unarmed,749991.0065,,2951241.2180000003,2014
+171903,142023557.0,Wednesday,No,2014-08-27T18:28:00.000,FORGERY,"[-71.0717, 42.291311]",Point,10xx,8,LARCEN,0,C11,First,No,WASHINGTON ST,Part Two,Unarmed,772050.1409,,2931472.481,2014

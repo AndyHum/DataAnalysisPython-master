@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3332,152027645.0,Sunday,No,2015-04-05T12:40:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVMV,0,C11,Day,No,S MUNROE TR,Part three,Unarmed,,,,2015
+53052,152027623.0,Sunday,No,2015-04-05T11:30:00.000,InvPer,"[-71.063675, 42.352301]",Point,InvPer,4,PKNIFE,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+95597,152027685.0,Sunday,No,2015-04-05T21:10:00.000,InvPer,"[-71.062735, 42.351706]",Point,InvPer,4,IVPER,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774362.9145,,2953493.7210000004,2015
+144592,152027991.0,Sunday,No,2015-04-05T19:00:00.000,InvPer,"[-71.08781, 42.351296]",Point,InvPer,4,IVPER,0,D4,First,No,BEACON ST,Part three,Unarmed,767585.7246,,2953310.56,2015
+158495,152029922.0,Sunday,No,2015-04-05T10:00:00.000,InvPer,"[-71.038105, 42.333906]",Point,InvPer,4,MISC,0,C6,Day,No,E 5TH ST,Part three,Unarmed,781055.6557,,2947042.18,2015
+231074,152027666.0,Sunday,No,2015-04-05T15:23:00.000,InvPer,"[-71.040745, 42.335561]",Point,InvPer,4,IVPER,0,C6,Day,No,E BROADWAY,Part three,Unarmed,780338.6026,H ST,2947641.437,2015
+267753,152030567.0,Sunday,No,2015-04-05T12:00:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVPER,0,E13,Day,No,COLUMBUS AV,Part three,Unarmed,,,,2015

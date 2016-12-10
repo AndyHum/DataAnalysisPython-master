@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47283,142024098.0,Thursday,No,2014-08-28T19:30:00.000,PropLost,"[-71.100235, 42.334626]",Point,PropLost,8,PROP,0,B2,First,No,ST ALPHONSUS ST,Part three,Unarmed,764255.6256,,2947219.71,2014
+56513,142034594.0,Thursday,No,2014-08-28T12:00:00.000,PropLost,"[-71.062413, 42.353534]",Point,PropLost,8,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774446.4264,,2954160.1610000003,2014
+97518,142024158.0,Thursday,No,2014-08-28T14:30:00.000,PropLost,"[-71.139502, 42.274061]",Point,PropLost,8,PROP,0,E5,Day,No,BLUE LEDGE DR,Part three,Other,753731.8435,,2925101.19,2014
+185853,142024428.0,Thursday,No,2014-08-28T22:00:00.000,PropLost,"[-71.049444, 42.288906]",Point,PropLost,8,LARCEN,0,C11,First,No,COFFEY ST,Part three,Unarmed,778076.2623,,2930627.1010000003,2014

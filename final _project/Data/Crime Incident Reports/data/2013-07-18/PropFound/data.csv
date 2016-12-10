@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43254,130444340.0,Thursday,No,2013-07-18T07:05:00.000,PropFound,"[-71.06325, 42.357701]",Point,PropFound,7,FDWEAP,102,A1,Last,No,PARK ST,Part three,Unarmed,774212.5197,BEACON ST,2955677.7,2013
+161066,130446936.0,Thursday,No,2013-07-18T20:00:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,7,FDPROP,465,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2013
+240105,130445986.0,Thursday,No,2013-07-18T19:00:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,7,FDPROP,28,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2013
+257426,130445421.0,Thursday,No,2013-07-18T15:00:00.000,PropFound,"[-71.06691, 42.360291]",Point,PropFound,7,FDPROP,67,A1,Day,No,PHILLIPS ST,Part three,Unarmed,773218.5039,GARDEN ST,2956616.503,2013

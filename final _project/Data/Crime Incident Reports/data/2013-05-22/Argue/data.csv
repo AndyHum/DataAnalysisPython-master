@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75641,130307423.0,Wednesday,No,2013-05-22T20:36:00.000,Argue,"[-71.0569, 42.377976]",Point,Argue,5,NIDV  ,900,A15,First,No,TUFTS ST,Part Three,Unarmed,775890.4137,,2963075.168,2013
+174201,130305464.0,Wednesday,No,2013-05-22T01:16:00.000,Argue,"[-71.04904, 42.350711]",Point,Argue,5,PRSCRM,206,C6,Last,No,CONGRESS ST,Part Three,Unarmed,778066.6609,FARNSWORTH ST,2953150.398,2013
+221900,130305709.0,Wednesday,No,2013-05-22T07:46:00.000,Argue,"[-71.057665, 42.378641]",Point,Argue,5,DVIP  ,41,A15,Day,No,MCNULTY CT,Part Three,Unarmed,775682.4594,,2963316.435,2013

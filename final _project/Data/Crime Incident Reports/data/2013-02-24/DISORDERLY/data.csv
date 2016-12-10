@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106447,130113335.0,Sunday,No,2013-02-24T03:05:00.000,DISORDERLY,"[-71.080085, 42.346711]",Point,24xx,2,ARREST,146,D4,Last,No,HUNTINGTON AV,Part Two,Unarmed,769682.0757,,2951649.883,2013
+163130,130114566.0,Sunday,No,2013-02-24T21:35:00.000,DISORDERLY,"[-71.1153, 42.309871]",Point,24xx,2,ABIP  ,644,E13,First,No,CENTRE ST,Part Two,Unarmed,760223.053,,2938179.8210000005,2013
+258985,130113321.0,Sunday,No,2013-02-24T02:53:00.000,DISORDERLY,"[-71.09636, 42.343971]",Point,24xx,2,ARREST,624,D4,Last,No,PETERBOROUGH ST,Part Two,Unarmed,765287.2269,,2950630.137,2013

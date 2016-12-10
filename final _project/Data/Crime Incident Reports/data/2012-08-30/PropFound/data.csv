@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14387,120540621.0,Thursday,No,2012-08-30T05:35:00.000,PropFound,"[-71.037705, 42.382621]",Point,PropFound,8,FDPROP,26,A7,Last,No,CONDOR ST,Part Three,Unarmed,781067.5907,BROOKS ST,2964795.432,2012
+78378,120541490.0,Thursday,No,2012-08-30T14:55:00.000,PropFound,"[-71.061155, 42.357256]",Point,PropFound,8,FDPROP,103,A1,Day,No,TREMONT ST,Part Three,Unarmed,774779.5911,,2955518.44,2012
+240921,120543785.0,Thursday,No,2012-08-30T16:30:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,8,INVEST,515,E18,First,No,HYDE PARK AV,Part Three,Other,757969.2324,,2918691.415,2012

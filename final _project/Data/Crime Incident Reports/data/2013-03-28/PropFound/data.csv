@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36875,130182984.0,Thursday,No,2013-03-28T21:15:00.000,PropFound,"[-71.06845, 42.378791]",Point,PropFound,3,FDPROP,54,A15,First,No,EDEN ST,Part Three,Unarmed,772768.1806,MAIN ST,2963356.17,2013
+87113,130181844.0,Thursday,No,2013-03-28T13:00:00.000,PropFound,"[-71.03817, 42.371921]",Point,PropFound,3,FDPROP,28,A7,Day,No,PARIS ST,Part Three,Unarmed,780963.0722,GOVE ST,2960895.4489999996,2013
+105240,130182211.0,Thursday,No,2013-03-28T15:50:00.000,PropFound,"[-71.03825, 42.374616]",Point,PropFound,3,FDPROP,22,A7,Day,No,PORTER ST,Part Three,Unarmed,780936.1392,,2961877.445,2013
+149757,130183176.0,Thursday,No,2013-03-28T08:00:00.000,PropFound,"[-71.083615, 42.313351]",Point,PropFound,3,FDPROP,321,B2,Day,No,WARREN ST,Part Three,Unarmed,768787.1681,,2939488.235,2013
+171631,130180856.0,Thursday,No,2013-03-28T01:42:00.000,PropFound,"[-71.058475, 42.291707]",Point,PropFound,3,FDPROP,365,C11,Last,No,GLENROSE RD,Part Three,Unarmed,775627.4011,,2931634.749,2013
+219339,130182254.0,Thursday,No,2013-03-28T15:00:00.000,PropFound,"[-71.128355, 42.283788]",Point,PropFound,3,FDPROP,560,E5,Day,No,POPLAR ST,Part Three,Unarmed,756733.2686,,2928658.8060000003,2013
+238473,130185363.0,Thursday,No,2013-03-28T10:00:00.000,PropFound,"[-71.145028, 42.258426]",Point,PropFound,3,INVEST,822,E5,Day,No,GEORGETOWNE DR,Part Three,Unarmed,752259.9616,,2919397.542,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70262,130421446.0,Monday,No,2013-07-08T21:36:00.000,InvProp,"[-71.157724, 42.258343]",Point,InvProp,7,PERGUN,821,E5,First,No,BIRCHWOOD ST,Part three,Unarmed,748823.1516,,2919353.222,2013
+161464,130419301.0,Monday,No,2013-07-08T01:07:00.000,InvProp,"[-71.13654, 42.364311]",Point,InvProp,7,SHOTS ,807,D14,Last,No,SOLDIERS FIELD RD,Part three,Firearm,754393.4147,,2957993.605,2013
+165678,130420496.0,Monday,No,2013-07-08T03:20:00.000,InvProp,"[-71.078425, 42.312846]",Point,InvProp,7,IVPER ,326,B2,Last,No,LAWRENCE AV,Part three,Unarmed,770191.8168,,2939311.102,2013
+187030,130421338.0,Monday,No,2013-07-08T20:43:00.000,InvProp,"[-71.081095, 42.288786]",Point,InvProp,7,SHOTS ,439,B3,First,No,CALLENDER ST,Part three,Firearm,769512.7152,,2930539.711,2013
+203828,130480390.0,Monday,No,2013-07-08T08:00:00.000,InvProp,"[-71.040356, 42.367266]",Point,InvProp,7,BERPT ,902,A7,Day,No,MARGINAL ST,Part three,Unarmed,780381.3752,,2959195.738,2013

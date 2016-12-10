@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107229,140348620.0,Saturday,No,2014-05-31T03:30:00.000,PhoneCalls,"[-71.11151, 42.264064]",Point,PhoneCalls,5,IVPER ,514,E18,Last,No,AYLES RD,Part three,Other,761324.1964,,2921491.6780000003,2014
+155920,140341257.0,Saturday,No,2014-05-31T07:30:00.000,PhoneCalls,"[-71.148575, 42.287141]",Point,PhoneCalls,5,HARPT ,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2014
+166700,140355651.0,Saturday,No,2014-05-31T12:00:00.000,PhoneCalls,"[-71.132762, 42.29041]",Point,PhoneCalls,5,IVPER ,661,E5,Day,No,WALTER ST,Part three,Unarmed,755530.2812,,2931067.0,2014

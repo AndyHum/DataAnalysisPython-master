@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91908,130307618.0,Wednesday,No,2013-05-22T21:29:00.000,PersLoc,"[-71.106187, 42.333032]",Point,PersLoc,5,IVPER ,605,B2,First,No,WAIT ST,Other,Unarmed,762648.7896,,2946631.079,2013
+98649,130305355.0,Wednesday,No,2013-05-22T00:12:00.000,PersLoc,"[-71.152705, 42.292241]",Point,PersLoc,5,MISPER,692,E5,Last,No,GREATON RD,Part Three,Unarmed,750131.7198,,2931711.7430000002,2013
+188985,130307685.0,Wednesday,No,2013-05-22T07:30:00.000,PersLoc,"[-71.0372, 42.376306]",Point,PersLoc,5,MISPER,23,A7,Day,No,SARATOGA ST,Other,Unarmed,781216.5126,,2962494.853,2013
+257969,130306439.0,Wednesday,No,2013-05-22T13:15:00.000,PersLoc,"[-71.080942, 42.275561]",Point,PersLoc,5,MISPER,943,B3,Day,No,WOODBOLE AV,Part Three,Unarmed,769577.6478,,2925720.2569999998,2013

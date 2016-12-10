@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5337,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.066274, 42.319491]",Point,08xx,7,AB,184,B2,,No,HUMPHREYS ST,Part Two,None,773466.0,,2940000.0,2015
+5759,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.074542, 42.322469]",Point,08xx,7,UNCONS,263,B2,,No,WINTHROP ST,Part Two,None,771225.0,,2940000.0,2015
+8162,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.037302, 42.37547]",Point,08xx,7,AB,22,A7,,No,BENNINGTON ST,Part Two,None,781190.0,,2960000.0,2015
+19203,,Thursday,No,2015-07-23T23:50:00.000,Simple Assault,"[0, 0]",Point,08xx,7,VAND,569,E13,,No,BROOKLEY RD,Part Two,Other,,WASHINGTON ST,,2015
+36364,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.101343, 42.325971]",Point,08xx,7,AB,916,E13,,No,BICKFORD ST,Part Two,Other,763971.0,,2940000.0,2015
+60902,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.060793, 42.378363]",Point,08xx,7,AB,56,A15,,No,BUNKER HILL ST,Part Two,None,774838.0,,2960000.0,2015
+66025,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.082069, 42.294787]",Point,08xx,7,AB,441,B3,,No,KINGSDALE ST,Part Two,Personal Weapon (hand  foot  etc.),769238.0,,2930000.0,2015
+71414,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.073255, 42.276798]",Point,08xx,7,ARREST,414,B3,,No,ELLISON AVE,Part Two,Personal Weapon (hand  foot  etc.),771656.0,,2930000.0,2015
+73244,,Thursday,No,2015-07-23T20:13:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,0,D4,,No,AGUADILLA ST,Part Two,Other,,,,2015
+101828,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.077447, 42.350294]",Point,08xx,7,AB,134,D4,,No,DARTMOUTH ST,Part Two,Personal Weapon (hand  foot  etc.),770389.0,,2950000.0,2015
+125812,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.039233, 42.379965]",Point,08xx,7,AB,26,A7,,No,MERIDIAN ST,Part Two,Personal Weapon (hand  foot  etc.),780660.0,,2960000.0,2015
+154587,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.087747, 42.317948]",Point,08xx,7,IVPER,308,B2,,No,CRESTWOOD PARK,Part Two,None,767662.0,,2940000.0,2015
+161902,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.05826, 42.330035]",Point,08xx,7,AB,174,C6,,No,ELLERY ST,Part Two,Personal Weapon (hand  foot  etc.),775613.0,,2950000.0,2015
+167921,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.098173, 42.275443]",Point,08xx,7,FIGHT,472,B3,,No,ORLANDO ST,Part Two,Personal Weapon (hand  foot  etc.),764915.0,,2930000.0,2015
+170084,,Thursday,No,2015-07-23T00:00:00.000,Simple Assault,"[-71.093168, 42.335062]",Point,08xx,7,NIDV,911,B2,,No,ANNUNCIATION RD,Part Two,None,766166.0,,2950000.0,2015

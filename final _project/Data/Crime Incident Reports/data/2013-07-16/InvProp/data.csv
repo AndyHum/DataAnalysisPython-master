@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15907,130439733.0,Tuesday,No,2013-07-16T11:36:00.000,InvProp,"[-71.04112, 42.288666]",Point,InvProp,7,IVPREM,372,C11,Day,No,WATER ST,Part three,Unarmed,780329.1506,,2930551.6360000004,2013
+21615,130441049.0,Tuesday,No,2013-07-16T21:51:00.000,InvProp,"[-71.08074, 42.311861]",Point,InvProp,7,TRESPS,326,B2,First,No,INTERVALE ST,Part three,Unarmed,769567.4369,BLUE HILL AV,2938949.064,2013
+179709,130446314.0,Tuesday,No,2013-07-16T14:00:00.000,InvProp,"[-71.089115, 42.345331]",Point,InvProp,7,LARCRT,620,D4,Day,No,NORWAY ST,Part three,Unarmed,767243.4458,,2951135.097,2013
+207868,130441700.0,Tuesday,No,2013-07-16T14:40:00.000,InvProp,"[-71.06076, 42.357671]",Point,InvProp,7,IVPER ,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774885.5732,,2955670.224,2013

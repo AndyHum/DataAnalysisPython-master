@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13798,130221840.0,Sunday,No,2013-04-07T12:00:00.000,PropFound,"[-71.16978, 42.351311]",Point,PropFound,4,FDPROP,755,D14,Day,No,TIP TOP ST,Part Three,Unarmed,745428.5538,WASHINGTON ST,2953219.598,2013
+107917,130204870.0,Sunday,No,2013-04-07T17:18:00.000,PropFound,"[-71.064786, 42.373665]",Point,PropFound,4,INVEST,60,A15,First,No,OLD RUTHERFORD AV,Part Three,Unarmed,773767.5059,,2961492.917,2013
+153268,130205181.0,Sunday,No,2013-04-07T20:20:00.000,PropFound,"[-71.14938, 42.287191]",Point,PropFound,4,IVPER ,691,E5,First,No,CENTRE ST,Part Three,Unarmed,751038.8958,,2929875.124,2013

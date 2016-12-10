@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+776,152036768.0,Tuesday,No,2015-05-05T18:30:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,C11,First,No,GIBSON ST,Part three,Unarmed,,,,2015
+3481,152037017.0,Tuesday,No,2015-05-05T18:00:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015
+3597,152036766.0,Tuesday,No,2015-05-05T18:18:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,E13,First,No,BICKFORD ST,Part three,Unarmed,,,,2015
+101082,152036834.0,Tuesday,No,2015-05-05T22:31:00.000,Service,"[-71.064376, 42.317463]",Point,Service,5,ARREST,0,B2,First,No,COLUMBIA RD,Part three,Unarmed,773983.0238,DUDLEY ST,2941012.528,2015
+152777,152036684.0,Tuesday,No,2015-05-05T14:45:00.000,Service,"[-71.061745, 42.356021]",Point,Service,5,IVPER,0,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,TREMONT ST,2955067.563,2015
+206647,152037828.0,Tuesday,No,2015-05-05T20:47:00.000,Service,"[-71.05865, 42.378496]",Point,Service,5,CD7,0,A15,First,No,OMEARA CT,Part three,Unarmed,775416.5954,,2963262.216,2015
+222140,152036692.0,Tuesday,No,2015-05-05T15:00:00.000,Service,"[-71.075267, 42.272373]",Point,Service,5,ARREST,0,B3,Day,No,CEDAR ST,Part three,Unarmed,771119.3087,,2924566.3189999997,2015

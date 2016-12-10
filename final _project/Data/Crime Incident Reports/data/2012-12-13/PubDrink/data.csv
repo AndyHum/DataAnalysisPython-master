@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81054,120780186.0,Thursday,No,2012-12-13T11:20:00.000,PubDrink,"[0, 0]",Point,PubDrink,12,IVPER ,279,B2,Day,No,WINSLOW ST,Part Two,Unarmed,,,,2012
+107442,120780226.0,Thursday,No,2012-12-13T11:30:00.000,PubDrink,"[-71.08149, 42.329181]",Point,PubDrink,12,IVPER ,904,B2,Day,No,ZEIGLER ST,Part Two,Unarmed,769333.6111,DEGAUTIER WY,2945259.7660000003,2012
+226371,120780157.0,Thursday,No,2012-12-13T11:30:00.000,PubDrink,"[-71.08136, 42.329161]",Point,PubDrink,12,IVPER ,279,B2,Day,No,WINSLOW ST,Part Two,Other,769368.7993,ZEIGLER ST,2945252.65,2012
+249180,120780160.0,Thursday,No,2012-12-13T12:05:00.000,PubDrink,"[-71.08443, 42.329891]",Point,PubDrink,12,IVPER ,288,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768537.3691,MARVIN ST,2945514.615,2012

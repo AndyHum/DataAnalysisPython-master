@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55180,152025030.0,Friday,No,2015-03-27T18:00:00.000,InvProp,"[-71.10851, 42.324326]",Point,InvProp,3,IVPREM,0,E13,First,No,DAY ST,Part three,Other,762035.468,,2943455.827,2015
+175454,152024823.0,Friday,No,2015-03-27T04:00:00.000,InvProp,"[-71.054475, 42.363816]",Point,InvProp,3,INVEST,0,A1,Last,No,HANOVER ST,Part three,Other,776572.5846,,2957918.3910000003,2015
+194733,152024771.0,Friday,No,2015-03-27T08:13:00.000,InvProp,"[-71.068932, 42.312299]",Point,InvProp,3,DISTRB,0,B2,Day,No,COLUMBIA RD,Part three,Unarmed,772760.1686,,2939124.445,2015
+198990,152024761.0,Friday,No,2015-03-27T07:17:00.000,InvProp,"[-71.065965, 42.360221]",Point,InvProp,3,BE,0,A1,Last,No,S RUSSELL ST,Part three,Unarmed,773474.0386,,2956592.291,2015
+249297,152025302.0,Friday,No,2015-03-27T12:30:00.000,InvProp,"[-71.090665, 42.284706]",Point,InvProp,3,IVPREM,0,B3,Day,No,FRONTENAC ST,Part three,Unarmed,766930.4526,,2929040.328,2015
+266971,152024880.0,Friday,No,2015-03-27T12:09:00.000,InvProp,"[0, 0]",Point,InvProp,3,SUSOBJ,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267007,152025369.0,Friday,No,2015-03-27T23:50:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVPREM,0,A1,Last,No,DALTON ST,Part three,Unarmed,,,,2015

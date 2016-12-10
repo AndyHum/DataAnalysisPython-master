@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108778,130143259.0,Sunday,No,2013-03-10T20:05:00.000,InvProp,"[-71.067476, 42.375303]",Point,InvProp,3,IVPER ,58,A15,First,No,W SCHOOL ST,Part Three,Unarmed,773037.7619,,2962086.4110000003,2013
+148131,130145785.0,Sunday,No,2013-03-10T21:30:00.000,InvProp,"[-71.06576, 42.373451]",Point,InvProp,3,IVPREM,931,A15,First,No,WASHINGTON ST,Part Three,Other,773504.8988,,2961413.852,2013
+237041,130141980.0,Sunday,No,2013-03-10T00:30:00.000,InvProp,"[-71.084511, 42.293888]",Point,InvProp,3,IVPREM,441,B3,Last,No,TALBOT AV,Part Three,Unarmed,768579.1911,,2932394.139,2013
+246619,130142256.0,Sunday,No,2013-03-10T09:00:00.000,InvProp,"[-71.08156, 42.348911]",Point,InvProp,3,IVPREM,143,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,769279.4105,,2952449.645,2013

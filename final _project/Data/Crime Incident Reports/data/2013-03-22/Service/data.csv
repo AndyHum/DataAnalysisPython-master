@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30249,130168353.0,Friday,No,2013-03-22T10:45:00.000,Service,"[-71.059987, 42.361648]",Point,Service,3,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013
+86425,130169697.0,Friday,No,2013-03-22T22:21:00.000,Service,"[-71.05827, 42.301551]",Point,Service,3,ARREST,351,C11,First,No,LEONARD ST,Part Three,Unarmed,775664.4821,,2935222.617,2013
+115645,130169311.0,Friday,No,2013-03-22T18:35:00.000,Service,"[-71.085618, 42.32866]",Point,Service,3,IVPER ,282,B2,First,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2013
+138517,130168317.0,Friday,No,2013-03-22T11:15:00.000,Service,"[-71.04625, 42.354256]",Point,Service,3,CD5   ,207,C6,Day,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2013
+156431,130168862.0,Friday,No,2013-03-22T13:01:00.000,Service,"[-71.089625, 42.276051]",Point,Service,3,IVPREM,421,B3,Day,No,DELHI ST,Part Three,Unarmed,767227.0426,,2925887.6769999997,2013
+189325,130169212.0,Friday,No,2013-03-22T18:00:00.000,Service,"[-71.081625, 42.336141]",Point,Service,3,ARREST,903,D4,First,No,TROTTER CT,Part Three,Unarmed,769284.6658,,2947795.935,2013
+212870,130168123.0,Friday,No,2013-03-22T08:48:00.000,Service,"[-71.05411, 42.320871]",Point,Service,3,ARREST,235,C11,Day,No,SYDNEY ST,Part Three,Unarmed,776753.0381,MOSELEY ST,2942268.979,2013

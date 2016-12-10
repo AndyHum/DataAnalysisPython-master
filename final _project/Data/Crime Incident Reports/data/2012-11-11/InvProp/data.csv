@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40427,120710272.0,Sunday,No,2012-11-11T02:13:00.000,InvProp,"[-71.070425, 42.296403]",Point,InvProp,11,IVPREM,358,C11,Last,No,GREENBRIER ST,Part Three,Firearm,772385.7701,,2933329.588,2012
+90922,120710517.0,Sunday,No,2012-11-11T06:36:00.000,InvProp,"[-71.094482, 42.282429]",Point,InvProp,11,CTYALM,468,B3,Last,No,OUTLOOK RD,Part Three,Unarmed,765901.4635,,2928205.646,2012
+148231,120711625.0,Sunday,No,2012-11-11T19:57:00.000,InvProp,"[-71.05096, 42.337551]",Point,InvProp,11,SHOTS ,214,C6,First,No,W 4TH ST,Part Three,Other,777572.9162,,2948351.921,2012

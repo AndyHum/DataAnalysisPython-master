@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63539,120697949.0,Monday,No,2012-11-05T16:03:00.000,BENoProp,"[-71.066026, 42.281515]",Point,BENoProp,11,ALARMR,403,C11,First,No,RANGE RD,Part One,Other,773603.3176,,2927910.271,2012
+79745,120698526.0,Monday,No,2012-11-05T20:53:00.000,BENoProp,"[-71.0842, 42.306821]",Point,BENoProp,11,BEIP  ,330,B2,First,No,BLUE HILL AV,Part One,Unarmed,768640.5434,,2937107.8260000004,2012
+199950,120697801.0,Monday,No,2012-11-05T15:30:00.000,BENoProp,"[-71.056221, 42.287944]",Point,BENoProp,11,BERPT ,393,C11,Day,No,ASHMONT ST,Part One,Other,776244.3441,,2930266.922,2012

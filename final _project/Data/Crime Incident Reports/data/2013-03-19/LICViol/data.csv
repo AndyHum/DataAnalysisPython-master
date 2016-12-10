@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23131,130162428.0,Tuesday,No,2013-03-19T14:20:00.000,LICViol,"[-71.0864, 42.341636]",Point,LICViol,3,CD35  ,619,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,767983.9289,,2949792.117,2013
+146589,130163046.0,Tuesday,No,2013-03-19T18:28:00.000,LICViol,"[-71.112411, 42.284053]",Point,LICViol,3,CD35  ,0,E18,First,No,AMERICAN LEGION HY,Part Three,Unarmed,761047.1773,,2928774.728,2013
+246774,130162463.0,Tuesday,No,2013-03-19T14:45:00.000,LICViol,"[-71.08446, 42.342426]",Point,LICViol,3,CD35  ,145,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,768507.0033,,2950082.557,2013

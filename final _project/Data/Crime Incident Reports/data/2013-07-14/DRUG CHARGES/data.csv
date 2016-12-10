@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+153648,130434809.0,Sunday,No,2013-07-14T08:45:00.000,DRUG CHARGES,"[-71.073978, 42.333151]",Point,18xx,7,ARREST,167,D4,Day,No,ALBANY ST,Part Two,Unarmed,771357.6081,,2946716.26,2013
+207548,130435085.0,Sunday,No,2013-07-14T07:30:00.000,DRUG CHARGES,"[-71.104273, 42.309722]",Point,18xx,7,IVDRUG,574,E13,Day,No,WASHINGTON ST,Part Two,Other,763205.8082,,2938139.2,2013
+230655,130434683.0,Sunday,No,2013-07-14T07:53:00.000,DRUG CHARGES,"[-71.077685, 42.294491]",Point,18xx,7,FIGHT ,448,B3,Day,No,PARK ST,Part Two,Knife,770425.0801,,2932623.245,2013

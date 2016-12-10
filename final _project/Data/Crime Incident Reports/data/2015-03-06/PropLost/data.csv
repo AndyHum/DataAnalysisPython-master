@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77935,152028231.0,Friday,No,2015-03-06T17:00:00.000,PropLost,"[-71.062735, 42.351706]",Point,PropLost,3,PROP,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774362.9145,,2953493.7210000004,2015
+82915,152026080.0,Friday,No,2015-03-06T22:00:00.000,PropLost,"[-71.0672, 42.350816]",Point,PropLost,3,PROP,0,A1,First,No,STUART ST,Part three,Unarmed,773157.6465,,2953163.233,2015
+109521,152018240.0,Friday,No,2015-03-06T14:37:00.000,PropLost,"[-71.084048, 42.318589]",Point,PropLost,3,PROP,0,B2,Day,No,MARTIN LUTHER KING BLVD,Part three,Unarmed,768660.5807,,2941396.4510000004,2015
+141974,152018209.0,Friday,No,2015-03-06T14:00:00.000,PropLost,"[-71.062085, 42.356341]",Point,PropLost,3,PROP,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774529.9407,,2955183.704,2015
+164652,152019734.0,Friday,No,2015-03-06T23:00:00.000,PropLost,"[-71.13241, 42.353026]",Point,PropLost,3,PROP,0,D14,First,No,BRIGHTON AV,Part three,Unarmed,755527.2809,,2953885.8989999997,2015
+241399,152018309.0,Friday,No,2015-03-06T00:05:00.000,PropLost,"[-71.053965, 42.359656]",Point,PropLost,3,PROP,0,A1,Last,No,CHATHAM ST,Part three,Unarmed,776718.3415,,2956403.126,2015
+249861,152019363.0,Friday,No,2015-03-06T00:00:00.000,PropLost,"[-71.040034, 42.317592]",Point,PropLost,3,PROP,0,C6,Last,No,SOUTH POINT DR,Part three,Unarmed,780565.8978,,2941094.309,2015
+260406,152018310.0,Friday,No,2015-03-06T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,C6,First,No,BURKE ST,Part three,Unarmed,,,,2015
+262919,152019057.0,Friday,No,2015-03-06T09:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,B3,Day,No,STRATTON ST,Part three,Unarmed,,,,2015

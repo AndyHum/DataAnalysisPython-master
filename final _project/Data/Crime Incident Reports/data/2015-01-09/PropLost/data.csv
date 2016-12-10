@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97890,152005022.0,Friday,No,2015-01-09T19:00:00.000,PropLost,"[-71.06865, 42.359891]",Point,PropLost,1,LARCEN,0,A1,First,No,GROVE ST,Part three,Unarmed,772748.9738,,2956468.352,2015
+117283,152002854.0,Friday,No,2015-01-09T21:15:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,1,PROP,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+119903,152002605.0,Friday,No,2015-01-09T22:30:00.000,PropLost,"[-71.05078, 42.356576]",Point,PropLost,1,PROP,0,A1,First,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2015
+143641,152004240.0,Friday,No,2015-01-09T23:30:00.000,PropLost,"[-71.093375, 42.349156]",Point,PropLost,1,PROP,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,766085.183,,2952523.4080000003,2015

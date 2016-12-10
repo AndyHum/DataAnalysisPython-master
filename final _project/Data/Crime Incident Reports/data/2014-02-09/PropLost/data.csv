@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102189,140087498.0,Sunday,No,2014-02-09T18:30:00.000,PropLost,"[-71.071512, 42.302864]",Point,PropLost,2,LSTPRP,462,C11,First,No,BOWDOIN ST,Part three,Unarmed,772079.7509999999,,2935682.6780000003,2014
+153168,140082936.0,Sunday,No,2014-02-09T11:00:00.000,PropLost,"[-71.086716, 42.281419]",Point,PropLost,2,LARCRT,428,B3,Day,No,MORTON ST,Part three,Unarmed,768004.7667,,2927847.627,2014
+190396,140099857.0,Sunday,No,2014-02-09T10:30:00.000,PropLost,"[-71.148681, 42.337867]",Point,PropLost,2,LSTPRP,790,D14,Day,No,ENGLEWOOD AV,Part three,Unarmed,751151.8378,,2948342.954,2014
+243806,140083885.0,Sunday,No,2014-02-09T14:00:00.000,PropLost,"[-71.06506, 42.357161]",Point,PropLost,2,LSTPRP,102,A1,Day,No,BEACON ST,Part three,Unarmed,773724.3171,JOY ST,2955478.414,2014
+258306,140084715.0,Sunday,No,2014-02-09T21:30:00.000,PropLost,"[-71.069675, 42.290772]",Point,PropLost,2,LARCRT,397,C11,First,No,CENTRE ST,Part three,Unarmed,772598.8888,,2931278.689,2014
+261962,140087565.0,Sunday,No,2014-02-09T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,660,E5,First,No,VFW PY,Part three,Unarmed,,,,2014
+263042,140084815.0,Sunday,No,2014-02-09T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,796,D14,First,No,BRIGHTON AV,Part three,Unarmed,,,,2014

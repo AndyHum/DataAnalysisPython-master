@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82982,142025239.0,Tuesday,No,2014-09-02T00:09:00.000,PropDam,"[-71.160128, 42.341665]",Point,PropDam,9,IVPER,0,D14,Last,No,GREYCLIFFE RD,Part three,Unarmed,748051.5419,,2949714.693,2014
+208289,142025394.0,Tuesday,No,2014-09-02T02:44:00.000,PropDam,"[-71.06293, 42.351166]",Point,PropDam,9,BE,0,A1,Last,No,WASHINGTON ST,Part three,Other,774311.2131,,2953296.665,2014
+218712,142025333.0,Tuesday,No,2014-09-02T10:30:00.000,PropDam,"[-71.10917, 42.263666]",Point,PropDam,9,IVPREM,0,E18,Day,No,WOOD AV,Part three,Other,761958.2772,,2921349.5730000003,2014

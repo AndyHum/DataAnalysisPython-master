@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12921,152044595.0,Saturday,No,2015-05-30T02:03:00.000,Gather,"[-71.14402, 42.286041]",Point,Gather,5,DISTRB,0,E5,Last,No,BELGRADE AV,Part three,Unarmed,752490.9648,,2929462.0539999995,2015
+157215,152044839.0,Saturday,No,2015-05-30T00:50:00.000,Gather,"[-71.056955, 42.303376]",Point,Gather,5,DISTRB,0,C11,Last,No,FENTON ST,Part three,Unarmed,776016.7599,,2935889.52,2015
+207506,152044682.0,Saturday,No,2015-05-30T11:30:00.000,Gather,"[-71.064905, 42.352371]",Point,Gather,5,PROTES,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015

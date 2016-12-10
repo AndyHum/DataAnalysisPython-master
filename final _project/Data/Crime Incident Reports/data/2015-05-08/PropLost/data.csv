@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+873,152037755.0,Friday,No,2015-05-08T09:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,C6,Day,No,MT VERNON ST,Part three,Unarmed,,,,2015
+72912,152037720.0,Friday,No,2015-05-08T15:00:00.000,PropLost,"[-71.076245, 42.335806]",Point,PropLost,5,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770739.8745,,2947681.035,2015
+101091,152037963.0,Friday,No,2015-05-08T08:30:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,5,LARCEN,0,D4,Day,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2015

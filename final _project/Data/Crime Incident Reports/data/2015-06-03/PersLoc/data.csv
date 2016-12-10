@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2403,152045900.0,Wednesday,No,2015-06-03T16:46:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,IVPER,0,A7,First,No,BENNINGTON ST,Other,Unarmed,,,,2015
+4174,152046097.0,Wednesday,No,2015-06-03T05:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,MISSIN,0,D14,Last,No,FANEUIL ST,Other,Unarmed,,,,2015
+54417,152046556.0,Wednesday,No,2015-06-03T17:00:00.000,PersLoc,"[-71.089615, 42.344991]",Point,PersLoc,6,MISSIN,0,D4,First,No,HEMENWAY ST,Other,Unarmed,767108.76,,2951010.563,2015
+74633,152045945.0,Wednesday,No,2015-06-03T18:47:00.000,PersLoc,"[-71.095455, 42.283886]",Point,PersLoc,6,IVPER,0,B3,First,No,ORMOND ST,Other,Unarmed,765635.7341,,2928735.325,2015
+119350,152045990.0,Wednesday,No,2015-06-03T21:16:00.000,PersLoc,"[-71.125555, 42.263696]",Point,PersLoc,6,IVPER,0,E18,First,No,AUSTIN ST,Other,Unarmed,757523.0991,WEST ST,2921340.6089999997,2015

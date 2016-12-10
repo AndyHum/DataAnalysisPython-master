@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37309,120711676.0,Sunday,No,2012-11-11T20:29:00.000,FIRE,"[-71.10697, 42.310471]",Point,FIRE,11,FV    ,573,E13,First,No,AMORY ST,Part Three,Unarmed,762475.1843,GREEN ST,2938408.744,2012
+45743,120710928.0,Sunday,No,2012-11-11T13:30:00.000,FIRE,"[-71.117678, 42.28982]",Point,FIRE,11,UNK   ,508,E13,Day,No,SOUTHBOURNE RD,Part Three,Unarmed,759612.4190000001,,2930869.9680000003,2012
+69353,120711330.0,Sunday,No,2012-11-11T16:54:00.000,FIRE,"[-71.054864, 42.296187]",Point,FIRE,11,FIREB ,355,C11,First,No,NEPONSET AV,Part Three,Unarmed,776596.0681,,2933272.605,2012
+77541,120710564.0,Sunday,No,2012-11-11T07:49:00.000,FIRE,"[-71.13581, 42.349494]",Point,FIRE,11,FIREB ,794,D14,Day,No,LONG AV,Part Three,Other,754613.6771,,2952594.6539999996,2012
+142018,120714859.0,Sunday,No,2012-11-11T10:30:00.000,FIRE,"[-71.12541, 42.354926]",Point,FIRE,11,MISC  ,799,D14,Day,No,WADSWORTH ST,Part Three,Other,757416.3447,,2954586.5289999996,2012

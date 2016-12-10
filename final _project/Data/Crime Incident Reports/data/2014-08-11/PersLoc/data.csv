@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105391,142018467.0,Monday,No,2014-08-11T20:30:00.000,PersLoc,"[-71.069755, 42.275186]",Point,PersLoc,8,IVPER,0,C11,First,No,WASHINGTON ST,Other,Unarmed,772606.0269,,2925598.958,2014
+109137,142018486.0,Monday,No,2014-08-11T09:00:00.000,PersLoc,"[-71.11121, 42.268489]",Point,PersLoc,8,IVPER,0,E18,Day,No,WOOD AV,Other,Unarmed,761397.9509,,2923104.3660000004,2014
+126366,142018309.0,Monday,No,2014-08-11T14:24:00.000,PersLoc,"[-71.155971, 42.283311]",Point,PersLoc,8,IVPER,0,E5,Day,No,BELLEVUE ST,Other,Unarmed,749261.1021,,2928453.731,2014
+191568,142018445.0,Monday,No,2014-08-11T18:45:00.000,PersLoc,"[-71.07127, 42.282011]",Point,PersLoc,8,MISSIN,0,C11,First,No,WASHINGTON ST,Other,Unarmed,772183.5184,FULLER ST,2928084.015,2014
+237239,142018465.0,Monday,No,2014-08-11T19:50:00.000,PersLoc,"[-71.089268, 42.295385]",Point,PersLoc,8,IVPER,0,B3,First,No,SHANDON RD,Other,Unarmed,767289.676,,2932933.422,2014
+241021,142018120.0,Monday,No,2014-08-11T01:45:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,8,IVPER,0,C11,Last,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014

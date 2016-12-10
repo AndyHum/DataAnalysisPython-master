@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26361,140016173.0,Thursday,No,2014-01-09T01:59:00.000,PhoneCalls,"[-71.070462, 42.339619]",Point,PhoneCalls,1,HARPT ,905,D4,Last,No,HARRISON ARCHWAYS,Part Two,Unarmed,772296.2959,,2949078.2210000004,2014
+73444,140017867.0,Thursday,No,2014-01-09T21:34:00.000,PhoneCalls,"[-71.11637, 42.267126]",Point,PhoneCalls,1,INVEST,492,E18,First,No,THATCHER ST,Part three,Unarmed,760003.6932,,2922601.595,2014
+75206,140017006.0,Thursday,No,2014-01-09T15:01:00.000,PhoneCalls,"[-71.086735, 42.336366]",Point,PhoneCalls,1,HARPT ,285,D4,Day,No,ST CYPRIANS PL,Part three,Unarmed,767902.6679,,2947871.1939999997,2014
+174323,140016925.0,Thursday,No,2014-01-09T19:24:00.000,PhoneCalls,"[-71.08524, 42.320046]",Point,PhoneCalls,1,IVPER ,309,B2,First,No,LAUREL ST,Part three,Unarmed,768335.7848,,2941925.615,2014

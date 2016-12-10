@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12643,120634718.0,Tuesday,No,2012-10-09T00:36:00.000,Landlord,"[-71.052625, 42.31811]",Point,Landlord,10,LANTEN,245,C11,Last,No,SYDNEY ST,Part Three,Unarmed,777159.8741,,2941264.903,2012
+70901,120635383.0,Tuesday,No,2012-10-09T10:18:00.000,Landlord,"[-71.121955, 42.290087]",Point,Landlord,10,IVPREM,563,E5,Day,No,FAWNDALE RD,Part Three,Unarmed,758454.9082,WASHINGTON ST,2930961.974,2012
+173890,120636080.0,Tuesday,No,2012-10-09T15:19:00.000,Landlord,"[-71.065136, 42.319763]",Point,Landlord,10,LANTEN,237,B2,Day,No,BELDEN ST,Part Three,Unarmed,773773.2628,,2941849.644,2012

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69103,142047082.0,Saturday,No,2014-11-08T14:00:00.000,FIRE,"[-71.052465, 42.333151]",Point,FIRE,11,FIRE,0,C6,Day,No,W 9TH ST,Part three,Unarmed,777174.4275,,2946746.3460000004,2014
+89935,142047074.0,Saturday,No,2014-11-08T14:00:00.000,FIRE,"[-71.113366, 42.276708]",Point,FIRE,11,IVPREM,0,E18,Day,No,CUMMINS HY,Part three,Unarmed,760800.8031,,2926097.0730000003,2014
+90446,142047139.0,Saturday,No,2014-11-08T16:47:00.000,FIRE,"[-71.067465, 42.342546]",Point,FIRE,11,FIRE,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,773101.2969,,2950149.1289999997,2014
+158814,142047129.0,Saturday,No,2014-11-08T16:12:00.000,FIRE,"[-71.03981, 42.376191]",Point,FIRE,11,FIRE,0,A7,First,No,BORDER ST,Part three,Other,780511.5193,,2962449.128,2014
+166348,142047187.0,Saturday,No,2014-11-08T20:13:00.000,FIRE,"[-71.055095, 42.285216]",Point,FIRE,11,FIRE,0,C11,First,No,ADAMS ST,Part three,Unarmed,776554.4304,,2929274.376,2014

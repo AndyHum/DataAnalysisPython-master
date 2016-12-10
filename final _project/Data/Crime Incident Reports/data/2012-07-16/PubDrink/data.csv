@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+167089,120438233.0,Monday,No,2012-07-16T14:50:00.000,PubDrink,"[-71.08538, 42.330381]",Point,PubDrink,7,IVPER ,288,B2,Day,No,MARVIN ST,Part Two,Unarmed,768279.6227,SHAWMUT AV,2945691.93,2012
+197403,120437855.0,Monday,No,2012-07-16T12:30:00.000,PubDrink,"[0, 0]",Point,PubDrink,7,IVPER ,280,B2,Day,No,TABER ST,Part Two,Unarmed,,,,2012
+237499,120437757.0,Monday,No,2012-07-16T11:15:00.000,PubDrink,"[-71.08271, 42.331051]",Point,PubDrink,7,IVPER ,276,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,769000.3868,RUGGLES ST,2945939.61,2012

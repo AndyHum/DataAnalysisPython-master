@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132038,142023611.0,Wednesday,No,2014-08-27T21:34:00.000,PersLoc,"[-71.075645, 42.296301]",Point,PersLoc,8,IVPER,0,B3,First,No,ATHELWOLD ST,Other,Unarmed,770973.7211,,2933285.575,2014
+201461,142023782.0,Wednesday,No,2014-08-27T23:00:00.000,PersLoc,"[-71.120325, 42.260607]",Point,PersLoc,8,MISSIN,0,E18,First,No,WEST ST,Other,Unarmed,758943.5979,,2920221.14,2014
+212662,142024473.0,Wednesday,No,2014-08-27T19:30:00.000,PersLoc,"[-71.1092, 42.333231]",Point,PersLoc,8,MISSIN,0,B2,First,No,HUNTINGTON AV,Other,Unarmed,761834.0078,,2946700.113,2014
+257342,142023811.0,Wednesday,No,2014-08-27T15:00:00.000,PersLoc,"[-71.09037, 42.315906]",Point,PersLoc,8,MISSIN,0,B2,Day,No,HOLLANDER ST,Other,Unarmed,766955.4726,,2940410.3619999997,2014

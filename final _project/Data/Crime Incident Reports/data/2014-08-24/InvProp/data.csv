@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7235,142022528.0,Sunday,No,2014-08-24T18:12:00.000,InvProp,"[-71.079717, 42.319866]",Point,InvProp,8,SHOTS,0,B2,First,No,CLIFFORD ST,Part three,Unarmed,769829.6122,,2941867.4469999997,2014
+20901,142022366.0,Sunday,No,2014-08-24T00:20:00.000,InvProp,"[-71.076045, 42.294801]",Point,InvProp,8,SSA,0,B3,Last,No,PARK ST,Part three,Unarmed,770868.2209999999,,2932738.415,2014
+64410,142022365.0,Sunday,No,2014-08-24T02:59:00.000,InvProp,"[-71.085387, 42.289863]",Point,InvProp,8,SSA,0,B3,Last,No,AMES ST,Part three,Other,768349.27,,2930926.4310000003,2014
+134065,142022573.0,Sunday,No,2014-08-24T20:26:00.000,InvProp,"[-71.107435, 42.316016]",Point,InvProp,8,BE,0,E13,First,No,CHESTNUT AV,Part three,Other,762340.1098,,2940428.855,2014
+138512,142022370.0,Sunday,No,2014-08-24T02:37:00.000,InvProp,"[-71.06835, 42.317821]",Point,InvProp,8,MVA,0,B2,Last,No,NONQUIT ST,Part three,Unarmed,772907.6392,,2941137.7,2014
+157863,142022856.0,Sunday,No,2014-08-24T11:30:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,8,IVPREM,0,A1,Day,No,CITY HALL PZ,Part three,Other,775246.1256,,2956247.881,2014
+190879,142022505.0,Sunday,No,2014-08-24T16:23:00.000,InvProp,"[-71.130045, 42.286346]",Point,InvProp,8,ALARM,0,E5,First,No,CORINTH ST,Part three,Unarmed,756271.9359,BIRCH ST,2929589.291,2014
+197639,142024510.0,Sunday,No,2014-08-24T09:00:00.000,InvProp,"[-71.145604, 42.340262]",Point,InvProp,8,INVEST,0,D14,Day,No,KILSYTH RD,Part three,Unarmed,751980.2404,,2949219.361,2014

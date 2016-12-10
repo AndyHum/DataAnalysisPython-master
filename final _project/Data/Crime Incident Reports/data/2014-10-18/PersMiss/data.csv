@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23752,142040189.0,Saturday,No,2014-10-18T01:35:00.000,PersMiss,"[-71.14243, 42.349389]",Point,PersMiss,10,MISSIN,0,D14,Last,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+229950,142040652.0,Saturday,No,2014-10-18T20:01:00.000,PersMiss,"[-71.090238, 42.318106]",Point,PersMiss,10,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,766987.4233,,2941212.389,2014
+245192,142040191.0,Saturday,No,2014-10-18T01:30:00.000,PersMiss,"[-71.14243, 42.349389]",Point,PersMiss,10,MISSIN,0,D14,Last,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014

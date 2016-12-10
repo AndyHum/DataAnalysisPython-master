@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85272,120749981.0,Thursday,No,2012-11-29T22:05:00.000,FIRE,"[-71.03922, 42.379016]",Point,FIRE,11,FIREB ,26,A7,First,No,MERIDIAN ST,Part Three,Unarmed,780665.3756,,2963479.477,2012
+161923,120748517.0,Thursday,No,2012-11-29T10:30:00.000,FIRE,"[-71.03996, 42.377891]",Point,FIRE,11,FIREB ,27,A7,Day,No,BORDER ST,Part Three,Unarmed,780467.6477,,2963068.4239999996,2012
+222666,120750045.0,Thursday,No,2012-11-29T23:23:00.000,FIRE,"[-71.07626, 42.283031]",Point,FIRE,11,FV    ,434,B3,First,No,MILTON AV,Part Three,Unarmed,770831.3612,EVANS ST,2928448.9689999996,2012

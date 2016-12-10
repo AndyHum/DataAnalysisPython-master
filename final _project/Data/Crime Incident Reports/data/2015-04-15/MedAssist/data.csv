@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29995,152030487.0,Wednesday,No,2015-04-15T00:45:00.000,MedAssist,"[-71.131805, 42.352961]",Point,MedAssist,4,CD35,0,D14,Last,No,BRIGHTON AV,Part three,Unarmed,755690.9151,HARVARD AV,2953862.917,2015
+32130,152030586.0,Wednesday,No,2015-04-15T09:54:00.000,MedAssist,"[-71.08832, 42.345211]",Point,MedAssist,4,IVPER,0,D4,Day,No,NORWAY ST,Part three,Unarmed,767458.5713,,2951092.403,2015
+43215,152030668.0,Wednesday,No,2015-04-15T16:20:00.000,MedAssist,"[-71.0478, 42.331233]",Point,MedAssist,4,POISON,0,C6,First,No,E 8TH ST,Part three,Unarmed,778439.4568,,2946053.881,2015
+84909,152030781.0,Wednesday,No,2015-04-15T18:00:00.000,MedAssist,"[-71.07641, 42.348131]",Point,MedAssist,4,IVPER,0,D4,First,No,DARTMOUTH ST,Part three,Other,770672.9576,,2952172.27,2015
+84970,152030683.0,Wednesday,No,2015-04-15T16:10:00.000,MedAssist,"[-71.07629, 42.311596]",Point,MedAssist,4,EDP,0,B2,First,No,LAWRENCE AV,Part three,Unarmed,770771.5345,,2938858.442,2015
+107380,152030780.0,Wednesday,No,2015-04-15T20:20:00.000,MedAssist,"[-71.080135, 42.382231]",Point,MedAssist,4,MVA,0,A15,First,No,CAMBRIDGE ST,Part three,Unarmed,769604.8423,,2964594.0239999997,2015
+121014,152030496.0,Wednesday,No,2015-04-15T00:02:00.000,MedAssist,"[-71.06683, 42.307751]",Point,MedAssist,4,CARDIA,0,C11,Last,No,COLEMAN ST,Part three,Unarmed,773337.3565,,2937470.117,2015
+146846,152030769.0,Wednesday,No,2015-04-15T19:22:00.000,MedAssist,"[-71.10205, 42.311961]",Point,MedAssist,4,EDP,0,E13,First,No,WASHINGTON ST,Part three,Knife,763803.4218,,2938957.895,2015
+159573,152030969.0,Wednesday,No,2015-04-15T18:00:00.000,MedAssist,"[-71.13446, 42.242331]",Point,MedAssist,4,INVEST,0,E18,First,No,READVILLE ST,Part three,Unarmed,755146.0389,,2913544.472,2015
+179426,152030725.0,Wednesday,No,2015-04-15T15:08:00.000,MedAssist,"[-71.088717, 42.31927]",Point,MedAssist,4,INJOFF,0,B2,Day,No,HAROLD ST,Part three,Firearm,767396.7214,,2941638.5130000003,2015
+227403,152030825.0,Wednesday,No,2015-04-15T22:51:00.000,MedAssist,"[-71.103995, 42.333881]",Point,MedAssist,4,IVPER,0,B2,First,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2015
+247369,152030555.0,Wednesday,No,2015-04-15T09:31:00.000,MedAssist,"[-71.123549, 42.352157]",Point,MedAssist,4,UNCONS,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,757923.5707,,2953579.517,2015
+267779,152030729.0,Wednesday,No,2015-04-15T18:10:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,REQP,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,,,,2015

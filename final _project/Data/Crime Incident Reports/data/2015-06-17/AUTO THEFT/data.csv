@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16197,,Wednesday,No,2015-06-17T19:30:00.000,Auto Theft,"[0, 0]",Point,07xx,6,IVMV,422,B3,,No,RIVER ST,Part One,None,,,,2015
+39071,,Wednesday,No,2015-06-17T00:00:00.000,Auto Theft,"[-71.073276, 42.292811]",Point,07xx,6,,450,B3,,No,DUNLAP ST,Part One,None,771621.0,,2930000.0,2015
+84951,,Wednesday,No,2015-06-17T00:00:00.000,Auto Theft,"[-71.106213, 42.333021]",Point,07xx,6,IVMV,604,B2,,No,WAIT ST,Part One,None,762642.0,,2950000.0,2015
+90859,,Wednesday,No,2015-06-17T02:19:00.000,Auto Theft Recovery,"[0, 0]",Point,07RV,6,TS,457,B3,,No,BRADSHAW ST,Other,None,,CHARLOTTE,,2015
+94558,,Wednesday,No,2015-06-17T00:00:00.000,Auto Theft,"[-71.101895, 42.350474]",Point,07xx,6,IVMV,599,D4,,No,BAY STATE RD,Part One,None,763780.0,,2950000.0,2015
+153154,,Wednesday,No,2015-06-17T00:00:00.000,Auto Theft,"[-71.055718, 42.304419]",Point,07xx,6,IVMV,350,C11,,No,FREEPORT ST,Part One,None,776349.0,,2940000.0,2015
+228747,,Wednesday,No,2015-06-17T00:00:00.000,Auto Theft,"[-71.075445, 42.292041]",Point,07xx,6,,449,B3,,No,SPENCER ST,Part One,None,771035.0,,2930000.0,2015

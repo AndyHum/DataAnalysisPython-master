@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100231,140106305.0,Thursday,No,2014-02-20T12:10:00.000,Service,"[-71.027465, 42.379611]",Point,Service,2,ARREST,17,A7,Day,No,CHELSEA ST,Part three,Unarmed,783840.2357,,2963713.683,2014
+139735,140106176.0,Thursday,No,2014-02-20T11:30:00.000,Service,"[-71.059735, 42.297541]",Point,Service,2,ARREST,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+181195,140106720.0,Thursday,No,2014-02-20T15:55:00.000,Service,"[-71.095871, 42.27062]",Point,Service,2,FIGHT ,476,B3,Day,No,REGIS RD,Part three,Other,765545.9498,,2923900.313,2014
+184375,140106821.0,Thursday,No,2014-02-20T15:50:00.000,Service,"[-71.06789, 42.305511]",Point,Service,2,IVPER ,341,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773054.7721,NORTON ST,2936652.3710000003,2014
+184824,140105834.0,Thursday,No,2014-02-20T08:13:00.000,Service,"[-71.13117, 42.353511]",Point,Service,2,CD11  ,801,D14,Day,No,GARDNER ST,Part three,Unarmed,755861.689,,2954064.091,2014
+253915,140105831.0,Thursday,No,2014-02-20T08:11:00.000,Service,"[-71.07376, 42.282643]",Point,Service,2,ARREST,417,B3,Day,No,STOCKTON ST,Part three,Unarmed,771508.3897,,2928310.909,2014
+255999,140107280.0,Thursday,No,2014-02-20T20:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,2,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21786,,Monday,No,2015-08-10T00:00:00.000,Investigate Person,"[-71.052426, 42.324226]",Point,InvPer,8,UNK,914,C6,,No,OLD COLONY AVE,Part Three,None,777202.0,,2940000.0,2015
+179941,,Monday,No,2015-08-10T05:01:00.000,Investigate Person,"[0, 0]",Point,InvPer,8,CD19,275,D4,,No,HAMMOND ST,Part Three,None,,,,2015
+188904,,Monday,No,2015-08-10T00:00:00.000,Investigate Person,"[-71.100081, 42.345733]",Point,InvPer,8,IVPER,628,D4,,No,BROOKLINE AVE,Part Three,None,764278.0,,2950000.0,2015

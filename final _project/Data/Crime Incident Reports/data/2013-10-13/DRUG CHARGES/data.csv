@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64443,130654607.0,Sunday,No,2013-10-13T20:46:00.000,DRUG CHARGES,"[-71.102195, 42.323541]",Point,18xx,10,ARREST,916,E13,First,No,BICKFORD ST,Part Two,Unarmed,763744.522,,2943177.66,2013
+67995,130653698.0,Sunday,No,2013-10-13T11:30:00.000,DRUG CHARGES,"[-71.034275, 42.379696]",Point,18xx,10,ARREST,24,A7,Day,No,TRENTON ST,Part Two,Unarmed,782000.1009999999,,2963734.541,2013
+241997,130658733.0,Sunday,No,2013-10-13T07:30:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,10,IVDRUG,520,E18,Day,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2013

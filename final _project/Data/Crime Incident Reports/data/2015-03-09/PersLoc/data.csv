@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10690,152019777.0,Monday,No,2015-03-09T07:00:00.000,PersLoc,"[-71.11582, 42.262541]",Point,PersLoc,3,MISSIN,0,E18,Last,No,LEXINGTON AV,Other,Unarmed,760160.0941,,2920931.432,2015
+18501,152019178.0,Monday,No,2015-03-09T08:00:00.000,PersLoc,"[-71.03164, 42.379161]",Point,PersLoc,3,IVPER,0,A7,Day,No,PRINCETON ST,Other,Unarmed,782713.1109999999,,2963543.473,2015
+50730,152019259.0,Monday,No,2015-03-09T08:30:00.000,PersLoc,"[-71.17312, 42.351201]",Point,PersLoc,3,IVPER,0,D14,Day,No,TREMONT ST,Other,Unarmed,744525.8777,,2953176.035,2015
+64986,152020214.0,Monday,No,2015-03-09T07:00:00.000,PersLoc,"[-71.075745, 42.276561]",Point,PersLoc,3,MISSIN,0,B3,Last,No,MORTON ST,Other,Unarmed,770982.4478,,2926091.9069999997,2015
+170518,152019214.0,Monday,No,2015-03-09T19:00:00.000,PersLoc,"[-71.10526, 42.323331]",Point,PersLoc,3,IVPER,0,E13,First,No,GAY HEAD ST,Other,Unarmed,762916.0207,,2943097.2819999997,2015

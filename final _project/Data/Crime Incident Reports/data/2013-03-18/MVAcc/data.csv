@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5769,130161176.0,Monday,No,2013-03-18T21:21:00.000,MVAcc,"[-71.055028, 42.287827]",Point,MVAcc,3,MVPED1,378,C11,First,No,ADAMS ST,Part Three,Unarmed,776567.4852,,2930225.7180000003,2013
+83587,130160817.0,Monday,No,2013-03-18T17:58:00.000,MVAcc,"[-71.11102, 42.32948]",Point,MVAcc,3,MVAINJ,606,E13,First,No,S HUNTINGTON AV,Part Three,Unarmed,761347.9313,,2945330.7410000004,2013
+201139,130160931.0,Monday,No,2013-03-18T18:55:00.000,MVAcc,"[-71.074585, 42.316841]",Point,MVAcc,3,MVAINJ,327,B2,First,No,HOWARD AV,Part Three,Other,771223.1638,,2940772.099,2013
+223956,130159882.0,Monday,No,2013-03-18T09:00:00.000,MVAcc,"[-71.04143, 42.344511]",Point,MVAcc,3,MVANO ,210,C6,Day,No,E ST,Part Three,Unarmed,780135.8614,FARGO ST,2950901.974,2013
+246758,130160218.0,Monday,No,2013-03-18T13:45:00.000,MVAcc,"[-71.08701, 42.335671]",Point,MVAcc,3,MVA   ,286,B2,Day,No,MELNEA CASS BL,Part Three,Unarmed,767829.5419,TREMONT ST,2947617.563,2013

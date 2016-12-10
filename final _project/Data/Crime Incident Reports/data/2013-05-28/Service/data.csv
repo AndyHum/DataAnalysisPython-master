@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32827,130319570.0,Tuesday,No,2013-05-28T10:39:00.000,Service,"[-71.05936, 42.351041]",Point,Service,5,ARREST,116,A1,Day,No,BEACH ST,Part Three,Other,775276.4461,SURFACE RD,2953256.077,2013
+74936,130319140.0,Tuesday,No,2013-05-28T07:30:00.000,Service,"[-71.070625, 42.361461]",Point,Service,5,CD9   ,64,A1,Day,No,CHARLES ST,Part three,Unarmed,772212.3098,,2957037.798,2013
+107981,130319999.0,Tuesday,No,2013-05-28T14:00:00.000,Service,"[-71.0829, 42.324671]",Point,Service,5,SSTOP ,295,B2,Day,No,WARREN ST,Part three,Unarmed,768960.3816,ROCKVILLE PK,2943614.376,2013
+241667,130318916.0,Tuesday,No,2013-05-28T01:51:00.000,Service,"[-71.038515, 42.372161]",Point,Service,5,REMOVE,28,A7,Last,No,GROVE ST,Other,Unarmed,780869.3745,,2960982.4060000004,2013

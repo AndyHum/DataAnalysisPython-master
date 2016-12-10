@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52218,130534062.0,Saturday,No,2013-08-24T02:04:00.000,InvProp,"[-71.142535, 42.358611]",Point,InvProp,8,SHOTS ,808,D14,Last,No,S WAVERLY ST,Part three,Unarmed,752781.9553,,2955909.557,2013
+123693,130534174.0,Saturday,No,2013-08-24T02:57:00.000,InvProp,"[-71.094815, 42.277296]",Point,InvProp,8,SHOTS ,469,B3,Last,No,MATTAPAN ST,Part three,Unarmed,765820.3275,,2926334.66,2013
+129695,130535998.0,Saturday,No,2013-08-24T22:43:00.000,InvProp,"[0, 0]",Point,InvProp,8,SHOTS ,443,B3,First,No,KINGSDALE ST,Part three,Unarmed,,,,2013
+131621,130535916.0,Saturday,No,2013-08-24T18:00:00.000,InvProp,"[-71.060271, 42.307553]",Point,InvProp,8,BERPT ,347,C11,First,No,EAST ST,Part three,Unarmed,775111.7335,,2937407.012,2013
+154620,130535240.0,Saturday,No,2013-08-24T16:10:00.000,InvProp,"[-71.126772, 42.309985]",Point,InvProp,8,ALARMR,655,E13,First,No,WOODLAND RD,Part three,Unarmed,757119.7842,,2938207.461,2013
+154778,130535272.0,Saturday,No,2013-08-24T16:00:00.000,InvProp,"[-71.07053, 42.358268]",Point,InvProp,8,LARCRT,70,A1,First,No,CHARLES ST,Part three,Unarmed,772243.5923,,2955874.336,2013
+167882,130535001.0,Saturday,No,2013-08-24T14:00:00.000,InvProp,"[-71.060835, 42.363466]",Point,InvProp,8,IVPREM,75,A1,Day,No,PORTLAND ST,Part three,Other,774854.4296,,2957781.93,2013
+174097,130535974.0,Saturday,No,2013-08-24T22:32:00.000,InvProp,"[-71.072298, 42.304718]",Point,InvProp,8,IVPREM,348,C11,First,No,EVERTON ST,Part three,Other,771863.6868,,2936357.135,2013

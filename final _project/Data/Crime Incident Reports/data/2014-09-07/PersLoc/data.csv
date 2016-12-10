@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94583,142027479.0,Sunday,No,2014-09-07T12:30:00.000,PersLoc,"[-71.078719, 42.30927]",Point,PersLoc,9,MISSIN,0,B2,Day,No,DEVON ST,Other,Unarmed,770118.7222,,2938007.273,2014
+175677,142027306.0,Sunday,No,2014-09-07T21:30:00.000,PersLoc,"[-71.03078, 42.364679]",Point,PersLoc,9,IVPER,0,A7,First,No,WEBSTER ST,Other,Unarmed,782974.3201,,2958267.2569999998,2014
+192186,142027017.0,Sunday,No,2014-09-07T04:00:00.000,PersLoc,"[-71.158158, 42.280857]",Point,PersLoc,9,MISSIN,0,E5,Last,No,CENTRE ST,Other,Unarmed,748672.8018,,2927557.187,2014
+209855,142027238.0,Sunday,No,2014-09-07T21:20:00.000,PersLoc,"[-71.059005, 42.293951]",Point,PersLoc,9,IVPER,0,C11,First,No,ALTHEA ST,Other,Unarmed,775479.97,,2932452.037,2014

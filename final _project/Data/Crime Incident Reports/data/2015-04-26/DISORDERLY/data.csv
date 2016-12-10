@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+166,152034018.0,Sunday,No,2015-04-26T17:17:00.000,DISORDERLY,"[0, 0]",Point,24xx,4,DISTRB,0,A1,First,No,STATE ST,Part Two,Other,,,,2015
+56701,152034036.0,Sunday,No,2015-04-26T17:30:00.000,DISORDERLY,"[-71.052595, 42.328861]",Point,24xx,4,AB,0,C6,First,No,OLD COLONY AV,Part Two,Unarmed,777147.4778,,2945182.812,2015
+173386,152033946.0,Sunday,No,2015-04-26T12:19:00.000,DISORDERLY,"[-71.07843, 42.349776]",Point,24xx,4,ARREST,0,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770123.9452,,2952769.035,2015

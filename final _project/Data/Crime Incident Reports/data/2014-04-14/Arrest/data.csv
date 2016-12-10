@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61384,140225884.0,Monday,No,2014-04-14T10:52:00.000,Arrest,"[-71.060025, 42.351976]",Point,Arrest,4,ARREST,116,A1,Day,No,PING ON ST,Part three,Unarmed,775094.7079,,2953595.69,2014
+94659,140225634.0,Monday,No,2014-04-14T08:53:00.000,Arrest,"[-71.061285, 42.301826]",Point,Arrest,4,CD11  ,0,C11,Day,No,ARCADIA ST,Part three,Unarmed,774848.3502,,2935318.622,2014
+217675,140227393.0,Monday,No,2014-04-14T21:10:00.000,Arrest,"[-71.0729, 42.333256]",Point,Arrest,4,CD11  ,172,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32020,152024989.0,Thursday,No,2015-03-26T13:30:00.000,PersLoc,"[-71.088241, 42.283284]",Point,PersLoc,3,MISSIN,0,B3,Day,No,WILDWOOD ST,Other,Unarmed,767588.7423,,2928525.213,2015
+46860,152024835.0,Thursday,No,2015-03-26T16:00:00.000,PersLoc,"[-71.069185, 42.302856]",Point,PersLoc,3,IVPER,0,C11,First,No,HOMES AV,Other,Unarmed,772709.3577,,2935683.078,2015
+233814,152024667.0,Thursday,No,2015-03-26T08:05:00.000,PersLoc,"[-71.077707, 42.28625]",Point,PersLoc,3,MISSIN,0,B3,Day,No,EDSON ST,Other,Unarmed,770433.7566,,2929619.983,2015
+254763,152024298.0,Thursday,No,2015-03-26T00:20:00.000,PersLoc,"[-71.06853, 42.295871]",Point,PersLoc,3,IVPER,0,C11,Last,No,ALPHA RD,Other,Unarmed,772899.4194,,2933138.537,2015

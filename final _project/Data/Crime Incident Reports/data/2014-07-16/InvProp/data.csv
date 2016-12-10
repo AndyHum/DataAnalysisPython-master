@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7932,142009619.0,Wednesday,No,2014-07-16T02:03:00.000,InvProp,"[-71.075081, 42.315538]",Point,InvProp,7,BE,0,B2,Last,No,WOODCLIFF ST,Part three,Unarmed,771091.3501,,2940296.3010000004,2014
+30129,142009873.0,Wednesday,No,2014-07-16T20:10:00.000,InvProp,"[-71.048225, 42.332091]",Point,InvProp,7,IVPREM,0,C6,First,No,GATES ST,Part three,Other,778322.9033,,2946366.108,2014
+203490,142009670.0,Wednesday,No,2014-07-16T10:00:00.000,InvProp,"[-71.090956, 42.333723]",Point,InvProp,7,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014

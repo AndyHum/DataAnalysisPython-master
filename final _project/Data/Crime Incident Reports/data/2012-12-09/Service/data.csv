@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64452,120771093.0,Sunday,No,2012-12-09T12:00:00.000,Service,"[-71.0725, 42.339611]",Point,Service,12,IVPER ,166,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,771745.4731,E BROOKLINE ST,2949072.6980000003,2012
+108194,120772122.0,Sunday,No,2012-12-09T22:37:00.000,Service,"[-71.0977, 42.316381]",Point,Service,12,IVPER ,304,E13,First,No,WASHINGTON ST,Part Three,Other,764972.3955,WALNUT PK,2940574.135,2012
+205745,120771111.0,Sunday,No,2012-12-09T12:30:00.000,Service,"[-71.137, 42.278291]",Point,Service,12,STAB  ,550,E5,Day,No,BEECH ST,Part Three,Unarmed,754402.5049,WASHINGTON ST,2926645.8419999997,2012

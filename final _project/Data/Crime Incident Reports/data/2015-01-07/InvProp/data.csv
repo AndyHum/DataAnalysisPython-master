@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35561,152001750.0,Wednesday,No,2015-01-07T10:45:00.000,InvProp,"[-71.088028, 42.334461]",Point,InvProp,1,CD7,0,B2,Day,No,RUGGLES ST,Part three,Unarmed,767556.2352,,2947175.229,2015
+81442,152001862.0,Wednesday,No,2015-01-07T15:30:00.000,InvProp,"[-71.075985, 42.334611]",Point,InvProp,1,CD9,0,D4,Day,No,NORTHAMPTON ST,Part three,Unarmed,770812.3363,,2947245.905,2015
+154323,152001762.0,Wednesday,No,2015-01-07T06:30:00.000,InvProp,"[-71.089375, 42.290791]",Point,InvProp,1,IVPREM,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,767268.8409999999,,2931259.4669999997,2015
+163108,152001936.0,Wednesday,No,2015-01-07T07:30:00.000,InvProp,"[-71.0256, 42.333686]",Point,InvProp,1,IVPER,0,C6,Day,No,TWOMEY CT,Part three,Unarmed,784437.2142,,2946980.565,2015
+225118,152001989.0,Wednesday,No,2015-01-07T20:00:00.000,InvProp,"[-71.076935, 42.341116]",Point,InvProp,1,BE,0,D4,First,No,TREMONT ST,Part three,Other,770543.7184,,2949615.17,2015
+262763,152001695.0,Wednesday,No,2015-01-07T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD19,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+265461,152001836.0,Wednesday,No,2015-01-07T16:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVPREM,0,A1,First,No,BROAD ST,Part three,Unarmed,,,,2015

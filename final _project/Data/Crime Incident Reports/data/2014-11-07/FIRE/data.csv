@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105195,142046683.0,Friday,No,2014-11-07T09:00:00.000,FIRE,"[-71.087612, 42.312512]",Point,FIRE,11,FIRE,0,B2,Day,No,CRAWFORD ST,Part three,Unarmed,767707.5761,,2939177.0239999997,2014
+184668,142046724.0,Friday,No,2014-11-07T11:09:00.000,FIRE,"[-71.108715, 42.316481]",Point,FIRE,11,REQP,0,E13,Day,No,SPRING PARK AV,Part three,Unarmed,761993.1459,,2940596.7180000003,2014
+224838,142046636.0,Friday,No,2014-11-07T03:00:00.000,FIRE,"[-71.083489, 42.308113]",Point,FIRE,11,FIRE,0,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768830.3802,,2937579.3460000004,2014

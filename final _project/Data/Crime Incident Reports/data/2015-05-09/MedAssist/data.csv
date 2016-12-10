@@ -1,0 +1,19 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+916,152038087.0,Saturday,No,2015-05-09T20:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,IVPER,0,C11,First,No,WHITBY ST,Part three,Unarmed,,,,2015
+918,152038032.0,Saturday,No,2015-05-09T16:30:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,UNCONS,0,E13,First,No,ARCOLA ST,Part three,Unarmed,,,,2015
+937,152037959.0,Saturday,No,2015-05-09T10:31:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,REQP,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+944,152038026.0,Saturday,No,2015-05-09T17:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,IVPER,0,B2,First,No,ROXBURY ST,Part three,Unarmed,,,,2015
+2164,152037905.0,Saturday,No,2015-05-09T01:23:00.000,MedAssist,"[-71.076338, 42.306233]",Point,MedAssist,5,POISON,0,C11,Last,No,VAUGHAN AV,Part three,Unarmed,770768.2376,,2936903.829,2015
+40509,152037900.0,Saturday,No,2015-05-09T03:45:00.000,MedAssist,"[-71.134735, 42.354686]",Point,MedAssist,5,REQP,0,D14,Last,No,CAMBRIDGE ST,Part three,Unarmed,754896.2411,,2954488.137,2015
+44627,152037980.0,Saturday,No,2015-05-09T12:55:00.000,MedAssist,"[-71.046717, 42.336149]",Point,MedAssist,5,IVPER,0,C6,Day,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2015
+82082,152037895.0,Saturday,No,2015-05-09T03:15:00.000,MedAssist,"[-71.106565, 42.287566]",Point,MedAssist,5,REQEP,0,E18,Last,No,WALK HILL ST,Part three,Unarmed,762623.2303,AMERICAN LEGION HY,2930062.307,2015
+106191,152037870.0,Saturday,No,2015-05-09T00:37:00.000,MedAssist,"[-71.08209, 42.322206]",Point,MedAssist,5,REQEP,0,B2,Last,No,WARREN ST,Part three,Unarmed,769183.8241,,2942717.1610000003,2015
+126538,152037871.0,Saturday,No,2015-05-09T00:46:00.000,MedAssist,"[-71.084515, 42.352176]",Point,MedAssist,5,UNCONS,0,D4,Last,No,BEACON ST,Part three,Unarmed,768474.8252,,2953635.5710000005,2015
+128825,152038123.0,Saturday,No,2015-05-09T23:52:00.000,MedAssist,"[-71.089755, 42.344446]",Point,MedAssist,5,POISON,0,D4,Last,No,HEMENWAY ST,Part three,Unarmed,767071.9835,,2950811.753,2015
+193827,152047732.0,Saturday,No,2015-05-09T12:58:00.000,MedAssist,"[-71.12448, 42.284991]",Point,MedAssist,5,UNCONS,0,E5,Day,No,SYCAMORE ST,Part three,Unarmed,757779.9168,,2929102.0889999997,2015
+199839,152037984.0,Saturday,No,2015-05-09T12:42:00.000,MedAssist,"[-71.07538, 42.333949]",Point,MedAssist,5,REQP,0,D4,Day,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2015
+229292,152037939.0,Saturday,No,2015-05-09T10:00:00.000,MedAssist,"[-71.01559, 42.382416]",Point,MedAssist,5,EDP,0,A7,Day,No,BYRON ST,Part three,Unarmed,787042.8829,,2964753.88,2015
+232823,152037985.0,Saturday,No,2015-05-09T13:00:00.000,MedAssist,"[-71.066256, 42.288553]",Point,MedAssist,5,EDP,0,C11,Day,No,TALBOT AV,Part three,Unarmed,773528.0244,,2930474.905,2015
+247099,152037979.0,Saturday,No,2015-05-09T08:00:00.000,MedAssist,"[-71.153145, 42.343791]",Point,MedAssist,5,UNKEMS,0,D14,Day,No,LEDGEMERE RD,Part three,Unarmed,749936.2779,,2950497.005,2015
+248203,152038081.0,Saturday,No,2015-05-09T20:10:00.000,MedAssist,"[-71.064745, 42.373001]",Point,MedAssist,5,EDP,0,A15,First,No,WASHINGTON ST,Part three,Unarmed,773780.0016,,2961251.262,2015
+253245,152037991.0,Saturday,No,2015-05-09T13:48:00.000,MedAssist,"[-71.081506, 42.340404]",Point,MedAssist,5,EDP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,769309.2294,,2949349.501,2015

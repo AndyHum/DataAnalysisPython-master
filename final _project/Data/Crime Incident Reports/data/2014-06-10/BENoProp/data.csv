@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124512,140365510.0,Tuesday,No,2014-06-10T04:50:00.000,BENoProp,"[-71.157505, 42.341188]",Point,BENoProp,6,BEIP  ,773,D14,Last,No,KIRKWOOD RD,Part One,Unarmed,748761.1914,,2949543.563,2014
+146790,140365491.0,Tuesday,No,2014-06-10T03:55:00.000,BENoProp,"[-71.1586, 42.342046]",Point,BENoProp,6,BEIP  ,750,D14,Last,No,FOSTER ST,Part One,Other,748464.1159,,2949855.142,2014
+242221,140365521.0,Tuesday,No,2014-06-10T05:22:00.000,BENoProp,"[-71.158107, 42.342893]",Point,BENoProp,6,BEIP  ,750,D14,Last,No,FOSTER ST,Part One,Unarmed,748596.1109999999,,2950164.144,2014

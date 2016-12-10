@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36439,130316227.0,Sunday,No,2013-05-26T18:15:00.000,Service,"[-71.01038, 42.385441]",Point,Service,5,CD11  ,12,A7,First,No,BENNINGTON ST,Part Three,Unarmed,788444.1572,TRIDENT ST,2965864.288,2013
+44654,130315584.0,Sunday,No,2013-05-26T12:44:00.000,Service,"[-71.10039, 42.322781]",Point,Service,5,CD11  ,640,E13,Day,No,CENTRE ST,Part Three,Unarmed,764233.9404,LAMARTINE ST,2942902.9839999997,2013
+74554,130314774.0,Sunday,No,2013-05-26T01:27:00.000,Service,"[-71.058885, 42.305581]",Point,Service,5,IVPER ,348,C11,Last,No,DORCHESTER AV,Part three,Other,775490.5175,,2936690.348,2013
+80361,130316287.0,Sunday,No,2013-05-26T19:50:00.000,Service,"[-71.069055, 42.337746]",Point,Service,5,LOCK  ,167,D4,First,No,E CANTON ST,Part three,Unarmed,772680.2889,,2948397.747,2013
+88408,130455622.0,Sunday,No,2013-05-26T00:00:00.000,Service,"[-71.145818, 42.257502]",Point,Service,5,IVPER ,822,E5,Last,No,MARGARETTA DR,Part three,Other,752047.3948,,2919059.747,2013
+122731,130316113.0,Sunday,No,2013-05-26T18:15:00.000,Service,"[-71.01038, 42.385441]",Point,Service,5,ARREST,0,A7,First,No,BENNINGTON ST,Part Three,Unarmed,788444.1572,TRIDENT ST,2965864.288,2013
+164578,130315542.0,Sunday,No,2013-05-26T13:21:00.000,Service,"[-71.038605, 42.348716]",Point,Service,5,CARST ,207,C6,Day,No,NORTHERN AV,Part Three,Unarmed,780891.2712,,2952438.4710000004,2013
+261096,130315250.0,Sunday,No,2013-05-26T10:00:00.000,Service,"[0, 0]",Point,Service,5,ARREST,139,B2,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2013

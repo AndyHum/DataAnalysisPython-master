@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10326,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.071245, 42.341775]",Point,MedAssist,6,IVPER,166,D4,,No,SHAWMUT AVE,Part Three,None,772081.0,,2950000.0,2015
+34508,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.133235, 42.349901]",Point,MedAssist,6,ALARM,794,D14,,No,SPOFFORD RD,Part Three,None,755309.0,,2950000.0,2015
+41440,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.028792, 42.382458]",Point,MedAssist,6,IVPER,16,A7,,No,CONDOR ST,Part Three,None,783476.0,,2960000.0,2015
+58555,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.077497, 42.342259]",Point,MedAssist,6,UNKEMS,153,D4,,No,W NEWTON ST,Part Three,None,770390.0,,2950000.0,2015
+88167,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.134349, 42.29043]",Point,MedAssist,6,POISON,673,E5,,No,SHEFFIELD RD,Part Three,None,755101.0,,2930000.0,2015
+94771,,Wednesday,No,2015-06-17T23:59:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,INJOFF,0,,,No,,Part Three,None,,,,2015
+103768,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.074364, 42.33556]",Point,MedAssist,6,REQEP,171,D4,,No,HARRISON AVE,Part Three,None,771249.0,,2950000.0,2015
+114955,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.133635, 42.355154]",Point,MedAssist,6,IVPER,803,D14,,No,CAMBRIDGE ST,Part Three,None,755193.0,,2950000.0,2015
+119333,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.054679, 42.341288]",Point,MedAssist,6,INJOFF,200,C6,,No,W BROADWAY,Part Three,None,776560.0,,2950000.0,2015
+145074,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.039291, 42.370818]",Point,MedAssist,6,IVPER,12,A7,,No,BRANDYWYNE DR,Part Three,None,780662.0,,2960000.0,2015
+171751,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.155398, 42.285946]",Point,MedAssist,6,I00015,736,E5,,No,CENTRE ST,Part Three,None,749412.0,,2930000.0,2015
+212544,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.06737, 42.337859]",Point,MedAssist,6,I00015,172,D4,,No,ALBANY ST,Part Three,None,773136.0,,2950000.0,2015
+248943,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.133235, 42.349901]",Point,MedAssist,6,EDP,794,D14,,No,SPOFFORD RD,Part Three,None,755309.0,,2950000.0,2015
+249840,,Wednesday,No,2015-06-17T00:00:00.000,Medical Assistance,"[-71.067657, 42.340494]",Point,MedAssist,6,UNCONS,167,D4,,No,UNION PARK ST,Part Three,None,773053.0,,2950000.0,2015
+257392,,Wednesday,No,2015-06-17T07:34:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,EDP,312,B2,,No,HOLWORTHY ST,Part Three,None,,,,2015

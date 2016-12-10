@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+178406,152000002.0,Thursday,No,2015-01-01T00:05:00.000,LICViol,"[-71.04522, 42.335636]",Point,LICViol,1,CD35,0,C6,Last,No,DORCHESTER ST,Part three,Unarmed,779128.5335,,2947662.284,2015
+180270,152000014.0,Thursday,No,2015-01-01T00:25:00.000,LICViol,"[-71.038465, 42.335581]",Point,LICViol,1,CD35,0,C6,Last,No,E BROADWAY,Part three,Unarmed,780955.0161,,2947652.0530000003,2015
+244729,152000025.0,Thursday,No,2015-01-01T00:50:00.000,LICViol,"[-71.034655, 42.346381]",Point,LICViol,1,CD35,0,C6,Last,No,NORTHERN AV,Part three,Unarmed,781963.6689,,2951593.356,2015

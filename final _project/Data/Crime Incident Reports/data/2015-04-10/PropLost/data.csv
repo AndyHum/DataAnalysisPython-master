@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60288,152029164.0,Friday,No,2015-04-10T17:44:00.000,PropLost,"[-71.0775, 42.271566]",Point,PropLost,4,PERGUN,0,B3,First,No,RIVER ST,Part three,Unarmed,770516.5134,GROVELAND ST,2924269.305,2015
+85030,152029251.0,Friday,No,2015-04-10T22:15:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,4,IVPER,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+112105,152032832.0,Friday,No,2015-04-10T16:00:00.000,PropLost,"[-71.03655, 42.339191]",Point,PropLost,4,INVEST,0,C6,First,No,ELKINS ST,Part three,Other,781465.6335,,2948970.4060000004,2015
+196437,152029672.0,Friday,No,2015-04-10T17:30:00.000,PropLost,"[-71.084485, 42.348131]",Point,PropLost,4,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2015
+267605,152029460.0,Friday,No,2015-04-10T02:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,Last,No,COMMONWEALTH AV,Part three,Unarmed,,,,2015
+267698,152030352.0,Friday,No,2015-04-10T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B3,Day,No,BALLOU AV,Part three,Unarmed,,,,2015

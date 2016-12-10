@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+182101,142025055.0,Monday,No,2014-09-01T12:45:00.000,Service,"[-71.165241, 42.338779]",Point,Service,9,ARREST,0,D14,Day,No,ST THOMAS MORE RD,Part three,Unarmed,746673.3399,,2948657.375,2014
+198091,142024941.0,Monday,No,2014-09-01T02:28:00.000,Service,"[-71.056895, 42.327426]",Point,Service,9,ARREST,0,C6,Last,No,DORCHESTER AV,Part three,Unarmed,775987.4621,,2944653.805,2014
+226919,142025124.0,Monday,No,2014-09-01T18:00:00.000,Service,"[-71.09853, 42.322581]",Point,Service,9,IVPER,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,764737.2825,CENTRE ST,2942832.463,2014
+255976,142025236.0,Monday,No,2014-09-01T20:30:00.000,Service,"[-71.14701, 42.359896]",Point,Service,9,AB,0,D14,First,No,BIRMINGHAM PY,Part three,Other,751570.5279999999,,2956372.8010000004,2014
+259164,142025173.0,Monday,No,2014-09-01T10:30:00.000,Service,"[-71.11357, 42.299931]",Point,Service,9,PROP,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,760707.4024,HYDE PARK AV,2934559.64,2014

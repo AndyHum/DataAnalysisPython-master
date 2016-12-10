@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86108,130233725.0,Saturday,No,2013-04-20T21:00:00.000,SkipFare,"[-71.061015, 42.353246]",Point,SkipFare,4,IVPER ,112,A1,First,No,AVENUE DE LAFAYETTE,Part Two,Unarmed,774824.9513,,2954057.314,2013
+161347,130232187.0,Saturday,No,2013-04-20T00:30:00.000,SkipFare,"[-71.014608, 42.390416]",Point,SkipFare,4,LARCRT,15,A7,Last,No,MCCLELLAN HY,Part Two,Unarmed,787291.4418,,2967670.686,2013
+161366,130233512.0,Saturday,No,2013-04-20T18:40:00.000,SkipFare,"[-71.014608, 42.390416]",Point,SkipFare,4,LARCRT,15,A7,First,No,MCCLELLAN HY,Part Two,Unarmed,787291.4418,,2967670.686,2013

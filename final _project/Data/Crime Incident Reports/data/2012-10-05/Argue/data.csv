@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61821,120627824.0,Friday,No,2012-10-05T18:12:00.000,Argue,"[-71.072706, 42.318621]",Point,Argue,10,FIGHT ,260,B2,First,No,WOODWARD PARK ST,Part Three,Other,771727.9447,,2941423.043,2012
+88313,120626764.0,Friday,No,2012-10-05T01:00:00.000,Argue,"[-71.072298, 42.304718]",Point,Argue,10,IVPER ,348,C11,Last,No,EVERTON ST,Part Three,Other,771863.6868,,2936357.135,2012
+110255,120627890.0,Friday,No,2012-10-05T16:00:00.000,Argue,"[-71.080624, 42.337477]",Point,Argue,10,NIDV  ,273,D4,First,No,CAMDEN ST,Part Three,Other,769552.6659,,2948284.111,2012

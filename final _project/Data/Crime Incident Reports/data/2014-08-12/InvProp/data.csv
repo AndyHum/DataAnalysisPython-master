@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34545,142018815.0,Tuesday,No,2014-08-12T20:55:00.000,InvProp,"[-71.048936, 42.297587]",Point,InvProp,8,ALARM,0,C11,First,No,MORRISSEY BL,Part three,Unarmed,778196.916,,2933791.0689999997,2014
+158298,142018583.0,Tuesday,No,2014-08-12T10:03:00.000,InvProp,"[-71.087645, 42.285741]",Point,InvProp,8,FIRE,0,B3,Day,No,HARWOOD ST,Part three,Unarmed,767745.8152,,2929421.435,2014
+206901,142024825.0,Tuesday,No,2014-08-12T18:00:00.000,InvProp,"[-71.08363, 42.339061]",Point,InvProp,8,MISC,0,D4,First,No,COLUMBUS AV,Part three,Unarmed,768737.3752,,2948857.383,2014
+242870,142018796.0,Tuesday,No,2014-08-12T21:00:00.000,InvProp,"[-71.055405, 42.316671]",Point,InvProp,8,DVIP,0,C11,First,No,SUDAN ST,Part three,Other,776410.8018,,2940736.606,2014

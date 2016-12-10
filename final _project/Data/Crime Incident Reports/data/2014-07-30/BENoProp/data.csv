@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75868,142014525.0,Wednesday,No,2014-07-30T16:44:00.000,BENoProp,"[-71.053125, 42.332096]",Point,BENoProp,7,LARCEN,0,C6,First,No,MITCHELL ST,Part One,Unarmed,776997.9876,,2946360.95,2014
+146182,142016665.0,Wednesday,No,2014-07-30T09:00:00.000,BENoProp,"[-71.125072, 42.303253]",Point,BENoProp,7,BE,0,E13,Day,No,CENTRE ST,Part One,Other,757590.3578,,2935756.223,2014
+153852,142014625.0,Wednesday,No,2014-07-30T18:10:00.000,BENoProp,"[-71.09291, 42.31258]",Point,BENoProp,7,BE,0,B2,First,No,HAROLD ST,Part One,Other,766274.4956,,2939194.943,2014

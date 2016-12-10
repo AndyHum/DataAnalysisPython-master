@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11102,130554764.0,Sunday,No,2013-09-01T21:08:00.000,WEAPONS CHARGE,"[-71.065893, 42.283662]",Point,15xx,9,PERGUN,402,C11,First,No,FULLER ST,Part Two,Firearm,773635.2414,,2928692.7430000002,2013
+91499,130554717.0,Sunday,No,2013-09-01T22:31:00.000,WEAPONS CHARGE,"[-71.092113, 42.271941]",Point,15xx,9,PSHOT ,425,B3,First,No,BABSON ST,Part Two,Firearm,766560.827,,2924386.613,2013

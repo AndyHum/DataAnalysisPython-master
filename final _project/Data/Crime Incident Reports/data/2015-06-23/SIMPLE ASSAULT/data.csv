@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13073,,Tuesday,No,2015-06-23T00:00:00.000,Simple Assault,"[-71.072627, 42.384035]",Point,08xx,6,AB,51,A15,,No,MAIN ST,Part Two,None,771630.0,,2970000.0,2015
+19909,,Tuesday,No,2015-06-23T00:00:00.000,Simple Assault,"[-71.08912, 42.290983]",Point,08xx,6,AB,439,B3,,No,BLUE HILL AVE,Part Two,None,767337.0,,2930000.0,2015
+27881,,Tuesday,No,2015-06-23T21:30:00.000,Simple Assault,"[0, 0]",Point,08xx,6,FIGHT,281,B2,,No,GREENVILLE ST,Part Two,None,,,,2015
+56871,,Tuesday,No,2015-06-23T00:00:00.000,Simple Assault,"[-71.080148, 42.349325]",Point,08xx,6,AB,138,D4,,No,BOYLSTON ST,Part Two,None,769660.0,,2950000.0,2015
+85807,,Tuesday,No,2015-06-23T00:00:00.000,Simple Assault,"[-71.082343, 42.344812]",Point,08xx,6,IVPER,145,D4,,No,HUNTINGTON AVE,Part Two,None,769075.0,,2950000.0,2015
+146772,,Tuesday,No,2015-06-23T19:00:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,215,C6,,No,D ST,Part Two,None,,W SIXTH ST,,2015
+185924,,Tuesday,No,2015-06-23T00:00:00.000,Simple Assault,"[-71.098745, 42.346988]",Point,08xx,6,ARREST,628,D4,,No,BROOKLINE AVE,Part Two,None,764637.0,,2950000.0,2015
+189919,,Tuesday,No,2015-06-23T00:00:00.000,Simple Assault,"[-71.076242, 42.312605]",Point,08xx,6,FIGHT,326,B2,,No,FAYSTON ST,Part Two,None,770783.0,,2940000.0,2015
+195599,,Tuesday,No,2015-06-23T13:57:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,71,A1,,No,BEACON ST,Part Two,None,, BOWDOIN ST ,,2015
+207118,,Tuesday,No,2015-06-23T20:40:00.000,Simple Assault,"[0, 0]",Point,08xx,6,IVPER,0,,,No,ELM HILL AVE,Part Two,Other,,,,2015
+213679,,Tuesday,No,2015-06-23T00:00:00.000,Simple Assault,"[-71.08585, 42.306641]",Point,08xx,6,NIDV,319,B2,,No,NAZING ST,Part Two,Personal Weapon (hand  foot  etc.),768194.0,,2940000.0,2015

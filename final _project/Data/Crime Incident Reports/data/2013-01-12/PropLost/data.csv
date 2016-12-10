@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89389,130055694.0,Saturday,No,2013-01-12T23:00:00.000,PropLost,"[-71.039277, 42.381676]",Point,PropLost,1,LSTPRP,25,A7,First,No,MERIDIAN ST,Part Three,Unarmed,780644.6138,,2964448.77,2013
+130273,130024689.0,Saturday,No,2013-01-12T17:45:00.000,PropLost,"[-71.076878, 42.32137]",Point,PropLost,1,LSTPRP,262,B2,First,No,WOODVILLE ST,Part Three,Unarmed,770594.8081,,2942419.2989999996,2013
+186940,130026089.0,Saturday,No,2013-01-12T16:00:00.000,PropLost,"[-71.062455, 42.351471]",Point,PropLost,1,LSTPRP,117,A1,First,No,BEACH ST,Part Three,Unarmed,774439.0393,,2953408.4710000004,2013
+260312,130037218.0,Saturday,No,2013-01-12T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,MISCRP,186,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,,,,2013
+264045,130030882.0,Saturday,No,2013-01-12T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,LSTPRP,786,D14,First,No,WASHINGTON ST,Part Three,Unarmed,,,,2013
+264848,130024714.0,Saturday,No,2013-01-12T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,LSTPRP,72,A1,First,No,SALEM ST,Part Three,Unarmed,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89142,130755805.0,Saturday,No,2013-11-30T06:55:00.000,DISORDERLY,"[-71.05683, 42.314631]",Point,24xx,11,IVMV  ,247,C11,Last,No,PEARL ST,Part Two,Unarmed,776029.2644,DORCHESTER AV,2939991.189,2013
+128090,130756269.0,Saturday,No,2013-11-30T12:47:00.000,DISORDERLY,"[-71.054495, 42.321335]",Point,24xx,11,SUSPER,235,C11,Day,No,COLUMBIA RD,Part Two,Unarmed,776647.8177,,2942437.512,2013
+143830,130757405.0,Saturday,No,2013-11-30T23:54:00.000,DISORDERLY,"[-71.072298, 42.304718]",Point,24xx,11,FIGHT ,337,C11,Last,No,EVERTON ST,Part Two,Unarmed,771863.6868,,2936357.135,2013

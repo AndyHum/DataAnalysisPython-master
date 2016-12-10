@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87664,140138530.0,Thursday,No,2014-03-06T15:30:00.000,InvProp,"[-71.08483, 42.346381]",Point,InvProp,3,IVPREM,144,D4,Day,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2014
+134749,140137980.0,Thursday,No,2014-03-06T13:00:00.000,InvProp,"[-71.05311, 42.337916]",Point,InvProp,3,BERPTA,936,C6,Day,No,FLAHERTY WY,Part three,Other,776990.9328,,2948481.881,2014
+178122,140138107.0,Thursday,No,2014-03-06T14:30:00.000,InvProp,"[-71.09131, 42.330001]",Point,InvProp,3,LARCRT,288,B2,Day,No,JOHN ELIOT SQ,Part three,Unarmed,766676.8321,,2945545.713,2014

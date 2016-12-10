@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1729,152042276.0,Saturday,No,2015-05-23T10:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,INVEST,0,C11,Day,No,ADAMS ST,Part three,Unarmed,,,,2015
+1745,152042304.0,Saturday,No,2015-05-23T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,IVPREM,0,C6,Day,No,GAVIN WY,Part three,Unarmed,,,,2015
+3847,152042480.0,Saturday,No,2015-05-23T10:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,BE,0,E13,Day,No,COLUMBUS AV,Part three,Other,,,,2015
+125592,152042354.0,Saturday,No,2015-05-23T14:21:00.000,PropFound,"[-71.05718, 42.29346]",Point,PropFound,5,SUSOBJ,0,C11,Day,No,ADAMS ST,Part three,Unarmed,775974.4263,KING ST,2932275.68,2015
+190204,152042437.0,Saturday,No,2015-05-23T17:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,5,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015
+211012,152042422.0,Saturday,No,2015-05-23T17:45:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,5,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015

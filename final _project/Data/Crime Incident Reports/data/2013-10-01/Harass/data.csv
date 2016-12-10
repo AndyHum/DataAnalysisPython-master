@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40098,130626019.0,Tuesday,No,2013-10-01T15:30:00.000,Harass,"[-71.074079, 42.346119]",Point,Harass,10,VIORDR,150,D4,Day,No,CHANDLER ST,Part Two,Unarmed,771306.5826,,2951441.914,2013
+120192,140056180.0,Tuesday,No,2013-10-01T07:30:00.000,Harass,"[-71.10842, 42.305481]",Point,Harass,10,IVPER ,573,E13,Day,No,MCBRIDE ST,Part Two,Unarmed,762091.3332,WASHINGTON ST,2936588.502,2013
+142326,140056348.0,Tuesday,No,2013-10-01T00:01:00.000,Harass,"[-71.08939, 42.345876]",Point,Harass,10,INVEST,620,D4,Last,No,HEMENWAY ST,Part Two,Unarmed,767168.1477,,2951333.347,2013

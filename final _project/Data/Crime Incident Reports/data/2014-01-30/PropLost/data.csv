@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6673,140062812.0,Thursday,No,2014-01-30T14:30:00.000,PropLost,"[-71.07935, 42.354141]",Point,PropLost,1,LARCRT,135,D4,Day,No,BACK ST,Part three,Unarmed,769867.4133,DARTMOUTH ST,2954358.495,2014
+35789,140103961.0,Thursday,No,2014-01-30T17:00:00.000,PropLost,"[-71.089215, 42.340161]",Point,PropLost,1,LSTPRP,283,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767225.4855,,2949250.922,2014
+136052,140061080.0,Thursday,No,2014-01-30T08:55:00.000,PropLost,"[-71.05357, 42.355631]",Point,PropLost,1,LSTPRP,110,A1,Day,No,HIGH ST,Part three,Unarmed,776832.775,,2954936.898,2014
+148147,140072198.0,Thursday,No,2014-01-30T23:00:00.000,PropLost,"[-71.06636, 42.352221]",Point,PropLost,1,LSTPRP,118,A1,First,No,BOYLSTON PL,Part three,Unarmed,773382.1034,,2953676.394,2014
+264919,140062240.0,Thursday,No,2014-01-30T01:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,LSTPRP,72,A1,Last,No,SOUTH ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17680,142028698.0,Friday,No,2014-09-12T10:30:00.000,Arrest,"[-71.0729, 42.333256]",Point,Arrest,9,ARREST,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,ALBANY ST,2946756.2810000004,2014
+87376,142028701.0,Friday,No,2014-09-12T11:08:00.000,Arrest,"[-71.170913, 42.281354]",Point,Arrest,9,ARREST,0,E5,Day,No,VFW PY,Part three,Unarmed,745220.4708,,2927724.6489999997,2014
+214044,142028763.0,Friday,No,2014-09-12T14:00:00.000,Arrest,"[-71.042894, 42.33551]",Point,Arrest,9,CD11,0,C6,Day,No,E BROADWAY,Part three,Unarmed,779757.4184,,2947619.498,2014
+259414,142030061.0,Friday,No,2014-09-12T09:00:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,9,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82834,130092928.0,Wednesday,No,2013-02-13T23:02:00.000,PropFound,"[-71.08781, 42.351296]",Point,PropFound,2,FDPROP,139,D4,First,No,BEACON ST,Part Three,Unarmed,767585.7246,,2953310.56,2013
+141010,130091815.0,Wednesday,No,2013-02-13T12:00:00.000,PropFound,"[-71.160234, 42.345844]",Point,PropFound,2,FDPROP,750,D14,Day,No,GLENMONT RD,Part Three,Unarmed,748016.682,,2951237.2589999996,2013
+262195,130092725.0,Wednesday,No,2013-02-13T20:00:00.000,PropFound,"[0, 0]",Point,PropFound,2,FDPROP,428,B3,First,No,SUTTON ST,Part Three,Unarmed,,,,2013

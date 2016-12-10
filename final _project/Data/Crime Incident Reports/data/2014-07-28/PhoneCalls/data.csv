@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37559,142013707.0,Monday,No,2014-07-28T10:30:00.000,PhoneCalls,"[-71.155123, 42.35915]",Point,PhoneCalls,7,IVPER,0,D14,Day,No,SOLDIERS FIELD RD,Part three,Unarmed,749378.8529,,2956092.008,2014
+88482,142014533.0,Monday,No,2014-07-28T09:00:00.000,PhoneCalls,"[-71.067555, 42.349351]",Point,PhoneCalls,7,IVPER,0,A1,Day,No,MELROSE ST,Part Two,Unarmed,773064.3931,,2952628.873,2014
+239409,142013855.0,Monday,No,2014-07-28T18:46:00.000,PhoneCalls,"[-71.08744, 42.333399]",Point,PhoneCalls,7,IVPER,0,B2,First,No,CABOT ST,Part three,Unarmed,767717.2749,,2946788.916,2014

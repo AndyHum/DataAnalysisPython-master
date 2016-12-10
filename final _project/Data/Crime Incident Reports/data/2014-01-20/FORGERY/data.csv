@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67416,140039712.0,Monday,No,2014-01-20T12:30:00.000,FORGERY,"[-71.058108, 42.309016]",Point,10xx,1,LARCRT,255,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775694.0122,,2937943.142,2014
+103400,140040369.0,Monday,No,2014-01-20T18:33:00.000,FORGERY,"[-71.063873, 42.325436]",Point,10xx,1,LARCIP,186,C6,First,No,ALLSTATE RD,Part Two,Unarmed,774104.1328,,2943918.604,2014
+215238,140039996.0,Monday,No,2014-01-20T15:44:00.000,FORGERY,"[0, 0]",Point,10xx,1,IVPER ,309,B2,Day,No,CHARLAME PL,Part Two,Unarmed,,,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47782,142035940.0,Saturday,No,2014-10-04T20:30:00.000,LICViol,"[-71.056181, 42.361546]",Point,LICViol,10,CD35,0,A1,First,No,BLACKSTONE ST,Part three,Unarmed,776115.7974,,2957088.77,2014
+83945,142035840.0,Saturday,No,2014-10-04T14:19:00.000,LICViol,"[-71.055495, 42.364646]",Point,LICViol,10,CD35,0,A1,Day,No,SALEM ST,Part three,Unarmed,776295.3499,,2958219.421,2014
+160794,142035983.0,Saturday,No,2014-10-04T23:37:00.000,LICViol,"[-71.06636, 42.352221]",Point,LICViol,10,CD35,0,A1,First,No,BOYLSTON PL,Part three,Unarmed,773382.1034,,2953676.394,2014
+180227,142035664.0,Saturday,No,2014-10-04T01:29:00.000,LICViol,"[-71.093706, 42.272606]",Point,LICViol,10,CD35,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766128.34,,2924626.974,2014

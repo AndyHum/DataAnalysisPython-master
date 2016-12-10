@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21873,140137988.0,Thursday,No,2014-03-06T13:32:00.000,Service,"[-71.10267, 42.322916]",Point,Service,3,TRANSP,579,E13,Day,No,CENTRE ST,Part three,Unarmed,763617.1312,,2942949.3010000004,2014
+81277,140136984.0,Thursday,No,2014-03-06T00:55:00.000,Service,"[-71.1502, 42.267641]",Point,Service,3,ARREST,710,E5,Last,No,WASHINGTON ST,Part three,Unarmed,750846.235,W BOUNDARY RD,2922749.901,2014
+90362,140138485.0,Thursday,No,2014-03-06T17:23:00.000,Service,"[-71.056374, 42.350817]",Point,Service,3,INVCHD,115,A1,First,No,ATLANTIC AV,Part three,Unarmed,776084.0039,,2953178.441,2014
+133914,140138878.0,Thursday,No,2014-03-06T18:10:00.000,Service,"[-71.04128, 42.369471]",Point,Service,3,IVPER ,28,A7,First,No,SUMNER ST,Part three,Unarmed,780127.4946,HAVRE ST,2959998.085,2014
+141943,140139975.0,Thursday,No,2014-03-06T06:30:00.000,Service,"[-71.092001, 42.278561]",Point,Service,3,LSTPRP,427,B3,Last,No,FESSENDEN ST,Part three,Unarmed,766579.5337,,2926799.047,2014
+156033,140139070.0,Thursday,No,2014-03-06T21:10:00.000,Service,"[-71.00413, 42.385721]",Point,Service,3,CD11  ,6,A7,First,No,SARATOGA ST,Part three,Unarmed,790131.9348,,2965975.807,2014
+162355,140137870.0,Thursday,No,2014-03-06T12:46:00.000,Service,"[-71.061235, 42.310371]",Point,Service,3,ARREST,339,C11,Day,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2014

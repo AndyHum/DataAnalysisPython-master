@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3014,152049087.0,Saturday,No,2015-06-13T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,A1,First,No,SILVER PL,Part three,Unarmed,,,,2015
+3258,152049153.0,Saturday,No,2015-06-13T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,A15,First,No,MONUMENT SQ,Part three,Unarmed,,MONUMENT ST,,2015
+106844,152049261.0,Saturday,No,2015-06-13T05:00:00.000,PropLost,"[-71.099385, 42.342666]",Point,PropLost,6,IVPREM,0,D4,Last,No,KILMARNOCK ST,Part three,Unarmed,764471.6869,,2950150.713,2015
+117070,152049036.0,Saturday,No,2015-06-13T12:30:00.000,PropLost,"[-71.11456, 42.260911]",Point,PropLost,6,LARCEN,0,E18,Day,No,RIVER ST,Part three,Unarmed,760503.8362,,2920338.975,2015
+150559,152049795.0,Saturday,No,2015-06-13T01:00:00.000,PropLost,"[-71.085628, 42.34206]",Point,PropLost,6,PROP,0,D4,Last,No,HUNTINGTON AV,Part three,Unarmed,768191.7788,,2949947.602,2015
+216599,152049081.0,Saturday,No,2015-06-13T13:32:00.000,PropLost,"[-71.059415, 42.359251]",Point,PropLost,6,PROP,0,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2015
+252116,152049033.0,Saturday,No,2015-06-13T13:00:00.000,PropLost,"[-71.10153, 42.322861]",Point,PropLost,6,PROP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,763925.5141,,2942930.6960000005,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91128,,Tuesday,No,2015-06-23T00:00:00.000,Assembly or Gathering Violations,"[-71.066859, 42.361697]",Point,Gather,6,I00039,65,A1,,No,BLOSSOM ST,Part Three,None,773230.0,,2960000.0,2015
+157255,,Tuesday,No,2015-06-23T17:50:00.000,Firearm Violations,"[0, 0]",Point,15xx,6,ARREST,119,A1,,No,PARK ST,Part Two,None,,TREMONT ST,,2015
+184324,,Tuesday,No,2015-06-23T00:00:00.000,Restraining Order Violations,"[-71.093965, 42.316369]",Point,Restrain,6,IVPER,307,B2,,No,WESTMINSTER CT,Part Two,None,765982.0,,2940000.0,2015
+227884,,Tuesday,No,2015-06-23T00:00:00.000,Firearm Violations,"[-71.06134, 42.310434]",Point,15xx,6,IVPER,257,C11,,No,HANCOCK ST,Part Two,Other,774817.0,,2940000.0,2015
+240917,,Tuesday,No,2015-06-23T11:01:00.000,Violations,"[0, 0]",Point,VAL,6,TS,352,C11,,No,DITSON ST,Part Two,None,,LEROY ST,,2015

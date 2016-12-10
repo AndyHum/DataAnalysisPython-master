@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129511,,Saturday,No,2015-07-11T00:00:00.000,Aggravated Assault,"[-71.154658, 42.292761]",Point,04xx,7,DISTRB,693,E5,,No,WELD ST,Part One,Blunt Object,749602.0,,2930000.0,2015
+175888,,Saturday,No,2015-07-11T17:57:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,SHOTS,402,C11,,No,BAILEY ST,Part One,Firearm,,,,2015
+188322,,Saturday,No,2015-07-11T02:32:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,STAB,645,E13,,No,STARR LN,Part One,Knife/Cutting Instrument,,,,2015
+191188,,Saturday,No,2015-07-11T00:00:00.000,Aggravated Assault,"[-71.082355, 42.280284]",Point,04xx,7,SHOTS,420,B3,,Yes,MORTON ST,Part One,Firearm,769187.0,,2930000.0,2015
+211237,,Saturday,No,2015-07-11T02:12:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,ARREST,133,D4,,No,BERKELEY ST,Part One,Other,,NEWBURY ST,,2015
+237348,,Saturday,No,2015-07-11T00:00:00.000,Aggravated Assault,"[-71.096804, 42.320957]",Point,04xx,7,PSHOT,304,B2,,Yes,WEAVER WAY,Part One,Firearm,765207.0,,2940000.0,2015

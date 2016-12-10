@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75344,130754026.0,Friday,No,2013-11-29T10:20:00.000,InvProp,"[-71.074985, 42.342171]",Point,InvProp,11,LOCK  ,153,D4,Day,No,TREMONT ST,Part three,Unarmed,771068.9870000001,,2950002.251,2013
+99781,130754643.0,Friday,No,2013-11-29T13:30:00.000,InvProp,"[-71.109045, 42.333011]",Point,InvProp,11,IVPREM,605,B2,Day,No,SHEPHERD AV,Part three,Other,761876.2846,,2946620.133,2013
+152016,130762846.0,Friday,No,2013-11-29T12:00:00.000,InvProp,"[-71.07449, 42.287966]",Point,InvProp,11,LARCRT,436,B3,Day,No,CHIPMAN ST,Part three,Unarmed,771301.3507,,2930249.7369999997,2013
+170062,130755141.0,Friday,No,2013-11-29T21:18:00.000,InvProp,"[-71.09465, 42.321646]",Point,InvProp,11,DMV   ,301,B2,First,No,MARCELLA ST,Part three,Unarmed,765788.1718,,2942496.6960000005,2013

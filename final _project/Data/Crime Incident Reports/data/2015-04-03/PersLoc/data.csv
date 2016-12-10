@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2422,152027336.0,Friday,No,2015-04-03T23:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,IVPER,0,B2,First,No,GREENVILLE ST,Other,Unarmed,,,,2015
+159309,152027273.0,Friday,No,2015-04-03T16:00:00.000,PersLoc,"[-71.119115, 42.271606]",Point,PersLoc,4,MISSIN,0,E18,First,No,CLARE AV,Other,Unarmed,759253.4211,,2924230.8389999997,2015
+204226,152027244.0,Friday,No,2015-04-03T20:08:00.000,PersLoc,"[-71.053313, 42.376979]",Point,PersLoc,4,IVPER,0,A15,First,No,9TH ST,Other,Unarmed,776861.4528,,2962716.724,2015
+231785,152027025.0,Friday,No,2015-04-03T07:45:00.000,PersLoc,"[-71.11578, 42.291066]",Point,PersLoc,4,MISSIN,0,E13,Day,No,BOURNEDALE RD,Other,Unarmed,760124.0866,,2931326.397,2015

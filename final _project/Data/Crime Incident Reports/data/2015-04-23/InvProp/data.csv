@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22,152033031.0,Thursday,No,2015-04-23T13:00:00.000,InvProp,"[0, 0]",Point,InvProp,4,HAZMAT,0,C6,Day,No,COURTHOUSE WY,Part three,Other,,,,2015
+35971,152033222.0,Thursday,No,2015-04-23T23:15:00.000,InvProp,"[-71.1719, 42.272136]",Point,InvProp,4,IVPREM,0,E5,First,No,SPRING ST,Part three,Other,744966.4838,,2924364.606,2015
+128605,152033126.0,Thursday,No,2015-04-23T17:42:00.000,InvProp,"[-71.079375, 42.277346]",Point,InvProp,4,BE,0,B3,First,No,WOODBOLE AV,Part three,Other,769998.6624,,2926373.106,2015
+195696,152032941.0,Thursday,No,2015-04-23T00:25:00.000,InvProp,"[-71.03996, 42.377891]",Point,InvProp,4,ALARM,0,A7,Last,No,BORDER ST,Part three,Other,780467.6477,,2963068.4239999996,2015

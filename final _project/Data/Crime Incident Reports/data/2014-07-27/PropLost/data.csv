@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91241,142015437.0,Sunday,No,2014-07-27T16:00:00.000,PropLost,"[-71.038995, 42.371556]",Point,PropLost,7,PROP,0,A7,First,No,MERIDIAN ST,Part three,Unarmed,780740.8613,,2960761.23,2014
+115777,142017919.0,Sunday,No,2014-07-27T11:00:00.000,PropLost,"[-71.140345, 42.358801]",Point,PropLost,7,PROP,0,D14,Day,No,ANTWERP ST,Part three,Unarmed,753373.5703,,2955981.285,2014
+156668,142013789.0,Sunday,No,2014-07-27T13:55:00.000,PropLost,"[-71.093775, 42.269596]",Point,PropLost,7,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766115.135,,2923530.012,2014
+174429,142014732.0,Sunday,No,2014-07-27T11:00:00.000,PropLost,"[-71.11477, 42.296441]",Point,PropLost,7,PROP,0,E13,Day,No,WENHAM ST,Part three,Unarmed,760388.5129,,2933286.36,2014
+180213,142013606.0,Sunday,No,2014-07-27T23:15:00.000,PropLost,"[-71.07132, 42.355731]",Point,PropLost,7,PROP,0,A1,First,No,BEACON ST,Part three,Unarmed,772034.9706,BRIMMER ST,2954948.728,2014
+185241,142013512.0,Sunday,No,2014-07-27T01:15:00.000,PropLost,"[-71.065775, 42.352431]",Point,PropLost,7,PROP,0,A1,Last,No,BOYLSTON ST,Part three,Unarmed,773539.8413,,2953753.727,2014
+231313,142013441.0,Sunday,No,2014-07-27T11:30:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,7,PROP,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+261095,142014823.0,Sunday,No,2014-07-27T00:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,ADMRPT,0,A1,Last,No,BEACON ST,Part three,Unarmed,,,,2014

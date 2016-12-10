@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75693,140306822.0,Saturday,No,2014-05-17T19:08:00.000,DEATH INVESTIGATION,"[-71.08446, 42.342426]",Point,01INV,5,SDNDTH,594,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,768507.0033,,2950082.557,2014
+77722,140307469.0,Saturday,No,2014-05-17T23:55:00.000,DEATH INVESTIGATION,"[-71.07695, 42.308106]",Point,01INV,5,CARST ,329,B2,Last,No,DEVON ST,Part three,Unarmed,770599.3288,,2937585.745,2014
+124319,140306114.0,Saturday,No,2014-05-17T05:00:00.000,DEATH INVESTIGATION,"[-71.056065, 42.337611]",Point,01INV,5,UNK   ,936,C6,Last,No,W 7TH ST,Part three,Unarmed,776192.5853,,2948366.562,2014

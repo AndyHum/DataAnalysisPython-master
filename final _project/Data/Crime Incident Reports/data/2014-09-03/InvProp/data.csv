@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95209,142025954.0,Wednesday,No,2014-09-03T10:54:00.000,InvProp,"[-71.08764, 42.322041]",Point,InvProp,9,SSA,0,B2,Day,No,DALE ST,Part three,Other,767683.2189,ROCKLAND ST,2942649.727,2014
+114913,142025969.0,Wednesday,No,2014-09-03T23:53:00.000,InvProp,"[-71.071595, 42.320471]",Point,InvProp,9,SHOTS,0,B2,Last,No,DUDLEY ST,Part three,Other,772025.179,,2942098.979,2014
+136923,142025857.0,Wednesday,No,2014-09-03T18:00:00.000,InvProp,"[-71.092625, 42.314591]",Point,InvProp,9,IVPREM,0,B2,First,No,ABBOTTSFORD ST,Part three,Unarmed,766348.0804,,2939928.345,2014
+143741,142025927.0,Wednesday,No,2014-09-03T21:30:00.000,InvProp,"[-71.079466, 42.327327]",Point,InvProp,9,SS,0,B2,First,No,MT PLEASANT AV,Part three,Unarmed,769884.0976,,2944586.5360000003,2014
+210489,142025774.0,Wednesday,No,2014-09-03T13:14:00.000,InvProp,"[-71.08489, 42.348946]",Point,InvProp,9,DISTRB,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,768379.1902,,2952458.002,2014
+250952,142025816.0,Wednesday,No,2014-09-03T16:36:00.000,InvProp,"[-71.094606, 42.267258]",Point,InvProp,9,LANTEN,0,B3,First,No,RIVER ST,Part three,Unarmed,765894.2221,,2922676.722,2014
+261431,142025952.0,Wednesday,No,2014-09-03T23:14:00.000,InvProp,"[0, 0]",Point,InvProp,9,ASSTPO,0,C11,First,No,CENTRAL ST,Part three,Unarmed,,TALBOT AV,,2014

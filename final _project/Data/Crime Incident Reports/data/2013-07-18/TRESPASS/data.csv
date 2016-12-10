@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+117656,130445247.0,Thursday,No,2013-07-18T14:04:00.000,TRESPASS,"[-71.06617, 42.361221]",Point,TRESPASS,7,DISTRB,65,A1,Day,No,CAMBRIDGE ST,Part Two,Unarmed,773416.7792,,2956956.43,2013
+142396,130444015.0,Thursday,No,2013-07-18T00:37:00.000,TRESPASS,"[-71.0642, 42.353461]",Point,TRESPASS,7,ARREST,111,A1,Last,No,TREMONT ST,Part Two,Unarmed,773963.6495,,2954131.25,2013
+228996,130444104.0,Thursday,No,2013-07-18T01:34:00.000,TRESPASS,"[-71.06458, 42.352351]",Point,TRESPASS,7,ARREST,118,A1,Last,No,TREMONT ST,Part Two,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2013

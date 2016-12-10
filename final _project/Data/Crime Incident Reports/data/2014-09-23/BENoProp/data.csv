@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48468,142032279.0,Tuesday,No,2014-09-23T14:22:00.000,BENoProp,"[-71.062413, 42.353534]",Point,BENoProp,9,VAND,0,A1,Day,No,WASHINGTON ST,Part One,Unarmed,774446.4264,,2954160.1610000003,2014
+113915,142032135.0,Tuesday,No,2014-09-23T09:30:00.000,BENoProp,"[-71.081742, 42.299704]",Point,BENoProp,9,BE,0,B3,Day,No,GLENWAY ST,Part One,Unarmed,769318.0765,,2934517.415,2014
+143920,142032284.0,Tuesday,No,2014-09-23T17:30:00.000,BENoProp,"[-71.129571, 42.291212]",Point,BENoProp,9,IVPREM,0,E5,First,No,COTTON ST,Part One,Unarmed,756392.4251,,2931362.918,2014

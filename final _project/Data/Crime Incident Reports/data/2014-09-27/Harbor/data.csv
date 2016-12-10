@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15441,142033587.0,Saturday,No,2014-09-27T10:30:00.000,Harbor,"[-71.04883, 42.360081]",Point,Harbor,9,INVEST,0,A1,Day,No,LONG WHRF,Part three,Unarmed,778105.3647,,2956565.3039999995,2014
+47354,142033666.0,Saturday,No,2014-09-27T16:00:00.000,Harbor,"[-70.972049, 42.312511]",Point,Harbor,9,IVPREM,0,C11,First,No,LONG ISLAND,Part three,Unarmed,798964.0477,,2939348.963,2014
+262784,142034289.0,Saturday,No,2014-09-27T19:18:00.000,Harbor,"[0, 0]",Point,Harbor,9,IVMV,0,A1,First,No,SPECTACLE ISLAND,Part three,Unarmed,,,,2014

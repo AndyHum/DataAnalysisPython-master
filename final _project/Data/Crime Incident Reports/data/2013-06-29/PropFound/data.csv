@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31028,130401419.0,Saturday,No,2013-06-29T07:00:00.000,PropFound,"[-71.120977, 42.267011]",Point,PropFound,6,FDPROP,496,E18,Last,No,HYDE PARK AV,Part three,Unarmed,758756.7157,,2922553.869,2013
+44338,130397878.0,Saturday,No,2013-06-29T10:30:00.000,PropFound,"[-71.099445, 42.346327]",Point,PropFound,6,FDPROP,627,D4,Day,No,BROOKLINE AV,Part three,Unarmed,764448.9697,,2951484.588,2013
+85473,130397548.0,Saturday,No,2013-06-29T07:03:00.000,PropFound,"[-71.104225, 42.315306]",Point,PropFound,6,FDPROP,576,E13,Last,No,AMORY ST,Part three,Unarmed,763209.2888,,2940173.8189999997,2013
+144735,130397830.0,Saturday,No,2013-06-29T09:00:00.000,PropFound,"[-71.10205, 42.311961]",Point,PropFound,6,FDPROP,574,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763803.4218,,2938957.895,2013
+185874,130399695.0,Saturday,No,2013-06-29T11:15:00.000,PropFound,"[-71.08032, 42.339301]",Point,PropFound,6,FDPROP,156,D4,Day,No,TREMONT ST,Part three,Unarmed,769631.8361,MASSACHUSETTS AV,2948949.228,2013
+211259,130397911.0,Saturday,No,2013-06-29T11:15:00.000,PropFound,"[-71.07683, 42.337391]",Point,PropFound,6,FDPROP,170,D4,Day,No,W SPRINGFIELD ST,Part three,Unarmed,770578.8413,,2948257.853,2013
+261051,130400013.0,Saturday,No,2013-06-29T05:00:00.000,PropFound,"[0, 0]",Point,PropFound,6,MISCRP,520,E18,Last,No,TREMONT ST,Part three,Unarmed,,,,2013

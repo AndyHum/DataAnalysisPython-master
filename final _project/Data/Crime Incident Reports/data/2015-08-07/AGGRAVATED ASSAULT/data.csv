@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67606,,Friday,No,2015-08-07T00:00:00.000,Aggravated Assault,"[-71.090863, 42.333644]",Point,04xx,8,I00040,289,B2,,No,MALCOLM X BLVD,Part One,None,766791.0,,2950000.0,2015
+105672,,Friday,No,2015-08-07T23:43:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,PKNIFE,362,C11,,No,LYNDHURST ST,Part One,Knife/Cutting Instrument,,,,2015
+149371,,Friday,No,2015-08-07T00:00:00.000,Aggravated Assault,"[-71.057607, 42.330335]",Point,04xx,8,REQP,174,C6,,No,DEXTER ST,Part One,Other,775789.0,,2950000.0,2015
+203563,,Friday,No,2015-08-07T00:00:00.000,Aggravated Assault,"[-71.071787, 42.29809]",Point,04xx,8,AB,357,C11,,No,CLAYBOURNE ST,Part One,Blunt Object,772014.0,,2930000.0,2015
+259247,,Friday,No,2015-08-07T00:15:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,STAB,496,E18,,No,HYDE PARK AVE,Part One,Knife/Cutting Instrument,,METROPOLITAN AVE,,2015

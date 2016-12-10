@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70248,,Tuesday,No,2015-06-16T00:00:00.000,Disorderly Conduct,"[-71.100695, 42.342802]",Point,24xx,6,IVPER,627,D4,,No,PETERBOROUGH ST,Part Two,None,764117.0,,2950000.0,2015
+81291,,Tuesday,No,2015-06-16T00:00:00.000,Disorderly Conduct,"[-71.072102, 42.349322]",Point,24xx,6,IVPER,128,D4,,No,BERKELEY ST,Part Two,None,771835.0,,2950000.0,2015
+259668,,Tuesday,No,2015-06-16T00:00:00.000,Disorderly Conduct,"[-71.079152, 42.34731]",Point,24xx,6,ARREST,146,D4,,No,HUNTINGTON AVE,Part Two,None,769933.0,,2950000.0,2015

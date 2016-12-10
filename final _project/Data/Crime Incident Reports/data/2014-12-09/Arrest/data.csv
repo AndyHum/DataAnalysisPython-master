@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134403,142055874.0,Tuesday,No,2014-12-09T10:00:00.000,Arrest,"[-71.076585, 42.289031]",Point,Arrest,12,ARREST,0,B3,Day,No,ELMHURST ST,Part three,Unarmed,770732.5638,,2930635.018,2014
+144217,142055974.0,Tuesday,No,2014-12-09T15:15:00.000,Arrest,"[-71.086905, 42.329971]",Point,Arrest,12,AOD,0,B2,Day,No,MALCOLM X BL,Part three,Unarmed,767867.9908,,2945540.519,2014
+203822,142055863.0,Tuesday,No,2014-12-09T09:25:00.000,Arrest,"[-71.08049, 42.295081]",Point,Arrest,12,CD11,0,B3,Day,No,KINGSDALE ST,Part three,Unarmed,769665.1308,BERNARD ST,2932834.505,2014

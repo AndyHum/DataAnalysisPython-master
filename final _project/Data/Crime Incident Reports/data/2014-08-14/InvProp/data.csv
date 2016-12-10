@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21827,142019250.0,Thursday,No,2014-08-14T12:32:00.000,InvProp,"[-71.080323, 42.340407]",Point,InvProp,8,ALARM,0,D4,Day,No,W SPRINGFIELD ST,Part three,Unarmed,769629.0283,,2949352.1410000003,2014
+68281,142019318.0,Thursday,No,2014-08-14T16:40:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,8,IVPREM,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+74134,142019349.0,Thursday,No,2014-08-14T17:28:00.000,InvProp,"[-71.115316, 42.300256]",Point,InvProp,8,ALARM,0,E13,First,No,ASTICOU RD,Part three,Unarmed,760234.3161,,2934675.966,2014
+111263,142019125.0,Thursday,No,2014-08-14T00:00:00.000,InvProp,"[-71.070311, 42.310124]",Point,InvProp,8,SSA,0,C11,Last,No,MT EVERETT ST,Part three,Other,772391.3521,,2938329.9689999996,2014
+125728,142019384.0,Thursday,No,2014-08-14T13:20:00.000,InvProp,"[-71.101595, 42.333071]",Point,InvProp,8,BE,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763890.5575,,2946651.3189999997,2014
+230000,142019156.0,Thursday,No,2014-08-14T05:15:00.000,InvProp,"[-71.112473, 42.284129]",Point,InvProp,8,IVPREM,0,E18,Last,No,AMERICAN LEGION HY,Part three,Unarmed,761030.2325,,2928802.473,2014
+235496,142019245.0,Thursday,No,2014-08-14T11:49:00.000,InvProp,"[-71.07322, 42.354326]",Point,InvProp,8,IVPREM,0,D4,Day,No,MARLBOROUGH ST,Part three,Unarmed,771523.9831,,2954434.147,2014
+260816,142020063.0,Thursday,No,2014-08-14T19:30:00.000,InvProp,"[0, 0]",Point,InvProp,8,PROP,0,B2,First,No,CHARLAME ST,Part three,Unarmed,,,,2014

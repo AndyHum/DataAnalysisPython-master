@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44880,130511359.0,Wednesday,No,2013-08-14T18:55:00.000,PubDrink,"[-71.08135, 42.332389]",Point,PubDrink,8,CD19  ,274,B2,First,No,WASHINGTON ST,Part Two,Unarmed,769365.5688,,2946429.0289999996,2013
+107445,130510489.0,Wednesday,No,2013-08-14T12:11:00.000,PubDrink,"[-71.085595, 42.345711]",Point,PubDrink,8,DK    ,144,D4,Day,No,ST GERMAIN ST,Part Two,Unarmed,768194.3464,,2951278.183,2013
+167926,130509304.0,Wednesday,No,2013-08-14T14:00:00.000,PubDrink,"[-71.063155, 42.298481]",Point,PubDrink,8,CD9   ,0,C11,Day,No,GENEVA AV,Part Two,Unarmed,774348.7245,,2934097.058,2013
+237386,130509934.0,Wednesday,No,2013-08-14T06:45:00.000,PubDrink,"[-71.04252, 42.331331]",Point,PubDrink,8,IVPER ,233,C6,Last,No,WINFIELD ST,Part Two,Unarmed,779866.9565,E 8TH ST,2946097.372,2013

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20232,,Thursday,No,2015-06-25T00:43:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,INVEST,207,C6,,No,CONGRESS ST,Part Three,None,,,,2015
+31986,,Thursday,No,2015-06-25T00:00:00.000,Medical Assistance,"[-71.066316, 42.288638]",Point,MedAssist,6,EDP,817,C11,,No,TALBOT AVE,Part Three,None,773512.0,,2930000.0,2015
+80598,,Thursday,No,2015-06-25T00:00:00.000,Medical Assistance,"[-71.058968, 42.323224]",Point,MedAssist,6,EDP,187,C6,,No,HARVEST ST,Part Three,None,775435.0,,2940000.0,2015
+95668,,Thursday,No,2015-06-25T00:00:00.000,Medical Assistance,"[-71.07772, 42.348577]",Point,MedAssist,6,DVIP,130,D4,,No,HUNTINGTON AVE,Part Three,None,770318.0,,2950000.0,2015
+144621,,Thursday,No,2015-06-25T10:20:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,IVPER,519,E18,,No,HYDE PARK AVE,Part Three,None,,,,2015
+173764,,Thursday,No,2015-06-25T13:32:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,IVPER,98,A1,,No,WASHINGTON ST,Part Three,None,,WATER ST,,2015
+191982,,Thursday,No,2015-06-25T00:00:00.000,Medical Assistance,"[-71.148703, 42.347242]",Point,MedAssist,6,UNK,777,D14,,No,WASHINGTON ST,Part Three,None,751132.0,,2950000.0,2015
+210173,,Thursday,No,2015-06-25T00:00:00.000,Medical Assistance,"[-71.063169, 42.313013]",Point,MedAssist,6,EDP,257,C11,,No,SAWYER AVE,Part Three,None,774318.0,,2940000.0,2015
+213656,,Thursday,No,2015-06-25T00:00:00.000,Medical Assistance,"[-71.039172, 42.369431]",Point,MedAssist,6,DISTRB,29,A7,,No,MAVERICK SQ,Part Three,None,780697.0,,2960000.0,2015
+243202,,Thursday,No,2015-06-25T00:00:00.000,Medical Assistance,"[-71.119413, 42.268472]",Point,MedAssist,6,IVPER,496,E18,,No,METROPOLITAN AVE,Part Three,None,759178.0,,2920000.0,2015

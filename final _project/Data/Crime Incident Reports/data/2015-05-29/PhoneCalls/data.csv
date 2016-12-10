@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3887,152044296.0,Friday,No,2015-05-29T12:15:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+82408,152044368.0,Friday,No,2015-05-29T13:25:00.000,PhoneCalls,"[-71.095205, 42.316071]",Point,PhoneCalls,5,IVPER,0,E13,Day,No,WESTMINSTER AV,Part three,Unarmed,765647.7216,,2940464.3589999997,2015
+148587,152044479.0,Friday,No,2015-05-29T21:20:00.000,PhoneCalls,"[-71.06768, 42.300426]",Point,PhoneCalls,5,IVPER,0,C11,First,No,IOWA ST,Part three,Unarmed,773120.9707,,2934799.607,2015

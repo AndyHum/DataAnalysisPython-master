@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+238288,152031727.0,Saturday,No,2015-04-18T14:50:00.000,WEAPONS CHARGE,"[-71.071975, 42.334581]",Point,15xx,4,PERGUN,0,D4,Day,No,ALBANY ST,Part Two,Firearm,771896.608,,2947240.389,2015
+267853,152031523.0,Saturday,No,2015-04-18T00:57:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,4,ARREST,0,E13,Last,No,COLUMBUS AV,Part Two,Firearm,,,,2015

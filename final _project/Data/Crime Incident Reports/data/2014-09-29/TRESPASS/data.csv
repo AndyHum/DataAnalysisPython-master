@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133639,142034076.0,Monday,No,2014-09-29T00:12:00.000,TRESPASS,"[-71.13549, 42.258171]",Point,TRESPASS,9,DISTRB,0,E18,Last,No,SMITHFIELD RD,Part Two,Unarmed,754842.4743,ENNEKING PY,2919315.5760000004,2014
+163631,142034211.0,Monday,No,2014-09-29T12:15:00.000,TRESPASS,"[-71.0804, 42.328511]",Point,TRESPASS,9,IVPER,0,B2,Day,No,DUDLEY ST,Part Two,Unarmed,769629.4938,,2945016.955,2014
+182468,142034248.0,Monday,No,2014-09-29T14:00:00.000,TRESPASS,"[-71.01322, 42.385941]",Point,TRESPASS,9,ARREST,0,A7,Day,No,BRANDYWYNE DR,Part Two,Unarmed,787675.7602,,2966041.889,2014

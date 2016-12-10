@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10251,152029092.0,Friday,No,2015-04-10T12:45:00.000,FIRE,"[-71.164699, 42.302973]",Point,FIRE,4,FIRE,0,E5,Day,No,BROADLAWN PARK,Part three,Other,746871.1209999999,,2935609.664,2015
+74306,152029070.0,Friday,No,2015-04-10T12:03:00.000,FIRE,"[-71.053815, 42.376351]",Point,FIRE,4,FO,0,A15,Day,No,3RD AV,Part three,Other,776727.0554,,2962487.3310000002,2015
+116924,152029042.0,Friday,No,2015-04-10T09:15:00.000,FIRE,"[-71.061552, 42.311798]",Point,FIRE,4,FIRE,0,C11,Day,No,DOWNER AV,Part three,Unarmed,774757.225,,2938952.006,2015

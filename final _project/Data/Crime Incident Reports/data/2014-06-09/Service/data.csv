@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14014,140364265.0,Monday,No,2014-06-09T17:00:00.000,Service,"[-71.08228, 42.276562]",Point,Service,6,ARREST,409,B3,First,No,WOODBOLE AV,Part three,Unarmed,769213.8122,,2926083.233,2014
+34200,140363160.0,Monday,No,2014-06-09T09:19:00.000,Service,"[-71.10248, 42.262041]",Point,Service,6,IVPER ,484,E18,Day,No,OSCEOLA ST,Part three,Unarmed,763771.9002,,2920765.77,2014
+99229,140363272.0,Monday,No,2014-06-09T10:20:00.000,Service,"[-71.03998, 42.367131]",Point,Service,6,ARREST,35,A7,Day,No,MARGINAL ST,Part three,Unarmed,780483.3913,S BREMEN ST,2959147.235,2014
+123873,140363876.0,Monday,No,2014-06-09T14:27:00.000,Service,"[-71.083303, 42.302514]",Point,Service,6,CD11  ,458,B3,Day,No,MICHIGAN AV,Part three,Unarmed,768890.6104,,2935539.2180000003,2014
+175399,140363687.0,Monday,No,2014-06-09T13:19:00.000,Service,"[-71.05932, 42.354551]",Point,Service,6,ARREST,105,A1,Day,No,SUMMER ST,Part three,Unarmed,775280.6508,,2954535.244,2014
+243951,140363084.0,Monday,No,2014-06-09T08:38:00.000,Service,"[-71.063675, 42.352301]",Point,Service,6,ARREST,117,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+263400,140364422.0,Monday,No,2014-06-09T17:30:00.000,Service,"[0, 0]",Point,Service,6,ARREST,35,A7,First,No,S BREMEN ST,Part three,Unarmed,,,,2014

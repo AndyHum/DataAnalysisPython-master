@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69891,140310501.0,Monday,No,2014-05-19T10:00:00.000,Service,"[-71.062655, 42.283666]",Point,Service,5,MISPER,394,C11,Day,No,RADFORD LA,Part three,Unarmed,774511.6717,,2928698.955,2014
+99931,140311637.0,Monday,No,2014-05-19T16:58:00.000,Service,"[-71.061295, 42.296361]",Point,Service,5,ARREST,360,C11,First,No,DORCHESTER AV,Part three,Unarmed,774855.8882,,2933327.0810000002,2014
+144294,140310863.0,Monday,No,2014-05-19T11:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,INVEST,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+187133,140311588.0,Monday,No,2014-05-19T07:24:00.000,Service,"[-71.0626, 42.352361]",Point,Service,5,SSTOP ,112,A1,Last,No,ESSEX ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+192468,140311802.0,Monday,No,2014-05-19T19:19:00.000,Service,"[-71.09128, 42.284991]",Point,Service,5,SSTOP ,465,B3,First,No,BLUE HILL AV,Part three,Unarmed,766763.5411,RHOADES ST,2929143.3880000003,2014
+218853,140311733.0,Monday,No,2014-05-19T18:43:00.000,Service,"[-71.09108, 42.311141]",Point,Service,5,ARREST,316,B2,First,No,HUMBOLDT AV,Part three,Unarmed,766771.9739,HUTCHINGS ST,2938673.108,2014
+245385,140310592.0,Monday,No,2014-05-19T10:45:00.000,Service,"[-71.03153, 42.377671]",Point,Service,5,ARREST,20,A7,Day,No,BENNINGTON ST,Part three,Unarmed,782745.814,PUTNAM ST,2963000.6489999997,2014
+265885,140311813.0,Monday,No,2014-05-19T19:24:00.000,Service,"[0, 0]",Point,Service,5,ARREST,115,A1,First,No,UTICA ST,Part three,Unarmed,,,,2014

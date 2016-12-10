@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+143067,130759296.0,Monday,No,2013-12-02T00:58:00.000,Argue,"[-71.06183, 42.349711]",Point,Argue,12,ARMROB,123,A1,Last,No,HARVARD ST,Part three,Unarmed,774611.2748,HARRISON ST,2952767.96,2013
+183934,130759303.0,Monday,No,2013-12-02T01:07:00.000,Argue,"[-71.13734, 42.277991]",Point,Argue,12,FIGHT ,550,E5,Last,No,WASHINGTON ST,Part three,Unarmed,754310.9585,,2926536.126,2013
+239603,130761025.0,Monday,No,2013-12-02T19:05:00.000,Argue,"[-71.154885, 42.345576]",Point,Argue,12,NIDV  ,772,D14,First,No,ACADEMY HILL RD,Part three,Unarmed,749463.2536,,2951145.586,2013
+258679,130760894.0,Monday,No,2013-12-02T18:00:00.000,Argue,"[-71.135297, 42.352075]",Point,Argue,12,NIDV  ,795,D14,First,No,ALLSTON ST,Part three,Unarmed,754748.3936,,2953535.876,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50467,152017945.0,Thursday,No,2015-03-05T21:25:00.000,Landlord,"[-71.065676, 42.320349]",Point,Landlord,3,IVPER,0,B2,First,No,HUMPHREYS ST,Part three,Unarmed,773625.9852,,2942062.316,2015
+82761,152017909.0,Thursday,No,2015-03-05T17:40:00.000,Landlord,"[-71.109185, 42.268156]",Point,Landlord,3,NIDV,0,E18,First,No,OAKWOOD ST,Part three,Unarmed,761946.7205,,2922985.77,2015
+135856,152017836.0,Thursday,No,2015-03-05T14:21:00.000,Landlord,"[-71.0676, 42.301321]",Point,Landlord,3,LANTEN,0,C11,Day,No,TOPLIFF ST,Part three,Unarmed,773140.9592,,2935125.869,2015

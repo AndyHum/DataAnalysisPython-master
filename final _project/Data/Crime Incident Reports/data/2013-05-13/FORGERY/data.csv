@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25674,130285201.0,Monday,No,2013-05-13T15:42:00.000,FORGERY,"[-71.08487, 42.303971]",Point,10xx,5,LARCIP,330,B2,Day,No,BLUE HILL AV,Part Two,Other,768464.3646,,2936068.3589999997,2013
+247255,130471366.0,Monday,No,2013-05-13T16:00:00.000,FORGERY,"[-71.07621, 42.296719]",Point,10xx,5,LSTPRP,453,B3,First,No,THANE ST,Part Two,Unarmed,770819.8638,,2933437.131,2013
+258454,130284728.0,Monday,No,2013-05-13T12:40:00.000,FORGERY,"[-71.09045, 42.308695]",Point,10xx,5,IVPER ,318,B2,Day,No,SEAVER ST,Part Two,Unarmed,766946.5418,,2937782.313,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98559,,Saturday,No,2015-07-25T13:36:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,IVPER,246,C11,,No,BELFORT ST,Part Two,Firearm,,DORCHESTER AVE,,2015
+126893,,Saturday,No,2015-07-25T21:00:00.000,Violations,"[0, 0]",Point,VAL,7,TS,15,A7,,No,CURTIS ST,Part Two,None,,SARATOGA ST,,2015
+147644,,Saturday,No,2015-07-25T00:00:00.000,Restraining Order Violations,"[-71.074563, 42.272914]",Point,Restrain,7,ARREST,408,B3,,No,STURBRIDGE ST,Part Two,None,771309.0,,2920000.0,2015
+206583,,Saturday,No,2015-07-25T13:24:00.000,Assembly or Gathering Violations,"[0, 0]",Point,Gather,7,I00039,134,D4,,No,BOYLSTON ST,Part Three,None,,DARTMOUTH ST,,2015
+213059,,Saturday,No,2015-07-25T00:00:00.000,Violations,"[-71.077475, 42.343971]",Point,VAL,7,IVMV,150,D4,,No,COLUMBUS AVE,Part Two,None,770392.0,,2950000.0,2015
+219036,,Saturday,No,2015-07-25T00:00:00.000,Firearm Violations,"[-71.0984, 42.318989]",Point,15xx,7,SSA,303,E13,,No,BRAGDON ST,Part Two,Firearm,764779.0,,2940000.0,2015
+244477,,Saturday,No,2015-07-25T00:00:00.000,Firearm Violations,"[-71.091878, 42.333679]",Point,15xx,7,IVPER,289,B2,,No,SCHROEDER PLZ,Part Two,Firearm,766517.0,,2950000.0,2015

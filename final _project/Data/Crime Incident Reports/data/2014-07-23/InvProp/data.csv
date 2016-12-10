@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61342,142011959.0,Wednesday,No,2014-07-23T06:45:00.000,InvProp,"[-71.0622, 42.359116]",Point,InvProp,7,IVPREM,0,A1,Last,No,ASHBURTON PL,Part three,Unarmed,774493.6675,,2956194.809,2014
+102999,142012235.0,Wednesday,No,2014-07-23T20:16:00.000,InvProp,"[-71.06996, 42.330531]",Point,InvProp,7,SHOTS,0,C6,First,No,CHESTERTON ST,Part three,Unarmed,772448.8621,MASSACHUSETTS AV,2945767.2369999997,2014
+118118,142011948.0,Wednesday,No,2014-07-23T03:00:00.000,InvProp,"[-71.08257, 42.288461]",Point,InvProp,7,IVPREM,0,B3,Last,No,CALLENDER ST,Part three,Other,769114.1966,,2930419.3210000005,2014
+123007,142012263.0,Wednesday,No,2014-07-23T21:37:00.000,InvProp,"[-71.06042, 42.323311]",Point,InvProp,7,LARCEN,0,C6,First,No,BOSTON ST,Part three,Unarmed,775041.9987,,2943149.298,2014

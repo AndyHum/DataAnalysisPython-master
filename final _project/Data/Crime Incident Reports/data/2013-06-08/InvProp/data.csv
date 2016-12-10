@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52242,130347240.0,Saturday,No,2013-06-08T11:07:00.000,InvProp,"[-71.056765, 42.310466]",Point,InvProp,6,LOCK  ,254,C11,Day,No,AUCKLAND ST,Part three,Unarmed,776054.7316,,2938473.49,2013
+201775,130348587.0,Saturday,No,2013-06-08T22:00:00.000,InvProp,"[0, 0]",Point,InvProp,6,SHOTS ,938,D14,First,No,JETTE CT,Part three,Unarmed,,,,2013
+215045,130348182.0,Saturday,No,2013-06-08T13:00:00.000,InvProp,"[-71.05525, 42.335101]",Point,InvProp,6,STOLMV,195,C6,Day,No,OLD COLONY AV,Part three,Unarmed,776417.7009999999,D ST,2947453.02,2013
+236918,130347059.0,Saturday,No,2013-06-08T09:36:00.000,InvProp,"[-71.091156, 42.327815]",Point,InvProp,6,ALARM ,293,B2,Day,No,MILLMONT ST,Part three,Unarmed,766722.0688,,2944749.3,2013

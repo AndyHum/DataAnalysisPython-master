@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35668,140365454.0,Tuesday,No,2014-06-10T03:04:00.000,FIRE,"[-71.037135, 42.344329]",Point,FIRE,6,FIREB ,207,C6,Last,No,TERMINAL ST,Part three,Unarmed,781297.1946,,2950841.784,2014
+73273,140367268.0,Tuesday,No,2014-06-10T18:43:00.000,FIRE,"[-71.054425, 42.339351]",Point,FIRE,6,FIREB ,936,C6,First,No,DALESSIO CT,Part three,Unarmed,776632.6704,,2949002.96,2014
+102936,140365372.0,Tuesday,No,2014-06-10T01:45:00.000,FIRE,"[-71.085055, 42.315075]",Point,FIRE,6,FIREB ,313,B2,Last,No,WYOMING ST,Part three,Unarmed,768394.5258,,2940114.298,2014
+175563,140366098.0,Tuesday,No,2014-06-10T10:55:00.000,FIRE,"[-71.085055, 42.315075]",Point,FIRE,6,FIREB ,313,B2,Day,No,WYOMING ST,Part three,Unarmed,768394.5258,,2940114.298,2014

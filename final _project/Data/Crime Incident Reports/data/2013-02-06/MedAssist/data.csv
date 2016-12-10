@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25614,130076779.0,Wednesday,No,2013-02-06T10:35:00.000,MedAssist,"[-71.07825, 42.335516]",Point,MedAssist,2,EDP2  ,273,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,770198.2968,,2947572.668,2013
+30619,130076344.0,Wednesday,No,2013-02-06T04:36:00.000,MedAssist,"[-71.07987, 42.299386]",Point,MedAssist,2,OVRDOS,445,B3,Last,No,GREENWOOD ST,Part Three,Unarmed,769825.1427,,2934404.137,2013
+45731,130076134.0,Wednesday,No,2013-02-06T00:15:00.000,MedAssist,"[-71.136411, 42.2727]",Point,MedAssist,2,EDP2  ,550,E5,Last,No,BLUE LEDGE DR,Part Three,Unarmed,754570.4698,,2924609.102,2013
+84339,130077764.0,Wednesday,No,2013-02-06T18:20:00.000,MedAssist,"[-71.157269, 42.262217]",Point,MedAssist,2,UNK   ,691,E5,First,No,GROVE ST,Part Three,Unarmed,748940.7425,,2920765.461,2013
+123684,130077367.0,Wednesday,No,2013-02-06T15:22:00.000,MedAssist,"[-71.157269, 42.262217]",Point,MedAssist,2,EDP2  ,713,E5,Day,No,GROVE ST,Part Three,Unarmed,748940.7425,,2920765.461,2013
+124259,130078213.0,Wednesday,No,2013-02-06T22:31:00.000,MedAssist,"[-71.103083, 42.304586]",Point,MedAssist,2,UNCONS,570,E13,First,No,FOREST HILLS ST,Part Three,Other,763536.3242,,2936268.938,2013
+149812,130077162.0,Wednesday,No,2013-02-06T13:40:00.000,MedAssist,"[-71.07428, 42.300894]",Point,MedAssist,2,EDP2  ,461,C11,Day,No,BOWDOIN AV,Part Three,Unarmed,771334.5603,,2934961.063,2013
+158260,130077930.0,Wednesday,No,2013-02-06T19:44:00.000,MedAssist,"[-71.13091, 42.249931]",Point,MedAssist,2,EDP2  ,540,E18,First,No,RIVER ST,Part Three,Unarmed,756095.3011,,2916318.145,2013
+202206,130076713.0,Wednesday,No,2013-02-06T09:52:00.000,MedAssist,"[-71.09104, 42.337616]",Point,MedAssist,2,SDNDTH,590,D4,Day,No,LEON ST,Part Three,Unarmed,766736.5347,,2948321.106,2013
+208606,130077856.0,Wednesday,No,2013-02-06T19:06:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,EDP2  ,748,E5,First,No,BRYON RD,Part Three,Other,,,,2013
+242527,130076663.0,Wednesday,No,2013-02-06T09:36:00.000,MedAssist,"[-71.12256, 42.248006]",Point,MedAssist,2,REQEP ,518,E18,Day,No,GARFIELD AV,Part Three,Unarmed,758359.0971,,2915626.546,2013
+247205,130076582.0,Wednesday,No,2013-02-06T08:55:00.000,MedAssist,"[-71.065491, 42.305384]",Point,MedAssist,2,EDP2  ,340,C11,Day,No,DRAPER ST,Part Three,Unarmed,773703.9466,,2936609.337,2013

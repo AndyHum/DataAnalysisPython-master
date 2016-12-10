@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41131,140329513.0,Monday,No,2014-05-26T23:03:00.000,PropFound,"[-71.07666, 42.351141]",Point,PropFound,5,FDPROP,137,D4,First,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2014
+43064,140328379.0,Monday,No,2014-05-26T11:05:00.000,PropFound,"[-71.05634, 42.352901]",Point,PropFound,5,FDPROP,108,A1,Day,No,PURCHASE ST,Part three,Unarmed,776089.2508,SUMMER ST,2953938.128,2014
+94281,140328559.0,Monday,No,2014-05-26T15:00:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,5,LSTPRP,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+194091,140330324.0,Monday,No,2014-05-26T18:53:00.000,PropFound,"[-71.056725, 42.304956]",Point,PropFound,5,MEET  ,348,C11,First,No,FREEPORT ST,Part three,Unarmed,776075.9865,,2936465.6180000002,2014
+197593,140328531.0,Monday,No,2014-05-26T14:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,5,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+198412,140329135.0,Monday,No,2014-05-26T20:05:00.000,PropFound,"[-71.07618, 42.352611]",Point,PropFound,5,FDPROP,132,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,770727.0196,CLARENDON ST,2953805.1760000004,2014
+209300,140328904.0,Monday,No,2014-05-26T18:20:00.000,PropFound,"[-71.05584, 42.362531]",Point,PropFound,5,FDPROP,86,A1,First,No,HANOVER ST,Part three,Unarmed,776206.1272,CROSS ST,2957448.188,2014

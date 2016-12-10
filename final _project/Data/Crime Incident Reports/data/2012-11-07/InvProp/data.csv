@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40627,120701248.0,Wednesday,No,2012-11-07T03:29:00.000,InvProp,"[-71.025635, 42.380611]",Point,InvProp,11,SHOTS ,16,A7,Last,No,SARATOGA ST,Part Three,Firearm,784332.6485,,2964080.848,2012
+91339,120702133.0,Wednesday,No,2012-11-07T15:15:00.000,InvProp,"[-71.057665, 42.378641]",Point,InvProp,11,IVPREM,900,A15,Day,No,MCNULTY CT,Part Three,Unarmed,775682.4594,,2963316.435,2012
+191569,120701056.0,Wednesday,No,2012-11-07T00:29:00.000,InvProp,"[-71.09654, 42.310971]",Point,InvProp,11,IVPREM,568,B2,Last,No,PIERPONT,Part Three,Unarmed,765295.4509,PLAYSTEAD RD,2938604.124,2012

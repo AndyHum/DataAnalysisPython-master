@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1295,152021659.0,Tuesday,No,2015-03-17T18:00:00.000,Argue,"[0, 0]",Point,Argue,3,IVPER,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+5328,152021491.0,Tuesday,No,2015-03-17T13:00:00.000,Argue,"[-71.107805, 42.33605]",Point,Argue,3,IVPER,0,B2,Day,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2015
+123861,152021434.0,Tuesday,No,2015-03-17T09:50:00.000,Argue,"[-71.066534, 42.313851]",Point,Argue,3,AOD,0,C11,Day,No,PAYSON AV,Part three,Unarmed,773405.9843,,2939693.4289999995,2015

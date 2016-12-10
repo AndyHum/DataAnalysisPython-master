@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15766,140021199.0,Saturday,No,2014-01-11T12:13:00.000,InvProp,"[-71.067555, 42.349351]",Point,InvProp,1,FDPROP,126,A1,Day,No,MELROSE ST,Part three,Unarmed,773064.3931,,2952628.873,2014
+115873,140021407.0,Saturday,No,2014-01-11T14:07:00.000,InvProp,"[-71.11668, 42.262066]",Point,InvProp,1,CTYALM,494,E18,Day,No,METROPOLITAN AV,Part three,Unarmed,759928.0805,,2920757.288,2014
+173322,140021041.0,Saturday,No,2014-01-11T10:38:00.000,InvProp,"[-71.07422, 42.324131]",Point,InvProp,1,IVPREM,263,B2,Day,No,LEWIS PL,Part three,Other,771308.6192,DUDLEY ST,2943429.189,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106209,120444976.0,Thursday,No,2012-07-19T13:04:00.000,FIRE,"[-71.06567, 42.358296]",Point,FIRE,7,FV    ,70,A1,Day,No,MT VERNON ST,Part Three,Other,773557.3393,,2955891.191,2012
+117063,120444854.0,Thursday,No,2012-07-19T12:13:00.000,FIRE,"[-71.03208, 42.331536]",Point,FIRE,7,FV    ,231,C6,Day,No,E 8TH ST,Part Three,Unarmed,782689.4391,,2946187.3910000003,2012
+219184,120444055.0,Thursday,No,2012-07-19T01:50:00.000,FIRE,"[-71.047405, 42.353651]",Point,FIRE,7,FIREB ,207,C6,Last,No,NORTHERN AV,Part Three,Unarmed,778502.9324,,2954224.131,2012
+220340,120444240.0,Thursday,No,2012-07-19T06:50:00.000,FIRE,"[-71.152394, 42.340033]",Point,FIRE,7,FIREB ,774,D14,Last,No,SIDLAW RD,Part Three,Unarmed,750144.7008,,2949128.27,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+184631,142045773.0,Monday,No,2014-11-03T20:50:00.000,FORGERY,"[-71.05582, 42.360091]",Point,10xx,11,IVPER,0,A1,First,No,FANEUIL HALL SQ,Part Two,Unarmed,776216.1627,,2956559.0330000003,2014
+230074,142045606.0,Monday,No,2014-11-03T19:30:00.000,FORGERY,"[-71.063873, 42.325436]",Point,10xx,11,SS,0,C6,First,No,ALLSTATE RD,Part Two,Unarmed,774104.1328,,2943918.604,2014
+245352,142050183.0,Monday,No,2014-11-03T09:00:00.000,FORGERY,"[-71.056915, 42.333711]",Point,10xx,11,INVEST,0,C6,Day,No,D ST,Part Two,Unarmed,775970.1563,,2946944.1380000003,2014

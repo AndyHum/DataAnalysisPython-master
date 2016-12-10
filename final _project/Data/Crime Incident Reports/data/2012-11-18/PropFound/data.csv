@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28245,120726478.0,Sunday,No,2012-11-18T12:43:00.000,PropFound,"[-71.14726, 42.359131]",Point,PropFound,11,FDPROP,805,D14,Day,No,BIRMINGHAM PY,Part Three,Unarmed,751504.1131,,2956093.7389999996,2012
+48772,120726133.0,Sunday,No,2012-11-18T08:06:00.000,PropFound,"[-71.10457, 42.309451]",Point,PropFound,11,FDPROP,571,E13,Day,No,GREEN ST,Part Three,Unarmed,763126.0646,WASHINGTON ST,2938040.04,2012
+60856,120726594.0,Sunday,No,2012-11-18T12:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,11,FDPROP,778,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012
+88199,120725689.0,Sunday,No,2012-11-18T01:23:00.000,PropFound,"[-71.09899, 42.348321]",Point,PropFound,11,FDPROP,631,D4,Last,No,BEACON ST,Part Three,Unarmed,764568.7831,,2952212.0069999998,2012
+255316,120726986.0,Sunday,No,2012-11-18T18:05:00.000,PropFound,"[-71.11156, 42.312401]",Point,PropFound,11,FDPROP,639,E13,First,No,ROCKVIEW ST,Part Three,Unarmed,761230.4679,GREEN ST,2939106.38,2012

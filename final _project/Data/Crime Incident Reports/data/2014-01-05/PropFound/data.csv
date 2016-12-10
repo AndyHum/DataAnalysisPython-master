@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18969,140008275.0,Sunday,No,2014-01-05T12:57:00.000,PropFound,"[-71.05886, 42.312711]",Point,PropFound,1,INVEST,247,C11,Day,No,PLEASANT ST,Part three,Unarmed,775483.8418,SAVIN HILL AV,2939288.666,2014
+49979,140017714.0,Sunday,No,2014-01-05T19:00:00.000,PropFound,"[-71.06533, 42.382366]",Point,PropFound,1,LSTPRP,46,A15,First,No,MEDFORD ST,Part three,Unarmed,773604.5341,,2964663.258,2014
+128192,140008657.0,Sunday,No,2014-01-05T16:00:00.000,PropFound,"[-71.052771, 42.366131]",Point,PropFound,1,INVEST,83,A1,First,No,HANOVER ST,Part three,Unarmed,777028.4692,,2958764.232,2014
+177747,140009140.0,Sunday,No,2014-01-05T21:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,1,MISC  ,167,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+207373,140010948.0,Sunday,No,2014-01-05T16:00:00.000,PropFound,"[-71.16845, 42.351011]",Point,PropFound,1,FDPROP,755,D14,First,No,FANEUIL ST,Part three,Unarmed,745788.4887,,2953111.667,2014
+251200,140009008.0,Sunday,No,2014-01-05T19:45:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,1,FDPROP,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+260517,140008227.0,Sunday,No,2014-01-05T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,1,FDPROP,816,D14,Day,No,HASKELL ST,Part three,Unarmed,,,,2014

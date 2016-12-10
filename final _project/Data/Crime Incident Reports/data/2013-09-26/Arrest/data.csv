@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+183317,130614811.0,Thursday,No,2013-09-26T16:43:00.000,Arrest,"[-71.160045, 42.258726]",Point,Arrest,9,ARREST,932,E5,First,No,WASHINGTON ST,Part three,Unarmed,748194.478,,2919490.376,2013
+206239,130613907.0,Thursday,No,2013-09-26T09:45:00.000,Arrest,"[-71.09047, 42.290406]",Point,Arrest,9,ARREST,464,B3,Day,No,GREENOCK ST,Part three,Unarmed,766973.2468,,2931117.745,2013
+216030,130615200.0,Thursday,No,2013-09-26T19:54:00.000,Arrest,"[-71.03817, 42.371921]",Point,Arrest,9,ARREST,28,A7,First,No,GOVE ST,Part three,Unarmed,780963.0722,PARIS ST,2960895.4489999996,2013

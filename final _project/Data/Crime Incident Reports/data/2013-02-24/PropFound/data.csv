@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101796,130113940.0,Sunday,No,2013-02-24T12:30:00.000,PropFound,"[-71.071014, 42.303664]",Point,PropFound,2,LSTPRP,337,C11,Day,No,BOWDOIN ST,Part Three,Unarmed,772212.9014,,2935974.8819999998,2013
+110509,130114233.0,Sunday,No,2013-02-24T16:00:00.000,PropFound,"[-71.07087, 42.360921]",Point,PropFound,2,INVEST,66,A1,First,No,CAMBRIDGE ST,Part Three,Unarmed,772147.0859999999,CHARLES ST,2956840.6769999997,2013
+114317,130114142.0,Sunday,No,2013-02-24T06:00:00.000,PropFound,"[-71.112343, 42.313839]",Point,PropFound,2,FDPROP,639,E13,Last,No,ST JOHN ST,Part Three,Unarmed,761016.3063,,2939629.3430000003,2013
+166357,130115314.0,Sunday,No,2013-02-24T12:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,2,FDPROP,778,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2013
+264884,130115772.0,Sunday,No,2013-02-24T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,2,FDPROP,41,A15,Day,No,PROSPECT ST,Part Three,Unarmed,,,,2013

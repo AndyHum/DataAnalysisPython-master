@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46637,130803753.0,Sunday,No,2013-12-22T02:34:00.000,InvProp,"[-71.114485, 42.311256]",Point,InvProp,12,ALARMC,645,E13,Last,No,CENTRE ST,Part three,Unarmed,760441.2169,,2938685.534,2013
+72300,130803712.0,Sunday,No,2013-12-22T02:13:00.000,InvProp,"[-71.11411, 42.312631]",Point,InvProp,12,ALARMC,645,E13,Last,No,CENTRE ST,Part three,Unarmed,760540.3798,,2939187.065,2013
+118971,130804824.0,Sunday,No,2013-12-22T17:43:00.000,InvProp,"[-71.115661, 42.294951]",Point,InvProp,12,SCHALM,508,E13,First,No,WALK HILL ST,Part three,Unarmed,760149.6601,,2932742.316,2013
+161051,130803548.0,Sunday,No,2013-12-22T00:43:00.000,InvProp,"[-71.100645, 42.319136]",Point,InvProp,12,IVPREM,948,E13,Last,No,AMORY ST,Part three,Other,764171.1989,,2941574.361,2013
+197567,130804781.0,Sunday,No,2013-12-22T17:00:00.000,InvProp,"[-71.15434, 42.355671]",Point,InvProp,12,FIRWKS,769,D14,First,No,FANEUIL ST,Part three,Other,749595.6773,GOODENOUGH ST,2954825.008,2013
+204660,130804801.0,Sunday,No,2013-12-22T17:30:00.000,InvProp,"[-71.112505, 42.282558]",Point,InvProp,12,IVPREM,818,E18,First,No,CANTERBURY ST,Part three,Other,761024.1098,,2928229.6769999997,2013

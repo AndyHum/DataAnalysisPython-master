@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15548,152021986.0,Wednesday,No,2015-03-18T22:33:00.000,DISORDERLY,"[-71.055333, 42.354078]",Point,24xx,3,IVPER,0,A1,First,No,HIGH ST,Part Two,Unarmed,776359.026,,2954368.472,2015
+85716,152021936.0,Wednesday,No,2015-03-18T20:00:00.000,DISORDERLY,"[-71.0729, 42.333256]",Point,24xx,3,IVPER,0,D4,First,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2015
+142148,152021935.0,Wednesday,No,2015-03-18T19:10:00.000,DISORDERLY,"[-71.08973, 42.289186]",Point,24xx,3,DISTRB,0,B3,First,No,BLUE HILL AV,Part Two,Unarmed,767175.6034,,2930674.12,2015

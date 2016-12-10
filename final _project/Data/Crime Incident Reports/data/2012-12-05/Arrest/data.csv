@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22597,120761882.0,Wednesday,No,2012-12-05T09:30:00.000,Arrest,"[-71.084165, 42.309351]",Point,Arrest,12,ARREST,320,B2,Day,No,HARTWELL ST,Part Three,Unarmed,768645.5155,,2938029.845,2012
+117865,120761663.0,Wednesday,No,2012-12-05T08:40:00.000,Arrest,"[-71.092073, 42.289674]",Point,Arrest,12,ARREST,464,B3,Day,No,HARVARD ST,Part Three,Unarmed,766540.6237,,2930848.814,2012
+144580,120762389.0,Wednesday,No,2012-12-05T14:15:00.000,Arrest,"[-71.043705, 42.318648]",Point,Arrest,12,ARREST,256,C6,Day,No,HARBOR POINT BL,Part Three,Unarmed,779571.1183,,2941473.478,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54761,152015978.0,Friday,No,2015-02-27T07:10:00.000,PropFound,"[-71.06706, 42.344241]",Point,PropFound,2,PROP,0,D4,Last,No,SHAWMUT AV,Part three,Other,773207.652,E BERKELEY ST,2950767.373,2015
+85939,152015874.0,Friday,No,2015-02-27T11:15:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,2,PROP,0,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2015
+138143,152015971.0,Friday,No,2015-02-27T15:38:00.000,PropFound,"[-71.114095, 42.307751]",Point,PropFound,2,PROP,0,E13,Day,No,CAROLINA AV,Part three,Unarmed,760552.4821,,2937408.7339999997,2015
+201821,152016027.0,Friday,No,2015-02-27T06:00:00.000,PropFound,"[-71.071125, 42.279026]",Point,PropFound,2,IVPREM,0,B3,Last,No,FENDALE AV,Part three,Unarmed,772228.2179,,2926996.458,2015

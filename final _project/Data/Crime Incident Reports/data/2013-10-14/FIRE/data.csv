@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8865,130655251.0,Monday,No,2013-10-14T07:54:00.000,FIRE,"[-71.105185, 42.269751]",Point,FIRE,10,FIREB ,478,E18,Day,No,ROCK RD,Part three,Unarmed,763026.6802,,2923571.995,2013
+56026,130654778.0,Monday,No,2013-10-14T22:24:00.000,FIRE,"[-71.09889, 42.349166]",Point,FIRE,10,FIREB ,622,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,764594.3684,,2952520.067,2013
+130340,130655341.0,Monday,No,2013-10-14T09:25:00.000,FIRE,"[-71.039255, 42.381176]",Point,FIRE,10,FV    ,26,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780651.6673,,2964266.5739999996,2013

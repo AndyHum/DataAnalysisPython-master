@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33754,140315089.0,Wednesday,No,2014-05-21T01:46:00.000,FIRE,"[-71.06123, 42.318241]",Point,FIRE,5,FV    ,242,C11,Last,No,WILLIS ST,Part three,Unarmed,774832.4575,,2941300.58,2014
+54414,140316792.0,Wednesday,No,2014-05-21T16:50:00.000,FIRE,"[-71.06051, 42.352066]",Point,FIRE,5,FIREB ,116,A1,First,No,OXFORD ST,Part three,Unarmed,774963.6679,,2953628.003,2014
+103464,140318407.0,Wednesday,No,2014-05-21T17:30:00.000,FIRE,"[-71.04811, 42.335256]",Point,FIRE,5,IVPREM,214,C6,First,No,GOLD ST,Part three,Other,778347.8894,,2947519.653,2014
+160156,140317124.0,Wednesday,No,2014-05-21T18:50:00.000,FIRE,"[-71.008643, 42.393294]",Point,FIRE,5,REQPF ,2,A7,First,No,WALDEMAR AV,Part three,Other,788896.8788,,2968728.664,2014
+232418,140316816.0,Wednesday,No,2014-05-21T17:01:00.000,FIRE,"[-71.076783, 42.277723]",Point,FIRE,5,FV    ,413,B3,First,No,PINE RIDGE RD,Part three,Unarmed,770699.4411,,2926513.954,2014
+248891,140316088.0,Wednesday,No,2014-05-21T12:30:00.000,FIRE,"[0, 0]",Point,FIRE,5,FV    ,15,A7,Day,No,MCCLELLAN HY,Part three,Unarmed,,SARATOGA ST,,2014

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+168003,130000745.0,Tuesday,No,2013-01-01T04:59:00.000,WEAPONS CHARGE,"[-71.06105, 42.322321]",Point,15xx,1,ARREST,186,C6,Last,No,CLAPP ST,Part Two,Knife,774873.4861,BOSTON ST,2942787.648,2013
+176630,130001892.0,Tuesday,No,2013-01-01T20:25:00.000,WEAPONS CHARGE,"[-71.05595, 42.326851]",Point,15xx,1,ARREST,914,C6,First,No,KEMP ST,Part Two,Firearm,776244.0894,OCONNOR WY,2944445.5939999996,2013

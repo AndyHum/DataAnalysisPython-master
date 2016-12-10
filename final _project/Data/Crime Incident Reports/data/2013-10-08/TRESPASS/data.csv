@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65443,130642943.0,Tuesday,No,2013-10-08T17:43:00.000,TRESPASS,"[-71.083699, 42.330436]",Point,TRESPASS,10,SSTOP ,0,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768733.8404,,2945714.085,2013
+206669,130645392.0,Tuesday,No,2013-10-08T07:00:00.000,TRESPASS,"[-71.074255, 42.348701]",Point,TRESPASS,10,TRESPS,128,D4,Last,No,CLARENDON ST,Part Two,Unarmed,771254.462,,2952382.889,2013
+242134,130647384.0,Tuesday,No,2013-10-08T06:15:00.000,TRESPASS,"[-71.0721, 42.349281]",Point,TRESPASS,10,TRESPS,128,D4,Last,No,BERKELEY ST,Part Two,Unarmed,771835.9379,,2952597.167,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82232,,Tuesday,No,2015-06-30T00:00:00.000,Aggravated Assault,"[-71.039172, 42.369431]",Point,04xx,6,STAB,29,A7,,No,MAVERICK SQ,Part One,Knife/Cutting Instrument,780697.0,,2960000.0,2015
+104061,,Tuesday,No,2015-06-30T20:56:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,PERGUN,358,C11,,No,CLAYBOURNE ST,Part One,Firearm,,,,2015
+111928,,Tuesday,No,2015-06-30T12:33:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,IVPER,289,B2,,No,MALCOLM X BLVD,Part One,Other,,,,2015

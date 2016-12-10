@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38838,142009582.0,Tuesday,No,2014-07-15T23:44:00.000,PersLoc,"[-71.089495, 42.279021]",Point,PersLoc,7,IVPER,0,B3,First,No,NORFOLK ST,Other,Unarmed,767257.0156,,2926970.155,2014
+81429,142009563.0,Tuesday,No,2014-07-15T23:00:00.000,PersLoc,"[-71.085618, 42.32866]",Point,PersLoc,7,MISSIN,0,B2,First,No,WASHINGTON ST,Other,Unarmed,768218.0809,,2945064.255,2014
+186101,142009320.0,Tuesday,No,2014-07-15T10:00:00.000,PersLoc,"[-71.080822, 42.273493]",Point,PersLoc,7,IVPER,0,B3,Day,No,BEATTY CR,Other,Unarmed,769613.8042,,2924966.8010000004,2014
+230794,142009273.0,Tuesday,No,2014-07-15T00:15:00.000,PersLoc,"[-71.112361, 42.316208]",Point,PersLoc,7,IVPER,0,E13,Last,No,ROBINWOOD AV,Other,Unarmed,761007.4093,,2940492.683,2014

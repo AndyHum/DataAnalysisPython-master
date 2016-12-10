@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58913,,Sunday,No,2015-08-09T13:15:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,297,B2,,No,WARREN ST,Part Two,None,, WAVERLY ST ,,2015
+96672,,Sunday,No,2015-08-09T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,8,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015
+180979,,Sunday,No,2015-08-09T00:00:00.000,Drug Violation,"[-71.124019, 42.256216]",Point,18xx,8,IVPREM,520,E18,,No,HYDE PARK AVE,Part Two,None,757951.0,,2920000.0,2015

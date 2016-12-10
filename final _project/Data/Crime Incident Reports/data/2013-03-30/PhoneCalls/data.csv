@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76369,130195484.0,Saturday,No,2013-03-30T13:50:00.000,PhoneCalls,"[-71.089645, 42.348856]",Point,PhoneCalls,3,THREAT,621,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,767093.9894,,2952418.985,2013
+81176,130186346.0,Saturday,No,2013-03-30T10:10:00.000,PhoneCalls,"[-71.09716, 42.3243]",Point,PhoneCalls,3,IVPER ,302,B2,Day,No,HIGHLAND ST,Part Three,Unarmed,765104.6197,,2943460.599,2013
+242888,130187249.0,Saturday,No,2013-03-30T17:30:00.000,PhoneCalls,"[-71.068642, 42.316293]",Point,PhoneCalls,3,HARPT ,258,B2,First,No,MONADNOCK ST,Part Three,Unarmed,772831.4244,,2940580.485,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91264,,Tuesday,No,2015-07-14T00:00:00.000,Aggravated Assault,"[-71.093887, 42.31275]",Point,04xx,7,PRSCRM,316,B2,,No,SEAVER ST,Part One,Blunt Object,766010.0,,2940000.0,2015
+102944,,Tuesday,No,2015-07-14T00:00:00.000,Aggravated Assault,"[-71.093489, 42.272945]",Point,04xx,7,PSHOT,425,B3,,Yes,BLUE HILL AVE,Part One,Firearm,766187.0,,2920000.0,2015
+230810,,Tuesday,No,2015-07-14T00:00:00.000,Aggravated Assault,"[-71.093441, 42.274701]",Point,04xx,7,PKNIFE,427,B3,,No,BLUE HILL AVE,Part One,Personal Weapon (hand  foot  etc.),766197.0,,2930000.0,2015

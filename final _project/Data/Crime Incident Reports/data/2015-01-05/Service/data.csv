@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23637,152001258.0,Monday,No,2015-01-05T15:00:00.000,Service,"[-71.0714, 42.303361]",Point,Service,1,ARREST,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,772109.2458,GENEVA AV,2935864.088,2015
+55788,152001306.0,Monday,No,2015-01-05T18:00:00.000,Service,"[-71.14233, 42.345051]",Point,Service,1,IVMV,0,D14,First,No,FIDELIS WY,Part three,Unarmed,752858.084,COMMONWEALTH AV,2950968.247,2015
+86717,152001285.0,Monday,No,2015-01-05T16:00:00.000,Service,"[-71.097995, 42.344496]",Point,Service,1,INVEST,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,764844.3223,,2950819.3680000002,2015
+117275,152001335.0,Monday,No,2015-01-05T17:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,1,IVPER,0,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2015
+162706,152001313.0,Monday,No,2015-01-05T18:20:00.000,Service,"[-71.08483, 42.346381]",Point,Service,1,ARREST,0,D4,First,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2015
+199369,152001272.0,Monday,No,2015-01-05T15:00:00.000,Service,"[-71.070835, 42.331511]",Point,Service,1,CD11,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2015
+203146,152001350.0,Monday,No,2015-01-05T19:45:00.000,Service,"[-71.067955, 42.366911]",Point,Service,1,ARREST,0,A1,First,No,NASHUA ST,Part three,Unarmed,772923.854,,2959027.53,2015

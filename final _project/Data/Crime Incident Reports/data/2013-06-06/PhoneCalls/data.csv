@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9496,130345218.0,Thursday,No,2013-06-06T11:00:00.000,PhoneCalls,"[-71.088294, 42.341504]",Point,PhoneCalls,6,HARPT ,618,D4,Day,No,ST STEPHEN ST,Part three,Other,767472.0844,,2949741.2860000003,2013
+155144,130376188.0,Thursday,No,2013-06-06T00:00:00.000,PhoneCalls,"[-71.15417, 42.355656]",Point,PhoneCalls,6,HARPT ,939,D14,Last,No,FANEUIL ST,Part three,Other,749641.6483,,2954819.728,2013
+249998,130388795.0,Thursday,No,2013-06-06T09:00:00.000,PhoneCalls,"[-71.07964, 42.292801]",Point,PhoneCalls,6,HARPT ,442,B3,Day,No,BERNARD ST,Part three,Unarmed,769899.1908,,2932004.771,2013

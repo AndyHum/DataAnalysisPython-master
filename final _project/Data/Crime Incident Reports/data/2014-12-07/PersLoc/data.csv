@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29993,142055559.0,Sunday,No,2014-12-07T22:00:00.000,PersLoc,"[-71.08209, 42.317721]",Point,PersLoc,12,IVPER,0,B2,First,No,WARREN ST,Other,Unarmed,769191.8313,,2941082.752,2014
+43909,142055555.0,Sunday,No,2014-12-07T22:20:00.000,PersLoc,"[-71.094985, 42.287311]",Point,PersLoc,12,IVPER,0,B3,First,No,W MAIN ST,Other,Unarmed,765756.9871,,2929984.047,2014
+195647,142055565.0,Sunday,No,2014-12-07T23:25:00.000,PersLoc,"[-71.094678, 42.319428]",Point,PersLoc,12,IVPER,0,B2,First,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2014
+201889,142055548.0,Sunday,No,2014-12-07T21:13:00.000,PersLoc,"[-71.063905, 42.312206]",Point,PersLoc,12,IVPER,0,C11,First,No,HANCOCK ST,Other,Unarmed,774120.2529,,2939097.619,2014

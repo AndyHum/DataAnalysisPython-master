@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22702,130513544.0,Thursday,No,2013-08-15T17:27:00.000,Ballist,"[-71.07952, 42.313481]",Point,Ballist,8,IVPREM,326,B2,First,No,BLUE HILL AV,Part Two,Other,769894.5069,LAWRENCE AV,2939541.042,2013
+76245,130515006.0,Thursday,No,2013-08-15T21:30:00.000,Ballist,"[-71.07041, 42.303216]",Point,Ballist,8,FDWEAP,342,C11,First,No,LEVANT ST,Part Two,Unarmed,772377.3177,,2935812.595,2013
+164505,130514110.0,Thursday,No,2013-08-15T21:35:00.000,Ballist,"[-71.07301, 42.298441]",Point,Ballist,8,SHOTS ,357,C11,First,No,DAKOTA ST,Part Two,Firearm,771682.6957,WASHINGTON ST,2934068.981,2013
+167934,130512828.0,Thursday,No,2013-08-15T11:46:00.000,Ballist,"[-71.090319, 42.313599]",Point,Ballist,8,FDWEAP,314,B2,Day,No,CRAWFORD ST,Part Two,Unarmed,766973.4358,,2939569.644,2013

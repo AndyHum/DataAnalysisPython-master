@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102339,142039193.0,Wednesday,No,2014-10-15T08:13:00.000,Arrest,"[-71.057015, 42.376816]",Point,Arrest,10,ARREST,0,A15,Day,No,BUNKER HILL ST,Part three,Other,775861.5371,,2962652.2789999996,2014
+163492,142039208.0,Wednesday,No,2014-10-15T09:17:00.000,Arrest,"[-71.06028, 42.306752]",Point,Arrest,10,ARREST,0,C11,Day,No,HECLA ST,Part three,Unarmed,775110.7209999999,,2937115.057,2014
+247758,142039202.0,Wednesday,No,2014-10-15T08:50:00.000,Arrest,"[-71.08892, 42.27058]",Point,Arrest,10,ARREST,0,B3,Day,No,MAMELON CR,Part three,Unarmed,767427.2577,,2923894.7660000003,2014
+256582,142039462.0,Wednesday,No,2014-10-15T21:30:00.000,Arrest,"[-71.020186, 42.383399]",Point,Arrest,10,IVPER,0,A7,First,No,CHAUCER ST,Part three,Unarmed,785798.952,,2965104.9280000003,2014

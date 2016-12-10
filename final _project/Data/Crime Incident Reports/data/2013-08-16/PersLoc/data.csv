@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23395,130517469.0,Friday,No,2013-08-16T14:00:00.000,PersLoc,"[-71.070835, 42.331511]",Point,PersLoc,8,MISPER,177,C6,Day,No,MASSACHUSETTS AV,Other,Unarmed,772210.4703,,2946123.1760000004,2013
+33045,130517563.0,Friday,No,2013-08-16T16:00:00.000,PersLoc,"[-71.072995, 42.304498]",Point,PersLoc,8,MISPER,462,C11,First,No,GENEVA AV,Other,Unarmed,771675.6285,,2936276.22,2013
+66757,130516984.0,Friday,No,2013-08-16T07:00:00.000,PersLoc,"[-71.092561, 42.311882]",Point,PersLoc,8,MISPER,316,B2,Last,No,HUTCHINGS ST,Other,Unarmed,766369.8625,,2938941.191,2013
+100493,130516565.0,Friday,No,2013-08-16T15:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,8,MISPER,446,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2013
+105371,130525016.0,Friday,No,2013-08-16T12:00:00.000,PersLoc,"[-71.054486, 42.32689]",Point,PersLoc,8,MISPER,190,C6,Day,No,STERLING SQ,Other,Unarmed,776639.7695,,2944461.602,2013
+193021,130518323.0,Friday,No,2013-08-16T07:00:00.000,PersLoc,"[-71.060271, 42.307553]",Point,PersLoc,8,MISPER,347,C11,Last,No,EAST ST,Other,Unarmed,775111.7335,,2937407.012,2013
+238009,130525587.0,Friday,No,2013-08-16T18:00:00.000,PersLoc,"[-71.06838, 42.300241]",Point,PersLoc,8,MISPER,357,C11,First,No,BOYD ST,Other,Unarmed,772931.9449,,2934731.232,2013

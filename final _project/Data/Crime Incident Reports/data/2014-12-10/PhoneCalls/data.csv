@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115950,142056325.0,Wednesday,No,2014-12-10T17:59:00.000,PhoneCalls,"[-71.130451, 42.35065]",Point,PhoneCalls,12,IVPER,0,D14,First,No,COMMONWEALTH AV,Part Two,Unarmed,756060.5505,,2953022.06,2014
+191267,142056361.0,Wednesday,No,2014-12-10T20:42:00.000,PhoneCalls,"[-71.066885, 42.276566]",Point,PhoneCalls,12,IVPER,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,773380.1887,,2926105.7789999996,2014
+212304,142056323.0,Wednesday,No,2014-12-10T17:36:00.000,PhoneCalls,"[-71.169645, 42.349737]",Point,PhoneCalls,12,IVPER,0,D14,First,No,NONANTUM ST,Part three,Unarmed,745467.0129,,2952646.1180000002,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48199,130636323.0,Saturday,No,2013-10-05T21:00:00.000,FORGERY,"[-71.05582, 42.360091]",Point,10xx,10,ARREST,91,A1,First,No,FANEUIL HALL SQ,Part Two,Unarmed,776216.1627,,2956559.0330000003,2013
+116462,130637654.0,Saturday,No,2013-10-05T15:00:00.000,FORGERY,"[0, 0]",Point,10xx,10,IVPER ,550,E5,Day,No,MERCEDES VIEW,Part Two,Unarmed,,,,2013
+234016,130649018.0,Saturday,No,2013-10-05T12:00:00.000,FORGERY,"[-71.059755, 42.301741]",Point,10xx,10,IVPER ,351,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775262.4031,,2935289.7789999996,2013

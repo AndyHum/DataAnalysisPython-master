@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87709,140002375.0,Wednesday,No,2014-01-01T08:00:00.000,PhoneCalls,"[-71.053313, 42.376979]",Point,PhoneCalls,1,HARPT ,38,A15,Day,No,9TH ST,Part three,Unarmed,776861.4528,,2962716.724,2014
+118833,142016330.0,Wednesday,No,2014-01-01T12:00:00.000,PhoneCalls,"[-71.025635, 42.380611]",Point,PhoneCalls,1,IVPER,0,A7,Day,No,SARATOGA ST,Part three,Other,784332.6485,,2964080.848,2014
+193250,140001732.0,Wednesday,No,2014-01-01T00:10:00.000,PhoneCalls,"[-71.103345, 42.264086]",Point,PhoneCalls,1,IVPER ,485,E18,Last,No,THORN ST,Part three,Unarmed,763534.2872,,2921509.905,2014
+213627,140172547.0,Wednesday,No,2014-01-01T08:00:00.000,PhoneCalls,"[-71.08939, 42.345876]",Point,PhoneCalls,1,HARPT ,620,D4,Day,No,HEMENWAY ST,Part three,Unarmed,767168.1477,,2951333.347,2014
+225389,142048976.0,Wednesday,No,2014-01-01T00:00:00.000,PhoneCalls,"[-71.03561, 42.371676]",Point,PhoneCalls,1,MISC,0,A7,Last,No,BREMEN ST,Part three,Unarmed,781655.3152,,2960809.9239999996,2014
+229377,152014881.0,Wednesday,No,2014-01-01T17:00:00.000,PhoneCalls,"[-71.06543, 42.348736]",Point,PhoneCalls,1,IVPER,0,A1,First,No,TREMONT ST,Part three,Other,773639.9559,,2952407.6739999996,2014
+237417,140374093.0,Wednesday,No,2014-01-01T09:00:00.000,PhoneCalls,"[-71.098425, 42.320071]",Point,PhoneCalls,1,HARPT ,304,E13,Day,No,COLUMBUS AV,Part three,Other,764769.9832,,2941917.909,2014

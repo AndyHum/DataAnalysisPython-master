@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61546,142024450.0,Saturday,No,2014-08-30T12:09:00.000,InvProp,"[-71.12874, 42.277771]",Point,InvProp,8,ALARM,0,E5,Day,No,GRANADA AV,Part three,Unarmed,756638.65,,2926465.9680000003,2014
+115529,142024446.0,Saturday,No,2014-08-30T11:07:00.000,InvProp,"[-71.07936, 42.349221]",Point,InvProp,8,IVPREM,0,D4,Day,No,EXETER ST,Part three,Unarmed,769873.5524,,2952565.54,2014
+242409,142024507.0,Saturday,No,2014-08-30T15:01:00.000,InvProp,"[-71.03015, 42.337401]",Point,InvProp,8,IVPREM,0,C6,Day,No,E 2ND ST,Part three,Unarmed,783199.5198,,2948327.564,2014
+259440,142024511.0,Saturday,No,2014-08-30T15:49:00.000,InvProp,"[-71.102265, 42.333311]",Point,InvProp,8,ALARM,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763708.9912,,2946737.934,2014

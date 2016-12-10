@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9516,130816246.0,Sunday,No,2013-12-29T08:00:00.000,Arrest,"[-71.095871, 42.27062]",Point,Arrest,12,CD11  ,476,B3,Day,No,REGIS RD,Part three,Unarmed,765545.9498,,2923900.313,2013
+86218,130816692.0,Sunday,No,2013-12-29T13:36:00.000,Arrest,"[-71.074105, 42.350961]",Point,Arrest,12,ARREST,129,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771290.8973,,2953206.6780000003,2013
+253810,130816381.0,Sunday,No,2013-12-29T12:30:00.000,Arrest,"[-71.06575, 42.325491]",Point,Arrest,12,CD19  ,186,C6,Day,No,MASSACHUSETTS AV,Part three,Other,773596.582,,2943936.3439999996,2013

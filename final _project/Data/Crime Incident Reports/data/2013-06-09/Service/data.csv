@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31033,130349930.0,Sunday,No,2013-06-09T10:38:00.000,Service,"[-71.057645, 42.312891]",Point,Service,6,TSTOP ,0,C11,Day,No,SAVIN HILL AV,Part three,Unarmed,775812.1251,,2939355.962,2013
+44623,130349816.0,Sunday,No,2013-06-09T09:20:00.000,Service,"[-71.07519, 42.273401]",Point,Service,6,ARREST,0,B3,Day,No,SANFORD ST,Part three,Unarmed,771138.3799,,2924941.108,2013
+106144,130350760.0,Sunday,No,2013-06-09T17:39:00.000,Service,"[-71.063675, 42.352301]",Point,Service,6,ARREST,111,A1,First,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+127459,130349516.0,Sunday,No,2013-06-09T03:15:00.000,Service,"[-71.073978, 42.333151]",Point,Service,6,ARREST,169,D4,Last,No,ALBANY ST,Part three,Unarmed,771357.6081,,2946716.26,2013
+134688,130371007.0,Sunday,No,2013-06-09T12:00:00.000,Service,"[-71.05467, 42.329706]",Point,Service,6,IVPER ,193,C6,Day,No,WARD ST,Part three,Unarmed,776584.7840000001,,2945487.809,2013
+141417,130350306.0,Sunday,No,2013-06-09T14:01:00.000,Service,"[-71.0766, 42.292751]",Point,Service,6,ARREST,448,B3,Day,No,MILLET ST,Part three,Unarmed,770721.7752,WHEATLAND AV,2931990.619,2013
+189064,130350877.0,Sunday,No,2013-06-09T17:00:00.000,Service,"[-71.03926, 42.368586]",Point,Service,6,CD11  ,29,A7,First,No,SUMNER ST,Part three,Unarmed,780675.0997,,2959678.517,2013
+205013,130349943.0,Sunday,No,2013-06-09T09:57:00.000,Service,"[-71.04776, 42.336821]",Point,Service,6,IVPER ,200,C6,Day,No,W BROADWAY,Part three,Unarmed,778439.4938,F ST,2948090.4669999997,2013
+236945,130352365.0,Sunday,No,2013-06-09T13:30:00.000,Service,"[-71.093783, 42.346092]",Point,Service,6,STOLMV,624,D4,Day,No,BOYLSTON ST,Part three,Other,765979.9657,,2951406.105,2013

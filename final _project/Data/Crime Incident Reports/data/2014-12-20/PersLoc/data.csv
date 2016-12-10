@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86414,142059444.0,Saturday,No,2014-12-20T10:00:00.000,PersLoc,"[-71.06827, 42.303356]",Point,PersLoc,12,IVPER,0,C11,Day,No,TOPLIFF ST,Other,Unarmed,772955.9566,,2935866.535,2014
+157356,142059164.0,Saturday,No,2014-12-20T00:45:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,12,IVPER,0,B3,Last,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2014
+173956,142059289.0,Saturday,No,2014-12-20T13:50:00.000,PersLoc,"[-71.085978, 42.296806]",Point,PersLoc,12,MISSIN,0,B3,Day,No,ABBOT ST,Other,Unarmed,768177.1099,,2933455.566,2014
+201112,142059588.0,Saturday,No,2014-12-20T16:00:00.000,PersLoc,"[-71.067175, 42.316924]",Point,PersLoc,12,MISSIN,0,B2,First,No,VIRGINIA ST,Other,Unarmed,773226.8846,,2940812.425,2014

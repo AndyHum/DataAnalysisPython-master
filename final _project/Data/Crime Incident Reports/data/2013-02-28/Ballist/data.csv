@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133393,130122676.0,Thursday,No,2013-02-28T15:00:00.000,Ballist,"[-71.0526, 42.316566]",Point,Ballist,2,FDPROP,245,C11,Day,No,SYDNEY ST,Part Two,Unarmed,777169.627,,2940702.307,2013
+245693,130122159.0,Thursday,No,2013-02-28T14:00:00.000,Ballist,"[-71.059735, 42.297541]",Point,Ballist,2,FDPROP,355,C11,Day,No,GIBSON ST,Part Two,Other,775275.7115,,2933759.268,2013

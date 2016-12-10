@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+184304,,Thursday,No,2015-06-25T00:00:00.000,Missing Person Located,"[-71.085879, 42.321013]",Point,PersFound,6,IVPER,305,B2,,No,WALNUT AVE,Part Three,None,768161.0,,2940000.0,2015
+208772,,Thursday,No,2015-06-25T00:00:00.000,Missing Person Located,"[-71.077683, 42.286237]",Point,PersFound,6,I00027,435,B3,,No,EDSON ST,Part Three,None,770440.0,,2930000.0,2015
+237011,,Thursday,No,2015-06-25T00:00:00.000,Missing Person Located,"[-71.066817, 42.292021]",Point,PersFound,6,IVPER,361,C11,,No,ALLSTON ST,Part Three,None,773370.0,,2930000.0,2015

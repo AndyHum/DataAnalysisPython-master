@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14542,130530478.0,Thursday,No,2013-08-22T13:30:00.000,PropFound,"[-71.08257, 42.348656]",Point,PropFound,8,LARCRT,143,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2013
+172608,130530032.0,Thursday,No,2013-08-22T10:30:00.000,PropFound,"[-71.06799, 42.347981]",Point,PropFound,8,IVPER ,126,A1,Day,No,TREMONT ST,Part three,Unarmed,772949.335,TREMONT ST,2952129.023,2013
+252963,130529487.0,Thursday,No,2013-08-22T08:25:00.000,PropFound,"[-71.083356, 42.328162]",Point,PropFound,8,IVPREM,311,B2,Day,No,WARREN ST,Part three,Unarmed,768830.7785,,2944885.93,2013
+261943,130540051.0,Thursday,No,2013-08-22T19:00:00.000,PropFound,"[0, 0]",Point,PropFound,8,LARCRT,321,B2,First,No,INTERVALE ST,Part three,Unarmed,,,,2013

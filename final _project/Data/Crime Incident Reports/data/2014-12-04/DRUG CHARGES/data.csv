@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134716,142054627.0,Thursday,No,2014-12-04T14:20:00.000,DRUG CHARGES,"[-71.064015, 42.348681]",Point,18xx,12,IVPREM,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774022.5582,,2952389.583,2014
+221421,142054631.0,Thursday,No,2014-12-04T06:45:00.000,DRUG CHARGES,"[-71.075014, 42.312942]",Point,18xx,12,INVEST,0,B2,Last,No,QUINCY ST,Part Two,Unarmed,771114.0397,,2939350.459,2014
+227818,142054573.0,Thursday,No,2014-12-04T11:12:00.000,DRUG CHARGES,"[-71.090384, 42.326138]",Point,18xx,12,EDP,0,B2,Day,No,LOGAN ST,Part Two,Unarmed,766933.9037,,2944139.055,2014

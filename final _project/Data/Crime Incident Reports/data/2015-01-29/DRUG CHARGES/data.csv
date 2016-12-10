@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14553,152007846.0,Thursday,No,2015-01-29T20:00:00.000,DRUG CHARGES,"[-71.07463, 42.335321]",Point,18xx,1,SS,0,D4,First,No,HARRISON AV,Part Two,Unarmed,771177.4087,,2947506.466,2015
+28144,152007702.0,Thursday,No,2015-01-29T12:45:00.000,DRUG CHARGES,"[-71.08042, 42.296381]",Point,18xx,1,ARREST,0,B3,Day,No,HARVARD ST,Part Two,Unarmed,769681.7385,WARNER ST,2933308.338,2015
+86281,152007600.0,Thursday,No,2015-01-29T01:00:00.000,DRUG CHARGES,"[-71.06293, 42.351166]",Point,18xx,1,ARREST,0,A1,Last,No,WASHINGTON ST,Part Two,Unarmed,774311.2131,,2953296.665,2015
+220844,152007763.0,Thursday,No,2015-01-29T00:00:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,1,IVPREM,0,E18,Last,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2015
+261637,152007720.0,Thursday,No,2015-01-29T12:00:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,IVPREM,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,,,,2015
+262311,152007721.0,Thursday,No,2015-01-29T14:00:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,IVPREM,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,,,,2015
+264397,152007691.0,Thursday,No,2015-01-29T15:00:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,IVPER,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,,,,2015

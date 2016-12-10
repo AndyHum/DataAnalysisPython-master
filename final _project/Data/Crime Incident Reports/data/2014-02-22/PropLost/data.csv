@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5658,140113362.0,Saturday,No,2014-02-22T17:30:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,2,LARCRT,186,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+72161,140114224.0,Saturday,No,2014-02-22T23:30:00.000,PropLost,"[-71.094124, 42.347355]",Point,PropLost,2,LSTPRP,624,D4,First,No,IPSWICH ST,Part three,Unarmed,765885.7661,,2951866.0330000003,2014
+118556,140112094.0,Saturday,No,2014-02-22T22:25:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,2,LSTPRP,612,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2014
+198736,140116019.0,Saturday,No,2014-02-22T18:30:00.000,PropLost,"[-71.086655, 42.348466]",Point,PropLost,2,LSTPRP,141,D4,First,No,NEWBURY ST,Part three,Unarmed,767902.9271,,2952280.765,2014
+229672,140119624.0,Saturday,No,2014-02-22T21:30:00.000,PropLost,"[-71.061515, 42.365357]",Point,PropLost,2,LSTPRP,76,A1,First,No,CAUSEWAY ST,Part three,Other,774666.9647,,2958469.934,2014
+260663,140111560.0,Saturday,No,2014-02-22T16:45:00.000,PropLost,"[0, 0]",Point,PropLost,2,INVEST,28,A7,First,No,MAVERICK SQ,Part three,Other,,,,2014
+262642,140117960.0,Saturday,No,2014-02-22T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,263,A15,Day,No,BLUE HILL AV,Part three,Unarmed,,,,2014

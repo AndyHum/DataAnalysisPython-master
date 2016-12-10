@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71985,130675268.0,Wednesday,No,2013-10-23T08:47:00.000,Restrain,"[-71.14574, 42.358606]",Point,Restrain,10,DISTRB,805,D14,Day,No,LINCOLN ST,Part Two,Unarmed,751915.7264,,2955904.123,2013
+92232,130675624.0,Wednesday,No,2013-10-23T08:24:00.000,Restrain,"[-71.143712, 42.252926]",Point,Restrain,10,IVPER ,536,E18,Day,No,JOAN RD,Part Two,Unarmed,752624.5957,,2917394.5110000004,2013
+158067,130675272.0,Wednesday,No,2013-10-23T08:30:00.000,Restrain,"[-71.106683, 42.320865]",Point,Restrain,10,VIORDR,578,E13,Day,No,FORBES ST,Part Two,Unarmed,762535.1284,,2942196.902,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+183040,140318585.0,Thursday,No,2014-05-22T11:34:00.000,Ballist,"[-71.013472, 42.390952]",Point,Ballist,5,FDPROP,15,A7,Day,No,MCCLELLAN HY,Part Two,Unarmed,787597.2436,,2967867.869,2014
+198962,140318773.0,Thursday,No,2014-05-22T12:35:00.000,Ballist,"[-71.06705, 42.289071]",Point,Ballist,5,SHOTS ,397,C11,Day,No,TALBOT AV,Part Two,Firearm,773312.4041,WELLES AV,2930662.545,2014
+235045,140320190.0,Thursday,No,2014-05-22T23:32:00.000,Ballist,"[-71.074809, 42.308575]",Point,Ballist,5,SHOTS ,328,B2,First,No,COLUMBIA RD,Part Two,Firearm,771177.5147,,2937759.292,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135776,130743397.0,Saturday,No,2013-11-23T14:24:00.000,FORGERY,"[-71.086215, 42.343382]",Point,10xx,11,LARCIP,619,D4,Day,No,WESTLAND AV,Part Two,Unarmed,768030.7109,,2950428.4460000005,2013
+158871,130760204.0,Saturday,No,2013-11-23T13:09:00.000,FORGERY,"[-71.08487, 42.303971]",Point,10xx,11,IVPER ,330,B2,Day,No,BLUE HILL AV,Part Two,Unarmed,768464.3646,,2936068.3589999997,2013
+243168,130790861.0,Saturday,No,2013-11-23T18:37:00.000,FORGERY,"[-71.081633, 42.318648]",Point,10xx,11,IVPER ,311,B2,First,No,WARREN ST,Part Two,Unarmed,769313.7572,,2941421.212,2013

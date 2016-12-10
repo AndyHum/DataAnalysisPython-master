@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96160,140282626.0,Thursday,No,2014-05-08T10:46:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,5,FDPROP,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+97358,140283351.0,Thursday,No,2014-05-08T15:12:00.000,PropFound,"[-71.063691, 42.287957]",Point,PropFound,5,FDPROP,393,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774223.1395,,2930260.961,2014
+187157,140285209.0,Thursday,No,2014-05-08T12:00:00.000,PropFound,"[-71.07738, 42.350061]",Point,PropFound,5,FDPROP,130,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2014
+195368,140288837.0,Thursday,No,2014-05-08T15:30:00.000,PropFound,"[-71.124361, 42.28369]",Point,PropFound,5,LSTPRP,561,E5,Day,No,CUMMINS HY,Part three,Unarmed,757814.1441,,2928627.903,2014
+205357,140284463.0,Thursday,No,2014-05-08T19:45:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,5,LSTPRP,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+219142,140282390.0,Thursday,No,2014-05-08T09:30:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,5,FDPROP,574,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+255037,140283702.0,Thursday,No,2014-05-08T17:30:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,5,FDPROP,465,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014

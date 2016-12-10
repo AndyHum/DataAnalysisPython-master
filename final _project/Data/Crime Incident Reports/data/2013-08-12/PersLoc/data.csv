@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57320,130508415.0,Monday,No,2013-08-12T12:00:00.000,PersLoc,"[-71.07475, 42.291236]",Point,PersLoc,8,MSNCOM,449,B3,Day,No,ASPINWALL RD,Other,Unarmed,771225.0582,,2931441.021,2013
+106086,130506778.0,Monday,No,2013-08-12T17:35:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,8,MISPER,446,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2013
+124312,130505996.0,Monday,No,2013-08-12T15:45:00.000,PersLoc,"[-71.04979, 42.332491]",Point,PersLoc,8,INVCHD,217,C6,Day,No,KNOWLTON ST,Other,Unarmed,777898.9746,,2946509.637,2013
+134288,130506499.0,Monday,No,2013-08-12T14:00:00.000,PersLoc,"[-71.131009, 42.27649]",Point,PersLoc,8,MISPER,551,E5,Day,No,CORNELL ST,Other,Unarmed,756026.5856,,2925996.39,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151229,120577093.0,Friday,No,2012-09-14T17:34:00.000,Arrest,"[-71.11303, 42.30488]",Point,Arrest,9,ARREST,651,E13,First,No,HALL ST,Part Three,Other,760845.1689,,2936363.647,2012
+181519,120575886.0,Friday,No,2012-09-14T08:58:00.000,Arrest,"[-71.0663, 42.315106]",Point,Arrest,9,ARREST,332,B2,Day,No,WHEELOCK AV,Part Three,Unarmed,773467.0934,,2940151.122,2012
+235099,120576697.0,Friday,No,2012-09-14T14:38:00.000,Arrest,"[-71.0684, 42.362151]",Point,Arrest,9,PRIOR ,0,A1,Day,No,PARKMAN ST,Part Three,Unarmed,772812.3743,,2957292.2830000003,2012
+237384,120576176.0,Friday,No,2012-09-14T11:45:00.000,Arrest,"[-71.04625, 42.354256]",Point,Arrest,9,CD5   ,207,C6,Day,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012

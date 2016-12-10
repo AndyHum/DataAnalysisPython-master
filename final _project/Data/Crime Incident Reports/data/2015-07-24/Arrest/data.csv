@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10071,,Friday,No,2015-07-24T00:00:00.000,Warrant Arrests,"[-71.04639, 42.354048]",Point,Arrest,7,CD11,207,C6,,No,COURTHOUSE WAY,Part Three,None,778776.0,,2950000.0,2015
+96603,,Friday,No,2015-07-24T00:00:00.000,Warrant Arrests,"[-71.095566, 42.319094]",Point,Arrest,7,ARREST,304,B2,,No,DIMOCK ST,Part Three,None,765545.0,NOTRE DAME ST,2940000.0,2015
+198833,,Friday,No,2015-07-24T20:13:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,296,B2,,No,DUNREATH ST,Part Three,None,,WARREN ST,,2015
+227823,,Friday,No,2015-07-24T00:00:00.000,Warrant Arrests,"[-71.065945, 42.291093]",Point,Arrest,7,ARREST,397,C11,,No,MELBOURNE ST,Part Three,None,773607.0,,2930000.0,2015

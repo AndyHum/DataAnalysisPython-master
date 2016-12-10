@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5643,130200587.0,Friday,No,2013-04-05T02:00:00.000,PropLost,"[-71.070625, 42.361461]",Point,PropLost,4,INVEST,64,A1,Last,No,CHARLES ST,Part Three,Unarmed,772212.3098,,2957037.798,2013
+54606,130202405.0,Friday,No,2013-04-05T23:00:00.000,PropLost,"[-71.069527, 42.351443]",Point,PropLost,4,LARCRT,120,A1,First,No,PARK PLAZA,Part Three,Unarmed,772527.4805,BOYLSTON ST,2953388.3860000004,2013
+69939,130299126.0,Friday,No,2013-04-05T13:00:00.000,PropLost,"[-71.037909, 42.373095]",Point,PropLost,4,LSTPRP,22,A7,Day,No,HAVRE ST,Part Three,Unarmed,781031.1626,,2961323.418,2013
+161629,130213734.0,Friday,No,2013-04-05T00:00:00.000,PropLost,"[-71.140345, 42.358801]",Point,PropLost,4,LSTPRP,808,D14,Last,No,ANTWERP ST,Part Three,Unarmed,753373.5703,,2955981.285,2013
+174533,130207211.0,Friday,No,2013-04-05T15:00:00.000,PropLost,"[-71.088738, 42.346309]",Point,PropLost,4,LSTPRP,620,D4,Day,No,HAVILAND ST,Part Three,Unarmed,767343.5085,,2951492.037,2013
+201068,130201103.0,Friday,No,2013-04-05T20:30:00.000,PropLost,"[-71.066815, 42.344741]",Point,PropLost,4,LSTPRP,162,D4,First,No,SHAWMUT AV,Part Three,Unarmed,773272.9586,,2950949.918,2013
+245287,130208457.0,Friday,No,2013-04-05T07:35:00.000,PropLost,"[-71.101383, 42.324122]",Point,PropLost,4,LSTPRP,912,E13,Day,No,PARKER ST,Part Three,Unarmed,763963.0763,,2943390.236,2013
+250424,130216313.0,Friday,No,2013-04-05T01:00:00.000,PropLost,"[-71.13241, 42.353026]",Point,PropLost,4,LSTPRP,802,D14,Last,No,BRIGHTON AV,Part Three,Unarmed,755527.2809,,2953885.8989999997,2013

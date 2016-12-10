@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3209,152029299.0,Saturday,No,2015-04-11T02:13:00.000,Argue,"[0, 0]",Point,Argue,4,DVIP,0,D4,Last,No,MARLBOROUGH ST,Part three,Unarmed,,,,2015
+47219,152029506.0,Saturday,No,2015-04-11T19:31:00.000,Argue,"[-71.06724, 42.281356]",Point,Argue,4,IVPREM,0,C11,First,No,BARNA RD,Part three,Unarmed,773275.2592,,2927850.832,2015
+129767,152029636.0,Saturday,No,2015-04-11T10:30:00.000,Argue,"[-71.119501, 42.266268]",Point,Argue,4,DISTRB,0,E18,Day,No,THATCHER ST,Part three,Unarmed,759157.5807,,2922284.952,2015
+135168,152029469.0,Saturday,No,2015-04-11T17:27:00.000,Argue,"[-71.059655, 42.282498]",Point,Argue,4,NIDV,0,C11,First,No,VERDUN ST,Part three,Unarmed,775325.4453,,2928277.345,2015
+181578,152029285.0,Saturday,No,2015-04-11T01:25:00.000,Argue,"[-71.069555, 42.272641]",Point,Argue,4,FIGHT,0,C11,Last,No,WASHINGTON ST,Part three,Unarmed,772664.8342,,2924671.8,2015

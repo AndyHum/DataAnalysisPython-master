@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61316,120536171.0,Tuesday,No,2012-08-28T08:31:00.000,Service,"[-71.063193, 42.309205]",Point,Service,8,IVPER ,338,C11,Day,No,FIFIELD ST,Part Three,Unarmed,774318.302,,2938004.934,2012
+97815,120536594.0,Tuesday,No,2012-08-28T12:14:00.000,Service,"[-71.051305, 42.334636]",Point,Service,8,CD11  ,200,C6,Day,No,W 7TH ST,Part Three,Unarmed,777485.2265,,2947289.1539999996,2012
+112270,120536890.0,Tuesday,No,2012-08-28T14:28:00.000,Service,"[-71.063785, 42.349246]",Point,Service,8,ARREST,123,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774083.6785,,2952595.797,2012
+187978,120538504.0,Tuesday,No,2012-08-28T19:30:00.000,Service,"[-71.046717, 42.336149]",Point,Service,8,ARREST,222,C6,First,No,W BROADWAY,Part Three,Unarmed,778722.6466,,2947847.002,2012

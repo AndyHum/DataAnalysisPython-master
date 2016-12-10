@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43669,140193487.0,Monday,No,2014-03-31T09:00:00.000,InvProp,"[-71.07243, 42.349951]",Point,InvProp,3,INVEST,129,D4,Day,No,BERKELEY ST,Part three,Other,771745.5102,,2952840.88,2014
+58755,140194746.0,Monday,No,2014-03-31T21:58:00.000,InvProp,"[-71.07787, 42.288031]",Point,InvProp,3,REQP  ,437,B3,First,No,NORFOLK ST,Part three,Unarmed,770386.6797,WOODROW AV,2930268.88,2014
+93000,140194562.0,Monday,No,2014-03-31T20:26:00.000,InvProp,"[-71.026285, 42.335791]",Point,InvProp,3,BEIP  ,228,C6,First,No,E BROADWAY,Part three,Unarmed,784247.7425,,2947746.6339999996,2014
+117822,140194883.0,Monday,No,2014-03-31T23:39:00.000,InvProp,"[-71.09968, 42.319041]",Point,InvProp,3,SHOTS ,303,E13,First,No,BRAGDON ST,Part three,Other,764432.3417,MILES ST,2941540.9639999997,2014
+222861,140192772.0,Monday,No,2014-03-31T02:18:00.000,InvProp,"[-71.08516, 42.336631]",Point,InvProp,3,PARTY ,285,D4,Last,No,TREMONT ST,Part three,Unarmed,768328.0322,,2947969.832,2014
+257807,140194742.0,Monday,No,2014-03-31T21:56:00.000,InvProp,"[-71.08282, 42.296196]",Point,InvProp,3,IVPREM,441,B3,First,No,HARVARD ST,Part three,Other,769032.7673,,2933237.736,2014

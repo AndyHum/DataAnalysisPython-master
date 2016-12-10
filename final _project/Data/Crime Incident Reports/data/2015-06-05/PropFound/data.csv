@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2541,152046543.0,Friday,No,2015-06-05T16:30:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,,,,2015
+3289,152047414.0,Friday,No,2015-06-05T00:00:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,A7,Last,No,MERIDIAN ST,Part three,Unarmed,,,,2015
+32152,152046412.0,Friday,No,2015-06-05T08:50:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,6,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+113743,152046517.0,Friday,No,2015-06-05T15:15:00.000,PropFound,"[-71.06884, 42.339941]",Point,PropFound,6,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772734.3721,PLYMPTON ST,2949197.937,2015
+117194,152046496.0,Friday,No,2015-06-05T13:35:00.000,PropFound,"[-71.05697, 42.298096]",Point,PropFound,6,PROP,0,C11,Day,No,ADAMS ST,Part three,Unarmed,776022.6969,GIBSON ST,2933965.3880000003,2015
+202824,152046433.0,Friday,No,2015-06-05T09:49:00.000,PropFound,"[-71.061095, 42.319491]",Point,PropFound,6,IVPREM,0,C11,Day,No,SUMNER ST,Part three,Unarmed,774866.6238,,2941756.288,2015
+257418,152046518.0,Friday,No,2015-06-05T15:15:00.000,PropFound,"[-71.055385, 42.318131]",Point,PropFound,6,PROP,0,C11,Day,No,GRANT ST,Part three,Unarmed,776413.4353,,2941268.6789999995,2015

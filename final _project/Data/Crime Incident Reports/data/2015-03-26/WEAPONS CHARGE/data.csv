@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70912,152024511.0,Thursday,No,2015-03-26T11:35:00.000,WEAPONS CHARGE,"[-71.055155, 42.338841]",Point,15xx,3,ARREST,0,C6,Day,No,DALESSIO CT,Part Two,Knife,776436.2784,,2948816.0760000004,2015
+200244,152024645.0,Thursday,No,2015-03-26T18:20:00.000,WEAPONS CHARGE,"[-71.070025, 42.293786]",Point,15xx,3,TS,0,C11,First,No,MELVILLE AV,Part Two,Firearm,772498.7866,,2932376.689,2015
+205232,152024515.0,Thursday,No,2015-03-26T12:50:00.000,WEAPONS CHARGE,"[-71.06638, 42.317606]",Point,15xx,3,ARREST,0,B2,Day,No,DUDLEY ST,Part Two,Firearm,773440.8251,BELDEN ST,2941062.0519999997,2015

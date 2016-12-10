@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114293,140336978.0,Thursday,No,2014-05-29T21:36:00.000,WEAPONS CHARGE,"[-71.08575, 42.301251]",Point,15xx,5,IVPER ,458,B3,First,No,BLUE HILL AV,Part Two,Unarmed,768231.1309999999,MCLELLAN ST,2935075.992,2014
+139932,140335892.0,Thursday,No,2014-05-29T14:00:00.000,WEAPONS CHARGE,"[-71.072298, 42.304718]",Point,15xx,5,ARREST,348,C11,Day,No,EVERTON ST,Part Two,Firearm,771863.6868,,2936357.135,2014
+245538,140336720.0,Thursday,No,2014-05-29T19:44:00.000,WEAPONS CHARGE,"[-71.13836, 42.351451]",Point,15xx,5,IVDRUG,795,D14,First,No,HIGH ROCK WY,Part Two,Unarmed,753921.4248,IMRIE RD,2953305.062,2014

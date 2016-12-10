@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8960,130501340.0,Saturday,No,2013-08-10T08:00:00.000,PropLost,"[-71.04376, 42.319041]",Point,PropLost,8,LSTPRP,256,C6,Day,No,HARBOR POINT BL,Part three,Unarmed,779555.6265,,2941616.9,2013
+52591,130593168.0,Saturday,No,2013-08-10T12:00:00.000,PropLost,"[-71.054711, 42.341305]",Point,PropLost,8,LSTPRP,200,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+76361,130504327.0,Saturday,No,2013-08-10T22:30:00.000,PropLost,"[-71.068604, 42.296414]",Point,PropLost,8,LSTPRP,359,C11,First,No,PARK ST,Part three,Unarmed,772878.4023,,2933336.3010000004,2013
+87896,130522908.0,Saturday,No,2013-08-10T16:00:00.000,PropLost,"[-71.126256, 42.241229]",Point,PropLost,8,LSTPRP,525,E18,First,No,TRUMAN PY,Part three,Other,757369.1604,,2913152.458,2013
+116084,130501139.0,Saturday,No,2013-08-10T12:30:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,8,LSTPRP,111,A1,Day,No,TREMONT ST,Part three,Unarmed,773924.729,,2953989.2660000003,2013
+133431,130503271.0,Saturday,No,2013-08-10T16:00:00.000,PropLost,"[-71.145297, 42.349864]",Point,PropLost,8,LSTPRP,784,D14,First,No,WARREN ST,Part three,Unarmed,752048.4758,,2952718.7569999998,2013
+188272,130505270.0,Saturday,No,2013-08-10T21:30:00.000,PropLost,"[-71.12159, 42.274861]",Point,PropLost,8,LSTPRP,555,E18,First,No,GREW AV,Part three,Other,758578.3043,,2925414.025,2013
+189337,130514043.0,Saturday,No,2013-08-10T20:00:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,8,LSTPRP,111,A1,First,No,TREMONT ST,Part three,Unarmed,773924.729,,2953989.2660000003,2013
+251802,130505397.0,Saturday,No,2013-08-10T17:00:00.000,PropLost,"[-71.120637, 42.278689]",Point,PropLost,8,LSTPRP,556,E18,First,No,CANTERBURY ST,Part three,Other,758829.7936,,2926810.035,2013
+263629,130503308.0,Saturday,No,2013-08-10T22:30:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,307,E13,First,No,WARDMAN RD,Part three,Unarmed,,,,2013

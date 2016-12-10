@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24226,140315028.0,Wednesday,No,2014-05-21T00:46:00.000,07RV,"[-71.06349, 42.301981]",Point,07RV,5,MVAINJ,352,C11,Last,No,WESTVILLE ST,Other,Other,774251.5675,DRAPER ST,2935372.046,2014
+85550,140315583.0,Wednesday,No,2014-05-21T10:45:00.000,07RV,"[-71.063779, 42.338579]",Point,07RV,5,RECMV ,174,C6,Day,No,FRONTAGE RD,Other,Other,774104.9678,,2948708.453,2014
+123640,140316765.0,Wednesday,No,2014-05-21T17:00:00.000,07RV,"[-71.08284, 42.309116]",Point,07RV,5,STOLMV,329,B2,First,No,BLUE HILL AV,Other,Unarmed,769004.3297,,2937945.957,2014

@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26944,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.070634, 42.338562]",Point,14xx,7,PROP,167,D4,,No,HARRISON AVE,Part Two,None,772252.0,,2950000.0,2015
+35764,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.057428, 42.366543]",Point,14xx,7,BE,79,A1,,No,PRINCE ST,Part Two,None,775769.0,,2960000.0,2015
+51845,,Saturday,No,2015-07-18T17:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,51,A15,,No,BUNKER HILL ST,Part Two,None,, MAIN ST ,,2015
+57493,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.048313, 42.283494]",Point,14xx,7,VAND,384,C11,,No,GALLIVAN BLVD,Part Two,None,778393.0,,2930000.0,2015
+70299,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.135879, 42.351277]",Point,14xx,7,VAND,794,D14,,No,ALLSTON ST,Part Two,None,754592.0,,2950000.0,2015
+72419,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.052436, 42.361325]",Point,14xx,7,VAND,91,A1,,No,ATLANTIC AVE,Part Two,None,777128.0,,2960000.0,2015
+88000,,Saturday,No,2015-07-18T04:50:00.000,Vandalism,"[0, 0]",Point,14xx,7,PROP,274,D4,,No,PEOPLES BAPTIST PL,Part Two,None,,TREMONT ST,,2015
+104499,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.051416, 42.332659]",Point,14xx,7,VAND,216,C6,,No,DORCHESTER ST,Part Two,None,777459.0,,2950000.0,2015
+108913,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.117801, 42.291828]",Point,14xx,7,VAND,508,E13,,No,HYDE PARK AVE,Part Two,None,759576.0,,2930000.0,2015
+192926,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.076967, 42.31369]",Point,14xx,7,BE,326,B2,,No,QUINCY ST,Part Two,None,770584.0,,2940000.0,2015
+217023,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.033457, 42.378461]",Point,14xx,7,BE,19,A7,,No,PRINCETON ST,Part Two,None,782224.0,,2960000.0,2015
+223480,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.037695, 42.382591]",Point,14xx,7,VAND,25,A7,,No,CONDOR ST,Part Two,None,781070.0,,2960000.0,2015
+253083,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.085856, 42.303132]",Point,14xx,7,VAND,0,,,No,FRANKLIN PARK,Part Two,None,768199.0,BLUE HILL AVE,2940000.0,2015
+259702,,Saturday,No,2015-07-18T00:00:00.000,Vandalism,"[-71.104405, 42.262912]",Point,14xx,7,VAND,484,E18,,No,BELNEL RD,Part Two,None,763249.0,,2920000.0,2015

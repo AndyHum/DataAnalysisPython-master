@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10038,130682624.0,Wednesday,No,2013-08-28T12:00:00.000,InvProp,"[-71.0642, 42.353461]",Point,InvProp,8,LSTPRP,111,A1,Day,No,TREMONT ST,Part three,Unarmed,773963.6495,,2954131.25,2013
+10167,130546677.0,Wednesday,No,2013-08-28T21:00:00.000,InvProp,"[-71.07665, 42.336146]",Point,InvProp,8,IVMV  ,271,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770629.7582,,2947804.394,2013
+97538,130543799.0,Wednesday,No,2013-08-28T12:19:00.000,InvProp,"[-71.05944, 42.363946]",Point,InvProp,8,ALARMC,76,A1,Day,No,CANAL ST,Part three,Unarmed,775230.5321,,2957958.797,2013
+163036,130545043.0,Wednesday,No,2013-08-28T20:59:00.000,InvProp,"[-71.055028, 42.287827]",Point,InvProp,8,SHOTS ,378,C11,First,No,ADAMS ST,Part three,Unarmed,776567.4852,,2930225.7180000003,2013
+175586,130544970.0,Wednesday,No,2013-08-28T20:15:00.000,InvProp,"[-71.094315, 42.322096]",Point,InvProp,8,VIOMVL,282,B2,First,No,VALE ST,Part three,Other,765877.8163,,2942661.108,2013

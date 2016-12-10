@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58005,120570626.0,Wednesday,No,2012-09-12T07:36:00.000,Arrest,"[-71.12395, 42.256421]",Point,Arrest,9,IVPER ,0,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,757969.2324,,2918691.415,2012
+68641,120570891.0,Wednesday,No,2012-09-12T09:28:00.000,Arrest,"[-71.07914, 42.328931]",Point,Arrest,9,ARREST,279,B2,Day,No,ZEIGLER ST,Part Three,Other,769969.5047,DEARBORN ST,2945171.789,2012
+93542,120572049.0,Wednesday,No,2012-09-12T18:00:00.000,Arrest,"[-71.07738, 42.350061]",Point,Arrest,9,SSTOP ,130,D4,First,No,BOYLSTON ST,Part Three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2012
+231071,120570897.0,Wednesday,No,2012-09-12T09:30:00.000,Arrest,"[-71.060565, 42.361386]",Point,Arrest,9,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,774931.3031,,2957024.314,2012

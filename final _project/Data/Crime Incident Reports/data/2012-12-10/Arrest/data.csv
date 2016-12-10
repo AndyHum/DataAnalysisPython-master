@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148779,120773685.0,Monday,No,2012-12-10T16:35:00.000,Arrest,"[-71.081625, 42.336141]",Point,Arrest,12,CD11  ,903,D4,First,No,TROTTER CT,Part Three,Unarmed,769284.6658,,2947795.935,2012
+184560,120773634.0,Monday,No,2012-12-10T14:15:00.000,Arrest,"[-71.124075, 42.255986]",Point,Arrest,12,IVPER ,522,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,757936.0917,,2918532.7460000003,2012
+204025,120773022.0,Monday,No,2012-12-10T11:45:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,12,IVPER ,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+213460,120772723.0,Monday,No,2012-12-10T10:00:00.000,Arrest,"[-71.06293, 42.351166]",Point,Arrest,12,CD19  ,117,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774311.2131,,2953296.665,2012

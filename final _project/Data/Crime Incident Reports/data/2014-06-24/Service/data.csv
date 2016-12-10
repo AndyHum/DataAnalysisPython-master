@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11841,142002276.0,Tuesday,No,2014-06-24T00:47:00.000,Service,"[-71.082487, 42.302716]",Point,Service,6,ARREST,0,B3,Last,No,WOLCOTT ST,Part three,Unarmed,769111.0059999999,,2935614.0689999997,2014
+24240,142002505.0,Tuesday,No,2014-06-24T17:26:00.000,Service,"[-71.096765, 42.332291]",Point,Service,6,ARREST,0,B2,First,No,PARKER ST,Part three,Unarmed,765197.8626,,2946373.21,2014
+28025,142002869.0,Tuesday,No,2014-06-24T21:45:00.000,Service,"[-71.05242, 42.324351]",Point,Service,6,IVPREM,0,C6,First,No,OLD COLONY AV,Part three,Unarmed,777203.4219,OCALLAGHAN WY,2943539.541,2014
+85931,142002502.0,Tuesday,No,2014-06-24T16:30:00.000,Service,"[-71.07408, 42.335766]",Point,Service,6,SS,0,D4,First,No,HARRISON AV,Part three,Unarmed,771325.3054,,2947669.374,2014
+123469,142002314.0,Tuesday,No,2014-06-24T09:05:00.000,Service,"[-71.064905, 42.352371]",Point,Service,6,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+256696,142002439.0,Tuesday,No,2014-06-24T14:44:00.000,Service,"[-71.123097, 42.250596]",Point,Service,6,ARREST,0,E18,Day,No,EASTON AV,Part three,Unarmed,758209.286,,2916569.537,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81497,120449933.0,Saturday,No,2012-07-21T16:55:00.000,PersLoc,"[-71.077385, 42.288851]",Point,PersLoc,7,MISPER,437,B3,First,No,FERNDALE ST,Part Three,Unarmed,770516.43,,2930568.349,2012
+114751,120449335.0,Saturday,No,2012-07-21T03:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,7,MISPER,784,D14,Last,No,WARREN ST,Part Three,Unarmed,752824.3316,,2952548.8430000003,2012
+127644,120450921.0,Saturday,No,2012-07-21T22:49:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,7,MISPER,281,B2,First,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2012
+211776,120449360.0,Saturday,No,2012-07-21T07:10:00.000,PersLoc,"[-71.132495, 42.349371]",Point,PersLoc,7,CONFPR,793,D14,Last,No,COMMONWEALTH AV,Part Three,Unarmed,755510.0434,,2952553.8439999996,2012

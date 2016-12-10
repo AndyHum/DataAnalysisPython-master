@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79835,152046288.0,Thursday,No,2015-06-04T19:30:00.000,TRESPASS,"[-71.104895, 42.337681]",Point,TRESPASS,6,IVPER,0,B2,First,No,LONGWOOD AV,Part Two,Unarmed,762990.5031,,2948327.137,2015
+137899,152046024.0,Thursday,No,2015-06-04T01:26:00.000,TRESPASS,"[-71.067375, 42.352166]",Point,TRESPASS,6,ARREST,0,A1,Last,No,PARK PLAZA,Part Two,Unarmed,773107.8474,,2953654.958,2015
+194930,152046325.0,Thursday,No,2015-06-04T21:20:00.000,TRESPASS,"[-71.085298, 42.329524]",Point,TRESPASS,6,AOD,0,B2,First,No,ROXBURY ST,Part Two,Unarmed,768303.1628,WASHINGTON ST,2945379.693,2015

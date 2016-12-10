@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77229,140040491.0,Monday,No,2014-01-20T19:25:00.000,PropLost,"[-71.064489, 42.365368]",Point,PropLost,1,LSTPRP,64,A1,First,No,LOMASNEY WY,Part three,Unarmed,773863.1707,,2958469.979,2014
+83156,140104694.0,Monday,No,2014-01-20T12:00:00.000,PropLost,"[-71.07739, 42.314841]",Point,PropLost,1,LSTPRP,325,B2,Day,No,DACIA ST,Part three,Unarmed,770468.1499,,2940039.4960000003,2014
+200077,140040755.0,Monday,No,2014-01-20T20:15:00.000,PropLost,"[-71.058085, 42.365231]",Point,PropLost,1,LSTPRP,79,A1,First,No,THACHER ST,Part three,Unarmed,775594.2978,,2958428.97,2014
+201784,140040436.0,Monday,No,2014-01-20T19:00:00.000,PropLost,"[-71.03525, 42.331061]",Point,PropLost,1,IVPER ,234,C6,First,No,L ST,Part three,Other,781833.2427,,2946009.607,2014
+231339,140042689.0,Monday,No,2014-01-20T09:00:00.000,PropLost,"[-71.06509, 42.317001]",Point,PropLost,1,LSTPRP,239,B2,Day,No,DUDLEY ST,Part three,Unarmed,773790.8306,COLUMBIA RD,2940843.356,2014
+232345,140149115.0,Monday,No,2014-01-20T07:30:00.000,PropLost,"[-71.06942, 42.362401]",Point,PropLost,1,LSTPRP,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+235194,140039803.0,Monday,No,2014-01-20T13:46:00.000,PropLost,"[-71.09178, 42.268962]",Point,PropLost,1,LSTPRP,426,B3,Day,No,RIVER ST,Part three,Unarmed,766656.1487,,2923301.256,2014

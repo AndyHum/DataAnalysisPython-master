@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15845,,Wednesday,No,2015-08-05T00:00:00.000,Towed,"[-71.065685, 42.358323]",Point,Towed,8,IVMV,70,A1,,No,MOUNT VERNON ST,Part Three,None,773553.0,,2960000.0,2015
+31289,,Wednesday,No,2015-08-05T00:00:00.000,Towed,"[-71.065471, 42.305407]",Point,Towed,8,IVMV,340,C11,,No,DRAPER ST,Part Three,None,773709.0,,2940000.0,2015
+139574,,Wednesday,No,2015-08-05T00:00:00.000,Towed,"[-71.059304, 42.377848]",Point,Towed,8,IVMV,57,A15,,No,BUNKER HILL ST,Part Three,None,775241.0,,2960000.0,2015
+233807,,Wednesday,No,2015-08-05T12:12:00.000,Towed,"[0, 0]",Point,Towed,8,IVMV,769,D14,,No,NILES ST,Part Three,None,,PARSONS ST,,2015
+238554,,Wednesday,No,2015-08-05T00:00:00.000,Towed,"[-71.106828, 42.321183]",Point,Towed,8,IVMV,578,E13,,No,FORBES ST,Part Three,None,762496.0,,2940000.0,2015

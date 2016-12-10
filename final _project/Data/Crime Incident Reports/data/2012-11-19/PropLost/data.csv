@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159763,120744549.0,Monday,No,2012-11-19T15:00:00.000,PropLost,"[-71.12375, 42.257241]",Point,PropLost,11,LSTPRP,520,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,758022.057,EVERETT ST,2918990.473,2012
+172071,120730408.0,Monday,No,2012-11-19T22:00:00.000,PropLost,"[-71.151845, 42.347086]",Point,PropLost,11,LSTPRP,777,D14,First,No,WINSHIP ST,Part Three,Unarmed,750282.8192,,2951699.2010000004,2012
+199303,120729092.0,Monday,No,2012-11-19T18:13:00.000,PropLost,"[-71.12789, 42.351536]",Point,PropLost,11,LARCRT,796,D14,First,No,FORDHAM RD,Part Three,Unarmed,756751.4077,,2953348.21,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37290,120718429.0,Wednesday,No,2012-11-14T17:30:00.000,PropLost,"[-71.087635, 42.347111]",Point,PropLost,11,LARCRT,620,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,767640.4026,,2951785.693,2012
+121537,120778327.0,Wednesday,No,2012-11-14T07:00:00.000,PropLost,"[-71.11297, 42.300811]",Point,PropLost,11,LSTPRP,510,E13,Last,No,WASHINGTON ST,Part Three,Unarmed,760868.2636,,2934881.061,2012
+128892,120724654.0,Wednesday,No,2012-11-14T14:20:00.000,PropLost,"[-71.09385, 42.267631]",Point,PropLost,11,LSTPRP,426,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766098.2462,RIVER ST,2922813.8439999996,2012
+169501,120716648.0,Wednesday,No,2012-11-14T07:30:00.000,PropLost,"[-71.087477, 42.323454]",Point,PropLost,11,LSTPRP,299,B2,Day,No,REGENT ST,Part Three,Unarmed,767724.7181,,2943164.683,2012
+177961,120716914.0,Wednesday,No,2012-11-14T12:30:00.000,PropLost,"[-71.09106, 42.323372]",Point,PropLost,11,LSTPRP,300,B2,Day,No,THORNTON ST,Part Three,Unarmed,766755.9881,,2943130.135,2012
+191588,120726194.0,Wednesday,No,2012-11-14T20:00:00.000,PropLost,"[-71.069527, 42.351443]",Point,PropLost,11,LSTPRP,120,A1,First,No,PARK PLAZA,Part Three,Other,772527.4805,,2953388.3860000004,2012
+260188,120731257.0,Wednesday,No,2012-11-14T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,162,D4,First,No,E BERKELEY ST,Part Three,Unarmed,,,,2012

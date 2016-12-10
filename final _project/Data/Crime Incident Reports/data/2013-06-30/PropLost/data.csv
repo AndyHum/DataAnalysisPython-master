@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12112,130401838.0,Sunday,No,2013-06-30T18:00:00.000,PropLost,"[-71.094124, 42.347355]",Point,PropLost,6,LARCRT,130,D4,First,No,IPSWICH ST,Part three,Unarmed,765885.7661,,2951866.0330000003,2013
+16025,130401468.0,Sunday,No,2013-06-30T18:15:00.000,PropLost,"[-71.051365, 42.359702]",Point,PropLost,6,LSTPRP,95,A1,First,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2013
+23190,130402729.0,Sunday,No,2013-06-30T21:00:00.000,PropLost,"[-71.046717, 42.336149]",Point,PropLost,6,LSTPRP,214,C6,First,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2013
+74756,130403033.0,Sunday,No,2013-06-30T15:30:00.000,PropLost,"[-71.15064, 42.348981]",Point,PropLost,6,LSTPRP,786,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750605.7341,WINSHIP ST,2952391.108,2013
+119249,130403095.0,Sunday,No,2013-06-30T12:00:00.000,PropLost,"[-71.043308, 42.346892]",Point,PropLost,6,LSTPRP,203,C6,Day,No,SUMMER ST,Part three,Unarmed,779623.2724,,2951766.909,2013
+127071,130447763.0,Sunday,No,2013-06-30T08:00:00.000,PropLost,"[-71.141721, 42.34306]",Point,PropLost,6,LSTPRP,786,D14,Day,No,WASHINGTON ST,Part three,Other,753025.5063,,2950243.078,2013
+217942,130401148.0,Sunday,No,2013-06-30T18:00:00.000,PropLost,"[-71.058631, 42.357187]",Point,PropLost,6,INVEST,98,A1,First,No,WASHINGTON ST,Part three,Unarmed,775461.8627,,2955496.662,2013

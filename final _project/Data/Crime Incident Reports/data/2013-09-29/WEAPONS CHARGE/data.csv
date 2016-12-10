@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110352,130621783.0,Sunday,No,2013-09-29T17:20:00.000,WEAPONS CHARGE,"[-71.083615, 42.323217]",Point,15xx,9,SSTOP ,297,B2,First,No,ST RICHARD ST,Part Two,Firearm,768769.5313,FENNO ST,2943083.394,2013
+157524,130620836.0,Sunday,No,2013-09-29T04:51:00.000,WEAPONS CHARGE,"[-71.07301, 42.298441]",Point,15xx,9,FIGHT ,357,C11,Last,No,WASHINGTON ST,Part Two,Unarmed,771682.6957,DAKOTA ST,2934068.981,2013
+169168,130620816.0,Sunday,No,2013-09-29T04:21:00.000,WEAPONS CHARGE,"[-71.08177, 42.320731]",Point,15xx,9,ARREST,0,B2,Last,No,WARREN ST,Part Two,Firearm,769272.998,DALE ST,2942180.0689999997,2013

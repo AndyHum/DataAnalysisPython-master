@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28705,,Tuesday,No,2015-06-23T10:50:00.000,Vandalism,"[0, 0]",Point,14xx,6,FIGHT,303,E13,,No,AMORY ST,Part Two,None,,COLUMBUS AVE,,2015
+36629,,Tuesday,No,2015-06-23T00:00:00.000,Vandalism,"[-71.076646, 42.291581]",Point,14xx,6,LANTEN,438,B3,,No,TALBOT AVE,Part Two,None,770711.0,,2930000.0,2015
+80738,,Tuesday,No,2015-06-23T00:00:00.000,Vandalism,"[-71.081716, 42.299729]",Point,14xx,6,VAND,445,B3,,No,GLENWAY ST,Part Two,None,769325.0,,2930000.0,2015
+112493,,Tuesday,No,2015-06-23T00:00:00.000,Vandalism,"[-71.08568, 42.346243]",Point,14xx,6,VAND,144,D4,,No,BELVIDERE ST,Part Two,None,768170.0,,2950000.0,2015
+141261,,Tuesday,No,2015-06-23T00:00:00.000,Vandalism,"[-71.100879, 42.324694]",Point,14xx,6,VAND,912,E13,,No,PARKER ST,Part Two,None,764098.0,,2940000.0,2015
+187434,,Tuesday,No,2015-06-23T00:00:00.000,Vandalism,"[-71.14698, 42.346443]",Point,14xx,6,VAND,784,D14,,No,WASHINGTON ST,Part Two,None,751599.0,,2950000.0,2015
+229567,,Tuesday,No,2015-06-23T23:30:00.000,Vandalism,"[0, 0]",Point,14xx,6,BE,182,B2,,No,MARSHFIELD ST,Part Two,None,,,,2015
+243292,,Tuesday,No,2015-06-23T10:00:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,626,D4,,No,JERSEY ST,Part Two,None,,PETERBOROUGH ST,,2015

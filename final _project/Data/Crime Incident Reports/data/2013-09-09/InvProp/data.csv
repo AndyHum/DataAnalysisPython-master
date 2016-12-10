@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96890,130572016.0,Monday,No,2013-09-09T01:09:00.000,InvProp,"[-71.15925, 42.340881]",Point,InvProp,9,SHOTS ,773,D14,Last,No,FOSTER ST,Part three,Unarmed,748290.0861,RADNOR RD,2949429.89,2013
+99899,130575698.0,Monday,No,2013-09-09T14:00:00.000,InvProp,"[-71.054711, 42.341305]",Point,InvProp,9,INVEST,200,C6,Day,No,W BROADWAY,Part three,Other,776551.5679,,2949714.607,2013
+177628,130574193.0,Monday,No,2013-09-09T22:02:00.000,InvProp,"[-71.09387, 42.287311]",Point,InvProp,9,BEIP  ,466,B3,First,No,MORTON ST,Part three,Unarmed,766058.6853,,2929985.482,2013
+253750,130572644.0,Monday,No,2013-09-09T10:20:00.000,InvProp,"[-71.041225, 42.368566]",Point,InvProp,9,UNK   ,902,A7,Day,No,FATHER JACOBEE RD,Part three,Unarmed,780144.1312,,2959668.3660000004,2013
+260658,140028908.0,Monday,No,2013-09-09T06:00:00.000,InvProp,"[0, 0]",Point,InvProp,9,IVPREM,15,A7,Last,No,MCCLELLAN HY,Part three,Unarmed,,,,2013

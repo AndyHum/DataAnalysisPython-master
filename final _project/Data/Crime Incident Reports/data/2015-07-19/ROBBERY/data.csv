@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20574,,Sunday,No,2015-07-19T12:59:00.000,Robbery,"[0, 0]",Point,03xx,7,CARJAK,319,B2,,No,SEAVER ST,Part One,Firearm,,,,2015
+213437,,Sunday,No,2015-07-19T00:00:00.000,Robbery,"[-71.086263, 42.333422]",Point,03xx,7,I00040,286,B2,,No,RUGGLES ST,Part One,None,768035.0,,2950000.0,2015
+232064,,Sunday,No,2015-07-19T00:00:00.000,Robbery,"[-71.088519, 42.292788]",Point,03xx,7,PSHOT,440,B3,,Yes,BLUE HILL AVE,Part One,Firearm,767497.0,,2930000.0,2015
+244456,,Sunday,No,2015-07-19T00:00:00.000,Robbery,"[-71.072165, 42.357387]",Point,03xx,7,I00040,69,A1,,No,MOUNT VERNON ST,Part One,None,771803.0,,2960000.0,2015

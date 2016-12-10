@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86813,140383703.0,Monday,No,2014-06-16T13:00:00.000,PropLost,"[-71.0729, 42.333256]",Point,PropLost,6,LARCRT,271,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2014
+160355,140381169.0,Monday,No,2014-06-16T06:00:00.000,PropLost,"[-71.046717, 42.336149]",Point,PropLost,6,ROBRPT,165,C6,Last,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2014
+171627,140383161.0,Monday,No,2014-06-16T17:00:00.000,PropLost,"[-71.098625, 42.346181]",Point,PropLost,6,LSTPRP,621,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+179147,140381541.0,Monday,No,2014-06-16T10:00:00.000,PropLost,"[-71.043308, 42.346892]",Point,PropLost,6,LSTPRP,203,C6,Day,No,SUMMER ST,Part three,Unarmed,779623.2724,,2951766.909,2014

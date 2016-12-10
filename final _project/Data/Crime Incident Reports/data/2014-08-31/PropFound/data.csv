@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64198,142024768.0,Sunday,No,2014-08-31T12:30:00.000,PropFound,"[-71.013835, 42.384286]",Point,PropFound,8,IVMV,0,A7,Day,No,BENNINGTON ST,Part three,Unarmed,787513.15,,2965438.046,2014
+206943,142024750.0,Sunday,No,2014-08-31T11:46:00.000,PropFound,"[-71.1056, 42.301731]",Point,PropFound,8,IVPREM,0,E13,Day,No,FOREST HILLS ST,Part three,Unarmed,762860.4716,LOTUS AV,2935225.457,2014
+241653,142024734.0,Sunday,No,2014-08-31T12:50:00.000,PropFound,"[-71.100235, 42.334626]",Point,PropFound,8,PROP,0,B2,Day,No,ST ALPHONSUS ST,Part three,Unarmed,764255.6256,,2947219.71,2014

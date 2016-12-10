@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103509,140003699.0,Thursday,No,2014-01-02T19:00:00.000,InvProp,"[-71.0128, 42.391771]",Point,InvProp,1,AOD   ,10,A7,First,No,MCCLELLAN HY,Part three,Unarmed,787777.1931,BOARDMAN ST,2968167.328,2014
+124399,140002934.0,Thursday,No,2014-01-02T12:03:00.000,InvProp,"[-71.144024, 42.346747]",Point,InvProp,1,HARPT ,938,D14,Day,No,JETTE CT,Part three,Unarmed,752397.4732,,2951584.079,2014
+168711,140003802.0,Thursday,No,2014-01-02T20:12:00.000,InvProp,"[-71.15696, 42.260951]",Point,InvProp,1,PRSCRM,712,E5,First,No,GROVE ST,Part three,Unarmed,749026.3388,,2920304.54,2014
+252205,140003080.0,Thursday,No,2014-01-02T00:00:00.000,InvProp,"[-71.104475, 42.345416]",Point,InvProp,1,BERPTA,629,D4,Last,No,PARK DR,Part three,Unarmed,763090.9859,,2951146.4439999997,2014

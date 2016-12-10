@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5198,142020650.0,Sunday,No,2014-08-17T09:00:00.000,InvProp,"[-71.104496, 42.301119]",Point,InvProp,8,IVPREM,0,B2,Day,No,JEWISH WAR VETERANS,Part three,Unarmed,763160.0733,,2935003.607,2014
+48304,142020135.0,Sunday,No,2014-08-17T02:43:00.000,InvProp,"[-71.088026, 42.290197]",Point,InvProp,8,SHOTS,0,B3,Last,No,STRATTON ST,Part three,Unarmed,767634.6963,,2931044.4889999996,2014
+68323,142020199.0,Sunday,No,2014-08-17T09:28:00.000,InvProp,"[-71.10917, 42.263666]",Point,InvProp,8,PERGUN,0,E18,Day,No,WOOD AV,Part three,Unarmed,761958.2772,,2921349.5730000003,2014
+198379,142020151.0,Sunday,No,2014-08-17T04:31:00.000,InvProp,"[-71.09062, 42.329761]",Point,InvProp,8,ALARM,0,B2,Last,No,JOHN ELIOT SQ,Part three,Other,766863.8274,,2945459.148,2014
+204947,142020333.0,Sunday,No,2014-08-17T18:54:00.000,InvProp,"[-71.070539, 42.312118]",Point,InvProp,8,IVPREM,0,B2,First,No,DRAYTON AV,Part three,Unarmed,772325.9185,,2939056.353,2014
+209669,142020544.0,Sunday,No,2014-08-17T11:05:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,8,IVPREM,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+263266,142020604.0,Sunday,No,2014-08-17T02:50:00.000,InvProp,"[0, 0]",Point,InvProp,8,IVPER,0,A1,Last,No,SOUTHAMPTON ST,Part three,Unarmed,,,,2014

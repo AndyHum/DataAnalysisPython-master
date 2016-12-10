@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87206,,Sunday,No,2015-08-09T20:20:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,8,I00027,606,E13,,No,HUNTINGTON AVE,Part Three,None,,S HUNTINGTON AVE ,,2015
+93769,,Sunday,No,2015-08-09T00:00:00.000,Missing Person Reported,"[-71.119155, 42.271625]",Point,PersMiss,8,IVPER,498,E18,,No,CLARE AVE,Part Three,None,759242.0,,2920000.0,2015
+126875,,Sunday,No,2015-08-09T00:00:00.000,Missing Person Reported,"[-71.068607, 42.297034]",Point,PersMiss,8,IVPER,358,C11,,No,LARCHMONT ST,Part Three,None,772876.0,,2930000.0,2015
+162384,,Sunday,No,2015-08-09T18:45:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,8,I00027,0,,,No,HUNTINGTON AVE,Part Three,None,,,,2015

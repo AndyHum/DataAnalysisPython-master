@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75158,130324647.0,Tuesday,No,2013-05-28T09:00:00.000,PersLoc,"[-71.072008, 42.301524]",Point,PersLoc,5,MISPER,462,C11,Day,No,BOWDOIN ST,Other,Unarmed,771947.8819,,2935193.67,2013
+127237,130321039.0,Tuesday,No,2013-05-28T16:30:00.000,PersLoc,"[-71.125436, 42.257211]",Point,PersLoc,5,MISPER,544,E18,First,No,SUMMER ST,Part Three,Unarmed,757565.4448,,2918977.563,2013
+132905,130321215.0,Tuesday,No,2013-05-28T23:00:00.000,PersLoc,"[-71.084605, 42.285364]",Point,PersLoc,5,MISPER,432,B3,First,No,MASCOT ST,Part Three,Unarmed,768569.032,,2929287.8910000003,2013
+156575,130322039.0,Tuesday,No,2013-05-28T07:00:00.000,PersLoc,"[-71.064089, 42.309113]",Point,PersLoc,5,MISPER,334,C11,Last,No,BOWDOIN ST,Other,Unarmed,774076.1526,,2937969.9289999995,2013

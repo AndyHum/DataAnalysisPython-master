@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1209,152026220.0,Tuesday,No,2015-03-31T19:46:00.000,InvPer,"[0, 0]",Point,InvPer,3,ARREST,0,A1,First,No,TREMONT ST,Part three,Unarmed,,,,2015
+28226,152026159.0,Tuesday,No,2015-03-31T06:05:00.000,InvPer,"[-71.055825, 42.295761]",Point,InvPer,3,CHDABU,0,C11,Last,No,VICTORY RD,Part three,Unarmed,776336.8898,,2933116.0919999997,2015
+30703,152026013.0,Tuesday,No,2015-03-31T09:00:00.000,InvPer,"[-71.084747, 42.329375]",Point,InvPer,3,IVPER,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768452.5418,,2945326.172,2015
+93129,152026218.0,Tuesday,No,2015-03-31T20:30:00.000,InvPer,"[-71.057506, 42.377612]",Point,InvPer,3,FIGHT,0,A15,First,No,OREILLY WY,Part three,Unarmed,775727.2191,,2962941.7210000004,2015
+96081,152026155.0,Tuesday,No,2015-03-31T17:15:00.000,InvPer,"[-71.036061, 42.374826]",Point,InvPer,3,MVA,0,A7,First,No,HAVRE ST,Part three,Unarmed,781527.2066,,2961957.0919999997,2015
+225533,152026207.0,Tuesday,No,2015-03-31T19:30:00.000,InvPer,"[-71.037105, 42.367651]",Point,InvPer,3,IVPER,0,A7,First,No,SUMNER ST,Part three,Unarmed,781259.3019,,2959340.939,2015
+267157,152026072.0,Tuesday,No,2015-03-31T08:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,D14,Day,No,FANEUIL ST,Part three,Unarmed,,,,2015
+267207,152026297.0,Tuesday,No,2015-03-31T02:03:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,D4,Last,No,MASSACHUSETTS AV,Part three,Other,,,,2015

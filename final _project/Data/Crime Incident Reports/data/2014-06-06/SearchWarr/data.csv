@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24649,140356759.0,Friday,No,2014-06-06T17:24:00.000,SearchWarr,"[-71.123085, 42.281301]",Point,SearchWarr,6,ARREST,499,E5,First,No,BROWN AV,Part three,Unarmed,758163.3333,CUMMINS HY,2927759.064,2014
+234799,140356660.0,Friday,No,2014-06-06T16:49:00.000,SearchWarr,"[-71.150915, 42.348981]",Point,SearchWarr,6,CD11  ,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+251084,140356653.0,Friday,No,2014-06-06T16:47:00.000,SearchWarr,"[-71.150915, 42.348981]",Point,SearchWarr,6,CD11  ,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014

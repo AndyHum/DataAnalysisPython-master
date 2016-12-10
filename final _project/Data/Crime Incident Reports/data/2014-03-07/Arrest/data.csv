@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35113,140140201.0,Friday,No,2014-03-07T10:00:00.000,Arrest,"[-71.112305, 42.261326]",Point,Arrest,3,IVDRUG,520,E18,Day,No,RIVER ST,Part three,Other,761113.5637,,2920492.973,2014
+131850,140141086.0,Friday,No,2014-03-07T18:18:00.000,Arrest,"[-71.06443, 42.285251]",Point,Arrest,3,ARREST,402,C11,First,No,DORCHESTER AV,Part three,Unarmed,774028.4138,,2929274.0930000003,2014
+212636,140140132.0,Friday,No,2014-03-07T10:58:00.000,Arrest,"[-71.06064, 42.329261]",Point,Arrest,3,TSTOP ,174,C6,Day,No,FRONTAGE RD,Part three,Unarmed,774971.3358,SOUTHAMPTON ST,2945317.271,2014

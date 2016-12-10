@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59294,152007318.0,Tuesday,No,2015-01-27T16:45:00.000,InvProp,"[-71.095445, 42.349201]",Point,InvProp,1,ALARM,0,D4,First,No,BEACON ST,Part three,Unarmed,765525.5483,,2952537.22,2015
+129652,152007275.0,Tuesday,No,2015-01-27T11:20:00.000,InvProp,"[-71.07956, 42.295286]",Point,InvProp,1,REQP,0,B3,Day,No,KINGSDALE ST,Part three,Unarmed,769916.3712,,2932910.4489999996,2015
+243379,152007340.0,Tuesday,No,2015-01-27T19:26:00.000,InvProp,"[-71.11095, 42.266296]",Point,InvProp,1,SHOTS,0,E18,First,No,WOOD AV,Part three,Unarmed,761472.0912,,2922305.777,2015
+263428,152007355.0,Tuesday,No,2015-01-27T21:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVPER,0,E13,First,No,MONTEBELLO RD,Part three,Unarmed,,,,2015

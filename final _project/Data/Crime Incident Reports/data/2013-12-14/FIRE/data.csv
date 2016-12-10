@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66233,130079593.0,Saturday,No,2013-12-14T12:57:00.000,FIRE,"[-71.120704, 42.276666]",Point,FIRE,12,PKNIFE,329,E18,Day,No,CLIFFMONT ST,Part three,Unarmed,758815.1319,,2926072.901,2013
+144912,130787705.0,Saturday,No,2013-12-14T18:56:00.000,FIRE,"[-71.092821, 42.316788]",Point,FIRE,12,REQP  ,312,B2,First,No,WALNUT AV,Part three,Unarmed,766291.0031,,2940728.683,2013
+257216,130787446.0,Saturday,No,2013-12-14T16:47:00.000,FIRE,"[-71.06228, 42.319881]",Point,FIRE,12,IVPER ,237,C11,First,No,COLUMBIA RD,Part three,Unarmed,774545.4197,,2941896.7630000003,2013

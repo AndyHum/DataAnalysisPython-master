@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26573,120549751.0,Sunday,No,2012-09-02T14:00:00.000,PersMiss,"[-71.061235, 42.302396]",Point,PersMiss,9,MISPER,345,C11,Day,No,MONTELLO ST,Part Three,Unarmed,774860.8081,,2935526.4069999997,2012
+134807,120554663.0,Sunday,No,2012-09-02T07:00:00.000,PersMiss,"[-71.07825, 42.335516]",Point,PersMiss,9,MISPER,273,D4,Last,No,WASHINGTON ST,Part Three,Unarmed,770198.2968,,2947572.668,2012
+170643,120548522.0,Sunday,No,2012-09-02T15:36:00.000,PersMiss,"[-71.104895, 42.337681]",Point,PersMiss,9,IVPER ,612,B2,Day,No,LONGWOOD AV,Part Three,Unarmed,762990.5031,,2948327.137,2012
+260291,120560061.0,Sunday,No,2012-09-02T17:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,9,MISPER,301,B2,First,No,CENTRE STREET TR,Part Three,Unarmed,,,,2012

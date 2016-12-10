@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38729,152017445.0,Saturday,No,2015-02-28T08:00:00.000,PropLost,"[-71.1173, 42.283911]",Point,PropLost,2,PROP,0,E18,Day,No,MT HOPE ST,Part three,Other,759724.5313,,2928717.1569999997,2015
+45436,152016486.0,Saturday,No,2015-02-28T23:15:00.000,PropLost,"[-71.04339, 42.350736]",Point,PropLost,2,PROP,0,C6,First,No,NORTHERN AV,Part three,Unarmed,779593.8607,,2953167.635,2015
+110996,152016139.0,Saturday,No,2015-02-28T02:30:00.000,PropLost,"[-71.061015, 42.353246]",Point,PropLost,2,IVPREM,0,A1,Last,No,AVENUE DE LAFAYETTE,Part three,Unarmed,774824.9513,,2954057.314,2015
+146009,152016242.0,Saturday,No,2015-02-28T12:30:00.000,PropLost,"[-71.08312, 42.308561]",Point,PropLost,2,PROP,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,768929.5815,GENEVA AV,2937743.336,2015
+200625,152017221.0,Saturday,No,2015-02-28T17:30:00.000,PropLost,"[-71.092631, 42.338582]",Point,PropLost,2,LARCEN,0,D4,First,No,PARKER ST,Part three,Unarmed,766304.6163,,2948670.8789999997,2015
+204057,152016668.0,Saturday,No,2015-02-28T14:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,2,LARCEN,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+215827,152016480.0,Saturday,No,2015-02-28T15:00:00.000,PropLost,"[-71.069615, 42.356111]",Point,PropLost,2,PROP,0,A1,Day,No,BEACON ST,Part three,Unarmed,772495.1137,CHARLES ST,2955089.5289999996,2015
+224496,152017239.0,Saturday,No,2015-02-28T12:00:00.000,PropLost,"[-71.162971, 42.35073]",Point,PropLost,2,PROP,0,D14,Day,No,FAIRBANKS ST,Part three,Unarmed,747269.6917,,2953015.046,2015
+230333,152017429.0,Saturday,No,2015-02-28T00:00:00.000,PropLost,"[-71.06521, 42.349691]",Point,PropLost,2,PROP,0,A1,Last,No,TREMONT ST,Part three,Unarmed,773697.6517,,2952755.997,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+138628,120764208.0,Thursday,No,2012-12-06T10:07:00.000,Service,"[-71.086144, 42.288378]",Point,Service,12,ARREST,439,B3,Day,No,FLOYD ST,Part Three,Unarmed,768147.276,,2930384.298,2012
+151637,120765519.0,Thursday,No,2012-12-06T18:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,12,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+154689,120764516.0,Thursday,No,2012-12-06T13:15:00.000,Service,"[-71.070505, 42.346036]",Point,Service,12,FDPROP,151,D4,Day,No,BERKELEY ST,Part Three,Firearm,772273.0459,,2951416.795,2012
+197390,120765383.0,Thursday,No,2012-12-06T18:53:00.000,Service,"[-71.08337, 42.337666]",Point,Service,12,ARREST,274,D4,First,No,TREMONT ST,Part Three,Unarmed,768810.1519,,2948349.363,2012
+210074,120764734.0,Thursday,No,2012-12-06T10:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,12,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+227515,120764390.0,Thursday,No,2012-12-06T11:44:00.000,Service,"[-71.062995, 42.354951]",Point,Service,12,IVPER ,72,A1,Day,No,WEST ST,Part Three,Unarmed,774286.5764,,2954675.901,2012
+248745,120763992.0,Thursday,No,2012-12-06T08:12:00.000,Service,"[-71.01645, 42.381726]",Point,Service,12,VICDOG,14,A7,Day,No,HOMER ST,Part Three,Other,786811.9571,,2964501.113,2012

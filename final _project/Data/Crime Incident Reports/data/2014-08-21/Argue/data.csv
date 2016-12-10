@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55521,142021519.0,Thursday,No,2014-08-21T12:47:00.000,Argue,"[-71.10074, 42.313266]",Point,Argue,8,LARCEN,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,764155.5198,,2939435.1139999996,2014
+131413,142021648.0,Thursday,No,2014-08-21T20:00:00.000,Argue,"[-71.051757, 42.297941]",Point,Argue,8,DISTRB,0,C11,First,No,MILL ST,Part three,Unarmed,777433.1167,,2933916.229,2014
+157015,142021413.0,Thursday,No,2014-08-21T03:56:00.000,Argue,"[-71.048225, 42.332091]",Point,Argue,8,DVIP,0,C6,Last,No,GATES ST,Part three,Unarmed,778322.9033,,2946366.108,2014

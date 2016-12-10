@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19967,142004788.0,Tuesday,No,2014-07-01T10:51:00.000,Service,"[-71.093485, 42.273776]",Point,Service,7,ARREST,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766186.3659,,2925053.6339999996,2014
+23337,142005027.0,Tuesday,No,2014-07-01T22:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,7,IVPER,0,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014
+65914,142011496.0,Tuesday,No,2014-07-01T09:00:00.000,Service,"[-71.132225, 42.275276]",Point,Service,7,LARCEN,0,E5,Day,No,BEECH ST,Part three,Unarmed,755699.4538,,2925552.668,2014
+70454,142004993.0,Tuesday,No,2014-07-01T16:25:00.000,Service,"[-71.04625, 42.354256]",Point,Service,7,CD11,0,C6,First,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+80348,142032217.0,Tuesday,No,2014-07-01T07:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,7,IVPER,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+82853,142004988.0,Tuesday,No,2014-07-01T18:55:00.000,Service,"[-71.035664, 42.372588]",Point,Service,7,IVPREM,0,A7,First,No,CHELSEA ST,Part three,Unarmed,781638.7267,,2961142.146,2014
+119451,142005016.0,Tuesday,No,2014-07-01T20:45:00.000,Service,"[-71.04025, 42.380531]",Point,Service,7,CD11,0,A7,First,No,BORDER ST,Part three,Unarmed,780384.1047,WHITE ST,2964030.0719999997,2014
+123305,142005019.0,Tuesday,No,2014-07-01T20:45:00.000,Service,"[-71.04025, 42.380531]",Point,Service,7,CD11,0,A7,First,No,BORDER ST,Part three,Unarmed,780384.1047,WHITE ST,2964030.0719999997,2014
+164269,142004904.0,Tuesday,No,2014-07-01T16:35:00.000,Service,"[-71.04625, 42.354256]",Point,Service,7,CD5,0,C6,First,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+174583,142004859.0,Tuesday,No,2014-07-01T13:30:00.000,Service,"[-71.085618, 42.32866]",Point,Service,7,ADMRPT,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+234785,142005006.0,Tuesday,No,2014-07-01T18:55:00.000,Service,"[-71.035664, 42.372588]",Point,Service,7,IVPREM,0,A7,First,No,CHELSEA ST,Part three,Unarmed,781638.7267,,2961142.146,2014
+261989,142004948.0,Tuesday,No,2014-07-01T06:29:00.000,Service,"[0, 0]",Point,Service,7,MVA,0,B3,Last,No,ROSEDALE ST,Part three,Other,,,,2014

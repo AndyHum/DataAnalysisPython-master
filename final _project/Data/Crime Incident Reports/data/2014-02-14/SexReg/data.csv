@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25148,140116140.0,Friday,No,2014-02-14T12:00:00.000,SexReg,"[-71.081367, 42.336818]",Point,SexReg,2,IVPER ,270,D4,Day,No,LENOX ST,Part Two,Unarmed,769353.1922,,2948042.758,2014
+56932,140120426.0,Friday,No,2014-02-14T22:10:00.000,SexReg,"[-71.061738, 42.374894]",Point,SexReg,2,IVPER ,900,A15,First,No,MONUMENT AV,Part Two,Unarmed,774588.9967,,2961945.128,2014
+108975,140093528.0,Friday,No,2014-02-14T12:00:00.000,SexReg,"[-71.0729, 42.333256]",Point,SexReg,2,IVPER ,172,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2014

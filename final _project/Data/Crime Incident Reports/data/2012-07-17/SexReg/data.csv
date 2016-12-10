@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37941,120444704.0,Tuesday,No,2012-07-17T12:00:00.000,SexReg,"[-71.0729, 42.333256]",Point,SexReg,7,IVPER ,172,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2012
+125499,120505634.0,Tuesday,No,2012-07-17T12:00:00.000,SexReg,"[-71.059987, 42.361648]",Point,SexReg,7,MISC  ,119,A1,Day,No,SUDBURY ST,Part Two,Unarmed,775087.02,,2957120.525,2012
+208936,120441242.0,Tuesday,No,2012-07-17T20:15:00.000,SexReg,"[-71.08136, 42.329161]",Point,SexReg,7,SSTOP ,0,B2,First,No,WINSLOW ST,Part Two,Unarmed,769368.7993,ZEIGLER ST,2945252.65,2012

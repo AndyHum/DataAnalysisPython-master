@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40251,120600840.0,Saturday,No,2012-09-22T17:00:00.000,PropLost,"[-71.05731, 42.360281]",Point,PropLost,9,LSTPRP,94,A1,First,No,CONGRESS ST,Part Three,Unarmed,775813.1021,NORTH ST,2956626.1780000003,2012
+47202,120600284.0,Saturday,No,2012-09-22T22:30:00.000,PropLost,"[-71.094606, 42.267258]",Point,PropLost,9,LARCRT,69,B3,First,No,RIVER ST,Part Three,Unarmed,765894.2221,,2922676.722,2012
+107088,120600686.0,Saturday,No,2012-09-22T07:00:00.000,PropLost,"[-71.106823, 42.339255]",Point,PropLost,9,LSTPRP,593,B2,Last,No,BROOKLINE AV,Part Three,Unarmed,762466.4632,,2948898.37,2012
+142093,120595138.0,Saturday,No,2012-09-22T00:30:00.000,PropLost,"[-71.053965, 42.359656]",Point,PropLost,9,LSTPRP,94,A1,Last,No,CHATHAM ST,Part Three,Unarmed,776718.3415,,2956403.126,2012
+159145,120595279.0,Saturday,No,2012-09-22T06:30:00.000,PropLost,"[-71.133058, 42.351856]",Point,PropLost,9,TRACK ,794,D14,Last,No,PARK VALE AV,Part Three,Unarmed,755353.9397,,2953458.643,2012
+203020,120598950.0,Saturday,No,2012-09-22T17:40:00.000,PropLost,"[-71.09437, 42.331411]",Point,PropLost,9,LARCRT,290,B2,First,No,MALCOLM X BL,Part Three,Unarmed,765846.9695,TREMONT ST,2946055.5919999997,2012
+219871,120620544.0,Saturday,No,2012-09-22T09:00:00.000,PropLost,"[-71.055312, 42.327496]",Point,PropLost,9,INVEST,914,C6,Day,No,OCALLAGHAN WY,Part Three,Unarmed,776415.2591,,2944681.3510000003,2012
+248890,120596406.0,Saturday,No,2012-09-22T14:30:00.000,PropLost,"[-71.065835, 42.317351]",Point,PropLost,9,LSTPRP,258,B2,Day,No,DUDLEY ST,Part Three,Unarmed,773588.6939,,2940969.876,2012
+264009,120606483.0,Saturday,No,2012-09-22T00:01:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,602,B2,Last,No,ST STEPHEN ST,Part Three,Unarmed,,,,2012
+264572,120619719.0,Saturday,No,2012-09-22T14:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,111,A1,Day,No,TREMLETT ST,Part Three,Unarmed,,,,2012

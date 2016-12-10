@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1216,152039552.0,Thursday,No,2015-05-14T13:32:00.000,FORGERY,"[0, 0]",Point,10xx,5,LARCEN,0,C11,Day,No,BOWDOIN ST,Part Two,Other,,DRAPER ST,,2015
+1896,152041093.0,Thursday,No,2015-05-14T07:26:00.000,FORGERY,"[0, 0]",Point,10xx,5,IVPER,0,C11,Last,No,GENEVA AV,Part Two,Unarmed,,,,2015
+170881,152039567.0,Thursday,No,2015-05-14T17:55:00.000,FORGERY,"[-71.08046, 42.335661]",Point,10xx,5,SS,0,D4,First,No,SHAWMUT AV,Part Two,Other,769600.5096,,2947622.561,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20631,,Sunday,No,2015-07-26T18:29:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,EDP,0,,,No,,Part Three,None,,MARTIN LUTHER KING JR BLV,,2015
+59915,,Sunday,No,2015-07-26T00:00:00.000,Medical Assistance,"[-71.116907, 42.264918]",Point,MedAssist,7,REQP,492,E18,,No,LOCKWOOD ST,Part Three,None,759862.0,,2920000.0,2015
+73117,,Sunday,No,2015-07-26T00:00:00.000,Medical Assistance,"[-71.107828, 42.336063]",Point,MedAssist,7,REQP,612,B2,,No,FRANCIS ST,Part Three,None,762200.0,,2950000.0,2015
+84962,,Sunday,No,2015-07-26T00:00:00.000,Medical Assistance,"[-71.039291, 42.370818]",Point,MedAssist,7,INJOFF,28,A7,,No,PARIS ST,Part Three,None,780662.0,,2960000.0,2015
+95020,,Sunday,No,2015-07-26T00:34:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,0,,,No,,Part Three,None,,BERKELEY ST,,2015
+132437,,Sunday,No,2015-07-26T00:00:00.000,Medical Assistance,"[-71.11902, 42.255567]",Point,MedAssist,7,REQP,519,E18,,No,PIERCE ST,Part Three,None,759305.0,,2920000.0,2015
+188763,,Sunday,No,2015-07-26T00:00:00.000,Medical Assistance,"[-71.037879, 42.348395]",Point,MedAssist,7,REQP,207,C6,,No,NORTHERN AVE,Part Three,None,781088.0,,2950000.0,2015
+253460,,Sunday,No,2015-07-26T00:00:00.000,Medical Assistance,"[-71.143877, 42.346003]",Point,MedAssist,7,UNCONS,938,D14,,No,FIDELIS WAY,Part Three,None,752438.0,,2950000.0,2015
+257237,,Sunday,No,2015-07-26T20:00:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,0,,,No,,Part Three,None,,MAPLE ST,,2015

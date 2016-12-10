@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14135,130186393.0,Friday,No,2013-03-29T19:30:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,3,IVPREM,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2013
+74279,130186446.0,Friday,No,2013-03-29T21:30:00.000,InvProp,"[-71.122495, 42.266196]",Point,InvProp,3,BERPT ,495,E18,First,No,PROVIDENCE ST,Part Three,Unarmed,758347.3513,,2922255.2939999998,2013
+102553,130183524.0,Friday,No,2013-03-29T05:30:00.000,InvProp,"[-71.068436, 42.290364]",Point,InvProp,3,SHOTS ,397,C11,Last,No,LITHGOW ST,Part Three,Unarmed,772934.9327,WAINWRIGHT ST,2931131.8,2013
+136296,130184247.0,Friday,No,2013-03-29T13:01:00.000,InvProp,"[-71.129345, 42.251596]",Point,InvProp,3,MEET  ,542,E18,Day,No,BUSINESS ST,Part three,Unarmed,756516.3731,,2916926.731,2013
+229487,130183486.0,Friday,No,2013-03-29T03:20:00.000,InvProp,"[-71.055985, 42.363381]",Point,InvProp,3,NOISE ,86,A1,Last,No,SALEM ST,Part Three,Other,776165.3272,,2957757.7410000004,2013
+239414,130185529.0,Friday,No,2013-03-29T22:35:00.000,InvProp,"[-71.070615, 42.320596]",Point,InvProp,3,BEIP  ,183,B2,First,No,LEYLAND ST,Part Three,Unarmed,772289.9823,,2942145.8639999996,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+170815,140001837.0,Wednesday,No,2014-01-01T07:30:00.000,DRUG CHARGES,"[-71.085618, 42.32866]",Point,18xx,1,IVDRUG,282,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2014
+193462,140001833.0,Wednesday,No,2014-01-01T07:30:00.000,DRUG CHARGES,"[-71.085618, 42.32866]",Point,18xx,1,IVDRUG,282,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2014
+205078,140021819.0,Wednesday,No,2014-01-01T06:32:00.000,DRUG CHARGES,"[-71.097465, 42.315081]",Point,18xx,1,IVDRUG,930,E13,Last,No,COLUMBUS AV,Part Two,Unarmed,765038.1884,,2940100.693,2014
+221452,140000507.0,Wednesday,No,2014-01-01T02:42:00.000,DRUG CHARGES,"[-71.07721, 42.354731]",Point,18xx,1,ARREST,131,D4,Last,No,CLARENDON ST,Part Two,Other,770444.7796,BACK ST,2954576.363,2014

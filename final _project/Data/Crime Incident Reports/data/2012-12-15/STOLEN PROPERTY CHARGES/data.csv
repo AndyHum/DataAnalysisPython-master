@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124768,120785491.0,Saturday,No,2012-12-15T17:45:00.000,STOLEN PROPERTY CHARGES,"[-71.098725, 42.315361]",Point,13xx,12,IVPER ,572,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764696.9253,,2940201.124,2012
+173103,120784663.0,Saturday,No,2012-12-15T09:49:00.000,STOLEN PROPERTY CHARGES,"[-71.0584, 42.355041]",Point,13xx,12,ARREST,106,A1,Day,No,ARCH ST,Part Two,Other,775528.3957,WINTHROP LA,2954715.095,2012
+210210,120786839.0,Saturday,No,2012-12-15T10:53:00.000,STOLEN PROPERTY CHARGES,"[-71.062835, 42.353226]",Point,13xx,12,MISC  ,121,A1,Day,No,AVERY ST,Part Two,Unarmed,774333.0448,,2954047.5,2012

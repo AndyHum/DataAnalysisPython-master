@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33743,152013546.0,Thursday,No,2015-02-19T20:20:00.000,InvPer,"[-71.141383, 42.344425]",Point,InvPer,2,BE,0,D14,First,No,MELVIN AV,Part three,Unarmed,753115.0501,,2950741.144,2015
+63423,152013409.0,Thursday,No,2015-02-19T13:14:00.000,InvPer,"[-71.088241, 42.283284]",Point,InvPer,2,IVPER,0,B3,Day,No,WILDWOOD ST,Part three,Unarmed,767588.7423,,2928525.213,2015
+65235,152013497.0,Thursday,No,2015-02-19T17:00:00.000,InvPer,"[-71.068653, 42.306188]",Point,InvPer,2,ALARM,0,C11,First,No,NORTON ST,Part three,Unarmed,772847.1206,,2936897.7789999996,2015
+66176,152013314.0,Thursday,No,2015-02-19T01:15:00.000,InvPer,"[-71.065785, 42.315356]",Point,InvPer,2,IVPER,0,B2,Last,No,UPHAM AV,Part three,Unarmed,773605.9173,,2940242.935,2015
+87758,152013530.0,Thursday,No,2015-02-19T19:00:00.000,InvPer,"[-71.1002, 42.268416]",Point,InvPer,2,DISTRB,0,E18,First,No,FAIRLAWN AV,Part three,Unarmed,764378.1779,,2923091.789,2015
+116885,152013372.0,Thursday,No,2015-02-19T09:56:00.000,InvPer,"[-71.15535, 42.261401]",Point,InvPer,2,PRSCRM,0,E5,Day,No,CHERITON RD,Part three,Unarmed,749461.4935,,2920470.2830000003,2015
+143570,152013331.0,Thursday,No,2015-02-19T02:30:00.000,InvPer,"[-71.090331, 42.342396]",Point,InvPer,2,ALARM,0,D4,Last,No,HEMENWAY ST,Part three,Unarmed,766919.7833,,2950063.733,2015
+166513,152013309.0,Thursday,No,2015-02-19T00:18:00.000,InvPer,"[-71.09486, 42.315301]",Point,InvPer,2,EDP,0,E13,Last,No,WARDMAN RD,Part three,Unarmed,765742.3612,,2940184.2010000004,2015
+184372,152013459.0,Thursday,No,2015-02-19T14:10:00.000,InvPer,"[-71.103995, 42.333881]",Point,InvPer,2,IVPER,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2015
+264799,152013581.0,Thursday,No,2015-02-19T22:06:00.000,InvPer,"[0, 0]",Point,InvPer,2,SS,0,C11,First,No,WASHINGTON ST,Part three,Firearm,,SOUTHERN AV,,2015
+266409,152013674.0,Thursday,No,2015-02-19T16:00:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,B2,First,No,LONGWOOD AV,Part three,Unarmed,,,,2015

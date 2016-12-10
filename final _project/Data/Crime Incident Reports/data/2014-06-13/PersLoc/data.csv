@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23871,140375688.0,Friday,No,2014-06-13T13:05:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,6,MISPER,281,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+26196,140375991.0,Friday,No,2014-06-13T17:00:00.000,PersLoc,"[-71.092001, 42.278561]",Point,PersLoc,6,MISPER,427,B3,First,No,FESSENDEN ST,Other,Unarmed,766579.5337,,2926799.047,2014
+70990,142000152.0,Friday,No,2014-06-13T18:00:00.000,PersLoc,"[-71.07629, 42.311596]",Point,PersLoc,6,MISSIN,0,B2,First,No,LAWRENCE AV,Other,Unarmed,770771.5345,,2938858.442,2014
+73565,140375785.0,Friday,No,2014-06-13T20:00:00.000,PersLoc,"[-71.058235, 42.310543]",Point,PersLoc,6,MISPER,255,C11,First,No,ROACH ST,Other,Unarmed,775656.7314,,2938499.396,2014
+183849,140374708.0,Friday,No,2014-06-13T12:00:00.000,PersLoc,"[-71.093739, 42.334956]",Point,PersLoc,6,SSTOP ,574,B2,Day,No,ANNUNCIATION RD,Other,Unarmed,766011.2668,,2947348.014,2014
+207770,140374858.0,Friday,No,2014-06-13T16:53:00.000,PersLoc,"[-71.093249, 42.317844]",Point,PersLoc,6,MISPER,306,B2,First,No,DENNISON ST,Other,Unarmed,766173.5859999999,,2941112.88,2014
+262498,140375431.0,Friday,No,2014-06-13T19:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,MISPER,503,B3,First,No,W MAIN ST,Other,Unarmed,,,,2014

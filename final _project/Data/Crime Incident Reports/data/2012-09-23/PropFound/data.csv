@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44842,120597962.0,Sunday,No,2012-09-23T09:30:00.000,PropFound,"[-71.097702, 42.348699]",Point,PropFound,9,FDPROP,622,D4,Day,No,BEACON ST,Part Three,Unarmed,764916.1761,,2952351.106,2012
+105960,120597712.0,Sunday,No,2012-09-23T05:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,9,FDPROP,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+114205,120597220.0,Sunday,No,2012-09-23T00:19:00.000,PropFound,"[-71.131245, 42.350806]",Point,PropFound,9,FDPROP,0,D14,Last,No,HARVARD AV,Part Three,Unarmed,755845.6789,,2953078.245,2012
+122070,120597288.0,Sunday,No,2012-09-23T00:20:00.000,PropFound,"[-71.13106, 42.350481]",Point,PropFound,9,FDPROP,796,D14,Last,No,HARVARD AV,Part Three,Unarmed,755896.1988,COMMONWEALTH AV,2952960.025,2012
+152030,120600014.0,Sunday,No,2012-09-23T18:00:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,9,FDPROP,574,E13,First,No,WASHINGTON ST,Part Three,Unarmed,763205.8082,,2938139.2,2012
+168971,120598332.0,Sunday,No,2012-09-23T14:00:00.000,PropFound,"[-71.133345, 42.291393]",Point,PropFound,9,FDPROP,663,E5,Day,No,KNOLL ST,Part Three,Unarmed,755370.8858,,2931424.47,2012
+182315,120598536.0,Sunday,No,2012-09-23T16:00:00.000,PropFound,"[-71.137675, 42.347296]",Point,PropFound,9,FDPROP,793,D14,First,No,KELTON ST,Part Three,Other,754113.0179999999,,2951791.683,2012
+238813,120598887.0,Sunday,No,2012-09-23T19:00:00.000,PropFound,"[-71.094037, 42.278782]",Point,PropFound,9,IVPREM,468,B3,First,No,HAZELTON ST,Part Three,Unarmed,766028.2746,,2926876.8639999996,2012

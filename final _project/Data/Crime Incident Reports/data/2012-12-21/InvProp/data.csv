@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5718,120799404.0,Friday,No,2012-12-21T22:30:00.000,InvProp,"[-71.072008, 42.301524]",Point,InvProp,12,SHOTS ,0,C11,First,No,BOWDOIN ST,Part Three,Firearm,771947.8819,,2935193.67,2012
+56411,120799472.0,Friday,No,2012-12-21T23:45:00.000,InvProp,"[-71.058108, 42.309016]",Point,InvProp,12,CTYALM,254,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775694.0122,,2937943.142,2012
+103861,120803521.0,Friday,No,2012-12-21T17:00:00.000,InvProp,"[-71.127897, 42.281939]",Point,InvProp,12,IVPREM,557,E5,First,No,AUGUSTUS AV,Part Three,Other,756860.1496,,2927985.82,2012
+123935,120799140.0,Friday,No,2012-12-21T20:00:00.000,InvProp,"[-71.061305, 42.307249]",Point,InvProp,12,BEIP  ,347,C11,First,No,WILKINSON PARK,Part Three,Unarmed,774832.5802,,2937294.575,2012
+225125,120797627.0,Friday,No,2012-12-21T08:47:00.000,InvProp,"[-71.07547, 42.346214]",Point,InvProp,12,DISTRB,149,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770930.358,,2951474.633,2012
+238730,120798030.0,Friday,No,2012-12-21T12:00:00.000,InvProp,"[-71.080085, 42.346711]",Point,InvProp,12,LARCRT,146,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,769682.0757,,2951649.883,2012

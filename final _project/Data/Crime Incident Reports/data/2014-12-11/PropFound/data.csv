@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97919,142056550.0,Thursday,No,2014-12-11T09:50:00.000,PropFound,"[-71.153043, 42.287232]",Point,PropFound,12,PROP,0,E5,Day,No,CENTRE ST,Part three,Unarmed,750047.6314,,2929885.93,2014
+99431,142056642.0,Thursday,No,2014-12-11T18:18:00.000,PropFound,"[-71.08491, 42.317861]",Point,PropFound,12,IVPREM,0,B2,First,No,HAZELWOOD CT,Part three,Unarmed,768428.9119,,2941130.046,2014
+144379,142056662.0,Thursday,No,2014-12-11T18:45:00.000,PropFound,"[-71.079605, 42.347101]",Point,PropFound,12,LARCEN,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769811.1326,EXETER ST,2951792.646,2014
+173457,142056535.0,Thursday,No,2014-12-11T12:40:00.000,PropFound,"[-71.060554, 42.364937]",Point,PropFound,12,PROP,0,A1,Day,No,CANAL ST,Part three,Unarmed,774927.5836,,2958318.224,2014

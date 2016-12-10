@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106687,130158603.0,Sunday,No,2013-03-17T16:00:00.000,CRIMES AGAINST CHILDREN,"[-71.035565, 42.335636]",Point,20xx,3,INVCHD,167,C6,First,No,E BROADWAY,Part Two,Unarmed,781738.9909,L ST,2947676.35,2013
+156816,130158885.0,Sunday,No,2013-03-17T18:12:00.000,CRIMES AGAINST CHILDREN,"[-71.07695, 42.308106]",Point,20xx,3,IVPER ,329,B2,First,No,DEVON ST,Part Two,Unarmed,770599.3288,,2937585.745,2013
+251152,130157687.0,Sunday,No,2013-03-17T08:08:00.000,CRIMES AGAINST CHILDREN,"[-71.06985, 42.342531]",Point,20xx,3,IVPER ,163,D4,Day,No,SHAWMUT AV,Part Two,Unarmed,772456.5531,WALTHAM ST,2950140.401,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9110,130140929.0,Saturday,No,2013-03-09T16:52:00.000,PubDrink,"[-71.08538, 42.330381]",Point,PubDrink,3,IVPREM,0,B2,First,No,SHAWMUT AV,Part Two,Other,768279.6227,MARVIN ST,2945691.93,2013
+69949,130141127.0,Saturday,No,2013-03-09T18:25:00.000,PubDrink,"[-71.083781, 42.329494]",Point,PubDrink,3,IVPER ,0,B2,First,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2013
+187017,130140948.0,Saturday,No,2013-03-09T17:00:00.000,PubDrink,"[-71.07914, 42.328931]",Point,PubDrink,3,ARREST,279,B2,First,No,DEARBORN ST,Part Two,Other,769969.5047,ZEIGLER ST,2945171.789,2013

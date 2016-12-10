@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14478,152020206.0,Thursday,No,2015-03-12T08:30:00.000,PersLoc,"[-71.073214, 42.295708]",Point,PersLoc,3,IVPER,0,B3,Day,No,KENBERMA RD,Other,Unarmed,771632.4514,,2933072.564,2015
+76528,152021500.0,Thursday,No,2015-03-12T22:00:00.000,PersLoc,"[-71.11151, 42.264064]",Point,PersLoc,3,MISSIN,0,E18,First,No,AYLES RD,Other,Unarmed,761324.1964,,2921491.6780000003,2015
+117588,152020160.0,Thursday,No,2015-03-12T21:30:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,3,MISSIN,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015
+196891,152020107.0,Thursday,No,2015-03-12T19:05:00.000,PersLoc,"[-71.05761, 42.290481]",Point,PersLoc,3,IVPER,0,C11,First,No,MALLET ST,Other,Unarmed,775863.9466,,2931189.4760000003,2015
+267744,152019885.0,Thursday,No,2015-03-12T06:50:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,MISSIN,0,B2,Last,No,HUMBOLDT AV,Other,Unarmed,,,,2015

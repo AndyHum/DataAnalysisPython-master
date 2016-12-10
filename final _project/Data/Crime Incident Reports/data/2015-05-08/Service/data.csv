@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40295,152037575.0,Friday,No,2015-05-08T03:05:00.000,Service,"[-71.08586, 42.295476]",Point,Service,5,ARREST,0,B3,Last,No,HARVARD ST,Part three,Unarmed,768211.5908,,2932971.349,2015
+102806,152037644.0,Friday,No,2015-05-08T10:40:00.000,Service,"[-71.05378, 42.359296]",Point,Service,5,IVPER,0,A1,Day,No,STATE ST,Part three,Unarmed,776769.0281,,2956272.1969999997,2015
+195715,152038058.0,Friday,No,2015-05-08T19:00:00.000,Service,"[-71.03865, 42.380136]",Point,Service,5,IVPREM,0,A7,First,No,MARION ST,Part three,Unarmed,780817.1758,,2963888.46,2015
+226808,152037571.0,Friday,No,2015-05-08T02:46:00.000,Service,"[-71.06293, 42.351166]",Point,Service,5,ARREST,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774311.2131,STUART ST,2953296.665,2015

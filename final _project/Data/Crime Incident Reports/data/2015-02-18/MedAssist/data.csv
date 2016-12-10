@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1362,152013190.0,Wednesday,No,2015-02-18T16:45:00.000,MedAssist,"[-71.12146, 42.293661]",Point,MedAssist,2,INJ,0,E5,First,No,COLGATE RD,Part three,Other,758583.0832,,2932265.182,2015
+9172,152013104.0,Wednesday,No,2015-02-18T11:28:00.000,MedAssist,"[-71.069555, 42.272641]",Point,MedAssist,2,IVPER,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772664.8342,,2924671.8,2015
+23838,152013171.0,Wednesday,No,2015-02-18T15:40:00.000,MedAssist,"[-71.078421, 42.284653]",Point,MedAssist,2,UNKEMS,0,B3,Day,No,THETFORD AV,Part three,Unarmed,770243.5782,,2929036.869,2015
+41108,152013147.0,Wednesday,No,2015-02-18T14:10:00.000,MedAssist,"[-71.078425, 42.312846]",Point,MedAssist,2,EDP,0,B2,Day,No,LAWRENCE AV,Part three,Unarmed,770191.8168,,2939311.102,2015
+117683,152013058.0,Wednesday,No,2015-02-18T08:49:00.000,MedAssist,"[-71.09279, 42.335528]",Point,MedAssist,2,UNCONS,0,B2,Day,No,ANNUNCIATION RD,Part three,Unarmed,766266.9936,,2947557.934,2015
+132682,152013286.0,Wednesday,No,2015-02-18T22:15:00.000,MedAssist,"[-71.081025, 42.332891]",Point,MedAssist,2,IVPER,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,769452.7071,MELNEA CASS BL,2946612.373,2015
+154129,152013176.0,Wednesday,No,2015-02-18T14:45:00.000,MedAssist,"[-71.135815, 42.351296]",Point,MedAssist,2,IVPREM,0,D14,Day,No,ALLSTON ST,Part three,Unarmed,754609.598,,2953251.5039999997,2015
+159285,152013240.0,Wednesday,No,2015-02-18T16:18:00.000,MedAssist,"[-71.05991, 42.301131]",Point,MedAssist,2,IVPER,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775221.6194,,2935067.269,2015
+186457,152013243.0,Wednesday,No,2015-02-18T19:10:00.000,MedAssist,"[-71.136108, 42.280878]",Point,MedAssist,2,UNCONS,0,E5,First,No,WELLSMERE RD,Part three,Unarmed,754639.7715,WASHINGTON ST,2927589.376,2015
+204451,152013094.0,Wednesday,No,2015-02-18T11:30:00.000,MedAssist,"[-71.14243, 42.349389]",Point,MedAssist,2,REQP,0,D14,Day,No,WARREN ST,Part three,Firearm,752824.3316,,2952548.8430000003,2015
+249939,152013256.0,Wednesday,No,2015-02-18T19:13:00.000,MedAssist,"[-71.152797, 42.338183]",Point,MedAssist,2,EDP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,750038.6705,,2948453.453,2015
+261758,152013021.0,Wednesday,No,2015-02-18T02:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,IVPER,0,B2,Last,No,HYDE PARK AV,Part three,Unarmed,,,,2015
+263766,152013119.0,Wednesday,No,2015-02-18T13:03:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,UNK,0,E18,Day,No,READVILLE ST,Part three,Unarmed,,,,2015
+265863,152013145.0,Wednesday,No,2015-02-18T12:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,REQP,0,C11,Day,No,PARK ST,Part three,Unarmed,,,,2015

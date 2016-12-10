@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23001,130007382.0,Friday,No,2013-01-04T12:30:00.000,PropFound,"[-71.02843, 42.378781]",Point,PropFound,1,FDPROP,17,A7,Day,No,BENNINGTON ST,Part Three,Unarmed,783581.1791,CHELSEA ST,2963409.771,2013
+110054,130007890.0,Friday,No,2013-01-04T16:00:00.000,PropFound,"[-71.05204, 42.366106]",Point,PropFound,1,FDPROP,87,A1,First,No,SALUTATION ST,Part Three,Unarmed,777226.2690000001,,2958756.36,2013
+146990,130006868.0,Friday,No,2013-01-04T08:00:00.000,PropFound,"[-71.11617, 42.296071]",Point,PropFound,1,FDPROP,509,E13,Day,No,HYDE PARK AV,Part Three,Unarmed,760010.3618,WALK HILL ST,2933149.8189999997,2013
+236257,130007713.0,Friday,No,2013-01-04T14:20:00.000,PropFound,"[-71.12878, 42.286491]",Point,PropFound,1,FDPROP,560,E5,Day,No,POPLAR ST,Part Three,Unarmed,756613.9962,WASHINGTON ST,2929643.6180000002,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39155,120446598.0,Friday,No,2012-07-20T02:27:00.000,InvProp,"[-71.132501, 42.285198]",Point,InvProp,7,SHOTS ,679,E5,Last,No,PENFIELD ST,Part Three,Unarmed,755609.1623,,2929168.066,2012
+127776,120448265.0,Friday,No,2012-07-20T19:05:00.000,InvProp,"[-71.06546, 42.309741]",Point,InvProp,7,THREAT,334,C11,First,No,CLARKSON ST,Part Three,Unarmed,773704.2408,HENDRY ST,2938197.187,2012
+136660,120453798.0,Friday,No,2012-07-20T16:00:00.000,InvProp,"[-71.13531, 42.278416]",Point,InvProp,7,IVPER ,668,E5,First,No,CEDRUS AV,Part Three,Unarmed,754859.6602,,2926693.3460000004,2012
+159834,120446461.0,Friday,No,2012-07-20T01:06:00.000,InvProp,"[-71.11003, 42.331491]",Point,InvProp,7,BEIP  ,606,B2,Last,No,PARKER HILL TR,Part Three,Other,761612.4872,,2946064.999,2012
+171748,120446470.0,Friday,No,2012-07-20T01:12:00.000,InvProp,"[-71.068455, 42.324331]",Point,InvProp,7,IVPREM,182,B2,Last,No,NORFOLK AV,Part Three,Unarmed,772867.24,,2943509.9080000003,2012
+180668,120517326.0,Friday,No,2012-07-20T12:00:00.000,InvProp,"[-71.081161, 42.301584]",Point,InvProp,7,LARCRT,456,B3,Day,No,ELLINGTON ST,Part Three,Other,769471.7612,,2935203.265,2012
+192624,120462458.0,Friday,No,2012-07-20T12:00:00.000,InvProp,"[-71.07547, 42.353706]",Point,InvProp,7,HARPT ,131,D4,Day,No,MARLBOROUGH ST,Part Three,Unarmed,770916.946,,2954205.171,2012

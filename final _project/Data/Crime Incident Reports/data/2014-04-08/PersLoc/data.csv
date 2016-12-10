@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47387,140213624.0,Tuesday,No,2014-04-08T17:00:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,4,MSNCOM,345,C11,First,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+104409,140212593.0,Tuesday,No,2014-04-08T16:25:00.000,PersLoc,"[-71.099096, 42.270248]",Point,PersLoc,4,MSNCOM,480,E18,First,No,CUMMINS HY,Other,Unarmed,764673.8571,,2923760.817,2014
+133101,140214055.0,Tuesday,No,2014-04-08T16:00:00.000,PersLoc,"[-71.121654, 42.269662]",Point,PersLoc,4,MISPER,496,E18,First,No,PROVIDENCE ST,Other,Unarmed,758569.1685,,2923519.163,2014
+142585,140213110.0,Tuesday,No,2014-04-08T07:30:00.000,PersLoc,"[-71.07621, 42.282721]",Point,PersLoc,4,MISPER,418,B3,Day,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2014

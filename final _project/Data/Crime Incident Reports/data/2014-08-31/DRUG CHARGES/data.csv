@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+143789,142024636.0,Sunday,No,2014-08-31T02:29:00.000,DRUG CHARGES,"[-71.07523, 42.327021]",Point,18xx,8,SS,0,B2,Last,No,HAMPDEN ST,Part Two,Other,771030.2465,EUSTIS ST,2944480.992,2014
+172285,142024868.0,Sunday,No,2014-08-31T20:43:00.000,DRUG CHARGES,"[-71.09357, 42.276071]",Point,18xx,8,SS,0,B3,First,No,BLUE HILL AV,Part Two,Other,766159.3765,NORFOLK ST,2925889.854,2014
+191422,142024691.0,Sunday,No,2014-08-31T10:00:00.000,DRUG CHARGES,"[-71.07195, 42.331281]",Point,18xx,8,ARREST,0,B2,Day,No,ISLAND ST,Part Two,Unarmed,771909.4036,GERARD ST,2946037.8439999996,2014
+241427,142024760.0,Sunday,No,2014-08-31T13:43:00.000,DRUG CHARGES,"[-71.06433, 42.308751]",Point,18xx,8,ARREST,0,C11,Day,No,BOWDOIN ST,Part Two,Unarmed,774011.7317,ADAMS ST,2937837.9760000003,2014

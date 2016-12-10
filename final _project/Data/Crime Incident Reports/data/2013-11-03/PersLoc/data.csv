@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46553,130701496.0,Sunday,No,2013-11-03T21:45:00.000,PersLoc,"[-71.099695, 42.330611]",Point,PersLoc,11,MISPER,587,B2,First,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2013
+57505,130700017.0,Sunday,No,2013-11-03T07:45:00.000,PersLoc,"[-71.040285, 42.380941]",Point,PersLoc,11,MISPER,26,A7,Day,No,BORDER ST,Other,Unarmed,780373.844,,2964179.434,2013
+63565,130701494.0,Sunday,No,2013-11-03T21:45:00.000,PersLoc,"[-71.099695, 42.330611]",Point,PersLoc,11,MISPER,587,B2,First,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2013
+173800,130701233.0,Sunday,No,2013-11-03T21:45:00.000,PersLoc,"[-71.099695, 42.330611]",Point,PersLoc,11,MISPER,587,B2,First,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2013
+211773,130702650.0,Sunday,No,2013-11-03T04:00:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,11,MISPER,817,C11,Last,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2013
+228023,130706650.0,Sunday,No,2013-11-03T14:00:00.000,PersLoc,"[-71.06617, 42.307016]",Point,PersLoc,11,MISPER,335,C11,Day,No,BOWDOIN ST,Other,Unarmed,773517.2475,,2937203.1769999997,2013
+240301,130720040.0,Sunday,No,2013-11-03T11:00:00.000,PersLoc,"[-71.08786, 42.28502]",Point,PersLoc,11,MISPER,429,B3,Day,No,WINSTON RD,Other,Unarmed,767688.7109,,2929158.389,2013

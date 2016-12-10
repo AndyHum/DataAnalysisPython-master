@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40236,152021209.0,Monday,No,2015-03-16T14:25:00.000,PropLost,"[-71.062548, 42.361157]",Point,PropLost,3,PROP,0,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,774395.6116,,2956937.863,2015
+70938,152024095.0,Monday,No,2015-03-16T14:00:00.000,PropLost,"[-71.10383, 42.322836]",Point,PropLost,3,PROP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2015
+108620,152022457.0,Monday,No,2015-03-16T15:00:00.000,PropLost,"[-71.056025, 42.360651]",Point,PropLost,3,LARCEN,0,A1,Day,No,NORTH ST,Part three,Unarmed,776159.6956,,2956762.8189999997,2015
+116454,152021230.0,Monday,No,2015-03-16T04:41:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,3,PROP,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+230967,152031041.0,Monday,No,2015-03-16T12:00:00.000,PropLost,"[-71.11145, 42.262041]",Point,PropLost,3,PROP,0,E18,Day,No,REDDY AV,Part three,Unarmed,761343.8194,,2920754.582,2015
+266562,152021529.0,Monday,No,2015-03-16T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015

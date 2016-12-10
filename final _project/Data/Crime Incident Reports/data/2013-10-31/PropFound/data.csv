@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18975,130692518.0,Thursday,No,2013-10-31T00:15:00.000,PropFound,"[-71.100835, 42.340431]",Point,PropFound,10,FDPROP,616,B2,Last,No,FENWAY,Part three,Unarmed,764083.4983,AVE LOUIS PASTEUR,2949334.3989999997,2013
+35461,130693324.0,Thursday,No,2013-10-31T13:50:00.000,PropFound,"[-71.074113, 42.29713]",Point,PropFound,10,FDPROP,453,B3,Day,No,BRADLEE ST,Part three,Unarmed,771386.5956,,2933589.519,2013
+225247,130694329.0,Thursday,No,2013-10-31T20:26:00.000,PropFound,"[-71.028615, 42.379511]",Point,PropFound,10,IVPREM,17,A7,First,No,SARATOGA ST,Part three,Unarmed,783529.7216,,2963675.5239999997,2013
+255864,130692770.0,Thursday,No,2013-10-31T07:54:00.000,PropFound,"[-71.059755, 42.301741]",Point,PropFound,10,IVPREM,351,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775262.4031,,2935289.7789999996,2013

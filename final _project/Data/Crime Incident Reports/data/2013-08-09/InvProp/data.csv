@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28158,130499781.0,Friday,No,2013-08-09T23:01:00.000,InvProp,"[-71.06724, 42.361136]",Point,InvProp,8,FIREB ,67,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,773127.7532,,2956923.985,2013
+37479,130498459.0,Friday,No,2013-08-09T12:34:00.000,InvProp,"[-71.120857, 42.268922]",Point,InvProp,8,LOCK  ,496,E18,Day,No,HYDE PARK AV,Part three,Unarmed,758786.1749,,2923250.512,2013
+173424,130499272.0,Friday,No,2013-08-09T18:49:00.000,InvProp,"[-71.0726, 42.341736]",Point,InvProp,8,SHOTS ,158,D4,First,No,W DEDHAM ST,Part three,Unarmed,771714.5582,,2949846.952,2013
+218969,130497760.0,Friday,No,2013-08-09T04:22:00.000,InvProp,"[-71.095715, 42.291856]",Point,InvProp,8,IVPREM,566,B3,Last,No,MORTON ST,Part three,Unarmed,765551.6132,,2931639.375,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11026,130759589.0,Wednesday,No,2013-05-01T12:00:00.000,EMBEZELLMENT,"[-71.08489, 42.348946]",Point,12xx,5,LARCRT,141,D4,Day,No,NEWBURY ST,Part Two,Unarmed,768379.1902,,2952458.002,2013
+15744,130256843.0,Wednesday,No,2013-05-01T12:00:00.000,EMBEZELLMENT,"[-71.08037, 42.349236]",Point,12xx,5,HARPT ,138,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,769600.5057,,2952569.662,2013
+174683,130389103.0,Wednesday,No,2013-05-01T08:00:00.000,EMBEZELLMENT,"[-71.06056, 42.358011]",Point,12xx,5,INVEST,73,A1,Day,No,BEACON ST,Part Two,Unarmed,774938.9911,,2955794.405,2013

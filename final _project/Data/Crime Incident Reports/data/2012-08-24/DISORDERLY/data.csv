@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16995,120528816.0,Friday,No,2012-08-24T18:00:00.000,DISORDERLY,"[-71.071595, 42.320471]",Point,24xx,8,TRESPS,261,B2,First,No,DUDLEY ST,Part Two,Unarmed,772025.179,HOWARD AV,2942098.979,2012
+131926,120528917.0,Friday,No,2012-08-24T22:37:00.000,DISORDERLY,"[-71.07825, 42.335516]",Point,24xx,8,FIGHT ,273,D4,First,No,WASHINGTON ST,Part Two,Unarmed,770198.2968,,2947572.668,2012
+227736,120528336.0,Friday,No,2012-08-24T06:05:00.000,DISORDERLY,"[-71.07331, 42.342316]",Point,24xx,8,TRANSP,158,D4,Last,No,W DEDHAM ST,Part Two,Unarmed,771521.553,,2950057.353,2012

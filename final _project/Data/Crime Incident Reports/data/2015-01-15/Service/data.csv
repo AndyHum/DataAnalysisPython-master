@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64481,152003753.0,Thursday,No,2015-01-15T01:40:00.000,Service,"[-71.05919, 42.354471]",Point,Service,1,ARREST,0,A1,Last,No,SUMMER ST,Part three,Unarmed,775315.94,ARCH ST,2954506.27,2015
+95441,152003966.0,Thursday,No,2015-01-15T17:20:00.000,Service,"[-71.093706, 42.272606]",Point,Service,1,ARREST,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766128.34,,2924626.974,2015
+155308,152003968.0,Thursday,No,2015-01-15T18:00:00.000,Service,"[-71.036045, 42.376386]",Point,Service,1,SS,0,A7,First,No,MARION ST,Part three,Unarmed,781528.4365,,2962525.7010000004,2015
+158556,152003962.0,Thursday,No,2015-01-15T17:30:00.000,Service,"[-71.063106, 42.355355]",Point,Service,1,ARREST,0,A1,First,No,TREMONT ST,Part three,Unarmed,774255.6857,,2954822.79,2015
+179903,152003991.0,Thursday,No,2015-01-15T17:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,1,IVPER,0,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015
+188876,152003986.0,Thursday,No,2015-01-15T18:36:00.000,Service,"[-71.121035, 42.255946]",Point,Service,1,LOCKOU,0,E18,First,No,RIVER ST,Part three,Other,758759.1304,,2918521.811,2015
+198060,152004046.0,Thursday,No,2015-01-15T22:30:00.000,Service,"[-71.008874, 42.39214]",Point,Service,1,ARREST,0,A7,First,No,FAYWOOD AV,Part three,Unarmed,788836.8524,,2968307.764,2015
+263063,152003814.0,Thursday,No,2015-01-15T10:15:00.000,Service,"[0, 0]",Point,Service,1,ARREST,0,A7,Day,No,WHITE ST,Part three,Unarmed,,,,2015
+265120,152005271.0,Thursday,No,2015-01-15T12:30:00.000,Service,"[0, 0]",Point,Service,1,CD11,0,E13,Day,No,AMORY ST,Part three,Unarmed,,,,2015
+267471,152003765.0,Thursday,No,2015-01-15T04:07:00.000,Service,"[0, 0]",Point,Service,1,ARREST,0,C11,Last,No,ADAMS ST,Part three,Unarmed,,,,2015

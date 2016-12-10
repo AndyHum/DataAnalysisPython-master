@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46157,120553342.0,Tuesday,No,2012-09-04T19:39:00.000,PubDrink,"[-71.05936, 42.351041]",Point,PubDrink,9,ARREST,116,A1,First,No,SURFACE RD,Part Two,Unarmed,775276.4461,BEACH ST,2953256.077,2012
+80051,120552697.0,Tuesday,No,2012-09-04T14:10:00.000,PubDrink,"[-71.07442, 42.332791]",Point,PubDrink,9,SSTOP ,0,D4,Day,No,ALBANY ST,Part Two,Unarmed,771238.7876,CROSSTOWN AV,2946584.772,2012
+161910,120553151.0,Tuesday,No,2012-09-04T18:17:00.000,PubDrink,"[-71.08188, 42.318136]",Point,PubDrink,9,ARREST,311,B2,First,No,WARREN ST,Part Two,Unarmed,769247.8847,,2941234.2630000003,2012

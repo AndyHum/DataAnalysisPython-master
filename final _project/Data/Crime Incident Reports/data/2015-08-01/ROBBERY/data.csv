@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45716,,Saturday,No,2015-08-01T00:00:00.000,Robbery,"[-71.030779, 42.377167]",Point,03xx,8,,20,A7,,No,PUTNAM ST,Part One,None,782949.0,,2960000.0,2015
+64144,,Saturday,No,2015-08-01T00:00:00.000,Robbery,"[-71.042616, 42.371757]",Point,03xx,8,ARMROB,26,A7,,No,MAVERICK ST,Part One,Knife/Cutting Instrument,779762.0,,2960000.0,2015
+174667,,Saturday,No,2015-08-01T01:30:00.000,Robbery,"[0, 0]",Point,03xx,8,IVPER,458,B3,,No,BLUE HILL AVE,Part One,None,,GLENWAY ST,,2015

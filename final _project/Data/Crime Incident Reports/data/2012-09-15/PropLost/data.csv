@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39337,120598102.0,Saturday,No,2012-09-15T15:00:00.000,PropLost,"[-71.16441, 42.277141]",Point,PropLost,9,LSTPRP,721,E5,Day,No,SPRING ST,Part Three,Unarmed,746986.4525,,2926196.389,2012
+70760,120587752.0,Saturday,No,2012-09-15T23:30:00.000,PropLost,"[-71.094124, 42.347355]",Point,PropLost,9,LARCRT,624,D4,First,No,IPSWICH ST,Part Three,Unarmed,765885.7661,,2951866.0330000003,2012
+74242,120585526.0,Saturday,No,2012-09-15T09:30:00.000,PropLost,"[-71.083253, 42.325614]",Point,PropLost,9,LSTPRP,296,B2,Day,No,WARREN ST,Part Three,Unarmed,768863.2424,,2943957.453,2012
+120184,120579257.0,Saturday,No,2012-09-15T03:12:00.000,PropLost,"[-71.05775, 42.329641]",Point,PropLost,9,LARCRT,174,C6,Last,No,WASHINGTON ST,Part Three,Unarmed,775752.0777,,2945459.789,2012
+121341,120665716.0,Saturday,No,2012-09-15T20:00:00.000,PropLost,"[-71.08947, 42.292231]",Point,PropLost,9,MISC  ,464,B3,First,No,PAXTON ST,Part Three,Unarmed,767240.6118,,2931784.102,2012
+148469,120585367.0,Saturday,No,2012-09-15T07:30:00.000,PropLost,"[-71.05737, 42.282401]",Point,PropLost,9,LSTPRP,390,C11,Day,No,GALLIVAN BL,Part Three,Unarmed,775944.1636,,2928245.349,2012
+167258,120579280.0,Saturday,No,2012-09-15T08:10:00.000,PropLost,"[-71.10549, 42.322646]",Point,PropLost,9,LSTPRP,578,E13,Day,No,CENTRE ST,Part Three,Unarmed,762854.9768,,2942847.3680000002,2012
+185667,120579363.0,Saturday,No,2012-09-15T15:00:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,9,INVEST,119,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2012
+186053,120627321.0,Saturday,No,2012-09-15T13:00:00.000,PropLost,"[-71.075925, 42.347156]",Point,PropLost,9,LSTPRP,149,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770805.8297,,2951817.613,2012
+186997,120581466.0,Saturday,No,2012-09-15T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,9,TRACK ,417,B3,First,No,2ND AV,Part Three,Unarmed,,,,2012
+194521,120578405.0,Saturday,No,2012-09-15T03:53:00.000,PropLost,"[0, 0]",Point,PropLost,9,UNK   ,66,A1,Last,No,CHARLES ST,Part Three,Unarmed,,,,2012
+262058,120579881.0,Saturday,No,2012-09-15T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LARCRT,650,E13,First,No,JAMAICA ST,Part Three,Unarmed,,,,2012
+265696,120586464.0,Saturday,No,2012-09-15T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,222,C6,Day,No,E 1ST ST,Part Three,Unarmed,,L ST,,2012

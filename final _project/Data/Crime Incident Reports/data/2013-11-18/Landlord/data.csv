@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128873,130732231.0,Monday,No,2013-11-18T13:57:00.000,Landlord,"[-71.135297, 42.352075]",Point,Landlord,11,IVPER ,795,D14,Day,No,ALLSTON ST,Part three,Unarmed,754748.3936,,2953535.876,2013
+142657,130733230.0,Monday,No,2013-11-18T22:46:00.000,Landlord,"[-71.07611, 42.293822]",Point,Landlord,11,LANTEN,448,B3,First,No,SPENCER ST,Part three,Unarmed,770852.4041,,2932381.5730000003,2013
+145462,130731898.0,Monday,No,2013-11-18T11:02:00.000,Landlord,"[-71.084165, 42.309351]",Point,Landlord,11,LANTEN,320,B2,Day,No,HARTWELL ST,Part three,Unarmed,768645.5155,,2938029.845,2013

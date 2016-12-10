@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98274,120796954.0,Thursday,No,2012-12-20T19:00:00.000,Landlord,"[-71.06923, 42.302081]",Point,Landlord,12,LANTEN,343,C11,First,No,GENEVA AV,Part Three,Unarmed,772698.6120000001,,2935400.5930000003,2012
+189048,120795784.0,Thursday,No,2012-12-20T12:07:00.000,Landlord,"[-71.090265, 42.284003]",Point,Landlord,12,ABRPT ,430,B3,Day,No,MORTON ST,Part Three,Unarmed,767039.8025,,2928784.595,2012
+189129,120796786.0,Thursday,No,2012-12-20T19:40:00.000,Landlord,"[-71.090265, 42.284003]",Point,Landlord,12,LANTEN,430,B3,First,No,MORTON ST,Part Three,Unarmed,767039.8025,,2928784.595,2012

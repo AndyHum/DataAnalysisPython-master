@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39610,130441947.0,Monday,No,2013-07-15T07:30:00.000,PersLoc,"[-71.075585, 42.340456]",Point,PersLoc,7,MISPER,157,D4,Day,No,W NEWTON ST,Other,Unarmed,770909.8909,,2949376.4669999997,2013
+56548,130438536.0,Monday,No,2013-07-15T17:00:00.000,PersLoc,"[-71.070855, 42.341986]",Point,PersLoc,7,MISPER,166,D4,First,No,SHAWMUT AV,Other,Unarmed,772185.8561,,2949940.425,2013
+151354,130438037.0,Monday,No,2013-07-15T17:00:00.000,PersLoc,"[-71.065893, 42.283662]",Point,PersLoc,7,MISPER,403,C11,First,No,FULLER ST,Other,Unarmed,773635.2414,,2928692.7430000002,2013

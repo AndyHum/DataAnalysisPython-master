@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40174,152010053.0,Friday,No,2015-02-06T15:00:00.000,PersLoc,"[-71.083365, 42.331551]",Point,PersLoc,2,IVPER,0,B2,Day,No,RUGGLES ST,Other,Unarmed,768822.3904,SHAWMUT ST,2946120.954,2015
+94197,152010236.0,Friday,No,2015-02-06T15:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,2,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+192488,152010021.0,Friday,No,2015-02-06T22:14:00.000,PersLoc,"[-71.06974, 42.289166]",Point,PersLoc,2,IVPER,0,C11,First,No,BRENT ST,Other,Unarmed,772584.3859,,2930693.4839999997,2015
+238323,152010032.0,Friday,No,2015-02-06T23:15:00.000,PersLoc,"[-71.057908, 42.293715]",Point,PersLoc,2,MISSIN,0,C11,First,No,WHITTEN ST,Other,Unarmed,775776.9943,,2932367.5560000003,2015
+245344,152009902.0,Friday,No,2015-02-06T09:40:00.000,PersLoc,"[-71.09956, 42.271646]",Point,PersLoc,2,IVPER,0,B3,Day,No,FAVRE ST,Other,Unarmed,764545.8737,,2924269.6580000003,2015

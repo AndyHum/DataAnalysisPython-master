@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12973,140191256.0,Sunday,No,2014-03-30T08:18:00.000,InvProp,"[-71.084625, 42.311006]",Point,InvProp,3,REQP  ,320,B2,Day,No,CRAWFORD ST,Part three,Unarmed,768518.1535,,2938632.245,2014
+35607,140192454.0,Sunday,No,2014-03-30T21:24:00.000,InvProp,"[-71.095087, 42.323178]",Point,InvProp,3,DISTRB,301,B2,First,No,HIGHLAND ST,Part three,Unarmed,765667.2517,,2943054.258,2014
+142751,140191722.0,Sunday,No,2014-03-30T13:53:00.000,InvProp,"[-71.157836, 42.262161]",Point,InvProp,3,IVPREM,713,E5,Day,No,OVERLOOK RD,Part three,Unarmed,748787.2412,,2920744.4239999996,2014
+213141,140191156.0,Sunday,No,2014-03-30T04:45:00.000,InvProp,"[-71.076635, 42.295411]",Point,InvProp,3,SHOTS ,447,B3,Last,No,SPENCER ST,Part three,Unarmed,770707.4946,,2932959.915,2014
+214886,140193176.0,Sunday,No,2014-03-30T19:06:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,3,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+245296,140192144.0,Sunday,No,2014-03-30T18:07:00.000,InvProp,"[-71.06084, 42.377896]",Point,InvProp,3,ALARMR,56,A15,First,No,CONCORD ST,Part three,Unarmed,774826.0028,,2963040.5089999996,2014
+256355,140225708.0,Sunday,No,2014-03-30T12:00:00.000,InvProp,"[-71.16086, 42.270911]",Point,InvProp,3,FDWEAP,716,E5,Day,No,CENTRE LA,Part three,Unarmed,747956.1989,,2923929.8839999996,2014
+262145,140193842.0,Sunday,No,2014-03-30T04:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVPREM,110,A1,Last,No,NORTHERN AV,Part three,Unarmed,,,,2014

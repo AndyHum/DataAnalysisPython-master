@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12997,142055925.0,Tuesday,No,2014-12-09T12:00:00.000,PropFound,"[-71.08851, 42.281636]",Point,PropFound,12,IVMV,0,B3,Day,No,VERRILL ST,Part three,Unarmed,767518.9737,,2927924.383,2014
+20458,142055957.0,Tuesday,No,2014-12-09T11:15:00.000,PropFound,"[-71.154375, 42.290401]",Point,PropFound,12,PROP,0,E5,Day,No,WILLOW ST,Part three,Unarmed,749682.5973,,2931039.3819999998,2014
+52131,142056185.0,Tuesday,No,2014-12-09T14:00:00.000,PropFound,"[-71.074427, 42.271311]",Point,PropFound,12,LARCEN,0,B3,Day,No,RIVER ST,Part three,Unarmed,771348.5999,,2924180.5,2014
+265800,142055986.0,Tuesday,No,2014-12-09T16:45:00.000,PropFound,"[0, 0]",Point,PropFound,12,PROP,0,A1,First,No,WASHINGTON MALL,Part three,Unarmed,,,,2014

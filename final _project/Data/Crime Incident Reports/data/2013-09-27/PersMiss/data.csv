@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80964,130617295.0,Friday,No,2013-09-27T08:35:00.000,PersMiss,"[-71.074745, 42.290261]",Point,PersMiss,9,MSNCOM,438,B3,Day,No,SOUTHERN AV,Other,Unarmed,771228.1822,,2931085.725,2013
+220451,130676644.0,Friday,No,2013-09-27T10:30:00.000,PersMiss,"[-71.071805, 42.324846]",Point,PersMiss,9,MISPER,181,B2,Day,No,GEORGE ST,Other,Unarmed,771960.3825,,2943693.017,2013
+254249,130618653.0,Friday,No,2013-09-27T18:30:00.000,PersMiss,"[-71.106975, 42.334666]",Point,PersMiss,9,MISPER,593,B2,First,No,FENWOOD RD,Other,Unarmed,762433.2051,,2947225.818,2013

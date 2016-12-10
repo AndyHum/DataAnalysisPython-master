@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125786,140057238.0,Tuesday,No,2014-01-28T17:31:00.000,FORGERY,"[-71.08337, 42.337666]",Point,10xx,1,UNK   ,274,D4,First,No,TREMONT ST,Part Two,Unarmed,768810.1519,,2948349.363,2014
+192332,140056592.0,Tuesday,No,2014-01-28T12:38:00.000,FORGERY,"[-71.057335, 42.312466]",Point,10xx,1,LARCRT,248,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775896.7749,,2939201.52,2014
+226143,140057260.0,Tuesday,No,2014-01-28T11:00:00.000,FORGERY,"[-71.074209, 42.326354]",Point,10xx,1,IVPER ,180,B2,Day,No,WASHINGTON ST,Part Two,Other,771307.4363,,2944239.2210000004,2014

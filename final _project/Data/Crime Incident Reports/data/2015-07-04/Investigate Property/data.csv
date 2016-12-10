@@ -1,0 +1,19 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17850,,Saturday,No,2015-07-04T12:36:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,92,A1,,No,CITY HALL PLZ,Part Three,None,,,,2015
+34296,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.058524, 42.359721]",Point,InvProp,7,IVPREM,92,A1,,No,CITY HALL PLZ,Part Three,None,775486.0,,2960000.0,2015
+42331,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.09599, 42.332013]",Point,InvProp,7,ALARM,588,B2,,No,GURNEY ST,Part Three,None,765408.0,,2950000.0,2015
+44780,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.059709, 42.297555]",Point,InvProp,7,IVPREM,355,C11,,No,GIBSON ST,Part Three,None,775283.0,,2930000.0,2015
+60977,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.081614, 42.351153]",Point,InvProp,7,FIRE,136,D4,,No,COMMONWEALTH AVE,Part Three,None,769261.0,,2950000.0,2015
+82879,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.075881, 42.354519]",Point,InvProp,7,SUSOBJ,131,D4,,No,BEACON ST,Part Three,None,770804.0,,2950000.0,2015
+107059,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,7,IVPREM,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+107099,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.109561, 42.340216]",Point,InvProp,7,IVPER,613,B2,,No,LONGWOOD AVE,Part Three,None,761725.0,,2950000.0,2015
+109278,,Saturday,No,2015-07-04T17:09:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,89,A1,,No,COMMERCIAL ST,Part Three,None,,,,2015
+123848,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.070453, 42.296422]",Point,InvProp,7,SHOTS,358,C11,,No,GREENBRIER ST,Part Three,None,772378.0,,2930000.0,2015
+128745,,Saturday,No,2015-07-04T10:04:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPER,131,D4,,No,BEACON ST,Part Three,None,,,,2015
+148165,,Saturday,No,2015-07-04T12:34:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,139,D4,,No,BACK ST,Part Three,None,, MASSACHUSETTS AVE ,,2015
+150461,,Saturday,No,2015-07-04T09:06:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,98,A1,,No,WASHINGTON ST,Part Three,None,,,,2015
+193782,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.074322, 42.280587]",Point,InvProp,7,SSA,416,B3,,No,FAIRMOUNT ST,Part Three,None,771360.0,,2930000.0,2015
+193799,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.07082, 42.361928]",Point,InvProp,7,CD9,64,A1,,No,CHARLES ST,Part Three,None,772159.0,,2960000.0,2015
+226819,,Saturday,No,2015-07-04T12:41:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,0,,,No,,Part Three,None,,,,2015
+232089,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.122428, 42.254445]",Point,InvProp,7,CD9,521,E18,,No,MAPLE ST,Part Three,None,758384.0,,2920000.0,2015
+238000,,Saturday,No,2015-07-04T00:00:00.000,Investigate Property,"[-71.107114, 42.333663]",Point,InvProp,7,IVPREM,611,B2,,No,SAINT ALBANS RD,Part Three,None,762397.0,,2950000.0,2015

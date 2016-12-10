@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129840,120667798.0,Monday,No,2012-10-22T17:00:00.000,PropLost,"[-71.141615, 42.343421]",Point,PropLost,10,LSTPRP,791,D14,First,No,ALLSTON ST,Part Three,Unarmed,753053.8688,,2950375.055,2012
+165797,120728570.0,Monday,No,2012-10-22T12:00:00.000,PropLost,"[-71.061465, 42.318831]",Point,PropLost,10,LSTPRP,240,C11,Day,No,SUMNER ST,Part Three,Other,774767.7965,,2941515.258,2012
+196943,120666104.0,Monday,No,2012-10-22T14:15:00.000,PropLost,"[-71.05992, 42.356996]",Point,PropLost,10,LARCRT,103,A1,Day,No,PROVINCE ST,Part Three,Unarmed,775113.8775,,2955425.4110000003,2012
+246445,120665473.0,Monday,No,2012-10-22T12:59:00.000,PropLost,"[-71.080065, 42.310896]",Point,PropLost,10,LSTPRP,328,B2,Day,No,BRUNSWICK ST,Part Three,Unarmed,769751.7413,,2938598.3019999997,2012
+265207,120677653.0,Monday,No,2012-10-22T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,72,A1,First,No,EXETER ST,Part Three,Unarmed,,HUNTINGTON AV,,2012

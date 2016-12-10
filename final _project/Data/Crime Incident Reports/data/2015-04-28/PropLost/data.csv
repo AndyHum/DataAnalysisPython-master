@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+347,152034828.0,Tuesday,No,2015-04-28T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B2,Day,No,EUSTIS ST,Part three,Unarmed,,,,2015
+620,152036257.0,Tuesday,No,2015-04-28T15:15:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+182859,152035255.0,Tuesday,No,2015-04-28T20:00:00.000,PropLost,"[-71.058866, 42.357544]",Point,PropLost,4,PROP,0,A1,First,No,SCHOOL ST,Part three,Unarmed,775397.5892,WASHINGTON AV,2955626.3189999997,2015

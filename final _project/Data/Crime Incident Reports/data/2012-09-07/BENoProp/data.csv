@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21108,120561758.0,Friday,No,2012-09-07T23:00:00.000,BENoProp,"[-71.07879, 42.338343]",Point,BENoProp,9,BERPT ,156,D4,First,No,MASSACHUSETTS AV,Part One,Unarmed,770047.1337,,2948601.985,2012
+47412,120559142.0,Friday,No,2012-09-07T08:58:00.000,BENoProp,"[-71.07699, 42.28426]",Point,BENoProp,9,BEIP  ,435,B3,Day,No,MILTON AV,Part One,Unarmed,770631.5427,,2928895.599,2012
+107728,120560464.0,Friday,No,2012-09-07T18:29:00.000,BENoProp,"[-71.12952, 42.254586]",Point,BENoProp,9,BERPT ,541,E18,First,No,CLEVELAND ST,Part One,Unarmed,756464.2646,,2918016.119,2012

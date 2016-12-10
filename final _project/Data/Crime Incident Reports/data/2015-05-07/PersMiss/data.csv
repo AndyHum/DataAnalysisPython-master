@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+960,152038331.0,Thursday,No,2015-05-07T02:15:00.000,PersMiss,"[0, 0]",Point,PersMiss,5,MISSIN,0,A7,Last,No,SARATOGA ST,Other,Unarmed,,,,2015
+161940,152037842.0,Thursday,No,2015-05-07T22:15:00.000,PersMiss,"[-71.049385, 42.331776]",Point,PersMiss,5,IVPER,0,C6,First,No,E 8TH ST,Other,Unarmed,778009.8586,,2946249.6580000003,2015

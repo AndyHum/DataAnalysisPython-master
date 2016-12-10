@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61733,130775532.0,Monday,No,2013-12-09T09:00:00.000,Service,"[-71.06212, 42.351391]",Point,Service,12,ARREST,117,A1,Day,No,BEACH ST,Part three,Unarmed,774529.7407,KNAPP ST,2953379.7810000004,2013
+114345,130776619.0,Monday,No,2013-12-09T18:12:00.000,Service,"[-71.032864, 42.364113]",Point,Service,12,SDNDTH,34,A7,First,No,MARGINAL ST,Part three,Other,782412.4049,,2958057.764,2013
+171937,130776299.0,Monday,No,2013-12-09T15:55:00.000,Service,"[-71.126256, 42.241229]",Point,Service,12,LARCRT,525,E18,Day,No,TRUMAN PY,Part three,Unarmed,757369.1604,,2913152.458,2013
+177882,130776807.0,Monday,No,2013-12-09T19:45:00.000,Service,"[-71.09145, 42.283946]",Point,Service,12,ARREST,428,B3,First,No,BLUE HILL AV,Part three,Unarmed,766719.3645,,2928762.354,2013

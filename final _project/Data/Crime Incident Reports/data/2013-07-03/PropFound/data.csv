@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85059,130408597.0,Wednesday,No,2013-07-03T18:00:00.000,PropFound,"[-71.06174, 42.356671]",Point,PropFound,7,FDPROP,102,A1,First,No,HAMILTON PL,Part three,Unarmed,774622.5707,TREMONT ST,2955304.441,2013
+193448,130408328.0,Wednesday,No,2013-07-03T14:00:00.000,PropFound,"[-71.05899, 42.356791]",Point,PropFound,7,INVEST,104,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775365.6264,,2955352.003,2013
+261189,130408193.0,Wednesday,No,2013-07-03T15:40:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,200,C6,Day,No,HARBOR VIEW ST,Part three,Unarmed,,,,2013
+264251,130409908.0,Wednesday,No,2013-07-03T18:30:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,71,A1,First,No,MT VERNON ST,Part three,Unarmed,,,,2013
+266361,130407328.0,Wednesday,No,2013-07-03T09:00:00.000,PropFound,"[0, 0]",Point,PropFound,7,LSTPRP,571,E13,Day,No,PETER PARLEY RD,Part three,Unarmed,,,,2013

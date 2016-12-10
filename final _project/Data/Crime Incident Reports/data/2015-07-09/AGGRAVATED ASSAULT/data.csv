@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16189,,Thursday,No,2015-07-09T00:00:00.000,Aggravated Assault,"[-71.073229, 42.333313]",Point,04xx,7,AB,179,D4,,No,MASSACHUSETTS AVE,Part One,Other,771560.0,,2950000.0,2015
+123056,,Thursday,No,2015-07-09T00:30:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,,181,B2,,No,CLARENCE ST,Part One,Blunt Object,,DUDLEY ST,,2015
+188175,,Thursday,No,2015-07-09T00:00:00.000,Aggravated Assault,"[-71.056659, 42.329451]",Point,04xx,7,AB,193,C6,,No,PREBLE ST,Part One,None,776047.0,,2950000.0,2015
+202597,,Thursday,No,2015-07-09T00:00:00.000,Aggravated Assault,"[-71.131422, 42.275625]",Point,04xx,7,STAB,551,E5,,No,GLENDOWER RD,Part One,Knife/Cutting Instrument,755916.0,,2930000.0,2015
+208494,,Thursday,No,2015-07-09T00:00:00.000,Aggravated Assault,"[-71.120246, 42.272057]",Point,04xx,7,ARREST,498,E18,,No,HYDE PARK AVE,Part One,Knife/Cutting Instrument,758947.0,,2920000.0,2015
+239683,,Thursday,No,2015-07-09T00:00:00.000,Aggravated Assault,"[-71.074258, 42.30091]",Point,04xx,7,PERGUN,462,C11,,No,BOWDOIN AVE,Part One,Firearm,771340.0,,2930000.0,2015

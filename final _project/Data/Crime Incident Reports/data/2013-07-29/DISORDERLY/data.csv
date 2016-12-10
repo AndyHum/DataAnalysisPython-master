@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10963,130472923.0,Monday,No,2013-07-29T22:04:00.000,DISORDERLY,"[-71.08402, 42.332051]",Point,24xx,7,SSTOP ,287,B2,First,No,RUGGLES ST,Part Two,Unarmed,768644.3942,SHAWMUT AV,2946302.298,2013
+11333,130471738.0,Monday,No,2013-07-29T13:26:00.000,DISORDERLY,"[-71.09098, 42.277831]",Point,24xx,7,ARREST,427,B3,Day,No,FESSENDEN ST,Part Two,Unarmed,766857.2303,NORFOLK ST,2926534.5719999997,2013
+205648,130471614.0,Monday,No,2013-07-29T12:30:00.000,DISORDERLY,"[-71.07263, 42.299721]",Point,24xx,7,ARREST,462,C11,Day,No,GREENBRIER ST,Part Two,Unarmed,771783.1615,BOWDOIN ST,2934535.9469999997,2013

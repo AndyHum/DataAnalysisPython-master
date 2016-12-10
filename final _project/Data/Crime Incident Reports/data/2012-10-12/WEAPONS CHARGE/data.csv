@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92646,120642151.0,Friday,No,2012-10-12T03:31:00.000,WEAPONS CHARGE,"[-71.1501, 42.337221]",Point,15xx,10,CD11  ,790,D14,Last,No,SUTHERLAND RD,Part Two,Unarmed,750769.2855,,2948106.13,2012
+112269,120643714.0,Friday,No,2012-10-12T19:47:00.000,WEAPONS CHARGE,"[-71.0726, 42.289691]",Point,15xx,10,CD11  ,436,B3,First,No,EPPING ST,Part Two,Unarmed,771809.5923,NORFOLK ST,2930880.9080000003,2012
+212003,120642718.0,Friday,No,2012-10-12T11:05:00.000,WEAPONS CHARGE,"[-71.065835, 42.288941]",Point,15xx,10,IVPER ,817,C11,Day,No,ARGYLE ST,Part Two,Unarmed,773641.392,,2930616.8419999997,2012

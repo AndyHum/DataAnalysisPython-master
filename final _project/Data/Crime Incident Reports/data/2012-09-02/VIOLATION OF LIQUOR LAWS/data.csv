@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+144519,120547768.0,Sunday,No,2012-09-02T01:30:00.000,VIOLATION OF LIQUOR LAWS,"[-71.10512, 42.331011]",Point,22xx,9,IVPER ,604,B2,Last,No,SACHEM ST,Part Two,Unarmed,762940.9240000001,HILLSIDE ST,2945896.185,2012
+213272,120551707.0,Sunday,No,2012-09-02T23:40:00.000,VIOLATION OF LIQUOR LAWS,"[-71.04206, 42.317766]",Point,22xx,9,MISC  ,256,C6,First,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2012
+225872,120547398.0,Sunday,No,2012-09-02T00:12:00.000,VIOLATION OF LIQUOR LAWS,"[-71.155161, 42.340575]",Point,22xx,9,ARREST,773,D14,Last,No,CHESTNUT HILL AV,Part Two,Unarmed,749395.9375,,2949322.7189999996,2012

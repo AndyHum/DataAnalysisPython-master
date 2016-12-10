@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+194103,142028426.0,Thursday,No,2014-09-11T13:00:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,9,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+213910,142028390.0,Thursday,No,2014-09-11T12:15:00.000,Arrest,"[-71.087047, 42.328859]",Point,Arrest,9,ARREST,0,B2,Day,No,KENILWORTH ST,Part three,Unarmed,767831.52,,2945134.812,2014
+266386,142028571.0,Thursday,No,2014-09-11T22:09:00.000,Arrest,"[0, 0]",Point,Arrest,9,ARREST,0,B2,First,No,ST JAMES ST,Part three,Unarmed,,,,2014

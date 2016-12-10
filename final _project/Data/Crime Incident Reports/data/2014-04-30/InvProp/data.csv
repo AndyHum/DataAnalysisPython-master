@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24090,140263440.0,Wednesday,No,2014-04-30T15:57:00.000,InvProp,"[-71.038957, 42.370546]",Point,InvProp,4,IVPREM,28,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780753.025,,2960393.236,2014
+43035,140262357.0,Wednesday,No,2014-04-30T08:08:00.000,InvProp,"[-71.13323, 42.234316]",Point,InvProp,4,ALARMR,527,E18,Day,No,HYDE PARK AV,Part three,Unarmed,755491.6494,,2910625.1410000003,2014
+145603,140264562.0,Wednesday,No,2014-04-30T19:00:00.000,InvProp,"[-71.100905, 42.314216]",Point,InvProp,4,IVPER ,577,E13,First,No,EGLESTON ST,Part three,Unarmed,764109.2722,,2939781.1010000003,2014
+237129,140261980.0,Wednesday,No,2014-04-30T00:59:00.000,InvProp,"[-71.138508, 42.355898]",Point,InvProp,4,LMUSIC,804,D14,Last,No,EVERETT ST,Part three,Unarmed,753874.4121,,2954925.45,2014

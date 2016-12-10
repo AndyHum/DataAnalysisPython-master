@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82493,,Monday,No,2015-06-22T00:00:00.000,Fraud,"[-71.128657, 42.351594]",Point,11xx,6,,796,D14,,No,CHESTER ST,Part Two,None,756544.0,,2950000.0,2015
+96432,,Monday,No,2015-06-22T11:00:00.000,Fraud,"[0, 0]",Point,11xx,6,,630,D4,,No,BEACON ST,Part Two,None,, PARK DR ,,2015
+140064,,Monday,No,2015-06-22T00:00:00.000,Fraud,"[-71.083415, 42.329025]",Point,11xx,6,IVPER,280,B2,,No,WARREN ST,Part Two,None,768813.0,,2950000.0,2015
+149281,,Monday,No,2015-06-22T00:00:00.000,Fraud,"[-71.08055, 42.306604]",Point,11xx,6,,329,B2,,No,BISHOP JOE L SMITH WAY,Part Two,None,769628.0,,2940000.0,2015
+223412,,Monday,No,2015-06-22T00:00:00.000,Fraud,"[-71.085634, 42.328663]",Point,11xx,6,IVPER,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015

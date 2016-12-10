@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90172,142059393.0,Saturday,No,2014-12-20T19:56:00.000,DEATH INVESTIGATION,"[-71.067175, 42.316924]",Point,01INV,12,UNKEMS,0,B2,First,No,VIRGINIA ST,Part three,Unarmed,773226.8846,,2940812.425,2014
+147801,142059303.0,Saturday,No,2014-12-20T13:36:00.000,DEATH INVESTIGATION,"[-71.04671, 42.334205]",Point,01INV,12,UNKEMS,0,C6,Day,No,NATIONAL ST,Part three,Other,778728.3792,,2947138.459,2014
+170000,142059239.0,Saturday,No,2014-12-20T10:15:00.000,DEATH INVESTIGATION,"[-71.06401, 42.302851]",Point,01INV,12,UNKEMS,0,C11,Day,No,DRAPER ST,Part three,Unarmed,774109.2782,,2935688.367,2014
+197539,142059310.0,Saturday,No,2014-12-20T10:43:00.000,DEATH INVESTIGATION,"[-71.106823, 42.339255]",Point,01INV,12,ALARM,0,B2,Day,No,BROOKLINE AV,Part three,Unarmed,762466.4632,,2948898.37,2014

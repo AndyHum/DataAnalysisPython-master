@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29466,130273652.0,Monday,No,2013-04-15T09:00:00.000,STOLEN PROPERTY CHARGES,"[-71.096413, 42.344914]",Point,13xx,4,LARCRT,624,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,765271.056,,2950973.562,2013
+85870,130222234.0,Monday,No,2013-04-15T12:50:00.000,STOLEN PROPERTY CHARGES,"[-71.137296, 42.355482]",Point,13xx,4,INVEST,803,D14,Day,No,HANO ST,Part Two,Unarmed,754202.5886,,2954775.2789999996,2013
+92814,130222255.0,Monday,No,2013-04-15T12:51:00.000,STOLEN PROPERTY CHARGES,"[-71.057805, 42.282971]",Point,13xx,4,LARCIP,390,C11,Day,No,ELY RD,Part Two,Unarmed,775825.3745,,2928452.455,2013

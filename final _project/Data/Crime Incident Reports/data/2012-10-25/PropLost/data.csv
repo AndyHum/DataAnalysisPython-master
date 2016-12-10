@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31887,120677697.0,Thursday,No,2012-10-25T01:00:00.000,PropLost,"[-71.08357, 42.350261]",Point,PropLost,10,LARCRT,137,D4,Last,No,COMMONWEALTH AV,Part Three,Unarmed,768733.6695,,2952938.954,2012
+57360,120683973.0,Thursday,No,2012-10-25T19:00:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,10,LSTPRP,289,B2,First,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+179982,120700171.0,Thursday,No,2012-10-25T13:13:00.000,PropLost,"[-71.063107, 42.301073]",Point,PropLost,10,LSTPRP,352,C11,Day,No,ARCADIA PARK,Part Three,Other,774356.6356,,2935041.712,2012

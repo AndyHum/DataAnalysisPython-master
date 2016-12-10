@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4095,142005759.0,Thursday,No,2014-07-03T09:00:00.000,PropLost,"[-71.14811, 42.355891]",Point,PropLost,7,IVPER,0,D14,Day,No,N BEACON ST,Part three,Unarmed,751279.2507,,2954912.067,2014
+69738,142005796.0,Thursday,No,2014-07-03T18:31:00.000,PropLost,"[-71.083699, 42.330436]",Point,PropLost,7,LARCEN,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768733.8404,,2945714.085,2014
+126200,142006307.0,Thursday,No,2014-07-03T01:00:00.000,PropLost,"[-71.059445, 42.294906]",Point,PropLost,7,PROP,0,C11,Last,No,LAFIELD ST,Part three,Unarmed,775359.1293,,2932799.438,2014
+134477,142007711.0,Thursday,No,2014-07-03T12:00:00.000,PropLost,"[-71.071885, 42.351536]",Point,PropLost,7,MISC,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771889.9292,,2953419.2260000003,2014
+151008,142006199.0,Thursday,No,2014-07-03T11:00:00.000,PropLost,"[-71.10383, 42.322836]",Point,PropLost,7,PROP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2014
+156999,142005798.0,Thursday,No,2014-07-03T22:40:00.000,PropLost,"[-71.098725, 42.315361]",Point,PropLost,7,LARCEN,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,764696.9253,,2940201.124,2014
+181217,142006103.0,Thursday,No,2014-07-03T12:00:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,7,PROP,0,D4,Day,No,HARRISON AV,Part three,Other,772586.4767,,2949038.664,2014
+202671,142006294.0,Thursday,No,2014-07-03T14:00:00.000,PropLost,"[-71.063785, 42.349246]",Point,PropLost,7,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774083.6785,,2952595.797,2014
+257560,142007001.0,Thursday,No,2014-07-03T20:00:00.000,PropLost,"[-71.066939, 42.31286]",Point,PropLost,7,PROP,0,C11,First,No,GLENDALE ST,Part three,Unarmed,773298.182,,2939331.72,2014
+264544,142005558.0,Thursday,No,2014-07-03T11:48:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,,,,2014
+265715,142012827.0,Thursday,No,2014-07-03T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,LARCEN,0,A1,First,No,CHARLES ST,Part three,Unarmed,,RIVER ST,,2014

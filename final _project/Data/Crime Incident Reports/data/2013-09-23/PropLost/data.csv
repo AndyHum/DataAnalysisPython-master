@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7351,130607510.0,Monday,No,2013-09-23T12:15:00.000,PropLost,"[-71.057745, 42.358776]",Point,PropLost,9,LSTPRP,98,A1,Day,No,STATE ST,Part three,Unarmed,775698.3790000001,,2956077.1180000002,2013
+45612,130607541.0,Monday,No,2013-09-23T13:00:00.000,PropLost,"[-71.134456, 42.363298]",Point,PropLost,9,INVEST,811,D14,Day,No,WESTERN AV,Part three,Unarmed,754958.1462,,2957626.671,2013
+50290,130611559.0,Monday,No,2013-09-23T10:30:00.000,PropLost,"[-71.061945, 42.349426]",Point,PropLost,9,LSTPRP,124,A1,Day,No,HARRISON AV,Part three,Unarmed,774580.7227,,2952663.942,2013
+51086,130609257.0,Monday,No,2013-09-23T19:30:00.000,PropLost,"[-71.137498, 42.274144]",Point,PropLost,9,LSTPRP,550,E5,First,No,HIGHCREST TR,Part three,Unarmed,754274.1567,,2925133.992,2013
+59290,130616624.0,Monday,No,2013-09-23T09:00:00.000,PropLost,"[-71.0833, 42.325951]",Point,PropLost,9,LSTPRP,296,B2,Day,No,WARREN ST,Part three,Unarmed,768849.9341,MORELAND ST,2944080.3010000004,2013
+114101,130612192.0,Monday,No,2013-09-23T20:00:00.000,PropLost,"[-71.08495, 42.338171]",Point,PropLost,9,LSTPRP,285,D4,First,No,COLUMBUS AV,Part three,Unarmed,768382.0787,,2948531.312,2013
+127652,130806688.0,Monday,No,2013-09-23T20:00:00.000,PropLost,"[-71.065145, 42.306276]",Point,PropLost,9,LSTPRP,340,C11,First,No,MT IDA RD,Part three,Unarmed,773795.8821,,2936934.922,2013
+128293,130609413.0,Monday,No,2013-09-23T11:00:00.000,PropLost,"[-71.063757, 42.354358]",Point,PropLost,9,LSTPRP,111,A1,Day,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2013
+263727,130607166.0,Monday,No,2013-09-23T12:11:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,348,C11,Day,No,KIMBALL ST,Part three,Unarmed,,,,2013

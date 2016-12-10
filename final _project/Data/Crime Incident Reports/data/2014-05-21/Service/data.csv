@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89410,140315725.0,Wednesday,No,2014-05-21T10:30:00.000,Service,"[-71.11297, 42.300811]",Point,Service,5,LARCRT,445,E13,Day,No,WASHINGTON ST,Part three,Unarmed,760868.2636,,2934881.061,2014
+129774,140316787.0,Wednesday,No,2014-05-21T16:48:00.000,Service,"[-71.06287, 42.352321]",Point,Service,5,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2014
+198005,140315405.0,Wednesday,No,2014-05-21T08:00:00.000,Service,"[-71.08925, 42.273691]",Point,Service,5,ARREST,421,B3,Day,No,W SELDEN ST,Part three,Unarmed,767332.668,,2925028.15,2014
+239960,140317456.0,Wednesday,No,2014-05-21T20:30:00.000,Service,"[-71.05958, 42.351571]",Point,Service,5,ARREST,116,A1,First,No,EDINBORO ST,Part three,Unarmed,775215.9809999999,KINGSTON ST,2953448.912,2014
+254687,140315788.0,Wednesday,No,2014-05-21T10:46:00.000,Service,"[-71.119695, 42.291721]",Point,Service,5,SSTOP ,564,E5,Day,No,ARCHDALE RD,Part three,Unarmed,759063.7629999999,,2931560.3389999997,2014
+262685,140316089.0,Wednesday,No,2014-05-21T12:28:00.000,Service,"[0, 0]",Point,Service,5,ARREST,0,A15,Day,No,SULLIVAN SQ,Part three,Unarmed,,,,2014

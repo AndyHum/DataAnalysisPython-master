@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31874,152006807.0,Sunday,No,2015-01-25T13:25:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,1,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015
+72671,152006875.0,Sunday,No,2015-01-25T16:30:00.000,PropFound,"[-71.07735, 42.350071]",Point,PropFound,1,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,770415.3539,DARTMOUTH ST,2952877.982,2015
+107653,152006881.0,Sunday,No,2015-01-25T18:25:00.000,PropFound,"[-71.078665, 42.321026]",Point,PropFound,1,PROP,0,B2,First,No,ALASKA ST,Part three,Unarmed,770112.1776,,2942291.707,2015
+263696,152006783.0,Sunday,No,2015-01-25T11:00:00.000,PropFound,"[0, 0]",Point,PropFound,1,PROP,0,A7,Day,No,AIRPORT RD,Part three,Unarmed,,,,2015
+266316,152006817.0,Sunday,No,2015-01-25T14:00:00.000,PropFound,"[0, 0]",Point,PropFound,1,PROP,0,D14,Day,No,WESTERN AV,Part three,Unarmed,,,,2015

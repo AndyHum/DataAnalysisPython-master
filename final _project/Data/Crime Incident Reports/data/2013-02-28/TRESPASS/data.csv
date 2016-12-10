@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7585,130121812.0,Thursday,No,2013-02-28T11:38:00.000,TRESPASS,"[-71.0729, 42.333256]",Point,TRESPASS,2,TRANSP,0,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2013
+117491,130123545.0,Thursday,No,2013-02-28T16:37:00.000,TRESPASS,"[-71.078394, 42.32898]",Point,TRESPASS,2,IVPER ,904,B2,First,No,EUSTIS ST,Part Two,Unarmed,770171.0377,,2945190.659,2013
+189875,130122927.0,Thursday,No,2013-02-28T08:00:00.000,TRESPASS,"[-71.06494, 42.343021]",Point,TRESPASS,2,ARREST,165,D4,Day,No,HARRISON AV,Part Two,Unarmed,773783.0344,,2950325.6980000003,2013

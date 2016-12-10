@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14874,120564099.0,Sunday,No,2012-09-09T08:01:00.000,Arrest,"[-71.08528, 42.276601]",Point,Arrest,9,ARREST,420,B3,Day,No,LORNA RD,Part Three,Unarmed,768401.9484,,2926093.793,2012
+115372,120564659.0,Sunday,No,2012-09-09T15:36:00.000,Arrest,"[-71.063757, 42.354358]",Point,Arrest,9,ARREST,72,A1,Day,No,TREMONT ST,Part Three,Unarmed,774081.4655,,2954458.626,2012
+168240,120564080.0,Sunday,No,2012-09-09T07:44:00.000,Arrest,"[-71.0775, 42.271566]",Point,Arrest,9,CD11  ,409,B3,Day,No,RIVER ST,Part Three,Unarmed,770516.5134,,2924269.305,2012

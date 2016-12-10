@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1477,152027117.0,Friday,No,2015-04-03T14:20:00.000,DISORDERLY,"[-71.0729, 42.333256]",Point,24xx,4,ARREST,0,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2015
+2344,152027148.0,Friday,No,2015-04-03T15:20:00.000,DISORDERLY,"[0, 0]",Point,24xx,4,FIGHT,0,A7,Day,No,SARATOGA ST,Part Two,Unarmed,,,,2015
+138516,152026915.0,Friday,No,2015-04-03T02:25:00.000,DISORDERLY,"[-71.066552, 42.314692]",Point,24xx,4,ARREST,0,B2,Last,No,BIRD ST,Part Two,Unarmed,773399.5187,,2939999.607,2015

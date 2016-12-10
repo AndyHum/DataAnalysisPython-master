@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110070,152038303.0,Sunday,No,2015-05-10T18:10:00.000,BENoProp,"[-71.061552, 42.311798]",Point,BENoProp,5,HOMINV,0,C11,First,No,DOWNER AV,Part One,Firearm,774757.225,,2938952.006,2015
+139258,152038472.0,Sunday,No,2015-05-10T22:30:00.000,BENoProp,"[-71.108365, 42.313161]",Point,BENoProp,5,BE,0,E13,First,No,BILTMORE ST,Part One,Unarmed,762093.3609,,2939387.289,2015
+250841,152038158.0,Sunday,No,2015-05-10T01:58:00.000,BENoProp,"[-71.14941, 42.355611]",Point,BENoProp,5,BE,0,D14,Last,No,MARKET ST,Part One,Other,750928.2947,,2954808.582,2015

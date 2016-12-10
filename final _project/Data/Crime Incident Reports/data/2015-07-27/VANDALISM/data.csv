@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23372,,Monday,No,2015-07-27T00:00:00.000,Vandalism,"[-71.084127, 42.319512]",Point,14xx,7,NIDV,309,B2,,No,N CHARLAME TER,Part Two,None,768638.0,,2940000.0,2015
+33178,,Monday,No,2015-07-27T00:00:00.000,Vandalism,"[-71.04039, 42.371724]",Point,14xx,7,VAND,26,A7,,No,LONDON ST,Part Two,None,780363.0,,2960000.0,2015
+62279,,Monday,No,2015-07-27T00:00:00.000,Vandalism,"[-71.079045, 42.304678]",Point,14xx,7,BE,460,C11,,No,BRINSLEY ST,Part Two,None,770039.0,,2940000.0,2015
+82886,,Monday,No,2015-07-27T00:00:00.000,Vandalism,"[-71.065275, 42.31686]",Point,14xx,7,BE,257,B2,,No,COLUMBIA RD,Part Two,None,773741.0,,2940000.0,2015
+105745,,Monday,No,2015-07-27T00:00:00.000,Vandalism,"[-71.095264, 42.276838]",Point,14xx,7,PROP,469,B3,,No,HIAWATHA RD,Part Two,None,765699.0,,2930000.0,2015
+110801,,Monday,No,2015-07-27T07:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,573,E13,,No,GLEN RD,Part Two,None,,WASHINGTON ST,,2015
+239365,,Monday,No,2015-07-27T20:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,446,B3,,No,HARVARD ST,Part Two,None,, NORWELL ST ,,2015
+249824,,Monday,No,2015-07-27T00:00:00.000,Vandalism,"[-71.058463, 42.378875]",Point,14xx,7,IVPREM,0,,,No,O'MEARA,Part Two,None,775466.0,MEDFORD ST,2960000.0,2015

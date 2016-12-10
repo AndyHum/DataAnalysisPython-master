@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79039,142053148.0,Saturday,No,2014-11-29T15:55:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,CD19,0,A1,Day,No,LOUISBURG SQ,Part three,Other,772766.5761,,2955927.264,2014
+116727,142053149.0,Saturday,No,2014-11-29T15:44:00.000,InvProp,"[-71.085315, 42.283331]",Point,InvProp,11,IVPER,0,B3,Day,No,BALLOU AV,Part three,Unarmed,768380.5554,,2928546.251,2014
+154179,142053058.0,Saturday,No,2014-11-29T08:13:00.000,InvProp,"[-71.0333, 42.333716]",Point,InvProp,11,ALARM,0,C6,Day,No,M ST,Part three,Firearm,782355.2151,,2946980.012,2014
+174403,142053052.0,Saturday,No,2014-11-29T08:00:00.000,InvProp,"[-71.165805, 42.340101]",Point,InvProp,11,CD19,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,746519.0351,,2949138.631,2014
+177726,142053032.0,Saturday,No,2014-11-29T05:07:00.000,InvProp,"[-71.05718, 42.29346]",Point,InvProp,11,SSA,0,C11,Last,No,ADAMS ST,Part three,Other,775974.4263,,2932275.68,2014

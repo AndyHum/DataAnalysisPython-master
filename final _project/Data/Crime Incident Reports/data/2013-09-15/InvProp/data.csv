@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24180,130802552.0,Sunday,No,2013-09-15T12:00:00.000,InvProp,"[-71.166301, 42.346522]",Point,InvProp,9,IVPREM,751,D14,Day,No,KENRICK ST,Part three,Other,746375.6414,,2951477.848,2013
+31389,130587302.0,Sunday,No,2013-09-15T04:14:00.000,InvProp,"[-71.081371, 42.32956]",Point,InvProp,9,SHOTS ,904,B2,Last,No,DEGAUTIER WY,Part three,Other,769364.9874,,2945397.773,2013
+124593,130588171.0,Sunday,No,2013-09-15T10:30:00.000,InvProp,"[-71.06176, 42.301701]",Point,InvProp,9,BERPT ,352,C11,Day,No,ARCADIA ST,Part three,Unarmed,774720.088,,2935272.409,2013
+158936,130587922.0,Sunday,No,2013-09-15T13:30:00.000,InvProp,"[-71.07709, 42.349476]",Point,InvProp,9,CD9   ,130,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,770486.7093,,2952661.501,2013

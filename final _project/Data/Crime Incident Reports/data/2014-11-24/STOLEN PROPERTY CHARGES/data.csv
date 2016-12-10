@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96411,142052186.0,Monday,No,2014-11-24T11:00:00.000,STOLEN PROPERTY CHARGES,"[-71.068529, 42.377114]",Point,13xx,11,PROP,0,A15,Day,No,DUNSTABLE ST,Part Two,Unarmed,772749.7668,,2962744.6810000003,2014
+98803,142051949.0,Monday,No,2014-11-24T18:40:00.000,STOLEN PROPERTY CHARGES,"[-71.08402, 42.332051]",Point,13xx,11,TS,0,B2,First,No,RUGGLES ST,Part Two,Unarmed,768644.3942,SHAWMUT AV,2946302.298,2014
+151836,142051825.0,Monday,No,2014-11-24T13:15:00.000,STOLEN PROPERTY CHARGES,"[-71.07777, 42.319561]",Point,13xx,11,CD11,0,B2,Day,No,BLUE HILL AV,Part Two,Unarmed,770356.8595,,2941759.0319999997,2014

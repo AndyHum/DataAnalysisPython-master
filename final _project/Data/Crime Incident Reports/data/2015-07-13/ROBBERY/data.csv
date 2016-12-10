@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27169,,Monday,No,2015-07-13T23:00:00.000,Robbery,"[0, 0]",Point,03xx,7,AB,0,A1,,No,CHARLES ST,Part One,None,,FRUIT ST,,2015
+85607,,Monday,No,2015-07-13T04:00:00.000,Robbery,"[0, 0]",Point,03xx,7,PRSCRM,579,E13,,No,CHESTNUT AVE,Part One,None,,ROYS ST,,2015
+90569,,Monday,No,2015-07-13T12:30:00.000,Robbery,"[0, 0]",Point,03xx,7,I00040,367,C11,,No,DALY ST,Part One,None,,KING ST,,2015
+210110,,Monday,No,2015-07-13T19:01:00.000,Robbery,"[0, 0]",Point,03xx,7,IVPER,458,B3,,No,MICHIGAN AVE,Part One,Firearm,,,,2015

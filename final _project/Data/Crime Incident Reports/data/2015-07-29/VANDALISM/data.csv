@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31848,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.094261, 42.322731]",Point,14xx,7,VAND,300,B2,,No,FULDA ST,Part Two,None,765891.0,,2940000.0,2015
+57415,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.088085, 42.290174]",Point,14xx,7,VAND,439,B3,,No,STRATTON ST,Part Two,None,767619.0,,2930000.0,2015
+59643,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.120018, 42.257191]",Point,14xx,7,VAND,519,E18,,No,RIVER ST,Part Two,None,759032.0,,2920000.0,2015
+72711,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.0694, 42.285265]",Point,14xx,7,VAND,402,C11,,No,ASHMONT ST,Part Two,None,772684.0,,2930000.0,2015
+82553,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.074128, 42.350959]",Point,14xx,7,VAND,134,D4,,No,BOYLSTON ST,Part Two,None,771285.0,,2950000.0,2015
+124116,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.033208, 42.375464]",Point,14xx,7,VAND,21,A7,,No,MORRIS ST,Part Two,None,782297.0,,2960000.0,2015
+130122,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.130822, 42.255249]",Point,14xx,7,VAND,538,E18,,No,CLEVELAND ST,Part Two,None,756111.0,,2920000.0,2015
+134039,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.099958, 42.265718]",Point,14xx,7,VAND,481,E18,,No,RECTOR RD,Part Two,None,764448.0,,2920000.0,2015
+134434,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.131719, 42.253147]",Point,14xx,7,SHOTS,541,E18,,No,RESERVATION RD,Part Two,None,755871.0,,2920000.0,2015
+158217,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.076519, 42.328048]",Point,14xx,7,PROP,268,B2,,No,EUSTIS ST,Part Two,None,770680.0,,2940000.0,2015
+229179,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.134176, 42.276511]",Point,14xx,7,VAND,550,E5,,No,BEECH ST,Part Two,None,755170.0,,2930000.0,2015
+231456,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.061676, 42.351457]",Point,14xx,7,MVA,117,A1,,No,BEACH ST,Part Two,None,774650.0,,2950000.0,2015
+234755,,Wednesday,No,2015-07-29T00:00:00.000,Vandalism,"[-71.077395, 42.345433]",Point,14xx,7,BE,149,D4,,No,W CANTON ST,Part Two,None,770411.0,,2950000.0,2015
+252287,,Wednesday,No,2015-07-29T02:39:00.000,Vandalism,"[0, 0]",Point,14xx,7,SHOTS,220,C6,,No,E BROADWAY,Part Two,Firearm,,W BROADWAY,,2015

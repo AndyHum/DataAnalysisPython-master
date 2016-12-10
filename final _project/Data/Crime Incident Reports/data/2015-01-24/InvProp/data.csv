@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25036,152006590.0,Saturday,No,2015-01-24T12:43:00.000,InvProp,"[-71.122665, 42.352056]",Point,InvProp,1,IVPREM,0,D14,Day,No,COMMONWEALTH AV,Part three,Other,758162.9245,,2953543.914,2015
+34993,152006522.0,Saturday,No,2015-01-24T07:37:00.000,InvProp,"[-71.059375, 42.303396]",Point,InvProp,1,ALARM,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775361.8485,,2935893.4560000002,2015
+145862,152006511.0,Saturday,No,2015-01-24T06:24:00.000,InvProp,"[-71.09833, 42.316861]",Point,InvProp,1,SHOTS,0,E13,Last,No,COLUMBUS AV,Part three,Unarmed,764801.1843,W WALNUT PK,2940748.252,2015
+149676,152006488.0,Saturday,No,2015-01-24T03:00:00.000,InvProp,"[-71.06143, 42.353081]",Point,InvProp,1,IVPREM,0,A1,Last,No,HARRISON AV,Part three,Unarmed,774713.0874,HAYWARD PL,2953996.607,2015

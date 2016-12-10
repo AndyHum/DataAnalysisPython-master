@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48742,130061682.0,Wednesday,No,2013-01-30T12:19:00.000,InvProp,"[-71.153789, 42.348226]",Point,InvProp,1,IVPREM,771,D14,Day,No,CHESTNUT HILL AV,Part Three,Unarmed,749755.5920000001,,2952112.409,2013
+59505,130091920.0,Wednesday,No,2013-01-30T10:00:00.000,InvProp,"[-71.055575, 42.329684]",Point,InvProp,1,IVPREM,193,C6,Day,No,ROGERS ST,Part Three,Unarmed,776340.0168,,2945478.4069999997,2013
+64180,130067176.0,Wednesday,No,2013-01-30T20:30:00.000,InvProp,"[-71.167165, 42.351341]",Point,InvProp,1,BERPT ,759,D14,First,No,FANEUIL ST,Part Three,Unarmed,746135.3669,,2953233.278,2013
+175886,130063869.0,Wednesday,No,2013-01-30T22:00:00.000,InvProp,"[-71.083095, 42.328626]",Point,InvProp,1,NOTIFY,321,B2,First,No,DUDLEY ST,Part Three,Unarmed,768900.6048,,2945055.39,2013
+212507,130062729.0,Wednesday,No,2013-01-30T20:10:00.000,InvProp,"[-71.130932, 42.355412]",Point,InvProp,1,IVPREM,800,D14,First,No,LINDEN ST,Part Three,Unarmed,755922.7633,,2954757.037,2013
+228111,130061591.0,Wednesday,No,2013-01-30T11:17:00.000,InvProp,"[-71.082487, 42.302716]",Point,InvProp,1,REQP  ,458,B3,Day,No,WOLCOTT ST,Part Three,Other,769111.0059999999,,2935614.0689999997,2013
+244331,130062997.0,Wednesday,No,2013-01-30T23:11:00.000,InvProp,"[-71.04206, 42.317766]",Point,InvProp,1,SCHALM,256,C6,First,No,MT VERNON ST,Part Three,Unarmed,780017.8828,,2941154.74,2013

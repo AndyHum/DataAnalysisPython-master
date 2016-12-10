@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66677,140345177.0,Sunday,No,2014-06-01T15:30:00.000,PropLost,"[-71.107235, 42.306681]",Point,PropLost,6,LSTPRP,570,E13,Day,No,WASHINGTON ST,Part three,Unarmed,762409.8659,,2937027.275,2014
+78262,140346757.0,Sunday,No,2014-06-01T22:00:00.000,PropLost,"[-71.05705, 42.298211]",Point,PropLost,6,LSTPRP,354,C11,First,No,ADAMS ST,Part three,Unarmed,776000.8359,GIBSON ST,2934007.184,2014
+93230,140377736.0,Sunday,No,2014-06-01T09:00:00.000,PropLost,"[-71.16658, 42.354821]",Point,PropLost,6,LSTPRP,759,D14,Day,No,HARDWICK ST,Part three,Unarmed,746288.5405,,2954502.0810000002,2014
+152874,140355537.0,Sunday,No,2014-06-01T09:00:00.000,PropLost,"[-71.091446, 42.274358]",Point,PropLost,6,LSTPRP,564,B3,Day,No,DELHI ST,Part three,Unarmed,766737.0176,,2925268.231,2014
+216092,152031687.0,Sunday,No,2014-06-01T07:30:00.000,PropLost,"[-71.052533, 42.36293]",Point,PropLost,6,PROP,0,A1,Day,No,FULTON ST,Part three,Unarmed,777098.9175,,2957598.0160000003,2014

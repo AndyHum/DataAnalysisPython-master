@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125018,120805550.0,Tuesday,No,2012-12-25T14:20:00.000,PropFound,"[-71.15242, 42.351791]",Point,PropFound,12,FDPROP,133,D14,Day,No,ARLINGTON ST,Part Three,Unarmed,750120.3947,,2953413.165,2012
+157540,120805551.0,Tuesday,No,2012-12-25T14:21:00.000,PropFound,"[-71.07555, 42.298655]",Point,PropFound,12,FDPROP,454,B3,Day,No,HARVARD ST,Part Three,Unarmed,770994.9409,,2934143.52,2012
+192675,120805141.0,Tuesday,No,2012-12-25T01:30:00.000,PropFound,"[-71.08462, 42.329591]",Point,PropFound,12,FDPROP,288,B2,Last,No,ROXBURY ST,Part Three,Unarmed,768486.5259,WASHINGTON ST,2945405.04,2012

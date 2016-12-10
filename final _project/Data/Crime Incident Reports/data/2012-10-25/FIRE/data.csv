@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41600,120673851.0,Thursday,No,2012-10-25T22:02:00.000,FIRE,"[-71.076286, 42.340036]",Point,FIRE,10,FV    ,157,D4,First,No,RUTLAND ST,Part Three,Unarmed,770721.1363,,2949222.187,2012
+114901,120673499.0,Thursday,No,2012-10-25T19:01:00.000,FIRE,"[-71.01256, 42.390891]",Point,FIRE,10,FV    ,10,A7,First,No,BOARDMAN ST,Part Three,Unarmed,787843.8576,LEYDEN ST,2967847.0069999998,2012
+166437,120672866.0,Thursday,No,2012-10-25T14:35:00.000,FIRE,"[-71.127735, 42.350476]",Point,FIRE,10,FIREB ,796,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,756794.8154,,2952961.9930000002,2012

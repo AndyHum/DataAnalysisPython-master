@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+190773,120762037.0,Wednesday,No,2012-12-05T11:23:00.000,PhoneCalls,"[-71.142936, 42.345312]",Point,PhoneCalls,12,HARPT ,938,D14,Day,No,FIDELIS WY,Part Three,Unarmed,752693.6724,,2951062.6210000003,2012
+205278,120764647.0,Wednesday,No,2012-12-05T16:00:00.000,PhoneCalls,"[-71.089912, 42.309524]",Point,PhoneCalls,12,HARPT ,318,B2,First,No,BROOKLEDGE ST,Part Three,Unarmed,767090.6075,,2938085.256,2012
+244561,120761948.0,Wednesday,No,2012-12-05T09:00:00.000,PhoneCalls,"[-71.09486, 42.315301]",Point,PhoneCalls,12,IVPER ,307,E13,Day,No,WARDMAN RD,Part Three,Unarmed,765742.3612,,2940184.2010000004,2012

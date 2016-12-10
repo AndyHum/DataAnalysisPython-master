@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50708,152000172.0,Thursday,No,2015-01-01T12:00:00.000,Service,"[-71.085618, 42.32866]",Point,Service,1,ARREST,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+108098,152000273.0,Thursday,No,2015-01-01T18:40:00.000,Service,"[-71.075986, 42.326608]",Point,Service,1,SS,0,B2,First,No,DUDLEY ST,Part three,Unarmed,770826.3215,,2944329.5,2015
+129484,152000269.0,Thursday,No,2015-01-01T18:30:00.000,Service,"[-71.060964, 42.352801]",Point,Service,1,ARREST,0,A1,First,No,CHAUNCY ST,Part three,Unarmed,774839.4243,,2953895.0289999996,2015
+208027,152000290.0,Thursday,No,2015-01-01T19:15:00.000,Service,"[-71.05937, 42.352471]",Point,Service,1,IVPER,0,A1,First,No,KINGSTON ST,Part three,Other,775271.0519,ESSEX ST,2953777.182,2015
+266170,152000171.0,Thursday,No,2015-01-01T10:29:00.000,Service,"[0, 0]",Point,Service,1,UNCONS,0,E13,Day,No,ARBORWAY,Part three,Unarmed,,,,2015

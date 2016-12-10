@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18545,120422082.0,Monday,No,2012-07-09T15:43:00.000,InvProp,"[-71.08487, 42.303971]",Point,InvProp,7,SHOTS ,330,B2,Day,No,BLUE HILL AV,Part Three,Firearm,768464.3646,,2936068.3589999997,2012
+56524,120422530.0,Monday,No,2012-07-09T18:54:00.000,InvProp,"[-71.03922, 42.379016]",Point,InvProp,7,BERPT ,26,A7,First,No,MERIDIAN ST,Part Three,Unarmed,780665.3756,,2963479.477,2012
+130609,120421669.0,Monday,No,2012-07-09T14:00:00.000,InvProp,"[-71.07517, 42.334901]",Point,InvProp,7,MEET  ,170,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,771032.1683,HARRISON AV,2947352.683,2012
+230497,120421732.0,Monday,No,2012-07-09T12:56:00.000,InvProp,"[-71.089405, 42.349956]",Point,InvProp,7,IVLIC ,621,D4,Day,No,MARLBOROUGH ST,Part Three,Unarmed,767156.9358,,2952820.1580000003,2012
+250940,120421303.0,Monday,No,2012-07-09T06:30:00.000,InvProp,"[-71.087175, 42.308436]",Point,InvProp,7,IVDRUG,319,B2,Last,No,SONOMA ST,Part Three,Unarmed,767832.9666,,2937692.45,2012
+251027,120420985.0,Monday,No,2012-07-09T03:16:00.000,InvProp,"[-71.084435, 42.301291]",Point,InvProp,7,SHOTS ,458,B3,Last,No,GLENWAY ST,Part Three,Unarmed,768586.7961,,2935092.2989999996,2012

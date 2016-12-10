@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52525,130691111.0,Tuesday,No,2013-10-29T20:00:00.000,InvProp,"[-71.141721, 42.34306]",Point,InvProp,10,LARCRT,956,D14,First,No,WASHINGTON ST,Part three,Unarmed,753025.5063,,2950243.078,2013
+180402,130691116.0,Tuesday,No,2013-10-29T19:00:00.000,InvProp,"[-71.07956, 42.295286]",Point,InvProp,10,BERPT ,443,B3,First,No,KINGSDALE ST,Part three,Unarmed,769916.3712,,2932910.4489999996,2013
+210090,130689298.0,Tuesday,No,2013-10-29T08:00:00.000,InvProp,"[-71.08413, 42.331921]",Point,InvProp,10,IVPER ,276,B2,Day,No,SHAWMUT AV,Part three,Unarmed,768614.8817,,2946254.7789999996,2013

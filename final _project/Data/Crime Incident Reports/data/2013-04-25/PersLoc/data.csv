@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62442,130246826.0,Thursday,No,2013-04-25T07:30:00.000,PersLoc,"[-71.14539, 42.352676]",Point,PersLoc,4,MISPER,782,D14,Day,No,DUSTIN ST,Part Three,Unarmed,752019.3066,,2953743.499,2013
+77064,130252368.0,Thursday,No,2013-04-25T21:00:00.000,PersLoc,"[-71.078772, 42.305181]",Point,PersLoc,4,MISPER,460,C11,First,No,BRINSLEY ST,Part Three,Unarmed,770111.6477,,2936517.421,2013
+77567,130243714.0,Thursday,No,2013-04-25T17:15:00.000,PersLoc,"[-71.11987, 42.293381]",Point,PersLoc,4,MISPER,564,E5,First,No,ELVEN RD,Part Three,Unarmed,759013.7185,,2932165.058,2013

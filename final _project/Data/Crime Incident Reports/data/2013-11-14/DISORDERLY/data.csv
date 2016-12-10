@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12968,130725125.0,Thursday,No,2013-11-14T21:45:00.000,DISORDERLY,"[-71.04206, 42.317766]",Point,24xx,11,IVPER ,913,C6,First,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2013
+52827,130724015.0,Thursday,No,2013-11-14T15:01:00.000,DISORDERLY,"[-71.14714, 42.350141]",Point,24xx,11,DISTRB,783,D14,Day,No,CAMBRIDGE ST,Part Two,Unarmed,751550.0989,WARREN ST,2952817.73,2013
+145588,130726026.0,Thursday,No,2013-11-14T10:20:00.000,DISORDERLY,"[-71.160234, 42.345844]",Point,24xx,11,IVPER ,750,D14,Day,No,GLENMONT RD,Part Two,Unarmed,748016.682,,2951237.2589999996,2013

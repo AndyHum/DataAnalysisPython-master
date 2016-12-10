@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78110,142044402.0,Friday,No,2014-10-31T00:30:00.000,Gather,"[-71.1501, 42.337221]",Point,Gather,10,DISTRB,0,D14,Last,No,SUTHERLAND RD,Part three,Unarmed,750769.2855,,2948106.13,2014
+183661,142044827.0,Friday,No,2014-10-31T00:56:00.000,Gather,"[-71.101367, 42.330119]",Point,Gather,10,DISTRB,0,B2,Last,No,HILLSIDE ST,Part three,Unarmed,763957.2066,,2945575.7389999996,2014
+190207,142044530.0,Friday,No,2014-10-31T10:00:00.000,Gather,"[-71.061975, 42.361986]",Point,Gather,10,IVPREM,0,A1,Day,No,BULFINCH PL,Part three,Other,774549.1083,,2957241.005,2014

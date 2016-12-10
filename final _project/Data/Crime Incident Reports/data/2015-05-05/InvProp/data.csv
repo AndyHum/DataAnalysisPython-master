@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3480,152036832.0,Tuesday,No,2015-05-05T21:57:00.000,InvProp,"[0, 0]",Point,InvProp,5,SSA,0,B2,First,No,SHIRLEY ST,Part three,Firearm,,,,2015
+3540,152036572.0,Tuesday,No,2015-05-05T07:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD9,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+28351,152036973.0,Tuesday,No,2015-05-05T15:00:00.000,InvProp,"[-71.05382, 42.317041]",Point,InvProp,5,IVPER,0,C11,Day,No,HARBOR VIEW ST,Part three,Unarmed,776838.7661,,2940873.6769999997,2015
+42993,152036726.0,Tuesday,No,2015-05-05T17:00:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,5,CD9,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+133527,152036570.0,Tuesday,No,2015-05-05T07:00:00.000,InvProp,"[-71.05078, 42.356576]",Point,InvProp,5,CD9,0,A1,Last,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2015
+142415,152036674.0,Tuesday,No,2015-05-05T13:57:00.000,InvProp,"[-71.077535, 42.276846]",Point,InvProp,5,IVPREM,0,B3,Day,No,MARYKNOLL ST,Part three,Unarmed,770497.5104,,2926193.3589999997,2015
+179824,152036616.0,Tuesday,No,2015-05-05T11:19:00.000,InvProp,"[-71.07624, 42.314636]",Point,InvProp,5,DISTRB,0,B2,Day,No,BALFOUR ST,Part three,Unarmed,770779.5532,,2939966.334,2015
+259957,152036556.0,Tuesday,No,2015-05-05T02:40:00.000,InvProp,"[-71.0781, 42.298361]",Point,InvProp,5,SHOTS,0,B3,Last,No,RADCLIFFE ST,Part three,Unarmed,770305.6703,,2934032.814,2015

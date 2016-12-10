@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27434,,Friday,No,2015-07-24T00:00:00.000,Auto Theft,"[-71.074806, 42.38379]",Point,07xx,7,,50,A15,,No,CAMBRIDGE ST,Part One,None,771042.0,,2970000.0,2015
+64112,,Friday,No,2015-07-24T11:55:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,320,B2,,No,WARREN ST,Part One,None,,WAUMBECK ST,,2015
+78285,,Friday,No,2015-07-24T00:00:00.000,Auto Theft,"[-71.044955, 42.334048]",Point,07xx,7,IVMV,220,C6,,No,LINDEN ST,Part One,None,779203.0,,2950000.0,2015
+83043,,Friday,No,2015-07-24T00:00:00.000,Auto Theft,"[-71.085294, 42.34977]",Point,07xx,7,IVMV,335,C11,,No,COLEMAN ST,Part One,None,768268.0,,2950000.0,2015
+117067,,Friday,No,2015-07-24T00:00:00.000,Auto Theft Recovery,"[-71.093464, 42.269859]",Point,07RV,7,IVMV,426,B3,,No,BLUE HILL AVE,Other,None,766199.0,,2920000.0,2015
+147579,,Friday,No,2015-07-24T00:00:00.000,Auto Theft,"[-71.059799, 42.304928]",Point,07xx,7,IVMV,347,C11,,No,LEEDSVILLE ST,Part One,None,775244.0,,2940000.0,2015
+181881,,Friday,No,2015-07-24T00:00:00.000,Auto Theft,"[-71.06724, 42.293256]",Point,07xx,7,BE,361,C11,,No,ALLSTON ST,Part One,None,773253.0,,2930000.0,2015

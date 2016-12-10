@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+173145,130596142.0,Wednesday,No,2013-09-18T18:45:00.000,Service,"[-71.089755, 42.344446]",Point,Service,9,REQEP ,591,D4,First,No,HEMENWAY ST,Part three,Unarmed,767071.9835,,2950811.753,2013
+202289,130595021.0,Wednesday,No,2013-09-18T12:38:00.000,Service,"[-71.14312, 42.343861]",Point,Service,9,ARREST,938,D14,Day,No,WASHINGTON ST,Part three,Unarmed,752646.3343,COMMONWEALTH AV,2950533.693,2013
+229475,130595054.0,Wednesday,No,2013-09-18T12:45:00.000,Service,"[-71.08402, 42.332051]",Point,Service,9,SSTOP ,276,B2,Day,No,SHAWMUT AV,Part three,Unarmed,768644.3942,RUGGLES ST,2946302.298,2013

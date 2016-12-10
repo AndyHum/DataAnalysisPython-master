@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101770,120779825.0,Thursday,No,2012-12-13T10:15:00.000,Ballist,"[-71.06617, 42.307016]",Point,Ballist,12,IVPER ,329,C11,Day,No,BOWDOIN ST,Part Two,Unarmed,773517.2475,,2937203.1769999997,2012
+165169,120779998.0,Thursday,No,2012-12-13T11:29:00.000,Ballist,"[-71.08002, 42.295191]",Point,Ballist,12,SHOTS ,443,B3,Day,No,KINGSDALE ST,Part Two,Firearm,769792.0903,WARNER ST,2932875.216,2012
+206596,120797874.0,Thursday,No,2012-12-13T16:40:00.000,Ballist,"[-71.08703, 42.323671]",Point,Ballist,12,PDRPT ,299,B2,First,No,REGENT ST,Part Two,Firearm,767845.3058,,2943244.525,2012

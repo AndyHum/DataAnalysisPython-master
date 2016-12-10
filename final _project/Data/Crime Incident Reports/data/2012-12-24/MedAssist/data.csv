@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4012,120804891.0,Monday,No,2012-12-24T22:33:00.000,MedAssist,"[-71.036575, 42.369096]",Point,MedAssist,12,EDP2  ,30,A7,First,No,MAVERICK ST,Part Three,Knife,781399.6651,,2959868.3010000004,2012
+24928,120803715.0,Monday,No,2012-12-24T08:54:00.000,MedAssist,"[-71.032725, 42.376256]",Point,MedAssist,12,UNCONS,21,A7,Day,No,BROOKS ST,Part Three,Other,782425.7582,,2962483.224,2012
+35986,120803324.0,Monday,No,2012-12-24T00:29:00.000,MedAssist,"[-71.095665, 42.268641]",Point,MedAssist,12,IVPER ,476,B3,Last,No,CUMMINS HY,Part Three,Knife,765605.2443,,2923179.567,2012
+55594,120803314.0,Monday,No,2012-12-24T00:26:00.000,MedAssist,"[-71.17027, 42.283166]",Point,MedAssist,12,REQFP ,730,E5,Last,No,COTUIT ST,Part Three,Other,745392.0987,BAKER ST,2928385.808,2012
+70222,120803511.0,Monday,No,2012-12-24T04:12:00.000,MedAssist,"[-71.07747, 42.336951]",Point,MedAssist,12,CARST ,170,D4,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,770406.5825,,2948096.651,2012
+112678,120804857.0,Monday,No,2012-12-24T22:02:00.000,MedAssist,"[-71.11398, 42.289508]",Point,MedAssist,12,CARST ,505,E13,First,No,BOURNE ST,Part Three,Unarmed,760613.6221,,2930760.6210000003,2012
+178000,120803333.0,Monday,No,2012-12-24T00:42:00.000,MedAssist,"[-71.040345, 42.381666]",Point,MedAssist,12,UNCONS,26,A7,Last,No,BORDER ST,Part Three,Unarmed,780356.2099,,2964443.5510000004,2012
+198252,120804560.0,Monday,No,2012-12-24T17:59:00.000,MedAssist,"[-71.02752, 42.381321]",Point,MedAssist,12,CARST ,17,A7,First,No,E EAGLE ST,Part Three,Unarmed,783821.9241,,2964336.7610000004,2012

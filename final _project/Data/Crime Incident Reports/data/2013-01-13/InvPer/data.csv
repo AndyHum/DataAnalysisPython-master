@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97904,130255192.0,Sunday,No,2013-01-13T20:00:00.000,InvPer,"[-71.082729, 42.303966]",Point,InvPer,1,IVPER ,330,B2,First,No,COLUMBIA RD,Part Three,Unarmed,769043.4976,,2936069.102,2013
+114503,130030986.0,Sunday,No,2013-01-13T22:00:00.000,InvPer,"[-71.080995, 42.282871]",Point,InvPer,1,LARCRT,417,B3,First,No,CAPEN PL,Part Three,Unarmed,769550.3611,,2928384.334,2013
+115261,130028410.0,Sunday,No,2013-01-13T17:00:00.000,InvPer,"[-71.07656, 42.328955]",Point,InvPer,1,LARCRT,269,B2,First,No,DUBOIS ST,Part Three,Unarmed,770666.9917,,2945183.963,2013
+123850,130025905.0,Sunday,No,2013-01-13T08:30:00.000,InvPer,"[-71.038605, 42.348716]",Point,InvPer,1,DISTRB,207,C6,Day,No,NORTHERN AV,Part Three,Unarmed,780891.2712,,2952438.4710000004,2013
+243220,130025975.0,Sunday,No,2013-01-13T09:48:00.000,InvPer,"[-71.059641, 42.327811]",Point,InvPer,1,DISTRB,191,C6,Day,No,BOSTON ST,Part Three,Other,775244.0823,,2944790.3039999995,2013

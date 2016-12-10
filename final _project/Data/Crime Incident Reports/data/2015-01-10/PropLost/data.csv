@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21912,152002715.0,Saturday,No,2015-01-10T16:00:00.000,PropLost,"[-71.10242, 42.321551]",Point,PropLost,1,PROP,0,E13,First,No,CHESTNUT AV,Part three,Unarmed,763687.0569,,2942452.186,2015
+212724,152047036.0,Saturday,No,2015-01-10T14:00:00.000,PropLost,"[-71.149598, 42.336942]",Point,PropLost,1,PROP,0,D14,Day,No,ORKNEY RD,Part three,Unarmed,750905.2078,,2948005.025,2015
+248977,152002627.0,Saturday,No,2015-01-10T13:00:00.000,PropLost,"[-71.117294, 42.259383]",Point,PropLost,1,PROP,0,E18,Day,No,RIVER ST,Part three,Unarmed,759766.2593,,2919778.597,2015
+252059,152003988.0,Saturday,No,2015-01-10T02:00:00.000,PropLost,"[-71.05294, 42.359431]",Point,PropLost,1,LARCEN,0,A1,Last,No,STATE ST,Part three,Unarmed,776995.7993,,2956322.582,2015
+263107,152003149.0,Saturday,No,2015-01-10T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,B2,First,No,HOWE TR,Part three,Unarmed,,,,2015
+265725,152002695.0,Saturday,No,2015-01-10T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,LARCEN,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,,,,2015
+265856,152002631.0,Saturday,No,2015-01-10T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69467,142046505.0,Thursday,No,2014-11-06T14:30:00.000,WEAPONS CHARGE,"[-71.090389, 42.331096]",Point,15xx,11,PKNIFE,0,B2,Day,No,MALCOLM X BL,Part Two,Knife,766923.848,,2945945.7830000003,2014
+112402,142046389.0,Thursday,No,2014-11-06T10:50:00.000,WEAPONS CHARGE,"[-71.061434, 42.300547]",Point,15xx,11,IVPER,0,C11,Day,No,CHARLES ST,Part Two,Unarmed,774810.2974,,2934852.3389999997,2014
+147538,142046327.0,Thursday,No,2014-11-06T03:35:00.000,WEAPONS CHARGE,"[-71.06046, 42.372211]",Point,15xx,11,ARREST,0,A15,Last,No,CHELSEA ST,Part Two,Firearm,774939.3529,WARREN ST,2960969.305,2014
+150159,142046424.0,Thursday,No,2014-11-06T13:20:00.000,WEAPONS CHARGE,"[-71.07975, 42.288121]",Point,15xx,11,ARREST,0,B3,Day,No,WOODROW AV,Part Two,Unarmed,769877.8323,TUCKER ST,2930299.166,2014

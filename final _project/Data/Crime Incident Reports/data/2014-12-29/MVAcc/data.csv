@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77358,142061609.0,Monday,No,2014-12-29T20:00:00.000,MVAcc,"[-71.07281, 42.383111]",Point,MVAcc,12,MVA,0,A15,First,No,MISHAWUM ST,Other,Other,771582.2691,RUTHERFORD AV,2964924.541,2014
+188894,142061465.0,Monday,No,2014-12-29T12:26:00.000,MVAcc,"[-71.03153, 42.377671]",Point,MVAcc,12,MVA,0,A7,Day,No,BENNINGTON ST,Other,Unarmed,782745.814,PUTNAM ST,2963000.6489999997,2014
+223934,142061577.0,Monday,No,2014-12-29T18:00:00.000,MVAcc,"[-71.093775, 42.269596]",Point,MVAcc,12,MVA,0,B3,First,No,BLUE HILL AV,Other,Unarmed,766115.135,,2923530.012,2014
+260814,142061849.0,Monday,No,2014-12-29T09:45:00.000,MVAcc,"[0, 0]",Point,MVAcc,12,MVA,0,A1,Day,No,BLOSSOM ST,Other,Unarmed,,OCONNELL WY,,2014
+265545,142061392.0,Monday,No,2014-12-29T08:10:00.000,MVAcc,"[0, 0]",Point,MVAcc,12,MVA,0,A7,Day,No,MCCLELLAN HY,Other,Unarmed,,,,2014

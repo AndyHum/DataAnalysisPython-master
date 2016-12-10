@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17080,120521198.0,Tuesday,No,2012-08-21T08:00:00.000,PersLoc,"[-71.055245, 42.379091]",Point,PersLoc,8,MISPER,900,A15,Day,No,MEDFORD ST,Part Three,Unarmed,776335.4643,,2963483.825,2012
+35168,120520059.0,Tuesday,No,2012-08-21T01:34:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,8,CURFEW,256,C6,Last,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012
+54501,120522417.0,Tuesday,No,2012-08-21T14:30:00.000,PersLoc,"[-71.137675, 42.295039]",Point,PersLoc,8,MISPER,660,E5,Day,No,BUCHANAN RD,Part Three,Unarmed,754193.8994,,2932748.005,2012
+104290,120519786.0,Tuesday,No,2012-08-21T01:34:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,8,CURFEW,256,C6,Last,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012
+142321,120520948.0,Tuesday,No,2012-08-21T14:15:00.000,PersLoc,"[-71.0904, 42.280796]",Point,PersLoc,8,MSNCOM,428,B3,Day,No,HOSMER ST,Part Three,Unarmed,767009.0082,,2927615.818,2012
+154437,120520582.0,Tuesday,No,2012-08-21T10:50:00.000,PersLoc,"[-71.0729, 42.333256]",Point,PersLoc,8,IVPER ,172,D4,Day,No,MASSACHUSETTS AV,Part Three,Other,771648.9274,,2946756.2810000004,2012
+156350,120519792.0,Tuesday,No,2012-08-21T08:45:00.000,PersLoc,"[-71.08337, 42.315211]",Point,PersLoc,8,MISPER,322,B2,Day,No,WARREN ST,Part Three,Unarmed,768850.122,,2940166.373,2012

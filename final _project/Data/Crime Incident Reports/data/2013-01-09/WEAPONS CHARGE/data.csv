@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5577,130018527.0,Wednesday,No,2013-01-09T18:40:00.000,WEAPONS CHARGE,"[-71.03887, 42.371246]",Point,15xx,1,ARREST,32,A7,First,No,WELLINGTON ST,Part Two,Other,780775.2494,,2960648.442,2013
+101233,130018663.0,Wednesday,No,2013-01-09T16:45:00.000,WEAPONS CHARGE,"[-71.034835, 42.372991]",Point,15xx,1,IVDRUG,21,A7,First,No,VISCONTI RD,Part Two,Other,781862.1252,CHELSEA ST,2961290.276,2013
+162848,130017044.0,Wednesday,No,2013-01-09T03:00:00.000,WEAPONS CHARGE,"[-71.08421, 42.311696]",Point,15xx,1,ARREST,320,B2,Last,No,HOWLAND ST,Part Two,Firearm,768629.0083,,2938884.2539999997,2013
+194325,130019129.0,Wednesday,No,2013-01-09T22:15:00.000,WEAPONS CHARGE,"[-71.072995, 42.304498]",Point,15xx,1,INVEST,461,C11,First,No,GENEVA AV,Part Two,Unarmed,771675.6285,TOPLIFF ST,2936276.22,2013

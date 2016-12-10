@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13536,140306230.0,Saturday,No,2014-05-17T14:00:00.000,PropFound,"[-71.15163, 42.349006]",Point,PropFound,5,INVEST,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750338.0816,,2952399.125,2014
+83516,140341608.0,Saturday,No,2014-05-17T17:00:00.000,PropFound,"[-71.154, 42.352251]",Point,PropFound,5,LARCRT,769,D14,First,No,ARLINGTON ST,Part three,Unarmed,749692.6308,,2953579.062,2014
+101827,140306504.0,Saturday,No,2014-05-17T16:15:00.000,PropFound,"[-71.143353, 42.343531]",Point,PropFound,5,LSTPRP,785,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,752583.7907,WASHINGTON ST,2950412.923,2014
+180228,140313751.0,Saturday,No,2014-05-17T15:00:00.000,PropFound,"[-71.06288, 42.347021]",Point,PropFound,5,FDPROP,123,A1,Day,No,MARGINAL RD,Part three,Unarmed,774332.4694,HARRISON AV,2951786.2189999996,2014
+214362,140305704.0,Saturday,No,2014-05-17T10:54:00.000,PropFound,"[-71.05286, 42.365801]",Point,PropFound,5,IVPREM,83,A1,Day,No,HANOVER ST,Part three,Unarmed,777005.2515,CHARTER ST,2958644.048,2014
+264509,140311990.0,Saturday,No,2014-05-17T18:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,778,D14,First,No,HARVARD SQ,Part three,Unarmed,,,,2014

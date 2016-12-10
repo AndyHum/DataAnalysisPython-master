@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80604,142002321.0,Tuesday,No,2014-06-24T09:11:00.000,Arrest,"[-71.03343, 42.382601]",Point,Arrest,6,ARREST,0,A7,Day,No,CONDOR ST,Part three,Unarmed,782222.6189,PUTNAM ST,2964794.4280000003,2014
+97302,142002506.0,Tuesday,No,2014-06-24T18:30:00.000,Arrest,"[-71.122175, 42.292011]",Point,Arrest,6,ARREST,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,758392.2988,,2931663.038,2014
+148395,142002346.0,Tuesday,No,2014-06-24T10:40:00.000,Arrest,"[-71.06494, 42.343021]",Point,Arrest,6,ARREST,0,D4,Day,No,HARRISON AV,Part three,Unarmed,773783.0344,,2950325.6980000003,2014
+239335,142002535.0,Tuesday,No,2014-06-24T18:53:00.000,Arrest,"[-71.061434, 42.300547]",Point,Arrest,6,SS,0,C11,First,No,CHARLES ST,Part three,Unarmed,774810.2974,,2934852.3389999997,2014

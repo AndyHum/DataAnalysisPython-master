@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7178,130382278.0,Sunday,No,2013-06-23T00:56:00.000,DRUG CHARGES,"[-71.12561, 42.286441]",Point,18xx,6,ARREST,562,E5,Last,No,LINDALL ST,Part Two,Other,757471.8305,,2929629.146,2013
+71143,130382782.0,Sunday,No,2013-06-23T09:24:00.000,DRUG CHARGES,"[-71.034435, 42.337346]",Point,18xx,6,IVPER ,222,C6,Day,No,E 2ND ST,Part Two,Unarmed,782041.1114,,2948301.17,2013
+199927,130383974.0,Sunday,No,2013-06-23T20:57:00.000,DRUG CHARGES,"[-71.06837, 42.341891]",Point,18xx,6,ARREST,164,D4,First,No,WASHINGTON ST,Part Two,Unarmed,772857.843,ROLLINS ST,2949909.1939999997,2013

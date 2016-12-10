@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42008,130500439.0,Friday,No,2013-08-09T20:30:00.000,Argue,"[-71.00221, 42.384341]",Point,Argue,8,IVPER ,5,A7,First,No,ST ANDREW RD,Part three,Unarmed,790653.7073,,2965476.203,2013
+114500,130497628.0,Friday,No,2013-08-09T01:45:00.000,Argue,"[-71.06994, 42.350161]",Point,Argue,8,SSTOP ,0,A1,Last,No,COLUMBUS AV,Part three,Unarmed,772418.2027,ARLINGTON ST,2952920.791,2013
+117506,130499159.0,Friday,No,2013-08-09T17:59:00.000,Argue,"[-71.083303, 42.302514]",Point,Argue,8,ABANRE,458,B3,First,No,MICHIGAN AV,Part three,Unarmed,768890.6104,,2935539.2180000003,2013
+243074,130498158.0,Friday,No,2013-08-09T10:00:00.000,Argue,"[-71.082729, 42.303966]",Point,Argue,8,REMOVE,330,B2,Day,No,COLUMBIA RD,Part three,Unarmed,769043.4976,,2936069.102,2013

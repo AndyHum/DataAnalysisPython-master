@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47604,130030149.0,Tuesday,No,2013-01-15T09:53:00.000,Service,"[-71.0566, 42.350411]",Point,Service,1,ARREST,115,A1,Day,No,ATLANTIC AV,Part Three,Unarmed,776023.6901,BEACH ST,2953030.36,2013
+70422,130030391.0,Tuesday,No,2013-01-15T11:50:00.000,Service,"[-71.03887, 42.371246]",Point,Service,1,ARREST,28,A7,Day,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2013
+123435,130030366.0,Tuesday,No,2013-01-15T11:40:00.000,Service,"[-71.09006, 42.324671]",Point,Service,1,ARREST,293,B2,Day,No,CEDAR ST,Part Three,Unarmed,767024.1659,THORNTON ST,2943604.9889999996,2013
+188813,130029836.0,Tuesday,No,2013-01-15T06:46:00.000,Service,"[-71.06535, 42.313791]",Point,Service,1,CD11  ,332,C11,Last,No,HANCOCK ST,Part Three,Unarmed,773726.4741,,2939673.223,2013
+217153,130030515.0,Tuesday,No,2013-01-15T13:30:00.000,Service,"[-71.06473, 42.351646]",Point,Service,1,ARREST,117,A1,Day,No,TREMONT ST,Part Three,Unarmed,773823.7669,,2953469.098,2013
+230136,130031190.0,Tuesday,No,2013-01-15T18:00:00.000,Service,"[-71.082369, 42.2954]",Point,Service,1,SSTOP ,441,B3,First,No,NIGHTINGALE ST,Part Three,Unarmed,769155.9872,,2932948.2830000003,2013
+233620,130029824.0,Tuesday,No,2013-01-15T06:00:00.000,Service,"[-71.054711, 42.341305]",Point,Service,1,ARREST,200,C6,Last,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2013
+252671,130031718.0,Tuesday,No,2013-01-15T23:59:00.000,Service,"[-71.152777, 42.338603]",Point,Service,1,CD11  ,774,D14,Last,No,COMMONWEALTH AV,Part Three,Unarmed,750043.3771,,2948606.508,2013

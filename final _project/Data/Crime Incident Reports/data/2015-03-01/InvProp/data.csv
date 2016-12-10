@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20838,152016564.0,Sunday,No,2015-03-01T16:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,3,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+31617,152016400.0,Sunday,No,2015-03-01T00:26:00.000,InvProp,"[-71.088026, 42.290197]",Point,InvProp,3,SSA,0,B3,Last,No,STRATTON ST,Part three,Firearm,767634.6963,,2931044.4889999996,2015
+221921,152016470.0,Sunday,No,2015-03-01T10:00:00.000,InvProp,"[-71.084435, 42.301291]",Point,InvProp,3,SSA,0,B3,Day,No,GLENWAY ST,Part three,Unarmed,768586.7961,,2935092.2989999996,2015
+263333,152016775.0,Sunday,No,2015-03-01T20:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVPER,0,B2,First,No,GENEVA AV,Part three,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2140,152044373.0,Friday,No,2015-05-29T15:10:00.000,Arrest,"[0, 0]",Point,Arrest,5,CD11,0,A7,Day,No,LEYDEN ST,Part three,Unarmed,,,,2015
+147469,152044252.0,Friday,No,2015-05-29T10:36:00.000,Arrest,"[-71.02752, 42.378666]",Point,Arrest,5,ARREST,0,A7,Day,No,BREMEN ST,Part three,Unarmed,783827.2794,,2963369.225,2015
+154214,152044237.0,Friday,No,2015-05-29T08:11:00.000,Arrest,"[-71.074808, 42.305243]",Point,Arrest,5,CD11,0,C11,Day,No,BEECHWOOD ST,Part three,Unarmed,771183.7758,,2936545.317,2015
+256667,152044265.0,Friday,No,2015-05-29T10:45:00.000,Arrest,"[-71.08411, 42.328726]",Point,Arrest,5,IVPER,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,768625.9666,,2945090.4910000004,2015

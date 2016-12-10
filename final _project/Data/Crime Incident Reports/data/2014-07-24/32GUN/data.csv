@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48578,142012425.0,Thursday,No,2014-07-24T14:10:00.000,32GUN,"[-71.143578, 42.298225]",Point,32GUN,7,FDWEAP,0,E5,Day,No,LELAND RD,Part three,Unarmed,752591.9131,,2933902.5439999998,2014
+169821,142012513.0,Thursday,No,2014-07-24T19:00:00.000,32GUN,"[-71.090956, 42.333723]",Point,32GUN,7,FDWEAP,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+198205,142012442.0,Thursday,No,2014-07-24T16:00:00.000,32GUN,"[-71.05592, 42.376646]",Point,32GUN,7,FDWEAP,0,A15,First,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2014

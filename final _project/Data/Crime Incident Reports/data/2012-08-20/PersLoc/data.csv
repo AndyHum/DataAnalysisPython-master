@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95188,120519761.0,Monday,No,2012-08-20T22:33:00.000,PersLoc,"[-71.0737, 42.320144]",Point,PersLoc,8,MISPER,261,B2,First,No,BROOK AV,Part Three,Unarmed,771456.4019,,2941976.675,2012
+115879,120518771.0,Monday,No,2012-08-20T14:00:00.000,PersLoc,"[-71.072415, 42.302361]",Point,PersLoc,8,MISPER,462,C11,Day,No,BULLARD ST,Part Three,Unarmed,771836.5022,,2935498.295,2012
+125647,120518755.0,Monday,No,2012-08-20T14:03:00.000,PersLoc,"[-71.127897, 42.281939]",Point,PersLoc,8,FDCHLD,557,E5,Day,No,AUGUSTUS AV,Part Three,Unarmed,756860.1496,,2927985.82,2012
+250873,120521494.0,Monday,No,2012-08-20T15:30:00.000,PersLoc,"[-71.072217, 42.281007]",Point,PersLoc,8,MISPER,417,B3,Day,No,FAIRMOUNT ST,Part Three,Unarmed,771929.0719,,2927716.809,2012
+263303,120535789.0,Monday,No,2012-08-20T17:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,8,MISPER,236,C11,First,No,EDISON,Part Three,Unarmed,,,,2012

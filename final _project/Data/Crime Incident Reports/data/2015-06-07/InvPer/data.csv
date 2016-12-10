@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2639,152047051.0,Sunday,No,2015-06-07T10:17:00.000,InvPer,"[0, 0]",Point,InvPer,6,VIORDR,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+2644,152047251.0,Sunday,No,2015-06-07T19:47:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,C11,First,No,ROSEDALE ST,Part three,Unarmed,,,,2015
+19361,152047212.0,Sunday,No,2015-06-07T20:16:00.000,InvPer,"[-71.032226, 42.364775]",Point,InvPer,6,IVPER,0,A7,First,No,WEBSTER ST,Part three,Unarmed,782583.396,,2958299.995,2015
+101833,152047101.0,Sunday,No,2015-06-07T13:35:00.000,InvPer,"[-71.07188, 42.348846]",Point,InvPer,6,AB,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,771896.2029,STUART ST,2952438.943,2015
+104147,152047103.0,Sunday,No,2015-06-07T14:54:00.000,InvPer,"[-71.116955, 42.269826]",Point,InvPer,6,IVPER,0,E18,Day,No,BRADLEE CT,Part three,Other,759840.9343,,2923584.8,2015
+120776,152047227.0,Sunday,No,2015-06-07T17:00:00.000,InvPer,"[-71.080055, 42.280061]",Point,InvPer,6,UNK,0,B3,First,No,FULLER ST,Part three,Unarmed,769809.7648,,2927361.585,2015
+143991,152047123.0,Sunday,No,2015-06-07T15:25:00.000,InvPer,"[-71.150801, 42.265162]",Point,InvPer,6,INVEST,0,E5,Day,No,WOODLEY AV,Part three,Unarmed,750687.0675,,2921845.812,2015
+225801,152047195.0,Sunday,No,2015-06-07T16:46:00.000,InvPer,"[-71.07078, 42.359871]",Point,InvPer,6,AB,0,A1,First,No,CHARLES ST,Part three,Unarmed,772173.3348,,2956458.16,2015
+243998,152047077.0,Sunday,No,2015-06-07T12:40:00.000,InvPer,"[-71.050115, 42.331466]",Point,InvPer,6,IVPER,0,C6,Day,No,E 9TH ST,Part three,Unarmed,777813.0703,,2946135.647,2015

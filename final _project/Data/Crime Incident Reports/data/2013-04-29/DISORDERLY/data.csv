@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108731,130252279.0,Monday,No,2013-04-29T14:44:00.000,DISORDERLY,"[-71.14037, 42.348671]",Point,24xx,4,ARREST,786,D14,Day,No,COMMONWEALTH AV,Part Two,Unarmed,753382.3782,WARREN ST,2952289.6760000004,2013
+116768,130252395.0,Monday,No,2013-04-29T14:30:00.000,DISORDERLY,"[-71.14037, 42.348671]",Point,24xx,4,ARREST,795,D14,Day,No,COMMONWEALTH AV,Part Two,Unarmed,753382.3782,WARREN ST,2952289.6760000004,2013
+141007,130251317.0,Monday,No,2013-04-29T02:31:00.000,DISORDERLY,"[-71.02778, 42.379076]",Point,24xx,4,ARREST,17,A7,Last,No,BENNINGTON ST,Part Two,Unarmed,783756.2067,,2963518.247,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73813,130022225.0,Thursday,No,2013-01-10T09:00:00.000,PropLost,"[-71.07393, 42.348016]",Point,PropLost,1,LARCRT,149,D4,Day,No,CLARENDON ST,Part Three,Unarmed,771343.5626,,2952133.7010000004,2013
+110469,130021864.0,Thursday,No,2013-01-10T18:00:00.000,PropLost,"[-71.08191, 42.321701]",Point,PropLost,1,LSTPRP,296,B2,First,No,COPELAND ST,Part Three,Unarmed,769233.4040000001,WARREN ST,2942533.3680000002,2013
+128012,130021525.0,Thursday,No,2013-01-10T22:30:00.000,PropLost,"[-71.0729, 42.333256]",Point,PropLost,1,LARCRT,172,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2013
+250698,130027972.0,Thursday,No,2013-01-10T08:00:00.000,PropLost,"[-71.067375, 42.352166]",Point,PropLost,1,LSTPRP,120,A1,Day,No,PARK PLAZA,Part Three,Unarmed,773107.8474,,2953654.958,2013

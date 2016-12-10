@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36664,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.079255, 42.347499]",Point,MedAssist,7,UNKEMS,143,D4,,No,HUNTINGTON AVE,Part Three,None,769905.0,,2950000.0,2015
+41136,,Wednesday,No,2015-07-01T19:31:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,REQEP,398,C11,,No,TALBOT AVE,Part Three,None,,WASHINGTON ST,,2015
+43600,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.089565, 42.270148]",Point,MedAssist,7,ALARM,424,B3,,No,RIVER ST,Part Three,None,767253.0,,2920000.0,2015
+154230,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.063169, 42.313013]",Point,MedAssist,7,EDP,257,C11,,No,SAWYER AVE,Part Three,None,774318.0,,2940000.0,2015
+182998,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.056958, 42.33014]",Point,MedAssist,7,INVEST,174,C6,,No,DORCHESTER AVE,Part Three,None,775965.0,,2950000.0,2015
+192443,,Wednesday,No,2015-07-01T09:29:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,355,C11,,No,ADAMS ST,Part Three,None,,DIX ST,,2015
+198976,,Wednesday,No,2015-07-01T02:09:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,I00015,751,D14,,No,LAKE SHORE RD,Part Three,None,,,,2015
+201409,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.073285, 42.321829]",Point,MedAssist,7,UNKEMS,263,B2,,No,DUDLEY ST,Part Three,None,771566.0,,2940000.0,2015
+205625,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.065162, 42.34285]",Point,MedAssist,7,I00015,165,D4,,No,HARRISON AVE,Part Three,None,773723.0,,2950000.0,2015
+233386,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.144516, 42.34195]",Point,MedAssist,7,INVEST,786,D14,,No,COMMONWEALTH AVE,Part Three,None,752272.0,,2950000.0,2015
+234966,,Wednesday,No,2015-07-01T19:32:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,326,B2,,No,DUNKELD ST,Part Three,None,,,,2015
+250402,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.065796, 42.325538]",Point,MedAssist,7,UNCONS,186,C6,,No,MASSACHUSETTS AVE,Part Three,None,773584.0,,2940000.0,2015
+253782,,Wednesday,No,2015-07-01T00:00:00.000,Medical Assistance,"[-71.089104, 42.297623]",Point,MedAssist,7,IVPER,463,B3,,No,AMERICAN LEGION HWY,Part Three,None,767330.0,,2930000.0,2015

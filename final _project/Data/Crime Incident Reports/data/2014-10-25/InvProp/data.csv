@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7879,142042421.0,Saturday,No,2014-10-25T01:00:00.000,InvProp,"[-71.071984, 42.299337]",Point,InvProp,10,IVPREM,0,C11,Last,No,GREENBRIER ST,Part three,Unarmed,771958.564,,2934396.686,2014
+23713,142042584.0,Saturday,No,2014-10-25T15:15:00.000,InvProp,"[-71.049444, 42.288906]",Point,InvProp,10,REQP,0,C11,Day,No,COFFEY ST,Part three,Unarmed,778076.2623,,2930627.1010000003,2014
+68285,142042503.0,Saturday,No,2014-10-25T11:00:00.000,InvProp,"[-71.078526, 42.322336]",Point,InvProp,10,IVPREM,0,B2,Day,No,PERRIN ST,Part three,Unarmed,770147.4212,,2942769.0110000004,2014
+203684,142042457.0,Saturday,No,2014-10-25T03:52:00.000,InvProp,"[-71.07764, 42.311921]",Point,InvProp,10,SSA,0,B2,Last,No,NORMANDY ST,Part three,Unarmed,770405.803,,2938975.066,2014

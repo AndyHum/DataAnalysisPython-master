@@ -1,0 +1,23 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35693,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.082139, 42.328535]",Point,MVAcc,8,MVA,279,B2,,No,DUDLEY ST,Part Three,None,769159.0,,2950000.0,2015
+37533,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.104292, 42.264521]",Point,MVAcc,8,MVA,487,E18,,No,OAKCREST RD,Part Three,None,763277.0,,2920000.0,2015
+39177,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.111526, 42.326398]",Point,MVAcc,8,PROP,608,E13,,No,S HUNTINGTON AVE,Part Three,None,761216.0,,2940000.0,2015
+39431,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.083813, 42.279675]",Point,MVAcc,8,MVA,420,B3,,No,W SELDEN ST,Part Three,None,768793.0,,2930000.0,2015
+48359,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.105881, 42.309991]",Point,MVAcc,8,MVA,573,E13,,No,GREEN ST,Part Three,None,762770.0,,2940000.0,2015
+49958,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.082625, 42.298736]",Point,MVAcc,8,MVA,457,B3,,No,BRADSHAW ST,Part Three,None,769081.0,,2930000.0,2015
+72332,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.148844, 42.284632]",Point,MVAcc,8,VAND,697,E5,,No,CLEMENT AVE,Part Three,None,751188.0,,2930000.0,2015
+115392,,Tuesday,No,2015-08-04T20:35:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,357,C11,,No,BOWDOIN AVE,Part Three,None,,WASHINGTON ST,,2015
+133479,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.160068, 42.354399]",Point,MVAcc,8,MVA,765,D14,,No,DONNYBROOK RD,Part Three,None,748049.0,,2950000.0,2015
+137710,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.165918, 42.351741]",Point,MVAcc,8,MVA,759,D14,,No,FANEUIL ST,Part Three,None,746472.0,,2950000.0,2015
+150702,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.069463, 42.345903]",Point,MVAcc,8,TS,151,D4,,No,TREMONT ST,Part Three,None,772555.0,,2950000.0,2015
+163284,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.096883, 42.278837]",Point,MVAcc,8,MVA,469,B3,,No,MATTAPAN ST,Part Three,None,765258.0,,2930000.0,2015
+170963,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.146209, 42.287759]",Point,MVAcc,8,MVA,676,E5,,No,CENTRE ST,Part Three,None,751896.0,,2930000.0,2015
+185082,,Tuesday,No,2015-08-04T14:45:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,339,C11,,No,ADAMS ST,Part Three,None,,CHURCH ST,,2015
+190806,,Tuesday,No,2015-08-04T02:21:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,551,E5,,No,BEECH ST,Part Three,None,,WINTON ST,,2015
+210844,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.113851, 42.350979]",Point,MVAcc,8,MVA,797,D14,,No,COMMONWEALTH AVE,Part Three,None,760547.0,,2950000.0,2015
+211769,,Tuesday,No,2015-08-04T12:11:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,0,C11,,No,,Part Three,None,,BOWDOIN ST,,2015
+212214,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.09168, 42.283896]",Point,MVAcc,8,MVA,466,B3,,No,BLUE HILL AVE,Part Three,None,766657.0,,2930000.0,2015
+214445,,Tuesday,No,2015-08-04T05:04:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,127,A1,,No,OAK ST W,Part Three,None,, WASHINGTON ST ,,2015
+231672,,Tuesday,No,2015-08-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.076527, 42.28828]",Point,MVAcc,8,MVA,435,B3,,No,NORFOLK ST,Part Three,None,770750.0,,2930000.0,2015
+238892,,Tuesday,No,2015-08-04T07:47:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,20,A7,,No,CHELSEA ST,Part Three,None,,PUTNAM ST,,2015
+253969,,Tuesday,No,2015-08-04T15:12:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,110,A1,,No,PEARL ST,Part Three,None,,PURCHASE ST,,2015

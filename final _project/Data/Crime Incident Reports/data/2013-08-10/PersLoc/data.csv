@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80458,130501023.0,Saturday,No,2013-08-10T14:00:00.000,PersLoc,"[-71.085618, 42.32866]",Point,PersLoc,8,MISPER,329,B2,Day,No,WASHINGTON ST,Other,Unarmed,768218.0809,,2945064.255,2013
+117007,130502944.0,Saturday,No,2013-08-10T19:00:00.000,PersLoc,"[-71.062705, 42.313451]",Point,PersLoc,8,MISPER,823,C11,First,No,CUSHING AV,Other,Unarmed,774442.4953,,2939552.978,2013
+136097,130503169.0,Saturday,No,2013-08-10T14:00:00.000,PersLoc,"[-71.092561, 42.311882]",Point,PersLoc,8,MISPER,316,B2,Day,No,HUTCHINGS ST,Other,Unarmed,766369.8625,,2938941.191,2013
+172226,130505522.0,Saturday,No,2013-08-10T15:30:00.000,PersLoc,"[-71.03685, 42.379501]",Point,PersLoc,8,MISPER,24,A7,Day,No,EUTAW ST,Other,Unarmed,781304.7602,,2963659.69,2013

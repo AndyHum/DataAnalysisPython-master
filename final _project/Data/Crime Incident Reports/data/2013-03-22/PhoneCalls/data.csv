@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41310,140013171.0,Friday,No,2013-03-22T00:00:00.000,PhoneCalls,"[-71.06939, 42.339506]",Point,PhoneCalls,3,HARPT ,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+49810,130174265.0,Friday,No,2013-03-22T17:00:00.000,PhoneCalls,"[-71.099099, 42.26809]",Point,PhoneCalls,3,IVPER ,481,E18,First,No,HOLLINGSWORTH ST,Part Three,Unarmed,764676.6933,,2922974.147,2013
+58354,130169574.0,Friday,No,2013-03-22T00:00:00.000,PhoneCalls,"[-71.082049, 42.294765]",Point,PhoneCalls,3,IVPER ,441,B3,Last,No,KINGSDALE ST,Part Three,Unarmed,769243.8945,,2932717.086,2013

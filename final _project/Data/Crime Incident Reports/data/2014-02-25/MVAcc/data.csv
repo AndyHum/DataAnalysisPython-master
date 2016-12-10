@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38766,140118216.0,Tuesday,No,2014-02-25T16:53:00.000,MVAcc,"[-71.07812, 42.302821]",Point,MVAcc,2,MVA   ,0,C11,First,No,WASHINGTON ST,Other,Other,770292.377,,2935658.24,2014
+84561,140118166.0,Tuesday,No,2014-02-25T16:35:00.000,MVAcc,"[-71.094125, 42.329341]",Point,MVAcc,2,MVA   ,291,B2,First,No,CENTRE ST,Other,Unarmed,765916.8047,,2945301.563,2014
+99816,140117115.0,Tuesday,No,2014-02-25T07:45:00.000,MVAcc,"[-71.07576, 42.346816]",Point,MVAcc,2,MVANO ,149,D4,Day,No,DARTMOUTH ST,Other,Other,770851.0494,,2951693.932,2014
+139209,140117392.0,Tuesday,No,2014-02-25T07:00:00.000,MVAcc,"[-71.07516, 42.312021]",Point,MVAcc,2,MVANO ,326,B2,Last,No,MASCOMA ST,Other,Unarmed,771076.4015,FAYSTON ST,2939014.838,2014
+186559,140118428.0,Tuesday,No,2014-02-25T18:20:00.000,MVAcc,"[-71.154289, 42.28644]",Point,MVAcc,2,MVA   ,695,E5,First,No,CENTRE ST,Other,Other,749711.5888,,2929595.788,2014

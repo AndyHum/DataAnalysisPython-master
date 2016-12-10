@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15906,130819534.0,Monday,No,2013-12-30T23:30:00.000,PersLoc,"[-71.08864, 42.286466]",Point,PersLoc,12,MISPER,430,B3,First,No,LUCERNE ST,Other,Unarmed,767475.3082,,2929684.333,2013
+99515,130821636.0,Monday,No,2013-12-30T08:00:00.000,PersLoc,"[-71.072995, 42.304498]",Point,PersLoc,12,MISPER,337,C11,Day,No,GENEVA AV,Other,Unarmed,771675.6285,,2936276.22,2013
+113711,130818096.0,Monday,No,2013-12-30T09:51:00.000,PersLoc,"[-71.07713, 42.280711]",Point,PersLoc,12,MISPER,419,B3,Day,No,FULLER ST,Other,Unarmed,770600.1297,,2927602.3639999996,2013
+204883,130817907.0,Monday,No,2013-12-30T08:00:00.000,PersLoc,"[-71.07713, 42.280711]",Point,PersLoc,12,MISPER,419,B3,Day,No,FULLER ST,Other,Unarmed,770600.1297,,2927602.3639999996,2013

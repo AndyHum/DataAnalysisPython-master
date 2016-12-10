@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4235,142016885.0,Wednesday,No,2014-08-06T18:41:00.000,MedAssist,"[-71.116376, 42.287842]",Point,MedAssist,8,INJOFF,0,E18,First,No,WYVERN ST,Part three,Unarmed,759967.8848,,2930150.813,2014
+17999,142016762.0,Wednesday,No,2014-08-06T14:30:00.000,MedAssist,"[-71.046509, 42.342483]",Point,MedAssist,8,INJ,0,C6,Day,No,D ST,Part three,Other,778766.6064,,2950155.425,2014
+99791,142016863.0,Wednesday,No,2014-08-06T18:55:00.000,MedAssist,"[-71.03768, 42.381371]",Point,MedAssist,8,IVPER,0,A7,First,No,W EAGLE ST,Part three,Unarmed,781076.8138,,2964339.943,2014
+144925,142016625.0,Wednesday,No,2014-08-06T06:45:00.000,MedAssist,"[-71.03444, 42.376251]",Point,MedAssist,8,UNKEMS,0,A7,Last,No,HAVRE ST,Part three,Unarmed,781962.373,,2962478.8680000002,2014
+148737,142016760.0,Wednesday,No,2014-08-06T13:54:00.000,MedAssist,"[-71.07545, 42.294336]",Point,MedAssist,8,UNK,0,B3,Day,No,WHITFIELD ST,Part three,Unarmed,771030.0415,,2932569.7630000003,2014
+163911,142016627.0,Wednesday,No,2014-08-06T06:12:00.000,MedAssist,"[-71.033105, 42.374331]",Point,MedAssist,8,UNCONS,0,A7,Last,No,MARION ST,Part three,Unarmed,782326.9222,,2961781.153,2014
+167597,142016805.0,Wednesday,No,2014-08-06T16:35:00.000,MedAssist,"[-71.09825, 42.317761]",Point,MedAssist,8,FIGHT,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,764821.2754,,2941076.329,2014
+178409,142016800.0,Wednesday,No,2014-08-06T16:15:00.000,MedAssist,"[-71.05464, 42.325816]",Point,MedAssist,8,IVPER,0,C6,First,No,OCALLAGHAN WY,Part three,Unarmed,776600.2984,,2944070.27,2014
+197878,142016600.0,Wednesday,No,2014-08-06T00:20:00.000,MedAssist,"[-71.085036, 42.294732]",Point,MedAssist,8,NIDV,0,B3,Last,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2014
+203463,142016927.0,Wednesday,No,2014-08-06T12:20:00.000,MedAssist,"[-71.087165, 42.346206]",Point,MedAssist,8,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,767769.0517,,2951456.5089999996,2014
+210875,142016689.0,Wednesday,No,2014-08-06T10:53:00.000,MedAssist,"[-71.067315, 42.332801]",Point,MedAssist,8,UNCONS,0,C6,Day,No,TOPEKA ST,Part three,Unarmed,773159.8604,,2946598.083,2014
+212937,142016873.0,Wednesday,No,2014-08-06T20:06:00.000,MedAssist,"[-71.084915, 42.321736]",Point,MedAssist,8,IVPER,0,B2,First,No,PICKERING AV,Part three,Unarmed,768420.6878,,2942542.155,2014

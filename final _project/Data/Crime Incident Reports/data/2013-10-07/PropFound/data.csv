@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121586,140016838.0,Monday,No,2013-10-07T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,10,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+185852,130640271.0,Monday,No,2013-10-07T17:16:00.000,PropFound,"[-71.13045, 42.294811]",Point,PropFound,10,IVPREM,671,E5,First,No,WALTER ST,Part three,Unarmed,756148.9838,WELD ST,2932673.5930000003,2013
+246799,130639804.0,Monday,No,2013-10-07T13:35:00.000,PropFound,"[-71.156174, 42.285384]",Point,PropFound,10,LARCRT,736,E5,Day,No,CENTRE ST,Part three,Other,749203.056,,2929209.095,2013

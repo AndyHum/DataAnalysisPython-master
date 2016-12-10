@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+167979,130042431.0,Monday,No,2013-01-21T02:06:00.000,Argue,"[-71.130005, 42.284726]",Point,Argue,1,NIDV  ,680,E5,Last,No,WASHINGTON ST,Part Three,Unarmed,756285.3194,,2928998.985,2013
+192426,130043740.0,Monday,No,2013-01-21T20:12:00.000,Argue,"[-71.080596, 42.327236]",Point,Argue,1,FIGHT ,281,B2,First,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013
+197462,130043914.0,Monday,No,2013-01-21T22:23:00.000,Argue,"[-71.067755, 42.360016]",Point,Argue,1,FIGHT ,66,A1,First,No,ANDERSON ST,Part Three,Other,772990.6351,,2956515.1289999997,2013
+239489,130043337.0,Monday,No,2013-01-21T15:30:00.000,Argue,"[-71.132005, 42.350021]",Point,Argue,1,THREAT,778,D14,Day,No,COMMONWEALTH AV,Part Three,Other,755641.4752,,2952791.29,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+136586,130334748.0,Monday,No,2013-06-03T12:00:00.000,DEATH INVESTIGATION,"[-71.05078, 42.356576]",Point,01INV,6,SDNDTH,96,A1,Day,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2013
+214145,130334604.0,Monday,No,2013-06-03T10:50:00.000,DEATH INVESTIGATION,"[-71.05312, 42.335746]",Point,01INV,6,SDNDTH,216,C6,Day,No,W 7TH ST,Part Three,Unarmed,776992.3725,,2947691.0810000002,2013
+254345,130333915.0,Monday,No,2013-06-03T00:59:00.000,DEATH INVESTIGATION,"[-71.061698, 42.291418]",Point,01INV,6,CARST ,365,C11,Last,No,ST MARKS RD,Part three,Other,774755.932,,2931525.043,2013

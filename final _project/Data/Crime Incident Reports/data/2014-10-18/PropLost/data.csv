@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7313,142041298.0,Saturday,No,2014-10-18T14:00:00.000,PropLost,"[-71.063245, 42.292711]",Point,PropLost,10,PROP,0,C11,Day,No,CENTRE AV,Part three,Unarmed,774335.1415,,2931994.2630000003,2014
+62674,142040416.0,Saturday,No,2014-10-18T01:30:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,10,PROP,0,A1,Last,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2014
+68330,142042851.0,Saturday,No,2014-10-18T00:00:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,10,ADMRPT,0,A1,Last,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2014
+91028,142041091.0,Saturday,No,2014-10-18T03:00:00.000,PropLost,"[-71.048935, 42.340401]",Point,PropLost,10,INVEST,0,C6,Last,No,D ST,Part three,Unarmed,778114.9119,,2949393.4,2014
+94543,142040477.0,Saturday,No,2014-10-18T16:05:00.000,PropLost,"[-71.11297, 42.300811]",Point,PropLost,10,PROP,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,760868.2636,,2934881.061,2014
+99844,142040469.0,Saturday,No,2014-10-18T14:30:00.000,PropLost,"[-71.104125, 42.334364]",Point,PropLost,10,PROP,0,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,763204.1277,,2947119.097,2014
+138791,142040586.0,Saturday,No,2014-10-18T11:00:00.000,PropLost,"[-71.11322, 42.313336]",Point,PropLost,10,LARCEN,0,E13,Day,No,GREENVIEW AV,Part three,Other,760779.9364,,2939445.0710000005,2014
+180837,142041067.0,Saturday,No,2014-10-18T12:00:00.000,PropLost,"[-71.065136, 42.319763]",Point,PropLost,10,PROP,0,B2,Day,No,BELDEN ST,Part three,Unarmed,773773.2628,,2941849.644,2014
+233088,142042259.0,Saturday,No,2014-10-18T23:00:00.000,PropLost,"[-71.0649, 42.351031]",Point,PropLost,10,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,773778.9577,STUART ST,2953244.745,2014
+250519,142041200.0,Saturday,No,2014-10-18T08:30:00.000,PropLost,"[-71.15298, 42.349071]",Point,PropLost,10,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,749973.0561,,2952421.325,2014
+266394,142040411.0,Saturday,No,2014-10-18T18:09:00.000,PropLost,"[0, 0]",Point,PropLost,10,PROP,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,,,,2014

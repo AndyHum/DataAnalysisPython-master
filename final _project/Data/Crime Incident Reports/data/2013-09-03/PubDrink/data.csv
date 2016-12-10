@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+153555,130558968.0,Tuesday,No,2013-09-03T18:00:00.000,PubDrink,"[-71.03929, 42.375471]",Point,PubDrink,9,DK    ,26,A7,First,No,CENTRAL SQ,Part Two,Unarmed,780653.4403,,2962187.5039999997,2013
+178155,130559034.0,Tuesday,No,2013-09-03T18:20:00.000,PubDrink,"[-71.03986, 42.372371]",Point,PubDrink,9,SSTOP ,26,A7,First,No,LONDON ST,Part Two,Unarmed,780505.5183,DECATUR ST,2961056.97,2013
+233293,130559277.0,Tuesday,No,2013-09-03T21:10:00.000,PubDrink,"[-71.05321, 42.327191]",Point,PubDrink,9,CD19  ,914,C6,First,No,LOGAN WY,Part Two,Unarmed,776984.3679,,2944573.365,2013

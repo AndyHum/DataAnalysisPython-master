@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107115,130637723.0,Sunday,No,2013-10-06T13:34:00.000,PropFound,"[-71.06707, 42.317896]",Point,PropFound,10,FDPROP,258,B2,Day,No,DUDLEY ST,Part three,Unarmed,773253.6772,,2941166.785,2013
+207041,130637133.0,Sunday,No,2013-10-06T02:40:00.000,PropFound,"[-71.13209, 42.352991]",Point,PropFound,10,FDPROP,794,D14,Last,No,BRIGHTON AV,Part three,Unarmed,755613.8322,HARVARD AV,2953873.517,2013
+220104,130638287.0,Sunday,No,2013-10-06T17:00:00.000,PropFound,"[-71.07497, 42.325271]",Point,PropFound,10,LSTPRP,263,B2,First,No,BLUE HILL AV,Part three,Unarmed,771103.7314,DUDLEY ST,2943843.613,2013

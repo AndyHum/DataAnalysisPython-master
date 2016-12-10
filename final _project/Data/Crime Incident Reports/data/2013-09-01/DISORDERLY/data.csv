@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13532,130555761.0,Sunday,No,2013-09-01T12:23:00.000,DISORDERLY,"[-71.126585, 42.287876]",Point,24xx,9,FIGHT ,564,E5,Day,No,WASHINGTON ST,Part Two,Unarmed,757205.7204,,2930150.9260000004,2013
+44248,130553648.0,Sunday,No,2013-09-01T13:00:00.000,DISORDERLY,"[-71.10957, 42.332151]",Point,24xx,9,ARREST,605,B2,Day,No,PARKER HILL AV,Part Two,Unarmed,761735.7671,HILLSIDE ST,2946306.083,2013
+46451,130553056.0,Sunday,No,2013-09-01T03:00:00.000,DISORDERLY,"[-71.053675, 42.367211]",Point,24xx,9,PARTY ,83,A1,Last,No,HENCHMAN ST,Part Two,Unarmed,776782.3132,,2959156.727,2013
+260543,130626245.0,Sunday,No,2013-09-01T09:00:00.000,DISORDERLY,"[0, 0]",Point,24xx,9,INVEST,216,C6,Day,No,8TH ST,Part Two,Unarmed,,,,2013

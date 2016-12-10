@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62893,130263427.0,Saturday,No,2013-05-04T02:15:00.000,LICViol,"[-71.071635, 42.286426]",Point,LICViol,5,CD35  ,0,B3,Last,No,DUNBAR AV,Part Three,Unarmed,772076.6677,,2929692.4060000004,2013
+70008,130264606.0,Saturday,No,2013-05-04T16:54:00.000,LICViol,"[-71.086655, 42.348466]",Point,LICViol,5,LMUSIC,141,D4,First,No,NEWBURY ST,Part Three,Unarmed,767902.9271,,2952280.765,2013
+250640,130263405.0,Saturday,No,2013-05-04T02:27:00.000,LICViol,"[-71.092855, 42.338721]",Point,LICViol,5,CD35  ,0,D4,Last,No,HUNTINGTON AV,Part Three,Unarmed,766243.8976,,2948721.441,2013

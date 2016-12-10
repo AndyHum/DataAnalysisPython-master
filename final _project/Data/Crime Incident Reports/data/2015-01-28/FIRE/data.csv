@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85875,152007515.0,Wednesday,No,2015-01-28T17:00:00.000,FIRE,"[-71.06971, 42.380596]",Point,FIRE,1,FIRE,0,A15,First,No,AUBURN ST,Part three,Other,772424.4233,,2964012.232,2015
+123396,152007497.0,Wednesday,No,2015-01-28T15:58:00.000,FIRE,"[-71.140555, 42.294006]",Point,FIRE,1,FIRE,0,E5,Day,No,MOREY RD,Part three,Other,753416.3179,,2932368.555,2015
+164083,152007436.0,Wednesday,No,2015-01-28T12:00:00.000,FIRE,"[-71.123129, 42.2725]",Point,FIRE,1,FO,0,E18,Day,No,METROPOLITAN AV,Part three,Unarmed,758165.4741,,2924551.833,2015
+222756,152007539.0,Wednesday,No,2015-01-28T18:35:00.000,FIRE,"[-71.10528, 42.263581]",Point,FIRE,1,FO,0,E18,First,No,TILESTON ST,Part three,Unarmed,763011.3739,RIVER ST,2921323.4460000005,2015
+260203,152007569.0,Wednesday,No,2015-01-28T18:41:00.000,FIRE,"[0, 0]",Point,FIRE,1,FO,0,A7,First,No,MCCLELLAN HY,Part three,Unarmed,,,,2015

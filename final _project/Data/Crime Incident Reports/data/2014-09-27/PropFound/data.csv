@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63338,142033673.0,Saturday,No,2014-09-27T16:00:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,9,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+125382,142033687.0,Saturday,No,2014-09-27T16:45:00.000,PropFound,"[-71.11466, 42.305111]",Point,PropFound,9,PROP,0,E13,First,No,SOUTH ST,Part three,Unarmed,760403.9998,,2936445.981,2014
+202167,142033739.0,Saturday,No,2014-09-27T17:30:00.000,PropFound,"[-71.06458, 42.352351]",Point,PropFound,9,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2014
+204824,142034459.0,Saturday,No,2014-09-27T22:30:00.000,PropFound,"[-71.06255, 42.365411]",Point,PropFound,9,PROP,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014

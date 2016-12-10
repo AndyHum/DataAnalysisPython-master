@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63882,142021692.0,Thursday,No,2014-08-21T23:20:00.000,PhoneCalls,"[-71.089205, 42.316173]",Point,PhoneCalls,8,INVEST,0,B2,First,No,HOLWORTHY ST,Part three,Other,767270.2679,,2940509.336,2014
+166429,142021641.0,Thursday,No,2014-08-21T18:11:00.000,PhoneCalls,"[-71.04676, 42.330406]",Point,PhoneCalls,8,IVPER,0,C6,First,No,COLUMBIA RD,Part three,Other,778722.2857,,2945754.167,2014
+230395,142023823.0,Thursday,No,2014-08-21T13:00:00.000,PhoneCalls,"[-71.074691, 42.311475]",Point,PhoneCalls,8,IVPER,0,B2,Day,No,GREENHEYS ST,Part Two,Unarmed,771204.0884,,2938816.3910000003,2014

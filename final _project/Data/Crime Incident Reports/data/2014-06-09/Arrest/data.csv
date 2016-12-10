@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92595,140363698.0,Monday,No,2014-06-09T13:20:00.000,Arrest,"[-71.06923, 42.302081]",Point,Arrest,6,IVPER ,342,C11,Day,No,GENEVA AV,Part three,Unarmed,772698.6120000001,,2935400.5930000003,2014
+118938,140364490.0,Monday,No,2014-06-09T18:09:00.000,Arrest,"[-71.125155, 42.289261]",Point,Arrest,6,ARREST,563,E5,First,No,WASHINGTON ST,Part three,Unarmed,757590.4303,,2930657.338,2014
+189821,140363374.0,Monday,No,2014-06-09T11:04:00.000,Arrest,"[-71.065276, 42.315857]",Point,Arrest,6,ARREST,257,C11,Day,No,WILBUR ST,Part three,Unarmed,773742.4446,,2940426.0519999997,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100765,142034871.0,Wednesday,No,2014-10-01T13:52:00.000,Arrest,"[-71.100045, 42.322752]",Point,Arrest,10,ARREST,0,E13,Day,No,CENTRE ST,Part three,Unarmed,764327.298,,2942892.567,2014
+102517,142034757.0,Wednesday,No,2014-10-01T02:51:00.000,Arrest,"[-71.060208, 42.30637]",Point,Arrest,10,ARREST,0,C11,Last,No,LYON ST,Part three,Unarmed,775131.0737,,2936975.959,2014
+255090,142034783.0,Wednesday,No,2014-10-01T09:20:00.000,Arrest,"[-71.05717, 42.299681]",Point,Arrest,10,ARREST,0,C11,Day,No,PARK ST,Part three,Unarmed,775965.5897,,2934542.7060000002,2014

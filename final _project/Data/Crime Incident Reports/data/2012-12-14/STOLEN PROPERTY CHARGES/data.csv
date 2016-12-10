@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50777,120781963.0,Friday,No,2012-12-14T08:30:00.000,STOLEN PROPERTY CHARGES,"[-71.06163, 42.351416]",Point,13xx,12,ARREST,117,A1,Day,No,BEACH ST,Part Two,Unarmed,774662.1445,,2953389.5730000003,2012
+134083,120781519.0,Friday,No,2012-12-14T12:26:00.000,STOLEN PROPERTY CHARGES,"[-71.05775, 42.329641]",Point,13xx,12,ARREST,174,C6,Day,No,SOUTHAMPTON ST,Part Two,Other,775752.0777,,2945459.789,2012
+235196,120782463.0,Friday,No,2012-12-14T11:00:00.000,STOLEN PROPERTY CHARGES,"[-71.03912, 42.375956]",Point,13xx,12,INVEST,26,A7,Day,No,MERIDIAN ST,Part Two,Unarmed,780698.4198,,2962364.4960000003,2012

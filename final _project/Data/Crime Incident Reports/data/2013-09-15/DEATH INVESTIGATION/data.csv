@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+177068,130587893.0,Sunday,No,2013-09-15T13:16:00.000,DEATH INVESTIGATION,"[-71.094535, 42.345486]",Point,01INV,9,REQEP ,624,D4,Day,No,BOYLSTON ST,Part three,Unarmed,765777.9720000001,,2951184.57,2013
+221222,130587960.0,Sunday,No,2013-09-15T13:32:00.000,DEATH INVESTIGATION,"[-71.066844, 42.297177]",Point,01INV,9,SDNDTH,358,C11,Day,No,WALDECK ST,Part three,Unarmed,773353.0077,,2933616.8219999997,2013
+240231,130587975.0,Sunday,No,2013-09-15T02:00:00.000,DEATH INVESTIGATION,"[-71.086294, 42.276903]",Point,01INV,9,SDNDTH,420,B3,Last,No,W SELDEN ST,Part three,Unarmed,768126.9853,,2926202.534,2013

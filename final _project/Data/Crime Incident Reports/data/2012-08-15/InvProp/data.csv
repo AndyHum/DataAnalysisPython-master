@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9415,120507412.0,Wednesday,No,2012-08-15T13:00:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,8,CD9   ,624,D4,Day,No,YAWKEY WY,Part Three,Unarmed,764671.1215,,2951432.6119999997,2012
+159900,120508213.0,Wednesday,No,2012-08-15T20:04:00.000,InvProp,"[-71.1317, 42.268786]",Point,InvProp,8,ALARMC,550,E18,First,No,WEST ST,Part Three,Unarmed,755851.7471,,2923188.233,2012
+164012,120507190.0,Wednesday,No,2012-08-15T12:02:00.000,InvProp,"[-71.058775, 42.288821]",Point,InvProp,8,VANRPT,393,C11,Day,No,FLORIDA ST,Part Three,Other,775551.8668,,2930582.915,2012
+209502,120508375.0,Wednesday,No,2012-08-15T21:28:00.000,InvProp,"[-71.07777, 42.319561]",Point,InvProp,8,IVPREM,264,B2,First,No,BLUE HILL AV,Part Three,Unarmed,770356.8595,,2941759.0319999997,2012
+212902,120506414.0,Wednesday,No,2012-08-15T00:58:00.000,InvProp,"[-71.080301, 42.292654]",Point,InvProp,8,SHOTS ,442,B3,Last,No,TALBOT AV,Part Three,Firearm,769720.5959999999,,2931950.291,2012
+225395,120508353.0,Wednesday,No,2012-08-15T09:20:00.000,InvProp,"[-71.069885, 42.302466]",Point,InvProp,8,IVPREM,343,C11,Day,No,GENEVA AV,Part Three,Unarmed,772520.7157,,2935539.999,2012

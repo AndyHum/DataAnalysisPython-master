@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43649,140203328.0,Friday,No,2014-04-04T15:30:00.000,Service,"[-71.150915, 42.348981]",Point,Service,4,IVPER ,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+84380,140202276.0,Friday,No,2014-04-04T05:45:00.000,Service,"[-71.071135, 42.335176]",Point,Service,4,IVPER ,172,D4,Last,No,ALBANY ST,Part three,Unarmed,772122.6365,,2947458.358,2014
+209981,140219247.0,Friday,No,2014-04-04T13:59:00.000,Service,"[-71.089215, 42.340161]",Point,Service,4,IVPREM,283,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767225.4855,,2949250.922,2014
+218973,140202863.0,Friday,No,2014-04-04T12:12:00.000,Service,"[-71.10287, 42.322911]",Point,Service,4,IVPER ,579,E13,Day,No,ESTRELLA ST,Part three,Unarmed,763563.0543,CENTRE ST,2942947.2260000003,2014

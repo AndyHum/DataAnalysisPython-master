@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13021,120719958.0,Thursday,No,2012-11-15T14:48:00.000,WEAPONS CHARGE,"[-71.144446, 42.256597]",Point,15xx,11,SHOT  ,822,E5,Day,No,GEORGETOWNE DR,Part Two,Unarmed,752420.4223,,2918731.463,2012
+14507,120720850.0,Thursday,No,2012-11-15T23:30:00.000,WEAPONS CHARGE,"[-71.080624, 42.337477]",Point,15xx,11,ARREST,273,D4,First,No,CAMDEN ST,Part Two,Unarmed,769552.6659,,2948284.111,2012
+32423,120721225.0,Thursday,No,2012-11-15T06:05:00.000,WEAPONS CHARGE,"[-71.112505, 42.282558]",Point,15xx,11,ARREST,818,E18,Last,No,CANTERBURY ST,Part Two,Unarmed,761024.1098,,2928229.6769999997,2012
+70049,120720494.0,Thursday,No,2012-11-15T19:14:00.000,WEAPONS CHARGE,"[-71.130565, 42.359127]",Point,15xx,11,CD11  ,815,D14,First,No,COOLIDGE RD,Part Two,Unarmed,756016.2048,,2956111.232,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32920,140111283.0,Saturday,No,2014-02-22T14:46:00.000,PersLoc,"[-71.053375, 42.362136]",Point,PersLoc,2,MSNCOM,91,A1,Day,No,FULTON ST,Other,Unarmed,776873.0689,,2957307.7210000004,2014
+111760,140111619.0,Saturday,No,2014-02-22T18:20:00.000,PersLoc,"[-71.06749, 42.306571]",Point,PersLoc,2,MISPER,335,C11,First,No,HAMILTON ST,Other,Unarmed,773161.0159,,2937039.2,2014
+193260,140112785.0,Saturday,No,2014-02-22T05:55:00.000,PersLoc,"[-71.112634, 42.316692]",Point,PersLoc,2,MISPER,639,E13,Last,No,ROBINWOOD AV,Other,Unarmed,760932.8212,,2940668.6760000004,2014

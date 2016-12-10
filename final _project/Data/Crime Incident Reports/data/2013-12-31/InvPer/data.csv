@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34400,130820265.0,Tuesday,No,2013-12-31T12:39:00.000,InvPer,"[-71.084315, 42.322643]",Point,InvPer,12,BEIP  ,297,B2,Day,No,FENNO ST,Part three,Unarmed,768581.2072,,2942873.4239999996,2013
+64476,130821491.0,Tuesday,No,2013-12-31T21:45:00.000,InvPer,"[-71.08046, 42.335661]",Point,InvPer,12,PERGUN,903,D4,First,No,SHAWMUT AV,Part three,Unarmed,769600.5096,,2947622.561,2013
+93939,130820515.0,Tuesday,No,2013-12-31T13:21:00.000,InvPer,"[-71.089912, 42.309524]",Point,InvPer,12,ALARMI,318,B2,Day,No,BROOKLEDGE ST,Part three,Unarmed,767090.6075,,2938085.256,2013
+243333,140000965.0,Tuesday,No,2013-12-31T11:30:00.000,InvPer,"[-71.083645, 42.341856]",Point,InvPer,12,IVPER ,145,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,768728.349,,2949875.913,2013

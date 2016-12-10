@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+188818,130606559.0,Monday,No,2013-09-23T09:23:00.000,Restrain,"[-71.083504, 42.285373]",Point,Restrain,9,IVPER ,432,B3,Day,No,JACOB ST,Part Two,Other,768866.8293,,2929292.5,2013
+217495,130606918.0,Monday,No,2013-09-23T10:38:00.000,Restrain,"[-71.09408, 42.338221]",Point,Restrain,9,VIORDR,616,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,765913.5724,,2948537.6539999996,2013
+229666,130607660.0,Monday,No,2013-09-23T15:35:00.000,Restrain,"[-71.09247, 42.277951]",Point,Restrain,9,IVPREM,427,B3,Day,No,WILMORE ST,Part Two,Unarmed,766453.7971,,2926576.373,2013

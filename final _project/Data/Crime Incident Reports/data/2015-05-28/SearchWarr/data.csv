@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103100,152043980.0,Thursday,No,2015-05-28T13:13:00.000,SearchWarr,"[-71.07161, 42.316442]",Point,SearchWarr,5,CD11,0,B2,Day,No,HALF MOON ST,Part three,Unarmed,772028.5048,,2940630.559,2015
+161563,152043839.0,Thursday,No,2015-05-28T11:00:00.000,SearchWarr,"[-71.076983, 42.314285]",Point,SearchWarr,5,SS,0,B2,Day,No,WAYLAND ST,Part three,Unarmed,770579.0601,DACIA ST,2939837.128,2015
+215772,152043981.0,Thursday,No,2015-05-28T13:13:00.000,SearchWarr,"[-71.07161, 42.316442]",Point,SearchWarr,5,CD11,0,B2,Day,No,HALF MOON ST,Part three,Unarmed,772028.5048,,2940630.559,2015

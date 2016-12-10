@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95843,,Saturday,No,2015-06-20T00:00:00.000,Warrant Arrests,"[-71.065752, 42.302094]",Point,Arrest,6,ARREST,345,C11,,No,RIDGEWOOD ST,Part Three,None,773639.0,,2940000.0,2015
+106315,,Saturday,No,2015-06-20T12:10:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,6,ARREST,0,,,No,MASSACHUSETTS AVE,Part Three,None,,,,2015
+144761,,Saturday,No,2015-06-20T21:57:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,6,TS,279,B2,,No,DEARBORN ST,Part Three,None,,DUDLEY ST,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10745,152046086.0,Tuesday,No,2015-06-02T12:00:00.000,FORGERY,"[-71.07133, 42.344121]",Point,10xx,6,LARCEN,0,D4,Day,No,TREMONT ST,Part Two,Unarmed,772053.531,,2950717.812,2015
+15628,152045794.0,Tuesday,No,2015-06-02T10:00:00.000,FORGERY,"[-71.0958, 42.285506]",Point,10xx,6,IVPER,0,B3,Day,No,DEERING RD,Part Two,Unarmed,765539.5814,,2929325.233,2015
+209142,152045734.0,Tuesday,No,2015-06-02T22:30:00.000,FORGERY,"[-71.087188, 42.320054]",Point,10xx,6,LARCEN,0,B2,First,No,BOWER ST,Part Two,Unarmed,767808.8692,,2941926.166,2015
+253729,152045452.0,Tuesday,No,2015-06-02T07:48:00.000,FORGERY,"[-71.05899, 42.356791]",Point,10xx,6,ARREST,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,775365.6264,,2955352.003,2015

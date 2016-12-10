@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2383,152025059.0,Friday,No,2015-03-27T08:00:00.000,BENoProp,"[0, 0]",Point,BENoProp,3,BE,0,D14,Day,No,BRIGHTON AV,Part One,Unarmed,,,,2015
+7917,152024745.0,Friday,No,2015-03-27T01:00:00.000,BENoProp,"[-71.068175, 42.309816]",Point,BENoProp,3,BE,0,C11,Last,No,BELLEVUE ST,Part One,Other,772969.7365,,2938220.789,2015
+213935,152024739.0,Friday,No,2015-03-27T01:19:00.000,BENoProp,"[-71.06769, 42.310766]",Point,BENoProp,3,BE,0,C11,Last,No,BELLEVUE ST,Part One,Other,773099.167,,2938567.648,2015
+223052,152024839.0,Friday,No,2015-03-27T10:38:00.000,BENoProp,"[-71.151197, 42.342646]",Point,BENoProp,3,BE,0,D14,Day,No,WALLINGFORD RD,Part One,Unarmed,750464.5072,,2950081.732,2015
+268047,152025170.0,Friday,No,2015-03-27T21:45:00.000,BENoProp,"[0, 0]",Point,BENoProp,3,BE,0,D14,First,No,HARVARD AV,Part One,Unarmed,,,,2015

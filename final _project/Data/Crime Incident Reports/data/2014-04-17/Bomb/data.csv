@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70762,140235950.0,Thursday,No,2014-04-17T12:51:00.000,Bomb,"[-71.084485, 42.348131]",Point,Bomb,4,INVEST,143,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,768490.1158,,2952161.534,2014
+230002,140234569.0,Thursday,No,2014-04-17T20:56:00.000,Bomb,"[-71.07082, 42.360476]",Point,Bomb,4,BOMBT ,66,A1,First,No,CHARLES ST,Part Two,Other,772161.4146,,2956678.579,2014
+234370,140233533.0,Thursday,No,2014-04-17T13:00:00.000,Bomb,"[-71.048242, 42.316663]",Point,Bomb,4,BOMBT ,256,C6,Day,No,MORRISSEY BL,Part Two,Unarmed,778348.0479,,2940743.602,2014

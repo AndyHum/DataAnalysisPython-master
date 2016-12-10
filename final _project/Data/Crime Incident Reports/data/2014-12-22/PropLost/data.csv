@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81686,142060729.0,Monday,No,2014-12-22T12:00:00.000,PropLost,"[-71.169502, 42.352107]",Point,PropLost,12,PROP,0,D14,Day,No,HUNNEWELL AV,Part three,Unarmed,745502.4344,,2953509.673,2014
+93176,142059693.0,Monday,No,2014-12-22T09:00:00.000,PropLost,"[-71.13209, 42.352991]",Point,PropLost,12,PROP,0,D14,Day,No,HARVARD AV,Part three,Unarmed,755613.8323,BRIGHTON AV,2953873.517,2014
+100131,142059864.0,Monday,No,2014-12-22T14:30:00.000,PropLost,"[-71.14243, 42.349389]",Point,PropLost,12,LARCEN,0,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2014
+109803,142059985.0,Monday,No,2014-12-22T12:00:00.000,PropLost,"[-71.07538, 42.333949]",Point,PropLost,12,PROP,0,D4,Day,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2014
+122454,142059795.0,Monday,No,2014-12-22T15:30:00.000,PropLost,"[-71.078225, 42.325198]",Point,PropLost,12,CD9,0,B2,Day,No,FAIRLAND ST,Part three,Unarmed,770223.47,,2943812.633,2014
+149320,142059753.0,Monday,No,2014-12-22T11:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,12,IVPER,0,C6,Day,No,ALLSTATE RD,Part three,Other,774104.1328,,2943918.604,2014
+225427,142060136.0,Monday,No,2014-12-22T16:00:00.000,PropLost,"[-71.08324, 42.328323]",Point,PropLost,12,PROP,0,B2,First,No,WARREN ST,Part three,Unarmed,768861.8133,,2944944.5730000003,2014

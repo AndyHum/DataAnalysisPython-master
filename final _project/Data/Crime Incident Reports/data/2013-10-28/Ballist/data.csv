@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76719,130686887.0,Monday,No,2013-10-28T13:00:00.000,Ballist,"[-71.048625, 42.332956]",Point,Ballist,10,IVPREM,219,C6,Day,No,TELEGRAPH ST,Part Two,Unarmed,778213.0793,,2946680.756,2013
+263145,130687586.0,Monday,No,2013-10-28T16:30:00.000,Ballist,"[0, 0]",Point,Ballist,10,FDPROP,220,C6,First,No,THOMAS PARK,Part Two,Unarmed,,,,2013

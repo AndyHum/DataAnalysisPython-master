@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+167090,120469285.0,Sunday,No,2012-07-29T23:05:00.000,WEAPONS CHARGE,"[-71.08746, 42.346791]",Point,15xx,7,PERGUN,598,D4,First,No,MASSACHUSETTS AV,Part Two,Firearm,767688.2733,,2951669.308,2012
+174114,120467389.0,Sunday,No,2012-07-29T00:29:00.000,WEAPONS CHARGE,"[-71.08412, 42.303491]",Point,15xx,7,ARREST,330,B2,Last,No,NORMANDY ST,Part Two,Firearm,768668.1,COLUMBIA RD,2935894.4280000003,2012

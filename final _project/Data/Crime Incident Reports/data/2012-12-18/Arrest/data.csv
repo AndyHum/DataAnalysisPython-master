@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67697,120791476.0,Tuesday,No,2012-12-18T14:56:00.000,Arrest,"[-71.092328, 42.284664]",Point,Arrest,12,ARREST,466,B3,Day,No,MORTON ST,Part Three,Unarmed,766480.3443,,2929022.5560000003,2012
+110744,120790713.0,Tuesday,No,2012-12-18T10:00:00.000,Arrest,"[-71.06223, 42.353831]",Point,Arrest,12,ARREST,112,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774495.444,AV DELAFAYETTE,2954268.81,2012
+135597,120791025.0,Tuesday,No,2012-12-18T11:58:00.000,Arrest,"[-71.081656, 42.330447]",Point,Arrest,12,ARREST,0,B2,Day,No,HARRIET ST,Part Three,Unarmed,769286.3327,PALMER ST,2945720.856,2012
+237226,120790973.0,Tuesday,No,2012-12-18T11:32:00.000,Arrest,"[-71.052084, 42.378071]",Point,Arrest,12,IVPREM,38,A15,Day,No,13TH ST,Part Three,Unarmed,777191.2871,,2963116.374,2012

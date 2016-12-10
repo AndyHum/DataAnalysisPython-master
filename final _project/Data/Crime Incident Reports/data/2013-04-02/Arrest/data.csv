@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58700,130193896.0,Tuesday,No,2013-04-02T19:34:00.000,Arrest,"[-71.090316, 42.291894]",Point,Arrest,4,CD11  ,464,B3,First,No,HARVARD ST,Part Three,Unarmed,767012.0663,,2931660.0,2013
+67048,130193005.0,Tuesday,No,2013-04-02T13:17:00.000,Arrest,"[-71.05899, 42.356791]",Point,Arrest,4,ARREST,103,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,775365.6264,,2955352.003,2013
+77342,130192763.0,Tuesday,No,2013-04-02T20:13:00.000,Arrest,"[-71.046717, 42.336149]",Point,Arrest,4,ARREST,213,C6,First,No,W BROADWAY,Part Three,Unarmed,778722.6466,,2947847.002,2013
+156461,130193937.0,Tuesday,No,2013-04-02T18:52:00.000,Arrest,"[-71.0721, 42.317761]",Point,Arrest,4,IVPER ,260,B2,First,No,ROBIN HOOD ST,Part Three,Unarmed,771893.5614,FOLSOM ST,2941110.724,2013

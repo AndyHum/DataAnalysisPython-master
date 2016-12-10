@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+863,152017773.0,Wednesday,No,2015-03-04T10:00:00.000,PropDam,"[0, 0]",Point,PropDam,3,PROP,0,A15,Day,No,CLARENDON ST,Part three,Unarmed,,,,2015
+3195,152017500.0,Wednesday,No,2015-03-04T14:30:00.000,PropDam,"[-71.040785, 42.369261]",Point,PropDam,3,IVPREM,0,A7,Day,No,SUMNER ST,Part three,Other,780261.67,,2959922.277,2015
+107666,152017665.0,Wednesday,No,2015-03-04T22:30:00.000,PropDam,"[-71.060393, 42.308671]",Point,PropDam,3,PROP,0,C11,First,No,CHURCH ST,Part three,Other,775076.6729,,2937814.1739999996,2015
+147466,152017460.0,Wednesday,No,2015-03-04T00:00:00.000,PropDam,"[-71.07545, 42.294336]",Point,PropDam,3,PROP,0,B3,Last,No,WHITFIELD ST,Part three,Other,771030.0415,,2932569.7630000003,2015
+149116,152017357.0,Wednesday,No,2015-03-04T08:00:00.000,PropDam,"[-71.146825, 42.350261]",Point,PropDam,3,IVPREM,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,751635.0665,WARREN ST,2952861.814,2015
+223910,152017643.0,Wednesday,No,2015-03-04T18:00:00.000,PropDam,"[-71.071965, 42.347016]",Point,PropDam,3,PROP,0,D4,First,No,ST CHARLES ST,Part three,Unarmed,771876.5723,,2951771.942,2015
+264206,152017625.0,Wednesday,No,2015-03-04T20:47:00.000,PropDam,"[0, 0]",Point,PropDam,3,IVPREM,0,D4,First,No,REYNOLDS WY,Part three,Unarmed,,HARRISON AV,,2015
+264362,152017626.0,Wednesday,No,2015-03-04T20:47:00.000,PropDam,"[0, 0]",Point,PropDam,3,IVPREM,0,D4,First,No,REYNOLDS WY,Part three,Unarmed,,HARRISON AV,,2015

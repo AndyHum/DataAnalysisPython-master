@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+147769,,Wednesday,No,2015-07-01T00:00:00.000,Disorderly Conduct,"[-71.07693, 42.308126]",Point,24xx,7,IVPER,329,B2,,No,DEVON ST,Part Two,None,770605.0,,2940000.0,2015
+158210,,Wednesday,No,2015-07-01T00:00:00.000,Disorderly Conduct,"[-71.060434, 42.37824]",Point,24xx,7,ARREST,900,A15,,No,BUNKER HILL ST,Part Two,None,774935.0,,2960000.0,2015
+195200,,Wednesday,No,2015-07-01T20:05:00.000,Disorderly Conduct,"[0, 0]",Point,24xx,7,IVPER,309,B2,,No,MARTIN LUTHER KING JR BLVD,Part Two,None,,,,2015

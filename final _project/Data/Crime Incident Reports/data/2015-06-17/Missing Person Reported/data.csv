@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11018,,Wednesday,No,2015-06-17T00:00:00.000,Missing Person Reported,"[-71.08265, 42.276266]",Point,PersMiss,6,IVPER,943,B3,,No,WOODBOLE AVE,Part Three,None,769114.0,,2930000.0,2015
+177183,,Wednesday,No,2015-06-17T13:17:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,6,I00027,281,B2,,No,GREENVILLE ST,Part Three,None,,,,2015
+193433,,Wednesday,No,2015-06-17T00:00:00.000,Missing Person Reported,"[-71.102834, 42.271897]",Point,PersMiss,6,I00027,474,B3,,No,SAVANNAH AVE,Part Three,None,763659.0,,2920000.0,2015

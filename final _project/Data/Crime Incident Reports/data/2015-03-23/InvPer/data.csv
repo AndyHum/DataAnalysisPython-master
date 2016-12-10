@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1909,152023502.0,Monday,No,2015-03-23T19:50:00.000,InvPer,"[0, 0]",Point,InvPer,3,LANTEN,0,C11,First,No,FERNALD TR,Part three,Unarmed,,,,2015
+6017,152023529.0,Monday,No,2015-03-23T23:00:00.000,InvPer,"[-71.058105, 42.324441]",Point,InvPer,3,IVPER,0,C6,First,No,BELLFLOWER ST,Part three,Unarmed,775665.9046,,2943564.3260000004,2015
+38330,152023603.0,Monday,No,2015-03-23T01:30:00.000,InvPer,"[-71.12167, 42.257471]",Point,InvPer,3,PKNIFE,0,E18,Last,No,EVERETT ST,Part three,Knife,758584.7613,,2919076.7789999996,2015
+75400,152023297.0,Monday,No,2015-03-23T11:23:00.000,InvPer,"[-71.09486, 42.315301]",Point,InvPer,3,IVPER,0,E13,Day,No,WARDMAN RD,Part three,Unarmed,765742.3612,,2940184.2010000004,2015
+127860,152023491.0,Monday,No,2015-03-23T20:16:00.000,InvPer,"[-71.052675, 42.340716]",Point,InvPer,3,AB,0,C6,First,No,ATHENS ST,Part three,Unarmed,777103.1901,B ST,2949502.867,2015
+136656,152023173.0,Monday,No,2015-03-23T07:50:00.000,InvPer,"[-71.159455, 42.278776]",Point,InvPer,3,IVPREM,0,E5,Day,No,CENTRE ST,Part three,Unarmed,748325.022,,2926797.522,2015
+164664,152023172.0,Monday,No,2015-03-23T08:35:00.000,InvPer,"[-71.070855, 42.341986]",Point,InvPer,3,IVPER,0,D4,Day,No,SHAWMUT AV,Part three,Unarmed,772185.8561,,2949940.425,2015
+179834,152023766.0,Monday,No,2015-03-23T01:00:00.000,InvPer,"[-71.150117, 42.342133]",Point,InvPer,3,IVPER,0,D14,Last,No,LEAMINGTON RD,Part three,Unarmed,750757.2848,,2949896.106,2015
+190565,152023217.0,Monday,No,2015-03-23T10:14:00.000,InvPer,"[-71.0778, 42.326806]",Point,InvPer,3,SHOTS,0,B2,Day,No,FOREST ST,Part three,Firearm,770335.6781,,2944399.193,2015
+232310,152023747.0,Monday,No,2015-03-23T22:00:00.000,InvPer,"[-71.04139, 42.330941]",Point,InvPer,3,IVPER,0,C6,First,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2015
+266761,152023359.0,Monday,No,2015-03-23T14:20:00.000,InvPer,"[0, 0]",Point,InvPer,3,REQP,0,E5,Day,No,GARDNER ST,Part three,Unarmed,,,,2015
+266764,152023475.0,Monday,No,2015-03-23T19:25:00.000,InvPer,"[0, 0]",Point,InvPer,3,AB,0,C6,First,No,STERLING SQ,Part three,Other,,,,2015
+266782,152023505.0,Monday,No,2015-03-23T20:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,DISTRB,0,B3,First,No,BOUTWELL ST,Part three,Unarmed,,,,2015
+266803,152023206.0,Monday,No,2015-03-23T09:40:00.000,InvPer,"[0, 0]",Point,InvPer,3,DISTRB,0,A1,Day,No,CANAL ST,Part three,Unarmed,,,,2015
+266804,152023201.0,Monday,No,2015-03-23T09:18:00.000,InvPer,"[0, 0]",Point,InvPer,3,EDP,0,C11,Day,No,SAVIN HILL AV,Part three,Knife,,,,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58731,142004141.0,Sunday,No,2014-06-29T13:00:00.000,InvProp,"[-71.13112, 42.252386]",Point,InvProp,6,DISTRB,0,E18,Day,No,RESERVATION RD,Part three,Unarmed,756034.5764,,2917212.5330000003,2014
+144508,142004382.0,Sunday,No,2014-06-29T14:00:00.000,InvProp,"[-71.127595, 42.281321]",Point,InvProp,6,BE,0,E5,Day,No,CRANDALL ST,Part three,Unarmed,756942.8663,,2927760.9910000004,2014
+208682,142005246.0,Sunday,No,2014-06-29T17:00:00.000,InvProp,"[-71.044195, 42.334201]",Point,InvProp,6,IVMV,0,C6,First,No,G ST,Part three,Unarmed,779408.4611,,2947140.8239999996,2014
+232766,142004245.0,Sunday,No,2014-06-29T20:00:00.000,InvProp,"[-71.085618, 42.32866]",Point,InvProp,6,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+261509,142004197.0,Sunday,No,2014-06-29T16:40:00.000,InvProp,"[0, 0]",Point,InvProp,6,IVMV,0,C11,First,No,LORENZO ST,Part three,Unarmed,,,,2014

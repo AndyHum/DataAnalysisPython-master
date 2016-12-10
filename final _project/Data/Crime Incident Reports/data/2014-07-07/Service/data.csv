@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4544,142007038.0,Monday,No,2014-07-07T19:52:00.000,Service,"[-71.103947, 42.316882]",Point,Service,7,PSHOT,0,E13,First,No,BOYLSTON ST,Part three,Firearm,763281.7837,,2940748.74,2014
+7679,142006821.0,Monday,No,2014-07-07T11:25:00.000,Service,"[-71.104782, 42.268974]",Point,Service,7,ARREST,0,E18,Day,No,BLAKE ST,Part three,Unarmed,763137.0258,,2923289.047,2014
+19105,142006729.0,Monday,No,2014-07-07T01:45:00.000,Service,"[-71.061665, 42.352441]",Point,Service,7,ARREST,0,A1,Last,No,ESSEX ST,Part three,Unarmed,774650.7646,,2953763.0539999995,2014
+78967,142007008.0,Monday,No,2014-07-07T19:40:00.000,Service,"[-71.075185, 42.336021]",Point,Service,7,ARREST,0,D4,First,No,E SPRINGFIELD ST,Part three,Unarmed,771026.0816,,2947760.812,2014
+79561,142007015.0,Monday,No,2014-07-07T20:00:00.000,Service,"[-71.062575, 42.352726]",Point,Service,7,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774404.2569,,2953865.65,2014
+141408,142006771.0,Monday,No,2014-07-07T08:45:00.000,Service,"[-71.064655, 42.375356]",Point,Service,7,ARREST,0,A15,Day,No,AUSTIN ST,Part three,Unarmed,773799.9395,,2962109.5960000004,2014
+166570,142006859.0,Monday,No,2014-07-07T13:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,7,IVMV,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+184280,142006819.0,Monday,No,2014-07-07T11:10:00.000,Service,"[-71.062105, 42.351171]",Point,Service,7,SS,0,A1,Day,No,KNAPP ST,Part three,Unarmed,774534.2074,,2953299.631,2014
+196350,142007014.0,Monday,No,2014-07-07T19:53:00.000,Service,"[-71.061495, 42.356911]",Point,Service,7,CD19,0,A1,First,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2014

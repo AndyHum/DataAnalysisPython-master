@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79620,130415984.0,Saturday,No,2013-07-06T14:06:00.000,Ballist,"[-71.066256, 42.288553]",Point,Ballist,7,IVPREM,401,C11,Day,No,TALBOT AV,Part Two,Firearm,773528.0244,,2930474.905,2013
+95322,130416080.0,Saturday,No,2013-07-06T15:03:00.000,Ballist,"[-71.085295, 42.314416]",Point,Ballist,7,PERGUN,313,B2,Day,No,WABON ST,Part Two,Firearm,768330.8947,,2939874.1289999997,2013
+105176,130416768.0,Saturday,No,2013-07-06T21:04:00.000,Ballist,"[-71.070829, 42.312348]",Point,Ballist,7,SHOTS ,331,B2,First,No,BAKER AV,Part Two,Unarmed,772247.0024,,2939139.7610000004,2013

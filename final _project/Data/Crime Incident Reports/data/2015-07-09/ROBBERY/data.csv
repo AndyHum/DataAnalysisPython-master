@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55246,,Thursday,No,2015-07-09T00:00:00.000,Robbery,"[-71.060432, 42.35256]",Point,03xx,7,I00040,116,A1,,No,ESSEX ST,Part One,Personal Weapon (hand  foot  etc.),774984.0,,2950000.0,2015
+250727,,Thursday,No,2015-07-09T20:58:00.000,Robbery,"[0, 0]",Point,03xx,7,ARMROB,402,C11,,No,BAILEY ST,Part One,Knife/Cutting Instrument,,,,2015
+253103,,Thursday,No,2015-07-09T00:00:00.000,Robbery,"[-71.131143, 42.352832]",Point,03xx,7,I00040,796,D14,,No,BRIGHTON AVE,Part One,Firearm,755870.0,,2950000.0,2015

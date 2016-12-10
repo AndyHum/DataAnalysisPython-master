@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24547,152008144.0,Friday,No,2015-01-30T19:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,1,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+32799,152008512.0,Friday,No,2015-01-30T18:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,1,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+73945,152008122.0,Friday,No,2015-01-30T19:45:00.000,PropLost,"[-71.025616, 42.380095]",Point,PropLost,1,PROP,0,A7,First,No,NEPTUNE RD,Part three,Unarmed,784338.7236,,2963892.778,2015
+127059,152013054.0,Friday,No,2015-01-30T12:00:00.000,PropLost,"[-71.08135, 42.332389]",Point,PropLost,1,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769365.5688,,2946429.0289999996,2015
+193649,152016072.0,Friday,No,2015-01-30T16:40:00.000,PropLost,"[-71.158225, 42.257506]",Point,PropLost,1,PROP,0,E5,First,No,ROCKLAND ST,Part three,Other,748688.9412,,2919047.76,2015
+241784,152008468.0,Friday,No,2015-01-30T10:15:00.000,PropLost,"[-71.046717, 42.336149]",Point,PropLost,1,PROP,0,C6,Day,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2015
+265495,152008129.0,Friday,No,2015-01-30T11:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,E5,Day,No,CENTRE ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123093,,Wednesday,No,2015-07-08T00:00:00.000,Auto Theft,"[-71.122534, 42.27631]",Point,07xx,7,IVMV,555,E18,,No,GREW AVE,Part One,None,758320.0,,2930000.0,2015
+123918,,Wednesday,No,2015-07-08T19:00:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,607,E13,,No,KENNEY ST,Part One,None,,,,2015
+186767,,Wednesday,No,2015-07-08T00:00:00.000,Auto Theft,"[-71.073959, 42.298394]",Point,07xx,7,,453,C11,,No,GAYLORD ST,Part One,None,771426.0,,2930000.0,2015
+232833,,Wednesday,No,2015-07-08T00:00:00.000,Auto Theft,"[-71.131506, 42.289861]",Point,07xx,7,IVMV,661,E5,,No,SYMMES ST,Part One,None,755871.0,,2930000.0,2015

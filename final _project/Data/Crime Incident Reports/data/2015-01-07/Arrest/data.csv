@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67588,152001708.0,Wednesday,No,2015-01-07T08:31:00.000,Arrest,"[-71.07179, 42.292531]",Point,Arrest,1,ARREST,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772023.5582,,2931916.9439999997,2015
+103606,152001735.0,Wednesday,No,2015-01-07T10:20:00.000,Arrest,"[-71.013745, 42.385036]",Point,Arrest,1,ARREST,0,A7,Day,No,SARATOGA ST,Part three,Unarmed,787535.9081,,2965711.498,2015
+199830,152001736.0,Wednesday,No,2015-01-07T09:34:00.000,Arrest,"[-71.093739, 42.334956]",Point,Arrest,1,ARREST,0,B2,Day,No,ANNUNCIATION RD,Part three,Unarmed,766011.2668,,2947348.014,2015

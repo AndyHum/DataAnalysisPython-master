@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94439,142025804.0,Wednesday,No,2014-09-03T10:15:00.000,SearchWarr,"[-71.054711, 42.341305]",Point,SearchWarr,9,INVEST,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+99595,142025736.0,Wednesday,No,2014-09-03T12:29:00.000,SearchWarr,"[-71.078719, 42.30927]",Point,SearchWarr,9,CD11,0,B2,Day,No,DEVON ST,Part three,Unarmed,770118.7222,,2938007.273,2014
+224658,142025692.0,Wednesday,No,2014-09-03T10:15:00.000,SearchWarr,"[-71.099375, 42.318306]",Point,SearchWarr,9,CD11,0,E13,Day,No,ERNST ST,Part three,Unarmed,764516.0847,,2941273.506,2014

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+195875,152000408.0,Friday,No,2015-01-02T12:00:00.000,32GUN,"[-71.047905, 42.338976]",Point,32GUN,1,FDWEAP,0,C6,Day,No,E ST,Part three,Unarmed,778396.1288,,2948875.579,2015
+263444,152000418.0,Friday,No,2015-01-02T11:50:00.000,32GUN,"[0, 0]",Point,32GUN,1,BUYBAC,0,C11,Day,No,GIBSON ST,Part three,Firearm,,,,2015

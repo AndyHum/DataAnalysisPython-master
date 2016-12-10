@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61000,142062004.0,Wednesday,No,2014-12-31T12:20:00.000,Service,"[-71.06287, 42.352321]",Point,Service,12,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2014
+264483,142061954.0,Wednesday,No,2014-12-31T08:08:00.000,Service,"[0, 0]",Point,Service,12,CD11,0,A7,Day,No,ASHLEY ST,Other,Unarmed,,,,2014
+264963,142062165.0,Wednesday,No,2014-12-31T22:00:00.000,Service,"[0, 0]",Point,Service,12,SS,0,B2,First,No,COLUMBIA RD,Part three,Unarmed,,DEVON ST,,2014

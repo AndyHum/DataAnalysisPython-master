@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55079,130526012.0,Tuesday,No,2013-08-20T20:30:00.000,Restrain,"[-71.062825, 42.361341]",Point,Restrain,8,VIORDR,64,A1,First,No,BOWDOIN SQ,Part Two,Unarmed,774320.5907,,2957004.776,2013
+236080,130525847.0,Tuesday,No,2013-08-20T19:30:00.000,Restrain,"[-71.081355, 42.311086]",Point,Restrain,8,ABIP  ,321,B2,First,No,BLUE HILL AV,Part Two,Unarmed,769402.4802,,2938665.8239999996,2013
+250242,130528052.0,Tuesday,No,2013-08-20T22:00:00.000,Restrain,"[-71.147358, 42.339026]",Point,Restrain,8,VIORDR,787,D14,First,No,KILSYTH RD,Part Two,Unarmed,751507.7302,,2948766.883,2013

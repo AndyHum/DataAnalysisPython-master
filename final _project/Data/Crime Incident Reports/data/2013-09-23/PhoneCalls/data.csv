@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+180934,130612472.0,Monday,No,2013-09-23T22:00:00.000,PhoneCalls,"[-71.105834, 42.269482]",Point,PhoneCalls,9,MISC  ,478,E18,First,No,RIDLON RD,Part three,Unarmed,762851.4391,,2923473.19,2013
+215020,130606789.0,Monday,No,2013-09-23T09:20:00.000,PhoneCalls,"[-71.08228, 42.276562]",Point,PhoneCalls,9,MISC  ,943,B3,Day,No,WOODBOLE AV,Part three,Unarmed,769213.8122,,2926083.233,2013
+243892,130607303.0,Monday,No,2013-09-23T13:40:00.000,PhoneCalls,"[-71.080985, 42.283871]",Point,PhoneCalls,9,MISC  ,417,B3,Day,No,CAPEN ST,Part three,Unarmed,769551.2774,,2928748.7610000004,2013

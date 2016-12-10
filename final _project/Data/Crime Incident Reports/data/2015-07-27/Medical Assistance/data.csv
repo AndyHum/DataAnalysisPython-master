@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16756,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.056694, 42.31661]",Point,MedAssist,7,UNCONS,244,C11,,No,DORCHESTER AVE,Part Three,None,776062.0,,2940000.0,2015
+49649,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.118803, 42.285952]",Point,MedAssist,7,POISON,502,E18,,No,HYDE PARK AVE,Part Three,None,759314.0,,2930000.0,2015
+55457,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.069732, 42.289187]",Point,MedAssist,7,REQP,398,C11,,No,BRENT ST,Part Three,None,772586.0,,2930000.0,2015
+63425,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.076094, 42.344297]",Point,MedAssist,7,UNCONS,150,D4,,No,W CANTON ST,Part Three,None,770765.0,,2950000.0,2015
+97949,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.084779, 42.30434]",Point,MedAssist,7,IVPER,330,B2,,No,BLUE HILL AVE,Part Three,None,768488.0,,2940000.0,2015
+129033,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.070144, 42.332108]",Point,MedAssist,7,POISON,175,C6,,No,SOUTHAMPTON ST,Part Three,None,772396.0,,2950000.0,2015
+163902,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.118803, 42.285952]",Point,MedAssist,7,UNKEMS,502,E18,,No,HYDE PARK AVE,Part Three,None,759314.0,,2930000.0,2015
+209864,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.059709, 42.297555]",Point,MedAssist,7,IVPER,355,C11,,No,GIBSON ST,Part Three,None,775283.0,,2930000.0,2015
+215447,,Monday,No,2015-07-27T21:10:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,VAND,508,E18,,No,,Part Three,None,, HYDE PARK AVE ,,2015
+225355,,Monday,No,2015-07-27T11:02:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,UNKEMS,437,B3,,No,NORFOLK ST,Part Three,None,,WHITMAN ST,,2015
+256749,,Monday,No,2015-07-27T00:00:00.000,Medical Assistance,"[-71.06778, 42.313634]",Point,MedAssist,7,EDP,332,C11,,No,COLUMBIA RD,Part Three,None,773069.0,,2940000.0,2015

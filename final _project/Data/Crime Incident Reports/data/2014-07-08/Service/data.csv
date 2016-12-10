@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22050,142007317.0,Tuesday,No,2014-07-08T17:00:00.000,Service,"[-71.03321, 42.380091]",Point,Service,7,CD11,0,A7,First,No,TRENTON ST,Part three,Unarmed,782287.0626,PUTNAM ST,2963880.057,2014
+32969,142007226.0,Tuesday,No,2014-07-08T13:45:00.000,Service,"[-71.03118, 42.376406]",Point,Service,7,MVA,0,A7,Day,No,CHELSEA ST,Part three,Other,782842.9146,,2962540.1780000003,2014
+114969,142007120.0,Tuesday,No,2014-07-08T08:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,7,CD9,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+157448,142007227.0,Tuesday,No,2014-07-08T14:00:00.000,Service,"[-71.04625, 42.354256]",Point,Service,7,CD5,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+185130,142007190.0,Tuesday,No,2014-07-08T12:10:00.000,Service,"[-71.06287, 42.352321]",Point,Service,7,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2014
+218500,142007255.0,Tuesday,No,2014-07-08T15:30:00.000,Service,"[-71.07353, 42.347201]",Point,Service,7,INVEST,0,D4,Day,No,CLARENDON ST,Part three,Unarmed,771453.1762,COLUMBUS AV,2951837.24,2014
+232114,142007360.0,Tuesday,No,2014-07-08T20:20:00.000,Service,"[-71.063675, 42.352301]",Point,Service,7,IVPER,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

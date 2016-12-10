@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61170,142020782.0,Tuesday,No,2014-08-19T10:22:00.000,07RV,"[-71.090389, 42.331096]",Point,07RV,8,SS,0,B2,Day,No,MALCOLM X BL,Other,Unarmed,766923.848,,2945945.7830000003,2014
+90854,142020790.0,Tuesday,No,2014-08-19T10:20:00.000,07RV,"[-71.0658, 42.272081]",Point,07RV,8,IVMV,0,C11,Day,No,MEDWAY ST,Other,Unarmed,773682.1389,,2924472.88,2014
+194407,142020863.0,Tuesday,No,2014-08-19T13:42:00.000,07RV,"[-71.10242, 42.321551]",Point,07RV,8,IVMV,0,E13,Day,No,CHESTNUT AV,Other,Unarmed,763687.0569,PRIESING ST,2942452.186,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9096,140305179.0,Saturday,No,2014-05-17T02:52:00.000,DISORDERLY,"[-71.09327, 42.325111]",Point,24xx,5,ARREST,301,B2,Last,No,FORT AV,Part Two,Unarmed,766155.3488,HIGHLAND ST,2943761.1769999997,2014
+74873,140304959.0,Saturday,No,2014-05-17T01:03:00.000,DISORDERLY,"[-71.08927, 42.283601]",Point,24xx,5,ARREST,429,B3,Last,No,MORTON ST,Part Two,Other,767309.8674,THEODORE ST,2928639.465,2014
+199524,140305084.0,Saturday,No,2014-05-17T02:05:00.000,DISORDERLY,"[-71.054615, 42.359146]",Point,24xx,5,ARREST,101,A1,Last,No,BROAD ST,Part Two,Unarmed,776543.6355,,2956216.355,2014

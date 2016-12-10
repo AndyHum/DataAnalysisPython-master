@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24457,140246579.0,Wednesday,No,2014-04-23T10:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,4,ARREST,117,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+48994,140249407.0,Wednesday,No,2014-04-23T16:35:00.000,Service,"[-71.098625, 42.346181]",Point,Service,4,IVPREM,624,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+52023,140245706.0,Wednesday,No,2014-04-23T21:42:00.000,Service,"[-71.092145, 42.330171]",Point,Service,4,IVPER ,290,B2,First,No,ROXBURY ST,Other,Unarmed,766450.7531,,2945606.584,2014
+207867,140263981.0,Wednesday,No,2014-04-23T06:00:00.000,Service,"[-71.148575, 42.287141]",Point,Service,4,IVDRUG,691,E5,Last,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2014
+219057,140246627.0,Wednesday,No,2014-04-23T11:15:00.000,Service,"[-71.091557, 42.312409]",Point,Service,4,ARREST,316,B2,Day,No,HOMESTEAD ST,Part three,Unarmed,766640.7488,,2939134.5289999996,2014
+228458,140247681.0,Wednesday,No,2014-04-23T19:16:00.000,Service,"[-71.046813, 42.331737]",Point,Service,4,ARREST,0,C6,First,No,DIXFIELD ST,Part three,Other,778705.3694,,2946239.164,2014

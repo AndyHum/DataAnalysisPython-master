@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132710,130662163.0,Thursday,No,2013-10-17T10:45:00.000,07RV,"[-71.06455, 42.305361]",Point,07RV,10,RECMV ,346,C11,Day,No,MARIE ST,Other,Unarmed,773958.5302,MT IDA RD,2936602.3039999995,2013
+191232,130662526.0,Thursday,No,2013-10-17T15:10:00.000,07RV,"[-71.076878, 42.32137]",Point,07RV,10,RECMV ,262,B2,Day,No,WOODVILLE ST,Other,Unarmed,770594.8081,,2942419.2989999996,2013
+254833,130663189.0,Thursday,No,2013-10-17T17:50:00.000,07RV,"[-71.0906, 42.286571]",Point,07RV,10,SSTOP ,430,B3,First,No,ANSELL RD,Other,Unarmed,766944.7791,BLUE HILL AV,2929720.045,2013

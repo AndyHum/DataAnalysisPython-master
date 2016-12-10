@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25241,130734876.0,Tuesday,No,2013-11-19T17:25:00.000,LICViol,"[-71.122335, 42.263034]",Point,LICViol,11,CD35  ,495,E18,First,No,ARLINGTON ST,Part three,Unarmed,758395.6295,,2921103.163,2013
+69430,130733959.0,Tuesday,No,2013-11-19T13:00:00.000,LICViol,"[-71.11747, 42.293702]",Point,LICViol,11,ASSTPO,508,E13,Day,No,HYDE PARK AV,Part three,Unarmed,759662.395,,2932284.793,2013
+91725,130733307.0,Tuesday,No,2013-11-19T00:10:00.000,LICViol,"[-71.086655, 42.348466]",Point,LICViol,11,CD35  ,141,D4,Last,No,NEWBURY ST,Part three,Unarmed,767902.9271,,2952280.765,2013
+199734,130735380.0,Tuesday,No,2013-11-19T22:20:00.000,LICViol,"[-71.038995, 42.371556]",Point,LICViol,11,CD35  ,28,A7,First,No,MERIDIAN ST,Part three,Unarmed,780740.8613,,2960761.23,2013

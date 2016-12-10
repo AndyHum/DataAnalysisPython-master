@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35045,130665723.0,Friday,No,2013-10-18T18:00:00.000,PropFound,"[-71.075135, 42.293446]",Point,PropFound,10,INVEST,448,B3,First,No,WHITFIELD ST,Part three,Unarmed,771116.8803,,2932245.858,2013
+68662,130664955.0,Friday,No,2013-10-18T13:00:00.000,PropFound,"[-71.123915, 42.284511]",Point,PropFound,10,FDPROP,561,E5,Day,No,SHELDON ST,Part three,Unarmed,757933.5717,,2928927.8439999996,2013
+100966,130665072.0,Friday,No,2013-10-18T14:09:00.000,PropFound,"[-71.06963, 42.349371]",Point,PropFound,10,ASSTPO,125,A1,Day,No,ARLINGTON ST,Part three,Unarmed,772503.4522,WINCHESTER ST,2952633.3230000003,2013
+141220,130665828.0,Friday,No,2013-10-18T19:38:00.000,PropFound,"[-71.120211, 42.287414]",Point,PropFound,10,IVMV  ,563,E5,First,No,MARION ST,Part three,Unarmed,758930.9145,,2929989.9310000003,2013
+173189,130665253.0,Friday,No,2013-10-18T18:19:00.000,PropFound,"[-71.058495, 42.354946]",Point,PropFound,10,FDPROP,106,A1,First,No,ARCH ST,Part three,Other,775502.8971,,2954680.3419999997,2013
+179384,130665151.0,Friday,No,2013-10-18T14:35:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,10,FDPROP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+213116,130665015.0,Friday,No,2013-10-18T13:15:00.000,PropFound,"[-71.10747, 42.333256]",Point,PropFound,10,FDPROP,605,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,762301.7319,,2946711.372,2013
+224440,130665909.0,Friday,No,2013-10-18T20:14:00.000,PropFound,"[-71.079465, 42.313576]",Point,PropFound,10,FDPROP,326,B2,First,No,BLUE HILL AV,Part three,Unarmed,769909.2121,,2939575.735,2013

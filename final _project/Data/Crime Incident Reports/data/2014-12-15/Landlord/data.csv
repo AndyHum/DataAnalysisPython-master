@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25922,142057760.0,Monday,No,2014-12-15T16:00:00.000,Landlord,"[-71.07533, 42.337671]",Point,Landlord,12,LARCEN,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,770983.8818,,2948361.905,2014
+50077,142057881.0,Monday,No,2014-12-15T22:46:00.000,Landlord,"[-71.057685, 42.310896]",Point,Landlord,12,DISTRB,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775805.0763,,2938628.897,2014
+79330,142057840.0,Monday,No,2014-12-15T20:43:00.000,Landlord,"[-71.073752, 42.273028]",Point,Landlord,12,CD7,0,B3,First,No,CADDY RD,Part three,Unarmed,771528.2197,,2924806.84,2014

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7691,142045664.0,Tuesday,No,2014-11-04T02:41:00.000,Service,"[-71.07538, 42.333949]",Point,Service,11,CD11,0,D4,Last,No,NORTHAMPTON ST,Part three,Other,770977.0295,,2947005.207,2014
+12753,142045707.0,Tuesday,No,2014-11-04T07:55:00.000,Service,"[-71.02957, 42.366031]",Point,Service,11,ARREST,0,A7,Day,No,MAVERICK ST,Part three,Unarmed,783298.7909,,2958761.7189999996,2014
+30257,142046099.0,Tuesday,No,2014-11-04T13:00:00.000,Service,"[-71.0983, 42.319551]",Point,Service,11,ARREST,0,B2,Day,No,DIMOCK ST,Part three,Unarmed,764804.6813,COLUMBUS AV,2941728.5719999997,2014
+79547,142045833.0,Tuesday,No,2014-11-04T16:22:00.000,Service,"[-71.086905, 42.329971]",Point,Service,11,AOD,0,B2,First,No,MALCOLM X BL,Part three,Unarmed,767867.9908,,2945540.519,2014
+150729,142045733.0,Tuesday,No,2014-11-04T10:55:00.000,Service,"[-71.064905, 42.352371]",Point,Service,11,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+173966,142047143.0,Tuesday,No,2014-11-04T15:00:00.000,Service,"[-71.07102, 42.336701]",Point,Service,11,AB,0,D4,Day,No,E NEWTON ST,Part three,Unarmed,772150.9382,,2948014.253,2014
+186792,142045951.0,Tuesday,No,2014-11-04T20:35:00.000,Service,"[-71.162595, 42.340159]",Point,Service,11,ARREST,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,747386.7132,,2949163.048,2014
+194261,142045697.0,Tuesday,No,2014-11-04T09:20:00.000,Service,"[-71.06288, 42.347021]",Point,Service,11,ARREST,0,A1,Day,No,HUDSON ST,Part three,Unarmed,774332.4694,HARRISON AV,2951786.2189999996,2014
+212277,142045653.0,Tuesday,No,2014-11-04T12:40:00.000,Service,"[-71.05831, 42.350846]",Point,Service,11,ARREST,0,A1,Day,No,BEACH ST,Part three,Unarmed,775560.6384,,2953186.4839999997,2014

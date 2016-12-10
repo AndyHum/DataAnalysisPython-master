@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34802,,Tuesday,No,2015-07-07T00:00:00.000,Robbery,"[-71.089649, 42.290122]",Point,03xx,7,I00040,464,B3,,No,BLUE HILL AVE,Part One,Firearm,767196.0,,2930000.0,2015
+51639,,Tuesday,No,2015-07-07T00:00:00.000,Robbery,"[-71.065275, 42.31686]",Point,03xx,7,I00040,257,B2,,No,COLUMBIA RD,Part One,Firearm,773741.0,,2940000.0,2015
+62236,,Tuesday,No,2015-07-07T00:00:00.000,Robbery,"[-71.115175, 42.299411]",Point,03xx,7,ARMROB,652,E13,,No,WASHINGTON ST,Part One,Other,760274.0,,2930000.0,2015
+93033,,Tuesday,No,2015-07-07T00:00:00.000,Robbery,"[-71.102157, 42.273806]",Point,03xx,7,I00040,474,B3,,No,ITASCA ST,Part One,Other,763839.0,,2930000.0,2015
+109374,,Tuesday,No,2015-07-07T00:00:00.000,Robbery,"[-71.133684, 42.357859]",Point,03xx,7,IVPER,809,D14,,No,ADAMSON ST,Part One,None,755175.0,,2960000.0,2015
+145784,,Tuesday,No,2015-07-07T00:00:00.000,Robbery,"[-71.060607, 42.37994]",Point,03xx,7,ARMROB,900,A15,,No,POLK ST,Part One,Firearm,774885.0,,2960000.0,2015
+236774,,Tuesday,No,2015-07-07T02:26:00.000,Robbery,"[0, 0]",Point,03xx,7,I00040,811,D14,,No,BERTRAM ST,Part One,Knife/Cutting Instrument,,N HARVARD ST,,2015

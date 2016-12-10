@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42741,,Wednesday,No,2015-08-05T00:00:00.000,Auto Theft,"[-71.074098, 42.339273]",Point,07xx,8,IVMV,168,D4,,No,W NEWTON ST,Part One,None,771314.0,,2950000.0,2015
+92363,,Wednesday,No,2015-08-05T00:00:00.000,Auto Theft,"[-71.12386, 42.253267]",Point,07xx,8,IVMV,522,E18,,No,DANA AVE,Part One,None,757999.0,,2920000.0,2015
+105376,,Wednesday,No,2015-08-05T11:00:00.000,Auto Theft,"[0, 0]",Point,07xx,8,PROP,79,A1,,No,LA FAYETTE AVE,Part One,None,,,,2015
+123658,,Wednesday,No,2015-08-05T00:00:00.000,Auto Theft,"[-71.14034, 42.279195]",Point,07xx,8,IVMV,685,E5,,No,ROSLINDALE AVE,Part One,None,753497.0,,2930000.0,2015
+182874,,Wednesday,No,2015-08-05T18:00:00.000,Auto Theft,"[0, 0]",Point,07xx,8,IVMV,125,A1,,No,ARLINGTON ST,Part One,None,,COLUMBUS AVE,,2015

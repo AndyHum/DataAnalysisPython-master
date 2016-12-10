@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81961,130163963.0,Wednesday,No,2013-03-20T13:45:00.000,PersLoc,"[-71.079263, 42.30593]",Point,PersLoc,3,MISPER,329,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,769977.5131,,2936789.672,2013
+127620,130166035.0,Wednesday,No,2013-03-20T23:00:00.000,PersLoc,"[-71.075835, 42.289281]",Point,PersLoc,3,MISPER,437,B3,First,No,DARLINGTON ST,Part Three,Unarmed,770935.0404,,2930727.1289999997,2013
+139673,130165187.0,Wednesday,No,2013-03-20T20:10:00.000,PersLoc,"[-71.083015, 42.335956]",Point,PersLoc,3,INVCHD,274,D4,First,No,HAMMOND ST,Part Three,Unarmed,768909.1786,,2947726.6769999997,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115520,130710538.0,Friday,No,2013-11-08T02:25:00.000,BENoProp,"[-71.048947, 42.28349]",Point,BENoProp,11,ARREST,380,C11,Last,No,GALLIVAN BL,Part One,Other,778221.2174,,2928654.028,2013
+151367,130711701.0,Friday,No,2013-11-08T07:10:00.000,BENoProp,"[-71.110664, 42.27312]",Point,BENoProp,11,BERPT ,490,E18,Last,No,ANNAFRAN ST,Part One,Unarmed,761538.1163,,2924792.605,2013
+239451,130712463.0,Friday,No,2013-11-08T22:08:00.000,BENoProp,"[-71.035455, 42.336821]",Point,BENoProp,11,ALARMC,222,C6,First,No,L ST,Part One,Other,781766.38,,2948108.3460000004,2013

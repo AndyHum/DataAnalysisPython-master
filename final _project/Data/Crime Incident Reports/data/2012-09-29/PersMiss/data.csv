@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65329,120612181.0,Saturday,No,2012-09-29T04:58:00.000,PersMiss,"[-71.103282, 42.273251]",Point,PersMiss,9,MISPER,473,B3,Last,No,CANAAN ST,Part Three,Unarmed,763535.608,,2924849.547,2012
+260329,120614481.0,Saturday,No,2012-09-29T18:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,9,MISPER,320,B2,First,No,CRAWFORD ST,Part Three,Unarmed,,,,2012
+264834,120627162.0,Saturday,No,2012-09-29T14:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,9,MISPER,429,B3,Day,No,GALLIVAN BL,Part Three,Unarmed,,,,2012

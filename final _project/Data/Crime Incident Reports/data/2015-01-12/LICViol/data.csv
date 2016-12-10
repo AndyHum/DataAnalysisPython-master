@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48600,152003214.0,Monday,No,2015-01-12T23:00:00.000,LICViol,"[-71.095995, 42.347161]",Point,LICViol,1,CD35,0,D4,First,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2015
+58266,152002944.0,Monday,No,2015-01-12T00:02:00.000,LICViol,"[-71.130932, 42.355412]",Point,LICViol,1,CD35,0,D14,Last,No,LINDEN ST,Part three,Unarmed,755922.7633,,2954757.037,2015
+139535,152002946.0,Monday,No,2015-01-12T00:18:00.000,LICViol,"[-71.131245, 42.350806]",Point,LICViol,1,CD35,0,D14,Last,No,HARVARD AV,Part three,Unarmed,755845.6789,,2953078.245,2015

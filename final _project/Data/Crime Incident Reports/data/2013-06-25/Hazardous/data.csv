@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13085,130388153.0,Tuesday,No,2013-06-25T14:06:00.000,Hazardous,"[-71.152765, 42.351696]",Point,Hazardous,6,REQP  ,769,D14,Day,No,DELAWARE PL,Other,Unarmed,750027.2801,,2953378.165,2013
+25470,130387173.0,Tuesday,No,2013-06-25T05:40:00.000,Hazardous,"[-71.05372, 42.356676]",Point,Hazardous,6,REQP  ,100,A1,Last,No,FRANKLIN ST,Other,Unarmed,776790.2397,,2955317.5039999997,2013
+28236,130387136.0,Tuesday,No,2013-06-25T03:46:00.000,Hazardous,"[-71.044605, 42.344126]",Point,Hazardous,6,IVPREM,210,C6,Last,No,D ST,Other,Unarmed,779278.2937,,2950757.0760000004,2013
+42677,130387532.0,Tuesday,No,2013-06-25T09:45:00.000,Hazardous,"[-71.069582, 42.284133]",Point,Hazardous,6,IVMV  ,402,C11,Day,No,BURT ST,Other,Unarmed,772636.202,,2928859.293,2013

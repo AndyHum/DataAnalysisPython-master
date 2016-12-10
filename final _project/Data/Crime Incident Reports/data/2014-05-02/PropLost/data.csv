@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39939,140296393.0,Friday,No,2014-05-02T00:00:00.000,PropLost,"[-71.079065, 42.348566]",Point,PropLost,5,LSTPRP,135,D4,Last,No,EXETER ST,Part three,Unarmed,769954.4735,,2952327.2389999996,2014
+53110,140270558.0,Friday,No,2014-05-02T16:15:00.000,PropLost,"[-71.066655, 42.361141]",Point,PropLost,5,LSTPRP,67,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,773285.8494,,2956926.6089999997,2014
+201670,140269348.0,Friday,No,2014-05-02T14:00:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,5,LSTPRP,144,D4,Day,No,DALTON ST,Part three,Unarmed,768399.9598,BELVIDERE ST,2951523.3460000004,2014
+250101,140268704.0,Friday,No,2014-05-02T02:00:00.000,PropLost,"[-71.05312, 42.335746]",Point,PropLost,5,LSTPRP,216,C6,Last,No,W 7TH ST,Part three,Unarmed,776992.3725,,2947691.0810000002,2014
+261568,140275022.0,Friday,No,2014-05-02T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LSTPRP,15,A7,First,No,MCCLELLAN HY,Part three,Unarmed,,,,2014
+265283,140268244.0,Friday,No,2014-05-02T14:50:00.000,PropLost,"[0, 0]",Point,PropLost,5,LSTPRP,316,B2,Day,No,SEAVER ST,Part three,Unarmed,,,,2014

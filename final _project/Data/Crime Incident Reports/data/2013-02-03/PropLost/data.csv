@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20144,130072478.0,Sunday,No,2013-02-03T19:00:00.000,PropLost,"[-71.13567, 42.356301]",Point,PropLost,2,LSTPRP,803,D14,First,No,BRAINTREE ST,Part Three,Unarmed,754641.0028,,2955075.5960000004,2013
+68023,130074591.0,Sunday,No,2013-02-03T17:00:00.000,PropLost,"[-71.13209, 42.352991]",Point,PropLost,2,LSTPRP,794,D14,First,No,BRIGHTON AV,Part Three,Unarmed,755613.8322,HARVARD AV,2953873.517,2013
+100391,130070968.0,Sunday,No,2013-02-03T00:45:00.000,PropLost,"[-71.119079, 42.351603]",Point,PropLost,2,LSTPRP,797,D14,Last,No,COMMONWEALTH AV,Part Three,Other,759132.7976,,2953383.027,2013
+158215,130073765.0,Sunday,No,2013-02-03T15:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,2,LARCRT,186,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013
+186394,130071114.0,Sunday,No,2013-02-03T10:00:00.000,PropLost,"[-71.1572, 42.284758]",Point,PropLost,2,LSTPRP,735,E5,Day,No,RICHWOOD ST,Part Three,Other,748926.4079,,2928979.6760000004,2013
+262379,130071696.0,Sunday,No,2013-02-03T09:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,72,A1,Day,No,SUMMER ST,Part Three,Unarmed,,,,2013

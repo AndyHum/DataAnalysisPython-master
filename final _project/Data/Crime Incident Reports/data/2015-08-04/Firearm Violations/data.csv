@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21675,,Tuesday,No,2015-08-04T00:00:00.000,Firearm Violations,"[-71.081881, 42.340447]",Point,15xx,8,SSA,597,D4,,No,COLUMBUS AVE,Part Two,Firearm,769208.0,,2950000.0,2015
+24899,,Tuesday,No,2015-08-04T00:00:00.000,Firearm Violations,"[-71.091878, 42.333679]",Point,15xx,8,FDWEAP,289,B2,,No,SCHROEDER PLZ,Part Two,Firearm,766517.0,,2950000.0,2015
+146392,,Tuesday,No,2015-08-04T00:00:00.000,Firearm Violations,"[-71.072206, 42.280292]",Point,15xx,8,SS,416,B3,,No,WILMINGTON AVE,Part Two,Firearm,771933.0,,2930000.0,2015

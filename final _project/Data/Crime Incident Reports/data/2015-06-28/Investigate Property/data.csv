@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15471,,Sunday,No,2015-06-28T00:00:00.000,Investigate Property,"[-71.079566, 42.305919]",Point,InvProp,6,,329,B2,,No,COLUMBIA RD,Part Three,None,769896.0,,2940000.0,2015
+19310,,Sunday,No,2015-06-28T00:00:00.000,Investigate Property,"[-71.144491, 42.255201]",Point,InvProp,6,BE,822,E5,,No,GEORGETOWNE PL,Part Three,None,752410.0,,2920000.0,2015
+42306,,Sunday,No,2015-06-28T12:00:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,BE,393,C11,,No,ASHMONT ST,Part Three,None,,,,2015
+81892,,Sunday,No,2015-06-28T23:42:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,SHOTS,0,C11,,No,,Part Three,None,,COLUMBIA RD,,2015
+165305,,Sunday,No,2015-06-28T00:00:00.000,Investigate Property,"[-71.068344, 42.317827]",Point,InvProp,6,SHOTS,258,B2,,No,NONQUIT ST,Part Three,None,772909.0,,2940000.0,2015
+223821,,Sunday,No,2015-06-28T19:04:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,SHOTS,0,,,No,,Part Three,None,,GENEVA AVE,,2015
+245583,,Sunday,No,2015-06-28T00:00:00.000,Investigate Property,"[-71.064119, 42.357407]",Point,InvProp,6,IVPREM,71,A1,,No,BEACON ST,Part Three,None,773978.0,,2960000.0,2015

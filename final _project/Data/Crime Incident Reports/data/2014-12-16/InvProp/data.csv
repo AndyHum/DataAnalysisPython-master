@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56652,142058186.0,Tuesday,No,2014-12-16T22:16:00.000,InvProp,"[-71.0833, 42.325951]",Point,InvProp,12,SHOTS,0,B2,First,No,MORELAND ST,Part three,Unarmed,768849.9341,WARREN ST,2944080.3010000004,2014
+91901,142057953.0,Tuesday,No,2014-12-16T09:45:00.000,InvProp,"[-71.09145, 42.283946]",Point,InvProp,12,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766719.3645,,2928762.354,2014
+99980,142057988.0,Tuesday,No,2014-12-16T11:10:00.000,InvProp,"[-71.079057, 42.304682]",Point,InvProp,12,BE,0,C11,Day,No,BRINSLEY ST,Part three,Other,770035.4845,,2936335.0760000004,2014
+103858,142057911.0,Tuesday,No,2014-12-16T00:49:00.000,InvProp,"[-71.0926, 42.312951]",Point,InvProp,12,SHOTS,0,B2,Last,No,HAROLD ST,Part three,Other,766357.6949,HOMESTEAD ST,2939330.7339999997,2014
+155141,142057894.0,Tuesday,No,2014-12-16T00:15:00.000,InvProp,"[-71.066341, 42.287198]",Point,InvProp,12,IVPREM,0,C11,Last,No,ALBAN ST,Part three,Unarmed,773507.4565,,2929980.936,2014
+166992,142057918.0,Tuesday,No,2014-12-16T06:06:00.000,InvProp,"[-71.047314, 42.290189]",Point,InvProp,12,REQP,0,C11,Last,No,MCKONE ST,Part three,Other,778650.1142,,2931097.432,2014
+235627,142058119.0,Tuesday,No,2014-12-16T17:57:00.000,InvProp,"[-71.07632, 42.350356]",Point,InvProp,12,ALARM,0,D4,First,No,BOYLSTON ST,Part three,Other,770693.2587,DARTMOUTH ST,2952983.224,2014
+259190,142058102.0,Tuesday,No,2014-12-16T11:52:00.000,InvProp,"[-71.059987, 42.361648]",Point,InvProp,12,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

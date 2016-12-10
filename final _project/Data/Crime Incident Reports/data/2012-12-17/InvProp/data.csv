@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66892,120789589.0,Monday,No,2012-12-17T18:02:00.000,InvProp,"[-71.107773, 42.331385]",Point,InvProp,12,BEIP  ,605,B2,First,No,ELDORA ST,Part Three,Unarmed,762222.7731,,2946029.1580000003,2012
+100122,120789449.0,Monday,No,2012-12-17T16:54:00.000,InvProp,"[-71.141615, 42.343421]",Point,InvProp,12,ALARM ,791,D14,First,No,ALLSTON ST,Part Three,Unarmed,753053.8688,,2950375.055,2012
+102180,120789983.0,Monday,No,2012-12-17T19:00:00.000,InvProp,"[-71.04162, 42.369616]",Point,InvProp,12,STOLMV,902,A7,First,No,SUMNER ST,Part Three,Unarmed,780035.3332,,2960050.433,2012
+163809,120789435.0,Monday,No,2012-12-17T17:25:00.000,InvProp,"[-71.0712, 42.357211]",Point,InvProp,12,IVMV  ,69,A1,First,No,LIME ST,Part Three,Unarmed,772064.6937,,2955488.233,2012
+192019,120789948.0,Monday,No,2012-12-17T21:29:00.000,InvProp,"[-71.07337, 42.287231]",Point,InvProp,12,SHOTS ,436,B3,First,No,TORREY ST,Part Three,Other,771605.7371,OAKWOOD ST,2929983.4060000004,2012

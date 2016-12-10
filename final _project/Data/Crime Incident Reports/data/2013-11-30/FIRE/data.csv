@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63826,130756397.0,Saturday,No,2013-11-30T13:52:00.000,FIRE,"[-71.058585, 42.282436]",Point,FIRE,11,FIREB ,390,C11,Day,No,FREDERIKA ST,Part three,Unarmed,775615.3175,,2928256.4,2013
+155510,130757385.0,Saturday,No,2013-11-30T23:14:00.000,FIRE,"[-71.130364, 42.242611]",Point,FIRE,11,FIREB ,523,E18,First,No,HYDE PARK AV,Part three,Unarmed,756254.4316,,2913651.113,2013
+168604,130757380.0,Saturday,No,2013-11-30T23:15:00.000,FIRE,"[-71.109555, 42.332676]",Point,FIRE,11,FIREB ,606,B2,First,No,PARKER HILL AV,Part three,Other,761738.9466,,2946497.421,2013
+239103,130756015.0,Saturday,No,2013-11-30T10:00:00.000,FIRE,"[-71.059295, 42.356476]",Point,FIRE,11,FIREB ,103,A1,Day,No,WASHINGTON ST,Part three,Other,775283.7829999999,,2955236.785,2013
+244389,130756168.0,Saturday,No,2013-11-30T10:00:00.000,FIRE,"[-71.059295, 42.356476]",Point,FIRE,11,HAZ   ,103,A1,Day,No,WASHINGTON ST,Part three,Other,775283.7829999999,,2955236.785,2013

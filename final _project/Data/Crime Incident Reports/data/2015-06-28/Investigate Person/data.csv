@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36041,,Sunday,No,2015-06-28T03:20:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,627,D4,,No,KILMARNOCK ST,Part Three,None,,,,2015
+103198,,Sunday,No,2015-06-28T00:00:00.000,Investigate Person,"[-71.063489, 42.321035]",Point,InvPer,6,IVPER,237,B2,,No,E COTTAGE ST,Part Three,None,774216.0,,2940000.0,2015
+120917,,Sunday,No,2015-06-28T16:57:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,AB,265,B2,,No,MORELAND ST,Part Three,Blunt Object,,,,2015
+157761,,Sunday,No,2015-06-28T00:00:00.000,Investigate Person,"[-71.070444, 42.329695]",Point,InvPer,6,IVPER,178,B2,,No,POMPEII ST,Part Three,None,772319.0,,2950000.0,2015
+203075,,Sunday,No,2015-06-28T00:00:00.000,Investigate Person,"[-71.052344, 42.321428]",Point,InvPer,6,IVPER,256,C11,,No,COLUMBIA RD,Part Three,None,777229.0,,2940000.0,2015
+233513,,Sunday,No,2015-06-28T00:00:00.000,Investigate Person,"[-71.055413, 42.327527]",Point,InvPer,6,IVPER,0,,,No,MONSIGNOR DENNIS F O'CALL,Part Three,None,776388.0,KEMP ST,2940000.0,2015
+249441,,Sunday,No,2015-06-28T00:00:00.000,Investigate Person,"[-71.084211, 42.28712]",Point,InvPer,6,IVPREM,432,B3,,No,WOODROW AVE,Part Three,None,768672.0,,2930000.0,2015

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101866,152014532.0,Friday,No,2015-02-20T09:30:00.000,InvPer,"[-71.088294, 42.341504]",Point,InvPer,2,IVPER,0,D4,Day,No,ST STEPHEN ST,Part three,Unarmed,767472.0844,,2949741.2860000003,2015
+102613,152014658.0,Friday,No,2015-02-20T17:00:00.000,InvPer,"[-71.066547, 42.363593]",Point,InvPer,2,IVPER,0,A1,First,No,HAWTHORNE PL,Part three,Other,773310.3309,,2957820.1980000003,2015
+111558,152013727.0,Friday,No,2015-02-20T12:21:00.000,InvPer,"[-71.075485, 42.350581]",Point,InvPer,2,LARCEN,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770918.5605,,2953066.34,2015
+155226,152013797.0,Friday,No,2015-02-20T12:00:00.000,InvPer,"[-71.118926, 42.280846]",Point,InvPer,2,IVPER,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759289.3239,,2927598.193,2015
+160651,152013700.0,Friday,No,2015-02-20T11:45:00.000,InvPer,"[-71.05395, 42.378346]",Point,InvPer,2,VAND,0,A15,Day,No,DECATUR ST,Part three,Other,776686.7773,WALFORD WY,2963214.159,2015
+222717,152013764.0,Friday,No,2015-02-20T14:00:00.000,InvPer,"[-71.041495, 42.333621]",Point,InvPer,2,IVPER,0,C6,Day,No,H ST,Part three,Unarmed,780139.6227,,2946933.375,2015
+225827,152013834.0,Friday,No,2015-02-20T19:45:00.000,InvPer,"[-71.0729, 42.333256]",Point,InvPer,2,AB,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2015
+261379,152013686.0,Friday,No,2015-02-20T10:56:00.000,InvPer,"[0, 0]",Point,InvPer,2,LARCEN,0,D14,Day,No,BRIGHTON AV,Part three,Unarmed,,,,2015
+262894,152013845.0,Friday,No,2015-02-20T19:35:00.000,InvPer,"[0, 0]",Point,InvPer,2,LARCEN,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+263824,152017558.0,Friday,No,2015-02-20T13:00:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,E5,Day,No,ARCHDALE RD,Part three,Unarmed,,,,2015
+265221,152013780.0,Friday,No,2015-02-20T15:25:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,D4,Day,No,HARRISON AV,Part three,Unarmed,,,,2015

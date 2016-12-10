@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31438,130766366.0,Thursday,No,2013-12-05T06:00:00.000,SearchWarr,"[-71.080624, 42.337477]",Point,SearchWarr,12,CD11  ,937,D4,Last,No,CAMDEN ST,Part three,Unarmed,769552.6659,,2948284.111,2013
+84588,130766889.0,Thursday,No,2013-12-05T06:01:00.000,SearchWarr,"[-71.147508, 42.257526]",Point,SearchWarr,12,CD11  ,822,E5,Last,No,CROWN POINT DR,Part three,Unarmed,751589.8849,,2919066.82,2013
+100029,130766855.0,Thursday,No,2013-12-05T06:03:00.000,SearchWarr,"[-71.076105, 42.320506]",Point,SearchWarr,12,CD11  ,264,B2,Last,No,W COTTAGE ST,Part three,Unarmed,770805.4354,,2942105.64,2013
+144202,130766368.0,Thursday,No,2013-12-05T06:03:00.000,SearchWarr,"[-71.076105, 42.320506]",Point,SearchWarr,12,CD11  ,264,B2,Last,No,W COTTAGE ST,Part three,Other,770805.4354,,2942105.64,2013
+153075,130766772.0,Thursday,No,2013-12-05T06:00:00.000,SearchWarr,"[-71.119714, 42.292533]",Point,SearchWarr,12,CD11  ,691,E5,Last,No,BROOKWAY RD,Part three,Unarmed,759057.0586,,2931855.943,2013
+188374,130766770.0,Thursday,No,2013-12-05T06:00:00.000,SearchWarr,"[-71.119714, 42.292533]",Point,SearchWarr,12,CD11  ,691,E5,Last,No,BROOKWAY RD,Part three,Unarmed,759057.0586,,2931855.943,2013
+219324,130767280.0,Thursday,No,2013-12-05T16:53:00.000,SearchWarr,"[-71.11996, 42.273791]",Point,SearchWarr,12,CD11  ,498,E18,First,No,HYDE PARK AV,Part three,Unarmed,759021.1748,,2925026.064,2013
+223404,130766494.0,Thursday,No,2013-12-05T06:40:00.000,SearchWarr,"[-71.080624, 42.337477]",Point,SearchWarr,12,IVDRUG,937,D4,Last,No,CAMDEN ST,Part three,Other,769552.6659,,2948284.111,2013
+262901,140005447.0,Thursday,No,2013-12-05T06:00:00.000,SearchWarr,"[0, 0]",Point,SearchWarr,12,IVDRUG,556,E18,Last,No,SEYMOUR ST,Part three,Other,,,,2013

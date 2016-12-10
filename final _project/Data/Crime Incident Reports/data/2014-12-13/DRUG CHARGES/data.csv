@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14283,142057035.0,Saturday,No,2014-12-13T00:50:00.000,DRUG CHARGES,"[-71.060964, 42.352801]",Point,18xx,12,ARREST,0,A1,Last,No,CHAUNCY ST,Part Two,Unarmed,774839.4243,,2953895.0289999996,2014
+53930,142057766.0,Saturday,No,2014-12-13T07:30:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,12,IVPREM,0,E18,Day,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2014
+140379,142057077.0,Saturday,No,2014-12-13T03:44:00.000,DRUG CHARGES,"[-71.08033, 42.312391]",Point,18xx,12,ARREST,0,B2,Last,No,BLUE HILL AV,Part Two,Unarmed,769677.3819,OTISFIELD ST,2939142.75,2014
+201679,142057061.0,Saturday,No,2014-12-13T02:45:00.000,DRUG CHARGES,"[-71.090755, 42.269537]",Point,18xx,12,SS,0,B3,Last,No,RIVER ST,Part Two,Unarmed,766932.4073,,2923512.3660000004,2014

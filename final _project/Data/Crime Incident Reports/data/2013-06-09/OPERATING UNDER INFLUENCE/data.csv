@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72270,130350397.0,Sunday,No,2013-06-09T14:30:00.000,OPERATING UNDER INFLUENCE,"[-71.03169, 42.377591]",Point,21xx,6,ARREST,19,A7,Day,No,BENNINGTON ST,Part Two,Unarmed,782702.7431,PARIS ST,2962971.2569999998,2013
+114964,130350162.0,Sunday,No,2013-06-09T12:49:00.000,OPERATING UNDER INFLUENCE,"[-71.04711, 42.310726]",Point,21xx,6,FIGHT ,252,C11,Day,No,SAVIN HILL AV,Part Two,Knife,778665.7264,,2938581.9560000002,2013
+182004,130349525.0,Sunday,No,2013-06-09T05:14:00.000,OPERATING UNDER INFLUENCE,"[-71.039152, 42.376741]",Point,21xx,6,MVA   ,26,A7,Last,No,MERIDIAN ST,Part Two,Other,780688.0383,,2962650.535,2013

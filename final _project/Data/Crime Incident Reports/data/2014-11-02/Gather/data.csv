@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114807,142045114.0,Sunday,No,2014-11-02T00:00:00.000,Gather,"[-71.08694, 42.324165]",Point,Gather,11,DISTRB,0,B2,Last,No,CIRCUIT DR,Part three,Unarmed,767868.6125,,2943424.355,2014
+196971,142045136.0,Sunday,No,2014-11-02T01:40:00.000,Gather,"[-71.128315, 42.353681]",Point,Gather,11,DISTRB,0,D14,Last,No,GARDNER ST,Part three,Unarmed,756633.1225,,2954129.3910000003,2014
+203209,142045142.0,Sunday,No,2014-11-02T02:06:00.000,Gather,"[-71.08764, 42.322041]",Point,Gather,11,SSA,0,B2,Last,No,DALE ST,Part three,Firearm,767683.2189,ROCKLAND ST,2942649.727,2014

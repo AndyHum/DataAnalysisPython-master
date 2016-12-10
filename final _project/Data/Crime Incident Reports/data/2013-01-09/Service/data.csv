@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10709,130018662.0,Wednesday,No,2013-01-09T18:40:00.000,Service,"[0, 0]",Point,Service,1,IVPER ,28,A7,First,No,WELLINGTON ST,Part Three,Other,,,,2013
+15426,130017089.0,Wednesday,No,2013-01-09T04:34:00.000,Service,"[-71.05596, 42.304481]",Point,Service,1,TSTOP ,350,C11,Last,No,FREEPORT ST,Part Three,Unarmed,776283.8231,GREENWICH ST,2936293.597,2013
+21923,130017358.0,Wednesday,No,2013-01-09T08:47:00.000,Service,"[-71.06546, 42.348611]",Point,Service,1,ARREST,122,A1,Day,No,TREMONT ST,Part Three,Unarmed,773632.0785,OAK ST,2952362.08,2013
+23582,130018012.0,Wednesday,No,2013-01-09T14:29:00.000,Service,"[-71.07567, 42.313211]",Point,Service,1,ARREST,325,B2,Day,No,HOWARD AV,Part Three,Unarmed,770936.3018,QUINCY ST,2939447.8060000003,2013
+129687,130017795.0,Wednesday,No,2013-01-09T12:48:00.000,Service,"[-71.104292, 42.264537]",Point,Service,1,ARREST,487,E18,Day,No,OAKCREST RD,Part Three,Unarmed,763277.1209999999,,2921673.1,2013
+132628,130019686.0,Wednesday,No,2013-01-09T11:45:00.000,Service,"[-71.06939, 42.339506]",Point,Service,1,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+141025,130017101.0,Wednesday,No,2013-01-09T04:15:00.000,Service,"[-71.05596, 42.304481]",Point,Service,1,CD11  ,350,C11,Last,No,FREEPORT ST,Part Three,Unarmed,776283.8231,GREENWICH ST,2936293.597,2013
+148624,130018547.0,Wednesday,No,2013-01-09T18:49:00.000,Service,"[-71.100758, 42.335565]",Point,Service,1,CD11  ,0,B2,First,No,HUNTINGTON AV,Part Three,Unarmed,764112.391,,2947560.9480000003,2013
+259448,130018817.0,Wednesday,No,2013-01-09T21:15:00.000,Service,"[-71.06953, 42.288361]",Point,Service,1,ARREST,399,C11,First,No,WELLES AV,Part Three,Unarmed,772642.6888,HARLEY ST,2930400.415,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24306,152049301.0,Thursday,No,2015-06-11T21:00:00.000,InvProp,"[-71.048225, 42.332091]",Point,InvProp,6,IVMV,0,C6,First,No,GATES ST,Part three,Unarmed,778322.9033,,2946366.108,2015
+90015,152048278.0,Thursday,No,2015-06-11T00:15:00.000,InvProp,"[-71.083365, 42.331551]",Point,InvProp,6,IVPER,0,B2,Last,No,RUGGLES ST,Part three,Unarmed,768822.3904,,2946120.954,2015
+168983,152048344.0,Thursday,No,2015-06-11T12:00:00.000,InvProp,"[-71.064905, 42.352371]",Point,InvProp,6,CD9,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+199068,152048478.0,Thursday,No,2015-06-11T12:12:00.000,InvProp,"[-71.078965, 42.325036]",Point,InvProp,6,IVPREM,0,B2,Day,No,WINTHROP ST,Part three,Other,770023.8319,,2943752.617,2015
+224022,152048448.0,Thursday,No,2015-06-11T16:37:00.000,InvProp,"[-71.081299, 42.276593]",Point,InvProp,6,IVPER,0,B3,First,No,WOODRUFF WY,Part three,Unarmed,769479.2854,,2926096.117,2015

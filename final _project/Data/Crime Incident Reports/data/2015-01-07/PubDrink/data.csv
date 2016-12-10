@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+521,152001780.0,Wednesday,No,2015-01-07T10:15:00.000,PubDrink,"[-71.083781, 42.329494]",Point,PubDrink,1,IVPER,0,B2,Day,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2015
+22583,152001782.0,Wednesday,No,2015-01-07T11:30:00.000,PubDrink,"[-71.085298, 42.329524]",Point,PubDrink,1,IVPER,0,B2,Day,No,ROXBURY ST,Part Two,Unarmed,768303.1628,,2945379.693,2015
+36642,152001784.0,Wednesday,No,2015-01-07T10:45:00.000,PubDrink,"[-71.08462, 42.329591]",Point,PubDrink,1,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768486.5258,ROXBURY ST,2945405.039,2015
+198788,152001781.0,Wednesday,No,2015-01-07T10:35:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,1,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015

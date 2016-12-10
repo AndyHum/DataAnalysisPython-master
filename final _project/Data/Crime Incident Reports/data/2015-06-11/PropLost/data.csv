@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3100,152049574.0,Thursday,No,2015-06-11T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,B2,First,No,HAMLET ST,Part three,Unarmed,,,,2015
+30164,152049599.0,Thursday,No,2015-06-11T01:45:00.000,PropLost,"[-71.099385, 42.342666]",Point,PropLost,6,PROP,0,D4,Last,No,KILMARNOCK ST,Part three,Unarmed,764471.6869,,2950150.713,2015
+101954,152048295.0,Thursday,No,2015-06-11T08:50:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,6,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+227662,152048377.0,Thursday,No,2015-06-11T13:50:00.000,PropLost,"[-71.104797, 42.330254]",Point,PropLost,6,PROP,0,B2,Day,No,IROQUOIS ST,Part three,Unarmed,763029.3469,,2945620.773,2015
+228895,152049671.0,Thursday,No,2015-06-11T17:00:00.000,PropLost,"[-71.059415, 42.359251]",Point,PropLost,6,PROP,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2015

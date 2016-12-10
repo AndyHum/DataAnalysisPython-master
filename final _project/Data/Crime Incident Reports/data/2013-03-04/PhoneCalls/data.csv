@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103891,130131209.0,Monday,No,2013-03-04T19:30:00.000,PhoneCalls,"[-71.11808, 42.271606]",Point,PhoneCalls,3,HARPT ,498,E18,First,No,BRADLEE ST,Part Three,Unarmed,759533.5422,,2924232.0919999997,2013
+151580,130142562.0,Monday,No,2013-03-04T19:00:00.000,PhoneCalls,"[-71.13603, 42.345896]",Point,PhoneCalls,3,HARPT ,792,D14,First,No,COREY RD,Part Three,Unarmed,754559.8789,,2951283.3880000003,2013
+188352,130130093.0,Monday,No,2013-03-04T10:30:00.000,PhoneCalls,"[-71.096165, 42.349011]",Point,PhoneCalls,3,HARPT ,622,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,765331.2485,,2952467.057,2013
+233035,130132673.0,Monday,No,2013-03-04T00:00:00.000,PhoneCalls,"[-71.054705, 42.379076]",Point,PhoneCalls,3,HARPT ,900,A15,Last,No,MEDFORD ST,Part Three,Unarmed,776481.3945,,2963479.12,2013

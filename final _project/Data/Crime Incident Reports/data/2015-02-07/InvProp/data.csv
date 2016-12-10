@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103583,152010269.0,Saturday,No,2015-02-07T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,2,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+107227,152031289.0,Saturday,No,2015-02-07T12:00:00.000,InvProp,"[-71.140065, 42.361346]",Point,InvProp,2,IVPER,0,D14,Day,No,LITCHFIELD ST,Part three,Unarmed,753445.3339,,2956909.0560000003,2015
+146564,152010157.0,Saturday,No,2015-02-07T11:43:00.000,InvProp,"[-71.06074, 42.356916]",Point,InvProp,2,IVPER,0,A1,Day,No,BROMFIELD ST,Part three,Unarmed,774892.3963,,2955395.115,2015
+179483,152010320.0,Saturday,No,2015-02-07T23:52:00.000,InvProp,"[-71.155404, 42.285926]",Point,InvProp,2,ALARM,0,E5,Last,No,CENTRE ST,Part three,Other,749410.7029,,2929407.3460000004,2015
+262026,152010154.0,Saturday,No,2015-02-07T13:00:00.000,InvProp,"[0, 0]",Point,InvProp,2,IVPREM,0,D4,Day,No,WALNUT AV,Part three,Unarmed,,,,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106,152011109.0,Wednesday,No,2015-02-11T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,CD19,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+17749,152011212.0,Wednesday,No,2015-02-11T10:20:00.000,InvProp,"[-71.141935, 42.281456]",Point,InvProp,2,IVMV,0,E5,Day,No,BEECH ST,Part three,Unarmed,753062.1533,WESTBOURNE ST,2927793.57,2015
+37918,152011318.0,Wednesday,No,2015-02-11T20:05:00.000,InvProp,"[-71.12418, 42.248256]",Point,InvProp,2,SHOTS,0,E18,First,No,CHITTICK RD,Part three,Unarmed,757920.0782,TRUMAN PY,2915715.711,2015
+62177,152011247.0,Wednesday,No,2015-02-11T15:14:00.000,InvProp,"[-71.12167, 42.257471]",Point,InvProp,2,ALARM,0,E18,Day,No,EVERETT ST,Part three,Unarmed,758584.7613,,2919076.7789999996,2015
+63074,152011281.0,Wednesday,No,2015-02-11T18:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,2,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+107913,152011334.0,Wednesday,No,2015-02-11T20:00:00.000,InvProp,"[-71.133629, 42.347441]",Point,InvProp,2,IVPER,0,D14,First,No,BRAINERD RD,Part three,Unarmed,755206.4708,,2951849.0539999995,2015
+123997,152011078.0,Wednesday,No,2015-02-11T00:55:00.000,InvProp,"[-71.039065, 42.369421]",Point,InvProp,2,IVPREM,0,A7,Last,No,MAVERICK SQ,Part three,Unarmed,780726.1501,,2959983.091,2015
+230365,152017667.0,Wednesday,No,2015-02-11T19:00:00.000,InvProp,"[-71.13363, 42.355141]",Point,InvProp,2,IVMV,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,755194.2031,,2954655.23,2015

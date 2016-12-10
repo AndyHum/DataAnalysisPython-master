@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+117364,152032115.0,Monday,No,2015-04-20T09:20:00.000,Gather,"[-71.15674, 42.339976]",Point,Gather,4,DISTRB,0,D14,Day,No,SOUTH ST,Part three,Unarmed,748969.9128,,2949102.514,2015
+182704,152032190.0,Monday,No,2015-04-20T13:15:00.000,Gather,"[-71.1586, 42.342046]",Point,Gather,4,DISTRB,0,D14,Day,No,FOSTER ST,Part three,Unarmed,748464.1159,,2949855.142,2015
+185571,152034551.0,Monday,No,2015-04-20T11:00:00.000,Gather,"[-71.157755, 42.340665]",Point,Gather,4,DISTRB,0,D14,Day,No,RADNOR RD,Part three,Unarmed,748694.4779,,2949352.6139999996,2015

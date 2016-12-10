@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68200,120714618.0,Tuesday,No,2012-11-13T09:40:00.000,PropFound,"[-71.130281, 42.360112]",Point,PropFound,11,FDPROP,815,D14,Day,No,EASTON ST,Part Three,Unarmed,756091.4822,,2956470.623,2012
+167721,130032674.0,Tuesday,No,2012-11-13T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,11,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+182773,120715170.0,Tuesday,No,2012-11-13T12:00:00.000,PropFound,"[-71.09259, 42.328501]",Point,PropFound,11,FDPROP,291,B2,Day,No,HIGHLAND AV,Part Three,Unarmed,766333.3331,,2944997.4310000003,2012

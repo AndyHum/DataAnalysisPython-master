@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+199705,130562576.0,Thursday,No,2013-09-05T02:00:00.000,InvProp,"[-71.06677, 42.319181]",Point,InvProp,9,IVPREM,0,B2,Last,No,HUMPHREYS ST,Part three,Unarmed,773332.4339,,2941635.472,2013
+235816,130621748.0,Thursday,No,2013-09-05T00:00:00.000,InvProp,"[-71.083303, 42.302514]",Point,InvProp,9,BEIP  ,458,B3,Last,No,MICHIGAN AV,Part three,Unarmed,768890.6104,,2935539.2180000003,2013
+249841,130562513.0,Thursday,No,2013-09-05T01:11:00.000,InvProp,"[-71.079305, 42.295966]",Point,InvProp,9,SHOTS ,443,B3,Last,No,STANDISH ST,Part three,Unarmed,769984.1394,,2933158.591,2013

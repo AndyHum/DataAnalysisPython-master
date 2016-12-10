@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41075,140325140.0,Sunday,No,2014-05-25T23:44:00.000,InvProp,"[-71.098539, 42.266502]",Point,InvProp,5,IVPREM,481,E18,First,No,ROCKDALE ST,Part three,Other,764830.78,,2922396.45,2014
+52531,140325484.0,Sunday,No,2014-05-25T02:00:00.000,InvProp,"[-71.139115, 42.348603]",Point,InvProp,5,REQP  ,793,D14,Last,No,COMMONWEALTH AV,Part three,Other,753721.6683,,2952266.1089999997,2014
+92460,140325437.0,Sunday,No,2014-05-25T02:04:00.000,InvProp,"[-71.096606, 42.28424]",Point,InvProp,5,SHOTS ,467,B3,Last,No,WESTMORE RD,Part three,Firearm,765323.5602,,2928862.752,2014
+135715,140326298.0,Sunday,No,2014-05-25T16:00:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,5,CD19  ,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+165940,140326811.0,Sunday,No,2014-05-25T18:58:00.000,InvProp,"[-71.11893, 42.285221]",Point,InvProp,5,VANIP ,502,E18,First,No,HYDE PARK AV,Part three,Other,759281.3249,,2929192.564,2014
+262877,140327256.0,Sunday,No,2014-05-25T05:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,110,A1,Last,No,SEAPORT BL,Part three,Unarmed,,,,2014
+264660,140329193.0,Sunday,No,2014-05-25T10:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,92,A1,Day,No,CITY HALL PZ,Part three,Unarmed,,,,2014

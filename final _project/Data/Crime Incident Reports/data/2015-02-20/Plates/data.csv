@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+259372,152014045.0,Friday,No,2015-02-20T21:00:00.000,Plates,"[-71.063785, 42.302456]",Point,Plates,2,LARCEN,0,C11,First,No,DRAPER ST,Part three,Unarmed,774170.8801,,2935544.7339999997,2015
+261536,152013791.0,Friday,No,2015-02-20T16:00:00.000,Plates,"[0, 0]",Point,Plates,2,IVMV,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+266025,152014861.0,Friday,No,2015-02-20T17:00:00.000,Plates,"[0, 0]",Point,Plates,2,PROP,0,B2,First,No,GREENVILLE ST,Part three,Unarmed,,,,2015

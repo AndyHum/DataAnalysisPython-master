@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+161869,152001067.0,Sunday,No,2015-01-04T23:41:00.000,FIRE,"[-71.077675, 42.291891]",Point,FIRE,1,FIRE,0,B3,First,No,TALBOT AV,Part three,Unarmed,770432.4774,,2931675.7810000004,2015
+205380,152000903.0,Sunday,No,2015-01-04T10:01:00.000,FIRE,"[-71.05738, 42.291931]",Point,FIRE,1,FO,0,C11,Day,No,ADAMS ST,Part three,Unarmed,775923.4366,GLENROSE RD,2931718.1989999996,2015
+219467,152001015.0,Sunday,No,2015-01-04T19:41:00.000,FIRE,"[-71.11524, 42.305536]",Point,FIRE,1,FIRE,0,E13,First,No,METCALF CT,Part three,Other,760246.4079,,2936600.15,2015
+263165,152000992.0,Sunday,No,2015-01-04T17:21:00.000,FIRE,"[0, 0]",Point,FIRE,1,FIRE,0,E5,First,No,AINSWORTH ST,Part three,Unarmed,,,,2015

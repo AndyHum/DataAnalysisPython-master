@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81227,130730364.0,Sunday,No,2013-11-17T13:30:00.000,Argue,"[-71.07268, 42.322371]",Point,Argue,11,IVPER ,182,B2,Day,No,DUDLEY ST,Part three,Unarmed,771728.2837,BURRELL ST,2942789.898,2013
+148097,130730329.0,Sunday,No,2013-11-17T14:07:00.000,Argue,"[-71.078452, 42.304244]",Point,Argue,11,FIGHT ,460,C11,Day,No,MORSE ST,Part three,Unarmed,770199.8024,,2936176.0889999997,2013
+206763,130730849.0,Sunday,No,2013-11-17T19:49:00.000,Argue,"[-71.084515, 42.352176]",Point,Argue,11,UNK   ,135,D4,First,No,BEACON ST,Part three,Unarmed,768474.8252,,2953635.5710000005,2013

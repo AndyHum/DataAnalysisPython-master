@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94327,152002703.0,Saturday,No,2015-01-10T22:25:00.000,DISORDERLY,"[-71.10931, 42.311441]",Point,24xx,1,AB,0,E13,First,No,GREEN ST,Part Two,Unarmed,761840.6373,,2938759.32,2015
+154679,152002529.0,Saturday,No,2015-01-10T02:50:00.000,DISORDERLY,"[-71.069527, 42.351443]",Point,24xx,1,ARREST,0,A1,Last,No,PARK PLAZA,Part Two,Unarmed,772527.4805,,2953388.3860000004,2015
+218955,152002584.0,Saturday,No,2015-01-10T11:01:00.000,DISORDERLY,"[-71.096625, 42.331721]",Point,24xx,1,IVPER,0,B2,Day,No,TREMONT ST,Part Two,Unarmed,765236.7001,,2946165.671,2015

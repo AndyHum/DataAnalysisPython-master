@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45410,142021041.0,Wednesday,No,2014-08-20T00:45:00.000,STOLEN PROPERTY CHARGES,"[-71.094565, 42.313746]",Point,13xx,8,TS,0,E13,Last,No,WALNUT AV,Part Two,Other,765824.8413,HOMESTEAD ST,2939617.912,2014
+92879,142021129.0,Wednesday,No,2014-08-20T11:20:00.000,STOLEN PROPERTY CHARGES,"[-71.04391, 42.370631]",Point,13xx,8,ARREST,0,A7,Day,No,SUMNER ST,Part Two,Other,779414.5312,NEW ST,2960417.001,2014
+106287,142021195.0,Wednesday,No,2014-08-20T13:00:00.000,STOLEN PROPERTY CHARGES,"[-71.05236, 42.289411]",Point,13xx,8,PROP,0,C11,Day,No,TRAIN ST,Part Two,Unarmed,777286.47,,2930806.963,2014
+197824,142021170.0,Wednesday,No,2014-08-20T12:15:00.000,STOLEN PROPERTY CHARGES,"[-71.044855, 42.286271]",Point,13xx,8,LARCEN,0,C11,Day,No,MINOT ST,Part Two,Unarmed,779323.212,,2929673.452,2014

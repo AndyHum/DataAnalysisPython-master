@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37057,120706099.0,Friday,No,2012-11-09T09:27:00.000,InvProp,"[-71.14381, 42.344226]",Point,InvProp,11,FIREB ,785,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,752459.245,,2950665.9280000003,2012
+69680,120706569.0,Friday,No,2012-11-09T13:15:00.000,InvProp,"[-71.077255, 42.317356]",Point,InvProp,11,MISC  ,324,B2,Day,No,INGLESIDE ST,Part Three,Unarmed,770500.1203,,2940956.185,2012
+211892,120707028.0,Friday,No,2012-11-09T16:42:00.000,InvProp,"[-71.07179, 42.292531]",Point,InvProp,11,SSTOP ,362,C11,First,No,WASHINGTON ST,Part Three,Unarmed,772023.5582,,2931916.9439999997,2012

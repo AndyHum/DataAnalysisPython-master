@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30962,142055442.0,Saturday,No,2014-12-06T11:00:00.000,PropLost,"[-71.07176, 42.348621]",Point,PropLost,12,MISC,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,771929.0526,COLUMBUS AV,2952357.111,2014
+35110,142055126.0,Saturday,No,2014-12-06T09:32:00.000,PropLost,"[-71.045965, 42.299311]",Point,PropLost,12,IVPER,0,C11,Day,No,VICTORY RD,Part three,Unarmed,778997.5663,,2934423.81,2014
+107894,142059320.0,Saturday,No,2014-12-06T03:30:00.000,PropLost,"[-71.119609, 42.36402]",Point,PropLost,12,PROP,0,D14,Last,No,WESTERN AV,Part three,Unarmed,758969.2963,,2957907.486,2014
+119157,142055407.0,Saturday,No,2014-12-06T23:00:00.000,PropLost,"[-71.058108, 42.309016]",Point,PropLost,12,PROP,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775694.0122,,2937943.142,2014
+144769,142055189.0,Saturday,No,2014-12-06T14:00:00.000,PropLost,"[-71.08135, 42.332389]",Point,PropLost,12,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769365.5688,,2946429.0289999996,2014
+171228,142055123.0,Saturday,No,2014-12-06T09:00:00.000,PropLost,"[-71.137961, 42.273376]",Point,PropLost,12,LARCEN,0,E5,Day,No,BLUE LEDGE DR,Part three,Other,754149.8141,,2924853.36,2014
+175227,142055489.0,Saturday,No,2014-12-06T22:30:00.000,PropLost,"[-71.08489, 42.348946]",Point,PropLost,12,PROP,0,D4,First,No,NEWBURY ST,Part three,Unarmed,768379.1902,,2952458.002,2014
+229345,142055416.0,Saturday,No,2014-12-06T01:00:00.000,PropLost,"[-71.05724, 42.360116]",Point,PropLost,12,PROP,0,A1,Last,No,CONGRESS ST,Part three,Unarmed,775832.3331,,2956566.147,2014
+237173,142055410.0,Saturday,No,2014-12-06T17:00:00.000,PropLost,"[-71.077748, 42.348631]",Point,PropLost,12,PROP,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,770310.163,,2952352.43,2014
+260227,142057245.0,Saturday,No,2014-12-06T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,PROP,0,A7,First,No,WASHINGTON ST,Part three,Unarmed,,,,2014

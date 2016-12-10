@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98267,130052932.0,Saturday,No,2013-01-26T04:08:00.000,DISORDERLY,"[-71.08074, 42.311861]",Point,24xx,1,ARREST,0,B2,Last,No,BLUE HILL AV,Part Two,Other,769567.4369,INTERVALE ST,2938949.064,2013
+154535,130053750.0,Saturday,No,2013-01-26T15:00:00.000,DISORDERLY,"[-71.0729, 42.333256]",Point,24xx,1,IVPER ,172,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2013
+190074,130052756.0,Saturday,No,2013-01-26T01:27:00.000,DISORDERLY,"[-71.05357, 42.359691]",Point,24xx,1,IVPER ,94,A1,Last,No,CHATHAM ST,Part Two,Unarmed,776825.0316,COMMERCIAL ST,2956416.439,2013

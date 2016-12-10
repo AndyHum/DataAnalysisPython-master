@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62014,140151483.0,Wednesday,No,2014-03-12T11:24:00.000,Restrain,"[-71.06382, 42.361866]",Point,Restrain,3,VIORDR,74,A1,Day,No,STANIFORD ST,Part Two,Unarmed,774050.6995,,2957194.7189999996,2014
+106802,140151933.0,Wednesday,No,2014-03-12T14:27:00.000,Restrain,"[-71.122665, 42.285875]",Point,Restrain,3,VIORDR,561,E5,Day,No,BROOKDALE ST,Part Two,Unarmed,758269.4922,,2929426.385,2014
+203057,140152289.0,Wednesday,No,2014-03-12T17:14:00.000,Restrain,"[-71.156454, 42.295619]",Point,Restrain,3,ARREST,693,E5,First,No,VFW PY,Part Two,Unarmed,749112.1736,,2932938.3210000005,2014

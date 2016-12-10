@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75105,142011695.0,Tuesday,No,2014-07-22T11:30:00.000,Arrest,"[-71.07351, 42.333491]",Point,Arrest,7,ARREST,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771483.5641,ALBANY ST,2946841.0930000003,2014
+121099,142011801.0,Tuesday,No,2014-07-22T17:20:00.000,Arrest,"[-71.06287, 42.352321]",Point,Arrest,7,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Other,774325.2748,,2953717.652,2014
+210964,142011836.0,Tuesday,No,2014-07-22T16:45:00.000,Arrest,"[-71.09621, 42.312471]",Point,Arrest,7,ARREST,0,E13,First,No,WALNUT AV,Part three,Unarmed,765382.1213,SCHOOL ST,2939151.171,2014

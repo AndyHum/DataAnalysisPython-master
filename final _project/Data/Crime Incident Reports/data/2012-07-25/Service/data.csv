@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22615,120458824.0,Wednesday,No,2012-07-25T05:00:00.000,Service,"[0, 0]",Point,Service,7,IVPER ,41,A15,Last,No,WESTMINSTER ST,Part Three,Unarmed,,,,2012
+27939,120459582.0,Wednesday,No,2012-07-25T18:00:00.000,Service,"[-71.013745, 42.385036]",Point,Service,7,ARREST,12,A7,First,No,SARATOGA ST,Part Three,Unarmed,787535.9081,,2965711.498,2012
+138303,120459140.0,Wednesday,No,2012-07-25T14:10:00.000,Service,"[-71.06424, 42.351631]",Point,Service,7,ARREST,117,A1,Day,No,LAGRANGE ST,Part Three,Unarmed,773956.2440000001,TAMWORTH ST,2953464.307,2012
+179683,120459584.0,Wednesday,No,2012-07-25T17:35:00.000,Service,"[-71.03955, 42.369371]",Point,Service,7,ARREST,27,A7,First,No,MAVERICK SQ,Part Three,Unarmed,780595.1867,HENRY ST,2959964.162,2012
+181429,120459807.0,Wednesday,No,2012-07-25T19:29:00.000,Service,"[-71.06477, 42.312821]",Point,Service,7,ARREST,332,C11,First,No,HANCOCK ST,Part Three,Unarmed,773885.1482,TRULL ST,2939320.54,2012
+196284,120459732.0,Wednesday,No,2012-07-25T18:00:00.000,Service,"[-71.013745, 42.385036]",Point,Service,7,IVDRUG,28,A7,First,No,SARATOGA ST,Part Three,Unarmed,787535.9081,,2965711.498,2012
+248273,120460780.0,Wednesday,No,2012-07-25T05:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,7,IVPREM,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+261578,120457822.0,Wednesday,No,2012-07-25T00:14:00.000,Service,"[0, 0]",Point,Service,7,ARREST,134,D4,Last,No,NEWBURY ST,Part Three,Unarmed,,,,2012

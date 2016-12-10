@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5730,130523144.0,Monday,No,2013-08-19T17:02:00.000,Service,"[-71.05255, 42.315021]",Point,Service,8,IVPER ,249,C11,First,No,HARTLAND ST,Part three,Unarmed,777186.1029,SYDNEY ST,2940139.355,2013
+72233,130523899.0,Monday,No,2013-08-19T22:42:00.000,Service,"[-71.098355, 42.321166]",Point,Service,8,REQP  ,304,B2,First,No,COLUMBUS AV,Part three,Unarmed,764787.035,,2942317.0360000003,2013
+81711,130522589.0,Monday,No,2013-08-19T12:40:00.000,Service,"[-71.00172, 42.389136]",Point,Service,8,CD9   ,28,A7,Day,No,GLADSTONE ST,Other,Unarmed,790775.7783,,2967224.12,2013
+139820,130522386.0,Monday,No,2013-08-19T10:46:00.000,Service,"[-71.062835, 42.353226]",Point,Service,8,IVPER ,111,A1,Day,No,AVERY ST,Other,Unarmed,774333.0448,,2954047.5,2013
+168081,130522778.0,Monday,No,2013-08-19T14:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,8,IVPER ,111,A1,Day,No,BOYLSTON ST,Other,Unarmed,774107.7181,,2953709.249,2013

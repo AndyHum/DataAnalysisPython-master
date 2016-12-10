@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61399,152005141.0,Monday,No,2015-01-19T18:40:00.000,DRUG CHARGES,"[-71.0829, 42.324671]",Point,18xx,1,TS,0,B2,First,No,WARREN ST,Part Two,Unarmed,768960.3821,ROCKVILLE PK,2943614.377,2015
+65743,152005184.0,Monday,No,2015-01-19T22:15:00.000,DRUG CHARGES,"[-71.07755, 42.303551]",Point,18xx,1,ARREST,0,C11,First,No,BOWDOIN AV,Part Two,Unarmed,770445.2537,ELDON ST,2935925.027,2015
+248234,152005064.0,Monday,No,2015-01-19T13:15:00.000,DRUG CHARGES,"[-71.065135, 42.350006]",Point,18xx,1,IVPREM,0,A1,Day,No,TREMONT ST,Part Two,Unarmed,773717.34,,2952870.892,2015

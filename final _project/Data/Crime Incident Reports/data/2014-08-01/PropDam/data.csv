@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18275,142015277.0,Friday,No,2014-08-01T18:22:00.000,PropDam,"[-71.08012, 42.339401]",Point,PropDam,8,PROP,0,D4,First,No,TREMONT ST,Part three,Other,769685.7276,,2948985.937,2014
+73818,142015862.0,Friday,No,2014-08-01T09:00:00.000,PropDam,"[-71.12954, 42.351696]",Point,PropDam,8,IVMV,0,D14,Day,No,REEDSDALE ST,Part three,Unarmed,756305.1478,,2953404.5760000004,2014
+145763,142015261.0,Friday,No,2014-08-01T18:28:00.000,PropDam,"[-71.07625, 42.341471]",Point,PropDam,8,PROP,0,D4,First,No,TREMONT ST,Part three,Unarmed,770728.2659,,2949745.457,2014

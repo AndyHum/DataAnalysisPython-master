@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3264,152034296.0,Monday,No,2015-04-27T09:40:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,MISSIN,0,E13,Day,No,COLUMBUS AV,Other,Unarmed,,,,2015
+33413,152034402.0,Monday,No,2015-04-27T19:49:00.000,PersLoc,"[-71.072097, 42.321041]",Point,PersLoc,4,IVPER,0,B2,First,No,DUDLEY ST,Other,Unarmed,771888.2764,,2942305.988,2015
+106193,152034962.0,Monday,No,2015-04-27T06:00:00.000,PersLoc,"[-71.061933, 42.287398]",Point,PersLoc,4,MISSIN,0,C11,Last,No,DRACUT ST,Other,Unarmed,774699.9919,,2930059.777,2015
+175660,152034443.0,Monday,No,2015-04-27T17:30:00.000,PersLoc,"[-71.098005, 42.324861]",Point,PersLoc,4,IVPER,0,B2,First,No,CENTRE ST,Other,Unarmed,764875.3416,,2943664.003,2015
+176757,152034548.0,Monday,No,2015-04-27T05:30:00.000,PersLoc,"[-71.07205, 42.300951]",Point,PersLoc,4,MISSIN,0,C11,Last,No,BOWDOIN ST,Other,Unarmed,771937.8183,,2934984.9639999997,2015
+246133,152034693.0,Monday,No,2015-04-27T19:00:00.000,PersLoc,"[-71.082705, 42.293356]",Point,PersLoc,4,MISSIN,0,B3,First,No,TALBOT AV,Other,Unarmed,769068.9431,,2932202.95,2015

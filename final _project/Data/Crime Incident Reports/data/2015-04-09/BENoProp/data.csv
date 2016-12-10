@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96354,152028827.0,Thursday,No,2015-04-09T18:55:00.000,BENoProp,"[-71.052892, 42.338924]",Point,BENoProp,4,ARREST,0,C6,First,No,CROWLEY ROGERS WY,Part One,Other,777047.9029,,2948849.325,2015
+118372,152028789.0,Thursday,No,2015-04-09T16:55:00.000,BENoProp,"[-71.0599, 42.358711]",Point,BENoProp,4,BE,0,A1,First,No,TREMONT ST,Part One,Other,775116.0583,,2956050.418,2015
+252638,152028890.0,Thursday,No,2015-04-09T09:00:00.000,BENoProp,"[-71.08781, 42.351296]",Point,BENoProp,4,BE,0,D4,Day,No,BEACON ST,Part One,Unarmed,767585.7246,,2953310.56,2015

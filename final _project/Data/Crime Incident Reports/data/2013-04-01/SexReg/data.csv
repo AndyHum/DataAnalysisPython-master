@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16002,130191927.0,Monday,No,2013-04-01T12:00:00.000,SexReg,"[-71.076829, 42.301465]",Point,SexReg,4,MISC  ,455,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,770644.0423,,2935165.667,2013
+73806,130271834.0,Monday,No,2013-04-01T12:00:00.000,SexReg,"[-71.06778, 42.304421]",Point,SexReg,4,MISC  ,341,C11,Day,No,STONEHURST ST,Part Two,Unarmed,773086.5394,,2936255.31,2013
+178854,130197060.0,Monday,No,2013-04-01T12:00:00.000,SexReg,"[-71.06494, 42.343021]",Point,SexReg,4,IVPER ,165,D4,Day,No,HARRISON AV,Part Two,Unarmed,773783.0344,,2950325.6980000003,2013
+237193,130208409.0,Monday,No,2013-04-01T16:00:00.000,SexReg,"[-71.09345, 42.274701]",Point,SexReg,4,IVPER ,427,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766194.2316,,2925390.762,2013

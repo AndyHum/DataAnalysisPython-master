@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40330,120609283.0,Friday,No,2012-09-28T00:24:00.000,InvProp,"[-71.102795, 42.330956]",Point,InvProp,9,PARTY ,603,B2,Last,No,CALUMET ST,Part Three,Unarmed,763569.6841,,2945879.062,2012
+65116,120609748.0,Friday,No,2012-09-28T06:27:00.000,InvProp,"[-71.065575, 42.342486]",Point,InvProp,9,ALARMC,165,D4,Last,No,HARRISON AV,Part Three,Unarmed,773612.3599,,2950129.86,2012
+71582,120610272.0,Friday,No,2012-09-28T11:20:00.000,InvProp,"[-71.075502, 42.317446]",Point,InvProp,9,BERPT ,324,B2,Day,No,DANUBE ST,Part Three,Other,770973.8477,,2940991.1760000004,2012
+134918,120610735.0,Friday,No,2012-09-28T14:36:00.000,InvProp,"[-71.089615, 42.344991]",Point,InvProp,9,EDP2  ,591,D4,Day,No,HEMENWAY ST,Part Three,Unarmed,767108.76,,2951010.563,2012
+145180,120610042.0,Friday,No,2012-09-28T09:06:00.000,InvProp,"[-71.03205, 42.374781]",Point,InvProp,9,BEIP  ,20,A7,Day,No,BREMEN ST,Part Three,Unarmed,782611.0899,,2961946.705,2012
+192218,120610172.0,Friday,No,2012-09-28T10:05:00.000,InvProp,"[-71.037705, 42.382621]",Point,InvProp,9,CRIP  ,900,A7,Day,No,CONDOR ST,Part Three,Unarmed,781067.5907,,2964795.432,2012
+207825,120610346.0,Friday,No,2012-09-28T11:33:00.000,InvProp,"[-71.029125, 42.332671]",Point,InvProp,9,SILCAL,232,C6,Day,No,O ST,Part Three,Unarmed,783486.161,,2946605.401,2012
+245303,120609386.0,Friday,No,2012-09-28T12:36:00.000,InvProp,"[-71.102795, 42.330956]",Point,InvProp,9,PARTY ,603,B2,Day,No,CALUMET ST,Part Three,Unarmed,763569.6841,,2945879.062,2012

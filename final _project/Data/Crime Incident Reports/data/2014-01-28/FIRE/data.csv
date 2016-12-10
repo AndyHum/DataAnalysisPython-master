@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133932,140057471.0,Tuesday,No,2014-01-28T19:20:00.000,FIRE,"[-71.05311, 42.337916]",Point,FIRE,1,PDRPT ,936,C6,First,No,FLAHERTY WY,Part three,Unarmed,776990.9328,,2948481.881,2014
+146278,140055744.0,Tuesday,No,2014-01-28T00:30:00.000,FIRE,"[-71.062735, 42.351706]",Point,FIRE,1,FV    ,117,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774362.9145,,2953493.7210000004,2014
+158968,140056005.0,Tuesday,No,2014-01-28T07:00:00.000,FIRE,"[-71.02232, 42.381141]",Point,FIRE,1,FV    ,15,A7,Last,No,BENNINGTON ST,Part three,Unarmed,785227.2168,SWIFT ST,2964278.988,2014
+248815,140056449.0,Tuesday,No,2014-01-28T11:15:00.000,FIRE,"[-71.108735, 42.338571]",Point,FIRE,1,FIREB ,613,B2,Day,No,JOSLIN PL,Part three,Other,761950.8107,,2948646.685,2014

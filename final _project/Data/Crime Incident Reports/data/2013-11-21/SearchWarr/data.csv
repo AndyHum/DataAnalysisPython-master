@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40134,130739768.0,Thursday,No,2013-11-21T16:30:00.000,SearchWarr,"[-71.029435, 42.379976]",Point,SearchWarr,11,IVPREM,17,A7,First,No,PRINCETON ST,Part three,Unarmed,783307.2358,,2963843.755,2013
+237741,130738632.0,Thursday,No,2013-11-21T12:03:00.000,SearchWarr,"[-71.061185, 42.351706]",Point,SearchWarr,11,CD11  ,116,A1,Day,No,HARRISON AV,Part three,Unarmed,774781.8874,,2953495.873,2013
+245530,130738650.0,Thursday,No,2013-11-21T12:11:00.000,SearchWarr,"[-71.0587, 42.350476]",Point,SearchWarr,11,CD11  ,115,A1,Day,No,LINCOLN ST,Part three,Unarmed,775455.9149,,2953051.103,2013
+252503,130738651.0,Thursday,No,2013-11-21T12:11:00.000,SearchWarr,"[-71.06095, 42.349346]",Point,SearchWarr,11,CD11  ,124,A1,Day,No,HARVARD ST,Part three,Unarmed,774849.8364,,2952636.171,2013

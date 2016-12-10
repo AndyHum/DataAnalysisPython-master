@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113541,130801282.0,Friday,No,2013-12-20T23:30:00.000,Bomb,"[-71.06076, 42.357671]",Point,Bomb,12,BOMBT ,103,A1,First,No,TREMONT ST,Part Two,Unarmed,774885.5732,,2955670.224,2013
+141097,130799256.0,Friday,No,2013-12-20T05:30:00.000,Bomb,"[-71.08257, 42.348656]",Point,Bomb,12,BOMBT ,138,D4,Last,No,BOYLSTON ST,Part Two,Unarmed,769006.8448,,2952355.38,2013
+181675,130800193.0,Friday,No,2013-12-20T14:43:00.000,Bomb,"[-71.08012, 42.339401]",Point,Bomb,12,BOMBT ,155,D4,Day,No,TREMONT ST,Part Two,Unarmed,769685.7276,,2948985.937,2013
+198078,130798985.0,Friday,No,2013-12-20T00:20:00.000,Bomb,"[-71.0672, 42.350816]",Point,Bomb,12,BOMBT ,125,A1,Last,No,STUART ST,Part Two,Unarmed,773157.6465,,2953163.233,2013

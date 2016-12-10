@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+138853,130466699.0,Saturday,No,2013-07-27T09:12:00.000,PubDrink,"[-71.061016, 42.320052]",Point,PubDrink,7,ARREST,237,C11,Day,No,E COTTAGE ST,Part Two,Unarmed,774886.752,COLUMBIA ST,2941960.872,2013
+220083,130470763.0,Saturday,No,2013-07-27T18:34:00.000,PubDrink,"[-71.051105, 42.330443]",Point,PubDrink,7,IVPER ,915,C6,First,No,PILSUDSKI WY,Part Two,Unarmed,777547.0987,,2945761.175,2013
+236804,130468536.0,Saturday,No,2013-07-27T20:50:00.000,PubDrink,"[-71.07538, 42.333949]",Point,PubDrink,7,IVPER ,271,D4,First,No,NORTHAMPTON ST,Part Two,Unarmed,770977.0295,,2947005.207,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142377,,Monday,No,2015-07-06T00:00:00.000,Investigate Property,"[-71.075273, 42.287579]",Point,InvProp,7,IVMV,436,B3,,No,WENTWORTH ST,Part Three,None,771090.0,,2930000.0,2015
+149917,,Monday,No,2015-07-06T00:00:00.000,Investigate Property,"[-71.032986, 42.366758]",Point,InvProp,7,SHOTS,33,A7,,No,EVERETT ST,Part Three,None,782374.0,,2960000.0,2015
+160395,,Monday,No,2015-07-06T00:00:00.000,Investigate Property,"[-71.083564, 42.32319]",Point,InvProp,7,SHOTS,297,B2,,No,SAINT RICHARD ST,Part Three,None,768783.0,,2940000.0,2015
+243719,,Monday,No,2015-07-06T00:00:00.000,Investigate Property,"[-71.071543, 42.272947]",Point,InvProp,7,BE,407,B3,,No,OLD MORTON ST,Part Three,None,772126.0,,2920000.0,2015
+249279,,Monday,No,2015-07-06T00:00:00.000,Investigate Property,"[-71.089311, 42.310269]",Point,InvProp,7,SSA,318,B2,,No,HUTCHINGS ST,Part Three,None,767252.0,,2940000.0,2015

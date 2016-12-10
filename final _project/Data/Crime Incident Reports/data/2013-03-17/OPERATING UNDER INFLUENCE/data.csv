@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1234,130159200.0,Sunday,No,2013-03-17T23:00:00.000,OPERATING UNDER INFLUENCE,"[-71.06803, 42.351401]",Point,21xx,3,ARREST,120,A1,First,No,PARK PLAZA,Part Two,Unarmed,772932.2103,,2953375.2810000004,2013
+257725,130157612.0,Sunday,No,2013-03-17T06:40:00.000,OPERATING UNDER INFLUENCE,"[-71.09384, 42.267876]",Point,21xx,3,ARREST,476,B3,Last,No,BLUE HILL AV,Part Two,Other,766100.5271,,2922903.1380000003,2013
+263034,130158905.0,Sunday,No,2013-03-17T20:00:00.000,OPERATING UNDER INFLUENCE,"[0, 0]",Point,21xx,3,ARREST,245,C11,First,No,SUDAN ST,Part Two,Other,,,,2013

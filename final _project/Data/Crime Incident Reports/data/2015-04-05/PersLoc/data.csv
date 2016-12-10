@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2789,152027743.0,Sunday,No,2015-04-05T17:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,MISSIN,0,B2,First,No,WASHINGTON ST,Other,Unarmed,,KING BL,,2015
+2817,152027744.0,Sunday,No,2015-04-05T17:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,MISSIN,0,B2,First,No,WASHINGTON ST,Other,Unarmed,,KING BL,,2015
+48050,152027733.0,Sunday,No,2015-04-05T15:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,4,IVPER,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015
+74853,152027572.0,Sunday,No,2015-04-05T01:56:00.000,PersLoc,"[-71.11055, 42.269751]",Point,PersLoc,4,IVPER,0,E18,Last,No,WOOD AV,Other,Unarmed,761574.6103,,2923565.3189999997,2015
+83500,152027732.0,Sunday,No,2015-04-05T14:00:00.000,PersLoc,"[-71.094678, 42.319428]",Point,PersLoc,4,IVPER,0,B2,Day,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2015
+258995,152027626.0,Sunday,No,2015-04-05T11:30:00.000,PersLoc,"[-71.069315, 42.313072]",Point,PersLoc,4,IVPER,0,B2,Day,No,GLENDALE ST,Other,Unarmed,772655.2814,,2939405.653,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13081,130472512.0,Monday,No,2013-07-29T18:49:00.000,Ballist,"[-71.091505, 42.288081]",Point,Ballist,7,SHOTS ,465,B3,First,No,HANSBOROUGH ST,Part Two,Firearm,766697.2661,,2930269.139,2013
+52453,130471896.0,Monday,No,2013-07-29T14:22:00.000,Ballist,"[-71.052393, 42.339061]",Point,Ballist,7,IVPREM,936,C6,Day,No,COSTELLO CIRCLE,Part Two,Unarmed,777182.4101,,2948900.1789999995,2013
+63363,130472869.0,Monday,No,2013-07-29T21:37:00.000,Ballist,"[-71.069575, 42.303406]",Point,Ballist,7,SHOTS ,342,C11,First,No,LEVANT ST,Part Two,Firearm,772602.8465,,2935882.972,2013

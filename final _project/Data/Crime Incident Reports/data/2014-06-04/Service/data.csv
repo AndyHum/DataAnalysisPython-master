@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2102,140351708.0,Wednesday,No,2014-06-04T18:10:00.000,Service,"[-71.06424, 42.351631]",Point,Service,6,ARREST,117,A1,First,No,LAGRANGE ST,Part three,Other,773956.2440000001,TAMWORTH ST,2953464.307,2014
+4561,140352233.0,Wednesday,No,2014-06-04T10:15:00.000,Service,"[-71.099446, 42.319929]",Point,Service,6,ARREST,303,E13,Day,No,AMORY ST,Part three,Unarmed,764493.9818,,2941864.597,2014
+47681,140350968.0,Wednesday,No,2014-06-04T11:00:00.000,Service,"[-71.05646, 42.376126]",Point,Service,6,CD11  ,54,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,776012.8045,,2962401.608,2014
+77351,140349919.0,Wednesday,No,2014-06-04T00:59:00.000,Service,"[-71.09007, 42.329571]",Point,Service,6,SSTOP ,292,B2,Last,No,BARTLETT ST,Part three,Unarmed,767012.8799,DUDLEY ST,2945390.622,2014
+83424,140350652.0,Wednesday,No,2014-06-04T10:40:00.000,Service,"[-71.05614, 42.378096]",Point,Service,6,CD11  ,900,A15,Day,No,COREY ST,Part three,Unarmed,776095.5327,,2963119.966,2014
+143261,140350501.0,Wednesday,No,2014-06-04T09:35:00.000,Service,"[-71.059987, 42.361648]",Point,Service,6,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+151056,140349893.0,Wednesday,No,2014-06-04T00:45:00.000,Service,"[-71.08803, 42.294881]",Point,Service,6,TSTOP ,440,B3,Last,No,BLUE HILL AV,Part three,Unarmed,767625.554,TALBOT AV,2932751.6789999995,2014
+197670,140351001.0,Wednesday,No,2014-06-04T13:00:00.000,Service,"[-71.12395, 42.256421]",Point,Service,6,IVPER ,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+200747,140351275.0,Wednesday,No,2014-06-04T17:00:00.000,Service,"[-71.0676, 42.301321]",Point,Service,6,LANTEN,345,C11,First,No,TOPLIFF ST,Part three,Unarmed,773140.9592,,2935125.869,2014
+228390,140354360.0,Wednesday,No,2014-06-04T14:00:00.000,Service,"[-71.148575, 42.287141]",Point,Service,6,IVDRUG,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43572,130317628.0,Monday,No,2013-05-27T13:28:00.000,FIRE,"[-71.144637, 42.342441]",Point,FIRE,5,FIREB ,785,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,752238.2041,,2950014.455,2013
+82094,130317735.0,Monday,No,2013-05-27T14:18:00.000,FIRE,"[-71.073668, 42.305124]",Point,FIRE,5,FIREB ,337,C11,Day,No,OLNEY ST,Part three,Unarmed,771492.4566,,2936503.327,2013
+232737,130318719.0,Monday,No,2013-05-27T23:15:00.000,FIRE,"[-71.108615, 42.325221]",Point,FIRE,5,FIREB ,607,E13,First,No,NIRA AV,Part Three,Unarmed,762005.5783,,2943781.8510000003,2013

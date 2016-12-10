@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24030,140326486.0,Sunday,No,2014-05-25T16:30:00.000,DISORDERLY,"[-71.09188, 42.282681]",Point,24xx,5,REMOVE,428,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766605.2138,,2928300.813,2014
+108444,140325579.0,Sunday,No,2014-05-25T04:16:00.000,DISORDERLY,"[-71.08195, 42.282956]",Point,24xx,5,PARTY ,417,B3,Last,No,CROWELL ST,Part Two,Unarmed,769291.7881,,2928414.041,2014
+142350,140327787.0,Sunday,No,2014-05-25T02:45:00.000,DISORDERLY,"[-71.07553, 42.312201]",Point,24xx,5,IVPER ,326,B2,Last,No,FAYSTON ST,Part Two,Unarmed,770975.9993,,2939079.935,2014

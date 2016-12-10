@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133,152033585.0,Saturday,No,2015-04-25T04:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,C6,Last,No,BOSTON ST,Part three,Unarmed,,,,2015
+161,152034032.0,Saturday,No,2015-04-25T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,INVEST,0,C6,First,No,4TH ST,Part three,Other,,,,2015
+493,152035804.0,Saturday,No,2015-04-25T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+22914,152034188.0,Saturday,No,2015-04-25T15:00:00.000,PropLost,"[-71.06115, 42.364581]",Point,PropLost,4,MISC,0,A1,Day,No,FRIEND ST,Part three,Unarmed,774767.2102,,2958187.8210000005,2015
+105011,152033627.0,Saturday,No,2015-04-25T09:50:00.000,PropLost,"[-71.103995, 42.333881]",Point,PropLost,4,LARCEN,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2015
+171071,152033801.0,Saturday,No,2015-04-25T21:05:00.000,PropLost,"[-71.09211, 42.285141]",Point,PropLost,4,LARCEN,0,B3,First,No,RHOADES ST,Part three,Unarmed,766538.6896,,2929196.9760000003,2015

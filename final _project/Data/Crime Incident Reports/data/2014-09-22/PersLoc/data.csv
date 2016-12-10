@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71975,142033173.0,Monday,No,2014-09-22T18:00:00.000,PersLoc,"[-71.0729, 42.333256]",Point,PersLoc,9,MISSIN,0,D4,First,No,MASSACHUSETTS AV,Other,Unarmed,771648.9274,,2946756.2810000004,2014
+72465,142032021.0,Monday,No,2014-09-22T18:15:00.000,PersLoc,"[-71.075448, 42.292018]",Point,PersLoc,9,IVPER,0,B3,First,No,SPENCER ST,Other,Unarmed,771034.6931,,2931724.8,2014
+99750,142032072.0,Monday,No,2014-09-22T06:30:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,9,IVPER,0,C11,Last,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+123921,142032151.0,Monday,No,2014-09-22T07:00:00.000,PersLoc,"[-71.100575, 42.264277]",Point,PersLoc,9,MISSIN,0,E18,Last,No,RIVER ST,Other,Unarmed,764283.681,,2921582.988,2014
+133351,142032064.0,Monday,No,2014-09-22T16:30:00.000,PersLoc,"[-71.097133, 42.282317]",Point,PersLoc,9,MISSIN,0,B3,First,No,HILLSBORO RD,Other,Unarmed,765184.1654,,2928161.38,2014
+224179,142031992.0,Monday,No,2014-09-22T15:45:00.000,PersLoc,"[-71.121365, 42.274481]",Point,PersLoc,9,IVPER,0,E18,Day,No,GREW AV,Other,Unarmed,758639.8117,,2925275.818,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38919,120497669.0,Saturday,No,2012-08-11T08:30:00.000,BENoProp,"[-71.078085, 42.343506]",Point,BENoProp,8,CRIP  ,149,D4,Day,No,COLUMBUS AV,Part One,Unarmed,770228.507,,2950484.5889999997,2012
+46242,120499623.0,Saturday,No,2012-08-11T23:25:00.000,BENoProp,"[-70.99892, 42.388681]",Point,BENoProp,8,ARREST,3,A7,First,No,BENNINGTON ST,Part One,Unarmed,791533.2482,,2967062.756,2012
+255521,120502447.0,Saturday,No,2012-08-11T20:00:00.000,BENoProp,"[-71.058503, 42.299624]",Point,BENoProp,8,BERPT ,351,C11,First,No,ADAMS ST,Part One,Other,775605.079,,2934520.0719999997,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20299,152041211.0,Tuesday,No,2015-05-19T18:40:00.000,SearchWarr,"[-71.05713, 42.339756]",Point,SearchWarr,5,IVPREM,0,C6,First,No,DORCHESTER AV,Part three,Unarmed,775900.5863,,2949146.74,2015
+74070,152042624.0,Tuesday,No,2015-05-19T10:30:00.000,SearchWarr,"[-71.150915, 42.348981]",Point,SearchWarr,5,ADMRPT,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+129891,152041538.0,Tuesday,No,2015-05-19T15:00:00.000,SearchWarr,"[-71.150915, 42.348981]",Point,SearchWarr,5,CD11,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+219854,152042623.0,Tuesday,No,2015-05-19T10:30:00.000,SearchWarr,"[-71.150915, 42.348981]",Point,SearchWarr,5,ADMRPT,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015

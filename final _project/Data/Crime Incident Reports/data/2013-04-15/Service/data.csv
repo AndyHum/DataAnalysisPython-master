@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8634,130221917.0,Monday,No,2013-04-15T09:35:00.000,Service,"[-71.059987, 42.361648]",Point,Service,4,ARREST,0,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013
+42413,130223354.0,Monday,No,2013-04-15T22:43:00.000,Service,"[-71.09154, 42.284251]",Point,Service,4,TSTOP ,428,B3,First,No,MORTON ST,Part Three,Unarmed,766694.479,BLUE HILL AV,2928873.385,2013
+111680,130223425.0,Monday,No,2013-04-15T23:41:00.000,Service,"[-71.083781, 42.329494]",Point,Service,4,ARMROB,281,B2,First,No,ZEIGLER ST,Part Three,Firearm,768713.5278,,2945370.85,2013
+242726,130221901.0,Monday,No,2013-04-15T09:23:00.000,Service,"[-71.12892, 42.285721]",Point,Service,4,PERGUN,560,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,756577.3359,POPLAR ST,2929362.854,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130037,152015909.0,Friday,No,2015-02-06T12:00:00.000,Argue,"[-71.138423, 42.345885]",Point,Argue,2,IVPER,0,D14,Day,No,VINAL ST,Part three,Unarmed,753912.8947,,2951276.645,2015
+166646,152009980.0,Friday,No,2015-02-06T18:53:00.000,Argue,"[-71.11156, 42.317276]",Point,Argue,2,DISTRB,0,E13,First,No,SPRING PARK AV,Part three,Other,761222.3807,,2940882.915,2015
+219629,152009997.0,Friday,No,2015-02-06T20:24:00.000,Argue,"[-71.0835, 42.325271]",Point,Argue,2,FIGHT,0,B2,First,No,HANSFORD ST,Part three,Unarmed,768797.0611,,2943832.2339999997,2015
+266977,152010000.0,Friday,No,2015-02-06T16:30:00.000,Argue,"[0, 0]",Point,Argue,2,INVEST,0,D14,First,No,JETTE CT,Part three,Unarmed,,,,2015

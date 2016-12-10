@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77914,142019794.0,Friday,No,2014-08-15T18:00:00.000,PhoneCalls,"[-71.073543, 42.325521]",Point,PhoneCalls,8,IVPER,0,B2,First,No,MAGAZINE ST,Part three,Unarmed,771489.077,,2943936.538,2014
+103764,142019661.0,Friday,No,2014-08-15T14:56:00.000,PhoneCalls,"[-71.129353, 42.287094]",Point,PhoneCalls,8,IVPER,0,E5,Day,No,SOUTH ST,Part three,Other,756457.798,BELGRADE AV,2929862.543,2014
+239669,142032196.0,Friday,No,2014-08-15T12:00:00.000,PhoneCalls,"[-71.128569, 42.358301]",Point,PhoneCalls,8,IVPER,0,D14,Day,No,HOOKER ST,Part three,Unarmed,756557.1364,,2955812.4280000003,2014

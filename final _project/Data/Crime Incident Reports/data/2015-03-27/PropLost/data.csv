@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17943,152025546.0,Friday,No,2015-03-27T09:00:00.000,PropLost,"[-71.114065, 42.313546]",Point,PropLost,3,PROP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,760551.0425,,2939520.562,2015
+81109,152034205.0,Friday,No,2015-03-27T12:00:00.000,PropLost,"[-71.08892, 42.27058]",Point,PropLost,3,LARCEN,0,B3,Day,No,MAMELON CR,Part three,Unarmed,767427.2577,,2923894.7660000003,2015
+109621,152025026.0,Friday,No,2015-03-27T15:30:00.000,PropLost,"[-71.066547, 42.363593]",Point,PropLost,3,PROP,0,A1,Day,No,HAWTHORNE PL,Part three,Unarmed,773310.3309,,2957820.1980000003,2015
+127926,152025092.0,Friday,No,2015-03-27T22:10:00.000,PropLost,"[-71.156356, 42.355568]",Point,PropLost,3,LARCEN,0,D14,First,No,PARSONS ST,Part three,Unarmed,749050.7636,,2954785.2060000002,2015
+147108,152025104.0,Friday,No,2015-03-27T23:45:00.000,PropLost,"[-71.12988, 42.349021]",Point,PropLost,3,PROP,0,D14,First,No,HARVARD AV,Part three,Unarmed,756217.475,,2952429.354,2015
+147550,152025055.0,Friday,No,2015-03-27T20:00:00.000,PropLost,"[-71.119022, 42.25556]",Point,PropLost,3,PROP,0,E18,First,No,PIERCE ST,Part three,Unarmed,759304.6913,,2918383.2810000004,2015
+159711,152024963.0,Friday,No,2015-03-27T16:30:00.000,PropLost,"[-71.114686, 42.310676]",Point,PropLost,3,PROP,0,E13,First,No,CENTRE ST,Part three,Unarmed,760387.7357,,2938473.9689999996,2015

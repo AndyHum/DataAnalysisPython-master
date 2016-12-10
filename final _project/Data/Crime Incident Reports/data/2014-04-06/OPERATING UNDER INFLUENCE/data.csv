@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19366,140208252.0,Sunday,No,2014-04-06T19:29:00.000,OPERATING UNDER INFLUENCE,"[-71.04502, 42.338401]",Point,21xx,4,MVA   ,212,C6,First,No,W 1ST ST,Part Two,Other,779177.2346,,2948670.186,2014
+35095,140206642.0,Sunday,No,2014-04-06T00:47:00.000,OPERATING UNDER INFLUENCE,"[-71.146275, 42.342771]",Point,21xx,4,MVA   ,776,D14,Last,No,COLBORNE RD,Part Two,Other,751795.0583,,2950132.923,2014
+194885,140206669.0,Sunday,No,2014-04-06T00:59:00.000,OPERATING UNDER INFLUENCE,"[-71.03904, 42.372786]",Point,21xx,4,ARREST,28,A7,Last,No,MERIDIAN ST,Part Two,Other,780726.2164,,2961209.3510000003,2014

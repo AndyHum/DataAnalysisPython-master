@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+118730,130119722.0,Wednesday,No,2013-02-27T11:49:00.000,InvPer,"[-71.081035, 42.349986]",Point,InvPer,2,SUSPER,138,D4,Day,No,NEWBURY ST,Part Three,Unarmed,769419.4017,,2952842.095,2013
+125606,130120065.0,Wednesday,No,2013-02-27T15:00:00.000,InvPer,"[-71.075564, 42.318418]",Point,InvPer,2,KIDNAP,324,B2,Day,No,BROOKFORD ST,Part Three,Unarmed,770955.4967,,2941345.341,2013
+150823,130120084.0,Wednesday,No,2013-02-27T14:30:00.000,InvPer,"[-71.07632, 42.350356]",Point,InvPer,2,SUSPER,134,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770693.2587,,2952983.224,2013
+152267,130120731.0,Wednesday,No,2013-02-27T21:41:00.000,InvPer,"[-71.080596, 42.327236]",Point,InvPer,2,CURFEW,281,B2,First,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013
+263953,130119008.0,Wednesday,No,2013-02-27T00:50:00.000,InvPer,"[0, 0]",Point,InvPer,2,REMOVE,594,D4,Last,No,E LENOX ST,Part Three,Unarmed,,,,2013

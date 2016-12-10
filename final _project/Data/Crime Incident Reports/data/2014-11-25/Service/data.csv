@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37527,142052524.0,Tuesday,No,2014-11-25T16:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,11,IVPREM,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+61514,142052247.0,Tuesday,No,2014-11-25T18:46:00.000,Service,"[-71.086495, 42.271257]",Point,Service,11,IVPER,0,B3,First,No,BRIARCLIFF TR,Part three,Unarmed,768082.4093,,2924144.47,2014
+83112,142052273.0,Tuesday,No,2014-11-25T21:15:00.000,Service,"[-71.106575, 42.304406]",Point,Service,11,AOD,0,E13,First,No,ROSSMORE RD,Other,Unarmed,762592.2192,,2936199.0510000004,2014
+225903,142052046.0,Tuesday,No,2014-11-25T03:20:00.000,Service,"[-71.08762, 42.288156]",Point,Service,11,ARREST,0,B3,Last,No,CALLENDER ST,Part three,Unarmed,767748.327,,2930301.526,2014

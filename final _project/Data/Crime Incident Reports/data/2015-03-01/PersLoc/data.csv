@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151484,152016655.0,Sunday,No,2015-03-01T20:54:00.000,PersLoc,"[-71.08953, 42.270709]",Point,PersLoc,3,IVPER,0,B3,First,No,MAMELON CR,Other,Unarmed,767262.1281,,2923940.835,2015
+266232,152016444.0,Sunday,No,2015-03-01T05:19:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,IVPER,0,B2,Last,No,GREENVILLE ST,Other,Unarmed,,,,2015

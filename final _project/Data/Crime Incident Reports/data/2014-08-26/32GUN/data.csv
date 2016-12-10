@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21784,142023058.0,Tuesday,No,2014-08-26T11:45:00.000,32GUN,"[-71.054711, 42.341305]",Point,32GUN,8,BUYBAC,0,C6,Day,No,W BROADWAY,Part three,Firearm,776551.5679,,2949714.607,2014
+118488,142023041.0,Tuesday,No,2014-08-26T11:30:00.000,32GUN,"[-71.12395, 42.256421]",Point,32GUN,8,MISC,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+253628,142022967.0,Tuesday,No,2014-08-26T00:45:00.000,32GUN,"[-71.08898, 42.285451]",Point,32GUN,8,IVPER,0,B3,Last,No,LUCERNE ST,Part three,Firearm,767385.0922,HARWOOD ST,2929314.01,2014

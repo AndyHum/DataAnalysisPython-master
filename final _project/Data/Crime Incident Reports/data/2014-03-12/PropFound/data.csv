@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86901,140151762.0,Wednesday,No,2014-03-12T11:00:00.000,PropFound,"[-71.064179, 42.363589]",Point,PropFound,3,FDPROP,63,A1,Day,No,LONGFELLOW PL,Part three,Unarmed,773950.4514,STANIFORD ST,2957822.135,2014
+91142,140152766.0,Wednesday,No,2014-03-12T19:30:00.000,PropFound,"[-71.12348, 42.258416]",Point,PropFound,3,FDPROP,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,758093.2583,,2919418.98,2014

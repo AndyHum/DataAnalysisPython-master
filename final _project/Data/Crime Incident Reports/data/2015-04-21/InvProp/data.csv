@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3164,152032339.0,Tuesday,No,2015-04-21T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+65469,152032709.0,Tuesday,No,2015-04-21T09:30:00.000,InvProp,"[-71.155765, 42.346989]",Point,InvProp,4,LANTEN,0,D14,Day,No,MT VERNON ST,Part three,Unarmed,749223.0382,,2951659.4460000005,2015
+94904,152032611.0,Tuesday,No,2015-04-21T11:35:00.000,InvProp,"[-71.087047, 42.328859]",Point,InvProp,4,EDP,0,B2,Day,No,KENILWORTH ST,Part three,Unarmed,767831.52,,2945134.812,2015
+113256,152032317.0,Tuesday,No,2015-04-21T00:05:00.000,InvProp,"[-71.065661, 42.379518]",Point,InvProp,4,IVPER,0,A15,Last,No,RUSSELL ST,Part three,Unarmed,773520.1806,,2963624.838,2015
+135550,152032322.0,Tuesday,No,2015-04-21T00:38:00.000,InvProp,"[-71.075423, 42.275368]",Point,InvProp,4,ALARM,0,B3,Last,No,CLEARWATER DR,Part three,Unarmed,771071.6999,,2925657.296,2015
+147539,152032603.0,Tuesday,No,2015-04-21T22:29:00.000,InvProp,"[-71.10439, 42.271591]",Point,InvProp,4,SHOTS,0,B3,First,No,ITASCA ST,Part three,Other,763238.7418,CROYDON ST,2924243.5130000003,2015
+268016,152032573.0,Tuesday,No,2015-04-21T21:43:00.000,InvProp,"[0, 0]",Point,InvProp,4,BE,0,C11,First,No,MT BOWDOIN TR,Part three,Unarmed,,,,2015
+268017,152032536.0,Tuesday,No,2015-04-21T18:44:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPER,0,D4,First,No,CAUSEWAY ST,Part three,Other,,,,2015
+268019,152032431.0,Tuesday,No,2015-04-21T13:13:00.000,InvProp,"[0, 0]",Point,InvProp,4,ALARM,0,E13,Day,No,SUNNYSIDE ST,Part three,Unarmed,,,,2015

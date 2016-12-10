@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+166276,142008059.0,Thursday,No,2014-07-10T22:45:00.000,FIRE,"[-71.07053, 42.358268]",Point,FIRE,7,FIRE,0,A1,First,No,CHARLES ST,Part three,Unarmed,772243.5923,,2955874.336,2014
+254959,142007960.0,Thursday,No,2014-07-10T17:30:00.000,FIRE,"[-71.046205, 42.349303]",Point,FIRE,7,FIRE,0,C6,First,No,CONGRESS ST,Part three,Unarmed,778835.4885,,2952641.216,2014
+262027,142007852.0,Thursday,No,2014-07-10T12:30:00.000,FIRE,"[0, 0]",Point,FIRE,7,FO,0,E5,Day,No,BRYON RD,Part three,Other,,,,2014

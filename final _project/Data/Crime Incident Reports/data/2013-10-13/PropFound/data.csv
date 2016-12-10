@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36736,130653915.0,Sunday,No,2013-10-13T13:57:00.000,PropFound,"[-71.037705, 42.382621]",Point,PropFound,10,FDPROP,26,A7,Day,No,CONDOR ST,Part three,Unarmed,781067.5907,,2964795.432,2013
+40331,130653605.0,Sunday,No,2013-10-13T10:15:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,10,FDPROP,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2013
+76253,130653221.0,Sunday,No,2013-10-13T02:46:00.000,PropFound,"[-71.06683, 42.350901]",Point,PropFound,10,IVPER ,0,A1,Last,No,STUART ST,Part three,Unarmed,773257.5033,CHARLES ST S,2953194.716,2013
+111208,130653543.0,Sunday,No,2013-10-13T03:30:00.000,PropFound,"[-71.133058, 42.351856]",Point,PropFound,10,FDPROP,794,D14,Last,No,PARK VALE AV,Part three,Unarmed,755353.9397,,2953458.643,2013
+242562,140204954.0,Sunday,No,2013-10-13T17:00:00.000,PropFound,"[-71.09586, 42.318231]",Point,PropFound,10,LARCRT,304,B2,First,No,WASHINGTON ST,Part three,Unarmed,765466.8401,,2941250.659,2013

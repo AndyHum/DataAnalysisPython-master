@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+538,152036002.0,Sunday,No,2015-05-03T09:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,IVPREM,0,A1,Day,No,BROAD ST,Part three,Unarmed,,,,2015
+542,152035980.0,Sunday,No,2015-05-03T06:19:00.000,PropFound,"[0, 0]",Point,PropFound,5,IVPREM,0,E5,Last,No,CENTRE ST,Part three,Unarmed,,,,2015
+48635,152036005.0,Sunday,No,2015-05-03T02:30:00.000,PropFound,"[-71.103537, 42.309147]",Point,PropFound,5,PROP,0,E13,Last,No,GLEN RD,Part three,Unarmed,763405.7418,FOREST HILLS ST,2937930.4689999996,2015
+58608,152036092.0,Sunday,No,2015-05-03T02:00:00.000,PropFound,"[-71.04745, 42.349726]",Point,PropFound,5,IVPREM,0,C6,Last,No,CONGRESS ST,Part three,Unarmed,778498.358,,2952793.724,2015
+146982,152036108.0,Sunday,No,2015-05-03T17:30:00.000,PropFound,"[-71.06072, 42.355536]",Point,PropFound,5,PROP,0,A1,First,No,WINTER ST,Part three,Unarmed,774900.3914,WASHINGTON ST,2954892.244,2015
+170198,152036063.0,Sunday,No,2015-05-03T10:00:00.000,PropFound,"[-71.104975, 42.309626]",Point,PropFound,5,PROP,0,E13,Day,No,GREEN ST,Part three,Unarmed,763016.2223,WASHINGTON ST,2938103.3039999995,2015
+208519,152036119.0,Sunday,No,2015-05-03T16:30:00.000,PropFound,"[-71.098425, 42.320071]",Point,PropFound,5,PROP,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,764769.9832,DIMOCK ST,2941917.909,2015

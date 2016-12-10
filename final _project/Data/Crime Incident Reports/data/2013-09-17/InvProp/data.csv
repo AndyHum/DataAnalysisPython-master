@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28191,130593294.0,Tuesday,No,2013-09-17T17:38:00.000,InvProp,"[-71.15139, 42.293471]",Point,InvProp,9,LARCIP,689,E5,First,No,EDGEBROOK RD,Part three,Unarmed,750485.6715,,2932161.4269999997,2013
+109644,130593222.0,Tuesday,No,2013-09-17T17:13:00.000,InvProp,"[-71.117792, 42.27982]",Point,InvProp,9,IVPER ,501,E18,First,No,HARDING RD,Part three,Unarmed,759598.0739,,2927225.623,2013
+192599,130591796.0,Tuesday,No,2013-09-17T04:52:00.000,InvProp,"[-71.044313, 42.285011]",Point,InvProp,9,ALARMC,381,C11,Last,No,GALLIVAN BL,Part three,Other,779472.1208,,2929214.769,2013
+226022,130591994.0,Tuesday,No,2013-09-17T00:00:00.000,InvProp,"[-71.129365, 42.353611]",Point,InvProp,9,BEMVRT,800,D14,Last,No,GARDNER ST,Part three,Unarmed,756349.42,,2954102.647,2013

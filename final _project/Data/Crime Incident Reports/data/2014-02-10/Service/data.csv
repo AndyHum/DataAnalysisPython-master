@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111962,140085467.0,Monday,No,2014-02-10T17:04:00.000,Service,"[-71.081299, 42.276593]",Point,Service,2,IVPREM,943,B3,First,No,WOODRUFF WY,Part three,Unarmed,769479.2854,,2926096.117,2014
+126903,140084082.0,Monday,No,2014-02-10T01:50:00.000,Service,"[-71.06194, 42.306341]",Point,Service,2,ARREST,347,C11,Last,No,ADAMS ST,Part three,Unarmed,774662.7102,HECLA ST,2936963.045,2014
+151250,140085687.0,Monday,No,2014-02-10T19:00:00.000,Service,"[-71.074135, 42.302786]",Point,Service,2,ARREST,462,C11,First,No,MALLON RD,Part three,Unarmed,771370.4405,,2935650.8430000003,2014
+177055,140084742.0,Monday,No,2014-02-10T11:30:00.000,Service,"[-71.05259, 42.328371]",Point,Service,2,ARREST,914,C6,Day,No,OLD COLONY AV,Part three,Unarmed,777149.7663,MCDONOUGH WY,2945004.256,2014

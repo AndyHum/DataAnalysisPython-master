@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4466,130623490.0,Monday,No,2013-09-30T13:25:00.000,PropFound,"[-71.10697, 42.310471]",Point,PropFound,9,FDPROP,574,E13,Day,No,GREEN ST,Part three,Unarmed,762475.1843,AMORY ST,2938408.744,2013
+132036,140016918.0,Monday,No,2013-09-30T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,9,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+211398,130623363.0,Monday,No,2013-09-30T12:37:00.000,PropFound,"[-71.076399, 42.333996]",Point,PropFound,9,DISTRB,271,D4,Day,No,HARRISON AV,Part three,Unarmed,770701.3598,,2947021.0810000002,2013
+255191,130624033.0,Monday,No,2013-09-30T17:28:00.000,PropFound,"[-71.082606, 42.30757]",Point,PropFound,9,FDPROP,329,B2,First,No,WASHINGTON ST,Part three,Other,769070.3581,,2937382.568,2013

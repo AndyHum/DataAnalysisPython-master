@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1039,152038420.0,Monday,No,2015-05-11T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD7,0,B2,Last,No,FRANKLIN ST,Part three,Unarmed,,,,2015
+172946,152038395.0,Monday,No,2015-05-11T00:53:00.000,InvProp,"[-71.101555, 42.331176]",Point,InvProp,5,BE,0,B2,Last,No,PONTIAC ST,Part three,Other,763904.5984,,2945960.797,2015
+178664,152038573.0,Monday,No,2015-05-11T15:00:00.000,InvProp,"[-71.051365, 42.359702]",Point,InvProp,5,IVPREM,0,A1,Day,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2015
+215254,152039059.0,Monday,No,2015-05-11T18:00:00.000,InvProp,"[-71.047555, 42.284641]",Point,InvProp,5,BE,0,C11,First,No,SYLVESTER RD,Part three,Unarmed,778595.7859,,2929075.57,2015
+259893,152038811.0,Monday,No,2015-05-11T10:30:00.000,InvProp,"[-71.071995, 42.315121]",Point,InvProp,5,PROP,0,B2,Day,No,MAGNOLIA SQ,Part three,Other,771926.7865,,2940148.808,2015

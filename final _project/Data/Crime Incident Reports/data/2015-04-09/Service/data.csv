@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87866,152028741.0,Thursday,No,2015-04-09T14:34:00.000,Service,"[-71.098725, 42.315361]",Point,Service,4,ARREST,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,764696.9253,ATHERTON ST,2940201.124,2015
+182850,152028641.0,Thursday,No,2015-04-09T08:45:00.000,Service,"[-71.00424, 42.387491]",Point,Service,4,ARREST,0,A7,Day,No,BENNINGTON ST,Part three,Unarmed,790098.5989,,2966620.932,2015
+220057,152028674.0,Thursday,No,2015-04-09T11:00:00.000,Service,"[-71.068436, 42.290364]",Point,Service,4,IVPER,0,C11,Day,No,LITHGOW ST,Part three,Unarmed,772934.9327,,2931131.8,2015
+220259,152029069.0,Thursday,No,2015-04-09T16:00:00.000,Service,"[-71.008643, 42.393294]",Point,Service,4,IVPER,0,A7,First,No,WALDEMAR AV,Part three,Unarmed,788896.8788,,2968728.664,2015
+267490,152028655.0,Thursday,No,2015-04-09T09:30:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267508,152028862.0,Thursday,No,2015-04-09T20:00:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,D4,First,No,HARRISON AV,Part three,Unarmed,,,,2015

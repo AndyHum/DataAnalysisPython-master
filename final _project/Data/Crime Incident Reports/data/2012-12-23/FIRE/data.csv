@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77703,120801660.0,Sunday,No,2012-12-23T01:11:00.000,FIRE,"[-71.128836, 42.26851]",Point,FIRE,12,FIREB ,547,E18,Last,No,HALLRON ST,Part Three,Unarmed,756627.2682,,2923090.711,2012
+87964,120801703.0,Sunday,No,2012-12-23T01:44:00.000,FIRE,"[-71.101735, 42.262396]",Point,FIRE,12,FIREB ,484,E18,Last,No,WACHUSETT ST,Part Three,Unarmed,763972.9631,,2920896.078,2012
+211842,120802406.0,Sunday,No,2012-12-23T13:31:00.000,FIRE,"[-71.15242, 42.351791]",Point,FIRE,12,FIREB ,133,D14,Day,No,ARLINGTON ST,Part Three,Unarmed,750120.3947,,2953413.165,2012

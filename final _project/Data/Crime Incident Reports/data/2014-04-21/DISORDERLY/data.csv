@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+200430,140242334.0,Monday,No,2014-04-21T13:28:00.000,DISORDERLY,"[-71.08621, 42.349901]",Point,24xx,4,ARREST,140,D4,Day,No,COMMONWEALTH AV,Part Two,Other,768020.6834,HEREFORD ST,2952804.288,2014
+226544,140243374.0,Monday,No,2014-04-21T23:11:00.000,DISORDERLY,"[-71.057102, 42.367962]",Point,24xx,4,FIGHT ,82,A1,First,No,COMMERCIAL ST,Part Two,Unarmed,775854.7691,,2959425.5810000002,2014
+251495,140243128.0,Monday,No,2014-04-21T20:48:00.000,DISORDERLY,"[-71.059246, 42.325015]",Point,24xx,4,ARREST,187,C6,First,No,BOSTON ST,Part Two,Unarmed,775356.0696,,2943771.932,2014
+252268,140241689.0,Monday,No,2014-04-21T02:48:00.000,DISORDERLY,"[-71.079883, 42.315999]",Point,24xx,4,IVPREM,311,B2,Last,No,SAVIN ST,Part Two,Unarmed,769791.8058,,2940458.144,2014

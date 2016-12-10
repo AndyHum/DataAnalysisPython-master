@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8138,130718206.0,Monday,No,2013-11-11T21:58:00.000,PropFound,"[-71.06091, 42.350401]",Point,PropFound,11,FDPROP,0,A1,First,No,TYLER ST,Part three,Unarmed,774858.6696,KNEELAND ST,2953020.689,2013
+68749,130717595.0,Monday,No,2013-11-11T16:30:00.000,PropFound,"[-71.06775, 42.340801]",Point,PropFound,11,FDPROP,167,D4,First,No,HARRISON AV,Part three,Unarmed,773027.4713,WALTHAM ST,2949512.827,2013
+73768,130717594.0,Monday,No,2013-11-11T13:00:00.000,PropFound,"[-71.07233, 42.321831]",Point,PropFound,11,FDPROP,182,B2,Day,No,DUDLEY ST,Part three,Unarmed,771823.9216,ALBION ST,2942593.587,2013
+194594,130717787.0,Monday,No,2013-11-11T17:45:00.000,PropFound,"[-71.15004, 42.287251]",Point,PropFound,11,FDPROP,691,E5,First,No,CENTRE ST,Part three,Unarmed,750860.2222,BELGRADE AV,2929896.255,2013
+243294,130717692.0,Monday,No,2013-11-11T16:59:00.000,PropFound,"[-71.123782, 42.253134]",Point,PropFound,11,IVPER ,521,E18,First,No,DANA AV,Part three,Unarmed,758019.8943,,2917493.56,2013
+245828,130717506.0,Monday,No,2013-11-11T14:45:00.000,PropFound,"[-71.17713, 42.280496]",Point,PropFound,11,FDPROP,728,E5,Day,No,GARDNER ST,Part three,Unarmed,743539.4692,,2927405.716,2013
+257470,130725776.0,Monday,No,2013-11-11T22:00:00.000,PropFound,"[-71.113335, 42.314982]",Point,PropFound,11,LSTPRP,639,E13,First,No,PARLEY AV,Part three,Unarmed,760745.945,,2940044.732,2013
+263434,130717748.0,Monday,No,2013-11-11T17:00:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,102,A1,First,No,WINTER ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30669,152006878.0,Sunday,No,2015-01-25T18:00:00.000,InvProp,"[-71.0802, 42.282451]",Point,InvProp,1,SHOTS,0,B3,First,No,EVANS ST,Part three,Firearm,769766.2418,CAPEN ST,2928232.338,2015
+96423,152006760.0,Sunday,No,2015-01-25T09:17:00.000,InvProp,"[-71.152092, 42.359936]",Point,InvProp,1,ALARM,0,D14,Day,No,SOLDIERS FIELD RD,Part three,Unarmed,750196.926,,2956381.583,2015
+118354,152007008.0,Sunday,No,2015-01-25T09:07:00.000,InvProp,"[-71.089536, 42.325966]",Point,InvProp,1,IVPER,0,B2,Day,No,THORNTON ST,Part three,Unarmed,767163.6034,,2944077.461,2015
+139965,152006867.0,Sunday,No,2015-01-25T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,1,CD9,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+169487,152006913.0,Sunday,No,2015-01-25T20:00:00.000,InvProp,"[-71.06688, 42.310996]",Point,InvProp,1,ALARM,0,C11,First,No,RONAN ST,Part three,Unarmed,773317.8316,,2938652.5760000004,2015
+197295,152006929.0,Sunday,No,2015-01-25T22:15:00.000,InvProp,"[-71.10602, 42.310071]",Point,InvProp,1,IVPER,0,E13,First,No,GREEN ST,Part three,Unarmed,762732.8157,,2938264.162,2015

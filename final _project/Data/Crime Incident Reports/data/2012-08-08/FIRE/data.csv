@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39260,120492063.0,Wednesday,No,2012-08-08T17:53:00.000,FIRE,"[-71.121955, 42.290087]",Point,FIRE,8,FIREB ,563,E5,First,No,FAWNDALE RD,Part Three,Unarmed,758454.9082,,2930961.974,2012
+237317,120492554.0,Wednesday,No,2012-08-08T21:38:00.000,FIRE,"[-71.094611, 42.268633]",Point,FIRE,8,FIREB ,476,B3,First,No,FAIRWAY ST,Part Three,Unarmed,765890.4759999999,,2923177.84,2012
+238313,120491293.0,Wednesday,No,2012-08-08T12:23:00.000,FIRE,"[-71.132057, 42.270134]",Point,FIRE,8,FIREB ,550,E18,Day,No,POPLAR ST,Part Three,Unarmed,755753.0035,,2923678.7410000004,2012

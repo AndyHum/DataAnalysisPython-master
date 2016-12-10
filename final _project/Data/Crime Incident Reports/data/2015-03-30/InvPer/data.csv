@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14951,152026775.0,Monday,No,2015-03-30T09:00:00.000,InvPer,"[-71.05539, 42.338296]",Point,InvPer,3,IVPER,0,C6,Day,No,ORTON MAROTTA WY,Part three,Other,776373.7815,,2948617.1380000003,2015
+127239,152026004.0,Monday,No,2015-03-30T07:50:00.000,InvPer,"[-71.04049, 42.373806]",Point,InvPer,3,IVPER,0,A7,Day,No,BORDER ST,Part three,Unarmed,780332.2546,,2961578.942,2015
+173090,152025958.0,Monday,No,2015-03-30T22:00:00.000,InvPer,"[-71.014961, 42.384566]",Point,InvPer,3,NIDV,0,A7,First,No,SARATOGA ST,Part three,Unarmed,787208.2385,,2965538.1180000002,2015
+183807,152025691.0,Monday,No,2015-03-30T00:30:00.000,InvPer,"[-71.059943, 42.314286]",Point,InvPer,3,IVPER,0,C11,Last,No,PLEASANT ST,Part three,Unarmed,775187.9158,,2939860.7989999996,2015
+197855,152026279.0,Monday,No,2015-03-30T04:55:00.000,InvPer,"[-71.10278, 42.319866]",Point,InvPer,3,IVPER,0,E13,Last,No,LAMARTINE ST,Part three,Unarmed,763592.5594,,2941837.689,2015
+243366,152025702.0,Monday,No,2015-03-30T04:24:00.000,InvPer,"[-71.07439, 42.324346]",Point,InvPer,3,IVPER,0,B2,Last,No,DUDLEY ST,Part three,Unarmed,771262.2559999999,,2943507.309,2015
+267074,152025949.0,Monday,No,2015-03-30T22:17:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267075,152025876.0,Monday,No,2015-03-30T13:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,AB,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267076,152025814.0,Monday,No,2015-03-30T12:53:00.000,InvPer,"[0, 0]",Point,InvPer,3,VIORDR,0,B3,Day,No,WICHITA TR,Part three,Unarmed,,,,2015
+267078,152025910.0,Monday,No,2015-03-30T19:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,ARREST,0,A7,First,No,BORDER ST,Part three,Unarmed,,,,2015
+267089,152025821.0,Monday,No,2015-03-30T13:24:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,D14,Day,No,WASHINGTON ST,Part three,Other,,,,2015
+267104,152025780.0,Monday,No,2015-03-30T10:40:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,D4,Day,No,ST MARYS ST,Part three,Unarmed,,,,2015

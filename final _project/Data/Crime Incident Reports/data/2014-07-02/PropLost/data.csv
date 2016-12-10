@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26694,142005384.0,Wednesday,No,2014-07-02T16:50:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,7,LARCEN,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+83652,142005515.0,Wednesday,No,2014-07-02T17:00:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,7,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+120911,142005296.0,Wednesday,No,2014-07-02T14:00:00.000,PropLost,"[-71.109305, 42.336121]",Point,PropLost,7,PROP,0,B2,Day,No,FENWOOD RD,Part three,Unarmed,761800.7939,,2947753.153,2014
+138392,142005461.0,Wednesday,No,2014-07-02T22:30:00.000,PropLost,"[-71.056873, 42.342678]",Point,PropLost,7,LARCEN,0,C6,First,No,W BROADWAY,Part three,Unarmed,775964.3463,,2950211.663,2014
+151019,142005303.0,Wednesday,No,2014-07-02T17:33:00.000,PropLost,"[-71.059732, 42.354044]",Point,PropLost,7,PROP,0,A1,First,No,CHAUNCY ST,Part three,Other,775170.2002,,2954349.82,2014
+171001,142012652.0,Wednesday,No,2014-07-02T02:00:00.000,PropLost,"[-71.056873, 42.342678]",Point,PropLost,7,PROP,0,C6,Last,No,W BROADWAY,Part three,Unarmed,775964.3463,,2950211.663,2014
+177922,142009684.0,Wednesday,No,2014-07-02T15:00:00.000,PropLost,"[-71.106503, 42.342193]",Point,PropLost,7,PROP,0,B2,Day,No,RIVERWAY,Part three,Unarmed,762547.9483,,2949969.4,2014
+220080,142005302.0,Wednesday,No,2014-07-02T16:28:00.000,PropLost,"[-71.080515, 42.304006]",Point,PropLost,7,IVPER,0,B3,First,No,GLENARM ST,Part three,Unarmed,769642.3711,,2936086.877,2014

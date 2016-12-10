@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77885,152021136.0,Sunday,No,2015-03-15T22:30:00.000,PropFound,"[-71.056873, 42.342678]",Point,PropFound,3,PROP,0,C6,First,No,W BROADWAY,Part three,Unarmed,775964.3463,,2950211.663,2015
+242448,152020937.0,Sunday,No,2015-03-15T15:00:00.000,PropFound,"[-71.046717, 42.336149]",Point,PropFound,3,PROP,0,C6,Day,No,BROADWAY,Part three,Unarmed,778722.6466,F ST,2947847.002,2015
+248941,152020915.0,Sunday,No,2015-03-15T16:05:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,3,PROP,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2015
+261599,152020756.0,Sunday,No,2015-03-15T02:15:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,D4,Last,No,LANSDOWNE ST,Part three,Unarmed,,,,2015

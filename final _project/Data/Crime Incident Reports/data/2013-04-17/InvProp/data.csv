@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53903,130225977.0,Wednesday,No,2013-04-17T07:58:00.000,InvProp,"[-71.08017, 42.331521]",Point,InvProp,4,BOMB  ,278,B2,Day,No,HARRISON AV,Part Three,Unarmed,769686.3424,,2946114.258,2013
+62336,130226531.0,Wednesday,No,2013-04-17T12:53:00.000,InvProp,"[-71.07621, 42.282721]",Point,InvProp,4,IVPREM,417,B3,Day,No,MILTON AV,Part Three,Other,770845.4527,,2928336.068,2013
+172213,130226087.0,Wednesday,No,2013-04-17T09:15:00.000,InvProp,"[-71.052858, 42.299961]",Point,InvProp,4,IVPREM,253,C11,Day,No,ASHLAND ST,Part Three,Unarmed,777131.4224,,2934650.5530000003,2013
+199112,130226892.0,Wednesday,No,2013-04-17T15:39:00.000,InvProp,"[-71.071975, 42.334581]",Point,InvProp,4,REQP  ,179,D4,Day,No,ALBANY ST,Part Three,Unarmed,771896.608,,2947240.389,2013
+203587,130225746.0,Wednesday,No,2013-04-17T02:57:00.000,InvProp,"[-71.074385, 42.335516]",Point,InvProp,4,IVPREM,171,D4,Last,No,HARRISON AV,Part Three,Unarmed,771243.2964,,2947577.858,2013
+227472,130227101.0,Wednesday,No,2013-04-17T17:45:00.000,InvProp,"[-71.059987, 42.361648]",Point,InvProp,4,IVPER ,72,A1,First,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013
+237624,130227838.0,Wednesday,No,2013-04-17T22:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,4,INVEST,61,A1,First,No,LEGENDS WAY,Part Three,Unarmed,774387.3075,,2958488.345,2013
+253641,130226467.0,Wednesday,No,2013-04-17T12:16:00.000,InvProp,"[-71.07666, 42.351141]",Point,InvProp,4,BOMB  ,134,D4,Day,No,NEWBURY ST,Part Three,Other,770599.9318,,2953268.837,2013

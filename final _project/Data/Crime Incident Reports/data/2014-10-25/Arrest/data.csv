@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59930,142042511.0,Saturday,No,2014-10-25T11:10:00.000,Arrest,"[-71.102546, 42.308074]",Point,Arrest,10,IVPER,0,E13,Day,No,FOREST HILLS ST,Part three,Other,763675.6944,,2937540.652,2014
+131578,142042489.0,Saturday,No,2014-10-25T09:44:00.000,Arrest,"[-71.11406, 42.313201]",Point,Arrest,10,TS,0,E13,Day,No,CENTRE ST,Part three,Unarmed,760552.9634,GREEN ST,2939394.845,2014
+144450,142042703.0,Saturday,No,2014-10-25T22:40:00.000,Arrest,"[-71.07766, 42.335991]",Point,Arrest,10,ARREST,0,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770356.9623,WASHINGTON ST,2947746.555,2014
+169352,142042689.0,Saturday,No,2014-10-25T21:19:00.000,Arrest,"[-71.06139, 42.352461]",Point,Arrest,10,ARREST,0,A1,First,No,ESSEX ST,Part three,Unarmed,774725.0603,HARRISON AV,2953770.724,2014

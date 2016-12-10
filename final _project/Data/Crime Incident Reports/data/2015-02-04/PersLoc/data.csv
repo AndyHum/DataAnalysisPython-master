@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39776,152010875.0,Wednesday,No,2015-02-04T17:00:00.000,PersLoc,"[-71.106535, 42.306541]",Point,PersLoc,2,IVPER,0,E13,First,No,GARTLAND ST,Other,Unarmed,762599.4514,,2936977.13,2015
+267195,152011269.0,Wednesday,No,2015-02-04T01:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,MISSIN,0,D4,Last,No,HARRISON AV,Other,Unarmed,,,,2015

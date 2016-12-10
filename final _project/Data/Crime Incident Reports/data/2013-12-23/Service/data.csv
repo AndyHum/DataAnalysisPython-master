@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41339,130806089.0,Monday,No,2013-12-23T12:05:00.000,Service,"[-71.150915, 42.348981]",Point,Service,12,ARREST,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+85521,130805577.0,Monday,No,2013-12-23T07:17:00.000,Service,"[-71.13654, 42.364311]",Point,Service,12,ARREST,0,D14,Last,No,SOLDIERS FIELD RD,Part three,Unarmed,754393.4147,,2957993.605,2013
+188199,130805697.0,Monday,No,2013-12-23T08:20:00.000,Service,"[-71.08893, 42.343806]",Point,Service,12,ARREST,619,D4,Day,No,WESTLAND AV,Part three,Unarmed,767296.1359,,2950579.599,2013
+212984,130808096.0,Monday,No,2013-12-23T09:00:00.000,Service,"[-71.107805, 42.33605]",Point,Service,12,IVPER ,612,B2,Day,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2013

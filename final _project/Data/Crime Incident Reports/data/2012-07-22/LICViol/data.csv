@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59001,120451156.0,Sunday,No,2012-07-22T00:40:00.000,LICViol,"[-71.064346, 42.353072]",Point,LICViol,7,CD35  ,111,A1,Last,No,TREMONT ST,Part Three,Unarmed,773924.729,,2953989.2660000003,2012
+174335,120451181.0,Sunday,No,2012-07-22T00:45:00.000,LICViol,"[-71.06891, 42.361076]",Point,LICViol,7,CD35  ,66,A1,Last,No,CAMBRIDGE ST,Part Three,Unarmed,772676.5208,,2956899.834,2012
+217840,120452819.0,Sunday,No,2012-07-22T20:43:00.000,LICViol,"[-71.05454, 42.363546]",Point,LICViol,7,CD35  ,88,A1,First,No,RICHMOND ST,Part Three,Unarmed,776555.5321,,2957819.9060000004,2012

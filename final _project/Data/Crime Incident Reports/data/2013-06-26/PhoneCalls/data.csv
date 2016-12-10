@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22506,130393386.0,Wednesday,No,2013-06-26T22:08:00.000,PhoneCalls,"[-71.06576, 42.373451]",Point,PhoneCalls,6,HARPT ,931,A15,First,No,WASHINGTON ST,Part three,Unarmed,773504.8988,,2961413.852,2013
+73583,130391791.0,Wednesday,No,2013-06-26T20:23:00.000,PhoneCalls,"[-71.14381, 42.344226]",Point,PhoneCalls,6,HARPT ,924,D14,First,No,WASHINGTON ST,Part three,Unarmed,752459.245,COMMONWEALTH AV,2950665.9280000003,2013
+88457,130391788.0,Wednesday,No,2013-06-26T18:43:00.000,PhoneCalls,"[-71.09377, 42.287706]",Point,PhoneCalls,6,MISC  ,465,B3,First,No,HARVARD ST,Part three,Unarmed,766085.0577,,2930129.5539999995,2013
+101768,130391234.0,Wednesday,No,2013-06-26T19:58:00.000,PhoneCalls,"[-71.088325, 42.284031]",Point,PhoneCalls,6,THREAT,429,B3,First,No,THEODORE ST,Part three,Unarmed,767564.8231,,2928797.397,2013
+117026,130442435.0,Wednesday,No,2013-06-26T17:30:00.000,PhoneCalls,"[-71.074105, 42.350961]",Point,PhoneCalls,6,IVPER ,134,D4,First,No,BOYLSTON ST,Part three,Unarmed,771290.8973,,2953206.6780000003,2013
+184392,130391271.0,Wednesday,No,2013-06-26T15:22:00.000,PhoneCalls,"[-71.098805, 42.317851]",Point,PhoneCalls,6,THREAT,303,E13,Day,No,BANCROFT ST,Part three,Unarmed,764671.0201,,2941108.421,2013
+224282,130390469.0,Wednesday,No,2013-06-26T11:20:00.000,PhoneCalls,"[-71.08873, 42.316866]",Point,PhoneCalls,6,IVPREM,312,B2,Day,No,HARRISHOF ST,Part three,Unarmed,767397.5413,,2940762.4489999996,2013

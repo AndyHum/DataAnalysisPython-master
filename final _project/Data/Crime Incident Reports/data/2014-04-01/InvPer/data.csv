@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58874,140196231.0,Tuesday,No,2014-04-01T14:40:00.000,InvPer,"[-71.07345, 42.342976]",Point,InvPer,4,REQP  ,142,D4,Day,No,TREMONT ST,Part three,Unarmed,771482.5013,,2950297.68,2014
+124491,142045216.0,Tuesday,No,2014-04-01T07:00:00.000,InvPer,"[-71.136395, 42.286246]",Point,InvPer,4,IVPER,0,E5,Last,No,BELGRADE AV,Part three,Unarmed,754553.8721,,2929545.463,2014
+150241,140196065.0,Tuesday,No,2014-04-01T08:30:00.000,InvPer,"[-71.159892, 42.352806]",Point,InvPer,4,IVPER ,761,D14,Day,No,FANEUIL ST,Part three,Unarmed,748099.1425,,2953774.6210000003,2014
+154772,140196353.0,Tuesday,No,2014-04-01T16:05:00.000,InvPer,"[-71.087815, 42.340856]",Point,InvPer,4,PERGUN,618,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767602.7587,,2949506.019,2014
+163152,140201515.0,Tuesday,No,2014-04-01T09:00:00.000,InvPer,"[-71.08906, 42.285216]",Point,InvPer,4,IVPER ,439,B3,Day,No,LUCERNE ST,Part three,Other,767363.8569,,2929228.267,2014
+192920,140252714.0,Tuesday,No,2014-04-01T14:00:00.000,InvPer,"[-71.063155, 42.298481]",Point,InvPer,4,THREAT,356,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,,2934097.058,2014
+196226,140197309.0,Tuesday,No,2014-04-01T23:34:00.000,InvPer,"[-71.07844, 42.306111]",Point,InvPer,4,IVPER ,329,B2,First,No,COLUMBIA RD,Part three,Other,770199.8873,GENEVA AV,2936856.7389999996,2014
+208649,140196950.0,Tuesday,No,2014-04-01T20:00:00.000,InvPer,"[-71.066435, 42.320161]",Point,InvPer,4,IVDRUG,184,B2,First,No,GROOM ST,Part three,Unarmed,773421.2175,,2941993.061,2014

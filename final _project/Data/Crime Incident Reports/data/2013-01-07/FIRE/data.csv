@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56668,130012454.0,Monday,No,2013-01-07T00:36:00.000,FIRE,"[-71.170913, 42.281354]",Point,FIRE,1,FV    ,728,E5,Last,No,VFW PY,Part Three,Unarmed,745220.4708,,2927724.6489999997,2013
+65369,130014377.0,Monday,No,2013-01-07T21:09:00.000,FIRE,"[-71.07892, 42.341341]",Point,FIRE,1,FIREB ,154,D4,First,No,CONCORD SQ,Part Three,Unarmed,770006.6686,,2949694.508,2013
+240363,130012421.0,Monday,No,2013-01-07T00:15:00.000,FIRE,"[-71.13581, 42.349494]",Point,FIRE,1,FIREB ,794,D14,Last,No,LONG AV,Part Three,Other,754613.6771,,2952594.6539999996,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11800,130645868.0,Wednesday,No,2013-10-09T22:15:00.000,Argue,"[-71.06601, 42.329186]",Point,Argue,10,IVPER ,176,C6,First,No,NEWMARKET SQ,Part three,Unarmed,773519.4194,,2945282.506,2013
+35669,130644984.0,Wednesday,No,2013-10-09T15:09:00.000,Argue,"[-71.06494, 42.343021]",Point,Argue,10,PERGUN,165,D4,Day,No,HARRISON AV,Part three,Unarmed,773783.0344,,2950325.6980000003,2013
+43760,130644976.0,Wednesday,No,2013-10-09T15:00:00.000,Argue,"[-71.063675, 42.352301]",Point,Argue,10,IVPER ,111,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+243359,130645708.0,Wednesday,No,2013-10-09T20:54:00.000,Argue,"[-71.07456, 42.272901]",Point,Argue,10,PKNIFE,408,B3,First,No,STURBRIDGE ST,Part three,Unarmed,771309.7923,,2924759.751,2013

@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2070,152044045.0,Thursday,No,2015-05-28T17:22:00.000,InvProp,"[0, 0]",Point,InvProp,5,REQP,0,A1,First,No,KINGSTON ST,Part three,Other,,,,2015
+2303,152045270.0,Thursday,No,2015-05-28T10:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,0,B2,Day,No,LONGWOOD AV,Part three,Unarmed,,,,2015
+56145,152043828.0,Thursday,No,2015-05-28T10:13:00.000,InvProp,"[-71.074855, 42.350756]",Point,InvProp,5,SUSOBJ,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2015
+56378,152043771.0,Thursday,No,2015-05-28T01:50:00.000,InvProp,"[-71.079465, 42.313576]",Point,InvProp,5,SHOTS,0,B2,Last,No,BLUE HILL AV,Part three,Other,769909.2121,LAWRENCE AV,2939575.735,2015
+68464,152043937.0,Thursday,No,2015-05-28T12:52:00.000,InvProp,"[-71.14216, 42.282741]",Point,InvProp,5,ALARM,0,E5,Day,No,NEWBURG ST,Part three,Unarmed,752999.2997,,2928261.5889999997,2015
+71512,152043780.0,Thursday,No,2015-05-28T04:25:00.000,InvProp,"[-71.120857, 42.268922]",Point,InvProp,5,ALARM,0,E18,Last,No,HYDE PARK AV,Part three,Unarmed,758786.1749,,2923250.512,2015
+118142,152043756.0,Thursday,No,2015-05-28T00:25:00.000,InvProp,"[-71.093665, 42.274096]",Point,InvProp,5,BE,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766137.0953,,2925170.014,2015
+123026,152044059.0,Thursday,No,2015-05-28T18:15:00.000,InvProp,"[-71.050825, 42.377126]",Point,InvProp,5,SUSOBJ,0,A15,First,No,1ST AV,Part three,Other,777533.4668,13TH ST,2962773.9960000003,2015
+174569,152044026.0,Thursday,No,2015-05-28T17:25:00.000,InvProp,"[-71.02714, 42.334486]",Point,InvProp,5,IVPREM,0,C6,First,No,P ST,Part three,Unarmed,784019.2104,,2947269.7860000003,2015
+197201,152043864.0,Thursday,No,2015-05-28T09:00:00.000,InvProp,"[-71.077185, 42.296021]",Point,InvProp,5,LARCEN,0,B3,Day,No,ATHELWOLD ST,Part three,Unarmed,770557.5917,,2933181.47,2015
+203885,152044143.0,Thursday,No,2015-05-28T18:17:00.000,InvProp,"[-71.0599, 42.358711]",Point,InvProp,5,ALARM,0,A1,First,No,TREMONT ST,Part three,Unarmed,775116.0583,,2956050.418,2015
+224778,152043770.0,Thursday,No,2015-05-28T02:49:00.000,InvProp,"[-71.12047, 42.309006]",Point,InvProp,5,SHOTS,0,E13,Last,No,CENTRE ST,Part three,Other,758826.0489,ORCHARD ST,2937858.336,2015

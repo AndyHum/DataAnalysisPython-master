@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140535,130436443.0,Sunday,No,2013-07-14T19:00:00.000,PersMiss,"[-71.087665, 42.318571]",Point,PersMiss,7,MISPER,308,B2,First,No,MUNROE ST,Other,Unarmed,767682.5728,,2941385.171,2013
+164251,130436415.0,Sunday,No,2013-07-14T23:15:00.000,PersMiss,"[-71.086615, 42.310116]",Point,PersMiss,7,MISPER,326,B2,First,No,CHENEY ST,Other,Unarmed,767981.4728,,2938305.402,2013
+206946,130438981.0,Sunday,No,2013-07-14T20:00:00.000,PersMiss,"[-71.11351, 42.260841]",Point,PersMiss,7,MISPER,493,E18,First,No,MAIDA TR,Other,Unarmed,760788.1808,,2920314.752,2013

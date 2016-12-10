@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85349,140108536.0,Friday,No,2014-02-21T12:35:00.000,WEAPONS CHARGE,"[-71.07739, 42.314841]",Point,15xx,2,ARREST,325,B2,Day,No,DACIA ST,Part Two,Unarmed,770468.1499,,2940039.4960000003,2014
+86623,140109322.0,Friday,No,2014-02-21T15:15:00.000,WEAPONS CHARGE,"[-71.034765, 42.381976]",Point,15xx,2,IVDRUG,25,A7,Day,No,FALCON ST,Part Two,Other,781863.1806,,2964564.6980000003,2014
+104502,140109568.0,Friday,No,2014-02-21T20:33:00.000,WEAPONS CHARGE,"[-71.077555, 42.336891]",Point,15xx,2,BEIP  ,273,D4,First,No,MASSACHUSETTS AV,Part Two,Knife,770383.7279,,2948074.672,2014
+227555,140107812.0,Friday,No,2014-02-21T02:30:00.000,WEAPONS CHARGE,"[-71.065135, 42.350006]",Point,15xx,2,TSTOP ,122,A1,Last,No,TREMONT ST,Part Two,Firearm,773717.34,,2952870.892,2014

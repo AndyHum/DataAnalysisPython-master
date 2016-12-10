@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115111,130752286.0,Wednesday,No,2013-11-27T20:05:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,11,MISPER,446,B3,First,No,ATHELWOLD ST,Other,Other,770557.5917,,2933181.47,2013
+223234,130759879.0,Wednesday,No,2013-11-27T14:30:00.000,PersLoc,"[-71.15331, 42.33931]",Point,PersLoc,11,MISPER,774,D14,Day,No,STRATHMORE RD,Other,Unarmed,749898.3105,,2948863.793,2013
+230607,130752179.0,Wednesday,No,2013-11-27T20:30:00.000,PersLoc,"[-71.060745, 42.289931]",Point,PersLoc,11,MISPER,366,C11,First,No,SHEPTON ST,Other,Unarmed,775016.7511,,2930984.666,2013
+253056,130752075.0,Wednesday,No,2013-11-27T16:00:00.000,PersLoc,"[-71.0808, 42.329761]",Point,PersLoc,11,MISPER,904,B2,First,No,SHABAZZ WY,Other,Unarmed,769519.1495,,2945472.045,2013

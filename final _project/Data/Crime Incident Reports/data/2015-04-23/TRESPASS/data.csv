@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11,152033195.0,Thursday,No,2015-04-23T21:45:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,4,ARREST,0,E13,First,No,CENTRE ST,Part Two,Unarmed,,,,2015
+3287,152033074.0,Thursday,No,2015-04-23T15:00:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,4,ARREST,0,B2,Day,No,HUMBOLDT AV,Part Two,Unarmed,,HUTCHINGS ST,,2015
+60984,152033041.0,Thursday,No,2015-04-23T13:30:00.000,TRESPASS,"[-71.061235, 42.310371]",Point,TRESPASS,4,IVPER,0,C11,Day,No,HANCOCK ST,Part Two,Unarmed,774845.858,,2938432.619,2015
+96473,152033137.0,Thursday,No,2015-04-23T10:15:00.000,TRESPASS,"[-71.13001, 42.237961]",Point,TRESPASS,4,INVEST,0,E18,Day,No,WOLCOTT ST,Part Two,Unarmed,756357.8917,,2911957.19,2015

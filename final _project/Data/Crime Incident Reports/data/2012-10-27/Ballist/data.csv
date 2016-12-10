@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13867,120677929.0,Saturday,No,2012-10-27T15:30:00.000,Ballist,"[-71.07686, 42.344536]",Point,Ballist,10,FDWEAP,149,D4,Day,No,COLUMBUS AV,Part Two,Unarmed,770557.8118,,2950861.5810000002,2012
+117000,120677714.0,Saturday,No,2012-10-27T13:33:00.000,Ballist,"[-71.102135, 42.267591]",Point,Ballist,10,INVEST,0,E18,Day,No,GREENFIELD RD,Part Two,Unarmed,763855.8538,,2922788.6980000003,2012
+212826,120677070.0,Saturday,No,2012-10-27T04:57:00.000,Ballist,"[-71.073665, 42.282068]",Point,Ballist,10,SHOTS ,417,B3,Last,No,MORA ST,Part Two,Firearm,771535.1918,,2928101.3230000003,2012

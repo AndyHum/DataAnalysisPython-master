@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148205,130770740.0,Thursday,No,2013-12-05T19:30:00.000,Landlord,"[-71.068642, 42.316293]",Point,Landlord,12,IVPER ,258,B2,First,No,MONADNOCK ST,Part three,Other,772831.4244,,2940580.485,2013
+175668,130767997.0,Thursday,No,2013-12-05T19:00:00.000,Landlord,"[-71.085841, 42.306613]",Point,Landlord,12,IVPER ,319,B2,First,No,NAZING ST,Part three,Unarmed,768196.8940000001,,2937029.841,2013
+208631,130766823.0,Thursday,No,2013-12-05T10:33:00.000,Landlord,"[-71.065315, 42.288686]",Point,Landlord,12,VANRPT,817,C11,Day,No,ARGYLE TR,Part three,Unarmed,773782.5633,,2930524.6339999996,2013

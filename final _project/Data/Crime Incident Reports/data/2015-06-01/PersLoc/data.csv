@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54099,152045410.0,Monday,No,2015-06-01T22:32:00.000,PersLoc,"[-71.144225, 42.251631]",Point,PersLoc,6,IVPER,0,E18,First,No,LEIGHTON RD,Other,Unarmed,752487.7968,,2916922.33,2015
+87840,152045250.0,Monday,No,2015-06-01T11:50:00.000,PersLoc,"[-71.12425, 42.254966]",Point,PersLoc,6,IVPER,0,E18,Day,No,HYDE PARK AV,Other,Unarmed,757890.3542,,2918160.836,2015
+254970,152045106.0,Monday,No,2015-06-01T00:15:00.000,PersLoc,"[-71.119075, 42.294936]",Point,PersLoc,6,IVPER,0,E5,Last,No,WASHINGTON ST,Other,Unarmed,759226.2787,,2932732.684,2015

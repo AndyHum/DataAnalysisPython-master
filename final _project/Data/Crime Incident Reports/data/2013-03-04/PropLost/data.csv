@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+160200,130130894.0,Monday,No,2013-03-04T05:20:00.000,PropLost,"[-71.101367, 42.330119]",Point,PropLost,3,LSTPRP,586,B2,Last,No,HILLSIDE ST,Part Three,Unarmed,763957.2066,,2945575.7389999996,2013
+239677,130133286.0,Monday,No,2013-03-04T14:00:00.000,PropLost,"[-71.115994, 42.275121]",Point,PropLost,3,LSTPRP,497,E18,Day,No,AMERICAN LEGION HY,Part Three,Unarmed,760092.1353,,2925515.338,2013
+248435,130130338.0,Monday,No,2013-03-04T12:00:00.000,PropLost,"[-71.093349, 42.277799]",Point,PropLost,3,LARCRT,427,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766216.0603,,2926519.602,2013
+256621,130134229.0,Monday,No,2013-03-04T17:30:00.000,PropLost,"[-71.0983, 42.315791]",Point,PropLost,3,LSTPRP,304,E13,First,No,WASHINGTON ST,Part Three,Unarmed,764811.1341,COLUMBUS AV,2940358.3639999996,2013
+259011,130130368.0,Monday,No,2013-03-04T13:04:00.000,PropLost,"[-71.07309, 42.351211]",Point,PropLost,3,INVEST,129,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,771564.8051,E BERKELEY ST,2953299.1539999996,2013
+266145,130132669.0,Monday,No,2013-03-04T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,778,D14,First,No,AIRPORT RD,Part Three,Unarmed,,,,2013

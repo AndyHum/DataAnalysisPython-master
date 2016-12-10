@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1934,152048650.0,Friday,No,2015-05-29T01:45:00.000,Argue,"[-71.078815, 42.350571]",Point,Argue,5,MISC,0,D4,Last,No,NEWBURY ST,Part three,Other,770018.4438,DARTMOUTH ST,2953058.235,2015
+3722,152044381.0,Friday,No,2015-05-29T14:00:00.000,Argue,"[0, 0]",Point,Argue,5,IVPER,0,B2,Day,No,ST ALPHONSUS ST,Part three,Unarmed,,,,2015
+15513,152044506.0,Friday,No,2015-05-29T23:11:00.000,Argue,"[-71.057665, 42.378641]",Point,Argue,5,DVIP,0,A15,First,No,MCNULTY CT,Part three,Unarmed,775682.4594,,2963316.435,2015
+68056,152044497.0,Friday,No,2015-05-29T22:10:00.000,Argue,"[-71.075639, 42.344889]",Point,Argue,5,DVIP,0,D4,First,No,APPLETON ST,Part three,Unarmed,770887.2370000001,,2950991.837,2015

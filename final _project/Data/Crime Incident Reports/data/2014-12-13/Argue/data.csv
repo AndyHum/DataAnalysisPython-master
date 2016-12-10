@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20342,142057263.0,Saturday,No,2014-12-13T18:45:00.000,Argue,"[-71.069705, 42.279116]",Point,Argue,12,FIGHT,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772612.3343,,2927031.17,2014
+119013,142057320.0,Saturday,No,2014-12-13T23:55:00.000,Argue,"[-71.059683, 42.29651]",Point,Argue,12,DISTRB,0,C11,Last,No,PARKMAN ST,Part three,Unarmed,775291.6849,,2933383.425,2014
+133974,142057198.0,Saturday,No,2014-12-13T14:00:00.000,Argue,"[-71.066245, 42.289241]",Point,Argue,12,DVIP,0,C11,Day,No,WELLES AV,Part three,Unarmed,773529.9007,,2930725.602,2014
+171664,142057316.0,Saturday,No,2014-12-13T22:54:00.000,Argue,"[-71.074225, 42.309261]",Point,Argue,12,DVIP,0,B2,First,No,INTERVALE ST,Part three,Unarmed,771334.3162,,2938010.312,2014

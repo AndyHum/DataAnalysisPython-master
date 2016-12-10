@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26848,142039474.0,Wednesday,No,2014-10-15T10:40:00.000,PROSTITUTION CHARGES,"[-71.059085, 42.304686]",Point,16xx,10,ARREST,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775438.1029,,2936363.917,2014
+184543,142039476.0,Wednesday,No,2014-10-15T10:14:00.000,PROSTITUTION CHARGES,"[-71.05945, 42.303061]",Point,16xx,10,ARREST,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775342.4264,GREENWICH ST,2935771.232,2014
+257102,142039168.0,Wednesday,No,2014-10-15T02:30:00.000,PROSTITUTION CHARGES,"[-71.05214, 42.299791]",Point,16xx,10,TS,0,C11,Last,No,MILL ST,Part Two,Unarmed,777326.1335,ASHLAND ST,2934589.896,2014

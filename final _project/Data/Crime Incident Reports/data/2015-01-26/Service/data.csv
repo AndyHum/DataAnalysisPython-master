@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8809,152007095.0,Monday,No,2015-01-26T11:30:00.000,Service,"[-71.064041, 42.330883]",Point,Service,1,INVEST,0,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,774048.6618,,2945903.515,2015
+28225,152007134.0,Monday,No,2015-01-26T17:00:00.000,Service,"[-71.03887, 42.371246]",Point,Service,1,ARREST,0,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+53351,152007094.0,Monday,No,2015-01-26T14:03:00.000,Service,"[-71.11297, 42.300811]",Point,Service,1,SHOTS,0,E13,Day,No,WASHINGTON ST,Part three,Firearm,760868.2636,,2934881.061,2015
+58876,152007443.0,Monday,No,2015-01-26T14:05:00.000,Service,"[-71.10537, 42.308606]",Point,Service,1,AOD,0,E13,Day,No,WASHINGTON ST,Part three,Firearm,762911.0968,,2937731.106,2015
+200725,152007026.0,Monday,No,2015-01-26T10:45:00.000,Service,"[-71.069675, 42.290772]",Point,Service,1,CD11,0,C11,Day,No,CENTRE ST,Part three,Unarmed,772598.8888,,2931278.689,2015
+243126,152007093.0,Monday,No,2015-01-26T13:20:00.000,Service,"[-71.06942, 42.362401]",Point,Service,1,CD11,0,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,,2957381.922,2015
+263392,152007013.0,Monday,No,2015-01-26T10:00:00.000,Service,"[0, 0]",Point,Service,1,AOD,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015

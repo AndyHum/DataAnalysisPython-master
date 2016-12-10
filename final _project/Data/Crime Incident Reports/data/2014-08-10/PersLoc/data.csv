@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4795,142018097.0,Sunday,No,2014-08-10T22:46:00.000,PersLoc,"[-71.078133, 42.285884]",Point,PersLoc,8,IVPER,0,B3,First,No,MILTON AV,Other,Other,770319.2890000001,,2929485.997,2014
+54427,142018099.0,Sunday,No,2014-08-10T23:30:00.000,PersLoc,"[-71.067775, 42.301881]",Point,PersLoc,8,IVPER,0,C11,First,No,TOPLIFF ST,Other,Unarmed,773092.584,,2935329.7010000004,2014
+54929,142021923.0,Sunday,No,2014-08-10T10:00:00.000,PersLoc,"[-71.0726, 42.341736]",Point,PersLoc,8,MISSIN,0,D4,Day,No,W DEDHAM ST,Other,Unarmed,771714.5582,,2949846.952,2014
+148026,142018150.0,Sunday,No,2014-08-10T21:00:00.000,PersLoc,"[-71.061698, 42.291418]",Point,PersLoc,8,IVPER,0,C11,First,No,ST MARK ST,Other,Unarmed,774755.932,,2931525.043,2014
+160159,142018108.0,Sunday,No,2014-08-10T16:00:00.000,PersLoc,"[-71.077, 42.339601]",Point,PersLoc,8,IVPER,0,D4,First,No,W CONCORD ST,Other,Unarmed,770528.8857,,2949062.99,2014
+164843,142017853.0,Sunday,No,2014-08-10T00:20:00.000,PersLoc,"[-71.08261, 42.337161]",Point,PersLoc,8,IVPER,0,D4,Last,No,DITMUS CT,Other,Unarmed,769016.5305,,2948166.337,2014
+255778,142018155.0,Sunday,No,2014-08-10T12:00:00.000,PersLoc,"[-71.035664, 42.372588]",Point,PersLoc,8,IVPER,0,A7,Day,No,CHELSEA ST,Other,Unarmed,781638.7267,,2961142.146,2014

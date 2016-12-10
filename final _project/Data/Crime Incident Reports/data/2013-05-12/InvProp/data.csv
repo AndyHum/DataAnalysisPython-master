@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12077,130284915.0,Sunday,No,2013-05-12T14:30:00.000,InvProp,"[-71.05046, 42.290891]",Point,InvProp,5,IVMV  ,377,C11,Day,No,FROST AV,Part Three,Unarmed,777797.7134,,2931348.999,2013
+26232,130284574.0,Sunday,No,2013-05-12T17:00:00.000,InvProp,"[-71.05136, 42.301321]",Point,InvProp,5,IVMV  ,253,C11,First,No,MILL ST,Part Three,Unarmed,777534.2116,,2935148.558,2013
+29269,130283327.0,Sunday,No,2013-05-12T13:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD9   ,778,D14,Day,No,PARK DR,Part three,Unarmed,,,,2013
+31447,130283672.0,Sunday,No,2013-05-12T23:15:00.000,InvProp,"[-71.09049, 42.286886]",Point,InvProp,5,ALARMC,430,B3,First,No,BLUE HILL AV,Part three,Unarmed,766973.9919,,2929834.979,2013
+67288,130282988.0,Sunday,No,2013-05-12T15:30:00.000,InvProp,"[-71.150915, 42.348981]",Point,InvProp,5,IVPREM,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+204188,130281645.0,Sunday,No,2013-05-12T00:10:00.000,InvProp,"[-71.08249, 42.329291]",Point,InvProp,5,SHOTS ,280,B2,Last,No,ZEIGLER ST,Part three,Unarmed,769063.0131,HARRISON AV,2945298.526,2013
+259566,130283492.0,Sunday,No,2013-05-12T21:06:00.000,InvProp,"[-71.069815, 42.282456]",Point,InvProp,5,SHOTS ,403,C11,First,No,FULLER ST,Part Three,Unarmed,772576.4249,,2928248.165,2013

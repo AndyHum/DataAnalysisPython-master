@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7399,142015217.0,Thursday,No,2014-07-31T13:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,7,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2014
+180285,142015000.0,Thursday,No,2014-07-31T22:44:00.000,PersLoc,"[-71.063503, 42.310262]",Point,PersLoc,7,MISSIN,0,C11,First,No,TOVAR ST,Other,Unarmed,774232.417,,2938389.63,2014
+242376,142014981.0,Thursday,No,2014-07-31T22:50:00.000,PersLoc,"[-71.075645, 42.310471]",Point,PersLoc,7,NIDV,0,B2,First,No,COLEUS PARK,Other,Unarmed,770948.0299,,2938449.341,2014

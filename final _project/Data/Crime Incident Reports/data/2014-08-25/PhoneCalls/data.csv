@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52770,142027324.0,Monday,No,2014-08-25T00:00:00.000,PhoneCalls,"[-71.07246, 42.299833]",Point,PhoneCalls,8,IVPER,0,C11,Last,No,BOWDOIN ST,Part three,Unarmed,771828.7306,,2934576.8860000004,2014
+80880,142022898.0,Monday,No,2014-08-25T09:00:00.000,PhoneCalls,"[-71.09345, 42.274701]",Point,PhoneCalls,8,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766194.2316,,2925390.762,2014
+107237,142022892.0,Monday,No,2014-08-25T07:01:00.000,PhoneCalls,"[-71.074925, 42.304986]",Point,PhoneCalls,8,IVPER,0,C11,Last,No,GENEVA AV,Part three,Unarmed,771152.7388,,2936451.49,2014

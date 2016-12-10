@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122048,120710186.0,Sunday,No,2012-11-11T01:19:00.000,InvPer,"[0, 0]",Point,InvPer,11,FIGHT ,805,D14,Last,No,LOTHROP ST,Part Three,Unarmed,,,,2012
+156887,120711424.0,Sunday,No,2012-11-11T17:41:00.000,InvPer,"[-71.081035, 42.349986]",Point,InvPer,11,LARCIP,138,D4,First,No,NEWBURY ST,Part Three,Unarmed,769419.4017,,2952842.095,2012
+217609,120710455.0,Sunday,No,2012-11-11T04:30:00.000,InvPer,"[-71.15977, 42.261192]",Point,InvPer,11,IVPER ,713,E5,Last,No,STIMSON RD,Part Three,Unarmed,748265.0752,,2920389.137,2012
+231093,120711760.0,Sunday,No,2012-11-11T23:01:00.000,InvPer,"[-71.05227, 42.362381]",Point,InvPer,11,IVPER ,89,A1,First,No,COMMERCIAL ST,Part Three,Unarmed,777171.2382,,2957398.5689999997,2012
+264001,120710268.0,Sunday,No,2012-11-11T02:10:00.000,InvPer,"[0, 0]",Point,InvPer,11,INVCHD,748,E5,Last,No,BRYON RD,Part Three,Unarmed,,,,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+875,152037765.0,Friday,No,2015-05-08T16:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,5,MISSIN,0,C11,First,No,PARK ST,Other,Unarmed,,,,2015
+945,152037869.0,Friday,No,2015-05-08T12:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,5,MISSIN,0,B2,Day,No,ROXBURY ST,Other,Unarmed,,,,2015
+188185,152038097.0,Friday,No,2015-05-08T19:00:00.000,PersMiss,"[-71.060271, 42.307553]",Point,PersMiss,5,IVPER,0,C11,First,No,EAST ST,Other,Unarmed,775111.7335,,2937407.012,2015

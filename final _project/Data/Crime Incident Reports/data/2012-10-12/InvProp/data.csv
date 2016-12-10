@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19731,120644085.0,Friday,No,2012-10-12T23:40:00.000,InvProp,"[-71.090693, 42.345051]",Point,InvProp,10,PRSCRM,591,D4,First,No,FENWAY,Part Three,Unarmed,766817.3009,,2951030.732,2012
+39043,120643723.0,Friday,No,2012-10-12T19:50:00.000,InvProp,"[-71.108635, 42.262911]",Point,InvProp,10,SHOTS ,493,E18,First,No,WOOD AV,Part Three,Unarmed,762104.3543,,2921075.105,2012
+51335,120643786.0,Friday,No,2012-10-12T20:24:00.000,InvProp,"[-71.07506, 42.328657]",Point,InvProp,10,IVPREM,180,B2,First,No,HAMPDEN ST,Part Three,Unarmed,771073.1848,,2945077.1760000004,2012
+53884,120643968.0,Friday,No,2012-10-12T17:00:00.000,InvProp,"[-71.06576, 42.373451]",Point,InvProp,10,BEIP  ,931,A15,First,No,WASHINGTON ST,Part Three,Other,773504.8988,,2961413.852,2012
+110948,120643729.0,Friday,No,2012-10-12T19:54:00.000,InvProp,"[-71.065145, 42.306276]",Point,InvProp,10,SHOTS ,340,C11,First,No,MT IDA RD,Part Three,Unarmed,773795.8821,,2936934.922,2012
+213874,120641975.0,Friday,No,2012-10-12T01:03:00.000,InvProp,"[-71.079626, 42.316792]",Point,InvProp,10,IVPREM,311,B2,Last,No,MAYWOOD ST,Part Three,Other,769859.6508,,2940747.383,2012
+248683,120643998.0,Friday,No,2012-10-12T22:33:00.000,InvProp,"[-71.077655, 42.296431]",Point,InvProp,10,LMUSIC,446,B3,First,No,MILLET ST,Part Three,Unarmed,770429.6969,,2933330.25,2012

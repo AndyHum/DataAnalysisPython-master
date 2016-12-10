@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60670,152029519.0,Saturday,No,2015-04-11T20:45:00.000,PersMiss,"[-71.06939, 42.339506]",Point,PersMiss,4,MISSIN,0,D4,First,No,HARRISON AV,Other,Unarmed,772586.4767,,2949038.664,2015
+187491,152029328.0,Saturday,No,2015-04-11T04:56:00.000,PersMiss,"[-71.073214, 42.295708]",Point,PersMiss,4,IVPER,0,B3,Last,No,KENBERMA RD,Other,Unarmed,771632.4514,,2933072.564,2015
+214364,152030426.0,Saturday,No,2015-04-11T15:30:00.000,PersMiss,"[-71.078657, 42.301454]",Point,PersMiss,4,MISSIN,0,B3,Day,No,NORWELL ST,Other,Unarmed,770149.4675,,2935159.311,2015

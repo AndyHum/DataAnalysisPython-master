@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134696,130482648.0,Friday,No,2013-08-02T19:00:00.000,WEAPONS CHARGE,"[-71.07951, 42.334481]",Point,15xx,8,ARREST,288,D4,First,No,WASHINGTON ST,Part Two,Other,769859.4851,,2947193.813,2013
+170681,130481864.0,Friday,No,2013-08-02T13:51:00.000,WEAPONS CHARGE,"[-71.03979, 42.374931]",Point,15xx,8,ARREST,0,A7,Day,No,BORDER ST,Part Two,Unarmed,780519.4002,,2961989.988,2013
+264636,130481263.0,Friday,No,2013-08-02T09:30:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,8,ARREST,179,C6,Day,No,SOUTHAMPTON ST,Part Two,Unarmed,,MASSACHUSETTS AV,,2013

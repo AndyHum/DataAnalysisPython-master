@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17966,130278994.0,Friday,No,2013-05-10T22:52:00.000,PersMiss,"[-71.093636, 42.286747]",Point,PersMiss,5,MISPER,466,B3,First,No,MORTON ST,Part Three,Unarmed,766122.8443,,2929780.182,2013
+88307,130279509.0,Friday,No,2013-05-10T07:45:00.000,PersMiss,"[-71.120857, 42.268922]",Point,PersMiss,5,MISPER,520,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,758786.1749,,2923250.512,2013
+120720,130281758.0,Friday,No,2013-05-10T06:30:00.000,PersMiss,"[-71.127195, 42.248256]",Point,PersMiss,5,MISPER,523,E18,Last,No,HYDE PARK AV,Part Three,Unarmed,757103.7718,,2915712.128,2013

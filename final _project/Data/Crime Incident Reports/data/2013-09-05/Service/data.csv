@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22882,130564079.0,Thursday,No,2013-09-05T17:03:00.000,Service,"[-71.06606, 42.318816]",Point,Service,9,DVIP  ,238,B2,First,No,WENDOVER ST,Part three,Unarmed,773525.1258,,2941503.436,2013
+192527,130563197.0,Thursday,No,2013-09-05T10:40:00.000,Service,"[-71.0539, 42.336211]",Point,Service,9,ARREST,216,C6,Day,No,W 7TH ST,Part three,Unarmed,776780.5936,D ST,2947859.43,2013
+257868,130563420.0,Thursday,No,2013-09-05T12:28:00.000,Service,"[-71.131796, 42.352053]",Point,Service,9,IVPREM,0,D14,Day,No,HARVARD AV,Part three,Unarmed,755694.562,,2953532.085,2013

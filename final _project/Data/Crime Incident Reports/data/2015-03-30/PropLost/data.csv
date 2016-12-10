@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77033,152025873.0,Monday,No,2015-03-30T15:45:00.000,PropLost,"[-71.106295, 42.307636]",Point,PropLost,3,LARCEN,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,762662.5281,,2937376.465,2015
+95277,152027157.0,Monday,No,2015-03-30T19:00:00.000,PropLost,"[-71.087165, 42.346206]",Point,PropLost,3,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Other,767769.0517,,2951456.5089999996,2015
+157899,152026806.0,Monday,No,2015-03-30T21:00:00.000,PropLost,"[-71.071135, 42.335176]",Point,PropLost,3,PROP,0,D4,First,No,ALBANY ST,Part three,Unarmed,772122.6365,,2947458.358,2015
+191661,152026029.0,Monday,No,2015-03-30T08:00:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,3,PROP,0,B2,Day,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2015
+209557,152025933.0,Monday,No,2015-03-30T08:50:00.000,PropLost,"[-71.094805, 42.285001]",Point,PropLost,3,PROP,0,B3,Day,No,DEERING RD,Part three,Unarmed,765809.6911,,2929142.482,2015
+212452,152028514.0,Monday,No,2015-03-30T10:15:00.000,PropLost,"[-71.052393, 42.363538]",Point,PropLost,3,PROP,0,A1,Day,No,NORTH ST,Part three,Unarmed,777135.5431,,2957819.723,2015
+215378,152025783.0,Monday,No,2015-03-30T12:15:00.000,PropLost,"[-71.08199, 42.329236]",Point,PropLost,3,INVEST,0,B2,Day,No,ZEIGLER ST,Part three,Unarmed,769198.3119,,2945279.147,2015
+215887,152031333.0,Monday,No,2015-03-30T12:00:00.000,PropLost,"[-71.12395, 42.256421]",Point,PropLost,3,PROP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2015
+259218,152025786.0,Monday,No,2015-03-30T06:00:00.000,PropLost,"[-71.061015, 42.353246]",Point,PropLost,3,LARCEN,0,A1,Last,No,AVENUE DE LAFAYETTE,Part three,Unarmed,774824.9513,,2954057.314,2015

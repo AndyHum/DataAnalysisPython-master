@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32918,130121154.0,Thursday,No,2013-02-28T03:00:00.000,InvProp,"[-71.139949, 42.349721]",Point,InvProp,2,SHOTS ,783,D14,Last,No,GORDON ST,Part Three,Unarmed,753494.3978,,2952672.6939999997,2013
+93605,130122255.0,Thursday,No,2013-02-28T15:00:00.000,InvProp,"[-71.153972, 42.260926]",Point,InvProp,2,BERPT ,822,E5,Day,No,EDGEMERE RD,Part Three,Other,749835.0137,,2920298.716,2013
+154791,130121023.0,Thursday,No,2013-02-28T00:33:00.000,InvProp,"[-71.05484, 42.363456]",Point,InvProp,2,ALARMC,91,A1,Last,No,HANOVER ST,Part Three,Unarmed,776474.6268,,2957786.685,2013

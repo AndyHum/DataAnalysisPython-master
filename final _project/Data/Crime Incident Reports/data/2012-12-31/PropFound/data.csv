@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9117,120816175.0,Monday,No,2012-12-31T11:09:00.000,PropFound,"[-71.037325, 42.332671]",Point,PropFound,12,FDPROP,230,C6,Day,No,K ST,Part Three,Unarmed,781268.9945,,2946593.268,2012
+31031,120816194.0,Monday,No,2012-12-31T11:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,12,FDPROP,691,E5,Day,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2012
+97381,120817434.0,Monday,No,2012-12-31T23:00:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,12,FDPROP,119,A1,First,No,BOYLSTON ST,Part Three,Other,773775.1158,,2953733.06,2012
+164861,120817191.0,Monday,No,2012-12-31T20:41:00.000,PropFound,"[-71.06942, 42.356141]",Point,PropFound,12,FDPROP,69,A1,First,No,CHARLES ST,Part Three,Unarmed,772547.7636,BEACON ST,2955100.727,2012
+236830,120816993.0,Monday,No,2012-12-31T16:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,12,FDPROP,167,D4,First,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+251296,120816558.0,Monday,No,2012-12-31T14:35:00.000,PropFound,"[-71.0697, 42.341301]",Point,PropFound,12,FDPROP,166,D4,Day,No,UNION PARK ST,Part Three,Unarmed,772499.3654,WASHINGTON ST,2949692.3710000003,2012
+262287,120817242.0,Monday,No,2012-12-31T19:00:00.000,PropFound,"[0, 0]",Point,PropFound,12,LSTPRP,72,A1,First,No,TREMONT ST,Part Three,Unarmed,,,,2012

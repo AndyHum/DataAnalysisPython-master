@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58562,120694876.0,Sunday,No,2012-11-04T23:57:00.000,PersLoc,"[-71.069582, 42.284133]",Point,PersLoc,11,MSNCOM,402,C11,Last,No,BURT ST,Part Three,Unarmed,772636.202,,2928859.293,2012
+85449,120697625.0,Sunday,No,2012-11-04T19:15:00.000,PersLoc,"[-71.117795, 42.272081]",Point,PersLoc,11,MISPER,498,E18,First,No,FIELDMONT ST,Part Three,Unarmed,759609.9013,,2924405.534,2012
+234078,120696608.0,Sunday,No,2012-11-04T08:00:00.000,PersLoc,"[-71.06969, 42.304686]",Point,PersLoc,11,MISPER,336,C11,Day,No,DEVER ST,Part Three,Unarmed,772569.3849,,2936349.2660000003,2012
+251578,120696689.0,Sunday,No,2012-11-04T23:15:00.000,PersLoc,"[-71.151197, 42.342646]",Point,PersLoc,11,MSNCOM,775,D14,First,No,WALLINGFORD RD,Part Three,Unarmed,750464.5072,,2950081.732,2012

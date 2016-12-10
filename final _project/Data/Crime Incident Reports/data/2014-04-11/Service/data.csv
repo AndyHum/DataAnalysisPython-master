@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60985,140218533.0,Friday,No,2014-04-11T08:10:00.000,Service,"[-71.07513, 42.291121]",Point,Service,4,ARREST,449,B3,Day,No,TALBOT AV,Part three,Unarmed,771122.4528,ASPINWALL RD,2931398.6010000003,2014
+160305,140218750.0,Friday,No,2014-04-11T09:54:00.000,Service,"[-71.069004, 42.3779]",Point,Service,4,CD11  ,53,A15,Day,No,TIBBETTS TOWN WY,Other,Unarmed,772619.9537,,2963030.684,2014
+202914,140220157.0,Friday,No,2014-04-11T20:44:00.000,Service,"[0, 0]",Point,Service,4,SHOTS ,286,B2,First,No,RUGGLES ST,Part three,Unarmed,,ALBERT ST,,2014
+216158,140218831.0,Friday,No,2014-04-11T10:31:00.000,Service,"[-71.115994, 42.275121]",Point,Service,4,TSTOP ,497,E18,Day,No,AMERICAN LEGION HY,Part three,Unarmed,760092.1353,,2925515.338,2014

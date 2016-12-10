@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56097,130033917.0,Thursday,No,2013-01-17T00:36:00.000,FIRE,"[-71.059096, 42.308825]",Point,FIRE,1,FV    ,339,C11,Last,No,HANCOCK ST,Part Three,Unarmed,775427.1276,,2937872.041,2013
+154457,130035197.0,Thursday,No,2013-01-17T15:41:00.000,FIRE,"[-71.070455, 42.335646]",Point,FIRE,1,FIREB ,172,D4,Day,No,ALBANY ST,Part Three,Unarmed,772305.6295,,2947630.559,2013
+160479,130035813.0,Thursday,No,2013-01-17T21:31:00.000,FIRE,"[-71.077079, 42.27583]",Point,FIRE,1,FIREB ,410,B3,First,No,CARYLL ST,Part Three,Unarmed,770622.5099,,2925823.625,2013

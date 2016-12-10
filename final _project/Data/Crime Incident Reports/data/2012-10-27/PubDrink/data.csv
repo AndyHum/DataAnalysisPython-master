@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33055,120676712.0,Saturday,No,2012-10-27T01:33:00.000,PubDrink,"[-71.099695, 42.330611]",Point,PubDrink,10,PARTY ,586,B2,Last,No,ALLEGHANY ST,Part Two,Other,764408.5,,2945757.258,2012
+45206,120677014.0,Saturday,No,2012-10-27T02:20:00.000,PubDrink,"[-71.14167, 42.354241]",Point,PubDrink,10,IVPER ,804,D14,Last,No,N BEACON ST,Part Two,Unarmed,753022.4362,SAUNDERS ST,2954318.019,2012
+71258,120678121.0,Saturday,No,2012-10-27T17:13:00.000,PubDrink,"[-71.07656, 42.328955]",Point,PubDrink,10,SSTOP ,269,B2,First,No,DUBOIS ST,Part Two,Unarmed,770666.9917,,2945183.963,2012

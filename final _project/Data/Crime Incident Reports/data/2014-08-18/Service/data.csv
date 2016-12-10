@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33693,142020569.0,Monday,No,2014-08-18T15:40:00.000,Service,"[-71.0626, 42.352361]",Point,Service,8,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+35675,142020597.0,Monday,No,2014-08-18T15:40:00.000,Service,"[-71.06768, 42.300426]",Point,Service,8,IVPREM,0,C11,Day,No,IOWA ST,Part three,Other,773120.9707,,2934799.607,2014
+47371,142020495.0,Monday,No,2014-08-18T11:45:00.000,Service,"[-71.06939, 42.339506]",Point,Service,8,CD9,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+49771,142020502.0,Monday,No,2014-08-18T13:00:00.000,Service,"[-71.071975, 42.294476]",Point,Service,8,ARREST,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,771969.9484,W TREMLETT ST,2932625.479,2014
+156655,142020516.0,Monday,No,2014-08-18T12:22:00.000,Service,"[-71.114485, 42.311256]",Point,Service,8,ARREST,0,E13,Day,No,CENTRE ST,Part three,Unarmed,760441.2169,,2938685.534,2014
+163449,142020670.0,Monday,No,2014-08-18T19:51:00.000,Service,"[-71.03282, 42.374141]",Point,Service,8,IVPER,0,A7,First,No,BREMEN ST,Part three,Unarmed,782404.3103,MARION ST,2961712.334,2014
+163961,142020574.0,Monday,No,2014-08-18T16:00:00.000,Service,"[-71.066939, 42.31286]",Point,Service,8,ARREST,0,C11,First,No,GLENDALE ST,Other,Unarmed,773298.182,,2939331.72,2014
+222268,142020449.0,Monday,No,2014-08-18T09:47:00.000,Service,"[-71.10974, 42.261984]",Point,Service,8,ARREST,0,E18,Day,No,RIVER ST,Part three,Unarmed,761806.7440000001,,2920735.827,2014

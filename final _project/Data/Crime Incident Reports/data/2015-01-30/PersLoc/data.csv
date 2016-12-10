@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+143152,152011008.0,Friday,No,2015-01-30T23:45:00.000,PersLoc,"[-71.072285, 42.342411]",Point,PersLoc,1,MISSIN,0,D4,First,No,UPTON ST,Other,Unarmed,771798.4845,,2950093.361,2015
+149675,152008075.0,Friday,No,2015-01-30T17:10:00.000,PersLoc,"[-71.088178, 42.328158]",Point,PersLoc,1,IVPER,0,B2,First,No,BARTLETT ST,Other,Unarmed,767526.8064,,2944878.187,2015
+153587,152008589.0,Friday,No,2015-01-30T19:00:00.000,PersLoc,"[-71.078772, 42.305181]",Point,PersLoc,1,IVPER,0,C11,First,No,BRINSLEY ST,Other,Unarmed,770111.6477,,2936517.421,2015
+162882,152009567.0,Friday,No,2015-01-30T10:00:00.000,PersLoc,"[-71.076775, 42.335256]",Point,PersLoc,1,MISSIN,0,D4,Day,No,NORTHAMPTON ST,Other,Unarmed,770597.5713,,2947479.894,2015
+183875,152008064.0,Friday,No,2015-01-30T17:20:00.000,PersLoc,"[-71.088645, 42.334806]",Point,PersLoc,1,IVPER,0,B2,First,No,TREMONT ST,Other,Unarmed,767388.9993,,2947300.205,2015
+206263,152008264.0,Friday,No,2015-01-30T08:30:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,1,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+237881,152008211.0,Friday,No,2015-01-30T22:30:00.000,PersLoc,"[-71.122378, 42.254414]",Point,PersLoc,1,IVPER,0,E18,First,No,MAPLE ST,Other,Unarmed,758397.9218,,2917961.64,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159413,120427374.0,Wednesday,No,2012-07-11T20:15:00.000,Service,"[-71.08699, 42.289401]",Point,Service,7,ARREST,439,B3,First,No,LUCERNE ST,Part Three,Unarmed,767916.5936,STRATTON ST,2930756.047,2012
+167498,120426221.0,Wednesday,No,2012-07-11T11:00:00.000,Service,"[-71.07341, 42.331471]",Point,Service,7,SSTOP ,179,B2,Day,No,ISLAND ST,Part Three,Unarmed,771514.2842,READING ST,2946105.105,2012
+216739,120438412.0,Wednesday,No,2012-07-11T23:08:00.000,Service,"[-71.15437, 42.263931]",Point,Service,7,CURFEW,712,E5,First,No,WASHINGTON ST,Part Three,Other,749723.0372,ROCKINGHAM AV,2921393.3230000003,2012
+258717,120426671.0,Wednesday,No,2012-07-11T14:33:00.000,Service,"[-71.119069, 42.244442]",Point,Service,7,CD11  ,940,E18,Day,No,GARFIELD AV,Part Three,Unarmed,759309.8602,,2914331.84,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5982,142037435.0,Thursday,No,2014-10-09T11:30:00.000,PropLost,"[-71.06384, 42.306646]",Point,PropLost,10,PROP,0,C11,Day,No,PERCIVAL ST,Part three,Unarmed,774148.1944,,2937071.558,2014
+45777,142038081.0,Thursday,No,2014-10-09T20:00:00.000,PropLost,"[-71.0599, 42.358711]",Point,PropLost,10,ADMRPT,0,A1,First,No,TREMONT ST,Part three,Unarmed,775116.0583,,2956050.418,2014
+80303,142038126.0,Thursday,No,2014-10-09T21:00:00.000,PropLost,"[-71.052551, 42.356436]",Point,PropLost,10,ADMRPT,0,A1,First,No,HIGH ST,Part three,Unarmed,777106.6048,,2955231.5510000004,2014
+96757,142037501.0,Thursday,No,2014-10-09T13:15:00.000,PropLost,"[-71.06899, 42.358801]",Point,PropLost,10,PROP,0,A1,Day,No,PINCKNEY ST,Part three,Other,772659.0887,LOUISBURG SQ,2956070.67,2014
+115987,142037711.0,Thursday,No,2014-10-09T19:00:00.000,PropLost,"[-71.060245, 42.299976]",Point,PropLost,10,PROP,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775133.1649,,2934645.903,2014
+132685,142037644.0,Thursday,No,2014-10-09T22:01:00.000,PropLost,"[-71.056345, 42.358871]",Point,PropLost,10,LARCEN,0,A1,First,No,STATE ST,Part three,Unarmed,776076.5836,,2956113.703,2014
+178010,142037371.0,Thursday,No,2014-10-09T07:30:00.000,PropLost,"[-71.06494, 42.343021]",Point,PropLost,10,LARCEN,0,D4,Day,No,HARRISON AV,Part three,Unarmed,773783.0344,,2950325.6980000003,2014
+225831,142038919.0,Thursday,No,2014-10-09T18:00:00.000,PropLost,"[-71.039415, 42.368976]",Point,PropLost,10,PROP,0,A7,First,No,MAVERICK SQ,Part three,Unarmed,780632.4456,,2959820.414,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23425,120812835.0,Saturday,No,2012-11-17T16:38:00.000,PropLost,"[-71.077999, 42.306128]",Point,PropLost,11,LSTPRP,337,C11,First,No,COLUMBIA RD,Part Three,Other,770319.0636,,2936863.43,2012
+64846,120728689.0,Saturday,No,2012-11-17T02:00:00.000,PropLost,"[-71.06598, 42.350391]",Point,PropLost,11,LSTPRP,121,A1,Last,No,WARRENTON ST,Part Three,Unarmed,773488.0855,,2953009.8660000004,2012
+101700,120725299.0,Saturday,No,2012-11-17T22:10:00.000,PropLost,"[-71.139735, 42.286161]",Point,PropLost,11,DISTRB,687,E5,First,No,BELGRADE AV,Part Three,Unarmed,753650.2456,,2929510.651,2012
+265070,120725120.0,Saturday,No,2012-11-17T15:20:00.000,PropLost,"[0, 0]",Point,PropLost,11,LARCRT,624,D4,Day,No,BROOKLINE AV,Part Three,Unarmed,,,,2012

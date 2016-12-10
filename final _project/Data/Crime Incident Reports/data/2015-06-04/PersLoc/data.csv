@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2480,152046205.0,Thursday,No,2015-06-04T15:02:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,IVPER,0,B2,Day,No,WALNUT AV,Other,Unarmed,,,,2015
+3917,152046352.0,Thursday,No,2015-06-04T22:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,IVPER,0,B2,First,No,BLUE HILL AV,Other,Other,,MORELAND ST,,2015
+47907,152046291.0,Thursday,No,2015-06-04T19:32:00.000,PersLoc,"[-71.080785, 42.287111]",Point,PersLoc,6,MISSIN,0,B3,First,No,BALLOU AV,Other,Unarmed,769599.5933,,2929929.729,2015

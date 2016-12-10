@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7572,120666323.0,Friday,No,2012-10-19T09:00:00.000,PersLoc,"[-71.063209, 42.310862]",Point,PersLoc,10,MISPER,334,C11,Day,No,CAMERON ST,Part Three,Unarmed,774310.7686,,2938608.671,2012
+35802,120659832.0,Friday,No,2012-10-19T21:36:00.000,PersLoc,"[-71.08337, 42.315211]",Point,PersLoc,10,MISPER,322,B2,First,No,WARREN ST,Part Three,Unarmed,768850.122,,2940166.373,2012
+202170,120658471.0,Friday,No,2012-10-19T09:40:00.000,PersLoc,"[-71.08064, 42.296921]",Point,PersLoc,10,MISPER,444,B3,Day,No,GLENWAY ST,Part Three,Unarmed,769621.252,,2933504.829,2012
+244704,120660138.0,Friday,No,2012-10-19T06:30:00.000,PersLoc,"[-71.095235, 42.276842]",Point,PersLoc,10,MISPER,469,B3,Last,No,HIAWATHA RD,Part Three,Unarmed,765707.4298,,2926168.385,2012

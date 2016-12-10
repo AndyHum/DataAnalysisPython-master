@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1577,152041400.0,Tuesday,No,2015-05-19T18:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPER,0,B2,First,No,TOWNSEND ST,Part three,Unarmed,,,,2015
+66063,152041056.0,Tuesday,No,2015-05-19T12:15:00.000,InvProp,"[-71.05168, 42.310196]",Point,InvProp,5,ALARM,0,C11,Day,No,SAVIN HILL AV,Part three,Unarmed,777430.3968,,2938382.268,2015
+93551,152041117.0,Tuesday,No,2015-05-19T15:57:00.000,InvProp,"[-71.056445, 42.354941]",Point,InvProp,5,SUSOBJ,0,A1,Day,No,FEDERAL ST,Part three,Unarmed,776057.0056,,2954681.191,2015
+94229,152041199.0,Tuesday,No,2015-05-19T16:30:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,5,CD9,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+115712,152040910.0,Tuesday,No,2015-05-19T12:55:00.000,InvProp,"[-71.064225, 42.304776]",Point,InvProp,5,SHOTS,0,C11,Day,No,MT IDA RD,Part three,Unarmed,774047.5345,,2936389.5689999997,2015
+126867,152041289.0,Tuesday,No,2015-05-19T23:30:00.000,InvProp,"[-71.028805, 42.338041]",Point,InvProp,5,MISC,0,C6,First,No,CITY POINT CT,Part three,Unarmed,783561.8741,,2948562.797,2015
+211695,152041217.0,Tuesday,No,2015-05-19T07:30:00.000,InvProp,"[-71.133629, 42.347441]",Point,InvProp,5,BE,0,D14,Day,No,BRAINERD RD,Part three,Unarmed,755206.4708,,2951849.0539999995,2015
+259059,152040908.0,Tuesday,No,2015-05-19T00:39:00.000,InvProp,"[-71.077088, 42.306597]",Point,InvProp,5,IVPREM,0,C11,Last,No,COLUMBIA RD,Part three,Unarmed,770564.5385,,2937035.453,2015

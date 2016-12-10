@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+199648,152048362.0,Tuesday,No,2015-06-09T18:27:00.000,PhoneCalls,"[-71.068825, 42.303566]",Point,PhoneCalls,6,IVPER,0,C11,First,No,LEVANT ST,Part three,Unarmed,772805.4353,,2935942.3030000003,2015
+216212,152047822.0,Tuesday,No,2015-06-09T17:30:00.000,PhoneCalls,"[-71.097815, 42.334961]",Point,PhoneCalls,6,IVPER,0,B2,First,No,MCGREEVEY WY,Part three,Unarmed,764909.3671,,2947344.8660000004,2015
+227201,152047704.0,Tuesday,No,2015-06-09T10:40:00.000,PhoneCalls,"[-71.07038, 42.311091]",Point,PhoneCalls,6,IVPER,0,C11,Day,No,COLUMBIA RD,Part three,Unarmed,772370.9785,,2938682.4080000003,2015

@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30384,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.071887, 42.293606]",Point,MedAssist,6,UNK,450,C11,,No,WASHINGTON ST,Part Three,None,771995.0,,2930000.0,2015
+41748,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.055535, 42.324746]",Point,MedAssist,6,IVPER,189,C6,,No,VON HILLERN ST,Part Three,None,776360.0,,2940000.0,2015
+78858,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.065672, 42.373416]",Point,MedAssist,6,REQP,59,A15,,No,WASHINGTON ST,Part Three,None,773529.0,,2960000.0,2015
+81179,,Friday,No,2015-06-26T23:04:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,REQP,291,B2,,No,CENTRE ST,Part Three,None,,ROXBURY ST,,2015
+114160,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.069114, 42.278947]",Point,MedAssist,6,EDP,404,C11,,No,GALLIVAN BLVD,Part Three,None,772773.0,,2930000.0,2015
+122246,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.169932, 42.352804]",Point,MedAssist,6,REQP,756,D14,,No,ATKINS ST,Part Three,None,745385.0,,2950000.0,2015
+139460,,Friday,No,2015-06-26T22:55:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,REQP,593,B2,,No,BINNEY ST,Part Three,None,,,,2015
+140545,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.109385, 42.263079]",Point,MedAssist,6,REQP,493,E18,,No,FRAZER ST,Part Three,None,761901.0,,2920000.0,2015
+145781,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.072897, 42.288767]",Point,MedAssist,6,UNK,436,B3,,No,WITHINGTON ST,Part Three,None,771731.0,,2930000.0,2015
+180375,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.076265, 42.299263]",Point,MedAssist,6,STAB,454,B3,,No,RIPLEY RD,Part Three,None,770800.0,,2930000.0,2015
+186906,,Friday,No,2015-06-26T12:04:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,PKNIFE,625,D4,,No,PETERBOROUGH ST,Part Three,None,,,,2015
+204343,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.1045, 42.32561]",Point,MedAssist,6,EDP,906,E13,,No,WALDEN ST,Part Three,None,763118.0,,2940000.0,2015
+206514,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.166906, 42.283973]",Point,MedAssist,6,UNKEMS,731,E5,,No,TEMPLE ST,Part Three,None,746301.0,,2930000.0,2015
+259406,,Friday,No,2015-06-26T00:00:00.000,Medical Assistance,"[-71.086854, 42.322814]",Point,MedAssist,6,REQP,298,B2,,No,ROCKLAND ST,Part Three,None,767894.0,,2940000.0,2015

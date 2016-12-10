@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47109,140201186.0,Thursday,No,2014-04-03T17:07:00.000,TRESPASS,"[-71.06739, 42.291076]",Point,TRESPASS,4,ARREST,397,C11,First,No,WAINWRIGHT ST,Part Two,Firearm,773216.7042,,2931392.728,2014
+117076,140271836.0,Thursday,No,2014-04-03T23:55:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,4,REQP  ,313,B2,Last,No,HUMAROCK WY,Part Two,Unarmed,,DECKARD ST,,2014
+238869,140201569.0,Thursday,No,2014-04-03T20:06:00.000,TRESPASS,"[-71.12955, 42.286056]",Point,TRESPASS,4,ARREST,680,E5,First,No,CORINTH ST,Part Two,Unarmed,756406.3346,,2929484.192,2014
+248237,140203840.0,Thursday,No,2014-04-03T15:55:00.000,TRESPASS,"[-71.147508, 42.257526]",Point,TRESPASS,4,IVPER ,822,E5,Day,No,CROWN POINT DR,Part Two,Unarmed,751589.8849,,2919066.82,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38563,140231177.0,Wednesday,No,2014-04-16T12:40:00.000,LICViol,"[-71.079775, 42.346006]",Point,LICViol,4,CD35  ,146,D4,Day,No,GARRISON ST,Part three,Unarmed,769767.1431,,2951393.381,2014
+69101,140231088.0,Wednesday,No,2014-04-16T12:10:00.000,LICViol,"[-71.070505, 42.346036]",Point,LICViol,4,CD35  ,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,772273.0459,,2951416.795,2014
+109482,140231369.0,Wednesday,No,2014-04-16T13:55:00.000,LICViol,"[-71.070835, 42.331511]",Point,LICViol,4,CD35  ,178,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2014
+148261,140231262.0,Wednesday,No,2014-04-16T13:15:00.000,LICViol,"[-71.143229, 42.341956]",Point,LICViol,4,CD35  ,786,D14,Day,No,MT HOOD RD,Part three,Unarmed,752619.5672,,2949839.08,2014

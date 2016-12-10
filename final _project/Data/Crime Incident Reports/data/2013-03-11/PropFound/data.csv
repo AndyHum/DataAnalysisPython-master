@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100214,130146870.0,Monday,No,2013-03-11T20:20:00.000,PropFound,"[-71.05944, 42.363946]",Point,PropFound,3,FDPROP,76,A1,First,No,CANAL ST,Part Three,Unarmed,775230.5321,,2957958.797,2013
+177630,130179650.0,Monday,No,2013-03-11T11:00:00.000,PropFound,"[-71.060845, 42.355056]",Point,PropFound,3,IVPER ,111,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774867.5053,,2954717.1489999997,2013
+201057,130144540.0,Monday,No,2013-03-11T11:45:00.000,PropFound,"[-71.055715, 42.283396]",Point,PropFound,3,FDPROP,379,C11,Day,No,ADAMS ST,Part Three,Unarmed,776390.1204,,2928610.268,2013
+214530,130145215.0,Monday,No,2013-03-11T16:00:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,3,FDPROP,574,E13,First,No,WASHINGTON ST,Part Three,Unarmed,763205.8082,,2938139.2,2013

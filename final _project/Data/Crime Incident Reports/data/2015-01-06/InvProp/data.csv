@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88686,152001659.0,Tuesday,No,2015-01-06T21:38:00.000,InvProp,"[-71.075564, 42.318418]",Point,InvProp,1,ALARM,0,B2,First,No,BROOKFORD ST,Part three,Unarmed,770955.4967,,2941345.341,2015
+231731,152001484.0,Tuesday,No,2015-01-06T11:19:00.000,InvProp,"[-71.125042, 42.236628]",Point,InvProp,1,ALARM,0,E18,Day,No,TRUMAN PY,Part three,Unarmed,757705.2959,,2911477.1380000003,2015
+261129,152001469.0,Tuesday,No,2015-01-06T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

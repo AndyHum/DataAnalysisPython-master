@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5349,142010798.0,Saturday,No,2014-07-19T18:47:00.000,FIRE,"[-71.0598, 42.310176]",Point,FIRE,7,IVPREM,0,C11,First,No,PLEASANT ST,Part three,Other,775234.3661,,2938363.558,2014
+37225,142010670.0,Saturday,No,2014-07-19T09:23:00.000,FIRE,"[-71.11142, 42.307931]",Point,FIRE,7,INJ,0,E13,Day,No,CAROLINA AV,Part three,Unarmed,761275.6545,,2937477.522,2014
+109840,142010627.0,Saturday,No,2014-07-19T05:30:00.000,FIRE,"[-71.065955, 42.291082]",Point,FIRE,7,FO,0,C11,Last,No,MELBOURNE ST,Part three,Unarmed,773604.8812,,2931396.827,2014
+167133,142010817.0,Saturday,No,2014-07-19T15:00:00.000,FIRE,"[-71.135303, 42.347377]",Point,FIRE,7,FIRE,0,D14,Day,No,WALBRIDGE ST,Part three,Other,754753.9724,,2951823.72,2014

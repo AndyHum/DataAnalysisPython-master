@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70196,130232166.0,Saturday,No,2013-04-20T01:12:00.000,InvProp,"[-71.13106, 42.350481]",Point,InvProp,4,BEIP  ,796,D14,Last,No,COMMONWEALTH AV,Part Three,Other,755896.1988,HARVARD AV,2952960.025,2013
+84979,130232288.0,Saturday,No,2013-04-20T02:30:00.000,InvProp,"[-71.074705, 42.293936]",Point,InvProp,4,BEIP  ,451,B3,Last,No,W TREMLETT ST,Part Three,Unarmed,771232.3279,,2932425.001,2013
+153518,130233664.0,Saturday,No,2013-04-20T20:30:00.000,InvProp,"[-71.07738, 42.350061]",Point,InvProp,4,IVPREM,130,D4,First,No,BOYLSTON ST,Part Three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2013

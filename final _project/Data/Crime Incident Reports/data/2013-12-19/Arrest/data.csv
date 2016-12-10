@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12052,130798576.0,Thursday,No,2013-12-19T20:04:00.000,Arrest,"[-71.09279, 42.335528]",Point,Arrest,12,IVDRUG,911,B2,First,No,ANNUNCIATION RD,Part three,Unarmed,766266.9936,,2947557.934,2013
+132618,130797086.0,Thursday,No,2013-12-19T08:58:00.000,Arrest,"[-71.06123, 42.351971]",Point,Arrest,12,ARREST,116,A1,Day,No,OXFORD PL,Part three,Unarmed,774769.2267,HARRISON AV,2953592.381,2013
+201717,130491948.0,Thursday,No,2013-12-19T08:58:00.000,Arrest,"[-71.061185, 42.351706]",Point,Arrest,12,IVPER ,378,A1,Day,No,HARRISON AV,Part three,Unarmed,774781.8874,OXFORD PL,2953495.873,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29895,142013012.0,Friday,No,2014-07-25T18:00:00.000,PersLoc,"[-71.119714, 42.292533]",Point,PersLoc,7,IVPER,0,E5,First,No,BROOKWAY RD,Other,Unarmed,759057.0586,,2931855.943,2014
+51083,142012904.0,Friday,No,2014-07-25T19:15:00.000,PersLoc,"[-71.037465, 42.366871]",Point,PersLoc,7,MISSIN,0,A7,First,No,WEBSTER ST,Other,Unarmed,781163.5587,,2959056.164,2014
+83751,142013292.0,Friday,No,2014-07-25T07:30:00.000,PersLoc,"[-71.061933, 42.287398]",Point,PersLoc,7,IVPER,0,C11,Day,No,DRACUT ST,Other,Unarmed,774699.9919,,2930059.777,2014
+249104,142012741.0,Friday,No,2014-07-25T12:11:00.000,PersLoc,"[-71.059287, 42.313485]",Point,PersLoc,7,IVPER,0,C11,Day,No,PLEASANT ST,Other,Unarmed,775366.7701,,2939569.9639999997,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6413,142052478.0,Wednesday,No,2014-11-26T12:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,11,MISSIN,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+20584,142052426.0,Wednesday,No,2014-11-26T07:00:00.000,PersLoc,"[-71.144024, 42.346747]",Point,PersLoc,11,IVPER,0,D14,Last,No,JETTE CT,Other,Unarmed,752397.4732,,2951584.079,2014
+78829,142052571.0,Wednesday,No,2014-11-26T23:30:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,11,IVPER,0,B3,First,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2014

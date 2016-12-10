@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10695,120424828.0,Tuesday,No,2012-07-10T18:20:00.000,FIRE,"[-71.130035, 42.359386]",Point,FIRE,7,FIREB ,815,D14,First,No,COOLIDGE RD,Part Three,Other,756159.192,,2956206.39,2012
+51784,120423661.0,Tuesday,No,2012-07-10T09:10:00.000,FIRE,"[-71.0545, 42.338856]",Point,FIRE,7,FIREB ,936,C6,Day,No,FLAHERTY WY,Part Three,Unarmed,776613.3365,,2948822.4669999997,2012
+109594,120423387.0,Tuesday,No,2012-07-10T04:22:00.000,FIRE,"[-71.06223, 42.364936]",Point,FIRE,7,FIREB ,75,A1,Last,No,CAUSEWAY ST,Part Three,Other,774474.6741,,2958315.689,2012
+109605,120423984.0,Tuesday,No,2012-07-10T11:52:00.000,FIRE,"[-71.03994, 42.370551]",Point,FIRE,7,FIRE  ,26,A7,Day,No,MAVERICK ST,Part Three,Other,780487.479,MAVERICK ST,2960393.61,2012

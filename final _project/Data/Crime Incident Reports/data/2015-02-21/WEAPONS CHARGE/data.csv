@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7760,152014017.0,Saturday,No,2015-02-21T12:59:00.000,WEAPONS CHARGE,"[-71.068642, 42.316293]",Point,15xx,2,SS,0,B2,Day,No,MONADNOCK ST,Part Two,Firearm,772831.4244,,2940580.485,2015
+167651,152013917.0,Saturday,No,2015-02-21T02:27:00.000,WEAPONS CHARGE,"[-71.071595, 42.320471]",Point,15xx,2,SS,0,B2,Last,No,DUDLEY ST,Part Two,Firearm,772025.179,,2942098.979,2015
+187516,152013908.0,Saturday,No,2015-02-21T01:28:00.000,WEAPONS CHARGE,"[-71.092577, 42.329813]",Point,15xx,2,TS,0,B2,Last,No,CENTRE ST,Part Two,Firearm,766334.4984,,2945475.4,2015
+216730,152013918.0,Saturday,No,2015-02-21T02:45:00.000,WEAPONS CHARGE,"[-71.0612, 42.350476]",Point,15xx,2,ARREST,0,A1,Last,No,KNEELAND ST,Part Two,Firearm,774780.1390000001,HARRISON AV,2953047.617,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+164,152034022.0,Sunday,No,2015-04-26T16:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD19,0,C6,First,No,MORRISSEY BL,Part three,Unarmed,,,,2015
+3291,152034087.0,Sunday,No,2015-04-26T15:00:00.000,InvProp,"[0, 0]",Point,InvProp,4,BE,0,C6,Day,No,WASHBURN ST,Part three,Unarmed,,,,2015
+39722,152033868.0,Sunday,No,2015-04-26T12:45:00.000,InvProp,"[-71.08911, 42.334571]",Point,InvProp,4,SHOTS,0,B2,Day,No,TREMONT ST,Part three,Firearm,767263.6859,,2947213.961,2015
+90719,152033986.0,Sunday,No,2015-04-26T14:00:00.000,InvProp,"[-71.061015, 42.353246]",Point,InvProp,4,CD9,0,A1,Day,No,AVENUE DE LAFAYETTE,Part three,Unarmed,774824.9513,,2954057.314,2015
+148839,152034135.0,Sunday,No,2015-04-26T22:00:00.000,InvProp,"[-71.170989, 42.268377]",Point,InvProp,4,CD26,0,E5,First,No,VFW PY,Part three,Other,745218.0879,,2922995.5889999997,2015
+187608,152033884.0,Sunday,No,2015-04-26T03:55:00.000,InvProp,"[-71.102815, 42.334481]",Point,InvProp,4,IVPREM,0,B2,Last,No,WIGGLESWORTH ST,Part three,Other,763558.2934,,2947163.611,2015
+188264,152033883.0,Sunday,No,2015-04-26T03:54:00.000,InvProp,"[-71.09212, 42.287476]",Point,InvProp,4,IVPREM,0,B3,Last,No,JOHNSTON RD,Part three,Unarmed,766531.9163,,2930047.873,2015
+238740,152034076.0,Sunday,No,2015-04-26T19:15:00.000,InvProp,"[-71.059295, 42.356476]",Point,InvProp,4,IVMV,0,A1,First,No,WASHINGTON ST,Part three,Other,775283.7829999999,,2955236.785,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128999,130406135.0,Tuesday,No,2013-05-28T11:05:00.000,FORGERY,"[-71.154289, 42.28644]",Point,10xx,5,LARCRT,695,E5,Day,No,CENTRE ST,Part Two,Unarmed,749711.5888,,2929595.788,2013
+129575,130420827.0,Tuesday,No,2013-05-28T12:34:00.000,FORGERY,"[-71.14626, 42.360691]",Point,10xx,5,MISC  ,805,D14,Day,No,BIRMINGHAM PY,Part Two,Unarmed,751772.0302,,2956663.356,2013
+253175,130406229.0,Tuesday,No,2013-05-28T11:38:00.000,FORGERY,"[-71.095405, 42.348786]",Point,10xx,5,LARCRT,623,D4,Day,No,COMMONWEALTH AV,Part Two,Unarmed,765537.0788,,2952386.037,2013

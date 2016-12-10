@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33837,120542373.0,Thursday,No,2012-08-30T21:09:00.000,InvProp,"[-71.020358, 42.384935]",Point,InvProp,8,IVPREM,15,A7,First,No,MCCLELLAN HY,Part Three,Unarmed,785749.5501,,2965664.599,2012
+76828,120542293.0,Thursday,No,2012-08-30T21:20:00.000,InvProp,"[-71.048485, 42.349406]",Point,InvProp,8,ALARMX,205,C6,First,No,SUMMER ST,Part Three,Unarmed,778219.2009999999,,2952675.627,2012
+79977,120541680.0,Thursday,No,2012-08-30T16:52:00.000,InvProp,"[-71.053511, 42.287716]",Point,InvProp,8,IVPER ,378,C11,First,No,NAHANT AV,Part Three,Unarmed,776978.1222,,2930187.475,2012
+84771,120540914.0,Thursday,No,2012-08-30T02:57:00.000,InvProp,"[-71.101383, 42.324122]",Point,InvProp,8,BERPTA,912,E13,Last,No,PARKER ST,Part Three,Unarmed,763963.0763,,2943390.236,2012
+147360,120560032.0,Thursday,No,2012-08-30T15:00:00.000,InvProp,"[-71.08754, 42.295846]",Point,InvProp,8,IVPER ,444,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,767756.4214,,2933103.981,2012
+210886,120540775.0,Thursday,No,2012-08-30T08:30:00.000,InvProp,"[-71.15331, 42.33931]",Point,InvProp,8,CD9   ,0,D14,Day,No,STRATHMORE RD,Part Three,Unarmed,749898.3105,LOTHIAN RD,2948863.793,2012
+213321,120543166.0,Thursday,No,2012-08-30T07:00:00.000,InvProp,"[-71.06109, 42.379281]",Point,InvProp,8,BERPT ,900,A15,Last,No,POLK ST,Part Three,Other,774755.8572,,2963544.885,2012
+247989,120542121.0,Thursday,No,2012-08-30T19:56:00.000,InvProp,"[-71.0826, 42.277496]",Point,InvProp,8,NOISE ,420,B3,First,No,GLENHILL RD,Part Three,Unarmed,769125.6333,,2926423.48,2012

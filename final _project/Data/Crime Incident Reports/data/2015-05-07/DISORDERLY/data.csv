@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+823,152037501.0,Thursday,No,2015-05-07T20:45:00.000,DISORDERLY,"[0, 0]",Point,24xx,5,ARREST,0,D4,First,No,TREMONT ST,Part Two,Unarmed,,,,2015
+3496,152037270.0,Thursday,No,2015-05-07T01:04:00.000,DISORDERLY,"[0, 0]",Point,24xx,5,ARREST,0,B2,Last,No,FAIRFIELD ST,Part Two,Unarmed,,MT PLEASANT AV,,2015
+3625,152037689.0,Thursday,No,2015-05-07T10:00:00.000,DISORDERLY,"[0, 0]",Point,24xx,5,IVPER,0,B3,Day,No,PEACEVALE RD,Part Two,Unarmed,,,,2015

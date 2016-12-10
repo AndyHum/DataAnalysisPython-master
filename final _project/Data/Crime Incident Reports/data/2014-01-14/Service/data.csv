@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13297,140026461.0,Tuesday,No,2014-01-14T02:50:00.000,Service,"[-71.065153, 42.29921]",Point,Service,1,IVMV  ,358,C11,Last,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2014
+63482,140027803.0,Tuesday,No,2014-01-14T16:20:00.000,Service,"[-71.034765, 42.381976]",Point,Service,1,IVPER ,28,A7,First,No,FALCON ST,Part three,Unarmed,781863.1806,,2964564.6980000003,2014
+70507,140027686.0,Tuesday,No,2014-01-14T17:00:00.000,Service,"[-71.090956, 42.333723]",Point,Service,1,ARREST,289,B2,First,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2014
+214228,140027822.0,Tuesday,No,2014-01-14T18:00:00.000,Service,"[-71.082313, 42.280256]",Point,Service,1,CD11  ,421,B3,First,No,MORTON ST,Part three,Unarmed,769198.3224,,2927429.483,2014
+223212,140027873.0,Tuesday,No,2014-01-14T18:35:00.000,Service,"[-71.101595, 42.333071]",Point,Service,1,ABRPT ,602,B2,First,No,TREMONT ST,Part three,Other,763890.5575,,2946651.3189999997,2014
+227159,140028281.0,Tuesday,No,2014-01-14T23:20:00.000,Service,"[-71.102874, 42.325388]",Point,Service,1,VANIP ,906,E13,First,No,HORAN WY,Part three,Unarmed,763557.568,,2943849.8589999997,2014

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49442,140288455.0,Saturday,No,2014-05-10T15:28:00.000,Arrest,"[-71.059295, 42.356476]",Point,Arrest,5,SHPLFT,104,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775283.7829999999,,2955236.785,2014
+108869,140288322.0,Saturday,No,2014-05-10T14:25:00.000,Arrest,"[-71.059969, 42.355867]",Point,Arrest,5,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2014

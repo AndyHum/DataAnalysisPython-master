@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84924,120758822.0,Tuesday,No,2012-12-04T00:05:00.000,PropFound,"[-71.05666, 42.364431]",Point,PropFound,12,FDPROP,86,A1,Last,No,COOPER ST,Part Three,Unarmed,775980.9153,N MARGIN ST,2958139.4310000003,2012
+146646,120759721.0,Tuesday,No,2012-12-04T12:05:00.000,PropFound,"[-71.052906, 42.365682]",Point,PropFound,12,FDPROP,83,A1,Day,No,HANOVER ST,Part Three,Unarmed,776993.0581,,2958600.3239999996,2012
+168688,130055495.0,Tuesday,No,2012-12-04T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,12,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+204769,120760195.0,Tuesday,No,2012-12-04T16:29:00.000,PropFound,"[-71.0828, 42.283631]",Point,PropFound,12,AOD   ,417,B3,First,No,NORFOLK ST,Part Three,Unarmed,769060.5737,,2928658.894,2012
+261892,120760542.0,Tuesday,No,2012-12-04T15:45:00.000,PropFound,"[0, 0]",Point,PropFound,12,FDPROP,907,A7,Day,No,SUMNER ST,Part Three,Unarmed,,LIVERPOOL ST,,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48918,130620301.0,Saturday,No,2013-09-28T19:45:00.000,Service,"[-71.058453, 42.377893]",Point,Service,9,STAB  ,900,A15,First,No,OREILLY WY,Part three,Knife,775470.7498,,2963042.695,2013
+144082,130618413.0,Saturday,No,2013-09-28T02:35:00.000,Service,"[-71.04424, 42.335481]",Point,Service,9,DISTRB,220,C6,Last,No,E BROADWAY,Part three,Unarmed,779393.8013,G ST,2947607.213,2013
+157695,130619653.0,Saturday,No,2013-09-28T16:30:00.000,Service,"[-71.08473, 42.320561]",Point,Service,9,LSTPRP,309,B2,First,No,LAUREL ST,Part three,Unarmed,768472.8022,,2942114.208,2013
+169337,130618899.0,Saturday,No,2013-09-28T10:53:00.000,Service,"[-71.064905, 42.352371]",Point,Service,9,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Other,773775.1158,,2953733.06,2013

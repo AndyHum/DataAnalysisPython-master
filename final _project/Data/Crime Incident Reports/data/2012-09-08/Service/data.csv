@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23347,120562570.0,Saturday,No,2012-09-08T16:19:00.000,Service,"[-71.05632, 42.329401]",Point,Service,9,ARREST,192,C6,First,No,PREBLE ST,Part Three,Unarmed,776139.2032,CARPENTER ST,2945374.336,2012
+87862,120561572.0,Saturday,No,2012-09-08T03:38:00.000,Service,"[-71.08872, 42.349271]",Point,Service,9,FIGHT ,141,D4,Last,No,COMMONWEALTH AV,Part Three,Unarmed,767343.3048,MASSACHUSETTS AV,2952571.422,2012
+209565,120566879.0,Saturday,No,2012-09-08T22:00:00.000,Service,"[-71.04256, 42.350356]",Point,Service,9,LARCRT,206,C6,First,No,SEAPORT BL,Part Three,Unarmed,779818.9593,,2953030.358,2012

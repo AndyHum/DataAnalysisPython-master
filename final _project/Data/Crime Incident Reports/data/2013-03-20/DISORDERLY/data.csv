@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15029,130165381.0,Wednesday,No,2013-03-20T22:29:00.000,DISORDERLY,"[-71.09706, 42.317021]",Point,24xx,3,ARREST,307,E13,First,No,WASHINGTON ST,Part Two,Unarmed,765144.3859999999,WESTMINSTER ST,2940808.1780000003,2013
+54626,130163544.0,Wednesday,No,2013-03-20T07:30:00.000,DISORDERLY,"[-71.090389, 42.331096]",Point,24xx,3,ARREST,290,B2,Day,No,MALCOLM X BL,Part Two,Unarmed,766923.848,,2945945.7830000003,2013
+96889,130164310.0,Wednesday,No,2013-03-20T13:00:00.000,DISORDERLY,"[-71.109368, 42.305738]",Point,24xx,3,HLDPRI,573,E13,Day,No,MCBRIDE ST,Part Two,Unarmed,761834.2811,WASHINGTON ST,2936680.776,2013
+254166,130165147.0,Wednesday,No,2013-03-20T19:00:00.000,DISORDERLY,"[-71.074385, 42.335516]",Point,24xx,3,ARREST,171,D4,First,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2013

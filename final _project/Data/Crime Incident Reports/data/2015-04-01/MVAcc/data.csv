@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35657,152026317.0,Wednesday,No,2015-04-01T08:47:00.000,MVAcc,"[-71.11755, 42.286406]",Point,MVAcc,4,MVA,0,E18,Day,No,NEPONSET AV,Other,Unarmed,759652.8031,PHILBRICK ST,2929626.068,2015
+109596,152026443.0,Wednesday,No,2015-04-01T16:24:00.000,MVAcc,"[-71.09211, 42.285141]",Point,MVAcc,4,MVA,0,B3,First,No,RHOADES ST,Other,Other,766538.6896,,2929196.9760000003,2015
+173640,152026331.0,Wednesday,No,2015-04-01T10:00:00.000,MVAcc,"[-71.078037, 42.348524]",Point,MVAcc,4,MVA,0,D4,Day,No,HUNTINGTON AV,Other,Other,770232.2551,,2952313.058,2015
+267184,152026300.0,Wednesday,No,2015-04-01T08:52:00.000,MVAcc,"[0, 0]",Point,MVAcc,4,MVA,0,D4,Day,No,MASSACHUSETTS AV,Other,Unarmed,,MELNEA CASS BL,,2015
+267221,152026474.0,Wednesday,No,2015-04-01T17:47:00.000,MVAcc,"[0, 0]",Point,MVAcc,4,MVA,0,E13,First,No,AMERICAN LEGION HY,Other,Other,,MORTON ST,,2015
+267243,152026573.0,Wednesday,No,2015-04-01T01:15:00.000,MVAcc,"[0, 0]",Point,MVAcc,4,IVMV,0,C11,Last,No,COLUMBIA RD,Other,Other,,QUINCY ST,,2015

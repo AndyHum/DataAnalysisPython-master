@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99169,152026239.0,Tuesday,No,2015-03-31T21:34:00.000,PropFound,"[-71.08563, 42.345251]",Point,PropFound,3,SUSOBJ,0,D4,First,No,CLEARWAY ST,Part three,Unarmed,768185.6985,,2951110.503,2015
+257052,152026069.0,Tuesday,No,2015-03-31T13:00:00.000,PropFound,"[-71.079384, 42.35173]",Point,PropFound,3,PROP,0,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,769862.4769,DARTMOUTH ST,2953479.561,2015
+267127,152026002.0,Tuesday,No,2015-03-31T08:00:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+267163,152026003.0,Tuesday,No,2015-03-31T09:00:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015

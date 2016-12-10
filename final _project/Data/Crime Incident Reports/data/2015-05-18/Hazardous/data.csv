@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1452,152040753.0,Monday,No,2015-05-18T13:59:00.000,Hazardous,"[0, 0]",Point,Hazardous,5,REQP,0,A7,Day,No,MCCLELLAN HY,Other,Unarmed,,,,2015
+13461,152040611.0,Monday,No,2015-05-18T09:30:00.000,Hazardous,"[-71.048485, 42.349406]",Point,Hazardous,5,VAND,0,C6,Day,No,SUMMER ST,Other,Other,778219.2009999999,,2952675.627,2015

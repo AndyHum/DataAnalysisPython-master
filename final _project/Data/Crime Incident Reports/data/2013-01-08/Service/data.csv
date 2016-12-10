@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20258,130015104.0,Tuesday,No,2013-01-08T09:00:00.000,Service,"[-71.059135, 42.357926]",Point,Service,1,ARREST,97,A1,Day,No,CITY HALL AV,Part Three,Unarmed,775324.2977,,2955765.417,2013
+20914,130015813.0,Tuesday,No,2013-01-08T14:40:00.000,Service,"[-71.14489, 42.272571]",Point,Service,1,ARREST,705,E5,Day,No,PHEASANT ST,Part Three,Unarmed,752275.9905,,2924552.402,2013
+47794,130016501.0,Tuesday,No,2013-01-08T19:50:00.000,Service,"[-71.102874, 42.325388]",Point,Service,1,ARREST,906,E13,First,No,HORAN WY,Part Three,Unarmed,763557.568,,2943849.8589999997,2013
+70828,130017818.0,Tuesday,No,2013-01-08T13:45:00.000,Service,"[-71.08331, 42.339301]",Point,Service,1,MISPER,597,D4,Day,No,CAMDEN ST,Part Three,Unarmed,768823.4634,COLUMBUS AV,2948945.265,2013
+72917,130016218.0,Tuesday,No,2013-01-08T17:48:00.000,Service,"[-71.01732, 42.381021]",Point,Service,1,IVPREM,14,A7,First,No,MOORE ST,Part Three,Unarmed,786578.3595,,2964242.8639999996,2013
+136266,130015580.0,Tuesday,No,2013-01-08T12:55:00.000,Service,"[-71.157269, 42.262217]",Point,Service,1,AOD   ,713,E5,Day,No,GROVE ST,Part Three,Unarmed,748940.7425,,2920765.461,2013
+161068,130016600.0,Tuesday,No,2013-01-08T21:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,1,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2013
+237812,130016018.0,Tuesday,No,2013-01-08T04:21:00.000,Service,"[-71.050985, 42.341001]",Point,Service,1,LOCK  ,202,C6,Last,No,C ST,Part Three,Unarmed,777559.5367,,2949609.126,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67785,152034342.0,Monday,No,2015-04-27T18:00:00.000,PropFound,"[-71.098625, 42.346181]",Point,PropFound,4,PROP,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+106841,152034348.0,Monday,No,2015-04-27T18:45:00.000,PropFound,"[-71.10789, 42.312866]",Point,PropFound,4,PROP,0,E13,First,No,LAMARTINE ST,Part three,Unarmed,762222.3285,BILTMORE ST,2939280.376,2015
+199717,152034305.0,Monday,No,2015-04-27T17:20:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,4,PROP,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2015
+216383,152034230.0,Monday,No,2015-04-27T11:00:00.000,PropFound,"[-71.12147, 42.263361]",Point,PropFound,4,PROP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,758629.3777,,2921223.4110000003,2015

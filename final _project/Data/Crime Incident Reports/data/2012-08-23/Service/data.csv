@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14587,120524567.0,Thursday,No,2012-08-23T02:12:00.000,Service,"[-71.058885, 42.305581]",Point,Service,8,ARREST,348,C11,Last,No,DORCHESTER AV,Part Three,Unarmed,775490.5175,,2936690.348,2012
+31997,120526557.0,Thursday,No,2012-08-23T22:20:00.000,Service,"[-71.09666, 42.333711]",Point,Service,8,SSTOP ,901,B2,First,No,HORADAN WY,Part Three,Unarmed,765223.8077,,2946890.818,2012
+39365,120525835.0,Thursday,No,2012-08-23T17:10:00.000,Service,"[-71.062525, 42.355916]",Point,Service,8,ARREST,111,A1,First,No,TREMONT ST,Part Three,Unarmed,774411.8094,,2955028.2169999997,2012
+86732,120526278.0,Thursday,No,2012-08-23T20:30:00.000,Service,"[-71.085618, 42.32866]",Point,Service,8,IVPER ,282,B2,First,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012

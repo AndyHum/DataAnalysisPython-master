@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+137137,152021319.0,Monday,No,2015-03-16T21:19:00.000,PersLoc,"[-71.085911, 42.287721]",Point,PersLoc,3,IVPER,0,B3,First,No,CALLENDER ST,Other,Unarmed,768211.3775,,2930145.1,2015
+181448,152021218.0,Monday,No,2015-03-16T14:50:00.000,PersLoc,"[-71.060554, 42.364937]",Point,PersLoc,3,MISSIN,0,A1,Day,No,CANAL ST,Other,Unarmed,774927.5836,,2958318.224,2015
+192857,152021205.0,Monday,No,2015-03-16T00:00:00.000,PersLoc,"[-71.06387, 42.348356]",Point,PersLoc,3,MISSIN,0,A1,Last,No,OAK ST,Other,Unarmed,774062.3599,,2952271.348,2015

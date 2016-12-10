@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62628,130635666.0,Saturday,No,2013-10-05T15:25:00.000,DISORDERLY,"[-71.09898, 42.315101]",Point,24xx,10,ARREST,577,E13,Day,No,BEETHOVEN ST,Part Two,Unarmed,764628.4039,WASHINGTON ST,2940106.0510000004,2013
+94591,130636334.0,Saturday,No,2013-10-05T22:00:00.000,DISORDERLY,"[-71.036625, 42.329606]",Point,24xx,10,PARTY ,234,C6,First,No,COLUMBIA RD,Part Two,Unarmed,781464.3327,,2945477.3589999997,2013
+240646,130634664.0,Saturday,No,2013-10-05T02:00:00.000,DISORDERLY,"[-71.037275, 42.375496]",Point,24xx,10,FIGHT ,23,A7,Last,No,BENNINGTON ST,Part Two,Other,781197.8470000001,,2962199.565,2013

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2775,152032204.0,Sunday,No,2015-04-19T15:00:00.000,PropLost,"[-71.077145, 42.350131]",Point,PropLost,4,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770470.6585,,2952900.122,2015
+11664,152035421.0,Sunday,No,2015-04-19T17:15:00.000,PropLost,"[-71.112127, 42.322376]",Point,PropLost,4,PROP,0,E13,First,No,S HUNTINGTON AV,Part three,Unarmed,761060.5415,,2942740.787,2015
+33846,152032810.0,Sunday,No,2015-04-19T03:00:00.000,PropLost,"[-71.062835, 42.353226]",Point,PropLost,4,PROP,0,A1,Last,No,AVERY ST,Part three,Unarmed,774333.0448,,2954047.5,2015
+43379,152031932.0,Sunday,No,2015-04-19T12:00:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,4,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2015
+52758,152032197.0,Sunday,No,2015-04-19T21:30:00.000,PropLost,"[-71.06255, 42.306641]",Point,PropLost,4,PROP,0,C11,First,No,FOX ST,Part three,Unarmed,774497.1455,JULIETTE ST,2937071.523,2015
+91913,152032148.0,Sunday,No,2015-04-19T17:10:00.000,PropLost,"[-71.08744, 42.333399]",Point,PropLost,4,PROP,0,B2,First,No,CABOT ST,Part three,Unarmed,767717.2749,,2946788.916,2015
+230069,152032029.0,Sunday,No,2015-04-19T18:00:00.000,PropLost,"[-71.02958, 42.380691]",Point,PropLost,4,IVPREM,0,A7,First,No,LEXINGTON ST,Part three,Unarmed,783266.6211,,2964104.1,2015
+250042,152032758.0,Sunday,No,2015-04-19T21:30:00.000,PropLost,"[-71.115994, 42.275121]",Point,PropLost,4,PROP,0,E18,First,No,AMERICAN LEGION HY,Part three,Other,760092.1353,,2925515.338,2015
+267916,152031926.0,Sunday,No,2015-04-19T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+268002,152032395.0,Sunday,No,2015-04-19T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B2,Day,No,CLIFFMONT ST,Part three,Unarmed,,,,2015

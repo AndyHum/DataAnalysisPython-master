@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72993,130208536.0,Monday,No,2013-03-11T09:00:00.000,Harass,"[-71.07547, 42.346214]",Point,Harass,3,HARPT ,149,D4,Day,No,DARTMOUTH ST,Part Two,Unarmed,770930.358,,2951474.633,2013
+182405,130144005.0,Monday,No,2013-03-11T07:10:00.000,Harass,"[-71.078815, 42.350571]",Point,Harass,3,HARPT ,138,D4,Last,No,NEWBURY ST,Part Two,Unarmed,770018.4438,,2953058.235,2013
+260051,130145860.0,Monday,No,2013-03-11T23:10:00.000,Harass,"[-71.09486, 42.315301]",Point,Harass,3,THREAT,307,E13,First,No,WARDMAN RD,Part Two,Other,765742.3612,,2940184.2010000004,2013

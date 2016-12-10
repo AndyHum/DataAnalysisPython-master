@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29318,120475038.0,Wednesday,No,2012-08-01T13:00:00.000,DISORDERLY,"[-71.05582, 42.360091]",Point,24xx,8,ARREST,93,A1,Day,No,FANEUIL HALL SQ,Part Two,Unarmed,776216.1627,,2956559.0330000003,2012
+55513,120474162.0,Wednesday,No,2012-08-01T02:23:00.000,DISORDERLY,"[-71.05353, 42.359506]",Point,24xx,8,ARREST,94,A1,Last,No,COMMERCIAL ST,Part Two,Unarmed,776836.1956,,2956349.079,2012
+140616,120475889.0,Wednesday,No,2012-08-01T19:40:00.000,DISORDERLY,"[-71.093815, 42.268396]",Point,24xx,8,ARREST,476,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766106.3913,,2923092.665,2012

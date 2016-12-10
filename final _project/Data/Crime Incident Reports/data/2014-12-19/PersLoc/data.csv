@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9273,142059409.0,Friday,No,2014-12-19T08:00:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,12,IVPER,0,C6,Day,No,N POINT DR,Other,Unarmed,780248.572,,2942010.5539999995,2014
+78036,142058845.0,Friday,No,2014-12-19T00:16:00.000,PersLoc,"[-71.075835, 42.289281]",Point,PersLoc,12,IVPER,0,B3,Last,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2014
+137622,142059788.0,Friday,No,2014-12-19T19:30:00.000,PersLoc,"[-71.044005, 42.286401]",Point,PersLoc,12,IVPER,0,C11,First,No,NEPONSET AV,Other,Unarmed,779552.9562,,2929722.0530000003,2014
+192859,142058874.0,Friday,No,2014-12-19T06:55:00.000,PersLoc,"[-71.122224, 42.286936]",Point,PersLoc,12,IVPER,0,E5,Last,No,SYCAMORE ST,Other,Unarmed,758387.1226,,2929813.4310000003,2014
+252892,142059801.0,Friday,No,2014-12-19T19:30:00.000,PersLoc,"[-71.056221, 42.287944]",Point,PersLoc,12,IVPER,0,C11,First,No,ASHMONT ST,Other,Unarmed,776244.3441,,2930266.922,2014

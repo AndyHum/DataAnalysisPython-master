@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40293,152021790.0,Wednesday,No,2015-03-18T11:43:00.000,Argue,"[-71.084224, 42.33012]",Point,Argue,3,DISTRB,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768592.5333,,2945598.0519999997,2015
+86848,152021761.0,Wednesday,No,2015-03-18T09:48:00.000,Argue,"[-71.08873, 42.316866]",Point,Argue,3,NIDV,0,B2,Day,No,HARRISHOF ST,Part three,Unarmed,767397.5413,,2940762.4489999996,2015
+162737,152021707.0,Wednesday,No,2015-03-18T03:39:00.000,Argue,"[-71.053355, 42.324819]",Point,Argue,3,DVIP,0,C6,Last,No,OCALLAGHAN WY,Part three,Unarmed,776949.5422,,2943708.555,2015

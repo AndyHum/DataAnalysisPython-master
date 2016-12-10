@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9343,130709354.0,Thursday,No,2013-11-07T14:00:00.000,Service,"[-71.128522, 42.28052]",Point,Service,11,IVPER ,557,E5,Day,No,WHITFORD ST,Part three,Unarmed,756693.1427,,2927467.705,2013
+17854,130710240.0,Thursday,No,2013-11-07T22:40:00.000,Service,"[-71.053506, 42.32612]",Point,Service,11,ARREST,914,C6,First,No,GAVIN WY,Part three,Unarmed,776906.2024,,2944182.5530000003,2013
+62016,130708556.0,Thursday,No,2013-11-07T08:00:00.000,Service,"[-71.07952, 42.313481]",Point,Service,11,ARREST,326,B2,Day,No,BLUE HILL AV,Part three,Other,769894.5069,LAWRENCE AV,2939541.042,2013
+66403,130709012.0,Thursday,No,2013-11-07T12:05:00.000,Service,"[-71.06942, 42.362401]",Point,Service,11,ARREST,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+74076,130708167.0,Thursday,No,2013-11-07T00:42:00.000,Service,"[-71.08223, 42.301691]",Point,Service,11,ARREST,456,B3,Last,No,ERIE ST,Part three,Unarmed,769182.58,MICHIGAN AV,2935240.978,2013
+84732,130710138.0,Thursday,No,2013-11-07T22:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,11,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2013
+219351,130708225.0,Thursday,No,2013-11-07T01:20:00.000,Service,"[-71.0648, 42.299441]",Point,Service,11,CD11  ,0,C11,Last,No,GENEVA AV,Part three,Unarmed,773901.9117,WALDECK ST,2934444.6210000003,2013
+242279,130713238.0,Thursday,No,2013-11-07T15:00:00.000,Service,"[-71.054711, 42.341305]",Point,Service,11,LSTPRP,200,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+254332,130708656.0,Thursday,No,2013-11-07T09:12:00.000,Service,"[-71.059735, 42.297541]",Point,Service,11,ARREST,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013

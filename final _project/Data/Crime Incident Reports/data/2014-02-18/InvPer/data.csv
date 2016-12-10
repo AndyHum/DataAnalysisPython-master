@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13763,140101227.0,Tuesday,No,2014-02-18T03:00:00.000,InvPer,"[-71.06428, 42.374336]",Point,InvPer,2,IVPER ,931,A15,Last,No,UNION ST,Part three,Unarmed,773903.1644,,2961738.4039999996,2014
+64837,140102535.0,Tuesday,No,2014-02-18T17:30:00.000,InvPer,"[-71.088465, 42.293526]",Point,InvPer,2,AOD   ,463,B3,First,No,BLUE HILL AV,Part three,Unarmed,767510.2474,,2932257.329,2014
+97948,140101997.0,Tuesday,No,2014-02-18T12:53:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVMV  ,0,B2,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2014
+99599,140102648.0,Tuesday,No,2014-02-18T18:24:00.000,InvPer,"[-71.085978, 42.296806]",Point,InvPer,2,UNK   ,444,B3,First,No,ABBOT ST,Part three,Unarmed,768177.1099,,2933455.566,2014
+202537,140106419.0,Tuesday,No,2014-02-18T12:00:00.000,InvPer,"[-71.06844, 42.352301]",Point,InvPer,2,INVEST,120,A1,Day,No,BOYLSTON ST,Part three,Unarmed,772819.7246,,2953702.6980000003,2014
+223095,140102673.0,Tuesday,No,2014-02-18T18:35:00.000,InvPer,"[-71.07978, 42.352561]",Point,InvPer,2,THREAT,136,D4,First,No,MARLBOROUGH ST,Part three,Unarmed,769754.0214,,2953782.142,2014
+253113,140103002.0,Tuesday,No,2014-02-18T21:31:00.000,InvPer,"[-71.058905, 42.318386]",Point,InvPer,2,IVPER ,244,C11,First,No,PLEASANT ST,Part three,Unarmed,775460.9762,,2941356.663,2014

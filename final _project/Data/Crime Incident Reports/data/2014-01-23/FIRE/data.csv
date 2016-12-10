@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98139,140045815.0,Thursday,No,2014-01-23T12:28:00.000,FIRE,"[-71.08762, 42.309361]",Point,FIRE,1,FIREB ,318,B2,Day,No,ELM HILL AV,Part three,Unarmed,767710.9668,,2938028.952,2014
+156829,140046375.0,Thursday,No,2014-01-23T16:56:00.000,FIRE,"[-71.07351, 42.309271]",Point,FIRE,1,FV    ,336,C11,First,No,COLUMBIA RD,Part three,Unarmed,771527.6954,,2938014.922,2014
+182040,140045753.0,Thursday,No,2014-01-23T11:48:00.000,FIRE,"[-71.085257, 42.297402]",Point,FIRE,1,FIREB ,444,B3,Day,No,WALES ST,Part three,Unarmed,768371.2601,,2933673.9289999995,2014

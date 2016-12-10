@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120875,120815640.0,Monday,No,2012-12-31T01:29:00.000,Service,"[-71.0977, 42.316381]",Point,Service,12,ARREST,307,E13,Last,No,WASHINGTON ST,Part Three,Unarmed,764972.3955,WALNUT PK,2940574.135,2012
+248564,120815688.0,Monday,No,2012-12-31T02:01:00.000,Service,"[-71.074225, 42.309261]",Point,Service,12,ARREST,328,B2,Last,No,INTERVALE ST,Part Three,Unarmed,771334.3162,,2938010.312,2012
+256765,130002874.0,Monday,No,2012-12-31T18:00:00.000,Service,"[-71.11357, 42.299931]",Point,Service,12,ROBRPT,510,E13,First,No,HYDE PARK AV,Part Three,Unarmed,760707.4024,WASHINGTON ST,2934559.64,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25833,120734709.0,Thursday,No,2012-11-22T09:39:00.000,MVAcc,"[-71.09947, 42.314591]",Point,MVAcc,11,MVAINJ,577,E13,Day,No,SCHOOL ST,Part Three,Other,764496.7501,WASHINGTON ST,2939919.575,2012
+26761,120734563.0,Thursday,No,2012-11-22T05:00:00.000,MVAcc,"[-71.02616, 42.380411]",Point,MVAcc,11,MVA   ,17,A7,Last,No,SARATOGA ST,Part Three,Unarmed,784191.208,NEPTUNE RD,2964007.175,2012
+66380,120734900.0,Thursday,No,2012-11-22T13:23:00.000,MVAcc,"[-71.06064, 42.329261]",Point,MVAcc,11,MVA   ,191,C6,Day,No,SOUTHAMPTON ST,Part Three,Unarmed,774971.3358,FRONTAGE RD,2945317.271,2012
+181496,120734263.0,Thursday,No,2012-11-22T00:04:00.000,MVAcc,"[-71.13507, 42.354551]",Point,MVAcc,11,HITRUN,803,D14,Last,No,CAMBRIDGE ST,Part Three,Unarmed,754805.9038,RUGG RD,2954438.5519999997,2012

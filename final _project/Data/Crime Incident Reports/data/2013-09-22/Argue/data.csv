@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39941,130604101.0,Sunday,No,2013-09-22T00:35:00.000,Argue,"[-71.12903, 42.258421]",Point,Argue,9,ABANRE,545,E18,Last,No,GORDON AV,Part three,Unarmed,756590.8388,,2919414.2189999996,2013
+113807,130604858.0,Sunday,No,2013-09-22T10:27:00.000,Argue,"[-71.085345, 42.321786]",Point,Argue,9,NIDV  ,297,B2,Day,No,WALNUT AV,Part three,Unarmed,768304.3121,,2942559.81,2013
+164518,130604138.0,Sunday,No,2013-09-22T00:55:00.000,Argue,"[-71.089675, 42.287751]",Point,Argue,9,PKNIFE,431,B3,Last,No,ARBUTUS ST,Part three,Unarmed,767193.0006,,2930151.2569999998,2013

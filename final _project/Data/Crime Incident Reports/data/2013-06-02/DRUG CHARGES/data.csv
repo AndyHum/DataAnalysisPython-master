@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+144228,130333230.0,Sunday,No,2013-06-02T18:55:00.000,DRUG CHARGES,"[-71.16612, 42.275456]",Point,18xx,6,IVPREM,721,E5,First,No,HARTLAWN RD,Part Two,Unarmed,746526.0843,,2925580.534,2013
+189063,130343386.0,Sunday,No,2013-06-02T18:11:00.000,DRUG CHARGES,"[-71.073535, 42.336201]",Point,18xx,6,TRANSP,170,D4,First,No,HARRISON AV,Part Two,Other,771471.8664,,2947828.633,2013
+245519,130331644.0,Sunday,No,2013-06-02T01:51:00.000,DRUG CHARGES,"[-71.07251, 42.352266]",Point,18xx,6,TSTOP ,134,D4,Last,No,NEWBURY ST,Part Two,Unarmed,771719.655,ARLINGTON ST,2953684.403,2013

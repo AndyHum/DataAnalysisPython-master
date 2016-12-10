@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94282,130485853.0,Saturday,No,2013-08-03T02:00:00.000,InvProp,"[-71.086268, 42.306073]",Point,InvProp,8,IVPREM,319,B2,Last,No,SEAVER ST,Part three,Other,768082.2584,,2936832.35,2013
+128630,130485207.0,Saturday,No,2013-08-03T00:53:00.000,InvProp,"[-71.082755, 42.281741]",Point,InvProp,8,PDRPT ,417,B3,Last,No,EVANS ST,Part three,Unarmed,769076.1199,,2927970.212,2013
+223754,130483462.0,Saturday,No,2013-08-03T02:19:00.000,InvProp,"[-71.065955, 42.291082]",Point,InvProp,8,SHOTS ,396,C11,Last,No,MELBOURNE ST,Part three,Unarmed,773604.8812,,2931396.827,2013
+233895,130484864.0,Saturday,No,2013-08-03T18:48:00.000,InvProp,"[-71.105242, 42.280519]",Point,InvProp,8,MEET  ,477,B3,First,No,HARVARD ST,Part three,Unarmed,762993.0697,,2927495.6780000003,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83700,130552225.0,Saturday,No,2013-08-31T21:01:00.000,DISORDERLY,"[-71.035145, 42.368461]",Point,24xx,8,PARTY ,30,A7,First,No,MAVERICK ST,Part Two,Unarmed,781787.3559999999,,2959638.998,2013
+103670,130552299.0,Saturday,No,2013-08-31T21:20:00.000,DISORDERLY,"[-71.09571, 42.346071]",Point,24xx,8,ARREST,624,D4,First,No,VAN NESS ST,Part Two,Unarmed,765459.3216,IPSWICH ST,2951396.247,2013
+178366,130552246.0,Saturday,No,2013-08-31T20:57:00.000,DISORDERLY,"[-71.091325, 42.284861]",Point,24xx,8,ARREST,465,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766751.5911,,2929095.955,2013

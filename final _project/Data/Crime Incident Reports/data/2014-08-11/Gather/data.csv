@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3084,142018335.0,Monday,No,2014-08-11T15:46:00.000,Gather,"[-71.05582, 42.360091]",Point,Gather,8,PROTES,0,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2014
+84753,142018440.0,Monday,No,2014-08-11T17:30:00.000,Gather,"[-71.059415, 42.359251]",Point,Gather,8,PROTES,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+104420,142018353.0,Monday,No,2014-08-11T16:14:00.000,Gather,"[-71.110327, 42.32124]",Point,Gather,8,PROTES,0,E13,First,No,CENTRE ST,Part three,Unarmed,761549.0336,,2942329.0330000003,2014

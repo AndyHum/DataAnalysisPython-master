@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41842,130223719.0,Monday,No,2013-04-15T03:00:00.000,DISORDERLY,"[-71.042645, 42.319331]",Point,24xx,4,IVPER ,256,C6,Last,No,HARBOR POINT BL,Part Two,Unarmed,779856.6052,NORTH POINT DR,2941724.1960000005,2013
+64883,130223721.0,Monday,No,2013-04-15T03:00:00.000,DISORDERLY,"[-71.043581, 42.321064]",Point,24xx,4,IVPER ,256,C6,Last,No,N POINT DR,Part Two,Unarmed,779600.0536,PENINSULA PL,2942354.07,2013
+168812,130222801.0,Monday,No,2013-04-15T16:00:00.000,DISORDERLY,"[-71.071975, 42.334581]",Point,24xx,4,ARREST,171,D4,First,No,ALBANY ST,Part Two,Unarmed,771896.608,,2947240.389,2013

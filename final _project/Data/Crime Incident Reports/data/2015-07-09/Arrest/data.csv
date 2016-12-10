@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2669,,Thursday,No,2015-07-09T11:47:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,SS,949,C11,,No,BOWDOIN ST,Part Three,None,, QUINCY ST ,,2015
+112747,,Thursday,No,2015-07-09T00:00:00.000,Warrant Arrests,"[-71.031148, 42.331204]",Point,Arrest,7,NIDV,231,C6,,No,N ST,Part Three,None,782942.0,,2950000.0,2015
+136705,,Thursday,No,2015-07-09T00:00:00.000,Warrant Arrests,"[-71.083759, 42.31922]",Point,Arrest,7,ARREST,309,B2,,No,CHARLAME ST,Part Three,None,768738.0,,2940000.0,2015
+195645,,Thursday,No,2015-07-09T17:00:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,IVPER,427,B3,,No,BABSON ST,Part Three,None,,MILDRED AVE,,2015

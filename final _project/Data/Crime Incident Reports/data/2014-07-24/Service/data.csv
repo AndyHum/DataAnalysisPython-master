@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31928,142012341.0,Thursday,No,2014-07-24T08:19:00.000,Service,"[-71.09681, 42.321441]",Point,Service,7,ARREST,0,B2,Day,No,WEAVER CT,Part three,Unarmed,765204.3859,,2942419.2210000004,2014
+48072,142012354.0,Thursday,No,2014-07-24T08:45:00.000,Service,"[-71.06939, 42.339506]",Point,Service,7,CD9,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+98517,142012350.0,Thursday,No,2014-07-24T09:15:00.000,Service,"[-71.09045, 42.308695]",Point,Service,7,ARREST,0,B2,Day,No,SEAVER ST,Part three,Other,766946.5418,,2937782.313,2014
+193487,142012432.0,Thursday,No,2014-07-24T14:20:00.000,Service,"[-71.07523, 42.314351]",Point,Service,7,SS,0,B2,Day,No,HOWARD ST,Part three,Unarmed,771053.2396,CUNNINGHAM ST,2939863.833,2014
+207167,142012343.0,Thursday,No,2014-07-24T08:35:00.000,Service,"[-71.13209, 42.352991]",Point,Service,7,IVPER,0,D14,Day,No,BRIGHTON AV,Part three,Unarmed,755613.8322,HARVARD AV,2953873.517,2014
+216405,142012482.0,Thursday,No,2014-07-24T16:25:00.000,Service,"[-71.081656, 42.330447]",Point,Service,7,ARREST,0,B2,First,No,HARRISON AV,Part three,Unarmed,769286.3327,,2945720.856,2014
+247095,142012546.0,Thursday,No,2014-07-24T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,7,CD19,0,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014
+256400,142012433.0,Thursday,No,2014-07-24T14:23:00.000,Service,"[-71.07689, 42.331251]",Point,Service,7,ARREST,0,B2,Day,No,ALBANY ST,Part three,Unarmed,770573.7176,MELNEA CASS BL,2946020.247,2014

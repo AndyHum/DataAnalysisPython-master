@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30433,120803023.0,Sunday,No,2012-12-23T20:13:00.000,DISORDERLY,"[-71.103995, 42.333881]",Point,24xx,12,PERGUN,593,B2,First,No,TREMONT ST,Part Two,Other,763240.2622,,2946943.477,2012
+149175,120801768.0,Sunday,No,2012-12-23T02:23:00.000,DISORDERLY,"[-71.056015, 42.366386]",Point,24xx,12,ARREST,80,A1,Last,No,SHEAFE ST,Part Two,Other,776151.5198,,2958852.78,2012
+234245,120801627.0,Sunday,No,2012-12-23T00:48:00.000,DISORDERLY,"[-71.08417, 42.288116]",Point,24xx,12,SHOTS ,439,B3,Last,No,CALLENDER ST,Part Two,Firearm,768681.8887,,2930291.482,2012

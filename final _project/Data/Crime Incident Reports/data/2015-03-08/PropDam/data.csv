@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111235,152018950.0,Sunday,No,2015-03-08T21:00:00.000,PropDam,"[-71.1188, 42.306411]",Point,PropDam,3,PROP,0,E13,First,No,ST JOSEPH ST,Part three,Other,759281.9912,,2936914.69,2015
+211091,152018761.0,Sunday,No,2015-03-08T13:00:00.000,PropDam,"[-71.075705, 42.354561]",Point,PropDam,3,VAND,0,D4,Day,No,BEACON ST,Part three,Unarmed,770851.8769,,2954516.433,2015
+224734,152021111.0,Sunday,No,2015-03-08T15:00:00.000,PropDam,"[-71.0883, 42.342946]",Point,PropDam,3,PROP,0,D4,Day,No,SYMPHONY RD,Part three,Unarmed,767467.9634,,2950267.023,2015

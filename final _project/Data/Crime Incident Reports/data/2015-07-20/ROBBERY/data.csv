@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29270,,Monday,No,2015-07-20T06:30:00.000,Robbery,"[0, 0]",Point,03xx,7,ARMROB,153,D4,,No,PEMBROKE ST,Part One,Knife/Cutting Instrument,, WARREN AVE ,,2015
+71605,,Monday,No,2015-07-20T00:00:00.000,Robbery,"[-71.074364, 42.33556]",Point,03xx,7,STAB,171,D4,,No,HARRISON AVE,Part One,Knife/Cutting Instrument,771249.0,,2950000.0,2015
+144907,,Monday,No,2015-07-20T00:00:00.000,Robbery,"[-71.151043, 42.356661]",Point,03xx,7,HOMINV,768,D14,,No,N BEACON ST,Part One,Blunt Object,750485.0,,2960000.0,2015
+168986,,Monday,No,2015-07-20T19:59:00.000,Robbery,"[0, 0]",Point,03xx,7,I00040,276,B2,,No,WASHINGTON ST,Part One,None,,WILLIAMS ST,,2015
+177471,,Monday,No,2015-07-20T00:00:00.000,Robbery,"[-71.034397, 42.376227]",Point,03xx,7,I00040,22,A7,,No,HAVRE ST,Part One,None,781974.0,,2960000.0,2015
+241567,,Monday,No,2015-07-20T19:46:00.000,Robbery,"[0, 0]",Point,03xx,7,ASLTIP,908,B3,,No,FERMOY HEIGHTS AVE,Part One,None,, SHANDON RD ,,2015

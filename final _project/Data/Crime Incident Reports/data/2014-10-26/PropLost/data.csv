@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47772,142042836.0,Sunday,No,2014-10-26T00:30:00.000,PropLost,"[-71.15163, 42.349006]",Point,PropLost,10,PROP,0,D14,Last,No,WASHINGTON ST,Part three,Unarmed,750338.0816,,2952399.125,2014
+169587,142042929.0,Sunday,No,2014-10-26T16:00:00.000,PropLost,"[-71.12796, 42.290991]",Point,PropLost,10,PROP,0,E5,First,No,MENDUM ST,Part three,Unarmed,756828.7238,FAIRVIEW ST,2931284.454,2014
+184872,142044163.0,Sunday,No,2014-10-26T07:00:00.000,PropLost,"[-71.070415, 42.332156]",Point,PropLost,10,PROP,0,C6,Last,No,SOUTHAMPTON ST,Part three,Unarmed,772322.8506,,2946358.797,2014
+263414,142043464.0,Sunday,No,2014-10-26T00:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,PROP,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,,,,2014

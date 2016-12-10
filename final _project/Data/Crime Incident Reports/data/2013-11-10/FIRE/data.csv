@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30540,130716203.0,Sunday,No,2013-11-10T20:10:00.000,FIRE,"[-71.16302, 42.288991]",Point,FIRE,11,MISC  ,739,E5,First,No,VERMONT ST,Part three,Other,747345.5584,,2930516.1969999997,2013
+73693,130715070.0,Sunday,No,2013-11-10T04:00:00.000,FIRE,"[-71.05395, 42.378346]",Point,FIRE,11,FIREB ,900,A15,Last,No,DECATUR ST,Part three,Other,776686.7773,,2963214.159,2013
+199486,130715810.0,Sunday,No,2013-11-10T16:04:00.000,FIRE,"[-71.118305, 42.246991]",Point,FIRE,11,FIREB ,515,E18,First,No,WASHINGTON ST,Part three,Other,759512.7854,,2915261.793,2013

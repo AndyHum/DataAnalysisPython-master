@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24412,142026635.0,Friday,No,2014-09-05T10:00:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,9,IVPER,0,C6,Day,No,N POINT DR,Other,Unarmed,780248.572,,2942010.5539999995,2014
+194134,142026574.0,Friday,No,2014-09-05T06:45:00.000,PersLoc,"[-71.0904, 42.280796]",Point,PersLoc,9,MISSIN,0,B3,Last,No,HOSMER ST,Other,Unarmed,767009.0082,,2927615.818,2014
+225502,142028435.0,Friday,No,2014-09-05T06:30:00.000,PersLoc,"[-71.090055, 42.294061]",Point,PersLoc,9,IVPER,0,B3,Last,No,WILBERT RD,Other,Unarmed,767079.1298,,2932450.22,2014
+251757,142026543.0,Friday,No,2014-09-05T18:10:00.000,PersLoc,"[-71.08084, 42.281579]",Point,PersLoc,9,IVPER,0,B3,First,No,MAXWELL ST,Other,Unarmed,769594.6205,,2927913.646,2014

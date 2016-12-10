@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47247,140093423.0,Friday,No,2014-02-14T09:33:00.000,PropFound,"[-71.076409, 42.272737]",Point,PropFound,2,IVMV  ,409,B3,Day,No,IDAHO ST,Part three,Unarmed,770809.5069,,2924697.293,2014
+143294,140094857.0,Friday,No,2014-02-14T21:05:00.000,PropFound,"[-71.04948, 42.349101]",Point,PropFound,2,FDPROP,205,C6,First,No,A ST,Part three,Unarmed,777950.8239,MELCHER ST,2952563.0560000003,2014
+183776,140093867.0,Friday,No,2014-02-14T09:00:00.000,PropFound,"[-71.163555, 42.277366]",Point,PropFound,2,FDPROP,691,E5,Day,No,SPRING ST,Part three,Unarmed,747217.5137,,2926279.2939999998,2014
+229248,140120594.0,Friday,No,2014-02-14T19:00:00.000,PropFound,"[-71.134874, 42.353333]",Point,PropFound,2,LARCRT,794,D14,First,No,BRIGHTON AV,Part three,Unarmed,754860.65,,2953994.954,2014

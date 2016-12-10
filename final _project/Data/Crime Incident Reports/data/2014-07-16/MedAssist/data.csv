@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12938,142009784.0,Wednesday,No,2014-07-16T16:00:00.000,MedAssist,"[-71.03853, 42.330581]",Point,MedAssist,7,UNCONS,0,C6,First,No,MARINE RD,Part three,Unarmed,780947.2996,,2945829.874,2014
+15478,142009634.0,Wednesday,No,2014-07-16T08:00:00.000,MedAssist,"[-71.05479, 42.356021]",Point,MedAssist,7,UNKEMS,0,A1,Day,No,PEARL ST,Part three,Unarmed,776502.2815,FRANKLIN ST,2955077.297,2014
+47300,142009807.0,Wednesday,No,2014-07-16T17:20:00.000,MedAssist,"[-71.06122, 42.365521]",Point,MedAssist,7,MVA,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+58420,142009618.0,Wednesday,No,2014-07-16T03:40:00.000,MedAssist,"[-71.06653, 42.317671]",Point,MedAssist,7,INVEST,0,B2,Last,No,DUDLEY ST,Part three,Other,773400.1362,VIRGINIA ST,2941085.5330000003,2014
+99792,142048611.0,Wednesday,No,2014-07-16T15:30:00.000,MedAssist,"[-71.144474, 42.35124]",Point,MedAssist,7,IVPER,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,752268.8271,,2953220.935,2014
+127733,142009810.0,Wednesday,No,2014-07-16T16:32:00.000,MedAssist,"[-71.05296, 42.316931]",Point,MedAssist,7,BE,0,C11,First,No,HARBOR VIEW ST,Part three,Unarmed,777071.5659,,2940834.809,2014
+141865,142010824.0,Wednesday,No,2014-07-16T08:00:00.000,MedAssist,"[-71.078025, 42.353926]",Point,MedAssist,7,CARDIA,0,D4,Day,No,BEACON ST,Part three,Unarmed,770225.9404,,2954281.917,2014
+142289,142009667.0,Wednesday,No,2014-07-16T10:26:00.000,MedAssist,"[-71.05224, 42.337611]",Point,MedAssist,7,IVPER,0,C6,Day,No,D ST,Part three,Unarmed,777226.7316,,2948371.966,2014
+186100,142009776.0,Wednesday,No,2014-07-16T16:05:00.000,MedAssist,"[-71.064041, 42.330883]",Point,MedAssist,7,CARDIA,0,C6,First,No,SOUTHAMPTON ST,Part three,Unarmed,774048.6618,,2945903.515,2014
+198787,142009916.0,Wednesday,No,2014-07-16T23:12:00.000,MedAssist,"[-71.05282, 42.315066]",Point,MedAssist,7,CARDIA,0,C11,First,No,HARTLAND ST,Part three,Unarmed,777112.9926,,2940155.3710000003,2014
+215471,142009753.0,Wednesday,No,2014-07-16T14:33:00.000,MedAssist,"[-71.06563, 42.307516]",Point,MedAssist,7,AB,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773662.3883,,2937386.1289999997,2014

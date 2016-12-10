@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57343,142032113.0,Tuesday,No,2014-09-23T08:25:00.000,Service,"[-71.070835, 42.331511]",Point,Service,9,ARREST,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2014
+174480,142032393.0,Tuesday,No,2014-09-23T22:30:00.000,Service,"[-71.02546, 42.379991]",Point,Service,9,ARREST,0,A7,First,No,BENNINGTON ST,Part three,Unarmed,784381.1872,NEPTUNE RD,2963855.17,2014
+226989,142032166.0,Tuesday,No,2014-09-23T12:10:00.000,Service,"[-71.063675, 42.352301]",Point,Service,9,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+231608,142032130.0,Tuesday,No,2014-09-23T10:00:00.000,Service,"[-71.054711, 42.341305]",Point,Service,9,ARREST,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014

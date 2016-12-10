@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+654,152036806.0,Tuesday,No,2015-05-05T20:15:00.000,FIRE,"[0, 0]",Point,FIRE,5,FIRE,0,C6,First,No,PILSUDSKI WY,Part three,Unarmed,,,,2015
+207635,152036706.0,Tuesday,No,2015-05-05T15:51:00.000,FIRE,"[-71.101, 42.262756]",Point,FIRE,5,FIRE,0,E18,Day,No,MASSASOIT ST,Part three,Unarmed,764171.3039,,2921028.1969999997,2015
+212907,152036600.0,Tuesday,No,2015-05-05T09:29:00.000,FIRE,"[-71.159855, 42.281546]",Point,FIRE,5,FO,0,E5,Day,No,LAGRANGE ST,Part three,Unarmed,748212.7492,CHAPIN AV,2927806.52,2015

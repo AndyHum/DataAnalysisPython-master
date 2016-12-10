@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65501,152015582.0,Wednesday,No,2015-02-25T03:45:00.000,PersLoc,"[-71.1002, 42.268416]",Point,PersLoc,2,IVPER,0,E18,Last,No,FAIRLAWN AV,Other,Unarmed,764378.1779,,2923091.789,2015
+159972,152015270.0,Wednesday,No,2015-02-25T15:15:00.000,PersLoc,"[-71.05635, 42.296031]",Point,PersLoc,2,REQEP,0,C11,Day,No,ADAMS ST,Other,Unarmed,776194.3422,,2933213.744,2015
+220655,152030304.0,Wednesday,No,2015-02-25T11:00:00.000,PersLoc,"[-71.085118, 42.298635]",Point,PersLoc,2,IVPER,0,B3,Day,No,ESMOND ST,Other,Unarmed,768406.6291,,2934123.522,2015
+257669,152015343.0,Wednesday,No,2015-02-25T07:45:00.000,PersLoc,"[-71.091579, 42.290769]",Point,PersLoc,2,IVPER,0,B3,Day,No,HARVARD ST,Other,Unarmed,766672.5502,,2931248.311,2015
+267769,152015322.0,Wednesday,No,2015-02-25T13:19:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,IVPER,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,,,,2015

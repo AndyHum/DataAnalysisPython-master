@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42396,142043953.0,Wednesday,No,2014-10-29T18:20:00.000,PersLoc,"[-71.0615, 42.317306]",Point,PersLoc,10,IVPER,0,C11,First,No,ANNAPOLIS ST,Other,Unarmed,774761.1883,,2940959.475,2014
+89562,142043933.0,Wednesday,No,2014-10-29T18:01:00.000,PersLoc,"[-71.118026, 42.285446]",Point,PersLoc,10,MISSIN,0,E18,First,No,PHILBRICK ST,Other,Unarmed,759525.4425,,2929275.562,2014
+101825,142043978.0,Wednesday,No,2014-10-29T15:00:00.000,PersLoc,"[-71.09307, 42.284131]",Point,PersLoc,10,MISSIN,0,B3,Day,No,DEERING RD,Other,Unarmed,766280.6819,,2928827.6780000003,2014

@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+952,152038342.0,Sunday,No,2015-05-10T20:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,ALARM,0,B3,First,No,NORFOLK ST,Part three,Unarmed,,,,2015
+955,152038183.0,Sunday,No,2015-05-10T07:30:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,IVPER,0,A1,Day,No,TYLER ST,Part three,Unarmed,,,,2015
+19764,152038323.0,Sunday,No,2015-05-10T20:01:00.000,MedAssist,"[-71.065145, 42.306276]",Point,MedAssist,5,EDP,0,C11,First,No,MT IDA RD,Part three,Unarmed,773795.8821,,2936934.922,2015
+26194,152038226.0,Sunday,No,2015-05-10T08:44:00.000,MedAssist,"[-71.056775, 42.281351]",Point,MedAssist,5,CARDIA,0,C11,Day,No,GRANVILLE ST,Part three,Unarmed,776106.9185,,2927863.521,2015
+36563,152038379.0,Sunday,No,2015-05-10T22:55:00.000,MedAssist,"[-71.070311, 42.310124]",Point,MedAssist,5,NIDV,0,C11,First,No,MT EVERETT ST,Part three,Unarmed,772391.3521,,2938329.9689999996,2015
+53981,152038295.0,Sunday,No,2015-05-10T17:48:00.000,MedAssist,"[-71.099695, 42.330611]",Point,MedAssist,5,REQEP,0,B2,First,No,ALLEGHANY ST,Part three,Unarmed,764408.5,,2945757.258,2015
+97943,152038156.0,Sunday,No,2015-05-10T02:50:00.000,MedAssist,"[-71.090755, 42.269537]",Point,MedAssist,5,STAB,0,B3,Last,No,RIVER ST,Part three,Knife,766932.4073,,2923512.3660000004,2015
+123467,152038174.0,Sunday,No,2015-05-10T05:13:00.000,MedAssist,"[-71.059357, 42.28831]",Point,MedAssist,5,EDP,0,C11,Last,No,WRENTHAM ST,Part three,Knife,775395.2132,,2930395.613,2015
+128851,152038232.0,Sunday,No,2015-05-10T12:20:00.000,MedAssist,"[-71.053666, 42.329958]",Point,MedAssist,5,REQP,0,C6,Day,No,VINTON ST,Part three,Unarmed,776855.6936,,2945580.857,2015
+150865,152038167.0,Sunday,No,2015-05-10T01:55:00.000,MedAssist,"[-71.098105, 42.331431]",Point,MedAssist,5,EDP,0,B2,Last,No,SEWALL ST,Part three,Other,764837.0182,,2946058.1,2015
+162543,152038362.0,Sunday,No,2015-05-10T21:38:00.000,MedAssist,"[-71.06827, 42.303356]",Point,MedAssist,5,POISON,0,C11,First,No,TOPLIFF ST,Part three,Other,772955.9566,,2935866.535,2015
+193405,152038292.0,Sunday,No,2015-05-10T17:43:00.000,MedAssist,"[-71.038605, 42.348716]",Point,MedAssist,5,UNCONS,0,C6,First,No,NORTHERN AV,Part three,Unarmed,780891.2712,,2952438.4710000004,2015
+218378,152038296.0,Sunday,No,2015-05-10T17:26:00.000,MedAssist,"[-71.064281, 42.318925]",Point,MedAssist,5,POISON,0,B2,First,No,HOLDEN ST,Part three,Unarmed,774005.8519,,2941545.3,2015

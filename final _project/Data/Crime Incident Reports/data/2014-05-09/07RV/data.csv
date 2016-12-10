@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68412,140285718.0,Friday,No,2014-05-09T14:10:00.000,07RV,"[-71.084546, 42.307865]",Point,07RV,5,RECMV ,319,B2,Day,No,SCHUYLER ST,Other,Unarmed,768545.0937,,2937487.548,2014
+78504,140285905.0,Friday,No,2014-05-09T16:00:00.000,07RV,"[-71.040135, 42.379591]",Point,07RV,5,RECMV ,26,A7,First,No,BORDER ST,Other,Other,780417.0241,,2963687.684,2014
+117802,140286105.0,Friday,No,2014-05-09T16:34:00.000,07RV,"[-71.04071, 42.367431]",Point,07RV,5,RECMV ,35,A7,First,No,LEWIS ST,Other,Unarmed,780285.5278,MARGINAL ST,2959255.498,2014

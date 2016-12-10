@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4479,120443796.0,Wednesday,No,2012-07-18T22:55:00.000,PropDam,"[-71.145857, 42.351592]",Point,PropDam,7,HAZ   ,782,D14,First,No,DUSTIN ST,Part Three,Unarmed,751894.4896,GARDENA ST,2953347.787,2012
+37770,120442879.0,Wednesday,No,2012-07-18T14:48:00.000,PropDam,"[-71.154289, 42.28644]",Point,PropDam,7,PDRPT ,695,E5,Day,No,CENTRE ST,Part Three,Other,749711.5888,,2929595.788,2012
+112367,120442818.0,Wednesday,No,2012-07-18T14:45:00.000,PropDam,"[-71.08785, 42.350376]",Point,PropDam,7,DWNPWR,140,D4,Day,No,MARLBOROUGH ST,Part Three,Unarmed,767576.5314,,2952975.2430000002,2012
+164386,120443349.0,Wednesday,No,2012-07-18T18:00:00.000,PropDam,"[-71.08785, 42.350376]",Point,PropDam,7,INVEST,139,D4,First,No,MARLBOROUGH ST,Part Three,Other,767576.5314,,2952975.2430000002,2012

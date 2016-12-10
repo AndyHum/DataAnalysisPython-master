@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12408,140109321.0,Friday,No,2014-02-21T18:13:00.000,Hazardous,"[-71.069055, 42.337746]",Point,Hazardous,2,REQP  ,167,D4,First,No,E CANTON ST,Other,Unarmed,772680.2889,,2948397.747,2014
+68229,140108940.0,Friday,No,2014-02-21T15:34:00.000,Hazardous,"[-71.054905, 42.330616]",Point,Hazardous,2,IVPREM,0,C6,Day,No,DORCHESTER ST,Other,Unarmed,776519.5096,,2945819.097,2014
+108239,140112713.0,Friday,No,2014-02-21T22:50:00.000,Hazardous,"[-71.07494, 42.329821]",Point,Hazardous,2,IVPER ,269,B2,First,No,HAMPDEN ST,Other,Unarmed,771103.5809999999,KEMBLE ST,2945501.751,2014

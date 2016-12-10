@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66422,140154132.0,Thursday,No,2014-03-13T14:00:00.000,BENoProp,"[-71.077707, 42.28625]",Point,BENoProp,3,ARREST,435,B3,Day,No,EDSON ST,Part One,Unarmed,770433.7566,,2929619.983,2014
+74401,140154311.0,Thursday,No,2014-03-13T15:40:00.000,BENoProp,"[-71.077707, 42.28625]",Point,BENoProp,3,ARREST,435,B3,Day,No,EDSON ST,Part One,Unarmed,770433.7566,,2929619.983,2014
+98776,140154049.0,Thursday,No,2014-03-13T13:24:00.000,BENoProp,"[-71.077985, 42.317371]",Point,BENoProp,3,TRESPS,324,B2,Day,No,BLUE HILL AV,Part One,Other,770302.6631,,2940960.672,2014
+192383,140153406.0,Thursday,No,2014-03-13T08:07:00.000,BENoProp,"[-71.066552, 42.314692]",Point,BENoProp,3,ARREST,332,C11,Day,No,BIRD ST,Part One,Other,773399.5187,,2939999.607,2014

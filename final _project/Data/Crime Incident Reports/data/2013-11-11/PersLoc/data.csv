@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85119,130716841.0,Monday,No,2013-11-11T07:30:00.000,PersLoc,"[-71.06543, 42.348736]",Point,PersLoc,11,MSNCOM,127,A1,Day,No,TREMONT ST,Other,Unarmed,773639.9559,,2952407.6739999996,2013
+249240,130717786.0,Monday,No,2013-11-11T17:50:00.000,PersLoc,"[-71.06749, 42.306571]",Point,PersLoc,11,MISPER,335,C11,First,No,HAMILTON ST,Other,Unarmed,773161.0159,,2937039.2,2013
+249433,130718459.0,Monday,No,2013-11-11T07:00:00.000,PersLoc,"[-71.06013, 42.305676]",Point,PersLoc,11,MISPER,347,C11,Last,No,LINDEN ST,Other,Unarmed,775153.5618,,2936723.231,2013
+258767,130717394.0,Monday,No,2013-11-11T13:55:00.000,PersLoc,"[-71.14971, 42.353671]",Point,PersLoc,11,REQEP ,769,D14,Day,No,MORROW RD,Other,Unarmed,750850.1117,,2954101.273,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54905,130388961.0,Tuesday,No,2013-06-25T19:09:00.000,PubDrink,"[-71.076375, 42.307291]",Point,PubDrink,6,SSTOP ,329,B2,First,No,COLUMBIA RD,Part Two,Unarmed,770756.3344,,2937289.517,2013
+192506,130388590.0,Tuesday,No,2013-06-25T16:51:00.000,PubDrink,"[-71.08462, 42.329591]",Point,PubDrink,6,GANG  ,0,B2,First,No,WASHINGTON ST,Part Two,Other,768486.5259,ROXBURY ST,2945405.04,2013
+258584,130387094.0,Tuesday,No,2013-06-25T12:20:00.000,PubDrink,"[-71.04206, 42.317766]",Point,PubDrink,6,MISC  ,256,C6,Day,No,MT VERNON ST,Part Two,Other,780017.8828,,2941154.74,2013

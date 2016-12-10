@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6050,120731776.0,Tuesday,No,2012-11-20T22:00:00.000,InvProp,"[-71.08446, 42.306031]",Point,InvProp,11,SHOTS ,330,B2,First,No,PASADENA RD,Part Three,Unarmed,768571.6174,BLUE HILL AV,2936819.5960000004,2012
+105455,120729855.0,Tuesday,No,2012-11-20T03:45:00.000,InvProp,"[-71.083303, 42.302514]",Point,InvProp,11,REMOVE,458,B3,Last,No,MICHIGAN AV,Part Three,Unarmed,768890.6104,,2935539.2180000003,2012
+201390,120729810.0,Tuesday,No,2012-11-20T02:29:00.000,InvProp,"[-71.057506, 42.377612]",Point,InvProp,11,DVIP  ,900,A15,Last,No,OREILLY WY,Part Three,Unarmed,775727.2191,,2962941.7210000004,2012

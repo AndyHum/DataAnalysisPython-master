@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45987,152018788.0,Sunday,No,2015-03-08T17:01:00.000,DRUG CHARGES,"[-71.06519, 42.282616]",Point,18xx,3,ARREST,0,C11,First,No,DORCHESTER AV,Part Two,Other,773827.6609,,2928312.814,2015
+61527,152018798.0,Sunday,No,2015-03-08T18:30:00.000,DRUG CHARGES,"[-71.093165, 42.285576]",Point,18xx,3,TS,0,B3,First,No,MORTON ST,Part Two,Unarmed,766252.4605,,2929354.1319999998,2015
+64891,152018801.0,Sunday,No,2015-03-08T18:45:00.000,DRUG CHARGES,"[-71.064905, 42.352371]",Point,18xx,3,IVPER,0,A1,First,No,BOYLSTON ST,Part Two,Other,773775.1158,,2953733.06,2015
+219294,152018633.0,Sunday,No,2015-03-08T00:00:00.000,DRUG CHARGES,"[-71.040695, 42.319091]",Point,18xx,3,IVPER,0,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780384.4415,,2941639.57,2015
+263129,152018803.0,Sunday,No,2015-03-08T18:40:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,3,TS,0,E13,First,No,CENTRE ST,Part Two,Other,,,,2015
+263492,152018817.0,Sunday,No,2015-03-08T19:20:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,3,TS,0,B2,First,No,HARRISON AV,Part Two,Other,,,,2015

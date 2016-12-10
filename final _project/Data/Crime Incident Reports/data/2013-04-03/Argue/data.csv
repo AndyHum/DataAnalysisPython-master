@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70495,130194712.0,Wednesday,No,2013-04-03T08:00:00.000,Argue,"[-71.073465, 42.317921]",Point,Argue,4,REMOVE,260,B2,Day,No,HARTFORD TR,Part Three,Unarmed,771524.1048,,2941167.182,2013
+135049,130194311.0,Wednesday,No,2013-04-03T00:22:00.000,Argue,"[-71.073465, 42.317921]",Point,Argue,4,IVPREM,260,B2,Last,No,HARTFORD TR,Part Three,Other,771524.1048,,2941167.182,2013
+147999,130194356.0,Wednesday,No,2013-04-03T00:46:00.000,Argue,"[-71.078125, 42.316551]",Point,Argue,4,IVPER ,311,B2,Last,No,BLUE HILL AV,Part Three,Unarmed,770266.2773,,2940661.664,2013
+157489,130194526.0,Wednesday,No,2013-04-03T04:03:00.000,Argue,"[-71.135695, 42.353041]",Point,Argue,4,DVIP  ,795,D14,Last,No,HIGGINS ST,Part Three,Unarmed,754639.3194,,2953887.5560000003,2013
+183023,130196001.0,Wednesday,No,2013-04-03T17:30:00.000,Argue,"[-71.08893, 42.343806]",Point,Argue,4,DISTRB,619,D4,First,No,WESTLAND AV,Part Three,Unarmed,767296.1359,,2950579.599,2013
+264124,130196534.0,Wednesday,No,2013-04-03T11:00:00.000,Argue,"[0, 0]",Point,Argue,4,ARREST,652,E13,Day,No,HAMPSTEAD ST,Part Three,Unarmed,,,,2013

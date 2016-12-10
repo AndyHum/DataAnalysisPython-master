@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58693,120598125.0,Sunday,No,2012-09-23T11:48:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,9,IVPER ,639,E13,Day,No,CENTRE STREET TR,Part Three,Other,,,,2012
+185936,120602595.0,Sunday,No,2012-09-23T11:38:00.000,PhoneCalls,"[-71.072025, 42.381026]",Point,PhoneCalls,9,HARPT ,50,A15,Day,No,RUTHERFORD AV,Part Three,Unarmed,771798.1666,,2964165.7860000003,2012
+232091,120623404.0,Sunday,No,2012-09-23T09:00:00.000,PhoneCalls,"[-71.03922, 42.379016]",Point,PhoneCalls,9,HARPT ,26,A7,Day,No,MERIDIAN ST,Part Three,Unarmed,780665.3756,,2963479.477,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5030,130108753.0,Thursday,No,2013-02-21T20:15:00.000,Service,"[-71.05498, 42.317241]",Point,Service,2,IVPER ,257,C11,First,No,HARBOR VIEW ST,Part Three,Unarmed,776524.6605,,2940944.921,2013
+18104,130107601.0,Thursday,No,2013-02-21T10:00:00.000,Service,"[-71.08507, 42.328881]",Point,Service,2,STAB  ,288,B2,Day,No,DUDLEY ST,Part Three,Knife,768366.1044,WASHINGTON ST,2945145.712,2013
+65601,130107994.0,Thursday,No,2013-02-21T14:13:00.000,Service,"[-71.008841, 42.385972]",Point,Service,2,ARREST,12,A7,Day,No,BENNINGTON ST,Part Three,Unarmed,788858.6962,,2966060.0089999996,2013
+85631,130107039.0,Thursday,No,2013-02-21T01:00:00.000,Service,"[-71.08696, 42.281611]",Point,Service,2,ARREST,428,B3,Last,No,MORTON ST,Part Three,Unarmed,767938.4574,NORFOLK ST,2927917.2989999996,2013
+91027,130108253.0,Thursday,No,2013-02-21T16:31:00.000,Service,"[-71.13821, 42.347561]",Point,Service,2,ARREST,793,D14,First,No,ALLSTON ST,Part Three,Unarmed,753967.984,KELTON ST,2951887.639,2013
+185930,130108662.0,Thursday,No,2013-02-21T19:46:00.000,Service,"[0, 0]",Point,Service,2,AOD   ,0,C6,First,No,FRONTAGE RD,Part Three,Unarmed,,,,2013
+235191,130108790.0,Thursday,No,2013-02-21T21:03:00.000,Service,"[-71.11529, 42.278001]",Point,Service,2,ARREST,499,E18,First,No,CUMMINS HY,Part Three,Unarmed,760278.1405,MT CALVARY RD,2926565.913,2013
+245362,130107609.0,Thursday,No,2013-02-21T10:40:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,ARREST,111,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774107.7181,,2953709.249,2013

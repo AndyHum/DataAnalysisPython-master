@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65265,140275114.0,Monday,No,2014-05-05T13:00:00.000,LICViol,"[-71.049807, 42.361889]",Point,LICViol,5,CD35  ,90,A1,Day,No,COMMERCIAL WF,Part three,Unarmed,777837.7028,,2957222.7569999998,2014
+107525,140276343.0,Monday,No,2014-05-05T21:25:00.000,LICViol,"[-71.039415, 42.368976]",Point,LICViol,5,SSTOP ,29,A7,First,No,MAVERICK SQ,Part three,Unarmed,780632.4456,,2959820.414,2014
+214106,140275184.0,Monday,No,2014-05-05T13:45:00.000,LICViol,"[-71.072665, 42.353186]",Point,LICViol,5,CD35  ,133,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,771676.0783,,2954019.46,2014

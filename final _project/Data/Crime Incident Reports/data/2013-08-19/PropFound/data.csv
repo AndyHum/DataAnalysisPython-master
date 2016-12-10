@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16561,130522968.0,Monday,No,2013-08-19T15:32:00.000,PropFound,"[-71.121909, 42.320483]",Point,PropFound,8,INVEST,610,E13,Day,No,PERKINS ST,Part three,Unarmed,758418.175,,2942038.8189999997,2013
+21078,130522979.0,Monday,No,2013-08-19T12:30:00.000,PropFound,"[-71.085415, 42.332941]",Point,PropFound,8,FDPROP,276,B2,Day,No,RUGGLES ST,Part three,Unarmed,768265.6242,,2946624.7939999998,2013
+61470,130523875.0,Monday,No,2013-08-19T22:15:00.000,PropFound,"[-71.077748, 42.348631]",Point,PropFound,8,LSTPRP,130,D4,First,No,HUNTINGTON AV,Part three,Unarmed,770310.163,,2952352.43,2013

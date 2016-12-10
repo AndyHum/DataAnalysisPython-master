@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21667,130596707.0,Thursday,No,2013-09-19T03:24:00.000,WEAPONS CHARGE,"[-71.08358, 42.282947]",Point,15xx,9,ARREST,433,B3,Last,No,CORBET ST,Part Two,Firearm,768850.6286,,2928408.4869999997,2013
+93987,130597360.0,Thursday,No,2013-09-19T11:25:00.000,WEAPONS CHARGE,"[-71.150915, 42.348981]",Point,15xx,9,IVPER ,778,D14,Day,No,WASHINGTON ST,Part Two,Unarmed,750531.3965,,2952390.805,2013
+156637,130597771.0,Thursday,No,2013-09-19T12:30:00.000,WEAPONS CHARGE,"[-71.150915, 42.348981]",Point,15xx,9,IVPER ,778,D14,Day,No,WASHINGTON ST,Part Two,Unarmed,750531.3965,,2952390.805,2013

@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1203,152039224.0,Wednesday,No,2015-05-13T16:15:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,ASLTIP,0,C6,First,No,MT VERNON ST,Part three,Unarmed,,,,2015
+20498,152039230.0,Wednesday,No,2015-05-13T15:09:00.000,MedAssist,"[-71.066885, 42.362496]",Point,MedAssist,5,UNKEMS,0,A1,Day,No,BLOSSOM ST,Part three,Unarmed,773221.1808,,2957420.083,2015
+63275,152039297.0,Wednesday,No,2015-05-13T20:00:00.000,MedAssist,"[-71.060725, 42.370351]",Point,MedAssist,5,UNKEMS,0,A15,First,No,CHARLES RIVER AV,Part three,Unarmed,774871.2359,,2960291.1160000004,2015
+112586,152039287.0,Wednesday,No,2015-05-13T19:15:00.000,MedAssist,"[-71.171875, 42.283488]",Point,MedAssist,5,IVPER,0,E5,First,No,VFW PY,Part three,Other,744957.1478,,2928501.313,2015
+133043,152039301.0,Wednesday,No,2015-05-13T19:29:00.000,MedAssist,"[-71.06063, 42.303276]",Point,MedAssist,5,EDP,0,C11,First,No,ADAMS ST,Part three,Unarmed,775022.818,,2935847.935,2015
+161084,152039036.0,Wednesday,No,2015-05-13T00:30:00.000,MedAssist,"[-71.127195, 42.248256]",Point,MedAssist,5,EDP,0,E18,Last,No,HYDE PARK AV,Part three,Unarmed,757103.7718,,2915712.128,2015
+167502,152039348.0,Wednesday,No,2015-05-13T23:18:00.000,MedAssist,"[-71.062898, 42.274177]",Point,MedAssist,5,REQP,0,C11,First,No,ADAMS ST,Part three,Knife,774463.5996,,2925240.475,2015
+167519,152039207.0,Wednesday,No,2015-05-13T15:40:00.000,MedAssist,"[-71.03685, 42.379501]",Point,MedAssist,5,IVPER,0,A7,Day,No,EUTAW ST,Part three,Unarmed,781304.7602,,2963659.69,2015
+172203,152039096.0,Wednesday,No,2015-05-13T09:45:00.000,MedAssist,"[-71.082369, 42.2954]",Point,MedAssist,5,MVA,0,B3,Day,No,NIGHTINGALE ST,Part three,Unarmed,769155.9872,BERNARD ST,2932948.2830000003,2015
+183294,152039050.0,Wednesday,No,2015-05-13T02:55:00.000,MedAssist,"[-71.072122, 42.300294]",Point,MedAssist,5,EDP,0,C11,Last,No,BOWDOIN ST,Part three,Unarmed,771919.4938,,2934745.1569999997,2015
+192493,152039055.0,Wednesday,No,2015-05-13T05:43:00.000,MedAssist,"[-71.06521, 42.349691]",Point,MedAssist,5,REQP,0,A1,Last,No,TREMONT ST,Part three,Unarmed,773697.6517,,2952755.997,2015
+208437,152039346.0,Wednesday,No,2015-05-13T23:20:00.000,MedAssist,"[-71.008436, 42.39263]",Point,MedAssist,5,EDP,0,A7,First,No,VALLAR RD,Part three,Unarmed,788954.13,,2968486.8839999996,2015
+221709,152039051.0,Wednesday,No,2015-05-13T03:14:00.000,MedAssist,"[-71.059969, 42.355867]",Point,MedAssist,5,IVPER,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,775102.6197,BROMFIELD ST,2955013.727,2015
+243005,152039198.0,Wednesday,No,2015-05-13T14:46:00.000,MedAssist,"[-71.097081, 42.319472]",Point,MedAssist,5,PKNIFE,0,B2,Day,No,DIMOCK ST,Part three,Knife,765134.3663,,2941701.057,2015

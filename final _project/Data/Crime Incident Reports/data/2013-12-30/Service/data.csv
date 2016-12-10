@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12589,130820396.0,Monday,No,2013-12-30T18:00:00.000,Service,"[-71.06577, 42.302076]",Point,Service,12,VANRPT,345,C11,First,No,RIDGEWOOD ST,Part three,Unarmed,773634.6072,,2935403.522,2013
+29670,130818403.0,Monday,No,2013-12-30T13:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,12,MISCRP,165,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+136009,130819525.0,Monday,No,2013-12-30T23:19:00.000,Service,"[-71.073461, 42.302702]",Point,Service,12,REQP  ,462,C11,First,No,ROSSETER ST,Part three,Unarmed,771552.865,,2935621.039,2013
+150904,130818125.0,Monday,No,2013-12-30T10:41:00.000,Service,"[-71.067057, 42.275931]",Point,Service,12,CD11  ,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773334.5963,,2925874.0289999996,2013
+222225,130818597.0,Monday,No,2013-12-30T15:00:00.000,Service,"[-71.10479, 42.334141]",Point,Service,12,ARREST,600,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,763024.8693,TREMONT ST,2947037.227,2013

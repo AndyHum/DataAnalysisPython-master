@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97121,130196143.0,Wednesday,No,2013-04-03T18:51:00.000,PhoneCalls,"[-71.052771, 42.366131]",Point,PhoneCalls,4,SEXOFF,87,A1,First,No,HANOVER ST,Part Three,Other,777028.4692,,2958764.232,2013
+170456,130196213.0,Wednesday,No,2013-04-03T19:00:00.000,PhoneCalls,"[-71.085875, 42.316854]",Point,PhoneCalls,4,MISC  ,313,B2,First,No,TOWNSEND ST,Part Three,Other,768169.7113,,2940761.772,2013
+179547,130196559.0,Wednesday,No,2013-04-03T18:00:00.000,PhoneCalls,"[-71.148575, 42.287141]",Point,PhoneCalls,4,HARPT ,691,E5,First,No,CENTRE ST,Part Three,Other,751256.7891,,2929857.7989999996,2013

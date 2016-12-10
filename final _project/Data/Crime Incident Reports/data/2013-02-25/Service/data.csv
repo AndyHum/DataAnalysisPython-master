@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37222,130115623.0,Monday,No,2013-02-25T13:00:00.000,Service,"[-71.06447, 42.280316]",Point,Service,2,REQP  ,388,C11,Day,No,GALLIVAN BL,Part Three,Unarmed,774026.7734,,2927475.6569999997,2013
+37385,130116594.0,Monday,No,2013-02-25T21:19:00.000,Service,"[-71.06018, 42.313976]",Point,Service,2,BEIP  ,823,C11,First,No,HESSTON TR,Part Three,Unarmed,775124.4421,,2939747.808,2013
+49924,130115065.0,Monday,No,2013-02-25T08:26:00.000,Service,"[-71.06209, 42.343981]",Point,Service,2,SDNDTH,162,D4,Day,No,TRAVELER ST,Part Three,Unarmed,774551.7134,ALBANY ST,2950679.482,2013
+84676,130116195.0,Monday,No,2013-02-25T17:49:00.000,Service,"[-71.05385, 42.337311]",Point,Service,2,ARREST,936,C6,First,No,ORTON MAROTTA WY,Part Three,Unarmed,776792.0166,,2948260.361,2013
+138204,130116456.0,Monday,No,2013-02-25T19:50:00.000,Service,"[-71.11822, 42.351311]",Point,Service,2,MVAINJ,797,D14,First,No,COMMONWEALTH AV,Part Three,Unarmed,759365.6442,PLEASANT ST,2953277.767,2013
+171021,130116324.0,Monday,No,2013-02-25T19:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,2,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2013
+234928,130115518.0,Monday,No,2013-02-25T12:36:00.000,Service,"[-71.069255, 42.281066]",Point,Service,2,ARREST,403,C11,Day,No,CROFTLAND AV,Part Three,Unarmed,772730.5224,,2927742.3910000003,2013

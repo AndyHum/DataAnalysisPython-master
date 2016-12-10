@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16120,140033099.0,Friday,No,2014-01-17T05:35:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,1,LSTPRP,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+32670,140040473.0,Friday,No,2014-01-17T00:00:00.000,PropLost,"[-71.06891, 42.361076]",Point,PropLost,1,LSTPRP,66,A1,Last,No,CAMBRIDGE ST,Part three,Other,772676.5208,,2956899.834,2014
+35587,140209228.0,Friday,No,2014-01-17T08:00:00.000,PropLost,"[-71.069527, 42.351443]",Point,PropLost,1,LARCRT,120,A1,Day,No,PARK PLAZA,Part three,Unarmed,772527.4805,,2953388.3860000004,2014
+226211,140045610.0,Friday,No,2014-01-17T07:00:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,1,LSTPRP,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014

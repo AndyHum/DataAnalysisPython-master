@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25197,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.075777, 42.343722]",Point,14xx,7,IVMV,153,D4,,No,W CANTON ST,Part Two,None,770852.0,,2950000.0,2015
+44591,,Friday,No,2015-07-17T11:44:00.000,Vandalism,"[0, 0]",Point,14xx,7,IVMV,0,,,No,,Part Two,None,,COMMONWEALTH AVE,,2015
+70343,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.070248, 42.33081]",Point,14xx,7,VAND,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772370.0,,2950000.0,2015
+93990,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.070444, 42.329695]",Point,14xx,7,VAND,178,B2,,No,POMPEII ST,Part Two,None,772319.0,,2950000.0,2015
+100930,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.076628, 42.33675]",Point,14xx,7,PROP,170,D4,,No,WASHINGTON ST,Part Two,None,770635.0,,2950000.0,2015
+118989,,Friday,No,2015-07-17T02:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,361,C11,,No,CENTRE ST,Part Two,None,,NIXON ST,,2015
+129282,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.057955, 42.357838]",Point,14xx,7,,97,A1,,No,WASHINGTON ST,Part Two,None,775643.0,,2960000.0,2015
+136676,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.122428, 42.254445]",Point,14xx,7,VAND,521,E18,,No,MAPLE ST,Part Two,None,758384.0,,2920000.0,2015
+140090,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.101343, 42.325971]",Point,14xx,7,VAND,906,E13,,No,BICKFORD ST,Part Two,None,763971.0,,2940000.0,2015
+140091,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.101343, 42.325971]",Point,14xx,7,VAND,906,E13,,No,BICKFORD ST,Part Two,None,763971.0,,2940000.0,2015
+166439,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.070264, 42.319172]",Point,14xx,7,VAND,183,B2,,No,DUDLEY ST,Part Two,None,772387.0,,2940000.0,2015
+183476,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.08872, 42.342391]",Point,14xx,7,VAND,619,D4,,No,GAINSBOROUGH ST,Part Two,None,767355.0,,2950000.0,2015
+215628,,Friday,No,2015-07-17T17:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,281,B2,,No,MORELAND ST,Part Two,None,, WARREN ST ,,2015
+228490,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.073505, 42.281544]",Point,14xx,7,VAND,417,B3,,No,FULLER ST,Part Two,None,771579.0,,2930000.0,2015
+239940,,Friday,No,2015-07-17T00:00:00.000,Vandalism,"[-71.071887, 42.293606]",Point,14xx,7,IVPREM,359,C11,,No,WASHINGTON ST,Part Two,None,771995.0,,2930000.0,2015

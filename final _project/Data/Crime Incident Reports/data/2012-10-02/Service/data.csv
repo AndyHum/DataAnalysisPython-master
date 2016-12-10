@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78295,120619746.0,Tuesday,No,2012-10-02T14:05:00.000,Service,"[-71.049529, 42.309551]",Point,Service,10,ARREST,252,C11,Day,No,GRAMPIAN WY,Part Three,Unarmed,778013.6283,,2938150.038,2012
+101759,120619760.0,Tuesday,No,2012-10-02T13:45:00.000,Service,"[-71.08924, 42.291211]",Point,Service,10,SSTOP ,440,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,767304.6314,WESTVIEW ST,2931412.6980000003,2012
+158859,120619311.0,Tuesday,No,2012-10-02T10:41:00.000,Service,"[-71.07769, 42.314031]",Point,Service,10,SSTOP ,325,B2,Day,No,DACIA ST,Part Three,Unarmed,770388.4734,QUINCY ST,2939743.916,2012
+232532,120619342.0,Tuesday,No,2012-10-02T10:55:00.000,Service,"[-71.08898, 42.285451]",Point,Service,10,SSTOP ,0,B3,Day,No,LUCERNE ST,Part Three,Unarmed,767385.0922,HARWOOD ST,2929314.01,2012

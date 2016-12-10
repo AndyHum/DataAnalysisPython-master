@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122519,142049277.0,Saturday,No,2014-11-15T18:40:00.000,Ballist,"[-71.057255, 42.378436]",Point,Ballist,11,CD11,0,A15,First,No,WALFORD WY,Part Two,Other,775793.6252,,2963242.3039999995,2014
+123619,142049276.0,Saturday,No,2014-11-15T05:48:00.000,Ballist,"[-71.0806, 42.295401]",Point,Ballist,11,SSA,0,B3,Last,No,BERNARD ST,Part Two,Unarmed,769634.7966,,2932950.9710000004,2014
+150107,142049237.0,Saturday,No,2014-11-15T15:50:00.000,Ballist,"[-71.145856, 42.256202]",Point,Ballist,11,IVPREM,0,E5,Day,No,MARGARETTA DR,Part Two,Unarmed,752039.0539,,2918586.099,2014

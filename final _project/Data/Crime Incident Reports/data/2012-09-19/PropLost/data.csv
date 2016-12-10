@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17173,120681614.0,Wednesday,No,2012-09-19T00:00:00.000,PropLost,"[-71.058565, 42.326581]",Point,PropLost,9,MISC  ,187,C6,Last,No,BOSTON ST,Part Three,Other,775537.4725,,2944343.5310000004,2012
+31724,120590354.0,Wednesday,No,2012-09-19T22:10:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,9,LARCRT,119,A1,First,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2012
+106656,120593660.0,Wednesday,No,2012-09-19T17:00:00.000,PropLost,"[-71.05783, 42.358771]",Point,PropLost,9,LSTPRP,97,A1,First,No,COURT ST,Part Three,Unarmed,775675.4145,WASHINGTON ST,2956075.1760000004,2012
+166039,120591363.0,Wednesday,No,2012-09-19T08:00:00.000,PropLost,"[-71.097005, 42.335451]",Point,PropLost,9,LSTPRP,901,B2,Day,No,WARD ST,Part Three,Unarmed,765127.5287,,2947524.4639999997,2012
+206036,120589656.0,Wednesday,No,2012-09-19T17:00:00.000,PropLost,"[-71.085219, 42.300836]",Point,PropLost,9,LSTPRP,457,B3,First,No,MCCLELLAN HY,Part Three,Unarmed,768375.5219,,2934925.1569999997,2012
+241405,120591326.0,Wednesday,No,2012-09-19T11:00:00.000,PropLost,"[-71.071365, 42.284885]",Point,PropLost,9,LSTPRP,402,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,772152.4973,,2929130.9869999997,2012
+255984,120590699.0,Wednesday,No,2012-09-19T13:00:00.000,PropLost,"[-71.10208, 42.335261]",Point,PropLost,9,LSTPRP,612,B2,Day,No,HUNTINGTON AV,Part Three,Unarmed,763755.6968,,2947448.7830000003,2012
+265488,120589139.0,Wednesday,No,2012-09-19T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,72,A1,First,No,AVENUE DE LAFAYETTE,Part Three,Unarmed,,,,2012

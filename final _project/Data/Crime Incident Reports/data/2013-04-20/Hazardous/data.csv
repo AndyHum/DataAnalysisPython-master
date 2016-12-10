@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+201051,130233370.0,Saturday,No,2013-04-20T17:12:00.000,Hazardous,"[-71.03601, 42.378311]",Point,Hazardous,4,EXPLOS,23,A7,First,No,LEXINGTON ST,Part Three,Unarmed,781534.0756,,2963227.264,2013
+201663,130232818.0,Saturday,No,2013-04-20T11:10:00.000,Hazardous,"[-71.05388, 42.356581]",Point,Hazardous,4,REQP  ,109,A1,Day,No,FRANKLIN ST,Part Three,Other,776747.1753,OLIVER ST,2955282.6580000003,2013
+213380,130231746.0,Saturday,No,2013-04-20T20:00:00.000,Hazardous,"[-71.06979, 42.352031]",Point,Hazardous,4,HAZ   ,120,A1,First,No,BOYLSTON ST,Part Three,Unarmed,772455.3123,,2953602.461,2013

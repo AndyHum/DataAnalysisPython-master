@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26063,,Saturday,No,2015-08-01T00:00:00.000,Larceny From Motor Vehicle,"[-71.067828, 42.360802]",Point,06MV,8,ADMRPT,66,A1,,No,ANDERSON ST,Part One,None,772969.0,,2960000.0,2015
+163805,,Saturday,No,2015-08-01T00:00:00.000,Larceny From Motor Vehicle,"[-71.072573, 42.384156]",Point,06MV,8,BE,37,A15,,No,MAIN ST,Part One,None,771644.0,,2970000.0,2015
+164481,,Saturday,No,2015-08-01T01:00:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,8,BE,0,,,No,,Part One,None,,BELVIDERE ST,,2015
+178234,,Saturday,No,2015-08-01T00:00:00.000,Larceny From Motor Vehicle,"[-71.086246, 42.351722]",Point,06MV,8,BE,139,D4,,No,BEACON ST,Part One,None,768008.0,,2950000.0,2015
+237418,,Saturday,No,2015-08-01T00:00:00.000,Larceny From Motor Vehicle,"[-71.081862, 42.344013]",Point,06MV,8,BE,145,D4,,No,SAINT BOTOLPH ST,Part One,None,769206.0,,2950000.0,2015

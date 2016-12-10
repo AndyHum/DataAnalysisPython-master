@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121556,130455482.0,Wednesday,No,2012-08-01T12:00:00.000,EMBEZELLMENT,"[-71.07214, 42.295661]",Point,12xx,8,LARCRT,452,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,771923.1415,,2933057.087,2012
+197128,120507620.0,Wednesday,No,2012-08-01T10:00:00.000,EMBEZELLMENT,"[-71.061155, 42.357256]",Point,12xx,8,LARCRT,103,A1,Day,No,TREMONT ST,Part Two,Unarmed,774779.5911,,2955518.44,2012
+265750,140115075.0,Wednesday,No,2012-08-01T08:00:00.000,EMBEZELLMENT,"[0, 0]",Point,12xx,8,LARCRT,96,A1,Day,No,CENTRAL WF,Part Two,Unarmed,,,,2012

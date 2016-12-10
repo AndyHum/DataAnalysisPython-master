@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10257,,Monday,No,2015-08-03T00:00:00.000,Police Service Incidents,"[-71.076067, 42.347623]",Point,Service,8,ARREST,130,D4,,No,DARTMOUTH ST,Part Three,None,770766.0,,2950000.0,2015
+21226,,Monday,No,2015-08-03T00:00:00.000,Police Service Incidents,"[-71.042916, 42.335506]",Point,Service,8,CD11,225,C6,,No,E BROADWAY,Part Three,None,779751.0,,2950000.0,2015
+179342,,Monday,No,2015-08-03T00:00:00.000,Police Service Incidents,"[-71.080577, 42.337441]",Point,Service,8,INVEST,937,D4,,No,CAMDEN ST,Part Three,None,769566.0,,2950000.0,2015

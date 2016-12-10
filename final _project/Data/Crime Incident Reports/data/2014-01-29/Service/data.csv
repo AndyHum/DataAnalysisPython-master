@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8311,140058466.0,Wednesday,No,2014-01-29T09:42:00.000,Service,"[-71.114525, 42.302651]",Point,Service,1,IVPER ,651,E13,Day,No,SOUTH ST,Part three,Unarmed,760444.5696,,2935549.682,2014
+46853,140058680.0,Wednesday,No,2014-01-29T11:31:00.000,Service,"[-71.08829, 42.294066]",Point,Service,1,IVMV  ,330,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767556.6446,,2932454.341,2014
+52851,140058035.0,Wednesday,No,2014-01-29T01:54:00.000,Service,"[-71.09154, 42.284251]",Point,Service,1,ARREST,428,B3,Last,No,MORTON ST,Part three,Unarmed,766694.479,BLUE HILL AV,2928873.385,2014
+74158,140058592.0,Wednesday,No,2014-01-29T10:48:00.000,Service,"[-71.06031, 42.299771]",Point,Service,1,ARREST,351,C11,Day,No,LINCOLN ST,Part three,Unarmed,775115.9656,DORCHESTER AV,2934571.107,2014
+153707,140058562.0,Wednesday,No,2014-01-29T10:33:00.000,Service,"[-71.07948, 42.292411]",Point,Service,1,ARREST,439,B3,Day,No,TALBOT AV,Part three,Unarmed,769943.1805,BERNARD ST,2931862.863,2014

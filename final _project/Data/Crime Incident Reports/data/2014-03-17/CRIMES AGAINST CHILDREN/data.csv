@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2974,140163502.0,Monday,No,2014-03-17T17:22:00.000,CRIMES AGAINST CHILDREN,"[-71.117294, 42.259383]",Point,20xx,3,IVPER ,494,E18,First,No,RIVER ST,Part Two,Other,759766.2593,,2919778.597,2014
+148194,140163964.0,Monday,No,2014-03-17T19:45:00.000,CRIMES AGAINST CHILDREN,"[-71.039277, 42.381676]",Point,20xx,3,KIDNAP,26,A7,First,No,MERIDIAN ST,Part Two,Unarmed,780644.6138,,2964448.77,2014
+213876,140163535.0,Monday,No,2014-03-17T17:40:00.000,CRIMES AGAINST CHILDREN,"[-71.063873, 42.325436]",Point,20xx,3,CD19  ,0,C6,First,No,ALLSTATE RD,Part Two,Other,774104.1328,,2943918.604,2014

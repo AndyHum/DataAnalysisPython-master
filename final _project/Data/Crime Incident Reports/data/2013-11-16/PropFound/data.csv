@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15599,130728126.0,Saturday,No,2013-11-16T12:20:00.000,PropFound,"[-71.10158, 42.312451]",Point,PropFound,11,FDPROP,571,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763929.7123,FOREST HILLS ST,2939137.0519999997,2013
+90586,130728533.0,Saturday,No,2013-11-16T16:00:00.000,PropFound,"[-71.056735, 42.360596]",Point,PropFound,11,FDPROP,102,A1,First,No,UNION ST,Part three,Unarmed,775967.9099,,2956741.778,2013
+159700,130728228.0,Saturday,No,2013-11-16T13:17:00.000,PropFound,"[-71.080976, 42.339931]",Point,PropFound,11,FDWEAP,155,D4,Day,No,MASSACHUSETTS AV,Part three,Firearm,769453.3173,,2949177.707,2013
+191349,130728952.0,Saturday,No,2013-11-16T20:30:00.000,PropFound,"[-71.039085, 42.369936]",Point,PropFound,11,LARCRT,27,A7,First,No,MAVERICK SQ,Part three,Unarmed,780719.7315,,2960170.738,2013
+261210,130727742.0,Saturday,No,2013-11-16T07:30:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,566,B2,Day,No,JEWISH WAR VETERANS,Part three,Unarmed,,,,2013

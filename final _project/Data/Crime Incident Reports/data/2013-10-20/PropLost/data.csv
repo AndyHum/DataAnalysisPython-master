@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29561,130671794.0,Sunday,No,2013-10-20T15:30:00.000,PropLost,"[-71.06166, 42.364266]",Point,PropLost,10,LSTPRP,75,A1,Day,No,PORTLAND ST,Part three,Unarmed,774629.9723,,2958072.32,2013
+40999,130682820.0,Sunday,No,2013-10-20T14:30:00.000,PropLost,"[0, 0]",Point,PropLost,10,IVPER ,282,B2,Day,No,TREMONT ST,Part three,Unarmed,,WASHINGTON ST,,2013
+75631,130693493.0,Sunday,No,2013-10-20T12:00:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,10,LSTPRP,282,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+106550,130671874.0,Sunday,No,2013-10-20T20:00:00.000,PropLost,"[-71.070835, 42.331511]",Point,PropLost,10,LSTPRP,177,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2013
+191660,130669244.0,Sunday,No,2013-10-20T11:00:00.000,PropLost,"[-71.12247, 42.250051]",Point,PropLost,10,MEET  ,516,E18,Day,No,TRUMAN PY,Part three,Unarmed,758380.1632,DANA AV,2916371.876,2013
+216703,130669494.0,Sunday,No,2013-10-20T00:00:00.000,PropLost,"[-71.13085, 42.352856]",Point,PropLost,10,LSTPRP,796,D14,Last,No,BRIGHTON AV,Part three,Unarmed,755949.2183,,2953825.769,2013
+222607,130688916.0,Sunday,No,2013-10-20T12:00:00.000,PropLost,"[-71.14741, 42.353681]",Point,PropLost,10,LSTPRP,771,D14,Day,No,ETNA ST,Part three,Unarmed,751471.7818,,2954107.478,2013

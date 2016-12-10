@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+891,152037601.0,Friday,No,2015-05-08T08:19:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,UNKEMS,0,E5,Day,No,BROOKWAY TR,Part three,Unarmed,,,,2015
+38998,152037556.0,Friday,No,2015-05-08T00:28:00.000,MedAssist,"[-71.065491, 42.305384]",Point,MedAssist,5,REQEP,0,C11,Last,No,DRAPER ST,Part three,Unarmed,773703.9466,,2936609.337,2015
+51723,152047532.0,Friday,No,2015-05-08T18:28:00.000,MedAssist,"[-71.140916, 42.349989]",Point,MedAssist,5,INVEST,0,D14,First,No,CAMELOT CT,Part three,Unarmed,753232.5233,,2952769.203,2015
+59489,152037590.0,Friday,No,2015-05-08T07:11:00.000,MedAssist,"[-71.076105, 42.320506]",Point,MedAssist,5,UNCONS,0,B2,Last,No,W COTTAGE ST,Part three,Unarmed,770805.4354,,2942105.64,2015
+87241,152037581.0,Friday,No,2015-05-08T05:08:00.000,MedAssist,"[-71.067384, 42.365755]",Point,MedAssist,5,UNKEMS,0,A1,Last,No,WHITTIER PL,Part three,Unarmed,773080.2704,,2958606.917,2015
+95832,152037712.0,Friday,No,2015-05-08T12:42:00.000,MedAssist,"[-71.06214, 42.354561]",Point,MedAssist,5,IVPER,0,A1,Day,No,WEST ST,Part three,Unarmed,774518.4056,WASHINGTON ST,2954534.963,2015
+132832,152037853.0,Friday,No,2015-05-08T23:04:00.000,MedAssist,"[-71.07708, 42.287021]",Point,MedAssist,5,UNCONS,0,B3,First,No,WHITMAN ST,Part three,Unarmed,770602.2625,,2929901.88,2015
+148447,152037859.0,Friday,No,2015-05-08T23:16:00.000,MedAssist,"[-71.03926, 42.368586]",Point,MedAssist,5,EDP,0,A7,First,No,SUMNER ST,Part three,Unarmed,780675.0997,,2959678.517,2015
+162654,152037568.0,Friday,No,2015-05-08T02:21:00.000,MedAssist,"[-71.055595, 42.378741]",Point,MedAssist,5,EDP,0,A15,Last,No,STARR KING CT,Part three,Unarmed,776241.5629,,2963355.785,2015
+181251,152037583.0,Friday,No,2015-05-08T04:38:00.000,MedAssist,"[-71.076495, 42.289841]",Point,MedAssist,5,INJOFF,0,B3,Last,No,SOUTHERN AV,Part three,Unarmed,770755.4486,ELMHURST ST,2930930.314,2015
+217748,152037930.0,Friday,No,2015-05-08T16:53:00.000,MedAssist,"[-71.085618, 42.32866]",Point,MedAssist,5,INJOFF,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+252456,152037822.0,Friday,No,2015-05-08T20:30:00.000,MedAssist,"[-71.06228, 42.319881]",Point,MedAssist,5,UNKEMS,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,774545.4197,,2941896.7630000003,2015

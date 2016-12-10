@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7825,120702089.0,Tuesday,No,2012-11-06T09:00:00.000,PersLoc,"[-71.084315, 42.322643]",Point,PersLoc,11,MISPER,297,B2,Day,No,FENNO ST,Part Three,Unarmed,768581.2072,,2942873.4239999996,2012
+65414,120700803.0,Tuesday,No,2012-11-06T20:00:00.000,PersLoc,"[-71.11029, 42.333471]",Point,PersLoc,11,TRANSP,605,B2,First,No,NEW WHITNEY ST,Part Three,Unarmed,761538.8883,,2946786.225,2012
+142713,120700951.0,Tuesday,No,2012-11-06T19:30:00.000,PersLoc,"[-71.12024, 42.251331]",Point,PersLoc,11,MSNCOM,516,E18,First,No,TRUMAN PY,Part Three,Unarmed,758981.8366,,2916841.0039999997,2012
+189681,120700156.0,Tuesday,No,2012-11-06T18:33:00.000,PersLoc,"[-71.096105, 42.321479]",Point,PersLoc,11,MISPER,304,B2,First,No,WEAVER WY,Part Three,Unarmed,765394.9806,,2942433.733,2012

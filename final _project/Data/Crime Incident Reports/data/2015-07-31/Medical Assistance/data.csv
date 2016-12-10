@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9062,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.057914, 42.377364]",Point,MedAssist,7,EDP,900,A15,,No,BUNKER HILL ST,Part Three,None,775618.0,,2960000.0,2015
+17978,,Friday,No,2015-07-31T08:00:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,INJOFF,173,C6,,No,FRONTAGE RD,Part Three,None,,W BROADWAY,,2015
+46117,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.053791, 42.359287]",Point,MedAssist,7,INJOFF,94,A1,,No,STATE ST,Part Three,None,776766.0,,2960000.0,2015
+50232,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.148703, 42.347242]",Point,MedAssist,7,IVPER,777,D14,,No,WASHINGTON ST,Part Three,None,751132.0,,2950000.0,2015
+79518,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.07787, 42.336196]",Point,MedAssist,7,INJ,273,D4,,No,NORTHAMPTON ST,Part Three,None,770300.0,,2950000.0,2015
+117962,,Friday,No,2015-07-31T20:06:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,I00015,806,D14,,No,LEO M BIRMINGHAM PKWY,Part Three,None,,WESTERN AVE,,2015
+133545,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.065041, 42.362392]",Point,MedAssist,7,UNCONS,0,,,No,WILLIAM CARDINAL O'CONNEL,Part Three,None,773720.0,STANIFORD ST,2960000.0,2015
+139295,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.09168, 42.283896]",Point,MedAssist,7,REQP,466,B3,,No,BLUE HILL AVE,Part Three,None,766657.0,,2930000.0,2015
+148253,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.068419, 42.297685]",Point,MedAssist,7,AOD,358,C11,,No,LINDSEY ST,Part Three,None,772926.0,,2930000.0,2015
+186278,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.081036, 42.317859]",Point,MedAssist,7,NIDV,311,B2,,No,MAYWOOD ST,Part Three,None,769477.0,,2940000.0,2015
+224479,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.06881, 42.379649]",Point,MedAssist,7,ALARM,53,A15,,No,MEAD ST,Part Three,None,772669.0,,2960000.0,2015
+229587,,Friday,No,2015-07-31T00:00:00.000,Medical Assistance,"[-71.077791, 42.326819]",Point,MedAssist,7,IVPER,267,B2,,No,FOREST ST,Part Three,None,770338.0,,2940000.0,2015

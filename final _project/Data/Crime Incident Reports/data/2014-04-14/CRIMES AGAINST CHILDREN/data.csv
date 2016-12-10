@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+139421,140226939.0,Monday,No,2014-04-14T17:45:00.000,CRIMES AGAINST CHILDREN,"[-71.0781, 42.298361]",Point,20xx,4,INVCHD,0,B3,First,No,RADCLIFFE ST,Part Two,Other,770305.6703,,2934032.814,2014
+171985,140227368.0,Monday,No,2014-04-14T17:00:00.000,CRIMES AGAINST CHILDREN,"[-71.145856, 42.256202]",Point,20xx,4,INVCHD,822,E5,First,No,MARGARETTA DR,Part Two,Unarmed,752039.0539,,2918586.099,2014
+204931,140227953.0,Monday,No,2014-04-14T23:40:00.000,CRIMES AGAINST CHILDREN,"[-71.057735, 42.298051]",Point,20xx,4,INVEST,355,C11,First,No,GIBSON ST,Part Two,Unarmed,775815.8226,,2933947.916,2014

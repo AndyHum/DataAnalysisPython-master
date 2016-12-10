@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76492,142010372.0,Friday,No,2014-07-18T13:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,7,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+88799,142010233.0,Friday,No,2014-07-18T03:20:00.000,PropFound,"[-71.061643, 42.275418]",Point,PropFound,7,IVPER,0,C11,Last,No,ADAMS ST,Part three,Unarmed,774800.8407,,2925694.515,2014
+160188,142010401.0,Friday,No,2014-07-18T15:03:00.000,PropFound,"[-71.05437, 42.280411]",Point,PropFound,7,IVPREM,0,C11,Day,No,MILTON ST,Part three,Unarmed,776759.7564,,2927524.394,2014
+175117,142010563.0,Friday,No,2014-07-18T02:00:00.000,PropFound,"[-71.122727, 42.28318]",Point,PropFound,7,PROP,0,E5,Last,No,JOHNSWOOD RD,Part three,Other,758257.1704,,2928444.18,2014
+177814,142010256.0,Friday,No,2014-07-18T07:00:00.000,PropFound,"[-71.055985, 42.363381]",Point,PropFound,7,IVPER,0,A1,Last,No,SALEM ST,Part three,Unarmed,776165.3272,,2957757.7410000004,2014
+218263,142010227.0,Friday,No,2014-07-18T02:37:00.000,PropFound,"[-71.039731, 42.347751]",Point,PropFound,7,PROP,0,C6,Last,No,CONGRESS ST,Part three,Unarmed,780588.7721,,2952085.0689999997,2014
+233047,142010555.0,Friday,No,2014-07-18T23:00:00.000,PropFound,"[-71.06435, 42.352341]",Point,PropFound,7,IVPREM,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,773925.1896,,2953722.893,2014

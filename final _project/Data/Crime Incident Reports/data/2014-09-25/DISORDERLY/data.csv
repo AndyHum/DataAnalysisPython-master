@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64867,142033002.0,Thursday,No,2014-09-25T15:05:00.000,DISORDERLY,"[-71.07497, 42.325271]",Point,24xx,9,SS,0,B2,Day,No,DUDLEY ST,Part Two,Unarmed,771103.7314,BLUE HILL AV,2943843.613,2014
+82862,142033050.0,Thursday,No,2014-09-25T19:28:00.000,DISORDERLY,"[-71.13335, 42.278041]",Point,24xx,9,ARREST,0,E5,First,No,KITTREDGE ST,Part Two,Firearm,755390.6595,CORNELL ST,2926558.9639999997,2014
+92023,142032986.0,Thursday,No,2014-09-25T15:50:00.000,DISORDERLY,"[-71.07202, 42.294776]",Point,24xx,9,ARREST,0,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,771957.225,,2932734.7430000002,2014

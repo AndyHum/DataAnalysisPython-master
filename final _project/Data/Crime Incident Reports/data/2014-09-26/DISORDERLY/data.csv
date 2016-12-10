@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5713,142033165.0,Friday,No,2014-09-26T01:20:00.000,DISORDERLY,"[-71.130451, 42.35065]",Point,24xx,9,BE,0,D14,Last,No,COMMONWEALTH AV,Part Two,Other,756060.5505,,2953022.06,2014
+178534,142033147.0,Friday,No,2014-09-26T05:19:00.000,DISORDERLY,"[-71.008841, 42.385972]",Point,24xx,9,ARREST,0,A7,Last,No,BENNINGTON ST,Part Two,Unarmed,788858.6962,,2966060.0089999996,2014
+179121,142033317.0,Friday,No,2014-09-26T15:30:00.000,DISORDERLY,"[-71.137625, 42.352416]",Point,24xx,9,FIGHT,0,D14,Day,No,ARMINGTON ST,Part Two,Unarmed,754118.6065,,2953657.5710000005,2014

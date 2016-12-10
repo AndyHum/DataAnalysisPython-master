@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30323,130164200.0,Wednesday,No,2013-03-20T12:15:00.000,PropLost,"[-71.121202, 42.254393]",Point,PropLost,3,LSTPRP,521,E18,Day,No,OAK ST,Part Three,Unarmed,758716.3214,,2917955.4480000003,2013
+33193,130390933.0,Wednesday,No,2013-03-20T12:00:00.000,PropLost,"[-71.0938, 42.268671]",Point,PropLost,3,LSTPRP,476,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766109.9741,FAIRWAY ST,2923192.898,2013
+128488,130166558.0,Wednesday,No,2013-03-20T21:30:00.000,PropLost,"[-71.056765, 42.310466]",Point,PropLost,3,LSTPRP,254,C11,First,No,AUCKLAND ST,Part Three,Unarmed,776054.7316,,2938473.49,2013

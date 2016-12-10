@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111111,130621678.0,Sunday,No,2013-09-29T16:30:00.000,DISORDERLY,"[-71.039065, 42.369421]",Point,24xx,9,FIGHT ,27,A7,First,No,MAVERICK SQ,Part Two,Unarmed,780726.1501,,2959983.091,2013
+205940,130620653.0,Sunday,No,2013-09-29T02:10:00.000,DISORDERLY,"[-71.032385, 42.331111]",Point,24xx,9,ARREST,231,C6,Last,No,HARDY ST,Part Two,Unarmed,782607.8186,,2946032.062,2013
+208165,130621999.0,Sunday,No,2013-09-29T19:00:00.000,DISORDERLY,"[-71.065145, 42.306276]",Point,24xx,9,ARREST,340,C11,First,No,MT IDA RD,Part Two,Unarmed,773795.8821,,2936934.922,2013

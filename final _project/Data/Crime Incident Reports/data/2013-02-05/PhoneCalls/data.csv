@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60064,130135452.0,Tuesday,No,2013-02-05T20:40:00.000,PhoneCalls,"[-71.052715, 42.374741]",Point,PhoneCalls,2,IVPER ,38,A15,First,No,8TH ST,Part Three,Other,777027.3537,,2961902.17,2013
+101046,130075645.0,Tuesday,No,2013-02-05T18:45:00.000,PhoneCalls,"[-71.15578, 42.264688]",Point,PhoneCalls,2,IVPER ,712,E5,First,No,ROCKINGHAM AV,Part Three,Other,749340.247,,2921667.5330000003,2013
+227114,130078126.0,Tuesday,No,2013-02-05T14:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,2,HARPT ,361,C11,Day,No,CLEMENTINE PARK,Part Three,Unarmed,,,,2013

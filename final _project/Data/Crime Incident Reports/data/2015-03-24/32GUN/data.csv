@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+173926,152023878.0,Tuesday,No,2015-03-24T20:29:00.000,32GUN,"[-71.0595, 42.279931]",Point,32GUN,3,DVIP,0,C11,First,No,MILTON ST,Part three,Unarmed,775372.4311,,2927342.265,2015
+266843,152023885.0,Tuesday,No,2015-03-24T21:00:00.000,32GUN,"[0, 0]",Point,32GUN,3,FDWEAP,0,C11,First,No,CLAYTON ST,Part three,Unarmed,,DICKENS ST,,2015

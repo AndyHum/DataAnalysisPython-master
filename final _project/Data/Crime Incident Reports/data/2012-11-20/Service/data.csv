@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17922,120731330.0,Tuesday,No,2012-11-20T17:32:00.000,Service,"[-71.112411, 42.284053]",Point,Service,11,SSTOP ,0,E18,First,No,AMERICAN LEGION HY,Part Three,Unarmed,761047.1773,,2928774.728,2012
+55275,120731700.0,Tuesday,No,2012-11-20T20:53:00.000,Service,"[-71.101383, 42.324122]",Point,Service,11,ARREST,912,E13,First,No,PARKER ST,Part Three,Unarmed,763963.0763,,2943390.236,2012
+70672,120757189.0,Tuesday,No,2012-11-20T17:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,11,INJOFF,72,A1,First,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+136956,120730578.0,Tuesday,No,2012-11-20T12:15:00.000,Service,"[-71.063675, 42.352301]",Point,Service,11,ARREST,0,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774107.7181,,2953709.249,2012
+151948,120730499.0,Tuesday,No,2012-11-20T12:00:00.000,Service,"[-71.0708, 42.333203]",Point,Service,11,CD4   ,175,C6,Day,No,BRADSTON ST,Part Three,Other,772216.8065,,2946739.535,2012
+168773,120731008.0,Tuesday,No,2012-11-20T15:10:00.000,Service,"[-71.05987, 42.351191]",Point,Service,11,ARREST,116,A1,Day,No,BEACH ST,Part Three,Other,775138.3074,HUDSON ST,2953310.028,2012
+244364,130760787.0,Tuesday,No,2012-11-20T00:00:00.000,Service,"[-71.04625, 42.354256]",Point,Service,11,ARREST,207,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2012

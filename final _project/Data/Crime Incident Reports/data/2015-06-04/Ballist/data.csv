@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103440,152046394.0,Thursday,No,2015-06-04T11:00:00.000,Ballist,"[-71.121518, 42.259493]",Point,Ballist,6,IVPER,0,E18,Day,No,LINCOLN ST,Part Two,Unarmed,758622.6047,,2919813.5110000004,2015
+238188,152046236.0,Thursday,No,2015-06-04T17:29:00.000,Ballist,"[-71.08467, 42.333141]",Point,Ballist,6,REQP,0,B2,First,No,DEWITT DR,Part Two,Firearm,768466.7055,RUGGLES ST,2946698.6569999997,2015
+246930,152046318.0,Thursday,No,2015-06-04T20:57:00.000,Ballist,"[-71.097745, 42.313436]",Point,Ballist,6,SHOTS,0,E13,First,No,SCHOOL ST,Part Two,Firearm,764965.2859,,2939500.8710000003,2015

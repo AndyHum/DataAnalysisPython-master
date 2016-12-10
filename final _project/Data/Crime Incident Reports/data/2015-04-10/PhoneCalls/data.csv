@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107924,152029039.0,Friday,No,2015-04-10T09:30:00.000,PhoneCalls,"[-71.0651, 42.350151]",Point,PhoneCalls,4,IVPER,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773726.5315,,2952923.7810000004,2015
+127614,152029171.0,Friday,No,2015-04-10T16:38:00.000,PhoneCalls,"[-71.170385, 42.354986]",Point,PhoneCalls,4,IVPER,0,D14,First,No,PRESENTATION RD,Part three,Unarmed,745259.8411,,2954558.213,2015
+180453,152029194.0,Friday,No,2015-04-10T19:30:00.000,PhoneCalls,"[-71.105529, 42.327046]",Point,PhoneCalls,4,IVPER,0,B2,First,No,LAWN ST,Part three,Unarmed,762836.9766,,2944450.575,2015
+199019,152030391.0,Friday,No,2015-04-10T12:30:00.000,PhoneCalls,"[-71.079605, 42.347101]",Point,PhoneCalls,4,IVPER,0,D4,Day,No,HUNTINGTON AV,Part three,Other,769811.1326,,2951792.646,2015

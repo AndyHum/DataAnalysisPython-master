@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3465,152035480.0,Friday,No,2015-05-01T13:38:00.000,Argue,"[0, 0]",Point,Argue,5,AB,0,B3,Day,No,LIVERMORE ST,Part three,Unarmed,,,,2015
+57230,152035388.0,Friday,No,2015-05-01T08:16:00.000,Argue,"[-71.10351, 42.272446]",Point,Argue,5,NIDV,0,B3,Day,No,ITASCA ST,Part three,Unarmed,763475.4628,,2924556.193,2015
+62431,152035343.0,Friday,No,2015-05-01T00:30:00.000,Argue,"[-71.0651, 42.309046]",Point,Argue,5,BE,0,C11,Last,No,COLEMAN ST,Part three,Unarmed,773802.907,,2937944.415,2015
+92058,152035638.0,Friday,No,2015-05-01T10:13:00.000,Argue,"[-71.069025, 42.307691]",Point,Argue,5,IVPREM,0,C11,Day,No,HAMILTON ST,Part three,Unarmed,772743.7386,,2937445.2430000002,2015

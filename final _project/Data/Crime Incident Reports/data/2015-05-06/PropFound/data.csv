@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+711,152037140.0,Wednesday,No,2015-05-06T19:50:00.000,PropFound,"[0, 0]",Point,PropFound,5,PROP,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,,,,2015
+48120,152037251.0,Wednesday,No,2015-05-06T15:00:00.000,PropFound,"[-71.126682, 42.266196]",Point,PropFound,5,PROP,0,E18,Day,No,RUFFING ST,Part three,Unarmed,757214.0203,,2922250.0069999998,2015
+143517,152037652.0,Wednesday,No,2015-05-06T15:30:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,5,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015

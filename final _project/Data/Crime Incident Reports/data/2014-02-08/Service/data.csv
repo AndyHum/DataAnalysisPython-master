@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13376,140080682.0,Saturday,No,2014-02-08T10:05:00.000,Service,"[-71.06942, 42.362401]",Point,Service,2,ARREST,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+97138,140081422.0,Saturday,No,2014-02-08T17:53:00.000,Service,"[-71.08696, 42.281611]",Point,Service,2,ARREST,428,B3,First,No,MORTON ST,Part three,Unarmed,767938.4574,NORFOLK ST,2927917.2989999996,2014
+152369,140081589.0,Saturday,No,2014-02-08T19:30:00.000,Service,"[-71.07806, 42.337301]",Point,Service,2,ARREST,170,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770246.4519,SHAWMUT AV,2948223.4069999997,2014

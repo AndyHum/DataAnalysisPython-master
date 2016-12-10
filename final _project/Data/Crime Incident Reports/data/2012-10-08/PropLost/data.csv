@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9841,120642882.0,Monday,No,2012-10-08T01:00:00.000,PropLost,"[-71.08499, 42.342831]",Point,PropLost,10,LSTPRP,144,D4,Last,No,HUNTINGTON AV,Part Three,Unarmed,768363.0027,MASSACHUSETTS AV,2950229.4480000003,2012
+34076,120633930.0,Monday,No,2012-10-08T16:32:00.000,PropLost,"[-71.080967, 42.305758]",Point,PropLost,10,LARCRT,330,B2,First,No,WASHINGTON ST,Part Three,Unarmed,769516.8457,,2936724.604,2012
+105231,120680421.0,Monday,No,2012-10-08T02:30:00.000,PropLost,"[-71.05363, 42.357796]",Point,PropLost,10,LSTPRP,100,A1,Last,No,BROAD ST,Part Three,Unarmed,776812.4296,,2955725.78,2012
+152988,120639010.0,Monday,No,2012-10-08T08:30:00.000,PropLost,"[-71.16249, 42.280851]",Point,PropLost,10,LSTPRP,691,E5,Day,No,IVORY ST,Part Three,Unarmed,747500.7031,,2927550.4189999998,2012
+163514,120634474.0,Monday,No,2012-10-08T12:00:00.000,PropLost,"[-71.077748, 42.348631]",Point,PropLost,10,LSTPRP,130,D4,Day,No,HUNTINGTON AV,Part Three,Other,770310.163,,2952352.43,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100422,142026209.0,Thursday,No,2014-09-04T19:40:00.000,Service,"[-71.062825, 42.361341]",Point,Service,9,ARREST,0,A1,First,No,BOWDOIN SQ,Part three,Unarmed,774320.5907,,2957004.776,2014
+134575,142026131.0,Thursday,No,2014-09-04T15:49:00.000,Service,"[-71.059987, 42.361648]",Point,Service,9,CD11,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+138862,142026010.0,Thursday,No,2014-09-04T06:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,9,CD9,0,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+228097,142026130.0,Thursday,No,2014-09-04T15:49:00.000,Service,"[-71.059987, 42.361648]",Point,Service,9,CD11,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+232148,142026054.0,Thursday,No,2014-09-04T11:50:00.000,Service,"[-71.03867, 42.370001]",Point,Service,9,ARREST,0,A7,Day,No,CHELSEA ST,Part three,Unarmed,780831.7475,MAVERICK ST,2960195.0310000004,2014
+245378,142026129.0,Thursday,No,2014-09-04T14:15:00.000,Service,"[-71.05248, 42.367191]",Point,Service,9,CD11,0,A1,Day,No,COMMERCIAL ST,Part three,Other,777105.2869,HANOVER ST,2959151.1289999997,2014
+261078,142026121.0,Thursday,No,2014-09-04T14:45:00.000,Service,"[0, 0]",Point,Service,9,ARREST,0,A1,Day,No,COLUMBIA PARK,Part three,Unarmed,,ATLANTIC AV,,2014
+262500,142026251.0,Thursday,No,2014-09-04T21:01:00.000,Service,"[0, 0]",Point,Service,9,ARREST,0,A1,First,No,UTICA PL,Part three,Other,,,,2014

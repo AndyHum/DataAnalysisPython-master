@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22107,140371715.0,Thursday,No,2014-06-12T13:40:00.000,TRESPASS,"[-71.067175, 42.316924]",Point,TRESPASS,6,ARREST,258,B2,Day,No,VIRGINIA ST,Part Two,Unarmed,773226.8846,,2940812.425,2014
+70694,140372717.0,Thursday,No,2014-06-12T19:25:00.000,TRESPASS,"[-71.055155, 42.338841]",Point,TRESPASS,6,ARREST,0,C6,First,No,DALESSIO CT,Part Two,Unarmed,776436.2784,,2948816.0760000004,2014
+189629,140372393.0,Thursday,No,2014-06-12T17:19:00.000,TRESPASS,"[-71.058125, 42.350656]",Point,TRESPASS,6,SSTOP ,115,A1,First,No,UTICA ST,Part Two,Unarmed,775611.0042,,2953117.503,2014

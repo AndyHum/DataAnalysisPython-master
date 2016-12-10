@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131249,,Wednesday,No,2015-08-05T00:00:00.000,License Violation,"[-71.052778, 42.331856]",Point,LICViol,8,CD35,216,C6,,No,DORCHESTER ST,Part Three,None,777092.0,,2950000.0,2015
+134709,,Wednesday,No,2015-08-05T00:00:00.000,License Violation,"[-71.105245, 42.333912]",Point,LICViol,8,CD35,604,B2,,No,HUNTINGTON AVE,Part Three,None,762902.0,,2950000.0,2015
+209842,,Wednesday,No,2015-08-05T00:00:00.000,License Violation,"[-71.05465, 42.358146]",Point,LICViol,8,CD35,100,A1,,No,WATER ST,Part Three,None,776536.0,,2960000.0,2015

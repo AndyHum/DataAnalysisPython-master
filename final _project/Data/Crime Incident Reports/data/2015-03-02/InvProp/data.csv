@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+862,152016715.0,Monday,No,2015-03-02T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+109787,152016839.0,Monday,No,2015-03-02T00:30:00.000,InvProp,"[-71.075735, 42.307661]",Point,InvProp,3,MVA,0,C11,Last,No,COLUMBIA RD,Part three,Unarmed,770928.7809,DEVON ST,2937425.211,2015
+202646,152016703.0,Monday,No,2015-03-02T02:14:00.000,InvProp,"[-71.085219, 42.300836]",Point,InvProp,3,SSA,0,B3,Last,No,MCLELLAN ST,Part three,Unarmed,768375.5219,,2934925.1569999997,2015
+224519,152016846.0,Monday,No,2015-03-02T14:40:00.000,InvProp,"[-71.087961, 42.27987]",Point,InvProp,3,IVPER,0,B3,Day,No,ELIZABETH ST,Part three,Unarmed,767670.6037,NORFOLK ST,2927281.328,2015

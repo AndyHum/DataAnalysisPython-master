@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23783,130332854.0,Sunday,No,2013-06-02T00:00:00.000,PropLost,"[-71.065135, 42.350006]",Point,PropLost,6,LSTPRP,121,A1,Last,No,TREMONT ST,Part three,Unarmed,773717.34,,2952870.892,2013
+47716,130335734.0,Sunday,No,2013-06-02T12:36:00.000,PropLost,"[-71.063155, 42.298481]",Point,PropLost,6,LSTPRP,355,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,,2934097.058,2013
+72609,130334961.0,Sunday,No,2013-06-02T12:00:00.000,PropLost,"[-71.072795, 42.349336]",Point,PropLost,6,LSTPRP,128,D4,Day,No,STUART ST,Part three,Unarmed,771647.9675,,2952616.269,2013
+197667,130332684.0,Sunday,No,2013-06-02T04:00:00.000,PropLost,"[-71.06583, 42.307331]",Point,PropLost,6,LSTPRP,340,C11,Last,No,MT IDA RD,Part three,Unarmed,773608.6321,BOWDOIN ST,2937318.436,2013
+237649,130334530.0,Sunday,No,2013-06-02T11:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,6,LSTPRP,186,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013
+251065,130333180.0,Sunday,No,2013-06-02T12:00:00.000,PropLost,"[-71.07566, 42.341811]",Point,PropLost,6,LSTPRP,153,D4,Day,No,TREMONT ST,Part three,Unarmed,770887.156,,2949870.152,2013
+265401,130333367.0,Sunday,No,2013-06-02T01:30:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,429,B3,Last,No,WILLOWWOOD ST,Part Three,Unarmed,,,,2013

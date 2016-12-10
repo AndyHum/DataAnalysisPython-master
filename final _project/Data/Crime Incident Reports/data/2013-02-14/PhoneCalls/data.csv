@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97691,130102511.0,Thursday,No,2013-02-14T04:20:00.000,PhoneCalls,"[-71.086099, 42.344019]",Point,PhoneCalls,2,IVPER ,620,D4,Last,No,MASSACHUSETTS AV,Part Three,Other,768060.9025,,2950660.6539999996,2013
+101042,130213078.0,Thursday,No,2013-02-14T00:01:00.000,PhoneCalls,"[-71.08753, 42.298021]",Point,PhoneCalls,2,THREAT,463,B3,Last,No,AMERICAN LEGION HY,Part Three,Unarmed,767755.2945,,2933896.5960000004,2013
+102855,130094613.0,Thursday,No,2013-02-14T15:51:00.000,PhoneCalls,"[-71.11802, 42.257532]",Point,PhoneCalls,2,THREAT,519,E18,Day,No,DAVISON ST,Part Three,Other,759572.6547,,2919103.1789999995,2013
+180487,130098809.0,Thursday,No,2013-02-14T11:35:00.000,PhoneCalls,"[-71.136235, 42.290346]",Point,PhoneCalls,2,HARPT ,674,E5,Day,No,SELWYN ST,Part Three,Other,754590.7939,,2931039.748,2013

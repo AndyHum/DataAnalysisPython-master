@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+202811,130486930.0,Sunday,No,2013-08-04T16:24:00.000,Argue,"[-71.100758, 42.335565]",Point,Argue,8,IVPER ,602,B2,First,No,HUNTINGTON AV,Part three,Unarmed,764112.391,,2947560.9480000003,2013
+211310,130486320.0,Sunday,No,2013-08-04T10:05:00.000,Argue,"[-71.17312, 42.351201]",Point,Argue,8,DISTRB,755,D14,Day,No,TREMONT ST,Part three,Unarmed,744525.8777,,2953176.035,2013
+226458,130486084.0,Sunday,No,2013-08-04T04:37:00.000,Argue,"[-71.074385, 42.335516]",Point,Argue,8,ABRPT ,0,D4,Last,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2013

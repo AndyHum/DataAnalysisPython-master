@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128454,120797540.0,Friday,No,2012-12-21T06:59:00.000,Service,"[-71.061295, 42.288676]",Point,Service,12,CD11  ,366,C11,Last,No,MONSIGNOR PATRICK J LYDON WAY,Part Three,Unarmed,774870.2865,,2930526.566,2012
+148302,120799868.0,Friday,No,2012-12-21T05:30:00.000,Service,"[-71.079305, 42.295966]",Point,Service,12,CD9   ,465,B3,Last,No,STANDISH ST,Part Three,Unarmed,769984.1394,,2933158.591,2012
+234701,120799233.0,Friday,No,2012-12-21T19:45:00.000,Service,"[-71.000021, 42.384229]",Point,Service,12,IVPER ,5,A7,First,No,SARATOGA ST,Part Three,Other,791245.1553,,2965438.6760000004,2012

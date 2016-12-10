@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74710,120533214.0,Sunday,No,2012-08-26T21:39:00.000,BENoProp,"[-71.13189, 42.354281]",Point,BENoProp,8,IVPER ,801,D14,First,No,FARRINGTON AV,Part One,Unarmed,755665.8629,,2954343.853,2012
+151662,120532292.0,Sunday,No,2012-08-26T13:20:00.000,BENoProp,"[-71.08301, 42.299371]",Point,BENoProp,8,BEIP  ,457,B3,Day,No,PAGE ST,Part One,Unarmed,768975.7077,,2934394.502,2012
+195230,120532404.0,Sunday,No,2012-08-26T14:18:00.000,BENoProp,"[-71.067635, 42.313911]",Point,BENoProp,8,BEIP  ,332,C11,Day,No,COLUMBIA RD,Part One,Unarmed,773108.2342,,2939713.812,2012

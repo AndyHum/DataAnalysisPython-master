@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44841,130226870.0,Monday,No,2013-04-01T09:00:00.000,PropLost,"[-71.08664, 42.345181]",Point,PropLost,4,LSTPRP,620,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,767912.7846,,2951083.666,2013
+59553,130723581.0,Monday,No,2013-04-01T08:00:00.000,PropLost,"[-71.070539, 42.312118]",Point,PropLost,4,LSTPRP,331,B2,Day,No,DRAYTON AV,Part three,Unarmed,772325.9185,,2939056.353,2013
+97897,130818748.0,Monday,No,2013-04-01T12:00:00.000,PropLost,"[-71.11156, 42.317276]",Point,PropLost,4,INVEST,639,E13,Day,No,SPRING PARK AV,Part three,Unarmed,761222.3807,,2940882.915,2013
+122750,130458544.0,Monday,No,2013-04-01T00:00:00.000,PropLost,"[-71.140718, 42.255717]",Point,PropLost,4,LSTPRP,537,E18,Last,No,KOVEY RD,Part three,Unarmed,753430.9094,,2918415.2989999996,2013
+197569,130206488.0,Monday,No,2013-04-01T12:00:00.000,PropLost,"[-71.10509, 42.346631]",Point,PropLost,4,LSTPRP,629,D4,Day,No,BEACON ST,Part Three,Unarmed,762922.6813,PARK DR,2951588.442,2013
+201850,130197944.0,Monday,No,2013-04-01T11:30:00.000,PropLost,"[-71.053644, 42.328588]",Point,PropLost,4,LARCRT,192,C6,Day,No,DEVINE WY,Part Three,Unarmed,776864.1388,,2945081.775,2013
+218020,142007833.0,Monday,No,2013-04-01T08:00:00.000,PropLost,"[-71.121825, 42.245981]",Point,PropLost,4,PROP,0,E18,Day,No,CHITTICK RD,Part three,Other,758561.3676,,2914889.492,2013
+246317,130224212.0,Monday,No,2013-04-01T17:00:00.000,PropLost,"[-71.08803, 42.294881]",Point,PropLost,4,LSTPRP,440,B3,First,No,BLUE HILL AV,Part Three,Unarmed,767625.554,TALBOT AV,2932751.6789999995,2013
+261657,130208593.0,Monday,No,2013-04-01T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,792,D14,Day,No,LORRAINE TR,Part Three,Unarmed,,,,2013

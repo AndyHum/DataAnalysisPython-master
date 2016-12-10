@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31480,152003209.0,Monday,No,2015-01-12T18:45:00.000,PropLost,"[-71.088875, 42.291651]",Point,PropLost,1,LARCEN,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767402.6131,GREENOCK ST,2931573.5160000003,2015
+157359,152003393.0,Monday,No,2015-01-12T07:30:00.000,PropLost,"[-71.10287, 42.322911]",Point,PropLost,1,PROP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,763563.0548,ESTRELLA ST,2942947.227,2015
+161651,152003813.0,Monday,No,2015-01-12T13:50:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,1,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+162253,152019348.0,Monday,No,2015-01-12T00:01:00.000,PropLost,"[-71.136442, 42.348404]",Point,PropLost,1,PROP,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,754444.5294,,2952196.889,2015
+260310,152003372.0,Monday,No,2015-01-12T14:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015
+261960,152003105.0,Monday,No,2015-01-12T15:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,LARCEN,0,D4,Day,No,TREMONT ST,Part three,Unarmed,,,,2015
+263705,152003110.0,Monday,No,2015-01-12T06:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,D4,Last,No,HARRISON AV,Part three,Unarmed,,,,2015

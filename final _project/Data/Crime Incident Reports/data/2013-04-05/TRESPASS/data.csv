@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59344,130200685.0,Friday,No,2013-04-05T15:00:00.000,TRESPASS,"[-71.06424, 42.351631]",Point,TRESPASS,4,IVDRUG,117,A1,Day,No,TAMWORTH ST,Part Two,Other,773956.2440000001,LAGRANGE ST,2953464.307,2013
+61718,130205182.0,Friday,No,2013-04-05T12:30:00.000,TRESPASS,"[-71.042455, 42.319006]",Point,TRESPASS,4,IVPER ,256,C6,Day,No,HARBOR POINT BL,Part Two,Unarmed,779908.6248,,2941606.0360000003,2013
+127183,130200519.0,Friday,No,2013-04-05T16:56:00.000,TRESPASS,"[-71.078586, 42.32835]",Point,TRESPASS,4,ARREST,279,B2,First,No,DUDLEY ST,Part Two,Unarmed,770120.2868,,2944960.5310000004,2013

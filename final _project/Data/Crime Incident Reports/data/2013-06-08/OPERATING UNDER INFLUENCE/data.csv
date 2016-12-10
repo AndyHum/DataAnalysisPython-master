@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51564,130346719.0,Saturday,No,2013-06-08T02:51:00.000,OPERATING UNDER INFLUENCE,"[-71.150709, 42.340541]",Point,21xx,6,MVADD ,788,D14,Last,No,COMMONWEALTH AV,Part Two,Other,750599.42,,2949315.022,2013
+102836,130348003.0,Saturday,No,2013-06-08T17:21:00.000,OPERATING UNDER INFLUENCE,"[-71.090693, 42.345051]",Point,21xx,6,ARREST,626,D4,First,No,FENWAY,Part Two,Other,766817.3009,,2951030.732,2013
+241130,130348853.0,Saturday,No,2013-06-08T23:50:00.000,OPERATING UNDER INFLUENCE,"[-71.07656, 42.328955]",Point,21xx,6,MVANO ,904,B2,Last,No,DUBOIS ST,Part Two,Other,770666.9917,,2945183.963,2013

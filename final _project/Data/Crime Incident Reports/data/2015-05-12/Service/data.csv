@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3497,152038931.0,Tuesday,No,2015-05-12T17:38:00.000,Service,"[0, 0]",Point,Service,5,ARREST,0,A1,First,No,BEACON ST,Part three,Unarmed,,,,2015
+99227,152038759.0,Tuesday,No,2015-05-12T10:10:00.000,Service,"[-71.063675, 42.352301]",Point,Service,5,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+113323,152038832.0,Tuesday,No,2015-05-12T13:00:00.000,Service,"[-71.12395, 42.256421]",Point,Service,5,MISC,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2015
+218880,152038796.0,Tuesday,No,2015-05-12T10:54:00.000,Service,"[-71.121202, 42.254393]",Point,Service,5,IVPER,0,E18,Day,No,OAK ST,Part three,Unarmed,758716.3214,,2917955.4480000003,2015
+246043,152038983.0,Tuesday,No,2015-05-12T20:30:00.000,Service,"[-71.058944, 42.350973]",Point,Service,5,IVPREM,0,A1,First,No,BEACH ST,Part three,Unarmed,775388.8422,SURFACE RD,2953231.6119999997,2015

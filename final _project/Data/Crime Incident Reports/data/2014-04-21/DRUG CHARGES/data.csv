@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+161000,140243112.0,Monday,No,2014-04-21T20:35:00.000,DRUG CHARGES,"[-71.08048, 42.275561]",Point,18xx,4,ARREST,412,B3,First,No,WOODBOLE AV,Part Two,Other,769702.8222,WOODGATE ST,2925721.1539999996,2014
+164123,140242807.0,Monday,No,2014-04-21T17:54:00.000,DRUG CHARGES,"[-71.100035, 42.320706]",Point,18xx,4,IVDRUG,303,E13,First,No,AMORY AV,Part Two,Other,764333.4883,,2942147.27,2014
+164500,140244018.0,Monday,No,2014-04-21T10:00:00.000,DRUG CHARGES,"[-71.09714, 42.348971]",Point,18xx,4,IVDRUG,622,D4,Day,No,COMMONWEALTH AV,Part Two,Other,765067.7579999999,DEERFIELD ST,2952451.2339999997,2014
+244937,140247558.0,Monday,No,2014-04-21T07:30:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,4,IVDRUG,520,E18,Day,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2014

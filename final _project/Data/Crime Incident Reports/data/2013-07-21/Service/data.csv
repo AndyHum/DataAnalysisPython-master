@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27990,130452585.0,Sunday,No,2013-07-21T12:34:00.000,Service,"[-71.098528, 42.327445]",Point,Service,7,ARREST,586,B2,Day,No,TERRACE ST,Part three,Unarmed,764729.4865,,2944604.955,2013
+171701,130452461.0,Sunday,No,2013-07-21T11:02:00.000,Service,"[-71.05197, 42.321461]",Point,Service,7,UNK   ,913,C6,Day,No,MT VERNON ST,Part three,Unarmed,777330.6438,COLUMBIA RD,2942487.017,2013
+183640,130452312.0,Sunday,No,2013-07-21T09:19:00.000,Service,"[-71.059755, 42.301741]",Point,Service,7,ARREST,350,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775262.4031,,2935289.7789999996,2013

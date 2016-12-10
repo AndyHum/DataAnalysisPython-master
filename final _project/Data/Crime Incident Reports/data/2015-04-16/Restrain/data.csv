@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3105,152031005.0,Thursday,No,2015-04-16T14:50:00.000,Restrain,"[0, 0]",Point,Restrain,4,IVPER,0,E13,Day,No,CENTRE ST,Part Two,Unarmed,,,,2015
+163523,152031034.0,Thursday,No,2015-04-16T16:30:00.000,Restrain,"[-71.150915, 42.348981]",Point,Restrain,4,IVPER,0,D14,First,No,WASHINGTON ST,Part Two,Unarmed,750531.3965,,2952390.805,2015
+256553,152032861.0,Thursday,No,2015-04-16T12:00:00.000,Restrain,"[-71.146433, 42.341822]",Point,Restrain,4,VIORDR,0,D14,Day,No,COMMONWEALTH AV,Part Two,Unarmed,751753.6867,,2949786.905,2015

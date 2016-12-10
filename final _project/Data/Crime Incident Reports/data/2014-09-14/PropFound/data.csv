@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51273,142029375.0,Sunday,No,2014-09-14T14:44:00.000,PropFound,"[-71.07547, 42.353706]",Point,PropFound,9,IVPREM,0,D4,Day,No,MARLBOROUGH ST,Part three,Unarmed,770916.946,,2954205.171,2014
+65191,142029398.0,Sunday,No,2014-09-14T16:45:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,9,PROP,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+68261,142029452.0,Sunday,No,2014-09-14T15:00:00.000,PropFound,"[-71.148775, 42.339381]",Point,PropFound,9,IVPREM,0,D14,Day,No,SUTHERLAND RD,Part three,Unarmed,751124.2828,,2948894.748,2014
+73221,142029243.0,Sunday,No,2014-09-14T02:00:00.000,PropFound,"[-71.095995, 42.347161]",Point,PropFound,9,PROP,0,D4,Last,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014

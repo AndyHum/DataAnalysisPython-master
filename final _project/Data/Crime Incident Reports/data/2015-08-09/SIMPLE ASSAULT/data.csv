@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11431,,Sunday,No,2015-08-09T00:00:00.000,Simple Assault,"[-71.077169, 42.328021]",Point,08xx,8,AB,268,B2,,No,ADAMS ST,Part Two,None,770504.0,,2940000.0,2015
+23684,,Sunday,No,2015-08-09T00:14:00.000,Simple Assault,"[0, 0]",Point,08xx,8,AB,69,A1,,No,ARLINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),,BEACON ST,,2015
+64223,,Sunday,No,2015-08-09T00:00:00.000,Simple Assault,"[-71.098266, 42.347462]",Point,08xx,8,AB,624,D4,,No,BROOKLINE AVE,Part Two,None,764766.0,,2950000.0,2015
+101298,,Sunday,No,2015-08-09T21:41:00.000,Simple Assault,"[0, 0]",Point,08xx,8,NIDV,297,B2,,No,SAINT RICHARD ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+192134,,Sunday,No,2015-08-09T01:27:00.000,Simple Assault,"[0, 0]",Point,08xx,8,REQP,431,B3,,No,ARBUTUS ST,Part Two,None,,BLUE HILL AVE,,2015
+208813,,Sunday,No,2015-08-09T00:00:00.000,Simple Assault,"[-71.04804, 42.292341]",Point,08xx,8,AB,373,C11,,No,FREEPORT ST,Part Two,None,778450.0,,2930000.0,2015

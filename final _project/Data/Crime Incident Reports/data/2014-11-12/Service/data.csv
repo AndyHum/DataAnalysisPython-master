@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48996,142048253.0,Wednesday,No,2014-11-12T13:10:00.000,Service,"[-71.05898, 42.305161]",Point,Service,11,ARREST,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775465.6106,LEEDSVILLE ST,2936537.1610000003,2014
+75345,142048339.0,Wednesday,No,2014-11-12T17:04:00.000,Service,"[-71.141383, 42.344425]",Point,Service,11,IVPREM,0,D14,First,No,MELVIN AV,Part three,Other,753115.0501,,2950741.144,2014
+102433,142048286.0,Wednesday,No,2014-11-12T12:30:00.000,Service,"[-71.05368, 42.311581]",Point,Service,11,ARREST,0,C11,Day,No,SAVIN HILL AV,Part three,Unarmed,776887.0402,SYDNEY ST,2938884.164,2014

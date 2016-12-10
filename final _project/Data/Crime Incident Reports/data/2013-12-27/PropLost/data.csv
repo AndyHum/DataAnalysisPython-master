@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45704,140061063.0,Friday,No,2013-12-27T08:00:00.000,PropLost,"[-71.049384, 42.330326]",Point,PropLost,12,LSTPRP,915,C6,Day,No,COLUMBIA RD,Part three,Unarmed,778012.8107,,2945721.11,2013
+76034,130815192.0,Friday,No,2013-12-27T15:30:00.000,PropLost,"[-71.15612, 42.349091]",Point,PropLost,12,LSTPRP,763,D14,Day,No,WASHINGTON ST,Part three,Unarmed,749124.2284,,2952425.175,2013
+86887,130813502.0,Friday,No,2013-12-27T15:30:00.000,PropLost,"[-71.062085, 42.356341]",Point,PropLost,12,LARCRT,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774529.9407,,2955183.704,2013
+104257,130812779.0,Friday,No,2013-12-27T11:50:00.000,PropLost,"[-71.0599, 42.301691]",Point,PropLost,12,LARCRT,351,C11,Day,No,ADAMS ST,Part three,Unarmed,775223.272,,2935271.356,2013
+211149,130815068.0,Friday,No,2013-12-27T23:30:00.000,PropLost,"[-71.152305, 42.349041]",Point,PropLost,12,LARCRT,771,D14,First,No,WASHINGTON ST,Part three,Unarmed,750155.5649,,2952411.135,2013
+219550,130814838.0,Friday,No,2013-12-27T10:00:00.000,PropLost,"[-71.03904, 42.373741]",Point,PropLost,12,LSTPRP,26,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780724.3981,,2961557.422,2013
+247082,130812282.0,Friday,No,2013-12-27T07:00:00.000,PropLost,"[-71.06951, 42.278771]",Point,PropLost,12,LSTPRP,403,C11,Last,No,WASHINGTON ST,Part three,Other,772665.7379,GALLIVAN BL,2926905.7139999997,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43596,120419658.0,Sunday,No,2012-07-08T13:17:00.000,PhoneCalls,"[-71.095445, 42.349201]",Point,PhoneCalls,7,THREAT,622,D4,Day,No,BEACON ST,Part Three,Unarmed,765525.5483,,2952537.22,2012
+52914,120420604.0,Sunday,No,2012-07-08T21:30:00.000,PhoneCalls,"[-71.161235, 42.277927]",Point,PhoneCalls,7,HARPT ,720,E5,First,No,SPRING ST,Part Three,Unarmed,747844.3566,,2926486.139,2012
+152136,120426307.0,Sunday,No,2012-07-08T22:00:00.000,PhoneCalls,"[-71.068642, 42.316293]",Point,PhoneCalls,7,IVPER ,258,B2,First,No,MONADNOCK ST,Part Two,Other,772831.4244,,2940580.485,2012

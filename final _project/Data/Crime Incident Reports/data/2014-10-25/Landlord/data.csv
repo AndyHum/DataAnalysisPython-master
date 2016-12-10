@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60768,142042562.0,Saturday,No,2014-10-25T02:04:00.000,Landlord,"[-71.085315, 42.283331]",Point,Landlord,10,LANTEN,0,B3,Last,No,BALLOU AV,Part three,Unarmed,768380.5554,,2928546.251,2014
+95151,142042651.0,Saturday,No,2014-10-25T19:39:00.000,Landlord,"[-71.057685, 42.310896]",Point,Landlord,10,LANTEN,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775805.0763,,2938628.897,2014
+148658,142042572.0,Saturday,No,2014-10-25T11:00:00.000,Landlord,"[-71.054864, 42.296187]",Point,Landlord,10,IVPER,0,C11,Day,No,NEPONSET AV,Part three,Unarmed,776596.0681,,2933272.605,2014

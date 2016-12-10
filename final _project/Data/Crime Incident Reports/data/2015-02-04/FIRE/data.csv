@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23555,152017016.0,Wednesday,No,2015-02-04T01:18:00.000,FIRE,"[-71.06355, 42.378721]",Point,FIRE,2,REQP,0,A15,Last,No,SCHOOL ST,Part three,Unarmed,774092.2401,,2963337.398,2015
+205130,152009200.0,Wednesday,No,2015-02-04T08:52:00.000,FIRE,"[-71.074852, 42.336621]",Point,FIRE,2,FIRE,0,D4,Day,No,WORCESTER SQ,Part three,Unarmed,771114.9551,,2947979.7180000003,2015
+239255,152009141.0,Wednesday,No,2015-02-04T02:59:00.000,FIRE,"[-71.054375, 42.327796]",Point,FIRE,2,FIRE,0,C6,Last,No,LOGAN WY,Part three,Unarmed,776668.1887,,2944792.189,2015

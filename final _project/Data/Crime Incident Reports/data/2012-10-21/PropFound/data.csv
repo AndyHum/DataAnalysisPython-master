@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22250,120663713.0,Sunday,No,2012-10-21T16:26:00.000,PropFound,"[-71.08913, 42.281956]",Point,PropFound,10,BERPTA,428,B3,First,No,SUTTON ST,Part Three,Unarmed,767350.6368,,2928040.186,2012
+32717,120664038.0,Sunday,No,2012-10-21T18:30:00.000,PropFound,"[-71.09293, 42.331271]",Point,PropFound,10,IVPREM,290,B2,First,No,MALCOLM X BL,Part Three,Unarmed,766236.5783,KING ST,2946006.4289999995,2012
+78872,120663024.0,Sunday,No,2012-10-21T01:40:00.000,PropFound,"[-71.06458, 42.352351]",Point,PropFound,10,FDPROP,118,A1,Last,No,BOYLSTON ST,Part Three,Unarmed,773863.0013,TREMONT ST,2953726.22,2012
+149600,120663708.0,Sunday,No,2012-10-21T17:06:00.000,PropFound,"[-71.074285, 42.330851]",Point,PropFound,10,FDPROP,179,B2,First,No,ALTHER ST,Part Three,Unarmed,771278.8186,,2945877.985,2012
+215632,120663127.0,Sunday,No,2012-10-21T08:47:00.000,PropFound,"[-71.06413, 42.348391]",Point,PropFound,10,FDPROP,123,A1,Day,No,OAK ST,Part Three,Unarmed,773992.0114,WASHINGTON ST,2952283.742,2012
+261735,120663574.0,Sunday,No,2012-10-21T08:00:00.000,PropFound,"[0, 0]",Point,PropFound,10,FDPROP,924,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,,,,2012

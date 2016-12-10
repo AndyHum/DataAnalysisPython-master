@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51602,140258118.0,Sunday,No,2014-04-27T16:30:00.000,Service,"[-71.127043, 42.300948]",Point,Service,4,RAPRPT,657,E13,First,No,CENTRE ST,Part three,Unarmed,757060.8483,,2934913.767,2014
+101497,140256440.0,Sunday,No,2014-04-27T19:45:00.000,Service,"[-71.15336, 42.338161]",Point,Service,4,ARREST,789,D14,First,No,CHESTNUT HILL AV,Part three,Unarmed,749886.4928,COMMONWEALTH AV,2948445.084,2014
+133255,140256430.0,Sunday,No,2014-04-27T17:39:00.000,Service,"[-71.04417, 42.286471]",Point,Service,4,DISTRB,381,C11,First,No,NEPONSET AV,Part three,Unarmed,779508.1729,MINOT ST,2929747.3239999996,2014
+242135,140256589.0,Sunday,No,2014-04-27T19:08:00.000,Service,"[-71.151405, 42.351461]",Point,Service,4,VICDOG,778,D14,First,No,SPARHAWK ST,Part three,Unarmed,750395.2475,,2953294.026,2014

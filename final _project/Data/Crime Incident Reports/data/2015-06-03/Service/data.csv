@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2402,152045755.0,Wednesday,No,2015-06-03T08:00:00.000,Service,"[0, 0]",Point,Service,6,CD9,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+2415,152045804.0,Wednesday,No,2015-06-03T11:15:00.000,Service,"[0, 0]",Point,Service,6,CD11,0,C6,Day,No,COURTHOUSE WY,Part three,Other,,,,2015
+104035,152045817.0,Wednesday,No,2015-06-03T11:30:00.000,Service,"[-71.098485, 42.343391]",Point,Service,6,ARREST,0,D4,Day,No,PETERBOROUGH ST,Other,Unarmed,764713.7517,,2950416.063,2015
+215530,152045808.0,Wednesday,No,2015-06-03T11:15:00.000,Service,"[-71.05592, 42.376646]",Point,Service,6,INVEST,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+217072,152045849.0,Wednesday,No,2015-06-03T14:30:00.000,Service,"[-71.055093, 42.378275]",Point,Service,6,ASSTPO,0,A15,Day,No,WALFORD WY,Part three,Unarmed,776377.9088,,2963186.369,2015

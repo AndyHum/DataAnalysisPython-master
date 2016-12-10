@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89253,,Thursday,No,2015-07-09T00:00:00.000,Property Found,"[-71.069231, 42.308886]",Point,PropFound,7,PROP,335,C11,,No,BELLEVUE ST,Part Three,None,772686.0,,2940000.0,2015
+154194,,Thursday,No,2015-07-09T00:00:00.000,Property Found,"[-71.08565, 42.336409]",Point,PropFound,7,PROP,285,D4,,No,TREMONT ST,Part Three,None,768196.0,,2950000.0,2015
+209405,,Thursday,No,2015-07-09T18:16:00.000,Property Found,"[0, 0]",Point,PropFound,7,IVPREM,83,A1,,No,COMMERCIAL ST,Part Three,None,, HANOVER ST ,,2015

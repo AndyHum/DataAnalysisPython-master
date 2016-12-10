@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14235,,Friday,No,2015-07-24T00:00:00.000,Other,"[-71.09823, 42.317715]",Point,OTHER,7,IVPER,304,E13,,No,COLUMBUS AVE,Part Two,None,764827.0,,2940000.0,2015
+94086,,Friday,No,2015-07-24T00:00:00.000,Other Burglary,"[-71.125103, 42.287433]",Point,05OH,7,,562,E5,,No,BEXLEY RD,Part One,None,757607.0,,2930000.0,2015
+124840,,Friday,No,2015-07-24T00:00:00.000,Other,"[-71.070467, 42.308768]",Point,OTHER,7,IVPER,336,C11,,No,HAMILTON ST,Part Two,None,772352.0,,2940000.0,2015
+125957,,Friday,No,2015-07-24T00:05:00.000,Other,"[0, 0]",Point,OTHER,7,I00040,0,,,No,,Part Two,None,,WASHINGTON ST,,2015
+133964,,Friday,No,2015-07-24T22:34:00.000,Other,"[0, 0]",Point,OTHER,7,BE,162,D4,,No,HARRISON AVE,Part Two,None,,,,2015
+144714,,Friday,No,2015-07-24T00:00:00.000,Other,"[-71.05731, 42.357992]",Point,OTHER,7,,98,A1,,No,DEVONSHIRE ST,Part Two,None,775817.0,,2960000.0,2015
+157747,,Friday,No,2015-07-24T00:00:00.000,Other,"[-71.08511, 42.29862]",Point,OTHER,7,DISTRB,444,B3,,No,ESMOND ST,Part Two,None,768409.0,,2930000.0,2015
+204094,,Friday,No,2015-07-24T23:38:00.000,Other,"[0, 0]",Point,OTHER,7,DISTRB,96,A1,,No,LONG WHRF,Part Two,None,,,,2015
+225982,,Friday,No,2015-07-24T07:35:00.000,Other,"[0, 0]",Point,OTHER,7,I00039,116,A1,,No,BEACH ST,Part Two,None,,HARRISON AVE,,2015
+245145,,Friday,No,2015-07-24T00:00:00.000,Other,"[-71.050822, 42.357948]",Point,OTHER,7,IVMV,96,,,No,E INDIA ROW,Part Two,None,777571.0,,2960000.0,2015

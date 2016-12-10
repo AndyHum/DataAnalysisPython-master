@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66278,130101506.0,Monday,No,2013-02-18T02:14:00.000,DISORDERLY,"[-71.0587, 42.350476]",Point,24xx,2,FIGHT ,115,A1,Last,No,LINCOLN ST,Part Two,Unarmed,775455.9149,,2953051.103,2013
+206275,130102462.0,Monday,No,2013-02-18T17:33:00.000,DISORDERLY,"[-71.09794, 42.316146]",Point,24xx,2,INVEST,307,E13,First,No,WASHINGTON ST,Part Two,Knife,764907.8894,,2940488.191,2013
+242894,130101449.0,Monday,No,2013-02-18T03:09:00.000,DISORDERLY,"[-71.102795, 42.330956]",Point,24xx,2,PARTY ,603,B2,Last,No,CALUMET ST,Part Two,Other,763569.6841,,2945879.062,2013

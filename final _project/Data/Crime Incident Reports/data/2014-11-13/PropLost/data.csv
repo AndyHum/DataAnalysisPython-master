@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56030,142050190.0,Thursday,No,2014-11-13T23:00:00.000,PropLost,"[-71.062735, 42.351706]",Point,PropLost,11,LARCEN,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774362.9145,,2953493.7210000004,2014
+76414,142048645.0,Thursday,No,2014-11-13T11:00:00.000,PropLost,"[-71.076399, 42.333996]",Point,PropLost,11,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,770701.3598,,2947021.0810000002,2014
+86371,142048486.0,Thursday,No,2014-11-13T05:00:00.000,PropLost,"[-71.046717, 42.336149]",Point,PropLost,11,PROP,0,C6,Last,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2014
+116339,142048676.0,Thursday,No,2014-11-13T12:00:00.000,PropLost,"[-71.112411, 42.284053]",Point,PropLost,11,PROP,0,E18,Day,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2014
+125899,142048895.0,Thursday,No,2014-11-13T22:00:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,11,PROP,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+131278,142056517.0,Thursday,No,2014-11-13T00:00:00.000,PropLost,"[-71.102955, 42.316296]",Point,PropLost,11,IVPER,0,E13,Last,No,BOYLSTON ST,Part three,Unarmed,763551.2894,,2940536.5,2014
+173773,142056502.0,Thursday,No,2014-11-13T01:29:00.000,PropLost,"[-71.06465, 42.351016]",Point,PropLost,11,PROP,0,A1,Last,No,STUART ST,Part three,Unarmed,773846.5631,,2953239.624,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68513,130745650.0,Sunday,No,2013-11-24T16:00:00.000,Service,"[-71.074385, 42.335516]",Point,Service,11,ARREST,171,D4,First,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2013
+106773,130744541.0,Sunday,No,2013-11-24T02:45:00.000,Service,"[-71.07958, 42.345881]",Point,Service,11,IVPER ,146,D4,Last,No,ST BOTOLPH ST,Part three,Unarmed,769820.0823,GARRISON ST,2951348.087,2013
+119019,130744789.0,Sunday,No,2013-11-24T08:15:00.000,Service,"[-71.06942, 42.362401]",Point,Service,11,INVEST,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+208107,130744838.0,Sunday,No,2013-11-24T09:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,11,IVPER ,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+213394,130745345.0,Sunday,No,2013-11-24T15:35:00.000,Service,"[-71.0726, 42.341736]",Point,Service,11,VICDOG,158,D4,Day,No,W DEDHAM ST,Part three,Unarmed,771714.5582,,2949846.952,2013

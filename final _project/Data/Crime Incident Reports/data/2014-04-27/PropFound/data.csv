@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22523,140256556.0,Sunday,No,2014-04-27T18:51:00.000,PropFound,"[-71.058362, 42.365366]",Point,PropFound,4,FDPROP,79,A1,First,No,N WASHINGTON ST,Part three,Unarmed,775519.1582,,2958477.8010000004,2014
+150106,140256260.0,Sunday,No,2014-04-27T16:14:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,4,FDPROP,691,E5,First,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2014
+254753,140256123.0,Sunday,No,2014-04-27T14:40:00.000,PropFound,"[-71.163639, 42.282441]",Point,PropFound,4,IVPER ,0,E5,Day,No,PERHAM ST,Part three,Unarmed,747187.2259999999,,2928128.6139999996,2014

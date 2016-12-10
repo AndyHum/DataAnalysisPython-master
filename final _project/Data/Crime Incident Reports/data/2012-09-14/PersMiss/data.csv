@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50103,120577791.0,Friday,No,2012-09-14T21:00:00.000,PersMiss,"[-71.075835, 42.289281]",Point,PersMiss,9,MISPER,437,B3,First,No,DARLINGTON ST,Part Three,Unarmed,770935.0404,,2930727.1289999997,2012
+118297,120577726.0,Friday,No,2012-09-14T22:00:00.000,PersMiss,"[-71.083145, 42.315761]",Point,PersMiss,9,MISPER,323,B2,First,No,WARREN ST,Part Three,Unarmed,768909.9962,,2940367.099,2012
+120994,120576544.0,Friday,No,2012-09-14T13:45:00.000,PersMiss,"[-71.05836, 42.349821]",Point,PersMiss,9,REQEP ,115,A1,Day,No,KNEELAND ST,Part Three,Unarmed,775549.0565,UTICA ST,2952812.885,2012
+249387,120577468.0,Friday,No,2012-09-14T20:00:00.000,PersMiss,"[-71.103282, 42.273251]",Point,PersMiss,9,MISPER,473,B3,First,No,CANAAN ST,Part Three,Unarmed,763535.608,,2924849.547,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39607,142054135.0,Tuesday,No,2014-12-02T22:45:00.000,PersLoc,"[-71.082313, 42.280256]",Point,PersLoc,12,MISSIN,0,B3,First,No,MORTON ST,Other,Unarmed,769198.3224,,2927429.483,2014
+39731,142054111.0,Tuesday,No,2014-12-02T20:25:00.000,PersLoc,"[-71.037465, 42.366871]",Point,PersLoc,12,MISC,0,A7,First,No,WEBSTER ST,Other,Unarmed,781163.5587,,2959056.164,2014
+136769,142054139.0,Tuesday,No,2014-12-02T15:05:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,12,MISSIN,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+174287,142054517.0,Tuesday,No,2014-12-02T08:00:00.000,PersLoc,"[-71.063096, 42.31159]",Point,PersLoc,12,MISSIN,0,C11,Day,No,HANCOCK ST,Other,Unarmed,774340.0595,,2938874.267,2014

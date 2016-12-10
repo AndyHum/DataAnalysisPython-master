@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104913,142050888.0,Thursday,No,2014-11-20T13:00:00.000,PersLoc,"[-71.07713, 42.280711]",Point,PersLoc,11,IVPER,0,B3,Day,No,FULLER ST,Other,Unarmed,770600.1297,,2927602.3639999996,2014
+109079,142050750.0,Thursday,No,2014-11-20T10:00:00.000,PersLoc,"[-71.077545, 42.343976]",Point,PersLoc,11,MISSIN,0,D4,Day,No,COLUMBUS AV,Other,Unarmed,770373.6426,,2950656.5889999997,2014
+230877,142050951.0,Thursday,No,2014-11-20T07:45:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,11,IVPER,0,B3,Day,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2014

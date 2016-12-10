@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115752,130272954.0,Wednesday,No,2013-05-08T10:07:00.000,WEAPONS CHARGE,"[-71.05508, 42.326231]",Point,15xx,5,ARREST,914,C6,Day,No,OCALLAGHAN WY,Part Two,Firearm,776480.5259,STERLING SQ,2944220.881,2013
+158273,130272415.0,Wednesday,No,2013-05-08T02:20:00.000,WEAPONS CHARGE,"[-71.137245, 42.353611]",Point,15xx,5,ARREST,803,D14,Last,No,CAMBRIDGE ST,Part Two,Unarmed,754219.4698,N BEACON ST,2954093.49,2013
+169737,130273919.0,Wednesday,No,2013-05-08T16:55:00.000,WEAPONS CHARGE,"[-71.06412, 42.352331]",Point,15xx,5,ARREST,117,A1,First,No,BOYLSTON ST,Part Two,Knife,773987.3769,TAMWORTH ST,2953719.567,2013

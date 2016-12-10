@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46776,130577886.0,Wednesday,No,2013-09-11T12:37:00.000,Service,"[-71.066534, 42.313851]",Point,Service,9,ARREST,332,C11,Day,No,PAYSON AV,Part three,Unarmed,773405.9843,,2939693.4289999995,2013
+56019,130580868.0,Wednesday,No,2013-09-11T15:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,9,AOD   ,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+59500,130600136.0,Wednesday,No,2013-09-11T22:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,9,IVPER ,257,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2013
+134627,130577387.0,Wednesday,No,2013-09-11T07:30:00.000,Service,"[-71.06942, 42.362401]",Point,Service,9,IVPER ,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+190431,130577590.0,Wednesday,No,2013-09-11T10:15:00.000,Service,"[-71.032635, 42.375156]",Point,Service,9,ARREST,21,A7,Day,No,CHELSEA ST,Part three,Unarmed,782452.2703,,2962082.495,2013
+248105,130577811.0,Wednesday,No,2013-09-11T12:01:00.000,Service,"[-71.05694, 42.330301]",Point,Service,9,TSTOP ,194,C6,Day,No,DORCHESTER AV,Part three,Unarmed,775969.8515,,2945701.44,2013
+263799,130579197.0,Wednesday,No,2013-09-11T21:15:00.000,Service,"[0, 0]",Point,Service,9,ARREST,0,C11,First,No,PLAYSTEAD RD,Part three,Unarmed,,,,2013

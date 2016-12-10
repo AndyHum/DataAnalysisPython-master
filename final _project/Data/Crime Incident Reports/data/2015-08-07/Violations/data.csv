@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15175,,Friday,No,2015-08-07T23:25:00.000,Violations,"[0, 0]",Point,VAL,8,IVPER,357,C11,,No,CLAYBOURNE ST,Part Two,None,,DAKOTA ST,,2015
+25099,,Friday,No,2015-08-07T00:00:00.000,Firearm Violations,"[-71.092567, 42.280485]",Point,15xx,8,REQP,427,B3,,No,BLUE HILL AVE,Part Two,Firearm,766423.0,,2930000.0,2015
+26693,,Friday,No,2015-08-07T11:37:00.000,Violations,"[0, 0]",Point,VAL,8,ARREST,309,B2,,No,MARTIN LUTHER KING JR BLVD,Part Two,None,,,,2015
+38549,,Friday,No,2015-08-07T00:00:00.000,Restraining Order Violations,"[-71.060844, 42.293014]",Point,Restrain,8,VIORDR,363,C11,,No,WHITTEN ST,Part Two,None,774984.0,,2930000.0,2015
+76969,,Friday,No,2015-08-07T00:00:00.000,Violations,"[-71.08859, 42.293304]",Point,VAL,8,TS,463,B3,,No,BLUE HILL AVE,Part Two,None,767477.0,,2930000.0,2015
+154389,,Friday,No,2015-08-07T00:00:00.000,Restraining Order Violations,"[-71.060844, 42.312096]",Point,Restrain,8,VIORDR,823,C11,,No,SAWYER AVE,Part Two,None,774948.0,,2940000.0,2015

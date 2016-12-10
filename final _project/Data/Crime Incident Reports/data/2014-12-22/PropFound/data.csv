@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87506,142060283.0,Monday,No,2014-12-22T11:00:00.000,PropFound,"[-71.15971, 42.259166]",Point,PropFound,12,LARCEN,0,E5,Day,No,WASHINGTON ST,Part three,Other,748284.5237,,2919651.08,2014
+120342,142059825.0,Monday,No,2014-12-22T14:00:00.000,PropFound,"[-71.05402, 42.311761]",Point,PropFound,12,LARCEN,0,C11,Day,No,SAVIN HILL AV,Part three,Unarmed,776794.7359999999,,2938949.278,2014
+264289,142059849.0,Monday,No,2014-12-22T17:12:00.000,PropFound,"[0, 0]",Point,PropFound,12,SS,0,E5,First,No,BROOKWAY TR,Part three,Unarmed,,,,2014

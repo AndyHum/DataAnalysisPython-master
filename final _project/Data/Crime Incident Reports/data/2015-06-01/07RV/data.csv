@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20775,152045403.0,Monday,No,2015-06-01T21:32:00.000,07RV,"[-71.071288, 42.296566]",Point,07RV,6,IVMV,0,C11,First,No,CLAYBOURNE ST,Other,Unarmed,772151.7903,,2933387.893,2015
+42106,152045110.0,Monday,No,2015-06-01T01:07:00.000,07RV,"[-71.047314, 42.294874]",Point,07RV,6,IVMV,0,C11,Last,No,MORRISSEY BL,Other,Unarmed,778641.0768,,2932804.8460000004,2015
+210542,152045221.0,Monday,No,2015-06-01T11:32:00.000,07RV,"[-71.053898, 42.311069]",Point,07RV,6,IVMV,0,C11,Day,No,S SYDNEY ST,Other,Unarmed,776828.8446,,2938697.216,2015

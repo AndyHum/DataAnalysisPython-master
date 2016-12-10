@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9447,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.147625, 42.349962]",Point,08xx,7,AB,784,D14,,No,CAMBRIDGE ST,Part Two,Personal Weapon (hand  foot  etc.),751419.0,,2950000.0,2015
+30972,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.083658, 42.332488]",Point,08xx,7,NIDV,276,B2,,No,SHAWMUT AVE,Part Two,Other,768741.0,,2950000.0,2015
+61815,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.055932, 42.376632]",Point,08xx,7,AB,41,A15,,No,VINE ST,Part Two,None,776154.0,,2960000.0,2015
+63704,,Friday,No,2015-07-31T21:51:00.000,Simple Assault,"[0, 0]",Point,08xx,7,IVPER,0,,,No,,Part Two,Personal Weapon (hand  foot  etc.),,TREMONT ST,,2015
+83554,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.145078, 42.345]",Point,08xx,7,AB,785,D14,,No,WASHINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),752115.0,,2950000.0,2015
+107926,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.082378, 42.295402]",Point,08xx,7,NIDV,441,B3,,No,NIGHTINGALE ST,Part Two,Personal Weapon (hand  foot  etc.),769154.0,,2930000.0,2015
+150310,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.06047, 42.299197]",Point,08xx,7,DISTRB,356,C11,,No,DORCHESTER AVE,Part Two,None,775074.0,,2930000.0,2015
+182355,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.057889, 42.379236]",Point,08xx,7,AB,900,A15,,No,MEDFORD ST,Part Two,Personal Weapon (hand  foot  etc.),775621.0,,2960000.0,2015
+210047,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.084892, 42.348958]",Point,08xx,7,,141,D4,,No,NEWBURY ST,Part Two,None,768379.0,,2950000.0,2015
+229407,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.071887, 42.293606]",Point,08xx,7,IVPER,359,C11,,No,WASHINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),771995.0,,2930000.0,2015
+258360,,Friday,No,2015-07-31T00:00:00.000,Simple Assault,"[-71.060236, 42.318037]",Point,08xx,7,AB,243,C11,,No,WILLIS ST,Part Two,Other,775102.0,,2940000.0,2015

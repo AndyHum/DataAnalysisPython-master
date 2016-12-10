@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+118413,130373444.0,Tuesday,No,2013-06-18T09:00:00.000,PersLoc,"[-71.080365, 42.280871]",Point,PersLoc,6,MISPER,418,B3,Day,No,SELDEN ST,Other,Unarmed,769724.4234,,2927656.3460000004,2013
+145906,130371426.0,Tuesday,No,2013-06-18T13:58:00.000,PersLoc,"[-71.13786, 42.356511]",Point,PersLoc,6,FDCHLD,803,D14,Day,No,BRAINTREE ST,Other,Unarmed,754048.7497,,2955149.603,2013
+161436,130370719.0,Tuesday,No,2013-06-18T08:20:00.000,PersLoc,"[-71.081399, 42.314818]",Point,PersLoc,6,MSNCOM,322,B2,Day,No,HOLBORN ST,Other,Unarmed,769383.7351,,2940025.611,2013
+181527,130371499.0,Tuesday,No,2013-06-18T09:00:00.000,PersLoc,"[-71.05676, 42.297621]",Point,PersLoc,6,MISPER,355,C11,Day,No,ADAMS ST,Other,Unarmed,776080.4091,,2933792.586,2013
+212491,130372468.0,Tuesday,No,2013-06-18T23:14:00.000,PersLoc,"[-71.074125, 42.299236]",Point,PersLoc,6,INVCHD,454,B3,First,No,HARVARD ST,Other,Unarmed,771379.6048,,2934357.183,2013
+261434,130385457.0,Tuesday,No,2013-06-18T00:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,LARCRT,60,A15,Last,No,WARREN ST,Other,Unarmed,,,,2013

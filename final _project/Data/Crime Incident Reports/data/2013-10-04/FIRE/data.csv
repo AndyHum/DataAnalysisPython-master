@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21391,130632287.0,Friday,No,2013-10-04T08:30:00.000,FIRE,"[-71.084625, 42.311006]",Point,FIRE,10,FV    ,320,B2,Day,No,CRAWFORD ST,Part three,Other,768518.1535,,2938632.245,2013
+21593,130633173.0,Friday,No,2013-10-04T14:15:00.000,FIRE,"[-71.076783, 42.277723]",Point,FIRE,10,FV    ,413,B3,Day,No,PINE RIDGE RD,Part three,Unarmed,770699.4411,,2926513.954,2013
+97772,130632220.0,Friday,No,2013-10-04T04:18:00.000,FIRE,"[-71.08284, 42.309116]",Point,FIRE,10,REQP  ,329,B2,Last,No,BLUE HILL AV,Part three,Other,769004.3297,,2937945.957,2013
+101831,130632822.0,Friday,No,2013-10-04T11:47:00.000,FIRE,"[-71.05253, 42.326571]",Point,FIRE,10,FIREB ,218,C6,Day,No,OLD COLONY AV,Part three,Unarmed,777169.4318,,2944348.39,2013

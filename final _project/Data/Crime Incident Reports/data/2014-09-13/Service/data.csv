@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25065,142029021.0,Saturday,No,2014-09-13T10:20:00.000,Service,"[-71.07309, 42.351211]",Point,Service,9,ARREST,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771564.8051,BERKELEY ST,2953299.1539999996,2014
+145126,142029038.0,Saturday,No,2014-09-13T09:00:00.000,Service,"[-71.05845, 42.283507]",Point,Service,9,IVPER,0,C11,Day,No,MINOT ST,Part three,Unarmed,775649.6222,,2928646.869,2014
+151537,142028936.0,Saturday,No,2014-09-13T00:10:00.000,Service,"[-71.05849, 42.362381]",Point,Service,9,ARREST,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775490.2232,CONGRESS ST,2957389.8060000003,2014
+261773,142048392.0,Saturday,No,2014-09-13T08:00:00.000,Service,"[0, 0]",Point,Service,9,IVPER,0,B3,Day,No,MINOT ST,Part three,Other,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38526,120525353.0,Thursday,No,2012-08-23T16:00:00.000,PropLost,"[-71.116773, 42.248278]",Point,PropLost,8,LSTPRP,516,E18,First,No,WILLIAMS AV,Part Three,Other,759925.2504,,2915732.3589999997,2012
+92995,120527380.0,Thursday,No,2012-08-23T23:55:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,8,LSTPRP,146,D4,Last,No,HUNTINGTON AV,Part Three,Unarmed,769682.0757,,2951649.883,2012
+174629,120525240.0,Thursday,No,2012-08-23T10:30:00.000,PropLost,"[-71.152972, 42.345299]",Point,PropLost,8,FDPROP,772,D14,Day,No,CHESTNUT HILL AV,Part Three,Unarmed,749980.6387,,2951046.5919999997,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34382,,Saturday,No,2015-06-20T00:00:00.000,Police Service Incidents,"[-71.041088, 42.286597]",Point,Service,6,ARREST,376,C11,,No,WALNUT ST,Part Three,None,780342.0,,2930000.0,2015
+211374,,Saturday,No,2015-06-20T12:20:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,175,C6,,No,SOUTHAMPTON ST,Part Three,None,,,,2015
+236603,,Saturday,No,2015-06-20T00:00:00.000,Police Service Incidents,"[-71.150499, 42.349056]",Point,Service,6,ARREST,778,D14,,No,WASHINGTON ST,Part Three,None,750644.0,,2950000.0,2015

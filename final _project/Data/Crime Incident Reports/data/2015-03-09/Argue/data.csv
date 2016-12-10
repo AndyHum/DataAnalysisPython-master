@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1509,152018924.0,Monday,No,2015-03-09T10:30:00.000,Argue,"[0, 0]",Point,Argue,3,IVPER,0,B3,Day,No,STANDARD ST,Part three,Unarmed,,,,2015
+98461,152018951.0,Monday,No,2015-03-09T12:04:00.000,Argue,"[-71.058056, 42.304649]",Point,Argue,3,IVPER,0,C11,Day,No,KIMBALL ST,Part three,Unarmed,775716.4016,FREEPORT ST,2936351.736,2015
+137134,152019025.0,Monday,No,2015-03-09T15:00:00.000,Argue,"[-71.095665, 42.268641]",Point,Argue,3,REQP,0,B3,Day,No,CUMMINS HY,Part three,Unarmed,765605.2443,,2923179.567,2015

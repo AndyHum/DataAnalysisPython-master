@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24267,152047147.0,Saturday,No,2015-06-06T18:00:00.000,PersLoc,"[-71.060215, 42.379256]",Point,PersLoc,6,MISSIN,0,A15,First,No,CARNEY CT,Other,Unarmed,774992.3187,,2963536.9910000004,2015
+215436,152046674.0,Saturday,No,2015-06-06T01:00:00.000,PersLoc,"[-71.078657, 42.301454]",Point,PersLoc,6,IVPER,0,B3,Last,No,NORWELL ST,Other,Unarmed,770149.4675,,2935159.311,2015
+247994,152046949.0,Saturday,No,2015-06-06T22:00:00.000,PersLoc,"[-71.080471, 42.322391]",Point,PersLoc,6,MISSIN,0,B2,First,No,COPELAND ST,Other,Unarmed,769621.2376,,2942786.6739999996,2015

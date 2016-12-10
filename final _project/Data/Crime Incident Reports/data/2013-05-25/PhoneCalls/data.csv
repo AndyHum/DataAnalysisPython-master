@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23708,130360125.0,Saturday,No,2013-05-25T00:00:00.000,PhoneCalls,"[-71.119079, 42.351603]",Point,PhoneCalls,5,HARPT ,797,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,759132.7976,,2953383.027,2013
+58495,130314437.0,Saturday,No,2013-05-25T21:50:00.000,PhoneCalls,"[-71.079466, 42.327327]",Point,PhoneCalls,5,HARPT ,281,B2,First,No,MT PLEASANT AV,Part three,Unarmed,769884.0976,,2944586.5360000003,2013
+241785,130314006.0,Saturday,No,2013-05-25T15:56:00.000,PhoneCalls,"[-71.096635, 42.314056]",Point,PhoneCalls,5,HARPT ,572,E13,Day,No,CLEAVES ST,Part Three,Unarmed,765264.4382,,2939728.2260000003,2013

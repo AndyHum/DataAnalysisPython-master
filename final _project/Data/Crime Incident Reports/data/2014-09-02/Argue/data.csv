@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101787,142025479.0,Tuesday,No,2014-09-02T17:30:00.000,Argue,"[-71.081695, 42.317194]",Point,Argue,9,NIDV,0,B2,First,No,SAVIN ST,Part three,Unarmed,769299.3452,,2940891.212,2014
+159440,142025543.0,Tuesday,No,2014-09-02T19:39:00.000,Argue,"[-71.121632, 42.279758]",Point,Argue,9,FIGHT,0,E5,First,No,SEYMOUR ST,Part three,Unarmed,758558.8093,,2927198.481,2014
+188529,142025319.0,Tuesday,No,2014-09-02T09:35:00.000,Argue,"[-71.10334, 42.316351]",Point,Argue,9,VAND,0,E13,Day,No,AMORY ST,Part three,Unarmed,763447.0695,,2940556.058,2014

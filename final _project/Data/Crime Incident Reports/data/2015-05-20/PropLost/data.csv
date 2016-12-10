@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1616,152041491.0,Wednesday,No,2015-05-20T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,,,,2015
+1627,152041517.0,Wednesday,No,2015-05-20T17:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015
+1670,152041985.0,Wednesday,No,2015-05-20T16:15:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+1912,152042249.0,Wednesday,No,2015-05-20T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,IVPREM,0,E5,First,No,VFW PY,Part three,Unarmed,,,,2015
+241555,152041474.0,Wednesday,No,2015-05-20T18:00:00.000,PropLost,"[-71.084695, 42.305636]",Point,PropLost,5,PROP,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,768508.75,,2936675.341,2015
+249987,152041940.0,Wednesday,No,2015-05-20T16:00:00.000,PropLost,"[-71.084445, 42.27046]",Point,PropLost,5,PROP,0,B3,First,No,SOUTHMERE RD,Part three,Unarmed,768638.816,,2923857.0330000003,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70341,142027440.0,Monday,No,2014-09-08T13:56:00.000,TRESPASS,"[-71.170989, 42.268377]",Point,TRESPASS,9,IVPER,0,E5,Day,No,VFW PY,Part Two,Unarmed,745218.0879,,2922995.5889999997,2014
+149185,142027574.0,Monday,No,2014-09-08T19:24:00.000,TRESPASS,"[-71.077088, 42.306597]",Point,TRESPASS,9,IVPER,0,C11,First,No,COLUMBIA RD,Part Two,Unarmed,770564.5385,,2937035.453,2014
+166937,142027419.0,Monday,No,2014-09-08T12:18:00.000,TRESPASS,"[-71.065153, 42.29921]",Point,TRESPASS,9,UNKEMS,0,C11,Day,No,WALDECK ST,Part Two,Unarmed,773806.5957,,2934359.6689999998,2014
+243866,142027542.0,Monday,No,2014-09-08T17:15:00.000,TRESPASS,"[-71.10413, 42.341881]",Point,TRESPASS,9,ARREST,0,B2,First,No,BROOKLINE AV,Part Two,Unarmed,763190.2291,,2949858.655,2014

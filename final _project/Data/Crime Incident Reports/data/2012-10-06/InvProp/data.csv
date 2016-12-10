@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40110,120630742.0,Saturday,No,2012-10-06T23:22:00.000,InvProp,"[-71.088768, 42.296403]",Point,InvProp,10,IVPREM,463,B3,First,No,ANGELL ST,Part Three,Other,767423.0759999999,,2933305.2460000003,2012
+90986,120628993.0,Saturday,No,2012-10-06T03:49:00.000,InvProp,"[-71.070615, 42.320596]",Point,InvProp,10,SHOTS ,183,B2,Last,No,LEYLAND ST,Part Three,Other,772289.9823,,2942145.8639999996,2012
+95458,120631323.0,Saturday,No,2012-10-06T05:03:00.000,InvProp,"[-71.06752, 42.301071]",Point,InvProp,10,SHOTS ,342,C11,Last,No,GENEVA AV,Part Three,Firearm,773163.0622,TOPLIFF ST,2935034.875,2012
+107513,120628867.0,Saturday,No,2012-10-06T02:25:00.000,InvProp,"[-71.101383, 42.324122]",Point,InvProp,10,IVPREM,912,E13,Last,No,PARKER ST,Part Three,Firearm,763963.0763,,2943390.236,2012
+138030,120630164.0,Saturday,No,2012-10-06T18:03:00.000,InvProp,"[-71.122385, 42.257056]",Point,InvProp,10,ALARMC,520,E18,First,No,HARVARD AV,Part Three,Unarmed,758391.8746,,2918924.689,2012
+230003,120628811.0,Saturday,No,2012-10-06T02:08:00.000,InvProp,"[-71.102195, 42.323541]",Point,InvProp,10,IVPREM,0,E13,Last,No,BICKFORD ST,Part Three,Other,763744.522,,2943177.66,2012

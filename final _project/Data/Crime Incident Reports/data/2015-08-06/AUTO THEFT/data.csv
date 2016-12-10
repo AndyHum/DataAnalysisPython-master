@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43888,,Thursday,No,2015-08-06T00:00:00.000,Auto Theft,"[-71.05258, 42.318105]",Point,07xx,8,IVMV,245,C11,,No,SYDNEY ST,Part One,None,777172.0,,2940000.0,2015
+138740,,Thursday,No,2015-08-06T00:00:00.000,Auto Theft,"[-71.085634, 42.328663]",Point,07xx,8,IVMV,311,B2,,No,MARTIN LUTHER KING JR BLVD,Part One,None,768214.0,WARREN ST,2950000.0,2015
+217910,,Thursday,No,2015-08-06T00:00:00.000,Auto Theft,"[-71.082743, 42.297466]",Point,07xx,8,IVMV,444,B3,,No,BICKNELL ST,Part One,None,769051.0,,2930000.0,2015

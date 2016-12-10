@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75530,120609286.0,Thursday,No,2012-09-27T23:35:00.000,Ballist,"[-71.076105, 42.320506]",Point,Ballist,9,SHOTS ,264,B2,First,No,W COTTAGE ST,Part Two,Firearm,770805.4354,,2942105.64,2012
+140860,120609093.0,Thursday,No,2012-09-27T21:21:00.000,Ballist,"[-71.099148, 42.277764]",Point,Ballist,9,SHOTS ,470,B3,First,No,COLORADO ST,Part Two,Firearm,764646.8581,,2926499.588,2012
+153932,120607653.0,Thursday,No,2012-09-27T10:30:00.000,Ballist,"[-71.156649, 42.284828]",Point,Ballist,9,FDPROP,735,E5,Day,No,CENTRE ST,Part Two,Unarmed,749075.4916,,2929005.876,2012

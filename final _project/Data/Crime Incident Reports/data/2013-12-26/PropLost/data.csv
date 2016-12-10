@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129261,130811684.0,Thursday,No,2013-12-26T17:30:00.000,PropLost,"[-71.03685, 42.379501]",Point,PropLost,12,LARCRT,24,A7,First,No,EUTAW ST,Part three,Unarmed,781304.7602,,2963659.69,2013
+169909,130812861.0,Thursday,No,2013-12-26T12:00:00.000,PropLost,"[-71.07632, 42.350356]",Point,PropLost,12,LARCRT,134,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2013
+190157,130813742.0,Thursday,No,2013-12-26T21:00:00.000,PropLost,"[-71.0729, 42.333256]",Point,PropLost,12,LARCRT,172,D4,First,No,MASSACHUSETTS AV,Part three,Other,771648.9274,,2946756.2810000004,2013
+266455,130814904.0,Thursday,No,2013-12-26T21:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,LSTPRP,97,A1,First,No,TREMONT ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56892,130114015.0,Sunday,No,2013-02-24T14:30:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,2,LARCIP,186,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013
+60719,130136924.0,Sunday,No,2013-02-24T16:00:00.000,PropLost,"[-71.09785, 42.314351]",Point,PropLost,2,LSTPRP,572,E13,First,No,DIXWELL ST,Part Three,Unarmed,764935.3132,,2939834.1780000003,2013
+61617,130142841.0,Sunday,No,2013-02-24T12:00:00.000,PropLost,"[-71.11802, 42.268856]",Point,PropLost,2,LSTPRP,492,E18,Day,No,HUNTINGTON AV,Part Three,Unarmed,759554.2784,,2923230.028,2013
+100725,130113458.0,Sunday,No,2013-02-24T07:15:00.000,PropLost,"[-71.063225, 42.316006]",Point,PropLost,2,IVPER ,241,C11,Last,No,STOUGHTON ST PL,Part Three,Unarmed,774297.0839,STOUGHTON ST,2940483.34,2013
+118929,130113998.0,Sunday,No,2013-02-24T08:05:00.000,PropLost,"[-71.064255, 42.299891]",Point,PropLost,2,LSTPRP,355,C11,Day,No,CHARLES ST,Part Three,Unarmed,774048.5119,,2934609.361,2013
+141270,130136725.0,Sunday,No,2013-02-24T01:00:00.000,PropLost,"[-71.069025, 42.307691]",Point,PropLost,2,LSTPRP,336,C11,Last,No,HAMILTON ST,Part Three,Unarmed,772743.7386,,2937445.2430000002,2013
+221766,130114361.0,Sunday,No,2013-02-24T02:30:00.000,PropLost,"[-71.15526, 42.349106]",Point,PropLost,2,MEET  ,770,D14,Last,No,WASHINGTON ST,Part Three,Unarmed,749356.6794,,2952431.58,2013
+266262,130111557.0,Sunday,No,2013-02-24T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,NOTIFY,167,D4,First,No,PARK PLAZA,Part Three,Unarmed,,,,2013

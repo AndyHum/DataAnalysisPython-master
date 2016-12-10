@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108812,142002470.0,Tuesday,No,2014-06-24T16:35:00.000,DISORDERLY,"[-71.07497, 42.325271]",Point,24xx,6,SS,0,B2,First,No,DUDLEY ST,Part Two,Unarmed,771103.7314,BLUE HILL AV,2943843.613,2014
+119643,142002525.0,Tuesday,No,2014-06-24T19:08:00.000,DISORDERLY,"[-71.03894, 42.370111]",Point,24xx,6,TS,0,A7,First,No,MAVERICK SQ,Part Two,Unarmed,780758.5695,MERIDIAN ST,2960234.723,2014
+190240,142002487.0,Tuesday,No,2014-06-24T16:55:00.000,DISORDERLY,"[-71.064346, 42.353072]",Point,24xx,6,ARREST,0,A1,First,No,TREMONT ST,Part Two,Other,773924.729,,2953989.2660000003,2014

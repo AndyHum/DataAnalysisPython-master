@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33377,130531818.0,Friday,No,2013-08-23T07:20:00.000,InvProp,"[-71.06041, 42.299431]",Point,InvProp,8,IVPREM,351,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775089.5518,,2934447.067,2013
+108079,130531715.0,Friday,No,2013-08-23T04:04:00.000,InvProp,"[-71.102595, 42.327694]",Point,InvProp,8,BEIP  ,584,B2,Last,No,FISHER AV,Part three,Other,763629.1607,,2944690.4289999995,2013
+157483,130532501.0,Friday,No,2013-08-23T13:49:00.000,InvProp,"[-71.054165, 42.367806]",Point,InvProp,8,THREAT,82,A1,Day,No,COMMERCIAL ST,Part three,Unarmed,776648.7632,,2959372.8639999996,2013
+191080,130532753.0,Friday,No,2013-08-23T09:00:00.000,InvProp,"[-71.049485, 42.337946]",Point,InvProp,8,MVINV ,214,C6,Day,No,W BROADWAY,Part three,Unarmed,777970.9433,,2948497.9680000003,2013
+193593,130533374.0,Friday,No,2013-08-23T20:37:00.000,InvProp,"[-71.096045, 42.332541]",Point,InvProp,8,SHOTS ,588,B2,First,No,GURNEY ST,Part three,Other,765392.1119,PARKMAN ST,2946465.235,2013
+238588,130533196.0,Friday,No,2013-08-23T19:25:00.000,InvProp,"[-71.07805, 42.340491]",Point,InvProp,8,IVPER ,154,D4,First,No,W CONCORD ST,Part three,Unarmed,770243.4047,TREMONT ST,2949385.914,2013

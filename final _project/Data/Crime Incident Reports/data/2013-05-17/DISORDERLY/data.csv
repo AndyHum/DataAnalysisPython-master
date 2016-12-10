@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56185,130300651.0,Friday,No,2013-05-17T02:55:00.000,DISORDERLY,"[-71.04206, 42.317766]",Point,24xx,5,IVPER ,256,C6,Last,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2013
+99427,130293754.0,Friday,No,2013-05-17T04:34:00.000,DISORDERLY,"[-71.071411, 42.280731]",Point,24xx,5,PARTY ,416,B3,Last,No,OGDEN ST,Part Two,Unarmed,772147.7053,,2927617.192,2013
+216267,130293572.0,Friday,No,2013-05-17T01:15:00.000,DISORDERLY,"[-71.131796, 42.352053]",Point,24xx,5,IVPER ,796,D14,Last,No,HARVARD AV,Part Two,Unarmed,755694.562,,2953532.085,2013

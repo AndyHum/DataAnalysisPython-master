@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16467,142009447.0,Wednesday,No,2014-06-11T12:23:00.000,FORGERY,"[-71.054315, 42.356316]",Point,10xx,6,LARCEN,0,A1,Day,No,FRANKLIN ST,Part Two,Unarmed,776630.1058,,2955185.472,2014
+87706,140381190.0,Wednesday,No,2014-06-11T00:00:00.000,FORGERY,"[-71.099385, 42.342666]",Point,10xx,6,LARCRT,626,D4,Last,No,KILMARNOCK ST,Part Two,Unarmed,764471.6869,,2950150.713,2014
+210847,140369696.0,Wednesday,No,2014-06-11T17:18:00.000,FORGERY,"[-71.062085, 42.356341]",Point,10xx,6,LARCIP,102,A1,First,No,TREMONT ST,Part Two,Unarmed,774529.9407,,2955183.704,2014
+251137,142053606.0,Wednesday,No,2014-06-11T12:00:00.000,FORGERY,"[-71.0586, 42.306861]",Point,10xx,6,IVPER,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775565.1968,,2937157.1989999996,2014

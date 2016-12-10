@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6905,120570504.0,Tuesday,No,2012-09-11T21:45:00.000,PersLoc,"[-71.06577, 42.302076]",Point,PersLoc,9,MISPER,345,C11,First,No,RIDGEWOOD ST,Part Three,Unarmed,773634.6072,,2935403.522,2012
+80327,120570057.0,Tuesday,No,2012-09-11T21:31:00.000,PersLoc,"[-71.089912, 42.309524]",Point,PersLoc,9,IVPER ,318,B2,First,No,BROOKLEDGE ST,Part Three,Unarmed,767090.6075,,2938085.256,2012
+90632,120569243.0,Tuesday,No,2012-09-11T16:26:00.000,PersLoc,"[-71.077804, 42.278457]",Point,PersLoc,9,MSNCOM,413,B3,First,No,GALLIVAN BL,Part Three,Unarmed,770421.59,,2926780.098,2012
+104791,120572530.0,Tuesday,No,2012-09-11T20:30:00.000,PersLoc,"[-71.080942, 42.275561]",Point,PersLoc,9,MISPER,943,B3,First,No,WOODBOLE AV,Part Three,Unarmed,769577.6478,,2925720.2569999998,2012

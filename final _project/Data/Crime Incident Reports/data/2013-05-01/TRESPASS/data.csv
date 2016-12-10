@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+152324,130256706.0,Wednesday,No,2013-05-01T11:51:00.000,TRESPASS,"[-71.084855, 42.331031]",Point,TRESPASS,5,BEIP  ,287,B2,Day,No,SHAWMUT AV,Part Two,Unarmed,768420.427,,2945929.492,2013
+228160,130256191.0,Wednesday,No,2013-05-01T07:57:00.000,TRESPASS,"[-71.111315, 42.266846]",Point,TRESPASS,5,BEIP  ,488,E18,Day,No,WOOD AV,Part Two,Unarmed,761372.3829999999,,2922505.7539999997,2013
+253134,130257648.0,Wednesday,No,2013-05-01T18:22:00.000,TRESPASS,"[-71.084807, 42.328824]",Point,TRESPASS,5,SSTOP ,0,B2,First,No,DUDLEY ST,Part Two,Other,768437.1156,,2945125.001,2013

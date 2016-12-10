@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+149891,120537416.0,Tuesday,No,2012-08-28T18:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,8,FDPROP,778,D14,First,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012
+189234,120537991.0,Tuesday,No,2012-08-28T21:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,8,FDPROP,778,D14,First,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012
+205986,120537992.0,Tuesday,No,2012-08-28T23:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,8,FDPROP,778,D14,First,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012
+265663,120537876.0,Tuesday,No,2012-08-28T21:30:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,27,A7,First,No,MAVERICK SQ,Part Three,Unarmed,,,,2012

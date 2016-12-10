@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95268,130339193.0,Wednesday,No,2013-06-05T03:14:00.000,Arrest,"[-71.12903, 42.258421]",Point,Arrest,6,ARREST,545,E18,Last,No,GORDON AV,Part three,Unarmed,756590.8388,,2919414.2189999996,2013
+152679,130339714.0,Wednesday,No,2013-06-05T10:24:00.000,Arrest,"[-71.0771, 42.288171]",Point,Arrest,6,ARREST,437,B3,Day,No,NORFOLK ST,Part Three,Unarmed,770594.772,FERNDALE ST,2930320.93,2013
+154313,130339673.0,Wednesday,No,2013-06-05T10:10:00.000,Arrest,"[-71.055312, 42.327496]",Point,Arrest,6,ARREST,914,C6,Day,No,OCALLAGHAN WY,Part three,Unarmed,776415.2591,,2944681.3510000003,2013

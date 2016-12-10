@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6625,140344331.0,Sunday,No,2014-06-01T22:04:00.000,PropFound,"[-71.07524, 42.350651]",Point,PropFound,6,FDPROP,130,D4,First,No,BOYLSTON ST,Part three,Unarmed,770984.6601,CLARENDON ST,2953092.1780000003,2014
+40287,140345195.0,Sunday,No,2014-06-01T01:00:00.000,PropFound,"[-71.062615, 42.305826]",Point,PropFound,6,FDPROP,346,C11,Last,No,JULIETTE ST,Part three,Unarmed,774481.0871,,2936774.434,2014
+107940,140342708.0,Sunday,No,2014-06-01T06:15:00.000,PropFound,"[-71.06228, 42.319881]",Point,PropFound,6,FDPROP,282,C11,Last,No,COLUMBIA RD,Part three,Other,774545.4197,,2941896.7630000003,2014
+157212,140343759.0,Sunday,No,2014-06-01T17:45:00.000,PropFound,"[-71.148595, 42.349557]",Point,PropFound,6,FDPROP,778,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,751157.6141,,2952603.025,2014
+206549,140343655.0,Sunday,No,2014-06-01T17:03:00.000,PropFound,"[-71.07844, 42.336626]",Point,PropFound,6,FDPROP,947,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770144.9281,,2947976.917,2014
+225597,140344078.0,Sunday,No,2014-06-01T21:16:00.000,PropFound,"[-71.10514, 42.337771]",Point,PropFound,6,FDPROP,612,B2,First,No,BLACKFAN ST,Part three,Unarmed,762924.1121,LONGWOOD AV,2948359.628,2014

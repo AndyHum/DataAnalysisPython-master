@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78874,152018905.0,Monday,No,2015-03-09T09:30:00.000,PropLost,"[-71.08257, 42.288461]",Point,PropLost,3,LARCEN,0,B3,Day,No,CALLENDER ST,Part three,Unarmed,769114.1966,,2930419.3210000005,2015
+83311,152019452.0,Monday,No,2015-03-09T13:00:00.000,PropLost,"[-71.06205, 42.293831]",Point,PropLost,3,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774656.363,,2932404.063,2015
+213953,152019415.0,Monday,No,2015-03-09T11:00:00.000,PropLost,"[-71.1029, 42.347231]",Point,PropLost,3,MISC,0,D4,Day,No,BEACON ST,Part three,Unarmed,763513.6806,,2951809.8430000003,2015
+258253,152018976.0,Monday,No,2015-03-09T19:15:00.000,PropLost,"[-71.10383, 42.322836]",Point,PropLost,3,PROP,0,E13,First,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2015
+266371,152019333.0,Monday,No,2015-03-09T11:15:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,B3,Day,No,MORTON ST,Part three,Unarmed,,,,2015

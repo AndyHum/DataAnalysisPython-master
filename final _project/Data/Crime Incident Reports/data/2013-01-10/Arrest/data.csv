@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74950,130020565.0,Thursday,No,2013-01-10T17:42:00.000,Arrest,"[0, 0]",Point,Arrest,1,SSTOP ,164,D4,First,No,PERRY ST,Part Three,Unarmed,,,,2013
+114250,130020974.0,Thursday,No,2013-01-10T21:45:00.000,Arrest,"[-71.082049, 42.294765]",Point,Arrest,1,CD11  ,441,B3,First,No,KINGSDALE ST,Part Three,Unarmed,769243.8945,,2932717.086,2013
+152144,130019301.0,Thursday,No,2013-01-10T06:15:00.000,Arrest,"[-71.094969, 42.271415]",Point,Arrest,1,CD11  ,476,B3,Last,No,REGIS RD,Part Three,Unarmed,765788.6311,,2924191.133,2013
+152829,130019583.0,Thursday,No,2013-01-10T08:00:00.000,Arrest,"[-71.069531, 42.292891]",Point,Arrest,1,IVPER ,362,C11,Day,No,LYNDHURST ST,Part Three,Unarmed,772633.9537,,2932051.247,2013

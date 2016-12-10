@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3947,,Wednesday,No,2015-07-15T00:00:00.000,Police Service Incidents,"[-71.063705, 42.352312]",Point,Service,7,ARREST,117,A1,,No,BOYLSTON ST,Part Three,None,774099.0,,2950000.0,2015
+195210,,Wednesday,No,2015-07-15T15:30:00.000,Service,"[0, 0]",Point,Service,7,IVPER,253,C11,,No,EVERETT ST,Part Three,None,,PARK ST,,2015
+217877,,Wednesday,No,2015-07-15T19:04:00.000,Police Service Incidents,"[0, 0]",Point,Service,7,SS,173,A1,,No,ATLANTIC AVE,Part Three,None,,,,2015

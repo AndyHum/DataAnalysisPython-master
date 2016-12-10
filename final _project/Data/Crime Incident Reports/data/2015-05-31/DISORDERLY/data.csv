@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2245,152044963.0,Sunday,No,2015-05-31T12:15:00.000,DISORDERLY,"[0, 0]",Point,24xx,5,ARREST,0,D4,Day,No,DARTMOUTH ST,Part Two,Other,,,,2015
+47868,152044879.0,Sunday,No,2015-05-31T03:21:00.000,DISORDERLY,"[-71.02958, 42.380691]",Point,24xx,5,ARREST,0,A7,Last,No,LEXINGTON ST,Part Two,Unarmed,783266.6211,,2964104.1,2015
+104827,152044954.0,Sunday,No,2015-05-31T12:07:00.000,DISORDERLY,"[-71.10917, 42.263666]",Point,24xx,5,IVPER,0,E18,Day,No,WOOD AV,Part Two,Unarmed,761958.2772,,2921349.5730000003,2015
+148711,152044853.0,Sunday,No,2015-05-31T02:03:00.000,DISORDERLY,"[-71.058885, 42.305581]",Point,24xx,5,SS,0,C11,Last,No,DORCHESTER AV,Part Two,Unarmed,775490.5175,,2936690.348,2015

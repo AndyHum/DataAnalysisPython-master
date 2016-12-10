@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+190642,142026448.0,Friday,No,2014-09-05T14:47:00.000,FORGERY,"[-71.0599, 42.301691]",Point,10xx,9,LARCEN,0,C11,Day,No,ADAMS ST,Part Two,Unarmed,775223.272,,2935271.356,2014
+193598,142026512.0,Friday,No,2014-09-05T15:21:00.000,FORGERY,"[-71.06575, 42.325491]",Point,10xx,9,ROBBER,0,C6,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,773596.582,,2943936.3439999996,2014
+239277,142026371.0,Friday,No,2014-09-05T11:00:00.000,FORGERY,"[-71.106295, 42.307636]",Point,10xx,9,IVPER,0,E13,Day,No,WASHINGTON ST,Part Two,Unarmed,762662.5281,,2937376.465,2014

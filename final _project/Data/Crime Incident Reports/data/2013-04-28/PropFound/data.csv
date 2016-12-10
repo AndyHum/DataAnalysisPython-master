@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66761,130261199.0,Sunday,No,2013-04-28T15:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,4,FDPROP,355,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2013
+95110,130249898.0,Sunday,No,2013-04-28T11:16:00.000,PropFound,"[-71.07586, 42.345351]",Point,PropFound,4,FDPROP,149,D4,Day,No,COLUMBUS AV,Part Three,Unarmed,770826.6721,YARMOUTH ST,2951159.9239999996,2013
+225941,130249712.0,Sunday,No,2013-04-28T07:00:00.000,PropFound,"[-71.069835, 42.349906]",Point,PropFound,4,FDPROP,125,A1,Last,No,ARLINGTON ST,Part Three,Unarmed,772447.0544,STUART ST,2952828.008,2013

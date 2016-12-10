@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3845,152048937.0,Friday,No,2015-06-12T11:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,IVPER,0,E5,Day,No,UNITY CT,Other,Unarmed,,,,2015
+28995,152049207.0,Friday,No,2015-06-12T13:00:00.000,PersLoc,"[-71.09131, 42.330001]",Point,PersLoc,6,MISSIN,0,B2,Day,No,JOHN ELIOT SQ,Other,Unarmed,766676.8321,,2945545.713,2015
+85540,152048963.0,Friday,No,2015-06-12T09:00:00.000,PersLoc,"[-71.080171, 42.323684]",Point,PersLoc,6,IVPER,0,B2,Day,No,ASPEN ST,Other,Unarmed,769700.0537,,2943258.247,2015
+98250,152048895.0,Friday,No,2015-06-12T06:00:00.000,PersLoc,"[-71.016865, 42.382321]",Point,PersLoc,6,IVPER,0,A7,Last,No,HORACE ST,Other,Unarmed,786698.6057,,2964717.308,2015
+137501,152048773.0,Friday,No,2015-06-12T17:03:00.000,PersLoc,"[-71.085279, 42.290702]",Point,PersLoc,6,IVPER,0,B3,First,No,WESTVIEW ST,Other,Unarmed,768377.0931,,2931232.3639999996,2015

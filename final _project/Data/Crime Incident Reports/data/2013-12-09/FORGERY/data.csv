@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24804,130776055.0,Monday,No,2013-12-09T13:00:00.000,FORGERY,"[-71.059735, 42.297541]",Point,10xx,12,INVEST,355,C11,Day,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013
+36100,142000104.0,Monday,No,2013-12-09T13:36:00.000,FORGERY,"[-71.064655, 42.375356]",Point,10xx,12,LARCEN,0,A15,Day,No,AUSTIN ST,Part Two,Unarmed,773799.9395,,2962109.5960000004,2013
+149815,130776300.0,Monday,No,2013-12-09T15:58:00.000,FORGERY,"[-71.138508, 42.355898]",Point,10xx,12,LARCIP,804,D14,Day,No,EVERETT ST,Part Two,Unarmed,753874.4121,,2954925.45,2013
+185061,130776297.0,Monday,No,2013-12-09T15:55:00.000,FORGERY,"[-71.058089, 42.357829]",Point,10xx,12,LARCRT,97,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,775607.1052,,2955731.24,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99681,120734106.0,Wednesday,No,2012-11-21T10:07:00.000,Service,"[-71.043581, 42.321064]",Point,Service,11,IVPER ,256,C6,Day,No,N POINT DR,Part Three,Unarmed,779600.0536,,2942354.07,2012
+129080,120734592.0,Wednesday,No,2012-11-21T20:00:00.000,Service,"[-71.06724, 42.361136]",Point,Service,11,RAPRPT,64,A1,First,No,CAMBRIDGE ST,Part Three,Unarmed,773127.7532,,2956923.985,2012
+138518,120732462.0,Wednesday,No,2012-11-21T08:53:00.000,Service,"[-71.14026, 42.352531]",Point,Service,11,TSTOP ,795,D14,Day,No,CAMBRIDGE ST,Part Three,Unarmed,753406.1814,GORDON ST,2953696.4639999997,2012
+246814,120732527.0,Wednesday,No,2012-11-21T09:30:00.000,Service,"[-71.05974, 42.318386]",Point,Service,11,CD11  ,240,C11,Day,No,CHASE ST,Part Three,Other,775235.1522,,2941355.4960000003,2012
+259773,120732683.0,Wednesday,No,2012-11-21T10:15:00.000,Service,"[-71.09639, 42.334426]",Point,Service,11,ARREST,901,B2,Day,No,MCGREEVEY WY,Part Three,Unarmed,765295.5776,,2947151.722,2012

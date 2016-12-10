@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33510,130447723.0,Friday,No,2013-07-19T12:00:00.000,PropFound,"[-71.055631, 42.381676]",Point,PropFound,7,FDPROP,37,A15,Day,No,TERMINAL ST,Part three,Unarmed,776226.2569,,2964425.193,2013
+199573,130448127.0,Friday,No,2013-07-19T13:00:00.000,PropFound,"[-71.155404, 42.285926]",Point,PropFound,7,FDPROP,736,E5,Day,No,CENTRE ST,Part three,Unarmed,749410.7029,,2929407.3460000004,2013
+232039,130449117.0,Friday,No,2013-07-19T23:00:00.000,PropFound,"[-71.142555, 42.286066]",Point,PropFound,7,FDPROP,687,E5,First,No,BELGRADE AV,Part three,Unarmed,752887.3367,,2929472.8210000005,2013

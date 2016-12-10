@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135690,142061303.0,Friday,No,2014-12-26T11:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,12,IVPREM,0,A1,Day,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014
+199060,142060807.0,Friday,No,2014-12-26T22:48:00.000,InvProp,"[-71.056715, 42.295031]",Point,InvProp,12,SHOTS,0,C11,First,No,CENTRE ST,Part three,Unarmed,776097.4878,,2932848.817,2014
+225804,142060661.0,Friday,No,2014-12-26T11:15:00.000,InvProp,"[-71.044545, 42.347516]",Point,InvProp,12,SUSOBJ,0,C6,Day,No,SUMMER ST,Part three,Unarmed,779287.9190000001,,2951992.539,2014

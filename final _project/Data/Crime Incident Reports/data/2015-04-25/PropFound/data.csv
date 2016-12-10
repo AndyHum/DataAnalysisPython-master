@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128,152033674.0,Saturday,No,2015-04-25T12:35:00.000,PropFound,"[0, 0]",Point,PropFound,4,IVPREM,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,,,,2015
+12582,152033796.0,Saturday,No,2015-04-25T18:50:00.000,PropFound,"[-71.08037, 42.349236]",Point,PropFound,4,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769600.5057,EXETER ST,2952569.662,2015
+45642,152033672.0,Saturday,No,2015-04-25T13:35:00.000,PropFound,"[-71.05418, 42.359261]",Point,PropFound,4,PROP,0,A1,Day,No,STATE ST,Part three,Unarmed,776660.9853,INDIA ST,2956258.877,2015
+118094,152033900.0,Saturday,No,2015-04-25T23:30:00.000,PropFound,"[-71.0604, 42.355356]",Point,PropFound,4,IVPREM,0,A1,First,No,SUMMER ST,Part three,Unarmed,774987.2219,,2954827.095,2015
+123779,152033963.0,Saturday,No,2015-04-25T17:00:00.000,PropFound,"[-71.07131, 42.352581]",Point,PropFound,4,PROP,0,D4,First,No,NEWBURY ST,Part three,Unarmed,772043.443,MASSACHUSETTS AV,2953800.8219999997,2015

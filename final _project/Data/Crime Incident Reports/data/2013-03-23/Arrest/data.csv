@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54741,130170520.0,Saturday,No,2013-03-23T10:30:00.000,Arrest,"[-71.074875, 42.314326]",Point,Arrest,3,CD11  ,327,B2,Day,No,CUNNINGHAM ST,Part Three,Unarmed,771149.2998,,2939855.202,2013
+118008,130170723.0,Saturday,No,2013-03-23T12:20:00.000,Arrest,"[-71.07844, 42.306111]",Point,Arrest,3,ARREST,329,B2,Day,No,COLUMBIA RD,Part three,Unarmed,770199.8873,GENEVA AV,2936856.7389999996,2013
+175556,130170471.0,Saturday,No,2013-03-23T09:49:00.000,Arrest,"[-71.09641, 42.332791]",Point,Arrest,3,ARREST,588,B2,Day,No,PARKER ST,Part Three,Unarmed,765292.9891,GURNEY ST,2946555.872,2013

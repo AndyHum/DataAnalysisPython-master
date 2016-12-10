@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99435,140089678.0,Wednesday,No,2014-02-12T13:00:00.000,PropLost,"[-71.060585, 42.298841]",Point,PropLost,2,LARCRT,351,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775043.317,,2934231.818,2014
+114161,140089875.0,Wednesday,No,2014-02-12T15:30:00.000,PropLost,"[-71.061015, 42.353246]",Point,PropLost,2,LSTPRP,112,A1,Day,No,AVENUE DE LAFAYETTE,Part three,Unarmed,774824.9513,,2954057.314,2014
+180384,140100434.0,Wednesday,No,2014-02-12T15:00:00.000,PropLost,"[-71.119335, 42.257211]",Point,PropLost,2,LSTPRP,519,E18,Day,No,WALTER ST,Part three,Unarmed,759217.2899,,2918984.8419999997,2014
+220561,140120573.0,Wednesday,No,2014-02-12T17:00:00.000,PropLost,"[-71.09979, 42.343531]",Point,PropLost,2,LSTPRP,627,D4,First,No,KILMARNOCK ST,Part three,Unarmed,764360.7186,,2950465.422,2014

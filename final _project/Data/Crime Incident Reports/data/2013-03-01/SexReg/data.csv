@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61537,130124367.0,Friday,No,2013-03-01T12:00:00.000,SexReg,"[-71.06494, 42.343021]",Point,SexReg,3,IVPER ,165,D4,Day,No,HARRISON AV,Part Two,Unarmed,773783.0344,,2950325.6980000003,2013
+76506,130136766.0,Friday,No,2013-03-01T12:00:00.000,SexReg,"[-71.056217, 42.301778]",Point,SexReg,3,IVPER ,351,C11,Day,No,CLAYTON ST,Part Two,Unarmed,776219.4331,,2935308.202,2013
+251223,130137060.0,Friday,No,2013-03-01T12:00:00.000,SexReg,"[-71.074734, 42.300181]",Point,SexReg,3,IVPER ,461,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,771212.9109,,2934700.731,2013

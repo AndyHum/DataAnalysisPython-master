@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+147010,140277320.0,Tuesday,No,2014-05-06T10:28:00.000,FIRE,"[-71.151282, 42.350604]",Point,FIRE,5,FIREB ,778,D14,Day,No,BENTLEY ST,Part three,Unarmed,750429.6388,,2952981.602,2014
+164028,140276747.0,Tuesday,No,2014-05-06T02:25:00.000,FIRE,"[-71.03771, 42.381986]",Point,FIRE,5,FV    ,25,A7,Last,No,FALCON ST,Part three,Other,781067.4939,,2964564.018,2014
+164164,140279471.0,Tuesday,No,2014-05-06T20:00:00.000,FIRE,"[-71.03771, 42.381986]",Point,FIRE,5,INVEST,25,A7,First,No,FALCON ST,Part three,Other,781067.4939,,2964564.018,2014

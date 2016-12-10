@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24490,130205035.0,Sunday,No,2013-04-07T19:00:00.000,Arrest,"[-71.09157, 42.295581]",Point,Arrest,4,ARREST,908,B3,First,No,FRANKLIN HILL AV,Part Three,Unarmed,766666.5909,,2933002.164,2013
+88721,130203748.0,Sunday,No,2013-04-07T01:58:00.000,Arrest,"[-71.059085, 42.304686]",Point,Arrest,4,IVPER ,348,C11,Last,No,DORCHESTER AV,Part Three,Unarmed,775438.1029,,2936363.917,2013
+183859,130204412.0,Sunday,No,2013-04-07T12:55:00.000,Arrest,"[-71.076878, 42.32137]",Point,Arrest,4,CD11  ,262,B2,Day,No,WOODVILLE ST,Part Three,Unarmed,770594.8081,,2942419.2989999996,2013
+242223,130204398.0,Sunday,No,2013-04-07T12:46:00.000,Arrest,"[-71.082049, 42.294765]",Point,Arrest,4,CD11  ,441,B3,Day,No,KINGSDALE ST,Part Three,Unarmed,769243.8945,,2932717.086,2013

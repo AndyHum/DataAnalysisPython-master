@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31161,152002733.0,Saturday,No,2015-01-10T23:40:00.000,InvProp,"[-71.103345, 42.264086]",Point,InvProp,1,PKNIFE,0,E18,First,No,THORN ST,Part three,Unarmed,763534.2872,,2921509.905,2015
+101308,152003450.0,Saturday,No,2015-01-10T20:00:00.000,InvProp,"[-71.07231, 42.357206]",Point,InvProp,1,LARCEN,0,A1,First,No,OTIS PL,Part three,Unarmed,771764.6903,,2955484.9039999996,2015
+143445,152002575.0,Saturday,No,2015-01-10T08:44:00.000,InvProp,"[-71.07666, 42.351141]",Point,InvProp,1,FIRE,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2015
+213371,152002513.0,Saturday,No,2015-01-10T02:15:00.000,InvProp,"[-71.0539, 42.360761]",Point,InvProp,1,IVPER,0,A1,Last,No,CLINTON ST,Part three,Unarmed,776733.8031,,2956805.902,2015
+266118,152002524.0,Saturday,No,2015-01-10T03:40:00.000,InvProp,"[0, 0]",Point,InvProp,1,SSA,0,B2,Last,No,DANUBE ST,Part three,Other,,,,2015

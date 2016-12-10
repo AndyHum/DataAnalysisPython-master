@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33131,130126180.0,Saturday,No,2013-03-02T08:00:00.000,MedAssist,"[-71.03887, 42.371246]",Point,MedAssist,3,REQP  ,28,A7,Day,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2013
+99383,130126467.0,Saturday,No,2013-03-02T12:29:00.000,MedAssist,"[-71.06269, 42.357911]",Point,MedAssist,3,UNCONS,72,A1,Day,No,BEACON ST,Part Three,Unarmed,774363.4841,BOWDOIN ST,2955755.0039999997,2013
+109788,130125927.0,Saturday,No,2013-03-02T03:15:00.000,MedAssist,"[-71.100575, 42.264277]",Point,MedAssist,3,CARST ,483,E18,Last,No,RIVER ST,Part Three,Unarmed,764283.681,,2921582.988,2013
+124970,130126833.0,Saturday,No,2013-03-02T16:16:00.000,MedAssist,"[-71.059735, 42.297541]",Point,MedAssist,3,IVPER ,355,C11,First,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2013
+145569,130126183.0,Saturday,No,2013-03-02T09:18:00.000,MedAssist,"[-71.06732, 42.309231]",Point,MedAssist,3,VICDOG,335,C11,Day,No,BARRY PARK,Part Three,Unarmed,773202.0828,,2938008.778,2013
+157292,130126287.0,Saturday,No,2013-03-02T10:25:00.000,MedAssist,"[-71.058475, 42.291707]",Point,MedAssist,3,PKNIFE,365,C11,Day,No,GLENROSE RD,Part Three,Knife,775627.4011,,2931634.749,2013
+176720,130126971.0,Saturday,No,2013-03-02T17:18:00.000,MedAssist,"[-71.111055, 42.248171]",Point,MedAssist,3,EDP2  ,514,E18,First,No,PROSPECT ST,Part Three,Unarmed,761473.788,,2915700.667,2013
+178021,130127156.0,Saturday,No,2013-03-02T19:30:00.000,MedAssist,"[-70.972049, 42.312511]",Point,MedAssist,3,OVRDOS,376,C11,First,No,LONG ISLAND RD,Part Three,Other,798964.0477,,2939348.963,2013
+223334,130125884.0,Saturday,No,2013-03-02T00:45:00.000,MedAssist,"[-71.085618, 42.32866]",Point,MedAssist,3,INJOFF,282,B2,Last,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2013
+255416,130125725.0,Saturday,No,2013-03-02T01:13:00.000,MedAssist,"[-71.06387, 42.348356]",Point,MedAssist,3,UNK   ,127,A1,Last,No,OAK ST,Part Three,Unarmed,774062.3599,,2952271.348,2013

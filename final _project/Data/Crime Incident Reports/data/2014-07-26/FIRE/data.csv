@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12286,142013230.0,Saturday,No,2014-07-26T20:15:00.000,FIRE,"[-71.089268, 42.295385]",Point,FIRE,7,FIRE,0,B3,First,No,SHANDON RD,Part three,Unarmed,767289.676,,2932933.422,2014
+144356,142013272.0,Saturday,No,2014-07-26T22:35:00.000,FIRE,"[-71.13892, 42.354196]",Point,FIRE,7,FIRE,0,D14,First,No,EVERETT ST,Part three,Other,753765.8175,,2954304.755,2014
+169498,142013017.0,Saturday,No,2014-07-26T03:34:00.000,FIRE,"[-71.0802, 42.353336]",Point,FIRE,7,FIRE,0,D4,Last,No,BEACON ST,Part three,Unarmed,769639.1047,,2954064.008,2014
+194622,142013045.0,Saturday,No,2014-07-26T09:00:00.000,FIRE,"[-71.03994, 42.370551]",Point,FIRE,7,FIRE,0,A7,Day,No,MAVERICK ST,Part three,Unarmed,780487.479,,2960393.61,2014

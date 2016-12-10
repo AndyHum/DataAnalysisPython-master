@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27690,140075500.0,Thursday,No,2014-02-06T02:51:00.000,OPERATING UNDER INFLUENCE,"[-71.08396, 42.307516]",Point,21xx,2,INVEST,0,B2,Last,No,BLUE HILL AV,Part Two,Unarmed,768704.2273,,2937361.412,2014
+56330,140076139.0,Thursday,No,2014-02-06T11:20:00.000,OPERATING UNDER INFLUENCE,"[-71.06326, 42.289401]",Point,21xx,2,UNCONS,366,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,774337.2597,SHEPTON ST,2930788.03,2014
+139754,140077672.0,Thursday,No,2014-02-06T23:55:00.000,OPERATING UNDER INFLUENCE,"[-71.07739, 42.314841]",Point,21xx,2,ARREST,325,B2,Last,No,DACIA ST,Part Two,Unarmed,770468.1499,,2940039.4960000003,2014

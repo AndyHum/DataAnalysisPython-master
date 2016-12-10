@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90584,,Sunday,No,2015-08-09T00:00:00.000,Investigate Property,"[-71.083517, 42.289331]",Point,InvProp,8,SSA,944,B3,,No,STRATTON ST,Part Three,None,768856.0,,2930000.0,2015
+219671,,Sunday,No,2015-08-09T00:00:00.000,Investigate Property,"[-71.074871, 42.314344]",Point,InvProp,8,SSA,327,B2,,No,CUNNINGHAM ST,Part Three,None,771150.0,,2940000.0,2015
+226906,,Sunday,No,2015-08-09T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,8,CD9,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015

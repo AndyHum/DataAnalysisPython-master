@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38929,,Thursday,No,2015-07-23T00:00:00.000,Fire Related Reports,"[-71.065848, 42.364384]",Point,Fire,7,FIRE,63,A1,,No,HAWTHORNE PL,Part Three,None,773498.0,,2960000.0,2015
+213367,,Thursday,No,2015-07-23T00:00:00.000,Fire Related Reports,"[-71.055124, 42.292943]",Point,Fire,7,FIRE,367,C11,,No,ROSEMONT ST,Part Three,None,776532.0,,2930000.0,2015
+222611,,Thursday,No,2015-07-23T00:00:00.000,Fire Related Reports,"[-71.120653, 42.276682]",Point,Fire,7,FIRE,957,E18,,No,CLIFFMONT ST,Part Three,None,758829.0,,2930000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45039,120589187.0,Thursday,No,2013-07-11T12:00:00.000,Arrest,"[-71.077765, 42.319156]",Point,Arrest,7,CD10  ,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770358.9422,CLIFFORD ST,2941611.45,2013
+85778,130427220.0,Thursday,No,2013-07-11T09:32:00.000,Arrest,"[-71.06443, 42.285251]",Point,Arrest,7,ARREST,402,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774028.4138,,2929274.0930000003,2013
+193325,130428632.0,Thursday,No,2013-07-11T17:00:00.000,Arrest,"[-71.089215, 42.340161]",Point,Arrest,7,IVPER ,283,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767225.4855,,2949250.922,2013

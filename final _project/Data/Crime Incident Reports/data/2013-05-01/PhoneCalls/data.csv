@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4980,130294986.0,Wednesday,No,2013-05-01T20:00:00.000,PhoneCalls,"[-71.068145, 42.348946]",Point,PhoneCalls,5,THREAT,126,A1,First,No,CHURCH ST,Part three,Other,772905.6552,,2952480.475,2013
+10424,130262409.0,Wednesday,No,2013-05-01T13:30:00.000,PhoneCalls,"[-71.09321, 42.348806]",Point,PhoneCalls,5,IVPER ,623,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,766130.3925,,2952396.148,2013
+14685,130354660.0,Wednesday,No,2013-05-01T09:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,HARPT ,50,A15,Day,No,CREEK SQ,Part three,Other,,,,2013
+21161,130296715.0,Wednesday,No,2013-05-01T12:00:00.000,PhoneCalls,"[-71.05149, 42.356631]",Point,PhoneCalls,5,IVPER ,110,A1,Day,No,INTERNATIONAL PL,Part three,Unarmed,777393.0596,,2955304.2660000003,2013
+66408,130293086.0,Wednesday,No,2013-05-01T06:00:00.000,PhoneCalls,"[-71.068642, 42.316293]",Point,PhoneCalls,5,HARPT ,258,B2,Last,No,MONADNOCK ST,Part three,Unarmed,772831.4244,,2940580.485,2013
+111899,130264190.0,Wednesday,No,2013-05-01T00:00:00.000,PhoneCalls,"[-71.090905, 42.289722]",Point,PhoneCalls,5,MISC  ,336,B3,Last,No,FABYAN ST,Part Three,Unarmed,766856.5725,,2930867.615,2013

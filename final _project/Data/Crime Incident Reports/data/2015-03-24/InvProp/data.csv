@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1979,152023553.0,Tuesday,No,2015-03-24T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+22558,152023861.0,Tuesday,No,2015-03-24T20:20:00.000,InvProp,"[-71.05395, 42.378346]",Point,InvProp,3,IVPREM,0,A15,First,No,DECATUR ST,Part three,Unarmed,776686.7773,,2963214.159,2015
+95729,152023709.0,Tuesday,No,2015-03-24T13:55:00.000,InvProp,"[-71.070415, 42.332156]",Point,InvProp,3,LARCEN,0,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,772322.8506,,2946358.797,2015
+138639,152028226.0,Tuesday,No,2015-03-24T12:00:00.000,InvProp,"[-71.124845, 42.255718]",Point,InvProp,3,PROP,0,E18,Day,No,RIVER ST,Part three,Other,757727.9366,,2918434.1139999996,2015
+266840,152023676.0,Tuesday,No,2015-03-24T12:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVPREM,0,E5,Day,No,STIMSON RD,Part three,Unarmed,,,,2015

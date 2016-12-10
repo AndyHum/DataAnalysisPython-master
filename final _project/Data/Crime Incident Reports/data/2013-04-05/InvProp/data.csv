@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2005,130201079.0,Friday,No,2013-04-05T21:18:00.000,InvProp,"[-71.11266, 42.287341]",Point,InvProp,4,ALARM ,504,E13,First,No,WATERMAN RD,Part Three,Unarmed,760974.4140000001,,2929972.768,2013
+10758,130199239.0,Friday,No,2013-04-05T04:19:00.000,InvProp,"[-71.0531, 42.366061]",Point,InvProp,4,DVIP  ,83,A1,Last,No,CHARTER ST,Part Three,Unarmed,776939.8972,,2958738.457,2013
+21247,130200847.0,Friday,No,2013-04-05T08:20:00.000,InvProp,"[-71.075448, 42.292018]",Point,InvProp,4,BERPTA,449,B3,Day,No,SPENCER ST,Part Three,Unarmed,771034.6931,,2931724.8,2013
+155485,130201020.0,Friday,No,2013-04-05T20:41:00.000,InvProp,"[-71.101406, 42.317134]",Point,InvProp,4,SCHALM,577,E13,First,No,SCHOOL ST,Part Three,Unarmed,763968.6721,,2940843.848,2013
+245675,130201329.0,Friday,No,2013-04-05T14:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,BERPT ,0,A7,Day,No,GRIECO TR,Part Three,Other,,,,2013

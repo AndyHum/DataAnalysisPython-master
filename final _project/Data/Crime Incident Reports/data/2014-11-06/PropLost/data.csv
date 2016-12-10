@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17296,142047946.0,Thursday,No,2014-11-06T17:00:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,11,MISC,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2014
+72430,142046696.0,Thursday,No,2014-11-06T09:00:00.000,PropLost,"[-71.12024, 42.251331]",Point,PropLost,11,PROP,0,E18,Day,No,TRUMAN PY,Part three,Other,758981.8366,,2916841.0039999997,2014
+93844,142046567.0,Thursday,No,2014-11-06T13:00:00.000,PropLost,"[-71.07351, 42.333491]",Point,PropLost,11,LARCEN,0,D4,Day,No,ALBANY ST,Part three,Unarmed,771483.5641,MASSACHUSETTS AV,2946841.0930000003,2014
+152256,142047093.0,Thursday,No,2014-11-06T18:30:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,11,LARCEN,0,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2014

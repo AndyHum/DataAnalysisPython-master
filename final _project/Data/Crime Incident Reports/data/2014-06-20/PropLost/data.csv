@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18707,142004126.0,Friday,No,2014-06-20T22:30:00.000,PropLost,"[-71.05385, 42.337311]",Point,PropLost,6,PROP,0,C6,First,No,ORTON MAROTTA WY,Part three,Unarmed,776792.0166,,2948260.361,2014
+36070,142001266.0,Friday,No,2014-06-20T13:00:00.000,PropLost,"[-71.068863, 42.312111]",Point,PropLost,6,PROP,0,C11,Day,No,COLUMBIA RD,Part three,Unarmed,772779.1762,,2939055.95,2014
+94126,142001660.0,Friday,No,2014-06-20T16:50:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,6,MISC,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+107803,142001297.0,Friday,No,2014-06-20T17:45:00.000,PropLost,"[-71.06346, 42.343236]",Point,PropLost,6,PROP,0,D4,First,No,E BERKELEY ST,Part three,Unarmed,774182.7413,,2950406.0939999996,2014
+126712,142002028.0,Friday,No,2014-06-20T19:00:00.000,PropLost,"[-71.06494, 42.343021]",Point,PropLost,6,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,773783.0344,,2950325.6980000003,2014
+133399,142001751.0,Friday,No,2014-06-20T10:30:00.000,PropLost,"[-71.073988, 42.331624]",Point,PropLost,6,LARCEN,0,D4,Day,No,MELNEA CASS BL,Part three,Unarmed,771357.4746,,2946159.914,2014
+139670,142001022.0,Friday,No,2014-06-20T09:50:00.000,PropLost,"[-71.08038, 42.308466]",Point,PropLost,6,PROP,0,B2,Day,No,OLDFIELDS RD,Part three,Unarmed,769670.895,,2937712.3510000003,2014
+264105,142012413.0,Friday,No,2014-06-20T00:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,TEST,0,B2,Last,No,GREENWOOD ST,Part three,Unarmed,,,,2014
+265937,142002484.0,Friday,No,2014-06-20T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,D4,Day,No,CAUSEWAY ST,Part three,Unarmed,,,,2014

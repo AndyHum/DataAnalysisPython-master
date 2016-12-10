@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44007,130022635.0,Friday,No,2013-01-11T16:32:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,1,SSTOP ,288,B2,First,No,WASHINGTON ST,Part Two,Other,768452.5418,,2945326.172,2013
+53194,130022863.0,Friday,No,2013-01-11T17:10:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,1,IVPREM,280,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2013
+136489,130022720.0,Friday,No,2013-01-11T17:10:00.000,PubDrink,"[-71.083781, 42.329494]",Point,PubDrink,1,IVPER ,0,B2,First,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2013

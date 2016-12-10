@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5405,130789283.0,Sunday,No,2013-12-15T14:45:00.000,DRUG CHARGES,"[-71.166985, 42.276751]",Point,18xx,12,INVEST,727,E5,Day,No,BAKER ST,Part Two,Unarmed,746290.1465,,2926051.535,2013
+85466,130789403.0,Sunday,No,2013-12-15T18:13:00.000,DRUG CHARGES,"[-71.039256, 42.380766]",Point,18xx,12,ARREST,24,A7,First,No,MERIDIAN ST,Part Two,Other,780652.1742,WHITE ST,2964117.163,2013
+166864,130789473.0,Sunday,No,2013-12-15T18:58:00.000,DRUG CHARGES,"[-71.078125, 42.316551]",Point,18xx,12,TRANSP,311,B2,First,No,BLUE HILL AV,Part Two,Other,770266.2773,EDGEWOOD ST,2940661.664,2013
+182119,130788856.0,Sunday,No,2013-12-15T07:30:00.000,DRUG CHARGES,"[-71.085618, 42.32866]",Point,18xx,12,IVDRUG,282,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2013

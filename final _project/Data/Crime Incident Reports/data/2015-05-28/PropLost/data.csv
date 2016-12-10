@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2069,152044108.0,Thursday,No,2015-05-28T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,D4,First,No,HARRISON AV,Part three,Unarmed,,,,2015
+59812,152045481.0,Thursday,No,2015-05-28T09:00:00.000,PropLost,"[-71.058756, 42.36273]",Point,PropLost,5,PROP,0,A1,Day,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2015
+167577,152044099.0,Thursday,No,2015-05-28T17:55:00.000,PropLost,"[-71.104, 42.271191]",Point,PropLost,5,PROP,0,B3,First,No,CUMMINS HY,Part three,Unarmed,763344.9723,,2924098.238,2015
+215328,152044288.0,Thursday,No,2015-05-28T01:00:00.000,PropLost,"[-71.077355, 42.336236]",Point,PropLost,5,PROP,0,D4,Last,No,WASHINGTON ST,Part three,Unarmed,770438.9833,,2947836.2460000003,2015
+243264,152043798.0,Thursday,No,2015-05-28T00:00:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,5,ADMRPT,0,D4,Last,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2015
+251225,152045266.0,Thursday,No,2015-05-28T12:00:00.000,PropLost,"[-71.074448, 42.304942]",Point,PropLost,5,PROP,0,C11,Day,No,GENEVA AV,Part three,Unarmed,771281.7061,,2936435.9930000002,2015

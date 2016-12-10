@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3133,152029654.0,Sunday,No,2015-04-12T10:37:00.000,Service,"[0, 0]",Point,Service,4,CD7,0,B3,Day,No,GALLIVAN BL,Part three,Unarmed,,,,2015
+3369,152029941.0,Sunday,No,2015-04-12T22:30:00.000,Service,"[0, 0]",Point,Service,4,CD9,0,D4,First,No,FRUIT ST,Part three,Firearm,,CAMBRIDGE ST,,2015
+44246,152029567.0,Sunday,No,2015-04-12T01:17:00.000,Service,"[-71.05839, 42.307821]",Point,Service,4,ARREST,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775620.1902,FREEPORT ST,2937507.3310000002,2015
+53853,152034077.0,Sunday,No,2015-04-12T08:00:00.000,Service,"[-71.07843, 42.349776]",Point,Service,4,IVPER,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,DARTMOUTH ST,2952769.035,2015
+147352,152029601.0,Sunday,No,2015-04-12T00:06:00.000,Service,"[-71.061235, 42.310371]",Point,Service,4,CD13,0,C11,Last,No,HANCOCK ST,Part three,Other,774845.858,,2938432.619,2015
+206470,152029744.0,Sunday,No,2015-04-12T18:00:00.000,Service,"[-71.09686, 42.314536]",Point,Service,4,ARREST,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,765202.7573,,2939902.8589999997,2015

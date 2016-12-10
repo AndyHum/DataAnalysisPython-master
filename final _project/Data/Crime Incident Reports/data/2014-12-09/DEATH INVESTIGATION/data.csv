@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+189093,142056086.0,Tuesday,No,2014-12-09T20:03:00.000,DEATH INVESTIGATION,"[-71.07729, 42.288121]",Point,01INV,12,REQP,0,B3,First,No,NORFOLK ST,Part three,Unarmed,770543.452,,2930302.454,2014
+231142,142055914.0,Tuesday,No,2014-12-09T12:13:00.000,DEATH INVESTIGATION,"[-71.081263, 42.300851]",Point,01INV,12,UNKEMS,0,B3,Day,No,FOWLER ST,Part three,Unarmed,769445.6713,,2934935.9480000003,2014
+231972,142055904.0,Tuesday,No,2014-12-09T08:24:00.000,DEATH INVESTIGATION,"[-71.066745, 42.303426]",Point,01INV,12,UNKEMS,0,C11,Day,No,HOMES AV,Part three,Unarmed,773368.3558,,2935894.139,2014

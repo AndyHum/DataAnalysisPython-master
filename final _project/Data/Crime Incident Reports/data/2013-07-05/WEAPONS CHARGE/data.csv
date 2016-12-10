@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43503,130414727.0,Friday,No,2013-07-05T22:20:00.000,WEAPONS CHARGE,"[-71.122385, 42.257056]",Point,15xx,7,IVPER ,0,E18,First,No,HARVARD ST,Part Two,Knife,758391.8746,,2918924.689,2013
+53932,130414600.0,Friday,No,2013-07-05T21:27:00.000,WEAPONS CHARGE,"[-71.0746, 42.292001]",Point,15xx,7,TSTOP ,450,B3,First,No,ROSEDALE ST,Part Two,Unarmed,771264.2533,WHITFIELD ST,2931720.0,2013
+73309,130412710.0,Friday,No,2013-07-05T02:50:00.000,WEAPONS CHARGE,"[-71.08501, 42.303481]",Point,15xx,7,ARREST,330,B2,Last,No,BLUE HILL AV,Part Two,Unarmed,768427.3627,COLUMBIA RD,2935889.611,2013

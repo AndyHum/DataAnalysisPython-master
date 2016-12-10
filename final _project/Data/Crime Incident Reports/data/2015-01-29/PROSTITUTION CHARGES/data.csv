@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116369,152007826.0,Thursday,No,2015-01-29T20:15:00.000,PROSTITUTION CHARGES,"[-71.069527, 42.351443]",Point,16xx,1,IVPER,0,A1,First,No,PARK PLAZA,Part Two,Unarmed,772527.4805,,2953388.3860000004,2015
+261345,152007725.0,Thursday,No,2015-01-29T13:30:00.000,PROSTITUTION CHARGES,"[0, 0]",Point,16xx,1,IVPER,0,C6,Day,No,BOSTON ST,Part Two,Unarmed,,,,2015
+261745,152007742.0,Thursday,No,2015-01-29T14:13:00.000,PROSTITUTION CHARGES,"[0, 0]",Point,16xx,1,IVPER,0,C6,Day,No,BOSTON ST,Part Two,Unarmed,,,,2015
+265546,152007825.0,Thursday,No,2015-01-29T16:25:00.000,PROSTITUTION CHARGES,"[0, 0]",Point,16xx,1,ARREST,0,C6,First,No,BOSTON ST,Part Two,Unarmed,,,,2015

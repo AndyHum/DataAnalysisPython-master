@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7269,120621732.0,Tuesday,No,2012-10-02T21:15:00.000,PropLost,"[0, 0]",Point,PropLost,10,IVPER ,355,C11,First,No,OLD COLONY AV,Part Three,Unarmed,,,,2012
+136607,120621910.0,Tuesday,No,2012-10-02T14:00:00.000,PropLost,"[-71.083645, 42.341856]",Point,PropLost,10,LSTPRP,145,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,768728.349,,2949875.913,2012
+170045,120620654.0,Tuesday,No,2012-10-02T19:00:00.000,PropLost,"[-71.142651, 42.28542]",Point,PropLost,10,LSTPRP,687,E5,First,No,REXHAME ST,Part Three,Unarmed,752862.2796,,2929237.14,2012
+172636,120619371.0,Tuesday,No,2012-10-02T08:00:00.000,PropLost,"[-71.08256, 42.323606]",Point,PropLost,10,LSTPRP,296,B2,Day,No,WARREN ST,Part Three,Unarmed,769054.224,,2943226.722,2012
+192511,120651479.0,Tuesday,No,2012-10-02T08:00:00.000,PropLost,"[-71.079015, 42.314296]",Point,PropLost,10,LSTPRP,326,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,770029.6275,,2939838.715,2012
+206445,120637493.0,Tuesday,No,2012-10-02T16:55:00.000,PropLost,"[-71.106752, 42.273678]",Point,PropLost,10,LSTPRP,473,B3,First,No,HEBRON ST,Part Three,Unarmed,762595.8353,,2925000.897,2012
+231478,120622268.0,Tuesday,No,2012-10-02T14:50:00.000,PropLost,"[-71.10164, 42.344226]",Point,PropLost,10,LARCRT,628,D4,Day,No,BROOKLINE AV,Part Three,Unarmed,763859.4027,,2950716.352,2012

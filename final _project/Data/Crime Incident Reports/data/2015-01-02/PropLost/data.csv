@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5453,152017819.0,Friday,No,2015-01-02T12:00:00.000,PropLost,"[-71.067375, 42.314371]",Point,PropLost,1,PROP,0,C11,Day,No,COLUMBIA RD,Part three,Unarmed,773177.7055,,2939881.8,2015
+89533,152000436.0,Friday,No,2015-01-02T13:00:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,1,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2015
+91872,152000667.0,Friday,No,2015-01-02T14:15:00.000,PropLost,"[-71.057772, 42.356286]",Point,PropLost,1,ADMRPT,0,A1,Day,No,ARCH ST,Part three,Unarmed,775695.5384,,2955169.703,2015
+181356,152000362.0,Friday,No,2015-01-02T08:50:00.000,PropLost,"[-71.126499, 42.267013]",Point,PropLost,1,IVPER,0,E18,Day,No,GOFF ST,Part three,Unarmed,757262.135,,2922548.249,2015
+196241,152001208.0,Friday,No,2015-01-02T09:00:00.000,PropLost,"[-71.084485, 42.348131]",Point,PropLost,1,ADMRPT,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2015
+260598,152000573.0,Friday,No,2015-01-02T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,E13,Day,No,FAWNDALE RD,Part three,Unarmed,,,,2015
+266429,152000761.0,Friday,No,2015-01-02T21:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,A1,First,No,BUNKER HILL ST,Part three,Unarmed,,VINE ST,,2015

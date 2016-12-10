@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16723,130018328.0,Wednesday,No,2013-01-09T16:58:00.000,InvProp,"[-71.05005, 42.351366]",Point,InvProp,1,IVPREM,206,C6,First,No,CONGRESS ST,Part Three,Unarmed,777792.3899,,2953387.652,2013
+83221,130017726.0,Wednesday,No,2013-01-09T12:12:00.000,InvProp,"[-71.05224, 42.337611]",Point,InvProp,1,SCHALM,936,C6,Day,No,D ST,Part Three,Unarmed,777226.7316,,2948371.966,2013
+92474,130018406.0,Wednesday,No,2013-01-09T17:35:00.000,InvProp,"[-71.099227, 42.314407]",Point,InvProp,1,FIGHT ,572,E13,First,No,SCHOOL ST,Part Three,Unarmed,764562.7782,,2939852.566,2013
+136681,130021765.0,Wednesday,No,2013-01-09T15:00:00.000,InvProp,"[-71.077225, 42.320419]",Point,InvProp,1,BERPTA,262,B2,Day,No,W COTTAGE ST,Part Three,Unarmed,770502.6344,,2942072.223,2013

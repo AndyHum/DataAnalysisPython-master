@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20801,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.038738, 42.377257]",Point,MedAssist,7,PSHOT,23,A7,,No,LEXINGTON ST,Part Three,None,780799.0,,2960000.0,2015
+22713,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.032347, 42.364789]",Point,MedAssist,7,I00015,34,A7,,No,WEBSTER ST,Part Three,None,782551.0,,2960000.0,2015
+91362,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.049951, 42.357216]",Point,MedAssist,7,UNKEMS,0,,,No,ROWES,Part Three,None,777808.0,ATLANTIC AVE,2960000.0,2015
+114459,,Saturday,No,2015-07-18T23:40:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,174,C6,,No,SOUTHAMPTON ST,Part Three,None,,,,2015
+125737,,Saturday,No,2015-07-18T14:39:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,INVEST,179,C6,,No,GERARD ST,Part Three,None,,MASSACHUSETTS AVE,,2015
+130138,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.077026, 42.327426]",Point,MedAssist,7,IVPER,268,B2,,No,DUDLEY ST,Part Three,None,770544.0,,2940000.0,2015
+131683,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.127617, 42.255192]",Point,MedAssist,7,INVEST,542,E18,,No,RIVER ST,Part Three,None,756978.0,,2920000.0,2015
+135705,,Saturday,No,2015-07-18T01:45:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,206,C6,,No,NORTHERN AVE,Part Three,None,,SLEEPER ST,,2015
+173663,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.081974, 42.311753]",Point,MedAssist,7,EDP,321,B2,,No,BRUNSWICK ST,Part Three,None,769234.0,,2940000.0,2015
+176539,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.10294, 42.266729]",Point,MedAssist,7,UNCONS,486,E18,,No,RALWOOD RD,Part Three,None,763639.0,,2920000.0,2015
+220778,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.100967, 42.322838]",Point,MedAssist,7,IVPER,579,E13,,No,CENTRE ST,Part Three,None,764078.0,,2940000.0,2015
+234073,,Saturday,No,2015-07-18T00:00:00.000,Medical Assistance,"[-71.08329, 42.328234]",Point,MedAssist,7,IVPER,282,B2,,No,WARREN ST,Part Three,None,768849.0,,2940000.0,2015

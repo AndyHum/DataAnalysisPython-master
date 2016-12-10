@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130922,140172948.0,Friday,No,2014-03-21T19:30:00.000,DISORDERLY,"[-71.164585, 42.338121]",Point,24xx,3,ARREST,749,D14,First,No,ST THOMAS MORE RD,Part Two,Unarmed,746851.7077,,2948418.374,2014
+203850,140179946.0,Friday,No,2014-03-21T01:30:00.000,DISORDERLY,"[-71.04142, 42.319296]",Point,24xx,3,DISTRB,256,C6,Last,No,HARBOR POINT BL,Part Two,Unarmed,780187.9671,BEACH POINT PL,2941713.22,2014
+210971,140172043.0,Friday,No,2014-03-21T13:18:00.000,DISORDERLY,"[-71.11776, 42.296192]",Point,24xx,3,REMOVE,564,E5,Day,No,WASHINGTON ST,Part Two,Unarmed,759579.7797,,2933191.785,2014

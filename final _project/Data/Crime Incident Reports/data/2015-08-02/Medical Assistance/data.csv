@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11010,,Sunday,No,2015-08-02T00:00:00.000,Medical Assistance,"[-71.087715, 42.340916]",Point,MedAssist,8,PKNIFE,618,D4,,No,HUNTINGTON AVE,Part Three,None,767629.0,,2950000.0,2015
+35131,,Sunday,No,2015-08-02T00:00:00.000,Medical Assistance,"[-71.05765, 42.320308]",Point,MedAssist,8,EDP,236,C11,,No,COLUMBIA RD,Part Three,None,775797.0,,2940000.0,2015
+246652,,Sunday,No,2015-08-02T00:00:00.000,Medical Assistance,"[-71.039291, 42.370818]",Point,MedAssist,8,IVPER,28,A7,,No,PARIS ST,Part Three,None,780662.0,,2960000.0,2015
+248152,,Sunday,No,2015-08-02T00:00:00.000,Medical Assistance,"[-71.095542, 42.275277]",Point,MedAssist,8,UNCONS,472,B3,,No,ALMONT ST,Part Three,None,765627.0,,2930000.0,2015

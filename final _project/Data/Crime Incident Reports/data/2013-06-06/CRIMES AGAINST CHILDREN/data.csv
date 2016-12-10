@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+136237,130342449.0,Thursday,No,2013-06-06T00:01:00.000,CRIMES AGAINST CHILDREN,"[-71.03543, 42.375801]",Point,20xx,6,MISPER,22,A7,Last,No,MARION ST,Part Two,Unarmed,781695.7705,,2962313.42,2013
+182697,130341815.0,Thursday,No,2013-06-06T07:27:00.000,CRIMES AGAINST CHILDREN,"[-71.08544, 42.288939]",Point,20xx,6,FDCHLD,439,B3,Last,No,STRATTON ST,Part Two,Unarmed,768336.6188,,2930589.4839999997,2013
+239858,130343807.0,Thursday,No,2013-06-06T21:46:00.000,CRIMES AGAINST CHILDREN,"[-71.117301, 42.285702]",Point,20xx,6,IVPER ,503,E18,First,No,JEWETT ST,Part Two,Unarmed,759721.1002,,2929369.6610000003,2013

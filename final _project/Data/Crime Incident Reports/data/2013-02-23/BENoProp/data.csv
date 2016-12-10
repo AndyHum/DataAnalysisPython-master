@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53679,130119303.0,Saturday,No,2013-02-23T00:00:00.000,BENoProp,"[-71.082445, 42.300186]",Point,BENoProp,2,BERPT ,456,B3,Last,No,GLENWAY ST,Part One,Other,769127.1034,,2934692.249,2013
+113675,130114146.0,Saturday,No,2013-02-23T06:00:00.000,BENoProp,"[-71.089151, 42.311211]",Point,BENoProp,2,BERPT ,318,B2,Last,No,HOMESTEAD ST,Part One,Other,767293.447,,2938701.003,2013
+213528,130119718.0,Saturday,No,2013-02-23T23:00:00.000,BENoProp,"[-71.07955, 42.336331]",Point,BENoProp,2,HARPT ,937,D4,First,No,SHAWMUT AV,Part One,Unarmed,769845.3464,,2947867.933,2013

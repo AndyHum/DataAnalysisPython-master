@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1691,152042144.0,Friday,No,2015-05-22T15:00:00.000,Argue,"[0, 0]",Point,Argue,5,LANTEN,0,E13,Day,No,AMORY ST,Part three,Unarmed,,,,2015
+94286,152042166.0,Friday,No,2015-05-22T20:54:00.000,Argue,"[-71.053845, 42.292086]",Point,Argue,5,DVIP,0,C11,First,No,TRAIN ST,Part three,Unarmed,776879.5725,,2931779.665,2015
+148924,152042197.0,Friday,No,2015-05-22T23:36:00.000,Argue,"[-71.08559, 42.336381]",Point,Argue,5,IVPER,0,D4,First,No,TREMONT ST,Part three,Unarmed,768212.2151,,2947878.162,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16194,140357167.0,Friday,No,2014-06-06T20:44:00.000,FIRE,"[-71.17039, 42.353656]",Point,FIRE,6,FIREB ,756,D14,First,No,MATCHETT ST,Part three,Other,745260.3611,,2954073.528,2014
+137479,140357561.0,Friday,No,2014-06-06T22:53:00.000,FIRE,"[-71.132011, 42.253494]",Point,FIRE,6,FIREB ,541,E18,First,No,RESERVATION RD,Part three,Unarmed,755791.4129,,2917615.2569999998,2014
+254461,140357025.0,Friday,No,2014-06-06T19:08:00.000,FIRE,"[-71.017705, 42.383551]",Point,FIRE,6,FIREB ,14,A7,First,No,SARATOGA ST,Part three,Unarmed,786469.1255,,2965164.26,2014

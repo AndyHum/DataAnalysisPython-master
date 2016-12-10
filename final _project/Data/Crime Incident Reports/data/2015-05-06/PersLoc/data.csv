@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3595,152037126.0,Wednesday,No,2015-05-06T18:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,E13,First,No,PLANT CT,Other,Unarmed,,,,2015
+11884,152037155.0,Wednesday,No,2015-05-06T11:00:00.000,PersLoc,"[-71.06013, 42.298741]",Point,PersLoc,5,MISSIN,0,C11,Day,No,PARK ST,Other,Unarmed,775166.5959,,2934196.0110000004,2015
+59092,152037484.0,Wednesday,No,2015-05-06T18:00:00.000,PersLoc,"[-71.10766, 42.335096]",Point,PersLoc,5,MISSIN,0,B2,First,No,FENWOOD RD,Other,Unarmed,762247.2746,,2947381.665,2015
+74000,152037174.0,Wednesday,No,2015-05-06T06:00:00.000,PersLoc,"[-71.06934, 42.285836]",Point,PersLoc,5,IVPER,0,C11,Last,No,MELLEN ST,Other,Unarmed,772698.7442,,2929480.5289999996,2015
+75580,152038698.0,Wednesday,No,2015-05-06T12:00:00.000,PersLoc,"[-71.104935, 42.331511]",Point,PersLoc,5,MISSIN,0,B2,Day,No,SACHEM ST,Other,Unarmed,762990.1022,,2946078.626,2015
+127588,152037542.0,Wednesday,No,2015-05-06T22:55:00.000,PersLoc,"[-71.092001, 42.278561]",Point,PersLoc,5,IVPER,0,B3,First,No,FESSENDEN ST,Other,Unarmed,766579.5337,,2926799.047,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67712,142051311.0,Saturday,No,2014-11-22T15:55:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,11,PROP,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+221527,142051279.0,Saturday,No,2014-11-22T13:50:00.000,PropFound,"[-71.051523, 42.345567]",Point,PropFound,11,PROP,0,C6,Day,No,CHANNEL CENTER ST,Part three,Unarmed,777405.1722,,2951272.278,2014
+243496,142051389.0,Saturday,No,2014-11-22T20:56:00.000,PropFound,"[-71.05582, 42.360091]",Point,PropFound,11,IVPREM,0,A1,First,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2014
+246371,142051539.0,Saturday,No,2014-11-22T12:30:00.000,PropFound,"[-71.102915, 42.320941]",Point,PropFound,11,LARCEN,0,E13,Day,No,CHESTNUT AV,Part three,Unarmed,763554.2264,,2942229.268,2014

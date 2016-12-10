@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1431,152040588.0,Monday,No,2015-05-18T01:35:00.000,InvProp,"[0, 0]",Point,InvProp,5,SHOTS,0,C6,Last,No,STERLING SQ,Part three,Other,,,,2015
+1614,152041701.0,Monday,No,2015-05-18T07:31:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPER,0,C11,Day,No,NEPONSET AV,Part three,Other,,,,2015
+2459,152045577.0,Monday,No,2015-05-18T08:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD9,0,D14,Day,No,BEACON ST,Part three,Unarmed,,,,2015
+3643,152040769.0,Monday,No,2015-05-18T15:15:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPER,0,A7,Day,No,HAVRE ST,Part three,Unarmed,,,,2015
+62613,152042043.0,Monday,No,2015-05-18T10:00:00.000,InvProp,"[-71.10316, 42.326236]",Point,InvProp,5,LARCEN,0,E13,Day,No,HEATH ST,Part three,Unarmed,763478.9920000001,,2944158.5510000004,2015
+134272,152040889.0,Monday,No,2015-05-18T21:47:00.000,InvProp,"[-71.087155, 42.272035]",Point,InvProp,5,SHOTS,0,B3,First,No,GLADESIDE AV,Part three,Firearm,767902.3624,LINVALE TR,2924427.3680000002,2015
+213048,152040573.0,Monday,No,2015-05-18T23:50:00.000,InvProp,"[-71.068665, 42.301746]",Point,InvProp,5,SHOTS,0,C11,Last,No,GENEVA AV,Part three,Other,772852.0714,OAKLEY ST,2935279.2860000003,2015
+238977,152040845.0,Monday,No,2015-05-18T21:00:00.000,InvProp,"[-71.06844, 42.352301]",Point,InvProp,5,CD9,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,772819.7246,,2953702.6980000003,2015
+257553,152040613.0,Monday,No,2015-05-18T06:13:00.000,InvProp,"[-71.10077, 42.327316]",Point,InvProp,5,BE,0,B2,Last,No,FISHER AV,Part three,Other,764123.4415,,2944555.137,2015

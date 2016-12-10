@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51588,130217292.0,Saturday,No,2013-04-13T00:46:00.000,InvProp,"[-71.07755, 42.303551]",Point,InvProp,4,SHOTS ,461,C11,Last,No,ELDON ST,Part Three,Firearm,770445.2529,BOWDOIN AV,2935925.027,2013
+69673,130217388.0,Saturday,No,2013-04-13T01:37:00.000,InvProp,"[-71.084646, 42.304835]",Point,InvProp,4,PARTY ,330,B2,Last,No,BLUE HILL AV,Part Three,Unarmed,768523.3694,,2936383.492,2013
+74916,130250442.0,Saturday,No,2013-04-13T06:00:00.000,InvProp,"[-71.072055, 42.343736]",Point,InvProp,4,BERPT ,152,D4,Last,No,TREMONT ST,Part Three,Unarmed,771858.24,,2950576.527,2013
+90688,130217802.0,Saturday,No,2013-04-13T09:33:00.000,InvProp,"[-71.06683, 42.307751]",Point,InvProp,4,ILLPRK,335,C11,Day,No,COLEMAN ST,Part Three,Unarmed,773337.3565,,2937470.117,2013
+126112,130248295.0,Saturday,No,2013-04-13T12:00:00.000,InvProp,"[-71.07959, 42.276258]",Point,InvProp,4,IVPER ,943,B3,Day,No,WOODGATE ST,Part Three,Unarmed,769942.4463,,2925976.1360000004,2013
+126458,130218620.0,Saturday,No,2013-04-13T17:11:00.000,InvProp,"[-71.065585, 42.309856]",Point,InvProp,4,IVPREM,334,C11,First,No,HENDRY ST,Part Three,Unarmed,773670.2174,,2938238.923,2013
+146461,130220210.0,Saturday,No,2013-04-13T19:00:00.000,InvProp,"[-71.064466, 42.273886]",Point,InvProp,4,BEMVRT,388,C11,First,No,BUTLER ST,Part Three,Other,774039.7133,,2925132.2819999997,2013
+230133,130218316.0,Saturday,No,2013-04-13T14:30:00.000,InvProp,"[-71.066341, 42.351004]",Point,InvProp,4,ALARMB,118,A1,Day,No,STUART ST,Part Three,Unarmed,773389.4384,,2953232.9460000005,2013

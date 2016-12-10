@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58261,152038640.0,Monday,No,2015-05-11T18:29:00.000,Argue,"[-71.141005, 42.346111]",Point,Argue,5,DISTRB,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,753214.6516,,2951356.038,2015
+207168,152038523.0,Monday,No,2015-05-11T13:00:00.000,Argue,"[-71.076105, 42.320506]",Point,Argue,5,NIDV,0,B2,Day,No,W COTTAGE ST,Part three,Unarmed,770805.4354,,2942105.64,2015
+241311,152038583.0,Monday,No,2015-05-11T15:52:00.000,Argue,"[-71.072097, 42.321041]",Point,Argue,5,FIGHT,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,771888.2764,,2942305.988,2015

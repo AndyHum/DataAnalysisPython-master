@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19529,130617701.0,Friday,No,2013-09-27T20:25:00.000,Service,"[-71.077555, 42.336891]",Point,Service,9,INVCHD,273,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770383.7279,,2948074.672,2013
+22642,130617104.0,Friday,No,2013-09-27T14:11:00.000,Service,"[-71.058362, 42.358828]",Point,Service,9,CD11  ,72,A1,Day,No,COURT ST,Part three,Firearm,775531.3609,,2956095.0919999997,2013
+112192,130616498.0,Friday,No,2013-09-27T10:58:00.000,Service,"[-71.069315, 42.313072]",Point,Service,9,IVPER ,331,B2,Day,No,GLENDALE ST,Part three,Unarmed,772655.2814,,2939405.653,2013
+161204,130616350.0,Friday,No,2013-09-27T09:50:00.000,Service,"[-71.0626, 42.352361]",Point,Service,9,ARREST,112,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774398.1813,ESSEX ST,2953732.602,2013
+188849,130617297.0,Friday,No,2013-09-27T16:30:00.000,Service,"[-71.11297, 42.300811]",Point,Service,9,FIGHT ,510,E13,First,No,WASHINGTON ST,Part three,Unarmed,760868.2636,,2934881.061,2013
+195366,130615749.0,Friday,No,2013-09-27T01:17:00.000,Service,"[-71.079416, 42.284079]",Point,Service,9,ARREST,434,B3,Last,No,STANTON ST,Part three,Unarmed,769975.3356,,2928826.4189999998,2013
+218111,130625453.0,Friday,No,2013-09-27T03:00:00.000,Service,"[-71.119975, 42.246031]",Point,Service,9,LARCRT,517,E18,Last,No,WASHINGTON ST,Part three,Unarmed,759062.1865,,2914909.938,2013
+241209,130616062.0,Friday,No,2013-09-27T07:25:00.000,Service,"[-71.094849, 42.288138]",Point,Service,9,ARREST,503,B3,Last,No,CATBIRD COURT,Part three,Unarmed,765792.0983,,2930285.392,2013

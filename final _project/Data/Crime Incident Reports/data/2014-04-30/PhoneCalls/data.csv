@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29925,140266521.0,Wednesday,No,2014-04-30T17:00:00.000,PhoneCalls,"[-71.16052, 42.290591]",Point,PhoneCalls,4,HARPT ,737,E5,First,No,VERMONT ST,Part three,Other,748019.6768,,2931101.943,2014
+187107,140263364.0,Wednesday,No,2014-04-30T14:30:00.000,PhoneCalls,"[-71.080085, 42.346711]",Point,PhoneCalls,4,HARPT ,146,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769682.0757,,2951649.883,2014
+235269,140265372.0,Wednesday,No,2014-04-30T10:00:00.000,PhoneCalls,"[-71.08324, 42.326272]",Point,PhoneCalls,4,IVPER ,470,B2,Day,No,WARREN ST,Part three,Other,768865.372,WINTHROP ST,2944197.244,2014

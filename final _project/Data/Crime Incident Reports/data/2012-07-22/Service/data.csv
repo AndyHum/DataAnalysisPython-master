@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+156004,120451787.0,Sunday,No,2012-07-22T10:30:00.000,Service,"[-71.07757, 42.328993]",Point,Service,7,SSTOP ,0,B2,Day,No,ORCHARD PARK,Part Three,Unarmed,770393.8371,,2945196.432,2012
+227061,120451636.0,Sunday,No,2012-07-22T08:30:00.000,Service,"[-71.07091, 42.326291]",Point,Service,7,ARREST,181,B2,Day,No,NORFOLK AV,Part Three,Unarmed,772199.7604,PROCTOR ST,2944220.815,2012
+248756,120451464.0,Sunday,No,2012-07-22T03:27:00.000,Service,"[-71.081625, 42.336141]",Point,Service,7,IVPER ,903,D4,Last,No,TROTTER CT,Part Three,Unarmed,769284.6658,,2947795.935,2012

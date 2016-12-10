@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33290,130388036.0,Tuesday,No,2013-06-25T13:22:00.000,MedAssist,"[-71.067775, 42.273361]",Point,MedAssist,6,EDP2  ,935,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773145.2492,,2924936.613,2013
+74903,130387222.0,Tuesday,No,2013-06-25T06:37:00.000,MedAssist,"[-71.065153, 42.29921]",Point,MedAssist,6,CARST ,358,C11,Last,No,WALDECK ST,Part three,Other,773806.5957,,2934359.6689999998,2013
+81320,130388421.0,Tuesday,No,2013-06-25T15:18:00.000,MedAssist,"[-71.04979, 42.332491]",Point,MedAssist,6,INJOFF,217,C6,Day,No,KNOWLTON ST,Part three,Unarmed,777898.9746,,2946509.637,2013
+101261,130387078.0,Tuesday,No,2013-06-25T02:19:00.000,MedAssist,"[-71.07738, 42.350061]",Point,MedAssist,6,UNK   ,130,D4,Last,No,BOYLSTON ST,Part three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2013
+171171,130387282.0,Tuesday,No,2013-06-25T07:00:00.000,MedAssist,"[-71.077775, 42.293491]",Point,MedAssist,6,UNK   ,448,B3,Last,No,NORWELL ST,Part three,Unarmed,770402.5362,,2932258.71,2013
+219281,130389303.0,Tuesday,No,2013-06-25T21:34:00.000,MedAssist,"[-71.04139, 42.330941]",Point,MedAssist,6,AOD   ,921,C6,First,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2013
+254226,130388420.0,Tuesday,No,2013-06-25T16:27:00.000,MedAssist,"[-71.052005, 42.336681]",Point,MedAssist,6,EDP2  ,214,C6,First,No,BOWEN ST,Part three,Unarmed,777292.0490000001,,2948033.393,2013

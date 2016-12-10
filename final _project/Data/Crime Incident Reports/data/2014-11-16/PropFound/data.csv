@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21023,142049483.0,Sunday,No,2014-11-16T13:10:00.000,PropFound,"[-71.102965, 42.333551]",Point,PropFound,11,IVPREM,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763519.3148,,2946824.5130000003,2014
+26536,142049456.0,Sunday,No,2014-11-16T11:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,11,PROP,0,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+47812,142049512.0,Sunday,No,2014-11-16T14:00:00.000,PropFound,"[-71.076655, 42.336766]",Point,PropFound,11,LARCEN,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,770627.2848,,2948030.3260000004,2014
+182293,142049445.0,Sunday,No,2014-11-16T09:20:00.000,PropFound,"[-71.10383, 42.322836]",Point,PropFound,11,CD19,0,E13,Day,No,CENTRE ST,Part three,Unarmed,763303.5691,BICKFORD ST,2942918.688,2014
+256258,142049581.0,Sunday,No,2014-11-16T18:45:00.000,PropFound,"[-71.06292, 42.378611]",Point,PropFound,11,PROP,0,A15,First,No,ELM ST,Part three,Unarmed,774262.6655,HANCOCK ST,2963298.183,2014

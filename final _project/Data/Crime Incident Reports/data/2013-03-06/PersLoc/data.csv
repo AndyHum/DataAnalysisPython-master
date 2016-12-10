@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62804,130134746.0,Wednesday,No,2013-03-06T13:40:00.000,PersLoc,"[-71.05885, 42.307566]",Point,PersLoc,3,MSNCOM,219,C11,Day,No,EAST ST,Part Three,Unarmed,775496.2439,,2937413.762,2013
+181371,130134928.0,Wednesday,No,2013-03-06T16:00:00.000,PersLoc,"[-71.110589, 42.301268]",Point,PersLoc,3,MSNCOM,510,E13,First,No,ARBORWAY,Part Three,Unarmed,761511.4749,,2935050.5519999997,2013
+214251,130135903.0,Wednesday,No,2013-03-06T19:00:00.000,PersLoc,"[-71.045379, 42.337142]",Point,PersLoc,3,MISPER,212,C6,First,No,BOLTON ST,Part Three,Unarmed,779082.5284,,2948210.921,2013

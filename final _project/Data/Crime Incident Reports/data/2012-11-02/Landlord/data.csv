@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18978,120691395.0,Friday,No,2012-11-02T09:00:00.000,Landlord,"[-71.056845, 42.324446]",Point,Landlord,11,HARPT ,200,C6,Day,No,DORCHESTER AV,Part Three,Unarmed,776006.6248,,2943567.914,2012
+113073,120691026.0,Friday,No,2012-11-02T09:35:00.000,Landlord,"[-71.072895, 42.316241]",Point,Landlord,11,LANTEN,327,B2,Day,No,HARTFORD ST,Part Three,Unarmed,771681.3266,,2940555.7339999997,2012
+196933,120690985.0,Friday,No,2012-11-02T09:10:00.000,Landlord,"[-71.118345, 42.291166]",Point,Landlord,11,LANTEN,508,E13,Day,No,BLANVON RD,Part Three,Other,759429.9266,,2931359.72,2012

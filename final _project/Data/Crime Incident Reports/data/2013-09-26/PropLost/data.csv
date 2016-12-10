@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72072,130615034.0,Thursday,No,2013-09-26T18:00:00.000,PropLost,"[-71.114273, 42.311901]",Point,PropLost,9,LARCRT,645,E13,First,No,CENTRE ST,Part three,Unarmed,760497.2545,,2938920.7630000003,2013
+186011,130617076.0,Thursday,No,2013-09-26T22:30:00.000,PropLost,"[-71.1009, 42.343731]",Point,PropLost,9,LSTPRP,627,D4,First,No,BOYLSTON ST,Part three,Unarmed,764060.2986,,2950536.9,2013
+200085,130615628.0,Thursday,No,2013-09-26T12:00:00.000,PropLost,"[-71.07618, 42.352611]",Point,PropLost,9,LSTPRP,133,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,770727.0196,CLARENDON ST,2953805.1760000004,2013
+217220,130613360.0,Thursday,No,2013-09-26T01:20:00.000,PropLost,"[-71.114705, 42.321923]",Point,PropLost,9,LARCRT,610,E13,Last,No,PARKTON RD,Part three,Unarmed,760363.9595,,2942572.4069999997,2013
+219328,130616301.0,Thursday,No,2013-09-26T13:40:00.000,PropLost,"[-71.09829, 42.324901]",Point,PropLost,9,LSTPRP,302,B2,Day,No,CENTRE ST,Part three,Unarmed,764798.2033,COLUMBUS AV,2943678.2169999997,2013
+261756,130614066.0,Thursday,No,2013-09-26T00:30:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,114,A1,Last,No,DORCHESTER AV,Part three,Unarmed,,,,2013
+266005,130682837.0,Thursday,No,2013-09-26T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,158,D4,Day,No,AGUADILLA ST,Part three,Unarmed,,,,2013

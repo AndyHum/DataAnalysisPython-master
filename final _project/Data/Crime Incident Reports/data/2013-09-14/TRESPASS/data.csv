@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50083,130586202.0,Saturday,No,2013-09-14T17:20:00.000,TRESPASS,"[-71.07463, 42.335321]",Point,TRESPASS,9,ARREST,171,D4,First,No,HARRISON AV,Part Two,Unarmed,771177.4087,,2947506.466,2013
+167252,130584568.0,Saturday,No,2013-09-14T02:01:00.000,TRESPASS,"[-71.0987, 42.277166]",Point,TRESPASS,9,IVPREM,470,B3,Last,No,ITASCA ST,Part Two,Unarmed,764769.1315,,2926282.332,2013
+206640,130586384.0,Saturday,No,2013-09-14T21:01:00.000,TRESPASS,"[-71.07742, 42.335791]",Point,TRESPASS,9,UNK   ,271,D4,First,No,NORTHAMPTON ST,Part Two,Unarmed,770422.2127,,2947673.9930000002,2013
+222887,130584815.0,Saturday,No,2013-09-14T03:11:00.000,TRESPASS,"[-71.107805, 42.33605]",Point,TRESPASS,9,IVPER ,0,B2,Last,No,FRANCIS ST,Part Two,Unarmed,762206.2941,VINING ST,2947728.97,2013

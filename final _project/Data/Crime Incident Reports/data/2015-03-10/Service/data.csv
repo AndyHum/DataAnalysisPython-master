@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12772,152038338.0,Tuesday,No,2015-03-10T18:30:00.000,Service,"[-71.03887, 42.371246]",Point,Service,3,AOD,0,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+48509,152019296.0,Tuesday,No,2015-03-10T06:30:00.000,Service,"[-71.057598, 42.353427]",Point,Service,3,CD9,0,A1,Last,No,SUMMER ST,Part three,Unarmed,775748.1515,,2954127.966,2015
+89216,152019194.0,Tuesday,No,2015-03-10T07:10:00.000,Service,"[-71.065995, 42.343861]",Point,Service,3,IVPER,0,D4,Last,No,WASHINGTON ST,Part three,Unarmed,773496.2653,,2950630.357,2015
+108313,152019471.0,Tuesday,No,2015-03-10T21:19:00.000,Service,"[-71.087955, 42.295106]",Point,Service,3,SS,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767645.4486,TALBOT AV,2932833.77,2015
+126216,152019195.0,Tuesday,No,2015-03-10T06:18:00.000,Service,"[-71.095665, 42.268641]",Point,Service,3,IVPER,0,B3,Last,No,CUMMINS HY,Part three,Unarmed,765605.2443,,2923179.567,2015
+161641,152019402.0,Tuesday,No,2015-03-10T17:30:00.000,Service,"[-71.039079, 42.375371]",Point,Service,3,DISTRB,0,A7,First,No,CENTRAL SQ,Part three,Unarmed,780710.6016,,2962151.396,2015
+266066,152019313.0,Tuesday,No,2015-03-10T14:29:00.000,Service,"[0, 0]",Point,Service,3,MAJOR,0,E5,Day,No,GARDNER ST,Part three,Unarmed,,,,2015

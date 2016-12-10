@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54441,140147594.0,Thursday,No,2014-02-27T09:00:00.000,PropLost,"[-71.055333, 42.354078]",Point,PropLost,2,LSTPRP,108,A1,Day,No,HIGH ST,Part three,Unarmed,776359.026,,2954368.472,2014
+90901,140122466.0,Thursday,No,2014-02-27T11:30:00.000,PropLost,"[-71.06724, 42.361136]",Point,PropLost,2,LSTPRP,67,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,773127.7532,,2956923.985,2014
+105887,140121816.0,Thursday,No,2014-02-27T09:25:00.000,PropLost,"[-71.09154, 42.284251]",Point,PropLost,2,LSTPRP,428,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766694.479,MORTON ST,2928873.385,2014
+110685,140122683.0,Thursday,No,2014-02-27T16:45:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,2,MISC  ,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+258814,140122021.0,Thursday,No,2014-02-27T07:00:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,2,LSTPRP,289,B2,Last,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2014
+260833,140123132.0,Thursday,No,2014-02-27T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,INVEST,87,A1,First,No,HANOVER ST,Part three,Unarmed,,,,2014
+266404,140124985.0,Thursday,No,2014-02-27T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,72,A1,First,No,CHATHAM ST,Part three,Unarmed,,,,2014

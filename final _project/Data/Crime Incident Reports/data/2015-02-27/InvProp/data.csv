@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14983,152016065.0,Friday,No,2015-02-27T19:33:00.000,InvProp,"[-71.068653, 42.306188]",Point,InvProp,2,IVPREM,0,C11,First,No,NORTON ST,Part three,Unarmed,772847.1206,,2936897.7789999996,2015
+34960,152016851.0,Friday,No,2015-02-27T15:00:00.000,InvProp,"[-71.083356, 42.328162]",Point,InvProp,2,LARCEN,0,B2,Day,No,WARREN ST,Part three,Unarmed,768830.7785,,2944885.93,2015
+81738,152016002.0,Friday,No,2015-02-27T16:12:00.000,InvProp,"[-71.041115, 42.369406]",Point,InvProp,2,SHOTS,0,A7,First,No,SUMNER ST,Part three,Firearm,780172.2099,HAVRE ST,2959974.6380000003,2015
+91346,152016057.0,Friday,No,2015-02-27T19:15:00.000,InvProp,"[-71.120484, 42.256473]",Point,InvProp,2,DISTRB,0,E18,First,No,RIVER ST,Part three,Unarmed,758907.3112,,2918714.372,2015
+98129,152016024.0,Friday,No,2015-02-27T17:54:00.000,InvProp,"[-71.068974, 42.289773]",Point,InvProp,2,ALARM,0,C11,First,No,TALBOT AV,Part three,Unarmed,772790.5334,,2930915.749,2015
+147614,152016658.0,Friday,No,2015-02-27T17:00:00.000,InvProp,"[-71.060032, 42.366129]",Point,InvProp,2,IVPER,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,775066.2559,,2958753.215,2015
+251050,152016049.0,Friday,No,2015-02-27T16:23:00.000,InvProp,"[-71.06632, 42.297016]",Point,InvProp,2,IVPER,0,C11,First,No,PARK ST,Part three,Unarmed,773495.2016,,2933558.8210000005,2015
+264549,152016768.0,Friday,No,2015-02-27T16:00:00.000,InvProp,"[0, 0]",Point,InvProp,2,INVEST,0,B3,First,No,AMES ST,Part three,Firearm,,,,2015
+265967,152016043.0,Friday,No,2015-02-27T12:08:00.000,InvProp,"[0, 0]",Point,InvProp,2,BE,0,C6,Day,No,COLUMBIA RD,Part three,Unarmed,,,,2015

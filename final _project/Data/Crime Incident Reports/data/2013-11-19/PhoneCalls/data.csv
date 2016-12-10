@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102095,130751607.0,Tuesday,No,2013-11-19T16:10:00.000,PhoneCalls,"[-71.10739, 42.317601]",Point,PhoneCalls,11,IVPER ,637,E13,First,No,BOYLSTON ST,Part three,Other,762349.6219,,2941006.512,2013
+201731,130737254.0,Tuesday,No,2013-11-19T21:00:00.000,PhoneCalls,"[-71.153675, 42.265681]",Point,PhoneCalls,11,IVPER ,711,E5,First,No,PINECLIFF RD,Part three,Other,749908.5726,,2922031.812,2013
+204245,130749259.0,Tuesday,No,2013-11-19T15:00:00.000,PhoneCalls,"[-71.068653, 42.306188]",Point,PhoneCalls,11,IVPER ,336,C11,Day,No,NORTON ST,Part three,Unarmed,772847.1206,,2936897.7789999996,2013

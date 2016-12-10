@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3838,152046544.0,Friday,No,2015-06-05T16:05:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,IVPER,0,B2,First,No,ROXBURY CT,Other,Unarmed,,,,2015
+4102,152046607.0,Friday,No,2015-06-05T19:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,IVPER,0,A7,First,No,BORDER ST,Other,Unarmed,,,,2015
+19040,152046842.0,Friday,No,2015-06-05T13:40:00.000,PersLoc,"[-71.065065, 42.315361]",Point,PersLoc,6,IVPER,0,C11,Day,No,UPHAM AV,Other,Unarmed,773800.64,,2940245.749,2015
+62772,152046682.0,Friday,No,2015-06-05T16:45:00.000,PersLoc,"[-71.065463, 42.312484]",Point,PersLoc,6,IVPER,0,C11,First,No,TRULL ST,Other,Unarmed,773698.2790000001,,2939196.77,2015
+76232,152046359.0,Friday,No,2015-06-05T00:21:00.000,PersLoc,"[-71.06543, 42.348736]",Point,PersLoc,6,IVPER,0,A1,Last,No,TREMONT ST,Other,Unarmed,773639.9559,,2952407.6739999996,2015
+166269,152046527.0,Friday,No,2015-06-05T13:53:00.000,PersLoc,"[-71.094482, 42.282429]",Point,PersLoc,6,IVPER,0,B3,Day,No,OUTLOOK RD,Other,Unarmed,765901.4635,,2928205.646,2015
+227598,152046727.0,Friday,No,2015-06-05T07:30:00.000,PersLoc,"[-71.102818, 42.271878]",Point,PersLoc,6,MISSIN,0,B3,Day,No,SAVANNAH AV,Other,Unarmed,763663.5054,,2924349.957,2015

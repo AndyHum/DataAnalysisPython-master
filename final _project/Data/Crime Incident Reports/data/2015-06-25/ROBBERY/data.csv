@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17626,,Thursday,No,2015-06-25T00:00:00.000,Robbery,"[-71.096783, 42.342419]",Point,03xx,6,ARREST,626,D4,,No,JERSEY ST,Part One,None,765175.0,,2950000.0,2015
+144324,,Thursday,No,2015-06-25T04:30:00.000,Robbery,"[0, 0]",Point,03xx,6,ARMROB,262,B2,,No,BLUE HILL AVE,Part One,Knife/Cutting Instrument,, MORELAND ST ,,2015
+182605,,Thursday,No,2015-06-25T00:00:00.000,Robbery,"[0, 0]",Point,03xx,6,I00040,92,A1,,No,COURT ST,Part One,Other,,,,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53911,130686882.0,Monday,No,2013-10-28T12:30:00.000,PhoneCalls,"[-71.050303, 42.333285]",Point,PhoneCalls,10,HARPT ,216,C6,Day,No,DORCHESTER ST,Part three,Unarmed,777758.5140000001,,2946797.986,2013
+74947,130686886.0,Monday,No,2013-10-28T12:30:00.000,PhoneCalls,"[-71.050303, 42.333285]",Point,PhoneCalls,10,HARPT ,216,C6,Day,No,DORCHESTER ST,Part three,Other,777758.5140000001,,2946797.986,2013
+204191,130687827.0,Monday,No,2013-10-28T19:45:00.000,PhoneCalls,"[-71.04139, 42.330941]",Point,PhoneCalls,10,VIORDR,921,C6,First,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2013
+228959,130686884.0,Monday,No,2013-10-28T12:30:00.000,PhoneCalls,"[-71.050303, 42.333285]",Point,PhoneCalls,10,HARPT ,216,C6,Day,No,DORCHESTER ST,Part three,Unarmed,777758.5140000001,,2946797.986,2013
+238330,130719837.0,Monday,No,2013-10-28T12:00:00.000,PhoneCalls,"[-71.08174, 42.294146]",Point,PhoneCalls,10,INVEST,441,B3,Day,No,BROWNING AV,Part three,Unarmed,769328.6148,,2932492.12,2013
+239626,130709557.0,Monday,No,2013-10-28T06:00:00.000,PhoneCalls,"[-71.095995, 42.347161]",Point,PhoneCalls,10,HARPT ,624,D4,Last,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2013

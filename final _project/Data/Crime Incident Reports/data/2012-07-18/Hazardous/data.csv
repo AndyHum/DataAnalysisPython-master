@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+221064,120442572.0,Wednesday,No,2012-07-18T12:00:00.000,Hazardous,"[-71.037465, 42.371036]",Point,Hazardous,7,COLB  ,29,A7,Day,No,CHELSEA ST,Part Three,Unarmed,781155.3254,,2960573.97,2012
+242218,120442773.0,Wednesday,No,2012-07-18T13:30:00.000,Hazardous,"[-71.039895, 42.333461]",Point,Hazardous,7,INVEST,230,C6,Day,No,I ST,Part Three,Unarmed,780572.5487,,2946877.398,2012
+256058,120443312.0,Wednesday,No,2012-07-18T18:21:00.000,Hazardous,"[-71.104273, 42.309722]",Point,Hazardous,7,IVPER ,574,E13,First,No,WASHINGTON ST,Part Three,Unarmed,763205.8082,,2938139.2,2012

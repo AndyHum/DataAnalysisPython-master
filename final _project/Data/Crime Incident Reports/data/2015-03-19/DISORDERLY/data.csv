@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39441,152041086.0,Thursday,No,2015-03-19T12:00:00.000,DISORDERLY,"[-71.07251, 42.352266]",Point,24xx,3,IVPER,0,D4,Day,No,NEWBURY ST,Part Two,Unarmed,771719.655,,2953684.403,2015
+93809,152022040.0,Thursday,No,2015-03-19T09:03:00.000,DISORDERLY,"[-71.08967, 42.312926]",Point,24xx,3,UNK,0,B2,Day,No,HUMBOLDT AV,Part Two,Unarmed,767150.2196,,2939325.421,2015
+266623,152022046.0,Thursday,No,2015-03-19T08:30:00.000,DISORDERLY,"[0, 0]",Point,24xx,3,ARREST,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,,,,2015

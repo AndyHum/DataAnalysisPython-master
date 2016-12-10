@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109132,130110852.0,Friday,No,2013-02-22T22:32:00.000,Arrest,"[-71.06063, 42.303276]",Point,Arrest,2,PARTY ,346,C11,First,No,ADAMS ST,Part three,Unarmed,775022.818,,2935847.935,2013
+230076,130109346.0,Friday,No,2013-02-22T06:39:00.000,Arrest,"[-71.05751, 42.311671]",Point,Arrest,2,ARREST,254,C11,Last,No,DORCHESTER AV,Part Three,Unarmed,775850.9453,,2938911.564,2013
+241673,130110462.0,Friday,No,2013-02-22T17:27:00.000,Arrest,"[-71.111099, 42.332557]",Point,Arrest,2,ARREST,606,B2,First,No,HUNTINGTON AV,Part Three,Unarmed,761321.6315,,2946451.875,2013

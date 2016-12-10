@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5598,120624638.0,Thursday,No,2012-10-04T13:36:00.000,Service,"[-71.06018, 42.313976]",Point,Service,10,VICDOG,823,C11,Day,No,HESSTON TR,Part Three,Unarmed,775124.4421,,2939747.808,2012
+34329,120624924.0,Thursday,No,2012-10-04T15:29:00.000,Service,"[0, 0]",Point,Service,10,IVPER ,309,B2,Day,No,N CHARLAME TR,Part Three,Unarmed,,,,2012
+128505,120625161.0,Thursday,No,2012-10-04T17:30:00.000,Service,"[-71.103995, 42.333881]",Point,Service,10,IVPER ,602,B2,First,No,TREMONT ST,Part Three,Other,763240.2622,,2946943.477,2012
+212475,120625766.0,Thursday,No,2012-10-04T22:47:00.000,Service,"[-71.120394, 42.261564]",Point,Service,10,ARREST,495,E18,First,No,HILTON ST,Part Three,Unarmed,758923.5093,,2920569.6969999997,2012
+216742,120623904.0,Thursday,No,2012-10-04T08:00:00.000,Service,"[-71.068365, 42.328546]",Point,Service,10,ARREST,181,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,772883.8062,MAGAZINE ST,2945046.048,2012
+228985,120625685.0,Thursday,No,2012-10-04T21:56:00.000,Service,"[-71.120595, 42.293481]",Point,Service,10,ARREST,564,E5,First,No,WASHINGTON ST,Part Three,Unarmed,758817.4029,,2932200.626,2012

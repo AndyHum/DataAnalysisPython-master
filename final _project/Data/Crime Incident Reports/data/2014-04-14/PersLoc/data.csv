@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74116,140226383.0,Monday,No,2014-04-14T15:30:00.000,PersLoc,"[-71.075935, 42.278665]",Point,PersLoc,4,MISPER,419,B3,Day,No,VERA ST,Other,Unarmed,770927.0299,,2926858.3230000003,2014
+85355,140225287.0,Monday,No,2014-04-14T02:13:00.000,PersLoc,"[-71.061775, 42.294771]",Point,PersLoc,4,MISPER,361,C11,Last,No,DORCHESTER AV,Other,Unarmed,774729.0049,,2932746.994,2014
+123244,140227857.0,Monday,No,2014-04-14T20:10:00.000,PersLoc,"[-71.064464, 42.311335]",Point,PersLoc,4,MISPER,334,C11,First,No,HOWE ST,Other,Unarmed,773970.6229,,2938779.336,2014

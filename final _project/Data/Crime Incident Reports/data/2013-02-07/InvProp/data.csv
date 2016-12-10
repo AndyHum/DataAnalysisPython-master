@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103062,130139240.0,Thursday,No,2013-02-07T00:00:00.000,InvProp,"[-71.04723, 42.319566]",Point,InvProp,2,LARCRT,913,C6,Last,No,MT VERNON ST,Part Three,Unarmed,778616.1691,,2941803.2180000003,2013
+107438,130079962.0,Thursday,No,2013-02-07T09:00:00.000,InvProp,"[-71.050047, 42.308788]",Point,InvProp,2,IVPREM,252,C11,Day,No,SAVIN HILL AV,Part Three,Unarmed,777874.7998,,2937871.355,2013
+186378,130078505.0,Thursday,No,2013-02-07T04:45:00.000,InvProp,"[-71.091957, 42.273356]",Point,InvProp,2,IVPREM,424,B3,Last,No,BABSON ST,Part Three,Unarmed,766600.3988,,2924902.586,2013

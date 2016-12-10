@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124537,130672016.0,Monday,No,2013-10-21T07:30:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,10,MISPER,281,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2013
+179528,130671907.0,Monday,No,2013-10-21T16:45:00.000,PersLoc,"[-71.078452, 42.304244]",Point,PersLoc,10,MISPER,460,C11,First,No,MORSE ST,Other,Unarmed,770199.8024,,2936176.0889999997,2013
+247425,130671191.0,Monday,No,2013-10-21T13:00:00.000,PersLoc,"[-71.061995, 42.308641]",Point,PersLoc,10,MSNCOM,338,C11,Day,No,CHURCH ST,Other,Unarmed,774643.5291,,2937801.125,2013

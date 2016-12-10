@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132035,140186961.0,Friday,No,2014-03-28T09:30:00.000,Service,"[-71.0626, 42.352361]",Point,Service,3,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014
+150455,140187037.0,Friday,No,2014-03-28T09:49:00.000,Service,"[-71.130005, 42.284726]",Point,Service,3,ARREST,559,E5,Day,No,WASHINGTON ST,Part three,Unarmed,756285.3194,,2928998.985,2014
+169134,140187348.0,Friday,No,2014-03-28T12:22:00.000,Service,"[-71.172455, 42.276101]",Point,Service,3,ARREST,725,E5,Day,No,VFW PY,Part three,Unarmed,744810.7262,,2925808.934,2014
+261853,140186966.0,Friday,No,2014-03-28T13:00:00.000,Service,"[0, 0]",Point,Service,3,IVPREM,167,D4,Day,No,VINE ST,Part three,Unarmed,,,,2014

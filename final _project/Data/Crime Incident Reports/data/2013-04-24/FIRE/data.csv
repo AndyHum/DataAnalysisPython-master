@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124019,130241868.0,Wednesday,No,2013-04-24T20:16:00.000,FIRE,"[-71.12503, 42.354665]",Point,FIRE,4,FV    ,798,D14,First,No,SAWYER TR,Part Three,Other,757519.4042,,2954491.686,2013
+177571,130241088.0,Wednesday,No,2013-04-24T14:00:00.000,FIRE,"[-71.05484, 42.363456]",Point,FIRE,4,FIREB ,91,A1,Day,No,HANOVER ST,Part Three,Unarmed,776474.6268,,2957786.685,2013
+234279,130240022.0,Wednesday,No,2013-04-24T00:12:00.000,FIRE,"[-71.074975, 42.329421]",Point,FIRE,4,FIREB ,269,B2,Last,No,HAMPDEN ST,Part Three,Unarmed,771094.8429,,2945355.938,2013
+241902,130240531.0,Wednesday,No,2013-04-24T09:18:00.000,FIRE,"[-71.084071, 42.320051]",Point,FIRE,4,FIREB ,309,B2,Day,No,CATAWBA ST,Part Three,Unarmed,768651.8865,,2941929.1969999997,2013

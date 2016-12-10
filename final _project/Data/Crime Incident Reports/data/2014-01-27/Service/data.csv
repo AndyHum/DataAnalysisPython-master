@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14636,140054704.0,Monday,No,2014-01-27T15:08:00.000,Service,"[-71.05977, 42.350101]",Point,Service,1,SSTOP ,173,A1,Day,No,SURFACE RD,Part three,Unarmed,775167.3879999999,KNEELAND ST,2952912.9510000004,2014
+78124,140055025.0,Monday,No,2014-01-27T17:34:00.000,Service,"[-71.06443, 42.285251]",Point,Service,1,ABRPT ,426,C11,First,No,DORCHESTER AV,Part three,Unarmed,774028.4138,,2929274.0930000003,2014
+117369,140054312.0,Monday,No,2014-01-27T12:19:00.000,Service,"[-71.060554, 42.364937]",Point,Service,1,ARREST,76,A1,Day,No,CANAL ST,Part three,Unarmed,774927.5836,,2958318.224,2014
+133073,140054146.0,Monday,No,2014-01-27T10:40:00.000,Service,"[-71.058, 42.352311]",Point,Service,1,ARREST,115,A1,Day,No,LINCOLN ST,Part three,Unarmed,775641.6671,ESSEX ST,2953720.791,2014
+153862,140053670.0,Monday,No,2014-01-27T03:04:00.000,Service,"[-71.06133, 42.353401]",Point,Service,1,ARREST,112,A1,Last,No,AVENUE DE LAFAYETTE,Part three,Unarmed,774739.5162,HARRISON AV,2954113.36,2014
+247847,140140268.0,Monday,No,2014-01-27T20:30:00.000,Service,"[-71.07411, 42.279916]",Point,Service,1,LARCRT,416,B3,First,No,WILMINGTON AV,Part three,Unarmed,771418.8157,,2927316.72,2014
+254378,140053562.0,Monday,No,2014-01-27T01:18:00.000,Service,"[-71.077214, 42.322024]",Point,Service,1,ARREST,262,B2,Last,No,BLUE HILL AV,Part three,Unarmed,770502.5777,,2942657.1489999997,2014

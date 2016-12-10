@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76575,120433953.0,Saturday,No,2012-07-14T16:57:00.000,WEAPONS CHARGE,"[-71.09641, 42.332791]",Point,15xx,7,ARREST,901,B2,First,No,PARKER ST,Part Two,Knife,765292.9891,SMITH ST,2946555.872,2012
+119918,120433175.0,Saturday,No,2012-07-14T08:15:00.000,WEAPONS CHARGE,"[-71.094815, 42.277296]",Point,15xx,7,CD11  ,469,B3,Day,No,MATTAPAN ST,Part Two,Firearm,765820.3275,,2926334.66,2012
+231220,120432825.0,Saturday,No,2012-07-14T01:49:00.000,WEAPONS CHARGE,"[-71.08181, 42.29754]",Point,15xx,7,ARREST,444,B3,Last,No,GLEASON ST,Part Two,Firearm,769303.5968,,2933728.817,2012

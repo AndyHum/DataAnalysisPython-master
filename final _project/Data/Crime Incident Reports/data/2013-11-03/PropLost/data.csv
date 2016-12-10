@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13025,130702205.0,Sunday,No,2013-11-03T15:30:00.000,PropLost,"[-71.108835, 42.322276]",Point,PropLost,11,LSTPRP,582,E13,Day,No,CENTRE ST,Part three,Unarmed,761951.0062,,2942708.367,2013
+13766,130700679.0,Sunday,No,2013-11-03T14:30:00.000,PropLost,"[-71.053601, 42.35182]",Point,PropLost,11,LSTPRP,173,A1,Day,No,SUMMER ST,Part three,Unarmed,776831.4925,,2953548.019,2013
+37198,130700922.0,Sunday,No,2013-11-03T12:40:00.000,PropLost,"[-71.061745, 42.356021]",Point,PropLost,11,LSTPRP,102,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2013
+38643,130709149.0,Sunday,No,2013-11-03T00:30:00.000,PropLost,"[-71.10142, 42.340956]",Point,PropLost,11,LSTPRP,614,B2,Last,No,FENWAY,Part three,Unarmed,763924.4485,,2949524.98,2013
+59252,130705709.0,Sunday,No,2013-11-03T09:00:00.000,PropLost,"[-71.044728, 42.351393]",Point,PropLost,11,MISC  ,206,C6,Day,No,SEAPORT BL,Part three,Unarmed,779230.8470000001,,2953405.115,2013
+206581,130707135.0,Sunday,No,2013-11-03T14:00:00.000,PropLost,"[-71.05152, 42.321091]",Point,PropLost,11,LSTPRP,250,C6,Day,No,MORRISSEY BL,Part three,Unarmed,777453.0477,MT VERNON ST,2942352.8219999997,2013
+217450,130700197.0,Sunday,No,2013-11-03T00:01:00.000,PropLost,"[-71.13255, 42.354731]",Point,PropLost,11,LARCRT,801,D14,Last,No,HARVARD AV,Part three,Unarmed,755486.7626,,2954507.0730000003,2013
+265350,130700339.0,Sunday,No,2013-11-03T01:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,26,A7,Last,No,BORDER ST,Part three,Unarmed,,SARATOGA ST,,2013

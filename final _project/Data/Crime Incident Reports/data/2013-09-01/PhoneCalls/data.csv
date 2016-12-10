@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+136828,130556029.0,Sunday,No,2013-09-01T17:00:00.000,PhoneCalls,"[-71.150935, 42.288809]",Point,PhoneCalls,9,HARPT ,691,E5,First,No,MANTHORNE RD,Part Two,Other,750615.6736,,2930462.8460000004,2013
+243077,130679979.0,Sunday,No,2013-09-01T12:00:00.000,PhoneCalls,"[-71.050199, 42.365331]",Point,PhoneCalls,9,HARPT ,83,A1,Day,No,UNION WHRF,Part three,Unarmed,777725.1581,,2958476.546,2013
+259010,140185023.0,Sunday,No,2013-09-01T06:43:00.000,PhoneCalls,"[-71.15322, 42.291591]",Point,PhoneCalls,9,IVPER ,692,E5,Last,No,MANTHORNE RD,Part three,Unarmed,749993.3425,,2931474.305,2013

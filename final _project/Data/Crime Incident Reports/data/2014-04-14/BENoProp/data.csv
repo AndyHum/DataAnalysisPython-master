@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66666,140226192.0,Monday,No,2014-04-14T09:15:00.000,BENoProp,"[-71.060072, 42.320861]",Point,BENoProp,4,BERPT ,236,C6,Day,No,ROSECLAIR ST,Part One,Unarmed,775140.6993,,2942256.784,2014
+69310,140228239.0,Monday,No,2014-04-14T23:31:00.000,BENoProp,"[-71.056374, 42.350817]",Point,BENoProp,4,BERPT ,115,A1,First,No,ATLANTIC AV,Part One,Unarmed,776084.0039,,2953178.441,2014
+243433,140228429.0,Monday,No,2014-04-14T19:00:00.000,BENoProp,"[-71.08489, 42.348946]",Point,BENoProp,4,BERPT ,142,D4,First,No,NEWBURY ST,Part One,Other,768379.1902,,2952458.002,2014

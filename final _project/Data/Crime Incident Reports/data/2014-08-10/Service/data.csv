@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63965,142017895.0,Sunday,No,2014-08-10T04:23:00.000,Service,"[-71.166065, 42.353471]",Point,Service,8,IVPER,0,D14,Last,No,PERTHSHIRE RD,Other,Unarmed,746429.6340000001,,2954010.538,2014
+176253,142017909.0,Sunday,No,2014-08-10T08:45:00.000,Service,"[-71.070155, 42.350601]",Point,Service,8,CD9,0,A1,Day,No,ARLINGTON ST,Part three,Unarmed,772359.2779999999,,2953080.8430000003,2014
+240035,142017949.0,Sunday,No,2014-08-10T13:30:00.000,Service,"[-71.07457, 42.339631]",Point,Service,8,ARREST,0,D4,Day,No,W NEWTON ST,Other,Unarmed,771185.7979,SHAWMUT AV,2949077.188,2014
+263648,142017994.0,Sunday,No,2014-08-10T14:20:00.000,Service,"[0, 0]",Point,Service,8,IVPER,0,C11,Day,No,PLAYSTEAD RD,Part three,Unarmed,,,,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8040,142060990.0,Thursday,No,2014-11-06T21:30:00.000,Service,"[-71.063873, 42.325436]",Point,Service,11,LARCEN,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+68575,142046360.0,Thursday,No,2014-11-06T08:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,11,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2014
+114137,142046383.0,Thursday,No,2014-11-06T10:53:00.000,Service,"[-71.059987, 42.361648]",Point,Service,11,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+133804,142046556.0,Thursday,No,2014-11-06T19:20:00.000,Service,"[-71.14832, 42.347011]",Point,Service,11,ARREST,0,D14,First,No,WASHINGTON ST,Part three,Unarmed,751235.8323,SNOW ST,2951675.778,2014
+216656,142046331.0,Thursday,No,2014-11-06T03:14:00.000,Service,"[-71.06305, 42.350871]",Point,Service,11,ARREST,0,A1,Last,No,STUART ST,Part three,Other,774279.327,WASHINGTON ST,2953188.994,2014
+258175,142046597.0,Thursday,No,2014-11-06T10:00:00.000,Service,"[-71.059969, 42.355867]",Point,Service,11,INJ,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2014
+263641,142048583.0,Thursday,No,2014-11-06T05:00:00.000,Service,"[0, 0]",Point,Service,11,IVPER,0,B2,Last,No,CAMBRIDGE ST,Part three,Unarmed,,,,2014

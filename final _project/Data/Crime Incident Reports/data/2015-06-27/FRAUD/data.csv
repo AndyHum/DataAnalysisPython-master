@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20031,,Saturday,No,2015-06-27T00:00:00.000,Fraud,"[-71.053703, 42.332634]",Point,11xx,6,IVPER,216,C6,,No,OLD COLONY AVE,Part Two,None,776841.0,,2950000.0,2015
+134151,,Saturday,No,2015-06-27T00:00:00.000,Fraud,"[-71.069765, 42.27516]",Point,11xx,6,,414,C11,,No,WASHINGTON ST,Part Two,None,772603.0,,2930000.0,2015
+226104,,Saturday,No,2015-06-27T00:00:00.000,Fraud,"[-71.065255, 42.352418]",Point,11xx,6,ARREST,119,A1,,No,BOYLSTON ST,Part Two,None,773680.0,,2950000.0,2015

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59183,,Monday,No,2015-06-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.085634, 42.328663]",Point,06MV,6,,282,B2,,No,HARTFORD ST,Part One,None,768214.0,,2950000.0,2015
+78047,,Monday,No,2015-06-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.084908, 42.330146]",Point,06MV,6,,280,B2,,No,MARVIN ST,Part One,None,768408.0,,2950000.0,2015
+78118,,Monday,No,2015-06-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.056154, 42.381808]",Point,06MV,6,BE,37,A15,,No,TERMINAL ST,Part One,None,776085.0,,2960000.0,2015
+84857,,Monday,No,2015-06-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.065939, 42.316355]",Point,06MV,6,ARREST,258,B2,,No,COLUMBIA RD,Part One,None,773562.0,,2940000.0,2015
+96638,,Monday,No,2015-06-22T08:00:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,6,BE,216,C6,,No,E ST,Part One,None,,W SEVENTH ST,,2015
+118861,,Monday,No,2015-06-22T23:00:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,6,BE,87,A1,,No,COMMERCIAL ST,Part One,None,,,,2015
+143840,,Monday,No,2015-06-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.089563, 42.349247]",Point,06MV,6,BE,621,D4,,No,COMMONWEALTH AVE,Part One,None,767115.0,,2950000.0,2015
+158348,,Monday,No,2015-06-22T22:00:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,6,PROP,768,D14,,No,FANEUIL ST,Part One,None,,,,2015
+166826,,Monday,No,2015-06-22T23:00:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,6,BE,351,C11,,No,DORCHESTER AVE,Part One,None,,,,2015
+212329,,Monday,No,2015-06-22T13:49:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,6,BE,572,E13,,No,WALNUT AVE,Part One,None,,,,2015

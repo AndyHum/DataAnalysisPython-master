@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+165946,120436809.0,Sunday,No,2012-07-15T23:45:00.000,InvProp,"[-71.084155, 42.337221]",Point,InvProp,7,ALARMC,285,D4,First,No,TREMONT ST,Part Three,Unarmed,768598.7055,,2948186.1610000003,2012
+176324,120435891.0,Sunday,No,2012-07-15T14:11:00.000,InvProp,"[-71.054125, 42.334506]",Point,InvProp,7,ALARMR,216,C6,Day,No,W 9TH ST,Part Three,Unarmed,776723.0078,,2947237.7810000004,2012
+178281,120435011.0,Sunday,No,2012-07-15T01:21:00.000,InvProp,"[-71.069815, 42.282456]",Point,InvProp,7,BERPT ,402,C11,Last,No,FULLER ST,Part Three,Unarmed,772576.4249,,2928248.165,2012
+266348,120436329.0,Sunday,No,2012-07-15T18:47:00.000,InvProp,"[0, 0]",Point,InvProp,7,HAZMAT,790,D14,First,No,BEACON ST,Part Three,Unarmed,,,,2012

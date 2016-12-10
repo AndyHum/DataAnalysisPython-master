@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+160433,120715999.0,Friday,No,2012-11-09T08:00:00.000,PersLoc,"[-71.068433, 42.297649]",Point,PersLoc,11,IVPER ,358,C11,Day,No,LINDSEY ST,Part Three,Unarmed,772922.1667,,2933786.325,2012
+211608,120707984.0,Friday,No,2012-11-09T17:00:00.000,PersLoc,"[-71.075358, 42.341348]",Point,PersLoc,11,MISPER,158,D4,First,No,AGUADILLA ST,Part Three,Unarmed,770969.6476,,2949701.541,2012
+213229,120707660.0,Friday,No,2012-11-09T08:00:00.000,PersLoc,"[-71.121635, 42.277231]",Point,PersLoc,11,MSNCOM,556,E18,Day,No,PINEDALE RD,Part Three,Unarmed,758562.2935,,2926277.633,2012
+231414,120706393.0,Friday,No,2012-11-09T11:43:00.000,PersLoc,"[-71.080301, 42.292654]",Point,PersLoc,11,MISPER,439,B3,Day,No,TALBOT AV,Part Three,Unarmed,769720.5959999999,,2931950.291,2012

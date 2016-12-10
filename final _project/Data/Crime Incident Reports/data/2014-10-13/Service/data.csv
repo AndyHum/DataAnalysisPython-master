@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23505,142038618.0,Monday,No,2014-10-13T12:23:00.000,Service,"[-71.08787, 42.287411]",Point,Service,10,BE,0,B3,Day,No,ARBUTUS ST,Part three,Other,767681.9944,,2930029.711,2014
+28066,142038598.0,Monday,No,2014-10-13T12:10:00.000,Service,"[-71.06047, 42.355401]",Point,Service,10,ARREST,0,A1,Day,No,WINTER ST,Part three,Unarmed,774968.2164,WASHINGTON ST,2954843.395,2014
+45930,142038525.0,Monday,No,2014-10-13T01:44:00.000,Service,"[-71.10297, 42.330656]",Point,Service,10,SS,0,B2,Last,No,CALUMET ST,Part three,Unarmed,763522.8738,,2945769.5160000003,2014
+75048,142038800.0,Monday,No,2014-10-13T23:29:00.000,Service,"[-71.062535, 42.271926]",Point,Service,10,UNCONS,0,C11,First,No,BUTLER ST,Part three,Unarmed,774566.0853,,2924420.9110000003,2014
+111757,142038519.0,Monday,No,2014-10-13T00:31:00.000,Service,"[-71.133955, 42.234786]",Point,Service,10,AOD,0,E18,Last,No,PRESCOTT ST,Part three,Unarmed,755294.5773,,2910795.5710000005,2014
+175375,142038790.0,Monday,No,2014-10-13T22:50:00.000,Service,"[-71.111164, 42.316045]",Point,Service,10,MISC,0,E13,First,No,ROBINWOOD AV,Part three,Unarmed,761331.3073,,2940434.6739999996,2014

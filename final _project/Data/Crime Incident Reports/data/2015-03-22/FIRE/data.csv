@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23511,152022935.0,Sunday,No,2015-03-22T06:41:00.000,FIRE,"[-71.07376, 42.282643]",Point,FIRE,3,FO,0,B3,Last,No,STOCKTON ST,Part three,Unarmed,771508.3897,,2928310.909,2015
+206883,152023009.0,Sunday,No,2015-03-22T13:09:00.000,FIRE,"[-71.150935, 42.288809]",Point,FIRE,3,FIRE,0,E5,Day,No,MANTHORNE RD,Part three,Other,750615.6736,,2930462.8460000004,2015
+266748,152023027.0,Sunday,No,2015-03-22T15:41:00.000,FIRE,"[0, 0]",Point,FIRE,3,FO,0,D14,Day,No,EVERETT ST,Part three,Unarmed,,,,2015

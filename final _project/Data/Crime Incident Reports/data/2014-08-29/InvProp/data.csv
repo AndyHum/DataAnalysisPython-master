@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100301,142024086.0,Friday,No,2014-08-29T11:11:00.000,InvProp,"[-71.14117, 42.354126]",Point,InvProp,8,IVPREM,0,D14,Day,No,N BEACON ST,Part three,Unarmed,753157.7603,,2954276.6789999995,2014
+105713,142024065.0,Friday,No,2014-08-29T10:09:00.000,InvProp,"[-71.040645, 42.290121]",Point,InvProp,8,IVPREM,0,C11,Day,No,PORT NORFOLK ST,Part three,Unarmed,780454.817,,2931082.55,2014
+238232,142024976.0,Friday,No,2014-08-29T08:00:00.000,InvProp,"[-71.054935, 42.335756]",Point,InvProp,8,IVPER,0,C6,Day,No,W EIGHTH ST,Part three,Unarmed,776501.6244,,2947692.1580000003,2014

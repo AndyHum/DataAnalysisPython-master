@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65156,130492018.0,Tuesday,No,2013-08-06T18:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,8,IVPER ,421,B3,First,No,MORTON VILLAGE DR,Part three,Unarmed,,,,2013
+74175,130513312.0,Tuesday,No,2013-08-06T12:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,8,HARPT ,99,A1,Day,No,EXCHANGE PL,Part three,Other,,,,2013
+93673,130493514.0,Tuesday,No,2013-08-06T18:00:00.000,PhoneCalls,"[-71.10229, 42.318061]",Point,PhoneCalls,8,THREAT,577,E13,First,No,MARBURY TR,Part three,Other,763728.1444,,2941180.534,2013
+164263,130494405.0,Tuesday,No,2013-08-06T22:30:00.000,PhoneCalls,"[-71.085118, 42.298635]",Point,PhoneCalls,8,HARPT ,444,B3,First,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2013
+209419,130491976.0,Tuesday,No,2013-08-06T17:40:00.000,PhoneCalls,"[-71.101765, 42.328681]",Point,PhoneCalls,8,HARPT ,585,B2,First,No,PARKER HILL AV,Part three,Unarmed,763852.0615,,2945051.31,2013

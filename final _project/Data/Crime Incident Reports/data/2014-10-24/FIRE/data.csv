@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+175934,142042234.0,Friday,No,2014-10-24T13:41:00.000,FIRE,"[-71.083045, 42.321886]",Point,FIRE,10,FO,0,B2,Day,No,ROCKLAND ST,Part three,Other,768926.1271,,2942599.2830000003,2014
+253272,142042100.0,Friday,No,2014-10-24T06:00:00.000,FIRE,"[-71.045375, 42.292311]",Point,FIRE,10,FIRE,0,C11,Last,No,TENEAN ST,Part three,Unarmed,779170.7782,,2931873.7589999996,2014
+256141,142042646.0,Friday,No,2014-10-24T18:16:00.000,FIRE,"[-71.067615, 42.289796]",Point,FIRE,10,FIRE,0,C11,First,No,BRENT ST,Part three,Unarmed,773158.1905,,2930925.9710000004,2014
+257926,142042412.0,Friday,No,2014-10-24T23:14:00.000,FIRE,"[-71.10772, 42.337626]",Point,FIRE,10,FIRE,0,B2,First,No,JIMMY FUND WY,Part three,Unarmed,762226.8121,,2948303.57,2014

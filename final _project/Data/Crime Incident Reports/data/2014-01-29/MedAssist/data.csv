@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61455,140059053.0,Wednesday,No,2014-01-29T14:16:00.000,MedAssist,"[-71.06321, 42.302461]",Point,MedAssist,1,NIDV  ,345,C11,Day,No,ROBINSON ST,Part three,Unarmed,774326.4172,,2935547.353,2014
+89604,140060048.0,Wednesday,No,2014-01-29T22:38:00.000,MedAssist,"[-71.088027, 42.325407]",Point,MedAssist,1,UNCONS,293,B2,First,No,WASHINGTON ST,Part three,Unarmed,767572.6255,,2943875.67,2014
+92945,140058152.0,Wednesday,No,2014-01-29T05:49:00.000,MedAssist,"[-71.06506, 42.318416]",Point,MedAssist,1,TRAUMA,239,B2,Last,No,HAMLET ST,Part three,Unarmed,773796.3152,,2941359.047,2014
+108195,140059283.0,Wednesday,No,2014-01-29T16:12:00.000,MedAssist,"[-71.082405, 42.335031]",Point,MedAssist,1,CARST ,274,D4,First,No,HAMMOND ST,Part three,Unarmed,769075.7574,,2947390.398,2014
+152224,140058190.0,Wednesday,No,2014-01-29T06:39:00.000,MedAssist,"[-71.057908, 42.293715]",Point,MedAssist,1,IVPER ,363,C11,Last,No,WHITTEN ST,Part three,Other,775776.9943,,2932367.5560000003,2014
+207204,140058536.0,Wednesday,No,2014-01-29T10:00:00.000,MedAssist,"[-71.03164, 42.379161]",Point,MedAssist,1,EDP2  ,19,A7,Day,No,PRINCETON ST,Part three,Unarmed,782713.1109999999,,2963543.473,2014
+208136,140058698.0,Wednesday,No,2014-01-29T11:40:00.000,MedAssist,"[-71.157222, 42.256638]",Point,MedAssist,1,EDP2  ,821,E5,Day,No,ROCKLAND ST,Part three,Unarmed,748961.5322,,2918732.3819999998,2014
+234308,140060098.0,Wednesday,No,2014-01-29T23:36:00.000,MedAssist,"[-71.051685, 42.309604]",Point,MedAssist,1,EDP2  ,252,C11,First,No,PLAYSTEAD RD,Part three,Other,777430.1836,,2938166.501,2014

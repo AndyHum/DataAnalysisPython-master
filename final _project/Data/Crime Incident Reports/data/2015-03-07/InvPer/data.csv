@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19927,152018537.0,Saturday,No,2015-03-07T16:52:00.000,InvPer,"[-71.096635, 42.314056]",Point,InvPer,3,FIGHT,0,E13,First,No,CLEAVES ST,Part three,Unarmed,765264.4382,,2939728.2260000003,2015
+36686,152027158.0,Saturday,No,2015-03-07T11:00:00.000,InvPer,"[-71.05992, 42.356996]",Point,InvPer,3,LARCEN,0,A1,Day,No,PROVINCE ST,Part three,Unarmed,775113.8775,,2955425.4110000003,2015
+53461,152018611.0,Saturday,No,2015-03-07T22:26:00.000,InvPer,"[-71.03439, 42.335651]",Point,InvPer,3,IVMV,0,C6,First,No,E BROADWAY,Part three,Unarmed,782056.6497,M ST,2947683.55,2015
+73241,152018398.0,Saturday,No,2015-03-07T05:04:00.000,InvPer,"[-71.02752, 42.381321]",Point,InvPer,3,FIGHT,0,A7,Last,No,E EAGLE ST,Part three,Unarmed,783821.9241,,2964336.7610000004,2015
+117008,152018557.0,Saturday,No,2015-03-07T16:40:00.000,InvPer,"[-71.07072, 42.359106]",Point,InvPer,3,IVPER,0,A1,First,No,CHARLES ST,Part three,Unarmed,772190.9539,,2956179.46,2015
+138991,152018545.0,Saturday,No,2015-03-07T18:00:00.000,InvPer,"[-71.13365, 42.350111]",Point,InvPer,3,IVPER,0,D14,First,No,GLENVILLE AV,Part three,Unarmed,755196.67,,2952822.172,2015
+212400,152018569.0,Saturday,No,2015-03-07T18:46:00.000,InvPer,"[-71.094763, 42.284636]",Point,InvPer,3,INVEST,0,B3,First,No,WELLINGTON HILL ST,Part three,Unarmed,765821.7009,,2929009.2339999997,2015
+239803,152018369.0,Saturday,No,2015-03-07T00:59:00.000,InvPer,"[-71.10363, 42.322626]",Point,InvPer,3,REQEP,0,E13,Last,No,JOHNSON AV,Part three,Unarmed,763358.0106,,2942842.412,2015
+262199,152018606.0,Saturday,No,2015-03-07T22:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,E5,First,No,BEECH ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101868,130124249.0,Friday,No,2013-03-01T12:30:00.000,DISORDERLY,"[-71.145297, 42.349864]",Point,24xx,3,AOD   ,784,D14,Day,No,WARREN ST,Part Two,Unarmed,752048.4758,,2952718.7569999998,2013
+237471,130124223.0,Friday,No,2013-03-01T12:10:00.000,DISORDERLY,"[-71.08323, 42.327536]",Point,24xx,3,ARREST,282,B2,Day,No,WARREN ST,Part Two,Firearm,768866.0406,,2944657.9960000003,2013
+238096,130124235.0,Friday,No,2013-03-01T13:00:00.000,DISORDERLY,"[-71.081455, 42.338701]",Point,24xx,3,ARREST,274,D4,Day,No,TREMONT ST,Part Two,Knife,769326.0512,,2948729.0710000005,2013

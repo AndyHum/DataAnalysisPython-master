@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32750,152013186.0,Wednesday,No,2015-02-18T16:40:00.000,InvPer,"[-71.08135, 42.332389]",Point,InvPer,2,MVA,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,769365.5688,,2946429.0289999996,2015
+52210,152017407.0,Wednesday,No,2015-02-18T08:00:00.000,InvPer,"[-71.077025, 42.327426]",Point,InvPer,2,IVPER,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,770544.1271,,2944626.17,2015
+107791,152013140.0,Wednesday,No,2015-02-18T13:50:00.000,InvPer,"[-71.09279, 42.335528]",Point,InvPer,2,IVPER,0,B2,Day,No,ANNUNCIATION RD,Part three,Unarmed,766266.9936,,2947557.934,2015
+191013,152013115.0,Wednesday,No,2015-02-18T13:20:00.000,InvPer,"[-71.14971, 42.353671]",Point,InvPer,2,REQEP,0,D14,Day,No,MORROW RD,Part three,Unarmed,750850.1117,,2954101.273,2015
+192571,152013209.0,Wednesday,No,2015-02-18T17:45:00.000,InvPer,"[-71.158375, 42.280116]",Point,InvPer,2,IVPER,0,E5,First,No,CENTRE ST,Part three,Unarmed,748615.3341,LANDSEER ST,2927287.0069999998,2015
+238246,152013224.0,Wednesday,No,2015-02-18T17:54:00.000,InvPer,"[-71.055055, 42.336376]",Point,InvPer,2,IVPER,0,C6,First,No,BAXTER ST,Part three,Unarmed,776468.0024,,2947917.9289999995,2015
+247877,152013063.0,Wednesday,No,2015-02-18T08:52:00.000,InvPer,"[-71.094763, 42.284636]",Point,InvPer,2,ARREST,0,B3,Day,No,WELLINGTON HILL ST,Part three,Unarmed,765821.7009,,2929009.2339999997,2015
+260431,152013303.0,Wednesday,No,2015-02-18T23:20:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,E5,First,No,ARCHDALE RD,Part three,Unarmed,,,,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91219,,Thursday,No,2015-06-18T00:00:00.000,Medical Assistance,"[-71.057318, 42.312497]",Point,MedAssist,6,AB,255,C11,,No,DORCHESTER AVE,Part Three,None,775901.0,,2940000.0,2015
+104067,,Thursday,No,2015-06-18T17:32:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,REQEP,763,D14,,No,WASHINGTON ST,Part Three,None,,,,2015
+110680,,Thursday,No,2015-06-18T00:00:00.000,Medical Assistance,"[-71.006261, 42.391226]",Point,MedAssist,6,IVPER,10,A7,,No,DRUMLIN RD,Part Three,None,789545.0,,2970000.0,2015
+131615,,Thursday,No,2015-06-18T00:00:00.000,Medical Assistance,"[-71.064248, 42.299909]",Point,MedAssist,6,EDP,356,C11,,No,CHARLES ST,Part Three,None,774050.0,,2930000.0,2015
+152352,,Thursday,No,2015-06-18T19:10:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,EDP,68,A1,,No,BOWDOIN ST,Part Three,None,,,,2015
+154687,,Thursday,No,2015-06-18T15:32:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,AB,265,B2,,No,PERRIN ST,Part Three,None,,,,2015
+230334,,Thursday,No,2015-06-18T00:00:00.000,Medical Assistance,"[-71.092951, 42.271524]",Point,MedAssist,6,IVPER,425,B3,,No,FREMONT ST,Part Three,None,766335.0,,2920000.0,2015
+241425,,Thursday,No,2015-06-18T00:00:00.000,Medical Assistance,"[-71.042916, 42.335506]",Point,MedAssist,6,UNKEMS,225,C6,,No,E BROADWAY,Part Three,None,779751.0,,2950000.0,2015
+245565,,Thursday,No,2015-06-18T18:31:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,INVEST,95,A1,,No,ATLANTIC AVE,Part Three,None,,MILK ST,,2015

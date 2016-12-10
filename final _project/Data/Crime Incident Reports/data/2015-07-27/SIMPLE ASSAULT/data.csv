@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20843,,Monday,No,2015-07-27T14:30:00.000,Simple Assault,"[0, 0]",Point,08xx,7,FIGHT,98,A1,,No,STATE ST,Part Two,None,, WASHINGTON ST ,,2015
+25782,,Monday,No,2015-07-27T00:00:00.000,Simple Assault,"[-71.085306, 42.32952]",Point,08xx,7,IVPER,288,B2,,No,ROXBURY ST,Part Two,Other,768301.0,,2950000.0,2015
+56864,,Monday,No,2015-07-27T00:00:00.000,Simple Assault,"[-71.055297, 42.328288]",Point,08xx,7,AB,914,C6,,No,GENERAL LAWRENCE J LOGAN WAY,Part Two,None,776418.0,,2940000.0,2015
+67847,,Monday,No,2015-07-27T00:00:00.000,Simple Assault,"[-71.059567, 42.302542]",Point,08xx,7,AB,350,C11,,No,DORCHESTER AVE,Part Two,Personal Weapon (hand  foot  etc.),775312.0,,2940000.0,2015
+83582,,Monday,No,2015-07-27T00:00:00.000,Simple Assault,"[-71.115878, 42.275313]",Point,08xx,7,AB,490,E18,,No,AMERICAN LEGION HWY,Part Two,Personal Weapon (hand  foot  etc.),760123.0,,2930000.0,2015
+134512,,Monday,No,2015-07-27T00:00:00.000,Simple Assault,"[-71.064371, 42.303586]",Point,08xx,7,UNK,345,C11,,No,DRAPER ST,Part Two,Personal Weapon (hand  foot  etc.),774010.0,,2940000.0,2015
+191277,,Monday,No,2015-07-27T00:00:00.000,Simple Assault,"[-71.082402, 42.335035]",Point,08xx,7,AB,275,D4,,No,HAMMOND ST,Part Two,None,769076.0,,2950000.0,2015
+218116,,Monday,No,2015-07-27T23:00:00.000,Simple Assault,"[0, 0]",Point,08xx,7,NIDV,361,C11,,No,MELVILLE AVE,Part Two,Other,,,,2015
+257649,,Monday,No,2015-07-27T00:00:00.000,Simple Assault,"[-71.079283, 42.310156]",Point,08xx,7,PERGUN,329,B2,,No,NORMANDY ST,Part Two,Personal Weapon (hand  foot  etc.),769964.0,,2940000.0,2015

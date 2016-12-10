@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1075,152017545.0,Friday,No,2015-02-27T10:00:00.000,BENoProp,"[-71.134725, 42.352806]",Point,BENoProp,2,BE,0,D14,Day,No,ALLSTON ST,Part One,Unarmed,754901.8773,,2953803.039,2015
+144081,152015916.0,Friday,No,2015-02-27T14:20:00.000,BENoProp,"[-71.035565, 42.379601]",Point,BENoProp,2,UNK,0,A7,Day,No,BROOKS ST,Part One,Unarmed,781651.7529,,2963698.019,2015
+258975,152015969.0,Friday,No,2015-02-27T15:30:00.000,BENoProp,"[-71.065065, 42.293798]",Point,BENoProp,2,BE,0,C11,Day,No,NIXON ST,Part One,Other,773840.5904,,2932387.8010000004,2015

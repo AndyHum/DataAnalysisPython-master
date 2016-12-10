@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142306,152042441.0,Saturday,No,2015-05-23T18:05:00.000,PersLoc,"[-71.060929, 42.312194]",Point,PersLoc,5,MISSIN,0,C11,First,No,SAWYER AV,Other,Unarmed,774925.0232,,2939097.247,2015
+159852,152042559.0,Saturday,No,2015-05-23T10:45:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,5,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+180813,152043059.0,Saturday,No,2015-05-23T16:00:00.000,PersLoc,"[-71.14805, 42.259326]",Point,PersLoc,5,IVPER,0,E5,First,No,GEORGETOWNE DR,Other,Unarmed,751440.6434,,2919722.167,2015

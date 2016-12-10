@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21998,130774414.0,Sunday,No,2013-12-08T16:57:00.000,SkipFare,"[-71.06724, 42.361136]",Point,SkipFare,12,LARCIP,67,A1,First,No,CAMBRIDGE ST,Part Two,Unarmed,773127.7532,,2956923.985,2013
+58072,130774396.0,Sunday,No,2013-12-08T16:48:00.000,SkipFare,"[-71.076855, 42.318381]",Point,SkipFare,12,LARCIP,324,B2,First,No,BROOKFORD ST,Part Two,Unarmed,770606.4479,,2941330.247,2013
+194195,130774693.0,Sunday,No,2013-12-08T19:44:00.000,SkipFare,"[-71.057025, 42.361191]",Point,SkipFare,12,ARREST,93,A1,First,No,UNION ST,Part Two,Unarmed,775888.4065,,2956958.2010000004,2013

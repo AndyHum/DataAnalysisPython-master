@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19931,,Monday,No,2015-07-20T00:00:00.000,Investigate Property,"[-71.07693, 42.341129]",Point,InvProp,7,IVPER,157,D4,,No,TREMONT ST,Part Three,None,770545.0,,2950000.0,2015
+79940,,Monday,No,2015-07-20T00:00:00.000,Investigate Property,"[-71.077487, 42.338983]",Point,InvProp,7,IVPREM,156,D4,,No,WORCESTER ST,Part Three,None,770398.0,,2950000.0,2015
+206877,,Monday,No,2015-07-20T00:00:00.000,Investigate Property,"[-71.059799, 42.304928]",Point,InvProp,7,IVMV,349,C11,,No,LEEDSVILLE ST,Part Three,None,775244.0,,2940000.0,2015
+218556,,Monday,No,2015-07-20T00:00:00.000,Investigate Property,"[-71.07011, 42.341742]",Point,InvProp,7,VAND,166,D4,,No,UNION PARK ST,Part Three,None,772388.0,,2950000.0,2015
+258891,,Monday,No,2015-07-20T10:47:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,SUSOBJ,172,C6,,No,BRADSTON ST,Part Three,None,,SOUTHAMPTON ST,,2015

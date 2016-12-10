@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96116,142048089.0,Tuesday,No,2014-11-11T19:40:00.000,Bomb,"[-71.064655, 42.375356]",Point,Bomb,11,BOMB,0,A15,First,No,AUSTIN ST,Part Two,Other,773799.9395,,2962109.5960000004,2014
+217364,142048101.0,Tuesday,No,2014-11-11T19:40:00.000,Bomb,"[-71.06574, 42.361226]",Point,Bomb,11,BOMB,0,A1,First,No,CAMBRIDGE ST,Part Two,Unarmed,773532.9837,,2956958.8430000003,2014
+239432,142048081.0,Tuesday,No,2014-11-11T19:35:00.000,Bomb,"[-71.05646, 42.356736]",Point,Bomb,11,BOMB,0,A1,First,No,MILK ST,Part Two,Unarmed,776049.5482,,2955335.506,2014

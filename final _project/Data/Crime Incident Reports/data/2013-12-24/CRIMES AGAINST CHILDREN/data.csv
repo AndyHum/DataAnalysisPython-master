@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135189,130810227.0,Tuesday,No,2013-12-24T07:30:00.000,CRIMES AGAINST CHILDREN,"[0, 0]",Point,20xx,12,IVPER ,169,D4,Day,No,VALLAR RD,Part Two,Unarmed,,,,2013
+151142,130814244.0,Tuesday,No,2013-12-24T22:00:00.000,CRIMES AGAINST CHILDREN,"[-71.166065, 42.353471]",Point,20xx,12,IVPER ,759,D14,First,No,PERTHSHIRE RD,Part Two,Unarmed,746429.6340000001,,2954010.538,2013

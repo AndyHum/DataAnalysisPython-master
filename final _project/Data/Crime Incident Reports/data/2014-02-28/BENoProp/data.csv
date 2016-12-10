@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15939,140123745.0,Friday,No,2014-02-28T03:11:00.000,BENoProp,"[-71.06465, 42.351016]",Point,BENoProp,2,ARREST,121,A1,Last,No,STUART ST,Part One,Unarmed,773846.5631,,2953239.624,2014
+177659,140125752.0,Friday,No,2014-02-28T22:45:00.000,BENoProp,"[-71.079883, 42.315999]",Point,BENoProp,2,BERPT ,311,B2,First,No,SAVIN ST,Part One,Other,769791.8058,,2940458.144,2014
+232031,140126421.0,Friday,No,2014-02-28T22:00:00.000,BENoProp,"[-71.09579, 42.313756]",Point,BENoProp,2,ARREST,572,E13,First,No,COLUMBUS AV,Part One,Other,765493.5024,,2939619.9839999997,2014
+247526,140125017.0,Friday,No,2014-02-28T16:50:00.000,BENoProp,"[-71.071214, 42.278284]",Point,BENoProp,2,ALARMR,414,B3,First,No,GALLIVAN BL,Part One,Unarmed,772205.3829999999,,2926725.936,2014

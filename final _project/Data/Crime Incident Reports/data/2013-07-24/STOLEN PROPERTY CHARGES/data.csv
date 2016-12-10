@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101625,130462442.0,Wednesday,No,2013-07-24T23:30:00.000,STOLEN PROPERTY CHARGES,"[-71.033281, 42.365059]",Point,13xx,7,IVMV  ,34,A7,First,No,WEBSTER ST,Part Two,Other,782297.6407,,2958401.9560000002,2013
+118585,130538775.0,Wednesday,No,2013-07-24T12:00:00.000,STOLEN PROPERTY CHARGES,"[-71.05021, 42.292261]",Point,13xx,7,LARCRT,373,C11,Day,No,NEPONSET AV,Part Two,Unarmed,777862.7224,,2931848.603,2013
+134813,130460071.0,Wednesday,No,2013-07-24T15:20:00.000,STOLEN PROPERTY CHARGES,"[-71.031895, 42.332766]",Point,13xx,7,LARCRT,231,C6,Day,No,PETERS ST,Part Two,Unarmed,782737.0014,,2946635.898,2013

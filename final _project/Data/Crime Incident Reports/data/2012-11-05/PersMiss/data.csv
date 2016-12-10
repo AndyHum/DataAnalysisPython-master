@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6776,120698378.0,Monday,No,2012-11-05T19:00:00.000,PersMiss,"[-71.096105, 42.321479]",Point,PersMiss,11,MISPER,304,B2,First,No,WEAVER WY,Other,Unarmed,765394.9806,,2942433.733,2012
+109086,120698733.0,Monday,No,2012-11-05T06:00:00.000,PersMiss,"[-71.064242, 42.319884]",Point,PersMiss,11,MISPER,237,B2,Last,No,EASTMAN ST,Part Three,Unarmed,774014.7895,,2941894.955,2012
+164925,120698593.0,Monday,No,2012-11-05T21:52:00.000,PersMiss,"[-71.083771, 42.304147]",Point,PersMiss,11,MISPER,330,B2,First,No,NORMANDY ST,Part Three,Unarmed,768761.2524,,2936133.9069999997,2012

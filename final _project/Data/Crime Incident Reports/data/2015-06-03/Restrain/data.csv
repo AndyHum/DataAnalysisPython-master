@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2421,152045744.0,Wednesday,No,2015-06-03T06:01:00.000,Restrain,"[0, 0]",Point,Restrain,6,IVPER,0,D14,Last,No,SOLDIERS FIELD RD,Part Two,Unarmed,,,,2015
+63027,152045992.0,Wednesday,No,2015-06-03T20:30:00.000,Restrain,"[-71.099099, 42.26809]",Point,Restrain,6,LANTEN,0,E18,First,No,HOLLINGSWORTH ST,Part Two,Unarmed,764676.6933,,2922974.147,2015
+109288,152045957.0,Wednesday,No,2015-06-03T19:32:00.000,Restrain,"[-71.031485, 42.334826]",Point,Restrain,6,ARREST,0,C6,First,No,E 4TH ST,Part Two,Unarmed,782843.7361,,2947387.205,2015

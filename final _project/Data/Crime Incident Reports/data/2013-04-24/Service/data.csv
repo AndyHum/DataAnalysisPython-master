@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25932,130242421.0,Wednesday,No,2013-04-24T19:00:00.000,Service,"[-71.06657, 42.318186]",Point,Service,4,INVEST,238,B2,First,No,WENDOVER ST,Part Three,Unarmed,773388.3646,,2941273.152,2013
+95399,130241603.0,Wednesday,No,2013-04-24T18:06:00.000,Service,"[-71.085325, 42.310363]",Point,Service,4,AOD   ,320,B2,First,No,GEORGIA ST,Part Three,Unarmed,768329.7320000001,,2938397.001,2013
+166010,130241572.0,Wednesday,No,2013-04-24T17:51:00.000,Service,"[-71.107534, 42.298312]",Point,Service,4,DOGBIT,509,E13,First,No,FOREST HILLS AV,Part Three,Other,762342.9851,,2933976.913,2013
+229078,130241213.0,Wednesday,No,2013-04-24T15:21:00.000,Service,"[-71.06281, 42.342461]",Point,Service,4,CD11  ,165,D4,Day,No,ALBANY ST,Part Three,Unarmed,774359.9099,,2950124.5689999997,2013

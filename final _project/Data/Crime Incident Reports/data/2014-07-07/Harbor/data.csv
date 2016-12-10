@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+262039,142007208.0,Monday,No,2014-07-07T11:20:00.000,Harbor,"[0, 0]",Point,Harbor,7,CD19,0,A1,Day,No,BOSTON HARBOR,Part three,Unarmed,,,,2014
+262250,142006730.0,Monday,No,2014-07-07T00:23:00.000,Harbor,"[0, 0]",Point,Harbor,7,REQP,0,C11,Last,No,BOSTON HARBOR - C11,Part three,Unarmed,,,,2014
+264700,142006965.0,Monday,No,2014-07-07T15:50:00.000,Harbor,"[0, 0]",Point,Harbor,7,IVMV,0,A1,Day,No,DORCHESTER BAY,Part three,Unarmed,,,,2014

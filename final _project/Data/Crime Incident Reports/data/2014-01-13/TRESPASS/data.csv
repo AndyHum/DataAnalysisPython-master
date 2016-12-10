@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5245,140025398.0,Monday,No,2014-01-13T16:35:00.000,TRESPASS,"[-71.063785, 42.349246]",Point,TRESPASS,1,ARREST,123,A1,First,No,WASHINGTON ST,Part Two,Unarmed,774083.6785,,2952595.797,2014
+57854,140024584.0,Monday,No,2014-01-13T06:20:00.000,TRESPASS,"[-71.074385, 42.335516]",Point,TRESPASS,1,ARREST,171,D4,Last,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2014
+151719,140025897.0,Monday,No,2014-01-13T19:35:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,1,ARREST,111,A1,First,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014
+224781,140025027.0,Monday,No,2014-01-13T10:00:00.000,TRESPASS,"[-71.087705, 42.340771]",Point,TRESPASS,1,HARPT ,283,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,767632.6471,,2949475.187,2014

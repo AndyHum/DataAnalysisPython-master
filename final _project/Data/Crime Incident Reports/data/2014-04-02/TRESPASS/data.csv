@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81919,140198622.0,Wednesday,No,2014-04-02T15:33:00.000,TRESPASS,"[-71.039175, 42.377501]",Point,TRESPASS,4,DK    ,26,A7,Day,No,MERIDIAN ST,Part Two,Unarmed,780680.3926,,2962927.445,2014
+118213,140197513.0,Wednesday,No,2014-04-02T02:19:00.000,TRESPASS,"[-71.058362, 42.358828]",Point,TRESPASS,4,REQP  ,92,A1,Last,No,COURT ST,Part Two,Unarmed,775531.3609,,2956095.0919999997,2014
+140981,140199143.0,Wednesday,No,2014-04-02T19:19:00.000,TRESPASS,"[-71.093739, 42.334956]",Point,TRESPASS,4,ARREST,911,B2,First,No,ANNUNCIATION RD,Part Two,Unarmed,766011.2668,,2947348.014,2014

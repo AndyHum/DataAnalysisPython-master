@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7802,140142766.0,Saturday,No,2014-03-08T14:00:00.000,Argue,"[-71.085036, 42.294732]",Point,Argue,3,REQEP ,441,B3,Day,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2014
+62035,140142419.0,Saturday,No,2014-03-08T11:00:00.000,Argue,"[-71.147405, 42.352446]",Point,Argue,3,THREAT,779,D14,Day,No,ELMIRA ST,Part three,Unarmed,751474.9940000001,,2953657.425,2014
+118868,140142340.0,Saturday,No,2014-03-08T10:11:00.000,Argue,"[-71.08921, 42.289111]",Point,Argue,3,NIDV  ,439,B3,Day,No,CALLENDER ST,Part three,Unarmed,767316.4335,,2930647.466,2014
+205325,140143751.0,Saturday,No,2014-03-08T22:07:00.000,Argue,"[-71.084646, 42.304835]",Point,Argue,3,VIORDR,330,B2,First,No,BLUE HILL AV,Part three,Other,768523.3694,,2936383.492,2014

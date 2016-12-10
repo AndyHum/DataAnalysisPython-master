@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62564,130136393.0,Tuesday,No,2013-01-22T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,1,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2013
+102612,130213354.0,Tuesday,No,2013-01-22T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,1,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2013
+138113,130136394.0,Tuesday,No,2013-01-22T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,1,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2013
+156787,130044329.0,Tuesday,No,2013-01-22T06:39:00.000,PropFound,"[-71.036112, 42.370033]",Point,PropFound,1,FDPROP,30,A7,Last,No,ORLEANS ST,Part Three,Unarmed,781522.8513,,2960210.255,2013
+206083,130045583.0,Tuesday,No,2013-01-22T15:00:00.000,PropFound,"[-71.07772, 42.350841]",Point,PropFound,1,FDPROP,128,D4,Day,No,NEWBURY ST,Part Three,Unarmed,770313.9482,DARTMOUTH ST,2953158.0889999997,2013
+210744,130236937.0,Tuesday,No,2013-01-22T14:13:00.000,PropFound,"[-71.05953, 42.357719]",Point,PropFound,1,IVPREM,97,A1,Day,No,SCHOOL ST,Part Three,Unarmed,775217.7238,,2955689.475,2013
+264353,130044978.0,Tuesday,No,2013-01-22T13:02:00.000,PropFound,"[0, 0]",Point,PropFound,1,IVPREM,59,A15,Day,No,UNION ST,Part Three,Unarmed,,,,2013

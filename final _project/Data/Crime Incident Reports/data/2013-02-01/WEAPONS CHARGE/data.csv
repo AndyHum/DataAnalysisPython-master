@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76101,130065468.0,Friday,No,2013-02-01T00:19:00.000,WEAPONS CHARGE,"[-71.08113, 42.338881]",Point,15xx,2,ARREST,273,D4,Last,No,NORTHAMPTON ST,Part Two,Unarmed,769413.5971,TREMONT ST,2948795.097,2013
+114527,130066029.0,Friday,No,2013-02-01T09:41:00.000,WEAPONS CHARGE,"[-71.098485, 42.343391]",Point,15xx,2,EDP2  ,627,D4,Day,No,PETERBOROUGH ST,Part Two,Unarmed,764713.7517,,2950416.063,2013
+254130,130067710.0,Friday,No,2013-02-01T22:00:00.000,WEAPONS CHARGE,"[-71.08152, 42.328481]",Point,15xx,2,ARREST,279,B2,First,No,DUDLEY ST,Part Two,Firearm,769326.7509999999,WINSLOW ST,2945004.6339999996,2013

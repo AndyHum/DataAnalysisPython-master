@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29439,152047170.0,Saturday,No,2015-06-06T15:30:00.000,PropLost,"[-71.06636, 42.352221]",Point,PropLost,6,PROP,0,A1,Day,No,BOYLSTON PL,Part three,Unarmed,773382.1034,,2953676.394,2015
+40119,152048633.0,Saturday,No,2015-06-06T07:00:00.000,PropLost,"[-71.11058, 42.320881]",Point,PropLost,6,PROP,0,E13,Last,No,CENTRE ST,Part three,Unarmed,761481.4235,,2942197.8460000004,2015
+175750,152046906.0,Saturday,No,2015-06-06T07:30:00.000,PropLost,"[-71.083365, 42.331551]",Point,PropLost,6,LARCEN,0,B2,Day,No,RUGGLES ST,Part three,Unarmed,768822.3904,,2946120.954,2015
+200900,152047654.0,Saturday,No,2015-06-06T20:00:00.000,PropLost,"[-71.074855, 42.351641]",Point,PropLost,6,PROP,0,D4,First,No,NEWBURY ST,Part three,Unarmed,771086.9302,,2953453.473,2015

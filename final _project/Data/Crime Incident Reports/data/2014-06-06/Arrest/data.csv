@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31813,140355722.0,Friday,No,2014-06-06T10:30:00.000,Arrest,"[-71.05231, 42.332081]",Point,Arrest,6,ARREST,915,C6,Day,No,BURKE ST,Part three,Unarmed,777218.3827,DORCHESTER ST,2946356.6380000003,2014
+38160,140355273.0,Friday,No,2014-06-06T06:28:00.000,Arrest,"[-71.107525, 42.300191]",Point,Arrest,6,ARREST,566,E13,Last,No,MORTON ST,Part three,Unarmed,762342.3043,,2934661.854,2014
+122406,140355691.0,Friday,No,2014-06-06T10:00:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,6,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

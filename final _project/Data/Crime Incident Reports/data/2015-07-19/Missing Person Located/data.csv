@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33370,,Sunday,No,2015-07-19T00:00:00.000,Missing Person Located,"[-71.0688, 42.316339]",Point,PersFound,7,IVPER,258,B2,,No,MONADNOCK ST,Part Three,None,772789.0,,2940000.0,2015
+53076,,Sunday,No,2015-07-19T00:00:00.000,Missing Person Located,"[-71.040303, 42.381665]",Point,PersFound,7,FIGHT,26,,,No,BORDER ST,Part Three,None,780367.0,,2960000.0,2015
+60427,,Sunday,No,2015-07-19T00:00:00.000,Missing Person Located,"[-71.068654, 42.30176]",Point,PersFound,7,I00027,342,C11,,No,GENEVA AVE,Part Three,None,772855.0,,2940000.0,2015
+113166,,Sunday,No,2015-07-19T00:00:00.000,Missing Person Located,"[-71.123092, 42.289199]",Point,PersFound,7,REQP,563,E5,,No,STELLMAN RD,Part Three,None,758149.0,,2930000.0,2015

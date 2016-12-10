@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20302,130058512.0,Monday,No,2013-01-28T20:33:00.000,PhoneCalls,"[-71.11498, 42.253066]",Point,PhoneCalls,1,VIORDR,512,E18,First,No,ALBION ST,Part Three,Unarmed,760403.0516,,2917479.644,2013
+60538,130058422.0,Monday,No,2013-01-28T21:00:00.000,PhoneCalls,"[-71.041895, 42.320296]",Point,PhoneCalls,1,THREAT,256,C6,First,No,ISLAND VIEW PL,Part Three,Unarmed,780057.5491,,2942076.9460000005,2013
+69795,130057964.0,Monday,No,2013-01-28T08:24:00.000,PhoneCalls,"[-71.082049, 42.294765]",Point,PhoneCalls,1,IVPER ,441,B3,Day,No,KINGSDALE ST,Part Three,Unarmed,769243.8945,,2932717.086,2013

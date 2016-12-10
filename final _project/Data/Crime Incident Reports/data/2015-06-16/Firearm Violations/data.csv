@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12394,,Tuesday,No,2015-06-16T18:35:00.000,Firearm Violations,"[0, 0]",Point,15xx,6,SS,0,,,No,HAMILTON,Part Two,Knife/Cutting Instrument,,,,2015
+18816,,Tuesday,No,2015-06-16T00:00:00.000,Firearm Violations,"[-71.074871, 42.314344]",Point,15xx,6,CD11,327,B2,,No,CUNNINGHAM ST,Part Two,None,771150.0,,2940000.0,2015
+35670,,Tuesday,No,2015-06-16T00:00:00.000,Firearm Violations,"[-71.074871, 42.314344]",Point,15xx,6,ARREST,327,B2,,No,CUNNINGHAM ST,Part Two,Firearm,771150.0,,2940000.0,2015

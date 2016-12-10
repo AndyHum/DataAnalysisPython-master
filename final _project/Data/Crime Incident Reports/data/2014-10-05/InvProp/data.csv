@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116412,142036097.0,Sunday,No,2014-10-05T09:41:00.000,InvProp,"[-71.097424, 42.311912]",Point,InvProp,10,MISC,0,E13,Day,No,WALNUT AV,Part three,Unarmed,765054.7284,,2938945.773,2014
+179562,142036251.0,Sunday,No,2014-10-05T18:46:00.000,InvProp,"[-71.154203, 42.35619]",Point,InvProp,10,DISTRB,0,D14,First,No,GOODENOUGH ST,Part three,Unarmed,749631.9118,,2955014.312,2014
+189648,142036050.0,Sunday,No,2014-10-05T05:21:00.000,InvProp,"[-71.06583, 42.307331]",Point,InvProp,10,SHOTS,0,C11,Last,No,MT IDA RD,Part three,Unarmed,773608.6321,BOWDOIN ST,2937318.436,2014
+212350,142036296.0,Sunday,No,2014-10-05T21:56:00.000,InvProp,"[-71.093548, 42.283568]",Point,InvProp,10,SSA,0,B3,First,No,GOODALE RD,Part three,Other,766152.2222,,2928621.874,2014

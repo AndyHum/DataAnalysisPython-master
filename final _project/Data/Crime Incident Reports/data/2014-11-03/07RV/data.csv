@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92750,142045501.0,Monday,No,2014-11-03T14:39:00.000,07RV,"[-71.047727, 42.311385]",Point,07RV,11,IVMV,0,C11,Day,No,GRAMPIAN WY,Other,Other,778497.441,,2938821.09,2014
+164602,142037133.0,Monday,No,2014-11-03T22:45:00.000,07RV,"[-71.130142, 42.351748]",Point,07RV,11,IVMV,0,D14,First,No,LINDEN ST,Other,Unarmed,756142.2724,,2953422.686,2014
+179247,142045405.0,Monday,No,2014-11-03T09:30:00.000,07RV,"[-71.09884, 42.274796]",Point,07RV,11,IVMV,0,B3,Day,No,ORLANDO ST,Other,Unarmed,764735.3419,,2925418.4760000003,2014

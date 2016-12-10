@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7007,142005268.0,Wednesday,No,2014-07-02T11:40:00.000,Service,"[-71.06942, 42.362401]",Point,Service,7,CD11,0,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,,2957381.922,2014
+11131,142005360.0,Wednesday,No,2014-07-02T19:50:00.000,Service,"[-71.076949, 42.313693]",Point,Service,7,IVPREM,0,B2,First,No,QUINCY ST,Other,Unarmed,770589.4079,,2939621.668,2014
+47971,142005366.0,Wednesday,No,2014-07-02T18:53:00.000,Service,"[-71.052575, 42.315901]",Point,Service,7,IVPREM,0,C11,First,No,SYDNEY ST,Part three,Unarmed,777177.6598,,2940460.006,2014
+94194,142005434.0,Wednesday,No,2014-07-02T21:15:00.000,Service,"[-71.074875, 42.292741]",Point,Service,7,IVPER,0,B3,First,No,WHITFIELD ST,Other,Unarmed,771188.5048,,2931989.296,2014
+101901,142005137.0,Wednesday,No,2014-07-02T09:38:00.000,Service,"[-71.0617, 42.315521]",Point,Service,7,ARREST,0,C11,Day,No,STOUGHTON ST,Part three,Unarmed,774710.4403,,2940308.7139999997,2014
+104155,142005074.0,Wednesday,No,2014-07-02T01:15:00.000,Service,"[-71.06628, 42.290171]",Point,Service,7,ARREST,0,C11,Last,No,BRENT ST,Part three,Other,773518.7073,JOSEPH ST,2931064.459,2014
+149507,142005449.0,Wednesday,No,2014-07-02T23:15:00.000,Service,"[-71.086517, 42.334457]",Point,Service,7,LARCEN,0,B2,First,No,RAYNOR CR,Part three,Other,767964.9617,,2947175.691,2014
+225663,142005130.0,Wednesday,No,2014-07-02T09:50:00.000,Service,"[-71.06105, 42.297191]",Point,Service,7,SS,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774920.6138,GIBSON ST,2933629.8860000004,2014
+250777,142005179.0,Wednesday,No,2014-07-02T12:30:00.000,Service,"[-71.077145, 42.350131]",Point,Service,7,ARREST,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770470.6585,,2952900.122,2014
+265804,142005190.0,Wednesday,No,2014-07-02T11:25:00.000,Service,"[0, 0]",Point,Service,7,ARREST,0,A1,Day,No,TAMWORTH ST,Part three,Unarmed,,,,2014

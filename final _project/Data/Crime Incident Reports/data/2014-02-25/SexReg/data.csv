@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92481,140138412.0,Tuesday,No,2014-02-25T12:00:00.000,SexReg,"[-70.972049, 42.312511]",Point,SexReg,2,MISC  ,376,C11,Day,No,LONG ISLAND RD,Part Two,Unarmed,798964.0477,,2939348.963,2014
+125179,140124494.0,Tuesday,No,2014-02-25T12:00:00.000,SexReg,"[-71.07879, 42.338343]",Point,SexReg,2,IVPER ,156,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,770047.1337,,2948601.985,2014
+171925,140135767.0,Tuesday,No,2014-02-25T12:00:00.000,SexReg,"[-71.072205, 42.296246]",Point,SexReg,2,IVPER ,358,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,771904.4870000001,,2933270.1810000003,2014
+205985,140141023.0,Tuesday,No,2014-02-25T12:00:00.000,SexReg,"[0, 0]",Point,SexReg,2,MISC  ,350,C11,Day,No,ROCK TR,Part Two,Unarmed,,,,2014
+218735,140118728.0,Tuesday,No,2014-02-25T21:00:00.000,SexReg,"[-71.085618, 42.32866]",Point,SexReg,2,IVPER ,282,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2014

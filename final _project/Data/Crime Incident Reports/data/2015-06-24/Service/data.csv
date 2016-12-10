@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+150972,,Wednesday,No,2015-06-24T00:00:00.000,Police Service Incidents,"[-71.079085, 42.338289]",Point,Service,6,ARREST,156,D4,,No,MASSACHUSETTS AVE,Part Three,None,769967.0,,2950000.0,2015
+158038,,Wednesday,No,2015-06-24T18:43:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,184,B2,,No,HUMPHREYS ST,Part Three,None,,WENDOVER ST,,2015
+239797,,Wednesday,No,2015-06-24T00:00:00.000,Police Service Incidents,"[-71.093695, 42.273862]",Point,Service,6,AOD,472,B3,,No,BLUE HILL AVE,Part Three,None,766129.0,,2930000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74114,130194992.0,Wednesday,No,2013-04-03T10:13:00.000,Service,"[-71.08801, 42.288321]",Point,Service,4,ARREST,431,B3,Day,No,CALLENDER ST,Part Three,Unarmed,767642.5117,LUCERNE ST,2930361.145,2013
+87761,130195068.0,Wednesday,No,2013-04-03T10:51:00.000,Service,"[-71.08379, 42.289841]",Point,Service,4,ARREST,944,B3,Day,No,STRATTON ST,Part Three,Unarmed,768781.6415,AMES ST,2930920.598,2013
+119702,130195675.0,Wednesday,No,2013-04-03T15:00:00.000,Service,"[-71.14381, 42.344226]",Point,Service,4,ARREST,785,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,752459.245,,2950665.9280000003,2013
+233738,130196150.0,Wednesday,No,2013-04-03T18:30:00.000,Service,"[-71.06942, 42.362401]",Point,Service,4,INVEST,64,A1,First,No,FRUIT ST,Part Three,Unarmed,772536.2528,,2957381.922,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71095,130447992.0,Friday,No,2013-07-19T13:51:00.000,PersLoc,"[-71.10137, 42.336346]",Point,PersLoc,7,IVPER ,615,B2,Day,No,LONGWOOD AV,Other,Unarmed,763945.8169,,2947845.0730000003,2013
+81825,130447193.0,Friday,No,2013-07-19T08:57:00.000,PersLoc,"[-71.059987, 42.361648]",Point,PersLoc,7,IVPER ,72,A1,Day,No,SUDBURY ST,Other,Unarmed,775087.02,,2957120.525,2013
+180915,130449289.0,Friday,No,2013-07-19T11:00:00.000,PersLoc,"[-71.133146, 42.236513]",Point,PersLoc,7,MISPER,527,E18,Day,No,PRESCOTT ST,Other,Unarmed,755510.7471,,2911425.764,2013

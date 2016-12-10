@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103723,152014039.0,Saturday,No,2015-02-21T14:34:00.000,Service,"[-71.108885, 42.265041]",Point,Service,2,DISTRB,0,E18,Day,No,ANDRIA RD,Part three,Unarmed,762033.1228,,2921850.994,2015
+170210,152014066.0,Saturday,No,2015-02-21T16:08:00.000,Service,"[-71.07296, 42.350976]",Point,Service,2,ARREST,0,D4,First,No,BERKELEY ST,Part three,Unarmed,771600.3737,BOYLSTON ST,2953213.692,2015
+236616,152013926.0,Saturday,No,2015-02-21T03:26:00.000,Service,"[-71.05985, 42.311126]",Point,Service,2,ARREST,0,C11,Last,No,DOWNER AV,Part three,Unarmed,775219.0102,PLEASANT ST,2938709.6410000003,2015

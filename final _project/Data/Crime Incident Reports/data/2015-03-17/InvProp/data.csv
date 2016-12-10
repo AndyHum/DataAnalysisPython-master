@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1510,152021806.0,Tuesday,No,2015-03-17T09:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVPER,0,B2,Day,No,BABSON ST,Part three,Firearm,,,,2015
+28972,152021605.0,Tuesday,No,2015-03-17T19:02:00.000,InvProp,"[-71.08077, 42.271356]",Point,InvProp,3,IVMV,0,B3,First,No,RIVER ST,Part three,Unarmed,769631.8708,,2924188.4110000003,2015
+57599,152021688.0,Tuesday,No,2015-03-17T23:07:00.000,InvProp,"[-71.060554, 42.364937]",Point,InvProp,3,PROP,0,A1,First,No,CANAL ST,Part three,Unarmed,774927.5836,,2958318.224,2015
+169648,152021610.0,Tuesday,No,2015-03-17T18:07:00.000,InvProp,"[-71.069555, 42.272641]",Point,InvProp,3,CD9,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772664.8342,,2924671.8,2015
+171040,152021931.0,Tuesday,No,2015-03-17T17:30:00.000,InvProp,"[-71.069995, 42.337476]",Point,InvProp,3,IVPREM,0,D4,First,No,E BROOKLINE ST,Part three,Other,772426.6434,,2948298.0719999997,2015
+171185,152021604.0,Tuesday,No,2015-03-17T18:15:00.000,InvProp,"[-71.066885, 42.276566]",Point,InvProp,3,BE,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,773380.1887,,2926105.7789999996,2015
+181267,152021585.0,Tuesday,No,2015-03-17T17:44:00.000,InvProp,"[-71.085978, 42.296806]",Point,InvProp,3,IVPREM,0,B3,First,No,ABBOT ST,Part three,Unarmed,768177.1099,,2933455.566,2015
+218433,152021594.0,Tuesday,No,2015-03-17T18:31:00.000,InvProp,"[-71.07791, 42.313396]",Point,InvProp,3,PROP,0,B2,First,No,FAYSTON ST,Part three,Unarmed,770330.1184,,2939512.22,2015
+256577,152021617.0,Tuesday,No,2015-03-17T19:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,3,SUSOBJ,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+266535,152021384.0,Tuesday,No,2015-03-17T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

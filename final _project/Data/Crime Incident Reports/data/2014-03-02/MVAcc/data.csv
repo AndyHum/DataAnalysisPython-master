@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11304,140129418.0,Sunday,No,2014-03-02T17:04:00.000,MVAcc,"[-71.059415, 42.359251]",Point,MVAcc,3,MVPED1,65,A1,First,No,CAMBRIDGE ST,Other,Unarmed,775246.1256,,2956247.881,2014
+75392,140128995.0,Sunday,No,2014-03-02T12:39:00.000,MVAcc,"[-71.10383, 42.322836]",Point,MVAcc,3,MVPED1,581,E13,Day,No,CENTRE ST,Other,Unarmed,763303.5691,,2942918.688,2014
+118603,140129461.0,Sunday,No,2014-03-02T17:34:00.000,MVAcc,"[-71.064805, 42.346641]",Point,MVAcc,3,MVPED1,162,D4,First,No,HERALD ST,Other,Unarmed,773812.7997,,2951645.079,2014
+239509,140128149.0,Sunday,No,2014-03-02T00:25:00.000,MVAcc,"[-71.078742, 42.303175]",Point,MVAcc,3,IVPREM,459,C11,Last,No,ERIE ST,Other,Unarmed,770123.4728,WASHINGTON ST,2935786.126,2014
+252190,140128317.0,Sunday,No,2014-03-02T01:41:00.000,MVAcc,"[-71.07791, 42.313396]",Point,MVAcc,3,DISTRB,326,B2,Last,No,FAYSTON ST,Other,Other,770330.1184,,2939512.22,2014

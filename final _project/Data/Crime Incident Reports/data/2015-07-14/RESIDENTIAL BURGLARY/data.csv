@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77543,,Tuesday,No,2015-07-14T00:00:00.000,Residential Burglary,"[-71.079553, 42.288658]",Point,05RB,7,BE,432,B3,,No,TUCKER ST,Part One,None,769930.0,,2930000.0,2015
+133247,,Tuesday,No,2015-07-14T00:00:00.000,Residential Burglary,"[-71.030462, 42.378039]",Point,05RB,7,BE,19,A7,,No,BENNINGTON ST,Part One,None,783034.0,,2960000.0,2015
+178531,,Tuesday,No,2015-07-14T01:25:00.000,Residential Burglary,"[0, 0]",Point,05RB,7,BE,635,E13,,No,PERSHING RD,Part One,None,,,,2015

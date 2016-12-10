@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105384,152004287.0,Friday,No,2015-01-16T17:30:00.000,InvProp,"[-71.0612, 42.365521]",Point,InvProp,1,IVPER,0,A1,First,No,CAUSEWAY ST,Part three,Other,774751.9335,CANAL ST,2958530.305,2015
+152360,152004096.0,Friday,No,2015-01-16T00:06:00.000,InvProp,"[-71.08135, 42.332389]",Point,InvProp,1,ALARM,0,B2,Last,No,MELNEA CASS BL,Part three,Other,769365.5688,,2946429.0289999996,2015
+155736,152004217.0,Friday,No,2015-01-16T13:00:00.000,InvProp,"[-71.091325, 42.284861]",Point,InvProp,1,IVPREM,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+267426,152004113.0,Friday,No,2015-01-16T06:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

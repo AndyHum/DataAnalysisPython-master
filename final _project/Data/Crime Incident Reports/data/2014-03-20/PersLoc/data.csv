@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123674,140171095.0,Thursday,No,2014-03-20T19:30:00.000,PersLoc,"[-71.054175, 42.338071]",Point,PersLoc,3,MISPER,936,C6,First,No,JOYCE HAYES WY,Other,Unarmed,776702.6978,,2948536.858,2014
+208538,140173527.0,Thursday,No,2014-03-20T07:30:00.000,PersLoc,"[-71.053506, 42.32612]",Point,PersLoc,3,MISPER,914,C6,Day,No,GAVIN WY,Other,Unarmed,776906.2024,,2944182.5530000003,2014
+227080,140171993.0,Thursday,No,2014-03-20T12:00:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,3,MISPER,817,C11,Day,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2014

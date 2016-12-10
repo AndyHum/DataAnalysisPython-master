@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20800,,Sunday,No,2015-08-02T00:00:00.000,Other,"[-71.07657, 42.289042]",Point,OTHER,8,SS,437,B3,,No,ELMHURST ST,Part Two,None,770736.0,,2930000.0,2015
+34971,,Sunday,No,2015-08-02T00:00:00.000,Other,"[-71.130906, 42.355401]",Point,OTHER,8,AB,801,D14,,No,LINDEN ST,Part Two,None,755930.0,,2950000.0,2015
+122625,,Sunday,No,2015-08-02T02:43:00.000,Other,"[0, 0]",Point,OTHER,8,MVA,336,C11,,No,COLUMBIA RD,Part Two,None,,HAMILTON ST,,2015
+128097,,Sunday,No,2015-08-02T00:00:00.000,Other,"[-71.030892, 42.378648]",Point,OTHER,8,IVPER,19,A7,,No,SARATOGA ST,Part Two,None,782916.0,,2960000.0,2015
+192338,,Sunday,No,2015-08-02T09:00:00.000,Other Burglary,"[0, 0]",Point,05OH,8,BE,0,,,No,,Part One,None,,BUSSEY ST,,2015
+195282,,Sunday,No,2015-08-02T00:00:00.000,Other,"[-71.070403, 42.390491]",Point,OTHER,8,ARREST,48,A15,,No,ALFORD ST,Part Two,None,772219.0,,2970000.0,2015
+199582,,Sunday,No,2015-08-02T00:00:00.000,Other,"[-71.07693, 42.308126]",Point,OTHER,8,IVPER,329,B2,,No,DEVON ST,Part Two,None,770605.0,,2940000.0,2015
+219866,,Sunday,No,2015-08-02T18:23:00.000,Other,"[0, 0]",Point,OTHER,8,SS,335,C11,,No,BOWDOIN ST,Part Two,None,, MOUNT IDA RD ,,2015
+221883,,Sunday,No,2015-08-02T00:00:00.000,Other,"[-71.128575, 42.358286]",Point,OTHER,8,IVPER,816,D14,,No,HOOKER ST,Part Two,None,756556.0,,2960000.0,2015

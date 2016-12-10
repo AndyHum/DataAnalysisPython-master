@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43241,130126370.0,Saturday,No,2013-03-02T11:15:00.000,PropFound,"[-71.13939, 42.276226]",Point,PropFound,3,FDPROP,932,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,753758.9038,,2925890.582,2013
+58398,130126555.0,Saturday,No,2013-03-02T12:30:00.000,PropFound,"[-71.08952, 42.345391]",Point,PropFound,3,FDPROP,620,D4,Day,No,HEMENWAY ST,Part Three,Unarmed,767133.8561,NORWAY ST,2951156.434,2013
+82024,130126613.0,Saturday,No,2013-03-02T15:00:00.000,PropFound,"[-71.03926, 42.368586]",Point,PropFound,3,INVEST,27,A7,Day,No,SUMNER ST,Part Three,Unarmed,780675.0997,S BREMEN ST,2959678.517,2013
+97206,130128441.0,Saturday,No,2013-03-02T07:00:00.000,PropFound,"[-71.146978, 42.346426]",Point,PropFound,3,FDPROP,778,D14,Last,No,WASHINGTON ST,Part Three,Unarmed,751599.4006,,2951463.961,2013
+173390,130126868.0,Saturday,No,2013-03-02T10:30:00.000,PropFound,"[-71.08284, 42.309116]",Point,PropFound,3,IVPER ,329,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,769004.3297,,2937945.957,2013

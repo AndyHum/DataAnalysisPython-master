@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1921,152043319.0,Friday,No,2015-05-22T18:40:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPER,0,A7,First,No,FEDERAL ST,Part three,Unarmed,,,,2015
+3958,152045579.0,Friday,No,2015-05-22T08:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,0,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,,,,2015
+251346,152042026.0,Friday,No,2015-05-22T10:23:00.000,InvProp,"[-71.051785, 42.289916]",Point,InvProp,5,VAND,0,C11,Day,No,WESTGLOW ST,Part three,Unarmed,777441.0805,,2930991.81,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25011,142049787.0,Monday,No,2014-11-17T16:30:00.000,Arrest,"[-71.06126, 42.358746]",Point,Arrest,11,ARREST,0,A1,First,No,PEMBERTON SQ,Part three,Other,774748.4183,,2956061.2789999996,2014
+45367,142049882.0,Monday,No,2014-11-17T19:30:00.000,Arrest,"[-71.06764, 42.318136]",Point,Arrest,11,AOD,0,B2,First,No,DUDLEY ST,Part three,Unarmed,773099.0777,MONADNOCK ST,2941253.463,2014
+113506,142049706.0,Monday,No,2014-11-17T12:10:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,11,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+150633,142049653.0,Monday,No,2014-11-17T08:45:00.000,Arrest,"[-71.107635, 42.277796]",Point,Arrest,11,ARREST,0,B3,Day,No,HARVARD AV,Part three,Unarmed,762350.0874,STONECREST RD,2926500.645,2014
+188621,142049673.0,Monday,No,2014-11-17T11:00:00.000,Arrest,"[-71.079283, 42.310154]",Point,Arrest,11,CD11,0,B2,Day,No,NORMANDY ST,Part three,Unarmed,769964.5597,,2938328.873,2014

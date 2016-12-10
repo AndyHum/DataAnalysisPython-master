@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43676,,Wednesday,No,2015-07-22T00:00:00.000,Investigate Property,"[-71.051353, 42.332601]",Point,InvProp,7,IVMV,915,C6,,No,DORCHESTER ST,Part Three,None,777476.0,,2950000.0,2015
+44876,,Wednesday,No,2015-07-22T00:00:00.000,Investigate Property,"[-71.14523, 42.349886]",Point,InvProp,7,ALARM,784,D14,,No,WARREN ST,Part Three,None,752067.0,,2950000.0,2015
+89169,,Wednesday,No,2015-07-22T00:00:00.000,Investigate Property,"[-71.091179, 42.330013]",Point,InvProp,7,IVMV,290,B2,,No,JOHN ELIOT SQ,Part Three,None,766712.0,,2950000.0,2015
+107742,,Wednesday,No,2015-07-22T00:00:00.000,Investigate Property,"[-71.093803, 42.269947]",Point,InvProp,7,,476,B3,,No,BLUE HILL AVE,Part Three,None,766107.0,,2920000.0,2015

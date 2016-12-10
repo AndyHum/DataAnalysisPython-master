@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6957,130469902.0,Sunday,No,2013-07-28T16:39:00.000,PersMiss,"[-71.07713, 42.280711]",Point,PersMiss,7,MISPER,419,B3,First,No,FULLER ST,Other,Unarmed,770600.1297,,2927602.3639999996,2013
+151602,130470258.0,Sunday,No,2013-07-28T14:00:00.000,PersMiss,"[-71.099099, 42.26809]",Point,PersMiss,7,MISPER,481,E18,Day,No,HOLLINGSWORTH ST,Other,Unarmed,764676.6933,,2922974.147,2013
+240221,130469276.0,Sunday,No,2013-07-28T08:45:00.000,PersMiss,"[-71.09134, 42.279336]",Point,PersMiss,7,MISC  ,427,B3,Day,No,EVELYN ST,Other,Unarmed,766757.183,,2927082.5519999997,2013

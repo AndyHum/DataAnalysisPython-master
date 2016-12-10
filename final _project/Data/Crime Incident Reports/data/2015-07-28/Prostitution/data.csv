@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55268,,Tuesday,No,2015-07-28T00:00:00.000,Prostitution,"[-71.058835, 42.325977]",Point,16xx,7,IVPER,186,C6,,No,BOSTON ST,Part Two,None,775466.0,,2940000.0,2015
+161861,,Tuesday,No,2015-07-28T00:00:00.000,Prostitution,"[-71.058419, 42.326921]",Point,16xx,7,ARREST,186,C6,,No,BOSTON ST,Part Two,None,775576.0,,2940000.0,2015
+202115,,Tuesday,No,2015-07-28T00:00:00.000,Prostitution,"[-71.058835, 42.325977]",Point,16xx,7,ARREST,186,C6,,No,BOSTON ST,Part Two,None,775466.0,,2940000.0,2015

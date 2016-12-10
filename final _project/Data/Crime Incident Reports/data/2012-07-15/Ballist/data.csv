@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37081,120436368.0,Sunday,No,2012-07-15T15:30:00.000,Ballist,"[-71.083303, 42.302514]",Point,Ballist,7,FDWEAP,458,B3,Day,No,MICHIGAN AV,Part Two,Unarmed,768890.6104,,2935539.2180000003,2012
+103745,120436648.0,Sunday,No,2012-07-15T21:37:00.000,Ballist,"[-71.077385, 42.288851]",Point,Ballist,7,SHOTS ,437,B3,First,No,FERNDALE ST,Part Two,Firearm,770516.43,,2930568.349,2012
+209709,120504819.0,Sunday,No,2012-07-15T12:00:00.000,Ballist,"[-71.06684, 42.379131]",Point,Ballist,7,IVPREM,54,A15,Day,No,WALKER ST,Part Two,Firearm,773202.5569,,2963482.2789999996,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15908,,Wednesday,No,2015-06-24T00:00:00.000,Missing Person Located,"[-71.0746, 42.309421]",Point,PersFound,6,I00027,328,B2,,No,INTERVALE ST,Part Three,None,771232.0,,2940000.0,2015
+45756,,Wednesday,No,2015-06-24T00:00:00.000,Missing Person Located,"[-71.040914, 42.372215]",Point,PersFound,6,I00027,824,A7,,No,TRENTON ST,Part Three,None,780221.0,,2960000.0,2015
+110788,,Wednesday,No,2015-06-24T00:00:00.000,Missing Person Located,"[-71.071021, 42.336711]",Point,PersFound,6,IVPER,169,D4,,No,E NEWTON ST,Part Three,None,772151.0,,2950000.0,2015

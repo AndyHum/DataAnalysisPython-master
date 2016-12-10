@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+165748,152009217.0,Wednesday,No,2015-02-04T11:50:00.000,Service,"[-71.06555, 42.292636]",Point,Service,2,SHOTS,0,C11,Day,No,CLEMENTINE PARK,Part three,Firearm,773711.5762,,2931963.577,2015
+168388,152009384.0,Wednesday,No,2015-02-04T19:33:00.000,Service,"[-71.06196, 42.372951]",Point,Service,2,IVMV,0,A15,First,No,MAIN ST,Part three,Unarmed,774532.6412,HENLEY ST,2961236.8910000003,2015
+170609,152009405.0,Wednesday,No,2015-02-04T20:06:00.000,Service,"[-71.08624, 42.351711]",Point,Service,2,IVPREM,0,D4,First,No,BEACON ST,Part three,Unarmed,768009.3740000001,,2953463.848,2015
+249035,152009134.0,Wednesday,No,2015-02-04T01:50:00.000,Service,"[-71.055307, 42.328285]",Point,Service,2,IVPER,0,C6,Last,No,LOGAN WY,Part three,Unarmed,776415.2056,,2944969.124,2015
+267819,152009226.0,Wednesday,No,2015-02-04T12:30:00.000,Service,"[0, 0]",Point,Service,2,ARREST,0,B2,Day,No,MALCOLM X BL,Part three,Unarmed,,,,2015

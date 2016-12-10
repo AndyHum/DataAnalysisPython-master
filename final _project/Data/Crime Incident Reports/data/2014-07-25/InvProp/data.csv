@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32857,142012801.0,Friday,No,2014-07-25T13:34:00.000,InvProp,"[-71.085118, 42.298635]",Point,InvProp,7,ALARM,0,B3,Day,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2014
+113966,142012943.0,Friday,No,2014-07-25T22:30:00.000,InvProp,"[-71.07529, 42.287551]",Point,InvProp,7,IVPER,0,B3,First,No,WENTWORTH ST,Part three,Other,771085.6408,,2930097.4260000004,2014
+251307,142012902.0,Friday,No,2014-07-25T16:00:00.000,InvProp,"[-71.07843, 42.349776]",Point,InvProp,7,CD9,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2014
+258541,142012603.0,Friday,No,2014-07-25T00:15:00.000,InvProp,"[-71.064942, 42.283487]",Point,InvProp,7,ALARM,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,773893.0371,,2928630.318,2014

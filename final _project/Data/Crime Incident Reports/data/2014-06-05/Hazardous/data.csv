@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69440,140352652.0,Thursday,No,2014-06-05T03:56:00.000,Hazardous,"[-71.052726, 42.367264]",Point,Hazardous,6,HAZ   ,83,A1,Last,No,COMMERCIAL ST,Other,Unarmed,777038.6043,,2959177.396,2014
+106606,140354421.0,Thursday,No,2014-06-05T19:15:00.000,Hazardous,"[-71.07115, 42.383136]",Point,Hazardous,6,REQP  ,47,A15,First,No,BUNKER HILL ST,Other,Unarmed,772030.7082,,2964935.903,2014
+155843,140354468.0,Thursday,No,2014-06-05T19:39:00.000,Hazardous,"[-71.072588, 42.384155]",Point,Hazardous,6,REQP  ,59,A15,First,No,MAIN ST,Other,Unarmed,771640.2237,,2965305.2389999996,2014

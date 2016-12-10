@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72732,130227511.0,Wednesday,No,2013-04-17T20:52:00.000,Service,"[-71.09179, 42.283501]",Point,Service,4,ARREST,466,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766628.1388,DEERING RD,2928599.75,2013
+127240,130226226.0,Wednesday,No,2013-04-17T10:20:00.000,Service,"[-71.076935, 42.290401]",Point,Service,4,ARREST,438,B3,Day,No,COLONIAL AV,Part Three,Unarmed,770635.3845,,2931133.797,2013
+175522,130226857.0,Wednesday,No,2013-04-17T15:20:00.000,Service,"[-71.047314, 42.290189]",Point,Service,4,ARREST,374,C11,Day,No,MCKONE ST,Part Three,Unarmed,778650.1142,,2931097.432,2013

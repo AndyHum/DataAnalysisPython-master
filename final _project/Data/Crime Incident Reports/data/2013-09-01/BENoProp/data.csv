@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7065,130552975.0,Sunday,No,2013-09-01T02:42:00.000,BENoProp,"[-71.12707, 42.351556]",Point,BENoProp,9,JUMPER,796,D14,Last,No,ST LUKES RD,Part One,Unarmed,756973.0283,,2953356.4669999997,2013
+75961,130554704.0,Sunday,No,2013-09-01T22:21:00.000,BENoProp,"[-71.113855, 42.261701]",Point,BENoProp,9,SUSPER,493,E18,First,No,HUNTINGTON AV,Part One,Unarmed,760693.3729,,2920627.725,2013
+248007,130553073.0,Sunday,No,2013-09-01T04:28:00.000,BENoProp,"[-71.086098, 42.311308]",Point,BENoProp,9,BEIP  ,320,B2,Last,No,ELM HILL AV,Part One,Other,768119.0474,,2938740.247,2013
+253164,130553126.0,Sunday,No,2013-09-01T06:14:00.000,BENoProp,"[-71.064015, 42.285831]",Point,BENoProp,9,ALARMC,394,C11,Last,No,ASHMONT ST,Part One,Other,774139.6285,,2929486.027,2013

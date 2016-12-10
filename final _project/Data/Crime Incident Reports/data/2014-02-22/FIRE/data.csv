@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24059,140111396.0,Saturday,No,2014-02-22T16:33:00.000,FIRE,"[-71.055825, 42.295761]",Point,FIRE,2,FIREB ,367,C11,First,No,VICTORY RD,Part three,Unarmed,776336.8898,,2933116.0919999997,2014
+212553,140111962.0,Saturday,No,2014-02-22T21:10:00.000,FIRE,"[-71.051055, 42.336356]",Point,FIRE,2,FIREB ,214,C6,First,No,E ST,Part three,Unarmed,777549.5216,,2947916.307,2014
+249514,140110146.0,Saturday,No,2014-02-22T02:50:00.000,FIRE,"[-71.113475, 42.324103]",Point,FIRE,2,FIREB ,608,E13,Last,No,BYNNER ST,Part three,Other,760693.1797,,2943368.311,2014
+254983,140111116.0,Saturday,No,2014-02-22T14:30:00.000,FIRE,"[-71.091557, 42.312409]",Point,FIRE,2,FIREB ,316,B2,Day,No,HOMESTEAD ST,Part three,Unarmed,766640.7488,,2939134.5289999996,2014

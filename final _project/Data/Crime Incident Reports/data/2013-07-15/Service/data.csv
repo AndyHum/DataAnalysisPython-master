@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44809,130438338.0,Monday,No,2013-07-15T19:30:00.000,Service,"[-71.150205, 42.347431]",Point,Service,7,IVPER ,777,D14,First,No,SHEPARD ST,Part three,Unarmed,750725.6376,,2951826.74,2013
+130966,130436915.0,Monday,No,2013-07-15T08:54:00.000,Service,"[-71.071455, 42.283306]",Point,Service,7,ARREST,417,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772131.0856,,2928555.6789999995,2013
+162996,130436889.0,Monday,No,2013-07-15T08:40:00.000,Service,"[-71.07376, 42.282643]",Point,Service,7,CD11  ,417,C11,Day,No,STOCKTON ST,Part three,Unarmed,771508.3897,,2928310.909,2013
+184443,130437448.0,Monday,No,2013-07-15T13:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,7,IVPER ,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013

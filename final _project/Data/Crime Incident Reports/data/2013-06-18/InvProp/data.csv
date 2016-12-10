@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10355,130371043.0,Tuesday,No,2013-06-18T11:15:00.000,InvProp,"[-71.075175, 42.344101]",Point,InvProp,6,ALARMR,150,D4,Day,No,WARREN AV,Part three,Unarmed,771014.1177,,2950705.3239999996,2013
+21575,130372304.0,Tuesday,No,2013-06-18T21:23:00.000,InvProp,"[-71.07041, 42.303216]",Point,InvProp,6,INVEST,342,C11,First,No,LEVANT ST,Part three,Unarmed,772377.3177,,2935812.595,2013
+31248,130371750.0,Tuesday,No,2013-06-18T16:38:00.000,InvProp,"[-71.090956, 42.333723]",Point,InvProp,6,IVPREM,289,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+31427,130568816.0,Tuesday,No,2013-06-18T12:00:00.000,InvProp,"[-71.084515, 42.352176]",Point,InvProp,6,LARCRT,135,D4,Day,No,BEACON ST,Part three,Unarmed,768474.8252,,2953635.5710000005,2013
+64113,130370931.0,Tuesday,No,2013-06-18T10:15:00.000,InvProp,"[-71.037465, 42.371036]",Point,InvProp,6,AOD   ,29,A7,Day,No,CHELSEA ST,Part three,Unarmed,781155.3254,,2960573.97,2013
+85386,130372394.0,Tuesday,No,2013-06-18T22:14:00.000,InvProp,"[-71.089368, 42.31021]",Point,InvProp,6,BERPT ,316,B2,First,No,HUTCHINGS ST,Part three,Unarmed,767236.6728,,2938335.832,2013
+112833,130372456.0,Tuesday,No,2013-06-18T23:03:00.000,InvProp,"[-71.074513, 42.314688]",Point,InvProp,6,SHOTS ,327,B2,First,No,WOODLEDGE ST,Part three,Other,771246.3715,,2939987.483,2013
+207363,130370353.0,Tuesday,No,2013-06-18T01:12:00.000,InvProp,"[-71.093565, 42.348811]",Point,InvProp,6,SHOTS ,623,D4,Last,No,COMMONWEALTH AV,Part three,Unarmed,766034.4206,,2952397.512,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31335,130514243.0,Thursday,No,2013-08-15T22:10:00.000,PropFound,"[-71.05584, 42.362531]",Point,PropFound,8,FDPROP,86,A1,First,No,HANOVER ST,Part three,Unarmed,776206.1272,CROSS ST,2957448.188,2013
+34478,130513331.0,Thursday,No,2013-08-15T12:00:00.000,PropFound,"[-71.13394, 42.254281]",Point,PropFound,8,FDPROP,519,E18,Day,No,RESERVATION RD,Part three,Unarmed,755268.1528,BRAINARD ST,2917899.8060000003,2013
+49221,130512009.0,Thursday,No,2013-08-15T00:24:00.000,PropFound,"[-71.0904, 42.280796]",Point,PropFound,8,ROBRPT,428,B3,Last,No,HOSMER ST,Part three,Unarmed,767009.0082,,2927615.818,2013
+52711,130513108.0,Thursday,No,2013-08-15T12:00:00.000,PropFound,"[-71.05582, 42.360091]",Point,PropFound,8,LARCRT,94,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2013
+87388,130512627.0,Thursday,No,2013-08-15T07:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,8,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+264551,130513397.0,Thursday,No,2013-08-15T16:15:00.000,PropFound,"[0, 0]",Point,PropFound,8,LSTPRP,167,D4,First,No,HERALD ST,Part three,Unarmed,,,,2013
+264793,130512490.0,Thursday,No,2013-08-15T07:00:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,159,D4,Last,No,UNION PARK,Part three,Unarmed,,,,2013

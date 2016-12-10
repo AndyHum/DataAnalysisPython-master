@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110014,130601359.0,Friday,No,2013-09-20T22:45:00.000,LICViol,"[-71.087815, 42.340856]",Point,LICViol,9,CD35  ,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767602.7587,,2949506.019,2013
+160467,130601332.0,Friday,No,2013-09-20T22:35:00.000,LICViol,"[-71.08715, 42.341901]",Point,LICViol,9,CD35  ,618,D4,First,No,GAINSBOROUGH ST,Part three,Unarmed,767780.6999,,2949887.705,2013
+196365,130601454.0,Friday,No,2013-09-20T23:40:00.000,LICViol,"[-71.104968, 42.334088]",Point,LICViol,9,CD35  ,604,B2,First,No,HUNTINGTON AV,Part three,Unarmed,762976.5829,,2947017.4080000003,2013
+254398,130601422.0,Friday,No,2013-09-20T23:15:00.000,LICViol,"[-71.103995, 42.333881]",Point,LICViol,9,CD35  ,602,B2,First,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2013

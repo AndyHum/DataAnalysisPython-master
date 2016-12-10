@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55251,152026065.0,Saturday,No,2015-03-14T21:15:00.000,PropLost,"[-71.08261, 42.310484]",Point,PropLost,3,PROP,0,B2,First,No,SUNDERLAND ST,Part three,Other,769063.9543,,2938444.474,2015
+72942,152032465.0,Saturday,No,2015-03-14T12:00:00.000,PropLost,"[-71.080568, 42.310368]",Point,PropLost,3,PROP,0,B2,Day,No,DEVON ST,Part three,Unarmed,769616.463,,2938405.0069999998,2015
+163042,152020580.0,Saturday,No,2015-03-14T09:00:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,3,PROP,0,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2015
+236169,152020752.0,Saturday,No,2015-03-14T22:00:00.000,PropLost,"[-71.05378, 42.359296]",Point,PropLost,3,PROP,0,A1,First,No,STATE ST,Part three,Unarmed,776769.0281,,2956272.1969999997,2015
+265670,152020733.0,Saturday,No,2015-03-14T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,,,,2015
+266510,152021116.0,Saturday,No,2015-03-14T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,,,,2015
+266696,152022576.0,Saturday,No,2015-03-14T00:01:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,A1,Last,No,KILBY ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+466,130386461.0,Monday,No,2013-06-24T19:53:00.000,Service,"[-71.098395, 42.318971]",Point,Service,6,IVPREM,303,E13,First,No,COLUMBUS AV,Other,Unarmed,764779.9838,,2941517.0889999997,2013
+46708,130386552.0,Monday,No,2013-06-24T20:30:00.000,Service,"[-71.075838, 42.321323]",Point,Service,6,IVPREM,262,B2,First,No,WOODVILLE ST,Other,Unarmed,770875.9749,,2942403.608,2013
+98886,130387363.0,Monday,No,2013-06-24T11:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,6,IVPREM,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+121238,130385515.0,Monday,No,2013-06-24T13:28:00.000,Service,"[-71.07257, 42.332816]",Point,Service,6,SSTOP ,179,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771738.9571,CASS BL,2946596.385,2013
+135679,130386420.0,Monday,No,2013-06-24T19:53:00.000,Service,"[-71.123165, 42.255916]",Point,Service,6,ARREST,520,E18,First,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2013
+152154,130385846.0,Monday,No,2013-06-24T16:00:00.000,Service,"[-71.06287, 42.352321]",Point,Service,6,IVPER ,111,A1,First,No,BOYLSTON ST,Other,Unarmed,774325.2748,,2953717.652,2013
+234712,130384621.0,Monday,No,2013-06-24T05:26:00.000,Service,"[-71.11329, 42.331771]",Point,Service,6,HAZ   ,606,E13,Last,No,S HUNTINGTON AV,Part three,Other,760730.5451,HUNTINGTON AV,2946163.021,2013

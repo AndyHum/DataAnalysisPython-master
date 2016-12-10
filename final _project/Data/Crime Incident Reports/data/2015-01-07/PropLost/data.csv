@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8963,152009114.0,Wednesday,No,2015-01-07T16:00:00.000,PropLost,"[-71.076585, 42.289031]",Point,PropLost,1,PROP,0,B3,First,No,ELMHURST ST,Part three,Unarmed,770732.5638,,2930635.018,2015
+73651,152001935.0,Wednesday,No,2015-01-07T21:51:00.000,PropLost,"[-71.09009, 42.286466]",Point,PropLost,1,PROP,0,B3,First,No,ANSELL RD,Part three,Unarmed,767082.9608,,2929682.445,2015
+94590,152002043.0,Wednesday,No,2015-01-07T20:30:00.000,PropLost,"[-71.070625, 42.361461]",Point,PropLost,1,PROP,0,A1,First,No,CHARLES ST,Part three,Unarmed,772212.3098,,2957037.798,2015
+101012,152002333.0,Wednesday,No,2015-01-07T22:00:00.000,PropLost,"[-71.11297, 42.300811]",Point,PropLost,1,PROP,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,760868.2636,,2934881.061,2015
+104976,152003537.0,Wednesday,No,2015-01-07T08:00:00.000,PropLost,"[-71.119867, 42.243568]",Point,PropLost,1,PROP,0,E18,Day,No,GARFIELD AV,Part three,Other,759095.3804,,2914012.528,2015
+116213,152002025.0,Wednesday,No,2015-01-07T11:30:00.000,PropLost,"[-71.117658, 42.359586]",Point,PropLost,1,LARCEN,0,D14,Day,No,SOLDIERS FIELD RD,Part three,Unarmed,759503.8198,,2956294.0710000005,2015
+193097,152003431.0,Wednesday,No,2015-01-07T15:00:00.000,PropLost,"[-71.13512, 42.346536]",Point,PropLost,1,PROP,0,D14,Day,No,BRAINERD RD,Part three,Unarmed,754804.8827,,2951517.667,2015
+211366,152001971.0,Wednesday,No,2015-01-07T23:00:00.000,PropLost,"[-71.06176, 42.362461]",Point,PropLost,1,PROP,0,A1,First,No,HAWKINS ST,Part three,Unarmed,774606.3249,NEW CHARDON ST,2957414.402,2015
+215393,152001705.0,Wednesday,No,2015-01-07T08:21:00.000,PropLost,"[-71.10974, 42.261984]",Point,PropLost,1,PROP,0,E18,Day,No,RIVER ST,Part three,Unarmed,761806.7440000001,,2920735.827,2015
+255785,152002335.0,Wednesday,No,2015-01-07T10:00:00.000,PropLost,"[-71.068155, 42.342031]",Point,PropLost,1,PROP,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,772915.7097,E BERKELEY ST,2949960.5069999998,2015
+261258,152001859.0,Wednesday,No,2015-01-07T17:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,A7,First,No,DUDLEY ST,Part three,Unarmed,,,,2015
+263181,152002261.0,Wednesday,No,2015-01-07T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,LARCEN,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,,,,2015
+266319,152001829.0,Wednesday,No,2015-01-07T15:40:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,B3,Day,No,AMES ST,Part three,Unarmed,,,,2015

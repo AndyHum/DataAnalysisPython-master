@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59835,142045885.0,Tuesday,No,2014-11-04T12:30:00.000,PersLoc,"[-71.06293, 42.374991]",Point,PersLoc,11,IVPER,0,A15,Day,No,CORDIS ST AV,Other,Unarmed,774266.7234,,2961978.966,2014
+133392,142045982.0,Tuesday,No,2014-11-04T06:30:00.000,PersLoc,"[-71.092186, 42.286881]",Point,PersLoc,11,IVPER,0,B3,Last,No,WILCOCK ST,Other,Unarmed,766515.0283,,2929830.797,2014
+136001,142045964.0,Tuesday,No,2014-11-04T21:10:00.000,PersLoc,"[-71.008874, 42.39214]",Point,PersLoc,11,MISSIN,0,A7,First,No,FAYWOOD AV,Other,Unarmed,788836.8524,,2968307.764,2014
+234606,142046101.0,Tuesday,No,2014-11-04T07:00:00.000,PersLoc,"[-71.054425, 42.339351]",Point,PersLoc,11,IVPER,0,C6,Last,No,DALESSIO CT,Other,Unarmed,776632.6704,,2949002.96,2014

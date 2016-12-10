@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50245,,Friday,No,2015-06-19T21:30:00.000,Auto Theft,"[0, 0]",Point,07xx,6,,143,D4,,No,HUNTINGTON AVE,Part One,None,,RING RD,,2015
+145695,,Friday,No,2015-06-19T00:00:00.000,Auto Theft,"[-71.060558, 42.350363]",Point,07xx,6,IVMV,116,A1,,No,KNEELAND ST,Part One,None,774954.0,,2950000.0,2015
+192067,,Friday,No,2015-06-19T00:00:00.000,Auto Theft,"[-71.069397, 42.329801]",Point,07xx,6,IVMV,178,C6,,No,MASSACHUSETTS AVE,Part One,None,772602.0,,2950000.0,2015
+246291,,Friday,No,2015-06-19T00:00:00.000,Auto Theft,"[-71.060162, 42.359884]",Point,07xx,6,,73,A1,,No,CENTER PLZ,Part One,None,775043.0,,2960000.0,2015

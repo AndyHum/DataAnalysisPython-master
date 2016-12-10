@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8274,130624671.0,Monday,No,2013-09-30T23:25:00.000,InvProp,"[-71.064489, 42.365368]",Point,InvProp,9,IVPREM,64,A1,First,No,LOMASNEY WY,Part three,Unarmed,773863.1707,,2958469.979,2013
+113703,130625492.0,Monday,No,2013-09-30T21:00:00.000,InvProp,"[-71.120183, 42.28597]",Point,InvProp,9,BERPT ,563,E5,First,No,FLORENCE ST,Part three,Other,758940.8961,,2929463.7860000003,2013
+134697,130622743.0,Monday,No,2013-09-30T06:45:00.000,InvProp,"[0, 0]",Point,InvProp,9,IVPER ,421,B3,Last,No,MORTON VILLAGE DR,Part three,Unarmed,,,,2013
+153380,130624588.0,Monday,No,2013-09-30T22:00:00.000,InvProp,"[-71.112411, 42.284053]",Point,InvProp,9,SHOTS ,503,E18,First,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2013
+178762,130623765.0,Monday,No,2013-09-30T15:26:00.000,InvProp,"[-71.119609, 42.36402]",Point,InvProp,9,IVPREM,814,D14,Day,No,WESTERN AV,Part three,Unarmed,758969.2963,,2957907.486,2013
+190004,130623110.0,Monday,No,2013-09-30T11:18:00.000,InvProp,"[-71.06729, 42.348971]",Point,InvProp,9,ALARMR,126,A1,Day,No,FAYETTE ST,Part three,Other,773136.7296,,2952490.7569999998,2013
+204250,130622728.0,Monday,No,2013-09-30T08:23:00.000,InvProp,"[-71.058315, 42.302481]",Point,InvProp,9,IVMV  ,350,C11,Day,No,DUNCAN ST,Part three,Unarmed,775650.5539,,2935561.46,2013

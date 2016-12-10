@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32899,130022513.0,Friday,No,2013-01-11T15:40:00.000,DEATH INVESTIGATION,"[-71.100028, 42.319668]",Point,01INV,1,CARST ,303,E13,Day,No,AMORY ST,Part Three,Unarmed,764337.0001,,2941768.71,2013
+65025,130022148.0,Friday,No,2013-01-11T13:01:00.000,DEATH INVESTIGATION,"[-71.064115, 42.317839]",Point,01INV,1,ALARMI,239,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,774052.7186,,2941150.083,2013
+100687,130034195.0,Friday,No,2013-01-11T07:10:00.000,DEATH INVESTIGATION,"[-71.011876, 42.385742]",Point,01INV,1,CARST ,12,A7,Last,No,SARATOGA ST,Part Three,Unarmed,788039.123,,2965971.414,2013

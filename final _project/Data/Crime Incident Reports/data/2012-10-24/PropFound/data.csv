@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102454,120671337.0,Wednesday,No,2012-10-24T21:50:00.000,PropFound,"[-71.09848, 42.330061]",Point,PropFound,10,SSTOP ,586,B2,First,No,ALLEGHANY ST,Part Three,Unarmed,764737.9722,PARKER ST,2945558.369,2012
+210267,120670874.0,Wednesday,No,2012-10-24T17:31:00.000,PropFound,"[-71.062548, 42.361157]",Point,PropFound,10,FDPROP,72,A1,First,No,CAMBRIDGE ST,Part Three,Other,774395.6116,,2956937.863,2012
+243990,120670786.0,Wednesday,No,2012-10-24T15:00:00.000,PropFound,"[-71.114485, 42.311256]",Point,PropFound,10,FDPROP,645,E13,Day,No,CENTRE ST,Part Three,Unarmed,760441.2169,,2938685.534,2012
+258724,120671384.0,Wednesday,No,2012-10-24T21:40:00.000,PropFound,"[-71.084295, 42.300056]",Point,PropFound,10,FDPROP,457,B3,First,No,MCCLELLAN HY,Part Three,Unarmed,768626.8616,,2934642.43,2012

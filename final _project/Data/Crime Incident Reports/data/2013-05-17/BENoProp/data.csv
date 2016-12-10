@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18202,130293757.0,Friday,No,2013-05-17T04:35:00.000,BENoProp,"[-71.093395, 42.276861]",Point,BENoProp,5,BEIP  ,427,B3,Last,No,BLUE HILL AV,Part One,Unarmed,766205.3642,,2926177.966,2013
+43923,130295753.0,Friday,No,2013-05-17T20:50:00.000,BENoProp,"[-71.120223, 42.291074]",Point,BENoProp,5,BERPT ,941,E5,First,No,BROOKWAY TR,Part One,Unarmed,758921.839,,2931323.8219999997,2013
+75121,130295669.0,Friday,No,2013-05-17T21:00:00.000,BENoProp,"[-71.06028, 42.306752]",Point,BENoProp,5,BERPT ,347,C11,First,No,HECLA ST,Part One,Other,775110.7209999999,,2937115.057,2013

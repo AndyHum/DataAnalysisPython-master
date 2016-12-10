@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+694,152016387.0,Saturday,No,2015-02-28T22:14:00.000,FIRE,"[0, 0]",Point,FIRE,2,REQP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015
+11802,152016286.0,Saturday,No,2015-02-28T16:10:00.000,FIRE,"[-71.08255, 42.318046]",Point,FIRE,2,FO,0,B2,First,No,MARTIN LUTHER KING BLVD,Part three,Unarmed,769066.8447,,2941200.578,2015
+38783,152016203.0,Saturday,No,2015-02-28T11:00:00.000,FIRE,"[-71.076375, 42.307291]",Point,FIRE,2,FIRE,0,B2,Day,No,COLUMBIA RD,Part three,Unarmed,770756.3344,,2937289.517,2015
+174610,152016239.0,Saturday,No,2015-02-28T13:00:00.000,FIRE,"[-71.125325, 42.352176]",Point,FIRE,2,FO,0,D14,Day,No,BRIGHTON AV,Part three,Unarmed,757443.7219,,2953584.474,2015
+192508,152016343.0,Saturday,No,2015-02-28T19:15:00.000,FIRE,"[-71.032635, 42.375156]",Point,FIRE,2,FIRE,0,A7,First,No,CHELSEA ST,Part three,Other,782452.2703,,2962082.495,2015
+259938,152016238.0,Saturday,No,2015-02-28T13:00:00.000,FIRE,"[-71.125325, 42.352176]",Point,FIRE,2,FO,0,D14,Day,No,BRIGHTON AV,Part three,Unarmed,757443.7219,,2953584.474,2015

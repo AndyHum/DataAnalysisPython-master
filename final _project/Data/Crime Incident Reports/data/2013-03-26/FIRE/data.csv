@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+157351,130176240.0,Tuesday,No,2013-03-26T01:15:00.000,FIRE,"[-71.163639, 42.282441]",Point,FIRE,3,FIREB ,732,E5,Last,No,PERHAM ST,Part Three,Unarmed,747187.2259999999,,2928128.6139999996,2013
+187622,130177947.0,Tuesday,No,2013-03-26T19:23:00.000,FIRE,"[-71.08992, 42.283476]",Point,FIRE,3,FIREB ,428,B3,First,No,LESTON ST,Part Three,Unarmed,767134.1979,,2928593.067,2013
+201400,130176918.0,Tuesday,No,2013-03-26T11:01:00.000,FIRE,"[-71.138542, 42.361876]",Point,FIRE,3,FIRE  ,807,D14,Day,No,ANTWERP ST,Part Three,Unarmed,753856.1343,,2957103.682,2013

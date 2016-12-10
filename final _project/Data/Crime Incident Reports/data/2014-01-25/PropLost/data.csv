@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20218,140050875.0,Saturday,No,2014-01-25T16:30:00.000,PropLost,"[-71.059415, 42.359251]",Point,PropLost,1,LARCRT,65,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,775246.1256,,2956247.881,2014
+107555,140052415.0,Saturday,No,2014-01-25T17:00:00.000,PropLost,"[-71.07547, 42.346214]",Point,PropLost,1,LSTPRP,149,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770930.358,,2951474.633,2014
+114574,140051189.0,Saturday,No,2014-01-25T00:05:00.000,PropLost,"[-71.085233, 42.347129]",Point,PropLost,1,LSTPRP,598,D4,Last,No,DALTON ST,Part three,Unarmed,768289.5178,,2951795.253,2014

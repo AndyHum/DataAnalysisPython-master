@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8885,130155801.0,Wednesday,No,2012-08-01T00:01:00.000,PropLost,"[-71.082405, 42.335031]",Point,PropLost,8,LSTPRP,274,D4,Last,No,HAMMOND ST,Part Three,Unarmed,769075.7574,,2947390.398,2012
+31173,120475247.0,Wednesday,No,2012-08-01T14:00:00.000,PropLost,"[-71.09622, 42.280691]",Point,PropLost,8,LSTPRP,468,B3,Day,No,HAZELTON ST,Part Three,Unarmed,765434.0731,,2927570.023,2012
+93954,140185875.0,Wednesday,No,2012-08-01T12:00:00.000,PropLost,"[-71.07825, 42.335516]",Point,PropLost,8,LSTPRP,273,D4,Day,No,WASHINGTON ST,Part three,Unarmed,770198.2968,,2947572.668,2012
+183352,120505213.0,Wednesday,No,2012-08-01T09:00:00.000,PropLost,"[-71.099985, 42.314061]",Point,PropLost,8,IVPER ,577,E13,Day,No,WASHINGTON ST,Part Three,Unarmed,764358.3652,,2939725.7819999997,2012
+194832,120478288.0,Wednesday,No,2012-08-01T19:00:00.000,PropLost,"[-71.150915, 42.348981]",Point,PropLost,8,LARCRT,778,D14,First,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012
+209356,120475799.0,Wednesday,No,2012-08-01T16:00:00.000,PropLost,"[-71.130451, 42.35065]",Point,PropLost,8,LSTPRP,796,D14,First,No,COMMONWEALTH AV,Part Three,Unarmed,756060.5505,,2953022.06,2012
+232004,130147402.0,Wednesday,No,2012-08-01T09:00:00.000,PropLost,"[-71.076355, 42.318396]",Point,PropLost,8,LSTPRP,324,B2,Day,No,BROOKFORD ST,Part Three,Unarmed,770741.6448,,2941336.385,2012
+243108,120543962.0,Wednesday,No,2012-08-01T12:00:00.000,PropLost,"[-71.074285, 42.310841]",Point,PropLost,8,LSTPRP,328,B2,Day,No,MAGNOLIA ST,Part Three,Unarmed,771315.2129,,2938586.008,2012
+264913,120569941.0,Wednesday,No,2012-08-01T00:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,MISCRP,274,B3,Last,No,KENDALL ST,Part Three,Unarmed,,,,2012
+265502,120719441.0,Wednesday,No,2012-08-01T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,792,D14,Day,No,COREY ST,Part Three,Unarmed,,,,2012
+266020,120505250.0,Wednesday,No,2012-08-01T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,304,B2,First,No,ACADEMY TR,Part Three,Unarmed,,,,2012

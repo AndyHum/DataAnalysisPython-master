@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64954,130125961.0,Saturday,No,2013-03-02T03:59:00.000,Gather,"[-71.083603, 42.334721]",Point,Gather,3,PARTY ,285,D4,Last,No,WINDSOR ST,Part Three,Unarmed,768752.2459,,2947275.6089999997,2013
+104717,130127550.0,Saturday,No,2013-03-02T00:24:00.000,Gather,"[-71.061365, 42.305081]",Point,Gather,3,PARTY ,347,C11,Last,No,ADAMS ST,Part Three,Unarmed,774820.6088,,2936504.6810000003,2013
+115995,130127671.0,Saturday,No,2013-03-02T23:44:00.000,Gather,"[-71.076928, 42.293667]",Point,Gather,3,PARTY ,448,B3,First,No,MILLET ST,Part Three,Unarmed,770631.127,,2932323.6939999997,2013
+251384,130125823.0,Saturday,No,2013-03-02T02:14:00.000,Gather,"[-71.08826, 42.324542]",Point,Gather,3,PARTY ,299,B2,Last,No,CRISPUS ATTUCKS PL,Part Three,Unarmed,767511.1506,,2943560.184,2013

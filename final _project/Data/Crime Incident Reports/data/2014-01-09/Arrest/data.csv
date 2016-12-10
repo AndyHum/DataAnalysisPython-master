@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95107,140016445.0,Thursday,No,2014-01-09T08:12:00.000,Arrest,"[-71.08732, 42.273061]",Point,Arrest,1,ARREST,424,B3,Day,No,GLADESIDE TR,Part three,Unarmed,767856.1142,,2924801.091,2014
+110067,140016984.0,Thursday,No,2014-01-09T13:00:00.000,Arrest,"[-71.077917, 42.343296]",Point,Arrest,1,ARREST,152,D4,Day,No,WARREN AV,Part three,Unarmed,770274.0752,,2950408.285,2014
+151437,130453743.0,Thursday,No,2014-01-09T19:13:00.000,Arrest,"[-71.08696, 42.307256]",Point,Arrest,1,MVPED1,792,B2,First,No,MAPLE ST,Part three,Unarmed,767893.203,,2937262.72,2014
+252107,140016662.0,Thursday,No,2014-01-09T10:08:00.000,Arrest,"[-71.13163, 42.249486]",Point,Arrest,1,TRANSP,540,E18,Day,No,ELLIS ST,Part three,Unarmed,755901.0685,,2916155.14,2014

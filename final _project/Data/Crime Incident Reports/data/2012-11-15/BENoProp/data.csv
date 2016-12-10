@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52971,120719021.0,Thursday,No,2012-11-15T09:00:00.000,BENoProp,"[-71.078165, 42.323511]",Point,BENoProp,11,BERPTA,265,B2,Day,No,MORELAND ST,Part One,Unarmed,770242.9165,,2943197.95,2012
+145659,120720076.0,Thursday,No,2012-11-15T07:00:00.000,BENoProp,"[-71.120675, 42.247616]",Point,BENoProp,11,ALARMR,518,E18,Last,No,LORING ST,Part One,Other,758870.0872,,2915486.688,2012
+254571,120719913.0,Thursday,No,2012-11-15T14:30:00.000,BENoProp,"[-71.076395, 42.297861]",Point,BENoProp,11,ALARMR,454,B3,Day,No,WATERLOW ST,Part One,Other,770767.9912,,2933853.0539999995,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15059,140147985.0,Monday,No,2014-03-10T21:35:00.000,InvProp,"[-71.051215, 42.339041]",Point,InvProp,3,CD35  ,201,C6,First,No,W BROADWAY,Part three,Unarmed,777501.1149,,2948894.54,2014
+27326,140147975.0,Monday,No,2014-03-10T21:20:00.000,InvProp,"[-71.056873, 42.342678]",Point,InvProp,3,CD35  ,200,C6,First,No,W BROADWAY,Part three,Unarmed,775964.3463,,2950211.663,2014
+179430,140147967.0,Monday,No,2014-03-10T21:07:00.000,InvProp,"[-71.056873, 42.342678]",Point,InvProp,3,CD35  ,200,C6,First,No,W BROADWAY,Part three,Unarmed,775964.3463,,2950211.663,2014
+240934,140147575.0,Monday,No,2014-03-10T18:05:00.000,InvProp,"[-71.078452, 42.304244]",Point,InvProp,3,IVPER ,460,C11,First,No,MORSE ST,Part three,Unarmed,770199.8024,,2936176.0889999997,2014

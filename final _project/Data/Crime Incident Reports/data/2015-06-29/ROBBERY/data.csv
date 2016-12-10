@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32804,,Monday,No,2015-06-29T19:30:00.000,Robbery,"[0, 0]",Point,03xx,6,I00040,332,B2,,No,COLUMBIA RD,Part One,None,,GLENDALE ST,,2015
+43324,,Monday,No,2015-06-29T00:00:00.000,Robbery,"[-71.070853, 42.331521]",Point,03xx,6,I00040,177,C6,,No,MASSACHUSETTS AVE,Part One,Knife/Cutting Instrument,772205.0,,2950000.0,2015
+254801,,Monday,No,2015-06-29T00:36:00.000,Robbery,"[0, 0]",Point,03xx,6,I00040,582,E13,,No,CENTRE ST,Part One,None,, PERKINS ST ,,2015

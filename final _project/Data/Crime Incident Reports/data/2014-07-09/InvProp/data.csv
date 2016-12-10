@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93428,142008584.0,Wednesday,No,2014-07-09T17:00:00.000,InvProp,"[-71.111395, 42.256336]",Point,InvProp,7,IVPER,0,E18,First,No,BEACON ST,Part three,Unarmed,761368.1783,,2918675.6739999996,2014
+93788,142007658.0,Wednesday,No,2014-07-09T17:00:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,7,CD9,0,D4,First,No,YAWKEY WY,Part three,Other,764671.1215,,2951432.6119999997,2014
+97008,142007488.0,Wednesday,No,2014-07-09T07:26:00.000,InvProp,"[-71.06867, 42.323626]",Point,InvProp,7,CD11,0,B2,Last,No,BURRELL ST,Part three,Unarmed,772810.3976,,2943252.7,2014
+264582,142007641.0,Wednesday,No,2014-07-09T18:00:00.000,InvProp,"[0, 0]",Point,InvProp,7,IVPREM,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,,,,2014

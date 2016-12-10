@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97664,120780863.0,Thursday,No,2012-12-13T05:30:00.000,BENoProp,"[-71.09531, 42.269846]",Point,BENoProp,12,BERPT ,476,B3,Last,No,REXFORD ST,Part One,Other,765699.2422,,2923619.142,2012
+116761,120780580.0,Thursday,No,2012-12-13T07:30:00.000,BENoProp,"[-71.09531, 42.269846]",Point,BENoProp,12,BERPT ,476,B3,Day,No,REXFORD ST,Part One,Other,765699.2422,,2923619.142,2012
+175491,120781258.0,Thursday,No,2012-12-13T09:30:00.000,BENoProp,"[-71.11668, 42.262066]",Point,BENoProp,12,IVPREM,494,E18,Day,No,METROPOLITAN AV,Part One,Other,759928.0805,,2920757.288,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51739,130008598.0,Friday,No,2013-01-04T23:05:00.000,DISORDERLY,"[-71.045379, 42.337142]",Point,24xx,1,PARTY ,212,C6,First,No,BOLTON ST,Part Two,Unarmed,779082.5284,,2948210.921,2013
+109523,130008312.0,Friday,No,2013-01-04T20:00:00.000,DISORDERLY,"[-71.04162, 42.369616]",Point,24xx,1,DISTRB,902,A7,First,No,SUMNER ST,Part Two,Unarmed,780035.3332,,2960050.433,2013
+137207,130008078.0,Friday,No,2013-01-04T18:24:00.000,DISORDERLY,"[-71.12383, 42.256906]",Point,24xx,1,IVPREM,520,E18,First,No,HYDE PARK AV,Part Two,Unarmed,758000.9383,,2918868.298,2013
+254521,130022965.0,Friday,No,2013-01-04T22:10:00.000,DISORDERLY,"[-71.07365, 42.299381]",Point,24xx,1,DISTRB,462,C11,First,No,WASHINGTON ST,Part Two,Unarmed,771507.8429,BOWDOIN ST,2934410.665,2013

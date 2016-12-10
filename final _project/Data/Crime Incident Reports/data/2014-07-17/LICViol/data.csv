@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128925,142009913.0,Thursday,No,2014-07-17T00:30:00.000,LICViol,"[-71.03927, 42.370256]",Point,LICViol,7,CD35,0,A7,Last,No,MAVERICK ST,Part three,Unarmed,780669.1099,,2960287.083,2014
+195953,142010168.0,Thursday,No,2014-07-17T21:55:00.000,LICViol,"[-71.05679, 42.314776]",Point,LICViol,7,CD35,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,776039.8087,,2940044.086,2014
+201740,142010192.0,Thursday,No,2014-07-17T23:20:00.000,LICViol,"[-71.05259, 42.354126]",Point,LICViol,7,CD35,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,777100.5353,,2954389.836,2014
+250088,142010187.0,Thursday,No,2014-07-17T23:02:00.000,LICViol,"[-71.046761, 42.349418]",Point,LICViol,7,CD35,0,C6,First,No,CONGRESS ST,Part three,Unarmed,778685.0341,,2952682.2819999997,2014

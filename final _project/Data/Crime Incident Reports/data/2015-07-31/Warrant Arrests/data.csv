@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19654,,Friday,No,2015-07-31T00:00:00.000,Warrant Arrests,"[-71.028577, 42.379504]",Point,Arrest,7,SS,17,A7,,No,SARATOGA ST,Part Three,None,783540.0,,2960000.0,2015
+98691,,Friday,No,2015-07-31T00:00:00.000,Warrant Arrests,"[-71.057947, 42.356741]",Point,Arrest,7,ARREST,98,A1,,No,MILK ST,Part Three,None,775648.0,,2960000.0,2015
+257423,,Friday,No,2015-07-31T09:28:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,181,C6,,No,MASSACHUSETTS AVE,Part Three,None,,,,2015

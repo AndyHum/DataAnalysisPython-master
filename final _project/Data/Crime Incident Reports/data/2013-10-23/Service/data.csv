@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16277,130676665.0,Wednesday,No,2013-10-23T19:30:00.000,Service,"[-71.075838, 42.321323]",Point,Service,10,IVPER ,262,B2,First,No,WOODVILLE ST,Other,Unarmed,770875.9749,,2942403.608,2013
+29061,130676867.0,Wednesday,No,2013-10-23T21:13:00.000,Service,"[-71.073105, 42.324613]",Point,Service,10,IVPER ,181,B2,First,No,CLARENCE ST,Other,Unarmed,771609.21,,2943606.229,2013
+131649,130676811.0,Wednesday,No,2013-10-23T20:28:00.000,Service,"[-71.08507, 42.328881]",Point,Service,10,INVEST,288,B2,First,No,DUDLEY ST,Part three,Unarmed,768366.1044,WASHINGTON ST,2945145.712,2013
+140841,130676691.0,Wednesday,No,2013-10-23T19:31:00.000,Service,"[-71.093735, 42.316716]",Point,Service,10,IVPER ,306,B2,First,No,COBDEN ST,Other,Unarmed,766044.1755,,2940701.298,2013
+166293,130675403.0,Wednesday,No,2013-10-23T09:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,10,IVPREM,257,C11,Day,No,HANCOCK ST,Part three,Other,774845.858,,2938432.619,2013
+172087,130679988.0,Wednesday,No,2013-10-23T19:30:00.000,Service,"[-71.061975, 42.361986]",Point,Service,10,TRANSP,72,A1,First,No,BULFINCH PL,Part three,Unarmed,774549.1083,,2957241.005,2013
+194170,130676274.0,Wednesday,No,2013-10-23T15:30:00.000,Service,"[-71.095795, 42.337511]",Point,Service,10,MISC  ,493,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,765451.1255,,2948276.7139999997,2013
+216251,130675590.0,Wednesday,No,2013-10-23T11:22:00.000,Service,"[-71.08939, 42.345876]",Point,Service,10,AOD   ,620,D4,Day,No,HEMENWAY ST,Other,Unarmed,767168.1477,,2951333.347,2013

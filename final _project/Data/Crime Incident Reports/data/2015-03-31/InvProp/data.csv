@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128305,152026147.0,Tuesday,No,2015-03-31T15:21:00.000,InvProp,"[-71.056345, 42.358871]",Point,InvProp,3,SUSOBJ,0,A1,Day,No,STATE ST,Part three,Unarmed,776076.5836,,2956113.703,2015
+130715,152025971.0,Tuesday,No,2015-03-31T01:00:00.000,InvProp,"[-71.085628, 42.34206]",Point,InvProp,3,REQP,0,D4,Last,No,HUNTINGTON AV,Part three,Unarmed,768191.7788,,2949947.602,2015
+176233,152026215.0,Tuesday,No,2015-03-31T20:15:00.000,InvProp,"[-71.053355, 42.324819]",Point,InvProp,3,BE,0,C6,First,No,OCALLAGHAN WY,Part three,Unarmed,776949.5422,,2943708.555,2015
+245874,152026122.0,Tuesday,No,2015-03-31T15:24:00.000,InvProp,"[-71.011876, 42.385742]",Point,InvProp,3,BE,0,A7,Day,No,SARATOGA ST,Part three,Unarmed,788039.123,,2965971.414,2015
+267222,152026296.0,Tuesday,No,2015-03-31T13:45:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVPER,0,C11,Day,No,ACADIA ST,Part three,Unarmed,,,,2015
+267266,152025990.0,Tuesday,No,2015-03-31T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

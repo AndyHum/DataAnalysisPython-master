@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50302,120474426.0,Wednesday,No,2012-08-01T08:18:00.000,InvProp,"[-71.077438, 42.31834]",Point,InvProp,8,IVPREM,264,B2,Day,No,BROOKFORD ST,Part Three,Other,770448.6818,,2941314.5560000003,2012
+50486,120474427.0,Wednesday,No,2012-08-01T08:30:00.000,InvProp,"[-71.08664, 42.345181]",Point,InvProp,8,BERPTA,620,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,767912.7846,,2951083.666,2012
+127050,120475333.0,Wednesday,No,2012-08-01T14:00:00.000,InvProp,"[-71.085387, 42.289863]",Point,InvProp,8,INVEST,0,B3,Day,No,AMES ST,Part Three,Unarmed,768349.27,,2930926.4310000003,2012
+198880,120474191.0,Wednesday,No,2012-08-01T02:47:00.000,InvProp,"[-71.07149, 42.308026]",Point,InvProp,8,IVPREM,337,C11,Last,No,RICHFIELD ST,Part Three,Firearm,772076.359,,2937563.963,2012
+210451,120474740.0,Wednesday,No,2012-08-01T10:40:00.000,InvProp,"[-71.109045, 42.333011]",Point,InvProp,8,HAZ   ,605,B2,Day,No,SHEPHERD AV,Part Three,Unarmed,761876.2846,,2946620.133,2012
+239769,120474016.0,Wednesday,No,2012-08-01T00:23:00.000,InvProp,"[-71.14943, 42.336261]",Point,InvProp,8,ALARMC,790,D14,Last,No,BEACON ST,Part Three,Unarmed,750951.8701,,2947757.0319999997,2012

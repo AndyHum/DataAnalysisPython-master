@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38972,142020559.0,Saturday,No,2014-08-16T12:00:00.000,Restrain,"[-71.140462, 42.345464]",Point,Restrain,8,IVPER,0,D14,Day,No,SUMMIT AV,Part Two,Unarmed,753362.1976,,2951120.709,2014
+76610,142020581.0,Saturday,No,2014-08-16T21:47:00.000,Restrain,"[-71.09134, 42.279336]",Point,Restrain,8,IVPER,0,B3,First,No,EVELYN ST,Part Two,Unarmed,766757.183,,2927082.5519999997,2014
+138995,142020069.0,Saturday,No,2014-08-16T21:05:00.000,Restrain,"[-71.086294, 42.276903]",Point,Restrain,8,VIORDR,0,B3,First,No,W SELDEN ST,Part Two,Unarmed,768126.9853,,2926202.534,2014

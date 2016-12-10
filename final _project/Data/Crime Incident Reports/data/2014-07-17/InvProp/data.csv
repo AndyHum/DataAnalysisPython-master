@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9357,142009929.0,Thursday,No,2014-07-17T00:29:00.000,InvProp,"[-71.100645, 42.319136]",Point,InvProp,7,IVPER,0,E13,Last,No,AMORY ST,Part three,Unarmed,764171.1989,,2941574.361,2014
+9903,142010033.0,Thursday,No,2014-07-17T15:00:00.000,InvProp,"[-71.05635, 42.323376]",Point,InvProp,7,IVPREM,0,C6,Day,No,LOCUST ST,Part three,Other,776142.5116,,2943178.684,2014
+103865,142010030.0,Thursday,No,2014-07-17T13:30:00.000,InvProp,"[-71.054315, 42.356316]",Point,InvProp,7,SUSOBJ,0,A1,Day,No,FRANKLIN ST,Part three,Unarmed,776630.1058,,2955185.472,2014
+155557,142010185.0,Thursday,No,2014-07-17T21:10:00.000,InvProp,"[-71.084855, 42.331031]",Point,InvProp,7,IVPREM,0,B2,First,No,SHAWMUT AV,Part three,Unarmed,768420.427,,2945929.492,2014
+158257,142010165.0,Thursday,No,2014-07-17T21:23:00.000,InvProp,"[-71.07099, 42.311631]",Point,InvProp,7,SHOTS,0,B2,First,No,DRAYTON AV,Part three,Unarmed,772204.9979,QUINCY ST,2938878.3619999997,2014
+159924,142009981.0,Thursday,No,2014-07-17T10:48:00.000,InvProp,"[-71.051585, 42.293822]",Point,InvProp,7,BE,0,C11,Day,No,NEPONSET AV,Part three,Unarmed,777487.4843,,2932415.541,2014
+247376,142009928.0,Thursday,No,2014-07-17T02:22:00.000,InvProp,"[-71.084031, 42.307139]",Point,InvProp,7,ALARM,0,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768685.5334,,2937223.637,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6979,152001029.0,Sunday,No,2015-01-04T20:30:00.000,InvPer,"[-71.16904, 42.351016]",Point,InvPer,1,REQP,0,D14,First,No,WASHINGTON ST,Part three,Other,745628.9814,,2953112.8460000004,2015
+20195,152001051.0,Sunday,No,2015-01-04T22:30:00.000,InvPer,"[-71.07538, 42.333949]",Point,InvPer,1,VIORDR,0,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2015
+28006,152001047.0,Sunday,No,2015-01-04T23:00:00.000,InvPer,"[-71.087175, 42.308436]",Point,InvPer,1,UNK,0,B2,First,No,SONOMA ST,Part three,Unarmed,767832.9666,,2937692.45,2015
+79456,152002101.0,Sunday,No,2015-01-04T08:00:00.000,InvPer,"[-71.09247, 42.277951]",Point,InvPer,1,IVPER,0,B3,Day,No,WILMORE ST,Part three,Firearm,766453.7971,,2926576.373,2015
+111450,152001050.0,Sunday,No,2015-01-04T22:38:00.000,InvPer,"[-71.08223, 42.315041]",Point,InvPer,1,IVPER,0,B2,First,No,HOLBORN ST,Part three,Unarmed,769158.7516,,2940105.93,2015
+127065,152001003.0,Sunday,No,2015-01-04T17:30:00.000,InvPer,"[-71.081178, 42.274496]",Point,InvPer,1,IVPER,0,B3,First,No,WOODRUFF WY,Part three,Unarmed,769515.6581,,2925332.0319999997,2015
+211916,152000986.0,Sunday,No,2015-01-04T16:48:00.000,InvPer,"[-71.057413, 42.32886]",Point,InvPer,1,EDP,0,C6,First,No,BOSTON ST,Part three,Unarmed,775844.4496,,2945175.3860000004,2015
+260795,152001546.0,Sunday,No,2015-01-04T11:00:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPER,0,E5,Day,No,COREY ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19655,152001934.0,Wednesday,No,2015-01-07T22:19:00.000,PropFound,"[-71.072549, 42.35359]",Point,PropFound,1,PROP,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,771706.6517,ARLINGTON ST,2954166.672,2015
+22669,152001904.0,Wednesday,No,2015-01-07T17:30:00.000,PropFound,"[-71.08156, 42.348911]",Point,PropFound,1,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769279.4105,,2952449.645,2015
+76566,152001878.0,Wednesday,No,2015-01-07T18:20:00.000,PropFound,"[-71.062548, 42.361157]",Point,PropFound,1,PROP,0,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,774395.6116,,2956937.863,2015
+95094,152001806.0,Wednesday,No,2015-01-07T13:48:00.000,PropFound,"[-71.076409, 42.272737]",Point,PropFound,1,IVPREM,0,B3,Day,No,IDAHO ST,Part three,Other,770809.5069,,2924697.293,2015
+122578,152002048.0,Wednesday,No,2015-01-07T22:00:00.000,PropFound,"[-71.07188, 42.348846]",Point,PropFound,1,LARCEN,0,D4,First,No,BERKELEY ST,Part three,Unarmed,771896.2029,,2952438.943,2015
+183573,152001825.0,Wednesday,No,2015-01-07T13:00:00.000,PropFound,"[-71.08212, 42.329941]",Point,PropFound,1,IVPREM,0,B2,Day,No,HARRISON AV,Part three,Unarmed,769161.901,TABER ST,2945535.8880000003,2015
+185871,152001796.0,Wednesday,No,2015-01-07T13:28:00.000,PropFound,"[-71.05035, 42.350311]",Point,PropFound,1,IVPREM,0,C6,Day,No,SUMMER ST,Part three,Unarmed,777713.3251,,2953002.7630000003,2015

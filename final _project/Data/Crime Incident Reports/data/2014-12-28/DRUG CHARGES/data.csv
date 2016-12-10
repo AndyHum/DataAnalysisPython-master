@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48284,142061262.0,Sunday,No,2014-12-28T17:00:00.000,DRUG CHARGES,"[-71.074385, 42.335516]",Point,18xx,12,IVPER,0,D4,First,No,HARRISON AV,Part Two,Other,771243.2964,,2947577.858,2014
+81830,142061231.0,Sunday,No,2014-12-28T16:11:00.000,DRUG CHARGES,"[-71.1372, 42.280651]",Point,18xx,12,ARREST,0,E5,First,No,LENISTON ST,Part Two,Other,754344.7226,WALWORTH ST,2927505.631,2014
+150762,142061263.0,Sunday,No,2014-12-28T17:45:00.000,DRUG CHARGES,"[-71.07951, 42.334481]",Point,18xx,12,SS,0,D4,First,No,WASHINGTON ST,Part Two,Other,769859.4851,,2947193.813,2014
+264182,142061324.0,Sunday,No,2014-12-28T21:47:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,12,ARREST,0,C11,First,No,PLAYSTEAD RD,Part Two,Unarmed,,,,2014

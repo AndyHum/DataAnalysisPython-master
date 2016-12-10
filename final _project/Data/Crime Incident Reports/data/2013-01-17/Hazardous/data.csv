@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132451,130035301.0,Thursday,No,2013-01-17T15:57:00.000,Hazardous,"[-71.09414, 42.27099]",Point,Hazardous,1,HAZ   ,476,B3,Day,No,REXFORD ST,Part Three,Unarmed,766013.8787,,2924037.508,2013
+170007,130044660.0,Thursday,No,2013-01-17T12:00:00.000,Hazardous,"[-71.067975, 42.343971]",Point,Hazardous,1,INVEST,160,D4,Day,No,DWIGHT ST,Part Three,Other,772960.7916,,2950667.7260000003,2013
+186194,130034832.0,Thursday,No,2013-01-17T12:53:00.000,Hazardous,"[-71.063345, 42.345876]",Point,Hazardous,1,ENVADM,0,D4,Day,No,HARRISON AV,Part Three,Unarmed,774208.9039,,2951368.316,2013

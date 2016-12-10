@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40821,130470045.0,Saturday,No,2013-07-27T00:01:00.000,Restrain,"[-71.07079, 42.300966]",Point,Restrain,7,VIORDR,344,C11,Last,No,CORONA ST,Part Two,Unarmed,772278.647,,2934992.145,2013
+80662,130467496.0,Saturday,No,2013-07-27T16:24:00.000,Restrain,"[-71.059735, 42.297541]",Point,Restrain,7,VIORDR,361,C11,First,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013
+181653,130468172.0,Saturday,No,2013-07-27T21:00:00.000,Restrain,"[-71.100045, 42.322752]",Point,Restrain,7,IVPER ,912,E13,First,No,CENTRE ST,Part Two,Unarmed,764327.298,,2942892.567,2013

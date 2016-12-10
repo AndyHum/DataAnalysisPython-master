@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5325,142023068.0,Monday,No,2014-08-25T21:30:00.000,InvProp,"[-71.10537, 42.308606]",Point,InvProp,8,PROP,0,E13,First,No,WASHINGTON ST,Part three,Other,762911.0968,,2937731.106,2014
+30204,142022905.0,Monday,No,2014-08-25T19:30:00.000,InvProp,"[-71.040415, 42.37168]",Point,InvProp,8,IVPREM,0,A7,First,No,LONDON ST,Part three,Unarmed,780356.8579,,2960804.075,2014
+130961,142022855.0,Monday,No,2014-08-25T18:19:00.000,InvProp,"[-71.08718, 42.307476]",Point,InvProp,8,LARCEN,0,B2,First,No,NAZING CT,Part three,Unarmed,767833.3058,,2937342.604,2014
+133511,142022813.0,Monday,No,2014-08-25T16:30:00.000,InvProp,"[-71.1056, 42.309891]",Point,InvProp,8,IVPREM,0,E13,First,No,UNION ST,Part three,Unarmed,762846.7223,GREEN ST,2938199.0919999997,2014

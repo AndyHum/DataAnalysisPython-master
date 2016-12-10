@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17326,142001584.0,Saturday,No,2014-06-21T21:00:00.000,Service,"[-71.14565, 42.350781]",Point,Service,6,ARREST,0,D14,First,No,DUSTIN ST,Part three,Unarmed,751951.8974,CAMBRIDGE ST,2953052.6289999997,2014
+17568,142001356.0,Saturday,No,2014-06-21T03:45:00.000,Service,"[-71.06939, 42.339506]",Point,Service,6,ARREST,0,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+63227,142001530.0,Saturday,No,2014-06-21T17:00:00.000,Service,"[-71.08182, 42.312151]",Point,Service,6,LARCEN,0,B2,First,No,INTERVALE ST,Part three,Unarmed,769274.7393,WARREN ST,2939053.211,2014
+179874,142001487.0,Saturday,No,2014-06-21T13:45:00.000,Service,"[-71.07875, 42.336881]",Point,Service,6,IVPER,0,D4,Day,No,SHAWMUT AV,Part three,Unarmed,770060.6546,NORTHAMPTON ST,2948069.4289999995,2014
+244587,142001389.0,Saturday,No,2014-06-21T08:13:00.000,Service,"[-71.085257, 42.297402]",Point,Service,6,cd11,0,B3,Day,No,WALES ST,Part three,Unarmed,768371.2601,,2933673.9289999995,2014
+259426,142001329.0,Saturday,No,2014-06-21T01:28:00.000,Service,"[-71.09019, 42.273861]",Point,Service,6,SS,0,B3,Last,No,VIOLET ST,Part three,Unarmed,767077.9714,,2925088.876,2014

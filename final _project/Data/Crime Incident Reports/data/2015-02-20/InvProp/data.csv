@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+244,152013621.0,Friday,No,2015-02-20T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+43079,152013772.0,Friday,No,2015-02-20T15:00:00.000,InvProp,"[-71.150915, 42.348981]",Point,InvProp,2,IVPREM,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+71091,152013774.0,Friday,No,2015-02-20T15:08:00.000,InvProp,"[-71.073314, 42.296573]",Point,InvProp,2,ALARM,0,B3,Day,No,SCHOOL ST,Part three,Other,771603.8025,,2933387.865,2015
+86567,152013619.0,Friday,No,2015-02-20T07:02:00.000,InvProp,"[-71.119063, 42.251037]",Point,InvProp,2,ALARM,0,E18,Last,No,WILLIAMS AV,Part three,Unarmed,759300.9485,,2916735.124,2015
+215469,152013887.0,Friday,No,2015-02-20T22:51:00.000,InvProp,"[-71.07116, 42.290356]",Point,InvProp,2,SSA,0,C11,First,No,CENTRE ST,Part three,Unarmed,772197.9949,TALBOT AV,2931125.2,2015
+219105,152013782.0,Friday,No,2015-02-20T15:05:00.000,InvProp,"[-71.045237, 42.333604]",Point,InvProp,2,REQP,0,C6,Day,No,THOMAS PARK,Part three,Unarmed,779127.7855,,2946921.713,2015
+264741,152013882.0,Friday,No,2015-02-20T22:27:00.000,InvProp,"[0, 0]",Point,InvProp,2,ALARM,0,D4,First,No,NEWBURY ST,Part three,Unarmed,,,,2015

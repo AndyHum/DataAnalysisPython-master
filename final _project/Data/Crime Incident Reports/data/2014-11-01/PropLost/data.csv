@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39785,142048727.0,Saturday,No,2014-11-01T09:00:00.000,PropLost,"[-71.106085, 42.264661]",Point,PropLost,11,PROP,0,E18,Day,No,TRACTON AV,Part three,Unarmed,762791.6564,,2921716.005,2014
+83458,142046606.0,Saturday,No,2014-11-01T23:00:00.000,PropLost,"[-71.06521, 42.349691]",Point,PropLost,11,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,773697.6517,,2952755.997,2014
+103710,142045710.0,Saturday,No,2014-11-01T00:01:00.000,PropLost,"[-71.084485, 42.348131]",Point,PropLost,11,PROP,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2014
+110969,142045064.0,Saturday,No,2014-11-01T19:30:00.000,PropLost,"[-71.142253, 42.251148]",Point,PropLost,11,PROP,0,E18,First,No,WHARTON CT,Part three,Unarmed,753022.1835,,2916748.422,2014
+127474,152009561.0,Saturday,No,2014-11-01T23:00:00.000,PropLost,"[-71.056735, 42.360596]",Point,PropLost,11,PROP,0,A1,First,No,UNION ST,Part three,Unarmed,775967.9099,,2956741.778,2014
+135339,142045246.0,Saturday,No,2014-11-01T15:00:00.000,PropLost,"[-71.051876, 42.35661]",Point,PropLost,11,PROP,0,A1,Day,No,HIGH ST,Part three,Unarmed,777288.6819,,2955295.825,2014
+160904,152015275.0,Saturday,No,2014-11-01T12:00:00.000,PropLost,"[-71.083145, 42.349411]",Point,PropLost,11,PROP,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,768850.0656,,2952629.758,2014
+167590,142045018.0,Saturday,No,2014-11-01T07:00:00.000,PropLost,"[-71.062735, 42.351706]",Point,PropLost,11,LARCEN,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774362.9145,,2953493.7210000004,2014
+169291,142045499.0,Saturday,No,2014-11-01T02:00:00.000,PropLost,"[-71.0649, 42.351031]",Point,PropLost,11,PROP,0,A1,Last,No,TREMONT ST,Part three,Unarmed,773778.9577,STUART ST,2953244.745,2014
+175032,142045283.0,Saturday,No,2014-11-01T17:45:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,11,PROP,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+180064,142045416.0,Saturday,No,2014-11-01T19:30:00.000,PropLost,"[-71.062116, 42.353942]",Point,PropLost,11,PROP,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774526.0513,,2954309.262,2014
+210471,142044877.0,Saturday,No,2014-11-01T00:30:00.000,PropLost,"[-71.06636, 42.352221]",Point,PropLost,11,PROP,0,A1,Last,No,BOYLSTON PL,Part three,Unarmed,773382.1034,,2953676.394,2014
+260286,142046416.0,Saturday,No,2014-11-01T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,PROP,0,A1,First,No,CENTRE ST,Part three,Unarmed,,,,2014
+261093,142045111.0,Saturday,No,2014-11-01T04:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,IVPER,0,D4,Last,No,EDINBORO ST,Part three,Unarmed,,,,2014
+267542,152028985.0,Saturday,No,2014-11-01T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,,,,2014

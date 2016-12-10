@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3984,152047940.0,Wednesday,No,2015-06-10T06:52:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,IVPER,0,C11,Last,No,EAST ST,Other,Unarmed,,,,2015
+72464,152048313.0,Wednesday,No,2015-06-10T03:30:00.000,PersLoc,"[-71.068594, 42.297067]",Point,PersLoc,6,IVPER,0,C11,Last,No,LARCHMONT ST,Other,Unarmed,772879.7803,,2933574.0539999995,2015
+100612,152048281.0,Wednesday,No,2015-06-10T09:00:00.000,PersLoc,"[-71.080471, 42.322391]",Point,PersLoc,6,IVPER,0,B2,Day,No,COPELAND ST,Other,Unarmed,769621.2376,,2942786.6739999996,2015
+122927,152047924.0,Wednesday,No,2015-06-10T00:27:00.000,PersLoc,"[-71.078657, 42.301454]",Point,PersLoc,6,IVPER,0,B3,Last,No,NORWELL ST,Other,Unarmed,770149.4675,,2935159.311,2015
+154731,152048014.0,Wednesday,No,2015-06-10T10:56:00.000,PersLoc,"[-71.138515, 42.353131]",Point,PersLoc,6,IVPER,0,D14,Day,No,CAMBRIDGE ST,Other,Unarmed,753876.9328,,2953917.11,2015
+166963,152048334.0,Wednesday,No,2015-06-10T21:45:00.000,PersLoc,"[-71.095995, 42.347161]",Point,PersLoc,6,IVPER,0,D4,First,No,LANSDOWNE ST,Other,Unarmed,765380.3957,,2951793.104,2015

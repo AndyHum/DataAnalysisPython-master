@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142547,142012613.0,Friday,No,2014-07-25T01:14:00.000,WEAPONS CHARGE,"[-71.10334, 42.327341]",Point,15xx,7,ARREST,0,B2,Last,No,WENSLEY ST,Part Two,Firearm,763428.4452,,2944561.006,2014
+172896,142012699.0,Friday,No,2014-07-25T11:00:00.000,WEAPONS CHARGE,"[-71.09037, 42.315906]",Point,15xx,7,LARCEN,0,B2,Day,No,HOLLANDER ST,Part Two,Unarmed,766955.4726,,2940410.3619999997,2014
+256892,142012785.0,Friday,No,2014-07-25T14:20:00.000,WEAPONS CHARGE,"[-71.05882, 42.299961]",Point,15xx,7,ARREST,0,C11,Day,No,ADAMS ST,Part Two,Knife,775518.6924,LINCOLN ST,2934642.4280000003,2014

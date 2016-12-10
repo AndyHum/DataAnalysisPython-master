@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50311,140188340.0,Friday,No,2014-03-28T20:00:00.000,PropFound,"[-71.057055, 42.361776]",Point,PropFound,3,INVEST,78,A1,First,No,HANOVER ST,Part three,Unarmed,775879.1916,,2957171.3439999996,2014
+174547,140194089.0,Friday,No,2014-03-28T00:01:00.000,PropFound,"[-71.049444, 42.288906]",Point,PropFound,3,FDPROP,378,C11,Last,No,COFFEY ST,Part three,Unarmed,778076.2623,,2930627.1010000003,2014
+260005,140187505.0,Friday,No,2014-03-28T11:15:00.000,PropFound,"[-71.07756, 42.299906]",Point,PropFound,3,FDPROP,455,B3,Day,No,VASSAR ST,Part three,Unarmed,770449.1264,,2934596.72,2014

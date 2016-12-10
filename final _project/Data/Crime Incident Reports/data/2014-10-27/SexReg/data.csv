@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28230,142043253.0,Monday,No,2014-10-27T17:16:00.000,SexReg,"[-71.079883, 42.315999]",Point,SexReg,10,IVPER,0,B2,First,No,SAVIN ST,Part Two,Unarmed,769791.8058,,2940458.144,2014
+230181,142043586.0,Monday,No,2014-10-27T12:00:00.000,SexReg,"[-71.0729, 42.333256]",Point,SexReg,10,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2014
+234988,142050147.0,Monday,No,2014-10-27T21:23:00.000,SexReg,"[-71.149665, 42.268111]",Point,SexReg,10,IVPER,0,E5,First,No,WASHINGTON ST,Part Two,Unarmed,750990.3372,,2922921.77,2014

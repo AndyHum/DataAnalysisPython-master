@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95177,142058017.0,Monday,No,2014-12-08T19:00:00.000,PropLost,"[-71.08625, 42.336646]",Point,PropLost,12,PROP,0,D4,First,No,CUNARD ST,Part three,Unarmed,768033.3028,,2947973.8660000004,2014
+111832,142056663.0,Monday,No,2014-12-08T23:00:00.000,PropLost,"[-71.095995, 42.347161]",Point,PropLost,12,PROP,0,D4,First,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014
+114745,142056974.0,Monday,No,2014-12-08T12:00:00.000,PropLost,"[-71.064786, 42.373665]",Point,PropLost,12,LARCEN,0,A15,Day,No,RUTHERFORD AV,Part three,Unarmed,773767.5059,,2961492.917,2014
+161136,142055736.0,Monday,No,2014-12-08T17:00:00.000,PropLost,"[-71.08146, 42.279086]",Point,PropLost,12,PROP,0,B3,First,No,OWEN ST,Part three,Unarmed,769431.3,,2927004.41,2014
+180435,142056345.0,Monday,No,2014-12-08T02:00:00.000,PropLost,"[-71.170161, 42.345974]",Point,PropLost,12,PROP,0,D14,Last,No,LAKE SHORE CT,Part three,Unarmed,745333.0306,,2951274.172,2014
+182776,142055689.0,Monday,No,2014-12-08T14:14:00.000,PropLost,"[-71.08234, 42.331396]",Point,PropLost,12,LARCEN,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769099.8164,,2946065.825,2014
+183977,142055734.0,Monday,No,2014-12-08T15:30:00.000,PropLost,"[-71.058315, 42.353881]",Point,PropLost,12,LARCEN,0,A1,Day,No,SUMMER ST,Part three,Unarmed,775553.5597,,2954292.488,2014
+215110,142055939.0,Monday,No,2014-12-08T15:30:00.000,PropLost,"[-71.071475, 42.332086]",Point,PropLost,12,PROP,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772036.3663,,2946331.845,2014
+262657,142061820.0,Monday,No,2014-12-08T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,PROP,0,E18,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2014
+263323,152000488.0,Monday,No,2014-12-08T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,PROP,0,A1,First,No,ARLINGTON ST,Part three,Unarmed,,,,2014

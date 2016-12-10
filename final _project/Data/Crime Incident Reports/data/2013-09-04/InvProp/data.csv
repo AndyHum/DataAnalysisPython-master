@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41357,130561792.0,Wednesday,No,2013-09-04T07:00:00.000,InvProp,"[-71.066745, 42.303426]",Point,InvProp,9,IVPREM,345,C11,Last,No,HOMES AV,Part three,Unarmed,773368.3558,,2935894.139,2013
+74233,130560285.0,Wednesday,No,2013-09-04T09:15:00.000,InvProp,"[-71.086655, 42.348466]",Point,InvProp,9,IVPREM,142,D4,Day,No,NEWBURY ST,Part three,Unarmed,767902.9271,,2952280.765,2013
+74602,130565964.0,Wednesday,No,2013-09-04T19:00:00.000,InvProp,"[-71.04134, 42.287606]",Point,InvProp,9,IVPREM,376,C11,First,No,WOODWORTH ST,Part three,Other,780271.7019,,2930165.038,2013
+108616,130560437.0,Wednesday,No,2013-09-04T10:40:00.000,InvProp,"[-71.093795, 42.268876]",Point,InvProp,9,INVEST,476,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766110.9716,,2923267.608,2013
+139646,130562166.0,Wednesday,No,2013-09-04T12:00:00.000,InvProp,"[-71.118926, 42.280846]",Point,InvProp,9,BERPT ,501,E18,Day,No,HYDE PARK AV,Part three,Other,759289.3239,,2927598.193,2013
+141049,130560787.0,Wednesday,No,2013-09-04T12:46:00.000,InvProp,"[-71.158745, 42.286776]",Point,InvProp,9,BEIP  ,735,E5,Day,No,PARK ST,Part three,Other,748505.4993,,2929713.6139999996,2013
+207457,130563913.0,Wednesday,No,2013-09-04T12:30:00.000,InvProp,"[-71.08453, 42.284221]",Point,InvProp,9,IVPER ,432,B3,Day,No,MASCOT ST,Part three,Other,768591.3958,,2928871.613,2013

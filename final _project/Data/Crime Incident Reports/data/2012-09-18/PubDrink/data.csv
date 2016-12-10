@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13871,120585594.0,Tuesday,No,2012-09-18T10:40:00.000,PubDrink,"[-71.08729, 42.296661]",Point,PubDrink,9,ARREST,444,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,767822.6212,VESTA RD,2933401.3060000003,2012
+20656,120586793.0,Tuesday,No,2012-09-18T19:30:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,9,SSTOP ,288,B2,First,No,WASHINGTON ST,Part Two,Other,768452.5418,,2945326.172,2012
+218783,120586718.0,Tuesday,No,2012-09-18T19:20:00.000,PubDrink,"[-71.07747, 42.350271]",Point,PubDrink,9,VANIP ,134,D4,First,No,DARTMOUTH ST,Part Two,Unarmed,770382.5543,,2952950.705,2012

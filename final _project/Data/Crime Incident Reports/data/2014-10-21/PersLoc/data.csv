@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+175558,142041319.0,Tuesday,No,2014-10-21T14:00:00.000,PersLoc,"[-71.089811, 42.337845]",Point,PersLoc,10,MISSIN,0,D4,Day,No,FORSYTH ST,Other,Unarmed,767068.4113,,2948405.99,2014
+222736,142041779.0,Tuesday,No,2014-10-21T07:30:00.000,PersLoc,"[-71.071171, 42.285811]",Point,PersLoc,10,IVPER,0,C11,Day,No,WASHINGTON ST,Other,Unarmed,772203.2275,,2929468.745,2014
+229834,142041457.0,Tuesday,No,2014-10-21T08:00:00.000,PersLoc,"[-71.075415, 42.339336]",Point,PersLoc,10,IVPER,0,D4,Day,No,RUTLAND ST,Other,Unarmed,770957.8809,,2948968.547,2014

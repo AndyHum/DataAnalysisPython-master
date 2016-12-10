@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32880,120461316.0,Thursday,No,2012-07-26T12:30:00.000,PropFound,"[-71.07738, 42.350061]",Point,PropFound,7,FDPROP,130,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770407.2615,BOYLSTON ST,2952874.296,2012
+52056,120462215.0,Thursday,No,2012-07-26T19:00:00.000,PropFound,"[-71.145028, 42.258426]",Point,PropFound,7,FDPROP,822,E5,First,No,GEORGETOWNE DR,Part Three,Unarmed,752259.9616,MARGARETTA DR,2919397.542,2012
+58125,120461100.0,Thursday,No,2012-07-26T10:15:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,7,FDPROP,355,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2012
+131856,120461704.0,Thursday,No,2012-07-26T14:25:00.000,PropFound,"[-71.05707, 42.324841]",Point,PropFound,7,FDPROP,187,C6,Day,No,HOWELL ST,Part Three,Unarmed,775945.0324,,2943711.542,2012

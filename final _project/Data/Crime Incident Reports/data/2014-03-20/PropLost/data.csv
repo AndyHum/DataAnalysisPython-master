@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16180,140174153.0,Thursday,No,2014-03-20T15:30:00.000,PropLost,"[-71.06575, 42.325491]",Point,PropLost,3,LARCRT,186,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,773596.582,,2943936.3439999996,2014
+172881,140171540.0,Thursday,No,2014-03-20T19:00:00.000,PropLost,"[-71.093415, 42.276216]",Point,PropLost,3,LSTPRP,427,B3,First,No,BLUE HILL AV,Part three,Unarmed,766201.0722,,2925942.893,2014
+202571,140174081.0,Thursday,No,2014-03-20T12:14:00.000,PropLost,"[-71.067315, 42.332801]",Point,PropLost,3,LARCRT,175,C6,Day,No,TOPEKA ST,Part three,Unarmed,773159.8604,,2946598.083,2014
+263885,140172357.0,Thursday,No,2014-03-20T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,97,A1,Day,No,TREMONT ST,Part three,Unarmed,,,,2014

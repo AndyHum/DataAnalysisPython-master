@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70749,120584270.0,Thursday,No,2012-09-13T11:30:00.000,PropLost,"[-71.075925, 42.313301]",Point,PropLost,9,LSTPRP,325,B2,Day,No,QUINCY ST,Part Three,Unarmed,770867.1685,,2939480.2610000004,2012
+237541,120582073.0,Thursday,No,2012-09-13T22:00:00.000,PropLost,"[-71.096413, 42.344914]",Point,PropLost,9,LARCRT,624,D4,First,No,BOYLSTON ST,Part Three,Other,765271.056,,2950973.562,2012
+247467,120583380.0,Thursday,No,2012-09-13T11:00:00.000,PropLost,"[-71.081325, 42.284171]",Point,PropLost,9,MISC  ,434,B3,Day,No,NORFOLK ST,Part Three,Unarmed,769458.7382,,2928857.633,2012

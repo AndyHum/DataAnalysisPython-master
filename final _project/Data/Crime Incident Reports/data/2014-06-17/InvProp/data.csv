@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11441,140383852.0,Tuesday,No,2014-06-17T10:10:00.000,InvProp,"[-71.153848, 42.340354]",Point,InvProp,6,CD9   ,774,D14,Day,No,LOTHIAN RD,Part three,Unarmed,749751.1254,,2949243.522,2014
+47066,140383274.0,Tuesday,No,2014-06-17T00:23:00.000,InvProp,"[-71.084909, 42.299435]",Point,InvProp,6,BEIP  ,457,B3,Last,No,CHARLOTTE ST,Part three,Unarmed,768461.8364,,2934415.332,2014
+70803,140383881.0,Tuesday,No,2014-06-17T11:00:00.000,InvProp,"[-71.11747, 42.288538]",Point,InvProp,6,IVPER ,507,E18,Day,No,WYVERN ST,Part three,Unarmed,759670.8946,,2930402.816,2014
+101809,142000139.0,Tuesday,No,2014-06-17T13:30:00.000,InvProp,"[-71.10479, 42.334141]",Point,InvProp,6,IVPREM,0,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,763024.8693,FRANCIS ST,2947037.227,2014
+116745,142000164.0,Tuesday,No,2014-06-17T13:33:00.000,InvProp,"[-71.08677, 42.322723]",Point,InvProp,6,LANTEN,0,B2,Day,No,ROCKLAND ST,Part three,Unarmed,767917.2751,,2942899.1,2014
+228888,140383349.0,Tuesday,No,2014-06-17T01:25:00.000,InvProp,"[-71.082649, 42.341187]",Point,InvProp,6,SHOTS ,284,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,768998.8176,,2949633.397,2014
+244159,142000201.0,Tuesday,No,2014-06-17T23:02:00.000,InvProp,"[-71.1323, 42.236296]",Point,InvProp,6,SHOTS,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,755740.3887,,2911347.7610000004,2014

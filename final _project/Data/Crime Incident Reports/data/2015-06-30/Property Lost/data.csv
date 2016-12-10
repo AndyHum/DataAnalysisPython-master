@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49977,,Tuesday,No,2015-06-30T00:00:00.000,Property Lost,"[-71.063705, 42.352312]",Point,PropLost,6,PROP,118,B3,,No,BOYLSTON ST,Part Three,None,774099.0,,2950000.0,2015
+103707,,Tuesday,No,2015-06-30T00:00:00.000,Property Lost,"[-71.070095, 42.35062]",Point,PropLost,6,PROP,120,A1,,No,ARLINGTON ST,Part Three,None,772375.0,,2950000.0,2015
+124605,,Tuesday,No,2015-06-30T00:00:00.000,Property Lost,"[-71.104294, 42.309719]",Point,PropLost,6,PROP,574,E13,,No,WASHINGTON ST,Part Three,None,763200.0,,2940000.0,2015
+144175,,Tuesday,No,2015-06-30T00:00:00.000,Property Lost,"[-71.084228, 42.300668]",Point,PropLost,6,PROP,457,B3,,No,DRUMMOND ST,Part Three,None,768644.0,,2930000.0,2015
+185101,,Tuesday,No,2015-06-30T00:00:00.000,Property Lost,"[-71.068296, 42.299108]",Point,PropLost,6,,357,C11,,No,BLOOMFIELD ST,Part Three,None,772957.0,,2930000.0,2015

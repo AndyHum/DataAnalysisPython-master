@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51671,120728124.0,Monday,No,2012-11-19T12:00:00.000,LICViol,"[-71.07625, 42.341471]",Point,LICViol,11,IVPER ,153,D4,Day,No,TREMONT ST,Part Three,Unarmed,770728.2659,,2949745.457,2012
+57183,120728120.0,Monday,No,2012-11-19T12:10:00.000,LICViol,"[-71.081035, 42.349986]",Point,LICViol,11,IVPER ,138,D4,Day,No,NEWBURY ST,Part Three,Unarmed,769419.4017,,2952842.095,2012
+156147,120729144.0,Monday,No,2012-11-19T18:40:00.000,LICViol,"[-71.059085, 42.304686]",Point,LICViol,11,CD35  ,348,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775438.1029,,2936363.917,2012
+178019,120728128.0,Monday,No,2012-11-19T13:30:00.000,LICViol,"[-71.05489, 42.359141]",Point,LICViol,11,IVPER ,100,A1,Day,No,STATE ST,Part Three,Unarmed,776469.3197,,2956214.145,2012
+185317,120729112.0,Monday,No,2012-11-19T18:20:00.000,LICViol,"[-71.057335, 42.312466]",Point,LICViol,11,CD35  ,255,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775896.7749,,2939201.52,2012
+208059,120728126.0,Monday,No,2012-11-19T12:25:00.000,LICViol,"[-71.09908, 42.344211]",Point,LICViol,11,IVPER ,627,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,764551.4944,,2950714.1289999997,2012

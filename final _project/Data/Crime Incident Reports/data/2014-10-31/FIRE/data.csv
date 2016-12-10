@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+303,142044436.0,Friday,No,2014-10-31T06:20:00.000,FIRE,"[-71.052001, 42.302483]",Point,FIRE,10,FIRE,0,C11,Last,No,FREEPORT ST,Part three,Unarmed,777358.479,,2935570.897,2014
+11386,142044726.0,Friday,No,2014-10-31T21:30:00.000,FIRE,"[-71.089495, 42.279021]",Point,FIRE,10,FO,0,B3,First,No,NORFOLK ST,Part three,Unarmed,767257.0156,,2926970.155,2014
+17446,142048262.0,Friday,No,2014-10-31T03:30:00.000,FIRE,"[-71.06013, 42.305676]",Point,FIRE,10,FIRE,0,C11,Last,No,LINDEN ST,Part three,Unarmed,775153.5618,,2936723.231,2014
+216547,142044637.0,Friday,No,2014-10-31T16:40:00.000,FIRE,"[-71.166415, 42.301223]",Point,FIRE,10,FIRE,0,E5,First,No,WESTGATE RD,Part three,Other,746409.4307,,2934970.003,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54818,130416656.0,Saturday,No,2013-07-06T13:00:00.000,FIRE,"[-71.03768, 42.381371]",Point,FIRE,7,IVPREM,25,A7,Day,No,W EAGLE ST,Part three,Other,781076.8138,,2964339.943,2013
+114623,130415965.0,Saturday,No,2013-07-06T13:52:00.000,FIRE,"[-71.102035, 42.314996]",Point,FIRE,7,FIREB ,577,E13,Day,No,BOYLSTON ST,Part three,Other,763802.3204,,2940063.918,2013
+167365,130416739.0,Saturday,No,2013-07-06T22:13:00.000,FIRE,"[-71.087175, 42.308436]",Point,FIRE,7,FIREB ,319,B2,First,No,SONOMA ST,Part three,Other,767832.9666,,2937692.45,2013
+244027,130415605.0,Saturday,No,2013-07-06T10:35:00.000,FIRE,"[-71.11326, 42.305381]",Point,FIRE,7,FIREB ,648,E13,Day,No,BOYNTON ST,Part three,Unarmed,760782.2612,,2936546.09,2013

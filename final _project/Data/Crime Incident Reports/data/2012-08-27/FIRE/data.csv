@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31698,120533580.0,Monday,No,2012-08-27T01:34:00.000,FIRE,"[-71.041565, 42.372506]",Point,FIRE,8,FIREB ,26,A7,Last,No,BORDER ST,Part Three,Unarmed,780044.5340000001,,2961103.686,2012
+112835,120535655.0,Monday,No,2012-08-27T23:32:00.000,FIRE,"[-71.08199, 42.281281]",Point,FIRE,8,FV    ,418,B3,First,No,MAXWELL ST,Part Three,Other,769283.9548,NELSON ST,2927803.5939999996,2012
+141246,120533879.0,Monday,No,2012-08-27T08:25:00.000,FIRE,"[-71.02759, 42.380281]",Point,FIRE,8,FV    ,17,A7,Day,No,SHELBY ST,Part Three,Unarmed,783805.1108,,2963957.6580000003,2012
+165911,120534463.0,Monday,No,2012-08-27T13:19:00.000,FIRE,"[-71.124662, 42.253324]",Point,FIRE,8,UNK   ,521,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,757781.442,,2917561.938,2012

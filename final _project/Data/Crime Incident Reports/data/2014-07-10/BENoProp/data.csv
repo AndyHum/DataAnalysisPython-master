@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97520,142007853.0,Thursday,No,2014-07-10T12:30:00.000,BENoProp,"[-71.065835, 42.288941]",Point,BENoProp,7,LANTEN,0,C11,Day,No,ARGYLE ST,Part One,Unarmed,773641.392,,2930616.8419999997,2014
+164646,142007820.0,Thursday,No,2014-07-10T07:00:00.000,BENoProp,"[-71.053815, 42.376351]",Point,BENoProp,7,IVPER,0,A15,Last,No,3RD AV,Part One,Unarmed,776727.0554,,2962487.3310000002,2014
+256727,142008175.0,Thursday,No,2014-07-10T17:30:00.000,BENoProp,"[-71.055895, 42.357101]",Point,BENoProp,7,BE,0,A1,First,No,POST OFFICE SQ,Part One,Other,776201.5663,,2955469.313,2014

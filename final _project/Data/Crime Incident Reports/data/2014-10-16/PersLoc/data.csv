@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67994,142039818.0,Thursday,No,2014-10-16T08:30:00.000,PersLoc,"[-71.075415, 42.339336]",Point,PersLoc,10,IVPER,0,D4,Day,No,RUTLAND ST,Other,Unarmed,770957.8809,,2948968.547,2014
+137879,142039891.0,Thursday,No,2014-10-16T16:00:00.000,PersLoc,"[-71.09486, 42.346715]",Point,PersLoc,10,NIDV,0,D4,First,No,IPSWICH ST,Other,Unarmed,765687.8183,,2951631.78,2014
+148863,142039977.0,Thursday,No,2014-10-16T11:10:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,10,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2014
+159431,142039513.0,Thursday,No,2014-10-16T01:45:00.000,PersLoc,"[-71.07227, 42.332601]",Point,PersLoc,10,MISSIN,0,C6,Last,No,MASSACHUSETTS AV,Other,Unarmed,771820.4655,MELNEA CASS BL,2946518.441,2014

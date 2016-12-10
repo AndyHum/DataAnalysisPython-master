@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27930,152007776.0,Monday,No,2015-01-26T20:00:00.000,PersLoc,"[-71.06749, 42.306571]",Point,PersLoc,1,IVPER,0,C11,First,No,HAMILTON ST,Other,Unarmed,773161.0159,,2937039.2,2015
+60263,152007483.0,Monday,No,2015-01-26T08:30:00.000,PersLoc,"[-71.069825, 42.311171]",Point,PersLoc,1,IVPER,0,C11,Day,No,QUINCY ST,Other,Unarmed,772520.9477,,2938712.317,2015
+103142,152007175.0,Monday,No,2015-01-26T20:10:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISSIN,0,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+228867,152007321.0,Monday,No,2015-01-26T10:00:00.000,PersLoc,"[-71.06749, 42.306571]",Point,PersLoc,1,IVPER,0,C11,Day,No,HAMILTON ST,Other,Unarmed,773161.0159,,2937039.2,2015
+266557,152007192.0,Monday,No,2015-01-26T08:07:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,B3,Day,No,NORFOLK ST,Other,Unarmed,,,,2015

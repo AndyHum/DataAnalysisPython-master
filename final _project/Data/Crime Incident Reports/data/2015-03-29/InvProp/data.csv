@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14573,152025686.0,Sunday,No,2015-03-29T03:30:00.000,InvProp,"[-71.06435, 42.352341]",Point,InvProp,3,BE,0,A1,Last,No,BOYLSTON ST,Part three,Other,773925.1896,,2953722.893,2015
+23323,152025687.0,Sunday,No,2015-03-29T23:56:00.000,InvProp,"[-71.06435, 42.352341]",Point,InvProp,3,BE,0,A1,Last,No,BOYLSTON ST,Part three,Other,773925.1896,,2953722.893,2015
+32537,152025645.0,Sunday,No,2015-03-29T20:10:00.000,InvProp,"[-71.083648, 42.296992]",Point,InvProp,3,BE,0,B3,First,No,ESMOND ST,Part three,Unarmed,768807.2851,,2933526.475,2015
+58746,152025554.0,Sunday,No,2015-03-29T16:00:00.000,InvProp,"[-71.054495, 42.321335]",Point,InvProp,3,CD9,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,776647.8177,,2942437.512,2015
+97354,152025403.0,Sunday,No,2015-03-29T01:30:00.000,InvProp,"[-71.08563, 42.345251]",Point,InvProp,3,DISTRB,0,D4,Last,No,CLEARWAY ST,Part three,Unarmed,768185.6985,,2951110.503,2015
+118245,152025437.0,Sunday,No,2015-03-29T07:30:00.000,InvProp,"[-71.08483, 42.346381]",Point,InvProp,3,CD9,0,D4,Day,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2015
+148646,152025555.0,Sunday,No,2015-03-29T16:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,3,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+157870,152025553.0,Sunday,No,2015-03-29T14:58:00.000,InvProp,"[-71.065065, 42.293798]",Point,InvProp,3,SSA,0,C11,Day,No,NIXON ST,Part three,Firearm,773840.5904,DAYTON ST,2932387.8010000004,2015
+245405,152025431.0,Sunday,No,2015-03-29T06:13:00.000,InvProp,"[-71.0835, 42.325271]",Point,InvProp,3,SSA,0,B2,Last,No,HANSFORD ST,Part three,Firearm,768797.0611,,2943832.2339999997,2015
+267039,152025531.0,Sunday,No,2015-03-29T14:40:00.000,InvProp,"[0, 0]",Point,InvProp,3,ALARM,0,E13,Day,No,ALLANDALE ST,Part three,Unarmed,,,,2015

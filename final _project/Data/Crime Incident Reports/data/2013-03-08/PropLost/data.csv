@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17188,130288303.0,Friday,No,2013-03-08T16:00:00.000,PropLost,"[-71.060585, 42.298841]",Point,PropLost,3,LSTPRP,351,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775043.317,,2934231.818,2013
+98624,140092096.0,Friday,No,2013-03-08T00:00:00.000,PropLost,"[-71.15389, 42.349106]",Point,PropLost,3,LSTPRP,771,D14,Last,No,WASHINGTON ST,Part three,Unarmed,749727.0149,,2952433.08,2013
+139609,130140757.0,Friday,No,2013-03-08T23:30:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,3,LSTPRP,144,D4,First,No,DALTON ST,Part Three,Unarmed,768399.9598,,2951523.3460000004,2013
+153891,140013177.0,Friday,No,2013-03-08T11:00:00.000,PropLost,"[-71.14757, 42.280111]",Point,PropLost,3,LSTPRP,701,E5,Day,No,PARK ST,Part three,Unarmed,751539.3121,,2927297.083,2013

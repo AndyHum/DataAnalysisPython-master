@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8412,140014155.0,Wednesday,No,2014-01-08T07:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,1,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+88480,140019299.0,Wednesday,No,2014-01-08T21:30:00.000,Service,"[-71.08273, 42.309391]",Point,Service,1,ROBRPT,134,B2,First,No,BLUE HILL AV,Part three,Firearm,769033.5933,WARREN AV,2938046.317,2014
+160662,140015747.0,Wednesday,No,2014-01-08T20:52:00.000,Service,"[-71.073581, 42.275735]",Point,Service,1,INVEST,413,B3,First,No,MORTON ST,Part three,Unarmed,771569.3813,,2925793.8239999996,2014
+193943,140014259.0,Wednesday,No,2014-01-08T08:33:00.000,Service,"[-71.0408, 42.349611]",Point,Service,1,MVPED1,207,C6,Day,No,NORTHERN AV,Part three,Unarmed,780296.167,SEAPORT LN,2952761.422,2014
+252187,140018908.0,Wednesday,No,2014-01-08T12:30:00.000,Service,"[-71.059415, 42.359251]",Point,Service,1,IVPER ,92,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014

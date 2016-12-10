@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119718,,Monday,No,2015-07-13T00:00:00.000,Disorderly Conduct,"[-71.085634, 42.328663]",Point,24xx,7,IVPER,320,B2,,No,MAPLE ST,Part Two,None,768214.0,,2950000.0,2015
+135839,,Monday,No,2015-07-13T00:00:00.000,Disorderly Conduct,"[-71.061655, 42.364238]",Point,24xx,7,ADMRPT,75,A1,,No,PORTLAND ST,Part Two,None,774631.0,,2960000.0,2015
+158322,,Monday,No,2015-07-13T00:00:00.000,Disorderly Conduct,"[-71.158782, 42.349669]",Point,24xx,7,DISTRB,761,D14,,No,MALBERT RD,Part Two,None,748404.0,,2950000.0,2015

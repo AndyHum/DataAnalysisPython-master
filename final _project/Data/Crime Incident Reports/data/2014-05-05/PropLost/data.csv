@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19099,140275285.0,Monday,No,2014-05-05T14:15:00.000,PropLost,"[-71.083073, 42.298936]",Point,PropLost,5,LSTPRP,457,B3,Day,No,MCLELLAN ST,Part three,Unarmed,768959.4072,,2934235.755,2014
+53061,140284089.0,Monday,No,2014-05-05T04:30:00.000,PropLost,"[-71.099385, 42.342666]",Point,PropLost,5,LSTPRP,626,D4,Last,No,KILMARNOCK ST,Part three,Unarmed,764471.6869,,2950150.713,2014
+80362,140303093.0,Monday,No,2014-05-05T23:00:00.000,PropLost,"[-71.098335, 42.347376]",Point,PropLost,5,LSTPRP,624,D4,First,No,BROOKLINE AV,Part three,Unarmed,764747.4655,,2951868.462,2014
+215659,140277098.0,Monday,No,2014-05-05T21:00:00.000,PropLost,"[-71.06803, 42.272181]",Point,PropLost,5,LSTPRP,351,C11,First,No,ADAMS ST,Part three,Unarmed,773078.4134,DORCHESTER AV,2924506.2569999998,2014
+218573,140278704.0,Monday,No,2014-05-05T20:00:00.000,PropLost,"[-71.089445, 42.290051]",Point,PropLost,5,LSTPRP,439,B3,First,No,BLUE HILL AV,Part three,Unarmed,767251.1994,,2930989.709,2014
+241558,140275984.0,Monday,No,2014-05-05T16:00:00.000,PropLost,"[-71.128365, 42.272721]",Point,PropLost,5,LSTPRP,553,E18,First,No,BEECH ST,Part three,Unarmed,756748.1531,,2924626.1180000002,2014
+249206,140275231.0,Monday,No,2014-05-05T10:30:00.000,PropLost,"[-71.07188, 42.348846]",Point,PropLost,5,LARCRT,128,D4,Day,No,BERKELEY ST,Part three,Unarmed,771896.2029,,2952438.943,2014

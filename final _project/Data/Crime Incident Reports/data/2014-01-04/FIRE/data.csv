@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63687,140007461.0,Saturday,No,2014-01-04T23:25:00.000,FIRE,"[-71.07286, 42.345881]",Point,FIRE,1,FIREB ,150,D4,First,No,CLARENDON ST,Part three,Other,771636.7024,,2951357.1139999996,2014
+64894,140007068.0,Saturday,No,2014-01-04T18:45:00.000,FIRE,"[-71.121858, 42.287497]",Point,FIRE,1,FIREB ,562,E5,First,No,FLORENCE ST,Part three,Unarmed,758485.3225,,2930018.325,2014
+97082,140006414.0,Saturday,No,2014-01-04T12:12:00.000,FIRE,"[-71.061185, 42.351706]",Point,FIRE,1,FIREB ,116,A1,Day,No,HARRISON AV,Part three,Unarmed,774781.8874,,2953495.873,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36767,152034419.0,Monday,No,2015-04-27T21:40:00.000,32GUN,"[-71.11888, 42.309841]",Point,32GUN,4,FDWEAP,0,E13,First,No,ALDWORTH ST,Part three,Firearm,759254.7685,,2938164.542,2015
+107575,152034166.0,Monday,No,2015-04-27T09:57:00.000,32GUN,"[-71.06688, 42.310996]",Point,32GUN,4,FDWEAP,0,C11,Day,No,RONAN ST,Part three,Firearm,773317.8316,,2938652.5760000004,2015
+139351,152034328.0,Monday,No,2015-04-27T17:39:00.000,32GUN,"[-71.079641, 42.319008]",Point,32GUN,4,PERGUN,0,B2,First,No,WOODBINE ST,Part three,Firearm,769851.8126,,2941554.837,2015

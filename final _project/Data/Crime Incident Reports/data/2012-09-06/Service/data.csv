@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17780,120556802.0,Thursday,No,2012-09-06T10:44:00.000,Service,"[-71.027685, 42.337446]",Point,Service,9,CD11  ,224,C6,Day,No,E 2ND ST,Part Three,Unarmed,783865.8809999999,,2948347.644,2012
+26553,120557813.0,Thursday,No,2012-09-06T18:59:00.000,Service,"[-71.081035, 42.277937]",Point,Service,9,CD11  ,943,B3,First,No,WOODBOLE AV,Part Three,Unarmed,769548.3509,,2926586.133,2012
+112985,120556513.0,Thursday,No,2012-09-06T08:30:00.000,Service,"[-71.02795, 42.379182]",Point,Service,9,ARREST,17,A7,Day,No,CHELSEA ST,Part Three,Unarmed,783709.9240000001,,2963556.575,2012
+118915,120556715.0,Thursday,No,2012-09-06T10:06:00.000,Service,"[-71.069145, 42.376221]",Point,Service,9,ARREST,0,A15,Day,No,NEW RUTHERFORD AV,Part Three,Unarmed,772585.1309,,2962418.66,2012
+147307,120556754.0,Thursday,No,2012-09-06T10:21:00.000,Service,"[-71.057074, 42.379799]",Point,Service,9,INJAML,37,A15,Day,No,OLD IRONSIDES WY,Part Three,Other,775839.8787,,2963739.04,2012
+149649,120556911.0,Thursday,No,2012-09-06T11:50:00.000,Service,"[-71.13387, 42.279356]",Point,Service,9,REQPF ,552,E5,Day,No,WELLSMERE RD,Part Three,Other,755247.8799,,2927037.564,2012
+188399,120558391.0,Thursday,No,2012-09-06T22:33:00.000,Service,"[-71.06904, 42.346661]",Point,Service,9,ARREST,150,D4,First,No,APPLETON ST,Part Three,Unarmed,772667.9282,TREMONT ST,2951646.5539999995,2012
+255156,140046614.0,Thursday,No,2012-09-06T20:00:00.000,Service,"[-71.09611, 42.326941]",Point,Service,9,IVPER ,301,B2,First,No,CENTRE ST,Part three,Unarmed,765383.9559999999,,2944424.131,2012

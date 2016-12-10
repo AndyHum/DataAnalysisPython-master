@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3255,152028203.0,Tuesday,No,2015-04-07T13:01:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVPER,0,C11,Day,No,ADAMS ST,Part three,Unarmed,,,,2015
+13475,152028210.0,Tuesday,No,2015-04-07T13:34:00.000,InvPer,"[-71.112127, 42.322376]",Point,InvPer,4,LARCEN,0,E13,Day,No,S HUNTINGTON AV,Part three,Unarmed,761060.5415,,2942740.787,2015
+40706,152029032.0,Tuesday,No,2015-04-07T16:20:00.000,InvPer,"[-71.12088, 42.351821]",Point,InvPer,4,IVPER,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2015
+87557,152028151.0,Tuesday,No,2015-04-07T11:00:00.000,InvPer,"[-71.10086, 42.333631]",Point,InvPer,4,IVPER,0,B2,Day,No,ST ALPHONSUS ST,Part three,Unarmed,764088.3346,,2946856.3230000003,2015
+92303,152028097.0,Tuesday,No,2015-04-07T05:00:00.000,InvPer,"[-71.085628, 42.34206]",Point,InvPer,4,BE,0,D4,Last,No,HUNTINGTON AV,Part three,Other,768191.7788,,2949947.602,2015
+149266,152028204.0,Tuesday,No,2015-04-07T14:30:00.000,InvPer,"[-71.083504, 42.285373]",Point,InvPer,4,IVPREM,0,B3,Day,No,JACOB ST,Part three,Unarmed,768866.8293,,2929292.5,2015
+178474,152028251.0,Tuesday,No,2015-04-07T03:50:00.000,InvPer,"[-71.063757, 42.354358]",Point,InvPer,4,IVPER,0,A1,Last,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2015
+203827,152028143.0,Tuesday,No,2015-04-07T10:30:00.000,InvPer,"[-71.093283, 42.316332]",Point,InvPer,4,IVPER,0,B2,Day,No,WALNUT AV,Part three,Unarmed,766167.0440000001,,2940561.7989999996,2015
+228098,152028230.0,Tuesday,No,2015-04-07T14:57:00.000,InvPer,"[-71.090215, 42.312236]",Point,InvPer,4,DISTRB,0,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,767004.0204,,2939073.265,2015

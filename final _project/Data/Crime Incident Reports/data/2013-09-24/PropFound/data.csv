@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67468,130609620.0,Tuesday,No,2013-09-24T12:30:00.000,PropFound,"[-71.090389, 42.331096]",Point,PropFound,9,FDPROP,290,B2,Day,No,MALCOLM X BL,Part three,Unarmed,766923.848,,2945945.7830000003,2013
+145033,130610552.0,Tuesday,No,2013-09-24T19:48:00.000,PropFound,"[-71.05775, 42.329641]",Point,PropFound,9,FDPROP,174,C6,First,No,SOUTHAMPTON ST,Part three,Unarmed,775752.0777,,2945459.789,2013
+167085,130609223.0,Tuesday,No,2013-09-24T10:39:00.000,PropFound,"[-71.05891, 42.355721]",Point,PropFound,9,FDPROP,105,A1,Day,No,FRANKLIN ST,Part three,Unarmed,775389.2657,HAWLEY ST,2954962.186,2013
+246113,130610815.0,Tuesday,No,2013-09-24T21:00:00.000,PropFound,"[-71.059415, 42.359251]",Point,PropFound,9,FDPROP,65,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,775246.1256,,2956247.881,2013

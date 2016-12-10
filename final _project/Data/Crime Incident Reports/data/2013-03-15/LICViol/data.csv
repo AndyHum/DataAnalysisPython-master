@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6013,130152741.0,Friday,No,2013-03-15T02:00:00.000,LICViol,"[-71.053965, 42.359656]",Point,LICViol,3,IVPER ,94,A1,Last,No,CHATHAM ST,Part Three,Unarmed,776718.3415,,2956403.126,2013
+39333,130153602.0,Friday,No,2013-03-15T13:10:00.000,LICViol,"[-71.0695, 42.342746]",Point,LICViol,3,CD35  ,160,D4,Day,No,SHAWMUT AV,Part Three,Unarmed,772550.7783,,2950219.229,2013
+133756,130153567.0,Friday,No,2013-03-15T12:50:00.000,LICViol,"[-71.070239, 42.341015]",Point,LICViol,3,CD35  ,166,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,772354.1409,,2949587.2860000003,2013
+157254,130153340.0,Friday,No,2013-03-15T11:00:00.000,LICViol,"[-71.065125, 42.339441]",Point,LICViol,3,CD35  ,167,D4,Day,No,ALBANY ST,Part Three,Unarmed,773739.6723,,2949020.827,2013

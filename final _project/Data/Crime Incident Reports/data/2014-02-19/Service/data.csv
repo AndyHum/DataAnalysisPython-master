@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7937,140103772.0,Wednesday,No,2014-02-19T10:10:00.000,Service,"[-71.03981, 42.376191]",Point,Service,2,ARREST,27,A7,Day,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2014
+39587,140104206.0,Wednesday,No,2014-02-19T13:30:00.000,Service,"[-71.070835, 42.331511]",Point,Service,2,IVPER ,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2014
+74089,140103316.0,Wednesday,No,2014-02-19T02:00:00.000,Service,"[-71.076635, 42.295411]",Point,Service,2,ARREST,447,B3,Last,No,SPENCER ST,Part three,Unarmed,770707.4946,,2932959.915,2014
+125944,140104994.0,Wednesday,No,2014-02-19T19:14:00.000,Service,"[-71.069362, 42.37829]",Point,Service,2,CD9   ,53,A15,First,No,TIBBETTS TOWN WY,Part three,Unarmed,772522.6176,,2963172.204,2014
+153052,140103747.0,Wednesday,No,2014-02-19T10:15:00.000,Service,"[-71.087961, 42.27987]",Point,Service,2,CD11  ,428,B3,Day,No,ELIZABETH ST,Part three,Unarmed,767670.6037,,2927281.328,2014
+234268,140104261.0,Wednesday,No,2014-02-19T13:37:00.000,Service,"[-71.059987, 42.361648]",Point,Service,2,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+237276,140103156.0,Wednesday,No,2014-02-19T23:57:00.000,Service,"[-71.063478, 42.349957]",Point,Service,2,IVPER ,123,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774165.0979,,2952855.298,2014

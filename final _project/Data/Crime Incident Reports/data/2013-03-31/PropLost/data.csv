@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31309,130189453.0,Sunday,No,2013-03-31T08:00:00.000,PropLost,"[-71.07773, 42.348001]",Point,PropLost,3,LSTPRP,130,D4,Day,No,COPLEY PLACE,Part Three,Unarmed,770316.3684,,2952123.127,2013
+68898,130191185.0,Sunday,No,2013-03-31T13:30:00.000,PropLost,"[-71.03545, 42.369521]",Point,PropLost,3,LSTPRP,30,A7,Day,No,FRANKFORT ST,Part Three,Unarmed,781702.8289,,2960024.834,2013
+140635,130189424.0,Sunday,No,2013-03-31T14:34:00.000,PropLost,"[-71.077748, 42.348631]",Point,PropLost,3,LSTPRP,130,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,770310.163,,2952352.43,2013
+187902,130197161.0,Sunday,No,2013-03-31T13:00:00.000,PropLost,"[-71.105615, 42.288361]",Point,PropLost,3,LSTPRP,503,E13,Day,No,AMERICAN LEGION HY,Part Three,Unarmed,762878.9404,,2930353.205,2013
+215268,130188245.0,Sunday,No,2013-03-31T02:05:00.000,PropLost,"[-71.05853, 42.350901]",Point,PropLost,3,LSTPRP,115,A1,Last,No,LINCOLN ST,Part Three,Unarmed,775501.0657,BEACH ST,2953206.2189999996,2013
+246284,130193018.0,Sunday,No,2013-03-31T03:35:00.000,PropLost,"[-71.095405, 42.348786]",Point,PropLost,3,LSTPRP,623,D4,Last,No,COMMONWEALTH AV,Part Three,Unarmed,765537.0788,,2952386.037,2013
+246699,130232750.0,Sunday,No,2013-03-31T16:00:00.000,PropLost,"[-71.0947, 42.334151]",Point,PropLost,3,LARCRT,911,B2,First,No,PRENTISS ST,Part Three,Unarmed,765752.9957,,2947053.6739999996,2013
+264623,130189092.0,Sunday,No,2013-03-31T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,72,A1,Day,No,HANOVER ST,Part Three,Unarmed,,,,2013

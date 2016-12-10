@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37797,152021731.0,Sunday,No,2015-03-15T08:00:00.000,TRESPASS,"[-71.069555, 42.272641]",Point,TRESPASS,3,IVPER,0,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,772664.8342,,2924671.8,2015
+153198,152021008.0,Sunday,No,2015-03-15T18:35:00.000,TRESPASS,"[-71.06602, 42.302669]",Point,TRESPASS,3,DISTRB,0,C11,First,No,LONGFELLOW ST,Part Two,Other,773565.7701,,2935619.0,2015
+266253,152020832.0,Sunday,No,2015-03-15T04:38:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,3,IVPREM,0,C11,Last,No,MOON ISLAND,Part Two,Unarmed,,,,2015

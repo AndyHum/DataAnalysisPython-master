@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+187258,152022643.0,Saturday,No,2015-03-21T01:10:00.000,WEAPONS CHARGE,"[-71.078334, 42.288074]",Point,15xx,3,IVMV,0,B3,Last,No,WOODROW AV,Part Two,Firearm,770260.9092,NEW ENGLAND AV,2930283.937,2015
+266725,152022809.0,Saturday,No,2015-03-21T18:35:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,3,ARREST,0,B3,First,No,JOHNSON ST,Part Two,Firearm,,,,2015

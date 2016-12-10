@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12814,140046987.0,Thursday,No,2014-01-23T22:16:00.000,FORGERY,"[-71.07376, 42.282643]",Point,10xx,1,LARCRT,355,C11,First,No,STOCKTON ST,Part Two,Unarmed,771508.3897,,2928310.909,2014
+152338,140194452.0,Thursday,No,2014-01-23T11:32:00.000,FORGERY,"[-71.049005, 42.285166]",Point,10xx,1,LARCRT,380,C11,Day,No,MINOT ST,Part Two,Unarmed,778202.4153,,2929264.809,2014
+207536,140055613.0,Thursday,No,2014-01-23T14:58:00.000,FORGERY,"[-71.086949, 42.341247]",Point,10xx,1,LARCRT,618,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,767835.9698,,2949649.585,2014

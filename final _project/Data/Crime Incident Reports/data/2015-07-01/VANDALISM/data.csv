@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10688,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[-71.122873, 42.280386]",Point,14xx,7,DISTRB,556,E5,,No,SEYMOUR ST,Part Two,None,758222.0,,2930000.0,2015
+37670,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[-71.076927, 42.296605]",Point,14xx,7,VAND,447,B3,,No,ATHELWOLD ST,Part Two,None,770626.0,,2930000.0,2015
+73711,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[-71.071946, 42.299375]",Point,14xx,7,VAND,357,C11,,No,GREENBRIER ST,Part Two,None,771969.0,,2930000.0,2015
+90319,,Wednesday,No,2015-07-01T06:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,563,E5,,No,STELLMAN RD,Part Two,None,,,,2015
+95426,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,ARREST,254,C11,,No,DORCHESTER AVE,Part Two,None,, FREEPORT ST ,,2015
+153203,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[-71.129546, 42.287189]",Point,14xx,7,PROP,562,E5,,No,SOUTH ST,Part Two,None,756406.0,,2930000.0,2015
+194417,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[-71.063213, 42.302486]",Point,14xx,7,BE,345,C11,,No,ROBINSON ST,Part Two,None,774325.0,,2940000.0,2015
+197499,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[-71.093615, 42.269099]",Point,14xx,7,VAND,426,B3,,No,BLUE HILL AVE,Part Two,None,766159.0,,2920000.0,2015
+218540,,Wednesday,No,2015-07-01T16:20:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,199,C6,,No,A ST,Part Two,None,,W FOURTH ST,,2015
+234539,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[-71.070679, 42.320661]",Point,14xx,7,PROP,183,B2,,No,LEYLAND ST,Part Two,None,772273.0,,2940000.0,2015
+239273,,Wednesday,No,2015-07-01T00:00:00.000,Vandalism,"[-71.063917, 42.281453]",Point,14xx,7,DVIP,395,C11,,No,MAGDALA ST,Part Two,None,774174.0,,2930000.0,2015

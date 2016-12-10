@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1109,152019273.0,Tuesday,No,2015-03-10T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+38252,152019404.0,Tuesday,No,2015-03-10T18:00:00.000,InvProp,"[-71.057141, 42.361472]",Point,InvProp,3,SUSOBJ,0,A1,First,No,UNION ST,Part three,Unarmed,775856.5178,,2957060.42,2015
+44702,152019410.0,Tuesday,No,2015-03-10T15:17:00.000,InvProp,"[-71.05984, 42.356501]",Point,InvProp,3,LARCEN,0,A1,Day,No,BROMFIELD ST,Part three,Unarmed,775136.4313,,2955245.135,2015
+174259,152020061.0,Tuesday,No,2015-03-10T17:00:00.000,InvProp,"[-71.035565, 42.379601]",Point,InvProp,3,BE,0,A7,First,No,BROOKS ST,Part three,Other,781651.7529,,2963698.019,2015
+196151,152019430.0,Tuesday,No,2015-03-10T19:00:00.000,InvProp,"[-71.087705, 42.340771]",Point,InvProp,3,DISTRB,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767632.6471,,2949475.187,2015
+198779,152019177.0,Tuesday,No,2015-03-10T00:58:00.000,InvProp,"[-71.066655, 42.309451]",Point,InvProp,3,SSA,0,C11,Last,No,QUINCY ST,Part three,Other,773381.55,,2938089.863,2015
+213324,152048669.0,Tuesday,No,2015-03-10T12:00:00.000,InvProp,"[-71.071995, 42.315121]",Point,InvProp,3,PROP,0,B2,Day,No,MAGNOLIA SQ,Part three,Unarmed,771926.7865,,2940148.808,2015
+235350,152019319.0,Tuesday,No,2015-03-10T15:00:00.000,InvProp,"[-71.08174, 42.294146]",Point,InvProp,3,SSA,0,B3,Day,No,BROWNING AV,Part three,Unarmed,769328.6148,,2932492.12,2015
+256198,152019396.0,Tuesday,No,2015-03-10T17:46:00.000,InvProp,"[0, 0]",Point,InvProp,3,SSA,0,C11,First,No,WASHINGTON ST,Part three,Firearm,,,,2015
+261424,152019378.0,Tuesday,No,2015-03-10T17:16:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD7,0,B2,First,No,SEAVER ST,Part three,Unarmed,,,,2015

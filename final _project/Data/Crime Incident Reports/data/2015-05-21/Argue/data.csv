@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30668,152041588.0,Thursday,No,2015-05-21T02:00:00.000,Argue,"[-71.05205, 42.364281]",Point,Argue,5,UNK,0,A1,Last,No,FLEET ST,Part three,Unarmed,777227.0596,,2958091.2789999996,2015
+116522,152041707.0,Thursday,No,2015-05-21T14:10:00.000,Argue,"[-71.10191, 42.320921]",Point,Argue,5,FIGHT,0,E13,Day,No,LAMARTINE ST,Part three,Unarmed,763826.0490000001,,2942223.247,2015
+153838,152041803.0,Thursday,No,2015-05-21T16:55:00.000,Argue,"[-71.089368, 42.31021]",Point,Argue,5,IVPER,0,B2,First,No,HUTCHINGS ST,Part three,Unarmed,767236.6728,,2938335.832,2015

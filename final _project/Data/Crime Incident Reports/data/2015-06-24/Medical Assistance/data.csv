@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75818,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.0029, 42.387808]",Point,MedAssist,6,POISON,7,A7,,No,BENNINGTON ST,Part Three,None,790460.0,,2970000.0,2015
+80246,,Wednesday,No,2015-06-24T20:22:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,INVEST,205,C6,,No,A ST,Part Three,None,,MELCHER ST,,2015
+82248,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.08359, 42.270768]",Point,MedAssist,6,IVPER,406,B3,,No,LEDGEBROOK RD,Part Three,None,768869.0,,2920000.0,2015
+105879,,Wednesday,No,2015-06-24T02:17:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,IVPER,0,,,No,,Part Three,None,,,,2015
+107476,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.069251, 42.281071]",Point,MedAssist,6,EDP,403,C11,,No,CROFTLAND AVE,Part Three,None,772732.0,,2930000.0,2015
+117477,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.069032, 42.318706]",Point,MedAssist,6,POISON,184,B2,,No,DUDLEY ST,Part Three,None,772721.0,,2940000.0,2015
+130280,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.063325, 42.297866]",Point,MedAssist,6,REQEP,358,C11,,No,PARK ST,Part Three,None,774304.0,,2930000.0,2015
+146531,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.115249, 42.306752]",Point,MedAssist,6,UNCONS,648,E13,,No,SOUTH ST,Part Three,None,760242.0,,2940000.0,2015
+146612,,Wednesday,No,2015-06-24T19:26:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,,38,A15,,No,THIRTEENTH ST,Part Three,None,,,,2015
+163003,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.16381, 42.289366]",Point,MedAssist,6,EDP,739,E5,,No,DWINELL ST,Part Three,None,747131.0,,2930000.0,2015
+171033,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.055142, 42.301789]",Point,MedAssist,6,EDP,253,C11,,No,BEACH ST,Part Three,None,776510.0,,2940000.0,2015
+173507,,Wednesday,No,2015-06-24T07:55:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,INJOFF,435,B3,,No,DARLINGTON ST,Part Three,None,,NORFOLK ST,,2015
+210085,,Wednesday,No,2015-06-24T15:26:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,EDP,784,D14,,No,WARREN ST,Part Three,None,,,,2015
+241821,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.033322, 42.376624]",Point,MedAssist,6,TRAUMA,22,A7,,No,BROOKS ST,Part Three,None,782263.0,,2960000.0,2015
+256358,,Wednesday,No,2015-06-24T00:00:00.000,Medical Assistance,"[-71.053746, 42.356693]",Point,MedAssist,6,INVEST,100,A1,,No,FRANKLIN ST,Part Three,None,776783.0,,2960000.0,2015

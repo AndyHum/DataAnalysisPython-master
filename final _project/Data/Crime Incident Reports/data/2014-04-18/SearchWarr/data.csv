@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93142,140235578.0,Friday,No,2014-04-18T10:30:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,4,CD11  ,72,A1,Day,No,BULFINCH PL,Part three,Unarmed,774549.1083,,2957241.005,2014
+124126,140238414.0,Friday,No,2014-04-18T14:00:00.000,SearchWarr,"[-71.12395, 42.256421]",Point,SearchWarr,4,CD11  ,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+224085,140236474.0,Friday,No,2014-04-18T17:25:00.000,SearchWarr,"[-71.070143, 42.305937]",Point,SearchWarr,4,CD11  ,337,C11,First,No,RICHFIELD ST,Part three,Unarmed,772444.4153,,2936804.277,2014

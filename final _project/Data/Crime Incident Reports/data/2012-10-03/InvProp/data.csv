@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78058,120623281.0,Wednesday,No,2012-10-03T21:28:00.000,InvProp,"[-71.085298, 42.329524]",Point,InvProp,10,IVPREM,288,B2,First,No,ROXBURY ST,Part Three,Unarmed,768303.1628,,2945379.693,2012
+97513,120621204.0,Wednesday,No,2012-10-03T01:49:00.000,InvProp,"[-71.091807, 42.315029]",Point,InvProp,10,INVEST,316,B2,Last,No,CRAWFORD ST,Part Three,Firearm,766568.3992,,2940088.937,2012
+154363,120621780.0,Wednesday,No,2012-10-03T09:53:00.000,InvProp,"[-71.106325, 42.319675]",Point,InvProp,10,IVPER ,578,E13,Day,No,SHERIDAN ST,Part Three,Other,762633.995,,2941763.5560000003,2012
+160514,120623161.0,Wednesday,No,2012-10-03T18:00:00.000,InvProp,"[-71.118955, 42.273566]",Point,InvProp,10,IVPREM,498,E18,First,No,CLARE AV,Part Three,Unarmed,759293.5338,,2924945.284,2012
+166074,130013069.0,Wednesday,No,2012-10-03T00:00:00.000,InvProp,"[-71.081161, 42.301584]",Point,InvProp,10,PDRPT ,456,B3,Last,No,ELLINGTON ST,Part Three,Unarmed,769471.7612,,2935203.265,2012
+209026,120622496.0,Wednesday,No,2012-10-03T15:27:00.000,InvProp,"[-71.07571, 42.319916]",Point,InvProp,10,VIORDR,264,B2,Day,No,GAYLAND ST,Part Three,Unarmed,770913.3282,,2941891.165,2012
+235148,120621681.0,Wednesday,No,2012-10-03T09:06:00.000,InvProp,"[-71.124318, 42.275777]",Point,InvProp,10,BERPT ,555,E18,Day,No,MAYNARD ST,Part Three,Other,757838.3159,,2925744.287,2012
+240090,120621755.0,Wednesday,No,2012-10-03T09:35:00.000,InvProp,"[-71.13644, 42.360521]",Point,InvProp,10,IVPER ,807,D14,Day,No,EVERETT ST,Part Three,Unarmed,754426.327,,2956612.564,2012

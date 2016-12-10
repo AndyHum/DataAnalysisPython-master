@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20111,120423902.0,Tuesday,No,2012-07-10T11:30:00.000,Argue,"[-71.07915, 42.339311]",Point,Argue,7,DVIP  ,0,D4,Day,No,W SPRINGFIELD ST,Part Three,Unarmed,769948.1375,,2948954.433,2012
+89603,120424592.0,Tuesday,No,2012-07-10T16:01:00.000,Argue,"[-71.169573, 42.350238]",Point,Argue,7,HARPT ,755,D14,First,No,TREMONT ST,Part Three,Other,745485.8013,,2952828.732,2012
+249323,120423678.0,Tuesday,No,2012-07-10T09:45:00.000,Argue,"[-71.13654, 42.364311]",Point,Argue,7,IVPER ,807,D14,Day,No,SOLDIERS FIELD RD,Part Three,Unarmed,754393.4147,,2957993.605,2012

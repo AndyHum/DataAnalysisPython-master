@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26654,130293238.0,Thursday,No,2013-05-16T19:49:00.000,Service,"[-71.07928, 42.328551]",Point,Service,5,IVPREM,268,B2,First,No,DEARBORN ST,Other,Unarmed,769932.3318,DUDLEY ST,2945033.123,2013
+35632,130292302.0,Thursday,No,2013-05-16T14:35:00.000,Service,"[-71.078726, 42.311953]",Point,Service,5,SSTOP ,326,B2,Day,No,CRESTON ST,Part three,Unarmed,770112.0165,,2938984.9930000002,2013
+138531,130291465.0,Thursday,No,2013-05-16T09:00:00.000,Service,"[-71.08234, 42.331396]",Point,Service,5,SSTOP ,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769099.8164,,2946065.825,2013
+190020,130293132.0,Thursday,No,2013-05-16T21:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,5,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2013
+201845,130293099.0,Thursday,No,2013-05-16T20:30:00.000,Service,"[-71.039065, 42.369421]",Point,Service,5,IVPER ,29,A7,First,No,MAVERICK SQ,Part Three,Unarmed,780726.1501,,2959983.091,2013
+213465,130291730.0,Thursday,No,2013-05-16T10:52:00.000,Service,"[-71.053355, 42.324819]",Point,Service,5,INVEST,0,C6,Day,No,OCALLAGHAN WY,Part Three,Unarmed,776949.5422,,2943708.555,2013
+254143,130291448.0,Thursday,No,2013-05-16T08:00:00.000,Service,"[-71.12088, 42.351821]",Point,Service,5,AOD   ,797,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2013

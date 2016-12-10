@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47180,120723417.0,Saturday,No,2012-11-17T00:57:00.000,FIRE,"[-71.053445, 42.366451]",Point,FIRE,11,FIREB ,83,A1,Last,No,CHARTER ST,Part Three,Unarmed,776845.9190000001,,2958880.0930000003,2012
+170721,120724486.0,Saturday,No,2012-11-17T14:30:00.000,FIRE,"[-71.088865, 42.279666]",Point,FIRE,11,FIREB ,427,B3,Day,No,NORFOLK ST,Part Three,Unarmed,767426.3706,,2927206.023,2012
+195048,120724530.0,Saturday,No,2012-11-17T14:52:00.000,FIRE,"[-71.08785, 42.350376]",Point,FIRE,11,FIREB ,139,D4,Day,No,MARLBOROUGH ST,Part Three,Unarmed,767576.5314,,2952975.2430000002,2012

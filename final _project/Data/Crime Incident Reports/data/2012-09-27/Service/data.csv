@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14856,120608065.0,Thursday,No,2012-09-27T13:51:00.000,Service,"[-71.09458, 42.292971]",Point,Service,9,ARREST,566,B3,Day,No,AMERICAN LEGION HY,Part Three,Unarmed,765856.7694,KINGBIRD RD,2932047.155,2012
+192747,120609096.0,Thursday,No,2012-09-27T21:21:00.000,Service,"[-71.062575, 42.352726]",Point,Service,9,ARREST,111,A1,First,No,WASHINGTON ST,Part Three,Unarmed,774404.2569,,2953865.65,2012
+247073,120608963.0,Thursday,No,2012-09-27T20:09:00.000,Service,"[-71.091758, 42.315964]",Point,Service,9,VICDOG,314,B2,First,No,CRAWFORD ST,Part Three,Unarmed,766579.9461,,2940429.7260000003,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26714,130810301.0,Thursday,No,2013-12-26T02:10:00.000,InvProp,"[-71.142805, 42.242156]",Point,InvProp,12,BEIP  ,410,E18,Last,No,SANFORD ST,Part three,Unarmed,752886.6992,,2913471.127,2013
+170694,130810703.0,Thursday,No,2013-12-26T11:11:00.000,InvProp,"[-71.09949, 42.325881]",Point,InvProp,12,IVPER ,586,E13,Day,No,BROMLEY ST,Part three,Unarmed,764472.0215,HEATH ST,2944033.8210000005,2013
+224598,130810640.0,Thursday,No,2013-12-26T10:35:00.000,InvProp,"[-71.07632, 42.350356]",Point,InvProp,12,ALARMC,134,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2013

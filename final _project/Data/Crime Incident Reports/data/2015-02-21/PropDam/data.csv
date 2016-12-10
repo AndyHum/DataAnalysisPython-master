@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10366,152014671.0,Saturday,No,2015-02-21T12:00:00.000,PropDam,"[-71.071695, 42.345491]",Point,PropDam,2,INVEST,0,D4,Day,No,GRAY ST,Part three,Unarmed,771952.3501,,2951216.5710000005,2015
+42125,152014031.0,Saturday,No,2015-02-21T09:00:00.000,PropDam,"[-71.061545, 42.375841]",Point,PropDam,2,VAND,0,A15,Day,No,MONUMENT SQ,Part three,Unarmed,774639.3667,,2962290.644,2015
+61496,152016323.0,Saturday,No,2015-02-21T09:00:00.000,PropDam,"[-71.12864, 42.351584]",Point,PropDam,2,PROP,0,D14,Day,No,CHESTER ST,Part three,Other,756548.412,,2953364.769,2015

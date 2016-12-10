@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55650,142008296.0,Friday,No,2014-07-11T19:30:00.000,Service,"[-71.06047, 42.355401]",Point,Service,7,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774968.2164,WINTER ST,2954843.395,2014
+86694,142008327.0,Friday,No,2014-07-11T21:52:00.000,Service,"[-71.0626, 42.352361]",Point,Service,7,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+129298,142008187.0,Friday,No,2014-07-11T13:00:00.000,Service,"[-71.03903, 42.373311]",Point,Service,7,ARREST,0,A7,Day,No,LONDON CT,Part three,Unarmed,780727.9468,MERIDIAN ST,2961400.736,2014
+132001,142008244.0,Friday,No,2014-07-11T16:30:00.000,Service,"[-71.0626, 42.352361]",Point,Service,7,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+157677,142008143.0,Friday,No,2014-07-11T10:22:00.000,Service,"[-71.04211, 42.346281]",Point,Service,7,MVA,0,C6,Day,No,D ST,Part three,Other,779948.5704,SUMMER ST,2951546.0069999998,2014
+230604,142008251.0,Friday,No,2014-07-11T17:05:00.000,Service,"[-71.16269, 42.355051]",Point,Service,7,ARREST,0,D14,First,No,BROOKS ST,Other,Unarmed,747339.6503,,2954590.0319999997,2014
+239847,142008128.0,Friday,No,2014-07-11T09:00:00.000,Service,"[-71.080596, 42.327236]",Point,Service,7,ARREST,0,B2,Day,No,GREENVILLE ST,Part three,Unarmed,769578.6737,,2944551.923,2014
+262471,142008331.0,Friday,No,2014-07-11T20:30:00.000,Service,"[0, 0]",Point,Service,7,IVPER,0,B2,First,No,HANCOCK ST,Other,Unarmed,,,,2014

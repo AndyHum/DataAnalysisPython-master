@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1637,,Thursday,No,2015-07-23T00:00:00.000,Property Lost,"[-71.055856, 42.360051]",Point,PropLost,7,PROP,93,A1,,No,FANEUIL HALL MARKETPLACE,Part Three,None,776206.0,,2960000.0,2015
+11344,,Thursday,No,2015-07-23T00:00:00.000,Property Lost,"[-71.072764, 42.333112]",Point,PropLost,7,PROP,172,D4,,No,MASSACHUSETTS AVE,Part Three,None,771686.0,,2950000.0,2015
+137592,,Thursday,No,2015-07-23T23:44:00.000,Property Lost,"[0, 0]",Point,PropLost,7,IVPREM,613,B2,,No,BROOKLINE AVE,Part Three,None,,,,2015
+164788,,Thursday,No,2015-07-23T00:00:00.000,Property Lost,"[-71.129566, 42.237009]",Point,PropLost,7,PROP,186,C6,,No,ALLSTATE RD,Part Three,None,756479.0,,2910000.0,2015
+190838,,Thursday,No,2015-07-23T00:00:00.000,Property Lost,"[-71.076067, 42.347623]",Point,PropLost,7,ADMRPT,130,D4,,No,DARTMOUTH ST,Part Three,None,770766.0,,2950000.0,2015
+253028,,Thursday,No,2015-07-23T00:00:00.000,Property Lost,"[-71.093812, 42.346016]",Point,PropLost,7,PROP,624,D4,,No,BOYLSTON ST,Part Three,None,765972.0,,2950000.0,2015
+253151,,Thursday,No,2015-07-23T00:00:00.000,Property Lost,"[-71.048538, 42.296816]",Point,PropLost,7,PROP,370,C11,,No,WILLIAM T MORRISSEY BLVD,Part Three,None,778306.0,,2930000.0,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3681,152039790.0,Friday,No,2015-05-15T07:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD9,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+51131,152040542.0,Friday,No,2015-05-15T07:30:00.000,InvProp,"[-71.116535, 42.351281]",Point,InvProp,5,CD9,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,759821.162,BUICK ST,2953268.8789999997,2015
+141608,152039767.0,Friday,No,2015-05-15T11:12:00.000,InvProp,"[-71.15262, 42.281786]",Point,InvProp,5,BE,0,E5,Day,No,WREN ST,Part three,Other,750170.2342,,2927901.873,2015
+147922,152039955.0,Friday,No,2015-05-15T22:38:00.000,InvProp,"[-71.071303, 42.31078]",Point,InvProp,5,SSA,0,B2,First,No,COLUMBIA RD,Part three,Firearm,772121.7044,,2938567.833,2015
+183795,152040041.0,Friday,No,2015-05-15T13:45:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,5,SUSOBJ,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+240279,152040259.0,Friday,No,2015-05-15T11:47:00.000,InvProp,"[-71.065491, 42.305384]",Point,InvProp,5,IVMV,0,C11,Day,No,DRAPER ST,Part three,Firearm,773703.9466,,2936609.337,2015

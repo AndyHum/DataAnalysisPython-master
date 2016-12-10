@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58838,,Monday,No,2015-07-13T00:00:00.000,Commercial Burglary,"[-71.039799, 42.376203]",Point,05CB,7,ALARM,26,A7,,No,BORDER ST,Part One,None,780514.0,,2960000.0,2015
+125985,,Monday,No,2015-07-13T18:23:00.000,Commercial Burglary,"[0, 0]",Point,05CB,7,ALARM,519,E18,,No,EVERETT ST,Part One,None,,,,2015
+191291,,Monday,No,2015-07-13T10:00:00.000,Commercial Burglary,"[0, 0]",Point,05CB,7,BE,100,A1,,No,WATER ST,Part One,None,,,,2015
+218823,,Monday,No,2015-07-13T00:00:00.000,Commercial Burglary,"[-71.150233, 42.335381]",Point,05CB,7,BE,749,D14,,No,CHESTNUT HILL AVE,Part One,None,750736.0,,2950000.0,2015
+241795,,Monday,No,2015-07-13T00:00:00.000,Commercial Burglary,"[-71.047761, 42.2837]",Point,05CB,7,ALARM,380,C11,,No,GALLIVAN BLVD,Part One,None,778542.0,,2930000.0,2015

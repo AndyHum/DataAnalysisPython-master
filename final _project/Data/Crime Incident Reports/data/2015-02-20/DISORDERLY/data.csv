@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46864,152013832.0,Friday,No,2015-02-20T18:30:00.000,DISORDERLY,"[-71.091075, 42.285061]",Point,24xx,2,ARREST,0,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766818.8895,FRONTENAC ST,2929169.163,2015
+213869,152013609.0,Friday,No,2015-02-20T02:51:00.000,DISORDERLY,"[-71.0695, 42.356281]",Point,24xx,2,ARREST,0,A1,Last,No,CHARLES ST,Part Two,Other,772525.8840000001,,2955151.637,2015
+264798,152013896.0,Friday,No,2015-02-20T22:50:00.000,DISORDERLY,"[0, 0]",Point,24xx,2,IVPER,0,B2,First,No,WALNUT AV,Part Two,Other,,,,2015

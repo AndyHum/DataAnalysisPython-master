@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130996,120770380.0,Sunday,No,2012-12-09T01:25:00.000,Ballist,"[-71.06778, 42.304421]",Point,Ballist,12,SHOTS ,341,C11,Last,No,STONEHURST ST,Part Two,Firearm,773086.5394,,2936255.31,2012
+145748,120772159.0,Sunday,No,2012-12-09T22:48:00.000,Ballist,"[-71.07439, 42.324346]",Point,Ballist,12,SHOTS ,181,B2,First,No,DUDLEY ST,Part Two,Firearm,771262.2559999999,,2943507.309,2012
+228474,120770635.0,Sunday,No,2012-12-09T04:27:00.000,Ballist,"[-71.077284, 42.328513]",Point,Ballist,12,SHOTS ,904,B2,Last,No,EUSTIS ST,Part Two,Firearm,770472.0958,,2945021.704,2012

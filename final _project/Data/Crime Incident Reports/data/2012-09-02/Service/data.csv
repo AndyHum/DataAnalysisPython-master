@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52246,120548023.0,Sunday,No,2012-09-02T09:43:00.000,Service,"[-71.07195, 42.331281]",Point,Service,9,ARREST,178,B2,Day,No,GERARD ST,Part Three,Unarmed,771909.4036,ISLAND ST,2946037.8439999996,2012
+174983,120548299.0,Sunday,No,2012-09-02T13:00:00.000,Service,"[-71.059735, 42.297541]",Point,Service,9,FDPROP,355,C11,Day,No,GIBSON ST,Part Three,Other,775275.7115,,2933759.268,2012
+181142,120548221.0,Sunday,No,2012-09-02T12:19:00.000,Service,"[-71.061185, 42.351706]",Point,Service,9,ARREST,117,A1,Day,No,HARRISON AV,Part Three,Unarmed,774781.8874,,2953495.873,2012

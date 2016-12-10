@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15820,120807711.0,Wednesday,No,2012-12-26T20:00:00.000,PersLoc,"[-71.06853, 42.295871]",Point,PersLoc,12,NIDV  ,359,C11,First,No,ALPHA RD,Part Three,Unarmed,772899.4194,,2933138.537,2012
+141430,120815095.0,Wednesday,No,2012-12-26T00:00:00.000,PersLoc,"[-71.088194, 42.307145]",Point,PersLoc,12,MISPER,319,B2,Last,No,SEAVER ST,Part Three,Unarmed,767559.3509999999,,2937220.7060000002,2012
+172703,120809811.0,Wednesday,No,2012-12-26T16:00:00.000,PersLoc,"[-71.066815, 42.344741]",Point,PersLoc,12,MISPER,162,D4,First,No,SHAWMUT AV,Part Three,Unarmed,773272.9586,,2950949.918,2012

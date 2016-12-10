@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37113,130430879.0,Friday,No,2013-07-12T11:30:00.000,PropFound,"[-71.12532, 42.251951]",Point,PropFound,7,LARCRT,522,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757605.5093,,2917060.857,2013
+49785,130430333.0,Friday,No,2013-07-12T12:45:00.000,PropFound,"[-71.119565, 42.294446]",Point,PropFound,7,LARCRT,564,E5,Day,No,WASHINGTON ST,Part three,Unarmed,759094.5063,,2932553.528,2013
+61477,130429411.0,Friday,No,2013-07-12T04:30:00.000,PropFound,"[-71.05314, 42.359096]",Point,PropFound,7,FDPROP,101,A1,Last,No,MCKINLEY SQ,Part three,Unarmed,776942.3844,,2956200.2189999996,2013
+110592,130432156.0,Friday,No,2013-07-12T22:00:00.000,PropFound,"[-71.056134, 42.368284]",Point,PropFound,7,FDPROP,81,A1,First,No,COMMERCIAL ST,Part three,Unarmed,776115.6885,,2959544.232,2013
+135286,130430342.0,Friday,No,2013-07-12T14:12:00.000,PropFound,"[-71.065835, 42.317351]",Point,PropFound,7,FDPROP,258,B2,Day,No,DUDLEY ST,Part three,Unarmed,773588.6939,,2940969.876,2013
+160864,130431278.0,Friday,No,2013-07-12T21:00:00.000,PropFound,"[-71.13143, 42.351131]",Point,PropFound,7,FDPROP,0,D14,First,No,GLENVILLE AV,Part three,Unarmed,755795.16,HARVARD AV,2953196.465,2013
+251759,130431079.0,Friday,No,2013-07-12T19:40:00.000,PropFound,"[-71.09404, 42.325431]",Point,PropFound,7,STOLEN,301,B2,First,No,FORT AV,Part three,Unarmed,765946.5706,FORT AV TR,2943876.7989999996,2013

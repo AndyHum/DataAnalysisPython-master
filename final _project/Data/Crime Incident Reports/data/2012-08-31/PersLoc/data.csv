@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29443,120544989.0,Friday,No,2012-08-31T09:30:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,8,MISPER,256,C6,Day,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012
+32996,120546743.0,Friday,No,2012-08-31T22:30:00.000,PersLoc,"[-71.05539, 42.338296]",Point,PersLoc,8,INVEST,936,C6,First,No,ORTON MAROTTA WY,Part Three,Unarmed,776373.7815,,2948617.1380000003,2012
+115669,120544984.0,Friday,No,2012-08-31T09:30:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,8,MISPER,281,B2,Day,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2012

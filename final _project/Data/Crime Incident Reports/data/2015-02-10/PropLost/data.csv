@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21291,152011039.0,Tuesday,No,2015-02-10T19:00:00.000,PropLost,"[-71.11831, 42.252336]",Point,PropLost,2,PROP,0,E18,First,No,TRUMAN PY,Part three,Unarmed,759502.7165,,2917209.5710000005,2015
+40746,152010856.0,Tuesday,No,2015-02-10T00:00:00.000,PropLost,"[-71.153405, 42.349221]",Point,PropLost,2,PROP,0,D14,Last,No,MARKET ST,Part three,Unarmed,749857.9487,WASHINGTON ST,2952475.521,2015
+90165,152011186.0,Tuesday,No,2015-02-10T12:00:00.000,PropLost,"[-71.0729, 42.333256]",Point,PropLost,2,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2015
+195491,152013641.0,Tuesday,No,2015-02-10T15:00:00.000,PropLost,"[-71.112411, 42.284053]",Point,PropLost,2,PROP,0,E18,Day,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2015
+233980,152011163.0,Tuesday,No,2015-02-10T07:30:00.000,PropLost,"[-71.12395, 42.256421]",Point,PropLost,2,PROP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2015
+252316,152036230.0,Tuesday,No,2015-02-10T07:00:00.000,PropLost,"[-71.117875, 42.291441]",Point,PropLost,2,PROP,0,E13,Last,No,HYDE PARK AV,Part three,Unarmed,759556.6432,,2931460.5039999997,2015
+263457,152011010.0,Tuesday,No,2015-02-10T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,D14,Day,No,HARVARD AV,Part three,Unarmed,,,,2015

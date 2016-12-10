@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62844,130687809.0,Monday,No,2013-10-28T19:36:00.000,PersLoc,"[-71.166437, 42.350427]",Point,PersLoc,10,UNCONS,756,D14,First,No,WASHINGTON ST,Other,Unarmed,746333.4308,BIGELOW ST,2952900.885,2013
+242224,130687690.0,Monday,No,2013-10-28T09:14:00.000,PersLoc,"[-71.09486, 42.315301]",Point,PersLoc,10,MISPER,307,E13,Day,No,WARDMAN RD,Other,Unarmed,765742.3612,,2940184.2010000004,2013
+258492,130687836.0,Monday,No,2013-10-28T19:48:00.000,PersLoc,"[-71.078425, 42.312846]",Point,PersLoc,10,MISPER,326,B2,First,No,LAWRENCE AV,Other,Unarmed,770191.8168,,2939311.102,2013

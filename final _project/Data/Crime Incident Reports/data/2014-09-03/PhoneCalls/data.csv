@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108766,142032626.0,Wednesday,No,2014-09-03T15:30:00.000,PhoneCalls,"[-71.067384, 42.365755]",Point,PhoneCalls,9,LARCEN,0,A1,Day,No,WHITTIER PL,Part three,Unarmed,773080.2704,,2958606.917,2014
+118900,142025871.0,Wednesday,No,2014-09-03T10:14:00.000,PhoneCalls,"[-71.090956, 42.333723]",Point,PhoneCalls,9,VIORDR,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+127264,142026016.0,Wednesday,No,2014-09-03T07:58:00.000,PhoneCalls,"[-71.094245, 42.314001]",Point,PhoneCalls,9,IVPER,0,E13,Day,No,WALNUT AV,Part three,Unarmed,765910.9491,,2939711.25,2014

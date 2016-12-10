@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4860,140271076.0,Saturday,No,2014-05-03T17:38:00.000,Arrest,"[-71.05224, 42.337611]",Point,Arrest,5,ARREST,936,C6,First,No,D ST,Part three,Unarmed,777226.7316,,2948371.966,2014
+153064,140270293.0,Saturday,No,2014-05-03T11:00:00.000,Arrest,"[-71.054711, 42.341305]",Point,Arrest,5,ARREST,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+172372,140270043.0,Saturday,No,2014-05-03T08:30:00.000,Arrest,"[-71.06293, 42.351166]",Point,Arrest,5,ARREST,117,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2014

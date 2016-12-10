@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47261,130374376.0,Wednesday,No,2013-06-19T18:50:00.000,WEAPONS CHARGE,"[-71.070615, 42.320596]",Point,15xx,6,IVPREM,183,B2,First,No,LEYLAND ST,Part Two,Firearm,772289.9823,,2942145.8639999996,2013
+98234,130373692.0,Wednesday,No,2013-06-19T14:00:00.000,WEAPONS CHARGE,"[-71.06126, 42.358746]",Point,15xx,6,ARREST,73,A1,Day,No,PEMBERTON SQ,Part Two,Unarmed,774748.4183,,2956061.2789999996,2013
+259618,130373048.0,Wednesday,No,2013-06-19T09:18:00.000,WEAPONS CHARGE,"[-71.091557, 42.312409]",Point,15xx,6,ARREST,316,B2,Day,No,HOMESTEAD ST,Part Two,Firearm,766640.7488,,2939134.5289999996,2013

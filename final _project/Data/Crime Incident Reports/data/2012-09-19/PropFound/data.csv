@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12563,120587983.0,Wednesday,No,2012-09-19T10:45:00.000,PropFound,"[-71.126705, 42.35455]",Point,PropFound,9,FDPROP,799,D14,Day,No,ASHFORD ST,Part Three,Unarmed,757066.8659999999,,2954448.0039999997,2012
+54556,120588314.0,Wednesday,No,2012-09-19T12:30:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,9,FDPROP,691,E5,Day,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2012
+67281,120588768.0,Wednesday,No,2012-09-19T16:12:00.000,PropFound,"[-71.14035, 42.275456]",Point,PropFound,9,FDPROP,550,E5,First,No,WASHINGTON ST,Part Three,Unarmed,753500.2833,,2925608.8860000004,2012
+264996,120587763.0,Wednesday,No,2012-09-19T08:40:00.000,PropFound,"[0, 0]",Point,PropFound,9,FDPROP,49,A1,Day,No,ALFORD ST,Part Three,Unarmed,,,,2012
+265055,120588895.0,Wednesday,No,2012-09-19T16:00:00.000,PropFound,"[0, 0]",Point,PropFound,9,FDPROP,767,D14,First,No,SOLDIERS FIELD RD,Part Three,Unarmed,,,,2012

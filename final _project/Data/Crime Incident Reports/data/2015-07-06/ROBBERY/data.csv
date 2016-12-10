@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33383,,Monday,No,2015-07-06T00:00:00.000,Robbery,"[-71.082378, 42.295402]",Point,03xx,7,IVPER,441,B3,,No,NIGHTINGALE ST,Part One,Knife/Cutting Instrument,769154.0,,2930000.0,2015
+156848,,Monday,No,2015-07-06T08:15:00.000,Robbery,"[0, 0]",Point,03xx,7,ARMROB,458,B3,,No,ELLINGTON ST,Part One,Firearm,,OLD RD,,2015
+222630,,Monday,No,2015-07-06T00:00:00.000,Robbery,"[-71.054635, 42.32584]",Point,03xx,7,PSHOT,914,C6,,Yes,MONSIGNOR DENNIS F O'CALLAGHAN WAY,Part One,Firearm,776601.0,,2940000.0,2015

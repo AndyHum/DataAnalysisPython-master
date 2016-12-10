@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14533,130670673.0,Thursday,No,2013-10-17T22:00:00.000,PropFound,"[-71.08273, 42.309391]",Point,PropFound,10,FDPROP,321,B2,First,No,BLUE HILL AV,Part three,Unarmed,769033.5933,WARREN AV,2938046.317,2013
+49376,130663505.0,Thursday,No,2013-10-17T08:25:00.000,PropFound,"[-71.06046, 42.357981]",Point,PropFound,10,FDPROP,97,A1,Day,No,TREMONT ST,Part three,Unarmed,774966.0745,SCHOOL ST,2955783.611,2013
+110494,130663487.0,Thursday,No,2013-10-17T18:15:00.000,PropFound,"[-71.08746, 42.346791]",Point,PropFound,10,LARCRT,598,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767688.2733,,2951669.308,2013
+135095,130662642.0,Thursday,No,2013-10-17T09:46:00.000,PropFound,"[-71.061434, 42.300547]",Point,PropFound,10,LARCRT,352,C11,Day,No,CHARLES ST,Part three,Unarmed,774810.2974,,2934852.3389999997,2013
+172779,130663118.0,Thursday,No,2013-10-17T16:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,10,FDPROP,355,C11,First,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+220112,130663331.0,Thursday,No,2013-10-17T18:45:00.000,PropFound,"[-71.07197, 42.337491]",Point,PropFound,10,FDPROP,168,D4,First,No,HARRISON AV,Part three,Unarmed,771892.6392,E NEWTON ST,2948300.85,2013

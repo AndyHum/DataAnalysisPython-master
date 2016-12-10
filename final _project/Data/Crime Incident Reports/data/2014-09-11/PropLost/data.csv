@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1249,142029653.0,Thursday,No,2014-09-11T11:00:00.000,PropLost,"[-71.08746, 42.346791]",Point,PropLost,9,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,767688.2733,,2951669.308,2014
+60922,142028746.0,Thursday,No,2014-09-11T14:00:00.000,PropLost,"[-71.06155, 42.295526]",Point,PropLost,9,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774788.4638,,2933022.44,2014
+91859,142028358.0,Thursday,No,2014-09-11T10:30:00.000,PropLost,"[-71.06264, 42.352111]",Point,PropLost,9,LARCEN,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774387.8367,,2953641.442,2014
+130025,142028436.0,Thursday,No,2014-09-11T13:00:00.000,PropLost,"[-71.079605, 42.347101]",Point,PropLost,9,PROP,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769811.1326,,2951792.646,2014
+189628,142028424.0,Thursday,No,2014-09-11T12:30:00.000,PropLost,"[-71.08499, 42.342831]",Point,PropLost,9,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,768363.0027,HUNTINGTON AV,2950229.4480000003,2014
+211442,142028704.0,Thursday,No,2014-09-11T11:00:00.000,PropLost,"[-71.07772, 42.350841]",Point,PropLost,9,PROP,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,770313.9482,DARTMOUTH ST,2953158.0889999997,2014
+265884,142030355.0,Thursday,No,2014-09-11T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LARCEN,0,D4,Day,No,COLUMBIA RD,Part three,Unarmed,,,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114152,120558585.0,Friday,No,2012-09-07T00:43:00.000,DISORDERLY,"[-71.10269, 42.331101]",Point,24xx,9,ARREST,602,B2,Last,No,CALUMET ST,Part Two,Unarmed,763597.8297,ST ALPHONSUS ST,2945932.034,2012
+170706,120558540.0,Friday,No,2012-09-07T00:19:00.000,DISORDERLY,"[-71.08133, 42.296301]",Point,24xx,9,LMUSIC,444,B3,Last,No,HARVARD ST,Part Two,Unarmed,769435.6887,GLEASON ST,2933277.975,2012
+256604,120559975.0,Friday,No,2012-09-07T14:46:00.000,DISORDERLY,"[-71.077707, 42.28625]",Point,24xx,9,ARREST,435,B3,Day,No,EDSON ST,Part Two,Unarmed,770433.7566,,2929619.983,2012
+257571,120560738.0,Friday,No,2012-09-07T19:38:00.000,DISORDERLY,"[-71.06575, 42.361141]",Point,24xx,9,REQP  ,67,A1,First,No,CAMBRIDGE ST,Part Two,Unarmed,773530.4391,,2956927.854,2012

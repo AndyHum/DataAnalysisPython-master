@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16682,130626965.0,Tuesday,No,2013-10-01T07:00:00.000,PersLoc,"[-71.032155, 42.378581]",Point,PersLoc,10,MSNCOM,25,A7,Last,No,PUTNAM ST,Other,Unarmed,782575.1251,,2963331.345,2013
+37804,130625458.0,Tuesday,No,2013-10-01T09:30:00.000,PersLoc,"[-71.13644, 42.360521]",Point,PersLoc,10,MISPER,807,D14,Day,No,EVERETT ST,Other,Unarmed,754426.327,,2956612.564,2013
+68321,130626491.0,Tuesday,No,2013-10-01T07:30:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,10,MISPER,281,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2013
+79868,130709725.0,Tuesday,No,2013-10-01T08:00:00.000,PersLoc,"[-71.03205, 42.374781]",Point,PersLoc,10,IVPER ,21,A7,Day,No,BREMEN ST,Other,Unarmed,782611.0899,,2961946.705,2013
+152878,130626359.0,Tuesday,No,2013-10-01T06:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,10,MISPER,784,D14,Last,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2013
+228879,130626030.0,Tuesday,No,2013-10-01T15:45:00.000,PersLoc,"[-71.138515, 42.353131]",Point,PersLoc,10,MISPER,795,D14,Day,No,CAMBRIDGE ST,Other,Unarmed,753876.9328,,2953917.11,2013
+259078,130625428.0,Tuesday,No,2013-10-01T10:45:00.000,PersLoc,"[-71.0719, 42.293541]",Point,PersLoc,10,MISPER,359,C11,Day,No,WASHINGTON ST,Other,Unarmed,771991.9497,,2932284.853,2013

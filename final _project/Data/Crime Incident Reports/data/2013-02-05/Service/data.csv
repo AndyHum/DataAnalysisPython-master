@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11153,130073978.0,Tuesday,No,2013-02-05T00:38:00.000,Service,"[-71.09949, 42.332331]",Point,Service,2,ARREST,587,B2,Last,No,TREMONT ST,Part Three,Unarmed,764460.9854,,2946384.315,2013
+24269,130074214.0,Tuesday,No,2013-02-05T06:25:00.000,Service,"[-71.069582, 42.284133]",Point,Service,2,CD11  ,402,C11,Last,No,BURT ST,Part Three,Unarmed,772636.202,,2928859.293,2013
+83363,130075910.0,Tuesday,No,2013-02-05T20:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,2,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2013
+90094,130074321.0,Tuesday,No,2013-02-05T07:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,2,IVPREM,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29883,130749947.0,Tuesday,No,2013-11-26T02:50:00.000,MedAssist,"[-71.07105, 42.305506]",Point,MedAssist,11,INJOFF,337,C11,Last,No,OLNEY ST,Part three,Unarmed,772199.9933,,2936646.2339999997,2013
+38269,130750051.0,Tuesday,No,2013-11-26T20:53:00.000,MedAssist,"[-71.085036, 42.294732]",Point,MedAssist,11,UNCONS,441,B3,First,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2013
+91574,130748364.0,Tuesday,No,2013-11-26T01:30:00.000,MedAssist,"[-71.076928, 42.293667]",Point,MedAssist,11,INJOFF,465,B3,Last,No,MILLET ST,Part three,Unarmed,770631.127,,2932323.6939999997,2013
+114865,130748593.0,Tuesday,No,2013-11-26T08:53:00.000,MedAssist,"[-71.0726, 42.341736]",Point,MedAssist,11,SDNDTH,962,D4,Day,No,W DEDHAM ST,Part three,Unarmed,771714.5582,,2949846.952,2013
+177532,130750163.0,Tuesday,No,2013-11-26T20:35:00.000,MedAssist,"[-71.062413, 42.353534]",Point,MedAssist,11,REQEP ,111,A1,First,No,WASHINGTON ST,Part three,Unarmed,774446.4264,,2954160.1610000003,2013
+197277,130749855.0,Tuesday,No,2013-11-26T19:11:00.000,MedAssist,"[-71.13439, 42.288766]",Point,MedAssist,11,ALARMM,674,E5,First,No,SOUTH ST,Part three,Unarmed,755092.4612,,2930466.106,2013
+201947,130748770.0,Tuesday,No,2013-11-26T10:21:00.000,MedAssist,"[-71.09047, 42.290406]",Point,MedAssist,11,UNK   ,464,B3,Day,No,GREENOCK ST,Part three,Unarmed,766973.2468,,2931117.745,2013
+250745,130750230.0,Tuesday,No,2013-11-26T20:40:00.000,MedAssist,"[-71.08501, 42.332711]",Point,MedAssist,11,INJOFF,276,B2,First,No,DEWITT DR,Part three,Firearm,768375.5384,RUGGLES ST,2946541.51,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6854,130130912.0,Sunday,No,2013-03-03T19:30:00.000,PropLost,"[-71.133692, 42.357852]",Point,PropLost,3,LSTPRP,809,D14,First,No,ADAMSON ST,Part Three,Unarmed,755173.1861,,2955642.9260000004,2013
+26125,130132361.0,Sunday,No,2013-03-03T18:00:00.000,PropLost,"[-71.083145, 42.349411]",Point,PropLost,3,LSTPRP,137,D4,First,No,NEWBURY ST,Part Three,Unarmed,768850.0656,,2952629.758,2013
+125993,130128810.0,Sunday,No,2013-03-03T15:30:00.000,PropLost,"[-71.074427, 42.271311]",Point,PropLost,3,LSTPRP,406,B3,Day,No,RIVER ST,Part Three,Unarmed,771348.5999,,2924180.5,2013
+134164,130213540.0,Sunday,No,2013-03-03T12:00:00.000,PropLost,"[-71.074734, 42.300181]",Point,PropLost,3,LSTPRP,461,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,771212.9109,,2934700.731,2013
+160575,130128155.0,Sunday,No,2013-03-03T00:30:00.000,PropLost,"[-71.06115, 42.304551]",Point,PropLost,3,LSTPRP,347,C11,Last,No,ADAMS ST,Part Three,Unarmed,774879.7608,LEEDSVILLE ST,2936311.841,2013
+234774,130129223.0,Sunday,No,2013-03-03T18:00:00.000,PropLost,"[-71.05757, 42.361551]",Point,PropLost,3,INVEST,78,A1,First,No,CONGRESS ST,Part Three,Unarmed,775740.432,HANOVER ST,2957088.627,2013
+243347,130130076.0,Sunday,No,2013-03-03T12:00:00.000,PropLost,"[-71.083395, 42.336506]",Point,PropLost,3,LSTPRP,274,D4,Day,No,HAMMOND ST,Part Three,Unarmed,768805.4577,,2947926.605,2013
+260452,130128508.0,Sunday,No,2013-03-03T00:45:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,78,A1,Last,No,UNION ST,Part Three,Unarmed,,,,2013

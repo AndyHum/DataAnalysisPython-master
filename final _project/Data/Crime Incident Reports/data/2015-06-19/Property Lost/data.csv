@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6114,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.076261, 42.350379]",Point,PropLost,6,PROP,134,D4,,No,BOYLSTON ST,Part Three,None,770709.0,,2950000.0,2015
+22890,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.064078, 42.316617]",Point,PropLost,6,,257,C11,,No,STOUGHTON ST,Part Three,None,774065.0,,2940000.0,2015
+39761,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.130479, 42.35074]",Point,PropLost,6,PROP,796,D14,,No,COMMONWEALTH AVE,Part Three,None,756053.0,,2950000.0,2015
+41759,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.141741, 42.362239]",Point,PropLost,6,PROP,806,D14,,No,WESTERN AVE,Part Three,None,752991.0,,2960000.0,2015
+47607,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.068353, 42.328564]",Point,PropLost,6,,178,B2,,No,MASSACHUSETTS AVE,Part Three,None,772887.0,,2950000.0,2015
+144864,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.098493, 42.343394]",Point,PropLost,6,PROP,626,D4,,No,PETERBOROUGH ST,Part Three,None,764712.0,,2950000.0,2015
+202774,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.056208, 42.360205]",Point,PropLost,6,PROP,93,A1,,No,FANEUIL HALL SQ,Part Three,None,776111.0,,2960000.0,2015
+233830,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.08179, 42.312261]",Point,PropLost,6,PROP,321,B2,,No,INTERVALE ST,Part Three,None,769283.0,,2940000.0,2015
+240903,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.090397, 42.280797]",Point,PropLost,6,PROP,428,B3,,No,HOSMER ST,Part Three,None,767010.0,,2930000.0,2015
+244434,,Friday,No,2015-06-19T21:23:00.000,Property Lost,"[0, 0]",Point,PropLost,6,,0,,,No,CENTRE ST,Part Three,None,,,,2015
+249117,,Friday,No,2015-06-19T00:00:00.000,Property Lost,"[-71.065008, 42.350799]",Point,PropLost,6,PROP,122,A1,,No,TREMONT ST,Part Three,None,773750.0,,2950000.0,2015

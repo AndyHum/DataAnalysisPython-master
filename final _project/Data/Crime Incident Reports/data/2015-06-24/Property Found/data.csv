@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21371,,Wednesday,No,2015-06-24T00:00:00.000,Property Found,"[-71.074746, 42.343387]",Point,PropFound,6,IVPREM,153,D4,,No,MONTGOMERY ST,Part Three,None,771131.0,,2950000.0,2015
+51922,,Wednesday,No,2015-06-24T00:00:00.000,Property Found,"[0, 0]",Point,PropFound,6,IVPREM,620,D4,,No,MASSACHUSETTS AVE,Part Three,None,,,,2015
+170833,,Wednesday,No,2015-06-24T00:00:00.000,Property Found,"[-71.056073, 42.367908]",Point,PropFound,6,IVPREM,81,A1,,No,CHARTER ST,Part Three,None,776133.0,,2960000.0,2015

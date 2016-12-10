@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62458,120616047.0,Sunday,No,2012-09-30T22:18:00.000,DRUG CHARGES,"[-71.072298, 42.304718]",Point,18xx,9,TSTOP ,337,C11,First,No,EVERTON ST,Part Two,Unarmed,771863.6868,,2936357.135,2012
+155206,120615009.0,Sunday,No,2012-09-30T11:33:00.000,DRUG CHARGES,"[-71.03445, 42.338166]",Point,18xx,9,TSTOP ,222,C6,Day,No,E 1ST ST,Part Two,Unarmed,782035.4254,M ST,2948599.97,2012
+190305,120616045.0,Sunday,No,2012-09-30T22:16:00.000,DRUG CHARGES,"[-71.016945, 42.387914]",Point,18xx,9,REQP  ,15,A7,First,No,MCCLELLAN HY,Part Two,Unarmed,786665.3029,,2966755.115,2012
+210704,120614374.0,Sunday,No,2012-09-30T02:06:00.000,DRUG CHARGES,"[-71.104145, 42.331248]",Point,18xx,9,PARTY ,604,B2,Last,No,OSWALD ST,Part Two,Unarmed,763203.9971,,2945983.53,2012

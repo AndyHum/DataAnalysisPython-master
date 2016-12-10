@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33143,142027327.0,Monday,No,2014-09-08T08:38:00.000,Service,"[-71.11082, 42.306141]",Point,Service,9,ARREST,0,E13,Day,No,CALL ST,Part three,Unarmed,761441.0275,MCBRIDE ST,2936826.046,2014
+120843,142027517.0,Monday,No,2014-09-08T16:22:00.000,Service,"[-71.04625, 42.354256]",Point,Service,9,IVPER,0,C6,First,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+130562,142027535.0,Monday,No,2014-09-08T18:11:00.000,Service,"[-71.05911, 42.354401]",Point,Service,9,IVPER,0,A1,First,No,SUMMER ST,Part three,Other,775337.6937,ARCH ST,2954480.874,2014
+134776,142027390.0,Monday,No,2014-09-08T11:20:00.000,Service,"[-71.05699, 42.331861]",Point,Service,9,IVPER,0,C6,Day,No,DORCHESTER AV,Part three,Unarmed,775953.3790000001,WOODWARD ST,2946269.861,2014
+175045,142027365.0,Monday,No,2014-09-08T10:30:00.000,Service,"[-71.1374, 42.353551]",Point,Service,9,ARREST,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,754177.6667,N BEACON ST,2954071.4460000005,2014
+213325,142027287.0,Monday,No,2014-09-08T00:34:00.000,Service,"[-71.078865, 42.273101]",Point,Service,9,ARREST,0,B3,Last,No,STANDARD ST,Part three,Unarmed,770144.3176,,2924826.852,2014

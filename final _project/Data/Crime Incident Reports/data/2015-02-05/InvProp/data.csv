@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77,152009474.0,Thursday,No,2015-02-05T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,IVPREM,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+71139,152009523.0,Thursday,No,2015-02-05T10:14:00.000,InvProp,"[-71.05635, 42.302586]",Point,InvProp,2,BE,0,C11,Day,No,CLAYTON,Part three,Unarmed,776181.9177,,2935602.5130000003,2015
+105644,152009531.0,Thursday,No,2015-02-05T09:49:00.000,InvProp,"[-71.055405, 42.316671]",Point,InvProp,2,IVPREM,0,C11,Day,No,SUDAN ST,Part three,Unarmed,776410.8018,,2940736.606,2015
+146532,152009539.0,Thursday,No,2015-02-05T10:31:00.000,InvProp,"[-71.100705, 42.342791]",Point,InvProp,2,SHOTS,0,D4,Day,No,PETERBOROUGH ST,Part three,Unarmed,764114.6170000001,,2950194.595,2015
+188845,152009707.0,Thursday,No,2015-02-05T06:45:00.000,InvProp,"[-71.140727, 42.346651]",Point,InvProp,2,BE,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,753288.8992,,2951552.9069999997,2015
+211870,152009632.0,Thursday,No,2015-02-05T16:45:00.000,InvProp,"[-71.109655, 42.304231]",Point,InvProp,2,VAND,0,E13,First,No,WASHINGTON ST,Part three,Other,761759.3452,,2936131.4510000004,2015

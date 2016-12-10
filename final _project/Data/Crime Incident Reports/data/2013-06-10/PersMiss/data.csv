@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49396,140216775.0,Monday,No,2013-06-10T17:00:00.000,PersMiss,"[-71.078225, 42.295106]",Point,PersMiss,6,MISPER,447,B3,First,No,NORWELL ST,Other,Unarmed,770277.8757,,2932846.637,2013
+65432,140216772.0,Monday,No,2013-06-10T17:00:00.000,PersMiss,"[-71.078225, 42.295106]",Point,PersMiss,6,MISPER,447,B3,First,No,NORWELL ST,Other,Unarmed,770277.8757,,2932846.637,2013
+132465,130354566.0,Monday,No,2013-06-10T18:00:00.000,PersMiss,"[-71.067545, 42.377411]",Point,PersMiss,6,MISPER,58,A15,First,No,DUNSTABLE ST,Other,Unarmed,773015.2518,,2962854.5089999996,2013

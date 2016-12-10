@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14342,130734616.0,Tuesday,No,2013-11-19T14:15:00.000,DISORDERLY,"[-71.124361, 42.28369]",Point,24xx,11,IVPER ,561,E5,Day,No,CUMMINS HY,Part Two,Unarmed,757814.1441,,2928627.903,2013
+143059,130735434.0,Tuesday,No,2013-11-19T22:47:00.000,DISORDERLY,"[-71.06587, 42.313256]",Point,24xx,11,DISTRB,332,C11,First,No,GLENDALE ST,Part Two,Unarmed,773586.7516,,2939477.3189999997,2013
+199600,130733315.0,Tuesday,No,2013-11-19T00:15:00.000,DISORDERLY,"[-71.058945, 42.378816]",Point,24xx,11,ARREST,900,A15,Last,No,WALFORD WY,Part Two,Unarmed,775336.2862,,2963378.418,2013
+226002,130733857.0,Tuesday,No,2013-11-19T06:50:00.000,DISORDERLY,"[-71.074385, 42.335516]",Point,24xx,11,ARREST,171,D4,Last,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59085,130060413.0,Tuesday,No,2013-01-29T19:00:00.000,Argue,"[-71.1092, 42.333231]",Point,Argue,1,IVPER ,611,B2,First,No,HUNTINGTON AV,Part Three,Unarmed,761834.0078,,2946700.113,2013
+163351,130059945.0,Tuesday,No,2013-01-29T15:30:00.000,Argue,"[-71.153185, 42.355581]",Point,Argue,1,FIGHT ,939,D14,Day,No,FANEUIL ST,Part Three,Unarmed,749907.9949,,2954793.478,2013
+202564,130059512.0,Tuesday,No,2013-01-29T12:20:00.000,Argue,"[-71.056041, 42.342169]",Point,Argue,1,ASLTIP,200,C6,Day,No,W BROADWAY,Part Three,Unarmed,776190.2658,,2950027.5960000004,2013

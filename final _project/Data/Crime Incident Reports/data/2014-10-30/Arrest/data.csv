@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+161502,142044127.0,Thursday,No,2014-10-30T10:30:00.000,Arrest,"[-71.091557, 42.312409]",Point,Arrest,10,ARREST,0,B2,Day,No,HOMESTEAD ST,Part three,Unarmed,766640.7488,,2939134.5289999996,2014
+196320,142044076.0,Thursday,No,2014-10-30T08:40:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,10,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+244437,142044275.0,Thursday,No,2014-10-30T17:00:00.000,Arrest,"[-71.03926, 42.368586]",Point,Arrest,10,ARREST,0,A7,First,No,SUMNER ST,Part three,Unarmed,780675.0997,,2959678.517,2014

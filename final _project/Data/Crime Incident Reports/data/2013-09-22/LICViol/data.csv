@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116311,130604010.0,Sunday,No,2013-09-22T00:01:00.000,LICViol,"[-71.07188, 42.348846]",Point,LICViol,9,CD35  ,0,D4,Last,No,BERKELEY ST,Part three,Unarmed,771896.2029,,2952438.943,2013
+155992,130604430.0,Sunday,No,2013-09-22T02:45:00.000,LICViol,"[-71.037275, 42.375496]",Point,LICViol,9,CD35  ,23,A7,Last,No,BENNINGTON ST,Part three,Unarmed,781197.8470000001,,2962199.565,2013
+249688,130604246.0,Sunday,No,2013-09-22T01:21:00.000,LICViol,"[-71.06521, 42.349691]",Point,LICViol,9,ABIP  ,121,A1,Last,No,TREMONT ST,Part three,Unarmed,773697.6517,,2952755.997,2013

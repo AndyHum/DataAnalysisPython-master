@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47660,120438059.0,Monday,No,2012-07-16T13:56:00.000,FORGERY,"[-71.112411, 42.284053]",Point,10xx,7,LARCIP,503,E18,Day,No,AMERICAN LEGION HY,Part Two,Unarmed,761047.1773,,2928774.728,2012
+56878,130118253.0,Monday,No,2012-07-16T12:00:00.000,FORGERY,"[-71.07224, 42.321594]",Point,10xx,7,IVPER ,0,B2,Day,No,DUDLEY ST,Part Two,Unarmed,771848.4464,,2942507.099,2012
+86599,120522938.0,Monday,No,2012-07-16T12:00:00.000,FORGERY,"[-71.07224, 42.321594]",Point,10xx,7,IVPREM,311,B2,Day,No,DUDLEY ST,Part Two,Unarmed,771848.4464,,2942507.099,2012

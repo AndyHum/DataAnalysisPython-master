@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100022,140181299.0,Wednesday,No,2014-03-26T17:00:00.000,DRUG CHARGES,"[-71.054711, 42.341305]",Point,18xx,3,IVDRUG,200,C6,First,No,W BROADWAY,Part Two,Other,776551.5679,,2949714.607,2014
+148831,140183519.0,Wednesday,No,2014-03-26T17:10:00.000,DRUG CHARGES,"[-71.07879, 42.338343]",Point,18xx,3,IVDRUG,289,D4,First,No,MASSACHUSETTS AV,Part Two,Other,770047.1337,,2948601.985,2014
+149340,140183538.0,Wednesday,No,2014-03-26T13:00:00.000,DRUG CHARGES,"[-71.059735, 42.297541]",Point,18xx,3,IVDRUG,355,C11,Day,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2014
+193276,140183041.0,Wednesday,No,2014-03-26T13:00:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,3,IVDRUG,520,E18,Day,No,HYDE PARK AV,Part Two,Other,757969.2324,,2918691.415,2014
+199926,140185897.0,Wednesday,No,2014-03-26T00:00:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,3,IVDRUG,520,E18,Last,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+147631,130305294.0,Tuesday,No,2013-05-21T22:42:00.000,InvProp,"[-71.085111, 42.315866]",Point,InvProp,5,IVPREM,313,B2,First,No,DECKARD ST,Part three,Unarmed,768377.9117,,2940402.647,2013
+162477,130304502.0,Tuesday,No,2013-05-21T16:42:00.000,InvProp,"[-71.051325, 42.288981]",Point,InvProp,5,ALARMI,378,C11,First,No,NEWHALL ST,Part Three,Unarmed,777567.3355,,2930651.7369999997,2013
+198974,130303654.0,Tuesday,No,2013-05-21T06:00:00.000,InvProp,"[-71.08545, 42.321631]",Point,InvProp,5,IVPREM,298,B2,Last,No,WALNUT AV,Part three,Unarmed,768276.1914,,2942503.187,2013

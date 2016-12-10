@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86256,130780136.0,Wednesday,No,2013-12-11T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,12,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+240540,130781848.0,Wednesday,No,2013-12-11T22:00:00.000,PropFound,"[-71.064489, 42.365368]",Point,PropFound,12,LSTPRP,64,A1,First,No,LOMASNEY WY,Part three,Unarmed,773863.1707,,2958469.979,2013
+258571,130781195.0,Wednesday,No,2013-12-11T16:00:00.000,PropFound,"[-71.052855, 42.352854]",Point,PropFound,12,LARCRT,114,A1,First,No,CONGRESS ST,Part three,Unarmed,777031.1407,,2953925.651,2013
+262573,130811330.0,Wednesday,No,2013-12-11T08:30:00.000,PropFound,"[0, 0]",Point,PropFound,12,LSTPRP,257,C11,Day,No,BLUE HILL AV,Part three,Unarmed,,,,2013

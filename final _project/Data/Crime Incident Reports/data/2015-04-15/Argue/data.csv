@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116010,152030715.0,Wednesday,No,2015-04-15T15:55:00.000,Argue,"[-71.085628, 42.34206]",Point,Argue,4,IVPER,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,768191.7788,,2949947.602,2015
+250595,152030536.0,Wednesday,No,2015-04-15T07:30:00.000,Argue,"[-71.087665, 42.318571]",Point,Argue,4,DISTRB,0,B2,Day,No,MUNROE ST,Part three,Unarmed,767682.5728,,2941385.171,2015
+267777,152030742.0,Wednesday,No,2015-04-15T18:11:00.000,Argue,"[0, 0]",Point,Argue,4,NIDV,0,E18,First,No,EDSON TR,Part three,Unarmed,,,,2015

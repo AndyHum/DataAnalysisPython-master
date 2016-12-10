@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83547,152016913.0,Thursday,No,2015-02-26T08:00:00.000,PhoneCalls,"[-71.153507, 42.276596]",Point,PhoneCalls,2,INVEST,0,E5,Day,No,HOWITT RD,Part three,Unarmed,749937.8537,,2926009.4930000002,2015
+148408,152015609.0,Thursday,No,2015-02-26T16:00:00.000,PhoneCalls,"[-71.073858, 42.297738]",Point,PhoneCalls,2,IVPER,0,B3,First,No,ALGONQUIN ST,Part three,Unarmed,771454.416,,2933811.617,2015
+227745,152015511.0,Thursday,No,2015-02-26T10:10:00.000,PhoneCalls,"[-71.058089, 42.357829]",Point,PhoneCalls,2,VIORDR,0,A1,Day,No,WASHINGTON ST,Part three,Other,775607.1052,,2955731.24,2015

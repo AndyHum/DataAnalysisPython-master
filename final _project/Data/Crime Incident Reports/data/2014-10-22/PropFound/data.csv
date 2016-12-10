@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17831,142041744.0,Wednesday,No,2014-10-22T16:30:00.000,PropFound,"[-71.04427, 42.351924]",Point,PropFound,10,PROP,0,C6,First,No,NORTHERN AV,Part three,Unarmed,779353.4688,,2953599.191,2014
+75870,142041483.0,Wednesday,No,2014-10-22T03:59:00.000,PropFound,"[-71.04146, 42.332821]",Point,PropFound,10,IVPREM,0,C6,Last,No,H ST,Part three,Unarmed,780150.6532,,2946641.893,2014
+150017,142042226.0,Wednesday,No,2014-10-22T18:00:00.000,PropFound,"[-71.098485, 42.343391]",Point,PropFound,10,IVPREM,0,D4,First,No,PETERBOROUGH ST,Part three,Unarmed,764713.7517,,2950416.063,2014
+163608,142041634.0,Wednesday,No,2014-10-22T16:30:00.000,PropFound,"[-71.06942, 42.356141]",Point,PropFound,10,PROP,0,A1,First,No,BEACON ST,Part three,Unarmed,772547.7636,CHARLES ST,2955100.727,2014

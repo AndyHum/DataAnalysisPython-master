@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51372,142061892.0,Tuesday,No,2014-12-30T22:15:00.000,InvProp,"[-71.075585, 42.340456]",Point,InvProp,12,REQP,0,D4,First,No,W NEWTON ST,Part three,Unarmed,770909.8909,,2949376.4669999997,2014
+117582,142061720.0,Tuesday,No,2014-12-30T09:30:00.000,InvProp,"[-71.07251, 42.352266]",Point,InvProp,12,IVPREM,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,771719.655,,2953684.403,2014
+141300,142061836.0,Tuesday,No,2014-12-30T17:19:00.000,InvProp,"[-71.074107, 42.284279]",Point,InvProp,12,BE,0,B3,First,No,ARMANDINE ST,Part three,Unarmed,771411.6405,,2928906.461,2014
+150581,142061661.0,Tuesday,No,2014-12-30T01:00:00.000,InvProp,"[-71.08785, 42.350376]",Point,InvProp,12,IVPREM,0,D4,Last,No,MARLBOROUGH ST,Part three,Unarmed,767576.5314,,2952975.2430000002,2014
+199991,142061686.0,Tuesday,No,2014-12-30T07:38:00.000,InvProp,"[-71.10181, 42.313256]",Point,InvProp,12,DISTRB,0,E13,Day,No,HAVERFORD ST,Part three,Unarmed,763866.1333,,2939430.117,2014
+264495,142061679.0,Tuesday,No,2014-12-30T05:42:00.000,InvProp,"[0, 0]",Point,InvProp,12,ALARM,0,C11,Last,No,NEPONSET AV,Part three,Unarmed,,,,2014

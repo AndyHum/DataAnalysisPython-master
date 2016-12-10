@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2568,120456797.0,Tuesday,No,2012-07-24T08:00:00.000,Service,"[-71.043308, 42.346892]",Point,Service,7,IVPREM,203,C6,Day,No,SUMMER ST,Part Three,Other,779623.2724,,2951766.909,2012
+5808,120456288.0,Tuesday,No,2012-07-24T11:53:00.000,Service,"[-71.12638, 42.285326]",Point,Service,7,LOCK  ,562,E5,Day,No,CUMMINS HY,Part Three,Unarmed,757265.2603,,2929221.91,2012
+50663,120455507.0,Tuesday,No,2012-07-24T01:21:00.000,Service,"[-71.11573, 42.351191]",Point,Service,7,REQP  ,797,D14,Last,No,COMMONWEALTH AV,Part Three,Other,760038.9077,BUICK ST,2953237.059,2012
+204203,120456147.0,Tuesday,No,2012-07-24T11:00:00.000,Service,"[-71.05032, 42.301271]",Point,Service,7,ARREST,373,C11,Day,No,FREEPORT ST,Part Three,Unarmed,777815.6496,EVERDEAN ST,2935131.8189999997,2012
+221607,120456478.0,Tuesday,No,2012-07-24T13:03:00.000,Service,"[-71.098479, 42.267626]",Point,Service,7,ARREST,393,E18,Day,No,ROSEWOOD ST,Part Three,Unarmed,764845.1251,,2922805.789,2012

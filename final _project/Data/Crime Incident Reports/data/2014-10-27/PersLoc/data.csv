@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30391,142043341.0,Monday,No,2014-10-27T16:00:00.000,PersLoc,"[-71.11524, 42.305536]",Point,PersLoc,10,IVPER,0,E13,First,No,METCALF CT,Other,Unarmed,760246.4079,,2936600.15,2014
+83343,142043324.0,Monday,No,2014-10-27T15:00:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,10,IVPER,0,B3,Day,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2014
+135957,142043136.0,Monday,No,2014-10-27T11:58:00.000,PersLoc,"[-71.044145, 42.332866]",Point,PersLoc,10,IVPER,0,C6,Day,No,G ST,Other,Unarmed,779424.5802,,2946654.4,2014
+197288,142043268.0,Monday,No,2014-10-27T15:30:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,10,MISSIN,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+218056,142043045.0,Monday,No,2014-10-27T05:50:00.000,PersLoc,"[-71.076405, 42.313081]",Point,PersLoc,10,IVPER,0,B2,Last,No,PERTH ST,Other,Unarmed,770737.7409,,2939399.445,2014
+263781,142043206.0,Monday,No,2014-10-27T14:55:00.000,PersLoc,"[0, 0]",Point,PersLoc,10,IVPER,0,B2,Day,No,WELLINGTON CT,Other,Unarmed,,,,2014

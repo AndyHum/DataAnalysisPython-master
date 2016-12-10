@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119390,142061225.0,Sunday,No,2014-12-28T14:57:00.000,FIRE,"[-71.108578, 42.32854]",Point,FIRE,12,FIRE,0,B2,Day,No,ELLINGWOOD ST,Part three,Unarmed,762009.9172,,2944991.103,2014
+169791,142061247.0,Sunday,No,2014-12-28T16:59:00.000,FIRE,"[-71.048392, 42.315736]",Point,FIRE,12,FIRE,0,C6,First,No,MORRISSEY BL,Part three,Unarmed,778309.1375,,2940405.731,2014
+251845,142061148.0,Sunday,No,2014-12-28T07:50:00.000,FIRE,"[-71.101, 42.262756]",Point,FIRE,12,FIRE,0,E18,Day,No,MASSASOIT ST,Part three,Unarmed,764171.3039,,2921028.1969999997,2014

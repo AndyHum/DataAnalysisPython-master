@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53845,120800719.0,Friday,No,2012-12-21T07:00:00.000,PersLoc,"[-71.06853, 42.295871]",Point,PersLoc,12,MISPER,359,C11,Last,No,ALPHA RD,Part Three,Unarmed,772899.4194,,2933138.537,2012
+168353,120802030.0,Friday,No,2012-12-21T20:00:00.000,PersLoc,"[-71.077255, 42.317356]",Point,PersLoc,12,MISPER,823,B2,First,No,INGLESIDE ST,Part Three,Unarmed,770500.1203,,2940956.185,2012
+201645,120799558.0,Friday,No,2012-12-21T08:00:00.000,PersLoc,"[-71.152705, 42.292241]",Point,PersLoc,12,CURFEW,692,E5,Day,No,GREATON RD,Part Three,Unarmed,750131.7198,,2931711.7430000002,2012
+218246,120797314.0,Friday,No,2012-12-21T02:21:00.000,PersLoc,"[-71.069527, 42.351443]",Point,PersLoc,12,MISPER,120,A1,Last,No,PARK PLAZA,Other,Unarmed,772527.4805,,2953388.3860000004,2012
+259623,120798450.0,Friday,No,2012-12-21T12:00:00.000,PersLoc,"[-71.03336, 42.370471]",Point,PersLoc,12,MISPER,30,A7,Day,No,LUBEC ST,Part Three,Unarmed,782265.7126,,2960374.1160000004,2012

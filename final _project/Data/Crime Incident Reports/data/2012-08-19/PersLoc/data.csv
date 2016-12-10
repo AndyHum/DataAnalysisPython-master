@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109237,120516144.0,Sunday,No,2012-08-19T08:00:00.000,PersLoc,"[-71.145765, 42.283851]",Point,PersLoc,8,MISPER,686,E5,Day,No,BEECH ST,Part Three,Unarmed,752022.1068,,2928662.018,2012
+197753,120515526.0,Sunday,No,2012-08-19T00:56:00.000,PersLoc,"[-71.152705, 42.292241]",Point,PersLoc,8,CURFEW,692,E5,Last,No,GREATON RD,Part Three,Unarmed,750131.7198,,2931711.7430000002,2012
+234360,120518025.0,Sunday,No,2012-08-19T23:45:00.000,PersLoc,"[-71.089268, 42.295385]",Point,PersLoc,8,MISPER,908,B3,First,No,SHANDON RD,Part Three,Unarmed,767289.676,,2932933.422,2012

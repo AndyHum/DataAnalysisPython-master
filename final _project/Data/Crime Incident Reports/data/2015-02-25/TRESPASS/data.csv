@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58121,152015091.0,Wednesday,No,2015-02-25T00:16:00.000,TRESPASS,"[-71.081625, 42.336141]",Point,TRESPASS,2,ARREST,0,D4,Last,No,TROTTER CT,Part Two,Unarmed,769284.6658,,2947795.935,2015
+234953,152015311.0,Wednesday,No,2015-02-25T18:08:00.000,TRESPASS,"[-71.062085, 42.356341]",Point,TRESPASS,2,SS,0,A1,First,No,TREMONT ST,Part Two,Unarmed,774529.9407,,2955183.704,2015
+241853,152015087.0,Wednesday,No,2015-02-25T22:45:00.000,TRESPASS,"[-71.070155, 42.350601]",Point,TRESPASS,2,ARREST,0,A1,First,No,ARLINGTON ST,Part Two,Unarmed,772359.2779999999,,2953080.8430000003,2015
+247341,152018964.0,Wednesday,No,2015-02-25T23:11:00.000,TRESPASS,"[-71.10066, 42.345171]",Point,TRESPASS,2,BE,0,D4,First,No,BROOKLINE AV,Part Two,Unarmed,764122.7227,,2951061.9669999997,2015

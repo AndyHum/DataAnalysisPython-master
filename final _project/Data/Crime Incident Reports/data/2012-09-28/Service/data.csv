@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+411,120610871.0,Friday,No,2012-09-28T14:30:00.000,Service,"[-71.055415, 42.362861]",Point,Service,9,ARREST,72,A1,Day,No,HANOVER ST,Part Three,Unarmed,776320.3603,,2957569.045,2012
+128279,120609573.0,Friday,No,2012-09-28T02:36:00.000,Service,"[-71.07777, 42.319271]",Point,Service,9,ARREST,264,B2,Last,No,JULIAN ST,Part Three,Unarmed,770357.3827,BLUE HILL AV,2941653.3510000003,2012
+132356,120609390.0,Friday,No,2012-09-28T00:30:00.000,Service,"[-71.05932, 42.354551]",Point,Service,9,ARREST,105,A1,Last,No,SUMMER ST,Part Three,Unarmed,775280.6508,,2954535.244,2012
+139496,120609394.0,Friday,No,2012-09-28T00:30:00.000,Service,"[-71.05932, 42.354551]",Point,Service,9,ARREST,105,A1,Last,No,SUMMER ST,Part Three,Unarmed,775280.6508,,2954535.244,2012
+181405,120611120.0,Friday,No,2012-09-28T17:32:00.000,Service,"[-71.1331, 42.281806]",Point,Service,9,AOD   ,668,E5,First,No,WASHINGTON ST,Part Three,Unarmed,755452.4126,CORNELL ST,2927931.276,2012

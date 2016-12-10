@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33983,120595594.0,Friday,No,2012-09-21T11:00:00.000,DISORDERLY,"[-71.039965, 42.318876]",Point,24xx,9,IVPER ,256,C6,Day,No,BEACH POINT PL,Part Two,Unarmed,780582.2878,SOUTH POINT DR,2941562.285,2012
+37842,120595595.0,Friday,No,2012-09-21T11:15:00.000,DISORDERLY,"[-71.041077, 42.318032]",Point,24xx,9,IVPER ,256,C6,Day,No,WESTWIND RD,Part Two,Unarmed,780283.1989,BEACH POINT PL,2941252.986,2012
+136194,120593389.0,Friday,No,2012-09-21T13:25:00.000,DISORDERLY,"[-71.160234, 42.345844]",Point,24xx,9,TRANSP,750,D14,Day,No,GLENMONT RD,Part Two,Unarmed,748016.682,,2951237.2589999996,2012
+220974,120594419.0,Friday,No,2012-09-21T20:45:00.000,DISORDERLY,"[-71.089215, 42.340161]",Point,24xx,9,ARREST,618,D4,First,No,HUNTINGTON AV,Part Two,Unarmed,767225.4855,OPERA PL,2949250.922,2012

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+515,152035753.0,Thursday,No,2015-04-30T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,First,No,HARRY AGGANIS WAY,Part three,Unarmed,,HUNTINGTON AV,,2015
+89365,152035235.0,Thursday,No,2015-04-30T10:30:00.000,PropLost,"[-71.06293, 42.351166]",Point,PropLost,4,LARCEN,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2015
+116042,152036736.0,Thursday,No,2015-04-30T16:00:00.000,PropLost,"[-71.053006, 42.313282]",Point,PropLost,4,IVPER,0,C11,First,No,SYDNEY ST,Part three,Unarmed,777066.0032,,2939504.8010000004,2015
+173985,152035626.0,Thursday,No,2015-04-30T10:00:00.000,PropLost,"[-71.096574, 42.328863]",Point,PropLost,4,PROP,0,B2,Day,No,COLUMBUS AV,Part three,Unarmed,765255.1768,,2945124.079,2015
+214183,152035823.0,Thursday,No,2015-04-30T12:00:00.000,PropLost,"[-71.09656, 42.327986]",Point,PropLost,4,PROP,0,B2,Day,No,CEDAR ST,Part three,Unarmed,765260.7135,COLUMBUS AV,2944804.653,2015
+236763,152035242.0,Thursday,No,2015-04-30T14:00:00.000,PropLost,"[-71.08337, 42.337666]",Point,PropLost,4,PROP,0,D4,Day,No,TREMONT ST,Part three,Unarmed,768810.1519,,2948349.363,2015

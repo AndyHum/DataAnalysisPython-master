@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54006,140007610.0,Sunday,No,2014-01-05T00:54:00.000,PersLoc,"[-71.05743, 42.300921]",Point,PersLoc,1,MISPER,351,C11,Last,No,DICKENS ST,Other,Unarmed,775892.9091,,2934994.215,2014
+123963,140010142.0,Sunday,No,2014-01-05T10:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISPER,446,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+141959,140007987.0,Sunday,No,2014-01-05T07:48:00.000,PersLoc,"[-71.0887, 42.272311]",Point,PersLoc,1,IVPER ,424,B3,Day,No,DANIA ST,Other,Unarmed,767483.9466,,2924525.977,2014
+259841,140012705.0,Sunday,No,2014-01-05T18:00:00.000,PersLoc,"[-71.06473, 42.305636]",Point,PersLoc,1,MISPER,346,C11,First,No,MT IDA RD,Other,Unarmed,773909.3291,,2936702.269,2014

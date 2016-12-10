@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70175,140348133.0,Tuesday,No,2014-06-03T10:00:00.000,PropFound,"[-71.13106, 42.350481]",Point,PropFound,6,FDPROP,796,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,755896.1988,HARVARD AV,2952960.025,2014
+245922,140349521.0,Tuesday,No,2014-06-03T21:00:00.000,PropFound,"[-71.121654, 42.269662]",Point,PropFound,6,FDPROP,496,E18,First,No,PROVIDENCE ST,Part three,Unarmed,758569.1685,,2923519.163,2014
+262978,140348894.0,Tuesday,No,2014-06-03T16:45:00.000,PropFound,"[0, 0]",Point,PropFound,6,FDPROP,131,D4,First,No,PARK SQ,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64643,130431238.0,Friday,No,2013-07-12T20:37:00.000,DISORDERLY,"[-71.09824, 42.345381]",Point,24xx,7,ARREST,624,D4,First,No,VAN NESS ST,Part Two,Unarmed,764776.5712,YAWKEY WY,2951141.566,2013
+171153,130429215.0,Friday,No,2013-07-12T00:40:00.000,DISORDERLY,"[-71.085618, 42.32866]",Point,24xx,7,ARREST,282,B2,Last,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2013
+248803,130430839.0,Friday,No,2013-07-12T18:00:00.000,DISORDERLY,"[-71.091807, 42.315029]",Point,24xx,7,SSTOP ,314,B2,First,No,CRAWFORD ST,Part Two,Unarmed,766568.3992,,2940088.937,2013

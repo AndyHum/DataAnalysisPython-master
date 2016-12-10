@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62680,130353396.0,Saturday,No,2013-06-08T16:00:00.000,PersLoc,"[-71.08724, 42.329171]",Point,PersLoc,6,MSNCOM,292,B2,First,No,DUDLEY ST,Other,Unarmed,767778.8177,,2945248.546,2013
+67507,130348890.0,Saturday,No,2013-06-08T12:30:00.000,PersLoc,"[-71.09486, 42.315301]",Point,PersLoc,6,MSNCOM,307,E13,Day,No,WARDMAN RD,Other,Unarmed,765742.3612,,2940184.2010000004,2013
+238431,130350722.0,Saturday,No,2013-06-08T12:30:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,6,MISPER,806,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2013

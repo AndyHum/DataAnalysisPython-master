@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35153,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[-71.054679, 42.341288]",Point,18xx,7,IVPREM,200,C6,,No,W BROADWAY,Part Two,None,776560.0,,2950000.0,2015
+35154,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[-71.054679, 42.341288]",Point,18xx,7,IVPREM,200,C6,,No,W BROADWAY,Part Two,None,776560.0,,2950000.0,2015
+58709,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,7,ADMRPT,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+58710,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,7,ADMRPT,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+59410,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[-71.097074, 42.319498]",Point,18xx,7,CD11,304,B2,,No,DIMOCK ST,Part Two,None,765136.0,,2940000.0,2015
+75842,,Friday,No,2015-07-10T15:41:00.000,Drug Violation,"[0, 0]",Point,18xx,7,SS,199,C6,,No,A ST,Part Two,None,,,,2015
+184092,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,7,A7,,No,BENNINGTON ST,Part Two,None,,BREED ST,,2015
+203514,,Friday,No,2015-07-10T12:15:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,302,E13,,No,COLUMBUS AVE,Part Two,None,,HEATH ST,,2015
+227908,,Friday,No,2015-07-10T15:29:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,520,E18,,No,HARVARD AVE,Part Two,None,,RIVER ST,,2015
+228525,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[-71.081835, 42.271324]",Point,18xx,7,ARREST,422,B3,,No,RIVER ST,Part Two,None,769344.0,,2920000.0,2015
+241470,,Friday,No,2015-07-10T08:37:00.000,Drug Violation,"[0, 0]",Point,18xx,7,UNCONS,257,B2,,No,ARION ST,Part Two,None,,COLUMBIA RD,,2015
+241689,,Friday,No,2015-07-10T15:39:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,516,E18,,No,DANA AVE,Part Two,None,, TRUMAN PKWY ,,2015
+250343,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[-71.031241, 42.376383]",Point,18xx,7,ARREST,20,A7,,No,CHELSEA ST,Part Two,None,782826.0,,2960000.0,2015
+255132,,Friday,No,2015-07-10T00:00:00.000,Drug Violation,"[-71.064028, 42.309158]",Point,18xx,7,ARREST,334,C11,,No,BOWDOIN ST,Part Two,None,774093.0,,2940000.0,2015

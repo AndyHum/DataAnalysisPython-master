@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35591,130028519.0,Monday,No,2013-01-14T15:25:00.000,SearchWarr,"[-71.090956, 42.333723]",Point,SearchWarr,1,CD11  ,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2013
+163634,130029420.0,Monday,No,2013-01-14T19:30:00.000,SearchWarr,"[-71.0543, 42.367041]",Point,SearchWarr,1,CD11  ,83,A1,First,No,CHARTER ST,Part Three,Other,776613.7378,SALEM ST,2959093.892,2013
+171240,130029061.0,Monday,No,2013-01-14T19:10:00.000,SearchWarr,"[-71.0541, 42.364136]",Point,SearchWarr,1,SSTOP ,88,A1,First,No,HANOVER ST,Part three,Other,776673.3203,,2958035.535,2013
+172941,130060263.0,Monday,No,2013-01-14T16:20:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,1,CD11  ,72,A1,First,No,BULFINCH PL,Part Three,Unarmed,774549.1083,,2957241.005,2013
+181022,130060276.0,Monday,No,2013-01-14T16:00:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,1,CD11  ,72,A1,First,No,BULFINCH PL,Part Three,Unarmed,774549.1083,,2957241.005,2013

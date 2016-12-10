@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88827,130712937.0,Saturday,No,2013-11-09T03:42:00.000,Gather,"[-71.084625, 42.311006]",Point,Gather,11,PARTY ,320,B2,Last,No,CRAWFORD ST,Part three,Unarmed,768518.1535,,2938632.245,2013
+110497,130713532.0,Saturday,No,2013-11-09T12:57:00.000,Gather,"[-71.061155, 42.357256]",Point,Gather,11,PROTES,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774779.5911,PARK ST,2955518.44,2013
+135147,130712598.0,Saturday,No,2013-11-09T03:36:00.000,Gather,"[-71.106187, 42.333032]",Point,Gather,11,PARTY ,604,B2,Last,No,WAIT ST,Part three,Unarmed,762648.7896,,2946631.079,2013
+210466,130713873.0,Saturday,No,2013-11-09T12:00:00.000,Gather,"[-71.05833, 42.308091]",Point,Gather,11,PROTES,254,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775635.9102,HOYT ST,2937605.808,2013

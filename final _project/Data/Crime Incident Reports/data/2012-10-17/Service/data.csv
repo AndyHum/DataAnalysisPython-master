@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21477,120653860.0,Wednesday,No,2012-10-17T09:20:00.000,Service,"[-71.059987, 42.361648]",Point,Service,10,ARREST,0,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+59492,120653733.0,Wednesday,No,2012-10-17T08:30:00.000,Service,"[-71.07824, 42.315841]",Point,Service,10,SSTOP ,311,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,770236.4548,MAYWOOD ST,2940402.7739999997,2012
+114687,120653933.0,Wednesday,No,2012-10-17T10:00:00.000,Service,"[-71.0721, 42.349281]",Point,Service,10,IVPREM,128,D4,Day,No,BERKELEY ST,Part Three,Unarmed,771835.9379,,2952597.167,2012
+150080,120656699.0,Wednesday,No,2012-10-17T14:19:00.000,Service,"[-71.12564, 42.263261]",Point,Service,10,ARREST,546,E18,Day,No,AUSTIN ST,Part Three,Unarmed,757500.7875,WEST ST,2921181.9889999996,2012
+166989,120654215.0,Wednesday,No,2012-10-17T12:40:00.000,Service,"[-71.07945, 42.332001]",Point,Service,10,IVPER ,269,B2,Day,No,MELNEA CASS BL,Part Three,Unarmed,769880.1638,HARRISON AV,2946290.1360000004,2012
+204276,120654759.0,Wednesday,No,2012-10-17T15:30:00.000,Service,"[-71.071975, 42.334581]",Point,Service,10,ARREST,169,D4,Day,No,ALBANY ST,Part Three,Unarmed,771896.608,E CONCORD ST,2947240.389,2012
+216546,120656142.0,Wednesday,No,2012-10-17T16:00:00.000,Service,"[-71.1549, 42.342961]",Point,Service,10,IVPER ,773,D14,First,No,HATHERLY RD,Part Three,Unarmed,749463.0558,,2950192.613,2012

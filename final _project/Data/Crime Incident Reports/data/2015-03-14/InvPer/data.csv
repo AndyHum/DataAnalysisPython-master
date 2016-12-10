@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43565,152020610.0,Saturday,No,2015-03-14T12:33:00.000,InvPer,"[-71.088555, 42.280791]",Point,InvPer,3,SHOTS,0,B3,Day,No,WOOLSON ST,Part three,Firearm,767508.2841,,2927616.394,2015
+53883,152020606.0,Saturday,No,2015-03-14T13:00:00.000,InvPer,"[-71.066534, 42.313851]",Point,InvPer,3,IVPER,0,C11,Day,No,PAYSON AV,Part three,Unarmed,773405.9843,,2939693.4289999995,2015
+98604,152020703.0,Saturday,No,2015-03-14T19:34:00.000,InvPer,"[-71.071995, 42.315121]",Point,InvPer,3,IVPER,0,B2,First,No,MAGNOLIA SQ,Part three,Unarmed,771926.7865,,2940148.808,2015
+99458,152022296.0,Saturday,No,2015-03-14T23:00:00.000,InvPer,"[-71.042735, 42.285531]",Point,InvPer,3,IVPER,0,C11,First,No,GALLIVAN BL,Part three,Unarmed,779898.2977,,2929406.853,2015
+198349,152020684.0,Saturday,No,2015-03-14T18:26:00.000,InvPer,"[-71.077255, 42.317356]",Point,InvPer,3,IVPER,0,B2,First,No,INGLESIDE ST,Part three,Unarmed,770500.1203,,2940956.185,2015
+201482,152020641.0,Saturday,No,2015-03-14T15:12:00.000,InvPer,"[-71.064905, 42.352371]",Point,InvPer,3,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+204125,152020695.0,Saturday,No,2015-03-14T19:07:00.000,InvPer,"[-71.131494, 42.289836]",Point,InvPer,3,IVPER,0,E5,First,No,SYMMES ST,Part three,Unarmed,755874.3425,SOUTH ST,2930859.231,2015
+245766,152020533.0,Saturday,No,2015-03-14T05:03:00.000,InvPer,"[-71.074107, 42.284279]",Point,InvPer,3,SSA,0,B3,Last,No,ARMANDINE ST,Part three,Unarmed,771411.6405,,2928906.461,2015
+260545,152020661.0,Saturday,No,2015-03-14T17:10:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,A7,First,No,LEXINGTON ST,Part three,Unarmed,,,,2015
+261267,152020729.0,Saturday,No,2015-03-14T22:25:00.000,InvPer,"[0, 0]",Point,InvPer,3,SS,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+266198,152020837.0,Saturday,No,2015-03-14T21:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,AB,0,D4,First,No,TREMONT ST,Part three,Unarmed,,UNION PARK ST,,2015
+266351,152020648.0,Saturday,No,2015-03-14T16:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,TS,0,B2,First,No,SEAVER ST,Part three,Unarmed,,,,2015

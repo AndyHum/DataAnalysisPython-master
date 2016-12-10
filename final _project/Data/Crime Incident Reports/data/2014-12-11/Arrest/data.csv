@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+166830,142056711.0,Thursday,No,2014-12-11T23:45:00.000,Arrest,"[-71.064285, 42.318166]",Point,Arrest,12,ARREST,0,B2,First,No,HAMLET ST,Part three,Unarmed,774006.3778,,2941269.0130000003,2014
+196118,142056567.0,Thursday,No,2014-12-11T10:17:00.000,Arrest,"[-71.044145, 42.332866]",Point,Arrest,12,CD11,0,C6,Day,No,G ST,Part three,Unarmed,779424.5802,,2946654.4,2014
+239821,142056457.0,Thursday,No,2014-12-11T08:45:00.000,Arrest,"[-71.049385, 42.331776]",Point,Arrest,12,ARREST,0,C6,Day,No,E 8TH ST,Part three,Unarmed,778009.8586,,2946249.6580000003,2014

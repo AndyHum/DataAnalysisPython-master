@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54826,142022309.0,Saturday,No,2014-08-23T23:12:00.000,Service,"[-71.088458, 42.270158]",Point,Service,8,ARREST,0,B3,First,No,RIVER ST,Part three,Unarmed,767553.0934,,2923741.432,2014
+163385,142038765.0,Saturday,No,2014-08-23T14:00:00.000,Service,"[-71.085618, 42.32866]",Point,Service,8,ADMRPT,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+169643,142022318.0,Saturday,No,2014-08-23T23:15:00.000,Service,"[-71.07204, 42.341281]",Point,Service,8,ARREST,0,D4,First,No,SHAWMUT AV,Part three,Unarmed,771866.7846,W DEDHAM ST,2949681.9,2014

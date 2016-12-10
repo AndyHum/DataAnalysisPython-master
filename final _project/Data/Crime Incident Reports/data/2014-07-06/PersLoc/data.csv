@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80388,142006574.0,Sunday,No,2014-07-06T13:40:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,7,MISSIN,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+113309,142010213.0,Sunday,No,2014-07-06T00:00:00.000,PersLoc,"[-71.127358, 42.236039]",Point,PersLoc,7,IVPER,0,E18,Last,No,NEPONSET VALLEY PY,Other,Unarmed,757079.0429,,2911259.693,2014
+131229,142006700.0,Sunday,No,2014-07-06T23:15:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,7,MISSIN,0,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014

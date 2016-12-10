@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34105,120422724.0,Monday,No,2012-07-09T19:45:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,7,MISPER,784,D14,First,No,WARREN ST,Part Three,Unarmed,752824.3316,,2952548.8430000003,2012
+52939,120422999.0,Monday,No,2012-07-09T22:15:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,7,IVPER ,784,D14,First,No,WARREN ST,Part Three,Other,752824.3316,,2952548.8430000003,2012
+64177,120421933.0,Monday,No,2012-07-09T11:00:00.000,PersLoc,"[-71.00413, 42.385721]",Point,PersLoc,7,MISPER,6,A7,Day,No,SARATOGA ST,Part Three,Unarmed,790131.9348,,2965975.807,2012
+168127,120422951.0,Monday,No,2012-07-09T21:53:00.000,PersLoc,"[-71.082487, 42.302716]",Point,PersLoc,7,ALARMX,458,B3,First,No,WOLCOTT ST,Part Three,Unarmed,769111.0059999999,,2935614.0689999997,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6156,130620151.0,Saturday,No,2013-09-28T22:11:00.000,WEAPONS CHARGE,"[-71.090025, 42.316871]",Point,15xx,9,SSTOP ,312,B2,First,No,HAROLD ST,Part Two,Firearm,767047.292,,2940762.583,2013
+19578,130619954.0,Saturday,No,2013-09-28T20:36:00.000,WEAPONS CHARGE,"[-71.09318, 42.312201]",Point,15xx,9,SSTOP ,316,B2,First,No,HAROLD ST,Part Two,Firearm,766202.1251,HUTCHINGS ST,2939056.673,2013
+59232,130620104.0,Saturday,No,2013-09-28T21:45:00.000,WEAPONS CHARGE,"[-71.082369, 42.2954]",Point,15xx,9,TSTOP ,441,B3,First,No,NIGHTINGALE ST,Part Two,Firearm,769155.9872,,2932948.2830000003,2013

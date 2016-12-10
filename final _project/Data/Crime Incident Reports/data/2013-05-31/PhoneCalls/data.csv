@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10130,130327789.0,Friday,No,2013-05-31T15:55:00.000,PhoneCalls,"[-71.087165, 42.346206]",Point,PhoneCalls,5,THREAT,620,D4,Day,No,MASS PIKE,Part three,Unarmed,767769.0517,,2951456.5089999996,2013
+101586,130334653.0,Friday,No,2013-05-31T16:30:00.000,PhoneCalls,"[-71.066875, 42.359916]",Point,PhoneCalls,5,HARPT ,67,A1,First,No,GARDEN ST,Part Two,Unarmed,773228.6579,,2956479.894,2013
+181543,130345126.0,Friday,No,2013-05-31T17:30:00.000,PhoneCalls,"[-71.070213, 42.319216]",Point,PhoneCalls,5,HARPT ,183,B2,First,No,DUDLEY ST,Part three,Unarmed,772401.1225,,2941643.2810000004,2013

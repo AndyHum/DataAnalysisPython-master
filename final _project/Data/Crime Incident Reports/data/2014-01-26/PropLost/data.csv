@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31023,140053145.0,Sunday,No,2014-01-26T12:00:00.000,PropLost,"[-71.0672, 42.350816]",Point,PropLost,1,LSTPRP,125,A1,Day,No,STUART ST,Part three,Unarmed,773157.6465,,2953163.233,2014
+118328,140063768.0,Sunday,No,2014-01-26T01:00:00.000,PropLost,"[-71.098335, 42.347376]",Point,PropLost,1,LSTPRP,624,D4,Last,No,BROOKLINE AV,Part three,Unarmed,764747.4655,,2951868.462,2014
+163627,140052421.0,Sunday,No,2014-01-26T01:00:00.000,PropLost,"[-71.093964, 42.345871]",Point,PropLost,1,LSTPRP,617,D4,Last,No,BOYLSTON ST,Part three,Unarmed,765931.6383,,2951325.4069999997,2014
+246260,140057043.0,Sunday,No,2014-01-26T15:45:00.000,PropLost,"[-71.060968, 42.365665]",Point,PropLost,1,LSTPRP,76,A1,Day,No,CAUSEWAY ST,Part three,Unarmed,774814.3066,,2958582.8989999997,2014
+262163,140052014.0,Sunday,No,2014-01-26T04:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,LSTPRP,121,A1,Last,No,TREMONT ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25637,,Wednesday,No,2015-07-01T00:00:00.000,Property Found,"[-71.104294, 42.309719]",Point,PropFound,7,PROP,574,E13,,No,WASHINGTON ST,Part Three,None,763200.0,,2940000.0,2015
+117362,,Wednesday,No,2015-07-01T00:00:00.000,Property Found,"[-71.164459, 42.302966]",Point,PropFound,7,PROP,748,E5,,No,BROADLAWN PARK,Part Three,None,746936.0,,2940000.0,2015
+257955,,Wednesday,No,2015-07-01T00:00:00.000,Property Found,"[-71.065974, 42.293985]",Point,PropFound,7,FDWEAP,361,C11,,No,MATHER ST,Part Three,None,773594.0,,2930000.0,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64959,130730796.0,Sunday,No,2013-11-17T19:05:00.000,MedAssist,"[-71.063585, 42.288311]",Point,MedAssist,11,UNK   ,817,C11,First,No,DORCHESTER AV,Part three,Unarmed,774251.3569,,2930390.3680000002,2013
+86934,130729343.0,Sunday,No,2013-11-17T00:25:00.000,MedAssist,"[-71.068932, 42.312299]",Point,MedAssist,11,EDP2  ,331,B2,Last,No,COLUMBIA RD,Part three,Unarmed,772760.1686,,2939124.445,2013
+151779,130730165.0,Sunday,No,2013-11-17T12:21:00.000,MedAssist,"[-71.080105, 42.339015]",Point,MedAssist,11,TRAUMA,273,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,769690.2785,,2948844.9889999996,2013
+201498,130730561.0,Sunday,No,2013-11-17T16:42:00.000,MedAssist,"[-71.060695, 42.284546]",Point,MedAssist,11,REQEP ,391,C11,First,No,BEAUMONT ST,Part three,Unarmed,775040.3882,,2929022.365,2013
+219707,130730809.0,Sunday,No,2013-11-17T18:00:00.000,MedAssist,"[-71.05137, 42.332641]",Point,MedAssist,11,INJOFF,289,C6,First,No,DORCHESTER ST,Part three,Unarmed,777471.4752,,2946562.0489999996,2013

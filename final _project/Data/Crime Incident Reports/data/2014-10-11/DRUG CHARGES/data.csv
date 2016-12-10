@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36408,142038079.0,Saturday,No,2014-10-11T10:10:00.000,DRUG CHARGES,"[-71.061745, 42.353086]",Point,18xx,10,ARREST,0,A1,Day,No,HAYDEN ST,Part Two,Unarmed,774627.933,HARRISON AV,2953997.9930000002,2014
+61677,142038212.0,Saturday,No,2014-10-11T18:30:00.000,DRUG CHARGES,"[-71.08152, 42.328481]",Point,18xx,10,TS,0,B2,First,No,DUDLEY ST,Part Two,Unarmed,769326.7509999999,WINSLOW ST,2945004.6339999996,2014
+141635,142038229.0,Saturday,No,2014-10-11T20:15:00.000,DRUG CHARGES,"[-71.039428, 42.367778]",Point,18xx,10,SS,0,A7,First,No,S BREMEN ST,Part Two,Other,780631.3068,,2959383.722,2014
+150352,142038264.0,Saturday,No,2014-10-11T22:30:00.000,DRUG CHARGES,"[-71.074385, 42.335516]",Point,18xx,10,IVPER,0,D4,First,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+185186,130752731.0,Thursday,No,2013-11-28T04:08:00.000,DRUG CHARGES,"[-71.07705, 42.336481]",Point,18xx,11,TSTOP ,170,D4,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,770521.0048,WASHINGTON ST,2947925.937,2013
+187010,130752467.0,Thursday,No,2013-11-28T00:20:00.000,DRUG CHARGES,"[-71.065337, 42.316869]",Point,18xx,11,TSTOP ,258,B2,Last,No,COLUMBIA RD,Part Two,Other,773724.0529,,2940794.738,2013
+234885,130814647.0,Thursday,No,2013-11-28T10:45:00.000,DRUG CHARGES,"[-71.070835, 42.331511]",Point,18xx,11,INVEST,177,C6,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,772210.4703,,2946123.1760000004,2013

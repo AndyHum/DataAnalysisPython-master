@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56669,142004571.0,Thursday,No,2013-06-20T12:37:00.000,FORGERY,"[-71.07111, 42.380231]",Point,10xx,6,LARCEN,0,A15,Day,No,RUTHERFORD AV,Part Two,Unarmed,772046.839,,2963877.313,2013
+131982,140059466.0,Thursday,No,2013-06-20T15:30:00.000,FORGERY,"[-71.153262, 42.349634]",Point,10xx,6,MISC  ,770,D14,Day,No,MARKET ST,Part Two,Unarmed,749895.9565,,2952625.977,2013
+253680,130375023.0,Thursday,No,2013-06-20T00:40:00.000,FORGERY,"[-71.083053, 42.310205]",Point,10xx,6,IVPER ,320,B2,Last,No,WARREN ST,Part Two,Unarmed,768944.7816,,2938342.497,2013

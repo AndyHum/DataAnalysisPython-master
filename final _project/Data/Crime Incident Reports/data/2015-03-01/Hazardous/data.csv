@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10289,152016625.0,Sunday,No,2015-03-01T18:45:00.000,Hazardous,"[-71.114273, 42.311901]",Point,Hazardous,3,REQP,0,E13,First,No,CENTRE ST,Other,Unarmed,760497.2545,,2938920.7630000003,2015
+89158,152016646.0,Sunday,No,2015-03-01T20:49:00.000,Hazardous,"[-71.1055, 42.32078]",Point,Hazardous,3,IVPREM,0,E13,First,No,WYMAN ST,Other,Unarmed,762855.2941,,2942167.099,2015
+253204,152016653.0,Sunday,No,2015-03-01T20:50:00.000,Hazardous,"[-71.081808, 42.339442]",Point,Hazardous,3,REQP,0,D4,First,No,NORTHAMPTON ST,Other,Unarmed,769229.0704,,2948998.559,2015

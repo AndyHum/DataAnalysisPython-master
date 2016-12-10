@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21943,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.079085, 42.338289]",Point,06MV,7,,156,D4,,No,MASSACHUSETTS AVE,Part One,None,769967.0,,2950000.0,2015
+40070,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.096211, 42.334319]",Point,06MV,7,BE,901,B2,,No,MCGREEVEY WAY,Part One,None,765344.0,,2950000.0,2015
+72871,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.069693, 42.351435]",Point,06MV,7,,120,A1,,No,PARK PLZ,Part One,None,772482.0,,2950000.0,2015
+113741,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.168123, 42.292828]",Point,06MV,7,BE,746,E5,,No,FURBUSH RD,Part One,None,745959.0,,2930000.0,2015
+116655,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.063754, 42.280543]",Point,06MV,7,IVPER,395,C11,,No,GALLIVAN BLVD,Part One,None,774220.0,,2930000.0,2015
+124145,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.063733, 42.351031]",Point,06MV,7,ARREST,117,A1,,No,STUART ST,Part One,None,774094.0,,2950000.0,2015
+158959,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.057981, 42.294724]",Point,06MV,7,BE,364,C11,,No,CENTRE ST,Part One,None,775755.0,,2930000.0,2015
+165228,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.123287, 42.252425]",Point,06MV,7,,521,E18,,No,DANA AVE,Part One,None,758155.0,,2920000.0,2015
+210000,,Wednesday,No,2015-07-22T17:07:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,7,BE,0,,,No,BOWDOIN ST,Part One,None,,,,2015
+219283,,Wednesday,No,2015-07-22T07:00:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,7,VAND,0,,,No,,Part One,None,,BOYLSTON ST,,2015
+221584,,Wednesday,No,2015-07-22T00:00:00.000,Larceny From Motor Vehicle,"[-71.09178, 42.297651]",Point,06MV,7,BE,566,B2,,No,JEWISH WAR VETERANS DR,Part One,None,766606.0,,2930000.0,2015

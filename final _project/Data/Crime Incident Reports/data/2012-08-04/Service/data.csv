@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25218,120482043.0,Saturday,No,2012-08-04T09:08:00.000,Service,"[-71.063675, 42.352301]",Point,Service,8,INVEST,0,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774107.7181,,2953709.249,2012
+146425,120482244.0,Saturday,No,2012-08-04T11:07:00.000,Service,"[-71.123915, 42.352001]",Point,Service,8,REQP  ,796,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,757825.1322,,2953522.3789999997,2012
+152792,120482674.0,Saturday,No,2012-08-04T14:30:00.000,Service,"[-71.0888, 42.324191]",Point,Service,8,SSTOP ,293,B2,Day,No,CEDAR ST,Part Three,Unarmed,767365.7394,WASHINGTON ST,2943431.709,2012
+176402,120482941.0,Saturday,No,2012-08-04T05:30:00.000,Service,"[-71.05696, 42.329301]",Point,Service,8,ARREST,200,C6,Last,No,ANDREW SQUARE,Part Three,Unarmed,775966.3364,,2945336.995,2012
+178524,120483070.0,Saturday,No,2012-08-04T18:37:00.000,Service,"[-71.07807, 42.316881]",Point,Service,8,TSTOP ,323,B2,First,No,BLUE HILL AV,Part Three,Unarmed,770280.5576,DEWEY ST,2940781.994,2012
+224008,120482619.0,Saturday,No,2012-08-04T14:30:00.000,Service,"[-71.0888, 42.324191]",Point,Service,8,SSTOP ,293,B2,Day,No,CEDAR ST,Part Three,Unarmed,767365.7394,WASHINGTON ST,2943431.709,2012
+258883,120483312.0,Saturday,No,2012-08-04T20:43:00.000,Service,"[-71.075986, 42.326608]",Point,Service,8,ARREST,267,B2,First,No,DUDLEY ST,Part Three,Unarmed,770826.3215,,2944329.5,2012

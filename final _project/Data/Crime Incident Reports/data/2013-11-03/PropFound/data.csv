@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20915,130700628.0,Sunday,No,2013-11-03T15:30:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,11,FDPROP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+49091,130701375.0,Sunday,No,2013-11-03T21:45:00.000,PropFound,"[-71.049435, 42.336581]",Point,PropFound,11,FDPROP,214,C6,First,No,W 4TH ST,Part three,Unarmed,777987.0909,,2948000.611,2013
+117295,130700715.0,Sunday,No,2013-11-03T15:30:00.000,PropFound,"[-71.03468, 42.372441]",Point,PropFound,11,FDPROP,29,A7,Day,No,BREMEN ST,Part three,Unarmed,781905.1017,PORTER ST,2961090.0730000003,2013
+179302,130700613.0,Sunday,No,2013-11-03T14:30:00.000,PropFound,"[-71.069755, 42.275186]",Point,PropFound,11,FDPROP,414,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772606.0269,,2925598.958,2013
+228932,130700785.0,Sunday,No,2013-11-03T16:55:00.000,PropFound,"[-71.07843, 42.349776]",Point,PropFound,11,FDPROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2013
+254086,130700491.0,Sunday,No,2013-11-03T08:00:00.000,PropFound,"[-71.054722, 42.362271]",Point,PropFound,11,FDPROP,91,A1,Day,No,NORTH ST,Part three,Unarmed,776508.7258,CROSS ST,2957354.941,2013
+263255,130700171.0,Sunday,No,2013-11-03T08:00:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,93,A1,Day,No,NORTH ST,Part three,Unarmed,,,,2013
+265532,130699822.0,Sunday,No,2013-11-03T02:00:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,72,A1,Last,No,PORTLAND ST,Part three,Unarmed,,,,2013

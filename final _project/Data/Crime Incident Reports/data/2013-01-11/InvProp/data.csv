@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106874,130022852.0,Friday,No,2013-01-11T10:00:00.000,InvProp,"[-71.089615, 42.344991]",Point,InvProp,1,BERPT ,620,D4,Day,No,HEMENWAY ST,Part Three,Other,767108.76,,2951010.563,2013
+116908,130021983.0,Friday,No,2013-01-11T11:32:00.000,InvProp,"[-71.09374, 42.271421]",Point,InvProp,1,REQP  ,476,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766121.4405,,2924195.1119999997,2013
+166687,130023302.0,Friday,No,2013-01-11T23:38:00.000,InvProp,"[-71.080471, 42.322391]",Point,InvProp,1,SHOTS ,265,B2,First,No,COPELAND ST,Part Three,Other,769621.2376,,2942786.6739999996,2013
+217836,130022674.0,Friday,No,2013-01-11T13:00:00.000,InvProp,"[-71.097, 42.328151]",Point,InvProp,1,INVEST,300,B2,Day,No,COLUMBUS AV,Part Three,Unarmed,765141.45,CEDAR ST,2944864.2189999996,2013
+217926,130021270.0,Friday,No,2013-01-11T01:10:00.000,InvProp,"[-71.088178, 42.328158]",Point,InvProp,1,IVPREM,292,B2,Last,No,BARTLETT ST,Part Three,Other,767526.8064,,2944878.187,2013
+237228,130022756.0,Friday,No,2013-01-11T17:25:00.000,InvProp,"[-71.08144, 42.309931]",Point,InvProp,1,IVPREM,329,B2,First,No,STANWOOD ST,Part Three,Other,769381.5557,,2938244.811,2013

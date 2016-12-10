@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21094,142061045.0,Saturday,No,2014-12-27T21:45:00.000,PhoneCalls,"[-71.114498, 42.259675]",Point,PhoneCalls,12,IVPER,0,E18,First,No,RIVERSIDE SQ,Part three,Unarmed,760522.4517,,2919888.644,2014
+125207,142061500.0,Saturday,No,2014-12-27T11:00:00.000,PhoneCalls,"[-71.15242, 42.351791]",Point,PhoneCalls,12,INVEST,0,D14,Day,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2014
+215996,142060906.0,Saturday,No,2014-12-27T12:37:00.000,PhoneCalls,"[-71.11379, 42.252391]",Point,PhoneCalls,12,IVPER,0,E18,Day,No,HIGHLAND ST,Part three,Unarmed,760726.3285,,2917235.122,2014

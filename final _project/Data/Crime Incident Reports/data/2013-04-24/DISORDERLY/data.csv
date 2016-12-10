@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121570,130241914.0,Wednesday,No,2013-04-24T20:30:00.000,DISORDERLY,"[-71.08046, 42.335661]",Point,24xx,4,ARREST,274,D4,First,No,SHAWMUT AV,Part Two,Unarmed,769600.5096,,2947622.561,2013
+243089,130241768.0,Wednesday,No,2013-04-24T19:00:00.000,DISORDERLY,"[-71.060964, 42.352801]",Point,24xx,4,ARREST,112,A1,First,No,CHAUNCY ST,Part Two,Unarmed,774839.4243,,2953895.0289999996,2013
+244879,130240112.0,Wednesday,No,2013-04-24T01:42:00.000,DISORDERLY,"[-71.07844, 42.306111]",Point,24xx,4,ARREST,329,B2,Last,No,COLUMBIA RD,Part Two,Unarmed,770199.8873,GENEVA AV,2936856.7389999996,2013

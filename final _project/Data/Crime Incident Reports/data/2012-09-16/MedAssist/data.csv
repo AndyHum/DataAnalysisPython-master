@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15561,120580322.0,Sunday,No,2012-09-16T00:00:00.000,MedAssist,"[-71.128355, 42.283788]",Point,MedAssist,9,EDP2  ,560,E5,Last,No,POPLAR ST,Part Three,Unarmed,756733.2686,,2928658.8060000003,2012
+30351,120582068.0,Sunday,No,2012-09-16T19:30:00.000,MedAssist,"[-71.08257, 42.314951]",Point,MedAssist,9,TRAUMA,322,B2,First,No,KAVANAUGH WAY,Part Three,Unarmed,769066.9552,,2940072.682,2012
+73751,120581493.0,Sunday,No,2012-09-16T14:27:00.000,MedAssist,"[-71.112361, 42.316208]",Point,MedAssist,9,EDP2  ,639,E13,Day,No,ROBINWOOD AV,Part Three,Unarmed,761007.4093,,2940492.683,2012
+76421,120580652.0,Sunday,No,2012-09-16T02:25:00.000,MedAssist,"[-71.0572, 42.319076]",Point,MedAssist,9,IVPER ,244,C11,Last,No,EDISON,Part Three,Unarmed,775920.7844,,2941610.499,2012
+95914,120581088.0,Sunday,No,2012-09-16T10:02:00.000,MedAssist,"[-71.10253, 42.316171]",Point,MedAssist,9,EDP2  ,577,E13,Day,No,BOYLSTON PL,Part Three,Unarmed,763666.4454,,2940491.483,2012
+97356,120582025.0,Sunday,No,2012-09-16T19:07:00.000,MedAssist,"[-71.064015, 42.348681]",Point,MedAssist,9,EDP2  ,123,A1,First,No,WASHINGTON ST,Part Three,Knife,774022.5582,,2952389.583,2012
+126435,120581828.0,Sunday,No,2012-09-16T17:26:00.000,MedAssist,"[-71.06109, 42.355716]",Point,MedAssist,9,INJOFF,72,A1,First,No,WINTER ST,Part Three,Unarmed,774800.0468,,2954957.325,2012
+202310,120581126.0,Sunday,No,2012-09-16T10:42:00.000,MedAssist,"[-71.141721, 42.34306]",Point,MedAssist,9,CARST ,786,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,753025.5063,,2950243.078,2012
+253914,120580868.0,Sunday,No,2012-09-16T06:08:00.000,MedAssist,"[-71.069885, 42.302466]",Point,MedAssist,9,ABRPT ,342,C11,Last,No,GENEVA AV,Part Three,Unarmed,772520.7157,,2935539.999,2012
+264308,120580934.0,Sunday,No,2012-09-16T04:32:00.000,MedAssist,"[0, 0]",Point,MedAssist,9,INJOFF,282,B2,Last,No,WALNUT PARK,Part Three,Unarmed,,WESTMINSTER ST,,2012

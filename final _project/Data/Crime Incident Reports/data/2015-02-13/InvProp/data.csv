@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+209,152011673.0,Friday,No,2015-02-13T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,CD19,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+58846,152011783.0,Friday,No,2015-02-13T14:31:00.000,InvProp,"[-71.09378, 42.287451]",Point,InvProp,2,BE,0,B3,Day,No,MORTON ST,Part three,Other,766082.7945,,2930036.6160000004,2015
+70848,152011660.0,Friday,No,2015-02-13T01:16:00.000,InvProp,"[-71.082487, 42.302716]",Point,InvProp,2,SSA,0,B3,Last,No,WOLCOTT ST,Part three,Unarmed,769111.0059999999,,2935614.0689999997,2015
+213316,152011744.0,Friday,No,2015-02-13T12:01:00.000,InvProp,"[-71.089151, 42.311211]",Point,InvProp,2,UNKEMS,0,B2,Day,No,HOMESTEAD ST,Part three,Unarmed,767293.447,,2938701.003,2015
+254876,152011675.0,Friday,No,2015-02-13T06:30:00.000,InvProp,"[-71.084485, 42.348131]",Point,InvProp,2,CD9,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2015

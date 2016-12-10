@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34271,130319208.0,Tuesday,No,2013-05-28T08:00:00.000,FIRE,"[-71.07224, 42.321594]",Point,FIRE,5,VANRPT,183,B2,Day,No,DUDLEY ST,Part three,Unarmed,771848.4464,,2942507.099,2013
+88153,130320607.0,Tuesday,No,2013-05-28T17:55:00.000,FIRE,"[-71.052934, 42.331324]",Point,FIRE,5,FV    ,196,C6,First,No,OLD COLONY AV,Part Three,Unarmed,777051.041,,2946079.86,2013
+137898,130318926.0,Tuesday,No,2013-05-28T03:49:00.000,FIRE,"[-71.085813, 42.303132]",Point,FIRE,5,FV    ,0,B2,Last,No,FRANKLIN PARK RD,Part three,Other,768210.6151,,2935761.349,2013

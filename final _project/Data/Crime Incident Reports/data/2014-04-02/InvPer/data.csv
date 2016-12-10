@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14606,140199440.0,Wednesday,No,2014-04-02T21:44:00.000,InvPer,"[-71.06519, 42.282616]",Point,InvPer,4,IVPREM,395,C11,First,No,DORCHESTER AV,Part three,Unarmed,773827.6609,,2928312.814,2014
+17111,140218963.0,Wednesday,No,2014-04-02T14:00:00.000,InvPer,"[-71.074875, 42.314326]",Point,InvPer,4,THREAT,327,B2,Day,No,CUNNINGHAM ST,Part three,Unarmed,771149.2998,,2939855.202,2014
+50476,140199017.0,Wednesday,No,2014-04-02T18:28:00.000,InvPer,"[-71.05066, 42.332571]",Point,InvPer,4,INVCHD,915,C6,First,No,E 8TH ST,Part three,Unarmed,777663.585,,2946537.55,2014
+60246,140199129.0,Wednesday,No,2014-04-02T19:13:00.000,InvPer,"[-71.07666, 42.351141]",Point,InvPer,4,SUSPER,137,D4,First,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2014
+68197,140199562.0,Wednesday,No,2014-04-02T22:55:00.000,InvPer,"[-71.130482, 42.349666]",Point,InvPer,4,IVDRUG,796,D14,First,No,HARVARD AV,Part three,Unarmed,756053.6909,,2952663.646,2014
+82861,140198134.0,Wednesday,No,2014-04-02T09:00:00.000,InvPer,"[-71.077917, 42.343296]",Point,InvPer,4,IVPER ,152,D4,Day,No,WARREN AV,Part three,Firearm,770274.0752,,2950408.285,2014
+102365,140199513.0,Wednesday,No,2014-04-02T22:15:00.000,InvPer,"[-71.12485, 42.351824]",Point,InvPer,4,FIREB ,796,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,757572.4943,,2953456.4669999997,2014
+204950,140198954.0,Wednesday,No,2014-04-02T17:00:00.000,InvPer,"[-71.04948, 42.331071]",Point,InvPer,4,SEXOFF,915,C6,First,No,MERCER ST,Part three,Unarmed,777985.5272,E 9TH ST,2945992.607,2014
+254134,140198154.0,Wednesday,No,2014-04-02T09:30:00.000,InvPer,"[-71.03847, 42.343926]",Point,InvPer,4,IVPER ,209,C6,Day,No,SUMMER ST,Part three,Unarmed,780937.2097,,2950693.106,2014

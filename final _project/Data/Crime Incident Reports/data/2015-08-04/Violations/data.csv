@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21675,,Tuesday,No,2015-08-04T00:00:00.000,Firearm Violations,"[-71.081881, 42.340447]",Point,15xx,8,SSA,597,D4,,No,COLUMBUS AVE,Part Two,Firearm,769208.0,,2950000.0,2015
+24899,,Tuesday,No,2015-08-04T00:00:00.000,Firearm Violations,"[-71.091878, 42.333679]",Point,15xx,8,FDWEAP,289,B2,,No,SCHROEDER PLZ,Part Two,Firearm,766517.0,,2950000.0,2015
+37870,,Tuesday,No,2015-08-04T11:11:00.000,Violations,"[0, 0]",Point,VAL,8,MVA,458,B3,,No,BLUE HILL AVE,Part Two,None,,GLEN LN,,2015
+39545,,Tuesday,No,2015-08-04T00:00:00.000,Restraining Order Violations,"[-71.136966, 42.276739]",Point,Restrain,8,VIORDR,910,E5,,No,UNITY WAY,Part Two,None,754414.0,,2930000.0,2015
+62104,,Tuesday,No,2015-08-04T00:00:00.000,Restraining Order Violations,"[-71.074522, 42.351762]",Point,Restrain,8,ARREST,133,D4,,No,NEWBURY ST,Part Two,None,771177.0,,2950000.0,2015
+114424,,Tuesday,No,2015-08-04T01:28:00.000,Violations,"[0, 0]",Point,VAL,8,TS,320,B2,,No,CRAWFORD ST,Part Two,None,,ELM HILL AVE,,2015
+146392,,Tuesday,No,2015-08-04T00:00:00.000,Firearm Violations,"[-71.072206, 42.280292]",Point,15xx,8,SS,416,B3,,No,WILMINGTON AVE,Part Two,Firearm,771933.0,,2930000.0,2015
+165643,,Tuesday,No,2015-08-04T00:00:00.000,Restraining Order Violations,"[-71.069816, 42.311179]",Point,Restrain,8,VIORDR,333,C11,,No,QUINCY ST,Part Two,None,772523.0,,2940000.0,2015
+165644,,Tuesday,No,2015-08-04T00:00:00.000,Restraining Order Violations,"[-71.069816, 42.311179]",Point,Restrain,8,VIORDR,333,C11,,No,QUINCY ST,Part Two,None,772523.0,,2940000.0,2015
+181617,,Tuesday,No,2015-08-04T00:00:00.000,Restraining Order Violations,"[-71.113868, 42.319073]",Point,Restrain,8,VIORDR,635,E13,,No,PERSHING RD,Part Two,None,760595.0,,2940000.0,2015

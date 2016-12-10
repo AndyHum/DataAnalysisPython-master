@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56715,140070576.0,Monday,No,2014-02-03T18:45:00.000,InvPer,"[-71.060745, 42.289931]",Point,InvPer,2,MEET  ,366,C11,First,No,SHEPTON ST,Part three,Unarmed,775016.7511,,2930984.666,2014
+139401,140070034.0,Monday,No,2014-02-03T14:45:00.000,InvPer,"[-71.086905, 42.329971]",Point,InvPer,2,THREAT,290,B2,Day,No,MALCOLM X BL,Part three,Unarmed,767867.9908,,2945540.519,2014
+159062,140070588.0,Monday,No,2014-02-03T18:57:00.000,InvPer,"[-71.03922, 42.379016]",Point,InvPer,2,IVPREM,24,A7,First,No,MERIDIAN ST,Part three,Other,780665.3756,,2963479.477,2014
+173085,140069451.0,Monday,No,2014-02-03T10:00:00.000,InvPer,"[-71.05706, 42.363806]",Point,InvPer,2,NIDV  ,86,A1,Day,No,STILLMAN ST,Part three,Unarmed,775873.9984,,2957911.108,2014
+177563,140069029.0,Monday,No,2014-02-03T02:20:00.000,InvPer,"[-71.054375, 42.327796]",Point,InvPer,2,PERGUN,914,C6,Last,No,LOGAN ST,Part three,Firearm,776668.1887,,2944792.189,2014
+218014,140070341.0,Monday,No,2014-02-03T17:00:00.000,InvPer,"[-71.09941, 42.316796]",Point,InvPer,2,ALARMI,303,E13,First,No,ATHERTON PL,Part three,Unarmed,764509.2039,,2940723.192,2014
+235241,140070129.0,Monday,No,2014-02-03T15:20:00.000,InvPer,"[-71.04773, 42.334521]",Point,InvPer,2,SSTOP ,217,C6,Day,No,DORCHESTER ST,Part three,Unarmed,778452.0494,W 5TH ST,2947252.35,2014

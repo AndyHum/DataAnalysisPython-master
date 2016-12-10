@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33208,,Saturday,No,2015-07-11T00:00:00.000,Drug Violation,"[-71.083543, 42.288782]",Point,18xx,7,ARREST,439,B3,,No,,Part Two,None,768850.0,,2930000.0,2015
+98503,,Saturday,No,2015-07-11T21:15:00.000,Drug Violation,"[0, 0]",Point,18xx,7,MVA,297,B2,,No,ROCKLAND ST,Part Two,None,,WALNUT AVE,,2015
+100408,,Saturday,No,2015-07-11T14:07:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPER,26,A7,,No,EUTAW ST,Part Two,None,,MERIDIAN ST,,2015
+100900,,Saturday,No,2015-07-11T10:24:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,35,A7,,No,MAVERICK SQ,Part Two,None,, SUMNER ST ,,2015
+124024,,Saturday,No,2015-07-11T18:44:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPER,354,C11,,No,PARK ST,Part Two,None,,,,2015
+242201,,Saturday,No,2015-07-11T13:46:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,24,A7,,No,BROOKS ST,Part Two,None,,,,2015
+253230,,Saturday,No,2015-07-11T00:00:00.000,Drug Violation,"[-71.059709, 42.297555]",Point,18xx,7,IVPREM,355,C11,,No,GIBSON ST,Part Two,None,775283.0,,2930000.0,2015
+254851,,Saturday,No,2015-07-11T00:00:00.000,Drug Violation,"[-71.131904, 42.354295]",Point,18xx,7,ARREST,801,D14,,No,FARRINGTON AVE,Part Two,None,755662.0,,2950000.0,2015
+259082,,Saturday,No,2015-07-11T14:44:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVMV,427,B3,,No,,Part Two,None,,,,2015

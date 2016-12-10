@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27386,120755206.0,Saturday,No,2012-12-01T21:30:00.000,PersLoc,"[-71.12525, 42.241561]",Point,PersLoc,12,MISPER,524,E18,First,No,BADGER RD,Part Three,Unarmed,757641.0978,,2913274.6969999997,2012
+84821,120755715.0,Saturday,No,2012-12-01T18:00:00.000,PersLoc,"[-71.08084, 42.281579]",Point,PersLoc,12,MISPER,418,B3,First,No,MAXWELL ST,Part Three,Unarmed,769594.6205,,2927913.646,2012
+155854,120754229.0,Saturday,No,2012-12-01T21:14:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,12,MISPER,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2012
+254327,120756362.0,Saturday,No,2012-12-01T13:00:00.000,PersLoc,"[-71.14423, 42.251096]",Point,PersLoc,12,MISPER,536,E18,Day,No,EASTMONT RD,Part Three,Unarmed,752487.2574,,2916727.363,2012

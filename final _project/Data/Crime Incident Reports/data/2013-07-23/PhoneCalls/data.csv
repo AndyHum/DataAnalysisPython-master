@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37147,130456929.0,Tuesday,No,2013-07-23T09:30:00.000,PhoneCalls,"[-71.072219, 42.280255]",Point,PhoneCalls,7,MISCRP,416,B3,Day,No,WILMINGTON AV,Part three,Unarmed,771929.8987,,2927442.606,2013
+160954,130461777.0,Tuesday,No,2013-07-23T14:05:00.000,PhoneCalls,"[-71.10301, 42.343576]",Point,PhoneCalls,7,THREAT,628,D4,Day,No,PARK DR,Part Two,Unarmed,763490.1442,,2950477.753,2013
+167072,130462969.0,Tuesday,No,2013-07-23T17:46:00.000,PhoneCalls,"[-71.06214, 42.354561]",Point,PhoneCalls,7,HARPT ,111,A1,First,No,WEST ST,Part three,Unarmed,774518.4056,,2954534.963,2013
+216990,130457044.0,Tuesday,No,2013-07-23T21:45:00.000,PhoneCalls,"[-71.107805, 42.33605]",Point,PhoneCalls,7,IVPER ,612,B2,First,No,FRANCIS ST,Part three,Other,762206.2941,,2947728.97,2013

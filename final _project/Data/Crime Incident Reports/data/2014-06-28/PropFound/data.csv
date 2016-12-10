@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12930,142004225.0,Saturday,No,2014-06-28T18:00:00.000,PropFound,"[-71.1621, 42.346351]",Point,PropFound,6,PROP,0,D14,First,No,LAKE ST,Part three,Unarmed,747511.6833,KENRICK ST,2951420.202,2014
+104947,142003822.0,Saturday,No,2014-06-28T14:15:00.000,PropFound,"[-71.046693, 42.332349]",Point,PropFound,6,IVPREM,0,C6,Day,No,THOMAS PARK,Part three,Unarmed,778736.5205,,2946462.358,2014
+132816,142003962.0,Saturday,No,2014-06-28T21:16:00.000,PropFound,"[-71.03926, 42.368586]",Point,PropFound,6,IVPREM,0,A7,First,No,SUMNER ST,Part three,Unarmed,780675.0997,,2959678.517,2014
+157331,142003845.0,Saturday,No,2014-06-28T10:00:00.000,PropFound,"[-71.065345, 42.377851]",Point,PropFound,6,ADMRPT,0,A15,Day,No,PEARL ST,Part three,Unarmed,773608.8654,,2963017.875,2014
+225591,142013766.0,Saturday,No,2014-06-28T15:45:00.000,PropFound,"[-71.06223, 42.363656]",Point,PropFound,6,FDWEAP,0,A1,Day,No,MERRIMAC ST,Part three,Firearm,774477.0333,,2957849.14,2014

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18585,152010794.0,Monday,No,2015-02-09T23:40:00.000,InvPer,"[-71.100115, 42.341996]",Point,InvPer,2,FIGHT,0,D4,First,No,QUEENSBERRY ST,Part three,Unarmed,764275.4786,,2949905.628,2015
+30440,152011622.0,Monday,No,2015-02-09T19:15:00.000,InvPer,"[-71.05485, 42.332675]",Point,InvPer,2,INVEST,0,C6,First,No,DAMRELL ST,Part three,Unarmed,776530.4068,OLD COLONY AV,2946569.412,2015
+70892,152010771.0,Monday,No,2015-02-09T12:00:00.000,InvPer,"[-71.15477, 42.284236]",Point,InvPer,2,IVPER,0,E5,Day,No,PARK ST,Part three,Unarmed,749584.8157,,2928792.3260000004,2015
+78513,152010790.0,Monday,No,2015-02-09T22:00:00.000,InvPer,"[-71.077545, 42.343976]",Point,InvPer,2,FIGHT,0,D4,First,No,COLUMBUS AV,Part three,Unarmed,770373.6426,,2950656.5889999997,2015
+105124,152010628.0,Monday,No,2015-02-09T09:30:00.000,InvPer,"[-71.14574, 42.358606]",Point,InvPer,2,IVPER,0,D14,Day,No,LINCOLN ST,Part three,Unarmed,751915.7264,,2955904.123,2015
+207627,152010639.0,Monday,No,2015-02-09T08:30:00.000,InvPer,"[-71.039925, 42.334091]",Point,InvPer,2,IVPER,0,C6,Day,No,I ST,Part three,Unarmed,780563.199,E 5TH ST,2947106.937,2015
+261188,152010563.0,Monday,No,2015-02-09T01:13:00.000,InvPer,"[0, 0]",Point,InvPer,2,PERGUN,0,B2,Last,No,MT PLEASANT AV,Part three,Unarmed,,,,2015
+263114,152010730.0,Monday,No,2015-02-09T18:30:00.000,InvPer,"[0, 0]",Point,InvPer,2,PERGUN,0,D14,First,No,COMMONWEALTH AV,Part three,Firearm,,,,2015
+263657,152010710.0,Monday,No,2015-02-09T16:53:00.000,InvPer,"[0, 0]",Point,InvPer,2,DISTRB,0,C6,First,No,E 5TH ST,Part three,Unarmed,,I ST,,2015
+264004,152010678.0,Monday,No,2015-02-09T12:52:00.000,InvPer,"[0, 0]",Point,InvPer,2,ALARM,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015

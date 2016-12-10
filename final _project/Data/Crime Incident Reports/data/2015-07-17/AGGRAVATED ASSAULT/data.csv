@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53737,,Friday,No,2015-07-17T00:00:00.000,Aggravated Assault,"[-71.031762, 42.379094]",Point,04xx,7,AB,19,A7,,No,PRINCETON ST,Part One,Other,782680.0,,2960000.0,2015
+143532,,Friday,No,2015-07-17T00:00:00.000,Aggravated Assault,"[-71.071866, 42.351571]",Point,04xx,7,ASLTIP,134,D4,,No,BOYLSTON ST,Part One,Blunt Object,771895.0,,2950000.0,2015
+165828,,Friday,No,2015-07-17T23:57:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PSHOT,444,B3,,Yes,GLEASON ST,Part One,Firearm,, HARVARD ST ,,2015
+191553,,Friday,No,2015-07-17T18:16:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,ARREST,119,A1,,No,PARK ST,Part One,Knife/Cutting Instrument,,TREMONT ST,,2015
+219873,,Friday,No,2015-07-17T00:00:00.000,Aggravated Assault,"[-71.046654, 42.336112]",Point,04xx,7,IVPER,214,C6,,No,W BROADWAY,Part One,Knife/Cutting Instrument,778740.0,,2950000.0,2015
+249671,,Friday,No,2015-07-17T20:04:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PSHOT,307,E13,,Yes,COLUMBUS AVE,Part One,Firearm,, DIXWELL ST ,,2015

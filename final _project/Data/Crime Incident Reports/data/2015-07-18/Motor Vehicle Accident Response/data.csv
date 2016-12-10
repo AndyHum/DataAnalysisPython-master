@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4592,,Saturday,No,2015-07-18T23:25:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,173,C6,,No,W BROADWAY,Part Three,None,, FRONTAGE RD ,,2015
+35996,,Saturday,No,2015-07-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.085899, 42.300823]",Point,MVAcc,7,MVA,457,B3,,No,BLUE HILL AVE,Part Three,None,768192.0,,2930000.0,2015
+49565,,Saturday,No,2015-07-18T18:11:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,254,C11,,No,DORCHESTER AVE,Part Three,None,,HOYT ST,,2015
+61222,,Saturday,No,2015-07-18T18:03:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,332,B2,,No,COLUMBIA RD,Part Three,None,,GLENDALE ST,,2015
+63649,,Saturday,No,2015-07-18T23:16:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,315,B2,,No,HUMBOLDT AVE,Part Three,None,,WAUMBECK ST,,2015
+69355,,Saturday,No,2015-07-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.087872, 42.287418]",Point,MVAcc,7,MVA,431,B3,,No,ARBUTUS ST,Part Three,None,767681.0,,2930000.0,2015
+73514,,Saturday,No,2015-07-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.054155, 42.351967]",Point,MVAcc,7,REQP,173,A1,,No,SUMMER ST,Part Three,None,776682.0,,2950000.0,2015
+83831,,Saturday,No,2015-07-18T12:29:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,0,,,No,,Part Three,None,,BEACON ST,,2015
+145459,,Saturday,No,2015-07-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.062393, 42.364812]",Point,MVAcc,7,MVA,75,A1,,No,CAUSEWAY ST,Part Three,None,774431.0,,2960000.0,2015
+176257,,Saturday,No,2015-07-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.068419, 42.297685]",Point,MVAcc,7,MVA,358,C11,,No,LINDSEY ST,Part Three,None,772926.0,,2930000.0,2015
+178793,,Saturday,No,2015-07-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.080148, 42.349325]",Point,MVAcc,7,MVA,138,D4,,No,BOYLSTON ST,Part Three,None,769660.0,,2950000.0,2015
+191954,,Saturday,No,2015-07-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.059567, 42.302542]",Point,MVAcc,7,MVA,350,C11,,No,DORCHESTER AVE,Part Three,None,775312.0,,2940000.0,2015
+212676,,Saturday,No,2015-07-18T22:26:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,0,,,No,METROPOLITAN AVE,Part Three,None,,,,2015
+248514,,Saturday,No,2015-07-18T20:33:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,437,B3,,No,EDSON ST,Part Three,None,,NORFOLK ST,,2015
+252694,,Saturday,No,2015-07-18T15:12:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,0,,,No,BLUE HILL AVE,Part Three,None,,,,2015
+254934,,Saturday,No,2015-07-18T23:48:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,128,A1,,No,BERKELEY ST,Part Three,None,, COLUMBUS AVE ,,2015
+257452,,Saturday,No,2015-07-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.06425, 42.31334]",Point,MVAcc,7,MVA,257,C11,,No,ROWELL ST,Part Three,None,774025.0,,2940000.0,2015

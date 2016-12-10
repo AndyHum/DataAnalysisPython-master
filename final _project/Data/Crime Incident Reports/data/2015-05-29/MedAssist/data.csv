@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2133,152044476.0,Friday,No,2015-05-29T18:34:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,EDP,0,B3,First,No,NORFOLK ST,Part three,Unarmed,,,,2015
+3878,152044407.0,Friday,No,2015-05-29T16:06:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,FIGHT,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+46916,152044279.0,Friday,No,2015-05-29T11:20:00.000,MedAssist,"[-71.052959, 42.337011]",Point,MedAssist,5,POISON,0,C6,Day,No,D ST,Part three,Unarmed,777033.2628,,2948152.25,2015
+65479,152044502.0,Friday,No,2015-05-29T22:25:00.000,MedAssist,"[-71.15596, 42.289641]",Point,MedAssist,5,UNKEMS,0,E5,First,No,MAPLE ST,Part three,Unarmed,749254.8636,,2930760.692,2015
+75381,152044205.0,Friday,No,2015-05-29T05:23:00.000,MedAssist,"[-71.061295, 42.288676]",Point,MedAssist,5,UNKEMS,0,C11,Last,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Unarmed,774870.2865,,2930526.566,2015
+75913,152044488.0,Friday,No,2015-05-29T21:46:00.000,MedAssist,"[-71.11526, 42.306721]",Point,MedAssist,5,UNCONS,0,E13,First,No,SOUTH ST,Part three,Unarmed,760239.0503,,2937031.958,2015
+107895,152044456.0,Friday,No,2015-05-29T19:35:00.000,MedAssist,"[-71.073281, 42.321821]",Point,MedAssist,5,UNK,0,B2,First,No,NORTH AV,Part three,Other,771566.5326,,2942588.567,2015
+163487,152044248.0,Friday,No,2015-05-29T09:56:00.000,MedAssist,"[-71.100095, 42.270424]",Point,MedAssist,5,REQP,0,B3,Day,No,CUMMINS HY,Part three,Unarmed,764403.0167,,2923823.66,2015
+175501,152044351.0,Friday,No,2015-05-29T14:45:00.000,MedAssist,"[-71.03386, 42.379111]",Point,MedAssist,5,EDP,0,A7,Day,No,LEXINGTON ST,Part three,Unarmed,782113.3934,,2963521.9669999997,2015
+176873,152044459.0,Friday,No,2015-05-29T19:10:00.000,MedAssist,"[-71.053065, 42.327871]",Point,MedAssist,5,IVPER,0,C6,First,No,MCDONOUGH WY,Part three,Unarmed,777022.2779,,2944821.374,2015
+186126,152044466.0,Friday,No,2015-05-29T20:15:00.000,MedAssist,"[-71.121746, 42.262313]",Point,MedAssist,5,UNKEMS,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,758556.3657,,2920840.892,2015
+209158,152044164.0,Friday,No,2015-05-29T00:45:00.000,MedAssist,"[-71.157338, 42.354384]",Point,MedAssist,5,REQP,0,D14,Last,No,FANEUIL ST,Part three,Unarmed,748787.0909,,2954352.725,2015
+239215,152044320.0,Friday,No,2015-05-29T13:29:00.000,MedAssist,"[-71.04139, 42.330941]",Point,MedAssist,5,EDP,0,C6,Day,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2015
+254969,152044253.0,Friday,No,2015-05-29T09:00:00.000,MedAssist,"[-71.0729, 42.333256]",Point,MedAssist,5,POISON,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2015

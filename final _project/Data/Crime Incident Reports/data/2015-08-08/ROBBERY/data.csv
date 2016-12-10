@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25113,,Saturday,No,2015-08-08T00:00:00.000,Robbery,"[-71.129774, 42.361083]",Point,03xx,8,ARMROB,816,D14,,No,HASKELL ST,Part One,Firearm,756227.0,HOOKER ST,2960000.0,2015
+49843,,Saturday,No,2015-08-08T00:00:00.000,Robbery,"[-71.075976, 42.337212]",Point,03xx,8,ARMROB,170,D4,,No,WASHINGTON ST,Part One,Firearm,770810.0,,2950000.0,2015
+88076,,Saturday,No,2015-08-08T02:34:00.000,Robbery,"[0, 0]",Point,03xx,8,AB,624,D4,,No,BROOKLINE AVE,Part One,Personal Weapon (hand  foot  etc.),,YAWKEY WAY,,2015
+252523,,Saturday,No,2015-08-08T00:00:00.000,Robbery,"[-71.081182, 42.301546]",Point,03xx,8,ARMROB,456,B3,,No,ELLINGTON ST,Part One,Firearm,769466.0,,2940000.0,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31641,,Sunday,No,2015-07-05T13:15:00.000,Towed,"[0, 0]",Point,Towed,7,IVMV,165,D4,,No,ALBANY ST,Part Three,None,,RANDOLPH ST,,2015
+41691,,Sunday,No,2015-07-05T00:00:00.000,Towed,"[-71.081436, 42.350809]",Point,Towed,7,IVMV,137,D4,,No,COMMONWEALTH AVE,Part Three,None,769309.0,,2950000.0,2015
+61195,,Sunday,No,2015-07-05T00:00:00.000,Towed,"[-71.149745, 42.341549]",Point,Towed,7,IVMV,776,D14,,No,COMMONWEALTH AVE,Part Three,None,750859.0,,2950000.0,2015
+95744,,Sunday,No,2015-07-05T00:00:00.000,Towed,"[-71.056256, 42.363731]",Point,Towed,7,IVMV,86,A1,,No,STILLMAN ST,Part Three,None,776091.0,,2960000.0,2015
+129734,,Sunday,No,2015-07-05T00:00:00.000,Towed,"[-71.0473, 42.286035]",Point,Towed,7,IVMV,380,C11,,No,NARRAGANSETT ST,Part Three,None,778662.0,,2930000.0,2015
+232106,,Sunday,No,2015-07-05T00:00:00.000,Towed,"[-71.077549, 42.344024]",Point,Towed,7,IVMV,149,D4,,No,COLUMBUS AVE,Part Three,None,770372.0,,2950000.0,2015
+247155,,Sunday,No,2015-07-05T00:00:00.000,Towed,"[-71.081411, 42.314817]",Point,Towed,7,IVMV,323,B2,,No,HOLBORN ST,Part Three,None,769381.0,,2940000.0,2015
+247985,,Sunday,No,2015-07-05T00:00:00.000,Towed,"[-71.137576, 42.27686]",Point,Towed,7,IVMV,910,E5,,No,BEECHLAND CIR,Part Three,None,754249.0,,2930000.0,2015

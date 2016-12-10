@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7849,142030240.0,Wednesday,No,2014-09-17T09:45:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,9,MISSIN,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+26172,142030474.0,Wednesday,No,2014-09-17T23:20:00.000,PersLoc,"[-71.107681, 42.334481]",Point,PersLoc,9,IVPER,0,B2,First,No,KEMPTON ST,Other,Unarmed,762242.4065,,2947157.514,2014
+50886,142030461.0,Wednesday,No,2014-09-17T23:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,9,MISSIN,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+61440,142030455.0,Wednesday,No,2014-09-17T22:05:00.000,PersLoc,"[-71.06969, 42.304686]",Point,PersLoc,9,IVPER,0,C11,First,No,DEVER ST,Other,Unarmed,772569.3849,,2936349.2660000003,2014
+65486,142030475.0,Wednesday,No,2014-09-17T06:45:00.000,PersLoc,"[-71.155123, 42.35915]",Point,PersLoc,9,MISSIN,0,D14,Last,No,SOLDIERS FIELD RD,Other,Unarmed,749378.8529,,2956092.008,2014
+66837,142030213.0,Wednesday,No,2014-09-17T08:30:00.000,PersLoc,"[-71.061235, 42.310371]",Point,PersLoc,9,IVPER,0,C11,Day,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014
+122014,142033653.0,Wednesday,No,2014-09-17T12:00:00.000,PersLoc,"[-71.06732, 42.327316]",Point,PersLoc,9,MISSIN,0,C6,Day,No,MASSACHUSETTS AV,Other,Unarmed,773168.6514,,2944599.247,2014

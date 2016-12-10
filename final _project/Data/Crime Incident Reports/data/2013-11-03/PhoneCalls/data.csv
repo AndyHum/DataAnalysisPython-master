@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74181,130700165.0,Sunday,No,2013-11-03T09:40:00.000,PhoneCalls,"[-71.061375, 42.315681]",Point,PhoneCalls,11,HARPT ,243,C11,Day,No,BAKERSFIELD ST,Part three,Unarmed,774798.0396,,2940367.472,2013
+209367,130700775.0,Sunday,No,2013-11-03T14:00:00.000,PhoneCalls,"[-71.095871, 42.27062]",Point,PhoneCalls,11,IVPER ,476,B3,Day,No,REGIS RD,Part three,Unarmed,765545.9498,,2923900.313,2013
+259321,130741421.0,Sunday,No,2013-11-03T09:00:00.000,PhoneCalls,"[-71.039249, 42.379971]",Point,PhoneCalls,11,HARPT ,26,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780655.5561,,2963827.4560000002,2013

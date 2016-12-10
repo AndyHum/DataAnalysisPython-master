@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24492,152004546.0,Wednesday,No,2014-11-12T13:30:00.000,Argue,"[-71.073385, 42.299016]",Point,Argue,11,IVPER,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,771580.1982,,2934278.0110000004,2014
+27131,142048156.0,Wednesday,No,2014-11-12T05:30:00.000,Argue,"[-71.12707, 42.351556]",Point,Argue,11,PKNIFE,0,D14,Last,No,ST LUKES RD,Part three,Other,756973.0283,,2953356.4669999997,2014
+58134,142048170.0,Wednesday,No,2014-11-12T08:16:00.000,Argue,"[-71.110475, 42.312551]",Point,Argue,11,NIDV,0,E13,Day,No,CANDOR PL,Part three,Unarmed,761523.6826,,2939162.381,2014
+229972,142048394.0,Wednesday,No,2014-11-12T19:00:00.000,Argue,"[-71.153848, 42.340354]",Point,Argue,11,DISTRB,0,D14,First,No,LOTHIAN RD,Part three,Unarmed,749751.1254,,2949243.522,2014

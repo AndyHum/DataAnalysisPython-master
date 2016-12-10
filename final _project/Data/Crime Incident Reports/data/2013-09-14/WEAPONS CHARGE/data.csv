@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45997,130584491.0,Saturday,No,2013-09-14T00:50:00.000,WEAPONS CHARGE,"[-71.086675, 42.310541]",Point,15xx,9,PERGUN,317,B2,Last,No,ELM HILL AV,Part Two,Firearm,767964.4932,,2938460.2,2013
+69518,130586488.0,Saturday,No,2013-09-14T11:37:00.000,WEAPONS CHARGE,"[-71.070755, 42.321496]",Point,15xx,9,ARREST,182,B2,Day,No,E COTTAGE ST,Part Two,Knife,772250.4672,,2942473.648,2013
+125363,130585915.0,Saturday,No,2013-09-14T17:10:00.000,WEAPONS CHARGE,"[-71.063106, 42.355355]",Point,15xx,9,ARREST,72,A1,First,No,TREMONT ST,Part Two,Knife,774255.6857,,2954822.79,2013
+184602,130585184.0,Saturday,No,2013-09-14T10:23:00.000,WEAPONS CHARGE,"[-71.0663, 42.315891]",Point,15xx,9,TSTOP ,332,B2,Day,No,COLUMBIA RD,Part Two,Unarmed,773465.6386,HANCOCK ST,2940437.188,2013

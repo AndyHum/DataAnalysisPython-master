@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41153,120685807.0,Tuesday,No,2012-10-30T07:50:00.000,PropFound,"[-71.12257, 42.276426]",Point,PropFound,10,FDPROP,543,E18,Day,No,GREW AV,Part Three,Unarmed,758310.5598,,2925983.159,2012
+65211,120685025.0,Tuesday,No,2012-10-30T17:00:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,10,MISC  ,200,C6,First,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2012
+264242,120684086.0,Tuesday,No,2012-10-30T12:30:00.000,PropFound,"[0, 0]",Point,PropFound,10,FDPROP,27,A7,Day,No,MAVERICK ST,Part Three,Unarmed,,,,2012

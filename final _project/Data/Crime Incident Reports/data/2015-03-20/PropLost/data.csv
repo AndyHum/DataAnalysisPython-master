@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34719,152022529.0,Friday,No,2015-03-20T15:52:00.000,PropLost,"[-71.128703, 42.266364]",Point,PropLost,3,LARCEN,0,E18,Day,No,DEFOREST ST,Part three,Unarmed,756666.5171,,2922308.852,2015
+85499,152023224.0,Friday,No,2015-03-20T19:00:00.000,PropLost,"[-71.078435, 42.340291]",Point,PropLost,3,PROP,0,D4,First,No,TREMONT ST,Part three,Unarmed,770139.6778,CONCORD SQ,2949312.517,2015
+112696,152024173.0,Friday,No,2015-03-20T12:00:00.000,PropLost,"[-71.038487, 42.35044]",Point,PropLost,3,PROP,0,C6,Day,No,BOSTON FISH PIER,Part three,Unarmed,780919.6389,,2953066.748,2015
+169776,152032967.0,Friday,No,2015-03-20T13:00:00.000,PropLost,"[-71.142135, 42.284626]",Point,PropLost,3,PROP,0,E5,Day,No,COLBERG AV,Part three,Unarmed,753003.1845,,2928948.539,2015
+232117,152023034.0,Friday,No,2015-03-20T21:00:00.000,PropLost,"[-71.054325, 42.359436]",Point,PropLost,3,PROP,0,A1,First,No,CHATHAM ROW,Part three,Unarmed,776621.4628,,2956322.4460000005,2015
+266668,152022459.0,Friday,No,2015-03-20T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,C11,Day,No,RIVER ST,Part three,Unarmed,,WASHINGTON ST,,2015
+266786,152023388.0,Friday,No,2015-03-20T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,C11,First,No,GIBSON ST,Part three,Unarmed,,DORCHESTER AV,,2015

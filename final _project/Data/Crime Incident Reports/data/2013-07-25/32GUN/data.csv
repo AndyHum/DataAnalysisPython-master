@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+169972,130463008.0,Thursday,No,2013-07-25T17:30:00.000,32GUN,"[-71.08476, 42.310141]",Point,32GUN,7,FDWEAP,320,B2,First,No,GEORGIA ST,Part three,Unarmed,768483.1757,MAPLE ST,2938316.95,2013
+232851,130462698.0,Thursday,No,2013-07-25T16:31:00.000,32GUN,"[-71.091295, 42.349696]",Point,32GUN,7,FDWEAP,621,D4,First,No,MARLBOROUGH ST,Part three,Firearm,766646.4978,,2952722.955,2013
+233784,130462117.0,Thursday,No,2013-07-25T09:45:00.000,32GUN,"[-71.150915, 42.348981]",Point,32GUN,7,FDPROP,778,D14,Day,No,WASHINGTON ST,Part three,Firearm,750531.3965,,2952390.805,2013

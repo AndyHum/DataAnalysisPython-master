@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124904,142060131.0,Tuesday,No,2014-12-23T18:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,12,PROP,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+201422,142060164.0,Tuesday,No,2014-12-23T19:30:00.000,PropFound,"[-71.05158, 42.358761]",Point,PropFound,12,PROP,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,777364.6527,MILK ST,2956080.3510000003,2014
+222683,142060062.0,Tuesday,No,2014-12-23T13:00:00.000,PropFound,"[-71.138508, 42.355898]",Point,PropFound,12,PROP,0,D14,Day,No,EVERETT ST,Part three,Unarmed,753874.4121,,2954925.45,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22972,130189355.0,Sunday,No,2013-03-31T19:28:00.000,PersLoc,"[-71.08256, 42.323606]",Point,PersLoc,3,MISPER,296,B2,First,No,WARREN ST,Part Three,Unarmed,769054.224,,2943226.722,2013
+92422,130191298.0,Sunday,No,2013-03-31T19:00:00.000,PersLoc,"[-71.093485, 42.273776]",Point,PersLoc,3,MISPER,427,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766186.3659,,2925053.6339999996,2013
+194854,130189374.0,Sunday,No,2013-03-31T16:00:00.000,PersLoc,"[-71.131406, 42.275599]",Point,PersLoc,3,MISPER,551,E5,First,No,GLENDOWER RD,Part Three,Unarmed,755920.474,,2925671.356,2013

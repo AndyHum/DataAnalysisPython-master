@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50126,152030226.0,Wednesday,No,2015-04-08T00:00:00.000,InvProp,"[-71.028125, 42.333251]",Point,InvProp,4,LARCEN,0,C6,Last,No,E 6TH ST,Part three,Unarmed,783755.3773,,2946818.2589999996,2015
+55226,152028576.0,Wednesday,No,2015-04-08T20:00:00.000,InvProp,"[-71.089151, 42.311211]",Point,InvProp,4,BE,0,B2,First,No,HOMESTEAD ST,Part three,Unarmed,767293.447,,2938701.003,2015
+60436,152028442.0,Wednesday,No,2015-04-08T10:56:00.000,InvProp,"[-71.117581, 42.27463]",Point,InvProp,4,ALARM,0,E18,Day,No,NAVARRE ST,Part three,Unarmed,759663.4288,,2925334.6180000002,2015
+150045,152028413.0,Wednesday,No,2015-04-08T09:00:00.000,InvProp,"[-71.061515, 42.365357]",Point,InvProp,4,CD9,0,A1,Day,No,CAUSEWAY ST,Part three,Unarmed,774666.9647,CANAL ST,2958469.934,2015
+152171,152028561.0,Wednesday,No,2015-04-08T18:33:00.000,InvProp,"[-71.076355, 42.318396]",Point,InvProp,4,IVMV,0,B2,First,No,BROOKFORD ST,Part three,Unarmed,770741.6448,RAND ST,2941336.385,2015
+164112,152028508.0,Wednesday,No,2015-04-08T15:23:00.000,InvProp,"[-71.0921, 42.282006]",Point,InvProp,4,BE,0,B3,Day,No,BLUE HILL AV,Part three,Other,766546.8579,,2928054.5489999996,2015
+267496,152028817.0,Wednesday,No,2015-04-08T17:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,LARCEN,0,B3,First,No,AMERICAN LEGION HY,Part three,Unarmed,,,,2015

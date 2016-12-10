@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52773,152030876.0,Thursday,No,2015-04-16T07:23:00.000,Argue,"[-71.109166, 42.33405]",Point,Argue,4,NIDV,0,B2,Last,No,MISSION PARK DR,Part three,Unarmed,761841.7597,,2946998.462,2015
+220896,152031143.0,Thursday,No,2015-04-16T21:00:00.000,Argue,"[-71.055405, 42.316671]",Point,Argue,4,DISTRB,0,C11,First,No,SUDAN ST,Part three,Unarmed,776410.8018,,2940736.606,2015
+267805,152030991.0,Thursday,No,2015-04-16T14:30:00.000,Argue,"[0, 0]",Point,Argue,4,DISTRB,0,D14,Day,No,SOLDIERS FIELD RD,Part three,Unarmed,,,,2015
+267848,152031165.0,Thursday,No,2015-04-16T22:27:00.000,Argue,"[0, 0]",Point,Argue,4,FIGHT,0,D14,First,No,WARREN AV,Part three,Unarmed,,,,2015

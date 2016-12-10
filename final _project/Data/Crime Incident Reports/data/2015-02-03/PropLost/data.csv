@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21011,152008891.0,Tuesday,No,2015-02-03T10:00:00.000,PropLost,"[-71.07416, 42.290841]",Point,PropLost,2,PROP,0,B3,Day,No,TALBOT AV,Part three,Unarmed,771385.4104,WHITFIELD ST,2931297.874,2015
+47031,152012885.0,Tuesday,No,2015-02-03T09:00:00.000,PropLost,"[-71.069859, 42.272316]",Point,PropLost,2,PROP,0,C11,Day,No,RIVER ST,Part three,Unarmed,772582.9656,,2924552.8260000004,2015
+125564,152008838.0,Tuesday,No,2015-02-03T00:20:00.000,PropLost,"[-71.12536, 42.353391]",Point,PropLost,2,PROP,0,D14,Last,No,GARDNER ST,Part three,Unarmed,757432.3164,,2954027.204,2015
+176310,152009048.0,Tuesday,No,2015-02-03T18:00:00.000,PropLost,"[-71.14805, 42.259326]",Point,PropLost,2,LARCEN,0,E5,First,No,GEORGETOWNE DR,Part three,Unarmed,751440.6434,,2919722.167,2015
+178996,152009075.0,Tuesday,No,2015-02-03T20:28:00.000,PropLost,"[-71.093415, 42.276216]",Point,PropLost,2,LARCEN,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766201.0722,,2925942.893,2015
+262052,152015313.0,Tuesday,No,2015-02-03T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,A7,First,No,COMMONWEALTH AV,Part three,Unarmed,,,,2015
+265938,152009229.0,Tuesday,No,2015-02-03T20:45:00.000,PropLost,"[0, 0]",Point,PropLost,2,CD9,0,A1,First,No,RIVER ST,Part three,Unarmed,,,,2015

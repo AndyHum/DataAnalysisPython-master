@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99291,120713131.0,Monday,No,2012-11-12T15:15:00.000,Service,"[-71.063873, 42.325436]",Point,Service,11,SHPLFT,0,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2012
+140265,120713113.0,Monday,No,2012-11-12T14:46:00.000,Service,"[-71.10103, 42.264001]",Point,Service,11,INJAML,485,E18,Day,No,RIVER ST,Part Three,Other,764161.0585,HOLMFIELD AV,2921481.852,2012
+177839,120713561.0,Monday,No,2012-11-12T18:01:00.000,Service,"[-71.06288, 42.361181]",Point,Service,11,ARREST,72,A1,First,No,CAMBRIDGE ST,Part Three,Other,774306.0241,BOWDOIN ST,2956946.392,2012
+190285,120713936.0,Monday,No,2012-11-12T22:12:00.000,Service,"[-71.058775, 42.288821]",Point,Service,11,DISTRB,366,C11,First,No,FLORIDA ST,Part Three,Unarmed,775551.8668,,2930582.915,2012

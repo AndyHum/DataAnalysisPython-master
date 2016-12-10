@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54036,142020304.0,Sunday,No,2014-08-17T18:15:00.000,DISORDERLY,"[-71.07327, 42.309571]",Point,24xx,8,ARREST,0,B2,First,No,COLUMBIA RD,Part Two,Unarmed,771592.066,CEYLON ST,2938124.5719999997,2014
+181706,142020324.0,Sunday,No,2014-08-17T19:10:00.000,DISORDERLY,"[-71.09369, 42.284843]",Point,24xx,8,ARREST,0,B3,First,No,WELLINGTON HILL ST,Part Two,Unarmed,766111.5599,,2929086.309,2014
+210623,142020106.0,Sunday,No,2014-08-17T01:01:00.000,DISORDERLY,"[-71.062857, 42.319528]",Point,24xx,8,ARREST,0,B2,Last,No,COLUMBIA RD,Part Two,Unarmed,774389.8347,,2941767.137,2014

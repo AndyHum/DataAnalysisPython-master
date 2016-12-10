@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142444,120656747.0,Thursday,No,2012-10-11T08:00:00.000,PropDam,"[-71.07115, 42.347376]",Point,PropDam,10,INVEST,151,D4,Day,No,BERKELEY ST,Part Three,Unarmed,772096.0407,,2951904.171,2012
+169966,120640290.0,Thursday,No,2012-10-11T09:45:00.000,PropDam,"[-71.150295, 42.348811]",Point,PropDam,10,PDRPT ,777,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,750699.2479,,2952329.54,2012
+251180,120641012.0,Thursday,No,2012-10-11T15:50:00.000,PropDam,"[-71.069366, 42.346078]",Point,PropDam,10,MVA   ,160,D4,Day,No,TREMONT ST,Part Three,Other,772580.7264,,2951433.6319999998,2012

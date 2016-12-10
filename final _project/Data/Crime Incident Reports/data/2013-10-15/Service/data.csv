@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37166,130660016.0,Tuesday,No,2013-10-15T17:45:00.000,Service,"[-71.120811, 42.242465]",Point,Service,10,IVPER ,940,E18,First,No,GARFIELD AV,Part three,Unarmed,758841.5183,,2913609.127,2013
+60245,130726531.0,Tuesday,No,2013-10-15T17:38:00.000,Service,"[-71.02121, 42.381561]",Point,Service,10,INJAML,15,A7,First,No,BENNINGTON ST,Part three,Other,785526.2566,,2964433.728,2013
+91809,130658773.0,Tuesday,No,2013-10-15T19:36:00.000,Service,"[-71.06219, 42.356241]",Point,Service,10,ARREST,102,A1,First,No,TREMONT ST,Part three,Unarmed,774501.7472,WINTER ST,2955147.117,2013
+102680,130657574.0,Tuesday,No,2013-10-15T11:00:00.000,Service,"[-71.06942, 42.362401]",Point,Service,10,CD11  ,64,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,,2957381.922,2013
+120208,130657454.0,Tuesday,No,2013-10-15T10:08:00.000,Service,"[-71.06579, 42.314636]",Point,Service,10,ARREST,257,C11,Day,No,HANCOCK ST,Part three,Unarmed,773605.9009,JEROME ST,2939980.548,2013
+147818,130657490.0,Tuesday,No,2013-10-15T10:20:00.000,Service,"[-71.070415, 42.332156]",Point,Service,10,ARREST,175,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,772322.8506,,2946358.797,2013

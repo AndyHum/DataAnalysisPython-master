@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71576,142012219.0,Thursday,No,2014-07-24T18:59:00.000,PropDam,"[-71.13661, 42.360151]",Point,PropDam,7,FO,0,D14,First,No,HOLTON ST,Part three,Unarmed,754380.9564,EVERETT ST,2956477.5310000004,2014
+117291,142012356.0,Thursday,No,2014-07-24T09:41:00.000,PropDam,"[-71.08412, 42.335801]",Point,PropDam,7,MISC,0,D4,Day,No,GREENWICH ST,Part three,Unarmed,768610.692,,2947668.7339999997,2014
+238650,142012401.0,Thursday,No,2014-07-24T12:16:00.000,PropDam,"[-71.115668, 42.296888]",Point,PropDam,7,VAND,0,E13,Day,No,HYDE PARK AV,Part three,Other,760144.6558,,2933448.144,2014

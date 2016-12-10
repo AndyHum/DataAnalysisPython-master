@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57374,140150625.0,Wednesday,No,2014-03-12T00:04:00.000,PersLoc,"[-71.14402, 42.286041]",Point,PersLoc,3,MISPER,687,E5,Last,No,BELGRADE AV,Other,Other,752490.9648,,2929462.0539999995,2014
+72623,140186014.0,Wednesday,No,2014-03-12T09:00:00.000,PersLoc,"[-71.077917, 42.343296]",Point,PersLoc,3,MISPER,151,D4,Day,No,WARREN AV,Other,Unarmed,770274.0752,,2950408.285,2014
+102066,140151527.0,Wednesday,No,2014-03-12T12:07:00.000,PersLoc,"[-71.073665, 42.282068]",Point,PersLoc,3,MISPER,417,B3,Day,No,MORA ST,Other,Unarmed,771535.1918,,2928101.3230000003,2014
+169189,140152278.0,Wednesday,No,2014-03-12T08:00:00.000,PersLoc,"[-71.092328, 42.284664]",Point,PersLoc,3,MISPER,466,B3,Day,No,MORTON ST,Other,Unarmed,766480.3443,,2929022.5560000003,2014
+226010,140153768.0,Wednesday,No,2014-03-12T06:30:00.000,PersLoc,"[-71.155123, 42.35915]",Point,PersLoc,3,MISPER,806,D14,Last,No,SOLDIERS FIELD RD,Other,Unarmed,749378.8529,,2956092.008,2014
+230468,140152236.0,Wednesday,No,2014-03-12T16:53:00.000,PersLoc,"[-71.079652, 42.311398]",Point,PersLoc,3,MISPER,326,B2,First,No,INTERVALE ST,Other,Unarmed,769862.4169,,2938781.7,2014

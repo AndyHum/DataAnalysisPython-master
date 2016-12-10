@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88659,142044480.0,Thursday,No,2014-10-16T11:00:00.000,FORGERY,"[-71.092821, 42.316788]",Point,10xx,10,LARCEN,0,B2,Day,No,WALNUT AV,Part Two,Unarmed,766291.0031,,2940728.683,2014
+97041,142039753.0,Thursday,No,2014-10-16T16:30:00.000,FORGERY,"[-71.06006, 42.301996]",Point,10xx,10,LARCEN,0,C11,First,No,ADAMS ST,Part Two,Other,775179.4158,,2935382.2789999996,2014
+106764,142054550.0,Thursday,No,2014-10-16T10:00:00.000,FORGERY,"[-71.04281, 42.332996]",Point,10xx,10,LARCEN,0,C6,Day,No,E 6TH ST,Part Two,Unarmed,779785.2908,,2946703.709,2014
+151291,142039619.0,Thursday,No,2014-10-16T11:50:00.000,FORGERY,"[-71.07271, 42.290416]",Point,10xx,10,ARREST,0,B3,Day,No,TALBOT AV,Part Two,Unarmed,771778.5062,,2931144.96,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5155,120778696.0,Wednesday,No,2012-12-12T19:25:00.000,OPERATING UNDER INFLUENCE,"[-71.03961, 42.378641]",Point,21xx,12,MVA   ,26,A7,First,No,EUTAW ST,Part Two,Other,780560.74,,2963342.25,2012
+34699,120778685.0,Wednesday,No,2012-12-12T19:15:00.000,OPERATING UNDER INFLUENCE,"[-71.172175, 42.352481]",Point,21xx,12,ARREST,755,D14,First,No,WASHINGTON ST,Part Two,Unarmed,744779.5261,,2953643.474,2012
+169546,120779046.0,Wednesday,No,2012-12-12T23:21:00.000,OPERATING UNDER INFLUENCE,"[-71.07181, 42.343861]",Point,21xx,12,ARREST,165,D4,First,No,CLARENDON ST,Part Two,Other,771924.2454,TREMONT ST,2950622.4110000003,2012

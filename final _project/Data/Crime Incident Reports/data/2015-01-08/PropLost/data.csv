@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4540,152002379.0,Thursday,No,2015-01-08T08:30:00.000,PropLost,"[-71.041445, 42.348751]",Point,PropLost,1,PROP,0,C6,Day,No,SEAPORT LN,Part three,Unarmed,780123.5001,,2952447.085,2015
+12616,152002646.0,Thursday,No,2015-01-08T00:00:00.000,PropLost,"[-71.061155, 42.357256]",Point,PropLost,1,PROP,0,A1,Last,No,TREMONT ST,Part three,Unarmed,774779.5911,,2955518.44,2015
+45413,152002677.0,Thursday,No,2015-01-08T19:00:00.000,PropLost,"[-71.08702, 42.298151]",Point,PropLost,1,PROP,0,B3,First,No,AMERICAN LEGION HY,Part three,Unarmed,767893.0391,BLUE HILL AV,2933944.6380000003,2015
+78876,152002853.0,Thursday,No,2015-01-08T00:00:00.000,PropLost,"[-71.097702, 42.348699]",Point,PropLost,1,PROP,0,D4,Last,No,BEACON ST,Part three,Unarmed,764916.1761,,2952351.106,2015
+117227,152002590.0,Thursday,No,2015-01-08T23:30:00.000,PropLost,"[-71.08908, 42.291676]",Point,PropLost,1,LARCEN,0,B3,First,No,BLUE HILL AV,Part three,Other,767347.104,,2931582.3589999997,2015
+162984,152003150.0,Thursday,No,2015-01-08T08:00:00.000,PropLost,"[-71.07773, 42.348001]",Point,PropLost,1,PROP,0,D4,Day,No,COPLEY PLACE,Part three,Unarmed,770316.3684,,2952123.127,2015
+258383,152002143.0,Thursday,No,2015-01-08T16:30:00.000,PropLost,"[-71.158736, 42.339864]",Point,PropLost,1,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,748430.5191,,2949059.58,2015
+261833,152002075.0,Thursday,No,2015-01-08T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015

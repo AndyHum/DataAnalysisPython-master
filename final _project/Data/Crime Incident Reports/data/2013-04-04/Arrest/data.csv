@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44236,130197941.0,Thursday,No,2013-04-04T15:00:00.000,Arrest,"[-71.08046, 42.335661]",Point,Arrest,4,ARREST,274,D4,Day,No,SHAWMUT AV,Part Three,Unarmed,769600.5096,,2947622.561,2013
+227988,130198191.0,Thursday,No,2013-04-04T17:00:00.000,Arrest,"[-71.07596, 42.348426]",Point,Arrest,4,ARREST,130,D4,First,No,STUART ST,Part Three,Unarmed,770794.0673,,2952280.3789999997,2013
+237257,130197006.0,Thursday,No,2013-04-04T08:05:00.000,Arrest,"[-71.089375, 42.290791]",Point,Arrest,4,ARREST,464,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,767268.8409999999,,2931259.4669999997,2013

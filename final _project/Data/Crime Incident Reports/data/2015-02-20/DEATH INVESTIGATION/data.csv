@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80106,152013726.0,Friday,No,2015-02-20T13:43:00.000,DEATH INVESTIGATION,"[-71.072965, 42.272591]",Point,01INV,2,UNCONS,0,B3,Day,No,MONSON ST,Part three,Unarmed,771742.0312,,2924648.941,2015
+86514,152013889.0,Friday,No,2015-02-20T21:54:00.000,DEATH INVESTIGATION,"[-71.064943, 42.311842]",Point,01INV,2,UNCONS,0,C11,First,No,RILL ST,Part three,Unarmed,773840.0828,,2938963.289,2015
+180937,152013858.0,Friday,No,2015-02-20T17:55:00.000,DEATH INVESTIGATION,"[-71.118305, 42.246991]",Point,01INV,2,UNCONS,0,E18,First,No,WASHINGTON ST PL,Part three,Unarmed,759512.7854,,2915261.793,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25189,130736040.0,Thursday,No,2013-11-14T19:00:00.000,FORGERY,"[-71.132005, 42.350021]",Point,10xx,11,LARCRT,794,D14,First,No,COMMONWEALTH AV,Part Two,Unarmed,755641.4752,,2952791.29,2013
+38844,130724343.0,Thursday,No,2013-11-14T17:45:00.000,FORGERY,"[-71.093675, 42.268966]",Point,10xx,11,LARCRT,426,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766143.2941,,2923300.56,2013
+263545,140098283.0,Thursday,No,2013-11-14T12:00:00.000,FORGERY,"[0, 0]",Point,10xx,11,LARCRT,915,C6,Day,No,JAMES ONEILL ST,Part Two,Unarmed,,,,2013

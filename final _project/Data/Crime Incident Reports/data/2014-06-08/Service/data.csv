@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109083,140361090.0,Sunday,No,2014-06-08T11:14:00.000,Service,"[-71.07519, 42.273401]",Point,Service,6,VICDOG,408,B3,Day,No,SANFORD ST,Part three,Unarmed,771138.3799,,2924941.108,2014
+171986,140361064.0,Sunday,No,2014-06-08T11:20:00.000,Service,"[-71.08967, 42.312926]",Point,Service,6,ARREST,317,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,767150.2196,,2939325.421,2014
+186835,140362157.0,Sunday,No,2014-06-08T20:37:00.000,Service,"[-71.038515, 42.372161]",Point,Service,6,ABRPT ,28,A7,First,No,GOVE ST,Part three,Other,780869.3745,,2960982.4060000004,2014

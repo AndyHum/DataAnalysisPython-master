@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47595,120673337.0,Thursday,No,2012-10-25T18:00:00.000,InvProp,"[-71.1144, 42.298671]",Point,InvProp,10,CD19  ,0,E13,First,No,HYDE PARK AV,Part Three,Other,760484.9399,,2934099.459,2012
+140617,120673857.0,Thursday,No,2012-10-25T22:08:00.000,InvProp,"[-71.08094, 42.322181]",Point,InvProp,10,SHOTS ,265,B2,First,No,BURTON AV,Part Three,Firearm,769494.865,COPELAND ST,2942709.5760000004,2012
+158551,120673480.0,Thursday,No,2012-10-25T21:29:00.000,InvProp,"[-71.114525, 42.302651]",Point,InvProp,10,MEET  ,651,E13,First,No,SOUTH ST,Part Three,Unarmed,760444.5696,,2935549.682,2012
+203909,120673753.0,Thursday,No,2012-10-25T22:11:00.000,InvProp,"[-71.083533, 42.288775]",Point,InvProp,10,IVPREM,944,B3,First,No,STRATTON ST,Part Three,Firearm,768852.8372,,2930532.1780000003,2012

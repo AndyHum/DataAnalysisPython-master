@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11426,,Saturday,No,2015-06-27T00:00:00.000,Drug Violation,"[-71.059613, 42.32446]",Point,18xx,6,UNKEMS,186,C6,,No,BOSTON ST,Part Two,None,775258.0,,2940000.0,2015
+24013,,Saturday,No,2015-06-27T13:20:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,122,A1,,No,WASHINGTON ST,Part Two,None,,,,2015
+82528,,Saturday,No,2015-06-27T13:31:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,466,B3,,No,BLUE HILL AVE,Part Two,None,, MORTON ST ,,2015
+90981,,Saturday,No,2015-06-27T00:00:00.000,Drug Violation,"[-71.058066, 42.355001]",Point,18xx,6,IVPREM,106,A1,,No,WINTHROP LN,Part Two,None,775619.0,,2950000.0,2015
+160618,,Saturday,No,2015-06-27T00:00:00.000,Drug Violation,"[-71.080828, 42.32822]",Point,18xx,6,POISON,281,B2,,No,GREENVILLE ST,Part Two,None,769514.0,,2940000.0,2015
+228493,,Saturday,No,2015-06-27T15:09:00.000,Drug Violation,"[0, 0]",Point,18xx,6,I00015,392,C11,,No,BARRINGTON RD,Part Two,None,,ELMER RD,,2015

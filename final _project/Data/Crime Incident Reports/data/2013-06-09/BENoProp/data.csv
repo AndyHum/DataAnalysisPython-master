@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26640,130349078.0,Sunday,No,2013-06-09T01:26:00.000,BENoProp,"[-71.032635, 42.375156]",Point,BENoProp,6,BEIP  ,21,A7,Last,No,CHELSEA ST,Part One,Unarmed,782452.2703,,2962082.495,2013
+58811,130350256.0,Sunday,No,2013-06-09T11:00:00.000,BENoProp,"[-71.112499, 42.310188]",Point,BENoProp,6,BERPT ,646,E13,Day,No,ALVESTON ST,Part One,Unarmed,760980.0488,,2938298.6360000004,2013
+208117,130349144.0,Sunday,No,2013-06-09T01:50:00.000,BENoProp,"[-71.104225, 42.315306]",Point,BENoProp,6,IVPREM,576,E13,Last,No,AMORY ST,Part One,Unarmed,763209.2888,,2940173.8189999997,2013

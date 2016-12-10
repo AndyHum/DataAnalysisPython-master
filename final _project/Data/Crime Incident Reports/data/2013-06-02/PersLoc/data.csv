@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42560,130333686.0,Sunday,No,2013-06-02T19:45:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,6,MISPER,784,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2013
+110029,130332875.0,Sunday,No,2013-06-02T15:00:00.000,PersLoc,"[-71.008436, 42.39263]",Point,PersLoc,6,MISPER,942,A7,Day,No,VALLAR RD,Other,Unarmed,788954.13,,2968486.8839999996,2013
+126599,130334593.0,Sunday,No,2013-06-02T23:00:00.000,PersLoc,"[-71.082487, 42.302716]",Point,PersLoc,6,MISPER,458,B3,First,No,WOLCOTT ST,Part Three,Unarmed,769111.0059999999,,2935614.0689999997,2013
+210450,130331357.0,Sunday,No,2013-06-02T02:25:00.000,PersLoc,"[-71.13117, 42.353511]",Point,PersLoc,6,MISPER,801,D14,Last,No,GARDNER ST,Other,Unarmed,755861.689,,2954064.091,2013
+262594,130333061.0,Sunday,No,2013-06-02T17:34:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,MISPER,6,A7,First,No,BARNES AV,Other,Unarmed,,,,2013

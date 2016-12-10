@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115932,120624375.0,Thursday,No,2012-10-04T11:44:00.000,SearchWarr,"[-71.145856, 42.256202]",Point,SearchWarr,10,TSTOP ,822,E5,Day,No,MARGARETTA DR,Part Three,Unarmed,752039.0539,,2918586.099,2012
+160195,120624792.0,Thursday,No,2012-10-04T17:00:00.000,SearchWarr,"[-71.148575, 42.287141]",Point,SearchWarr,10,CD11  ,691,E5,First,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2012
+253844,120624569.0,Thursday,No,2012-10-04T13:04:00.000,SearchWarr,"[-71.148575, 42.287141]",Point,SearchWarr,10,ARREST,72,E5,Day,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2012

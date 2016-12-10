@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50501,140103147.0,Tuesday,No,2014-02-18T23:38:00.000,InvProp,"[-71.09897, 42.314231]",Point,InvProp,2,SHOTS ,572,E13,First,No,SCHOOL ST,Part three,Other,764632.5988,WELD AV,2939789.021,2014
+57145,140102121.0,Tuesday,No,2014-02-18T13:50:00.000,InvProp,"[-71.167559, 42.349151]",Point,InvProp,2,LSTPRP,752,D14,Day,No,N CRESCENT CIRCUIT,Part three,Unarmed,746031.8327,,2952434.502,2014
+185173,140102122.0,Tuesday,No,2014-02-18T14:00:00.000,InvProp,"[-71.090389, 42.331096]",Point,InvProp,2,IVPREM,290,B2,Day,No,MALCOLM X BL,Part three,Unarmed,766923.848,,2945945.7830000003,2014
+254397,140105821.0,Tuesday,No,2014-02-18T10:30:00.000,InvProp,"[-71.071598, 42.293363]",Point,InvProp,2,HITRUN,362,C11,Day,No,MELVILLE AV,Part three,Unarmed,772073.8459,,2932220.186,2014

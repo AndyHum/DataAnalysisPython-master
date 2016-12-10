@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93157,142011647.0,Sunday,No,2014-07-13T12:00:00.000,FIRE,"[-71.118473, 42.287281]",Point,FIRE,7,IVMV,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759401.6366,,2929943.752,2014
+132573,142008631.0,Sunday,No,2014-07-13T00:06:00.000,FIRE,"[-71.062665, 42.288866]",Point,FIRE,7,FIRE,0,C11,Last,No,EDWIN ST,Part three,Other,774499.2492,,2930593.894,2014
+133505,142008894.0,Sunday,No,2014-07-13T22:00:00.000,FIRE,"[-71.10137, 42.336346]",Point,FIRE,7,FIRE,0,B2,First,No,LONGWOOD AV,Part three,Unarmed,763945.8169,,2947845.0730000003,2014

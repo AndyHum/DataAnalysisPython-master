@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92959,130403753.0,Monday,No,2013-07-01T19:50:00.000,Service,"[-71.070385, 42.343771]",Point,Service,7,BEIP  ,160,D4,First,No,HANSON ST,Part three,Unarmed,772309.6443,,2950591.5519999997,2013
+137275,142037801.0,Monday,No,2013-07-01T00:01:00.000,Service,"[-71.03601, 42.378311]",Point,Service,7,LARCEN,0,A7,Last,No,LEXINGTON ST,Part three,Other,781534.0756,,2963227.264,2013
+141008,130402800.0,Monday,No,2013-07-01T12:57:00.000,Service,"[-71.152854, 42.293211]",Point,Service,7,IVPER ,689,E5,Day,No,WELD ST,Part three,Unarmed,750089.9249,,2932064.8030000003,2013
+184106,130402205.0,Monday,No,2013-07-01T08:00:00.000,Service,"[-71.077515, 42.273436]",Point,Service,7,ARREST,409,B3,Day,No,GROVELAND ST,Part three,Unarmed,770509.0787,,2924950.7369999997,2013

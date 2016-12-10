@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71301,152049747.0,Monday,No,2015-06-15T05:45:00.000,PersLoc,"[-71.13839, 42.279181]",Point,PersLoc,6,MISSIN,0,E5,Last,No,BEECH ST,Other,Unarmed,754024.9683,,2926968.5730000003,2015
+85160,152049755.0,Monday,No,2015-06-15T20:45:00.000,PersLoc,"[-71.078657, 42.301454]",Point,PersLoc,6,IVPER,0,B3,First,No,NORWELL ST,Other,Unarmed,770149.4675,,2935159.311,2015

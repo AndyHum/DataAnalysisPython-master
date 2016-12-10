@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9142,120768042.0,Friday,No,2012-12-07T12:33:00.000,InvProp,"[-71.099695, 42.330611]",Point,InvProp,12,IVPREM,587,B2,Day,No,ALLEGHANY ST,Part Three,Other,764408.5,,2945757.258,2012
+22624,120766713.0,Friday,No,2012-12-07T12:11:00.000,InvProp,"[-71.06607, 42.351061]",Point,InvProp,12,LARCIP,121,A1,Day,No,STUART ST,Part Three,Unarmed,773462.6412,WARRENTON ST,2953254.067,2012
+49057,120767266.0,Friday,No,2012-12-07T16:26:00.000,InvProp,"[-71.08383, 42.336501]",Point,InvProp,12,BEIP  ,285,D4,First,No,WARWICK ST,Part Three,Unarmed,768687.8553,,2947924.209,2012
+81717,120766071.0,Friday,No,2012-12-07T00:37:00.000,InvProp,"[-71.07142, 42.338671]",Point,InvProp,12,NOISE ,905,D4,Last,No,E BROOKLINE ST,Part Three,Unarmed,772039.1799,,2948731.611,2012
+163256,120766971.0,Friday,No,2012-12-07T13:59:00.000,InvProp,"[-71.063913, 42.315695]",Point,InvProp,12,VANRPT,257,C11,Day,No,MT CUSHING TR,Part Three,Unarmed,774111.3379,,2940368.845,2012
+169095,120767288.0,Friday,No,2012-12-07T15:00:00.000,InvProp,"[-71.115495, 42.282751]",Point,InvProp,12,IVPER ,503,E18,Day,No,MT HOPE ST,Part Three,Unarmed,760214.8607,,2928296.6319999998,2012
+237335,120768079.0,Friday,No,2012-12-07T23:56:00.000,InvProp,"[-71.117294, 42.259383]",Point,InvProp,12,BEIP  ,494,E18,Last,No,RIVER ST,Part Three,Unarmed,759766.2593,,2919778.597,2012

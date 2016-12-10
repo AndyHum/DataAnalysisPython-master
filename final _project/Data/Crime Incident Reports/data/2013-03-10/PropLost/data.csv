@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55033,130142138.0,Sunday,No,2013-03-10T06:14:00.000,PropLost,"[-71.078394, 42.32898]",Point,PropLost,3,IVPER ,268,B2,Last,No,EUSTIS ST,Part Three,Unarmed,770171.0377,,2945190.659,2013
+103789,130142792.0,Sunday,No,2013-03-10T01:00:00.000,PropLost,"[-71.083303, 42.302514]",Point,PropLost,3,LSTPRP,458,B3,Last,No,MICHIGAN AV,Part Three,Unarmed,768890.6104,,2935539.2180000003,2013
+195081,130144551.0,Sunday,No,2013-03-10T09:35:00.000,PropLost,"[-71.070835, 42.331511]",Point,PropLost,3,LSTPRP,177,C6,Day,No,MASSACHUSETTS AV,Part Three,Other,772210.4703,,2946123.1760000004,2013
+261878,130211542.0,Sunday,No,2013-03-10T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,628,A1,First,No,BROOKLINE AV,Part Three,Unarmed,,,,2013

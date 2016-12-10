@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96046,130537611.0,Sunday,No,2013-08-25T17:36:00.000,32GUN,"[-71.101765, 42.328681]",Point,32GUN,8,FDWEAP,585,B2,First,No,PARKER HILL AV,Part three,Unarmed,763852.0615,,2945051.31,2013
+186193,130536263.0,Sunday,No,2013-08-25T00:23:00.000,32GUN,"[-71.066341, 42.351004]",Point,32GUN,8,FDWEAP,121,A1,Last,No,STUART ST,Part three,Unarmed,773389.4384,,2953232.9460000005,2013
+253763,130536435.0,Sunday,No,2013-08-25T02:02:00.000,32GUN,"[-71.086294, 42.276903]",Point,32GUN,8,PERGUN,420,B3,Last,No,W SELDEN ST,Part three,Firearm,768126.9853,,2926202.534,2013

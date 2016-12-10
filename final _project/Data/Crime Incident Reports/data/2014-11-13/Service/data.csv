@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63426,142048704.0,Thursday,No,2014-11-13T19:10:00.000,Service,"[-71.02267, 42.381701]",Point,Service,11,IVPREM,0,A7,First,No,SARATOGA ST,Part three,Unarmed,785131.5129,SWIFT ST,2964482.535,2014
+85155,142048589.0,Thursday,No,2014-11-13T13:55:00.000,Service,"[-71.100235, 42.334626]",Point,Service,11,ARREST,0,B2,Day,No,ST ALPHONSUS ST,Part three,Unarmed,764255.6256,,2947219.71,2014
+164611,142048494.0,Thursday,No,2014-11-13T08:30:00.000,Service,"[-71.08913, 42.281956]",Point,Service,11,ARREST,0,B3,Day,No,SUTTON ST,Part three,Unarmed,767350.6368,,2928040.186,2014

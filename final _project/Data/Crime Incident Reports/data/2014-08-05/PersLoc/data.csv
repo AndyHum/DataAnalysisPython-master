@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+468,142016373.0,Tuesday,No,2014-08-05T09:40:00.000,PersLoc,"[-71.093623, 42.280668]",Point,PersLoc,8,IVPER,0,B3,Day,No,ORMOND ST,Other,Unarmed,766136.9752,,2927564.867,2014
+42111,142021277.0,Tuesday,No,2014-08-05T10:00:00.000,PersLoc,"[-71.09665, 42.279221]",Point,PersLoc,8,MISSIN,0,B3,Day,No,MULVEY ST,Other,Unarmed,765320.4109,,2927033.8010000004,2014
+52044,142016582.0,Tuesday,No,2014-08-05T16:00:00.000,PersLoc,"[-71.034645, 42.373451]",Point,PersLoc,8,IVPER,0,A7,First,No,CHELSEA ST,Other,Unarmed,781912.5513,,2961458.189,2014
+128191,142016559.0,Tuesday,No,2014-08-05T08:30:00.000,PersLoc,"[-71.075075, 42.320291]",Point,PersLoc,8,IVPER,0,B2,Day,No,JUDSON ST,Other,Unarmed,771084.3777,,2942028.6760000004,2014
+130469,142016699.0,Tuesday,No,2014-08-05T19:00:00.000,PersLoc,"[-71.06714, 42.318171]",Point,PersLoc,8,MISSIN,0,B2,First,No,DUDLEY TR,Other,Unarmed,773234.2369,,2941266.903,2014
+194248,142016679.0,Tuesday,No,2014-08-05T10:50:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,8,CD19,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+255704,142016383.0,Tuesday,No,2014-08-05T11:30:00.000,PersLoc,"[-71.06063, 42.303276]",Point,PersLoc,8,MISSIN,0,C11,Day,No,ADAMS ST,Other,Other,775022.818,,2935847.935,2014

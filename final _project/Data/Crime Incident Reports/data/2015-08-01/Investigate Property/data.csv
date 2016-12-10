@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36688,,Saturday,No,2015-08-01T00:00:00.000,Investigate Property,"[-71.035337, 42.334165]",Point,InvProp,8,BE,226,C6,,No,L ST,Part Three,None,781803.0,,2950000.0,2015
+60679,,Saturday,No,2015-08-01T23:47:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,SHOTS,362,C11,,No,ALLSTON ST,Part Three,Firearm,,LYNDHURST ST,,2015
+82676,,Saturday,No,2015-08-01T00:00:00.000,Investigate Property,"[-71.126299, 42.241249]",Point,InvProp,8,INVEST,525,E18,,No,TRUMAN PKWY,Part Three,None,757357.0,,2910000.0,2015
+110791,,Saturday,No,2015-08-01T13:21:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,IVMV,336,C11,,No,RICHFIELD ST,Part Three,None,, WESTWOOD ST ,,2015
+164680,,Saturday,No,2015-08-01T00:00:00.000,Investigate Property,"[-71.058524, 42.359721]",Point,InvProp,8,CD9,92,A1,,No,CITY HALL PLZ,Part Three,None,775486.0,,2960000.0,2015
+198733,,Saturday,No,2015-08-01T13:23:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,CD9,0,,,No,CITY HALL PZ,Part Three,None,,,,2015
+230083,,Saturday,No,2015-08-01T04:52:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,BE,220,C6,,No,E FOURTH ST,Part Three,None,,LINDEN ST,,2015

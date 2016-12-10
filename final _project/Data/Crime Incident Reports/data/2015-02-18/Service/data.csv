@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+284,152013197.0,Wednesday,No,2015-02-18T17:15:00.000,Service,"[0, 0]",Point,Service,2,CD11,0,C6,First,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+30964,152013049.0,Wednesday,No,2015-02-18T08:00:00.000,Service,"[-71.071214, 42.278284]",Point,Service,2,ARREST,0,B3,Day,No,GALLIVAN BL,Part three,Unarmed,772205.3829999999,,2926725.936,2015
+39533,152013796.0,Wednesday,No,2015-02-18T09:01:00.000,Service,"[-71.090755, 42.269537]",Point,Service,2,IVPREM,0,B3,Day,No,RIVER ST,Part three,Unarmed,766932.4073,,2923512.3660000004,2015
+101080,152013024.0,Wednesday,No,2015-02-18T02:50:00.000,Service,"[-71.094985, 42.287311]",Point,Service,2,ARREST,0,B3,Last,No,W MAIN ST,Part three,Unarmed,765756.9871,HARVARD ST,2929984.047,2015
+151769,152013110.0,Wednesday,No,2015-02-18T12:45:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+193674,152013030.0,Wednesday,No,2015-02-18T03:19:00.000,Service,"[-71.09586, 42.318231]",Point,Service,2,AOD,0,B2,Last,No,WASHINGTON ST,Part three,Unarmed,765466.8401,COBDEN ST,2941250.659,2015
+246880,152013149.0,Wednesday,No,2015-02-18T13:55:00.000,Service,"[-71.0708, 42.333203]",Point,Service,2,REQP,0,C6,Day,No,BRADSTON ST,Part three,Unarmed,772216.8065,,2946739.535,2015
+264580,152013014.0,Wednesday,No,2015-02-18T00:54:00.000,Service,"[0, 0]",Point,Service,2,ARREST,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,,,,2015

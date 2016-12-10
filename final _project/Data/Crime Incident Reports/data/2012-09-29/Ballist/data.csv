@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59401,120613064.0,Saturday,No,2012-09-29T15:36:00.000,Ballist,"[-71.102874, 42.325388]",Point,Ballist,9,SHOTS ,906,E13,Day,No,HORAN WY,Part Two,Firearm,763557.568,,2943849.8589999997,2012
+122869,120612218.0,Saturday,No,2012-09-29T06:27:00.000,Ballist,"[-71.09208, 42.322581]",Point,Ballist,9,SHOTS ,300,B2,Last,No,THORNTON ST,Part Two,Firearm,766481.5559,,2942840.74,2012
+156665,120612694.0,Saturday,No,2012-09-29T10:00:00.000,Ballist,"[-71.070355, 42.305486]",Point,Ballist,9,IVMV  ,337,C11,Day,No,OLNEY ST,Part Two,Firearm,772388.0293,,2936639.892,2012

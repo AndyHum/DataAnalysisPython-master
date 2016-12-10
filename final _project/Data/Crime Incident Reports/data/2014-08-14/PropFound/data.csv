@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87752,142019249.0,Thursday,No,2014-08-14T13:15:00.000,PropFound,"[-71.07293, 42.287316]",Point,PropFound,8,PROP,0,B3,Day,No,TORREY ST,Part three,Other,771724.6369,,2930014.977,2014
+197590,142019403.0,Thursday,No,2014-08-14T21:10:00.000,PropFound,"[-71.060845, 42.355056]",Point,PropFound,8,PROP,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2014
+209007,142024506.0,Thursday,No,2014-08-14T06:00:00.000,PropFound,"[-71.055535, 42.283972]",Point,PropFound,8,LARCEN,0,C11,Last,No,ADAMS ST,Part three,Other,776437.5406,,2928820.4060000004,2014
+233720,142019240.0,Thursday,No,2014-08-14T14:00:00.000,PropFound,"[-71.068059, 42.361108]",Point,PropFound,8,PROP,0,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,772906.2343,,2956912.6769999997,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+296,130344735.0,Friday,No,2013-06-07T09:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,6,IVPREM,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+121004,130344677.0,Friday,No,2013-06-07T09:27:00.000,Service,"[-71.080718, 42.303026]",Point,Service,6,IVPER ,459,B3,Day,No,SEAVER ST,Other,Other,769588.9781,,2935729.2989999996,2013
+159580,130345834.0,Friday,No,2013-06-07T18:00:00.000,Service,"[-71.07741, 42.321511]",Point,Service,6,SSTOP ,262,B2,First,No,BLUE HILL AV,Part three,Unarmed,770450.6982,WOODVILLE ST,2942470.127,2013
+189678,130345119.0,Friday,No,2013-06-07T12:50:00.000,Service,"[-71.094815, 42.277296]",Point,Service,6,ARREST,469,B3,Day,No,MATTAPAN ST,Part three,Unarmed,765820.3275,,2926334.66,2013
+243906,130344279.0,Friday,No,2013-06-07T03:36:00.000,Service,"[-71.07784, 42.318281]",Point,Service,6,IVPER ,324,B2,Last,No,BLUE HILL AV,Part three,Other,770340.2378,BROOKFORD ST,2941292.485,2013

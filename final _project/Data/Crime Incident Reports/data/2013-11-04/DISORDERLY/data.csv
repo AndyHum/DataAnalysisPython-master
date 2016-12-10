@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66915,130703269.0,Monday,No,2013-11-04T20:28:00.000,DISORDERLY,"[-71.090815, 42.280136]",Point,24xx,11,DISTRB,428,B3,First,No,CLARKWOOD ST,Part Two,Unarmed,766897.8582,,2927374.765,2013
+159271,130702661.0,Monday,No,2013-11-04T16:24:00.000,DISORDERLY,"[-71.083645, 42.341856]",Point,24xx,11,SEXOFF,145,D4,First,No,MASSACHUSETTS AV,Part Two,Unarmed,768728.349,,2949875.913,2013
+213617,130702681.0,Monday,No,2013-11-04T16:15:00.000,DISORDERLY,"[-71.115218, 42.260626]",Point,24xx,11,IVPER ,493,E18,First,No,RIVER ST,Part Two,Unarmed,760326.0186,,2920234.078,2013

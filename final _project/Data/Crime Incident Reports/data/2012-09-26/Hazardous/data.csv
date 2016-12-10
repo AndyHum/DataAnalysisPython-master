@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64934,120605044.0,Wednesday,No,2012-09-26T10:35:00.000,Hazardous,"[-71.056873, 42.342678]",Point,Hazardous,9,HAZARD,200,C6,Day,No,W BROADWAY,Part Three,Unarmed,775964.3463,,2950211.663,2012
+87755,120605396.0,Wednesday,No,2012-09-26T12:59:00.000,Hazardous,"[-71.123791, 42.282723]",Point,Hazardous,9,REQP  ,561,E5,Day,No,CUMMINS HY,Part Three,Unarmed,757969.9965,,2928276.255,2012
+119271,120606258.0,Wednesday,No,2012-09-26T19:00:00.000,Hazardous,"[-71.03887, 42.371246]",Point,Hazardous,9,BOMBT ,28,A7,First,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2012
+215374,120605135.0,Wednesday,No,2012-09-26T11:55:00.000,Hazardous,"[-71.117934, 42.360844]",Point,Hazardous,9,HAZ   ,820,D14,Day,No,CAMBRIDGE ST,Part Three,Unarmed,759427.1540000001,,2956751.887,2012

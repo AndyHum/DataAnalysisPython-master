@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57883,152000795.0,Saturday,No,2015-01-03T18:30:00.000,DRUG CHARGES,"[-71.14193, 42.343191]",Point,18xx,1,TS,0,D14,First,No,WASHINGTON ST,Part Two,Unarmed,752969.0631,ALLSTON ST,2950290.881,2015
+86413,152000625.0,Saturday,No,2015-01-03T00:34:00.000,DRUG CHARGES,"[-71.00375, 42.386646]",Point,18xx,1,IVPER,0,A7,Last,No,BARNES AV,Part Two,Other,790232.7646,,2966313.7660000003,2015
+96894,152000785.0,Saturday,No,2015-01-03T16:00:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,1,IVPREM,0,E18,First,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2015
+142696,152000782.0,Saturday,No,2015-01-03T16:00:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,1,IVPREM,0,E18,First,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2015
+261273,152000638.0,Saturday,No,2015-01-03T01:49:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,TS,0,C11,Last,No,STOUGHTON ST,Part Two,Unarmed,,,,2015
+262553,152000663.0,Saturday,No,2015-01-03T08:10:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,CD11,0,C11,Day,No,COLUMBIA TR,Part Two,Unarmed,,,,2015
+266281,152000793.0,Saturday,No,2015-01-03T18:05:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,IVPREM,0,E5,First,No,VFW PY,Part Two,Other,,,,2015
+266632,152000695.0,Saturday,No,2015-01-03T08:10:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,CD11,0,C11,Day,No,COLUMBIA TR,Part Two,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8180,140130351.0,Monday,No,2014-03-03T02:15:00.000,Arrest,"[-71.08284, 42.309116]",Point,Arrest,3,ARREST,0,B2,Last,No,BLUE HILL AV,Part three,Unarmed,769004.3297,,2937945.957,2014
+16750,140130637.0,Monday,No,2014-03-03T10:08:00.000,Arrest,"[-71.059415, 42.359251]",Point,Arrest,3,ARREST,65,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,775246.1256,,2956247.881,2014
+71062,140130698.0,Monday,No,2014-03-03T10:40:00.000,Arrest,"[-71.063757, 42.354358]",Point,Arrest,3,ARREST,111,A1,Day,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2014
+172297,140132100.0,Monday,No,2014-03-03T22:15:00.000,Arrest,"[-71.068365, 42.328546]",Point,Arrest,3,TSTOP ,181,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,772883.8062,PROCTOR ST,2945046.048,2014

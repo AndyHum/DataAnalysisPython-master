@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47484,140235422.0,Thursday,No,2014-04-17T15:15:00.000,DISORDERLY,"[-71.063096, 42.31159]",Point,24xx,4,FIGHT ,334,C11,Day,No,HANCOCK ST,Part Two,Unarmed,774340.0595,,2938874.267,2014
+62950,140234183.0,Thursday,No,2014-04-17T17:41:00.000,DISORDERLY,"[-71.063757, 42.354358]",Point,24xx,4,REMOVE,111,A1,First,No,TREMONT ST,Part Two,Unarmed,774081.4655,,2954458.626,2014
+164889,140233552.0,Thursday,No,2014-04-17T13:01:00.000,DISORDERLY,"[-71.08323, 42.327536]",Point,24xx,4,ARREST,282,B2,Day,No,WARREN ST,Part Two,Unarmed,768866.0406,,2944657.9960000003,2014

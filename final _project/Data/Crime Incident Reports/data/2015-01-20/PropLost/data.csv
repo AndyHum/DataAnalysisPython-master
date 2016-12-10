@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61217,152005503.0,Tuesday,No,2015-01-20T20:00:00.000,PropLost,"[-71.09154, 42.284251]",Point,PropLost,1,PROP,0,B3,First,No,MORTON ST,Part three,Unarmed,766694.4791,BLUE HILL AV,2928873.3839999996,2015
+70893,152005355.0,Tuesday,No,2015-01-20T16:00:00.000,PropLost,"[-71.073915, 42.334071]",Point,PropLost,1,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,771373.0038,,2947051.909,2015
+172272,152005417.0,Tuesday,No,2015-01-20T17:00:00.000,PropLost,"[-71.046717, 42.336149]",Point,PropLost,1,INVEST,0,C6,First,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2015
+173112,152006104.0,Tuesday,No,2015-01-20T09:00:00.000,PropLost,"[-71.14741, 42.353681]",Point,PropLost,1,PROP,0,D14,Day,No,ETNA ST,Part three,Unarmed,751471.7818,,2954107.478,2015
+186849,152005559.0,Tuesday,No,2015-01-20T13:00:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,1,PROP,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+205858,152005279.0,Tuesday,No,2015-01-20T11:00:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,1,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Other,766751.5911,,2929095.955,2015

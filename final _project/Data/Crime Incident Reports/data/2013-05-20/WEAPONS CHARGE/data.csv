@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3417,130302039.0,Monday,No,2013-05-20T17:15:00.000,WEAPONS CHARGE,"[-71.081625, 42.336141]",Point,15xx,5,ARREST,903,D4,First,No,TROTTER CT,Part Two,Other,769284.6658,,2947795.935,2013
+119313,130302209.0,Monday,No,2013-05-20T17:55:00.000,WEAPONS CHARGE,"[-71.09219, 42.309831]",Point,15xx,5,ARREST,316,B2,First,No,HUMBOLDT AV,Part Two,Knife,766474.0251,SEAVER ST,2938194.284,2013
+174917,130300760.0,Monday,No,2013-05-20T07:38:00.000,WEAPONS CHARGE,"[-71.069255, 42.281066]",Point,15xx,5,TRANSP,403,C11,Day,No,CROFTLAND AV,Part Two,Other,772730.5224,,2927742.3910000003,2013

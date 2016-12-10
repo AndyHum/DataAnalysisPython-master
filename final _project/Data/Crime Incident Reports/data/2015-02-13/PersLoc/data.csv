@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32728,152011962.0,Friday,No,2015-02-13T21:00:00.000,PersLoc,"[-71.013835, 42.384286]",Point,PersLoc,2,MISSIN,0,A7,First,No,BENNINGTON ST,Other,Unarmed,787513.15,,2965438.046,2015
+75502,152011939.0,Friday,No,2015-02-13T21:00:00.000,PersLoc,"[-71.070005, 42.348241]",Point,PersLoc,2,IVPER,0,A1,First,No,CORTES ST,Other,Unarmed,772404.1598,,2952221.02,2015
+83365,152012088.0,Friday,No,2015-02-13T21:30:00.000,PersLoc,"[-71.051585, 42.293822]",Point,PersLoc,2,MISSIN,0,C11,First,No,NEPONSET AV,Other,Unarmed,777487.4843,,2932415.541,2015
+99654,152012932.0,Friday,No,2015-02-13T07:00:00.000,PersLoc,"[-71.144262, 42.255257]",Point,PersLoc,2,MISSIN,0,E5,Last,No,GEORGETOWNE PL,Other,Unarmed,752472.2036,,2918243.367,2015
+121898,152013476.0,Friday,No,2015-02-13T22:00:00.000,PersLoc,"[-71.106535, 42.306541]",Point,PersLoc,2,IVPER,0,E13,First,No,GARTLAND ST,Other,Unarmed,762599.4514,,2936977.13,2015

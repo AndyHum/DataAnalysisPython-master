@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8504,130439597.0,Monday,No,2013-07-15T15:00:00.000,PropFound,"[-71.094575, 42.281289]",Point,PropFound,7,IVMV  ,468,B3,Day,No,DUKE ST,Part three,Unarmed,765878.2441,,2927789.9469999997,2013
+28487,130437035.0,Monday,No,2013-07-15T09:40:00.000,PropFound,"[-71.05158, 42.358761]",Point,PropFound,7,FDWEAP,95,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777364.6527,MILK ST,2956080.3510000003,2013
+31436,130437165.0,Monday,No,2013-07-15T10:50:00.000,PropFound,"[-71.10554, 42.347521]",Point,PropFound,7,FDPROP,630,D4,Day,No,BUSWELL ST,Part three,Unarmed,762799.5339,PARK DR,2951912.213,2013
+195587,130437470.0,Monday,No,2013-07-15T13:11:00.000,PropFound,"[-71.098591, 42.336447]",Point,PropFound,7,FDWEAP,600,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,764696.8065,,2947885.143,2013
+249518,130438757.0,Monday,No,2013-07-15T06:00:00.000,PropFound,"[-71.16269, 42.293451]",Point,PropFound,7,FDPROP,738,E5,Last,No,COREY ST,Part three,Unarmed,747428.4238,VFW PY,2932141.8439999996,2013
+254610,130438187.0,Monday,No,2013-07-15T18:20:00.000,PropFound,"[-71.112065, 42.25216]",Point,PropFound,7,FDWEAP,513,E18,First,No,SPRING HILL RD,Part three,Unarmed,761193.5583,,2917152.997,2013
+265231,130437550.0,Monday,No,2013-07-15T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,191,C6,Day,No,ANDREW SQUARE,Part three,Unarmed,,,,2013

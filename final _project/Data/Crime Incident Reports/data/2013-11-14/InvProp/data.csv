@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12015,130723908.0,Thursday,No,2013-11-14T13:48:00.000,InvProp,"[-71.105275, 42.333946]",Point,InvProp,11,MVARPT,604,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,762894.0627,,2946965.559,2013
+51669,130724430.0,Thursday,No,2013-11-14T12:00:00.000,InvProp,"[-71.11234, 42.332572]",Point,InvProp,11,IVPREM,611,B2,Day,No,RIVERWAY,Part three,Unarmed,760985.8664,,2946455.8589999997,2013
+62371,130724227.0,Thursday,No,2013-11-14T16:25:00.000,InvProp,"[-71.162165, 42.279986]",Point,InvProp,11,BEIP  ,732,E5,First,No,TEMPLE ST,Part three,Unarmed,747589.9001,,2927235.548,2013
+68782,130722978.0,Thursday,No,2013-11-14T04:36:00.000,InvProp,"[-71.069488, 42.31403]",Point,InvProp,11,BEIP  ,331,B2,Last,No,BIRD ST,Part three,Unarmed,772606.7625,,2939754.385,2013
+99064,130722832.0,Thursday,No,2013-11-14T01:12:00.000,InvProp,"[-71.12053, 42.270627]",Point,InvProp,11,ALARMC,496,E18,Last,No,HYDE PARK AV,Part three,Unarmed,758871.8283,,2923872.268,2013
+145573,130724456.0,Thursday,No,2013-11-14T19:13:00.000,InvProp,"[-71.077413, 42.34321]",Point,InvProp,11,LANTEN,153,D4,First,No,PEMBROKE ST,Part three,Unarmed,770410.4653,,2950377.4110000003,2013
+191343,130723245.0,Thursday,No,2013-11-14T09:00:00.000,InvProp,"[-71.162382, 42.273601]",Point,InvProp,11,ALARMR,718,E5,Day,No,BRONX RD,Part three,Unarmed,747540.1892,,2924908.512,2013
+199791,130723001.0,Thursday,No,2013-11-14T05:39:00.000,InvProp,"[-71.0695, 42.342746]",Point,InvProp,11,ALARMC,160,D4,Last,No,SHAWMUT AV,Part three,Unarmed,772550.7783,,2950219.229,2013

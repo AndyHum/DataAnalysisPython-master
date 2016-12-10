@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+331,152034593.0,Friday,No,2015-04-03T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,A7,Day,No,BENNINGTON ST,Part three,Unarmed,,,,2015
+3317,152028127.0,Friday,No,2015-04-03T09:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C11,Day,No,MT CUSHING TR,Part three,Unarmed,,,,2015
+70620,152027864.0,Friday,No,2015-04-03T15:00:00.000,PropLost,"[-71.1088, 42.324726]",Point,PropLost,4,PROP,0,E13,Day,No,ARCOLA ST,Part three,Other,761956.3773,,2943601.2339999997,2015
+129202,152027433.0,Friday,No,2015-04-03T12:00:00.000,PropLost,"[-71.059969, 42.355867]",Point,PropLost,4,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,WINTER ST,2955013.727,2015
+134950,152027800.0,Friday,No,2015-04-03T05:00:00.000,PropLost,"[-71.06942, 42.362401]",Point,PropLost,4,PROP,0,A1,Last,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+176656,152027181.0,Friday,No,2015-04-03T18:00:00.000,PropLost,"[-71.09145, 42.283946]",Point,PropLost,4,LARCEN,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766719.3645,,2928762.354,2015
+238181,152027927.0,Friday,No,2015-04-03T13:50:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,4,LARCEN,0,B2,Day,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2015
+267246,152027247.0,Friday,No,2015-04-03T21:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,,,,2015
+267271,152027167.0,Friday,No,2015-04-03T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,D4,Day,No,BELVIDERE ST,Part three,Unarmed,,,,2015
+267291,152027008.0,Friday,No,2015-04-03T02:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,,EXETER ST,,2015
+267378,152027769.0,Friday,No,2015-04-03T21:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267954,152032213.0,Friday,No,2015-04-03T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,Day,No,8TH ST,Part three,Unarmed,,,,2015

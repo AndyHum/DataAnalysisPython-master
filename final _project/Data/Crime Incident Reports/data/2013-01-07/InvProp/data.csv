@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104796,130014346.0,Monday,No,2013-01-07T20:52:00.000,InvProp,"[-71.04162, 42.369616]",Point,InvProp,1,SHOTS ,907,A7,First,No,SUMNER ST,Part Three,Unarmed,780035.3332,,2960050.433,2013
+149409,130013031.0,Monday,No,2013-01-07T10:08:00.000,InvProp,"[-71.15049, 42.268316]",Point,InvProp,1,IVPREM,710,E5,Day,No,CAROL CR,Part Three,Unarmed,750766.7346,,2922995.559,2013
+235726,130014160.0,Monday,No,2013-01-07T19:07:00.000,InvProp,"[-71.10857, 42.311121]",Point,InvProp,1,INVEST,645,E13,First,No,ELM ST,Part Three,Unarmed,762041.3262,GREEN ST,2938643.624,2013
+263929,130014215.0,Monday,No,2013-01-07T19:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,LSTPRP,586,B2,First,No,WASHINGTON ST,Part Three,Unarmed,,,,2013

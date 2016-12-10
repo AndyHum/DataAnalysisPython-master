@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48029,130476016.0,Wednesday,No,2013-07-31T08:02:00.000,DISORDERLY,"[-71.096105, 42.321479]",Point,24xx,7,IVPER ,304,B2,Day,No,WEAVER WY,Part Two,Unarmed,765394.9806,,2942433.733,2013
+136268,130475870.0,Wednesday,No,2013-07-31T05:20:00.000,DISORDERLY,"[-71.121635, 42.277231]",Point,24xx,7,LMUSIC,556,E18,Last,No,PINEDALE RD,Part Two,Unarmed,758562.2935,,2926277.633,2013
+183419,130477671.0,Wednesday,No,2013-07-31T19:30:00.000,DISORDERLY,"[-71.07176, 42.383411]",Point,24xx,7,SUSPER,900,A15,First,No,MAIN ST,Part Two,Unarmed,771865.3998,BUNKER HILL ST,2965035.29,2013

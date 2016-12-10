@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7295,120657786.0,Friday,No,2012-10-19T12:15:00.000,Service,"[-71.0566, 42.350411]",Point,Service,10,ARREST,115,A1,Day,No,ATLANTIC AV,Part Three,Unarmed,776023.6901,BEACH ST,2953030.36,2012
+53400,120658421.0,Friday,No,2012-10-19T09:00:00.000,Service,"[-71.033575, 42.371691]",Point,Service,10,THREAT,21,A7,Day,No,PORTER ST,Part Three,Unarmed,782205.1855,,2960818.39,2012
+108899,120659453.0,Friday,No,2012-10-19T15:30:00.000,Service,"[-71.165805, 42.339061]",Point,Service,10,LARCRT,749,D14,Day,No,ST THOMAS MORE RD,Part Three,Unarmed,746520.5203,,2948759.635,2012
+114430,120658530.0,Friday,No,2012-10-19T14:28:00.000,Service,"[-71.04625, 42.354256]",Point,Service,10,CD5   ,207,C6,Day,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012
+228731,120659951.0,Friday,No,2012-10-19T22:40:00.000,Service,"[-71.068653, 42.306188]",Point,Service,10,SSTOP ,336,C11,First,No,NORTON ST,Part Three,Unarmed,772847.1206,,2936897.7789999996,2012
+255135,120658558.0,Friday,No,2012-10-19T09:45:00.000,Service,"[-71.06939, 42.339506]",Point,Service,10,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+258367,120658649.0,Friday,No,2012-10-19T09:49:00.000,Service,"[-71.048755, 42.331371]",Point,Service,10,ARREST,219,C6,Day,No,E 8TH ST,Part Three,Unarmed,778180.9921,,2946102.7660000003,2012

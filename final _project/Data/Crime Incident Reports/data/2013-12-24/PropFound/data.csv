@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66711,130807826.0,Tuesday,No,2013-12-24T08:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,12,FDPROP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+179193,130807997.0,Tuesday,No,2013-12-24T10:30:00.000,PropFound,"[-71.06248, 42.298081]",Point,PropFound,12,FDPROP,358,C11,Day,No,PARK ST,Part three,Unarmed,774532.0806,GENEVA AV,2933952.228,2013
+180613,130807516.0,Tuesday,No,2013-12-24T01:05:00.000,PropFound,"[-71.06122, 42.365521]",Point,PropFound,12,FDPROP,76,A1,Last,No,CANAL ST,Part three,Unarmed,774746.5282,CAUSEWAY ST,2958530.278,2013

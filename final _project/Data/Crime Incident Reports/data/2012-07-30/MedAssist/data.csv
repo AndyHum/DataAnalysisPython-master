@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11109,120470011.0,Monday,No,2012-07-30T10:16:00.000,MedAssist,"[-71.154255, 42.353457]",Point,MedAssist,7,TRAUMA,764,D14,Day,No,PARSONS ST,Part Three,Unarmed,749621.7051,,2954017.98,2012
+16834,120470064.0,Monday,No,2012-07-30T10:40:00.000,MedAssist,"[-71.06076, 42.357671]",Point,MedAssist,7,IVPER ,73,A1,Day,No,TREMONT ST,Part Three,Unarmed,774885.5732,,2955670.224,2012
+52129,120470187.0,Monday,No,2012-07-30T11:32:00.000,MedAssist,"[-71.066019, 42.284605]",Point,MedAssist,7,IVPER ,402,C11,Day,No,BAILEY ST,Part Three,Unarmed,773599.5243,,2929036.4439999997,2012
+53774,120471310.0,Monday,No,2012-07-30T20:38:00.000,MedAssist,"[-71.057585, 42.323031]",Point,MedAssist,7,IVPER ,187,C6,First,No,HARVEST TR,Part Three,Unarmed,775809.1872,,2943051.225,2012
+138015,120470886.0,Monday,No,2012-07-30T17:06:00.000,MedAssist,"[-71.06651, 42.306701]",Point,MedAssist,7,IVPER ,340,C11,First,No,BOWDOIN ST,Part Three,Unarmed,773425.8620000001,DRAPER ST,2937087.9189999998,2012
+158707,120470435.0,Monday,No,2012-07-30T13:31:00.000,MedAssist,"[-71.137715, 42.275161]",Point,MedAssist,7,IVPER ,550,E5,Day,No,HIGHCREST RD,Part Three,Unarmed,754213.8553,,2925504.402,2012
+190987,120470790.0,Monday,No,2012-07-30T16:29:00.000,MedAssist,"[-71.155971, 42.283311]",Point,MedAssist,7,OVRDOS,702,E5,First,No,BELLEVUE ST,Part Three,Other,749261.1021,,2928453.731,2012
+234382,120471167.0,Monday,No,2012-07-30T19:10:00.000,MedAssist,"[-71.131009, 42.27649]",Point,MedAssist,7,EDP2  ,551,E5,First,No,CORNELL ST,Part Three,Other,756026.5856,,2925996.39,2012

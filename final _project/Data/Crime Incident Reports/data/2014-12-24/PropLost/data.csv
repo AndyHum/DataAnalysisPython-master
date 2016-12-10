@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18130,142061703.0,Wednesday,No,2014-12-24T15:00:00.000,PropLost,"[-71.15175, 42.349901]",Point,PropLost,12,PROP,0,D14,Day,No,HENSHAW ST,Part three,Unarmed,750304.312,,2952725.1489999997,2014
+33187,142060377.0,Wednesday,No,2014-12-24T12:15:00.000,PropLost,"[-71.119075, 42.279601]",Point,PropLost,12,PROP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759251.2357,,2927144.3789999997,2014
+66786,142060509.0,Wednesday,No,2014-12-24T15:00:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,12,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2014
+89982,142060531.0,Wednesday,No,2014-12-24T14:00:00.000,PropLost,"[-71.07161, 42.290211]",Point,PropLost,12,MISC,0,C11,Day,No,TALBOT AV,Part three,Unarmed,772076.5056,WASHINGTON ST,2931071.748,2014
+118545,152000152.0,Wednesday,No,2014-12-24T17:30:00.000,PropLost,"[-71.075925, 42.347156]",Point,PropLost,12,PROP,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770805.8297,,2951817.613,2014
+146402,152014662.0,Wednesday,No,2014-12-24T12:00:00.000,PropLost,"[-71.075785, 42.297]",Point,PropLost,12,PROP,0,B3,Day,No,SCHOOL ST,Part three,Unarmed,770934.5115,,2933539.867,2014
+165881,142061181.0,Wednesday,No,2014-12-24T09:00:00.000,PropLost,"[-71.07695, 42.308106]",Point,PropLost,12,PROP,0,B2,Day,No,DEVON ST,Part three,Unarmed,770599.3288,,2937585.745,2014
+225870,142060417.0,Wednesday,No,2014-12-24T02:00:00.000,PropLost,"[-71.0639, 42.350956]",Point,PropLost,12,LARCEN,0,A1,Last,No,STUART ST,Part three,Unarmed,774049.4062,,2953218.795,2014
+232667,142060389.0,Wednesday,No,2014-12-24T11:30:00.000,PropLost,"[-71.05177, 42.373926]",Point,PropLost,12,PROP,0,A15,Day,No,EIGHTH ST,Part three,Unarmed,777284.2597,,2961606.5069999998,2014
+241504,152003136.0,Wednesday,No,2014-12-24T17:45:00.000,PropLost,"[-71.038465, 42.335581]",Point,PropLost,12,PROP,0,C6,First,No,E BROADWAY,Part three,Unarmed,780955.0161,,2947652.0530000003,2014
+253625,142061606.0,Wednesday,No,2014-12-24T20:30:00.000,PropLost,"[-71.09973, 42.269758]",Point,PropLost,12,PROP,0,E18,First,No,BISMARCK ST,Part three,Unarmed,764503.0772,,2923581.22,2014

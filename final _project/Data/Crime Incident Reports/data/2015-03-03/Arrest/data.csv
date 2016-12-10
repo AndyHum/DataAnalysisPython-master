@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39052,152017203.0,Tuesday,No,2015-03-03T16:30:00.000,Arrest,"[-71.052715, 42.374741]",Point,Arrest,3,ARREST,0,A15,First,No,8TH ST,Part three,Other,777027.3537,,2961902.17,2015
+265518,152017111.0,Tuesday,No,2015-03-03T12:20:00.000,Arrest,"[0, 0]",Point,Arrest,3,ARREST,0,A1,Day,No,STANIFORD ST,Part three,Unarmed,,,,2015

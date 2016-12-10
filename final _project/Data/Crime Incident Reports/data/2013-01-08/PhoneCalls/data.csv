@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95374,130016331.0,Tuesday,No,2013-01-08T20:02:00.000,PhoneCalls,"[-71.073606, 42.301168]",Point,PhoneCalls,1,HARPT ,462,C11,First,No,NOTTINGHAM ST,Part Three,Other,771516.4205,,2935061.943,2013
+173572,130080374.0,Tuesday,No,2013-01-08T02:59:00.000,PhoneCalls,"[-71.057908, 42.293715]",Point,PhoneCalls,1,IVPER ,364,C11,Last,No,WHITTEN ST,Part Three,Unarmed,775776.9943,,2932367.5560000003,2013
+245225,130015080.0,Tuesday,No,2013-01-08T07:59:00.000,PhoneCalls,"[-71.051205, 42.365951]",Point,PhoneCalls,1,HARPT ,83,A1,Day,No,COMMERCIAL ST,Part Three,Other,777452.22,,2958701.06,2013

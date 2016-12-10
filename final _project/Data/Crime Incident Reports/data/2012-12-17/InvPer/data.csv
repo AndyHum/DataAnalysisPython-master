@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69655,120791458.0,Monday,No,2012-12-17T18:30:00.000,InvPer,"[-71.148595, 42.349557]",Point,InvPer,12,IVDRUG,784,D14,First,No,CAMBRIDGE ST,Part Three,Unarmed,751157.6141,,2952603.025,2012
+99880,120789701.0,Monday,No,2012-12-17T19:02:00.000,InvPer,"[-71.077517, 42.307584]",Point,InvPer,12,INVCHD,329,B2,First,No,STANWOOD ST,Part Three,Unarmed,770446.8849,,2937394.604,2012
+117525,120790033.0,Monday,No,2012-12-17T22:10:00.000,InvPer,"[-71.09486, 42.315301]",Point,InvPer,12,IVPER ,307,E13,First,No,WARDMAN RD,Part Three,Unarmed,765742.3612,,2940184.2010000004,2012
+150176,120798053.0,Monday,No,2012-12-17T22:16:00.000,InvPer,"[-71.06101, 42.361916]",Point,InvPer,12,IVPER ,77,A1,First,No,HAWKINS ST,Part Three,Other,774810.0418,,2957216.836,2012
+159825,120789879.0,Monday,No,2012-12-17T21:00:00.000,InvPer,"[-71.08744, 42.333399]",Point,InvPer,12,BERPTA,909,B2,First,No,CABOT ST,Part Three,Other,767717.2749,,2946788.916,2012
+188738,120788672.0,Monday,No,2012-12-17T11:02:00.000,InvPer,"[-71.10656, 42.350011]",Point,InvPer,12,REMOVE,630,D4,Day,No,ST MARYS ST,Part Three,Unarmed,762519.6179,,2952818.3439999996,2012
+215321,120789061.0,Monday,No,2012-12-17T14:04:00.000,InvPer,"[-71.037465, 42.371036]",Point,InvPer,12,IVPER ,28,A7,Day,No,CHELSEA ST,Part Three,Unarmed,781155.3254,,2960573.97,2012

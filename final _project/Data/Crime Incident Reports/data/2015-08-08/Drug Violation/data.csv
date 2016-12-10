@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11089,,Saturday,No,2015-08-08T16:30:00.000,Drug Violation,"[0, 0]",Point,18xx,8,TS,442,B3,,No,BERNARD ST,Part Two,None,,TALBOT AVE,,2015
+72727,,Saturday,No,2015-08-08T00:00:00.000,Drug Violation,"[-71.037612, 42.330614]",Point,18xx,8,POISON,234,C6,,No,MARINE RD,Part Two,None,781195.0,,2950000.0,2015
+104278,,Saturday,No,2015-08-08T17:30:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,123,A1,,No,WASHINGTON ST,Part Two,None,,,,2015
+119357,,Saturday,No,2015-08-08T19:20:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,325,B2,,No,DACIA ST,Part Two,None,, QUINCY ST ,,2015
+187065,,Saturday,No,2015-08-08T15:46:00.000,Drug Violation,"[0, 0]",Point,18xx,8,TS,313,B2,,No,HUMBOLDT AVE,Part Two,None,,WYOMING ST,,2015
+221875,,Saturday,No,2015-08-08T11:52:00.000,Drug Violation,"[0, 0]",Point,18xx,8,REQEP,176,C6,,No,NEWMARKET SQ,Part Two,None,, THEODORE A GLYNN WAY ,,2015
+240321,,Saturday,No,2015-08-08T10:57:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,76,A1,,No,ANTHONY RIP VALENTI WAY,Part Two,None,,CANAL ST,,2015
+245147,,Saturday,No,2015-08-08T00:00:00.000,Drug Violation,"[-71.07648, 42.300408]",Point,18xx,8,FIGHT,454,B3,,No,VASSAR ST,Part Two,None,770740.0,,2930000.0,2015
+252119,,Saturday,No,2015-08-08T18:14:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,440,B3,,No,AMES ST,Part Two,None,, WESTVIEW ST ,,2015

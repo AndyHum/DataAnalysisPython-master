@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48819,120803564.0,Monday,No,2012-12-24T06:45:00.000,InvProp,"[-71.13644, 42.360521]",Point,InvProp,12,ALARMC,807,D14,Last,No,EVERETT ST,Part Three,Unarmed,754426.327,,2956612.564,2012
+104126,120807598.0,Monday,No,2012-12-24T21:20:00.000,InvProp,"[-71.088545, 42.311966]",Point,InvProp,12,BERPT ,317,B2,First,No,RUTHVEN ST,Part Three,Unarmed,767456.1914,,2938977.05,2012
+131069,120804141.0,Monday,No,2012-12-24T13:45:00.000,InvProp,"[-71.07128, 42.320181]",Point,InvProp,12,SHOTS ,261,B2,Day,No,HOWARD AV,Part Three,Firearm,772110.8982,DUDLEY ST,2941993.725,2012
+204171,120804069.0,Monday,No,2012-12-24T12:28:00.000,InvProp,"[-71.07805, 42.321431]",Point,InvProp,12,REQP  ,265,B2,Day,No,IRWIN AV,Part Three,Unarmed,770277.7651,,2942440.117,2012
+245578,120803510.0,Monday,No,2012-12-24T04:08:00.000,InvProp,"[-71.055805, 42.283141]",Point,InvProp,12,IVPREM,390,C11,Last,No,ADAMS ST,Part Three,Unarmed,776366.2503,,2928517.216,2012

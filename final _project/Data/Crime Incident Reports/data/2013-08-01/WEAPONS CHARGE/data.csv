@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93812,130478183.0,Thursday,No,2013-08-01T00:35:00.000,WEAPONS CHARGE,"[-71.08218, 42.306901]",Point,15xx,8,SSTOP ,329,B2,Last,No,WASHINGTON ST,Part Two,Unarmed,769186.8056,NORMANDY ST,2937139.6489999997,2013
+130894,130479420.0,Thursday,No,2013-08-01T18:33:00.000,WEAPONS CHARGE,"[-71.155168, 42.286515]",Point,15xx,8,IVPREM,0,E5,First,No,COREY ST,Part Two,Firearm,749473.6158,,2929622.409,2013
+150491,130479063.0,Thursday,No,2013-08-01T11:55:00.000,WEAPONS CHARGE,"[-71.061016, 42.320052]",Point,15xx,8,ARREST,240,C11,Day,No,E COTTAGE ST,Part Two,Knife,774886.752,,2941960.872,2013
+158982,130480549.0,Thursday,No,2013-08-01T22:55:00.000,WEAPONS CHARGE,"[-71.070475, 42.301566]",Point,15xx,8,TSTOP ,343,C11,First,No,OAKLAND ST,Part Two,Firearm,772362.7603,BOWDOIN ST,2935211.224,2013

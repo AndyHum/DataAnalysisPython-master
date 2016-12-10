@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86760,120474571.0,Wednesday,No,2012-08-01T09:30:00.000,Service,"[-71.05716, 42.341621]",Point,Service,8,ARREST,173,C6,Day,No,W 4TH ST,Part Three,Unarmed,775888.9461,DORCHESTER AV,2949826.336,2012
+110462,120476233.0,Wednesday,No,2012-08-01T22:24:00.000,Service,"[-71.05962, 42.301231]",Point,Service,8,ARREST,350,C11,First,No,LEONARD ST,Part Three,Unarmed,775299.8826,ADAMS ST,2935104.1160000004,2012
+242510,120475917.0,Wednesday,No,2012-08-01T19:52:00.000,Service,"[-71.06657, 42.318186]",Point,Service,8,SSTOP ,238,B2,First,No,WENDOVER ST,Part Three,Unarmed,773388.3646,,2941273.152,2012

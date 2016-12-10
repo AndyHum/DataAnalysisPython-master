@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26467,,Wednesday,No,2015-06-17T21:29:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,SHOTS,463,B3,,No,BLUE HILL AVE,Part Three,None,,,,2015
+100831,,Wednesday,No,2015-06-17T00:00:00.000,Investigate Property,"[-71.07359, 42.30941]",Point,InvProp,6,SSA,328,B2,,No,COLUMBIA RD,Part Three,None,771506.0,,2940000.0,2015
+143458,,Wednesday,No,2015-06-17T00:00:00.000,Investigate Property,"[-71.075881, 42.354519]",Point,InvProp,6,SHOTS,131,D4,,No,BEACON ST,Part Three,None,770804.0,,2950000.0,2015
+207462,,Wednesday,No,2015-06-17T00:00:00.000,Investigate Property,"[-71.072088, 42.339268]",Point,InvProp,6,ALARM,905,D4,,No,E BROOKLINE ST,Part Three,None,771857.0,,2950000.0,2015
+240758,,Wednesday,No,2015-06-17T21:51:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,SSA,290,B2,,No,COLUMBUS AVE,Part Three,None,, TREMONT ST ,,2015

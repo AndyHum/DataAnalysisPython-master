@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12321,120729456.0,Monday,No,2012-11-19T21:36:00.000,PersLoc,"[-71.082605, 42.298721]",Point,PersLoc,11,MISPER,457,B3,First,No,BRADSHAW ST,Part Three,Unarmed,769086.4312,,2934158.1689999998,2012
+117682,120731889.0,Monday,No,2012-11-19T13:30:00.000,PersLoc,"[-71.06833, 42.280266]",Point,PersLoc,11,MISPER,403,C11,Day,No,ALICIA RD,Part Three,Unarmed,772982.3116,,2927452.126,2012
+191393,120728304.0,Monday,No,2012-11-19T12:33:00.000,PersLoc,"[-71.112361, 42.316208]",Point,PersLoc,11,MSNCOM,639,E13,Day,No,ROBINWOOD AV,Part Three,Unarmed,761007.4093,,2940492.683,2012

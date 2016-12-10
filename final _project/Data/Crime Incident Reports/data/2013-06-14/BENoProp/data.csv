@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5645,130363655.0,Friday,No,2013-06-14T05:00:00.000,BENoProp,"[-71.075605, 42.291256]",Point,BENoProp,6,BERPT ,438,B3,Last,No,TALBOT AV,Part One,Unarmed,770993.6902,,2931447.1569999997,2013
+60785,130360718.0,Friday,No,2013-06-14T00:26:00.000,BENoProp,"[-71.060585, 42.298841]",Point,BENoProp,6,BEIP  ,347,C11,Last,No,DORCHESTER AV,Part One,Other,775043.317,,2934231.818,2013
+84187,130362484.0,Friday,No,2013-06-14T13:00:00.000,BENoProp,"[-71.16281, 42.285491]",Point,BENoProp,6,BERPT ,734,E5,Day,No,YORKTOWN ST,Part One,Other,747407.4238,,2929240.965,2013
+101466,130361691.0,Friday,No,2013-06-14T12:55:00.000,BENoProp,"[-71.061365, 42.305081]",Point,BENoProp,6,LANTEN,347,C11,Day,No,ADAMS ST,Part One,Unarmed,774820.6088,,2936504.6810000003,2013

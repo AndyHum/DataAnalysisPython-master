@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8629,120509224.0,Thursday,No,2012-08-16T09:20:00.000,PropLost,"[-71.069248, 42.346028]",Point,PropLost,8,LARCRT,160,D4,Day,No,TREMONT ST,Part Three,Other,772612.8346,,2951415.43,2012
+83682,120510354.0,Thursday,No,2012-08-16T18:00:00.000,PropLost,"[-71.091615, 42.283466]",Point,PropLost,8,LSTPRP,428,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766675.5535,,2928587.222,2012
+223402,120510938.0,Thursday,No,2012-08-16T23:50:00.000,PropLost,"[0, 0]",Point,PropLost,8,ROBIP ,28,A7,Last,No,MERIDIAN ST,Part Three,Unarmed,,BORDER ST,,2012
+233566,120510140.0,Thursday,No,2012-08-16T10:00:00.000,PropLost,"[-71.05731, 42.360281]",Point,PropLost,8,LSTPRP,94,A1,Day,No,CONGRESS ST,Part Three,Unarmed,775813.1021,NORTH ST,2956626.1780000003,2012

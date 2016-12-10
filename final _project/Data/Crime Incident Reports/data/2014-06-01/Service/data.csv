@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53880,140343434.0,Sunday,No,2014-06-01T09:45:00.000,Service,"[-71.1098, 42.273229]",Point,Service,6,INJAML,478,E18,Day,No,WOOD AV,Part three,Unarmed,761771.5719,,2924833.383,2014
+122134,140344264.0,Sunday,No,2014-06-01T21:15:00.000,Service,"[-71.13191, 42.234376]",Point,Service,6,VICDOG,527,E18,First,No,PARKSON ST,Part three,Unarmed,755849.0217,,2910648.545,2014
+132194,140342958.0,Sunday,No,2014-06-01T09:00:00.000,Service,"[-71.074385, 42.335516]",Point,Service,6,IVPER ,171,D4,Day,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2014
+149849,140344027.0,Sunday,No,2014-06-01T10:00:00.000,Service,"[-71.135972, 42.292479]",Point,Service,6,IVPREM,673,E5,Day,No,ARDALE ST,Part three,Firearm,754658.4975,CENTRE ST,2931817.288,2014
+153004,140343972.0,Sunday,No,2014-06-01T19:30:00.000,Service,"[-71.086275, 42.322431]",Point,Service,6,ARREST,298,B2,First,No,WAKULLAH ST,Part three,Unarmed,768051.6692,,2942793.6380000003,2014
+243158,140342992.0,Sunday,No,2014-06-01T10:45:00.000,Service,"[-71.16406, 42.294042]",Point,Service,6,CD11  ,747,E5,Day,No,COREY ST,Part three,Unarmed,747056.6827,,2932355.74,2014

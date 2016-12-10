@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79428,142036574.0,Monday,No,2014-10-06T16:30:00.000,Service,"[-71.109195, 42.272686]",Point,Service,10,IVPER,0,E18,First,No,TAMPA ST,Part three,Unarmed,761936.3826,,2924636.27,2014
+85037,142036637.0,Monday,No,2014-10-06T20:20:00.000,Service,"[-71.046369, 42.289996]",Point,Service,10,ARREST,0,C11,First,No,BLOOMINGTON ST,Part three,Unarmed,778906.1603,,2931028.5110000004,2014
+255933,142036370.0,Monday,No,2014-10-06T09:40:00.000,Service,"[-71.059987, 42.361648]",Point,Service,10,ARREST,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

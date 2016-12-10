@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145592,152008743.0,Wednesday,No,2015-01-07T19:00:00.000,PersMiss,"[-71.079641, 42.319008]",Point,PersMiss,1,IVPER,0,B2,First,No,WOODBINE ST,Other,Unarmed,769851.8126,,2941554.837,2015
+260399,152001984.0,Wednesday,No,2015-01-07T05:45:00.000,PersMiss,"[0, 0]",Point,PersMiss,1,MISSIN,0,B2,Last,No,GREENVILLE ST,Other,Unarmed,,,,2015

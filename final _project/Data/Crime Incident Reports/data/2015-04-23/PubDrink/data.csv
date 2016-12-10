@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18680,152033317.0,Thursday,No,2015-04-23T11:00:00.000,PubDrink,"[-71.078394, 42.32898]",Point,PubDrink,4,IVPER,0,B2,Day,No,EUSTIS ST,Part Two,Unarmed,770171.0377,DEARBORN ST,2945190.659,2015
+177315,152033309.0,Thursday,No,2015-04-23T10:10:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,4,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015
+196894,152033314.0,Thursday,No,2015-04-23T10:20:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,4,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015

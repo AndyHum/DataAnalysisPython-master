@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70874,130312426.0,Friday,No,2013-05-24T22:25:00.000,PropLost,"[-71.054175, 42.318931]",Point,PropLost,5,BERPT ,245,C11,First,No,CRESCENT AV,Part Three,Unarmed,776739.1551,,2941561.92,2013
+138949,130311689.0,Friday,No,2013-05-24T16:00:00.000,PropLost,"[-71.08969, 42.346756]",Point,PropLost,5,LARCIP,591,D4,First,No,BOYLSTON ST,Part Three,Unarmed,767085.5061,,2951653.646,2013
+218825,130311282.0,Friday,No,2013-05-24T13:20:00.000,PropLost,"[-71.04802, 42.292301]",Point,PropLost,5,LSTPRP,373,C11,Day,No,FREEPORT ST,Part Three,Unarmed,778455.1684,,2931866.311,2013
+221939,130325988.0,Friday,No,2013-05-24T17:45:00.000,PropLost,"[-71.079605, 42.347101]",Point,PropLost,5,LSTPRP,146,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769811.1326,,2951792.646,2013
+223120,130320219.0,Friday,No,2013-05-24T12:00:00.000,PropLost,"[-71.119055, 42.278921]",Point,PropLost,5,LSTPRP,501,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,759257.7544,,2926896.6010000003,2013

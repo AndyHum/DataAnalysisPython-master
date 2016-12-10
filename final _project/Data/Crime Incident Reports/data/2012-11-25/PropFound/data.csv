@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116185,120739849.0,Sunday,No,2012-11-25T10:42:00.000,PropFound,"[-71.14946, 42.293286]",Point,PropFound,11,FDPROP,688,E5,Day,No,CHURCH ST,Part Three,Unarmed,751008.1209,,2932096.1489999997,2012
+125528,120740681.0,Sunday,No,2012-11-25T17:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,11,FDPROP,167,D4,First,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+145394,120740564.0,Sunday,No,2012-11-25T18:27:00.000,PropFound,"[-71.071602, 42.359621]",Point,PropFound,11,IVPREM,66,A1,First,No,CHARLES RIVER SQ,Part Three,Unarmed,771951.5131,,2956365.704,2012
+214178,120741575.0,Sunday,No,2012-11-25T21:00:00.000,PropFound,"[-71.082, 42.307341]",Point,PropFound,11,INVEST,329,B2,First,No,BILODEAU RD,Part Three,Unarmed,769234.7092,,2937300.231,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45594,,Wednesday,No,2015-07-22T00:00:00.000,Missing Person Located,"[-71.033457, 42.378461]",Point,PersFound,7,IVPER,19,A7,,No,PRINCETON ST,Part Three,None,782224.0,,2960000.0,2015
+96155,,Wednesday,No,2015-07-22T00:00:00.000,Missing Person Located,"[-71.100323, 42.272709]",Point,PersFound,7,IVPER,475,B3,,No,NEWCASTLE ST,Part Three,None,764337.0,,2920000.0,2015
+178560,,Wednesday,No,2015-07-22T00:00:00.000,Missing Person Located,"[-71.07836, 42.337557]",Point,PersFound,7,IVPER,273,D4,,No,MASSACHUSETTS AVE,Part Three,None,770165.0,,2950000.0,2015
+255747,,Wednesday,No,2015-07-22T00:00:00.000,Missing Person Located,"[-71.086718, 42.310529]",Point,PersFound,7,IVPER,320,B2,,No,ELM HILL AVE,Part Three,None,767953.0,,2940000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56008,130593374.0,Tuesday,No,2013-09-17T16:30:00.000,WEAPONS CHARGE,"[-71.150915, 42.348981]",Point,15xx,9,MISC  ,778,D14,First,No,WASHINGTON ST,Part Two,Unarmed,750531.3965,,2952390.805,2013
+61460,130590591.0,Tuesday,No,2013-09-17T05:00:00.000,WEAPONS CHARGE,"[-71.13803, 42.348791]",Point,15xx,9,CD11  ,778,D14,Last,No,COMMONWEALTH AV,Part Two,Other,754014.7399,,2952336.082,2013
+144191,130593454.0,Tuesday,No,2013-09-17T18:44:00.000,WEAPONS CHARGE,"[-71.087188, 42.320054]",Point,15xx,9,ARREST,308,B2,First,No,BOWER ST,Part Two,Firearm,767808.8692,,2941926.166,2013
+186368,130593893.0,Tuesday,No,2013-09-17T22:38:00.000,WEAPONS CHARGE,"[-71.082565, 42.336751]",Point,15xx,9,SSTOP ,274,D4,First,No,KENDALL ST,Part Two,Firearm,769029.4284,,2948016.9839999997,2013

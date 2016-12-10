@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83275,120640601.0,Monday,No,2012-07-30T14:41:00.000,FORGERY,"[-71.082494, 42.330421]",Point,10xx,7,LARCRT,280,B2,Day,No,PALMER ST,Part Two,Unarmed,769059.7223,,2945710.125,2012
+87186,120641358.0,Monday,No,2012-07-30T14:17:00.000,FORGERY,"[-71.082494, 42.330421]",Point,10xx,7,LARCRT,280,B2,Day,No,PALMER ST,Part Two,Unarmed,769059.7223,,2945710.125,2012
+234312,120640600.0,Monday,No,2012-07-30T15:04:00.000,FORGERY,"[-71.082494, 42.330421]",Point,10xx,7,LARCRT,280,B2,Day,No,PALMER ST,Part Two,Unarmed,769059.7223,,2945710.125,2012

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18806,120643476.0,Friday,No,2012-10-12T12:00:00.000,PropLost,"[-71.04802, 42.292301]",Point,PropLost,10,LSTPRP,373,C11,Day,No,FREEPORT ST,Part Three,Unarmed,778455.1684,,2931866.311,2012
+99176,120654601.0,Friday,No,2012-10-12T00:30:00.000,PropLost,"[-71.126397, 42.254439]",Point,PropLost,10,LSTPRP,542,E18,Last,No,BUSINESS ST,Part Three,Unarmed,757309.8715,,2917965.9510000004,2012
+171351,120644869.0,Friday,No,2012-10-12T17:45:00.000,PropLost,"[-71.072745, 42.350576]",Point,PropLost,10,LSTPRP,129,D4,First,No,BERKELEY ST,Part Three,Unarmed,771659.2201,,2953068.216,2012
+215200,120711402.0,Friday,No,2012-10-12T16:30:00.000,PropLost,"[-71.07919, 42.314021]",Point,PropLost,10,LSTPRP,325,B2,First,No,BLUE HILL AV,Part Three,Unarmed,769982.7914,FAYSTON ST,2939738.2660000003,2012
+263470,120643699.0,Friday,No,2012-10-12T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,INVEST,93,A1,First,No,BLACKSTONE ST,Part Three,Unarmed,,,,2012

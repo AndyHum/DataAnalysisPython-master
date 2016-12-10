@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54186,120606411.0,Wednesday,No,2012-09-26T21:09:00.000,PersMiss,"[-71.069221, 42.30886]",Point,PersMiss,9,MISPER,335,C11,First,No,BELLEVUE ST,Part Three,Unarmed,772688.4477,,2937870.6760000004,2012
+164613,120606468.0,Wednesday,No,2012-09-26T17:15:00.000,PersMiss,"[-71.06853, 42.295871]",Point,PersMiss,9,MSNCOM,359,C11,First,No,ALPHA RD,Part Three,Unarmed,772899.4194,,2933138.537,2012
+170966,120605754.0,Wednesday,No,2012-09-26T14:00:00.000,PersMiss,"[-71.134845, 42.355401]",Point,PersMiss,9,MSNCOM,803,D14,Day,No,DENBY RD,Part Three,Unarmed,754865.3947,,2954748.5710000005,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6650,142047293.0,Saturday,No,2014-11-08T18:00:00.000,PropFound,"[-71.125377, 42.270526]",Point,PropFound,11,IVPER,0,E18,First,No,WINDHAM RD,Part three,Unarmed,757560.3044,,2923829.559,2014
+22804,142047462.0,Saturday,No,2014-11-08T20:00:00.000,PropFound,"[-71.149519, 42.263002]",Point,PropFound,11,PROP,0,E5,First,No,CEDARCREST RD,Part three,Unarmed,751037.4670000001,,2921059.841,2014
+23601,142047172.0,Saturday,No,2014-11-08T17:09:00.000,PropFound,"[-71.06007, 42.350711]",Point,PropFound,11,PROP,0,A1,First,No,HUDSON ST,Part three,Unarmed,775085.1479,,2953134.829,2014
+82660,142047554.0,Saturday,No,2014-11-08T07:45:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,11,PROP,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+188356,142047142.0,Saturday,No,2014-11-08T16:00:00.000,PropFound,"[-71.07429, 42.339811]",Point,PropFound,11,MISC,0,D4,First,No,SHAWMUT AV,Part three,Other,771261.17,,2949143.162,2014
+243330,142047061.0,Saturday,No,2014-11-08T12:47:00.000,PropFound,"[-71.071809, 42.358087]",Point,PropFound,11,PROP,0,A1,Day,No,BRIMMER ST,Part three,Unarmed,771898.4968,,2955806.628,2014
+264234,142047196.0,Saturday,No,2014-11-08T20:00:00.000,PropFound,"[0, 0]",Point,PropFound,11,PROP,0,A7,First,No,BORDER ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44691,120674702.0,Sunday,No,2012-10-21T11:00:00.000,PhoneCalls,"[-71.068529, 42.377114]",Point,PhoneCalls,10,HARPT ,58,A15,Day,No,DUNSTABLE ST,Part Three,Unarmed,772749.7668,,2962744.6810000003,2012
+116281,120666385.0,Sunday,No,2012-10-21T00:01:00.000,PhoneCalls,"[-71.158595, 42.355251]",Point,PhoneCalls,10,HARPT ,766,D14,Last,No,FALKLAND ST,Part Three,Unarmed,748446.2068,,2954667.32,2012
+184757,120663599.0,Sunday,No,2012-10-21T14:24:00.000,PhoneCalls,"[-71.09342, 42.275896]",Point,PhoneCalls,10,THREAT,427,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766200.2749,,2925826.275,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142133,130727835.0,Saturday,No,2013-11-16T09:26:00.000,InvProp,"[-71.114275, 42.267891]",Point,InvProp,11,BERPT ,492,E18,Day,No,TACOMA ST,Part three,Unarmed,760569.4808,,2922882.9289999995,2013
+189554,130728314.0,Saturday,No,2013-11-16T14:15:00.000,InvProp,"[-71.035045, 42.365841]",Point,InvProp,11,VANRPT,34,A7,Day,No,WEBSTER ST,Part three,Unarmed,781819.5843,,2958684.367,2013
+217198,130727586.0,Saturday,No,2013-11-16T03:55:00.000,InvProp,"[-71.1052, 42.326091]",Point,InvProp,11,FIGHT ,906,E13,Last,No,HEATH ST,Part three,Unarmed,762927.5912,SCHILLER ST,2944103.1489999997,2013

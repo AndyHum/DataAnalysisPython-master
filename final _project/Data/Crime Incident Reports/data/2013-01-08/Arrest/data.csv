@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18651,130015152.0,Tuesday,No,2013-01-08T09:20:00.000,Arrest,"[-71.09192, 42.270941]",Point,Arrest,1,IVPREM,424,B3,Day,No,FREMONT ST,Part Three,Unarmed,766614.8591,,2924022.545,2013
+39164,120163467.0,Tuesday,No,2013-01-08T16:00:00.000,Arrest,"[-71.0526, 42.328611]",Point,Arrest,1,DKDIST,236,C6,First,No,OLD COLONY AV,Part Three,Unarmed,777146.6032,DEVINE WY,2945091.7010000004,2013
+142341,130014805.0,Tuesday,No,2013-01-08T02:48:00.000,Arrest,"[-71.060945, 42.299596]",Point,Arrest,1,ARREST,356,C11,Last,No,FAULKNER ST,Part Three,Unarmed,774944.5091,,2934506.45,2013
+258196,130015312.0,Tuesday,No,2013-01-08T10:40:00.000,Arrest,"[-71.05685, 42.324791]",Point,Arrest,1,ARREST,187,C6,Day,No,DORCHESTER AV,Part Three,Other,776004.6188,HOWELL ST,2943693.63,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8426,152039874.0,Saturday,No,2014-12-20T06:00:00.000,PropLost,"[-71.124595, 42.287901]",Point,PropLost,12,PROP,0,E5,Last,No,FIRTH RD,Part three,Unarmed,757744.1367,,2930162.402,2014
+24166,142059331.0,Saturday,No,2014-12-20T00:00:00.000,PropLost,"[-71.166839, 42.347144]",Point,PropLost,12,PROP,0,D14,Last,No,LARCH ST,Part three,Unarmed,746229.4005,,2951704.015,2014
+233161,142059485.0,Saturday,No,2014-12-20T13:30:00.000,PropLost,"[-71.08323, 42.327536]",Point,PropLost,12,LARCEN,0,B2,Day,No,WARREN ST,Part three,Unarmed,768866.0406,,2944657.9960000003,2014
+257547,142059819.0,Saturday,No,2014-12-20T01:00:00.000,PropLost,"[-71.05394, 42.357941]",Point,PropLost,12,LARCEN,0,A1,Last,No,MILK ST,Part three,Unarmed,776728.3657,BROAD ST,2955778.182,2014

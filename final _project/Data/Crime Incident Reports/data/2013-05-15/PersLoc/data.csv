@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66951,130289431.0,Wednesday,No,2013-05-15T11:04:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,5,MISPER,817,C11,Day,No,TALBOT AV,Part Three,Unarmed,773528.0244,,2930474.905,2013
+131789,130289390.0,Wednesday,No,2013-05-15T07:30:00.000,PersLoc,"[-71.087665, 42.318571]",Point,PersLoc,5,MISPER,308,B2,Day,No,MUNROE ST,Part Three,Unarmed,767682.5728,,2941385.171,2013
+154516,130290914.0,Wednesday,No,2013-05-15T10:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,5,MISPER,446,B3,Day,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+209718,130292168.0,Wednesday,No,2013-05-15T22:00:00.000,PersLoc,"[-71.11655, 42.258881]",Point,PersLoc,5,MISPER,494,E18,First,No,DAVISON ST,Part Three,Unarmed,759968.479,,2919596.789,2013

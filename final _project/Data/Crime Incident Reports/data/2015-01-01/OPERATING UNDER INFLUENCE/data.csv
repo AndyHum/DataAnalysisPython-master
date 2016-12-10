@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56912,152000068.0,Thursday,No,2015-01-01T02:09:00.000,OPERATING UNDER INFLUENCE,"[-71.136265, 42.350546]",Point,21xx,1,MVA,0,D14,Last,No,ALLSTON ST,Part Two,Unarmed,754489.1255,,2952977.67,2015
+133401,152000282.0,Thursday,No,2015-01-01T19:17:00.000,OPERATING UNDER INFLUENCE,"[-71.12412, 42.255821]",Point,21xx,1,ARREST,0,E18,First,No,HYDE PARK AV,Part Two,Unarmed,757924.1748,RIVER ST,2918472.564,2015
+265109,152000095.0,Thursday,No,2015-01-01T03:49:00.000,OPERATING UNDER INFLUENCE,"[0, 0]",Point,21xx,1,INVEST,0,B2,Last,No,MALCOLM X BL,Part Two,Unarmed,,,,2015

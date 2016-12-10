@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97098,130166440.0,Thursday,No,2013-03-21T11:30:00.000,PubDrink,"[-71.08462, 42.329591]",Point,PubDrink,3,IVPER ,276,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768486.5259,ROXBURY ST,2945405.04,2013
+116496,130166330.0,Thursday,No,2013-03-21T12:03:00.000,PubDrink,"[-71.083699, 42.330436]",Point,PubDrink,3,SSTOP ,287,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768733.8404,,2945714.085,2013
+131696,130167203.0,Thursday,No,2013-03-21T18:45:00.000,PubDrink,"[-71.08046, 42.335661]",Point,PubDrink,3,CD19  ,903,D4,First,No,SHAWMUT AV,Part Two,Unarmed,769600.5096,,2947622.561,2013
+242361,130166308.0,Thursday,No,2013-03-21T11:53:00.000,PubDrink,"[-71.08399, 42.330331]",Point,PubDrink,3,SSTOP ,287,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768655.5628,VERNON ST,2945675.539,2013

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9219,142035948.0,Saturday,No,2014-10-04T21:30:00.000,Service,"[-71.03981, 42.376191]",Point,Service,10,IVPER,0,A7,First,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2014
+81878,142035970.0,Saturday,No,2014-10-04T19:00:00.000,Service,"[-71.034655, 42.346381]",Point,Service,10,IVPER,0,C6,First,No,NORTHERN AV,Part three,Unarmed,781963.6689,,2951593.356,2014
+112797,142035797.0,Saturday,No,2014-10-04T11:42:00.000,Service,"[-71.063155, 42.298481]",Point,Service,10,ARREST,0,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,,2934097.058,2014
+112922,142035796.0,Saturday,No,2014-10-04T11:40:00.000,Service,"[-71.063155, 42.298481]",Point,Service,10,IVPER,0,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,,2934097.058,2014
+181440,142035772.0,Saturday,No,2014-10-04T10:45:00.000,Service,"[-71.06065, 42.352521]",Point,Service,10,ARREST,0,A1,Day,No,ESSEX ST,Part three,Unarmed,774924.9706,OXFORD ST,2953793.6180000002,2014
+200106,142035835.0,Saturday,No,2014-10-04T14:00:00.000,Service,"[-71.03981, 42.376191]",Point,Service,10,ARREST,0,A7,Day,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2014

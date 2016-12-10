@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+117725,130133187.0,Tuesday,No,2013-03-05T06:30:00.000,PersLoc,"[-71.03723, 42.370306]",Point,PersLoc,3,MISPER,29,A7,Last,No,BREMEN ST,Part Three,Unarmed,781220.2692,,2960308.289,2013
+174938,130132695.0,Tuesday,No,2013-03-05T14:45:00.000,PersLoc,"[-71.082529, 42.316924]",Point,PersLoc,3,FDCHLD,311,B2,Day,No,WARREN ST,Part Three,Other,769074.3844,,2940791.704,2013
+184179,130133492.0,Tuesday,No,2013-03-05T21:45:00.000,PersLoc,"[-71.14805, 42.259326]",Point,PersLoc,3,MISPER,822,E5,First,No,GEORGETOWNE DR,Part Three,Unarmed,751440.6434,,2919722.167,2013
+212939,130133226.0,Tuesday,No,2013-03-05T07:00:00.000,PersLoc,"[-71.076265, 42.312576]",Point,PersLoc,3,MISPER,326,B2,Last,No,FAYSTON ST,Part Three,Unarmed,770776.5217,,2939215.603,2013

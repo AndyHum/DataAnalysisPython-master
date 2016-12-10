@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97969,130729688.0,Sunday,No,2013-11-17T02:15:00.000,PropFound,"[-71.06458, 42.352351]",Point,PropFound,11,FDPROP,118,A1,Last,No,BOYLSTON ST,Part three,Unarmed,773863.0013,TREMONT ST,2953726.22,2013
+176305,130729859.0,Sunday,No,2013-11-17T08:41:00.000,PropFound,"[-71.06219, 42.356241]",Point,PropFound,11,FDPROP,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774501.7472,WINTER ST,2955147.117,2013
+206306,130730878.0,Sunday,No,2013-11-17T20:15:00.000,PropFound,"[-71.05592, 42.376646]",Point,PropFound,11,FDPROP,0,A15,First,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2013
+232181,130730250.0,Sunday,No,2013-11-17T13:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,11,FDPROP,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013

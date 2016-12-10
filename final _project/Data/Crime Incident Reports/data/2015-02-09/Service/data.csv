@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88649,152010789.0,Monday,No,2015-02-09T21:00:00.000,Service,"[-71.06894, 42.288516]",Point,Service,2,FIGHT,0,C11,First,No,WELLES AV,Part three,Unarmed,772802.0436,,2930457.7060000002,2015
+104358,152010833.0,Monday,No,2015-02-09T13:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,2,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+173364,152010902.0,Monday,No,2015-02-09T15:15:00.000,Service,"[-71.085618, 42.32866]",Point,Service,2,AOD,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015

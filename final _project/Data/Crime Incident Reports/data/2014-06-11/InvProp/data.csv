@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1485,140370506.0,Wednesday,No,2014-06-11T23:50:00.000,InvProp,"[-71.11617, 42.296071]",Point,InvProp,6,SHOTS ,509,E13,Last,No,HYDE PARK AV,Part three,Other,760010.3618,WALK HILL ST,2933149.8189999997,2014
+51399,140367924.0,Wednesday,No,2014-06-11T00:14:00.000,InvProp,"[-71.08668, 42.309096]",Point,InvProp,6,FIRWKS,319,B2,Last,No,SCHUYLER ST,Part three,Unarmed,767965.694,,2937933.613,2014
+55580,140370507.0,Wednesday,No,2014-06-11T23:46:00.000,InvProp,"[-71.12254, 42.291661]",Point,InvProp,6,SHOTS ,664,E5,Last,No,WASHINGTON ST,Part three,Unarmed,758294.1089,WHIPPLE AV,2931535.055,2014
+58064,140370174.0,Wednesday,No,2014-06-11T20:47:00.000,InvProp,"[-71.08162, 42.280611]",Point,InvProp,6,SHOTS ,418,B3,First,No,SELDEN ST,Part three,Other,769385.2767,NELSON ST,2927559.9280000003,2014
+182778,140368077.0,Wednesday,No,2014-06-11T02:00:00.000,InvProp,"[-71.142616, 42.3591]",Point,InvProp,6,IVPER ,805,D14,Last,No,LAWRENCE ST,Part three,Unarmed,752759.2175,,2956087.4069999997,2014
+182921,140371483.0,Wednesday,No,2014-06-11T17:00:00.000,InvProp,"[-71.061255, 42.351116]",Point,InvProp,6,BERPT ,117,A1,First,No,HARRISON AV,Part three,Other,774764.0718,,2953280.768,2014
+255095,140369273.0,Wednesday,No,2014-06-11T13:00:00.000,InvProp,"[-71.051366, 42.36351]",Point,InvProp,6,IVPREM,89,A1,Day,No,COMMERCIAL ST,Part three,Unarmed,777413.2519,,2957811.1769999997,2014

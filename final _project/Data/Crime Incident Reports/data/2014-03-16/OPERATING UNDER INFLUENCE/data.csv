@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36550,140160225.0,Sunday,No,2014-03-16T00:45:00.000,OPERATING UNDER INFLUENCE,"[-71.0616, 42.318571]",Point,21xx,3,ARREST,240,C11,Last,No,CONRAD ST,Part Two,Unarmed,774731.7731,SUMNER ST,2941420.3210000005,2014
+141163,140161897.0,Sunday,No,2014-03-16T22:08:00.000,OPERATING UNDER INFLUENCE,"[-71.094225, 42.349921]",Point,21xx,3,ARREST,622,D4,First,No,BAY ST,Part Two,Other,765854.0863,,2952801.1689999998,2014
+154320,140160287.0,Sunday,No,2014-03-16T02:21:00.000,OPERATING UNDER INFLUENCE,"[-71.059987, 42.361648]",Point,21xx,3,ARREST,64,A1,Last,No,SUDBURY ST,Part Two,Unarmed,775087.02,,2957120.525,2014

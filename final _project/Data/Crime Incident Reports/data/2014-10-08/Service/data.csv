@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23525,142037142.0,Wednesday,No,2014-10-08T14:32:00.000,Service,"[-71.11297, 42.300811]",Point,Service,10,REQP,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,760868.2636,TOWER ST,2934881.061,2014
+23882,142037165.0,Wednesday,No,2014-10-08T15:15:00.000,Service,"[-71.063785, 42.349246]",Point,Service,10,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774083.6785,,2952595.797,2014
+48190,142037372.0,Wednesday,No,2014-10-08T10:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,10,CD9,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+129061,142037237.0,Wednesday,No,2014-10-08T18:00:00.000,Service,"[-71.14859, 42.295201]",Point,Service,10,IVPER,0,E5,First,No,COURTNEY RD,Part three,Other,751240.628,,2932794.978,2014
+258614,142037151.0,Wednesday,No,2014-10-08T14:00:00.000,Service,"[-71.094332, 42.32308]",Point,Service,10,IVPREM,0,B2,Day,No,HIGHLAND ST,Part three,Other,765871.6755,,2943019.4489999996,2014
+259020,142037378.0,Wednesday,No,2014-10-08T11:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,10,IVPREM,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+137648,142012270.0,Wednesday,No,2014-07-23T22:47:00.000,PropFound,"[-71.06587, 42.314801]",Point,PropFound,7,INVEST,0,C11,First,No,JEROME ST,Part three,Unarmed,773583.9573,HANCOCK ST,2940040.566,2014
+142382,142011957.0,Wednesday,No,2014-07-23T06:30:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,7,TESTBP,0,E18,Last,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+153288,142012185.0,Wednesday,No,2014-07-23T17:30:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,7,PROP,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+188449,142012336.0,Wednesday,No,2014-07-23T22:30:00.000,PropFound,"[-71.08249, 42.340001]",Point,PropFound,7,IVPREM,0,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,769043.9088,COLUMBUS AV,2949201.442,2014
+202618,142011981.0,Wednesday,No,2014-07-23T08:17:00.000,PropFound,"[-71.078526, 42.322336]",Point,PropFound,7,IVPREM,0,B2,Day,No,PERRIN ST,Part three,Other,770147.4212,,2942769.0110000004,2014

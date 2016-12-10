@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3700,142028246.0,Wednesday,No,2014-09-10T16:00:00.000,InvPer,"[-71.067775, 42.273361]",Point,InvPer,9,CD9,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,773145.2492,,2924936.613,2014
+20011,142028117.0,Wednesday,No,2014-09-10T14:00:00.000,InvPer,"[-71.03931, 42.382621]",Point,InvPer,9,IVPER,0,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780633.9622,CONDOR ST,2964793.082,2014
+30383,142027961.0,Wednesday,No,2014-09-10T00:11:00.000,InvPer,"[-71.091339, 42.277605]",Point,InvPer,9,REQP,0,B3,Last,No,NORFOLK ST,Part three,Unarmed,766760.282,,2926451.6960000005,2014
+75770,142028159.0,Wednesday,No,2014-09-10T13:30:00.000,InvPer,"[-71.062462, 42.314604]",Point,InvPer,9,ALARM,0,C11,Day,No,WINDERMERE RD,Part three,Unarmed,774505.9486,,2939973.372,2014
+81241,142028216.0,Wednesday,No,2014-09-10T21:00:00.000,InvPer,"[-71.057245, 42.351566]",Point,InvPer,9,IVPER,0,A1,First,No,SOUTH ST,Part three,Unarmed,775847.1556,,2953450.358,2014
+150096,142028266.0,Wednesday,No,2014-09-10T23:15:00.000,InvPer,"[-71.13143, 42.351131]",Point,InvPer,9,IVPER,0,D14,First,No,HARVARD AV,Part three,Unarmed,755795.16,GLENVILLE AV,2953196.465,2014
+175384,142028160.0,Wednesday,No,2014-09-10T17:45:00.000,InvPer,"[-71.09856, 42.347161]",Point,InvPer,9,AB,0,D4,First,No,BROOKLINE AV,Part three,Unarmed,764687.0116,LANSDOWNE ST,2951789.825,2014
+180135,142028139.0,Wednesday,No,2014-09-10T12:00:00.000,InvPer,"[-71.066885, 42.362496]",Point,InvPer,9,VIORDR,0,A1,Day,No,BLOSSOM ST,Part three,Other,773221.1808,,2957420.083,2014
+235366,142027980.0,Wednesday,No,2014-09-10T07:26:00.000,InvPer,"[-71.0694, 42.331966]",Point,InvPer,9,MVA,0,C6,Last,No,SOUTHAMPTON ST,Part three,Unarmed,772597.6447,,2946290.941,2014
+260614,142028182.0,Wednesday,No,2014-09-10T17:30:00.000,InvPer,"[0, 0]",Point,InvPer,9,IVPER,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2014

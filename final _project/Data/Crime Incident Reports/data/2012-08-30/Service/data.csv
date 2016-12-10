@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3709,120540758.0,Thursday,No,2012-08-30T08:26:00.000,Service,"[-71.140865, 42.348921]",Point,Service,8,ARREST,783,D14,Day,No,WARREN ST,Part Three,Unarmed,753248.1867,,2952380.2180000003,2012
+136631,120540534.0,Thursday,No,2012-08-30T01:40:00.000,Service,"[-71.07172, 42.337686]",Point,Service,8,ARREST,169,D4,Last,No,HARRISON AV,Part Three,Unarmed,771959.8737,,2948372.251,2012
+142974,120540961.0,Thursday,No,2012-08-30T10:25:00.000,Service,"[-71.060565, 42.361386]",Point,Service,8,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,774931.3031,,2957024.314,2012
+183273,120541915.0,Thursday,No,2012-08-30T18:40:00.000,Service,"[-71.07233, 42.332556]",Point,Service,8,IVPER ,179,C6,First,No,CASS BL,Part Three,Unarmed,771804.3248,MASSACHUSETTS AV,2946501.961,2012
+228456,120551005.0,Thursday,No,2012-08-30T08:00:00.000,Service,"[-71.085618, 42.32866]",Point,Service,8,IVDRUG,282,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012

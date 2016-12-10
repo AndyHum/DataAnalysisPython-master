@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31047,120486416.0,Monday,No,2012-08-06T10:20:00.000,DISORDERLY,"[-71.067975, 42.301336]",Point,24xx,8,IVPER ,344,C11,Day,No,GENEVA AV,Part Two,Unarmed,773039.4863,,2935130.8210000005,2012
+60535,120485962.0,Monday,No,2012-08-06T02:20:00.000,DISORDERLY,"[-71.059085, 42.304686]",Point,24xx,8,INVEST,361,C11,Last,No,DORCHESTER AV,Part Two,Unarmed,775438.1029,,2936363.917,2012
+147867,120487444.0,Monday,No,2012-08-06T18:15:00.000,DISORDERLY,"[-71.09622, 42.280691]",Point,24xx,8,THREAT,468,B3,First,No,HAZELTON ST,Part Two,Unarmed,765434.0731,,2927570.023,2012
+219551,120486514.0,Monday,No,2012-08-06T11:06:00.000,DISORDERLY,"[-71.03434, 42.334776]",Point,24xx,8,ARREST,226,C6,Day,No,E 4TH ST,Part Two,Other,782071.9089,,2947364.7589999996,2012

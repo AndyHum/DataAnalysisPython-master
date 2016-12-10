@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17772,140004985.0,Friday,No,2014-01-03T15:16:00.000,Hazardous,"[-71.11828, 42.295691]",Point,Hazardous,1,LANTEN,564,E5,Day,No,WASHINGTON ST,Other,Unarmed,759440.1336,,2933008.7789999996,2014
+100928,140004229.0,Friday,No,2014-01-03T03:11:00.000,Hazardous,"[-71.089811, 42.337845]",Point,Hazardous,1,HAZ   ,283,D4,Last,No,FORSYTH ST,Other,Unarmed,767068.4113,HUNTINGTON AV,2948405.99,2014
+184035,140005117.0,Friday,No,2014-01-03T16:15:00.000,Hazardous,"[-71.114992, 42.316386]",Point,Hazardous,1,BERPT ,641,E13,First,No,LAKEVILLE RD,Other,Unarmed,760295.6063,,2940554.3989999997,2014

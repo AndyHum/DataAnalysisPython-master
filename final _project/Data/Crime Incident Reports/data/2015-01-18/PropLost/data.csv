@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13349,152005733.0,Sunday,No,2015-01-18T10:00:00.000,PropLost,"[-71.070505, 42.346036]",Point,PropLost,1,MISC,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,772273.0459,,2951416.795,2015
+60694,152004917.0,Sunday,No,2015-01-18T23:30:00.000,PropLost,"[-71.06115, 42.364581]",Point,PropLost,1,LARCEN,0,A1,First,No,FRIEND ST,Part three,Unarmed,774767.2102,,2958187.8210000005,2015
+129265,152007004.0,Sunday,No,2015-01-18T18:30:00.000,PropLost,"[-71.056445, 42.365771]",Point,PropLost,1,PROP,0,A1,First,No,PRINCE ST,Part three,Unarmed,776036.4807,,2958628.057,2015
+190276,152004801.0,Sunday,No,2015-01-18T16:24:00.000,PropLost,"[-71.058362, 42.358828]",Point,PropLost,1,LARCEN,0,A1,First,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2015
+209101,152005157.0,Sunday,No,2015-01-18T20:00:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,1,LARCEN,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2015
+261098,152005571.0,Sunday,No,2015-01-18T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,DUNLAP ST,,2015
+261650,152004994.0,Sunday,No,2015-01-18T08:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,C6,Day,No,ANDREW SQUARE,Part three,Unarmed,,,,2015
+262883,152006334.0,Sunday,No,2015-01-18T03:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,A7,Last,No,MAVERICK SQ,Part three,Unarmed,,,,2015
+262954,152005099.0,Sunday,No,2015-01-18T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,,,,2015

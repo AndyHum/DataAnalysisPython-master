@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105023,120801441.0,Saturday,No,2012-12-22T21:13:00.000,InvProp,"[-71.10077, 42.327316]",Point,InvProp,12,BERPT ,584,B2,First,No,FISHER AV,Part Three,Other,764123.4415,,2944555.137,2012
+132274,120799644.0,Saturday,No,2012-12-22T01:12:00.000,InvProp,"[-71.071984, 42.299337]",Point,InvProp,12,SHOTS ,357,C11,Last,No,GREENBRIER ST,Part Three,Unarmed,771958.564,,2934396.686,2012
+137133,120800392.0,Saturday,No,2012-12-22T12:45:00.000,InvProp,"[-71.07246, 42.345046]",Point,InvProp,12,ALARMR,150,D4,Day,No,CLARENDON ST,Part Three,Unarmed,771746.36,,2951053.3660000004,2012
+218644,120801494.0,Saturday,No,2012-12-22T23:17:00.000,InvProp,"[-71.08356, 42.328666]",Point,InvProp,12,BERPTA,280,B2,First,No,DUDLEY ST,Part Three,Other,768774.7954,,2945069.352,2012

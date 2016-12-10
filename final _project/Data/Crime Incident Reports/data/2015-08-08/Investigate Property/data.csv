@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29283,,Saturday,No,2015-08-08T22:49:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,SHOTS,432,B3,,No,BALLOU AVE,Part Three,None,,WOODROW AVE,,2015
+48851,,Saturday,No,2015-08-08T00:00:00.000,Investigate Property,"[-71.05031, 42.330794]",Point,InvProp,8,SHOTS,915,C6,,No,REV RICHARD A BURKE ST,Part Three,None,777762.0,,2950000.0,2015
+82931,,Saturday,No,2015-08-08T21:50:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,SHOTS,0,,,No,,Part Three,None,,BLUE HILL AVE,,2015
+97820,,Saturday,No,2015-08-08T00:00:00.000,Investigate Property,"[-71.066835, 42.276736]",Point,InvProp,8,BE,404,C11,,No,DORCHESTER AVE,Part Three,None,773393.0,,2930000.0,2015
+118313,,Saturday,No,2015-08-08T00:00:00.000,Investigate Property,"[-71.02612, 42.335788]",Point,InvProp,8,IVPER,224,C6,,No,E BROADWAY,Part Three,None,784292.0,,2950000.0,2015
+143164,,Saturday,No,2015-08-08T00:54:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,SHOTS,444,B3,,No,ABBOT ST,Part Three,None,,BLUE HILL AVE,,2015
+158200,,Saturday,No,2015-08-08T00:00:00.000,Investigate Property,"[-71.120623, 42.293487]",Point,InvProp,8,SHOTS,564,E5,,No,WASHINGTON ST,Part Three,None,758810.0,,2930000.0,2015
+227679,,Saturday,No,2015-08-08T00:00:00.000,Investigate Property,"[-71.104294, 42.309719]",Point,InvProp,8,IVPREM,574,E13,,No,WASHINGTON ST,Part Three,None,763200.0,,2940000.0,2015
+228357,,Saturday,No,2015-08-08T00:00:00.000,Investigate Property,"[-71.098455, 42.345833]",Point,InvProp,8,PRIOR,627,D4,,No,YAWKEY WAY,Part Three,None,764717.0,,2950000.0,2015
+244285,,Saturday,No,2015-08-08T00:00:00.000,Investigate Property,"[-71.065258, 42.27282]",Point,InvProp,8,IVPREM,388,C11,,No,ADAMS ST,Part Three,None,773827.0,,2920000.0,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24489,130013137.0,Saturday,No,2013-01-05T10:00:00.000,InvProp,"[-71.09342, 42.275896]",Point,InvProp,1,MISC  ,427,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766200.2749,,2925826.275,2013
+71107,130008997.0,Saturday,No,2013-01-05T03:30:00.000,InvProp,"[-71.13978, 42.345081]",Point,InvProp,1,SHOTS ,791,D14,Last,No,ALLSTON ST,Part Three,Unarmed,753547.392,SUMMIT AV,2950982.0810000002,2013
+109973,130010420.0,Saturday,No,2013-01-05T21:32:00.000,InvProp,"[-71.06782, 42.312751]",Point,InvProp,1,SHOTS ,332,C11,First,No,GLENDALE ST,Part Three,Unarmed,773060.3396,,2939290.836,2013
+127131,130010211.0,Saturday,No,2013-01-05T19:32:00.000,InvProp,"[-71.076438, 42.323222]",Point,InvProp,1,REQPF ,263,B2,First,No,BLUE HILL AV,Part Three,Unarmed,770710.4018,,2943095.0,2013
+156761,130010181.0,Saturday,No,2013-01-05T19:15:00.000,InvProp,"[-71.03343, 42.378486]",Point,InvProp,1,REQP  ,19,A7,First,No,PRINCETON ST,Part Three,Other,782230.82,,2963294.84,2013
+168827,130009396.0,Saturday,No,2013-01-05T11:30:00.000,InvProp,"[-71.096574, 42.328863]",Point,InvProp,1,CD9   ,291,B2,Day,No,COLUMBUS AV,Part Three,Unarmed,765255.1768,,2945124.079,2013
+190112,130028119.0,Saturday,No,2013-01-05T11:00:00.000,InvProp,"[-71.055445, 42.329276]",Point,InvProp,1,HARPT ,193,C6,Day,No,PREBLE ST,Part Three,Unarmed,776376.0413,,2945330.0160000003,2013
+196689,130009073.0,Saturday,No,2013-01-05T06:53:00.000,InvProp,"[-71.09062, 42.329761]",Point,InvProp,1,ALARMC,288,B2,Last,No,JOHN ELIOT SQ,Part Three,Unarmed,766863.8274,,2945459.148,2013

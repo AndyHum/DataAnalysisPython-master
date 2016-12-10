@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24903,,Tuesday,No,2015-07-14T00:00:00.000,Fraud,"[-71.108149, 42.271161]",Point,11xx,7,,478,E18,,No,KENNEBEC ST,Part Two,None,762222.0,,2920000.0,2015
+163855,,Tuesday,No,2015-07-14T00:00:00.000,Fraud,"[-71.117863, 42.244107]",Point,11xx,7,,940,E18,,No,BOW ST,Part Two,None,759637.0,,2910000.0,2015
+165751,,Tuesday,No,2015-07-14T00:00:00.000,Fraud,"[-71.095346, 42.331535]",Point,11xx,7,,587,B2,,No,TREMONT ST,Part Two,None,765583.0,,2950000.0,2015
+197384,,Tuesday,No,2015-07-14T19:17:00.000,Fraud,"[0, 0]",Point,11xx,7,,105,A1,,No,WASHINGTON ST,Part Two,None,, WINTER ST ,,2015
+226163,,Tuesday,No,2015-07-14T00:00:00.000,Fraud,"[-71.05882, 42.357546]",Point,11xx,7,,103,A1,,No,SCHOOL ST,Part Two,None,775410.0,,2960000.0,2015

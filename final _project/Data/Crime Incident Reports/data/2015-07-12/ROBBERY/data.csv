@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98042,,Sunday,No,2015-07-12T00:00:00.000,Robbery,"[-71.096744, 42.279916]",Point,03xx,7,EDP,469,B3,,No,WALK HILL ST,Part One,Firearm,765294.0,,2930000.0,2015
+179120,,Sunday,No,2015-07-12T00:00:00.000,Robbery,"[-71.065976, 42.352111]",Point,03xx,7,PKNIFE,118,A1,,No,BOYLSTON PL,Part One,Knife/Cutting Instrument,773486.0,,2950000.0,2015
+183060,,Sunday,No,2015-07-12T00:00:00.000,Robbery,"[-71.065008, 42.313194]",Point,03xx,7,FIGHT,332,C11,,No,HANCOCK ST,Part One,None,773820.0,,2940000.0,2015
+238601,,Sunday,No,2015-07-12T00:00:00.000,Robbery,"[-71.080995, 42.345856]",Point,03xx,7,ARMROB,146,D4,,No,GARRISON ST,Part One,Firearm,769437.0,,2950000.0,2015

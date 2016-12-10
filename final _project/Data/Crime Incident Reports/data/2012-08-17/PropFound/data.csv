@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101830,120514203.0,Friday,No,2012-08-17T19:00:00.000,PropFound,"[-71.052533, 42.36293]",Point,PropFound,8,FDPROP,89,A1,First,No,FULTON ST,Part Three,Other,777098.9175,,2957598.0160000003,2012
+171534,120605392.0,Friday,No,2012-08-17T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+265164,120514403.0,Friday,No,2012-08-17T20:00:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,639,E13,First,No,ST JOHN ST,Part Three,Unarmed,,,,2012

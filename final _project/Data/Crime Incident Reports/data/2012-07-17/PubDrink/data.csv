@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+246801,120441014.0,Tuesday,No,2012-07-17T16:30:00.000,PubDrink,"[-71.07902, 42.334886]",Point,PubDrink,7,CD19  ,0,D4,First,No,WASHINGTON ST,Part Two,Unarmed,769991.2424,,2947342.0560000003,2012
+247016,120440985.0,Tuesday,No,2012-07-17T18:16:00.000,PubDrink,"[-71.079605, 42.328539]",Point,PubDrink,7,ARREST,281,B2,First,No,DUDLEY ST,Part Two,Unarmed,769844.413,,2945028.173,2012
+252522,120441092.0,Tuesday,No,2012-07-17T18:53:00.000,PubDrink,"[-71.07777, 42.319561]",Point,PubDrink,7,ARREST,265,B2,First,No,BLUE HILL AV,Part Two,Unarmed,770356.8595,,2941759.0319999997,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27147,142017486.0,Friday,No,2014-08-08T20:31:00.000,FORGERY,"[-71.107819, 42.338391]",Point,10xx,8,IVPER,0,B2,First,No,BROOKLINE AV,Part Two,Unarmed,762198.7022,,2948582.043,2014
+104373,142017408.0,Friday,No,2014-08-08T14:42:00.000,FORGERY,"[-71.03685, 42.344696]",Point,10xx,8,LARCEN,0,C6,Day,No,HARBOR ST,Part Two,Unarmed,781373.6334,,2950976.082,2014
+131662,142017399.0,Friday,No,2014-08-08T15:00:00.000,FORGERY,"[-71.059969, 42.355867]",Point,10xx,8,LARCEN,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,775102.6197,,2955013.727,2014
+167866,142017459.0,Friday,No,2014-08-08T17:49:00.000,FORGERY,"[-71.070085, 42.357381]",Point,10xx,8,LARCEN,0,A1,First,No,CHARLES ST,Part Two,Unarmed,772365.7465,,2955551.7010000004,2014

@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3108,152030630.0,Sunday,No,2015-04-05T13:39:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,EDP,0,E13,Day,No,LOUDERS LA,Part three,Unarmed,,,,2015
+3447,152027689.0,Sunday,No,2015-04-05T18:05:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,REQP,0,C11,First,No,WESTVILLE ST,Part three,Unarmed,,,,2015
+18266,152027734.0,Sunday,No,2015-04-05T21:10:00.000,MedAssist,"[-71.070005, 42.348241]",Point,MedAssist,4,UNKEMS,0,A1,First,No,CORTES ST,Part three,Other,772404.1598,,2952221.02,2015
+30124,152027725.0,Sunday,No,2015-04-05T22:30:00.000,MedAssist,"[-71.076775, 42.335256]",Point,MedAssist,4,CARDIA,0,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770597.5713,,2947479.894,2015
+42156,152027601.0,Sunday,No,2015-04-05T05:01:00.000,MedAssist,"[-71.036045, 42.368081]",Point,MedAssist,4,IVPER,0,A7,Last,No,EVERETT AV,Part three,Unarmed,781544.9001,COTTAGE ST,2959499.195,2015
+47344,152027613.0,Sunday,No,2015-04-05T07:51:00.000,MedAssist,"[-71.03731, 42.331846]",Point,MedAssist,4,UNKEMS,0,C6,Day,No,K ST,Part three,Unarmed,781274.6808,,2946292.646,2015
+50768,152027670.0,Sunday,No,2015-04-05T16:30:00.000,MedAssist,"[-71.09686, 42.314536]",Point,MedAssist,4,AOD,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,765202.7573,,2939902.8589999997,2015
+204963,152027597.0,Sunday,No,2015-04-05T03:35:00.000,MedAssist,"[-71.14004, 42.346126]",Point,MedAssist,4,INVEST,0,D14,Last,No,COMMONWEALTH CT,Part three,Unarmed,753475.4982,,2951362.605,2015
+211832,152027610.0,Sunday,No,2015-04-05T08:07:00.000,MedAssist,"[-71.101375, 42.308576]",Point,MedAssist,4,UNKEMS,0,E13,Day,No,GLEN RD,Part three,Unarmed,763991.7590000001,,2937725.1969999997,2015
+228119,152027621.0,Sunday,No,2015-04-05T10:45:00.000,MedAssist,"[-71.12348, 42.258416]",Point,MedAssist,4,EDP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,758093.2583,,2919418.98,2015
+245796,152027568.0,Sunday,No,2015-04-05T01:06:00.000,MedAssist,"[-71.129152, 42.313686]",Point,MedAssist,4,UNCONS,0,E13,Last,No,ROCKWOOD ST,Part three,Unarmed,756470.1051,,2939553.3039999995,2015
+267335,152027650.0,Sunday,No,2015-04-05T13:55:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,AOD,0,B2,Day,No,STANWOOD ST,Part three,Unarmed,,,,2015

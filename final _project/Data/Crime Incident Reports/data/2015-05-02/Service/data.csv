@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+502,152035820.0,Saturday,No,2015-05-02T16:35:00.000,Service,"[0, 0]",Point,Service,5,IVPREM,0,B2,First,No,RUGGLES ST,Part three,Unarmed,,RAYNOR CR,,2015
+21773,152035703.0,Saturday,No,2015-05-02T08:00:00.000,Service,"[-71.070625, 42.361461]",Point,Service,5,CD9,0,A1,Day,No,CHARLES ST,Part three,Unarmed,772212.3098,,2957037.798,2015
+69991,152035815.0,Saturday,No,2015-05-02T16:29:00.000,Service,"[-71.054585, 42.377671]",Point,Service,5,ARREST,0,A15,First,No,DECATUR ST,Part three,Unarmed,776516.4905,,2962967.278,2015
+118365,152035865.0,Saturday,No,2015-05-02T19:47:00.000,Service,"[-71.091325, 42.284861]",Point,Service,5,IVPER,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+124336,152035757.0,Saturday,No,2015-05-02T12:21:00.000,Service,"[-71.061235, 42.310371]",Point,Service,5,ARREST,0,C11,Day,No,HANCOCK ST,Part three,Other,774845.858,,2938432.619,2015
+162624,152035693.0,Saturday,No,2015-05-02T04:03:00.000,Service,"[-71.061235, 42.310371]",Point,Service,5,IVPER,0,C11,Last,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015

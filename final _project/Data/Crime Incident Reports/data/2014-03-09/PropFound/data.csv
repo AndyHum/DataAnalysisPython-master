@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49693,140146605.0,Sunday,No,2014-03-09T09:30:00.000,PropFound,"[-71.05877, 42.356921]",Point,PropFound,3,LSTPRP,104,A1,Day,No,MILK ST,Part three,Unarmed,775424.8438,,2955399.685,2014
+52590,140145394.0,Sunday,No,2014-03-09T06:00:00.000,PropFound,"[-71.065105, 42.360591]",Point,PropFound,3,FDPROP,68,A1,Last,No,JOY ST,Part three,Unarmed,773705.7822,,2956728.311,2014
+66879,140145732.0,Sunday,No,2014-03-09T21:15:00.000,PropFound,"[-71.124647, 42.352185]",Point,PropFound,3,FDPROP,798,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,757626.7905,,2953588.545,2014

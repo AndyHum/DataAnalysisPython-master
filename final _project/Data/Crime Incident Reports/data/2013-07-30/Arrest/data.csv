@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90179,130473163.0,Tuesday,No,2013-07-30T01:33:00.000,Arrest,"[-71.060045, 42.300631]",Point,Arrest,7,ARREST,351,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775186.0391,,2934884.873,2013
+92751,130473760.0,Tuesday,No,2013-07-30T10:44:00.000,Arrest,"[-71.15072, 42.353551]",Point,Arrest,7,ARREST,769,D14,Day,No,MARKET ST,Part three,Unarmed,750577.2894,KEENAN RD,2954056.421,2013
+168967,130487107.0,Tuesday,No,2013-07-30T16:00:00.000,Arrest,"[-71.07884, 42.314571]",Point,Arrest,7,TSTOP ,323,B2,First,No,QUINCY ST,Part three,Unarmed,770076.4646,BLUE HILL AV,2939939.163,2013
+184541,130473979.0,Tuesday,No,2013-07-30T12:33:00.000,Arrest,"[-71.09636, 42.343971]",Point,Arrest,7,ARREST,626,D4,Day,No,PETERBOROUGH ST,Part three,Unarmed,765287.2269,,2950630.137,2013
+184819,130473630.0,Tuesday,No,2013-07-30T09:53:00.000,Arrest,"[-71.08041, 42.298256]",Point,Arrest,7,CD11  ,445,B3,Day,No,ROXTON ST,Part three,Unarmed,769681.0823,,2933991.6289999997,2013
+250991,130473406.0,Tuesday,No,2013-07-30T08:10:00.000,Arrest,"[0, 0]",Point,Arrest,7,CD11  ,944,B3,Day,No,AMES WY,Part three,Unarmed,,,,2013

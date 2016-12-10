@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1438,152039515.0,Thursday,No,2015-05-14T08:45:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,,,,2015
+25077,152039520.0,Thursday,No,2015-05-14T13:21:00.000,PersLoc,"[-71.0708, 42.333203]",Point,PersLoc,5,MISSIN,0,C6,Day,No,BRADSTON ST,Other,Unarmed,772216.8065,,2946739.535,2015
+108894,152039606.0,Thursday,No,2015-05-14T15:30:00.000,PersLoc,"[-71.090815, 42.280136]",Point,PersLoc,5,MISSIN,0,B3,Day,No,CLARKWOOD ST,Other,Unarmed,766897.8582,,2927374.765,2015

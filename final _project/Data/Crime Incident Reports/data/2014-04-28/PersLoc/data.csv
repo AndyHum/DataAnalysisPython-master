@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40258,140258760.0,Monday,No,2014-04-28T17:10:00.000,PersLoc,"[-71.126772, 42.309985]",Point,PersLoc,4,MSNCOM,655,E13,First,No,WOODLAND RD,Other,Unarmed,757119.7842,,2938207.461,2014
+65394,140259097.0,Monday,No,2014-04-28T08:00:00.000,PersLoc,"[-71.060215, 42.379256]",Point,PersLoc,4,MSNCOM,900,A15,Day,No,CARNEY CT,Other,Unarmed,774992.3187,,2963536.9910000004,2014
+183007,140257567.0,Monday,No,2014-04-28T07:20:00.000,PersLoc,"[-71.05385, 42.337311]",Point,PersLoc,4,MISPER,936,C6,Last,No,ORTON MAROTTA WY,Other,Unarmed,776792.0166,,2948260.361,2014

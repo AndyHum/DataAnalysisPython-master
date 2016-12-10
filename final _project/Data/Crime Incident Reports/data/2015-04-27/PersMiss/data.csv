@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+250,152034518.0,Monday,No,2015-04-27T11:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,4,MISSIN,0,B3,Day,No,AMES ST,Other,Unarmed,,,,2015
+105734,152034309.0,Monday,No,2015-04-27T17:00:00.000,PersMiss,"[-71.097081, 42.319472]",Point,PersMiss,4,MISSIN,0,B2,First,No,DIMOCK ST,Other,Unarmed,765134.3663,,2941701.057,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+126449,142052716.0,Thursday,No,2014-11-27T21:31:00.000,InvProp,"[-71.063629, 42.360283]",Point,InvProp,11,REQP,0,A1,First,No,TEMPLE ST,Part three,Unarmed,774105.2454,,2956617.8310000002,2014
+195037,142052604.0,Thursday,No,2014-11-27T05:33:00.000,InvProp,"[-71.06318, 42.291991]",Point,InvProp,11,SSA,0,C11,Last,No,CHEVERUS RD,Part three,Other,774354.0716,,2931731.974,2014
+265122,142053745.0,Thursday,No,2014-11-27T23:40:00.000,InvProp,"[0, 0]",Point,InvProp,11,IVMV,0,C11,First,No,HANCOCK ST,Part three,Unarmed,,BIRD ST,,2014

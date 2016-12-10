@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2323,130172340.0,Sunday,No,2013-03-24T06:00:00.000,InvProp,"[-71.047314, 42.290189]",Point,InvProp,3,BEIP  ,374,C11,Last,No,MCKONE ST,Part Three,Other,778650.1142,,2931097.432,2013
+32776,130173758.0,Sunday,No,2013-03-24T22:33:00.000,InvProp,"[-71.07157, 42.284188]",Point,InvProp,3,SHOTS ,933,C11,First,No,WASHINGTON ST,Part Three,Firearm,772098.3196,,2928876.74,2013
+153205,130172393.0,Sunday,No,2013-03-24T05:50:00.000,InvProp,"[-71.07163, 42.350686]",Point,InvProp,3,BERPT ,129,D4,Last,No,ST JAMES AV,Part Three,Other,771960.4134,,2953109.815,2013
+161105,130172332.0,Sunday,No,2013-03-24T01:30:00.000,InvProp,"[-71.08022, 42.295786]",Point,InvProp,3,ALARMR,443,B3,Last,No,WARNER ST,Part Three,Other,769736.9142,,2933091.777,2013
+176457,130173723.0,Sunday,No,2013-03-24T22:10:00.000,InvProp,"[-71.072298, 42.304718]",Point,InvProp,3,IVPER ,337,C11,First,No,EVERTON ST,Part Three,Unarmed,771863.6868,,2936357.135,2013
+202818,130173344.0,Sunday,No,2013-03-24T18:20:00.000,InvProp,"[-71.10077, 42.327316]",Point,InvProp,3,REQP  ,584,B2,First,No,FISHER AV,Part Three,Unarmed,764123.4415,,2944555.137,2013

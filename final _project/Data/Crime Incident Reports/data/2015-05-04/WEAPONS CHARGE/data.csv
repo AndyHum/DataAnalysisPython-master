@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+597,152036503.0,Monday,No,2015-05-04T19:45:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,5,ARREST,0,E13,First,No,AMORY ST,Part Two,Knife,,SCHOOL ST,,2015
+625,152036385.0,Monday,No,2015-05-04T15:11:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,5,SHOTS,0,C11,Day,No,STOUGHTON PL,Part Two,Unarmed,,,,2015
+2080,152041416.0,Monday,No,2015-05-04T17:15:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,5,IVPER,0,C11,First,No,HARRISON AV,Part Two,Unarmed,,,,2015
+3485,152036433.0,Monday,No,2015-05-04T17:42:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,5,ARREST,0,B2,First,No,INTERVALE ST,Part Two,Unarmed,,,,2015

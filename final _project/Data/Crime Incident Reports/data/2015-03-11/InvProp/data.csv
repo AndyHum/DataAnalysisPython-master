@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1220,152019709.0,Wednesday,No,2015-03-11T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+14944,152019524.0,Wednesday,No,2015-03-11T01:43:00.000,InvProp,"[-71.08418, 42.308836]",Point,InvProp,3,SHOTS,0,B2,Last,No,CHENEY ST,Part three,Unarmed,768642.3737,,2937842.151,2015
+28593,152019596.0,Wednesday,No,2015-03-11T11:30:00.000,InvProp,"[-71.076585, 42.289031]",Point,InvProp,3,IVPREM,0,B3,Day,No,ELMHURST ST,Part three,Unarmed,770732.5638,,2930635.018,2015
+116051,152019711.0,Wednesday,No,2015-03-11T17:30:00.000,InvProp,"[-71.061515, 42.365357]",Point,InvProp,3,CD9,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774666.9647,CANAL ST,2958469.934,2015
+166119,152019884.0,Wednesday,No,2015-03-11T12:00:00.000,InvProp,"[-71.146665, 42.354876]",Point,InvProp,3,IVPREM,0,D14,Day,No,ETNA ST,Part three,Unarmed,751671.3489,,2954543.7939999998,2015
+166825,152026754.0,Wednesday,No,2015-03-11T10:00:00.000,InvProp,"[-71.060935, 42.322566]",Point,InvProp,3,VAND,0,C6,Day,No,BOSTON ST,Part three,Unarmed,774904.1263,,2942877.09,2015
+200600,152019672.0,Wednesday,No,2015-03-11T15:01:00.000,InvProp,"[-71.113647, 42.291594]",Point,InvProp,3,ALARM,0,E13,Day,No,EASTLAND RD,Part three,Unarmed,760700.1554,,2931521.232,2015

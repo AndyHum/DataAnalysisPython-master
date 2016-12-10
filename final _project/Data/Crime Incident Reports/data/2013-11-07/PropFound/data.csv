@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83407,130708148.0,Thursday,No,2013-11-07T00:35:00.000,PropFound,"[-71.058, 42.352311]",Point,PropFound,11,FDPROP,115,A1,Last,No,LINCOLN ST,Part three,Unarmed,775641.6671,ESSEX ST,2953720.791,2013
+174883,130708998.0,Thursday,No,2013-11-07T11:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,11,LSTPRP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+191735,130709882.0,Thursday,No,2013-11-07T19:08:00.000,PropFound,"[-71.07705, 42.336481]",Point,PropFound,11,SUSPER,170,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770521.0048,WASHINGTON ST,2947925.937,2013
+265679,130709824.0,Thursday,No,2013-11-07T17:00:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,73,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,,,,2013

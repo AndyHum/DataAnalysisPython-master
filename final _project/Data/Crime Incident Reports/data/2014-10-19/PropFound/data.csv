@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33305,142040627.0,Sunday,No,2014-10-19T14:17:00.000,PropFound,"[-71.061123, 42.296931]",Point,PropFound,10,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774901.1102,,2933534.9710000004,2014
+39276,142040723.0,Sunday,No,2014-10-19T18:45:00.000,PropFound,"[-71.082005, 42.351956]",Point,PropFound,10,PROP,0,D4,First,No,MARLBOROUGH ST,Part three,Unarmed,769153.6801,,2953558.7139999997,2014
+192561,142040596.0,Sunday,No,2014-10-19T11:15:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,10,FDWEAP,0,A7,Day,No,PARIS ST,Part three,Firearm,780775.2494,,2960648.442,2014
+214247,142040753.0,Sunday,No,2014-10-19T20:00:00.000,PropFound,"[-71.08058, 42.305421]",Point,PropFound,10,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,769622.2533,COLUMBIA RD,2936602.439,2014

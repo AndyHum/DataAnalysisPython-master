@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9059,130065463.0,Thursday,No,2013-01-31T20:30:00.000,LICViol,"[-71.039085, 42.369936]",Point,LICViol,1,CD35  ,27,A7,First,No,MAVERICK SQ,Part Three,Unarmed,780719.7315,,2960170.738,2013
+228534,130063981.0,Thursday,No,2013-01-31T11:24:00.000,LICViol,"[-71.095995, 42.347161]",Point,LICViol,1,CD35  ,624,D4,Day,No,LANSDOWNE ST,Part Three,Unarmed,765380.3957,,2951793.104,2013
+239653,130064522.0,Thursday,No,2013-01-31T16:00:00.000,LICViol,"[-71.08762, 42.288156]",Point,LICViol,1,CD35  ,431,B3,First,No,CALLENDER ST,Part Three,Unarmed,767748.327,,2930301.526,2013

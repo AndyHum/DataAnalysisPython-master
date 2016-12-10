@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18854,,Tuesday,No,2015-06-23T00:00:00.000,Robbery,"[-71.087502, 42.323475]",Point,03xx,6,I00040,299,B2,,No,REGENT ST,Part One,Firearm,767718.0,,2940000.0,2015
+143215,,Tuesday,No,2015-06-23T00:07:00.000,Robbery,"[0, 0]",Point,03xx,6,I00040,302,B2,,No,CENTRE ST,Part One,Knife/Cutting Instrument,,COLUMBUS AVE,,2015
+167669,,Tuesday,No,2015-06-23T02:06:00.000,Robbery,"[0, 0]",Point,03xx,6,I00040,481,B3,,No,RIVER ST,Part One,Personal Weapon (hand  foot  etc.),,,,2015
+196698,,Tuesday,No,2015-06-23T13:32:00.000,Robbery,"[0, 0]",Point,03xx,6,IVPER,177,C6,,No,ISLAND ST,Part One,None,, MASSACHUSETTS AVE ,,2015
+231818,,Tuesday,No,2015-06-23T00:00:00.000,Robbery,"[-71.085696, 42.317332]",Point,03xx,6,CARJAK,310,B2,,No,ELBERT ST,Part One,Knife/Cutting Instrument,768217.0,,2940000.0,2015
+245940,,Tuesday,No,2015-06-23T21:27:00.000,Robbery,"[0, 0]",Point,03xx,6,AB,806,D14,,No,RICHARDSON ST,Part One,Personal Weapon (hand  foot  etc.),,,,2015

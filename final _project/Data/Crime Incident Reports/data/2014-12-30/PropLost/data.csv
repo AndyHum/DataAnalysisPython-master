@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54564,152001235.0,Tuesday,No,2014-12-30T21:00:00.000,PropLost,"[-71.05793, 42.356691]",Point,PropLost,12,ADMRPT,0,A1,First,No,MILK ST,Part three,Unarmed,775652.3161,,2955317.0439999998,2014
+69198,142061826.0,Tuesday,No,2014-12-30T14:30:00.000,PropLost,"[-71.128015, 42.286546]",Point,PropLost,12,PROP,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,756820.9066,,2929664.563,2014
+210622,152028699.0,Tuesday,No,2014-12-30T12:00:00.000,PropLost,"[-71.08826, 42.324542]",Point,PropLost,12,IVPER,0,B2,Day,No,CRISPUS ATTUCKS PL,Part three,Other,767511.1506,,2943560.184,2014

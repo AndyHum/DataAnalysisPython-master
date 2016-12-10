@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+166094,140008813.0,Sunday,No,2014-01-05T17:55:00.000,DRUG CHARGES,"[-71.02819, 42.381311]",Point,18xx,1,ARREST,17,A7,First,No,LEXINGTON ST,Part Two,Other,783640.9245,SHELBY ST,2964332.113,2014
+185151,140008063.0,Sunday,No,2014-01-05T07:30:00.000,DRUG CHARGES,"[-71.054711, 42.341305]",Point,18xx,1,IVDRUG,200,C6,Day,No,W BROADWAY,Part Two,Unarmed,776551.5679,,2949714.607,2014
+230922,140008562.0,Sunday,No,2014-01-05T13:05:00.000,DRUG CHARGES,"[-71.09104, 42.337616]",Point,18xx,1,ARREST,283,D4,Day,No,LEON ST,Part Two,Unarmed,766736.5347,,2948321.106,2014

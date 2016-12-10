@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43330,142057666.0,Monday,No,2014-12-15T11:25:00.000,Service,"[-71.06942, 42.362401]",Point,Service,12,ARREST,0,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+62512,142057603.0,Monday,No,2014-12-15T08:10:00.000,Service,"[-71.09486, 42.315301]",Point,Service,12,CD11,0,E13,Day,No,WARDMAN RD,Part three,Unarmed,765742.3612,,2940184.2010000004,2014
+79481,142057667.0,Monday,No,2014-12-15T11:45:00.000,Service,"[-71.061658, 42.320448]",Point,Service,12,IVPER,0,C6,Day,No,COLUMBIA RD,Part three,Unarmed,774712.5867,MASSACHUSETTS AV,2942103.95,2014
+140797,142058117.0,Monday,No,2014-12-15T18:00:00.000,Service,"[-71.104232, 42.343244]",Point,Service,12,MISC,0,B2,First,No,RIVERWAY,Part three,Other,763160.1340000001,,2950355.006,2014
+183012,142057803.0,Monday,No,2014-12-15T14:30:00.000,Service,"[-71.092328, 42.284664]",Point,Service,12,LARCEN,0,B3,Day,No,MORTON ST,Part three,Unarmed,766480.3443,,2929022.5560000003,2014
+209283,142057873.0,Monday,No,2014-12-15T21:58:00.000,Service,"[-71.060964, 42.352801]",Point,Service,12,ARREST,0,A1,First,No,CHAUNCY ST,Part three,Other,774839.4243,,2953895.0289999996,2014
+256731,142057801.0,Monday,No,2014-12-15T18:21:00.000,Service,"[-71.06264, 42.316191]",Point,Service,12,IVPER,0,C11,First,No,SUMNER ST,Part three,Unarmed,774454.9559,,2940551.568,2014
+259920,142057670.0,Monday,No,2014-12-15T12:00:00.000,Service,"[-71.04567, 42.335481]",Point,Service,12,IVPER,0,C6,Day,No,W BROADWAY,Part three,Unarmed,779007.1661,DORCHESTER ST,2947605.15,2014

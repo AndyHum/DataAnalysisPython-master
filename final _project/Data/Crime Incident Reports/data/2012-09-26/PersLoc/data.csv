@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92695,120606757.0,Wednesday,No,2012-09-26T22:00:00.000,PersLoc,"[-71.069785, 42.299366]",Point,PersLoc,9,MISPER,357,C11,First,No,DAKOTA ST,Part Three,Unarmed,772553.4617,,2934410.452,2012
+165401,120605827.0,Wednesday,No,2012-09-26T15:45:00.000,PersLoc,"[-71.053189, 42.286765]",Point,PersLoc,9,MSNCOM,379,C11,Day,No,OAKTON AV,Part Three,Unarmed,777067.2086,,2929841.249,2012
+236444,120607611.0,Wednesday,No,2012-09-26T06:45:00.000,PersLoc,"[-71.070304, 42.307873]",Point,PersLoc,9,MISPER,335,C11,Last,No,BELLEVUE ST,Part Three,Unarmed,772397.3498,,2937509.8230000003,2012

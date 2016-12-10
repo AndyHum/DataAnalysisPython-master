@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41814,140225756.0,Monday,No,2014-04-14T10:02:00.000,FIRE,"[-71.11256, 42.318171]",Point,FIRE,4,FIREB ,635,E13,Day,No,CENTRE ST,Part three,Other,760950.4426,,2941207.836,2014
+108614,140225938.0,Monday,No,2014-04-14T11:23:00.000,FIRE,"[-71.108835, 42.322276]",Point,FIRE,4,FIREB ,582,E13,Day,No,CENTRE ST,Part three,Other,761951.0062,SHERIDAN ST,2942708.367,2014
+185195,140227396.0,Monday,No,2014-04-14T21:00:00.000,FIRE,"[-71.040695, 42.319091]",Point,FIRE,4,FIREB ,256,C6,First,No,SOUTH POINT DR,Part three,Unarmed,780384.4415,,2941639.57,2014
+243383,140227068.0,Monday,No,2014-04-14T18:35:00.000,FIRE,"[-71.10152, 42.275506]",Point,FIRE,4,FIREB ,470,B3,First,No,COLORADO ST,Part three,Unarmed,764008.8364,,2925673.809,2014

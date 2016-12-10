@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95810,140107607.0,Thursday,No,2014-02-20T11:00:00.000,PersLoc,"[-71.08864, 42.286466]",Point,PersLoc,2,MISPER,430,B3,Day,No,LUCERNE ST,Other,Unarmed,767475.3082,,2929684.333,2014
+109344,140109654.0,Thursday,No,2014-02-20T08:00:00.000,PersLoc,"[-71.05956, 42.299808]",Point,PersLoc,2,MISPER,351,C11,Day,No,LINCOLN ST,Other,Unarmed,775318.7039,,2934585.623,2014
+128838,140108691.0,Thursday,No,2014-02-20T12:30:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,2,MISPER,817,C11,Day,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2014
+202382,140107486.0,Thursday,No,2014-02-20T22:17:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,2,MISPER,446,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+215999,140106982.0,Thursday,No,2014-02-20T17:20:00.000,PersLoc,"[-71.04217, 42.371801]",Point,PersLoc,2,MSNCOM,27,A7,First,No,BORDER ST,Other,Unarmed,779882.4333,,2960845.892,2014
+258929,140107057.0,Thursday,No,2014-02-20T18:25:00.000,PersLoc,"[-71.06818, 42.298401]",Point,PersLoc,2,MSNCOM,358,C11,First,No,TONAWANDA ST,Other,Unarmed,772989.4359,,2934060.992,2014

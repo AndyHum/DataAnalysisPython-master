@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33373,,Monday,No,2015-07-27T00:00:00.000,Firearm Violations,"[-71.091878, 42.333679]",Point,15xx,7,FDWEAP,289,B2,,No,SCHROEDER PLZ,Part Two,Firearm,766517.0,,2950000.0,2015
+33486,,Monday,No,2015-07-27T00:00:00.000,Firearm Violations,"[-71.088934, 42.33467]",Point,15xx,7,ARREST,909,B2,,No,TREMONT ST,Part Two,Firearm,767311.0,,2950000.0,2015
+106556,,Monday,No,2015-07-27T22:28:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,ARREST,337,C11,,No,COLUMBIA RD,Part Two,Firearm,,,,2015
+114453,,Monday,No,2015-07-27T12:25:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,IVPER,402,C11,,No,ALBAN ST,Part Two,Knife/Cutting Instrument,,ASHMONT ST,,2015

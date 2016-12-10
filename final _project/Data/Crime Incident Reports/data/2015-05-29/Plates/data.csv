@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2110,152044462.0,Friday,No,2015-05-29T06:00:00.000,Plates,"[0, 0]",Point,Plates,5,PROP,0,C11,Last,No,ROCK TR,Part three,Unarmed,,,,2015
+2275,152044644.0,Friday,No,2015-05-29T20:00:00.000,Plates,"[0, 0]",Point,Plates,5,PROP,0,C11,First,No,SOUTHERN AV,Part three,Unarmed,,WASHINGTON ST,,2015
+146287,152044952.0,Friday,No,2015-05-29T19:30:00.000,Plates,"[-71.043425, 42.331321]",Point,Plates,5,IVMV,0,C6,First,No,E 8TH ST,Part three,Unarmed,779622.2717,G ST,2946092.418,2015

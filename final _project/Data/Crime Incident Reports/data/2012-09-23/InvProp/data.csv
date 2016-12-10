@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64952,120599065.0,Sunday,No,2012-09-23T21:13:00.000,InvProp,"[-71.12245, 42.261036]",Point,InvProp,9,BEIP  ,519,E18,First,No,HYDE PARK AV,Part Three,Other,758367.8582,,2920374.974,2012
+186264,120598520.0,Sunday,No,2012-09-23T16:31:00.000,InvProp,"[-71.050814, 42.357948]",Point,InvProp,9,GANG  ,96,A1,First,No,E INDIA ROW,Part Three,Unarmed,777573.203,,2955784.918,2012
+218517,120597698.0,Sunday,No,2012-09-23T04:54:00.000,InvProp,"[0, 0]",Point,InvProp,9,SHOTS ,541,E18,Last,No,BRAINARD ST,Part Three,Other,,,,2012
+242581,120598977.0,Sunday,No,2012-09-23T22:00:00.000,InvProp,"[-71.092001, 42.278561]",Point,InvProp,9,IVPER ,427,B3,First,No,FESSENDEN ST,Part Three,Unarmed,766579.5337,,2926799.047,2012
+250123,120598325.0,Sunday,No,2012-09-23T13:57:00.000,InvProp,"[-71.114525, 42.302651]",Point,InvProp,9,REQP  ,652,E13,Day,No,SOUTH ST,Part Three,Unarmed,760444.5696,,2935549.682,2012

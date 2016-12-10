@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18974,120572611.0,Wednesday,No,2012-09-19T08:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,9,INVEST,289,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+60526,120572462.0,Wednesday,No,2012-09-19T06:00:00.000,Service,"[-71.047314, 42.290189]",Point,Service,9,INVEST,289,C11,Last,No,MCKONE ST,Part Three,Unarmed,778650.1142,,2931097.432,2012
+81842,120572464.0,Wednesday,No,2012-09-19T06:04:00.000,Service,"[-71.06939, 42.339506]",Point,Service,9,INVEST,289,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+87340,120587515.0,Wednesday,No,2012-09-19T06:00:00.000,Service,"[0, 0]",Point,Service,9,CD11  ,0,D4,Last,No,MOSELEY ST,Part Three,Unarmed,,,,2012
+101756,120588870.0,Wednesday,No,2012-09-19T17:37:00.000,Service,"[-71.04625, 42.354256]",Point,Service,9,IVPER ,207,C6,First,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012
+216757,120589079.0,Wednesday,No,2012-09-19T18:10:00.000,Service,"[-71.06533, 42.343771]",Point,Service,9,ARREST,164,D4,First,No,E BERKELEY ST,Part Three,Unarmed,773676.2073,FAY ST,2950598.474,2012
+252333,120589107.0,Wednesday,No,2012-09-19T19:40:00.000,Service,"[-71.056374, 42.350817]",Point,Service,9,ARREST,116,A1,First,No,ATLANTIC AV,Part Three,Unarmed,776084.0039,,2953178.441,2012
+258719,120587774.0,Wednesday,No,2012-09-19T09:30:00.000,Service,"[-71.047745, 42.335521]",Point,Service,9,CD11  ,214,C6,Day,No,W 4TH ST,Part Three,Unarmed,778446.0644,,2947616.747,2012

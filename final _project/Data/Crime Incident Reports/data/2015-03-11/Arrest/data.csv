@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106280,152019526.0,Wednesday,No,2015-03-11T04:15:00.000,Arrest,"[-71.084165, 42.309351]",Point,Arrest,3,STAB,0,B2,Last,No,HARTWELL ST,Part three,Knife,768645.5155,,2938029.845,2015
+119689,152019618.0,Wednesday,No,2015-03-11T12:27:00.000,Arrest,"[-71.06465, 42.352016]",Point,Arrest,3,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773844.7032,LAGRANGE ST,2953604.043,2015
+184591,152019597.0,Wednesday,No,2015-03-11T11:15:00.000,Arrest,"[-71.059969, 42.355867]",Point,Arrest,3,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,BROMFIELD ST,2955013.727,2015

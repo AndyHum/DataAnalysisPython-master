@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43878,,Monday,No,2015-07-20T00:00:00.000,Vandalism,"[-71.055818, 42.295789]",Point,14xx,7,VAND,367,C11,,No,VICTORY RD,Part Two,None,776339.0,,2930000.0,2015
+62071,,Monday,No,2015-07-20T00:00:00.000,Vandalism,"[-71.121706, 42.257465]",Point,14xx,7,VAND,520,E18,,No,EVERETT ST,Part Two,None,758575.0,,2920000.0,2015
+84552,,Monday,No,2015-07-20T00:00:00.000,Vandalism,"[-71.066339, 42.297035]",Point,14xx,7,MVA,358,C11,,No,PARK ST,Part Two,None,773490.0,,2930000.0,2015
+91631,,Monday,No,2015-07-20T00:00:00.000,Vandalism,"[-71.067044, 42.329382]",Point,14xx,7,IVPREM,177,C6,,No,NEWMARKET SQ,Part Two,None,773239.0,,2950000.0,2015
+102115,,Monday,No,2015-07-20T00:00:00.000,Vandalism,"[-71.062586, 42.314244]",Point,14xx,7,IVPER,257,C11,,No,WINDERMERE RD,Part Two,None,774473.0,,2940000.0,2015
+107159,,Monday,No,2015-07-20T09:40:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,415,B3,,No,CODMAN ST,Part Two,None,,NEVADA ST,,2015
+185313,,Monday,No,2015-07-20T00:00:00.000,Vandalism,"[-71.06698, 42.377463]",Point,14xx,7,VAND,54,A15,,No,MAIN ST,Part Two,None,773168.0,,2960000.0,2015
+234858,,Monday,No,2015-07-20T00:00:00.000,Vandalism,"[-71.090798, 42.280137]",Point,14xx,7,NIDV,427,B3,,No,CLARKWOOD ST,Part Two,None,766902.0,,2930000.0,2015
+243678,,Monday,No,2015-07-20T00:00:00.000,Vandalism,"[-71.0676, 42.304067]",Point,14xx,7,VAND,341,C11,,No,SPEEDWELL ST,Part Two,None,773136.0,,2940000.0,2015
+252390,,Monday,No,2015-07-20T11:35:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,55,A15,,No,MAIN ST,Part Two,None,,W SCHOOL ST,,2015

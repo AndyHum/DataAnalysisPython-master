@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11548,140109201.0,Friday,No,2014-02-21T17:33:00.000,InvProp,"[-71.136347, 42.235648]",Point,InvProp,2,ALARMC,528,E18,First,No,SPRAGUE ST,Part three,Unarmed,754645.4188,,2911106.747,2014
+39059,140108512.0,Friday,No,2014-02-21T12:26:00.000,InvProp,"[-71.09131, 42.330001]",Point,InvProp,2,DISTRB,288,B2,Day,No,JOHN ELIOT SQ,Part three,Other,766676.8321,,2945545.713,2014
+40460,140107720.0,Friday,No,2014-02-21T01:14:00.000,InvProp,"[-71.079945, 42.304381]",Point,InvProp,2,SHOTS ,459,C11,Last,No,GLENARM ST,Part three,Unarmed,769795.8882,,2936224.292,2014
+199412,140107632.0,Friday,No,2014-02-21T00:15:00.000,InvProp,"[-71.07426, 42.313657]",Point,InvProp,2,IVPREM,325,B2,Last,No,WAYLAND ST,Part three,Unarmed,771316.8572,,2939612.229,2014
+223263,140109312.0,Friday,No,2014-02-21T12:51:00.000,InvProp,"[-71.07351, 42.333491]",Point,InvProp,2,MISC  ,179,D4,Day,No,ALBANY ST,Part three,Other,771483.5641,MASSACHUSETTS AV,2946841.0930000003,2014
+227345,140109815.0,Friday,No,2014-02-21T22:53:00.000,InvProp,"[-71.061295, 42.288676]",Point,InvProp,2,IVMV  ,393,C11,First,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Unarmed,774870.2865,,2930526.566,2014

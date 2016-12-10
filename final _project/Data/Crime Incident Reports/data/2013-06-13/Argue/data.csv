@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61006,130358583.0,Thursday,No,2013-06-13T01:19:00.000,Argue,"[-71.09856, 42.347161]",Point,Argue,6,IVPER ,624,D4,Last,No,BROOKLINE AV,Part three,Unarmed,764687.0116,LANSDOWNE ST,2951789.825,2013
+184665,130360543.0,Thursday,No,2013-06-13T21:50:00.000,Argue,"[-71.07139, 42.282981]",Point,Argue,6,NIDV  ,402,C11,First,No,WASHINGTON ST,Part three,Unarmed,772149.2701,BAILEY ST,2928437.333,2013
+196110,130358737.0,Thursday,No,2013-06-13T06:03:00.000,Argue,"[-71.067485, 42.308271]",Point,Argue,6,NIDV  ,335,C11,Last,No,CLARKSON ST,Part three,Unarmed,773159.2220000001,,2937658.715,2013
+208511,130360243.0,Thursday,No,2013-06-13T18:49:00.000,Argue,"[-71.091115, 42.285461]",Point,Argue,6,THREAT,465,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766807.3672,,2929314.877,2013

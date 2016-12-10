@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86974,120655362.0,Wednesday,No,2012-10-17T23:20:00.000,FIRE,"[-71.113351, 42.28747]",Point,FIRE,10,FV    ,504,E13,First,No,HALLIDAY ST,Part Three,Other,760787.0315,,2930018.835,2012
+196737,120654764.0,Wednesday,No,2012-10-17T16:55:00.000,FIRE,"[-71.05676, 42.297621]",Point,FIRE,10,FIREB ,355,C11,First,No,ADAMS ST,Part Three,Unarmed,776080.4091,,2933792.586,2012
+204606,120654381.0,Wednesday,No,2012-10-17T13:57:00.000,FIRE,"[-71.074985, 42.342171]",Point,FIRE,10,FV    ,158,D4,Day,No,TREMONT ST,Part Three,Unarmed,771068.9870000001,,2950002.251,2012
+230188,120654584.0,Wednesday,No,2012-10-17T15:18:00.000,FIRE,"[-71.10316, 42.326236]",Point,FIRE,10,FIREB ,906,E13,Day,No,HEATH ST,Part Three,Other,763478.9920000001,,2944158.5510000004,2012

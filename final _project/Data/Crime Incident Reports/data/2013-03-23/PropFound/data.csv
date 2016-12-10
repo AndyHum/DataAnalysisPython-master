@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31919,130170545.0,Saturday,No,2013-03-23T09:00:00.000,PropFound,"[-71.078815, 42.350571]",Point,PropFound,3,FDPROP,137,D4,Day,No,NEWBURY ST,Part Three,Unarmed,770018.4438,,2953058.235,2013
+79442,130171021.0,Saturday,No,2013-03-23T15:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,3,FDPROP,691,E5,Day,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2013

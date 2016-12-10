@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159620,142060619.0,Friday,No,2014-12-26T09:34:00.000,Service,"[-71.112361, 42.316208]",Point,Service,12,ARREST,0,E13,Day,No,ROBINWOOD AV,Part three,Unarmed,761007.4093,,2940492.683,2014
+161201,142060795.0,Friday,No,2014-12-26T20:39:00.000,Service,"[-71.05939, 42.352631]",Point,Service,12,TS,0,A1,First,No,KINGSTON ST,Part three,Unarmed,775265.3435,AVE DELAFAYETTE,2953835.461,2014
+236022,142060637.0,Friday,No,2014-12-26T10:45:00.000,Service,"[-71.039249, 42.379971]",Point,Service,12,ARREST,0,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780655.5561,,2963827.4560000002,2014

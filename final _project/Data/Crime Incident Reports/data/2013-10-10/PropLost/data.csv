@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33463,130646957.0,Thursday,No,2013-10-10T12:00:00.000,PropLost,"[-71.060565, 42.361386]",Point,PropLost,10,LSTPRP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,774931.3031,,2957024.314,2013
+35196,130661196.0,Thursday,No,2013-10-10T11:30:00.000,PropLost,"[-71.03974, 42.369131]",Point,PropLost,10,LSTPRP,27,A7,Day,No,MAVERICK SQ,Part three,Unarmed,780544.3158,,2959876.425,2013
+40021,130647840.0,Thursday,No,2013-10-10T18:00:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,10,FDPROP,102,A1,First,No,WASHINGTON ST,Part three,Other,774867.5053,,2954717.1489999997,2013
+100636,130649919.0,Thursday,No,2013-10-10T15:30:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,10,LSTPRP,15,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+116639,130648782.0,Thursday,No,2013-10-10T13:30:00.000,PropLost,"[-71.09979, 42.343531]",Point,PropLost,10,LARCRT,627,D4,Day,No,KILMARNOCK ST,Part three,Unarmed,764360.7186,,2950465.422,2013
+121319,130649631.0,Thursday,No,2013-10-10T23:00:00.000,PropLost,"[-71.064995, 42.350611]",Point,PropLost,10,LSTPRP,122,A1,First,No,TREMONT ST,Part three,Unarmed,773754.059,,2953091.559,2013
+134846,130647151.0,Thursday,No,2013-10-10T13:00:00.000,PropLost,"[-71.092073, 42.289674]",Point,PropLost,10,MISC  ,566,B3,Day,No,Harvard St,Part three,Unarmed,766540.6237,,2930848.814,2013
+265506,130656213.0,Thursday,No,2013-10-10T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,465,B3,First,No,SALEM ST,Part three,Unarmed,,,,2013

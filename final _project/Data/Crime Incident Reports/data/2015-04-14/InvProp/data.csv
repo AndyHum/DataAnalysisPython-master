@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108837,152030403.0,Tuesday,No,2015-04-14T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,4,CD9,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+119409,152030459.0,Tuesday,No,2015-04-14T09:22:00.000,InvProp,"[-71.05993, 42.351211]",Point,InvProp,4,BE,0,A1,Day,No,BEACH ST,Part three,Unarmed,775122.0514,,2953317.233,2015
+190242,152030411.0,Tuesday,No,2015-04-14T19:40:00.000,InvProp,"[-71.063856, 42.321027]",Point,InvProp,4,SHOTS,0,B2,First,No,E COTTAGE ST,Part three,Unarmed,774116.9615,,2942312.133,2015
+267716,152030414.0,Tuesday,No,2015-04-14T18:04:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPREM,0,C6,First,No,5TH ST,Part three,Unarmed,,,,2015

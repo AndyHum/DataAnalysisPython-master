@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63216,142059772.0,Monday,No,2014-12-22T12:33:00.000,FORGERY,"[-71.084747, 42.329375]",Point,10xx,12,LARCEN,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2014
+102555,142059764.0,Monday,No,2014-12-22T13:10:00.000,FORGERY,"[-71.062575, 42.352726]",Point,10xx,12,LARCEN,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774404.2569,,2953865.65,2014
+149604,142059736.0,Monday,No,2014-12-22T11:48:00.000,FORGERY,"[-71.063155, 42.298481]",Point,10xx,12,LARCEN,0,C11,Day,No,GENEVA AV,Part Two,Unarmed,774348.7245,,2934097.058,2014
+254584,142059730.0,Monday,No,2014-12-22T11:00:00.000,FORGERY,"[-71.056345, 42.358871]",Point,10xx,12,IVPER,0,A1,Day,No,STATE ST,Part Two,Unarmed,776076.5836,,2956113.703,2014

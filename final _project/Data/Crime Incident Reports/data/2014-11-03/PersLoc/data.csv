@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60363,142045356.0,Monday,No,2014-11-03T00:15:00.000,PersLoc,"[-71.06264, 42.316191]",Point,PersLoc,11,IVPER,0,C11,Last,No,SUMNER ST,Other,Unarmed,774454.9559,,2940551.568,2014
+75088,142045789.0,Monday,No,2014-11-03T15:00:00.000,PersLoc,"[-71.0557, 42.335811]",Point,PersLoc,11,MISSIN,0,C6,Day,No,OLD COLONY AV,Other,Unarmed,776294.6855,,2947711.124,2014
+146623,142045633.0,Monday,No,2014-11-03T21:24:00.000,PersLoc,"[-71.061606, 42.290907]",Point,PersLoc,11,IVPER,0,C11,First,No,SEMONT RD,Other,Unarmed,774781.8208,,2931338.963,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102915,152043246.0,Monday,No,2015-05-25T16:00:00.000,PropLost,"[-71.058195, 42.305966]",Point,PropLost,5,PROP,0,C11,First,No,LINDEN ST,Part three,Unarmed,775676.4377,,2936831.615,2015
+179915,152049558.0,Monday,No,2015-05-25T17:45:00.000,PropLost,"[-71.082405, 42.335031]",Point,PropLost,5,PROP,0,D4,First,No,HAMMOND ST,Part three,Unarmed,769075.7574,,2947390.398,2015
+195038,152044324.0,Monday,No,2015-05-25T14:45:00.000,PropLost,"[-71.07802, 42.384856]",Point,PropLost,5,PROP,0,A15,Day,No,CALDWELL ST,Part three,Unarmed,770171.5295,,2965553.4510000004,2015

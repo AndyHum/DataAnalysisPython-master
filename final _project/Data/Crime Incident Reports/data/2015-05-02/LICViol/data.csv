@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+494,152035660.0,Saturday,No,2015-05-02T00:07:00.000,LICViol,"[0, 0]",Point,LICViol,5,CD35,0,D14,Last,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+138666,152035849.0,Saturday,No,2015-05-02T18:40:00.000,LICViol,"[-71.130451, 42.35065]",Point,LICViol,5,CD35,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,756060.5505,,2953022.06,2015
+170785,152035674.0,Saturday,No,2015-05-02T00:55:00.000,LICViol,"[-71.06465, 42.351016]",Point,LICViol,5,CD35,0,A1,Last,No,STUART ST,Part three,Unarmed,773846.5631,,2953239.624,2015

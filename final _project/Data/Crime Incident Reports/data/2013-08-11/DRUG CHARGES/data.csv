@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57519,130503835.0,Sunday,No,2013-08-11T17:17:00.000,DRUG CHARGES,"[-71.090389, 42.331096]",Point,18xx,8,SCHALM,290,B2,First,No,MALCOLM X BL,Part Two,Other,766923.848,,2945945.7830000003,2013
+93820,130503988.0,Sunday,No,2013-08-11T18:30:00.000,DRUG CHARGES,"[-71.059735, 42.297541]",Point,18xx,8,IVPER ,355,C11,First,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013
+117945,130503140.0,Sunday,No,2013-08-11T10:50:00.000,DRUG CHARGES,"[-71.062085, 42.356341]",Point,18xx,8,ARREST,102,A1,Day,No,TREMONT ST,Part Two,Other,774529.9407,,2955183.704,2013
+145440,130503199.0,Sunday,No,2013-08-11T11:30:00.000,DRUG CHARGES,"[-71.064905, 42.352371]",Point,18xx,8,ARREST,119,A1,Day,No,BOYLSTON ST,Part Two,Other,773775.1158,,2953733.06,2013

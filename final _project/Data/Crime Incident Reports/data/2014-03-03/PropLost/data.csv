@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17471,140171818.0,Monday,No,2014-03-03T18:00:00.000,PropLost,"[-71.06141, 42.355671]",Point,PropLost,3,LARCRT,111,A1,First,No,WINTER PL,Part three,Other,774713.6392,,2954940.481,2014
+25874,140131742.0,Monday,No,2014-03-03T10:30:00.000,PropLost,"[-71.068725, 42.351621]",Point,PropLost,3,LSTPRP,120,A1,Day,No,PROVIDENCE ST,Part three,Unarmed,772743.942,,2953454.502,2014
+62935,140170189.0,Monday,No,2014-03-03T12:00:00.000,PropLost,"[-71.08209, 42.336671]",Point,PropLost,3,LSTPRP,903,D4,Day,No,LATTIMORE CT,Part three,Unarmed,769157.9964,,2947988.46,2014
+190205,140130327.0,Monday,No,2014-03-03T06:50:00.000,PropLost,"[-71.08843, 42.277211]",Point,PropLost,3,FIGHT ,421,B3,Last,No,DELHI ST,Part three,Unarmed,767548.4038,,2926311.955,2014
+208157,140130980.0,Monday,No,2014-03-03T11:15:00.000,PropLost,"[-71.0719, 42.293541]",Point,PropLost,3,LARCRT,359,C11,Day,No,WASHINGTON ST,Part three,Unarmed,771991.9497,,2932284.853,2014
+263155,140138256.0,Monday,No,2014-03-03T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,171,A1,Day,No,HARRISON AV,Part three,Unarmed,,,,2014

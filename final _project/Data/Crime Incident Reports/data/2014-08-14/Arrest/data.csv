@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99638,142019271.0,Thursday,No,2014-08-14T13:32:00.000,Arrest,"[-71.075605, 42.291256]",Point,Arrest,8,ARREST,0,B3,Day,No,TALBOT AV,Part three,Unarmed,770993.6902,,2931447.1569999997,2014
+213014,142019375.0,Thursday,No,2014-08-14T18:39:00.000,Arrest,"[-71.0964, 42.269176]",Point,Arrest,8,INVEST,0,B3,First,No,CUMMINS HY,Part three,Unarmed,765405.3858,ROSEWOOD ST,2923373.586,2014
+242745,142019338.0,Thursday,No,2014-08-14T17:30:00.000,Arrest,"[-71.06287, 42.352321]",Point,Arrest,8,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Other,774325.2748,,2953717.652,2014
+260382,142019247.0,Thursday,No,2014-08-14T13:05:00.000,Arrest,"[0, 0]",Point,Arrest,8,ARREST,0,B2,Day,No,ALBERT ST,Part three,Unarmed,,ANNUNCIATION RD,,2014

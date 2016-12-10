@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140942,,Tuesday,No,2015-08-04T02:39:00.000,Simple Assault,"[0, 0]",Point,08xx,8,FIGHT,796,D14,,No,COMMONWEALTH AVE,Part Two,None,, HARVARD AVE ,,2015
+147190,,Tuesday,No,2015-08-04T00:00:00.000,Simple Assault,"[-71.096444, 42.347174]",Point,08xx,8,AB,624,D4,,No,LANSDOWNE ST,Part Two,None,765259.0,,2950000.0,2015
+159536,,Tuesday,No,2015-08-04T00:00:00.000,Simple Assault,"[-71.156636, 42.284848]",Point,08xx,8,ARREST,735,E5,,No,CENTRE ST,Part Two,None,749079.0,,2930000.0,2015
+172399,,Tuesday,No,2015-08-04T00:00:00.000,Simple Assault,"[-71.056725, 42.295064]",Point,08xx,8,FIGHT,364,C11,,No,CENTRE ST,Part Two,Personal Weapon (hand  foot  etc.),776095.0,,2930000.0,2015
+182988,,Tuesday,No,2015-08-04T21:30:00.000,Simple Assault,"[0, 0]",Point,08xx,8,DVIP,0,C11,,No,,Part Two,Other,,BOWDOIN ST,,2015
+238023,,Tuesday,No,2015-08-04T00:00:00.000,Simple Assault,"[-71.065471, 42.305407]",Point,08xx,8,DVIP,340,C11,,No,DRAPER ST,Part Two,None,773709.0,,2940000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+161396,142033616.0,Saturday,No,2014-09-27T13:30:00.000,Service,"[-71.11439, 42.301901]",Point,Service,9,SS,0,E13,Day,No,NEW WASHINGTON ST,Part three,Unarmed,760482.3248,SOUTH ST,2935276.5360000003,2014
+186832,142033625.0,Saturday,No,2014-09-27T12:40:00.000,Service,"[-71.068433, 42.297649]",Point,Service,9,IVPER,0,C11,Day,No,LINDSEY ST,Part three,Unarmed,772922.1667,,2933786.325,2014
+251392,142033849.0,Saturday,No,2014-09-27T13:10:00.000,Service,"[-71.054711, 42.341305]",Point,Service,9,PROP,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16089,120498413.0,Saturday,No,2012-08-11T12:48:00.000,Service,"[-71.090895, 42.316771]",Point,Service,8,CD11  ,312,B2,Day,No,HOLWORTHY ST,Part Three,Unarmed,766812.1723,,2940725.0130000003,2012
+31303,120498971.0,Saturday,No,2012-08-11T17:53:00.000,Service,"[-71.08113, 42.338881]",Point,Service,8,ARREST,273,D4,First,No,NORTHAMPTON ST,Part Three,Unarmed,769413.5971,TREMONT ST,2948795.097,2012
+149353,120498512.0,Saturday,No,2012-08-11T13:50:00.000,Service,"[-71.053506, 42.32612]",Point,Service,8,ARREST,914,C6,Day,No,GAVIN WY,Part Three,Unarmed,776906.2024,,2944182.5530000003,2012

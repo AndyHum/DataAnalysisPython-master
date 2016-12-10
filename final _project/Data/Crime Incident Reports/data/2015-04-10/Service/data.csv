@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101432,152029129.0,Friday,No,2015-04-10T12:30:00.000,Service,"[-71.085618, 42.32866]",Point,Service,4,MVA,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+251762,152029141.0,Friday,No,2015-04-10T16:30:00.000,Service,"[-71.061745, 42.356021]",Point,Service,4,ARREST,0,A1,First,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2015
+267589,152029136.0,Friday,No,2015-04-10T16:49:00.000,Service,"[0, 0]",Point,Service,4,CD11,0,C6,First,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

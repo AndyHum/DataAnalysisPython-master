@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10261,130422771.0,Tuesday,No,2013-07-09T13:45:00.000,PropLost,"[-71.071695, 42.345491]",Point,PropLost,7,LARCRT,151,D4,Day,No,GRAY ST,Part three,Unarmed,771952.3501,,2951216.5710000005,2013
+188511,130421859.0,Tuesday,No,2013-07-09T02:30:00.000,PropLost,"[-71.0292, 42.378121]",Point,PropLost,7,LSTPRP,17,A7,Last,No,CHELSEA ST,Part three,Unarmed,783374.4608,PRESCOTT ST,2963168.104,2013
+254333,130423360.0,Tuesday,No,2013-07-09T12:00:00.000,PropLost,"[-71.07372, 42.340181]",Point,PropLost,7,LSTPRP,157,D4,Day,No,SHAWMUT AV,Part three,Unarmed,771414.5992,,2949278.7660000003,2013

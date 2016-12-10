@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109402,142020588.0,Monday,No,2014-08-18T16:09:00.000,Ballist,"[-71.066765, 42.312461]",Point,Ballist,8,FDWEAP,0,C11,First,No,GLEN ST,Part Two,Unarmed,773346.0645,,2939186.352,2014
+152562,142020677.0,Monday,No,2014-08-18T21:08:00.000,Ballist,"[-71.07695, 42.310321]",Point,Ballist,8,SHOTS,0,B2,First,No,INTERVALE ST,Part Two,Firearm,770595.3246,,2938392.9260000004,2014
+224701,142020475.0,Monday,No,2014-08-18T11:21:00.000,Ballist,"[-71.095215, 42.315491]",Point,Ballist,8,INVEST,0,E13,Day,No,WALDREN RD,Part Two,Unarmed,765646.0192,WALNUT PK,2940252.9839999997,2014

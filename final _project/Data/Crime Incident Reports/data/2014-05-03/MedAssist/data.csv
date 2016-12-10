@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35773,140270891.0,Saturday,No,2014-05-03T16:13:00.000,MedAssist,"[-71.03904, 42.372786]",Point,MedAssist,5,OVRDOS,26,A7,First,No,MERIDIAN ST,Part three,Unarmed,780726.2164,,2961209.3510000003,2014
+39552,140269891.0,Saturday,No,2014-05-03T04:54:00.000,MedAssist,"[-71.074427, 42.271311]",Point,MedAssist,5,ABRPT ,0,B3,Last,No,RIVER ST,Part three,Unarmed,771348.5999,,2924180.5,2014
+49352,140269548.0,Saturday,No,2014-05-03T00:45:00.000,MedAssist,"[-71.16183, 42.354701]",Point,MedAssist,5,IVPER ,765,D14,Last,No,DONNYBROOK RD,Part three,Unarmed,747572.6079,HOBSON ST,2954463.4039999996,2014
+69352,140269790.0,Saturday,No,2014-05-03T02:41:00.000,MedAssist,"[-71.061485, 42.292056]",Point,MedAssist,5,REQEP ,363,C11,Last,No,KING ST,Part three,Unarmed,774812.5494,,2931758.015,2014
+199612,140271142.0,Saturday,No,2014-05-03T18:11:00.000,MedAssist,"[-71.060045, 42.300631]",Point,MedAssist,5,EDP2  ,351,C11,First,No,DORCHESTER AV,Part three,Unarmed,775186.0391,,2934884.873,2014
+201537,140271387.0,Saturday,No,2014-05-03T20:19:00.000,MedAssist,"[-71.095995, 42.347161]",Point,MedAssist,5,UNK   ,624,D4,First,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014
+202780,140270077.0,Saturday,No,2014-05-03T08:59:00.000,MedAssist,"[-71.07194, 42.288446]",Point,MedAssist,5,CONFPR,436,C11,Day,No,EUCLID ST,Part three,Unarmed,771990.4445,,2930428.1089999997,2014
+203942,140270715.0,Saturday,No,2014-05-03T14:35:00.000,MedAssist,"[-71.064075, 42.286446]",Point,MedAssist,5,REQP  ,393,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774122.2476,,2929710.058,2014
+211714,140271326.0,Saturday,No,2014-05-03T19:45:00.000,MedAssist,"[-71.05378, 42.359296]",Point,MedAssist,5,ABIP  ,94,A1,First,No,STATE ST,Part three,Unarmed,776769.0281,,2956272.1969999997,2014
+240690,140269441.0,Saturday,No,2014-05-03T00:02:00.000,MedAssist,"[-71.152659, 42.350461]",Point,MedAssist,5,IVPER ,778,D14,Last,No,MARKET ST,Part three,Unarmed,750057.5927,,2952928.002,2014

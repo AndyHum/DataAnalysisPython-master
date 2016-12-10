@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+165,152033954.0,Sunday,No,2015-04-26T12:30:00.000,PropFound,"[0, 0]",Point,PropFound,4,PROP,0,A1,Day,No,SOMERSET ST,Part three,Unarmed,,,,2015
+65795,152033879.0,Sunday,No,2015-04-26T03:00:00.000,PropFound,"[-71.098625, 42.346181]",Point,PropFound,4,PROP,0,D4,Last,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+105270,152034053.0,Sunday,No,2015-04-26T19:32:00.000,PropFound,"[-71.059732, 42.354044]",Point,PropFound,4,IVPREM,0,A1,First,No,CHAUNCY ST,Part three,Unarmed,775170.2002,SUMMER ST,2954349.82,2015

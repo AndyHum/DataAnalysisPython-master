@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105456,140112492.0,Sunday,No,2014-02-23T01:40:00.000,DISORDERLY,"[-71.065585, 42.309856]",Point,24xx,2,IVPER ,334,C11,Last,No,HENDRY ST,Part Two,Unarmed,773670.2174,,2938238.923,2014
+181153,140113600.0,Sunday,No,2014-02-23T16:00:00.000,DISORDERLY,"[-71.079605, 42.347101]",Point,24xx,2,ARREST,146,D4,First,No,HUNTINGTON AV,Part Two,Unarmed,769811.1326,,2951792.646,2014
+193074,140113684.0,Sunday,No,2014-02-23T17:05:00.000,DISORDERLY,"[-71.054864, 42.296187]",Point,24xx,2,IVPREM,0,C11,First,No,NEPONSET AV,Part Two,Unarmed,776596.0681,,2933272.605,2014

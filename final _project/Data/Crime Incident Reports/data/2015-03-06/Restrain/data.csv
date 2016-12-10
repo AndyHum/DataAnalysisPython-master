@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76112,152018205.0,Friday,No,2015-03-06T14:20:00.000,Restrain,"[-71.127403, 42.353628]",Point,Restrain,3,VIORDR,0,D14,Day,No,GARDNER ST,Part Two,Unarmed,756879.5915,,2954111.173,2015
+98742,152019907.0,Friday,No,2015-03-06T18:00:00.000,Restrain,"[-71.0904, 42.280796]",Point,Restrain,3,VIORDR,0,B3,First,No,HOSMER ST,Part Two,Other,767009.0082,,2927615.818,2015
+203309,152018294.0,Friday,No,2015-03-06T15:36:00.000,Restrain,"[-71.083365, 42.331551]",Point,Restrain,3,VIORDR,0,B2,Day,No,RUGGLES ST,Part Two,Unarmed,768822.3904,,2946120.954,2015

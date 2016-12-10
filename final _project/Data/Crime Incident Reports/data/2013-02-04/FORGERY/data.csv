@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98937,130128793.0,Monday,No,2013-02-04T12:00:00.000,FORGERY,"[-71.07739, 42.314841]",Point,10xx,2,IVPER ,325,B2,Day,No,DACIA ST,Part Two,Unarmed,770468.1499,,2940039.4960000003,2013
+100895,130195301.0,Monday,No,2013-02-04T16:43:00.000,FORGERY,"[-71.096744, 42.348749]",Point,10xx,2,LARCRT,623,D4,First,No,COMMONWEALTH AV,Part Two,Unarmed,765174.9696,,2952370.769,2013
+225297,130087365.0,Monday,No,2013-02-04T00:00:00.000,FORGERY,"[-71.07739, 42.314841]",Point,10xx,2,LARCRT,325,B2,Last,No,DACIA ST,Part Two,Unarmed,770468.1499,,2940039.4960000003,2013

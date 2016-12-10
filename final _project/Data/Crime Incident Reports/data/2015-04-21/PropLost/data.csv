@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+235,152034469.0,Tuesday,No,2015-04-21T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,,,,2015
+3319,152034591.0,Tuesday,No,2015-04-21T01:45:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B2,Last,No,EXETER ST,Part three,Unarmed,,,,2015
+19056,152032434.0,Tuesday,No,2015-04-21T12:15:00.000,PropLost,"[-71.065153, 42.29921]",Point,PropLost,4,PROP,0,C11,Day,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2015
+105158,152033278.0,Tuesday,No,2015-04-21T09:00:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,4,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+114076,152032643.0,Tuesday,No,2015-04-21T22:00:00.000,PropLost,"[-71.06054, 42.362421]",Point,PropLost,4,PROP,0,A1,First,No,BOWKER ST,Part three,Unarmed,774936.1171,,2957401.522,2015
+163502,152032689.0,Tuesday,No,2015-04-21T12:00:00.000,PropLost,"[-71.05484, 42.363456]",Point,PropLost,4,PROP,0,A1,Day,No,HANOVER ST,Part three,Unarmed,776474.6268,,2957786.685,2015
+200531,152032330.0,Tuesday,No,2015-04-21T02:50:00.000,PropLost,"[-71.12348, 42.258416]",Point,PropLost,4,PROP,0,E18,Last,No,HYDE PARK AV,Part three,Unarmed,758093.2583,,2919418.98,2015
+267985,152032445.0,Tuesday,No,2015-04-21T14:28:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015

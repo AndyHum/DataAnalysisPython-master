@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42388,,Monday,No,2015-07-27T00:00:00.000,Aggravated Assault,"[-71.03475, 42.382593]",Point,04xx,7,AB,25,A7,,No,CONDOR ST,Part One,Knife/Cutting Instrument,781866.0,,2960000.0,2015
+53904,,Monday,No,2015-07-27T00:00:00.000,Aggravated Assault,"[-71.066425, 42.352495]",Point,04xx,7,MISC,119,A1,,No,BOYLSTON ST,Part One,Other,773364.0,,2950000.0,2015
+127045,,Monday,No,2015-07-27T00:00:00.000,Aggravated Assault,"[-71.059848, 42.324876]",Point,04xx,7,STAB,186,C6,,No,W BELLFLOWER ST,Part One,Knife/Cutting Instrument,775194.0,,2940000.0,2015
+244219,,Monday,No,2015-07-27T00:00:00.000,Aggravated Assault,"[-71.087983, 42.279865]",Point,04xx,7,PSHOT,427,B3,,Yes,ELIZABETH ST,Part One,Firearm,767665.0,,2930000.0,2015
+256760,,Monday,No,2015-07-27T02:08:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,ARREST,94,A1,,No,CHATHAM ROW,Part One,Blunt Object,,STATE ST,,2015

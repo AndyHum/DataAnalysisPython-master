@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49404,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.060384, 42.30264]",Point,MedAssist,7,FDBODY,349,C11,,No,ADAMS ST,Part Three,None,775091.0,,2940000.0,2015
+67563,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.060502, 42.364895]",Point,MedAssist,7,IVPER,76,A1,,No,CANAL ST,Part Three,None,774941.0,,2960000.0,2015
+70801,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.152701, 42.265413]",Point,MedAssist,7,MVA,711,E5,,No,WASHINGTON ST,Part Three,None,750172.0,,2920000.0,2015
+83005,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.143836, 42.344258]",Point,MedAssist,7,INVEST,924,D14,,No,WASHINGTON ST,Part Three,None,752452.0,,2950000.0,2015
+99256,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.066431, 42.343347]",Point,MedAssist,7,PKNIFE,164,D4,,No,WASHINGTON ST,Part Three,None,773379.0,,2950000.0,2015
+102963,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.111997, 42.255996]",Point,MedAssist,7,POISON,511,E18,,No,BEACON ST,Part Three,None,761206.0,,2920000.0,2015
+111316,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.075286, 42.348388]",Point,MedAssist,7,UNCONS,130,D4,,No,TRINITY PL,Part Three,None,770976.0,,2950000.0,2015
+171650,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.066746, 42.303441]",Point,MedAssist,7,REQP,345,C11,,No,HOMES AVE,Part Three,None,773368.0,,2940000.0,2015
+205893,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.118051, 42.310068]",Point,MedAssist,7,BE,644,E13,,No,DUNSTER RD,Part Three,None,759479.0,,2940000.0,2015
+233737,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.068847, 42.295115]",Point,MedAssist,7,EDP,451,B3,,No,TREMLETT ST,Part Three,None,772815.0,,2930000.0,2015
+245916,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.156428, 42.339065]",Point,MedAssist,7,IVPER,749,D14,,No,COMMONWEALTH AVE,Part Three,None,749056.0,,2950000.0,2015
+248012,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.130913, 42.354459]",Point,MedAssist,7,I00015,801,D14,,No,FARRINGTON AVE,Part Three,None,755930.0,,2950000.0,2015
+248606,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.051214, 42.332143]",Point,MedAssist,7,UNKEMS,915,C6,,No,E NINTH ST,Part Three,None,777515.0,,2950000.0,2015
+254988,,Friday,No,2015-07-17T00:00:00.000,Medical Assistance,"[-71.082319, 42.309895]",Point,MedAssist,7,EDP,320,B2,,No,MAPLE ST,Part Three,None,769144.0,,2940000.0,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+570,142062031.0,Wednesday,No,2014-12-31T13:50:00.000,InvPer,"[-71.085402, 42.302343]",Point,InvPer,12,ARREST,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,768323.3179,,2935474.13,2014
+89696,142062029.0,Wednesday,No,2014-12-31T12:55:00.000,InvPer,"[-71.100769, 42.325321]",Point,InvPer,12,MISC,0,E13,Day,No,PARKER ST,Part three,Unarmed,764127.0458,,2943828.1319999998,2014
+117551,142061922.0,Wednesday,No,2014-12-31T00:30:00.000,InvPer,"[-71.0729, 42.333256]",Point,InvPer,12,IVPER,0,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2014
+171128,142062161.0,Wednesday,No,2014-12-31T21:50:00.000,InvPer,"[-71.09032, 42.285726]",Point,InvPer,12,PERGUN,0,B3,First,No,WOODROW AV,Part three,Unarmed,767022.021,,2929412.479,2014
+176336,142061996.0,Wednesday,No,2014-12-31T09:46:00.000,InvPer,"[-71.16827, 42.276426]",Point,InvPer,12,IVPER,0,E5,Day,No,WYCLIFF AV,Part three,Unarmed,745942.8519,,2925931.748,2014
+236345,142062102.0,Wednesday,No,2014-12-31T17:48:00.000,InvPer,"[-71.09831, 42.313041]",Point,InvPer,12,IVPER,0,E13,First,No,GRANADA PARK,Part three,Unarmed,764813.1478,,2939356.2060000002,2014
+257912,142062168.0,Wednesday,No,2014-12-31T21:25:00.000,InvPer,"[-71.04563, 42.352856]",Point,InvPer,12,IVPER,0,C6,First,No,NORTHERN AV,Part three,Unarmed,778984.2523,,2953936.9689999996,2014
+260851,142062022.0,Wednesday,No,2014-12-31T12:10:00.000,InvPer,"[0, 0]",Point,InvPer,12,CHDABU,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2014

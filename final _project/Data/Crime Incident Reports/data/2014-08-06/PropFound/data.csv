@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42316,142016711.0,Wednesday,No,2014-08-06T12:00:00.000,PropFound,"[-71.099725, 42.311756]",Point,PropFound,8,FDWEAP,0,E13,Day,No,MONTEBELLO RD,Part three,Firearm,764432.6351,,2938886.137,2014
+112381,142016778.0,Wednesday,No,2014-08-06T12:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,8,ADMRPT,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+193713,142016859.0,Wednesday,No,2014-08-06T18:05:00.000,PropFound,"[-71.08778, 42.345531]",Point,PropFound,8,IVPREM,0,D4,First,No,EDGERLY RD,Part three,Unarmed,767603.9883,,2951209.722,2014

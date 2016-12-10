@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83000,142008717.0,Saturday,No,2014-07-05T09:00:00.000,Service,"[-71.139555, 42.277451]",Point,Service,7,PROP,0,E5,Day,No,BRAHMS ST,Part three,Unarmed,753712.3665,,2926336.8019999997,2014
+98617,142006362.0,Saturday,No,2014-07-05T19:25:00.000,Service,"[-71.07502, 42.332376]",Point,Service,7,CD11,0,D4,First,No,ALBANY ST,Part three,Unarmed,771077.0854,,2946432.707,2014
+265208,142006255.0,Saturday,No,2014-07-05T12:25:00.000,Service,"[0, 0]",Point,Service,7,IVPREM,0,C11,Day,No,CUSHING AV,Part three,Unarmed,,,,2014

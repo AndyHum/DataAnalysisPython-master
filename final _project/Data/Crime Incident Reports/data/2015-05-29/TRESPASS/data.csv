@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74841,152044273.0,Friday,No,2015-05-29T10:55:00.000,TRESPASS,"[-71.084807, 42.328824]",Point,TRESPASS,5,IVPER,0,B2,Day,No,DUDLEY ST,Part Two,Other,768437.1156,,2945125.001,2015
+197749,152044276.0,Friday,No,2015-05-29T10:30:00.000,TRESPASS,"[-71.081656, 42.330447]",Point,TRESPASS,5,IVPER,0,B2,Day,No,HARRISON AV,Part Two,Unarmed,769286.3327,,2945720.856,2015
+204830,152044271.0,Friday,No,2015-05-29T11:00:00.000,TRESPASS,"[-71.084747, 42.329375]",Point,TRESPASS,5,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015

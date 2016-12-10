@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62990,130196519.0,Wednesday,No,2013-04-03T23:20:00.000,TRESPASS,"[-71.0726, 42.341736]",Point,TRESPASS,4,ARREST,962,D4,First,No,W DEDHAM ST,Part Two,Unarmed,771714.5582,,2949846.952,2013
+148533,130194788.0,Wednesday,No,2013-04-03T08:45:00.000,TRESPASS,"[-71.081633, 42.318648]",Point,TRESPASS,4,ABRPT ,311,B2,Day,No,WARREN ST,Part Two,Unarmed,769313.7572,,2941421.212,2013
+168216,130194620.0,Wednesday,No,2013-04-03T07:27:00.000,TRESPASS,"[-71.100115, 42.341996]",Point,TRESPASS,4,PERGUN,626,D4,Last,No,QUEENSBERRY ST,Part Two,Unarmed,764275.4786,,2949905.628,2013

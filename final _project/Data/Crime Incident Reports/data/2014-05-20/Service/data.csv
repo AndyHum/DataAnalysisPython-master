@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38950,140314273.0,Tuesday,No,2014-05-20T18:45:00.000,Service,"[-71.09307, 42.284131]",Point,Service,5,DISTRB,466,B3,First,No,DEERING RD,Part three,Other,766280.6819,,2928827.6780000003,2014
+80625,140313982.0,Tuesday,No,2014-05-20T22:43:00.000,Service,"[-71.05958, 42.351571]",Point,Service,5,IVPER ,0,A1,First,No,EDINBORO ST,Part three,Unarmed,775215.9809999999,KINGSTON ST,2953448.912,2014
+80919,140314369.0,Tuesday,No,2014-05-20T19:35:00.000,Service,"[-71.060375, 42.352521]",Point,Service,5,IVPER ,116,A1,First,No,ESSEX ST,Part three,Unarmed,774999.3043,,2953794.002,2014
+94702,140333188.0,Tuesday,No,2014-05-20T09:00:00.000,Service,"[-71.132902, 42.350479]",Point,Service,5,LARCRT,794,D14,Day,No,GLENVILLE AV,Part three,Unarmed,755398.1309,,2952956.8880000003,2014
+117799,140314411.0,Tuesday,No,2014-05-20T19:38:00.000,Service,"[-71.09394, 42.273281]",Point,Service,5,SSTOP ,472,B3,First,No,CULBERT ST,Part three,Unarmed,766064.0846,WOODHAVEN ST,2924872.663,2014
+166541,140313486.0,Tuesday,No,2014-05-20T13:00:00.000,Service,"[-71.054711, 42.341305]",Point,Service,5,IVPER ,200,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+225334,140313285.0,Tuesday,No,2014-05-20T12:27:00.000,Service,"[-71.14402, 42.286041]",Point,Service,5,ARREST,687,E5,Day,No,BELGRADE AV,Part three,Unarmed,752490.9648,,2929462.0539999995,2014
+234098,140313606.0,Tuesday,No,2014-05-20T14:25:00.000,Service,"[-71.04738, 42.331241]",Point,Service,5,ARREST,219,C6,Day,No,E 8TH ST,Part three,Unarmed,778553.0253,OLD HARBOR ST,2946057.563,2014

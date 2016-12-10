@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48870,140037097.0,Sunday,No,2014-01-19T00:19:00.000,PersLoc,"[-71.078141, 42.271674]",Point,PersLoc,1,MISPER,409,B3,Last,No,RIVER ST,Other,Unarmed,770342.7791,,2924307.4889999996,2014
+94027,140038669.0,Sunday,No,2014-01-19T20:45:00.000,PersLoc,"[-71.082313, 42.280256]",Point,PersLoc,1,MISPER,421,B3,First,No,MORTON ST,Other,Unarmed,769198.3224,,2927429.483,2014
+168588,140037381.0,Sunday,No,2014-01-19T01:45:00.000,PersLoc,"[-71.13779, 42.348321]",Point,PersLoc,1,CONFPR,793,D14,Last,No,COMMONWEALTH AV,Other,Unarmed,754080.3448,ALLSTON ST,2952165.08,2014
+208236,140038541.0,Sunday,No,2014-01-19T18:47:00.000,PersLoc,"[-71.130821, 42.254372]",Point,PersLoc,1,MISPER,541,E18,First,No,CHILD ST,Other,Unarmed,756112.3975,,2917936.392,2014
+248077,140038952.0,Sunday,No,2014-01-19T13:00:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,1,MISPER,345,C11,Day,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014

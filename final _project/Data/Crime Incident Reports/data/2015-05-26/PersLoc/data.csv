@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3842,152043347.0,Tuesday,No,2015-05-26T15:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,MISSIN,0,C11,Day,No,ROCK TR,Other,Unarmed,,,,2015
+12382,152043322.0,Tuesday,No,2015-05-26T19:09:00.000,PersLoc,"[-71.117581, 42.27463]",Point,PersLoc,5,IVPER,0,E18,First,No,NAVARRE ST,Other,Unarmed,759663.4288,,2925334.6180000002,2015
+84611,152043111.0,Tuesday,No,2015-05-26T09:35:00.000,PersLoc,"[-71.068594, 42.297067]",Point,PersLoc,5,IVPER,0,C11,Day,No,LARCHMONT ST,Other,Unarmed,772879.7803,,2933574.0539999995,2015
+114931,152043094.0,Tuesday,No,2015-05-26T07:00:00.000,PersLoc,"[-71.040378, 42.382313]",Point,PersLoc,5,MISSIN,0,A7,Last,No,BORDER ST,Other,Unarmed,780345.8126,FALCON ST,2964679.337,2015
+130267,152043054.0,Tuesday,No,2015-05-26T05:36:00.000,PersLoc,"[-71.085978, 42.296806]",Point,PersLoc,5,MISSIN,0,B3,Last,No,ABBOT ST,Other,Unarmed,768177.1099,,2933455.566,2015

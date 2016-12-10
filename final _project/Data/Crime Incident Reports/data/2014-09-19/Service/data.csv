@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42570,142030803.0,Friday,No,2014-09-19T00:30:00.000,Service,"[-71.0626, 42.352361]",Point,Service,9,ARREST,0,A1,Last,No,ESSEX ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+90293,142031065.0,Friday,No,2014-09-19T19:30:00.000,Service,"[-71.013, 42.385331]",Point,Service,9,SS,0,A7,First,No,WESTBROOK ST,Part three,Other,787736.5655,SARATOGA ST,2965820.1489999997,2014
+116812,142031022.0,Friday,No,2014-09-19T16:34:00.000,Service,"[-71.050313, 42.319287]",Point,Service,9,IVMV,0,C6,First,No,MORRISSEY BL,Part three,Unarmed,777782.6826,,2941696.88,2014
+143531,142030836.0,Friday,No,2014-09-19T07:00:00.000,Service,"[-71.062835, 42.353226]",Point,Service,9,IVPER,0,A1,Last,No,AVERY ST,Part three,Unarmed,774333.0448,,2954047.5,2014
+165289,142030914.0,Friday,No,2014-09-19T01:30:00.000,Service,"[-71.05618, 42.351231]",Point,Service,9,ARREST,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,776135.6658,EAST ST,2953329.773,2014
+205673,142031033.0,Friday,No,2014-09-19T18:00:00.000,Service,"[-71.064905, 42.352371]",Point,Service,9,SS,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+260298,142030852.0,Friday,No,2014-09-19T08:45:00.000,Service,"[0, 0]",Point,Service,9,ARREST,0,B3,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18,152033143.0,Thursday,No,2015-04-23T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,First,No,D ST,Part three,Unarmed,,,,2015
+75,152033293.0,Thursday,No,2015-04-23T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+239,152034567.0,Thursday,No,2015-04-23T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,,TREMONT ST,,2015
+49975,152033162.0,Thursday,No,2015-04-23T04:30:00.000,PropLost,"[-71.06281, 42.342461]",Point,PropLost,4,LARCEN,0,D4,Last,No,ALBANY ST,Part three,Unarmed,774359.9099,,2950124.5689999997,2015
+52670,152033375.0,Thursday,No,2015-04-23T23:00:00.000,PropLost,"[-71.098485, 42.343391]",Point,PropLost,4,LARCEN,0,D4,First,No,PETERBOROUGH ST,Part three,Unarmed,764713.7517,,2950416.063,2015
+91115,152033217.0,Thursday,No,2015-04-23T22:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,4,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+95591,152033094.0,Thursday,No,2015-04-23T11:00:00.000,PropLost,"[-71.07611, 42.293822]",Point,PropLost,4,IVPER,0,B3,Day,No,SPENCER ST,Part three,Unarmed,770852.4041,,2932381.5730000003,2015
+127956,152033425.0,Thursday,No,2015-04-23T21:00:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,4,LARCEN,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2015
+156946,152037015.0,Thursday,No,2015-04-23T15:30:00.000,PropLost,"[-71.10238, 42.263546]",Point,PropLost,4,PROP,0,E18,Day,No,RIVER ST,Part three,Other,763796.412,,2921314.337,2015
+189668,152033725.0,Thursday,No,2015-04-23T14:00:00.000,PropLost,"[-71.01643, 42.383681]",Point,PropLost,4,LARCEN,0,A7,Day,No,BYRON ST,Part three,Other,786813.3236,SARATOGA ST,2965213.584,2015
+192956,152033700.0,Thursday,No,2015-04-23T18:00:00.000,PropLost,"[-71.132005, 42.350021]",Point,PropLost,4,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,755641.4752,,2952791.29,2015
+215702,152034809.0,Thursday,No,2015-04-23T08:00:00.000,PropLost,"[-71.146024, 42.25608]",Point,PropLost,4,PROP,0,E5,Day,No,MARGARETTA DR,Part three,Other,751993.9090000001,,2918541.2939999998,2015

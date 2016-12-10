@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1826,152043026.0,Tuesday,No,2015-05-26T23:51:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,IVPER,0,E13,Last,No,BICKFORD ST,Part Two,Unarmed,,,,2015
+3719,152043737.0,Tuesday,No,2015-05-26T16:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,IVPER,0,B3,First,No,TALBOT AV,Part three,Unarmed,,,,2015
+3839,152043045.0,Tuesday,No,2015-05-26T00:45:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,IVPREM,0,C11,Last,No,GIBSON ST,Part three,Unarmed,,,,2015

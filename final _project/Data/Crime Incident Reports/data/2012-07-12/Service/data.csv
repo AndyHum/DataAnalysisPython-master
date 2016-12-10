@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122827,120429430.0,Thursday,No,2012-07-12T15:30:00.000,Service,"[-71.059735, 42.297541]",Point,Service,7,ARREST,0,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2012
+164980,120428895.0,Thursday,No,2012-07-12T13:27:00.000,Service,"[-71.066891, 42.315297]",Point,Service,7,ARREST,258,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,773306.6528,,2940219.857,2012
+258699,120429520.0,Thursday,No,2012-07-12T18:00:00.000,Service,"[-71.03317, 42.330051]",Point,Service,7,FIGHT ,234,C6,First,No,COLUMBIA RD,Part Three,Unarmed,782397.6742,M ST,2945644.617,2012

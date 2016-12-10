@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49000,142002447.0,Tuesday,No,2014-06-24T15:20:00.000,PropFound,"[-71.066494, 42.297826]",Point,PropFound,6,PERGUN,0,C11,Day,No,WALDECK ST,Part three,Firearm,773446.3907,,2933853.7410000004,2014
+76375,142002479.0,Tuesday,No,2014-06-24T16:47:00.000,PropFound,"[-71.091615, 42.283466]",Point,PropFound,6,FDWEAP,0,B3,First,No,BLUE HILL AV,Part three,Firearm,766675.5535,,2928587.222,2014
+140625,142002385.0,Tuesday,No,2014-06-24T13:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,6,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+171845,142002514.0,Tuesday,No,2014-06-24T17:45:00.000,PropFound,"[-71.069815, 42.282456]",Point,PropFound,6,IVPER,0,C11,First,No,FULLER ST,Part three,Unarmed,772576.4249,,2928248.165,2014
+216561,142002485.0,Tuesday,No,2014-06-24T16:22:00.000,PropFound,"[-71.12928, 42.296481]",Point,PropFound,6,IVPREM,0,E5,First,No,BUSSEY ST,Part three,Unarmed,756462.8814,WALTER ST,2933283.541,2014
+216999,142002547.0,Tuesday,No,2014-06-24T20:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,6,MISC,0,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+238300,142002721.0,Tuesday,No,2014-06-24T12:00:00.000,PropFound,"[-71.076715, 42.348671]",Point,PropFound,6,PROP,0,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,770589.5332,,2952368.647,2014

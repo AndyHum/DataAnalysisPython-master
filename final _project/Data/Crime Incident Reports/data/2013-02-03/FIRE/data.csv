@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65637,130071739.0,Sunday,No,2013-02-03T22:16:00.000,FIRE,"[-71.107525, 42.300191]",Point,FIRE,2,FV    ,566,E13,First,No,MORTON ST,Part Three,Unarmed,762342.3043,,2934661.854,2013
+80292,130071697.0,Sunday,No,2013-02-03T21:42:00.000,FIRE,"[-71.165505, 42.34934]",Point,FIRE,2,FIREB ,752,D14,First,No,LANGLEY RD,Part Three,Unarmed,746586.7823,,2952505.836,2013
+136377,130071311.0,Sunday,No,2013-02-03T16:53:00.000,FIRE,"[-71.082606, 42.30757]",Point,FIRE,2,FIREB ,330,B2,First,No,WASHINGTON ST,Part Three,Unarmed,769070.3581,,2937382.568,2013

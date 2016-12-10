@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105569,142026545.0,Friday,No,2014-09-05T19:06:00.000,FIRE,"[-71.05742, 42.294856]",Point,FIRE,9,FIRE,0,C11,First,No,CENTRE ST,Part three,Other,775907.083,,2932784.0539999995,2014
+107414,142026580.0,Friday,No,2014-09-05T20:30:00.000,FIRE,"[-71.06721, 42.311641]",Point,FIRE,9,FIRE,0,C11,First,No,TRULL ST,Part three,Unarmed,773227.38,,2938887.171,2014
+215497,142026601.0,Friday,No,2014-09-05T21:39:00.000,FIRE,"[-71.150491, 42.285349]",Point,FIRE,9,FIRE,0,E5,First,No,CLERMONT ST,Part three,Other,750740.8433,,2929202.393,2014
+240786,142026369.0,Friday,No,2014-09-05T11:57:00.000,FIRE,"[-71.07722, 42.271521]",Point,FIRE,9,FO,0,B3,Day,No,GROVELAND ST,Part three,Unarmed,770592.3761,RIVER ST,2924253.2810000004,2014

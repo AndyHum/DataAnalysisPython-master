@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52962,130352597.0,Monday,No,2013-06-10T12:38:00.000,Arrest,"[-71.067975, 42.301336]",Point,Arrest,6,ARREST,342,C11,Day,No,GENEVA AV,Part three,Unarmed,773039.4863,,2935130.8210000005,2013
+67845,130352057.0,Monday,No,2013-06-10T08:07:00.000,Arrest,"[-71.098479, 42.267626]",Point,Arrest,6,CD11  ,481,E18,Day,No,ROSEWOOD ST,Part three,Unarmed,764845.1251,,2922805.789,2013
+127627,130352181.0,Monday,No,2013-06-10T09:10:00.000,Arrest,"[-71.08479, 42.332036]",Point,Arrest,6,ARREST,276,B2,Day,No,ESTABROOK RD,Part three,Unarmed,768436.2206,,2946295.818,2013

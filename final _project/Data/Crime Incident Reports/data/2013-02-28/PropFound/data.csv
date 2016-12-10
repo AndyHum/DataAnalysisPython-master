@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131438,130256430.0,Thursday,No,2013-02-28T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,2,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2013
+133658,130122094.0,Thursday,No,2013-02-28T13:48:00.000,PropFound,"[-71.09231, 42.313296]",Point,PropFound,2,FDWEAP,316,B2,Day,No,HAROLD ST,Part Three,Firearm,766435.5304,,2939456.832,2013
+145104,130122606.0,Thursday,No,2013-02-28T08:30:00.000,PropFound,"[-71.03894, 42.370111]",Point,PropFound,2,FDPROP,27,A7,Day,No,MAVERICK ST,Part Three,Unarmed,780758.5695,MAVERICK SQ,2960234.723,2013
+189246,130123890.0,Thursday,No,2013-02-28T19:30:00.000,PropFound,"[-71.057395, 42.309861]",Point,PropFound,2,INVEST,254,C11,First,No,DEWAR ST,Part Three,Unarmed,775885.4728,,2938252.1339999996,2013

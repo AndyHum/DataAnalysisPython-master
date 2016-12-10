@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62122,140289204.0,Saturday,No,2014-05-10T21:11:00.000,DISORDERLY,"[-71.09794, 42.316146]",Point,24xx,5,ARREST,307,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764907.8894,,2940488.191,2014
+93456,140287101.0,Saturday,No,2014-05-10T00:19:00.000,DISORDERLY,"[-71.04042, 42.369421]",Point,24xx,5,ARREST,27,A7,Last,No,PARIS ST,Part Two,Unarmed,780359.9897,,2959981.1160000004,2014
+115349,140287103.0,Saturday,No,2014-05-10T00:20:00.000,DISORDERLY,"[-71.06366, 42.295461]",Point,24xx,5,PARTY ,360,C11,Last,No,MELVILLE AV,Part Two,Unarmed,774217.7343,,2932995.827,2014
+118196,142036056.0,Saturday,No,2014-05-10T00:02:00.000,DISORDERLY,"[-71.0418, 42.318786]",Point,24xx,5,IVPER,0,C6,Last,No,WESTWIND RD,Part Two,Unarmed,780086.1976,,2941526.816,2014

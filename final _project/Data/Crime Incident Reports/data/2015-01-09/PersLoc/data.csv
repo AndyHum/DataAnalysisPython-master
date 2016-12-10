@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40471,152002480.0,Friday,No,2015-01-09T17:00:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,1,IVPER,0,B3,First,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2015
+44335,152002226.0,Friday,No,2015-01-09T00:55:00.000,PersLoc,"[-71.06543, 42.348736]",Point,PersLoc,1,MISSIN,0,A1,Last,No,TREMONT ST,Other,Unarmed,773639.9559,,2952407.6739999996,2015
+60370,152002247.0,Friday,No,2015-01-09T04:13:00.000,PersLoc,"[-71.058815, 42.301671]",Point,PersLoc,1,IVPER,0,C11,Last,No,GORDON PL,Other,Unarmed,775516.8229,,2935265.584,2015
+130168,152002571.0,Friday,No,2015-01-09T15:00:00.000,PersLoc,"[-71.037465, 42.366871]",Point,PersLoc,1,IVPER,0,A7,Day,No,WEBSTER ST,Other,Unarmed,781163.5587,,2959056.164,2015
+156911,152002551.0,Friday,No,2015-01-09T07:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,1,IVPER,0,D14,Last,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+205133,152002463.0,Friday,No,2015-01-09T12:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,IVPER,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+208664,152002474.0,Friday,No,2015-01-09T23:00:00.000,PersLoc,"[-71.076983, 42.314285]",Point,PersLoc,1,MISSIN,0,B2,First,No,WAYLAND ST,Other,Unarmed,770579.0601,,2939837.128,2015

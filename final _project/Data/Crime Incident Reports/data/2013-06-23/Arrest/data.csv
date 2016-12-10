@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5393,130383355.0,Sunday,No,2013-06-23T17:39:00.000,Arrest,"[-71.08209, 42.336671]",Point,Arrest,6,IVDRUG,903,D4,First,No,LATTIMORE CT,Part three,Unarmed,769157.9964,,2947988.46,2013
+84386,130383615.0,Sunday,No,2013-06-23T17:45:00.000,Arrest,"[-71.06308, 42.320187]",Point,Arrest,6,ARREST,237,B2,First,No,ELDER ST,Part three,Unarmed,774328.2741,,2942007.148,2013
+192847,130383087.0,Sunday,No,2013-06-23T12:48:00.000,Arrest,"[-71.07844, 42.306111]",Point,Arrest,6,ARREST,329,B2,Day,No,COLUMBIA RD,Part three,Unarmed,770199.8873,GENEVA AV,2936856.7389999996,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22718,152010797.0,Tuesday,No,2015-02-10T00:11:00.000,InvPer,"[-71.050967, 42.332903]",Point,InvPer,2,IVPER,0,C6,Last,No,DORCHESTER ST,Part three,Other,777579.9074,,2946657.952,2015
+77027,152010943.0,Tuesday,No,2015-02-10T15:05:00.000,InvPer,"[-71.06521, 42.343276]",Point,InvPer,2,IVPER,0,D4,Day,No,FAY ST,Part three,Unarmed,773709.5687,,2950418.253,2015
+92642,152010930.0,Tuesday,No,2015-02-10T14:22:00.000,InvPer,"[-71.072305, 42.287441]",Point,InvPer,2,IVPER,0,B3,Day,No,TORREY ST,Part three,Unarmed,771893.5214,,2930061.377,2015
+190138,152010801.0,Tuesday,No,2015-02-10T00:15:00.000,InvPer,"[-71.073978, 42.333151]",Point,InvPer,2,IVPER,0,D4,Last,No,ALBANY ST,Part three,Unarmed,771357.6081,MASSACHUSETTS AV,2946716.26,2015
+211420,152011025.0,Tuesday,No,2015-02-10T19:37:00.000,InvPer,"[-71.078421, 42.284653]",Point,InvPer,2,IVPER,0,B3,First,No,THETFORD AV,Part three,Unarmed,770243.5782,,2929036.869,2015
+252825,152010865.0,Tuesday,No,2015-02-10T10:19:00.000,InvPer,"[-71.09177, 42.323136]",Point,InvPer,2,SHOTS,0,B2,Day,No,ELLIS ST,Part three,Other,766564.3556,HAWTHORNE ST,2943043.1119999997,2015
+261242,152011226.0,Tuesday,No,2015-02-10T21:00:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,D4,First,No,CAPEN ST,Part three,Firearm,,,,2015

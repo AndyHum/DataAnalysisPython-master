@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8152,120468038.0,Sunday,No,2012-07-29T10:53:00.000,Argue,"[-71.090265, 42.284003]",Point,Argue,7,REMOVE,430,B3,Day,No,MORTON ST,Part Three,Unarmed,767039.8025,,2928784.595,2012
+81890,120467963.0,Sunday,No,2012-07-29T09:53:00.000,Argue,"[-71.07837, 42.337556]",Point,Argue,7,FIGHT ,273,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,770162.1788,,2948315.92,2012
+195225,120467674.0,Sunday,No,2012-07-29T02:49:00.000,Argue,"[-71.08524, 42.347911]",Point,Argue,7,ABIP  ,142,D4,Last,No,HEREFORD ST,Part Three,Unarmed,768286.4146,BOYLSTON ST,2952080.367,2012
+207854,120469265.0,Sunday,No,2012-07-29T22:30:00.000,Argue,"[-71.076505, 42.336181]",Point,Argue,7,IVPER ,170,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,770668.8989,,2947817.3430000003,2012

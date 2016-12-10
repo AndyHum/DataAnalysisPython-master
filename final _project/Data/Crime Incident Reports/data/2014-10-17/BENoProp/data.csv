@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93686,142039832.0,Friday,No,2014-10-17T00:37:00.000,BENoProp,"[-71.033395, 42.336936]",Point,BENoProp,10,ARREST,0,C6,Last,No,M ST,Part One,Unarmed,782323.1095,,2948153.2939999998,2014
+141221,142040392.0,Friday,No,2014-10-17T18:30:00.000,BENoProp,"[-71.07332, 42.338551]",Point,BENoProp,10,IVPREM,0,D4,First,No,E NEWTON ST,Part One,Other,771525.7131,,2948685.305,2014
+210822,142039853.0,Friday,No,2014-10-17T03:09:00.000,BENoProp,"[-71.03558, 42.377676]",Point,BENoProp,10,BE,0,A7,Last,No,PRINCETON ST,Part One,Other,781651.5177,,2962996.4889999996,2014

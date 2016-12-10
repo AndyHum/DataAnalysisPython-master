@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5946,152036437.0,Monday,No,2015-05-04T13:30:00.000,PropLost,"[-71.08874, 42.347016]",Point,PropLost,5,LARCEN,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,767341.8596,,2951749.6319999998,2015
+60739,152036326.0,Monday,No,2015-05-04T13:26:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,5,PROP,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+84136,152036361.0,Monday,No,2015-05-04T00:00:00.000,PropLost,"[-71.09342, 42.275896]",Point,PropLost,5,PROP,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766200.2749,,2925826.275,2015
+156148,152037619.0,Monday,No,2015-05-04T00:11:00.000,PropLost,"[-71.078037, 42.348524]",Point,PropLost,5,LARCEN,0,D4,Last,No,HUNTINGTON AV,Part three,Unarmed,770232.2551,,2952313.058,2015
+180392,152047788.0,Monday,No,2015-05-04T12:00:00.000,PropLost,"[-71.093675, 42.268966]",Point,PropLost,5,LARCEN,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766143.2941,,2923300.56,2015
+200926,152036485.0,Monday,No,2015-05-04T19:20:00.000,PropLost,"[-71.151637, 42.287466]",Point,PropLost,5,LARCEN,0,E5,First,No,CENTRE ST,Part three,Unarmed,750427.7218,,2929972.662,2015
+242655,152036334.0,Monday,No,2015-05-04T13:45:00.000,PropLost,"[-71.069802, 42.322607]",Point,PropLost,5,PROP,0,B2,Day,No,MARSHFIELD ST,Part three,Unarmed,772505.9969,,2942879.5360000003,2015

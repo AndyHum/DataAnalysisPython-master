@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78361,152035329.0,Thursday,No,2015-04-30T05:45:00.000,PersLoc,"[-71.129984, 42.25878]",Point,PersLoc,4,IVPER,0,E18,Last,No,GORDON AV,Other,Unarmed,756331.8692,,2919543.9669999997,2015
+170777,152035268.0,Thursday,No,2015-04-30T17:58:00.000,PersLoc,"[-71.099695, 42.330611]",Point,PersLoc,4,IVPER,0,B2,First,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2015
+171543,152035161.0,Thursday,No,2015-04-30T10:03:00.000,PersLoc,"[-71.060964, 42.352801]",Point,PersLoc,4,IVPER,0,A1,Day,No,CHAUNCY ST,Other,Unarmed,774839.4243,,2953895.0289999996,2015
+250304,152035110.0,Thursday,No,2015-04-30T08:20:00.000,PersLoc,"[-71.110659, 42.333961]",Point,PersLoc,4,IVPER,0,B2,Day,No,NEW WHITNEY ST,Other,Unarmed,761438.0939,,2946964.375,2015

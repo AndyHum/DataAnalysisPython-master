@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36389,142017923.0,Sunday,No,2014-08-10T10:50:00.000,PropLost,"[-71.065415, 42.308301]",Point,PropLost,8,PROP,0,C11,Day,No,QUINCY ST,Part three,Unarmed,773719.0873,,2937672.4910000004,2014
+81381,142019043.0,Sunday,No,2014-08-10T21:00:00.000,PropLost,"[-71.086215, 42.343382]",Point,PropLost,8,LARCEN,0,D4,First,No,WESTLAND AV,Part three,Unarmed,768030.7109,,2950428.4460000005,2014
+90518,142018540.0,Sunday,No,2014-08-10T18:00:00.000,PropLost,"[-71.07618, 42.352611]",Point,PropLost,8,PROP,0,D4,First,No,CLARENDON ST,Part three,Unarmed,770727.0196,COMMONWEALTH AV,2953805.1760000004,2014
+171043,142018029.0,Sunday,No,2014-08-10T12:00:00.000,PropLost,"[-71.148595, 42.349557]",Point,PropLost,8,PROP,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,751157.6141,,2952603.025,2014
+172170,142018157.0,Sunday,No,2014-08-10T13:00:00.000,PropLost,"[-71.068085, 42.350586]",Point,PropLost,8,PROP,0,A1,Day,No,STUART ST,Part three,Unarmed,772918.8471,,2953078.204,2014
+196968,142018298.0,Sunday,No,2014-08-10T12:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,8,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+228877,142026053.0,Sunday,No,2014-08-10T08:00:00.000,PropLost,"[-71.056874, 42.306344]",Point,PropLost,8,PROP,0,C11,Day,No,FREEPORT WY,Part three,Unarmed,776033.0227,,2936971.203,2014
+255452,142017907.0,Sunday,No,2014-08-10T01:00:00.000,PropLost,"[-71.07576, 42.346816]",Point,PropLost,8,LARCEN,0,D4,Last,No,DARTMOUTH ST,Part three,Unarmed,770851.0494,,2951693.932,2014

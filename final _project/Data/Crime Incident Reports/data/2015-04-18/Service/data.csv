@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+154939,152031608.0,Saturday,No,2015-04-18T09:37:00.000,Service,"[-71.051205, 42.365951]",Point,Service,4,CD24,0,A1,Day,No,COMMERCIAL ST,Part three,Unarmed,777452.22,,2958701.06,2015
+188024,152031761.0,Saturday,No,2015-04-18T20:00:00.000,Service,"[-71.06698, 42.377476]",Point,Service,4,ARREST,0,A15,First,No,MAIN ST,Part three,Unarmed,773167.7925,,2962878.97,2015
+250585,152031590.0,Saturday,No,2015-04-18T08:11:00.000,Service,"[-71.10608, 42.317991]",Point,Service,4,IVPER,0,E13,Day,No,CHESTNUT AV,Part three,Unarmed,762703.257,,2941150.268,2015

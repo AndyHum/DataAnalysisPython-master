@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4931,120489916.0,Monday,No,2012-08-06T22:00:00.000,PropFound,"[-71.13481, 42.359721]",Point,PropFound,8,FDPROP,809,D14,First,No,HOLTON ST,Part Three,Unarmed,754868.1134,ATHOL ST,2956322.9080000003,2012
+15195,120487427.0,Monday,No,2012-08-06T18:10:00.000,PropFound,"[-71.051019, 42.362401]",Point,PropFound,8,FDPROP,90,A1,First,No,ATLANTIC AV,Part Three,Unarmed,777509.2589,,2957407.462,2012
+20340,120487036.0,Monday,No,2012-08-06T15:21:00.000,PropFound,"[-71.06047, 42.355401]",Point,PropFound,8,FDPROP,72,A1,Day,No,SUMMER ST,Part Three,Unarmed,774968.2164,WASHINGTON ST,2954843.395,2012
+28142,120486579.0,Monday,No,2012-08-06T10:00:00.000,PropFound,"[-71.07142, 42.340286]",Point,PropFound,8,FDPROP,905,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,772036.2226,,2949320.146,2012
+54184,120622179.0,Monday,No,2012-08-06T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+135219,120489961.0,Monday,No,2012-08-06T09:00:00.000,PropFound,"[-71.15773, 42.260724]",Point,PropFound,8,FDPROP,714,E5,Day,No,WASHINGTON ST,Part Three,Knife,748817.9993,,2920221.015,2012
+196206,120487371.0,Monday,No,2012-08-06T17:50:00.000,PropFound,"[-71.062548, 42.361157]",Point,PropFound,8,FDPROP,72,A1,First,No,CAMBRIDGE ST,Part Three,Unarmed,774395.6116,,2956937.863,2012
+261948,120486363.0,Monday,No,2012-08-06T09:45:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,648,E13,Day,No,BOYNTON ST,Part Three,Unarmed,,,,2012
+264654,120486862.0,Monday,No,2012-08-06T14:10:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,777,D14,Day,No,WINSHIP ST,Part Three,Unarmed,,,,2012

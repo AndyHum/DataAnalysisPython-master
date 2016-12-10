@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52212,142012337.0,Thursday,No,2014-07-24T07:43:00.000,TRESPASS,"[-71.12795, 42.354076]",Point,TRESPASS,7,ARREST,0,D14,Day,No,CHESTER ST,Part Two,Other,756731.1531,,2954273.767,2014
+240655,142012455.0,Thursday,No,2014-07-24T15:13:00.000,TRESPASS,"[-71.080085, 42.346711]",Point,TRESPASS,7,IVPER,0,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769682.0757,,2951649.883,2014
+264575,142012373.0,Thursday,No,2014-07-24T11:15:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,7,ARREST,0,A1,Day,No,PING ON ST,Part Two,Unarmed,,,,2014

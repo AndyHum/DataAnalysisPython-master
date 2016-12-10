@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36949,140320864.0,Friday,No,2014-05-23T09:30:00.000,Service,"[-71.063155, 42.298481]",Point,Service,5,ARREST,358,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,VINSON ST,2934097.058,2014
+64486,140321945.0,Friday,No,2014-05-23T16:40:00.000,Service,"[-71.06287, 42.352321]",Point,Service,5,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Other,774325.2748,,2953717.652,2014
+155690,140322430.0,Friday,No,2014-05-23T20:35:00.000,Service,"[-71.06931, 42.305981]",Point,Service,5,CD11  ,336,C11,First,No,INWOOD ST,Part three,Unarmed,772669.6888,,2936821.6360000004,2014
+173761,140322649.0,Friday,No,2014-05-23T22:15:00.000,Service,"[-71.059987, 42.361648]",Point,Service,5,IVPER ,72,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+179293,140321163.0,Friday,No,2014-05-23T11:47:00.000,Service,"[-71.08938, 42.276281]",Point,Service,5,ARREST,421,B3,Day,No,DELHI ST,Part three,Unarmed,767292.9434,RICH ST,2925971.812,2014
+231409,140320889.0,Friday,No,2014-05-23T09:38:00.000,Service,"[-71.0667, 42.300591]",Point,Service,5,DVIP  ,337,C11,Day,No,GENEVA AV,Part three,Unarmed,773385.7792,LEROY ST,2934861.0810000002,2014
+231418,140321210.0,Friday,No,2014-05-23T12:14:00.000,Service,"[-71.168145, 42.274658]",Point,Service,5,ARREST,722,E5,Day,No,CYPRESS ST,Part three,Unarmed,745978.9939,,2925287.3310000002,2014

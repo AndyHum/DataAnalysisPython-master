@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84969,130098558.0,Saturday,No,2013-02-16T14:37:00.000,Service,"[-71.06587, 42.313256]",Point,Service,2,VICDOG,332,C11,Day,No,GLENDALE ST,Part Three,Unarmed,773586.7516,,2939477.3189999997,2013
+147145,130098253.0,Saturday,No,2013-02-16T11:46:00.000,Service,"[-71.070213, 42.319216]",Point,Service,2,ARREST,259,B2,Day,No,DUDLEY ST,Part Three,Unarmed,772401.1225,MAGDALA ST,2941643.2810000004,2013
+189915,130098575.0,Saturday,No,2013-02-16T03:00:00.000,Service,"[-71.03031, 42.381961]",Point,Service,2,ARREST,16,A7,Last,No,FALCON ST,Part Three,Unarmed,783066.8418,GLENDON ST,2964565.825,2013

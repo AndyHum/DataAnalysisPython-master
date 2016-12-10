@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27503,140098211.0,Sunday,No,2014-02-16T15:15:00.000,InvPer,"[-71.053345, 42.359351]",Point,InvPer,2,IVPER ,89,A1,Day,No,STATE ST,Part three,Other,776886.4918,COMMERCIAL ST,2956292.855,2014
+56673,140097405.0,Sunday,No,2014-02-16T03:50:00.000,InvPer,"[-71.064905, 42.352371]",Point,InvPer,2,IVPER ,118,A1,Last,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+192540,140097712.0,Sunday,No,2014-02-16T10:00:00.000,InvPer,"[-71.145101, 42.290604]",Point,InvPer,2,THREAT,677,E5,Day,No,SUNSET HILL RD,Part three,Unarmed,752191.4293,,2931123.6339999996,2014
+195870,140097456.0,Sunday,No,2014-02-16T05:39:00.000,InvPer,"[-71.057225, 42.343836]",Point,InvPer,2,IVPER ,213,C6,Last,No,DORCHESTER AV,Part three,Unarmed,775867.1841,,2950633.432,2014
+198257,140100467.0,Sunday,No,2014-02-16T22:00:00.000,InvPer,"[-71.06714, 42.318171]",Point,InvPer,2,THREAT,238,B2,First,No,DUDLEY TR,Part three,Unarmed,773234.2369,,2941266.903,2014
+241942,140098726.0,Sunday,No,2014-02-16T20:44:00.000,InvPer,"[-71.03981, 42.376191]",Point,InvPer,2,FIGHT ,27,A7,First,No,BORDER ST,Part three,Other,780511.5193,,2962449.128,2014
+255667,140098245.0,Sunday,No,2014-02-16T13:00:00.000,InvPer,"[-71.05718, 42.29346]",Point,InvPer,2,MISPER,363,C11,Day,No,ADAMS ST,Part three,Unarmed,775974.4263,,2932275.68,2014

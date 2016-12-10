@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159439,140228438.0,Tuesday,No,2014-04-15T20:00:00.000,FORGERY,"[-71.070475, 42.301566]",Point,10xx,4,FDPROP,344,C11,First,No,OAKLEY ST,Part Two,Unarmed,772362.7603,,2935211.224,2014
+206191,140229143.0,Tuesday,No,2014-04-15T15:35:00.000,FORGERY,"[-71.05932, 42.354551]",Point,10xx,4,LARCIP,105,A1,Day,No,SUMMER ST,Part Two,Unarmed,775280.6508,,2954535.244,2014
+217061,140229338.0,Tuesday,No,2014-04-15T16:50:00.000,FORGERY,"[-71.056315, 42.357256]",Point,10xx,4,SUSPER,99,A1,First,No,POST OFFICE SQ,Part Two,Other,776087.7535,,2955525.208,2014

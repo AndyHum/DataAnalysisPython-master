@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18115,142037023.0,Thursday,No,2014-10-02T10:00:00.000,InvProp,"[-71.108089, 42.323474]",Point,InvProp,10,BE,0,E13,Day,No,CREIGHTON ST,Part three,Other,762150.5458,,2943145.577,2014
+84111,142035129.0,Thursday,No,2014-10-02T12:32:00.000,InvProp,"[-71.08282, 42.296196]",Point,InvProp,10,IVPREM,0,B3,Day,No,HARVARD ST,Part three,Unarmed,769032.7673,,2933237.736,2014
+144782,142035503.0,Thursday,No,2014-10-02T10:30:00.000,InvProp,"[-71.07275, 42.347831]",Point,InvProp,10,IVPREM,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,771662.8792,,2952067.8789999997,2014
+148973,142035123.0,Thursday,No,2014-10-02T13:33:00.000,InvProp,"[-71.058845, 42.292711]",Point,InvProp,10,IVMV,0,C11,Day,No,KING ST,Part three,Unarmed,775525.5926,,2932000.3910000003,2014
+158734,142035361.0,Thursday,No,2014-10-02T10:00:00.000,InvProp,"[-71.059987, 42.361648]",Point,InvProp,10,INVEST,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+182840,142035180.0,Thursday,No,2014-10-02T16:44:00.000,InvProp,"[-71.06054, 42.318511]",Point,InvProp,10,SHOTS,0,C11,First,No,DAWES ST,Part three,Other,775018.5595,,2941399.932,2014
+216543,142035041.0,Thursday,No,2014-10-02T02:00:00.000,InvProp,"[-71.0505, 42.308726]",Point,InvProp,10,IVPREM,0,C11,Last,No,BAYSIDE ST,Part three,Unarmed,777752.6390000001,,2937848.275,2014
+249904,142035112.0,Thursday,No,2014-10-02T13:00:00.000,InvProp,"[-71.133058, 42.351856]",Point,InvProp,10,LARCEN,0,D14,Day,No,PARK VALE AV,Part three,Unarmed,755353.9397,,2953458.643,2014

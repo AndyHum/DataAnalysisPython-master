@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27111,152011923.0,Saturday,No,2015-02-14T00:57:00.000,InvProp,"[-71.078526, 42.322336]",Point,InvProp,2,IVPER,0,B2,Last,No,PERRIN ST,Part three,Other,770147.4212,,2942769.0110000004,2015
+70535,152012047.0,Saturday,No,2015-02-14T13:34:00.000,InvProp,"[-71.04979, 42.332491]",Point,InvProp,2,DISTRB,0,C6,Day,No,KNOWLTON ST,Part three,Other,777898.9746,,2946509.637,2015
+190691,152012109.0,Saturday,No,2015-02-14T19:43:00.000,InvProp,"[-71.05022, 42.333931]",Point,InvProp,2,REQP,0,C6,First,No,W 7TH ST,Part three,Unarmed,777779.9421,,2947033.784,2015
+212246,152012062.0,Saturday,No,2015-02-14T14:30:00.000,InvProp,"[-71.05679, 42.321191]",Point,InvProp,2,CD9,0,C6,Day,No,DORCHESTER AV,Part three,Unarmed,776027.6618,,2942381.815,2015
+251972,152012139.0,Saturday,No,2015-02-14T21:41:00.000,InvProp,"[-71.084844, 42.326396]",Point,InvProp,2,IVMV,0,B2,First,No,ST JAMES ST,Part three,Unarmed,768431.5605,,2944240.148,2015
+265219,152012504.0,Saturday,No,2015-02-14T14:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,LARCEN,0,E13,Day,No,CENTRE ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+241929,,Monday,No,2015-07-20T00:00:00.000,Ballistics,"[-71.079648, 42.311419]",Point,BALLIST,7,ARREST,326,B2,,No,INTERVALE ST,Part Two,None,769864.0,,2940000.0,2015
+254394,,Monday,No,2015-07-20T00:00:00.000,Ballistics,"[-71.080759, 42.304508]",Point,BALLIST,7,SHOTS,459,B3,,No,POWELLTON RD,Part Two,None,769575.0,,2940000.0,2015

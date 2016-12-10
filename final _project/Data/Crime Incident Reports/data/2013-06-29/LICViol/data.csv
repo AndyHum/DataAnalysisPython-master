@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17617,130397874.0,Saturday,No,2013-06-29T02:40:00.000,LICViol,"[-71.13255, 42.354731]",Point,LICViol,6,CD35  ,801,D14,Last,No,HARVARD AV,Part three,Unarmed,755486.7626,,2954507.0730000003,2013
+68576,130397114.0,Saturday,No,2013-06-29T01:15:00.000,LICViol,"[-71.040315, 42.349406]",Point,LICViol,6,UNCONS,207,C6,Last,No,SEAPORT BL,Part three,Unarmed,780427.6733,,2952687.4239999996,2013
+70543,130399201.0,Saturday,No,2013-06-29T21:43:00.000,LICViol,"[-71.105268, 42.31754]",Point,LICViol,6,PARTY ,638,E13,First,No,DANFORTH ST,Part three,Other,762923.4551,,2940986.7010000004,2013

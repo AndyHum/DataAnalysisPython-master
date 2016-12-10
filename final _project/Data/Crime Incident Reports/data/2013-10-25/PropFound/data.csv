@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6237,130681098.0,Friday,No,2013-10-25T18:45:00.000,PropFound,"[-71.03657, 42.335606]",Point,PropFound,10,FDPROP,222,C6,First,No,E BROADWAY,Part three,Unarmed,781467.3346,,2947663.7180000003,2013
+25764,130682138.0,Friday,No,2013-10-25T23:00:00.000,PropFound,"[-71.06321, 42.302461]",Point,PropFound,10,FDPROP,345,C11,First,No,ROBINSON ST,Part three,Unarmed,774326.4172,,2935547.353,2013
+242869,130680726.0,Friday,No,2013-10-25T15:45:00.000,PropFound,"[-71.148901, 42.278443]",Point,PropFound,10,IVPREM,700,E5,Day,No,WOODARD RD,Part three,Unarmed,751181.6324,,2926687.4960000003,2013

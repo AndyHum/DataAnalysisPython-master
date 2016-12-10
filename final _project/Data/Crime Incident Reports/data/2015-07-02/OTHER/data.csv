@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36089,,Thursday,No,2015-07-02T00:00:00.000,Other,"[-71.132884, 42.350486]",Point,OTHER,7,MVA,794,D14,,No,GLENVILLE AVE,Part Two,None,755403.0,,2950000.0,2015
+67199,,Thursday,No,2015-07-02T00:00:00.000,Other,"[-71.089704, 42.317595]",Point,OTHER,7,IVPER,312,B2,,No,HAROLD ST,Part Two,None,767133.0,,2940000.0,2015
+69047,,Thursday,No,2015-07-02T10:18:00.000,Other,"[0, 0]",Point,OTHER,7,REQP,152,D4,,No,TREMONT ST,Part Three,None,,UNION PARK,,2015
+75129,,Thursday,No,2015-07-02T00:00:00.000,Other,"[-71.056951, 42.363848]",Point,OTHER,7,IVMV,86,A1,,No,STILLMAN ST,Part Two,None,775903.0,,2960000.0,2015
+113252,,Thursday,No,2015-07-02T00:00:00.000,Other,"[-71.068232, 42.348438]",Point,OTHER,7,IVMV,126,A1,,No,FAYETTE ST,Part Two,None,772883.0,,2950000.0,2015
+117269,,Thursday,No,2015-07-02T11:39:00.000,Other,"[0, 0]",Point,OTHER,7,ARREST,116,A1,,No,ESSEX ST,Part Two,None,,JOHN F. FITZGERALD SURFACE RD,,2015
+150553,,Thursday,No,2015-07-02T00:00:00.000,Other,"[-71.059216, 42.359173]",Point,OTHER,7,IVPER,97,A1,,No,COURT ST,Part Two,None,775300.0,,2960000.0,2015
+176094,,Thursday,No,2015-07-02T00:00:00.000,Other,"[-71.082838, 42.296204]",Point,OTHER,7,IVPER,444,B3,,No,HARVARD ST,Part Two,None,769028.0,,2930000.0,2015
+186936,,Thursday,No,2015-07-02T10:36:00.000,Other,"[0, 0]",Point,OTHER,7,SS,430,B3,,No,BLUE HILL AVE,Part Two,None,,LIVINGSTONE ST,,2015

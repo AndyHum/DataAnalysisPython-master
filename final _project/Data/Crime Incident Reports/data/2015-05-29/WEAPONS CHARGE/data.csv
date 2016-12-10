@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12558,152044325.0,Friday,No,2015-05-29T02:05:00.000,WEAPONS CHARGE,"[-71.063675, 42.352301]",Point,15xx,5,ARREST,0,A1,Last,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2015
+80242,152044232.0,Friday,No,2015-05-29T09:15:00.000,WEAPONS CHARGE,"[-71.075613, 42.307223]",Point,15xx,5,CD11,0,C11,Day,No,DEVON ST,Part Two,Other,770962.3353,,2937265.653,2015
+226506,152044348.0,Friday,No,2015-05-29T15:30:00.000,WEAPONS CHARGE,"[-71.064089, 42.309113]",Point,15xx,5,TS,0,C11,Day,No,BOWDOIN ST,Part Two,Unarmed,774076.1526,,2937969.9289999995,2015

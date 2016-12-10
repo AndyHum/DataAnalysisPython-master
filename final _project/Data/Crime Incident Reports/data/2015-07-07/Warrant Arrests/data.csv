@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27481,,Tuesday,No,2015-07-07T16:17:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,184,B2,,No,NORFOLK AVE,Part Three,None,,,,2015
+90467,,Tuesday,No,2015-07-07T00:00:00.000,Warrant Arrests,"[-71.073801, 42.287195]",Point,Arrest,7,CD11,436,B3,,No,TORREY ST,Part Three,None,771489.0,,2930000.0,2015
+125303,,Tuesday,No,2015-07-07T11:48:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,78,A1,,No,CONGRESS ST,Part Three,None,,HANOVER ST,,2015
+169097,,Tuesday,No,2015-07-07T09:16:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,398,C11,,No,TALBOT AVE,Part Three,None,,WASHINGTON ST,,2015
+229549,,Tuesday,No,2015-07-07T16:55:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,823,C11,,No,PLEASANT ST,Part Three,None,,,,2015

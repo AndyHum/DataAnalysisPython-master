@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7039,,Saturday,No,2015-07-18T00:00:00.000,Missing Person Reported,"[-71.071832, 42.306121]",Point,PersMiss,7,I00027,337,C11,,No,ROCK TER,Part Three,None,771987.0,,2940000.0,2015
+89621,,Saturday,No,2015-07-18T00:00:00.000,Missing Person Reported,"[-71.074751, 42.291256]",Point,PersMiss,7,IVPER,449,B3,,No,ASPINWALL RD,Part Three,None,771225.0,,2930000.0,2015
+250066,,Saturday,No,2015-07-18T00:00:00.000,Missing Person Reported,"[-71.069326, 42.313031]",Point,PersMiss,7,I00027,331,B2,,No,GLENDALE ST,Part Three,None,772652.0,,2940000.0,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10094,,Thursday,No,2015-07-16T00:00:00.000,Investigate Property,"[-71.060212, 42.306383]",Point,InvProp,7,LANTEN,347,C11,,No,LYON ST,Part Three,None,775130.0,,2940000.0,2015
+17984,,Thursday,No,2015-07-16T00:00:00.000,Investigate Property,"[-71.154129, 42.333843]",Point,InvProp,7,SUSOBJ,749,D14,,No,BEACON ST,Part Three,None,749685.0,,2950000.0,2015
+18208,,Thursday,No,2015-07-16T00:00:00.000,Investigate Property,"[-71.114291, 42.311934]",Point,InvProp,7,IVPER,642,E13,,No,CENTRE ST,Part Three,None,760492.0,,2940000.0,2015
+56263,,Thursday,No,2015-07-16T00:00:00.000,Investigate Property,"[-71.066144, 42.339978]",Point,InvProp,7,,165,D4,,No,UNION PARK ST,Part Three,None,773463.0,,2950000.0,2015
+71552,,Thursday,No,2015-07-16T23:33:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,89,A1,,No,COMMERCIAL ST,Part Three,None,,,,2015
+145203,,Thursday,No,2015-07-16T18:29:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,0,,,No,FENWAY,Part Three,None,,,,2015
+163802,,Thursday,No,2015-07-16T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,7,CD19,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+221363,,Thursday,No,2015-07-16T00:00:00.000,Investigate Property,"[-71.063124, 42.355407]",Point,InvProp,7,CD9,119,A1,,No,TREMONT ST,Part Three,None,774251.0,,2950000.0,2015
+229680,,Thursday,No,2015-07-16T00:00:00.000,Investigate Property,"[-71.102204, 42.322903]",Point,InvProp,7,,912,E13,,No,CENTRE ST,Part Three,None,763743.0,,2940000.0,2015

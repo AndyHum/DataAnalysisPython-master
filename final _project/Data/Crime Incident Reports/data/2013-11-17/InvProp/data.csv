@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145265,130730430.0,Sunday,No,2013-11-17T15:00:00.000,InvProp,"[-71.083504, 42.285373]",Point,InvProp,11,PDRPT ,432,B3,Day,No,JACOB ST,Part three,Unarmed,768866.8293,,2929292.5,2013
+164721,130731009.0,Sunday,No,2013-11-17T21:48:00.000,InvProp,"[-71.072343, 42.289956]",Point,InvProp,11,CTYALM,436,B3,First,No,NORFOLK ST,Part three,Unarmed,771878.4608,,2930977.686,2013
+236035,130729624.0,Sunday,No,2013-11-17T02:55:00.000,InvProp,"[-71.142945, 42.343216]",Point,InvProp,11,ALARMC,785,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,752694.6264,,2950298.841,2013
+251760,130729562.0,Sunday,No,2013-11-17T02:19:00.000,InvProp,"[-71.092165, 42.286291]",Point,InvProp,11,IVPREM,465,B3,Last,No,HAVELOCK ST,Part three,Unarmed,766521.8038,,2929615.983,2013

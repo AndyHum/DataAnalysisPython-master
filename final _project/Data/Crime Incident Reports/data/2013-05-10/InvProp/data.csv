@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5314,130278461.0,Friday,No,2013-05-10T17:01:00.000,InvProp,"[-71.09713, 42.334301]",Point,InvProp,5,FDWEAP,901,B2,First,No,Huban Ct,Part Three,Unarmed,765095.7112,,2947105.224,2013
+31978,130278946.0,Friday,No,2013-05-10T20:28:00.000,InvProp,"[-71.09366, 42.274281]",Point,InvProp,5,SHOTS ,469,B3,First,No,ALMONT ST,Part three,Firearm,766138.128,BLUE HILL AV,2925237.437,2013
+98238,130279291.0,Friday,No,2013-05-10T23:30:00.000,InvProp,"[-71.040345, 42.381666]",Point,InvProp,5,SHOTS ,26,A7,First,No,BORDER ST,Part Three,Other,780356.2099,,2964443.5510000004,2013
+122396,130277604.0,Friday,No,2013-05-10T10:26:00.000,InvProp,"[-71.114865, 42.286736]",Point,InvProp,5,REQPF ,504,E18,Day,No,NEPONSET CT,Part Three,Unarmed,760378.7813,,2929749.5930000003,2013
+165724,130277343.0,Friday,No,2013-05-10T07:30:00.000,InvProp,"[-71.013745, 42.385036]",Point,InvProp,5,IVPREM,12,A7,Day,No,SARATOGA ST,Part three,Unarmed,787535.9081,,2965711.498,2013
+175740,130278263.0,Friday,No,2013-05-10T10:30:00.000,InvProp,"[-71.08257, 42.348656]",Point,InvProp,5,IVPER ,143,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2013
+197560,130280091.0,Friday,No,2013-05-10T15:30:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,5,IVPREM,61,A1,Day,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2013

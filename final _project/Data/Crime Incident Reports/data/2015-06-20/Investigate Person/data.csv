@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20508,,Saturday,No,2015-06-20T00:00:00.000,Investigate Person,"[-71.069409, 42.339542]",Point,InvPer,6,IVPER,165,D4,,No,HARRISON AVE,Part Three,None,772581.0,,2950000.0,2015
+51046,,Saturday,No,2015-06-20T00:00:00.000,Investigate Person,"[-71.047695, 42.335532]",Point,InvPer,6,IVPER,214,C6,,No,W FOURTH ST,Part Three,None,778459.0,,2950000.0,2015
+172816,,Saturday,No,2015-06-20T00:51:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,SHOTS,555,E18,,No,CANTERBURY ST,Part Three,None,,POPLAR ST,,2015
+174669,,Saturday,No,2015-06-20T00:00:00.000,Investigate Person,"[-71.115444, 42.247049]",Point,InvPer,6,IVPER,515,E18,,No,WILLIAMS AVE,Part Three,None,760287.0,,2920000.0,2015
+189309,,Saturday,No,2015-06-20T00:00:00.000,Investigate Person,"[-71.146277, 42.342793]",Point,InvPer,6,REQP,785,D14,,No,COLBORNE RD,Part Three,None,751794.0,,2950000.0,2015
+199561,,Saturday,No,2015-06-20T01:25:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,PERGUN,940,E18,,No,GARFIELD AVE,Part Three,None,,,,2015
+213950,,Saturday,No,2015-06-20T00:00:00.000,Investigate Person,"[-71.059709, 42.297555]",Point,InvPer,6,IVPER,355,C11,,No,GIBSON ST,Part Three,None,775283.0,,2930000.0,2015
+245271,,Saturday,No,2015-06-20T00:00:00.000,Investigate Person,"[-71.085634, 42.328663]",Point,InvPer,6,IVPER,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+255681,,Saturday,No,2015-06-20T00:00:00.000,Investigate Person,"[-71.085022, 42.287928]",Point,InvPer,6,PKNIFE,432,B3,,No,CALLENDER ST,Part Three,None,768452.0,,2930000.0,2015
+256269,,Saturday,No,2015-06-20T00:35:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,TS,582,E13,,No,CENTRE ST,Part Three,None,,MOZART ST,,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17814,120783446.0,Friday,No,2012-12-14T17:00:00.000,PropFound,"[-71.05657, 42.353406]",Point,PropFound,12,FDPROP,106,A1,First,No,HIGH ST,Part Three,Unarmed,776026.1254,,2954121.836,2012
+20789,120782660.0,Friday,No,2012-12-14T13:00:00.000,PropFound,"[-71.046717, 42.336149]",Point,PropFound,12,FDPROP,213,C6,Day,No,W BROADWAY,Part Three,Unarmed,778722.6466,,2947847.002,2012
+91384,120783344.0,Friday,No,2012-12-14T17:22:00.000,PropFound,"[-71.0865, 42.290701]",Point,PropFound,12,LSTPRP,944,B3,First,No,WESTVIEW ST,Part Three,Unarmed,768046.878,AMES ST,2931230.4280000003,2012
+96852,120783646.0,Friday,No,2012-12-14T20:00:00.000,PropFound,"[-71.1328, 42.238421]",Point,PropFound,12,FDPROP,527,E18,First,No,NEPONSET VALLEY PY,Part Three,Unarmed,755601.6571,HYDE PARK AV,2912121.5519999997,2012
+225900,120781829.0,Friday,No,2012-12-14T07:00:00.000,PropFound,"[-71.148344, 42.338331]",Point,PropFound,12,LSTPRP,790,D14,Last,No,STRATHMORE RD,Part Three,Unarmed,751242.1822,,2948512.3210000005,2012

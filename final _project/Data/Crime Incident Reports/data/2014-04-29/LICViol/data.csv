@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80316,140260686.0,Tuesday,No,2014-04-29T14:25:00.000,LICViol,"[-71.04778, 42.292776]",Point,LICViol,4,CD35  ,370,C11,Day,No,MORRISSEY BL,Part three,Unarmed,778519.0387,,2932039.6360000004,2014
+107579,140260752.0,Tuesday,No,2014-04-29T14:40:00.000,LICViol,"[-71.047314, 42.294874]",Point,LICViol,4,CD35  ,370,C11,Day,No,MORRISSEY BL,Part three,Unarmed,778641.0768,,2932804.8460000004,2014
+142846,140261814.0,Tuesday,No,2014-04-29T23:00:00.000,LICViol,"[-71.057335, 42.312466]",Point,LICViol,4,CD35  ,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775896.7749,,2939201.52,2014

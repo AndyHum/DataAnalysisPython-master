@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89677,152009471.0,Thursday,No,2015-02-05T06:30:00.000,PropFound,"[-71.038515, 42.372161]",Point,PropFound,2,PROP,0,A7,Last,No,GOVE ST,Part three,Unarmed,780869.3745,,2960982.4060000004,2015
+98160,152009516.0,Thursday,No,2015-02-05T10:30:00.000,PropFound,"[-71.082049, 42.294765]",Point,PropFound,2,IVPREM,0,B3,Day,No,KINGSDALE ST,Part three,Unarmed,769243.8945,,2932717.086,2015
+111997,152009492.0,Thursday,No,2015-02-05T06:30:00.000,PropFound,"[-71.05705, 42.341381]",Point,PropFound,2,PROP,0,C6,Last,No,DORCHESTER AV,Part three,Unarmed,775919.1397,,2949739.0310000004,2015

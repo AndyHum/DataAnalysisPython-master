@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9139,140140398.0,Friday,No,2014-03-07T13:16:00.000,Service,"[-71.085618, 42.32866]",Point,Service,3,ARREST,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+20864,140139774.0,Friday,No,2014-03-07T08:00:00.000,Service,"[-71.122475, 42.292586]",Point,Service,3,ARREST,664,E5,Day,No,LESHER ST,Part three,Unarmed,758310.2041,,2931872.2169999997,2014
+212945,140139617.0,Friday,No,2014-03-07T03:14:00.000,Service,"[-71.065153, 42.29921]",Point,Service,3,ARREST,358,C11,Last,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2014

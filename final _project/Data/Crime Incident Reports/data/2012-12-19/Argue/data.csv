@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119844,120793242.0,Wednesday,No,2012-12-19T09:38:00.000,Argue,"[-71.068594, 42.297067]",Point,Argue,12,FIGHT ,358,C11,Day,No,LARCHMONT ST,Part Three,Unarmed,772879.7803,,2933574.0539999995,2012
+178088,120792806.0,Wednesday,No,2012-12-19T05:00:00.000,Argue,"[-71.07937, 42.303496]",Point,Argue,12,FIGHT ,459,C11,Last,No,FENELON ST,Part Three,Unarmed,769953.0207,,2935902.5510000004,2012
+226605,120794659.0,Wednesday,No,2012-12-19T21:22:00.000,Argue,"[-71.084435, 42.301291]",Point,Argue,12,ABIP  ,458,B3,First,No,GLENWAY ST,Part Three,Unarmed,768586.7961,,2935092.2989999996,2012

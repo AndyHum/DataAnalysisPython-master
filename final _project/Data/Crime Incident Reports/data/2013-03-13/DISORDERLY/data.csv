@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53596,130149970.0,Wednesday,No,2013-03-13T19:20:00.000,DISORDERLY,"[-71.071643, 42.290556]",Point,24xx,3,ARREST,450,C11,First,No,WASHINGTON ST,Part Two,Other,772066.839,,2931197.369,2013
+74943,130150020.0,Wednesday,No,2013-03-13T19:47:00.000,DISORDERLY,"[-71.07776, 42.319041]",Point,24xx,3,SSTOP ,265,B2,First,No,BLUE HILL AV,Part Two,Unarmed,770360.5021,CLIFFORD ST,2941569.5489999996,2013
+222174,130149674.0,Wednesday,No,2013-03-13T17:02:00.000,DISORDERLY,"[-71.071755, 42.292106]",Point,24xx,3,ARREST,362,C11,First,No,WASHINGTON ST,Part Two,Unarmed,772033.8053,,2931762.1160000004,2013

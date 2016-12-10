@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17990,142032828.0,Thursday,No,2014-08-14T02:30:00.000,SkipFare,"[-71.15163, 42.349006]",Point,SkipFare,8,LARCEN,0,D14,Last,No,WASHINGTON ST,Part Two,Unarmed,750338.0816,,2952399.125,2014
+77167,142019347.0,Thursday,No,2014-08-14T17:25:00.000,SkipFare,"[-71.066195, 42.316026]",Point,SkipFare,8,LARCEN,0,B2,First,No,COLUMBIA RD,Part Two,Unarmed,773493.7866,,2940486.5289999996,2014
+188112,142019124.0,Thursday,No,2014-08-14T12:39:00.000,SkipFare,"[-71.02684, 42.380171]",Point,SkipFare,8,IVPER,0,A7,Day,No,SARATOGA ST,Part Two,Unarmed,784007.9699,CHELSEA ST,2963918.6939999997,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1597,152041351.0,Wednesday,No,2015-05-20T11:30:00.000,Arrest,"[0, 0]",Point,Arrest,5,IVPER,0,C11,Day,No,GENEVA AV,Part three,Unarmed,,VINSON ST,,2015
+3884,152041511.0,Wednesday,No,2015-05-20T20:04:00.000,Arrest,"[0, 0]",Point,Arrest,5,ARREST,0,C11,First,No,GIBSON ST,Part three,Unarmed,,,,2015
+134928,152041247.0,Wednesday,No,2015-05-20T01:37:00.000,Arrest,"[-71.056374, 42.350817]",Point,Arrest,5,ARREST,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,776084.0039,EAST ST,2953178.441,2015
+165395,152041273.0,Wednesday,No,2015-05-20T08:20:00.000,Arrest,"[-71.08063, 42.315521]",Point,Arrest,5,CD11,0,B2,Day,No,QUINCY ST,Part three,Other,769590.632,,2940282.974,2015
+231530,152041297.0,Wednesday,No,2015-05-20T09:27:00.000,Arrest,"[-71.075718, 42.319378]",Point,Arrest,5,CD11,0,B2,Day,No,JULIAN ST,Part three,Unarmed,770912.1543,,2941695.0239999997,2015

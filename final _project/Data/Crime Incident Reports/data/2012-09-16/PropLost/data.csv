@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+126177,120622493.0,Sunday,No,2012-09-16T10:30:00.000,PropLost,"[-71.053175, 42.367431]",Point,PropLost,9,LSTPRP,83,A1,Day,No,COMMERCIAL ST,Part Three,Unarmed,776917.0134,,2959237.607,2012
+126436,120600607.0,Sunday,No,2012-09-16T07:00:00.000,PropLost,"[-71.150915, 42.348981]",Point,PropLost,9,INVEST,778,D14,Last,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012
+243819,120615200.0,Sunday,No,2012-09-16T08:00:00.000,PropLost,"[-71.075239, 42.290807]",Point,PropLost,9,MISC  ,438,B3,Day,No,COLONIAL AV,Part Three,Unarmed,771093.358,,2931283.7180000003,2012

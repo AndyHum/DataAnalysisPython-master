@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66724,142017635.0,Saturday,No,2014-08-09T10:50:00.000,FIRE,"[-71.061295, 42.288676]",Point,FIRE,8,FIRE,0,C11,Day,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Unarmed,774870.2865,,2930526.566,2014
+126482,142017682.0,Saturday,No,2014-08-09T13:40:00.000,FIRE,"[-71.129605, 42.284901]",Point,FIRE,8,FIRE,0,E5,Day,No,KITTREDGE ST,Part three,Unarmed,756393.2798,,2929063.227,2014
+131513,142017799.0,Saturday,No,2014-08-09T21:06:00.000,FIRE,"[-71.031875, 42.382581]",Point,FIRE,8,FO,0,A7,First,No,CONDOR ST,Part three,Unarmed,782642.7781,,2964789.4460000005,2014

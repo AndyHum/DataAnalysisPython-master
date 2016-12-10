@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109936,152013587.0,Thursday,No,2015-02-19T17:00:00.000,PersMiss,"[-71.03262, 42.370076]",Point,PersMiss,2,IVPER,0,A7,First,No,COTTAGE ST,Other,Other,782466.4681,,2960231.265,2015
+260659,152016030.0,Thursday,No,2015-02-19T06:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,2,MISSIN,0,E18,Last,No,MAIDA TR,Other,Unarmed,,,,2015
+261910,152013543.0,Thursday,No,2015-02-19T17:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,2,IVPER,0,D4,First,No,HARRISON AV,Other,Unarmed,,,,2015
+266276,152013569.0,Thursday,No,2015-02-19T22:49:00.000,PersMiss,"[0, 0]",Point,PersMiss,2,MISSIN,0,C11,First,No,COLUMBUS AV,Other,Unarmed,,,,2015

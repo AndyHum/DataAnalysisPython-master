@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123366,140330368.0,Tuesday,No,2014-05-27T08:00:00.000,PersLoc,"[-71.0332, 42.375466]",Point,PersLoc,5,MISPER,21,A7,Day,No,MORRIS ST,Other,Unarmed,782298.9865,,2962194.63,2014
+128156,140332484.0,Tuesday,No,2014-05-27T21:00:00.000,PersLoc,"[-71.087612, 42.312512]",Point,PersLoc,5,MISPER,315,B2,First,No,CRAWFORD ST,Other,Unarmed,767707.5761,,2939177.0239999997,2014
+208655,140336883.0,Tuesday,No,2014-05-27T16:30:00.000,PersLoc,"[-71.1371, 42.277196]",Point,PersLoc,5,MISPER,910,E5,First,No,BEECHLAND ST,Other,Unarmed,754377.1418,,2926246.6939999997,2014
+247732,140331745.0,Tuesday,No,2014-05-27T15:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,5,MISPER,446,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014

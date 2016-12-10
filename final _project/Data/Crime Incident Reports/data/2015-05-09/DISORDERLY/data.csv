@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+893,152037876.0,Saturday,No,2015-05-09T01:00:00.000,DISORDERLY,"[0, 0]",Point,24xx,5,DISTRB,0,C11,Last,No,MCKONE ST,Part Two,Unarmed,,,,2015
+76147,152038119.0,Saturday,No,2015-05-09T23:00:00.000,DISORDERLY,"[-71.065955, 42.291082]",Point,24xx,5,DISTRB,0,C11,First,No,MELBOURNE ST,Part Two,Other,773604.8812,,2931396.827,2015
+245882,152038055.0,Saturday,No,2015-05-09T19:27:00.000,DISORDERLY,"[-71.10732, 42.272466]",Point,24xx,5,IVPER,0,B3,First,No,CUMMINS HY,Part Two,Other,762444.2756,,2924558.711,2015

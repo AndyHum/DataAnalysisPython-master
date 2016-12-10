@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52734,142055083.0,Saturday,No,2014-12-06T02:55:00.000,InvProp,"[-71.051665, 42.329316]",Point,InvProp,12,IVPREM,0,C6,Last,No,COLUMBIA RD,Part three,Firearm,777398.0803,,2945349.943,2014
+129438,142055108.0,Saturday,No,2014-12-06T07:01:00.000,InvProp,"[-71.08203, 42.335831]",Point,InvProp,12,SHOTS,0,D4,Last,No,TROTTER CT,Part three,Firearm,769175.7199,KENDALL ST,2947682.4280000003,2014
+162926,142055259.0,Saturday,No,2014-12-06T17:00:00.000,InvProp,"[-71.05448, 42.330801]",Point,InvProp,12,IVPREM,0,C6,First,No,DORCHESTER ST,Part three,Unarmed,776634.0749,MIDDLE ST,2945887.113,2014
+165126,142055956.0,Saturday,No,2014-12-06T15:10:00.000,InvProp,"[-71.05485, 42.379498]",Point,InvProp,12,IVPER,0,A15,Day,No,OLD LANDING WY,Part three,Unarmed,776441.323,,2963632.396,2014
+184047,142055295.0,Saturday,No,2014-12-06T20:20:00.000,InvProp,"[-71.09045, 42.308695]",Point,InvProp,12,IVPREM,0,B2,First,No,SEAVER ST,Part three,Unarmed,766946.5418,,2937782.313,2014
+191275,142055164.0,Saturday,No,2014-12-06T12:06:00.000,InvProp,"[-71.05321, 42.327191]",Point,InvProp,12,LARCEN,0,C6,Day,No,LOGAN WY,Part three,Unarmed,776984.3679,,2944573.365,2014
+205027,142055112.0,Saturday,No,2014-12-06T07:34:00.000,InvProp,"[-71.08729, 42.296661]",Point,InvProp,12,SHOTS,0,B3,Day,No,BLUE HILL AV,Part three,Other,767822.6212,VESTA RD,2933401.3060000003,2014
+212867,142055207.0,Saturday,No,2014-12-06T14:33:00.000,InvProp,"[-71.07856, 42.300671]",Point,InvProp,12,SHOTS,0,B3,Day,No,CARMEN ST,Part three,Unarmed,770177.2220000001,,2934874.159,2014

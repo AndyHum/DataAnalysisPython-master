@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22697,152011444.0,Thursday,No,2015-02-12T09:50:00.000,PropLost,"[-71.03655, 42.339191]",Point,PropLost,2,LARCEN,0,C6,Day,No,ELKINS ST,Part three,Unarmed,781465.6335,,2948970.4060000004,2015
+83680,152011732.0,Thursday,No,2015-02-12T16:00:00.000,PropLost,"[-71.056215, 42.295342]",Point,PropLost,2,PROP,0,C11,First,No,ADAMS ST,Part three,Unarmed,776231.9537,,2932962.626,2015
+212367,152011472.0,Thursday,No,2015-02-12T01:00:00.000,PropLost,"[-71.1002, 42.268416]",Point,PropLost,2,FIGHT,0,E18,Last,No,FAIRLAWN AV,Part three,Unarmed,764378.1779,,2923091.789,2015
+230044,152011817.0,Thursday,No,2015-02-12T22:00:00.000,PropLost,"[-71.059683, 42.29651]",Point,PropLost,2,PROP,0,C11,First,No,PARKMAN ST,Part three,Unarmed,775291.6849,,2933383.425,2015

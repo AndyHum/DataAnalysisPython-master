@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61044,152006342.0,Friday,No,2015-01-23T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,1,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+63128,152006314.0,Friday,No,2015-01-23T15:54:00.000,InvProp,"[-71.06465, 42.352016]",Point,InvProp,1,IVPER,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773844.7032,,2953604.043,2015
+239426,152006143.0,Friday,No,2015-01-23T00:56:00.000,InvProp,"[-71.06543, 42.348736]",Point,InvProp,1,IVPER,0,A1,Last,No,TREMONT ST,Part three,Unarmed,773639.9559,,2952407.6739999996,2015
+267449,152006168.0,Friday,No,2015-01-23T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

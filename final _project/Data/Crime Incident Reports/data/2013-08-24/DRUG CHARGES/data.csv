@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40912,130534909.0,Saturday,No,2013-08-24T13:30:00.000,DRUG CHARGES,"[-71.08462, 42.306091]",Point,18xx,8,ARREST,319,B2,Day,No,BLUE HILL AV,Part Two,Unarmed,768528.2305,NAZING ST,2936841.249,2013
+109270,130535874.0,Saturday,No,2013-08-24T21:49:00.000,DRUG CHARGES,"[-71.08354, 42.314751]",Point,18xx,8,ARREST,313,B2,First,No,WARREN ST,Part Two,Unarmed,768804.9621,WYOMING ST,2939998.5160000003,2013
+223242,130535054.0,Saturday,No,2013-08-24T14:15:00.000,DRUG CHARGES,"[-71.08523, 42.302841]",Point,18xx,8,ARREST,458,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,768368.9836,ELLINGTON ST,2935656.095,2013

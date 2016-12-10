@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6685,140069537.0,Monday,No,2014-02-03T10:46:00.000,InvProp,"[-71.058148, 42.366585]",Point,InvProp,2,FIREB ,79,A1,Day,No,ENDICOTT ST,Part three,Unarmed,775574.6056,,2958922.0930000003,2014
+78287,140069044.0,Monday,No,2014-02-03T03:37:00.000,InvProp,"[-71.111625, 42.308696]",Point,InvProp,2,SHOTS ,647,E13,Last,No,ELM ST,Part three,Other,761219.0343,,2937756.137,2014
+198094,140070160.0,Monday,No,2014-02-03T15:43:00.000,InvProp,"[-71.03186, 42.381966]",Point,InvProp,2,REQP  ,16,A7,Day,No,FALCON ST,Part three,Unarmed,782648.0606,,2964565.349,2014

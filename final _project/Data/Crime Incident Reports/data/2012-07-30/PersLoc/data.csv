@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21518,120473504.0,Monday,No,2012-07-30T11:00:00.000,PersLoc,"[-71.143891, 42.345952]",Point,PersLoc,7,MISPER,938,D14,Day,No,FIDELIS WY,Part Three,Unarmed,752434.4823,,2951294.5710000005,2012
+102814,120472236.0,Monday,No,2012-07-30T09:05:00.000,PersLoc,"[-71.10766, 42.335096]",Point,PersLoc,7,MISPER,611,B2,Day,No,FENWOOD RD,Part Three,Unarmed,762247.2746,,2947381.665,2012
+135868,120470628.0,Monday,No,2012-07-30T15:00:00.000,PersLoc,"[-71.07036, 42.288136]",Point,PersLoc,7,MISPER,398,C11,Day,No,WELLES AV,Part Three,Unarmed,772418.5233,,2930317.29,2012

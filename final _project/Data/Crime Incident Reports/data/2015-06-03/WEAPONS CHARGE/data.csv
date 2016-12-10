@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2442,152046010.0,Wednesday,No,2015-06-03T23:21:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,6,IVPER,0,B2,First,No,BLUE HILL AV,Part Two,Firearm,,,,2015
+5341,152045735.0,Wednesday,No,2015-06-03T01:55:00.000,WEAPONS CHARGE,"[-71.027055, 42.379981]",Point,15xx,6,ARREST,0,A7,Last,No,CHELSEA ST,Part Two,Knife,783950.2644,,2963849.1319999998,2015
+49791,152045936.0,Wednesday,No,2015-06-03T17:45:00.000,WEAPONS CHARGE,"[-71.07463, 42.335321]",Point,15xx,6,ARREST,0,D4,First,No,HARRISON AV,Part Two,Unarmed,771177.4087,,2947506.466,2015
+143523,152046004.0,Wednesday,No,2015-06-03T22:25:00.000,WEAPONS CHARGE,"[-71.078394, 42.32898]",Point,15xx,6,IVPER,0,B2,First,No,EUSTIS ST,Part Two,Knife,770171.0377,,2945190.659,2015

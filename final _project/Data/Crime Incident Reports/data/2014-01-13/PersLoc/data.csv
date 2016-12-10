@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49444,140026943.0,Monday,No,2014-01-13T07:25:00.000,PersLoc,"[-71.058845, 42.292711]",Point,PersLoc,1,MISPER,365,C11,Last,No,KING ST,Other,Unarmed,775525.5926,,2932000.3910000003,2014
+91257,140025638.0,Monday,No,2014-01-13T16:30:00.000,PersLoc,"[-71.03386, 42.379111]",Point,PersLoc,1,MSNCOM,824,A7,First,No,LEXINGTON ST,Other,Unarmed,782113.3934,,2963521.9669999997,2014
+93311,140026222.0,Monday,No,2014-01-13T23:00:00.000,PersLoc,"[-71.08864, 42.286466]",Point,PersLoc,1,MISPER,430,B3,First,No,LUCERNE ST,Other,Other,767475.3082,,2929684.333,2014
+98383,140024512.0,Monday,No,2014-01-13T07:45:00.000,PersLoc,"[-71.06543, 42.348736]",Point,PersLoc,1,MSNCOM,127,A1,Day,No,TREMONT ST,Other,Unarmed,773639.9559,,2952407.6739999996,2014
+142251,140028163.0,Monday,No,2014-01-13T23:00:00.000,PersLoc,"[-71.119115, 42.271606]",Point,PersLoc,1,MISPER,498,E18,First,No,CLARE AV,Other,Unarmed,759253.4211,,2924230.8389999997,2014
+189936,140025956.0,Monday,No,2014-01-13T06:50:00.000,PersLoc,"[-71.064089, 42.309113]",Point,PersLoc,1,MISPER,334,C11,Last,No,BOWDOIN ST,Other,Unarmed,774076.1526,,2937969.9289999995,2014

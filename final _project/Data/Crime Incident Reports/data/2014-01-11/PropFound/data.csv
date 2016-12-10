@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22469,140022178.0,Saturday,No,2014-01-11T22:00:00.000,PropFound,"[-71.077545, 42.343976]",Point,PropFound,1,FDPROP,149,D4,First,No,COLUMBUS AV,Part three,Unarmed,770373.6426,,2950656.5889999997,2014
+167417,140021371.0,Saturday,No,2014-01-11T14:23:00.000,PropFound,"[-71.08414, 42.345481]",Point,PropFound,1,FDPROP,144,D4,Day,No,DALTON ST,Part three,Unarmed,768588.0864,ST GERMAIN ST,2951196.277,2014
+181376,140022260.0,Saturday,No,2014-01-11T23:15:00.000,PropFound,"[-71.088916, 42.342401]",Point,PropFound,1,FDPROP,618,D4,First,No,GAINSBOROUGH ST,Part three,Other,767302.2579999999,,2950067.662,2014
+242155,140023116.0,Saturday,No,2014-01-11T14:00:00.000,PropFound,"[-71.09465, 42.321646]",Point,PropFound,1,FDPROP,304,B2,Day,No,MARCELLA ST,Part three,Unarmed,765788.1718,,2942496.6960000005,2014
+246819,140020935.0,Saturday,No,2014-01-11T09:30:00.000,PropFound,"[-71.06424, 42.351631]",Point,PropFound,1,FDWEAP,117,A1,Day,No,TAMWORTH ST,Part three,Firearm,773956.2440000001,LAGRANGE ST,2953464.307,2014

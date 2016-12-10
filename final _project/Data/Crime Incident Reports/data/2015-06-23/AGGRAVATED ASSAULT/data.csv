@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133303,,Tuesday,No,2015-06-23T14:11:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,SP,904,B2,,No,,Part One,Firearm,,,,2015
+160629,,Tuesday,No,2015-06-23T16:21:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,ARREST,602,B2,,No,LONGWOOD AVE,Part One,Personal Weapon (hand  foot  etc.),,,,2015
+180683,,Tuesday,No,2015-06-23T00:00:00.000,Aggravated Assault,"[-71.064028, 42.298186]",Point,04xx,6,ARREST,358,C11,,No,MARLOWE ST,Part One,Knife/Cutting Instrument,774113.0,,2930000.0,2015
+251628,,Tuesday,No,2015-06-23T00:00:00.000,Aggravated Assault,"[-71.086856, 42.284798]",Point,04xx,6,NIDV,429,B3,,No,MARDEN AVE,Part One,Other,767961.0,,2930000.0,2015
+253443,,Tuesday,No,2015-06-23T00:00:00.000,Aggravated Assault,"[-71.076967, 42.31369]",Point,04xx,6,FIGHT,326,B2,,No,QUINCY ST,Part One,Blunt Object,770584.0,,2940000.0,2015

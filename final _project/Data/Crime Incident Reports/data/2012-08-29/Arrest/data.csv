@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20000,120538794.0,Wednesday,No,2012-08-29T11:02:00.000,Arrest,"[-71.05354, 42.353651]",Point,Arrest,8,ARREST,115,A1,Day,No,ATLANTIC AV,Part Three,Other,776844.6613,CONGRESS ST,2954215.39,2012
+196912,120538662.0,Wednesday,No,2012-08-29T09:47:00.000,Arrest,"[-71.07351, 42.333491]",Point,Arrest,8,ARREST,179,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,771483.5641,ALBANY ST,2946841.0930000003,2012

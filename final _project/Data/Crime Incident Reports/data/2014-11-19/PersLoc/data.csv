@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36223,142050535.0,Wednesday,No,2014-11-19T15:00:00.000,PersLoc,"[-71.073835, 42.314251]",Point,PersLoc,11,IVPER,0,B2,Day,No,CUNNINGHAM ST,Other,Unarmed,771430.7205,,2939829.275,2014
+44262,142050545.0,Wednesday,No,2014-11-19T22:50:00.000,PersLoc,"[-71.06683, 42.307751]",Point,PersLoc,11,IVPER,0,C11,First,No,COLEMAN ST,Other,Unarmed,773337.3565,,2937470.117,2014
+81651,142050319.0,Wednesday,No,2014-11-19T08:31:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,11,IVPER,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+176528,142050528.0,Wednesday,No,2014-11-19T21:33:00.000,PersLoc,"[-71.080535, 42.312126]",Point,PersLoc,11,IVPER,0,B2,First,No,BLUE HILL AV,Other,Unarmed,769622.4088,,2939045.9069999997,2014
+184643,142050616.0,Wednesday,No,2014-11-19T07:00:00.000,PersLoc,"[-71.03205, 42.374781]",Point,PersLoc,11,IVPER,0,A7,Last,No,BREMEN ST,Other,Unarmed,782611.0899,,2961946.705,2014
+213923,142050503.0,Wednesday,No,2014-11-19T05:30:00.000,PersLoc,"[-71.070658, 42.318428]",Point,PersLoc,11,IVPER,0,B2,Last,No,WOODFORD ST,Other,Unarmed,772282.104,,2941355.586,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7033,142058008.0,Tuesday,No,2014-12-16T11:30:00.000,PropLost,"[-71.05568, 42.358996]",Point,PropLost,12,ADMRPT,0,A1,Day,No,STATE ST,Part three,Unarmed,776256.079,,2956160.191,2014
+17113,142058297.0,Tuesday,No,2014-12-16T09:00:00.000,PropLost,"[-71.15578, 42.264688]",Point,PropLost,12,LARCEN,0,E5,Day,No,ROCKINGHAM AV,Part three,Unarmed,749340.247,,2921667.5330000003,2014
+36632,142058325.0,Tuesday,No,2014-12-16T18:00:00.000,PropLost,"[-71.134, 42.353211]",Point,PropLost,12,PROP,0,D14,First,No,BRIGHTON AV,Part three,Unarmed,755097.2133,QUINT AV,2953951.4680000003,2014
+87314,142058259.0,Tuesday,No,2014-12-16T14:00:00.000,PropLost,"[-71.084435, 42.329551]",Point,PropLost,12,PROP,0,B2,Day,No,ZEIGLER ST,Part three,Unarmed,768536.6203,,2945390.708,2014
+123082,142058383.0,Tuesday,No,2014-12-16T17:15:00.000,PropLost,"[-71.08921, 42.346891]",Point,PropLost,12,PROP,0,D4,First,No,HEMENWAY ST,Part three,Unarmed,767215.0266,BOYLSTON ST,2951703.466,2014
+184313,142058300.0,Tuesday,No,2014-12-16T20:00:00.000,PropLost,"[-71.118275, 42.290646]",Point,PropLost,12,PROP,0,E13,First,No,CARLFORD RD,Part three,Unarmed,759449.714,,2931170.309,2014
+243777,142058314.0,Tuesday,No,2014-12-16T20:00:00.000,PropLost,"[-71.132, 42.355831]",Point,PropLost,12,PROP,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,755633.6937,,2954908.5760000004,2014
+262789,152009815.0,Tuesday,No,2014-12-16T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,12,PROP,0,B2,First,No,HEMENWAY ST,Part three,Unarmed,,,,2014

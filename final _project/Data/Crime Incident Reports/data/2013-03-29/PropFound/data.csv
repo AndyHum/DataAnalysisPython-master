@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23492,130183185.0,Friday,No,2013-03-29T00:01:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,3,FDPROP,0,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+75519,130184905.0,Friday,No,2013-03-29T18:03:00.000,PropFound,"[-71.052015, 42.339541]",Point,PropFound,3,FDPROP,201,C6,First,No,W BROADWAY,Part Three,Unarmed,777283.8706,,2949075.6119999997,2013
+86412,130186395.0,Friday,No,2013-03-29T20:10:00.000,PropFound,"[-71.06122, 42.365521]",Point,PropFound,3,IVPREM,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2013
+204852,130185131.0,Friday,No,2013-03-29T19:30:00.000,PropFound,"[-71.158704, 42.339703]",Point,PropFound,3,FDPROP,28,D14,First,No,COMMONWEALTH AV,Part Three,Unarmed,748439.3511,,2949001.019,2013
+263911,130184826.0,Friday,No,2013-03-29T17:10:00.000,PropFound,"[0, 0]",Point,PropFound,3,FDPROP,35,A7,First,No,BREMEN ST,Part Three,Unarmed,,VISCONTI RD,,2013

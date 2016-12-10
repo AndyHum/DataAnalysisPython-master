@@ -1,0 +1,17 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5827,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.061986, 42.326966]",Point,MVAcc,8,MVA,186,C6,,No,ALLSTATE RD,Part Three,None,774612.0,,2940000.0,2015
+14580,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.010126, 42.395105]",Point,MVAcc,8,MVA,2,A7,,No,WILLIAM F MCCLELLAN HWY,Part Three,None,788492.0,,2970000.0,2015
+45361,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.083956, 42.34342]",Point,MVAcc,8,MVA,145,D4,,No,HUNTINGTON AVE,Part Three,None,768641.0,,2950000.0,2015
+47404,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.032227, 42.332353]",Point,MVAcc,8,IVMV,231,C6,,No,E SEVENTH ST,Part Three,None,782648.0,,2950000.0,2015
+63095,,Sunday,No,2015-08-09T08:06:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,CD19,76,A1,,No,ANTHONY RIP VALENTI WAY,Part Three,None,,CANAL ST,,2015
+81182,,Sunday,No,2015-08-09T02:04:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,398,C11,,No,TALBOT AVE,Part Three,None,,WASHINGTON ST,,2015
+97814,,Sunday,No,2015-08-09T07:00:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,307,E13,,No,COLUMBUS AVE,Part Three,None,, WASHINGTON ST ,,2015
+100068,,Sunday,No,2015-08-09T15:45:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,0,,,No,ARLINGTON ST,Part Three,None,,,,2015
+111989,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.081974, 42.311753]",Point,MVAcc,8,MVA,321,B2,,No,BRUNSWICK ST,Part Three,None,769234.0,,2940000.0,2015
+150975,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.041551, 42.369674]",Point,MVAcc,8,MVA,907,A7,,No,SUMNER ST,Part Three,None,780054.0,,2960000.0,2015
+167998,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.078195, 42.289773]",Point,MVAcc,8,MVA,438,B3,,No,NEW ENGLAND AVE,Part Three,None,770295.0,,2930000.0,2015
+193997,,Sunday,No,2015-08-09T02:57:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,0,,,No,CHARTER ST,Part Three,None,,,,2015
+198715,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.056618, 42.294437]",Point,MVAcc,8,MVA,364,C11,,No,ADAMS ST,Part Three,None,776125.0,,2930000.0,2015
+205008,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.029173, 42.364298]",Point,MVAcc,8,MVA,33,A7,,No,SUMNER ST,Part Three,None,783410.0,,2960000.0,2015
+222978,,Sunday,No,2015-08-09T03:17:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,0,,,No,,Part Three,None,,HARVARD ST,,2015
+247267,,Sunday,No,2015-08-09T00:00:00.000,Motor Vehicle Accident Response,"[-71.084577, 42.28539]",Point,MVAcc,8,MVA,432,B3,,No,MASCOT ST,Part Three,None,768576.0,,2930000.0,2015

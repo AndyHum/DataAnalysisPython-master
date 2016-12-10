@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32433,130761398.0,Monday,No,2013-12-02T22:04:00.000,InvProp,"[-71.05862, 42.295126]",Point,InvProp,12,SHOTS ,364,C11,First,No,LESLIE ST,Part three,Unarmed,775581.9166,,2932880.7630000003,2013
+51951,130760448.0,Monday,No,2013-12-02T09:15:00.000,InvProp,"[-71.049384, 42.330326]",Point,InvProp,12,BERPT ,915,C6,Day,No,COLUMBIA RD,Part three,Unarmed,778012.8107,,2945721.11,2013
+85983,130760152.0,Monday,No,2013-12-02T12:56:00.000,InvProp,"[-71.07251, 42.352266]",Point,InvProp,12,ALARMC,133,D4,Day,No,NEWBURY ST,Part three,Unarmed,771719.655,,2953684.403,2013
+146170,130759406.0,Monday,No,2013-12-02T02:45:00.000,InvProp,"[-71.09046, 42.330191]",Point,InvProp,12,ALARMC,290,B2,Last,No,ROXBURY ST,Part three,Unarmed,766906.3382,,2945616.055,2013

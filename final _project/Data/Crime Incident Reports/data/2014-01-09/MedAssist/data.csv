@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13045,140016787.0,Thursday,No,2014-01-09T11:23:00.000,MedAssist,"[-71.109578, 42.33124]",Point,MedAssist,1,EDP2  ,606,B2,Day,No,PARKER HILL AV,Part three,Knife,761735.1202,,2945973.8210000005,2014
+68203,140016256.0,Thursday,No,2014-01-09T06:00:00.000,MedAssist,"[-71.11655, 42.258881]",Point,MedAssist,1,UNCONS,494,E18,Last,No,DAVISON ST,Part three,Unarmed,759968.479,,2919596.789,2014
+90862,140016167.0,Thursday,No,2014-01-09T02:42:00.000,MedAssist,"[-71.108069, 42.262807]",Point,MedAssist,1,IVPER ,488,E18,Last,No,RIVER ST,Part three,Unarmed,762257.6749,,2921037.8660000004,2014
+163513,140016480.0,Thursday,No,2014-01-09T08:35:00.000,MedAssist,"[-71.06563, 42.307516]",Point,MedAssist,1,EDP2  ,336,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773662.3883,,2937386.1289999997,2014
+195419,140018000.0,Thursday,No,2014-01-09T21:58:00.000,MedAssist,"[-71.0539, 42.360761]",Point,MedAssist,1,OVRDOS,91,A1,First,No,CLINTON ST,Part three,Other,776733.8031,,2956805.902,2014
+231068,140016873.0,Thursday,No,2014-01-09T12:09:00.000,MedAssist,"[-71.080301, 42.292654]",Point,MedAssist,1,EDP2  ,439,B3,Day,No,TALBOT AV,Part three,Unarmed,769720.5959999999,,2931950.291,2014
+241986,140017420.0,Thursday,No,2014-01-09T16:30:00.000,MedAssist,"[-71.111854, 42.299036]",Point,MedAssist,1,ALARMI,510,E13,First,No,TOWER ST,Part three,Unarmed,761172.9759,,2934235.5889999997,2014
+247135,140017134.0,Thursday,No,2014-01-09T12:30:00.000,MedAssist,"[-71.150915, 42.348981]",Point,MedAssist,1,INJOFF,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+263855,140017910.0,Thursday,No,2014-01-09T16:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,INJOFF,28,A7,First,No,AIRPORT RD,Part three,Unarmed,,,,2014

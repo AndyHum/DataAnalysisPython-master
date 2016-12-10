@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18745,,Thursday,No,2015-06-25T00:00:00.000,Missing Person Reported,"[-71.155258, 42.355064]",Point,PersMiss,6,IVPER,769,D14,,No,NILES ST,Part Three,None,749348.0,,2950000.0,2015
+54505,,Thursday,No,2015-06-25T00:00:00.000,Missing Person Reported,"[-71.072534, 42.297453]",Point,PersMiss,6,I00027,357,C11,,No,WASHINGTON ST,Part Three,None,771813.0,,2930000.0,2015
+104210,,Thursday,No,2015-06-25T00:00:00.000,Missing Person Reported,"[-71.086611, 42.281996]",Point,PersMiss,6,IVPER,429,B3,,No,NORFOLK ST,Part Three,None,768032.0,,2930000.0,2015

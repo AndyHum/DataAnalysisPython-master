@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68758,142027314.0,Monday,No,2014-09-08T03:46:00.000,FIRE,"[-71.11102, 42.32948]",Point,FIRE,9,FIRE,0,E13,Last,No,S HUNTINGTON AV,Part three,Other,761347.9313,,2945330.7410000004,2014
+127029,142027621.0,Monday,No,2014-09-08T10:25:00.000,FIRE,"[-71.098085, 42.342541]",Point,FIRE,9,FIRE,0,D4,Day,No,QUEENSBERRY ST,Part three,Unarmed,764823.3476,,2950106.816,2014
+138520,142027298.0,Monday,No,2014-09-08T01:53:00.000,FIRE,"[-71.04139, 42.330941]",Point,FIRE,9,FIRE,0,C6,Last,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2014

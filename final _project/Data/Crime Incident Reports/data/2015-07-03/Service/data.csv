@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140254,,Friday,No,2015-07-03T09:39:00.000,Police Service Incidents,"[0, 0]",Point,Service,7,ARREST,111,A1,,No,WASHINGTON ST,Part Three,None,,,,2015
+243963,,Friday,No,2015-07-03T00:00:00.000,Police Service Incidents,"[-71.073067, 42.294354]",Point,Service,7,ARREST,451,B3,,No,W TREMLETT ST,Part Three,None,771675.0,,2930000.0,2015

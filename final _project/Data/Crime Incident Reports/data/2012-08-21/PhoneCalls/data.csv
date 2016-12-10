@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84304,120521217.0,Tuesday,No,2012-08-21T15:50:00.000,PhoneCalls,"[-71.044005, 42.286401]",Point,PhoneCalls,8,THREAT,375,C11,Day,No,NEPONSET AV,Part Three,Unarmed,779552.9562,,2929722.0530000003,2012
+172659,120521097.0,Tuesday,No,2012-08-21T14:30:00.000,PhoneCalls,"[-71.07791, 42.313396]",Point,PhoneCalls,8,IVPER ,326,B2,Day,No,FAYSTON ST,Part Three,Unarmed,770330.1184,,2939512.22,2012
+235950,120520625.0,Tuesday,No,2012-08-21T20:15:00.000,PhoneCalls,"[-71.151189, 42.339118]",Point,PhoneCalls,8,HARPT ,789,D14,First,No,STRATHMORE RD,Part Three,Unarmed,750471.9337,,2948795.9439999997,2012
+248416,120521539.0,Tuesday,No,2012-08-21T14:37:00.000,PhoneCalls,"[-71.13835, 42.355861]",Point,PhoneCalls,8,HARPT ,803,D14,Day,No,EVERETT ST,Part Two,Unarmed,753917.313,,2954912.168,2012

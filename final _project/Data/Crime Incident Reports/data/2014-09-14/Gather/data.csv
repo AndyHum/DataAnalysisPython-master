@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42029,142029258.0,Sunday,No,2014-09-14T02:02:00.000,Gather,"[-71.099695, 42.330611]",Point,Gather,9,DISTRB,0,B2,Last,No,ALLEGHANY ST,Part three,Unarmed,764408.5,,2945757.258,2014
+79222,142029259.0,Sunday,No,2014-09-14T00:30:00.000,Gather,"[-71.099725, 42.328071]",Point,Gather,9,DISTRB,0,B2,Last,No,PARKER HILL AV,Part three,Unarmed,764404.729,,2944831.5960000004,2014
+100688,142029265.0,Sunday,No,2014-09-14T02:30:00.000,Gather,"[-71.057255, 42.378436]",Point,Gather,9,DISTRB,0,A15,Last,No,WALFORD WY,Part three,Unarmed,775793.6252,,2963242.3039999995,2014

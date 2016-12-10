@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53673,130446967.0,Friday,No,2013-07-19T05:15:00.000,FIRE,"[-71.09366, 42.327071]",Point,FIRE,7,FV    ,301,B2,Last,No,CEDAR PARK,Part three,Other,766046.4825,CEDAR ST,2944474.933,2013
+230167,130447494.0,Friday,No,2013-07-19T11:10:00.000,FIRE,"[-71.05539, 42.338296]",Point,FIRE,7,FIREB ,936,C6,Day,No,ORTON MAROTTA WY,Part three,Other,776373.7815,,2948617.1380000003,2013
+251198,130448928.0,Friday,No,2013-07-19T21:30:00.000,FIRE,"[-71.08699, 42.327751]",Point,FIRE,7,FIREB ,282,B2,First,No,BARTLETT ST,Part three,Other,767848.9239,WASHINGTON ST,2944731.4,2013

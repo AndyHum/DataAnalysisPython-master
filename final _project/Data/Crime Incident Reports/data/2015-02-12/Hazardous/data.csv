@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+173816,152011513.0,Thursday,No,2015-02-12T14:30:00.000,Hazardous,"[-71.078575, 42.287381]",Point,Hazardous,2,IVPREM,0,B3,Day,No,NORFOLK ST,Other,Other,770197.0921,,2930031.067,2015
+265762,152011626.0,Thursday,No,2015-02-12T16:59:00.000,Hazardous,"[0, 0]",Point,Hazardous,2,IVMV,0,B2,First,No,PARKER ST,Other,Unarmed,,SMITH ST,,2015

@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37539,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.093803, 42.269947]",Point,14xx,7,VAND,476,B3,,No,BLUE HILL AVE,Part Two,None,766107.0,,2920000.0,2015
+42951,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.096236, 42.349006]",Point,14xx,7,IVMV,622,D4,,No,BEACON ST,Part Two,None,765312.0,,2950000.0,2015
+45920,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.108963, 42.331995]",Point,14xx,7,PROP,605,B2,,No,HILLSIDE ST,Part Two,None,761900.0,,2950000.0,2015
+60963,,Saturday,No,2015-07-11T17:34:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,120,A1,,No,ARLINGTON ST,Part Two,None,,BOYLSTON ST,,2015
+77558,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.108896, 42.32227]",Point,14xx,7,VAND,582,E13,,No,CENTRE ST,Part Two,None,761934.0,,2940000.0,2015
+80381,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.052481, 42.325574]",Point,14xx,7,DISTRB,914,C6,,No,OLD COLONY AVE,Part Two,None,777184.0,,2940000.0,2015
+105436,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.065879, 42.283688]",Point,14xx,7,PROP,402,C11,,No,FULLER ST,Part Two,None,773639.0,,2930000.0,2015
+109262,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.056764, 42.297606]",Point,14xx,7,VAND,355,C11,,No,ADAMS ST,Part Two,None,776079.0,,2930000.0,2015
+129296,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.017463, 42.384922]",Point,14xx,7,VAND,14,A7,,No,WORDSWORTH ST,Part Two,None,786531.0,,2970000.0,2015
+144989,,Saturday,No,2015-07-11T20:44:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,622,D4,,No,BAY STATE RD,Part Two,None,,,,2015
+151494,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.160303, 42.278209]",Point,14xx,7,VAND,720,E5,,No,CENTRE ST,Part Two,None,748096.0,,2930000.0,2015
+178517,,Saturday,No,2015-07-11T12:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,33,A7,,No,GENEVA ST,Part Two,None,,MAVERICK ST,,2015
+207984,,Saturday,No,2015-07-11T02:07:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,29,A7,,No,BREMEN ST,Part Two,None,,,,2015
+215939,,Saturday,No,2015-07-11T03:30:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,770,D14,,No,BENNETT ST,Part Two,None,,PARSONS ST,,2015
+221807,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.103225, 42.331348]",Point,14xx,7,DISTRB,604,B2,,No,CALUMET ST,Part Two,None,763453.0,,2950000.0,2015
+221815,,Saturday,No,2015-07-11T00:00:00.000,Vandalism,"[-71.08926, 42.290561]",Point,14xx,7,VAND,439,B3,,No,BLUE HILL AVE,Part Two,None,767300.0,,2930000.0,2015
+240119,,Saturday,No,2015-07-11T22:53:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,503,E18,,No,AMERICAN LEGION HWY,Part Two,None,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9549,130251886.0,Monday,No,2013-04-29T11:03:00.000,Service,"[-71.059295, 42.356476]",Point,Service,4,ARREST,104,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,775283.7829999999,,2955236.785,2013
+44339,130253197.0,Monday,No,2013-04-29T21:24:00.000,Service,"[-71.028155, 42.334051]",Point,Service,4,ARREST,232,C6,First,No,E 5TH ST,Part Three,Unarmed,783745.6532,,2947109.747,2013
+65346,130251637.0,Monday,No,2013-04-29T08:53:00.000,Service,"[-71.134106, 42.349002]",Point,Service,4,IVPER ,794,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,755074.9875,,2952417.195,2013
+250523,130253445.0,Monday,No,2013-04-29T23:30:00.000,Service,"[-71.05697, 42.329501]",Point,Service,4,IVPER ,191,C6,First,No,DORCHESTER AV,Part three,Unarmed,775963.2534,SOUTHAMPTON ST,2945409.8639999996,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44855,130313286.0,Monday,No,2013-05-20T01:00:00.000,PersMiss,"[-71.070938, 42.304692]",Point,PersMiss,5,MISPER,336,C11,Last,No,BLAKEVILLE ST,Part Three,Unarmed,772231.7517,,2936349.582,2013
+176707,130300358.0,Monday,No,2013-05-20T12:20:00.000,PersMiss,"[-71.07369, 42.323521]",Point,PersMiss,5,MISPER,263,B2,Day,No,DUDLEY ST,Part Three,Unarmed,771453.0538,,2943207.611,2013
+244150,130301748.0,Monday,No,2013-05-20T14:45:00.000,PersMiss,"[-71.08273, 42.309391]",Point,PersMiss,5,MISPER,321,B2,Day,No,BLUE HILL AV,Other,Unarmed,769033.5933,WARREN ST,2938046.317,2013

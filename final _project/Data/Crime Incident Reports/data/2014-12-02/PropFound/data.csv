@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+201875,142053973.0,Tuesday,No,2014-12-02T11:50:00.000,PropFound,"[-71.07772, 42.350841]",Point,PropFound,12,PROP,0,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,770313.9482,NEWBURY ST,2953158.0889999997,2014
+238951,142054005.0,Tuesday,No,2014-12-02T14:28:00.000,PropFound,"[-71.08565, 42.348741]",Point,PropFound,12,PROP,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,768174.1128,HEREFORD ST,2952382.296,2014
+248931,142054281.0,Tuesday,No,2014-12-02T18:30:00.000,PropFound,"[-71.10328, 42.347131]",Point,PropFound,12,IVPREM,0,D4,First,No,ARUNDEL ST,Part three,Other,763411.1271,BEACON ST,2951772.923,2014

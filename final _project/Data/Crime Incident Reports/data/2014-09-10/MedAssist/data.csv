@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19587,142028061.0,Wednesday,No,2014-09-10T12:50:00.000,MedAssist,"[-71.13644, 42.360521]",Point,MedAssist,9,IVPER,0,D14,Day,No,EVERETT ST,Part three,Unarmed,754426.327,,2956612.564,2014
+23178,142028171.0,Wednesday,No,2014-09-10T17:30:00.000,MedAssist,"[-71.036425, 42.378896]",Point,MedAssist,9,UNCONS,0,A7,First,No,TRENTON ST,Part three,Other,781420.7872,,2963439.84,2014
+51644,142028019.0,Wednesday,No,2014-09-10T10:06:00.000,MedAssist,"[-71.041495, 42.333621]",Point,MedAssist,9,UNCONS,0,C6,Day,No,H ST,Part three,Unarmed,780139.6227,,2946933.375,2014
+112113,142028151.0,Wednesday,No,2014-09-10T17:13:00.000,MedAssist,"[-71.059987, 42.361648]",Point,MedAssist,9,ASSTPO,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+116150,142027973.0,Wednesday,No,2014-09-10T06:36:00.000,MedAssist,"[-71.098285, 42.318936]",Point,MedAssist,9,REQP,0,E13,Last,No,COLUMBUS AV,Part three,Unarmed,764809.7928,,2941504.474,2014
+125689,142027979.0,Wednesday,No,2014-09-10T07:45:00.000,MedAssist,"[-71.123165, 42.255916]",Point,MedAssist,9,UNKEMS,0,E18,Day,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2014
+131222,142028136.0,Wednesday,No,2014-09-10T08:40:00.000,MedAssist,"[-71.118035, 42.265101]",Point,MedAssist,9,IVPER,0,E18,Day,No,METROPOLITAN AV,Part three,Unarmed,759556.3368,,2921861.6360000004,2014
+163595,142027965.0,Wednesday,No,2014-09-10T02:32:00.000,MedAssist,"[-71.077999, 42.306128]",Point,MedAssist,9,EDP,0,C11,Last,No,COLUMBIA RD,Part three,Unarmed,770319.0636,,2936863.43,2014
+169255,142027960.0,Wednesday,No,2014-09-10T01:19:00.000,MedAssist,"[-71.054495, 42.321335]",Point,MedAssist,9,IVPREM,0,C11,Last,No,COLUMBIA RD,Part three,Unarmed,776647.8177,,2942437.512,2014
+224034,142028258.0,Wednesday,No,2014-09-10T22:31:00.000,MedAssist,"[-71.069566, 42.309423]",Point,MedAssist,9,EDP,0,C11,First,No,STANLEY ST,Part three,Unarmed,772593.9846,,2938075.523,2014
+242254,142028048.0,Wednesday,No,2014-09-10T11:29:00.000,MedAssist,"[-71.11548, 42.285849]",Point,MedAssist,9,NIDV,0,E18,Day,No,CHARME AV,Part three,Unarmed,760213.7288,,2929425.547,2014
+250174,142028240.0,Wednesday,No,2014-09-10T18:48:00.000,MedAssist,"[-71.06212, 42.301953]",Point,MedAssist,9,FIGHT,0,C11,First,No,CORWIN ST,Part three,Unarmed,774622.1052,,2935363.728,2014
+265009,142028289.0,Wednesday,No,2014-09-10T21:18:00.000,MedAssist,"[0, 0]",Point,MedAssist,9,INJOFF,0,A1,First,No,SUDBURY ST,Part three,Unarmed,,,,2014

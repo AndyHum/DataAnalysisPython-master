@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53546,142009408.0,Wednesday,No,2014-07-09T04:30:00.000,32GUN,"[-71.06939, 42.339506]",Point,32GUN,7,BUYBAC,0,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+58568,142007677.0,Wednesday,No,2014-07-09T19:09:00.000,32GUN,"[-71.07564, 42.294871]",Point,32GUN,7,CD9,0,B3,First,No,PARK ST,Part three,Unarmed,770977.6665,WHITFIELD ST,2932764.4689999996,2014
+112419,142009398.0,Wednesday,No,2014-07-09T04:30:00.000,32GUN,"[-71.06939, 42.339506]",Point,32GUN,7,BUYBAC,0,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+152780,142007614.0,Wednesday,No,2014-07-09T16:30:00.000,32GUN,"[-71.06939, 42.339506]",Point,32GUN,7,FDWEAP,0,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014

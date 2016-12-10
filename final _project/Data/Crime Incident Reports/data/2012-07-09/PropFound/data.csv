@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64387,120523238.0,Monday,No,2012-07-09T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,7,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+89862,120422886.0,Monday,No,2012-07-09T21:10:00.000,PropFound,"[-71.12876, 42.254211]",Point,PropFound,7,FDPROP,543,E18,First,No,CLEVELAND ST,Part Three,Unarmed,756670.6070000001,RIVER ST,2917880.358,2012
+215171,120421012.0,Monday,No,2012-07-09T01:40:00.000,PropFound,"[-71.06521, 42.349691]",Point,PropFound,7,FDPROP,121,A1,Last,No,TREMONT ST,Part Three,Other,773697.6517,,2952755.997,2012
+221057,120425296.0,Monday,No,2012-07-09T17:00:00.000,PropFound,"[-71.138508, 42.355898]",Point,PropFound,7,FDPROP,804,D14,First,No,EVERETT ST,Part Three,Unarmed,753874.4121,,2954925.45,2012
+222746,120421200.0,Monday,No,2012-07-09T09:00:00.000,PropFound,"[-71.125999, 42.245548]",Point,PropFound,7,FDPROP,524,E18,Day,No,TRUMAN PY,Part Three,Unarmed,757431.8443,,2914726.499,2012
+257505,120423844.0,Monday,No,2012-07-09T09:00:00.000,PropFound,"[-71.05538, 42.312541]",Point,PropFound,7,FDPROP,252,C11,Day,No,SAGAMORE ST,Part Three,Unarmed,776425.4065,SAVIN HILL AV,2939231.602,2012
+265844,120422748.0,Monday,No,2012-07-09T20:15:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,691,E5,First,No,VFW PY,Part Three,Unarmed,,,,2012

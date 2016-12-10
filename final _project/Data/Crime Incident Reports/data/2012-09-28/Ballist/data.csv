@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29641,120611072.0,Friday,No,2012-09-28T17:03:00.000,Ballist,"[-71.07321, 42.292406]",Point,Ballist,9,SHOTS ,450,B3,First,No,ROSEDALE ST,Part Two,Firearm,771639.5912,,2931869.47,2012
+53569,120610632.0,Friday,No,2012-09-28T13:52:00.000,Ballist,"[-71.13907, 42.277856]",Point,Ballist,9,FDWEAP,685,E5,Day,No,HAYDN ST,Part Two,Firearm,753842.9942,,2926484.9460000005,2012
+107705,120609615.0,Friday,No,2012-09-28T03:09:00.000,Ballist,"[-71.06787, 42.302191]",Point,Ballist,9,SHOTS ,342,C11,Last,No,TOPLIFF ST,Part Two,Firearm,773066.3119,LONGFELLOW ST,2935442.54,2012
+125746,120612662.0,Friday,No,2012-09-28T22:00:00.000,Ballist,"[-71.0676, 42.301321]",Point,Ballist,9,IVPREM,342,C11,First,No,TOPLIFF ST,Part Two,Firearm,773140.9592,,2935125.869,2012
+245488,120609997.0,Friday,No,2012-09-28T03:30:00.000,Ballist,"[-71.067775, 42.301881]",Point,Ballist,9,VANRPT,345,C11,Last,No,TOPLIFF ST,Part Two,Unarmed,773092.584,,2935329.7010000004,2012

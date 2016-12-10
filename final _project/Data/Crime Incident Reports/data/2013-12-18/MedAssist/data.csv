@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17272,130795935.0,Wednesday,No,2013-12-18T18:00:00.000,MedAssist,"[-71.17312, 42.351201]",Point,MedAssist,12,IVPER ,755,D14,First,No,TREMONT ST,Part three,Unarmed,744525.8777,,2953176.035,2013
+43134,130794849.0,Wednesday,No,2013-12-18T10:05:00.000,MedAssist,"[-71.06883, 42.291376]",Point,MedAssist,12,OVRDOS,362,C11,Day,No,SEABORN ST,Part three,Unarmed,772826.5386,,2931500.08,2013
+46257,130795336.0,Wednesday,No,2013-12-18T13:54:00.000,MedAssist,"[-71.136786, 42.285421]",Point,MedAssist,12,REQEP ,681,E5,Day,No,DURNELL AV,Part three,Unarmed,754449.3103,,2929244.3639999996,2013
+63120,130794386.0,Wednesday,No,2013-12-18T04:25:00.000,MedAssist,"[-71.0626, 42.352361]",Point,MedAssist,12,DISTRB,111,A1,Last,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2013
+144019,130794379.0,Wednesday,No,2013-12-18T04:06:00.000,MedAssist,"[-71.113367, 42.291309]",Point,MedAssist,12,REQP  ,506,E13,Last,No,WOODBOURNE RD,Part three,Unarmed,760776.4892,,2931417.667,2013
+147298,130795051.0,Wednesday,No,2013-12-18T11:30:00.000,MedAssist,"[-71.06288, 42.361181]",Point,MedAssist,12,IVPER ,72,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,774306.0241,BOWDOIN ST,2956946.392,2013
+169395,130795064.0,Wednesday,No,2013-12-18T07:30:00.000,MedAssist,"[-71.116773, 42.248278]",Point,MedAssist,12,IVPER ,516,E18,Day,No,WILLIAMS AV,Part three,Unarmed,759925.2504,,2915732.3589999997,2013
+198560,130795669.0,Wednesday,No,2013-12-18T16:28:00.000,MedAssist,"[-71.073988, 42.331624]",Point,MedAssist,12,UNCONS,270,D4,First,No,MELNEA CASS BL,Part three,Unarmed,771357.4746,,2946159.914,2013
+201803,130794189.0,Wednesday,No,2013-12-18T00:17:00.000,MedAssist,"[-71.15818, 42.346325]",Point,MedAssist,12,CARST ,762,D14,Last,No,FOSTER ST,Part three,Unarmed,748571.3781,,2951414.983,2013

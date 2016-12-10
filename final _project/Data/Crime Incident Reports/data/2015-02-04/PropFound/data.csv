@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46874,152009171.0,Wednesday,No,2015-02-04T09:10:00.000,PropFound,"[-71.07735, 42.350071]",Point,PropFound,2,IVPREM,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770415.3539,DARTMOUTH ST,2952877.982,2015
+57773,152009289.0,Wednesday,No,2015-02-04T09:30:00.000,PropFound,"[-71.06219, 42.356241]",Point,PropFound,2,PROP,0,A1,Day,No,WINTER ST,Part three,Unarmed,774501.7485,TREMONT ST,2955147.1160000004,2015
+87522,152009585.0,Wednesday,No,2015-02-04T20:00:00.000,PropFound,"[-71.081105, 42.317871]",Point,PropFound,2,PROP,0,B2,First,No,MAYWOOD ST,Part three,Unarmed,769457.9567,,2941138.7210000004,2015
+96605,152009583.0,Wednesday,No,2015-02-04T14:30:00.000,PropFound,"[-71.07296, 42.350976]",Point,PropFound,2,PROP,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,771600.3737,BOYLSTON ST,2953213.692,2015
+230595,152009441.0,Wednesday,No,2015-02-04T16:40:00.000,PropFound,"[-71.057246, 42.357962]",Point,PropFound,2,IVPREM,0,A1,First,No,DEVONSHIRE ST,Part three,Knife,775834.5651,,2955780.917,2015

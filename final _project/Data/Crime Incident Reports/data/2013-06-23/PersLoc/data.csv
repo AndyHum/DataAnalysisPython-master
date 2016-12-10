@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111642,130386458.0,Sunday,No,2013-06-23T20:00:00.000,PersLoc,"[-70.972049, 42.312511]",Point,PersLoc,6,MISPER,376,C11,First,No,LONG ISLAND RD,Other,Unarmed,798964.0477,,2939348.963,2013
+141624,130385972.0,Sunday,No,2013-06-23T10:30:00.000,PersLoc,"[-71.050305, 42.330781]",Point,PersLoc,6,MISPER,915,C6,Day,No,BURKE ST,Other,Unarmed,777763.0109999999,,2945885.749,2013
+157440,130385302.0,Sunday,No,2013-06-23T16:00:00.000,PersLoc,"[-71.080681, 42.283145]",Point,PersLoc,6,MISPER,417,B3,First,No,CAPEN ST,Other,Unarmed,769634.7723,,2928484.3510000003,2013
+207676,130382336.0,Sunday,No,2013-06-23T01:00:00.000,PersLoc,"[-71.064255, 42.299891]",Point,PersLoc,6,MISPER,352,C11,Last,No,CHARLES ST,Other,Unarmed,774048.5119,,2934609.361,2013
+211818,130384590.0,Sunday,No,2013-06-23T17:30:00.000,PersLoc,"[-71.095483, 42.284278]",Point,PersLoc,6,MISPER,467,B3,First,No,WELLINGTON HILL ST,Other,Unarmed,765627.3617,,2928878.166,2013

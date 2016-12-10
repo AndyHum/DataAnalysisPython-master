@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38290,130650070.0,Friday,No,2013-10-11T18:12:00.000,PropFound,"[-71.07843, 42.349776]",Point,PropFound,10,IVPREM,143,D4,First,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2013
+92954,130648843.0,Friday,No,2013-10-11T08:12:00.000,PropFound,"[-71.068665, 42.357221]",Point,PropFound,10,IVPREM,70,A1,Day,No,CHESTNUT ST,Part three,Unarmed,772749.8399,,2955495.332,2013
+135396,130649401.0,Friday,No,2013-10-11T12:00:00.000,PropFound,"[-71.151195, 42.336331]",Point,PropFound,10,FDPROP,749,D14,Day,No,CHESTNUT AV,Part three,Unarmed,750474.559,BEACON ST,2947780.584,2013
+158034,130650611.0,Friday,No,2013-10-11T22:00:00.000,PropFound,"[-71.06075, 42.283566]",Point,PropFound,10,SUSPER,391,C11,First,No,CARRUTH ST,Part three,Unarmed,775027.3449,,2928665.163,2013
+185974,130650230.0,Friday,No,2013-10-11T19:08:00.000,PropFound,"[-71.0883, 42.342946]",Point,PropFound,10,FDPROP,619,D4,First,No,SYMPHONY RD,Part three,Unarmed,767467.9634,,2950267.023,2013
+250564,130649734.0,Friday,No,2013-10-11T15:15:00.000,PropFound,"[-71.15575, 42.349101]",Point,PropFound,10,FDPROP,763,D14,Day,No,WASHINGTON ST,Part three,Unarmed,749224.2314,PARSONS ST,2952429.222,2013
+253792,130649267.0,Friday,No,2013-10-11T11:00:00.000,PropFound,"[-71.08781, 42.351296]",Point,PropFound,10,FDPROP,139,D4,Day,No,BEACON ST,Part three,Unarmed,767585.7246,,2953310.56,2013

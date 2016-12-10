@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36117,140004243.0,Friday,No,2014-01-03T03:49:00.000,FIRE,"[-71.08226, 42.317386]",Point,FIRE,1,FIREB ,311,B2,Last,No,WARREN ST,Part three,Unarmed,769146.4528,,2940960.4469999997,2014
+79483,140005450.0,Friday,No,2014-01-03T20:13:00.000,FIRE,"[-71.1371, 42.277196]",Point,FIRE,1,FIREB ,910,E5,First,No,BEECHLAND ST,Part three,Other,754377.1418,,2926246.6939999997,2014
+231345,140004322.0,Friday,No,2014-01-03T07:30:00.000,FIRE,"[-71.08066, 42.351881]",Point,FIRE,1,FV    ,136,D4,Day,No,PUBLIC ALLEY 425,Part three,Unarmed,769517.3755,EXETER ST,2953533.165,2014
+239913,140005250.0,Friday,No,2014-01-03T18:02:00.000,FIRE,"[-71.11996, 42.273791]",Point,FIRE,1,FIREB ,498,E18,First,No,HYDE PARK AV,Part three,Unarmed,759021.1748,,2925026.064,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114569,140368037.0,Wednesday,No,2014-06-11T01:27:00.000,Argue,"[-71.072122, 42.300294]",Point,Argue,6,IVPER ,462,C11,Last,No,BOWDOIN ST,Part three,Unarmed,771919.4938,,2934745.1569999997,2014
+210179,140370347.0,Wednesday,No,2014-06-11T21:59:00.000,Argue,"[-71.062615, 42.305826]",Point,Argue,6,THREAT,346,C11,First,No,JULIETTE ST,Part three,Unarmed,774481.0871,,2936774.434,2014
+247306,140368422.0,Wednesday,No,2014-06-11T08:59:00.000,Argue,"[-71.100345, 42.314776]",Point,Argue,6,DISTRB,577,E13,Day,No,EGLESTON ST,Part three,Unarmed,764259.7772,,2939985.883,2014

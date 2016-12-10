@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7900,142052865.0,Friday,No,2014-11-28T13:00:00.000,Service,"[-71.070835, 42.331511]",Point,Service,11,ARREST,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2014
+88039,142052924.0,Friday,No,2014-11-28T18:00:00.000,Service,"[-71.05936, 42.351041]",Point,Service,11,ARREST,0,A1,First,No,BEACH ST,Part three,Unarmed,775276.4461,SURFACE RD,2953256.077,2014
+107076,142053103.0,Friday,No,2014-11-28T15:30:00.000,Service,"[-71.037915, 42.348436]",Point,Service,11,IVPER,0,C6,Day,No,NORTHERN AV,Part three,Unarmed,781078.3433,,2952337.443,2014

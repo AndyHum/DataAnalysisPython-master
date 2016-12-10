@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63197,152006139.0,Friday,No,2015-01-23T01:04:00.000,FIRE,"[-71.16011, 42.287776]",Point,FIRE,1,FIRE,0,E5,Last,No,HOUSTON ST,Part three,Unarmed,748134.6985,,2930076.555,2015
+100044,152006223.0,Friday,No,2015-01-23T11:11:00.000,FIRE,"[-71.06813, 42.286736]",Point,FIRE,1,FIRE,0,C11,Day,No,ROSLIN ST,Part three,Unarmed,773024.4936,,2929810.1569999997,2015
+112706,152006147.0,Friday,No,2015-01-23T02:08:00.000,FIRE,"[-71.079935, 42.282141]",Point,FIRE,1,FO,0,B3,Last,No,CAPEN ST,Part three,Unarmed,769838.5075,,2928119.722,2015
+192534,152006423.0,Friday,No,2015-01-23T22:00:00.000,FIRE,"[-71.05608, 42.366111]",Point,FIRE,1,FIRE,0,A1,First,No,CLEVELAND PL,Part three,Unarmed,776134.4755,,2958752.473,2015

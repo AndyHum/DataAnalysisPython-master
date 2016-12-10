@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30105,130327256.0,Friday,No,2013-05-31T11:54:00.000,WEAPONS CHARGE,"[-71.07791, 42.313396]",Point,15xx,5,ARREST,326,B2,Day,No,FAYSTON ST,Part Two,Unarmed,770330.1184,,2939512.22,2013
+97326,130326609.0,Friday,No,2013-05-31T04:55:00.000,WEAPONS CHARGE,"[-71.089925, 42.314421]",Point,15xx,5,CD11  ,314,B2,Last,No,HOWLAND ST,Part Two,Unarmed,767078.4323,,2939869.713,2013
+163025,130328350.0,Friday,No,2013-05-31T19:46:00.000,WEAPONS CHARGE,"[-71.094055, 42.274496]",Point,15xx,5,ARREST,472,B3,First,No,ALMONT ST,Part Two,Firearm,766030.8534,,2925315.277,2013
+260054,130327259.0,Friday,No,2013-05-31T11:56:00.000,WEAPONS CHARGE,"[-71.076265, 42.312576]",Point,15xx,5,CD11  ,326,B2,Day,No,FAYSTON ST,Part Two,Other,770776.5217,,2939215.603,2013

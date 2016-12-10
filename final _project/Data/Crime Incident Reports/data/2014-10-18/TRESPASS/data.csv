@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52090,142040193.0,Saturday,No,2014-10-18T00:53:00.000,TRESPASS,"[-71.03032, 42.382561]",Point,TRESPASS,10,ARREST,0,A7,Last,No,CONDOR ST,Part Two,Unarmed,783062.9361,GLENDON ST,2964784.463,2014
+189102,142040250.0,Saturday,No,2014-10-18T06:20:00.000,TRESPASS,"[-71.08257, 42.348656]",Point,TRESPASS,10,IVPER,0,D4,Last,No,BOYLSTON ST,Part Two,Unarmed,769006.8448,,2952355.38,2014
+198137,142040263.0,Saturday,No,2014-10-18T08:45:00.000,TRESPASS,"[-71.06074, 42.356916]",Point,TRESPASS,10,ARREST,0,A1,Day,No,BROMFIELD ST,Part Two,Unarmed,774892.3963,,2955395.115,2014

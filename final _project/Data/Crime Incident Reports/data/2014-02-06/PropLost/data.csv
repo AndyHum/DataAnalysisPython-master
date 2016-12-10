@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18609,140106770.0,Thursday,No,2014-02-06T12:00:00.000,PropLost,"[-71.13566, 42.242476]",Point,PropLost,2,LSTPRP,532,E18,Day,No,NORTON ST,Part three,Unarmed,754820.8863,,2913595.923,2014
+53483,140076598.0,Thursday,No,2014-02-06T08:45:00.000,PropLost,"[-71.08323, 42.327536]",Point,PropLost,2,LSTPRP,282,B2,Day,No,WARREN ST,Part three,Unarmed,768866.0406,,2944657.9960000003,2014
+68050,140078215.0,Thursday,No,2014-02-06T12:00:00.000,PropLost,"[-71.060245, 42.299976]",Point,PropLost,2,LSTPRP,356,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775133.1649,,2934645.903,2014
+81750,140087890.0,Thursday,No,2014-02-06T16:00:00.000,PropLost,"[-71.132115, 42.361266]",Point,PropLost,2,LARCRT,811,D14,First,No,RAYMOND ST,Part three,Unarmed,755594.0681,,2956889.0689999997,2014
+93359,140077190.0,Thursday,No,2014-02-06T18:22:00.000,PropLost,"[-71.061745, 42.356021]",Point,PropLost,2,LARCRT,102,A1,First,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2014
+133387,140076999.0,Thursday,No,2014-02-06T14:00:00.000,PropLost,"[-71.08651, 42.317061]",Point,PropLost,2,LSTPRP,308,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,767997.6052,TOWNSEND ST,2940836.4110000003,2014
+138841,140076831.0,Thursday,No,2014-02-06T02:15:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,2,LSTPRP,144,D4,Last,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2014
+196800,140140923.0,Thursday,No,2014-02-06T12:00:00.000,PropLost,"[-71.059575, 42.302511]",Point,PropLost,2,LARCRT,350,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775309.6471,,2935570.63,2014
+260828,140083900.0,Thursday,No,2014-02-06T00:20:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,139,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2014
+262560,140078856.0,Thursday,No,2014-02-06T09:30:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,,,,2014

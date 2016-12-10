@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24069,,Tuesday,No,2015-07-21T00:00:00.000,Robbery,"[-71.056577, 42.362093]",Point,03xx,7,,78,A1,,No,BLACKSTONE ST,Part One,None,776008.0,,2960000.0,2015
+125875,,Tuesday,No,2015-07-21T00:00:00.000,Robbery,"[-71.037897, 42.376796]",Point,03xx,7,STAB,23,A7,,No,PRINCETON ST,Part One,Knife/Cutting Instrument,781027.0,,2960000.0,2015
+141225,,Tuesday,No,2015-07-21T00:00:00.000,Robbery,"[-71.055569, 42.359302]",Point,03xx,7,STAB,93,A1,,No,MERCHANTS ROW,Part One,Knife/Cutting Instrument,776285.0,,2960000.0,2015
+236087,,Tuesday,No,2015-07-21T00:00:00.000,Robbery,"[-71.125353, 42.251894]",Point,03xx,7,IVPER,522,E18,,No,HYDE PARK AVE,Part One,Firearm,757597.0,,2920000.0,2015

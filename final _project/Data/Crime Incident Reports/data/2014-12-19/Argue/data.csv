@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50744,142059113.0,Friday,No,2014-12-19T20:30:00.000,Argue,"[-71.05931, 42.316971]",Point,Argue,12,IVPER,0,C11,First,No,PLEASANT ST,Part three,Unarmed,775354.109,,2940840.4480000003,2014
+75314,142059136.0,Friday,No,2014-12-19T23:03:00.000,Argue,"[-71.058362, 42.358828]",Point,Argue,12,IVPER,0,A1,First,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2014
+113740,142058881.0,Friday,No,2014-12-19T08:16:00.000,Argue,"[-71.081371, 42.32956]",Point,Argue,12,PERGUN,0,B2,Day,No,DEGAUTIER WY,Part three,Unarmed,769364.9874,,2945397.773,2014
+172591,142058861.0,Friday,No,2014-12-19T03:10:00.000,Argue,"[-71.070505, 42.346036]",Point,Argue,12,IVPER,0,D4,Last,No,BERKELEY ST,Part three,Unarmed,772273.0459,,2951416.795,2014

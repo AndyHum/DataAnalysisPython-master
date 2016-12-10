@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135405,120609695.0,Friday,No,2012-09-28T05:05:00.000,WEAPONS CHARGE,"[-71.08058, 42.305421]",Point,15xx,9,TSTOP ,330,B2,Last,No,WASHINGTON ST,Part Two,Knife,769622.2533,COLUMBIA RD,2936602.439,2012
+245184,120611366.0,Friday,No,2012-09-28T19:52:00.000,WEAPONS CHARGE,"[-71.079605, 42.328539]",Point,15xx,9,IVPER ,281,B2,First,No,DUDLEY ST,Part Two,Knife,769844.413,,2945028.173,2012

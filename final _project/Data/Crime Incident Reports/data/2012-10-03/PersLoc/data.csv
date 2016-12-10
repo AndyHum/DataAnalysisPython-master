@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33205,120623138.0,Wednesday,No,2012-10-03T20:17:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,10,MSNCOM,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2012
+129848,120623248.0,Wednesday,No,2012-10-03T20:17:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,10,MISPER,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2012
+241036,120643267.0,Wednesday,No,2012-10-03T07:00:00.000,PersLoc,"[-71.037275, 42.375496]",Point,PersLoc,10,MISPER,23,A7,Last,No,BENNINGTON ST,Part Three,Other,781197.8470000001,,2962199.565,2012

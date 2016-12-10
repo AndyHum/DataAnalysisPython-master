@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17860,152004952.0,Monday,No,2015-01-19T09:00:00.000,FIRE,"[-71.061375, 42.315681]",Point,FIRE,1,FIRE,0,C11,Day,No,BAKERSFIELD ST,Part three,Other,774798.0396,,2940367.472,2015
+90444,152005167.0,Monday,No,2015-01-19T20:55:00.000,FIRE,"[-71.05879, 42.306001]",Point,FIRE,1,FO,0,C11,First,No,LINDEN ST,Part three,Unarmed,775515.4241,DORCHESTER AV,2936843.5360000003,2015
+102621,152004919.0,Monday,No,2015-01-19T03:25:00.000,FIRE,"[-71.076265, 42.312576]",Point,FIRE,1,FO,0,B2,Last,No,FAYSTON ST,Part three,Unarmed,770776.5217,,2939215.603,2015
+264144,152005087.0,Monday,No,2015-01-19T15:34:00.000,FIRE,"[0, 0]",Point,FIRE,1,FIRE,0,A7,Day,No,SARATOGA ST,Part three,Unarmed,,,,2015

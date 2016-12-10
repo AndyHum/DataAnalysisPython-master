@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65884,140172366.0,Monday,No,2014-03-10T00:00:00.000,Service,"[-71.110685, 42.255916]",Point,Service,3,IVPER ,511,E18,Last,No,NEW BEDFORD ST,Other,Unarmed,761561.0847,,2918523.498,2014
+87629,140146712.0,Monday,No,2014-03-10T11:17:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,117,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+138635,140146142.0,Monday,No,2014-03-10T01:54:00.000,Service,"[-71.06339, 42.300131]",Point,Service,3,IVPER ,352,C11,Last,No,CHARLES ST,Part three,Unarmed,774282.0697,DITSON ST,2934698.017,2014
+217952,140146896.0,Monday,No,2014-03-10T13:00:00.000,Service,"[-71.060565, 42.361386]",Point,Service,3,TRANSP,72,A1,Day,No,SUDBURY ST,Part three,Other,774931.3031,,2957024.314,2014
+223073,140147783.0,Monday,No,2014-03-10T19:44:00.000,Service,"[-71.07365, 42.311641]",Point,Service,3,ARREST,328,B2,First,No,MAGNOLIA ST,Part three,Unarmed,771485.5112,KINEO ST,2938878.3989999997,2014
+253341,140146550.0,Monday,No,2014-03-10T08:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,3,IVPREM,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014

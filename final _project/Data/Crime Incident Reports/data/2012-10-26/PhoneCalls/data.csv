@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112372,120676409.0,Friday,No,2012-10-26T23:00:00.000,PhoneCalls,"[-71.051205, 42.365951]",Point,PhoneCalls,10,HARPT ,83,A1,First,No,COMMERCIAL ST,Part Three,Unarmed,777452.22,,2958701.06,2012
+212088,130452971.0,Friday,No,2012-10-26T00:00:00.000,PhoneCalls,"[-71.064955, 42.374731]",Point,PhoneCalls,10,IVPER ,59,A15,Last,No,SEMINARY ST,Part three,Unarmed,773720.0401,,2961881.4189999998,2012
+220859,120674051.0,Friday,No,2012-10-26T00:37:00.000,PhoneCalls,"[-71.078186, 42.334556]",Point,PhoneCalls,10,HARPT ,271,D4,Last,No,E LENOX ST,Part Three,Other,770217.2220000001,,2947222.7819999997,2012

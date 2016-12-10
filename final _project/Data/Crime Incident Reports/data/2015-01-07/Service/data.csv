@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63139,152001794.0,Wednesday,No,2015-01-07T13:00:00.000,Service,"[-71.06125, 42.357151]",Point,Service,1,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774754.1119,BROMFIELD ST,2955480.0439999998,2015
+73549,152001793.0,Wednesday,No,2015-01-07T11:34:00.000,Service,"[-71.13238, 42.282461]",Point,Service,1,TS,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,755646.2199,,2928170.807,2015
+79797,152001791.0,Wednesday,No,2015-01-07T12:45:00.000,Service,"[-71.06458, 42.284741]",Point,Service,1,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773988.7745,BAILEY ST,2929088.035,2015
+80073,152001839.0,Wednesday,No,2015-01-07T16:30:00.000,Service,"[-71.06256, 42.341406]",Point,Service,1,AOD,0,C6,First,No,FRONTAGE RD,Part three,Unarmed,774429.4678,,2949740.454,2015
+106662,152001889.0,Wednesday,No,2015-01-07T18:42:00.000,Service,"[-71.06024, 42.351281]",Point,Service,1,ARREST,0,A1,First,No,OXFORD PL,Part three,Unarmed,775038.1249,BEACH ST,2953342.31,2015
+110569,152001890.0,Wednesday,No,2015-01-07T18:30:00.000,Service,"[-71.0707, 42.346451]",Point,Service,1,ARREST,0,D4,First,No,BERKELEY ST,Part three,Unarmed,772219.5706,,2951567.764,2015
+188645,152001759.0,Wednesday,No,2015-01-07T11:25:00.000,Service,"[-71.06105, 42.297191]",Point,Service,1,ARREST,0,C11,Day,No,GIBSON ST,Part three,Unarmed,774920.615,DORCHESTER AV,2933629.887,2015

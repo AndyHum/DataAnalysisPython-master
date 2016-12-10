@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65472,140196208.0,Tuesday,No,2014-04-01T15:00:00.000,Service,"[-71.07233, 42.332556]",Point,Service,4,ARREST,179,C6,Day,No,MELNEA CASS BL,Part three,Unarmed,771804.3248,MASSACHUSETTS AV,2946501.961,2014
+87555,140195042.0,Tuesday,No,2014-04-01T01:43:00.000,Service,"[-71.08248, 42.280401]",Point,Service,4,ARREST,418,B3,Last,No,MORTON ST,Part three,Unarmed,769152.927,W SELDEN ST,2927482.2610000004,2014
+120557,140195374.0,Tuesday,No,2014-04-01T08:18:00.000,Service,"[-71.090815, 42.280136]",Point,Service,4,ARREST,428,B3,Day,No,CLARKWOOD ST,Part three,Unarmed,766897.8582,,2927374.765,2014
+194617,140195889.0,Tuesday,No,2014-04-01T12:38:00.000,Service,"[-71.112361, 42.316208]",Point,Service,4,VANRPT,639,E13,Day,No,ROBINWOOD AV,Part three,Unarmed,761007.4093,,2940492.683,2014
+204207,140198611.0,Tuesday,No,2014-04-01T17:30:00.000,Service,"[-71.059735, 42.297541]",Point,Service,4,FDPROP,355,C11,First,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+216089,140200858.0,Tuesday,No,2014-04-01T11:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,4,IVPREM,257,C11,Day,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111802,152010817.0,Tuesday,No,2015-02-10T02:10:00.000,PersLoc,"[-71.120704, 42.276666]",Point,PersLoc,2,MISSIN,0,E18,Last,No,CLIFFMONT ST,Other,Unarmed,758815.1319,,2926072.901,2015
+118691,152010975.0,Tuesday,No,2015-02-10T14:00:00.000,PersLoc,"[-71.087592, 42.290888]",Point,PersLoc,2,IVPER,0,B3,Day,No,WESTVIEW ST,Other,Unarmed,767750.9008,,2931297.042,2015
+144623,152011139.0,Tuesday,No,2015-02-10T20:00:00.000,PersLoc,"[-71.104935, 42.331511]",Point,PersLoc,2,IVPER,0,B2,First,No,SACHEM ST,Other,Unarmed,762990.1022,,2946078.626,2015
+260502,152010962.0,Tuesday,No,2015-02-10T15:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,IVPER,0,D14,Day,No,BRIGHTON AV,Other,Unarmed,,PARK VALE AV,,2015

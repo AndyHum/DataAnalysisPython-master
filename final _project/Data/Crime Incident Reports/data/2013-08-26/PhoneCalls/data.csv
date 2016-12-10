@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51558,130539242.0,Monday,No,2013-08-26T12:00:00.000,PhoneCalls,"[-71.05899, 42.356791]",Point,PhoneCalls,8,IVPER ,103,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775365.6264,,2955352.003,2013
+79038,130539727.0,Monday,No,2013-08-26T11:15:00.000,PhoneCalls,"[-71.056374, 42.350817]",Point,PhoneCalls,8,VIORDR,115,A1,Day,No,ATLANTIC AV,Part three,Unarmed,776084.0039,,2953178.441,2013
+100478,130539638.0,Monday,No,2013-08-26T16:00:00.000,PhoneCalls,"[-71.154885, 42.280096]",Point,PhoneCalls,8,IVPER ,703,E5,First,No,MAXFIELD ST,Part three,Other,749559.7977,,2927283.522,2013

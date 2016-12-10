@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130735,120607499.0,Thursday,No,2012-09-27T09:54:00.000,FIRE,"[-71.037035, 42.380526]",Point,FIRE,9,FIREB ,24,A7,Day,No,WHITE ST,Part Three,Unarmed,781252.7501,,2964032.9489999996,2012
+251580,120608435.0,Thursday,No,2012-09-27T16:33:00.000,FIRE,"[-71.129345, 42.251596]",Point,FIRE,9,FV    ,542,E18,First,No,BUSINESS ST,Part Three,Unarmed,756516.3731,,2916926.731,2012
+259622,120608744.0,Thursday,No,2012-09-27T18:33:00.000,FIRE,"[-71.071635, 42.286426]",Point,FIRE,9,FIREB ,435,B3,First,No,DUNBAR AV,Part Three,Other,772076.6677,,2929692.4060000004,2012

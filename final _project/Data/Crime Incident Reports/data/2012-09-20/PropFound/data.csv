@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10988,120590310.0,Thursday,No,2012-09-20T09:33:00.000,PropFound,"[-71.091908, 42.320862]",Point,PropFound,9,IVPREM,305,B2,Day,No,ELMORE ST,Part Three,Unarmed,766530.9472,,2942214.5519999997,2012
+82192,120590694.0,Thursday,No,2012-09-20T12:40:00.000,PropFound,"[-71.077145, 42.350131]",Point,PropFound,9,FDPROP,130,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770470.6585,,2952900.122,2012
+235524,120591638.0,Thursday,No,2012-09-20T19:00:00.000,PropFound,"[-71.13651, 42.287971]",Point,PropFound,9,FDPROP,675,E5,First,No,SOUTH ST,Part Three,Unarmed,754520.0764,WALWORTH ST,2930173.945,2012
+253559,120591160.0,Thursday,No,2012-09-20T15:15:00.000,PropFound,"[-71.059415, 42.359251]",Point,PropFound,9,LSTPRP,92,A1,Day,No,CITY HALL PZ,Part Three,Unarmed,775246.1256,,2956247.881,2012

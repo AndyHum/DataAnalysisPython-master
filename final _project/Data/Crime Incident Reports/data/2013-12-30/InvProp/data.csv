@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14107,140054407.0,Monday,No,2013-12-30T16:00:00.000,InvProp,"[-71.06556, 42.304161]",Point,InvProp,12,LARCRT,340,C11,First,No,HAMILTON ST,Part three,Unarmed,773687.5507,,2936163.6119999997,2013
+32109,130819210.0,Monday,No,2013-12-30T16:00:00.000,InvProp,"[-71.06889, 42.358386]",Point,InvProp,12,MISC  ,70,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772686.8814,LOUISBURG SQ,2955919.5730000003,2013
+38600,130819515.0,Monday,No,2013-12-30T23:00:00.000,InvProp,"[-71.133025, 42.355406]",Point,InvProp,12,ALARMC,803,D14,First,No,CAMBRIDGE ST,Part three,Other,755357.3143,,2954752.5039999997,2013
+92564,130819933.0,Monday,No,2013-12-30T07:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,12,IVPREM,70,A1,Last,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2013
+188506,130818638.0,Monday,No,2013-12-30T12:00:00.000,InvProp,"[-71.083085, 42.342421]",Point,InvProp,12,BERPT ,145,D4,Day,No,ALBEMARLE ST,Part three,Other,768878.7368,,2950082.5489999996,2013
+192521,130817965.0,Monday,No,2013-12-30T08:48:00.000,InvProp,"[-71.080976, 42.339931]",Point,InvProp,12,REQP  ,597,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,769453.3173,,2949177.707,2013

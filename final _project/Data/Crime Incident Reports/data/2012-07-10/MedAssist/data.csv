@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50602,120423488.0,Tuesday,No,2012-07-10T07:45:00.000,MedAssist,"[-71.10205, 42.311961]",Point,MedAssist,7,NIDV  ,571,E13,Day,No,WASHINGTON ST,Part Three,Unarmed,763803.4218,,2938957.895,2012
+87471,120424886.0,Tuesday,No,2012-07-10T18:41:00.000,MedAssist,"[-71.147508, 42.257526]",Point,MedAssist,7,BERPT ,822,E5,First,No,CROWN POINT DR,Part Three,Other,751589.8849,,2919066.82,2012
+149846,120425014.0,Tuesday,No,2012-07-10T19:33:00.000,MedAssist,"[-71.08773, 42.347281]",Point,MedAssist,7,IVPER ,598,D4,First,No,BOYLSTON ST,Part Three,Unarmed,767614.423,MASSACHUSETTS AV,2951847.52,2012
+151567,120425422.0,Tuesday,No,2012-07-10T22:45:00.000,MedAssist,"[-71.086692, 42.296038]",Point,MedAssist,7,OVRDOS,444,B3,First,No,VESTA RD,Part Three,Unarmed,767985.3842,,2933174.8060000003,2012
+211633,120424564.0,Tuesday,No,2012-07-10T16:34:00.000,MedAssist,"[-71.038795, 42.379566]",Point,MedAssist,7,ALARMI,24,A7,First,No,MONMOUTH ST,Part Three,Unarmed,780779.1214,,2963680.5289999996,2012
+213947,120424388.0,Tuesday,No,2012-07-10T15:15:00.000,MedAssist,"[-71.107, 42.312091]",Point,MedAssist,7,EDP2  ,640,E13,Day,No,OAKDALE ST,Part Three,Unarmed,762464.3493,,2938999.061,2012
+222820,120425345.0,Tuesday,No,2012-07-10T23:00:00.000,MedAssist,"[-71.03994, 42.335581]",Point,MedAssist,7,IVPER ,226,C6,First,No,I ST,Part Three,Unarmed,780556.2141,E BROADWAY,2947649.896,2012

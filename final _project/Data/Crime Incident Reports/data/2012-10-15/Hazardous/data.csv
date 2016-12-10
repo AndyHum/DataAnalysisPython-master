@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43844,120648376.0,Monday,No,2012-10-15T02:00:00.000,Hazardous,"[-71.064106, 42.28627]",Point,Hazardous,10,ABIP  ,817,C11,Last,No,DORCHESTER AV,Part Three,Other,774114.0393,,2929645.8060000003,2012
+246179,120649812.0,Monday,No,2012-10-15T16:44:00.000,Hazardous,"[-71.104955, 42.337916]",Point,Hazardous,10,UNK   ,612,B2,First,No,BLACKFAN CR,Part Three,Unarmed,762973.8844,,2948412.7010000004,2012
+254927,120649742.0,Monday,No,2012-10-15T15:58:00.000,Hazardous,"[-71.101255, 42.348456]",Point,Hazardous,10,REQP  ,631,D4,Day,No,CUMMINGTON ST,Part Three,Other,763956.2788,BLANDFORD ST,2952258.332,2012

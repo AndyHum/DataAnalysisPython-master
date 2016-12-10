@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89266,130731333.0,Monday,No,2013-11-18T02:19:00.000,TRESPASS,"[-71.049444, 42.288906]",Point,TRESPASS,11,IVPER ,378,C11,Last,No,COFFEY ST,Part Two,Other,778076.2623,,2930627.1010000003,2013
+130899,130731789.0,Monday,No,2013-11-18T10:10:00.000,TRESPASS,"[-71.171675, 42.278601]",Point,TRESPASS,11,CD19  ,729,E5,Day,No,VFW PY,Part Two,Unarmed,745018.3088,,2926720.784,2013
+213658,130731341.0,Monday,No,2013-11-18T02:30:00.000,TRESPASS,"[-71.050915, 42.349471]",Point,TRESPASS,11,IVPREM,205,C6,Last,No,NECCO CT,Part Two,Unarmed,777562.2106,,2952695.847,2013

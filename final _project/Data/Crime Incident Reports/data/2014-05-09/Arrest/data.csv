@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27730,140284522.0,Friday,No,2014-05-09T00:01:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,5,CD11  ,72,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+65459,140285187.0,Friday,No,2014-05-09T10:02:00.000,Arrest,"[-71.058445, 42.378906]",Point,Arrest,5,ARREST,900,A15,Day,No,OMEARA CT,Part three,Unarmed,775471.2108,,2963411.915,2014
+106243,140285627.0,Friday,No,2014-05-09T13:30:00.000,Arrest,"[-71.05691, 42.328541]",Point,Arrest,5,ARREST,190,C6,Day,No,DEVINE WY,Part three,Unarmed,775981.2951,DORCHESTER AV,2945060.108,2014
+149459,140287043.0,Friday,No,2014-05-09T23:58:00.000,Arrest,"[-71.0804, 42.328511]",Point,Arrest,5,ARREST,279,B2,Last,No,DUDLEY ST,Part three,Unarmed,769629.4938,,2945016.955,2014
+262710,140285815.0,Friday,No,2014-05-09T14:47:00.000,Arrest,"[0, 0]",Point,Arrest,5,ARREST,106,A1,Day,No,DEVONSHIRE ST,Part three,Unarmed,,OTIS ST,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8188,,Monday,No,2015-06-29T00:00:00.000,Missing Person Reported,"[-71.077246, 42.317362]",Point,PersMiss,6,I00027,324,B2,,No,INGLESIDE ST,Part Three,None,770502.0,,2940000.0,2015
+31590,,Monday,No,2015-06-29T00:00:00.000,Missing Person Reported,"[-71.13094, 42.249738]",Point,PersMiss,6,IVPER,533,E18,,No,RIVER ST,Part Three,None,756087.0,,2920000.0,2015
+160945,,Monday,No,2015-06-29T00:00:00.000,Missing Person Reported,"[-71.082799, 42.342392]",Point,PersMiss,6,IVPER,145,D4,,No,ALBEMARLE CT,Part Three,None,768956.0,,2950000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+141469,120741877.0,Monday,No,2012-11-26T11:55:00.000,InvProp,"[-71.078795, 42.327456]",Point,InvProp,11,IVMV  ,267,B2,Day,No,FOREST ST,Part Three,Unarmed,770065.449,,2944634.7339999997,2012
+176112,120741131.0,Monday,No,2012-11-26T01:52:00.000,InvProp,"[-71.05408, 42.366951]",Point,InvProp,11,BEIP  ,83,A1,Last,No,CHARTER ST,Part Three,Unarmed,776673.3623,,2959061.405,2012
+189687,120741116.0,Monday,No,2012-11-26T01:43:00.000,InvProp,"[-71.1337, 42.288771]",Point,InvProp,11,ALARMC,672,E5,Last,No,SOUTH ST,Part Three,Unarmed,755279.1505,,2930468.73,2012
+214315,120742885.0,Monday,No,2012-11-26T20:00:00.000,InvProp,"[-71.128569, 42.358301]",Point,InvProp,11,IVPREM,816,D14,First,No,HOOKER ST,Part Three,Unarmed,756557.1364,,2955812.4280000003,2012

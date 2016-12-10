@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70607,140365011.0,Monday,No,2014-06-09T21:48:00.000,WEAPONS CHARGE,"[-71.08942, 42.313251]",Point,15xx,6,IVPER ,316,B2,First,No,HUMBOLDT AV,Part Two,Firearm,767217.2683,CRAWFORD ST,2939444.182,2014
+91828,140363101.0,Monday,No,2014-06-09T08:45:00.000,WEAPONS CHARGE,"[-71.063675, 42.352301]",Point,15xx,6,ARREST,111,A1,Day,No,BOYLSTON ST,Part Two,Knife,774107.7181,,2953709.249,2014
+95836,140362746.0,Monday,No,2014-06-09T02:05:00.000,WEAPONS CHARGE,"[-71.067225, 42.319435]",Point,15xx,6,ARREST,184,B2,Last,No,HARROW ST,Part Two,Firearm,773208.6986,,2941727.381,2014
+143593,140362696.0,Monday,No,2014-06-09T01:23:00.000,WEAPONS CHARGE,"[-71.066435, 42.320161]",Point,15xx,6,CD11  ,184,B2,Last,No,GROOM ST,Part Two,Unarmed,773421.2175,,2941993.061,2014

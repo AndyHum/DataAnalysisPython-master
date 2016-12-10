@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9876,120729569.0,Monday,No,2012-11-19T20:30:00.000,PropFound,"[-71.05988, 42.378031]",Point,PropFound,11,LSTPRP,900,A15,First,No,MONUMENT ST,Part Three,Unarmed,775085.1343,BUNKER HILL ST,2963091.042,2012
+17213,130032794.0,Monday,No,2012-11-19T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,11,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+160725,120729199.0,Monday,No,2012-11-19T17:55:00.000,PropFound,"[-71.06119, 42.316231]",Point,PropFound,11,FDPROP,242,C11,First,No,BAKERSFIELD ST,Part Three,Unarmed,774847.0434,,2940568.1580000003,2012
+254994,120730635.0,Monday,No,2012-11-19T12:00:00.000,PropFound,"[-71.077748, 42.348631]",Point,PropFound,11,FDPROP,0,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,770310.163,,2952352.43,2012

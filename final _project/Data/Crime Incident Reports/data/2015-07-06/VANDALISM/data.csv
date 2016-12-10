@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15666,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.063007, 42.355004]",Point,14xx,7,VAND,111,A1,,No,WEST ST,Part Two,None,774283.0,,2950000.0,2015
+32813,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.071794, 42.292576]",Point,14xx,7,IVPER,362,C11,,No,WASHINGTON ST,Part Two,None,772022.0,,2930000.0,2015
+112124,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.099716, 42.311768]",Point,14xx,7,VAND,572,E13,,No,MONTEBELLO RD,Part Two,None,764435.0,,2940000.0,2015
+140922,,Monday,No,2015-07-06T21:30:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,465,B3,,No,WILCOCK ST,Part Two,None,,,,2015
+149801,,Monday,No,2015-07-06T00:34:00.000,Vandalism,"[0, 0]",Point,14xx,7,SHOTS,252,C11,,No,SPRINGDALE ST,Part Two,None,,,,2015
+164470,,Monday,No,2015-07-06T11:36:00.000,Vandalism,"[0, 0]",Point,14xx,7,PKNIFE,784,D14,,No,WARREN ST,Part Two,None,,,,2015
+173205,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.064028, 42.309158]",Point,14xx,7,VAND,334,C11,,No,BOWDOIN ST,Part Two,None,774093.0,,2940000.0,2015
+176979,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.117838, 42.256331]",Point,14xx,7,BE,519,E18,,No,WALTER ST,Part Two,None,759624.0,,2920000.0,2015
+179793,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.137337, 42.240767]",Point,14xx,7,VAND,530,E18,,No,REYNOLD RD,Part Two,None,754369.0,,2910000.0,2015
+182191,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.11787, 42.284782]",Point,14xx,7,VAND,502,E18,,No,JEWETT ST,Part Two,None,759569.0,,2930000.0,2015
+192576,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.032647, 42.3803]",Point,14xx,7,VAND,824,A7,,No,TRENTON ST,Part Two,None,782439.0,,2960000.0,2015
+233643,,Monday,No,2015-07-06T00:00:00.000,Vandalism,"[-71.083052, 42.298964]",Point,14xx,7,DVIP,457,B3,,No,MCLELLAN ST,Part Two,None,768965.0,,2930000.0,2015
+252776,,Monday,No,2015-07-06T10:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,494,E18,,No,CENTRAL AVE,Part Two,None,,WEST ST,,2015

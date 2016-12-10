@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133057,120797698.0,Friday,No,2012-12-21T08:24:00.000,Arrest,"[-71.06024, 42.351281]",Point,Arrest,12,ARREST,116,A1,Day,No,BEACH ST,Part Three,Unarmed,775038.1239,OXFORD ST,2953342.31,2012
+172291,120799331.0,Friday,No,2012-12-21T21:43:00.000,Arrest,"[-71.071595, 42.327801]",Point,Arrest,12,ARREST,180,B2,First,No,KEMBLE ST,Part Three,Unarmed,772011.5409,,2944770.0519999997,2012
+225152,120798547.0,Friday,No,2012-12-21T16:16:00.000,Arrest,"[-71.04625, 42.354256]",Point,Arrest,12,TRANSP,207,C6,First,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012

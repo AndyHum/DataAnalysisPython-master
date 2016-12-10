@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49427,152030110.0,Wednesday,No,2015-04-01T12:00:00.000,PhoneCalls,"[-71.14981, 42.345436]",Point,PhoneCalls,4,INVEST,0,D14,Day,No,UNION ST,Part three,Unarmed,750835.4021,,2951100.159,2015
+100241,152026339.0,Wednesday,No,2015-04-01T07:06:00.000,PhoneCalls,"[-71.070197, 42.290036]",Point,PhoneCalls,4,IVPER,0,C11,Last,No,TALBOT AV,Part three,Unarmed,772459.06,,2931009.9110000003,2015
+200576,152026685.0,Wednesday,No,2015-04-01T18:00:00.000,PhoneCalls,"[-71.07293, 42.333901]",Point,PhoneCalls,4,IVPER,0,D4,First,No,ALBANY ST,Part three,Unarmed,771639.6374,,2946991.29,2015
+247692,152026426.0,Wednesday,No,2015-04-01T14:30:00.000,PhoneCalls,"[-71.142805, 42.354546]",Point,PhoneCalls,4,IVPER,0,D14,Day,No,N BEACON ST,Part three,Unarmed,752715.1845,,2954427.881,2015

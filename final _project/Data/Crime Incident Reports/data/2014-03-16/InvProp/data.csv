@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10868,140163389.0,Sunday,No,2014-03-16T22:30:00.000,InvProp,"[-71.105666, 42.331797]",Point,InvProp,3,MISC  ,604,B2,First,No,DARLING ST,Part three,Other,762791.8067,,2946181.974,2014
+32793,140160091.0,Sunday,No,2014-03-16T00:45:00.000,InvProp,"[-71.150765, 42.277386]",Point,InvProp,3,ALARMC,704,E5,Last,No,EMMONSDALE RD,Part three,Unarmed,750678.7689,,2926300.494,2014
+57001,140159993.0,Sunday,No,2014-03-16T00:11:00.000,InvProp,"[-71.048936, 42.297587]",Point,InvProp,3,ALARMC,353,C11,Last,No,MORRISSEY BL,Part three,Unarmed,778196.916,,2933791.0689999997,2014
+254468,140161553.0,Sunday,No,2014-03-16T16:00:00.000,InvProp,"[-71.06804, 42.380366]",Point,InvProp,3,IVPER ,53,A15,First,No,MEAD ST,Part three,Unarmed,772876.0519,,2963930.695,2014

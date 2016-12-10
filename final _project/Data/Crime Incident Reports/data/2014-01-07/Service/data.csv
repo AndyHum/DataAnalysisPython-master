@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43656,140012462.0,Tuesday,No,2014-01-07T06:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,1,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+63162,140013602.0,Tuesday,No,2014-01-07T19:42:00.000,Service,"[-71.088525, 42.340446]",Point,Service,1,ARREST,283,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767411.5297,,2949355.6810000003,2014
+113332,140012959.0,Tuesday,No,2014-01-07T16:29:00.000,Service,"[-71.04625, 42.354256]",Point,Service,1,CD5   ,207,C6,First,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+132447,140011892.0,Tuesday,No,2014-01-07T06:42:00.000,Service,"[-71.11668, 42.262066]",Point,Service,1,CD11  ,493,E18,Last,No,METROPOLITAN AV,Part three,Unarmed,759928.0805,,2920757.288,2014
+174437,140012159.0,Tuesday,No,2014-01-07T09:30:00.000,Service,"[-71.059987, 42.361648]",Point,Service,1,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+197877,140012272.0,Tuesday,No,2014-01-07T10:41:00.000,Service,"[-71.099099, 42.26809]",Point,Service,1,IVPER ,481,E18,Day,No,HOLLINGSWORTH ST,Part three,Unarmed,764676.6933,,2922974.147,2014
+248669,140012621.0,Tuesday,No,2014-01-07T13:35:00.000,Service,"[-71.071755, 42.292106]",Point,Service,1,ABIP  ,362,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772033.8053,,2931762.1160000004,2014

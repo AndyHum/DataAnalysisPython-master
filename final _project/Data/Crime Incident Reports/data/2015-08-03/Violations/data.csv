@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16793,,Monday,No,2015-08-03T00:00:00.000,Restraining Order Violations,"[-71.091839, 42.310249]",Point,Restrain,8,VIORDR,318,B2,,No,HUMBOLDT AVE,Part Two,None,766568.0,,2940000.0,2015
+136453,,Monday,No,2015-08-03T00:00:00.000,Violations,"[-71.080991, 42.297798]",Point,VAL,8,ARREST,445,B3,,No,GLENWAY ST,Part Two,None,769524.0,,2930000.0,2015
+141667,,Monday,No,2015-08-03T17:17:00.000,Violations,"[0, 0]",Point,VAL,8,ARREST,801,D14,,No,CAMBRIDGE ST,Part Two,None,,HIGHGATE ST,,2015
+143526,,Monday,No,2015-08-03T01:55:00.000,Violations,"[0, 0]",Point,VAL,8,TS,260,B2,,No,HOWARD AVE,Part Two,None,,JULIAN ST,,2015
+152951,,Monday,No,2015-08-03T00:00:00.000,Restraining Order Violations,"[-71.119893, 42.243619]",Point,Restrain,8,VIORDR,940,E18,,No,GARFIELD AVE,Part Two,None,759088.0,,2910000.0,2015
+153241,,Monday,No,2015-08-03T00:00:00.000,Restraining Order Violations,"[-71.086854, 42.322814]",Point,Restrain,8,VIORDR,298,B2,,No,ROCKLAND ST,Part Two,None,767894.0,,2940000.0,2015
+210557,,Monday,No,2015-08-03T00:00:00.000,Firearm Violations,"[-71.074871, 42.314344]",Point,15xx,8,SSA,327,B2,,No,CUNNINGHAM ST,Part Two,Firearm,771150.0,,2940000.0,2015
+219925,,Monday,No,2015-08-03T00:00:00.000,Violations,"[-71.060523, 42.294048]",Point,VAL,8,IVMV,363,C11,,No,CENTRE ST,Part Two,None,775069.0,,2930000.0,2015
+240215,,Monday,No,2015-08-03T00:00:00.000,Restraining Order Violations,"[-71.069816, 42.311179]",Point,Restrain,8,VIORDR,333,C11,,No,QUINCY ST,Part Two,None,772523.0,,2940000.0,2015

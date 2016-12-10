@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49324,130541321.0,Tuesday,No,2013-08-27T11:15:00.000,Service,"[-71.07818, 42.316221]",Point,Service,8,IVPER ,325,B2,Day,No,BLUE HILL AV,Part three,Other,770251.9978,WOODCLIFF ST,2940541.332,2013
+96476,130541308.0,Tuesday,No,2013-08-27T10:45:00.000,Service,"[0, 0]",Point,Service,8,REQEP ,211,C6,Day,No,PAPPAS WY,Part three,Unarmed,,,,2013
+109717,130540769.0,Tuesday,No,2013-08-27T01:28:00.000,Service,"[-71.06334, 42.355111]",Point,Service,8,SSTOP ,72,A1,Last,No,WEST ST,Part three,Unarmed,774193.0272,TREMONT ST,2954733.73,2013
+143142,130541491.0,Tuesday,No,2013-08-27T10:40:00.000,Service,"[-71.09859, 42.332096]",Point,Service,8,LARCRT,601,B2,Day,No,TREMONT ST,Part three,Unarmed,764704.7386,,2946299.8219999997,2013
+167835,130542478.0,Tuesday,No,2013-08-27T20:00:00.000,Service,"[-71.05368, 42.311581]",Point,Service,8,ARREST,249,C11,First,No,SAVIN HILL AV,Part three,Unarmed,776887.0402,SYDNEY ST,2938884.164,2013
+229852,130540869.0,Tuesday,No,2013-08-27T03:55:00.000,Service,"[-71.0588, 42.303311]",Point,Service,8,ARREST,350,C11,Last,No,DUNCAN ST,Part three,Unarmed,775517.7894,GREENWICH ST,2935863.245,2013
+232693,130541545.0,Tuesday,No,2013-08-27T12:40:00.000,Service,"[-71.14686, 42.296051]",Point,Service,8,ARREST,688,E5,Day,No,HOLLYWOOD RD,Part three,Unarmed,751707.3956,WILLOWDEAN AV,2933106.6610000003,2013

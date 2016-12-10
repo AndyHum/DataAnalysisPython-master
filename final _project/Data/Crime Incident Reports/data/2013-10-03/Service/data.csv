@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24291,130630855.0,Thursday,No,2013-10-03T15:20:00.000,Service,"[-71.07975, 42.307091]",Point,Service,10,ARREST,329,B2,Day,No,GENEVA AV,Part three,Unarmed,769843.7719,BISHOP JOE L. SMITH WAY,2937212.1180000002,2013
+33267,130631690.0,Thursday,No,2013-10-03T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,10,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2013
+42946,130632483.0,Thursday,No,2013-10-03T15:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,10,IVPREM,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+108507,130632631.0,Thursday,No,2013-10-03T14:00:00.000,Service,"[-71.054965, 42.294516]",Point,Service,10,LARCRT,368,C11,Day,No,TRAIN ST,Part three,Unarmed,776571.9251,,2932663.608,2013
+108617,130630266.0,Thursday,No,2013-10-03T10:58:00.000,Service,"[-71.07195, 42.331281]",Point,Service,10,SSTOP ,178,B2,Day,No,ISLAND ST,Part three,Unarmed,771909.4036,GERARD ST,2946037.8439999996,2013
+157180,130630869.0,Thursday,No,2013-10-03T14:00:00.000,Service,"[-71.06942, 42.362401]",Point,Service,10,ARREST,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+205841,130629472.0,Thursday,No,2013-10-03T00:05:00.000,Service,"[-71.1404, 42.342371]",Point,Service,10,ABIP  ,785,D14,Last,No,WASHINGTON ST,Part three,Unarmed,753383.9479,COREY RD,2949993.796,2013

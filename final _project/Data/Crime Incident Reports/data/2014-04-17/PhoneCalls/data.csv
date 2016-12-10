@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42610,140236842.0,Thursday,No,2014-04-17T16:00:00.000,PhoneCalls,"[-71.03724, 42.380121]",Point,PhoneCalls,4,IVPER ,24,A7,First,No,MONMOUTH ST,Part three,Unarmed,781198.1616,,2963885.06,2014
+185549,140248005.0,Thursday,No,2014-04-17T10:00:00.000,PhoneCalls,"[-71.09932, 42.318856]",Point,PhoneCalls,4,THREAT,303,E13,Day,No,BRAGDON ST,Part three,Unarmed,764530.0188,,2941474.005,2014
+215351,140233192.0,Thursday,No,2014-04-17T10:10:00.000,PhoneCalls,"[-71.076275, 42.319611]",Point,PhoneCalls,4,HARPT ,264,B2,Day,No,COTTAGE ST,Part three,Unarmed,770761.0811,,2941779.258,2014

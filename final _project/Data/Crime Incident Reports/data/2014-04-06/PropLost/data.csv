@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10445,140217269.0,Sunday,No,2014-04-06T01:15:00.000,PropLost,"[-71.119079, 42.351603]",Point,PropLost,4,LSTPRP,797,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,759132.7976,,2953383.027,2014
+35750,140209298.0,Sunday,No,2014-04-06T21:30:00.000,PropLost,"[-71.06344, 42.350916]",Point,PropLost,4,LSTPRP,117,A1,First,No,STUART ST,Part three,Unarmed,774173.8226,,2953204.854,2014
+36775,152006814.0,Sunday,No,2014-04-06T12:00:00.000,PropLost,"[-71.141952, 42.294059]",Point,PropLost,4,PROP,0,E5,Day,No,BURRWOOD RD,Part three,Unarmed,753038.2015,,2932386.285,2014
+60496,140209667.0,Sunday,No,2014-04-06T15:00:00.000,PropLost,"[-71.09154, 42.284251]",Point,PropLost,4,MISC  ,428,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766694.479,MORTON ST,2928873.385,2014
+64140,140234028.0,Sunday,No,2014-04-06T19:00:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,4,LSTPRP,111,A1,First,No,TREMONT ST,Part three,Unarmed,773924.729,,2953989.2660000003,2014
+262663,140207369.0,Sunday,No,2014-04-06T01:45:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,93,A1,Last,No,UNION ST,Part three,Unarmed,,,,2014
+262787,140208340.0,Sunday,No,2014-04-06T19:15:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,72,A1,First,No,BOYLSTON ST,Part three,Unarmed,,,,2014

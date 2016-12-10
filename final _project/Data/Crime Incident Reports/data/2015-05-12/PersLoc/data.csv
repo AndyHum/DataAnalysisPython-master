@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3601,152039152.0,Tuesday,No,2015-05-12T14:35:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,MISSIN,0,D14,Day,No,GLENMONT RD,Other,Unarmed,,,,2015
+3648,152039109.0,Tuesday,No,2015-05-12T23:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,C11,First,No,DORCHESTER AV,Other,Unarmed,,,,2015
+108701,152039222.0,Tuesday,No,2015-05-12T17:00:00.000,PersLoc,"[-71.14805, 42.259326]",Point,PersLoc,5,IVPER,0,E5,First,No,GEORGETOWNE DR,Other,Unarmed,751440.6434,,2919722.167,2015
+132226,152039033.0,Tuesday,No,2015-05-12T17:30:00.000,PersLoc,"[-71.03558, 42.377676]",Point,PersLoc,5,MISSIN,0,A7,First,No,PRINCETON ST,Other,Unarmed,781651.5177,,2962996.4889999996,2015
+231351,152039037.0,Tuesday,No,2015-05-12T23:30:00.000,PersLoc,"[-71.052551, 42.356436]",Point,PersLoc,5,IVPER,0,A1,First,No,HIGH ST,Other,Unarmed,777106.6048,,2955231.5510000004,2015

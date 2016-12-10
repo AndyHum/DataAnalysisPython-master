@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+127032,152009032.0,Tuesday,No,2015-02-03T15:50:00.000,DRUG CHARGES,"[-71.071975, 42.334581]",Point,18xx,2,ARREST,0,D4,Day,No,ALBANY ST,Part Two,Other,771896.608,,2947240.389,2015
+180005,152008934.0,Tuesday,No,2015-02-03T12:00:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,2,IVPREM,0,E18,Day,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2015
+262055,152009573.0,Tuesday,No,2015-02-03T16:00:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,2,IVPER,0,C11,First,No,GIBSON ST,Part Two,Other,,,,2015
+265972,152008972.0,Tuesday,No,2015-02-03T11:30:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,2,IVPER,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,,,,2015

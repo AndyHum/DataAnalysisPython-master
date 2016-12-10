@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17191,140227941.0,Tuesday,No,2014-04-15T05:00:00.000,InvProp,"[-71.10474, 42.345921]",Point,InvProp,4,BEIP  ,629,D4,Last,No,PARK DR,Part three,Other,763018.4949,,2951330.144,2014
+63950,140227904.0,Tuesday,No,2014-04-15T03:16:00.000,InvProp,"[-71.085875, 42.316854]",Point,InvProp,4,CTYALM,313,B2,Last,No,TOWNSEND ST,Part three,Other,768169.7113,,2940761.772,2014
+100221,140229128.0,Tuesday,No,2014-04-15T16:19:00.000,InvProp,"[-71.0605, 42.285231]",Point,InvProp,4,DWNPWR,392,C11,First,No,BARRINGTON RD,Part three,Unarmed,775091.8681,,2929272.26,2014
+111513,140229433.0,Tuesday,No,2014-04-15T06:00:00.000,InvProp,"[-71.07843, 42.349776]",Point,InvProp,4,IVPREM,138,D4,Last,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2014
+184190,140228677.0,Tuesday,No,2014-04-15T12:15:00.000,InvProp,"[0, 0]",Point,InvProp,4,SHOTS ,0,E13,Day,No,SOUTH ST,Part three,Unarmed,,ARBORETUM RD,,2014
+237696,140228611.0,Tuesday,No,2014-04-15T06:00:00.000,InvProp,"[-71.08105, 42.349046]",Point,InvProp,4,IVPREM,138,D4,Last,No,BOYLSTON ST,Part three,Unarmed,769417.031,,2952499.519,2014
+245931,140228359.0,Tuesday,No,2014-04-15T10:10:00.000,InvProp,"[-71.05679, 42.35006]",Point,InvProp,4,BOMB  ,115,A1,Day,No,ATLANTIC AV,Part three,Unarmed,775972.8791,,2952902.028,2014
+255203,140229465.0,Tuesday,No,2014-04-15T17:40:00.000,InvProp,"[-71.067021, 42.272287]",Point,InvProp,4,ALARMI,388,C11,First,No,ADAMS ST,Part three,Unarmed,773351.298,,2924546.203,2014

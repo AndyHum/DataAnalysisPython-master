@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+183828,140351424.0,Wednesday,No,2014-06-04T16:14:00.000,FIRE,"[-71.049435, 42.336581]",Point,FIRE,6,FIREB ,214,C6,First,No,W 4TH ST,Part three,Other,777987.0909,,2948000.611,2014
+209911,140352091.0,Wednesday,No,2014-06-04T21:08:00.000,FIRE,"[-71.144555, 42.273876]",Point,FIRE,6,FIREB ,705,E5,First,No,LAGRANGE ST,Part three,Unarmed,752364.6743,,2925028.34,2014
+230879,140352248.0,Wednesday,No,2014-06-04T22:19:00.000,FIRE,"[-71.101367, 42.330119]",Point,FIRE,6,FV    ,586,B2,First,No,HILLSIDE ST,Part three,Unarmed,763957.2066,,2945575.7389999996,2014

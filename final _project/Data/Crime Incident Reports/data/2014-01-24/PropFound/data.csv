@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121233,140049181.0,Friday,No,2014-01-24T18:30:00.000,PropFound,"[-71.168207, 42.265385]",Point,PropFound,1,LARCRT,723,E5,First,No,VFW PY,Part three,Unarmed,745975.5408,,2921908.2610000004,2014
+123773,140048948.0,Friday,No,2014-01-24T18:45:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,1,FDPROP,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+165753,140048495.0,Friday,No,2014-01-24T15:39:00.000,PropFound,"[-71.06047, 42.355401]",Point,PropFound,1,FDPROP,102,A1,Day,No,WINTER ST,Part three,Unarmed,774968.2164,WASHINGTON ST,2954843.395,2014
+170572,140048413.0,Friday,No,2014-01-24T15:06:00.000,PropFound,"[-71.07843, 42.349776]",Point,PropFound,1,FDPROP,143,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2014

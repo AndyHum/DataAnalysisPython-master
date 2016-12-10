@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2034,,Wednesday,No,2015-07-01T00:00:00.000,Missing Person Reported,"[-71.065471, 42.305407]",Point,PersMiss,7,I00027,340,C11,,No,DRAPER ST,Part Three,None,773709.0,,2940000.0,2015
+90168,,Wednesday,No,2015-07-01T00:00:00.000,Missing Person Reported,"[-71.064248, 42.299909]",Point,PersMiss,7,IVPER,352,C11,,No,CHARLES ST,Part Three,None,774050.0,,2930000.0,2015
+249109,,Wednesday,No,2015-07-01T06:00:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,7,IVPER,182,B2,,No,MARSHFIELD ST,Part Three,None,,,,2015

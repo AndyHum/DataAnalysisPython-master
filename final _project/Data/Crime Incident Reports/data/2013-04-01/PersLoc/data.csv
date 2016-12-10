@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105553,130193138.0,Monday,No,2013-04-01T11:00:00.000,PersLoc,"[-71.073606, 42.301168]",Point,PersLoc,4,MISPER,462,C11,Day,No,NOTTINGHAM ST,Part Three,Unarmed,771516.4205,,2935061.943,2013
+182324,130191719.0,Monday,No,2013-04-01T07:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,4,MISPER,0,B3,Last,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+201174,130192487.0,Monday,No,2013-04-01T07:30:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,4,MISPER,806,D14,Day,No,RICHARDSON ST,Part Three,Unarmed,752466.5655,,2956934.99,2013

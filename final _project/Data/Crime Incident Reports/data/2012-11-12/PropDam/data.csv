@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87006,120713513.0,Monday,No,2012-11-12T17:30:00.000,PropDam,"[-71.119069, 42.244442]",Point,PropDam,11,INVEST,940,E18,First,No,GARFIELD AV,Part Three,Other,759309.8602,,2914331.84,2012
+123971,120713110.0,Monday,No,2012-11-12T14:50:00.000,PropDam,"[-71.129752, 42.295616]",Point,PropDam,11,DWNPWR,665,E5,Day,No,WALTER ST,Part Three,Unarmed,756336.3078,BUSSEY ST,2932967.499,2012
+218663,120713762.0,Monday,No,2012-11-12T21:41:00.000,PropDam,"[-71.07708, 42.287021]",Point,PropDam,11,PDRPT ,435,B3,First,No,WHITMAN ST,Part Three,Other,770602.2625,,2929901.88,2012

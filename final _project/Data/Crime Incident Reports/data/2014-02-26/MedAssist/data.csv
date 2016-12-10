@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23922,140118971.0,Wednesday,No,2014-02-26T00:14:00.000,MedAssist,"[-71.0569, 42.377976]",Point,MedAssist,2,EDP2  ,900,A15,Last,No,TUFTS ST,Part three,Unarmed,775890.4137,,2963075.168,2014
+25446,140119275.0,Wednesday,No,2014-02-26T07:11:00.000,MedAssist,"[-71.038595, 42.332231]",Point,MedAssist,2,OVRDOS,230,C6,Last,No,E 7TH ST,Part three,Unarmed,780926.4712,,2946431.067,2014
+105970,140120613.0,Wednesday,No,2014-02-26T18:02:00.000,MedAssist,"[-71.148398, 42.270909]",Point,MedAssist,2,EDP2  ,707,E5,First,No,MAPLEWOOD ST,Part three,Unarmed,751329.0261,,2923942.58,2014
+114331,140120315.0,Wednesday,No,2014-02-26T16:11:00.000,MedAssist,"[-71.065153, 42.29921]",Point,MedAssist,2,CARST ,358,C11,First,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2014
+138498,140120833.0,Wednesday,No,2014-02-26T19:45:00.000,MedAssist,"[-71.063208, 42.364318]",Point,MedAssist,2,IVPER ,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774211.4955,,2958089.1139999996,2014
+189859,140119450.0,Wednesday,No,2014-02-26T07:50:00.000,MedAssist,"[-71.03887, 42.371246]",Point,MedAssist,2,INJOFF,28,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+209641,140120226.0,Wednesday,No,2014-02-26T08:30:00.000,MedAssist,"[-71.037939, 42.334761]",Point,MedAssist,2,FIGHT ,226,C6,Day,No,E 4TH ST,Part three,Unarmed,781098.8469,,2947353.767,2014
+215132,140120691.0,Wednesday,No,2014-02-26T18:44:00.000,MedAssist,"[-71.085618, 42.32866]",Point,MedAssist,2,INJOFF,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+251149,140120034.0,Wednesday,No,2014-02-26T13:46:00.000,MedAssist,"[-71.163091, 42.267909]",Point,MedAssist,2,SDNDTH,716,E5,Day,No,NORTHDALE RD,Part three,Unarmed,747356.4885,,2922833.512,2014

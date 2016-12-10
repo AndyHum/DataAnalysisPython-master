@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15934,142051858.0,Sunday,No,2014-11-23T11:15:00.000,PropLost,"[-71.084485, 42.348131]",Point,PropLost,11,MISC,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2014
+42519,142052435.0,Sunday,No,2014-11-23T21:00:00.000,PropLost,"[-71.089215, 42.340161]",Point,PropLost,11,PROP,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767225.4855,,2949250.922,2014
+227313,142051796.0,Sunday,No,2014-11-23T20:30:00.000,PropLost,"[-71.082985, 42.308821]",Point,PropLost,11,PROP,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,768965.6346,,2937838.262,2014
+239175,142051785.0,Sunday,No,2014-11-23T00:00:00.000,PropLost,"[-71.07764, 42.350661]",Point,PropLost,11,PROP,0,D4,Last,No,DARTMOUTH ST,Part three,Unarmed,770335.8976,,2953092.6010000003,2014
+250789,142052817.0,Sunday,No,2014-11-23T18:00:00.000,PropLost,"[-71.13567, 42.356301]",Point,PropLost,11,PROP,0,D14,First,No,BRAINTREE ST,Part three,Unarmed,754641.0028,,2955075.5960000004,2014

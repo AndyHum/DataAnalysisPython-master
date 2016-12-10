@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140680,140139598.0,Friday,No,2014-03-07T04:32:00.000,SearchWarr,"[-71.084315, 42.322643]",Point,SearchWarr,3,CD11  ,297,B2,Last,No,FENNO ST,Part three,Unarmed,768581.2072,,2942873.4239999996,2014
+208373,140162931.0,Friday,No,2014-03-07T12:00:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,3,IVDRUG,282,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+251092,140141195.0,Friday,No,2014-03-07T19:12:00.000,SearchWarr,"[-71.068135, 42.305341]",Point,SearchWarr,3,ARREST,341,C11,First,No,BOWDOIN ST,Part three,Unarmed,772988.8132,,2936590.084,2014

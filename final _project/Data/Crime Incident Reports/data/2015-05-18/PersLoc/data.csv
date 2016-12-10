@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3552,152040665.0,Monday,No,2015-05-18T08:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,,,,2015
+3602,152040886.0,Monday,No,2015-05-18T20:49:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,E13,First,No,HEATH ST,Other,Unarmed,,,,2015
+96861,152040970.0,Monday,No,2015-05-18T06:00:00.000,PersLoc,"[-71.066534, 42.313851]",Point,PersLoc,5,IVPER,0,C11,Last,No,PAYSON AV,Other,Unarmed,773405.9843,,2939693.4289999995,2015
+113119,152040892.0,Monday,No,2015-05-18T10:30:00.000,PersLoc,"[-71.10526, 42.323331]",Point,PersLoc,5,IVPER,0,E13,Day,No,GAY HEAD ST,Other,Unarmed,762916.0207,,2943097.2819999997,2015
+150260,152041098.0,Monday,No,2015-05-18T21:00:00.000,PersLoc,"[-71.14402, 42.286041]",Point,PersLoc,5,MISSIN,0,E5,First,No,BELGRADE AV,Other,Unarmed,752490.9648,,2929462.0539999995,2015
+184268,152041278.0,Monday,No,2015-05-18T07:30:00.000,PersLoc,"[-71.11582, 42.262541]",Point,PersLoc,5,MISSIN,0,E18,Day,No,LEXINGTON AV,Other,Unarmed,760160.0941,,2920931.432,2015

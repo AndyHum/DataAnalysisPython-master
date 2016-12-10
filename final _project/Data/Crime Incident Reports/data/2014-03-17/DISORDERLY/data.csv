@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56595,140163542.0,Monday,No,2014-03-17T17:43:00.000,DISORDERLY,"[-71.078452, 42.304244]",Point,24xx,3,ARREST,460,C11,First,No,MORSE ST,Part Two,Unarmed,770199.8024,,2936176.0889999997,2014
+92440,140162307.0,Monday,No,2014-03-17T02:20:00.000,DISORDERLY,"[-71.08179, 42.345411]",Point,24xx,3,ARREST,146,D4,Last,No,HUNTINGTON AV,Part Two,Unarmed,769223.4913,W NEWTON ST,2951173.874,2014
+121277,140163416.0,Monday,No,2014-03-17T16:46:00.000,DISORDERLY,"[-71.062525, 42.355916]",Point,24xx,3,ARREST,111,A1,First,No,TREMONT ST,Part Two,Unarmed,774411.8094,,2955028.2169999997,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60921,152046868.0,Saturday,No,2015-06-06T15:09:00.000,Service,"[-71.061235, 42.310371]",Point,Service,6,CD9,0,C11,Day,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015
+151956,152046730.0,Saturday,No,2015-06-06T07:00:00.000,Service,"[-71.095034, 42.275902]",Point,Service,6,CD11,0,B3,Last,No,TENNIS RD,Part three,Unarmed,765763.285,,2925826.202,2015
+175775,152046744.0,Saturday,No,2015-06-06T09:13:00.000,Service,"[-71.063757, 42.354358]",Point,Service,6,IVPER,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2015

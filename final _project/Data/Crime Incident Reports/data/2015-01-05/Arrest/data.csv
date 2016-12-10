@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+227186,152001373.0,Monday,No,2015-01-05T21:31:00.000,Arrest,"[-71.07572, 42.335536]",Point,Arrest,1,ARREST,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770882.3115,,2947583.349,2015
+263697,152001343.0,Monday,No,2015-01-05T19:43:00.000,Arrest,"[0, 0]",Point,Arrest,1,SS,0,B2,First,No,HARRISHOF ST,Part three,Unarmed,,HOLWORTHY ST,,2015

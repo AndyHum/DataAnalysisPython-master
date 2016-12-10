@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81872,130061572.0,Tuesday,No,2013-01-29T16:00:00.000,PropLost,"[-71.060515, 42.289416]",Point,PropLost,1,LSTPRP,366,C11,First,No,EDWIN ST,Part Three,Unarmed,775079.9488,,2930797.313,2013
+145072,130077411.0,Tuesday,No,2013-01-29T18:45:00.000,PropLost,"[-71.06336, 42.364091]",Point,PropLost,1,LARCRT,76,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774170.8689,MERRIMAC ST,2958006.189,2013
+172502,130059910.0,Tuesday,No,2013-01-29T11:00:00.000,PropLost,"[-71.122385, 42.257056]",Point,PropLost,1,LSTPRP,520,E18,Day,No,HARVARD AV,Part Three,Unarmed,758391.8746,,2918924.689,2013
+175172,130074805.0,Tuesday,No,2013-01-29T16:30:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,1,LARCRT,119,A1,First,No,BOYLSTON ST,Part Three,Other,773775.1158,,2953733.06,2013
+207606,130059795.0,Tuesday,No,2013-01-29T13:45:00.000,PropLost,"[-71.06166, 42.364266]",Point,PropLost,1,LARCRT,75,A1,Day,No,PORTLAND ST,Part Three,Unarmed,774629.9723,,2958072.32,2013
+208972,130061051.0,Tuesday,No,2013-01-29T22:30:00.000,PropLost,"[-71.09859, 42.332096]",Point,PropLost,1,LSTPRP,601,B2,First,No,TREMONT ST,Part Three,Unarmed,764704.7386,,2946299.8219999997,2013
+225336,130059503.0,Tuesday,No,2013-01-29T12:00:00.000,PropLost,"[-71.148398, 42.270909]",Point,PropLost,1,LSTPRP,706,E5,Day,No,MAPLEWOOD ST,Part Three,Unarmed,751329.0261,,2923942.58,2013

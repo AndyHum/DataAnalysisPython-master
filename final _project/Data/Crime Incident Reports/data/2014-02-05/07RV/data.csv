@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+171097,140074546.0,Wednesday,No,2014-02-05T12:00:00.000,07RV,"[-71.00424, 42.387491]",Point,07RV,2,RECMV ,7,A7,Day,No,BENNINGTON ST,Other,Unarmed,790098.5989,,2966620.932,2014
+176983,140074674.0,Wednesday,No,2014-02-05T16:45:00.000,07RV,"[-71.1342, 42.354901]",Point,07RV,2,RECMVO,768,D14,First,No,CAMBRIDGE ST,Other,Unarmed,755040.5122,,2954567.108,2014
+230873,140074460.0,Wednesday,No,2014-02-05T16:00:00.000,07RV,"[-71.0596, 42.324451]",Point,07RV,2,ILLPRK,214,C6,First,No,BOSTON ST,Other,Unarmed,775261.6036,,2943565.877,2014

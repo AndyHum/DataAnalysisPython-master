@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26637,152013826.0,Friday,No,2015-02-20T19:00:00.000,PropLost,"[-71.071555, 42.272931]",Point,PropLost,2,PROP,0,B3,First,No,OLD MORTON ST,Part three,Unarmed,772123.0179999999,,2924774.7539999997,2015
+35685,152018475.0,Friday,No,2015-02-20T16:30:00.000,PropLost,"[-71.114095, 42.314941]",Point,PropLost,2,MISC,0,E13,First,No,CENTRE ST,Part three,Unarmed,760540.6285,,2940028.887,2015
+52493,152022758.0,Friday,No,2015-02-20T12:00:00.000,PropLost,"[-71.064535, 42.375226]",Point,PropLost,2,PROP,0,A15,Day,No,AUSTIN ST,Part three,Unarmed,773832.6058,,2962062.387,2015
+57401,152013853.0,Friday,No,2015-02-20T20:00:00.000,PropLost,"[-71.140715, 42.348189]",Point,PropLost,2,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,753289.6735,WARREN ST,2952113.337,2015
+81419,152013754.0,Friday,No,2015-02-20T13:00:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,2,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+223471,152013775.0,Friday,No,2015-02-20T11:00:00.000,PropLost,"[-71.127627, 42.255195]",Point,PropLost,2,PROP,0,E18,Day,No,RIVER ST,Part three,Unarmed,756975.571,,2918240.278,2015
+263237,152015101.0,Friday,No,2015-02-20T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,MISC,0,C11,First,No,GIBSON ST,Part three,Unarmed,,,,2015
+267151,152026184.0,Friday,No,2015-02-20T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,E18,First,No,BIRCH ST,Part three,Unarmed,,,,2015

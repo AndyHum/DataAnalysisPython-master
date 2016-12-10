@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38528,142034157.0,Monday,No,2014-09-29T07:00:00.000,InvProp,"[-71.075925, 42.347156]",Point,InvProp,9,CD9,0,D4,Last,No,DARTMOUTH ST,Part three,Unarmed,770805.8297,,2951817.613,2014
+142391,142034372.0,Monday,No,2014-09-29T16:00:00.000,InvProp,"[-71.075925, 42.347156]",Point,InvProp,9,IVPREM,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770805.8297,,2951817.613,2014
+184215,142034249.0,Monday,No,2014-09-29T09:30:00.000,InvProp,"[-71.11451, 42.280554]",Point,InvProp,9,IVPREM,0,E18,Day,No,CANTERBURY ST,Part three,Other,760484.7762,,2927497.021,2014
+232365,142034199.0,Monday,No,2014-09-29T11:22:00.000,InvProp,"[-71.038912, 42.374688]",Point,InvProp,9,IVPREM,0,A7,Day,No,CENTRAL SQ,Part three,Unarmed,780756.9565,,2961902.499,2014
+246954,142034385.0,Monday,No,2014-09-29T20:47:00.000,InvProp,"[-71.06427, 42.306086]",Point,InvProp,9,BE,0,C11,First,No,FOX ST,Part three,Unarmed,774032.922,,2936866.8910000003,2014

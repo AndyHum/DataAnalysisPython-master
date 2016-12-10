@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4064,,Monday,No,2015-06-29T00:00:00.000,Simple Assault,"[-71.056727, 42.293238]",Point,08xx,6,IVPER,367,C11,,No,KING ST,Part Two,None,776097.0,,2930000.0,2015
+37816,,Monday,No,2015-06-29T00:00:00.000,Simple Assault,"[-71.125883, 42.248917]",Point,08xx,6,UNKEMS,522,E18,,No,WILTON ST,Part Two,None,757458.0,,2920000.0,2015
+53767,,Monday,No,2015-06-29T00:00:00.000,Simple Assault,"[-71.064323, 42.35311]",Point,08xx,6,IVPER,111,A1,,No,TREMONT ST,Part Two,None,773931.0,,2950000.0,2015
+63205,,Monday,No,2015-06-29T00:00:00.000,Simple Assault,"[-71.07934, 42.295977]",Point,08xx,6,ARREST,443,B3,,No,STANDISH ST,Part Two,None,769975.0,,2930000.0,2015
+117708,,Monday,No,2015-06-29T00:00:00.000,Simple Assault,"[-71.040303, 42.381665]",Point,08xx,6,AB,26,,,No,BORDER ST,Part Two,Other,780367.0,,2960000.0,2015
+134517,,Monday,No,2015-06-29T00:00:00.000,Simple Assault,"[-71.072934, 42.287343]",Point,08xx,6,ARREST,435,B3,,No,TORREY ST,Part Two,None,771723.0,,2930000.0,2015
+198870,,Monday,No,2015-06-29T00:00:00.000,Simple Assault,"[-71.070963, 42.319871]",Point,08xx,6,FIGHT,183,B2,,No,DUDLEY ST,Part Two,None,772197.0,,2940000.0,2015
+253646,,Monday,No,2015-06-29T13:48:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,0,,,No,COLUMBIA RD,Part Two,None,,,,2015

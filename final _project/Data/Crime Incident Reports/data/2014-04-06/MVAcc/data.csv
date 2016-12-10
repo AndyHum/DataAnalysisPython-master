@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38433,140207883.0,Sunday,No,2014-04-06T16:25:00.000,MVAcc,"[-71.08951, 42.350851]",Point,MVAcc,4,MVPED2,139,D4,First,No,BEACON ST,Other,Unarmed,767126.9838,MASSACHUSETTS AV,2953146.175,2014
+80996,140207837.0,Sunday,No,2014-04-06T16:16:00.000,MVAcc,"[-71.05778, 42.328261]",Point,MVAcc,4,MVAINJ,191,C6,First,No,BOSTON ST,Other,Other,775746.5725,,2944956.8510000003,2014
+90155,140206561.0,Sunday,No,2014-04-06T00:37:00.000,MVAcc,"[-71.09966, 42.327091]",Point,MVAcc,4,MVAINJ,585,B2,Last,No,FISHER AV,Other,Unarmed,764423.9817,PARKER ST,2944474.5489999996,2014
+111421,140207029.0,Sunday,No,2014-04-06T06:32:00.000,MVAcc,"[-71.12316, 42.363721]",Point,MVAcc,4,MVAINJ,814,D14,Last,No,WESTERN AV,Other,Unarmed,758010.3428,,2957794.288,2014
+243786,140207397.0,Sunday,No,2014-04-06T11:55:00.000,MVAcc,"[-71.07951, 42.296551]",Point,MVAcc,4,REQP  ,443,B3,Day,No,HARVARD ST,Other,Unarmed,769927.6267,STANDISH ST,2933371.5,2014

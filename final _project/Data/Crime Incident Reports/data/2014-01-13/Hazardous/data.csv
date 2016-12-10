@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145255,140026055.0,Monday,No,2014-01-13T21:09:00.000,Hazardous,"[-71.069959, 42.391119]",Point,Hazardous,1,HAZARD,49,A15,First,No,ALFORD ST,Other,Unarmed,772337.7794,,2967846.673,2014
+228765,140024968.0,Monday,No,2014-01-13T12:15:00.000,Hazardous,"[-71.06271, 42.347491]",Point,Hazardous,1,IVPREM,123,A1,Day,No,HARRISON AV,Other,Unarmed,774377.547,,2951957.731,2014

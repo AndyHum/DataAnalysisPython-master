@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25360,152017968.0,Wednesday,No,2015-03-04T17:30:00.000,InvPer,"[-71.09884, 42.341561]",Point,InvPer,3,MISC,0,D4,First,No,KILMARNOCK ST,Part three,Unarmed,764620.9192,,2949748.723,2015
+52932,152017582.0,Wednesday,No,2015-03-04T16:50:00.000,InvPer,"[-71.07278, 42.324196]",Point,InvPer,3,IVPER,0,B2,First,No,LANGDON ST,Part three,Unarmed,771697.7981,,2943454.6319999998,2015
+73118,152017539.0,Wednesday,No,2015-03-04T16:21:00.000,InvPer,"[-71.07843, 42.349776]",Point,InvPer,3,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2015
+188546,152017629.0,Wednesday,No,2015-03-04T19:36:00.000,InvPer,"[-71.156415, 42.339026]",Point,InvPer,3,LOCKOU,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,749058.9966,,2948756.8660000004,2015
+188555,152017651.0,Wednesday,No,2015-03-04T21:35:00.000,InvPer,"[-71.069802, 42.322607]",Point,InvPer,3,IVPER,0,B2,First,No,MARSHFIELD ST,Part three,Unarmed,772505.9969,,2942879.5360000003,2015
+239067,152017312.0,Wednesday,No,2015-03-04T01:21:00.000,InvPer,"[-71.08261, 42.337161]",Point,InvPer,3,DISTRB,0,D4,Last,No,DITMUS CT,Part three,Other,769016.5305,,2948166.337,2015
+252039,152017878.0,Wednesday,No,2015-03-04T15:50:00.000,InvPer,"[-71.056415, 42.326841]",Point,InvPer,3,LANTEN,0,C6,Day,No,KEMP ST,Part three,Unarmed,776118.3673,,2944441.296,2015
+253376,152017416.0,Wednesday,No,2015-03-04T11:07:00.000,InvPer,"[-71.152545, 42.266726]",Point,InvPer,3,ALARM,0,E5,Day,No,WEYMOUTH AV,Part three,Unarmed,750212.8102,,2922413.816,2015
+262788,152017405.0,Wednesday,No,2015-03-04T10:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,E13,Day,No,AMORY ST,Part three,Unarmed,,,,2015
+263310,152017566.0,Wednesday,No,2015-03-04T17:07:00.000,InvPer,"[0, 0]",Point,InvPer,3,PKNIFE,0,B2,First,No,WARREN AV,Part three,Other,,,,2015
+264005,152017355.0,Wednesday,No,2015-03-04T00:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,E13,Last,No,BROOKSIDE AV,Part three,Unarmed,,,,2015
+265688,152017751.0,Wednesday,No,2015-03-04T12:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,DISTRB,0,C11,Day,No,ADAMS ST,Part three,Unarmed,,,,2015
+265948,152017825.0,Wednesday,No,2015-03-04T09:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,E13,Day,No,CENTRE ST,Part three,Unarmed,,,,2015
+266384,152017595.0,Wednesday,No,2015-03-04T18:43:00.000,InvPer,"[0, 0]",Point,InvPer,3,DISTRB,0,C11,First,No,GENEVA AV,Part three,Unarmed,,,,2015

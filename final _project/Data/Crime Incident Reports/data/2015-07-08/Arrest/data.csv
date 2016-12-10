@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45342,,Wednesday,No,2015-07-08T11:46:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,0,,,No,,Part Three,None,,,,2015
+50752,,Wednesday,No,2015-07-08T08:30:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,118,B3,,No,BOYLSTON ST,Part Three,None,,,,2015
+197552,,Wednesday,No,2015-07-08T00:00:00.000,Warrant Arrests,"[-71.09039, 42.334025]",Point,Arrest,7,ARREST,289,B2,,No,TREMONT ST,Part Three,None,766918.0,,2950000.0,2015
+216178,,Wednesday,No,2015-07-08T19:32:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,0,,,No,,Part Three,None,,MILK ST,,2015
+245455,,Wednesday,No,2015-07-08T00:00:00.000,Warrant Arrests,"[-71.070853, 42.331521]",Point,Arrest,7,ARREST,177,C6,,No,MASSACHUSETTS AVE,Part Three,None,772205.0,,2950000.0,2015

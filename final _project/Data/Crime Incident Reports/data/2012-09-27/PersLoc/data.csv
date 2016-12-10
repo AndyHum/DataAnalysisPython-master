@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16926,120617511.0,Thursday,No,2012-09-27T12:30:00.000,PersLoc,"[-71.118309, 42.280236]",Point,PersLoc,9,MISPER,501,E18,Day,No,HADWIN WY,Part Three,Unarmed,759457.3219,,2927376.403,2012
+116467,120613189.0,Thursday,No,2012-09-27T06:20:00.000,PersLoc,"[-71.08893, 42.343806]",Point,PersLoc,9,MISPER,619,D4,Last,No,WESTLAND AV,Part Three,Unarmed,767296.1359,,2950579.599,2012
+158515,120607420.0,Thursday,No,2012-09-27T10:29:00.000,PersLoc,"[-71.062705, 42.348704]",Point,PersLoc,9,IVPER ,123,A1,Day,No,NASSAU ST,Part Three,Unarmed,774376.4,,2952399.752,2012
+188125,120611654.0,Thursday,No,2012-09-27T13:00:00.000,PersLoc,"[-71.069785, 42.299366]",Point,PersLoc,9,MISPER,357,C11,Day,No,DAKOTA ST,Part Three,Unarmed,772553.4617,,2934410.452,2012

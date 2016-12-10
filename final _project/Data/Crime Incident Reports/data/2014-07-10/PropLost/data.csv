@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51208,142008148.0,Thursday,No,2014-07-10T19:00:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,7,PROP,0,D4,First,No,DALTON ST,Part three,Other,768399.9598,,2951523.3460000004,2014
+67063,142007890.0,Thursday,No,2014-07-10T15:15:00.000,PropLost,"[-71.068448, 42.364408]",Point,PropLost,7,PROP,0,A1,Day,No,EMERSON PL,Part three,Unarmed,772795.1761,,2958114.7430000002,2014
+100609,142007941.0,Thursday,No,2014-07-10T18:01:00.000,PropLost,"[-71.06026, 42.378161]",Point,PropLost,7,PROP,0,A15,First,No,BUNKER HILL ST,Part three,Unarmed,774982.2177,,2963137.8880000003,2014
+109702,142008297.0,Thursday,No,2014-07-10T08:30:00.000,PropLost,"[-71.086495, 42.350521]",Point,PropLost,7,PROP,0,D4,Day,No,HEREFORD ST,Part three,Unarmed,767942.5490000001,,2953029.854,2014
+134767,142009734.0,Thursday,No,2014-07-10T00:01:00.000,PropLost,"[-71.08387, 42.295991]",Point,PropLost,7,PROP,0,B3,Last,No,HARVARD ST,Part three,Unarmed,768749.0615,,2933161.643,2014
+161424,142007899.0,Thursday,No,2014-07-10T15:50:00.000,PropLost,"[-71.06072, 42.355536]",Point,PropLost,7,PROP,0,A1,Day,No,WINTER ST,Part three,Unarmed,774900.3914,,2954892.244,2014
+191517,142021622.0,Thursday,No,2014-07-10T23:30:00.000,PropLost,"[-71.06521, 42.349691]",Point,PropLost,7,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,773697.6517,,2952755.997,2014

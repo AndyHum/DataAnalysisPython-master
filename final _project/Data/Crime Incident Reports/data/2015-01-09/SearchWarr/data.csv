@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39710,152002321.0,Friday,No,2015-01-09T09:00:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,1,ADMRPT,0,B2,Day,No,WASHINGTON ST,Part three,Other,768218.0809,,2945064.255,2015
+110561,152002322.0,Friday,No,2015-01-09T12:30:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,1,ADMRPT,0,B2,Day,No,WASHINGTON ST,Part three,Other,768218.0809,,2945064.255,2015
+177778,152002319.0,Friday,No,2015-01-09T12:30:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,1,ADMRPT,0,B2,Day,No,WASHINGTON ST,Part three,Other,768218.0809,,2945064.255,2015
+199230,152002320.0,Friday,No,2015-01-09T12:00:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,1,ADMRPT,0,B2,Day,No,WASHINGTON ST,Part three,Other,768218.0809,,2945064.255,2015

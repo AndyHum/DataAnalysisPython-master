@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67363,120542019.0,Thursday,No,2012-08-30T19:11:00.000,07RV,"[-71.07341, 42.325021]",Point,07RV,8,IVMV  ,181,B2,First,No,WOODWARD AV,Other,Unarmed,771525.8315,,2943754.437,2012
+114350,120540272.0,Thursday,No,2012-08-30T00:02:00.000,07RV,"[-71.05565, 42.365931]",Point,07RV,8,ARREST,80,A1,Last,No,CLEVELAND PL,Other,Unarmed,776251.0217,MARGARET ST,2958687.482,2012
+172491,120540537.0,Thursday,No,2012-08-30T03:22:00.000,07RV,"[-71.079652, 42.311398]",Point,07RV,8,IVMV  ,326,B2,Last,No,INTERVALE ST,Other,Other,769862.4169,,2938781.7,2012

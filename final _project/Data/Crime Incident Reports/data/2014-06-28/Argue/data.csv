@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79059,142004306.0,Saturday,No,2014-06-28T23:40:00.000,Argue,"[-71.068325, 42.299081]",Point,Argue,6,PKNIFE,0,C11,First,No,BLOOMFIELD ST,Part three,Unarmed,772948.953,,2934308.597,2014
+154083,142003722.0,Saturday,No,2014-06-28T06:18:00.000,Argue,"[-71.067175, 42.316924]",Point,Argue,6,IVPER,0,B2,Last,No,VIRGINIA ST,Part three,Unarmed,773226.8846,,2940812.425,2014
+225955,142003961.0,Saturday,No,2014-06-28T21:25:00.000,Argue,"[-71.09388, 42.348816]",Point,Argue,6,DISTRB,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,765949.262,,2952398.9280000003,2014
+257132,142003664.0,Saturday,No,2014-06-28T00:16:00.000,Argue,"[-71.09006, 42.324671]",Point,Argue,6,FIGHT,0,B2,Last,No,CEDAR ST,Part three,Unarmed,767024.1659,THORNTON ST,2943604.9889999996,2014

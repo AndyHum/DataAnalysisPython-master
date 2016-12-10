@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47421,130297866.0,Saturday,No,2013-05-18T14:30:00.000,PropLost,"[-71.16591, 42.351746]",Point,PropLost,5,LSTPRP,759,D14,Day,No,FANEUIL ST,Part three,Unarmed,746474.0254,,2953382.1960000005,2013
+93023,130299328.0,Saturday,No,2013-05-18T07:30:00.000,PropLost,"[-71.07517, 42.334901]",Point,PropLost,5,LSTPRP,170,D4,Day,No,HARRISON AV,Part Three,Unarmed,771032.1683,MASSACHUSETTS AV,2947352.683,2013
+137254,130296938.0,Saturday,No,2013-05-18T13:00:00.000,PropLost,"[-71.05078, 42.356576]",Point,PropLost,5,LSTPRP,72,A1,Day,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2013
+209072,130385092.0,Saturday,No,2013-05-18T17:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,5,LSTPRP,186,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2013
+240134,130299141.0,Saturday,No,2013-05-18T16:00:00.000,PropLost,"[-71.077145, 42.350131]",Point,PropLost,5,MISC  ,134,D4,First,No,BOYLSTON ST,Part Three,Unarmed,770470.6585,,2952900.122,2013
+262407,130306372.0,Saturday,No,2013-05-18T02:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCRT,305,B2,Last,No,WALNUT ST,Part three,Unarmed,,,,2013

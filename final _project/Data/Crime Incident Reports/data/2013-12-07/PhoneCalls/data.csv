@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17863,130772555.0,Saturday,No,2013-12-07T18:50:00.000,PhoneCalls,"[-71.1055, 42.342116]",Point,PhoneCalls,12,HARPT ,613,B2,First,No,PILGRIM RD,Part three,Other,762819.4562,,2949942.578,2013
+79397,130772091.0,Saturday,No,2013-12-07T13:15:00.000,PhoneCalls,"[-71.106975, 42.334666]",Point,PhoneCalls,12,THREAT,611,B2,Day,No,FENWOOD RD,Part three,Unarmed,762433.2051,,2947225.818,2013
+141733,130777530.0,Saturday,No,2013-12-07T01:00:00.000,PhoneCalls,"[-71.060855, 42.293001]",Point,PhoneCalls,12,IVPER ,363,C11,Last,No,WHITTEN ST,Part three,Unarmed,774981.2305,,2932103.2610000004,2013
+152258,130776059.0,Saturday,No,2013-12-07T21:45:00.000,PhoneCalls,"[-71.079886, 42.343126]",Point,PhoneCalls,12,INVEST,148,D4,First,No,W RUTLAND SQ,Part three,Unarmed,769742.2262,,2950343.47,2013

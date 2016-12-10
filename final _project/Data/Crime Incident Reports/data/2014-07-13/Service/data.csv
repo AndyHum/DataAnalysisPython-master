@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86915,142008869.0,Sunday,No,2014-07-13T18:00:00.000,Service,"[-71.073978, 42.333151]",Point,Service,7,ARREST,0,D4,First,No,ALBANY ST,Part three,Unarmed,771357.6081,,2946716.26,2014
+104053,142008655.0,Sunday,No,2014-07-13T03:00:00.000,Service,"[-71.085618, 42.32866]",Point,Service,7,PROP,0,B2,Last,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+139443,142008827.0,Sunday,No,2014-07-13T17:47:00.000,Service,"[-71.067725, 42.327786]",Point,Service,7,ARREST,0,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,773058.2678,PROCTOR ST,2944769.9680000003,2014
+163873,142008756.0,Sunday,No,2014-07-13T14:10:00.000,Service,"[-71.0626, 42.352361]",Point,Service,7,SS,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774398.1813,ESSEX ST,2953732.602,2014
+253375,142008796.0,Sunday,No,2014-07-13T16:30:00.000,Service,"[-71.006569, 42.387833]",Point,Service,7,ARREST,0,A7,First,No,BREED ST,Part three,Unarmed,789468.5972,,2966741.894,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1157,140272105.0,Sunday,No,2014-05-04T02:04:00.000,PersLoc,"[-71.090055, 42.294061]",Point,PersLoc,5,MISPER,463,B3,Last,No,WILBERT RD,Other,Unarmed,767079.1298,,2932450.22,2014
+50242,140283205.0,Sunday,No,2014-05-04T12:00:00.000,PersLoc,"[-71.10171, 42.264576]",Point,PersLoc,5,MISPER,485,E18,Day,No,ALPINE ST,Other,Unarmed,763976.0182,,2921690.5310000004,2014
+72935,140273835.0,Sunday,No,2014-05-04T21:31:00.000,PersLoc,"[-71.1092, 42.333231]",Point,PersLoc,5,INVCHD,605,B2,First,No,HUNTINGTON AV,Other,Unarmed,761834.0078,,2946700.113,2014
+101108,140272967.0,Sunday,No,2014-05-04T01:45:00.000,PersLoc,"[-71.07689, 42.322556]",Point,PersLoc,5,MISPER,262,B2,Last,No,BLUE HILL AV,Other,Unarmed,770589.4351,,2942851.64,2014
+165794,140272561.0,Sunday,No,2014-05-04T09:26:00.000,PersLoc,"[-71.110327, 42.32124]",Point,PersLoc,5,MSNCOM,578,E13,Day,No,CENTRE ST,Other,Unarmed,761549.0336,,2942329.0330000003,2014
+195123,140273341.0,Sunday,No,2014-05-04T16:35:00.000,PersLoc,"[-71.133025, 42.355406]",Point,PersLoc,5,FDCHLD,803,D14,First,No,CAMBRIDGE ST,Other,Unarmed,755357.3143,WILTON ST,2954752.5039999997,2014
+263942,140271746.0,Sunday,No,2014-05-04T00:14:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,MISPER,503,B3,Last,No,W MAIN ST,Other,Unarmed,,,,2014

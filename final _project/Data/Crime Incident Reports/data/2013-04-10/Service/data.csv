@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52714,130210911.0,Wednesday,No,2013-04-10T10:15:00.000,Service,"[-71.05879, 42.306001]",Point,Service,4,ARREST,347,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,775515.4234,LINDEN ST,2936843.5360000003,2013
+138244,130210981.0,Wednesday,No,2013-04-10T11:00:00.000,Service,"[-71.06398, 42.305526]",Point,Service,4,IVPREM,346,C11,Day,No,MARIE ST,Part Three,Unarmed,774112.41,,2936663.22,2013
+244603,130213220.0,Wednesday,No,2013-04-10T19:05:00.000,Service,"[-71.089215, 42.340161]",Point,Service,4,INVEST,283,D4,First,No,HUNTINGTON AV,Part Three,Unarmed,767225.4855,,2949250.922,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80569,140037382.0,Sunday,No,2014-01-19T01:45:00.000,InvProp,"[-71.02818, 42.334881]",Point,InvProp,1,REQPE ,228,C6,Last,No,E 4TH ST,Part three,Unarmed,783737.2208,,2947412.175,2014
+101749,140038887.0,Sunday,No,2014-01-19T23:29:00.000,InvProp,"[-71.088437, 42.345644]",Point,InvProp,1,IVPER ,620,D4,First,No,STONEHOLM ST,Part three,Unarmed,767425.9917,,2951249.9910000004,2014
+191475,140038013.0,Sunday,No,2014-01-19T12:43:00.000,InvProp,"[-71.1317, 42.268786]",Point,InvProp,1,CTYALM,550,E18,Day,No,WEST ST,Part three,Unarmed,755851.7471,,2923188.233,2014
+231943,140038618.0,Sunday,No,2014-01-19T19:42:00.000,InvProp,"[-71.057735, 42.298051]",Point,InvProp,1,ALARMC,355,C11,First,No,GIBSON ST,Part three,Unarmed,775815.8226,,2933947.916,2014

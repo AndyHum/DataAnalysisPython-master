@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28133,130540128.0,Monday,No,2013-08-26T19:06:00.000,Service,"[-71.064225, 42.304776]",Point,Service,8,IVPER ,345,C11,First,No,MT IDA RD,Part three,Unarmed,774047.5345,,2936389.5689999997,2013
+29012,130540145.0,Monday,No,2013-08-26T19:49:00.000,Service,"[-71.17312, 42.351201]",Point,Service,8,IVPER ,755,D14,First,No,TREMONT ST,Part three,Other,744525.8777,,2953176.035,2013
+51742,130540068.0,Monday,No,2013-08-26T18:43:00.000,Service,"[-71.064905, 42.352371]",Point,Service,8,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+196217,130539037.0,Monday,No,2013-08-26T11:09:00.000,Service,"[-71.03981, 42.376191]",Point,Service,8,ARREST,27,A7,Day,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2013
+211698,130539086.0,Monday,No,2013-08-26T11:37:00.000,Service,"[-71.08609, 42.336106]",Point,Service,8,ARREST,285,D4,Day,No,TREMONT ST,Part three,Unarmed,768077.5159,,2947777.29,2013

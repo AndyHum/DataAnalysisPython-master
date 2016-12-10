@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14171,130545922.0,Thursday,No,2013-08-29T09:15:00.000,TRESPASS,"[-71.053815, 42.376351]",Point,TRESPASS,8,BEIP  ,38,A15,Day,No,3RD AV,Part Two,Unarmed,776727.0554,,2962487.3310000002,2013
+26886,130545426.0,Thursday,No,2013-08-29T01:30:00.000,TRESPASS,"[-71.064905, 42.352371]",Point,TRESPASS,8,ARREST,118,A1,Last,No,BOYLSTON ST,Part Two,Unarmed,773775.1158,,2953733.06,2013
+116666,130547186.0,Thursday,No,2013-08-29T19:30:00.000,TRESPASS,"[-71.055312, 42.327496]",Point,TRESPASS,8,IVPER ,224,C6,First,No,OCALLAGHAN WY,Part Two,Unarmed,776415.2591,,2944681.3510000003,2013

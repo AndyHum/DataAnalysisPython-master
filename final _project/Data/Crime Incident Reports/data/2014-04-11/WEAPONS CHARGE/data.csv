@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8631,140220393.0,Friday,No,2014-04-11T22:29:00.000,WEAPONS CHARGE,"[-71.06689, 42.290011]",Point,15xx,4,ARREST,397,C11,First,No,BRENT ST,Part Two,Firearm,773353.9559999999,WAINWRIGHT ST,2931005.315,2014
+127311,140220475.0,Friday,No,2014-04-11T23:15:00.000,WEAPONS CHARGE,"[-71.07979, 42.286106]",Point,15xx,4,IVMV  ,437,B3,First,No,NORFOLK ST,Part Two,Firearm,769870.6262,,2929564.817,2014
+179065,140220449.0,Friday,No,2014-04-11T23:00:00.000,WEAPONS CHARGE,"[-71.08677, 42.322723]",Point,15xx,4,FDWEAP,298,B2,First,No,ROCKLAND ST,Part Two,Firearm,767917.2751,,2942899.1,2014

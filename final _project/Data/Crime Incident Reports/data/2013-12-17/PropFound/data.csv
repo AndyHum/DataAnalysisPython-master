@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61763,130792655.0,Tuesday,No,2013-12-17T11:30:00.000,PropFound,"[-71.07974, 42.349416]",Point,PropFound,12,FDPROP,138,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769770.4817,,2952636.0960000004,2013
+64565,130794794.0,Tuesday,No,2013-12-17T14:00:00.000,PropFound,"[-71.06874, 42.347176]",Point,PropFound,12,FDPROP,161,D4,Day,No,TREMONT ST,Part three,Unarmed,772748.0771,,2951834.64,2013
+257441,130795149.0,Tuesday,No,2013-12-17T22:15:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,12,LSTPRP,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2013

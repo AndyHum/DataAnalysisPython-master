@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37076,140340125.0,Saturday,No,2014-05-31T01:27:00.000,Service,"[-71.08522, 42.303441]",Point,Service,5,IVPER ,330,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768370.6261,FRANKLIN PARK RD,2935874.758,2014
+230475,140341506.0,Saturday,No,2014-05-31T16:10:00.000,Service,"[-71.11867, 42.262546]",Point,Service,5,MVANO ,495,E18,First,No,CENTRAL AV,Part three,Unarmed,759388.6189,,2920929.79,2014
+246042,140341746.0,Saturday,No,2014-05-31T19:31:00.000,Service,"[-71.05246, 42.294481]",Point,Service,5,IVDRUG,368,C11,First,No,NEPONSET AV,Part three,Unarmed,777249.718,KING ST,2932654.4,2014

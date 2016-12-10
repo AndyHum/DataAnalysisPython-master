@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60051,,Saturday,No,2015-08-01T00:00:00.000,Warrant Arrests,"[-71.079387, 42.284114]",Point,Arrest,8,CD11,434,B3,,No,STANTON ST,Part Three,None,769983.0,,2930000.0,2015
+197847,,Saturday,No,2015-08-01T00:00:00.000,Warrant Arrests,"[-71.065932, 42.361223]",Point,Arrest,8,ARREST,65,A1,,No,CAMBRIDGE ST,Part Three,None,773481.0,,2960000.0,2015
+225812,,Saturday,No,2015-08-01T00:00:00.000,Warrant Arrests,"[-71.038631, 42.380123]",Point,Arrest,8,SS,24,A7,,No,MARION ST,Part Three,None,780822.0,,2960000.0,2015

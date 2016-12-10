@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37080,130815941.0,Sunday,No,2013-12-29T00:45:00.000,FIRE,"[-71.07955, 42.336331]",Point,FIRE,12,FIREB ,937,D4,Last,No,SHAWMUT AV,Part three,Other,769845.3464,,2947867.933,2013
+94852,130817204.0,Sunday,No,2013-12-29T19:32:00.000,FIRE,"[-71.080019, 42.274578]",Point,FIRE,12,REQP  ,943,B3,First,No,STANDARD ST,Part three,Unarmed,769829.1535,,2925363.5489999996,2013
+228581,130816276.0,Sunday,No,2013-12-29T08:23:00.000,FIRE,"[-71.062695, 42.291476]",Point,FIRE,12,FIREB ,396,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774486.2561,,2931544.972,2013

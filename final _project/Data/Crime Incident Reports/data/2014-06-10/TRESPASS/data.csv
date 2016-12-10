@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23019,140367618.0,Tuesday,No,2014-06-10T21:28:00.000,TRESPASS,"[-71.07805, 42.321431]",Point,TRESPASS,6,TRANSP,265,B2,First,No,IRWIN AV,Part Two,Unarmed,770277.7651,BLUE HILL AV,2942440.117,2014
+93524,140365284.0,Tuesday,No,2014-06-10T00:45:00.000,TRESPASS,"[-71.05732, 42.351086]",Point,TRESPASS,6,ARREST,115,A1,Last,No,SOUTH ST,Part Two,Unarmed,775827.7901,,2953275.332,2014
+142872,140367387.0,Tuesday,No,2014-06-10T19:25:00.000,TRESPASS,"[-71.048671, 42.331044]",Point,TRESPASS,6,ARREST,915,C6,First,No,CARMODY CT,Part Two,Unarmed,778204.1614,,2945983.887,2014

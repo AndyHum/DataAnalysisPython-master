@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3591,142032850.0,Thursday,No,2014-09-25T09:30:00.000,PubDrink,"[-71.107875, 42.318581]",Point,PubDrink,9,ARREST,0,E13,Day,No,ST PETER ST,Part Two,Unarmed,762216.8098,,2941363.038,2014
+50237,142032933.0,Thursday,No,2014-09-25T14:15:00.000,PubDrink,"[-71.07632, 42.350356]",Point,PubDrink,9,ARREST,0,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770693.2587,,2952983.224,2014
+232842,142033028.0,Thursday,No,2014-09-25T18:20:00.000,PubDrink,"[-71.05158, 42.358761]",Point,PubDrink,9,ARREST,0,A1,First,No,MILK ST,Part Two,Unarmed,777364.6527,ATLANTIC AV,2956080.3510000003,2014

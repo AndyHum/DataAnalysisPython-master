@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65380,142034173.0,Monday,No,2014-09-29T10:38:00.000,DRUG CHARGES,"[-71.05694, 42.330301]",Point,18xx,9,IVPER,0,C6,Day,No,DORCHESTER AV,Part Two,Other,775969.8515,,2945701.44,2014
+175519,142034182.0,Monday,No,2014-09-29T11:00:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,9,IVPREM,0,E18,Day,No,HYDE PARK AV,Part Two,Other,757969.2324,,2918691.415,2014
+188285,142034191.0,Monday,No,2014-09-29T11:30:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,9,IVPREM,0,E18,Day,No,HYDE PARK AV,Part Two,Other,757969.2324,,2918691.415,2014

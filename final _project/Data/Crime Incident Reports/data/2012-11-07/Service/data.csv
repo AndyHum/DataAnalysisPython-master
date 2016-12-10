@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101397,120701406.0,Wednesday,No,2012-11-07T07:49:00.000,Service,"[-71.097081, 42.319472]",Point,Service,11,ARREST,304,B2,Day,No,DIMOCK ST,Part Three,Unarmed,765134.3663,,2941701.057,2012
+135747,120701742.0,Wednesday,No,2012-11-07T10:30:00.000,Service,"[-71.050895, 42.366741]",Point,Service,11,IVPREM,89,A1,Day,No,BATTERY WF,Part Three,Unarmed,777534.4793,,2958989.393,2012
+159346,120702376.0,Wednesday,No,2012-11-07T15:12:00.000,Service,"[-71.056041, 42.342169]",Point,Service,11,CD11  ,0,C6,Day,No,W BROADWAY,Part Three,Unarmed,776190.2658,,2950027.5960000004,2012
+231477,120702340.0,Wednesday,No,2012-11-07T12:58:00.000,Service,"[-71.091095, 42.340651]",Point,Service,11,ARREST,595,D4,Day,No,FORSYTH ST,Part Three,Unarmed,766716.3625,HEMENWAY ST,2949427.045,2012
+249648,120704050.0,Wednesday,No,2012-11-07T16:00:00.000,Service,"[-71.071885, 42.351536]",Point,Service,11,VANRPT,134,D4,First,No,BOYLSTON ST,Part Three,Unarmed,771889.9292,,2953419.2260000003,2012

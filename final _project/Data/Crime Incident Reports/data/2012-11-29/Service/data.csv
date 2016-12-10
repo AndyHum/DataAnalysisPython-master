@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53940,120749809.0,Thursday,No,2012-11-29T20:31:00.000,Service,"[-71.039304, 42.382306]",Point,Service,11,IVPER ,26,A7,First,No,MERIDIAN ST,Part Three,Unarmed,780636.0627,,2964678.298,2012
+72531,120748210.0,Thursday,No,2012-11-29T08:04:00.000,Service,"[-71.089268, 42.295385]",Point,Service,11,ARREST,908,B3,Day,No,SHANDON RD,Part Three,Unarmed,767289.676,,2932933.422,2012
+88099,120748167.0,Thursday,No,2012-11-29T07:49:00.000,Service,"[-71.098528, 42.327445]",Point,Service,11,ARREST,586,B2,Day,No,TERRACE ST,Part Three,Unarmed,764729.4865,,2944604.955,2012
+217305,120748368.0,Thursday,No,2012-11-29T09:25:00.000,Service,"[-71.13106, 42.350481]",Point,Service,11,ARREST,801,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,755896.1988,HARVARD AV,2952960.025,2012

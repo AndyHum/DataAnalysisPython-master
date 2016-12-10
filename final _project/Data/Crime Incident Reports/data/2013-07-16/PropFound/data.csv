@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21118,130439057.0,Tuesday,No,2013-07-16T01:28:00.000,PropFound,"[-71.09551, 42.334101]",Point,PropFound,7,IVPER ,901,B2,Last,No,MCGREEVEY WY,Part three,Unarmed,765534.0738,PARKER ST,2947034.413,2013
+138626,130443087.0,Tuesday,No,2013-07-16T18:00:00.000,PropFound,"[-71.08257, 42.348656]",Point,PropFound,7,LSTPRP,143,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2013
+179044,130442891.0,Tuesday,No,2013-07-16T13:00:00.000,PropFound,"[-71.096413, 42.344914]",Point,PropFound,7,FDPROP,624,D4,Day,No,BOYLSTON ST,Part three,Unarmed,765271.056,,2950973.562,2013
+196316,130439743.0,Tuesday,No,2013-07-16T12:00:00.000,PropFound,"[-71.08746, 42.346791]",Point,PropFound,7,DETAIL,620,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,767688.2733,,2951669.308,2013
+221255,130439093.0,Tuesday,No,2013-07-16T02:00:00.000,PropFound,"[-71.10536, 42.316951]",Point,PropFound,7,FDPROP,638,E13,Last,No,BOYLSTON ST,Part three,Unarmed,762899.735,DANFORTH ST,2940772.1739999996,2013
+234914,130440080.0,Tuesday,No,2013-07-16T14:15:00.000,PropFound,"[-71.124766, 42.304024]",Point,PropFound,7,FDPROP,657,E13,Day,No,CENTRE ST,Part three,Unarmed,757671.8356,,2936037.466,2013
+255449,130439802.0,Tuesday,No,2013-07-16T12:00:00.000,PropFound,"[-71.087635, 42.347111]",Point,PropFound,7,FDPROP,598,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,767640.4026,,2951785.693,2013

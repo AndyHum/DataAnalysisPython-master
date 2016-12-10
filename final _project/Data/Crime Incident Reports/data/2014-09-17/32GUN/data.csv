@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84464,142030236.0,Wednesday,No,2014-09-17T08:56:00.000,32GUN,"[-71.061779, 42.363537]",Point,32GUN,9,IVPER,0,A1,Day,No,MERRIMAC ST,Part three,Other,774598.9478,,2957806.2569999998,2014
+138573,142030260.0,Wednesday,No,2014-09-17T11:48:00.000,32GUN,"[-71.04945, 42.333701]",Point,32GUN,9,BUYBAC,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,777988.5775,,2946951.067,2014
+194802,142030439.0,Wednesday,No,2014-09-17T21:14:00.000,32GUN,"[-71.043308, 42.346892]",Point,32GUN,9,INVEST,0,C6,First,No,SUMMER ST,Part three,Unarmed,779623.2724,,2951766.909,2014

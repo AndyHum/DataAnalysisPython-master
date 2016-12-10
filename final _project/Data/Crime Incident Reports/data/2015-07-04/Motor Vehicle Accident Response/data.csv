@@ -1,0 +1,20 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40077,,Saturday,No,2015-07-04T15:57:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,302,B2,,No,CENTRE ST,Part Three,None,,COLUMBUS AVE,,2015
+82951,,Saturday,No,2015-07-04T13:42:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,685,E5,,No,ENNEKING PKWY,Part Three,None,, WASHINGTON ST ,,2015
+90194,,Saturday,No,2015-07-04T01:24:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,0,,,No,,Part Three,None,,HARVARD ST,,2015
+98240,,Saturday,No,2015-07-04T15:00:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,IVMV,356,C11,,No,DORCHESTER AVE,Part Three,None,,,,2015
+120599,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.05541, 42.316683]",Point,MVAcc,7,MVA,246,C11,,No,SUDAN ST,Part Three,None,776409.0,,2940000.0,2015
+150031,,Saturday,No,2015-07-04T01:47:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,72,A1,,No,BOWDOIN ST,Part Three,None,,CAMBRIDGE ST,,2015
+152980,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.088878, 42.279671]",Point,MVAcc,7,MVA,427,B3,,No,NORFOLK ST,Part Three,None,767423.0,,2930000.0,2015
+159200,,Saturday,No,2015-07-04T23:37:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,0,,,No,RUTHVEN ST,Part Three,None,,,,2015
+164934,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.087296, 42.297337]",Point,MVAcc,7,MVA,463,B3,,No,BLUE HILL AVE,Part Three,None,767820.0,,2930000.0,2015
+167513,,Saturday,No,2015-07-04T23:23:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,9,A7,,No,WALDEMAR AVE,Part Three,None,,WILLIAM F MCCLELLAN HWY,,2015
+168681,,Saturday,No,2015-07-04T02:52:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,IVPER,112,A1,,No,ESSEX ST,Part Three,None,,HARRISON AVE,,2015
+187215,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.073855, 42.315984]",Point,MVAcc,7,MVA,324,B2,,No,SARGENT ST,Part Three,None,771422.0,,2940000.0,2015
+200777,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.074147, 42.299233]",Point,MVAcc,7,MVA,454,C11,,No,HARVARD ST,Part Three,None,771374.0,,2930000.0,2015
+201378,,Saturday,No,2015-07-04T23:50:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,182,B2,,No,CLIFTON ST,Part Three,None,,SHIRLEY ST,,2015
+205388,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.059237, 42.318684]",Point,MVAcc,7,MVA,236,C11,,No,E COTTAGE ST,Part Three,None,775371.0,,2940000.0,2015
+214648,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.096709, 42.314405]",Point,MVAcc,7,MVA,572,E13,,No,COLUMBUS AVE,Part Three,None,765244.0,,2940000.0,2015
+218611,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.077195, 42.322032]",Point,MVAcc,7,MVA,265,B2,,No,BLUE HILL AVE,Part Three,None,770508.0,,2940000.0,2015
+220239,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.061908, 42.287418]",Point,MVAcc,7,MVA,393,C11,,No,DRACUT ST,Part Three,None,774707.0,,2930000.0,2015
+258103,,Saturday,No,2015-07-04T00:00:00.000,Motor Vehicle Accident Response,"[-71.096068, 42.348776]",Point,MVAcc,7,MVA,623,D4,,No,COMMONWEALTH AVE,Part Three,None,765358.0,,2950000.0,2015

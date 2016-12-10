@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142354,152009697.0,Thursday,No,2015-02-05T17:00:00.000,PersLoc,"[-71.117583, 42.278591]",Point,PersLoc,2,MISSIN,0,E18,First,No,CANTERBURY ST,Other,Unarmed,759656.4721,,2926777.8680000002,2015
+195576,152010145.0,Thursday,No,2015-02-05T12:05:00.000,PersLoc,"[-71.066885, 42.362496]",Point,PersLoc,2,MISSIN,0,A1,Day,No,BLOSSOM ST,Other,Unarmed,773221.1808,,2957420.083,2015
+215445,152009702.0,Thursday,No,2015-02-05T15:08:00.000,PersLoc,"[-71.0958, 42.285506]",Point,PersLoc,2,IVPER,0,B3,Day,No,DEERING RD,Other,Unarmed,765539.5814,,2929325.233,2015
+260983,152009663.0,Thursday,No,2015-02-05T15:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,IVPER,0,C11,Day,No,EAST ST,Other,Unarmed,,,,2015

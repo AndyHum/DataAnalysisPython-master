@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+149647,152020283.0,Friday,No,2015-03-13T12:40:00.000,Arrest,"[-71.060825, 42.351386]",Point,Arrest,3,IVPER,0,A1,Day,No,BEACH ST,Part three,Unarmed,774879.7976,,2953379.76,2015
+156892,152020243.0,Friday,No,2015-03-13T11:30:00.000,Arrest,"[-71.06287, 42.352321]",Point,Arrest,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2015
+161346,152020175.0,Friday,No,2015-03-13T01:07:00.000,Arrest,"[-71.088194, 42.307145]",Point,Arrest,3,ARREST,0,B2,Last,No,SEAVER ST,Part three,Unarmed,767559.3509999999,,2937220.7060000002,2015

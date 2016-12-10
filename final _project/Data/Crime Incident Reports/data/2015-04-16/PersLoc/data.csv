@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54023,152031400.0,Thursday,No,2015-04-16T08:30:00.000,PersLoc,"[-71.104114, 42.269872]",Point,PersLoc,4,IVPER,0,E18,Day,No,RUGBY RD,Other,Unarmed,763316.1327,,2923617.375,2015
+55074,152031191.0,Thursday,No,2015-04-16T06:30:00.000,PersLoc,"[-71.066805, 42.292011]",Point,PersLoc,4,IVPER,0,C11,Last,No,ALLSTON ST,Other,Unarmed,773373.2534,,2931734.2589999996,2015
+110932,152031181.0,Thursday,No,2015-04-16T21:00:00.000,PersLoc,"[-71.070835, 42.331511]",Point,PersLoc,4,IVPER,0,C6,First,No,MASSACHUSETTS AV,Other,Unarmed,772210.4703,,2946123.1760000004,2015
+191979,152031135.0,Thursday,No,2015-04-16T07:15:00.000,PersLoc,"[-71.085911, 42.287721]",Point,PersLoc,4,MISSIN,0,B3,Last,No,CALLENDER ST,Other,Unarmed,768211.3775,,2930145.1,2015

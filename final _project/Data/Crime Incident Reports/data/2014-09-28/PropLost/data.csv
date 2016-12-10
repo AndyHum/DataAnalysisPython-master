@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46000,142034229.0,Sunday,No,2014-09-28T00:00:00.000,PropLost,"[-71.062109, 42.358107]",Point,PropLost,9,ADMRPT,0,A1,Last,No,BEACON ST,Part three,Unarmed,774520.0939,,2955827.087,2014
+90061,142033978.0,Sunday,No,2014-09-28T12:20:00.000,PropLost,"[-71.06487, 42.379446]",Point,PropLost,9,PROP,0,A15,Day,No,SULLIVAN ST,Part three,Unarmed,773734.2422,,2963599.7810000004,2014
+104637,142034285.0,Sunday,No,2014-09-28T14:30:00.000,PropLost,"[-71.074855, 42.350756]",Point,PropLost,9,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2014
+106438,142034051.0,Sunday,No,2014-09-28T19:00:00.000,PropLost,"[-71.133025, 42.355406]",Point,PropLost,9,PROP,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,755357.3143,,2954752.5039999997,2014
+114347,142034204.0,Sunday,No,2014-09-28T20:00:00.000,PropLost,"[-71.05903, 42.353676]",Point,PropLost,9,LARCEN,0,A1,First,No,KINGSTON ST,Part three,Unarmed,775360.6831,,2954216.7819999997,2014
+114966,142034045.0,Sunday,No,2014-09-28T21:00:00.000,PropLost,"[-71.09094, 42.295281]",Point,PropLost,9,PROP,0,B3,First,No,FRANKLIN HILL AV,Part three,Unarmed,766837.5584,FERMOY HTS AV,2932893.6560000004,2014
+146948,142035068.0,Sunday,No,2014-09-28T20:00:00.000,PropLost,"[-71.068825, 42.303566]",Point,PropLost,9,PROP,0,C11,First,No,LEVANT ST,Part three,Unarmed,772805.4353,,2935942.3030000003,2014
+158111,142034122.0,Sunday,No,2014-09-28T19:00:00.000,PropLost,"[-71.106622, 42.325366]",Point,PropLost,9,PROP,0,E13,First,No,MINDEN ST,Part three,Unarmed,762544.0424,,2943836.9669999997,2014
+266366,142033958.0,Sunday,No,2014-09-28T15:55:00.000,PropLost,"[0, 0]",Point,PropLost,9,IVPER,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,,,,2014

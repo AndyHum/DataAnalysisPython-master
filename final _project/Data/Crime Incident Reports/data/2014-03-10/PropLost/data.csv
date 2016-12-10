@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44600,140146820.0,Monday,No,2014-03-10T12:30:00.000,PropLost,"[-71.008841, 42.385972]",Point,PropLost,3,LSTPRP,12,A7,Day,No,BENNINGTON ST,Part three,Unarmed,788858.6962,,2966060.0089999996,2014
+85209,140152421.0,Monday,No,2014-03-10T08:30:00.000,PropLost,"[-71.06982, 42.345251]",Point,PropLost,3,LSTPRP,160,D4,Day,No,TREMONT ST,Part three,Unarmed,772459.6640000001,E BERKELEY ST,2951131.66,2014
+104332,140146233.0,Monday,No,2014-03-10T04:00:00.000,PropLost,"[-71.150915, 42.348981]",Point,PropLost,3,LSTPRP,778,D14,Last,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72933,152004995.0,Monday,No,2015-01-19T11:00:00.000,PropLost,"[-71.07517, 42.334901]",Point,PropLost,1,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771032.1685,HARRISON AV,2947352.683,2015
+94187,152007644.0,Monday,No,2015-01-19T13:00:00.000,PropLost,"[-71.079605, 42.347101]",Point,PropLost,1,PROP,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769811.1326,,2951792.646,2015
+178435,152005242.0,Monday,No,2015-01-19T15:00:00.000,PropLost,"[-71.09154, 42.284251]",Point,PropLost,1,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766694.4791,MORTON ST,2928873.3839999996,2015
+181445,152005115.0,Monday,No,2015-01-19T14:00:00.000,PropLost,"[-71.07203, 42.339206]",Point,PropLost,1,PROP,0,D4,Day,No,E BROOKLINE ST,Part three,Unarmed,771873.282,,2948925.7460000003,2015
+263316,152005332.0,Monday,No,2015-01-19T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,C11,First,No,GIBSON ST,Part three,Unarmed,,,,2015

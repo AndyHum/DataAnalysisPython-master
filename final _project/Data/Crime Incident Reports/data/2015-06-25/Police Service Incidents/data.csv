@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60848,,Thursday,No,2015-06-25T12:37:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,118,B3,,No,BOYLSTON ST,Part Three,None,,,,2015
+73217,,Thursday,No,2015-06-25T00:00:00.000,Police Service Incidents,"[-71.039291, 42.370818]",Point,Service,6,CD9,28,A7,,No,PARIS ST,Part Three,None,780662.0,,2960000.0,2015
+93509,,Thursday,No,2015-06-25T17:54:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,SS,0,B2,,No,,Part Three,None,,,,2015
+187404,,Thursday,No,2015-06-25T17:11:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,276,B2,,No,RUGGLES ST,Part Three,None,,,,2015
+211242,,Thursday,No,2015-06-25T00:00:00.000,Police Service Incidents,"[-71.08565, 42.336409]",Point,Service,6,IVPER,285,D4,,No,TREMONT ST,Part Three,None,768196.0,,2950000.0,2015
+225398,,Thursday,No,2015-06-25T19:42:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,387,C11,,No,ADAMS ST,Part Three,None,,,,2015

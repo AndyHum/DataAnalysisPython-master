@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98510,120614613.0,Sunday,No,2012-09-30T04:39:00.000,FIRE,"[-71.07142, 42.338671]",Point,FIRE,9,FIREB ,905,D4,Last,No,E BROOKLINE ST,Part Three,Other,772039.1799,,2948731.611,2012
+108379,120614486.0,Sunday,No,2012-09-30T02:58:00.000,FIRE,"[-71.089665, 42.343916]",Point,FIRE,9,FIREB ,619,D4,Last,No,WESTLAND AV,Part Three,Unarmed,767097.2433,,2950618.728,2012
+115378,120615454.0,Sunday,No,2012-09-30T16:29:00.000,FIRE,"[-71.099872, 42.278141]",Point,FIRE,9,FIREB ,470,B3,First,No,ALABAMA ST,Part Three,Other,764450.3149,,2926635.889,2012

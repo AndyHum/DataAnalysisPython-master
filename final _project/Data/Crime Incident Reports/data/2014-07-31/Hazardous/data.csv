@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37477,142014963.0,Thursday,No,2014-07-31T17:30:00.000,Hazardous,"[-71.077385, 42.288851]",Point,Hazardous,7,IVPREM,0,B3,First,No,FERNDALE ST,Other,Unarmed,770516.43,,2930568.349,2014
+140414,142014681.0,Thursday,No,2014-07-31T03:15:00.000,Hazardous,"[-71.07972, 42.347001]",Point,Hazardous,7,IVPREM,0,D4,Last,No,HUNTINGTON AV,Other,Other,769780.2251,RING RD,2951756.05,2014
+258749,142014845.0,Thursday,No,2014-07-31T14:52:00.000,Hazardous,"[-71.102375, 42.348641]",Point,Hazardous,7,HAZMAT,0,D4,Day,No,CUMMINGTON ST,Other,Unarmed,763653.2062,,2952324.336,2014

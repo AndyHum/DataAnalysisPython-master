@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35799,142058331.0,Wednesday,No,2014-12-17T12:09:00.000,FIRE,"[-71.158699, 42.263908]",Point,FIRE,12,FIRE,0,E5,Day,No,COTTAGE ST,Part three,Unarmed,748551.1065,,2921379.962,2014
+57551,142058225.0,Wednesday,No,2014-12-17T03:18:00.000,FIRE,"[-71.058925, 42.377691]",Point,FIRE,12,FIRE,0,A15,Last,No,BUNKER HILL ST,Part three,Unarmed,775343.8101,,2962968.473,2014
+87296,142058230.0,Wednesday,No,2014-12-17T05:30:00.000,FIRE,"[-71.133129, 42.363375]",Point,FIRE,12,MVA,0,D14,Last,No,WESTERN AV,Part three,Unarmed,755316.5648,,2957656.465,2014

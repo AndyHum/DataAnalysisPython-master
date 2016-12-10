@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20909,142035848.0,Friday,No,2014-10-03T15:00:00.000,PropLost,"[-71.05568, 42.358996]",Point,PropLost,10,PROP,0,A1,Day,No,STATE ST,Part three,Unarmed,776256.079,,2956160.191,2014
+31852,142035411.0,Friday,No,2014-10-03T11:20:00.000,PropLost,"[-71.076655, 42.336766]",Point,PropLost,10,PROP,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,770627.2848,,2948030.3260000004,2014
+47659,142035544.0,Friday,No,2014-10-03T18:00:00.000,PropLost,"[-71.071555, 42.272931]",Point,PropLost,10,PROP,0,B3,First,No,OLD MORTON ST,Part three,Unarmed,772123.0179999999,,2924774.7539999997,2014
+103038,142036775.0,Friday,No,2014-10-03T09:30:00.000,PropLost,"[-71.03894, 42.370111]",Point,PropLost,10,LARCEN,0,A7,Day,No,MAVERICK ST,Part three,Other,780758.5695,MAVERICK SQ,2960234.723,2014
+114867,142040032.0,Friday,No,2014-10-03T00:00:00.000,PropLost,"[-71.049944, 42.311668]",Point,PropLost,10,PROP,0,C11,Last,No,GRAMPIAN WY,Part three,Unarmed,777897.1351,,2938920.982,2014
+148640,142046753.0,Friday,No,2014-10-03T20:00:00.000,PropLost,"[-71.09414, 42.327196]",Point,PropLost,10,IVPER,0,B2,First,No,CEDAR ST,Part three,Unarmed,765916.4684,,2944519.8680000002,2014
+172031,142036561.0,Friday,No,2014-10-03T14:30:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,10,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+212486,142035539.0,Friday,No,2014-10-03T16:53:00.000,PropLost,"[-71.07703, 42.312031]",Point,PropLost,10,LARCEN,0,B2,First,No,LAWRENCE AV,Part three,Unarmed,770570.5949,,2939015.9689999996,2014
+264927,142039555.0,Friday,No,2014-10-03T02:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,PROP,0,B2,Last,No,BRIGHTON AV,Part three,Unarmed,,COMMONWEALTH AV,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48985,130717247.0,Saturday,No,2013-10-19T08:30:00.000,DRUG CHARGES,"[-71.090956, 42.333723]",Point,18xx,10,IVDRUG,289,B2,Day,No,SCHROEDER PLAZA,Part Two,Unarmed,766765.8102,,2946902.542,2013
+202990,130667773.0,Saturday,No,2013-10-19T17:52:00.000,DRUG CHARGES,"[-71.078334, 42.288074]",Point,18xx,10,TSTOP ,437,B3,First,No,WOODROW AV,Part Two,Unarmed,770260.9092,,2930283.937,2013
+216734,130666415.0,Saturday,No,2013-10-19T00:59:00.000,DRUG CHARGES,"[-71.049401, 42.29763]",Point,18xx,10,IVPER ,373,C11,Last,No,MORRISSEY BL,Part Two,Other,778071.2105,,2933806.111,2013

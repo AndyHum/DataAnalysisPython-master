@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44012,140147474.0,Monday,No,2014-03-10T17:24:00.000,WEAPONS CHARGE,"[-71.08505, 42.303391]",Point,15xx,3,SSTOP ,330,B3,First,No,COLUMBIA RD,Part Two,Other,768416.702,BLUE HILL AV,2935856.7610000004,2014
+106433,140146909.0,Monday,No,2014-03-10T13:00:00.000,WEAPONS CHARGE,"[-71.0626, 42.352361]",Point,15xx,3,ARREST,112,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+223152,140147754.0,Monday,No,2014-03-10T17:15:00.000,WEAPONS CHARGE,"[-71.05197, 42.335581]",Point,15xx,3,ARREST,215,C6,First,No,E ST,Part Two,Other,777303.6153,TUDOR ST,2947632.582,2014

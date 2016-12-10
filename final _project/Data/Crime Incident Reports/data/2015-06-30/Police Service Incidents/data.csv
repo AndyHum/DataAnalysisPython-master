@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48474,,Tuesday,No,2015-06-30T10:30:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,IVPER,358,C11,,No,GENEVA AVE,Part Three,None,, PARK ST ,,2015
+85270,,Tuesday,No,2015-06-30T00:00:00.000,Police Service Incidents,"[-71.089197, 42.273768]",Point,Service,6,ARREST,420,B3,,No,W SELDEN ST,Part Three,None,767347.0,,2930000.0,2015
+209826,,Tuesday,No,2015-06-30T00:00:00.000,Police Service Incidents,"[-71.079085, 42.338289]",Point,Service,6,SS,156,D4,,No,MASSACHUSETTS AVE,Part Three,None,769967.0,,2950000.0,2015
+244540,,Tuesday,No,2015-06-30T00:00:00.000,Police Service Incidents,"[-71.074322, 42.280587]",Point,Service,6,ARREST,416,B3,,No,FAIRMOUNT ST,Part Three,None,771360.0,,2930000.0,2015
+259489,,Tuesday,No,2015-06-30T00:00:00.000,Police Service Incidents,"[-71.063705, 42.352312]",Point,Service,6,ARREST,111,A1,,No,BOYLSTON ST,Part Three,None,774099.0,,2950000.0,2015

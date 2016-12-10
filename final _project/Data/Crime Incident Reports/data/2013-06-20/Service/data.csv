@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22178,130376826.0,Thursday,No,2013-06-20T19:25:00.000,Service,"[-71.059655, 42.293291]",Point,Service,6,VICDOG,363,C11,First,No,WHITTEN ST,Part three,Unarmed,775305.3515,,2932210.6160000004,2013
+41919,130376815.0,Thursday,No,2013-06-20T19:22:00.000,Service,"[-71.063106, 42.355355]",Point,Service,6,ARREST,72,A1,First,No,TREMONT ST,Part three,Unarmed,774255.6857,,2954822.79,2013
+91448,130376118.0,Thursday,No,2013-06-20T14:16:00.000,Service,"[-71.07138, 42.321421]",Point,Service,6,ARREST,183,B2,Day,No,LEYLAND ST,Part three,Unarmed,772081.5836,E COTTAGE ST,2942445.466,2013
+92366,130375608.0,Thursday,No,2013-06-20T10:30:00.000,Service,"[-71.15242, 42.351791]",Point,Service,6,IVPREM,0,D14,Day,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2013
+99462,130375654.0,Thursday,No,2013-06-20T10:41:00.000,Service,"[-71.059575, 42.302511]",Point,Service,6,SSTOP ,350,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775309.6471,,2935570.63,2013
+131086,130375602.0,Thursday,No,2013-06-20T10:15:00.000,Service,"[-71.07517, 42.334901]",Point,Service,6,ARREST,170,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771032.1683,HARRISON AV,2947352.683,2013
+178131,130376953.0,Thursday,No,2013-06-20T20:18:00.000,Service,"[-71.039325, 42.28777]",Point,Service,6,HARPT ,372,C11,First,No,TAYLOR ST,Part three,Other,780816.4839,,2930227.675,2013
+189847,130375963.0,Thursday,No,2013-06-20T13:05:00.000,Service,"[-71.150485, 42.336516]",Point,Service,6,ARREST,790,D14,Day,No,SUTHERLAND RD,Part three,Unarmed,750666.247,,2947848.787,2013
+253242,130377239.0,Thursday,No,2013-06-20T23:07:00.000,Service,"[-71.092395, 42.276738]",Point,Service,6,IVMV  ,476,B3,First,No,NORFOLK ST,Part three,Knife,766476.1248,,2926134.416,2013

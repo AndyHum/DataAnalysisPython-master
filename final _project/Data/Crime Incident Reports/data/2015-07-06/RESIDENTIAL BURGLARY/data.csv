@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23625,,Monday,No,2015-07-06T00:00:00.000,Residential Burglary,"[-71.088331, 42.342953]",Point,05RB,7,BE,619,D4,,No,SYMPHONY RD,Part One,None,767459.0,,2950000.0,2015
+52319,,Monday,No,2015-07-06T00:00:00.000,Residential Burglary,"[-71.063907, 42.287179]",Point,05RB,7,BE,959,C11,,No,DORCHESTER AVE,Part One,None,774166.0,,2930000.0,2015
+88661,,Monday,No,2015-07-06T00:00:00.000,Residential Burglary,"[-71.080545, 42.310387]",Point,05RB,7,BE,329,B2,,No,DEVON ST,Part One,None,769623.0,,2940000.0,2015
+106073,,Monday,No,2015-07-06T00:00:00.000,Residential Burglary,"[-71.079647, 42.318979]",Point,05RB,7,BE,311,B2,,No,WOODBINE ST,Part One,None,769850.0,,2940000.0,2015
+111746,,Monday,No,2015-07-06T11:27:00.000,Residential Burglary,"[0, 0]",Point,05RB,7,BE,492,E18,,No,LOCKWOOD ST,Part One,None,,,,2015
+114254,,Monday,No,2015-07-06T00:05:00.000,Residential Burglary,"[0, 0]",Point,05RB,7,BE,900,A15,,No,TUFTS ST,Part One,None,,,,2015
+141860,,Monday,No,2015-07-06T00:00:00.000,Residential Burglary,"[-71.083631, 42.33599]",Point,05RB,7,BE,285,D4,,No,SUSSEX ST,Part One,None,768743.0,,2950000.0,2015
+173675,,Monday,No,2015-07-06T00:00:00.000,Residential Burglary,"[-71.112454, 42.262173]",Point,05RB,7,VAND,493,E18,,No,ROSA ST,Part One,None,761072.0,,2920000.0,2015

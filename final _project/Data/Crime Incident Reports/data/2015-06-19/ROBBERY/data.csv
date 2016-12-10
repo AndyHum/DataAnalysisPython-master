@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1712,,Friday,No,2015-06-19T00:00:00.000,Robbery,"[-71.088878, 42.279671]",Point,03xx,6,ARMROB,427,B3,,No,NORFOLK ST,Part One,Firearm,767423.0,,2930000.0,2015
+139634,,Friday,No,2015-06-19T00:00:00.000,Robbery,"[-71.100613, 42.264305]",Point,03xx,6,ARREST,485,E18,,No,RIVER ST,Part One,Knife/Cutting Instrument,764273.0,,2920000.0,2015
+215010,,Friday,No,2015-06-19T00:00:00.000,Robbery,"[-71.098487, 42.267613]",Point,03xx,6,I00040,481,E18,,No,ROSEWOOD ST,Part One,Firearm,764843.0,,2920000.0,2015
+229691,,Friday,No,2015-06-19T15:39:00.000,Robbery,"[0, 0]",Point,03xx,6,ARMROB,441,B3,,No,NIGHTINGALE ST,Part One,Firearm,,TALBOT AVE,,2015
+259242,,Friday,No,2015-06-19T07:21:00.000,Robbery,"[0, 0]",Point,03xx,6,ARMROB,77,A1,,No,NEW SUDBURY ST,Part One,None,,,,2015

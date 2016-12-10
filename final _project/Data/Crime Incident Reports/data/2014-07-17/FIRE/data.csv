@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54687,142009997.0,Thursday,No,2014-07-17T11:30:00.000,FIRE,"[-71.08261, 42.337161]",Point,FIRE,7,FIRE,0,D4,Day,No,DITMUS CT,Part three,Unarmed,769016.5305,,2948166.337,2014
+109536,142009967.0,Thursday,No,2014-07-17T08:31:00.000,FIRE,"[-71.108885, 42.286326]",Point,FIRE,7,FIRE,0,E18,Day,No,AMERICAN LEGION HY,Part three,Unarmed,761997.5566,,2929607.546,2014
+212897,142010161.0,Thursday,No,2014-07-17T20:03:00.000,FIRE,"[-71.093783, 42.346092]",Point,FIRE,7,FO,0,D4,First,No,BOYLSTON ST,Part three,Other,765979.9657,,2951406.105,2014

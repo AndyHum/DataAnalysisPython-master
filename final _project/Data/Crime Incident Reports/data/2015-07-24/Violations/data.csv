@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34996,,Friday,No,2015-07-24T00:00:00.000,Violations,"[-71.113742, 42.283147]",Point,VAL,7,MVA,503,E18,,No,AMERICAN LEGION HWY,Part Two,None,760689.0,,2930000.0,2015
+58066,,Friday,No,2015-07-24T00:00:00.000,Violations,"[-71.077385, 42.321532]",Point,VAL,7,TS,430,B3,,No,BLUE HILL AVE,Part Two,None,770457.0,,2940000.0,2015
+72159,,Friday,No,2015-07-24T11:28:00.000,Violations,"[0, 0]",Point,VAL,7,IVMV,305,B2,,No,MARTIN LUTHER KING JR BLVD,Part Two,None,, WALNUT AVE ,,2015
+82258,,Friday,No,2015-07-24T17:45:00.000,Violations,"[0, 0]",Point,VAL,7,TS,112,A1,,No,WASHINGTON ST,Part Two,None,,,,2015
+90080,,Friday,No,2015-07-24T00:00:00.000,Firearm Violations,"[-71.078659, 42.321044]",Point,15xx,7,,265,B2,,No,ALASKA ST,Part Two,None,770114.0,,2940000.0,2015
+120959,,Friday,No,2015-07-24T00:00:00.000,Firearm Violations,"[-71.063807, 42.290424]",Point,15xx,7,ARREST,396,C11,,No,SANTUIT ST,Part Two,Firearm,774187.0,,2930000.0,2015
+209434,,Friday,No,2015-07-24T00:00:00.000,Restraining Order Violations,"[-71.066573, 42.318204]",Point,Restrain,7,VIORDR,238,B2,,No,WENDOVER ST,Part Two,None,773387.0,,2940000.0,2015
+229687,,Friday,No,2015-07-24T00:00:00.000,Violations,"[-71.122547, 42.242887]",Point,VAL,7,IVMV,517,E18,,No,FARADAY ST,Part Two,None,758371.0,,2910000.0,2015
+255102,,Friday,No,2015-07-24T14:31:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,417,B3,,No,EVANS ST,Part Two,None,,MILTON AVE,,2015

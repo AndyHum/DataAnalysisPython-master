@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64632,152020537.0,Saturday,No,2015-03-14T05:12:00.000,FIRE,"[-71.12858, 42.359195]",Point,FIRE,3,FIRE,0,D14,Last,No,HASKELL ST,Part three,Unarmed,756552.5528,,2956138.415,2015
+115775,152020749.0,Saturday,No,2015-03-14T23:15:00.000,FIRE,"[-71.008569, 42.387517]",Point,FIRE,3,FIRE,0,A7,First,No,BOARDMAN ST,Part three,Unarmed,788928.8919,,2966623.348,2015
+215115,152020693.0,Saturday,No,2015-03-14T17:18:00.000,FIRE,"[-71.06619, 42.358041]",Point,FIRE,3,FO,0,A1,First,No,WALNUT AV,Part three,Unarmed,773417.2677,MT VERNON ST,2955797.548,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3628,152042448.0,Thursday,No,2015-04-23T09:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,MISSIN,0,A1,Day,No,JOY ST,Other,Unarmed,,,,2015
+15228,152032983.0,Thursday,No,2015-04-23T10:20:00.000,PersLoc,"[-71.077707, 42.28625]",Point,PersLoc,4,MISSIN,0,B3,Day,No,EDSON ST,Other,Unarmed,770433.7566,,2929619.983,2015
+76197,152033323.0,Thursday,No,2015-04-23T09:30:00.000,PersLoc,"[-71.082985, 42.316151]",Point,PersLoc,4,MISSIN,0,B2,Day,No,WARREN ST,Other,Unarmed,768952.5749,,2940509.433,2015
+204727,152032943.0,Thursday,No,2015-04-23T01:19:00.000,PersLoc,"[-71.107605, 42.263016]",Point,PersLoc,4,FIGHT,0,E18,Last,No,RIVER ST,Other,Unarmed,762382.984,,2921114.6489999997,2015

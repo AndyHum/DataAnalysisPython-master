@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51074,142020305.0,Sunday,No,2014-08-17T15:00:00.000,MVAcc,"[-71.063873, 42.325436]",Point,MVAcc,8,MVA,0,C6,Day,No,ALLSTATE RD,Other,Unarmed,774104.1328,,2943918.604,2014
+163882,142020131.0,Sunday,No,2014-08-17T04:16:00.000,MVAcc,"[-71.07227, 42.332601]",Point,MVAcc,8,MVA,0,C6,Last,No,MASSACHUSETTS AV,Other,Unarmed,771820.4655,MELNEA CASS BL,2946518.441,2014
+232016,142020256.0,Sunday,No,2014-08-17T14:12:00.000,MVAcc,"[-71.10954, 42.333201]",Point,MVAcc,8,MVA,0,B2,Day,No,HUNTINGTON AV,Other,Unarmed,761742.127,PARKER HILL AV,2946688.76,2014

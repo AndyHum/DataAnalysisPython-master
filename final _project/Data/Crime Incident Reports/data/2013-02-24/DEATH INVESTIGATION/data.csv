@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24826,130113652.0,Sunday,No,2013-02-24T11:03:00.000,DEATH INVESTIGATION,"[-71.08312, 42.307006]",Point,01INV,2,CARST ,330,B2,Day,No,CASTLEGATE RD,Part Three,Unarmed,768932.3522,,2937176.67,2013
+41375,130113465.0,Sunday,No,2013-02-24T07:34:00.000,DEATH INVESTIGATION,"[-71.065565, 42.307791]",Point,01INV,2,TRAUMA,336,C11,Day,No,ELBA TR,Part Three,Unarmed,773679.4601,,2937486.433,2013
+142026,130114368.0,Sunday,No,2013-02-24T19:12:00.000,DEATH INVESTIGATION,"[-71.08324, 42.351836]",Point,01INV,2,SDNDTH,135,D4,First,No,FAIRFIELD ST,Part Three,Unarmed,768820.0692,,2953513.348,2013

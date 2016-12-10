@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14191,142049406.0,Sunday,No,2014-11-16T07:45:00.000,MVAcc,"[-71.07559, 42.339491]",Point,MVAcc,11,MVA,0,D4,Day,No,RUTLAND ST,Other,Other,770910.2876,NEWLAND ST,2949024.796,2014
+105796,142049403.0,Sunday,No,2014-11-16T06:39:00.000,MVAcc,"[-71.08951, 42.350851]",Point,MVAcc,11,MVA,0,D4,Last,No,BEACON ST,Other,Firearm,767126.9838,MASSACHUSETTS AV,2953146.175,2014
+175852,142049536.0,Sunday,No,2014-11-16T16:00:00.000,MVAcc,"[-71.11213, 42.301761]",Point,MVAcc,11,MVA,0,E13,First,No,WASHINGTON ST,Other,Unarmed,761093.9302,NEW WASHINGTON ST,2935228.289,2014
+210206,142049398.0,Sunday,No,2014-11-16T01:10:00.000,MVAcc,"[-71.08113, 42.284241]",Point,MVAcc,11,MVA,0,B3,Last,No,NORFOLK ST,Other,Unarmed,769511.3792,CAPEN ST,2928883.402,2014
+253874,142049462.0,Sunday,No,2014-11-16T11:39:00.000,MVAcc,"[-71.05458, 42.354631]",Point,MVAcc,11,MVA,0,A1,Day,No,CONGRESS ST,Other,Other,776561.6871,HIGH ST,2954571.0519999997,2014

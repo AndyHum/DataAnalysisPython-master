@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134553,152002811.0,Sunday,No,2015-01-11T11:55:00.000,FIRE,"[-71.0144, 42.382811]",Point,FIRE,1,FIRE,0,A7,Day,No,WORDSWORTH ST,Part three,Unarmed,787363.5696,,2964899.6539999996,2015
+204989,152002889.0,Sunday,No,2015-01-11T16:48:00.000,FIRE,"[-71.069812, 42.273029]",Point,FIRE,1,FIRE,0,C11,First,No,WASHINGTON ST,Part three,Other,772594.4688,,2924812.603,2015
+266173,152002929.0,Sunday,No,2015-01-11T21:31:00.000,FIRE,"[0, 0]",Point,FIRE,1,FIRE,0,A7,First,No,FRANKFORT ST,Part three,Other,,,,2015

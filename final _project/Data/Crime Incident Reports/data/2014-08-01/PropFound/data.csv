@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21352,142015300.0,Friday,No,2014-08-01T12:00:00.000,PropFound,"[-71.077748, 42.348631]",Point,PropFound,8,IVPREM,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,770310.163,,2952352.43,2014
+26709,142020540.0,Friday,No,2014-08-01T14:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+35727,142015048.0,Friday,No,2014-08-01T06:04:00.000,PropFound,"[-71.066235, 42.380726]",Point,PropFound,8,SUSOBJ,0,A15,Last,No,BUNKER HILL ST,Part three,Unarmed,773363.0651,,2964064.3619999997,2014
+50801,142015440.0,Friday,No,2014-08-01T14:15:00.000,PropFound,"[-71.131796, 42.352053]",Point,PropFound,8,LARCEN,0,D14,Day,No,HARVARD AV,Part three,Unarmed,755694.562,,2953532.085,2014
+176745,142015195.0,Friday,No,2014-08-01T15:00:00.000,PropFound,"[-71.058495, 42.354946]",Point,PropFound,8,IVPREM,0,A1,Day,No,ARCH ST,Part three,Unarmed,775502.8971,,2954680.3419999997,2014
+210735,142018286.0,Friday,No,2014-08-01T14:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+263161,142020814.0,Friday,No,2014-08-01T07:00:00.000,PropFound,"[0, 0]",Point,PropFound,8,PROP,0,A1,Last,No,DORCHESTER ST,Part three,Unarmed,,,,2014
+264326,142015141.0,Friday,No,2014-08-01T10:30:00.000,PropFound,"[0, 0]",Point,PropFound,8,IVPREM,0,A1,Day,No,BOSTON HARBOR - A15,Part three,Unarmed,,,,2014

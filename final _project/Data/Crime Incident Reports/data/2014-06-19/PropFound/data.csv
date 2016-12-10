@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108000,142000946.0,Thursday,No,2014-06-19T18:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,6,PROP,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+122365,142000873.0,Thursday,No,2014-06-19T20:00:00.000,PropFound,"[-71.15185, 42.285201]",Point,PropFound,6,PROP,0,E5,First,No,MEREDITH ST,Part three,Unarmed,750373.5179,CLEMENT AV,2929147.1989999996,2014
+133891,142000906.0,Thursday,No,2014-06-19T21:45:00.000,PropFound,"[-71.05485, 42.310761]",Point,PropFound,6,IVPER,0,C11,First,No,MIDLAND ST,Part three,Unarmed,776572.1422,BAY ST,2938583.69,2014
+182086,142000900.0,Thursday,No,2014-06-19T21:00:00.000,PropFound,"[-71.131658, 42.250254]",Point,PropFound,6,LARCEN,0,E18,First,No,HILLIS RD,Part three,Unarmed,755892.0328,,2916434.841,2014
+243515,142000762.0,Thursday,No,2014-06-19T14:35:00.000,PropFound,"[-71.16954, 42.351231]",Point,PropFound,6,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,745493.5404,,2953190.6960000005,2014

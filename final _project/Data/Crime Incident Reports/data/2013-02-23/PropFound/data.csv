@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25340,130113086.0,Saturday,No,2013-02-23T23:30:00.000,PropFound,"[-71.0836, 42.348386]",Point,PropFound,2,LARCRT,144,D4,First,No,BOYLSTON ST,Part Three,Unarmed,768728.8969,,2952255.627,2013
+68355,130112811.0,Saturday,No,2013-02-23T22:21:00.000,PropFound,"[-71.05314, 42.359096]",Point,PropFound,2,FDPROP,101,A1,First,No,MCKINLEY SQ,Part Three,Unarmed,776942.3844,,2956200.2189999996,2013
+127661,130113270.0,Saturday,No,2013-02-23T22:00:00.000,PropFound,"[-71.052846, 42.358532]",Point,PropFound,2,LSTPRP,101,A1,First,No,MILK ST,Part three,Unarmed,777022.7129,,2955994.982,2013
+135838,130111445.0,Saturday,No,2013-02-23T02:15:00.000,PropFound,"[-71.0651, 42.350151]",Point,PropFound,2,FDPROP,121,A1,Last,No,TREMONT ST,Part Three,Unarmed,773726.5315,,2952923.7810000004,2013
+188647,130112236.0,Saturday,No,2013-02-23T15:30:00.000,PropFound,"[-71.1249, 42.352121]",Point,PropFound,2,FDPROP,798,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,757558.6894,BRIGHTON AV,2953564.937,2013
+191280,130111442.0,Saturday,No,2013-02-23T03:10:00.000,PropFound,"[-71.06598, 42.350391]",Point,PropFound,2,FDPROP,121,A1,Last,No,WARRENTON ST,Part Three,Unarmed,773488.0855,,2953009.8660000004,2013
+204046,130111998.0,Saturday,No,2013-02-23T12:45:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,2,LSTPRP,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+233870,130111672.0,Saturday,No,2013-02-23T08:30:00.000,PropFound,"[-71.12196, 42.295491]",Point,PropFound,2,FDPROP,671,E13,Day,No,SOUTH ST,Part Three,Unarmed,758444.8501,BUSSEY ST,2932931.462,2013

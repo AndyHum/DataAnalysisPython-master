@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16929,130026864.0,Sunday,No,2013-01-13T19:50:00.000,FIRE,"[-71.05691, 42.328281]",Point,FIRE,1,FIREB ,190,C6,First,No,DORCHESTER AV,Part Three,Unarmed,775981.7875,,2944965.36,2013
+94389,130026673.0,Sunday,No,2013-01-13T17:35:00.000,FIRE,"[-71.08072, 42.342736]",Point,FIRE,1,FIREB ,148,D4,First,No,GREENWICH PARK,Part Three,Unarmed,769517.54,,2950200.475,2013
+197253,130026625.0,Sunday,No,2013-01-13T17:02:00.000,FIRE,"[-71.0539, 42.360761]",Point,FIRE,1,FIREB ,94,A1,First,No,CLINTON ST,Part Three,Unarmed,776733.8031,,2956805.902,2013
+249155,130026538.0,Sunday,No,2013-01-13T17:00:00.000,FIRE,"[-71.05302, 42.301681]",Point,FIRE,1,FIREB ,257,C11,First,No,EVERETT ST,Part Three,Unarmed,777084.4618,,2935277.39,2013

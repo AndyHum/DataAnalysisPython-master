@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+191406,140330677.0,Tuesday,No,2014-05-27T12:42:00.000,Arrest,"[-71.064905, 42.352371]",Point,Arrest,5,PERGUN,119,A1,Day,No,BOYLSTON ST,Part three,Firearm,773775.1158,,2953733.06,2014
+194772,140330108.0,Tuesday,No,2014-05-27T08:33:00.000,Arrest,"[-71.09771, 42.279724]",Point,Arrest,5,ARREST,469,B3,Day,No,MATTAPAN ST,Part three,Unarmed,765032.4955,,2927215.436,2014
+213197,140330167.0,Tuesday,No,2014-05-27T08:59:00.000,Arrest,"[-71.06853, 42.295871]",Point,Arrest,5,CD11  ,359,C11,Day,No,ALPHA RD,Part three,Unarmed,772899.4194,,2933138.537,2014

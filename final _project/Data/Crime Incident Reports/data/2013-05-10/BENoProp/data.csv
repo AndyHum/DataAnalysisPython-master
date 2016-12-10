@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102348,130278874.0,Friday,No,2013-05-10T19:55:00.000,BENoProp,"[-71.102315, 42.338336]",Point,BENoProp,5,BEIP  ,615,B2,First,No,AVENUE LOUIS PASTEUR,Part One,Unarmed,763686.9342,,2948569.0730000003,2013
+130736,130278435.0,Friday,No,2013-05-10T10:30:00.000,BENoProp,"[-71.03611, 42.382301]",Point,BENoProp,5,VANRPT,25,A7,Day,No,BROOKS ST,Part One,Other,781499.1505,,2964681.153,2013
+173809,130278432.0,Friday,No,2013-05-10T14:30:00.000,BENoProp,"[-71.068433, 42.297649]",Point,BENoProp,5,BERPT ,358,C11,Day,No,LINDSEY ST,Part One,Unarmed,772922.1667,,2933786.325,2013

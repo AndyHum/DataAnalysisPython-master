@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7606,152031830.0,Sunday,No,2015-04-19T01:38:00.000,Service,"[-71.054342, 42.313587]",Point,Service,4,IVPER,0,C11,Last,No,SAXTON ST,Part three,Unarmed,776704.0295,SAVIN HILL AV,2939614.1780000003,2015
+217281,152035254.0,Sunday,No,2015-04-19T12:00:00.000,Service,"[-71.070197, 42.290036]",Point,Service,4,MISSIN,0,C11,Day,No,TALBOT AV,Part three,Unarmed,772459.06,,2931009.9110000003,2015
+219684,152032018.0,Sunday,No,2015-04-19T19:50:00.000,Service,"[-71.056765, 42.320426]",Point,Service,4,MVA,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,776035.8714,COLUMBIA RD,2942103.0719999997,2015

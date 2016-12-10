@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94966,152024307.0,Thursday,No,2015-03-26T01:50:00.000,Service,"[-71.074745, 42.290261]",Point,Service,3,SS,0,B3,Last,No,SOUTHERN AV,Part three,Unarmed,771228.1822,MILLET ST,2931085.725,2015
+194980,152024545.0,Thursday,No,2015-03-26T14:00:00.000,Service,"[-71.059945, 42.352506]",Point,Service,3,ARREST,0,A1,Day,No,ESSEX ST,Part three,Unarmed,775115.5622,EDINBORO ST,2953789.135,2015
+245751,152024419.0,Thursday,No,2015-03-26T09:15:00.000,Service,"[-71.05592, 42.376646]",Point,Service,3,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015

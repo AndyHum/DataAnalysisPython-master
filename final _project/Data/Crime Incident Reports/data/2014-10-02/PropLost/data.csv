@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73120,142045880.0,Thursday,No,2014-10-02T01:45:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,10,PROP,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+79583,142035193.0,Thursday,No,2014-10-02T18:00:00.000,PropLost,"[-71.08255, 42.318046]",Point,PropLost,10,LARCEN,0,B2,First,No,MARTIN LUTHER RD,Part three,Unarmed,769066.8447,WARREN ST,2941200.578,2014
+107927,142035248.0,Thursday,No,2014-10-02T19:30:00.000,PropLost,"[-71.074985, 42.342171]",Point,PropLost,10,PROP,0,D4,First,No,TREMONT ST,Part three,Unarmed,771068.9870000001,,2950002.251,2014
+135673,142035229.0,Thursday,No,2014-10-02T15:00:00.000,PropLost,"[-71.031535, 42.334011]",Point,PropLost,10,LARCEN,0,C6,Day,No,E 5TH ST,Part three,Unarmed,782831.8483,,2947090.131,2014
+155942,142035121.0,Thursday,No,2014-10-02T13:30:00.000,PropLost,"[-71.084525, 42.329741]",Point,PropLost,10,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768511.9472,,2945459.828,2014
+168024,142035637.0,Thursday,No,2014-10-02T16:00:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,10,PROP,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+214505,142035113.0,Thursday,No,2014-10-02T10:00:00.000,PropLost,"[-71.131796, 42.352053]",Point,PropLost,10,DISTRB,0,D14,Day,No,HARVARD AV,Part three,Unarmed,755694.562,,2953532.085,2014
+261277,142036397.0,Thursday,No,2014-10-02T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,PROP,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,,,,2014

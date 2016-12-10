@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21498,130119723.0,Wednesday,No,2013-02-27T11:53:00.000,InvProp,"[-71.118685, 42.275481]",Point,InvProp,2,IVPREM,498,E18,Day,No,CLARE AV,Part Three,Unarmed,759363.4865,,2925643.4639999997,2013
+38514,130119670.0,Wednesday,No,2013-02-27T10:45:00.000,InvProp,"[-71.05516, 42.361541]",Point,InvProp,2,IVMV  ,93,A1,Day,No,SURFACE RD,Part Three,Unarmed,776391.7842,NORTH ST,2957088.37,2013
+62899,130119939.0,Wednesday,No,2013-02-27T13:46:00.000,InvProp,"[-71.11553, 42.351166]",Point,InvProp,2,BIOT  ,797,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,760093.0103,,2953228.193,2013
+80533,130119503.0,Wednesday,No,2013-02-27T09:46:00.000,InvProp,"[-71.064915, 42.324496]",Point,InvProp,2,BEIP  ,186,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,773824.2282,,2943574.9,2013
+103539,130122062.0,Wednesday,No,2013-02-27T11:00:00.000,InvProp,"[-71.070425, 42.296403]",Point,InvProp,2,IVPER ,358,C11,Day,No,GREENBRIER ST,Part Three,Unarmed,772385.7701,,2933329.588,2013
+113494,130119223.0,Wednesday,No,2013-02-27T07:04:00.000,InvProp,"[-71.07547, 42.346214]",Point,InvProp,2,SHOTS ,149,D4,Last,No,DARTMOUTH ST,Part Three,Other,770930.358,,2951474.633,2013
+187724,130119158.0,Wednesday,No,2013-02-27T04:19:00.000,InvProp,"[-71.069593, 42.328028]",Point,InvProp,2,IVPREM,178,B2,Last,No,ALLERTON ST,Part Three,Unarmed,772552.6615,,2944855.538,2013
+231264,130121805.0,Wednesday,No,2013-02-27T19:30:00.000,InvProp,"[-71.089151, 42.311211]",Point,InvProp,2,IVPER ,318,B2,First,No,HOMESTEAD ST,Part Three,Unarmed,767293.447,,2938701.003,2013

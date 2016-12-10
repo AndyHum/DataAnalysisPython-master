@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28100,142018295.0,Friday,No,2014-08-08T11:30:00.000,PersLoc,"[-71.07293, 42.333901]",Point,PersLoc,8,MISSIN,0,D4,Day,No,ALBANY ST,Other,Unarmed,771639.6374,,2946991.29,2014
+53082,142017655.0,Friday,No,2014-08-08T10:00:00.000,PersLoc,"[-71.082485, 42.279731]",Point,PersLoc,8,IVPER,0,B3,Day,No,LORNA RD,Other,Unarmed,769152.7684,,2927238.097,2014
+75990,142018825.0,Friday,No,2014-08-08T18:30:00.000,PersLoc,"[-71.07619, 42.292831]",Point,PersLoc,8,IVPER,0,B3,First,No,WHEATLAND AV,Other,Unarmed,770832.5583,,2932020.3230000003,2014
+80034,142017722.0,Friday,No,2014-08-08T17:30:00.000,PersLoc,"[-71.083504, 42.285373]",Point,PersLoc,8,MISSIN,0,B3,First,No,JACOB ST,Other,Unarmed,768866.8293,,2929292.5,2014
+219519,142017257.0,Friday,No,2014-08-08T00:45:00.000,PersLoc,"[-71.075835, 42.289281]",Point,PersLoc,8,IVPER,0,B3,Last,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2014

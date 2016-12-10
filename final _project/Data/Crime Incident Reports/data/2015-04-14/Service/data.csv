@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3161,152030585.0,Tuesday,No,2015-04-14T18:00:00.000,Service,"[0, 0]",Point,Service,4,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015
+17988,152030312.0,Tuesday,No,2015-04-14T14:00:00.000,Service,"[-71.06249, 42.352371]",Point,Service,4,IVPER,0,A1,Day,No,ESSEX ST,Part three,Unarmed,774427.8963,WASHINGTON ST,2953736.3989999997,2015
+137570,152030258.0,Tuesday,No,2015-04-14T11:30:00.000,Service,"[-71.0642, 42.353461]",Point,Service,4,IVPER,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773963.6495,AVERY ST,2954131.25,2015
+178582,152030266.0,Tuesday,No,2015-04-14T11:30:00.000,Service,"[-71.0642, 42.353461]",Point,Service,4,IVPER,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773963.6495,AVERY PL,2954131.25,2015
+195917,152030367.0,Tuesday,No,2015-04-14T17:30:00.000,Service,"[-71.033025, 42.377876]",Point,Service,4,ARREST,0,A7,First,No,SARATOGA ST,Part three,Unarmed,782341.4644,,2963073.142,2015
+201096,152030360.0,Tuesday,No,2015-04-14T16:30:00.000,Service,"[-71.039256, 42.380766]",Point,Service,4,IVPER,0,A7,First,No,MERIDIAN ST,Part three,Unarmed,780652.1742,,2964117.163,2015
+227621,152030233.0,Tuesday,No,2015-04-14T10:45:00.000,Service,"[-71.06583, 42.300056]",Point,Service,4,IVPER,0,C11,Day,No,GENEVA AV,Part three,Unarmed,773622.1272,,2934667.316,2015

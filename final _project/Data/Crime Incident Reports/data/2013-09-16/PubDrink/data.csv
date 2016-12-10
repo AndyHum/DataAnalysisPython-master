@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5608,130591094.0,Monday,No,2013-09-16T16:42:00.000,PubDrink,"[-71.08308, 42.330641]",Point,PubDrink,9,IVPREM,280,B2,First,No,WARREN ST,Part Two,Other,768901.0718,PALMER ST,2945789.71,2013
+90366,130591090.0,Monday,No,2013-09-16T16:30:00.000,PubDrink,"[-71.08411, 42.328726]",Point,PubDrink,9,IVPREM,282,B2,First,No,DUDLEY ST,Part Two,Other,768625.9666,,2945090.4910000004,2013
+199608,130590696.0,Monday,No,2013-09-16T16:32:00.000,PubDrink,"[-71.08411, 42.328726]",Point,PubDrink,9,GANG  ,282,B2,First,No,DUDLEY ST,Part Two,Unarmed,768625.9666,,2945090.4910000004,2013

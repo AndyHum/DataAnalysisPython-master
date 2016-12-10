@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97956,,Wednesday,No,2015-07-22T00:00:00.000,Aggravated Assault,"[-71.10368, 42.334503]",Point,04xx,7,ARREST,602,B2,,No,HUNTINGTON AVE,Part One,Blunt Object,763324.0,,2950000.0,2015
+137690,,Wednesday,No,2015-07-22T00:00:00.000,Aggravated Assault,"[-71.088241, 42.283295]",Point,04xx,7,PSHOT,429,B3,,Yes,WILDWOOD ST,Part One,Firearm,767589.0,,2930000.0,2015
+212817,,Wednesday,No,2015-07-22T23:50:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,DISTRB,298,B2,,No,ROCKLAND ST,Part One,Other,,,,2015
+248015,,Wednesday,No,2015-07-22T00:00:00.000,Aggravated Assault,"[-71.09075, 42.269567]",Point,04xx,7,ARREST,426,B3,,No,RIVER ST,Part One,Knife/Cutting Instrument,766934.0,,2920000.0,2015

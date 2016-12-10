@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3395,152034493.0,Tuesday,No,2015-04-28T07:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+47289,152034609.0,Tuesday,No,2015-04-28T15:16:00.000,InvProp,"[-71.11736, 42.251681]",Point,InvProp,4,BE,0,E18,Day,No,FAIRMOUNT AV,Part three,Unarmed,759760.984,,2916972.034,2015
+77409,152034743.0,Tuesday,No,2015-04-28T23:38:00.000,InvProp,"[-71.08959, 42.351011]",Point,InvProp,4,MAJOR,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767105.0779,BEACON ST,2953204.3789999997,2015
+78871,152034608.0,Tuesday,No,2015-04-28T15:50:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,4,CD9,0,D4,Day,No,YAWKEY WY,Part three,Other,764671.1215,,2951432.6119999997,2015
+113233,152034461.0,Tuesday,No,2015-04-28T03:13:00.000,InvProp,"[-71.074513, 42.314688]",Point,InvProp,4,IVPREM,0,B2,Last,No,WOODLEDGE ST,Part three,Other,771246.3715,,2939987.483,2015
+196268,152034652.0,Tuesday,No,2015-04-28T18:15:00.000,InvProp,"[-71.076935, 42.341116]",Point,InvProp,4,VAND,0,D4,First,No,TREMONT ST,Part three,Unarmed,770543.7184,,2949615.17,2015
+212745,152035123.0,Tuesday,No,2015-04-28T20:20:00.000,InvProp,"[-71.053375, 42.362136]",Point,InvProp,4,INVEST,0,A1,First,No,FULTON ST,Part three,Unarmed,776873.0689,,2957307.7210000004,2015
+224269,152034726.0,Tuesday,No,2015-04-28T22:07:00.000,InvProp,"[-71.0818, 42.271311]",Point,InvProp,4,IVPREM,0,B3,First,No,RIVER ST,Part three,Unarmed,769353.1827,,2924170.644,2015

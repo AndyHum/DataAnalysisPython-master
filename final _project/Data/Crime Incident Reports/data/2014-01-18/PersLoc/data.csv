@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99751,140036870.0,Saturday,No,2014-01-18T21:49:00.000,PersLoc,"[-71.059005, 42.293951]",Point,PersLoc,1,MISPER,364,C11,First,No,ALTHEA ST,Other,Unarmed,775479.97,,2932452.037,2014
+195490,140037294.0,Saturday,No,2014-01-18T11:30:00.000,PersLoc,"[-71.075307, 42.297484]",Point,PersLoc,1,MISPER,453,B3,Day,No,ALGONQUIN ST,Other,Unarmed,771062.8043,,2933717.1160000004,2014
+237600,140041996.0,Saturday,No,2014-01-18T13:30:00.000,PersLoc,"[-71.039175, 42.377501]",Point,PersLoc,1,MISPER,24,A7,Day,No,MERIDIAN ST,Other,Unarmed,780680.3926,,2962927.445,2014

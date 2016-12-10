@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63083,142040570.0,Sunday,No,2014-10-19T08:43:00.000,DISORDERLY,"[-71.078665, 42.303561]",Point,24xx,10,ARREST,0,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,770143.6152,,2935927.1789999995,2014
+202961,142040569.0,Sunday,No,2014-10-19T03:45:00.000,DISORDERLY,"[-71.040324, 42.319613]",Point,24xx,10,IVPER,0,C6,Last,No,OCEAN VIEW DR,Part Two,Unarmed,780483.7168,,2941830.142,2014
+248913,142040510.0,Sunday,No,2014-10-19T01:06:00.000,DISORDERLY,"[-71.046717, 42.336149]",Point,24xx,10,IVPER,0,C6,Last,No,W BROADWAY,Part Two,Unarmed,778722.6466,,2947847.002,2014
+257394,142040565.0,Sunday,No,2014-10-19T04:37:00.000,DISORDERLY,"[-71.044649, 42.320568]",Point,24xx,10,IVPER,0,C6,Last,No,PENINSULA PL,Part Two,Unarmed,779312.0542,,2942171.965,2014

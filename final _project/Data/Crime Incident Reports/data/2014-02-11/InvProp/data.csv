@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22433,140086844.0,Tuesday,No,2014-02-11T11:42:00.000,InvProp,"[-71.0985, 42.322151]",Point,InvProp,2,IVMV  ,303,E13,Day,No,COLUMBUS AV,Part three,Unarmed,764746.1322,,2942675.8019999997,2014
+46125,152011124.0,Tuesday,No,2014-02-11T12:00:00.000,InvProp,"[-71.09417, 42.338367]",Point,InvProp,2,PROP,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,765888.8254,,2948590.6560000004,2014
+114581,140087431.0,Tuesday,No,2014-02-11T14:10:00.000,InvProp,"[-71.04817, 42.285386]",Point,InvProp,2,IVPREM,380,C11,Day,No,MINOT ST,Part three,Unarmed,778427.9329,,2929346.1760000004,2014
+135488,140088001.0,Tuesday,No,2014-02-11T01:00:00.000,InvProp,"[-71.08544, 42.288939]",Point,InvProp,2,IVPREM,439,B3,Last,No,STRATTON ST,Part three,Unarmed,768336.6188,,2930589.4839999997,2014
+231113,140087991.0,Tuesday,No,2014-02-11T19:01:00.000,InvProp,"[-71.100705, 42.342791]",Point,InvProp,2,LARCIP,626,D4,First,No,PETERBOROUGH ST,Part three,Unarmed,764114.6170000001,,2950194.595,2014

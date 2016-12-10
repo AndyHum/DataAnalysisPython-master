@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65635,142052862.0,Friday,No,2014-11-28T11:30:00.000,Gather,"[-71.08257, 42.348656]",Point,Gather,11,PROTES,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+83684,142052931.0,Friday,No,2014-11-28T17:30:00.000,Gather,"[-71.081035, 42.349986]",Point,Gather,11,PROTES,0,D4,First,No,NEWBURY ST,Part three,Unarmed,769419.4017,,2952842.095,2014
+130597,142052885.0,Friday,No,2014-11-28T15:30:00.000,Gather,"[-71.05066, 42.332571]",Point,Gather,11,DISTRB,0,C6,Day,No,E 8TH ST,Part three,Unarmed,777663.585,,2946537.55,2014

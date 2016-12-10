@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+126844,140177968.0,Sunday,No,2014-03-23T07:30:00.000,Service,"[-71.068595, 42.358406]",Point,Service,3,CD9   ,70,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+164336,140203268.0,Sunday,No,2014-03-23T12:00:00.000,Service,"[-71.035045, 42.365841]",Point,Service,3,IVPER ,34,A7,Day,No,WEBSTER ST,Part three,Unarmed,781819.5843,,2958684.367,2014
+164902,140176169.0,Sunday,No,2014-03-23T11:26:00.000,Service,"[-71.125436, 42.257211]",Point,Service,3,ARREST,544,E18,Day,No,SUMMER ST,Part three,Unarmed,757565.4448,,2918977.563,2014

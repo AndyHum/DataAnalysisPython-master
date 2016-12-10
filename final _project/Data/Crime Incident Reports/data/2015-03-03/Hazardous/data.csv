@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109174,152017608.0,Tuesday,No,2015-03-03T18:42:00.000,Hazardous,"[-71.113647, 42.291594]",Point,Hazardous,3,IVPREM,0,E13,First,No,EASTLAND RD,Other,Unarmed,760700.1554,,2931521.232,2015
+142404,152017447.0,Tuesday,No,2015-03-03T08:55:00.000,Hazardous,"[-71.136347, 42.235648]",Point,Hazardous,3,IVPREM,0,E18,Day,No,SPRAGUE ST,Other,Unarmed,754645.4188,,2911106.747,2015
+266434,152017060.0,Tuesday,No,2015-03-03T08:00:00.000,Hazardous,"[0, 0]",Point,Hazardous,3,IVPREM,0,C6,Day,No,W BROADWAY,Other,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12149,130611032.0,Wednesday,No,2013-09-25T01:09:00.000,FIRE,"[-71.130142, 42.351748]",Point,FIRE,9,IVPREM,0,D14,Last,No,LINDEN ST,Part three,Other,756142.2724,,2953422.686,2013
+102070,130613049.0,Wednesday,No,2013-09-25T21:11:00.000,FIRE,"[-71.127588, 42.266024]",Point,FIRE,9,FIREB ,547,E18,First,No,LODGEHILL RD,Part three,Unarmed,756968.9486,,2922186.358,2013
+231403,130612216.0,Wednesday,No,2013-09-25T14:55:00.000,FIRE,"[-71.139106, 42.348998]",Point,FIRE,9,FIREB ,795,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,753723.3022,,2952410.229,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32480,130646711.0,Thursday,No,2013-10-10T10:25:00.000,FIRE,"[-71.118845, 42.250336]",Point,FIRE,10,FIREB ,516,E18,Day,No,ALDO TR,Part three,Unarmed,759361.1318,,2916480.098,2013
+38378,130648283.0,Thursday,No,2013-10-10T23:04:00.000,FIRE,"[-71.077214, 42.322024]",Point,FIRE,10,FV    ,262,B2,First,No,BLUE HILL AV,Part three,Unarmed,770502.5777,,2942657.1489999997,2013
+163370,130646519.0,Thursday,No,2013-10-10T08:56:00.000,FIRE,"[-71.15578, 42.264688]",Point,FIRE,10,FIREB ,712,E5,Day,No,ROCKINGHAM AV,Part three,Other,749340.247,,2921667.5330000003,2013

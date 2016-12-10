@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74859,140210630.0,Monday,No,2014-04-07T20:38:00.000,Arrest,"[-71.037465, 42.366871]",Point,Arrest,4,DVIP  ,35,A7,First,No,WEBSTER ST,Part three,Unarmed,781163.5587,,2959056.164,2014
+76949,140210540.0,Monday,No,2014-04-07T19:20:00.000,Arrest,"[-71.12908, 42.280951]",Point,Arrest,4,ARREST,557,E5,First,No,AUGUSTUS AV,Part three,Unarmed,756541.6007,WHITFORD ST,2927624.4060000004,2014
+148921,140209114.0,Monday,No,2014-04-07T08:03:00.000,Arrest,"[-71.121407, 42.283265]",Point,Arrest,4,ARREST,561,E5,Day,No,BROWN AV,Part three,Unarmed,758614.1943,,2928476.515,2014

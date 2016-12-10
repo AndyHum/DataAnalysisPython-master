@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13060,130705504.0,Tuesday,No,2013-11-05T17:00:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,11,LSTPRP,289,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+57430,140012211.0,Tuesday,No,2013-11-05T08:00:00.000,PropLost,"[-71.122996, 42.263791]",Point,PropLost,11,LSTPRP,495,E18,Day,No,PROVIDENCE ST,Part three,Other,758215.5744,,2921378.128,2013
+86174,130717345.0,Tuesday,No,2013-11-05T16:45:00.000,PropLost,"[-71.059191, 42.374277]",Point,PropLost,11,LSTPRP,40,A15,First,No,ADAMS ST,Part three,Unarmed,775278.3696,,2961723.815,2013
+147132,130706320.0,Tuesday,No,2013-11-05T07:30:00.000,PropLost,"[-71.118955, 42.273566]",Point,PropLost,11,LSTPRP,498,E18,Day,No,CLARE AV,Part three,Other,759293.5338,,2924945.284,2013
+157469,130711627.0,Tuesday,No,2013-11-05T14:00:00.000,PropLost,"[-71.06076, 42.357671]",Point,PropLost,11,LARCRT,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774885.5732,,2955670.224,2013
+171613,130704847.0,Tuesday,No,2013-11-05T12:20:00.000,PropLost,"[-71.063155, 42.298481]",Point,PropLost,11,LARCRT,356,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,,2934097.058,2013
+183276,130706844.0,Tuesday,No,2013-11-05T10:30:00.000,PropLost,"[-71.06666, 42.352496]",Point,PropLost,11,LSTPRP,119,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773300.5032,,2953776.1980000003,2013
+262082,130734545.0,Tuesday,No,2013-11-05T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,274,A1,First,No,HAMMOND ST,Part three,Unarmed,,,,2013

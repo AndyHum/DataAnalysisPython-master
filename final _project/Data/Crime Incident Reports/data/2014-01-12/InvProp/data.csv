@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31076,140022303.0,Sunday,No,2014-01-12T00:14:00.000,InvProp,"[-71.080967, 42.305758]",Point,InvProp,1,ALARMC,329,B2,Last,No,WASHINGTON ST,Part three,Other,769516.8457,,2936724.604,2014
+99472,140022361.0,Sunday,No,2014-01-12T00:47:00.000,InvProp,"[-71.15612, 42.349091]",Point,InvProp,1,ALARMC,763,D14,Last,No,WASHINGTON ST,Part three,Unarmed,749124.2284,,2952425.175,2014
+178305,140022610.0,Sunday,No,2014-01-12T03:39:00.000,InvProp,"[-71.06365, 42.303266]",Point,InvProp,1,SHOTS ,345,C11,Last,No,BENTHAM RD,Part three,Unarmed,774205.8892,,2935840.098,2014
+217056,140023801.0,Sunday,No,2014-01-12T19:55:00.000,InvProp,"[-71.07118, 42.286251]",Point,InvProp,1,SHOTS ,399,C11,First,No,WASHINGTON ST,Part three,Unarmed,772200.1048,ROSLIN ST,2929629.253,2014
+231585,140023517.0,Sunday,No,2014-01-12T16:48:00.000,InvProp,"[-71.039065, 42.369421]",Point,InvProp,1,IVPREM,29,A7,First,No,MAVERICK SQ,Part three,Unarmed,780726.1501,,2959983.091,2014

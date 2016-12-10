@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151722,142061076.0,Saturday,No,2014-12-27T23:10:00.000,DRUG CHARGES,"[-71.063675, 42.352301]",Point,18xx,12,ARREST,0,A1,First,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014
+205470,142061063.0,Saturday,No,2014-12-27T22:21:00.000,DRUG CHARGES,"[-71.089368, 42.31021]",Point,18xx,12,ARREST,0,B2,First,No,HUTCHINGS ST,Part Two,Unarmed,767236.6728,,2938335.832,2014
+212629,142061004.0,Saturday,No,2014-12-27T18:55:00.000,DRUG CHARGES,"[-71.05903, 42.353676]",Point,18xx,12,SS,0,A1,First,No,KINGSTON ST,Part Two,Unarmed,775360.6831,,2954216.7819999997,2014

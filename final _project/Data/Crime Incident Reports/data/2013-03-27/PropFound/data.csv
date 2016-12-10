@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103914,130179113.0,Wednesday,No,2013-03-27T11:01:00.000,PropFound,"[-71.08567, 42.340881]",Point,PropFound,3,FDPROP,283,D4,Day,No,GAINSBOROUGH ST,Part Three,Unarmed,768182.6201,ST BOTOLPH ST,2949517.938,2013
+182838,130179865.0,Wednesday,No,2013-03-27T16:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,3,FDPROP,167,D4,First,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+187396,130179971.0,Wednesday,No,2013-03-27T16:15:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,3,FDPROP,72,A1,First,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013
+233255,130180153.0,Wednesday,No,2013-03-27T10:00:00.000,PropFound,"[-71.07772, 42.350841]",Point,PropFound,3,FDPROP,142,D4,Day,No,NEWBURY ST,Part Three,Unarmed,770313.9482,DARTMOUTH ST,2953158.0889999997,2013

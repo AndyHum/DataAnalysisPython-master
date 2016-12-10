@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67223,140091056.0,Thursday,No,2014-02-13T05:35:00.000,MedAssist,"[-71.09583, 42.279046]",Point,MedAssist,2,IVPER ,469,B3,Last,No,WALK HILL ST,Part three,Unarmed,765542.6188,,2926971.079,2014
+95696,140092124.0,Thursday,No,2014-02-13T15:29:00.000,MedAssist,"[-71.05402, 42.311761]",Point,MedAssist,2,EDP2  ,249,C11,Day,No,SAVIN HILL AV,Part three,Unarmed,776794.7359999999,,2938949.278,2014
+108286,140091116.0,Thursday,No,2014-02-13T07:12:00.000,MedAssist,"[-71.08951, 42.334501]",Point,MedAssist,2,REQP  ,285,B2,Last,No,TREMONT ST,Part three,Unarmed,767155.6578,RUGGLES ST,2947187.9310000003,2014
+114819,140091731.0,Thursday,No,2014-02-13T12:46:00.000,MedAssist,"[-71.08064, 42.296921]",Point,MedAssist,2,EDP2  ,444,B3,Day,No,GLENWAY ST,Part three,Other,769621.252,,2933504.829,2014
+156574,140092166.0,Thursday,No,2014-02-13T16:00:00.000,MedAssist,"[-71.058362, 42.358828]",Point,MedAssist,2,EDP2  ,92,A1,First,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2014
+196571,140091887.0,Thursday,No,2014-02-13T13:54:00.000,MedAssist,"[-71.11668, 42.262066]",Point,MedAssist,2,EDP2  ,494,E18,Day,No,METROPOLITAN AV,Part three,Unarmed,759928.0805,,2920757.288,2014
+223340,140091708.0,Thursday,No,2014-02-13T12:30:00.000,MedAssist,"[-71.075745, 42.273726]",Point,MedAssist,2,DOGBIT,410,B3,Day,No,CEDAR ST,Part three,Unarmed,770987.5859,,2925058.795,2014
+230758,140090983.0,Thursday,No,2014-02-13T02:42:00.000,MedAssist,"[-71.07545, 42.294336]",Point,MedAssist,2,IVPER ,451,B3,Last,No,WHITFIELD ST,Part three,Unarmed,771030.0415,,2932569.7630000003,2014
+254600,140092662.0,Thursday,No,2014-02-13T20:37:00.000,MedAssist,"[-71.067485, 42.308271]",Point,MedAssist,2,SDNDTH,335,C11,First,No,CLARKSON ST,Part three,Unarmed,773159.2220000001,,2937658.715,2014
+262018,140092266.0,Thursday,No,2014-02-13T16:39:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,HAZMAT,1,A7,First,No,TAFTS AV,Part three,Unarmed,,,,2014

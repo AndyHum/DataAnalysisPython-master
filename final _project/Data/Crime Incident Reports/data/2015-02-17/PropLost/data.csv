@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25584,152013444.0,Tuesday,No,2015-02-17T12:00:00.000,PropLost,"[-71.065835, 42.317351]",Point,PropLost,2,PROP,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,773588.6939,,2940969.876,2015
+27382,152019961.0,Tuesday,No,2015-02-17T12:00:00.000,PropLost,"[-71.061745, 42.356021]",Point,PropLost,2,PROP,0,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2015
+164272,152013493.0,Tuesday,No,2015-02-17T18:00:00.000,PropLost,"[-71.05835, 42.357481]",Point,PropLost,2,PROP,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775537.3061,SCHOOL ST,2955604.347,2015
+229312,152012883.0,Tuesday,No,2015-02-17T16:31:00.000,PropLost,"[-71.088027, 42.325407]",Point,PropLost,2,LARCEN,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,767572.6255,,2943875.67,2015
+261819,152012733.0,Tuesday,No,2015-02-17T08:15:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,,BRIGHTON AV,,2015
+262511,152013443.0,Tuesday,No,2015-02-17T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1738,152042425.0,Saturday,No,2015-05-23T16:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,INVEST,0,E13,First,No,BICKFORD ST,Part three,Unarmed,,,,2015
+4192,152042432.0,Saturday,No,2015-05-23T18:11:00.000,MedAssist,"[-71.033295, 42.333306]",Point,MedAssist,5,IVPER,0,C6,First,No,M ST,Part three,Unarmed,782357.3844,,2946830.6089999997,2015
+22732,152042414.0,Saturday,No,2015-05-23T17:50:00.000,MedAssist,"[-71.05004, 42.283281]",Point,MedAssist,5,INVEST,0,C11,First,No,GALLIVAN BL,Part three,Unarmed,777925.9792,,2928576.4110000003,2015
+34363,152042242.0,Saturday,No,2015-05-23T03:00:00.000,MedAssist,"[-71.112011, 42.311407]",Point,MedAssist,5,UNCONS,0,E13,Last,No,ALVESTON ST,Part three,Unarmed,761110.1126,,2938743.38,2015
+79878,152042495.0,Saturday,No,2015-05-23T23:00:00.000,MedAssist,"[-71.125885, 42.355006]",Point,MedAssist,5,INJ,0,D14,First,No,WADSWORTH ST,Part three,Unarmed,757287.8279,,2954615.12,2015
+88797,152042220.0,Saturday,No,2015-05-23T01:17:00.000,MedAssist,"[-71.117795, 42.272081]",Point,MedAssist,5,IVPER,0,E18,Last,No,FIELDMONT ST,Part three,Unarmed,759609.9013,,2924405.534,2015
+138174,152042341.0,Saturday,No,2015-05-23T13:40:00.000,MedAssist,"[-71.06287, 42.352321]",Point,MedAssist,5,INJOFF,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774325.2748,WASHINGTON ST,2953717.652,2015
+189608,152042265.0,Saturday,No,2015-05-23T08:30:00.000,MedAssist,"[-71.108399, 42.329393]",Point,MedAssist,5,CARDIA,0,B2,Day,No,FISHER AV,Part three,Unarmed,762056.9561,,2945302.163,2015
+229314,152042285.0,Saturday,No,2015-05-23T10:15:00.000,MedAssist,"[-71.093077, 42.335921]",Point,MedAssist,5,UNCONS,0,B2,Day,No,ANNUNCIATION RD,Part three,Other,766188.6874,,2947700.482,2015
+243002,152042403.0,Saturday,No,2015-05-23T16:17:00.000,MedAssist,"[-71.032425, 42.338201]",Point,MedAssist,5,UNCONS,0,C6,First,No,E 1ST ST,Part three,Unarmed,782582.8396,,2948615.7189999996,2015
+258991,152042460.0,Saturday,No,2015-05-23T20:00:00.000,MedAssist,"[-71.10316, 42.326236]",Point,MedAssist,5,IVPREM,0,E13,First,No,HEATH ST,Part three,Other,763478.9920000001,,2944158.5510000004,2015

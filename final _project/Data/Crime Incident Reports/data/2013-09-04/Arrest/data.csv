@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17709,130561273.0,Wednesday,No,2013-09-04T16:00:00.000,Arrest,"[-71.110589, 42.301268]",Point,Arrest,9,CD9   ,574,E13,First,No,ARBORWAY,Part three,Unarmed,761511.4749,,2935050.5519999997,2013
+26544,130561363.0,Wednesday,No,2013-09-04T16:00:00.000,Arrest,"[-71.110589, 42.301268]",Point,Arrest,9,CD11  ,574,E13,First,No,ARBORWAY,Part three,Unarmed,761511.4749,,2935050.5519999997,2013
+110787,130563274.0,Wednesday,No,2013-09-04T11:30:00.000,Arrest,"[-71.064905, 42.352371]",Point,Arrest,9,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+131586,130562246.0,Wednesday,No,2013-09-04T22:17:00.000,Arrest,"[-71.08071, 42.295721]",Point,Arrest,9,ARREST,441,B3,First,No,BERNARD ST,Part three,Unarmed,769604.4632,NIGHTINGALE ST,2933067.438,2013

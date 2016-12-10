@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74958,152013192.0,Sunday,No,2014-06-01T00:00:00.000,PhoneCalls,"[-71.07064, 42.338541]",Point,PhoneCalls,6,IVPER,0,D4,Last,No,HARRISON AV,Part three,Unarmed,772250.2999,,2948685.297,2014
+112751,142049840.0,Sunday,No,2014-06-01T00:00:00.000,PhoneCalls,"[-71.11668, 42.262066]",Point,PhoneCalls,6,IVPER,0,E18,Last,No,METROPOLITAN AV,Part three,Other,759928.0805,,2920757.288,2014
+129532,142027343.0,Sunday,No,2014-06-01T00:00:00.000,PhoneCalls,"[-71.068825, 42.303566]",Point,PhoneCalls,6,IVPER,0,C11,Last,No,LEVANT ST,Part three,Unarmed,772805.4353,,2935942.3030000003,2014
+217082,142003888.0,Sunday,No,2014-06-01T00:01:00.000,PhoneCalls,"[-71.132126, 42.357911]",Point,PhoneCalls,6,IVPER,0,D14,Last,No,ALCOTT ST,Part three,Unarmed,755596.1167,,2955666.271,2014

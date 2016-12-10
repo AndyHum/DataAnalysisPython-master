@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27246,120782917.0,Friday,No,2012-12-14T02:30:00.000,Service,"[-71.075925, 42.347156]",Point,Service,12,LSTPRP,149,D4,Last,No,DARTMOUTH ST,Part Three,Unarmed,770805.8297,,2951817.613,2012
+66571,120787075.0,Friday,No,2012-12-14T18:00:00.000,Service,"[-71.11266, 42.287341]",Point,Service,12,IVPER ,504,E13,First,No,WATERMAN RD,Part Three,Unarmed,760974.4140000001,,2929972.768,2012
+90592,120781964.0,Friday,No,2012-12-14T08:31:00.000,Service,"[-71.076935, 42.290401]",Point,Service,12,CD11  ,438,B3,Day,No,COLONIAL AV,Part Three,Unarmed,770635.3845,,2931133.797,2012
+126498,120781690.0,Friday,No,2012-12-14T02:48:00.000,Service,"[-71.0829, 42.311851]",Point,Service,12,ARREST,321,B2,Last,No,BRUNSWICK ST,Part Three,Unarmed,768983.2266,WARREN ST,2938942.5560000003,2012
+188348,120781646.0,Friday,No,2012-12-14T01:58:00.000,Service,"[-71.0572, 42.358421]",Point,Service,12,TSTOP ,98,A1,Last,No,DEVONSHIRE ST,Part Three,Unarmed,775846.3501,QUAKER LA,2955948.5130000003,2012
+236556,120783882.0,Friday,No,2012-12-14T22:50:00.000,Service,"[0, 0]",Point,Service,12,TSTOP ,482,B3,First,No,RIVER ST,Part Three,Unarmed,,RECTOR RD,,2012
+263464,120783121.0,Friday,No,2012-12-14T16:43:00.000,Service,"[0, 0]",Point,Service,12,INVEST,50,B2,First,No,RUTHERFORD AV,Part Three,Unarmed,,,,2012

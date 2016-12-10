@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35739,142024878.0,Sunday,No,2014-08-31T21:08:00.000,WEAPONS CHARGE,"[-71.065829, 42.316441]",Point,15xx,8,TS,0,B2,First,No,COLUMBIA RD,Part Two,Firearm,773591.8648,,2940638.1739999996,2014
+175902,142024623.0,Sunday,No,2014-08-31T02:00:00.000,WEAPONS CHARGE,"[-71.06744, 42.314591]",Point,15xx,8,SS,0,B2,Last,No,COLUMBIA RD,Part Two,Knife,773159.7181,BIRD ST,2939961.881,2014
+210468,142024811.0,Sunday,No,2014-08-31T16:50:00.000,WEAPONS CHARGE,"[-71.058235, 42.310543]",Point,15xx,8,SS,0,C11,First,No,ROACH ST,Part Two,Firearm,775656.7314,,2938499.396,2014

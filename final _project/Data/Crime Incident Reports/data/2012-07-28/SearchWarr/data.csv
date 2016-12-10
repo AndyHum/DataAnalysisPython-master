@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21960,120465989.0,Saturday,No,2012-07-28T11:14:00.000,SearchWarr,"[-71.075835, 42.289281]",Point,SearchWarr,7,CD11  ,437,B3,Day,No,DARLINGTON ST,Part Three,Other,770935.0404,,2930727.1289999997,2012
+48686,120466479.0,Saturday,No,2012-07-28T14:00:00.000,SearchWarr,"[-71.0534, 42.339241]",Point,SearchWarr,7,IVDRUG,936,C6,Day,No,CROWLEY ROGERS WY,Part Three,Other,776909.9972,ST CASIMIR,2948964.3219999997,2012
+143686,120466174.0,Saturday,No,2012-07-28T11:13:00.000,SearchWarr,"[-71.07627, 42.288321]",Point,SearchWarr,7,IVDRUG,437,B3,Day,No,ELMHURST ST,Part Three,Other,770819.0794,NORFOLK ST,2930376.7060000002,2012

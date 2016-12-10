@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74274,120432681.0,Saturday,No,2012-07-14T00:42:00.000,DISORDERLY,"[-71.09237, 42.328021]",Point,24xx,7,ARREST,291,B2,Last,No,HIGHLAND ST,Part Two,Unarmed,766393.6581,,2944822.7939999998,2012
+97022,120432587.0,Saturday,No,2012-07-14T00:29:00.000,DISORDERLY,"[-71.12532, 42.251951]",Point,24xx,7,ABRPT ,522,E18,Last,No,HYDE PARK AV,Part Two,Unarmed,757605.5093,,2917060.857,2012
+153781,120433529.0,Saturday,No,2012-07-14T12:38:00.000,DISORDERLY,"[-71.06028, 42.306752]",Point,24xx,7,ROBRPT,347,C11,Day,No,HECLA ST,Part Two,Unarmed,775110.7209999999,,2937115.057,2012

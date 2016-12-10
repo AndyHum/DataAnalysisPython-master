@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106787,130462839.0,Thursday,No,2013-07-25T14:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,7,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+106820,130463251.0,Thursday,No,2013-07-25T20:00:00.000,PropFound,"[-71.08582, 42.333171]",Point,PropFound,7,FDPROP,276,B2,First,No,RUGGLES ST,Part three,Unarmed,768155.7105,KERR WY,2946708.077,2013
+194247,130461851.0,Thursday,No,2013-07-25T07:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,7,FDPROP,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+203608,130461696.0,Thursday,No,2013-07-25T08:26:00.000,PropFound,"[-71.1093, 42.336991]",Point,PropFound,7,IVPREM,593,B2,Day,No,FRANCIS ST,Part three,Other,761800.6933,BROOKLINE AV,2948070.202,2013

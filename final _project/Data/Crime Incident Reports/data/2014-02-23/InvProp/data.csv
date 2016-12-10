@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53237,140112467.0,Sunday,No,2014-02-23T01:30:00.000,InvProp,"[-71.069335, 42.307201]",Point,InvProp,2,IVPREM,348,C11,Last,No,CLARKSON ST,Part three,Firearm,772660.5389,,2937266.269,2014
+71073,140112324.0,Sunday,No,2014-02-23T00:27:00.000,InvProp,"[-71.079178, 42.304207]",Point,InvProp,2,IVPREM,460,C11,Last,No,WASHINGTON ST,Part three,Other,770003.4383,,2936161.74,2014
+177514,140112240.0,Sunday,No,2014-02-23T00:20:00.000,InvProp,"[-71.100988, 42.332045]",Point,InvProp,2,PARTY ,586,B2,Last,No,PONTIAC ST,Part three,Unarmed,764056.3176,,2946278.0439999998,2014
+209832,140114052.0,Sunday,No,2014-02-23T20:30:00.000,InvProp,"[-71.07117, 42.323961]",Point,InvProp,2,REQP  ,181,B2,First,No,GEORGE ST,Part three,Unarmed,772133.7209999999,SHIRLEY ST,2943371.37,2014
+239539,140112546.0,Sunday,No,2014-02-23T02:11:00.000,InvProp,"[-71.08565, 42.348741]",Point,InvProp,2,IVPER ,141,D4,Last,No,HEREFORD ST,Part three,Other,768174.1128,NEWBURY ST,2952382.296,2014

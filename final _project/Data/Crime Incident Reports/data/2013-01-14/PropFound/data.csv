@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62541,130028090.0,Monday,No,2013-01-14T09:00:00.000,PropFound,"[-71.02894, 42.335736]",Point,PropFound,1,FDPROP,224,C6,Day,No,E BROADWAY,Part Three,Unarmed,783530.0136,,2947722.615,2013
+79466,130029270.0,Monday,No,2013-01-14T21:08:00.000,PropFound,"[-71.04134, 42.287606]",Point,PropFound,1,IVPREM,376,C11,First,No,WOODWORTH ST,Part Three,Unarmed,780271.7019,,2930165.038,2013
+92711,130027719.0,Monday,No,2013-01-14T09:09:00.000,PropFound,"[-71.050891, 42.355532]",Point,PropFound,1,BOMBT ,96,A1,Day,No,ATLANTIC AV,Part Three,Unarmed,777556.9711,,2954904.503,2013
+96100,130027639.0,Monday,No,2013-01-14T08:15:00.000,PropFound,"[-71.046062, 42.335273]",Point,PropFound,1,FDPROP,220,C6,Day,No,DORCHESTER ST,Part Three,Unarmed,778901.4874,SILVER ST,2947528.6980000003,2013
+145128,130066968.0,Monday,No,2013-01-14T08:00:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,1,LSTPRP,28,A7,Day,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2013
+253428,130027649.0,Monday,No,2013-01-14T07:51:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,1,FDPROP,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013

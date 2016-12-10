@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41,142036787.0,Tuesday,No,2014-10-07T06:30:00.000,PersLoc,"[-71.063905, 42.312206]",Point,PersLoc,10,IVPER,0,C11,Last,No,HANCOCK ST,Other,Unarmed,774120.2529,,2939097.619,2014
+95780,142036982.0,Tuesday,No,2014-10-07T12:30:00.000,PersLoc,"[-71.144024, 42.346747]",Point,PersLoc,10,IVPER,0,D14,Day,No,JETTE CT,Other,Unarmed,752397.4732,,2951584.079,2014
+148667,142036754.0,Tuesday,No,2014-10-07T10:13:00.000,PersLoc,"[-71.05477, 42.293951]",Point,PersLoc,10,IVPER,0,C11,Day,No,TRAIN ST,Other,Unarmed,776625.757,,2932457.99,2014
+263808,142036685.0,Tuesday,No,2014-10-07T12:21:00.000,PersLoc,"[0, 0]",Point,PersLoc,10,IVPER,0,B3,Day,No,W MAIN ST,Other,Unarmed,,,,2014

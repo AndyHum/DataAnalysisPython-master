@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+289,152013429.0,Thursday,No,2015-02-19T00:00:00.000,PropDam,"[0, 0]",Point,PropDam,2,PROP,0,C6,Last,No,BROADWAY,Part three,Unarmed,,,,2015
+56647,152013578.0,Thursday,No,2015-02-19T21:55:00.000,PropDam,"[-71.077775, 42.293491]",Point,PropDam,2,PROP,0,B3,First,No,NORWELL ST,Part three,Unarmed,770402.5362,,2932258.71,2015
+101724,152013392.0,Thursday,No,2015-02-19T10:00:00.000,PropDam,"[-71.083725, 42.350576]",Point,PropDam,2,PROP,0,D4,Day,No,COMMONWEALTH AV,Part three,Other,768691.2109,,2953053.541,2015

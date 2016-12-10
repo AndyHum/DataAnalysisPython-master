@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10159,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.082999, 42.27133]",Point,08xx,6,PRSCRM,422,B3,,No,RIVER ST,Part Two,None,769029.0,,2920000.0,2015
+35450,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.142944, 42.35459]",Point,08xx,6,AB,782,D14,,No,N BEACON ST,Part Two,None,752678.0,,2950000.0,2015
+39892,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.071703, 42.291316]",Point,08xx,6,IVPER,362,C11,,No,WASHINGTON ST,Part Two,None,772049.0,,2930000.0,2015
+39893,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.071703, 42.291316]",Point,08xx,6,IVPER,362,C11,,No,WASHINGTON ST,Part Two,None,772049.0,,2930000.0,2015
+44845,,Monday,No,2015-06-22T11:45:00.000,Simple Assault,"[0, 0]",Point,08xx,6,NIDV,496,E18,,No,PROVIDENCE ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+64525,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.082716, 42.333578]",Point,08xx,6,AB,276,B2,,No,SHAWMUT AVE,Part Two,None,768994.0,,2950000.0,2015
+109516,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.146871, 42.285389]",Point,08xx,6,LANTEN,686,E5,,No,ANAWAN TER,Part Two,Personal Weapon (hand  foot  etc.),751720.0,,2930000.0,2015
+114109,,Monday,No,2015-06-22T15:47:00.000,Simple Assault,"[0, 0]",Point,08xx,6,IVPER,319,B2,,No,MAPLE ST,Part Two,None,,SONOMA ST,,2015
+130525,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.069194, 42.280013]",Point,08xx,6,AB,403,C11,,No,OWENCROFT RD,Part Two,None,772749.0,,2930000.0,2015
+170788,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.0784, 42.28466]",Point,08xx,6,AB,434,B3,,No,THETFORD AVE,Part Two,None,770249.0,,2930000.0,2015
+181576,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.077195, 42.322032]",Point,08xx,6,AB,262,B2,,No,BLUE HILL AVE,Part Two,None,770508.0,,2940000.0,2015
+215101,,Monday,No,2015-06-22T20:50:00.000,Simple Assault,"[0, 0]",Point,08xx,6,NIDV,480,E18,,No,HARMON ST,Part Two,None,,,,2015
+237615,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.120817, 42.285588]",Point,08xx,6,NIDV,561,E5,,No,RIDGE ST,Part Two,Personal Weapon (hand  foot  etc.),758770.0,,2930000.0,2015
+258262,,Monday,No,2015-06-22T00:00:00.000,Simple Assault,"[-71.057729, 42.35917]",Point,08xx,6,FIGHT,92,A1,,No,WASHINGTON MALL,Part Two,Personal Weapon (hand  foot  etc.),775702.0,,2960000.0,2015

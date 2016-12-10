@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25969,130066792.0,Friday,No,2013-02-01T14:54:00.000,Ballist,"[-71.050115, 42.331466]",Point,Ballist,2,REQP  ,915,C6,Day,No,E 9TH ST,Part Two,Unarmed,777813.0703,,2946135.647,2013
+44034,130066869.0,Friday,No,2013-02-01T15:20:00.000,Ballist,"[-71.145857, 42.351592]",Point,Ballist,2,FDWEAP,72,D14,Day,No,DUSTIN ST,Part Two,Unarmed,751894.4896,,2953347.787,2013
+58033,130065751.0,Friday,No,2013-02-01T05:15:00.000,Ballist,"[-71.04923, 42.331291]",Point,Ballist,2,IVPREM,915,C6,Last,No,MERCER ST,Part Two,Firearm,778052.7024,,2946073.1360000004,2013

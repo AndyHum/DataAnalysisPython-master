@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83619,120572030.0,Wednesday,No,2012-09-12T17:36:00.000,PubDrink,"[-71.08402, 42.332051]",Point,PubDrink,9,SSTOP ,287,B2,First,No,RUGGLES ST,Part Two,Unarmed,768644.3942,SHAWMUT AV,2946302.298,2012
+149429,120571923.0,Wednesday,No,2012-09-12T18:00:00.000,PubDrink,"[-71.08046, 42.335661]",Point,PubDrink,9,CD19  ,0,D4,First,No,SHAWMUT AV,Part Two,Unarmed,769600.5096,,2947622.561,2012
+211236,120572362.0,Wednesday,No,2012-09-12T20:05:00.000,PubDrink,"[-71.084525, 42.329741]",Point,PubDrink,9,SSTOP ,288,B2,First,No,WASHINGTON ST,Part Two,Other,768511.9472,,2945459.828,2012
+263319,120571740.0,Wednesday,No,2012-09-12T15:32:00.000,PubDrink,"[0, 0]",Point,PubDrink,9,ARREST,181,B2,Day,No,SHIRLEY ST,Part Two,Other,,,,2012

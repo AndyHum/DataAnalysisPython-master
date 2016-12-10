@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64993,130424341.0,Tuesday,No,2013-07-09T12:00:00.000,PersLoc,"[-71.10201, 42.261421]",Point,PersLoc,7,MISPER,484,E18,Day,No,OSCEOLA ST,Other,Unarmed,763900.1778,,2920540.4269999997,2013
+153810,130423381.0,Tuesday,No,2013-07-09T18:07:00.000,PersLoc,"[-71.106683, 42.320865]",Point,PersLoc,7,FDCHLD,578,E13,First,No,FORBES ST,Other,Unarmed,762535.1284,,2942196.902,2013
+257632,130423154.0,Tuesday,No,2013-07-09T08:00:00.000,PersLoc,"[-71.081419, 42.321935]",Point,PersLoc,7,MSNCOM,296,B2,Day,No,COPELAND ST,Other,Unarmed,769365.6108,,2942619.2830000003,2013

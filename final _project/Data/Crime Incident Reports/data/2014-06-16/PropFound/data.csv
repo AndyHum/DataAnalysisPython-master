@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31791,140381292.0,Monday,No,2014-06-16T10:30:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,6,FDPROP,520,E18,Day,No,HYDE PARK AV,Part three,Firearm,757969.2324,,2918691.415,2014
+108197,140381328.0,Monday,No,2014-06-16T10:20:00.000,PropFound,"[-71.106975, 42.334666]",Point,PropFound,6,FDPROP,593,B2,Day,No,FENWOOD RD,Part three,Unarmed,762433.2051,,2947225.818,2014
+188393,140381116.0,Monday,No,2014-06-16T09:35:00.000,PropFound,"[-71.082445, 42.300186]",Point,PropFound,6,REMOVE,456,B3,Day,No,GLENWAY ST,Part three,Unarmed,769127.1034,,2934692.249,2014
+255251,142000357.0,Monday,No,2014-06-16T01:45:00.000,PropFound,"[-71.06665, 42.360291]",Point,PropFound,6,ADMRPT,0,A1,Last,No,PHILLIPS ST,Part three,Unarmed,773288.7742,,2956616.86,2014
+258871,140382101.0,Monday,No,2014-06-16T16:40:00.000,PropFound,"[-71.071365, 42.284885]",Point,PropFound,6,FDWEAP,402,C11,First,No,WASHINGTON ST,Part three,Firearm,772152.4973,,2929130.9869999997,2014

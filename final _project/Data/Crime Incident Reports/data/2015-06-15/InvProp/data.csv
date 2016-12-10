@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40656,152049489.0,Monday,No,2015-06-15T03:24:00.000,InvProp,"[-71.0682, 42.279216]",Point,InvProp,6,SHOTS,0,C11,Last,No,GALLIVAN BL,Part three,Firearm,773019.426,,2927069.67,2015
+43782,152049698.0,Monday,No,2015-06-15T17:15:00.000,InvProp,"[-71.07699, 42.28426]",Point,InvProp,6,BE,0,B3,First,No,MILTON AV,Part three,Unarmed,770631.5427,,2928895.599,2015
+52806,152049672.0,Monday,No,2015-06-15T17:10:00.000,InvProp,"[-71.068436, 42.290364]",Point,InvProp,6,SHOTS,0,C11,First,No,LITHGOW ST,Part three,Firearm,772934.9327,WAINWRIGHT ST,2931131.8,2015
+91554,152049771.0,Monday,No,2015-06-15T22:19:00.000,InvProp,"[-71.098528, 42.327445]",Point,InvProp,6,LOCKOU,0,B2,First,No,TERRACE ST,Part three,Unarmed,764729.4865,,2944604.955,2015
+150890,152049507.0,Monday,No,2015-06-15T07:30:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,6,CD9,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+240652,152049715.0,Monday,No,2015-06-15T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,6,IVPREM,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015

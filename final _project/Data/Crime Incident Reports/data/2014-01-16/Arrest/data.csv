@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7366,140030934.0,Thursday,No,2014-01-16T08:30:00.000,Arrest,"[-71.081367, 42.336818]",Point,Arrest,1,ARREST,273,D4,Day,No,LENOX ST,Part three,Unarmed,769353.1922,,2948042.758,2014
+161770,140031317.0,Thursday,No,2014-01-16T11:44:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,1,ARREST,117,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+197230,140230257.0,Thursday,No,2014-01-16T01:15:00.000,Arrest,"[-71.05321, 42.327191]",Point,Arrest,1,ARREST,914,C6,Last,No,LOGAN WY,Part three,Unarmed,776984.3679,,2944573.365,2014

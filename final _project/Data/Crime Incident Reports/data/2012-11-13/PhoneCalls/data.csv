@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105382,120718131.0,Tuesday,No,2012-11-13T10:00:00.000,PhoneCalls,"[-71.06827, 42.303356]",Point,PhoneCalls,11,IVPER ,342,C11,Day,No,TOPLIFF ST,Part Three,Unarmed,772955.9566,,2935866.535,2012
+110597,120717474.0,Tuesday,No,2012-11-13T15:00:00.000,PhoneCalls,"[-71.13991, 42.239586]",Point,PhoneCalls,11,HARPT ,529,E18,Day,No,W MILTON ST,Part Three,Unarmed,753674.5464,,2912537.885,2012
+116710,120714712.0,Tuesday,No,2012-11-13T13:40:00.000,PhoneCalls,"[-71.059637, 42.308066]",Point,PhoneCalls,11,HARPT ,339,C11,Day,No,CHURCH ST,Part Three,Unarmed,775282.3421,,2937594.723,2012
+129906,130046824.0,Tuesday,No,2012-11-13T00:00:00.000,PhoneCalls,"[-71.066885, 42.362496]",Point,PhoneCalls,11,HARPT ,64,A1,Last,No,BLOSSOM ST,Part Three,Other,773221.1808,,2957420.083,2012

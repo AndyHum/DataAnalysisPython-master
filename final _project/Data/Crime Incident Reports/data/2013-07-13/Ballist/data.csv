@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45166,130432164.0,Saturday,No,2013-07-13T06:10:00.000,Ballist,"[-71.074764, 42.304464]",Point,Ballist,7,SHOTS ,461,C11,Last,No,OLNEY ST,Part Two,Firearm,771197.1183,,2936261.267,2013
+73561,130448331.0,Saturday,No,2013-07-13T13:00:00.000,Ballist,"[-71.07112, 42.297521]",Point,Ballist,7,FDPROP,358,C11,Day,No,TONAWANDA ST,Part Two,Unarmed,772195.6891,,2933736.284,2013
+131716,130433997.0,Saturday,No,2013-07-13T23:34:00.000,Ballist,"[-71.07476, 42.273461]",Point,Ballist,7,SHOTS ,408,B3,First,No,SANFORD ST,Part Two,Unarmed,771254.6467,STURBRIDGE ST,2924963.5530000003,2013

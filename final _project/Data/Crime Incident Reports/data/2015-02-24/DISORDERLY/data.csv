@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51073,152015052.0,Tuesday,No,2015-02-24T20:30:00.000,DISORDERLY,"[-71.08207, 42.348781]",Point,24xx,2,DISTRB,0,D4,First,No,BOYLSTON ST,Part Two,Other,769141.7805,,2952401.595,2015
+205259,152014800.0,Tuesday,No,2015-02-24T04:30:00.000,DISORDERLY,"[-71.10064, 42.318636]",Point,24xx,2,ARREST,0,E13,Last,No,W WALNUT PARK,Part Two,Unarmed,764173.405,,2941392.159,2015
+267553,152015620.0,Tuesday,No,2015-02-24T17:45:00.000,DISORDERLY,"[0, 0]",Point,24xx,2,MISC,0,A7,First,No,WHITE ST,Part Two,Unarmed,,,,2015

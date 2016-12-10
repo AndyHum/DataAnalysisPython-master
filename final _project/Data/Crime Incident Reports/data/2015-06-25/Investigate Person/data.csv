@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25667,,Thursday,No,2015-06-25T10:19:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,ALARM,712,E5,,No,ROCKINGHAM AVE,Part Three,None,,,,2015
+27023,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.079184, 42.302621]",Point,InvPer,6,NIDV,456,B3,,No,GREENWOOD ST,Part Three,None,770005.0,,2940000.0,2015
+27501,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.075204, 42.322611]",Point,InvPer,6,IVPER,263,B2,,No,DENNIS ST,Part Three,None,771045.0,,2940000.0,2015
+52253,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.102888, 42.270947]",Point,InvPer,6,NIDV,474,B3,,No,CUMMINS HWY,Part Three,None,763646.0,,2920000.0,2015
+56464,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.058436, 42.291115]",Point,InvPer,6,IVPER,366,C11,,No,LONSDALE ST,Part Three,None,775639.0,,2930000.0,2015
+79294,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.110661, 42.312392]",Point,InvPer,6,REQEP,639,E13,,No,CANDOR PL,Part Three,None,761474.0,,2940000.0,2015
+127296,,Thursday,No,2015-06-25T01:22:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,PERGUN,460,B2,,No,,Part Three,None,, GENEVA AVE ,,2015
+137348,,Thursday,No,2015-06-25T08:34:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,462,C11,,No,BOWDOIN ST,Part Three,None,, GENEVA AVE ,,2015
+154425,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.060844, 42.312096]",Point,InvPer,6,IVPER,823,C11,,No,SAWYER AVE,Part Three,None,774948.0,,2940000.0,2015
+157663,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.100832, 42.335515]",Point,InvPer,6,ALARM,602,B2,,No,HUNTINGTON AVE,Part Three,None,764093.0,,2950000.0,2015
+217488,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.054098, 42.357544]",Point,InvPer,6,,100,A1,,No,BATTERYMARCH ST,Part Three,None,776686.0,,2960000.0,2015
+230438,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.079665, 42.292826]",Point,InvPer,6,IVPER,442,B3,,No,BERNARD ST,Part Three,None,769892.0,,2930000.0,2015
+234171,,Thursday,No,2015-06-25T00:00:00.000,Investigate Person,"[-71.12386, 42.253267]",Point,InvPer,6,DVIP,522,E18,,No,DANA AVE,Part Three,None,757999.0,,2920000.0,2015

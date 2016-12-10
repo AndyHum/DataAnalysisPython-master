@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67388,120594670.0,Friday,No,2012-09-21T23:19:00.000,Gather,"[-71.102, 42.330656]",Point,Gather,9,PARTY ,586,B2,First,No,PONTIAC ST,Part Three,Other,763785.1574,,2945770.738,2012
+82848,120596288.0,Friday,No,2012-09-21T22:30:00.000,Gather,"[-71.041895, 42.320296]",Point,Gather,9,MISC  ,256,C6,First,No,ISLAND VIEW PL,Part Three,Unarmed,780057.5491,,2942076.9460000005,2012
+254407,120600631.0,Friday,No,2012-09-21T21:15:00.000,Gather,"[-71.0255, 42.334931]",Point,Gather,9,IVPREM,228,C6,First,No,E 4TH ST,Part Three,Other,784461.7286,,2947434.414,2012

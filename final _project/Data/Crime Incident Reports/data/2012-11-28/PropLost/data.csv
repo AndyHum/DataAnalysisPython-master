@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91728,120755862.0,Wednesday,No,2012-11-28T14:00:00.000,PropLost,"[-71.127095, 42.26772]",Point,PropLost,11,LSTPRP,547,E18,Day,No,LODGEHILL RD,Part Three,Unarmed,757099.6317,,2922805.2189999996,2012
+155861,120746765.0,Wednesday,No,2012-11-28T20:12:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,11,LARCRT,186,C6,First,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2012
+203306,120746290.0,Wednesday,No,2012-11-28T11:00:00.000,PropLost,"[-71.053506, 42.32612]",Point,PropLost,11,LSTPRP,914,C6,Day,No,GAVIN WY,Part Three,Unarmed,776906.2024,,2944182.5530000003,2012
+229554,120746460.0,Wednesday,No,2012-11-28T00:00:00.000,PropLost,"[-71.074209, 42.326354]",Point,PropLost,11,IVPER ,180,B2,Last,No,EUSTIS ST,Part Three,Unarmed,771307.4363,,2944239.2210000004,2012

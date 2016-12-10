@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42856,130250586.0,Thursday,No,2013-04-25T12:00:00.000,BENoProp,"[-71.142504, 42.279954]",Point,BENoProp,4,BERPT ,691,E5,Day,No,W ROXBURY PY,Part One,Other,752910.2743,,2927245.298,2013
+211285,130242425.0,Thursday,No,2013-04-25T03:25:00.000,BENoProp,"[-71.120977, 42.267011]",Point,BENoProp,4,ALARMC,496,E18,Last,No,HYDE PARK AV,Part One,Other,758756.7157,,2922553.869,2013
+222747,130243003.0,Thursday,No,2013-04-25T11:32:00.000,BENoProp,"[-71.067144, 42.295885]",Point,BENoProp,4,BEIP  ,359,C11,Day,No,WALDECK ST,Part One,Unarmed,773274.1214,,2933145.542,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30485,130463487.0,Thursday,No,2013-07-25T20:52:00.000,WEAPONS CHARGE,"[-71.05532, 42.311616]",Point,15xx,7,IVPREM,0,C11,First,No,MARYLAND ST,Part Two,Unarmed,776443.3919,,2938894.602,2013
+51289,130463175.0,Thursday,No,2013-07-25T19:25:00.000,WEAPONS CHARGE,"[-71.079127, 42.278134]",Point,15xx,7,IVPER ,943,B3,First,No,MORTON ST,Part Two,Knife,770064.3023,,2926660.578,2013
+85468,130462076.0,Thursday,No,2013-07-25T10:48:00.000,WEAPONS CHARGE,"[-71.06287, 42.352321]",Point,15xx,7,IVPER ,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774325.2748,,2953717.652,2013
+138588,130463241.0,Thursday,No,2013-07-25T20:08:00.000,WEAPONS CHARGE,"[-71.029265, 42.337006]",Point,15xx,7,ARREST,224,C6,First,No,O ST,Part Two,Unarmed,783439.5882,,2948184.939,2013

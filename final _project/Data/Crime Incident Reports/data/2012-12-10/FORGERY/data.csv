@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85675,120773862.0,Monday,No,2012-12-10T17:45:00.000,FORGERY,"[-71.09126, 42.284506]",Point,10xx,12,LARCRT,430,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766769.7994,,2928966.673,2012
+116779,120773805.0,Monday,No,2012-12-10T17:29:00.000,FORGERY,"[-71.112411, 42.284053]",Point,10xx,12,ARREST,503,E18,First,No,AMERICAN LEGION HY,Part Two,Unarmed,761047.1773,,2928774.728,2012
+126285,130177946.0,Monday,No,2012-12-10T13:49:00.000,FORGERY,"[-71.138508, 42.355898]",Point,10xx,12,MISC  ,804,D14,Day,No,EVERETT ST,Part Two,Unarmed,753874.4121,,2954925.45,2012
+176735,120773212.0,Monday,No,2012-12-10T11:30:00.000,FORGERY,"[-71.059987, 42.361648]",Point,10xx,12,LARCRT,72,A1,Day,No,SUDBURY ST,Part Two,Unarmed,775087.02,,2957120.525,2012

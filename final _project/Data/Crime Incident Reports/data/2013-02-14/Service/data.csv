@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81417,130093961.0,Thursday,No,2013-02-14T12:30:00.000,Service,"[-71.088875, 42.291651]",Point,Service,2,TRANSP,440,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,767402.6131,,2931573.5160000003,2013
+101737,130093704.0,Thursday,No,2013-02-14T10:03:00.000,Service,"[-71.060964, 42.352801]",Point,Service,2,MISPER,112,A1,Day,No,CHAUNCY ST,Part Three,Unarmed,774839.4243,,2953895.0289999996,2013
+158793,130094029.0,Thursday,No,2013-02-14T11:15:00.000,Service,"[-71.097702, 42.348699]",Point,Service,2,CD11  ,622,D4,Day,No,BEACON ST,Part Three,Unarmed,764916.1761,,2952351.106,2013
+179471,130094982.0,Thursday,No,2013-02-14T20:42:00.000,Service,"[-71.08199, 42.334391]",Point,Service,2,ARREST,275,D4,First,No,HAMMOND ST,Part Three,Unarmed,769189.1056,SHAWMUT AV,2947157.7189999996,2013
+183947,130093818.0,Thursday,No,2013-02-14T11:15:00.000,Service,"[-71.097702, 42.348699]",Point,Service,2,ARREST,622,D4,Day,No,BEACON ST,Part Three,Unarmed,764916.1761,,2952351.106,2013
+188825,130093637.0,Thursday,No,2013-02-14T10:00:00.000,Service,"[-71.1133, 42.317151]",Point,Service,2,TSTOP ,641,E13,Day,No,CENTRE ST,Part Three,Unarmed,760751.9955,,2940835.223,2013
+191810,130093108.0,Thursday,No,2013-02-14T01:15:00.000,Service,"[-71.07065, 42.319551]",Point,Service,2,ARREST,260,B2,Last,No,DUDLEY ST,Part Three,Unarmed,772282.4306,FOLSOM ST,2941765.0,2013
+196837,130094326.0,Thursday,No,2013-02-14T15:00:00.000,Service,"[-71.063155, 42.298481]",Point,Service,2,SSTOP ,356,C11,Day,No,GENEVA AV,Part Three,Unarmed,774348.7245,,2934097.058,2013

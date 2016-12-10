@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65780,152004368.0,Friday,No,2015-01-16T22:14:00.000,PersLoc,"[-71.075307, 42.297484]",Point,PersLoc,1,IVPER,0,B3,First,No,ALGONQUIN ST,Other,Unarmed,771062.8043,,2933717.1160000004,2015
+176033,152004620.0,Friday,No,2015-01-16T21:30:00.000,PersLoc,"[-71.14214, 42.241316]",Point,PersLoc,1,MISSIN,0,E18,First,No,COMO RD,Other,Unarmed,753068.0499,,2913165.777,2015
+234579,152004363.0,Friday,No,2015-01-16T20:41:00.000,PersLoc,"[-71.103005, 42.268371]",Point,PersLoc,1,IVPER,0,E18,First,No,GREENFIELD RD,Other,Unarmed,763619.0518,,2923071.8430000003,2015
+250483,152004450.0,Friday,No,2015-01-16T14:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISSIN,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+265683,152004158.0,Friday,No,2015-01-16T10:53:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,E18,Day,No,CLARE AV,Other,Unarmed,,,,2015

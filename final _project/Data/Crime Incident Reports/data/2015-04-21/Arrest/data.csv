@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3483,152032483.0,Tuesday,No,2015-04-21T16:00:00.000,Arrest,"[0, 0]",Point,Arrest,4,ARREST,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+53409,152032318.0,Tuesday,No,2015-04-21T00:35:00.000,Arrest,"[-71.05572, 42.352165]",Point,Arrest,4,ARREST,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,776258.1643,ESSEX ST,2953670.5760000004,2015
+53524,152032481.0,Tuesday,No,2015-04-21T15:13:00.000,Arrest,"[-71.09486, 42.315301]",Point,Arrest,4,ARREST,0,E13,Day,No,WARDMAN RD,Part three,Unarmed,765742.3612,,2940184.2010000004,2015

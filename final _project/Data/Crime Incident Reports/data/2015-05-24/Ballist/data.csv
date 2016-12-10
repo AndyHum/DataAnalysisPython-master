@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102112,152042500.0,Sunday,No,2015-05-24T01:05:00.000,Ballist,"[-71.063985, 42.320466]",Point,Ballist,5,SHOTS,0,B2,Last,No,ELDER ST,Part Two,Unarmed,774083.2277,CAWFIELD ST,2942107.585,2015
+147580,152042509.0,Sunday,No,2015-05-24T02:44:00.000,Ballist,"[-71.085841, 42.306613]",Point,Ballist,5,SHOTS,0,B2,Last,No,NAZING ST,Part Two,Firearm,768196.8940000001,MAPLE ST,2937029.841,2015
+227928,152042508.0,Sunday,No,2015-05-24T02:41:00.000,Ballist,"[-71.077675, 42.291891]",Point,Ballist,5,SSA,0,B3,Last,No,TALBOT AV,Part Two,Firearm,770432.4774,,2931675.7810000004,2015

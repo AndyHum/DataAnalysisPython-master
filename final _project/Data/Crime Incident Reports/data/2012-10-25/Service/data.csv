@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1175,120673883.0,Thursday,No,2012-10-25T22:30:00.000,Service,"[-71.087645, 42.296111]",Point,Service,10,SSTOP ,463,B3,First,No,BLUE HILL AV,Part Three,Unarmed,767727.5475,,2933200.413,2012
+21003,120672516.0,Thursday,No,2012-10-25T10:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,10,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+38173,120672269.0,Thursday,No,2012-10-25T10:15:00.000,Service,"[-71.058204, 42.319415]",Point,Service,10,CD11  ,236,C11,Day,No,EDISON,Part Three,Unarmed,775648.6035,,2941732.436,2012
+52663,120765548.0,Thursday,No,2012-10-25T00:00:00.000,Service,"[-71.080365, 42.280871]",Point,Service,10,MISCRP,418,B3,Last,No,SELDEN ST,Part Three,Unarmed,769724.4234,,2927656.3460000004,2012
+124189,120672211.0,Thursday,No,2012-10-25T09:31:00.000,Service,"[-71.059987, 42.361648]",Point,Service,10,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+198144,120678522.0,Thursday,No,2012-10-25T12:00:00.000,Service,"[-71.111099, 42.332557]",Point,Service,10,IVPER ,606,B2,Day,No,HUNTINGTON AV,Part Three,Other,761321.6315,,2946451.875,2012
+232362,120672178.0,Thursday,No,2012-10-25T09:15:00.000,Service,"[-71.05987, 42.351191]",Point,Service,10,ARREST,116,A1,Day,No,BEACH ST,Part Three,Unarmed,775138.3074,HUDSON ST,2953310.028,2012

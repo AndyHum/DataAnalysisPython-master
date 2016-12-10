@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3243,,Tuesday,No,2015-07-07T00:00:00.000,Property Lost,"[-71.060751, 42.357686]",Point,PropLost,7,ADMRPT,102,A1,,No,TREMONT ST,Part Three,None,774888.0,,2960000.0,2015
+15949,,Tuesday,No,2015-07-07T00:00:00.000,Property Lost,"[-71.079209, 42.338256]",Point,PropLost,7,PROP,273,D4,,No,MASSACHUSETTS AVE,Part Three,None,769934.0,,2950000.0,2015
+96262,,Tuesday,No,2015-07-07T16:12:00.000,Property Lost,"[0, 0]",Point,PropLost,7,IVPER,352,C11,,No,ARCADIA PARK,Part Three,None,,,,2015
+221276,,Tuesday,No,2015-07-07T00:00:00.000,Property Lost,"[-71.074996, 42.298518]",Point,PropLost,7,PROP,453,B3,,No,CHAMBERLAIN ST,Part Three,None,771145.0,,2930000.0,2015
+226024,,Tuesday,No,2015-07-07T00:00:00.000,Property Lost,"[-71.072272, 42.352371]",Point,PropLost,7,PROP,133,D4,,No,NEWBURY ST,Part Three,None,771784.0,,2950000.0,2015
+248850,,Tuesday,No,2015-07-07T00:00:00.000,Property Lost,"[-71.109716, 42.261948]",Point,PropLost,7,PROP,493,E18,,No,RIVER ST,Part Three,None,761813.0,,2920000.0,2015

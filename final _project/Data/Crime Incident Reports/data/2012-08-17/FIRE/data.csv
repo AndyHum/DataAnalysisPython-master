@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+118927,120518655.0,Friday,No,2012-08-17T04:00:00.000,FIRE,"[-71.063765, 42.280526]",Point,FIRE,8,IVPREM,395,C11,Last,No,GALLIVAN BL,Part Three,Other,774217.1625,,2927553.159,2012
+145651,120512818.0,Friday,No,2012-08-17T19:08:00.000,FIRE,"[-71.085628, 42.34206]",Point,FIRE,8,FIREB ,283,D4,First,No,HUNTINGTON AV,Part Three,Unarmed,768191.7788,,2949947.602,2012
+169422,120512843.0,Friday,No,2012-08-17T17:30:00.000,FIRE,"[-71.083485, 42.298551]",Point,FIRE,8,LANTEN,457,B3,First,No,BRADSHAW ST,Part Three,Unarmed,768848.6656,,2934095.0539999995,2012
+216588,120512867.0,Friday,No,2012-08-17T19:28:00.000,FIRE,"[-71.074125, 42.299236]",Point,FIRE,8,FIREB ,453,B3,First,No,HARVARD ST,Part Three,Unarmed,771379.6048,,2934357.183,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+137380,142022020.0,Saturday,No,2014-08-23T00:34:00.000,TRESPASS,"[-71.060964, 42.352801]",Point,TRESPASS,8,ARREST,0,A1,Last,No,CHAUNCY ST,Part Two,Unarmed,774839.4243,,2953895.0289999996,2014
+145526,142022228.0,Saturday,No,2014-08-23T18:26:00.000,TRESPASS,"[-71.100769, 42.325321]",Point,TRESPASS,8,ARREST,0,E13,First,No,PARKER ST,Part Two,Unarmed,764127.0458,,2943828.1319999998,2014
+259944,142022241.0,Saturday,No,2014-08-23T18:00:00.000,TRESPASS,"[-71.053506, 42.32612]",Point,TRESPASS,8,IVPER,0,C6,First,No,GAVIN WY,Part Two,Unarmed,776906.2024,,2944182.5530000003,2014

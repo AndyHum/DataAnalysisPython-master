@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42801,142011960.0,Saturday,No,2014-07-19T08:00:00.000,PersLoc,"[-71.063905, 42.312206]",Point,PersLoc,7,MISSIN,0,C11,Day,No,HANCOCK ST,Other,Unarmed,774120.2529,,2939097.619,2014
+171430,142011197.0,Saturday,No,2014-07-19T08:30:00.000,PersLoc,"[-71.145713, 42.254529]",Point,PersLoc,7,IVPER,0,E5,Day,No,GEORGETOWNE PL,Other,Unarmed,752080.4544,,2917976.5160000003,2014
+205677,142010593.0,Saturday,No,2014-07-19T02:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,7,MISSIN,0,D14,Last,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014

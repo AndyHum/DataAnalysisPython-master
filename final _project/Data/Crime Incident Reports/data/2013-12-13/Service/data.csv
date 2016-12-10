@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19125,130785183.0,Friday,No,2013-12-13T15:00:00.000,Service,"[-71.06305, 42.350871]",Point,Service,12,ARREST,117,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774279.327,KNEELAND ST,2953188.994,2013
+116527,130785644.0,Friday,No,2013-12-13T18:56:00.000,Service,"[-71.102874, 42.325388]",Point,Service,12,ARREST,906,E13,First,No,HORAN WY,Other,Unarmed,763557.568,,2943849.8589999997,2013
+119625,130785778.0,Friday,No,2013-12-13T20:50:00.000,Service,"[-71.107525, 42.300191]",Point,Service,12,CD11  ,566,E13,First,No,MORTON ST,Part three,Unarmed,762342.3043,,2934661.854,2013
+147324,130791604.0,Friday,No,2013-12-13T20:30:00.000,Service,"[-71.060845, 42.355056]",Point,Service,12,LARCIP,111,A1,First,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2013
+204120,130784067.0,Friday,No,2013-12-13T01:52:00.000,Service,"[-71.05766, 42.303101]",Point,Service,12,ARREST,350,C11,Last,No,FENTON ST,Part three,Unarmed,775826.5692,MARLIN WY,2935788.315,2013

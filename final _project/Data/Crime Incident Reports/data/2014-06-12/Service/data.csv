@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44462,140371108.0,Thursday,No,2014-06-12T08:50:00.000,Service,"[-71.08068, 42.324911]",Point,Service,6,TSTOP ,265,B2,Day,No,MORELAND ST,Part three,Unarmed,769560.2869,MONTROSE ST,2943704.7810000004,2014
+126592,140371663.0,Thursday,No,2014-06-12T12:45:00.000,Service,"[-71.107805, 42.33605]",Point,Service,6,ARREST,612,B2,Day,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2014
+136083,140371192.0,Thursday,No,2014-06-12T09:29:00.000,Service,"[-71.063675, 42.352301]",Point,Service,6,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+152261,140372391.0,Thursday,No,2014-06-12T17:19:00.000,Service,"[-71.05923, 42.354471]",Point,Service,6,ARREST,106,A1,First,No,CHAUNCY ST,Part three,Unarmed,775305.127,SUMMER ST,2954506.216,2014
+174016,140372440.0,Thursday,No,2014-06-12T17:36:00.000,Service,"[-71.076955, 42.288186]",Point,Service,6,IVPREM,437,B3,First,No,NORFOLK ST,Part three,Unarmed,770633.978,,2930326.59,2014
+227095,140371421.0,Thursday,No,2014-06-12T11:40:00.000,Service,"[-71.061658, 42.320448]",Point,Service,6,ARREST,240,C6,Day,No,COLUMBIA RD,Part three,Unarmed,774712.5867,MASSACHUSETTS AV,2942103.95,2014
+258270,140370717.0,Thursday,No,2014-06-12T00:27:00.000,Service,"[-71.08135, 42.332389]",Point,Service,6,IVPER ,274,B2,Last,No,WASHINGTON ST,Part three,Unarmed,769365.5688,,2946429.0289999996,2014
+261718,140373835.0,Thursday,No,2014-06-12T07:30:00.000,Service,"[0, 0]",Point,Service,6,INVEST,167,D4,Day,No,VINE ST,Part three,Unarmed,,,,2014

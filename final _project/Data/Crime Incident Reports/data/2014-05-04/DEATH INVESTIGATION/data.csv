@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53734,140273354.0,Sunday,No,2014-05-04T17:08:00.000,DEATH INVESTIGATION,"[-71.161905, 42.354371]",Point,01INV,5,CARST ,765,D14,First,No,HOBSON ST,Part three,Unarmed,747552.8122,,2954343.066,2014
+134075,140273593.0,Sunday,No,2014-05-04T19:16:00.000,DEATH INVESTIGATION,"[-71.06576, 42.373451]",Point,01INV,5,SDNDTH,931,A15,First,No,WASHINGTON ST,Part three,Unarmed,773504.8988,,2961413.852,2014
+193297,140273529.0,Sunday,No,2014-05-04T18:47:00.000,DEATH INVESTIGATION,"[-71.012211, 42.387175]",Point,01INV,5,SDNDTH,12,A7,First,No,BRANDYWYNE DR,Part three,Unarmed,787945.8755,,2966493.185,2014

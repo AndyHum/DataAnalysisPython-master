@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20188,142029769.0,Monday,No,2014-09-15T17:40:00.000,Service,"[-71.123097, 42.250596]",Point,Service,9,IVPER,0,E18,First,No,EASTON AV,Other,Unarmed,758209.286,,2916569.537,2014
+33499,142029520.0,Monday,No,2014-09-15T06:30:00.000,Service,"[-71.05078, 42.356576]",Point,Service,9,IVPER,0,A1,Last,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2014
+62869,142029517.0,Monday,No,2014-09-15T04:30:00.000,Service,"[-71.153848, 42.340354]",Point,Service,9,UNKEMS,0,D14,Last,No,LOTHIAN RD,Part three,Unarmed,749751.1254,,2949243.522,2014
+128589,142029817.0,Monday,No,2014-09-15T21:15:00.000,Service,"[-71.07825, 42.335516]",Point,Service,9,ARREST,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,770198.2968,,2947572.668,2014
+155940,142029743.0,Monday,No,2014-09-15T17:35:00.000,Service,"[-71.06427, 42.308171]",Point,Service,9,SS,0,C11,First,No,BOWDOIN ST,Part three,Unarmed,774029.0408,,2937626.6969999997,2014
+170887,142029528.0,Monday,No,2014-09-15T07:30:00.000,Service,"[-71.051365, 42.359702]",Point,Service,9,CD9,0,A1,Day,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2014
+213432,142029622.0,Monday,No,2014-09-15T10:59:00.000,Service,"[-71.06313, 42.357566]",Point,Service,9,CD9,0,A1,Day,No,PARK ST,Part three,Unarmed,774245.2059999999,,2955628.67,2014
+241001,142029610.0,Monday,No,2014-09-15T10:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,9,CD9,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014

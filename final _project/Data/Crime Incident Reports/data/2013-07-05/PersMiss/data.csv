@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18499,130414816.0,Friday,No,2013-07-05T23:21:00.000,PersMiss,"[-71.075835, 42.289281]",Point,PersMiss,7,MISPER,437,B3,First,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2013
+28175,130421234.0,Friday,No,2013-07-05T08:00:00.000,PersMiss,"[-71.095235, 42.276842]",Point,PersMiss,7,MISPER,469,B3,Day,No,HIAWATHA RD,Other,Unarmed,765707.4298,,2926168.385,2013
+43885,130418277.0,Friday,No,2013-07-05T17:00:00.000,PersMiss,"[-71.11308, 42.281181]",Point,PersMiss,7,MISPER,818,E18,First,No,MT HOPE ST,Other,Unarmed,760870.7941,,2927727.4710000004,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28420,130267975.0,Monday,No,2013-05-06T10:02:00.000,Arrest,"[-71.081074, 42.321329]",Point,Arrest,5,ARREST,265,B2,Day,No,WAVERLY ST,Part Three,Unarmed,769459.9305,,2942398.693,2013
+39305,130269629.0,Monday,No,2013-05-06T22:45:00.000,Arrest,"[-71.09179, 42.283501]",Point,Arrest,5,SSTOP ,466,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766628.1388,DEERING RD,2928599.75,2013
+94240,130268905.0,Monday,No,2013-05-06T17:20:00.000,Arrest,"[-71.064905, 42.352371]",Point,Arrest,5,ABIP  ,118,A1,First,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2013

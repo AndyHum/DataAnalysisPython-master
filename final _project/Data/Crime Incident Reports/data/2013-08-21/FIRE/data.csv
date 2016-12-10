@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+184777,130528593.0,Wednesday,No,2013-08-21T08:30:00.000,FIRE,"[-71.066215, 42.294786]",Point,FIRE,8,FIREB ,361,C11,Day,No,MELVILLE AV,Part three,Unarmed,773527.7409,,2932746.3210000005,2013
+215417,130527628.0,Wednesday,No,2013-08-21T13:51:00.000,FIRE,"[-71.055333, 42.354078]",Point,FIRE,8,FIREB ,108,A1,Day,No,HIGH ST,Part three,Unarmed,776359.026,,2954368.472,2013
+249001,130527065.0,Wednesday,No,2013-08-21T09:15:00.000,FIRE,"[-71.047525, 42.337031]",Point,FIRE,8,FIREB ,213,C6,Day,No,F ST,Part three,Unarmed,778502.625,,2948167.3310000002,2013

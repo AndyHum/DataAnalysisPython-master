@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132536,130764112.0,Wednesday,No,2013-12-04T07:33:00.000,Service,"[-71.049384, 42.330326]",Point,Service,12,CD11  ,915,C6,Day,No,COLUMBIA RD,Part three,Unarmed,778012.8107,,2945721.11,2013
+178660,130764676.0,Wednesday,No,2013-12-04T12:11:00.000,Service,"[-71.044835, 42.319896]",Point,Service,12,IVPER ,256,C6,Day,No,PENINSULA PL,Part three,Unarmed,779263.2364,,2941926.923,2013
+203521,130764942.0,Wednesday,No,2013-12-04T14:00:00.000,Service,"[-71.09364, 42.336961]",Point,Service,12,ARREST,590,B2,Day,No,RUGGLES ST,Part three,Unarmed,766034.7209,PARKER ST,2948079.0519999997,2013
+256443,130780124.0,Wednesday,No,2013-12-04T10:30:00.000,Service,"[-71.07102, 42.336701]",Point,Service,12,LARCRT,169,D4,Day,No,E NEWTON ST,Other,Unarmed,772150.9382,,2948014.253,2013

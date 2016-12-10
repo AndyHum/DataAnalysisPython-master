@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69569,130066021.0,Friday,No,2013-02-01T09:09:00.000,InvProp,"[-71.0435, 42.286166]",Point,InvProp,2,ALARMC,381,C11,Day,No,NEPONSET AV,Part Three,Unarmed,779690.0596,,2929637.147,2013
+76373,130067650.0,Friday,No,2013-02-01T21:16:00.000,InvProp,"[-71.06561, 42.344456]",Point,InvProp,2,IVPREM,0,D4,First,No,WASHINGTON ST,Part Three,Unarmed,773599.2408,,2950847.715,2013
+84811,130066604.0,Friday,No,2013-02-01T13:40:00.000,InvProp,"[-71.08584, 42.301001]",Point,InvProp,2,IVPER ,457,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,768207.2257,,2934984.769,2013
+118034,130067426.0,Friday,No,2013-02-01T19:15:00.000,InvProp,"[-71.130364, 42.242611]",Point,InvProp,2,FDPROP,523,E18,First,No,HYDE PARK AV,Part Three,Unarmed,756254.4316,,2913651.113,2013

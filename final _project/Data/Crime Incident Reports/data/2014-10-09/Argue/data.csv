@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24079,142037574.0,Thursday,No,2014-10-09T16:57:00.000,Argue,"[-71.016865, 42.382321]",Point,Argue,10,IVPER,0,A7,First,No,HORACE ST,Part three,Other,786698.6057,,2964717.308,2014
+90473,142037399.0,Thursday,No,2014-10-09T09:00:00.000,Argue,"[-71.07877, 42.310691]",Point,Argue,10,IVPER,0,B2,Day,No,NORMANDY ST,Part three,Unarmed,770102.3793,,2938525.3219999997,2014
+96395,142037539.0,Thursday,No,2014-10-09T14:53:00.000,Argue,"[-71.067775, 42.273361]",Point,Argue,10,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773145.2492,,2924936.613,2014

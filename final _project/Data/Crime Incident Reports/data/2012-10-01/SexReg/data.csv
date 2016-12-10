@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21797,120617501.0,Monday,No,2012-10-01T12:00:00.000,SexReg,"[-71.06939, 42.339506]",Point,SexReg,10,IVPER ,167,D4,Day,No,HARRISON AV,Part Two,Unarmed,772586.4767,,2949038.664,2012
+130804,120638799.0,Monday,No,2012-10-01T10:00:00.000,SexReg,"[-71.07975, 42.304761]",Point,SexReg,10,IVPER ,459,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,769847.9556,,2936363.0289999996,2012
+195433,120780036.0,Monday,No,2012-10-01T16:00:00.000,SexReg,"[-71.0826, 42.277496]",Point,SexReg,10,IVPER ,412,B3,First,No,GLENHILL RD,Part Two,Unarmed,769125.6333,,2926423.48,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14134,130639154.0,Friday,No,2013-09-20T12:00:00.000,07RV,"[-71.0584, 42.304061]",Point,07RV,9,TSTOP ,0,C11,Day,No,ORCHARDFIELD ST,Other,Unarmed,775624.5782,MARLIN WY,2936137.1160000004,2013
+95847,130599396.0,Friday,No,2013-09-20T07:26:00.000,07RV,"[-71.0721, 42.317761]",Point,07RV,9,RECMV ,260,B2,Last,No,FOLSOM ST,Other,Unarmed,771893.5614,ROBIN HOOD ST,2941110.724,2013
+200903,130599537.0,Friday,No,2013-09-20T11:46:00.000,07RV,"[-71.10064, 42.318636]",Point,07RV,9,RECMV ,303,E13,Day,No,W WALNUT PARK,Other,Unarmed,764173.405,,2941392.159,2013

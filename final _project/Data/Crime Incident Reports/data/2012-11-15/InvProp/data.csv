@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45581,120719756.0,Thursday,No,2012-11-15T13:24:00.000,InvProp,"[-71.065835, 42.317351]",Point,InvProp,11,IVPER ,239,B2,Day,No,DUDLEY ST,Part Three,Unarmed,773588.6939,,2940969.876,2012
+113927,130076746.0,Thursday,No,2012-11-15T00:01:00.000,InvProp,"[-71.08099, 42.300209]",Point,InvProp,11,LANTEN,445,B3,Last,No,HARLEM ST,Part Three,Unarmed,769520.6679,,2934702.57,2012
+195535,120720568.0,Thursday,No,2012-11-15T07:30:00.000,InvProp,"[-71.049025, 42.286001]",Point,InvProp,11,VANRPT,355,C11,Day,No,CHICKATAWBUT ST,Part Three,Unarmed,778195.3947,,2929569.066,2012

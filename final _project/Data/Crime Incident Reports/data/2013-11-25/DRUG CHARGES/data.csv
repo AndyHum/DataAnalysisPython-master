@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+152652,130747341.0,Monday,No,2013-11-25T16:00:00.000,DRUG CHARGES,"[-71.160565, 42.258496]",Point,18xx,11,ARREST,714,E5,First,No,WASHINGTON ST,Part Two,Other,748054.0452,,2919406.0,2013
+244353,130747719.0,Monday,No,2013-11-25T19:30:00.000,DRUG CHARGES,"[-71.04943, 42.300811]",Point,18xx,11,TSTOP ,373,C11,First,No,MORRISSEY BL,Part Two,Unarmed,778057.2982,FREEPORT ST,2934965.459,2013
+246020,130747899.0,Monday,No,2013-11-25T16:00:00.000,DRUG CHARGES,"[-71.06939, 42.339506]",Point,18xx,11,IVDRUG,167,D4,First,No,HARRISON AV,Part Two,Unarmed,772586.4767,,2949038.664,2013
+249791,130747011.0,Monday,No,2013-11-25T13:24:00.000,DRUG CHARGES,"[-71.068456, 42.308677]",Point,18xx,11,IVPER ,335,C11,Day,No,BARRY ST,Part Two,Unarmed,772895.7041,,2937805.369,2013

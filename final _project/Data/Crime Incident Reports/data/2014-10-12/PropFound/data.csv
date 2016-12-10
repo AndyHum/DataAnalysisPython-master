@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40228,142038383.0,Sunday,No,2014-10-12T13:00:00.000,PropFound,"[-71.063675, 42.352301]",Point,PropFound,10,PROP,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+62335,142038387.0,Sunday,No,2014-10-12T12:36:00.000,PropFound,"[-71.11322, 42.249931]",Point,PropFound,10,PROP,0,E18,Day,No,SUMMIT ST,Part three,Firearm,760884.7102,NORWAY PK,2916339.367,2014
+83948,142038366.0,Sunday,No,2014-10-12T11:10:00.000,PropFound,"[-71.14828, 42.345956]",Point,PropFound,10,IVPREM,0,D14,Day,No,NANTASKET AV,Part three,Unarmed,751248.2287,,2951291.36,2014
+104275,142038420.0,Sunday,No,2014-10-12T16:00:00.000,PropFound,"[-71.100605, 42.336051]",Point,PropFound,10,PROP,0,B2,First,No,LONGWOOD AV,Part three,Other,764153.1544,,2947738.537,2014
+126169,142038356.0,Sunday,No,2014-10-12T10:57:00.000,PropFound,"[-71.10259, 42.343261]",Point,PropFound,10,IVPREM,0,D4,Day,No,PARK DR,Part three,Unarmed,763604.2226,BOYLSTON ST,2950363.4889999996,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151027,140201794.0,Wednesday,No,2014-04-02T20:00:00.000,PersMiss,"[-71.10245, 42.275136]",Point,PersMiss,4,MISPER,457,B3,First,No,MESSINGER ST,Other,Unarmed,763757.7795,,2925537.8010000004,2014
+261468,140212223.0,Wednesday,No,2014-04-02T13:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,4,MISPER,285,D4,Day,No,COLUMBUS AV,Other,Unarmed,,WASHINGTON ST,,2014
+263238,140369357.0,Wednesday,No,2014-04-02T12:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,4,MISPER,611,A1,Day,No,NEW WHITNEY ST,Other,Unarmed,,,,2014

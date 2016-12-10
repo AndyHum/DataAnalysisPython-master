@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6656,152022065.0,Thursday,No,2015-03-19T10:27:00.000,FIRE,"[-71.06778, 42.304421]",Point,FIRE,3,FIRE,0,C11,Day,No,STONEHURST ST,Part three,Other,773086.5394,,2936255.31,2015
+72260,152022086.0,Thursday,No,2015-03-19T11:41:00.000,FIRE,"[-71.074225, 42.309261]",Point,FIRE,3,FIRE,0,B2,Day,No,INTERVALE ST,Part three,Unarmed,771334.3162,,2938010.312,2015
+121781,152022032.0,Thursday,No,2015-03-19T08:24:00.000,FIRE,"[-71.08609, 42.336106]",Point,FIRE,3,FIRE,0,D4,Day,No,TREMONT ST,Part three,Unarmed,768077.5159,,2947777.29,2015

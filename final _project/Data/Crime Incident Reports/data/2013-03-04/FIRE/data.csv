@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42955,130131399.0,Monday,No,2013-03-04T21:45:00.000,FIRE,"[-71.052625, 42.31811]",Point,FIRE,3,FIREB ,245,C11,First,No,SYDNEY ST,Part Three,Unarmed,777159.8741,,2941264.903,2013
+151055,130130706.0,Monday,No,2013-03-04T15:55:00.000,FIRE,"[-71.1408, 42.285751]",Point,FIRE,3,FIREB ,687,E5,Day,No,COLBERG AV,Part Three,Unarmed,753362.6992,,2929360.025,2013

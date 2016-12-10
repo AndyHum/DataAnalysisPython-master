@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9742,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.127952, 42.253473]",Point,18xx,6,VAND,542,E18,,No,OAK PL,Part Two,None,756890.0,,2920000.0,2015
+22340,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.120962, 42.267011]",Point,18xx,6,ARREST,496,E18,,No,HYDE PARK AVE,Part Two,None,758761.0,,2920000.0,2015
+26319,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,6,IVPREM,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+43778,,Friday,No,2015-06-19T19:09:00.000,Drug Violation,"[0, 0]",Point,18xx,6,TS,235,C11,,No,CRESCENT AVE,Part Two,None,,GRANT ST,,2015
+44159,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.061023, 42.35332]",Point,18xx,6,IVPER,111,A1,,No,WINTER ST,Part Two,None,774822.0,,2950000.0,2015
+86053,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.082954, 42.304554]",Point,18xx,6,UNCONS,330,B2,,No,SEAVER ST,Part Two,None,768982.0,,2940000.0,2015
+176368,,Friday,No,2015-06-19T20:19:00.000,Drug Violation,"[0, 0]",Point,18xx,6,REQEP,0,C6,,No,GEN,Part Two,None,,,,2015
+218885,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.06134, 42.310434]",Point,18xx,6,IVPREM,257,C11,,No,HANCOCK ST,Part Two,None,774817.0,,2940000.0,2015
+218886,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.06134, 42.310434]",Point,18xx,6,IVPREM,257,C11,,No,HANCOCK ST,Part Two,None,774817.0,,2940000.0,2015
+240101,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.063133, 42.298489]",Point,18xx,6,SS,356,C11,,No,GENEVA AVE,Part Two,None,774355.0,,2930000.0,2015
+257100,,Friday,No,2015-06-19T00:00:00.000,Drug Violation,"[-71.067261, 42.285009]",Point,18xx,6,SUSOBJ,402,C11,,No,BURT ST,Part Two,None,773263.0,,2930000.0,2015

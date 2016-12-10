@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106070,,Tuesday,No,2015-08-04T00:00:00.000,Property Related Damage,"[-71.083014, 42.335954]",Point,PropDam,8,PROP,903,D4,,No,HAMMOND ST,Part Three,None,768909.0,,2950000.0,2015
+112915,,Tuesday,No,2015-08-04T00:00:00.000,Property Related Damage,"[-71.054356, 42.327797]",Point,PropDam,8,IVPREM,914,C6,,No,GENERAL LAWRENCE J LOGAN WAY,Part Three,None,776673.0,,2940000.0,2015
+113208,,Tuesday,No,2015-08-04T00:00:00.000,Property Related Damage,"[-71.117351, 42.30314]",Point,PropDam,8,PROP,652,E13,,No,ARBORWAY,Part Three,None,759679.0,,2940000.0,2015
+168291,,Tuesday,No,2015-08-04T17:09:00.000,Property Related Damage,"[0, 0]",Point,PropDam,8,IVPREM,0,C6,,No,GENERAL WILLIAM H DEVINE WAY,Part Three,None,,OLD COLONY AVE,,2015
+204348,,Tuesday,No,2015-08-04T00:00:00.000,Property Related Damage,"[-71.076242, 42.312605]",Point,PropDam,8,IVPREM,326,B2,,No,FAYSTON ST,Part Three,None,770783.0,,2940000.0,2015
+247386,,Tuesday,No,2015-08-04T18:24:00.000,Property Related Damage,"[0, 0]",Point,PropDam,8,IVPREM,135,D4,,No,BEACON ST,Part Three,None,,EXETER ST,,2015

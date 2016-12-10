@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56612,130775725.0,Monday,No,2013-12-09T07:20:00.000,STOLEN PROPERTY CHARGES,"[-71.074385, 42.335516]",Point,13xx,12,INVEST,171,D4,Last,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2013
+66658,130775719.0,Monday,No,2013-12-09T10:47:00.000,STOLEN PROPERTY CHARGES,"[-71.050115, 42.331466]",Point,13xx,12,INVEST,217,C6,Day,No,E 9TH ST,Part Two,Other,777813.0703,,2946135.647,2013
+227711,130778269.0,Monday,No,2013-12-09T21:45:00.000,STOLEN PROPERTY CHARGES,"[-71.048755, 42.331371]",Point,13xx,12,MISC  ,219,C6,First,No,E 8TH ST,Part Two,Unarmed,778180.9921,,2946102.7660000003,2013

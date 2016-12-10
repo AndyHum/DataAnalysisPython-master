@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5615,142053345.0,Sunday,No,2014-11-30T10:54:00.000,InvProp,"[-71.049673, 42.299902]",Point,InvProp,11,ALARM,0,C11,Day,No,MORRISSEY BL,Part three,Unarmed,777993.1497,,2934633.731,2014
+48593,142053254.0,Sunday,No,2014-11-30T12:20:00.000,InvProp,"[-71.119175, 42.278916]",Point,InvProp,11,DISTRB,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759225.2889,,2926894.6339999996,2014
+53172,142053367.0,Sunday,No,2014-11-30T11:42:00.000,InvProp,"[-71.070885, 42.328996]",Point,InvProp,11,ALARM,0,B2,Day,No,ALLERTON ST,Part three,Unarmed,772201.5608,,2945206.598,2014
+95567,142053505.0,Sunday,No,2014-11-30T14:30:00.000,InvProp,"[-71.10159, 42.309015]",Point,InvProp,11,IVPREM,0,E13,Day,No,ROCKY NOOK TR,Part three,Unarmed,763932.7362,,2937884.873,2014
+123956,142053711.0,Sunday,No,2014-11-30T11:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,11,CD9,0,A1,Day,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014
+217451,142053306.0,Sunday,No,2014-11-30T06:01:00.000,InvProp,"[-71.080575, 42.318566]",Point,InvProp,11,UNKEMS,0,B2,Last,No,EDGEWOOD ST,Part three,Other,769599.9214,,2941392.703,2014
+230556,142053449.0,Sunday,No,2014-11-30T17:00:00.000,InvProp,"[-71.085618, 42.32866]",Point,InvProp,11,LARCEN,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+255639,142053402.0,Sunday,No,2014-11-30T14:30:00.000,InvProp,"[-71.131406, 42.275599]",Point,InvProp,11,ALARM,0,E5,Day,No,GLENDOWER RD,Part three,Other,755920.474,,2925671.356,2014

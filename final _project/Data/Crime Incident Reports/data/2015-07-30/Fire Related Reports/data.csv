@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+163919,,Thursday,No,2015-07-30T00:00:00.000,Fire Related Reports,"[-71.083294, 42.302506]",Point,Fire,7,FIRE,458,B3,,No,MICHIGAN AVE,Part Three,None,768893.0,,2940000.0,2015
+220022,,Thursday,No,2015-07-30T00:00:00.000,Fire Related Reports,"[-71.05387, 42.378292]",Point,Fire,7,FO,900,A15,,No,DECATUR ST,Part Three,None,776708.0,,2960000.0,2015
+245811,,Thursday,No,2015-07-30T00:00:00.000,Fire Related Reports,"[-71.060202, 42.375741]",Point,Fire,7,FIRE,57,A15,,No,MONUMENT ST,Part Three,None,775002.0,,2960000.0,2015

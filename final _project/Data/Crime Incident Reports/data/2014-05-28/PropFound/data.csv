@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83734,140338582.0,Wednesday,No,2014-05-28T12:00:00.000,PropFound,"[-71.151197, 42.342646]",Point,PropFound,5,FDPROP,775,D14,Day,No,WALLINGFORD RD,Part three,Unarmed,750464.5072,,2950081.732,2014
+100888,140332326.0,Wednesday,No,2014-05-28T03:40:00.000,PropFound,"[-71.06521, 42.343276]",Point,PropFound,5,LSTPRP,164,D4,Last,No,FAY ST,Part three,Unarmed,773709.5687,,2950418.253,2014
+160866,140335469.0,Wednesday,No,2014-05-28T11:10:00.000,PropFound,"[-71.098085, 42.342541]",Point,PropFound,5,FDWEAP,625,D4,Day,No,QUEENSBERRY ST,Part three,Firearm,764823.3476,,2950106.816,2014
+176954,140358804.0,Wednesday,No,2014-05-28T00:00:00.000,PropFound,"[-71.09794, 42.316146]",Point,PropFound,5,FDPROP,570,E13,Last,No,WASHINGTON ST,Part three,Unarmed,764907.8894,,2940488.191,2014
+183851,140334474.0,Wednesday,No,2014-05-28T22:30:00.000,PropFound,"[-71.09456, 42.331431]",Point,PropFound,5,FDPROP,432,B2,First,No,TREMONT PL,Part three,Unarmed,765795.5609,COLUMBUS AV,2946062.6360000004,2014

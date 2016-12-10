@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27067,130159257.0,Monday,No,2013-03-18T23:50:00.000,DISORDERLY,"[-71.06603, 42.374761]",Point,24xx,3,DISTRB,59,A15,Last,No,AUSTIN ST,Part Two,Unarmed,773429.5115,,2961890.872,2013
+155435,130159334.0,Monday,No,2013-03-18T01:00:00.000,DISORDERLY,"[-71.132568, 42.238048]",Point,24xx,3,ARREST,527,E18,Last,No,HYDE PARK AV,Part Two,Unarmed,755665.0627,,2911985.7169999997,2013
+260923,130159224.0,Monday,No,2013-03-18T00:36:00.000,DISORDERLY,"[0, 0]",Point,24xx,3,ARREST,366,C11,Last,No,ADAMS ST,Part Two,Unarmed,,ROSELAND ST,,2013

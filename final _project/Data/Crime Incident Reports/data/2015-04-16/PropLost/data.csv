@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9982,152032097.0,Thursday,No,2015-04-16T22:00:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,4,PROP,0,A1,First,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2015
+66876,152031008.0,Thursday,No,2015-04-16T14:00:00.000,PropLost,"[-71.05851, 42.307276]",Point,PropLost,4,LARCEN,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775588.7588,,2937308.557,2015
+171860,152031147.0,Thursday,No,2015-04-16T21:11:00.000,PropLost,"[-71.07461, 42.278136]",Point,PropLost,4,IVPER,0,B3,First,No,GALLIVAN BL,Part three,Unarmed,771286.7457,,2926667.387,2015
+183676,152035118.0,Thursday,No,2015-04-16T12:00:00.000,PropLost,"[-71.089268, 42.295385]",Point,PropLost,4,PROP,0,B3,Day,No,SHANDON RD,Part three,Unarmed,767289.676,,2932933.422,2015
+197948,152031080.0,Thursday,No,2015-04-16T18:00:00.000,PropLost,"[-71.064475, 42.360236]",Point,PropLost,4,SUSOBJ,0,A1,First,No,HANCOCK ST,Part three,Unarmed,773876.7114,,2956599.811,2015
+267810,152031055.0,Thursday,No,2015-04-16T00:01:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,A7,Last,No,BORDER ST,Part three,Unarmed,,,,2015
+267923,152032165.0,Thursday,No,2015-04-16T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,E18,First,No,SHELDON ST,Part three,Other,,,,2015

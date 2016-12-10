@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8472,,Tuesday,No,2015-07-21T00:00:00.000,Assembly or Gathering Violations,"[-71.066859, 42.361697]",Point,Gather,7,I00039,65,A1,,No,BLOSSOM ST,Part Three,None,773230.0,,2960000.0,2015
+18576,,Tuesday,No,2015-07-21T10:27:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,0,,,No,,Part Two,None,,BLUE HILL AVE,,2015
+29267,,Tuesday,No,2015-07-21T00:00:00.000,Violations,"[-71.008939, 42.392146]",Point,VAL,7,IVMV,9,A7,,No,FAYWOOD AVE,Part Two,None,788819.0,,2970000.0,2015
+115208,,Tuesday,No,2015-07-21T08:50:00.000,Violations,"[0, 0]",Point,VAL,7,CD19,771,D14,,No,PARSONS ST,Part Two,None,,WASHINGTON ST,,2015
+123735,,Tuesday,No,2015-07-21T00:00:00.000,Violations,"[-71.1343, 42.275759]",Point,VAL,7,IVMV,550,E5,,No,GRANDVIEW ST,Part Two,None,755137.0,,2930000.0,2015
+177933,,Tuesday,No,2015-07-21T17:33:00.000,Violations,"[0, 0]",Point,VAL,7,IVMV,110,A1,,No,OLIVER ST,Part Two,None,,PURCHASE ST,,2015
+198931,,Tuesday,No,2015-07-21T08:21:00.000,Violations,"[0, 0]",Point,VAL,7,TS,124,A1,,No,HUDSON ST,Part Two,None,,KNEELAND ST,,2015
+252381,,Tuesday,No,2015-07-21T00:00:00.000,Firearm Violations,"[-71.069789, 42.299385]",Point,15xx,7,SHOTS,357,C11,,No,DAKOTA ST,Part Two,Firearm,772552.0,,2930000.0,2015

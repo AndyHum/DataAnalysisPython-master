@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73674,152036078.0,Sunday,No,2015-05-03T14:20:00.000,TRESPASS,"[-71.104805, 42.267011]",Point,TRESPASS,5,ALARM,0,E18,Day,No,RUSKINDALE RD,Part Two,Unarmed,763134.1567,,2922573.979,2015
+89147,152035992.0,Sunday,No,2015-05-03T08:30:00.000,TRESPASS,"[-71.07936, 42.349221]",Point,TRESPASS,5,LARCEN,0,D4,Day,No,EXETER ST,Part Two,Unarmed,769873.5524,,2952565.54,2015
+105358,152036105.0,Sunday,No,2015-05-03T17:25:00.000,TRESPASS,"[-71.06072, 42.355536]",Point,TRESPASS,5,PROP,0,A1,First,No,WINTER ST,Part Two,Unarmed,774900.3914,,2954892.244,2015

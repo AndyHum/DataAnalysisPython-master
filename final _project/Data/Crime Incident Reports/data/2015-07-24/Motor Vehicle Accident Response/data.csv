@@ -1,0 +1,35 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15990,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.066442, 42.345572]",Point,MVAcc,7,MVA,162,D4,,No,SHAWMUT AVE,Part Three,None,773372.0,,2950000.0,2015
+20126,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.108789, 42.327601]",Point,MVAcc,7,MVA,606,E13,,No,HEATH ST,Part Three,None,761954.0,,2940000.0,2015
+27184,,Friday,No,2015-07-24T22:44:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,816,D14,,No,CAMBRIDGE ST,Part Three,None,, LINCOLN ST ,,2015
+38158,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.060315, 42.363108]",Point,MVAcc,7,MVA,77,A1,,No,MERRIMAC ST,Part Three,None,774995.0,,2960000.0,2015
+42782,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.141741, 42.362239]",Point,MVAcc,7,VAND,806,D14,,No,WESTERN AVE,Part Three,None,752991.0,,2960000.0,2015
+46924,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.110517, 42.265632]",Point,MVAcc,7,MVA,489,E18,,No,WOOD AVE,Part Three,None,761590.0,,2920000.0,2015
+61775,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.134746, 42.354684]",Point,MVAcc,7,MVA,802,D14,,No,CAMBRIDGE ST,Part Three,None,754893.0,,2950000.0,2015
+71068,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.070853, 42.331521]",Point,MVAcc,7,MVA,177,C6,,No,MASSACHUSETTS AVE,Part Three,None,772205.0,,2950000.0,2015
+82975,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.068116, 42.350644]",Point,MVAcc,7,MVA,125,A1,,No,STUART ST,Part Three,None,772910.0,,2950000.0,2015
+89676,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.067665, 42.283144]",Point,MVAcc,7,MVA,402,C11,,No,FULLER ST,Part Three,None,773157.0,,2930000.0,2015
+103864,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.035279, 42.374427]",Point,MVAcc,7,MVA,21,A7,,No,PARIS ST,Part Three,None,781739.0,,2960000.0,2015
+110160,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.074128, 42.350959]",Point,MVAcc,7,MVA,129,D4,,No,BOYLSTON ST,Part Three,None,771285.0,,2950000.0,2015
+113248,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.040216, 42.369081]",Point,MVAcc,7,MVA,27,A7,,No,SUMNER ST,Part Three,None,780416.0,,2960000.0,2015
+116635,,Friday,No,2015-07-24T13:30:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,307,E13,,No,COLUMBUS AVE,Part Three,None,, WASHINGTON ST ,,2015
+118014,,Friday,No,2015-07-24T17:07:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,444,B3,,No,AMERICAN LEGION HWY,Part Three,None,,BLUE HILL AVE,,2015
+138812,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.070853, 42.331521]",Point,MVAcc,7,MVA,178,B2,,No,MASSACHUSETTS AVE,Part Three,None,772205.0,,2950000.0,2015
+148959,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.104595, 42.341456]",Point,MVAcc,7,MVA,614,B2,,No,BROOKLINE AVE,Part Three,None,763065.0,,2950000.0,2015
+152857,,Friday,No,2015-07-24T08:53:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,808,D14,,No,LINCOLN ST,Part Three,None,,LITCHFIELD ST,,2015
+157302,,Friday,No,2015-07-24T06:54:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,503,E18,,No,AMERICAN LEGION HWY,Part Three,None,,CURLEY ST,,2015
+158654,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.058839, 42.307582]",Point,MVAcc,7,MVA,347,C11,,No,EAST ST,Part Three,None,775499.0,,2940000.0,2015
+166283,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.06787, 42.298509]",Point,MVAcc,7,MVA,357,C11,,No,TONAWANDA ST,Part Three,None,773073.0,,2930000.0,2015
+175188,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.098927, 42.270222]",Point,MVAcc,7,MVA,480,E18,,No,CUMMINS HWY,Part Three,None,764719.0,,2920000.0,2015
+180707,,Friday,No,2015-07-24T20:10:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,323,B2,,No,QUINCY ST,Part Three,None,, WARREN ST ,,2015
+204499,,Friday,No,2015-07-24T15:04:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,587,B2,,No,BURNEY ST,Part Three,None,,DELLE AVE,,2015
+211281,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.062807, 42.321987]",Point,MVAcc,7,MVA,186,C6,,No,MASSACHUSETTS AVE,Part Three,None,774399.0,,2940000.0,2015
+213504,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.081026, 42.303675]",Point,MVAcc,7,MVA,459,B3,,No,GLENARM ST,Part Three,None,769505.0,,2940000.0,2015
+217183,,Friday,No,2015-07-24T08:28:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,468,B3,,No,FOTTLER RD,Part Three,None,,HAZLETON ST,,2015
+219505,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.073132, 42.295354]",Point,MVAcc,7,MVA,451,B3,,No,PARK ST,Part Three,None,771655.0,,2930000.0,2015
+220511,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.106232, 42.316411]",Point,MVAcc,7,MVA,640,E13,,No,HUBBARD ST,Part Three,None,762665.0,,2940000.0,2015
+222075,,Friday,No,2015-07-24T09:57:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,608,E13,,No,HEATH ST,Part Three,None,,S HUNTINGTON AVE,,2015
+231347,,Friday,No,2015-07-24T11:07:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,168,D4,,No,E CONCORD ST,Part Three,None,,HARRISON AVE,,2015
+242473,,Friday,No,2015-07-24T14:45:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,49,A15,,No,ALFORD ST,Part Three,None,,MAIN ST,,2015
+251094,,Friday,No,2015-07-24T00:00:00.000,Motor Vehicle Accident Response,"[-71.12149, 42.263378]",Point,MVAcc,7,MVA,495,E18,,No,HYDE PARK AVE,Part Three,None,758624.0,,2920000.0,2015
+252808,,Friday,No,2015-07-24T17:15:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,7,MVA,116,A1,,No,ESSEX ST,Part Three,None,,LINCOLN ST,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23300,152023894.0,Tuesday,No,2015-03-24T17:30:00.000,Arrest,"[-71.113273, 42.300388]",Point,Arrest,3,ARREST,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,760786.7644,,2934726.341,2015
+49408,152023719.0,Tuesday,No,2015-03-24T12:30:00.000,Arrest,"[-71.08337, 42.337666]",Point,Arrest,3,CD11,0,D4,Day,No,TREMONT ST,Part three,Other,768810.1519,,2948349.363,2015
+112375,152023592.0,Tuesday,No,2015-03-24T09:30:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+244754,152023870.0,Tuesday,No,2015-03-24T20:32:00.000,Arrest,"[-71.074734, 42.300181]",Point,Arrest,3,ARREST,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,771212.9109,BOWDOIN ST,2934700.731,2015

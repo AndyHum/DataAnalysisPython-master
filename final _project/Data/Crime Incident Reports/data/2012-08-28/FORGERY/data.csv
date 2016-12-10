@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78145,120536844.0,Tuesday,No,2012-08-28T11:07:00.000,FORGERY,"[-71.083412, 42.329027]",Point,10xx,8,LARCRT,280,B2,Day,No,WARREN ST,Part Two,Unarmed,768814.0374,,2945200.835,2012
+100603,120536425.0,Tuesday,No,2012-08-28T11:07:00.000,FORGERY,"[-71.081633, 42.318648]",Point,10xx,8,ARREST,311,B2,Day,No,WARREN AV,Part Two,Unarmed,769313.7572,,2941421.212,2012
+165672,120536345.0,Tuesday,No,2012-08-28T10:05:00.000,FORGERY,"[-71.094799, 42.280526]",Point,10xx,8,LARCRT,468,B3,Day,No,WELLINGTON HILL ST,Part Two,Unarmed,765819.0539,,2927511.772,2012
+186584,120536847.0,Tuesday,No,2012-08-28T11:07:00.000,FORGERY,"[-71.08012, 42.339401]",Point,10xx,8,LARCRT,155,D4,Day,No,TREMONT ST,Part Two,Unarmed,769685.7276,,2948985.937,2012

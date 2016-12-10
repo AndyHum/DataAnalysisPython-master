@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68111,142000966.0,Friday,No,2014-06-20T02:00:00.000,DISORDERLY,"[-71.05584, 42.362531]",Point,24xx,6,ARREST,0,A1,Last,No,CROSS ST,Part Two,Unarmed,776206.1272,HANOVER ST,2957448.188,2014
+184360,142001126.0,Friday,No,2014-06-20T14:50:00.000,DISORDERLY,"[-71.08017, 42.331521]",Point,24xx,6,ARREST,0,B2,Day,No,HARRISON AV,Part Two,Unarmed,769686.3424,,2946114.258,2014
+196179,142001177.0,Friday,No,2014-06-20T17:20:00.000,DISORDERLY,"[-71.075448, 42.292018]",Point,24xx,6,MISC,0,B3,First,No,SPENCER ST,Part Two,Other,771034.6931,,2931724.8,2014

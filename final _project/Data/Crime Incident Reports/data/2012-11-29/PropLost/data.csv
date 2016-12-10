@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18739,120748709.0,Thursday,No,2012-11-29T08:50:00.000,PropLost,"[-71.07172, 42.337686]",Point,PropLost,11,LARCRT,168,D4,Day,No,HARRISON AV,Part Three,Unarmed,771959.8737,,2948372.251,2012
+65610,120749237.0,Thursday,No,2012-11-29T14:20:00.000,PropLost,"[-71.05966, 42.359021]",Point,PropLost,11,LARCRT,97,A1,Day,No,TREMONT ST,Part Three,Unarmed,775180.3416,,2956163.723,2012
+248033,120749234.0,Thursday,No,2012-11-29T13:00:00.000,PropLost,"[-71.051215, 42.332156]",Point,PropLost,11,LSTPRP,915,C6,Day,No,E 9TH ST,Part Three,Unarmed,777514.316,,2946385.527,2012

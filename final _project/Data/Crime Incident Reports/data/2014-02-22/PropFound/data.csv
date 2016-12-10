@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105993,140110093.0,Saturday,No,2014-02-22T01:15:00.000,PropFound,"[-71.05568, 42.358996]",Point,PropFound,2,FDPROP,93,A1,Last,No,STATE ST,Part three,Unarmed,776256.079,MERCHANTS RW,2956160.191,2014
+112853,140111292.0,Saturday,No,2014-02-22T15:40:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,2,FDPROP,571,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+153673,140111243.0,Saturday,No,2014-02-22T15:18:00.000,PropFound,"[-71.07596, 42.348426]",Point,PropFound,2,IVPREM,130,D4,Day,No,STUART ST,Part three,Unarmed,770794.0673,,2952280.3789999997,2014
+176056,140110602.0,Saturday,No,2014-02-22T09:21:00.000,PropFound,"[-71.05181, 42.359651]",Point,PropFound,2,FDWEAP,95,A1,Day,No,ATLANTIC AV,Part three,Knife,777300.7852,STATE ST,2956404.357,2014
+240026,140110694.0,Saturday,No,2014-02-22T11:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,2,FDPROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014

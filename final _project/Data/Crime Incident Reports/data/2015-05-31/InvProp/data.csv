@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2246,152045026.0,Sunday,No,2015-05-31T16:45:00.000,InvProp,"[0, 0]",Point,InvProp,5,ALARM,0,A7,First,No,ASHLEY ST,Part three,Unarmed,,,,2015
+64101,152044885.0,Sunday,No,2015-05-31T04:02:00.000,InvProp,"[-71.08182, 42.312151]",Point,InvProp,5,IVPREM,0,B2,Last,No,INTERVALE ST,Part three,Other,769274.7393,,2939053.211,2015
+160309,152045085.0,Sunday,No,2015-05-31T15:00:00.000,InvProp,"[-71.08677, 42.322723]",Point,InvProp,5,BE,0,B2,Day,No,ROCKLAND ST,Part three,Unarmed,767917.2751,,2942899.1,2015
+247777,152044889.0,Sunday,No,2015-05-31T04:46:00.000,InvProp,"[-71.07525, 42.314076]",Point,InvProp,5,UNK,0,B2,Last,No,HOWARD AV,Part three,Unarmed,771048.3292,,2939763.5919999997,2015

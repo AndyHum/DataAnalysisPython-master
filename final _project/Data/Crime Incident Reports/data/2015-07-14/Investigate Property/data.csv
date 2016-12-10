@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110629,,Tuesday,No,2015-07-14T00:00:00.000,Investigate Property,"[-71.071543, 42.272947]",Point,InvProp,7,NIDV,407,B3,,No,OLD MORTON ST,Part Three,None,772126.0,,2920000.0,2015
+116376,,Tuesday,No,2015-07-14T00:00:00.000,Investigate Property,"[-71.059472, 42.372775]",Point,InvProp,7,FIGHT,40,A15,,No,CHELSEA ST,Part Three,None,775205.0,,2960000.0,2015
+139042,,Tuesday,No,2015-07-14T13:19:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,SHOTS,420,B3,,No,HALBORN ST,Part Three,None,,W SELDEN ST,,2015
+200684,,Tuesday,No,2015-07-14T00:00:00.000,Investigate Property,"[-71.10108, 42.273739]",Point,InvProp,7,BE,474,B3,,No,SAVANNAH AVE,Part Three,None,764131.0,,2930000.0,2015
+217729,,Tuesday,No,2015-07-14T00:00:00.000,Investigate Property,"[-71.093926, 42.348805]",Point,InvProp,7,IVPER,623,D4,,No,COMMONWEALTH AVE,Part Three,None,765937.0,,2950000.0,2015

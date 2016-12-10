@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41825,130519696.0,Sunday,No,2013-08-18T04:56:00.000,InvProp,"[-71.058829, 42.281286]",Point,InvProp,8,UNK   ,389,C11,Last,No,ADAMS ST,Part three,Unarmed,775551.4095,,2927836.894,2013
+96964,130522515.0,Sunday,No,2013-08-18T22:00:00.000,InvProp,"[-71.1153, 42.309871]",Point,InvProp,8,VANRPT,644,E13,First,No,CENTRE ST,Part three,Unarmed,760223.053,,2938179.8210000005,2013
+228106,130521588.0,Sunday,No,2013-08-18T23:38:00.000,InvProp,"[-71.11904, 42.243961]",Point,InvProp,8,SHOTS ,940,E18,First,No,BOW ST,Part three,Other,759318.7144,GARFIELD AV,2914156.735,2013

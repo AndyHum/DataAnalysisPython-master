@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17589,152020974.0,Sunday,No,2015-03-15T13:25:00.000,PubDrink,"[-71.038465, 42.335581]",Point,PubDrink,3,IVPER,0,C6,Day,No,E BROADWAY,Part Two,Unarmed,780955.0161,,2947652.0530000003,2015
+98399,152020914.0,Sunday,No,2015-03-15T15:50:00.000,PubDrink,"[-71.051995, 42.332266]",Point,PubDrink,3,IVPER,0,C6,Day,No,DORCHESTER ST,Part Two,Unarmed,777303.2016,,2946424.5039999997,2015
+214231,152020903.0,Sunday,No,2015-03-15T14:30:00.000,PubDrink,"[-71.05709, 42.340266]",Point,PubDrink,3,IVPER,0,C6,Day,No,DORCHESTER AV,Part Two,Unarmed,775910.4353,W 5TH ST,2949332.6489999997,2015
+240457,152020905.0,Sunday,No,2015-03-15T14:21:00.000,PubDrink,"[-71.035565, 42.335636]",Point,PubDrink,3,ARREST,0,C6,Day,No,E BROADWAY,Part Two,Unarmed,781738.9909,,2947676.35,2015
+263792,152020879.0,Sunday,No,2015-03-15T13:57:00.000,PubDrink,"[0, 0]",Point,PubDrink,3,ARREST,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,,,,2015

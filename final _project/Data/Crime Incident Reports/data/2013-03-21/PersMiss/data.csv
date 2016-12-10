@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64496,130166316.0,Thursday,No,2013-03-21T11:15:00.000,PersMiss,"[-71.10269, 42.306341]",Point,PersMiss,3,MSNCOM,567,E13,Day,No,FOREST HILLS ST,Part Three,Unarmed,763639.8581,,2936909.067,2013
+82760,130175141.0,Thursday,No,2013-03-21T21:00:00.000,PersMiss,"[-71.07699, 42.28426]",Point,PersMiss,3,MISPER,435,B3,First,No,MILTON AV,Part Three,Unarmed,770631.5427,,2928895.599,2013
+158487,130165598.0,Thursday,No,2013-03-21T01:58:00.000,PersMiss,"[-71.133978, 42.351961]",Point,PersMiss,3,MISPER,794,D14,Last,No,QUINT AV,Part Three,Unarmed,755104.91,,2953495.785,2013

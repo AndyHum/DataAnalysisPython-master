@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24388,140260688.0,Tuesday,No,2014-04-29T13:25:00.000,PersLoc,"[-71.091351, 42.276486]",Point,PersLoc,4,IVPER ,427,B3,Day,No,MILDRED AV,Other,Unarmed,766759.0071,,2926043.833,2014
+44309,140261685.0,Tuesday,No,2014-04-29T09:00:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,4,MISPER,281,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+221268,140263373.0,Tuesday,No,2014-04-29T07:20:00.000,PersLoc,"[-71.13778, 42.242816]",Point,PersLoc,4,MISPER,532,E18,Last,No,EDSON ST,Other,Unarmed,754246.3192,,2913717.377,2014

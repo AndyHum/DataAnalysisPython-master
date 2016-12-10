@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21447,142051883.0,Monday,No,2014-11-24T13:00:00.000,MedAssist,"[-71.066891, 42.315297]",Point,MedAssist,11,INJOFF,0,B2,Day,No,COLUMBIA RD,Part three,Unarmed,773306.6528,,2940219.857,2014
+54144,142051760.0,Monday,No,2014-11-24T09:40:00.000,MedAssist,"[-71.06204, 42.355151]",Point,MedAssist,11,EDP,0,A1,Day,No,TEMPLE PL,Part three,Other,774544.3321,,2954750.1089999997,2014
+62388,142051953.0,Monday,No,2014-11-24T18:50:00.000,MedAssist,"[-71.066244, 42.311509]",Point,MedAssist,11,EDP,0,C11,First,No,WARE ST,Part three,Unarmed,773488.6954,,2938840.205,2014
+69106,142052000.0,Monday,No,2014-11-24T21:29:00.000,MedAssist,"[-71.086268, 42.306073]",Point,MedAssist,11,EDP,0,B2,First,No,SEAVER ST,Part three,Unarmed,768082.2584,,2936832.35,2014
+95372,142051792.0,Monday,No,2014-11-24T11:43:00.000,MedAssist,"[-71.05385, 42.318921]",Point,MedAssist,11,INVEST,0,C11,Day,No,CRESCENT AV,Part three,Unarmed,776827.0684,NEWPORT ST,2941558.735,2014
+144053,142051800.0,Monday,No,2014-11-24T10:30:00.000,MedAssist,"[-71.13238, 42.282461]",Point,MedAssist,11,POISON,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,755646.2199,,2928170.807,2014
+167554,142051776.0,Monday,No,2014-11-24T10:00:00.000,MedAssist,"[-71.03996, 42.377891]",Point,MedAssist,11,EDP,0,A7,Day,No,BORDER ST,Part three,Unarmed,780467.6477,,2963068.4239999996,2014
+173509,142051859.0,Monday,No,2014-11-24T12:00:00.000,MedAssist,"[-71.06281, 42.342461]",Point,MedAssist,11,EDP,0,D4,Day,No,ALBANY ST,Part three,Unarmed,774359.9099,,2950124.5689999997,2014
+179737,142051933.0,Monday,No,2014-11-24T17:50:00.000,MedAssist,"[-71.159329, 42.258372]",Point,MedAssist,11,ALARM,0,E5,First,No,ROCKLAND ST,Part three,Unarmed,748388.8099,,2919362.038,2014
+237784,142052023.0,Monday,No,2014-11-24T23:59:00.000,MedAssist,"[-71.041895, 42.320296]",Point,MedAssist,11,EDP,0,C6,Last,No,ISLAND VIEW PL,Part three,Unarmed,780057.5491,,2942076.9460000005,2014

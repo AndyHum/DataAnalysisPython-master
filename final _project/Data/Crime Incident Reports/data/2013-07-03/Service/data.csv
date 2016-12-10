@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45422,130408173.0,Wednesday,No,2013-07-03T16:00:00.000,Service,"[-71.03319, 42.330681]",Point,Service,7,TSTOP ,234,C6,First,No,M ST,Part three,Unarmed,782391.0097,MARINE RD,2945874.17,2013
+217186,130407067.0,Wednesday,No,2013-07-03T06:02:00.000,Service,"[0, 0]",Point,Service,7,TSTOP ,566,B3,Last,No,GUILD ST,Part three,Unarmed,,,,2013
+225006,130407238.0,Wednesday,No,2013-07-03T08:30:00.000,Service,"[-71.07329, 42.346746]",Point,Service,7,LOCK  ,151,D4,Day,No,CLARENDON ST,Part three,Unarmed,771518.8837,,2951671.7539999997,2013
+228712,130409536.0,Wednesday,No,2013-07-03T07:15:00.000,Service,"[-71.127358, 42.236039]",Point,Service,7,CURFEW,525,E18,Last,No,NEPONSET VALLEY PY,Other,Unarmed,757079.0429,,2911259.693,2013
+263870,130408956.0,Wednesday,No,2013-07-03T21:04:00.000,Service,"[0, 0]",Point,Service,7,SUSPER,396,C11,First,No,WAINWRIGHT ST,Part three,Unarmed,,MELBOURNE ST,,2013

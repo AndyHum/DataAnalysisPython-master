@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58552,140093311.0,Friday,No,2014-02-14T08:10:00.000,Service,"[-71.06293, 42.351166]",Point,Service,2,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2014
+73222,140094833.0,Friday,No,2014-02-14T20:49:00.000,Service,"[-71.088028, 42.334461]",Point,Service,2,PSHOT ,286,B2,First,No,RUGGLES ST,Part three,Firearm,767556.2352,TREMONT ST,2947175.229,2014

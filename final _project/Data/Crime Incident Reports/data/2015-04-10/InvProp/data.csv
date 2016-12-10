@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59194,152029197.0,Friday,No,2015-04-10T19:14:00.000,InvProp,"[-71.071643, 42.290556]",Point,InvProp,4,SHOTS,0,C11,First,No,WASHINGTON ST,Part three,Firearm,772066.839,TALBOT AV,2931197.369,2015
+175915,152029066.0,Friday,No,2015-04-10T06:30:00.000,InvProp,"[-71.09192, 42.270941]",Point,InvProp,4,CD11,0,B3,Last,No,FREMONT ST,Part three,Unarmed,766614.8591,,2924022.545,2015
+199458,152029278.0,Friday,No,2015-04-10T23:55:00.000,InvProp,"[-71.066745, 42.303426]",Point,InvProp,4,SSA,0,C11,Last,No,HOMES AV,Part three,Unarmed,773368.3558,,2935894.139,2015
+216856,152029265.0,Friday,No,2015-04-10T03:23:00.000,InvProp,"[-71.093636, 42.286747]",Point,InvProp,4,BE,0,B3,Last,No,MORTON ST,Part three,Other,766122.8443,,2929780.182,2015
+267568,152029168.0,Friday,No,2015-04-10T18:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,BE,0,D14,First,No,COMMONWEALTH AV,Part three,Other,,,,2015

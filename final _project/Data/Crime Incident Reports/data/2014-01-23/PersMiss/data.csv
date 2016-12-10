@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9087,140046522.0,Thursday,No,2014-01-23T07:00:00.000,PersMiss,"[-71.070615, 42.320596]",Point,PersMiss,1,MISPER,183,B2,Last,No,LEYLAND ST,Other,Unarmed,772289.9823,,2942145.8639999996,2014
+95298,140046151.0,Thursday,No,2014-01-23T16:19:00.000,PersMiss,"[-71.083504, 42.285373]",Point,PersMiss,1,MISPER,432,B3,First,No,JACOB ST,Other,Unarmed,768866.8293,,2929292.5,2014
+124609,140047951.0,Thursday,No,2014-01-23T20:00:00.000,PersMiss,"[-71.075838, 42.321323]",Point,PersMiss,1,MISPER,262,B2,First,No,WOODVILLE ST,Other,Unarmed,770875.9749,,2942403.608,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37774,120427469.0,Wednesday,No,2012-07-11T21:00:00.000,BENoProp,"[-71.126272, 42.354787]",Point,BENoProp,7,BEIP  ,798,D14,First,No,ASHFORD TR,Part One,Unarmed,757183.3979999999,,2954534.605,2012
+105540,120426336.0,Wednesday,No,2012-07-11T11:55:00.000,BENoProp,"[-71.085387, 42.289863]",Point,BENoProp,7,IVPREM,944,B3,Day,No,AMES ST,Part One,Unarmed,768349.27,,2930926.4310000003,2012
+215698,120476235.0,Wednesday,No,2012-07-11T00:00:00.000,BENoProp,"[-71.055385, 42.318131]",Point,BENoProp,7,BERPT ,245,C11,Last,No,GRANT ST,Part One,Other,776413.4353,,2941268.6789999995,2012

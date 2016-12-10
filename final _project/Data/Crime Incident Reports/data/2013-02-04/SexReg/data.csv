@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115753,130059428.0,Monday,No,2013-02-04T14:00:00.000,SexReg,"[-71.085618, 42.32866]",Point,SexReg,2,IVPER ,282,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2013
+138040,130085502.0,Monday,No,2013-02-04T12:00:00.000,SexReg,"[-71.059735, 42.297541]",Point,SexReg,2,IVPER ,355,C11,Day,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013
+182530,130072613.0,Monday,No,2013-02-04T11:30:00.000,SexReg,"[-71.07108, 42.298261]",Point,SexReg,2,ARREST,357,C11,Day,No,BLOOMFIELD ST,Part Two,Unarmed,772205.1544,GREENBRIER ST,2934006.006,2013

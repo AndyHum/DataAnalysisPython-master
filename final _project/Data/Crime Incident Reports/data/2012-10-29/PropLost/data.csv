@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94631,120690848.0,Monday,No,2012-10-29T11:00:00.000,PropLost,"[-71.08276, 42.309281]",Point,PropLost,10,LSTPRP,320,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,769025.6745,GEORGIA ST,2938006.192,2012
+98851,120692164.0,Monday,No,2012-10-29T14:00:00.000,PropLost,"[-71.066425, 42.278251]",Point,PropLost,10,LSTPRP,388,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,773501.5553,,2926720.4480000003,2012
+130728,120726534.0,Monday,No,2012-10-29T23:30:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,10,LSTPRP,133,D4,First,No,DALTON ST,Part Three,Unarmed,768399.9598,,2951523.3460000004,2012
+158450,120681336.0,Monday,No,2012-10-29T05:15:00.000,PropLost,"[-71.067755, 42.360016]",Point,PropLost,10,IVPER ,67,A1,Last,No,ANDERSON ST,Part Three,Unarmed,772990.6351,,2956515.1289999997,2012
+259401,120717617.0,Monday,No,2012-10-29T01:00:00.000,PropLost,"[-71.052946, 42.357137]",Point,PropLost,10,LSTPRP,109,A1,Last,No,FRANKLIN ST,Part Three,Unarmed,776998.3439,,2955486.627,2012
+263729,130548428.0,Monday,No,2012-10-29T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,666,E13,Day,No,CENTRE ST,Part three,Unarmed,,,,2012
+265069,120692439.0,Monday,No,2012-10-29T07:00:00.000,PropLost,"[0, 0]",Point,PropLost,10,LSTPRP,691,E5,Last,No,ALBANY ST,Part Three,Unarmed,,,,2012

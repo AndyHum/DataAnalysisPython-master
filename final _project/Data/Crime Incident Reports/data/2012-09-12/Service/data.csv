@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6112,120572291.0,Wednesday,No,2012-09-12T19:29:00.000,Service,"[-71.09744, 42.266303]",Point,Service,9,ARREST,482,E18,First,No,RIVER ST,Part Three,Unarmed,765128.8053,,2922325.297,2012
+6548,120571189.0,Wednesday,No,2012-09-12T10:45:00.000,Service,"[-71.03994, 42.370551]",Point,Service,9,ARREST,26,A7,Day,No,MAVERICK ST,Part Three,Unarmed,780487.479,,2960393.61,2012
+47699,120572251.0,Wednesday,No,2012-09-12T19:12:00.000,Service,"[-71.09897, 42.314231]",Point,Service,9,ARREST,572,E13,First,No,SCHOOL ST,Part Three,Unarmed,764632.5988,WELD ST,2939789.021,2012
+54433,120572726.0,Wednesday,No,2012-09-12T23:54:00.000,Service,"[-71.07376, 42.282643]",Point,Service,9,IVPER ,417,C11,Last,No,STOCKTON ST,Part Three,Unarmed,771508.3897,WASHINGTON ST,2928310.909,2012
+159111,120572772.0,Wednesday,No,2012-09-12T12:55:00.000,Service,"[-71.069835, 42.349906]",Point,Service,9,ARREST,125,A1,Day,No,ARLINGTON ST,Part Three,Unarmed,772447.0544,STUART ST,2952828.008,2012
+165638,120594504.0,Wednesday,No,2012-09-12T21:45:00.000,Service,"[-71.0739, 42.289041]",Point,Service,9,IVPER ,0,B3,First,No,NORFOLK ST,Part Three,Unarmed,771459.0343,OAKWOOD ST,2930642.2789999996,2012
+175696,120573039.0,Wednesday,No,2012-09-12T20:00:00.000,Service,"[-71.107805, 42.33605]",Point,Service,9,STAB  ,612,B2,First,No,FRANCIS ST,Part Three,Unarmed,762206.2941,,2947728.97,2012
+209520,120570464.0,Wednesday,No,2012-09-12T02:45:00.000,Service,"[-71.12032, 42.27113]",Point,Service,9,ARREST,496,E18,Last,No,HYDE PARK AV,Part Three,Unarmed,758927.8941,,2924055.628,2012
+224083,120570925.0,Wednesday,No,2012-09-12T09:30:00.000,Service,"[-71.059987, 42.361648]",Point,Service,9,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+249191,120572415.0,Wednesday,No,2012-09-12T20:31:00.000,Service,"[-71.08046, 42.335661]",Point,Service,9,ARREST,274,D4,First,No,SHAWMUT AV,Part Three,Unarmed,769600.5096,,2947622.561,2012

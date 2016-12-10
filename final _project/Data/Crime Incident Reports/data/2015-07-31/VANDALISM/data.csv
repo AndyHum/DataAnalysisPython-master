@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35309,,Friday,No,2015-07-31T00:00:00.000,Vandalism,"[-71.091997, 42.27856]",Point,14xx,7,VAND,427,B3,,No,FESSENDEN ST,Part Two,None,766581.0,,2930000.0,2015
+63927,,Friday,No,2015-07-31T00:00:00.000,Vandalism,"[-71.070106, 42.283404]",Point,14xx,7,VAND,402,C11,,No,BAILEY ST,Part Two,None,772496.0,,2930000.0,2015
+71048,,Friday,No,2015-07-31T00:00:00.000,Vandalism,"[-71.075843, 42.295573]",Point,14xx,7,BE,452,B3,,No,THANE ST,Part Two,None,770921.0,,2930000.0,2015
+121097,,Friday,No,2015-07-31T00:00:00.000,Vandalism,"[-71.07239, 42.302384]",Point,14xx,7,VAND,462,C11,,No,BULLARD ST,Part Two,None,771843.0,,2940000.0,2015
+121431,,Friday,No,2015-07-31T00:00:00.000,Vandalism,"[-71.056323, 42.312015]",Point,14xx,7,VAND,254,C11,,No,AUCKLAND ST,Part Two,None,776171.0,,2940000.0,2015
+142899,,Friday,No,2015-07-31T00:00:00.000,Vandalism,"[-71.102981, 42.304922]",Point,14xx,7,VAND,570,E13,,No,FOREST HILLS ST,Part Two,None,763563.0,,2940000.0,2015
+143770,,Friday,No,2015-07-31T16:50:00.000,Vandalism,"[0, 0]",Point,14xx,7,IVPER,79,A1,,No,BEVERLY ST,Part Two,None,, CAUSEWAY ST ,,2015
+172400,,Friday,No,2015-07-31T00:00:00.000,Vandalism,"[-71.052921, 42.313279]",Point,14xx,7,VAND,249,C11,,No,SYDNEY ST,Part Two,None,777089.0,,2940000.0,2015
+183569,,Friday,No,2015-07-31T00:00:00.000,Vandalism,"[-71.075266, 42.32658]",Point,14xx,7,VAND,268,B2,,No,HAMPDEN ST,Part Two,None,771021.0,,2940000.0,2015

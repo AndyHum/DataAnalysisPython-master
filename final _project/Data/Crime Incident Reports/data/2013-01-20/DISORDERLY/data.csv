@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113800,130040462.0,Sunday,No,2013-01-20T01:00:00.000,DISORDERLY,"[-71.10473, 42.330926]",Point,24xx,1,PARTY ,585,B2,Last,No,HILLSIDE ST,Part Two,Unarmed,763046.5214,,2945865.6980000003,2013
+122349,130040516.0,Sunday,No,2013-01-20T01:00:00.000,DISORDERLY,"[-71.054375, 42.327796]",Point,24xx,1,PARTY ,914,C6,Last,No,LOGAN WY,Part Two,Other,776668.1887,,2944792.189,2013
+199731,130040856.0,Sunday,No,2013-01-20T02:17:00.000,DISORDERLY,"[-71.039965, 42.318876]",Point,24xx,1,NOISE ,256,C6,Last,No,BEACH POINT PL,Part Two,Other,780582.2878,,2941562.285,2013

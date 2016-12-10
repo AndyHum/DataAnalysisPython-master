@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45650,140178476.0,Monday,No,2014-03-24T10:20:00.000,Arrest,"[-71.076399, 42.333996]",Point,Arrest,3,ARREST,270,D4,Day,No,HARRISON AV,Part three,Unarmed,770701.3598,,2947021.0810000002,2014
+143814,140179193.0,Monday,No,2014-03-24T19:11:00.000,Arrest,"[-71.067955, 42.366911]",Point,Arrest,3,IVPER ,61,A1,First,No,NASHUA ST,Part three,Other,772923.854,,2959027.53,2014
+160857,140177958.0,Monday,No,2014-03-24T09:55:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,3,CD9   ,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

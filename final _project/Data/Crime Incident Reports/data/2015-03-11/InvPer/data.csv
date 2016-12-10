@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9144,152019764.0,Wednesday,No,2015-03-11T17:25:00.000,InvPer,"[-71.069995, 42.337476]",Point,InvPer,3,IVPER,0,D4,First,No,E BROOKLINE ST,Part three,Unarmed,772426.6434,,2948298.0719999997,2015
+31917,152019523.0,Wednesday,No,2015-03-11T03:42:00.000,InvPer,"[-71.052533, 42.36293]",Point,InvPer,3,DISTRB,0,A1,Last,No,FULTON ST,Part three,Unarmed,777098.9175,,2957598.0160000003,2015
+39208,152021641.0,Wednesday,No,2015-03-11T15:00:00.000,InvPer,"[-71.058315, 42.353881]",Point,InvPer,3,IVPER,0,A1,Day,No,SUMMER ST,Part three,Unarmed,775553.5597,,2954292.488,2015
+54742,152019921.0,Wednesday,No,2015-03-11T21:00:00.000,InvPer,"[-71.052985, 42.294246]",Point,InvPer,3,DVIP,0,C11,First,No,KING ST,Part three,Unarmed,777108.1285,,2932568.018,2015
+56049,152019820.0,Wednesday,No,2015-03-11T21:28:00.000,InvPer,"[-71.116297, 42.303653]",Point,InvPer,3,IVPER,0,E13,First,No,HAMPSTEAD RD,Part three,Unarmed,759963.4862,,2935912.575,2015
+113058,152019713.0,Wednesday,No,2015-03-11T05:30:00.000,InvPer,"[-71.068411, 42.378278]",Point,InvPer,3,IVPER,0,A15,Last,No,TIBBETTS TOWN WY,Part three,Unarmed,772779.5715,,2963169.22,2015
+122345,152019751.0,Wednesday,No,2015-03-11T15:40:00.000,InvPer,"[-71.08209, 42.322206]",Point,InvPer,3,IVPER,0,B2,Day,No,WARREN ST,Part three,Unarmed,769183.8241,,2942717.1610000003,2015
+131118,152019509.0,Wednesday,No,2015-03-11T01:13:00.000,InvPer,"[-71.057685, 42.310896]",Point,InvPer,3,UNK,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775805.0763,,2938628.897,2015
+131724,152019571.0,Wednesday,No,2015-03-11T09:53:00.000,InvPer,"[-71.08574, 42.336966]",Point,InvPer,3,AB,0,D4,Day,No,COVENTRY ST,Part three,Unarmed,768170.625,,2948091.15,2015
+136581,152029396.0,Wednesday,No,2015-03-11T12:00:00.000,InvPer,"[-71.091325, 42.284861]",Point,InvPer,3,MISC,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+147721,152019721.0,Wednesday,No,2015-03-11T16:15:00.000,InvPer,"[-71.08383, 42.307431]",Point,InvPer,3,CD7,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,768739.5428,,2937330.608,2015
+261912,152019739.0,Wednesday,No,2015-03-11T16:21:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,C6,First,No,DORCHESTER ST,Part three,Unarmed,,,,2015
+263466,152019793.0,Wednesday,No,2015-03-11T20:49:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,D4,First,No,RUGGLES ST,Part three,Unarmed,,,,2015
+263875,152019699.0,Wednesday,No,2015-03-11T16:18:00.000,InvPer,"[0, 0]",Point,InvPer,3,VIORDR,0,C6,First,No,DORCHESTER ST,Part three,Unarmed,,,,2015
+265821,152019983.0,Wednesday,No,2015-03-11T12:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,B3,Day,No,BABSON ST,Part three,Unarmed,,,,2015
+266512,152021159.0,Wednesday,No,2015-03-11T07:40:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,E13,Day,No,NEILLIAN CS,Part three,Unarmed,,,,2015
+266825,152019521.0,Wednesday,No,2015-03-11T00:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,STAB,0,B3,Last,No,TALBOT AV,Part three,Knife,,,,2015

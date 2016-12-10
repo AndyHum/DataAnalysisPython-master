@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39635,130606940.0,Monday,No,2013-09-23T09:30:00.000,STOLEN PROPERTY CHARGES,"[-71.071975, 42.334581]",Point,13xx,9,ARREST,172,D4,Day,No,ALBANY ST,Part Two,Unarmed,771896.608,,2947240.389,2013
+53204,130608184.0,Monday,No,2013-09-23T19:43:00.000,STOLEN PROPERTY CHARGES,"[-71.07301, 42.322781]",Point,13xx,9,SSTOP ,182,B2,First,No,DUDLEY ST,Part Two,Other,771638.2938,ROCKFORD ST,2942938.8619999997,2013
+153723,130607532.0,Monday,No,2013-09-23T15:30:00.000,STOLEN PROPERTY CHARGES,"[-71.061745, 42.356021]",Point,13xx,9,LSTPRP,111,A1,Day,No,WINTER ST,Part Two,Unarmed,774622.4376,,2955067.563,2013

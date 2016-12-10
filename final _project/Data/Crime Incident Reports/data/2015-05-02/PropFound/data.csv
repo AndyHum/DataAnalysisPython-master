@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1355,152040042.0,Saturday,No,2015-05-02T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,,WORCESTER SQ,,2015
+2091,152035711.0,Saturday,No,2015-05-02T07:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,5,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015
+110381,152035878.0,Saturday,No,2015-05-02T20:20:00.000,PropFound,"[-71.078141, 42.271674]",Point,PropFound,5,IVPREM,0,B3,First,No,RIVER ST,Part three,Unarmed,770342.7791,,2924307.4889999996,2015
+118433,152035790.0,Saturday,No,2015-05-02T14:58:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,5,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+127918,152035710.0,Saturday,No,2015-05-02T07:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,5,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015

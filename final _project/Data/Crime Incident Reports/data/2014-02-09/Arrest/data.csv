@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61968,140083334.0,Sunday,No,2014-02-09T13:14:00.000,Arrest,"[-71.088765, 42.334881]",Point,Arrest,2,ARREST,289,B2,Day,No,TREMONT ST,Part three,Unarmed,767356.4222,RUGGLES ST,2947327.38,2014
+70891,140082582.0,Sunday,No,2014-02-09T08:15:00.000,Arrest,"[-71.08908, 42.291676]",Point,Arrest,2,ARREST,464,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767347.104,,2931582.3589999997,2014
+229342,140082807.0,Sunday,No,2014-02-09T11:19:00.000,Arrest,"[-71.062575, 42.352726]",Point,Arrest,2,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774404.2569,,2953865.65,2014

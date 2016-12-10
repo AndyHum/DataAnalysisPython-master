@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88794,120446325.0,Friday,No,2012-07-20T00:00:00.000,Ballist,"[-71.070615, 42.320596]",Point,Ballist,7,SHOTS ,183,B2,Last,No,LEYLAND ST,Part Two,Firearm,772289.9823,,2942145.8639999996,2012
+186333,120447272.0,Friday,No,2012-07-20T11:30:00.000,Ballist,"[-71.05164, 42.321131]",Point,Ballist,7,IVPER ,256,C6,Day,No,MT VERNON ST,Part Two,Firearm,777420.5196,,2942367.229,2012
+193083,120447726.0,Friday,No,2012-07-20T14:48:00.000,Ballist,"[-71.07558, 42.288621]",Point,Ballist,7,SHOTS ,437,B3,Day,No,DARLINGTON ST,Part Two,Firearm,771005.2327,NORFOLK ST,2930486.96,2012

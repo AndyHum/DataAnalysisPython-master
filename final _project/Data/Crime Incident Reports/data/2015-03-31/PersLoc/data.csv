@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5988,152026021.0,Tuesday,No,2015-03-31T09:12:00.000,PersLoc,"[-71.081835, 42.303781]",Point,PersLoc,3,IVPER,0,B3,Day,No,SEAVER ST,Other,Unarmed,769285.7015,,2936003.13,2015
+79029,152026228.0,Tuesday,No,2015-03-31T10:00:00.000,PersLoc,"[-71.071288, 42.296566]",Point,PersLoc,3,MISSIN,0,C11,Day,No,CLAYBOURNE ST,Other,Unarmed,772151.7903,,2933387.893,2015
+105829,152025997.0,Tuesday,No,2015-03-31T05:19:00.000,PersLoc,"[-71.062095, 42.302741]",Point,PersLoc,3,IVPER,0,C11,Last,No,ROBINSON ST,Other,Unarmed,774627.5179,,2935650.936,2015
+212489,152025969.0,Tuesday,No,2015-03-31T00:35:00.000,PersLoc,"[-71.07799, 42.301961]",Point,PersLoc,3,IVPER,0,C11,Last,No,NORWELL ST,Other,Unarmed,770329.0944,,2935345.017,2015
+242972,152026104.0,Tuesday,No,2015-03-31T14:10:00.000,PersLoc,"[-71.074734, 42.300181]",Point,PersLoc,3,IVPER,0,C11,Day,No,WASHINGTON ST,Other,Unarmed,771212.9109,,2934700.731,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53271,142036373.0,Monday,No,2014-10-06T08:30:00.000,PropFound,"[-71.09649, 42.315641]",Point,PropFound,10,IVPREM,0,E13,Day,No,WALNUT PARK,Part three,Unarmed,765300.9257,,2940306.014,2014
+91977,142036520.0,Monday,No,2014-10-06T14:00:00.000,PropFound,"[-71.08176, 42.348861]",Point,PropFound,10,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769225.4368,FAIRFIELD ST,2952431.159,2014
+109372,142036341.0,Monday,No,2014-10-06T07:15:00.000,PropFound,"[-71.0626, 42.352361]",Point,PropFound,10,IVPREM,0,A1,Last,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+207085,142036616.0,Monday,No,2014-10-06T20:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,10,PROP,0,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+241255,142036553.0,Monday,No,2014-10-06T15:16:00.000,PropFound,"[-71.103995, 42.333881]",Point,PropFound,10,LARCEN,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2014
+258466,142036513.0,Monday,No,2014-10-06T15:45:00.000,PropFound,"[-71.07879, 42.338343]",Point,PropFound,10,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770047.1337,WASHINGTON ST,2948601.985,2014

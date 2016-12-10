@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123497,142005872.0,Thursday,No,2014-07-03T16:00:00.000,PersMiss,"[-71.080596, 42.327236]",Point,PersMiss,7,MISSIN,0,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+180623,142005545.0,Thursday,No,2014-07-03T09:57:00.000,PersMiss,"[-71.112634, 42.316692]",Point,PersMiss,7,IVPER,0,E13,Day,No,ROBINWOOD AV,Other,Unarmed,760932.8212,,2940668.6760000004,2014
+240180,142005870.0,Thursday,No,2014-07-03T09:00:00.000,PersMiss,"[-71.080596, 42.327236]",Point,PersMiss,7,MISSIN,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014

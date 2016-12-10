@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+143846,140299058.0,Wednesday,No,2014-05-14T19:06:00.000,WEAPONS CHARGE,"[-71.065815, 42.291956]",Point,15xx,5,SHOTS ,397,C11,First,No,CENTRE ST,Part Two,Firearm,773641.2102,,2931715.578,2014
+147334,140298912.0,Wednesday,No,2014-05-14T17:00:00.000,WEAPONS CHARGE,"[-71.05539, 42.338296]",Point,15xx,5,ARREST,936,C6,First,No,ORTON MAROTTA WY,Part Two,Unarmed,776373.7815,,2948617.1380000003,2014
+155043,140298359.0,Wednesday,No,2014-05-14T14:10:00.000,WEAPONS CHARGE,"[-71.08022, 42.295786]",Point,15xx,5,INVEST,495,B3,Day,No,WARNER ST,Part Two,Firearm,769736.9142,,2933091.777,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46090,130649316.0,Friday,No,2013-10-11T12:30:00.000,Service,"[-71.066425, 42.278251]",Point,Service,10,AOD   ,388,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773501.5553,,2926720.4480000003,2013
+53023,130648968.0,Friday,No,2013-10-11T09:26:00.000,Service,"[-71.064905, 42.352371]",Point,Service,10,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+112953,130649024.0,Friday,No,2013-10-11T10:00:00.000,Service,"[-71.15159, 42.356801]",Point,Service,10,CD11  ,939,D14,Day,No,N BEACON ST,Part three,Unarmed,750337.2932,,2955239.8310000002,2013
+127967,130648865.0,Friday,No,2013-10-11T08:28:00.000,Service,"[-71.06412, 42.352331]",Point,Service,10,ARREST,117,A1,Day,No,BOYLSTON ST,Part three,Other,773987.3769,TAMWORTH ST,2953719.567,2013
+194129,130650102.0,Friday,No,2013-10-11T17:55:00.000,Service,"[-71.057405, 42.358786]",Point,Service,10,CD11  ,72,A1,First,No,STATE ST,Part three,Unarmed,775790.2538,,2956081.2389999996,2013
+213602,130650659.0,Friday,No,2013-10-11T22:29:00.000,Service,"[-71.094895, 42.313486]",Point,Service,10,SSTOP ,316,E13,First,No,WALNUT AV,Part three,Unarmed,765736.037,SEAVER ST,2939522.74,2013
+215243,130649479.0,Friday,No,2013-10-11T13:37:00.000,Service,"[-71.071135, 42.335176]",Point,Service,10,ARREST,172,D4,Day,No,ALBANY ST,Part three,Unarmed,772122.6365,,2947458.358,2013
+254749,130672850.0,Friday,No,2013-10-11T13:15:00.000,Service,"[-71.06388, 42.347716]",Point,Service,10,LARCRT,123,A1,Day,No,PINE ST,Part three,Unarmed,774060.8494,,2952038.106,2013

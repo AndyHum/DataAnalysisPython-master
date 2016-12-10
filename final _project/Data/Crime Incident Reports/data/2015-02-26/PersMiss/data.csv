@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35441,152015781.0,Thursday,No,2015-02-26T21:30:00.000,PersMiss,"[-71.049385, 42.331776]",Point,PersMiss,2,IVPER,0,C6,First,No,E 8TH ST,Other,Unarmed,778009.8586,,2946249.6580000003,2015
+139377,152015779.0,Thursday,No,2015-02-26T18:00:00.000,PersMiss,"[-71.092625, 42.314591]",Point,PersMiss,2,IVPER,0,B2,First,No,ABBOTTSFORD ST,Other,Unarmed,766348.0804,,2939928.345,2015
+143607,152015587.0,Thursday,No,2015-02-26T12:30:00.000,PersMiss,"[-71.082049, 42.294765]",Point,PersMiss,2,MISSIN,0,B3,Day,No,KINGSDALE ST,Other,Unarmed,769243.8945,,2932717.086,2015

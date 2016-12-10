@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4042,,Thursday,No,2015-07-16T00:00:00.000,Assembly or Gathering Violations,"[-71.046471, 42.353208]",Point,Gather,7,I00039,207,C6,,No,NORTHERN AVE,Part Three,None,778756.0,,2950000.0,2015
+21181,,Thursday,No,2015-07-16T00:00:00.000,Firearm Violations,"[-71.077389, 42.314845]",Point,15xx,7,IVPER,325,B2,,No,DACIA ST,Part Two,None,770468.0,,2940000.0,2015
+63160,,Thursday,No,2015-07-16T00:00:00.000,Firearm Violations,"[-71.091878, 42.333679]",Point,15xx,7,CD11,289,B2,,No,SCHROEDER PLZ,Part Two,Firearm,766517.0,,2950000.0,2015
+86016,,Thursday,No,2015-07-16T00:00:00.000,Firearm Violations,"[-71.077389, 42.314845]",Point,15xx,7,CD11,325,B2,,No,DACIA ST,Part Two,None,770468.0,,2940000.0,2015
+137169,,Thursday,No,2015-07-16T00:00:00.000,Firearm Violations,"[-71.064507, 42.317482]",Point,15xx,7,TS,239,B2,,No,COLUMBIA RD,Part Two,Firearm,773947.0,,2940000.0,2015
+171100,,Thursday,No,2015-07-16T21:19:00.000,Violations,"[0, 0]",Point,VAL,7,SP,943,B3,,No,MORTON ST,Part Two,None,, WOODGATE ST ,,2015
+206556,,Thursday,No,2015-07-16T00:00:00.000,Violations,"[-71.058608, 42.295147]",Point,VAL,7,MVA,364,C11,,No,LESLIE ST,Part Two,None,775585.0,,2930000.0,2015

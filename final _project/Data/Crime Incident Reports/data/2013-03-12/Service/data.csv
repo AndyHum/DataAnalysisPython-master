@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6780,130147248.0,Tuesday,No,2013-03-12T17:03:00.000,Service,"[-71.064115, 42.317839]",Point,Service,3,MISPER,239,B2,First,No,COLUMBIA RD,Part Three,Unarmed,774052.7186,,2941150.083,2013
+30170,130146551.0,Tuesday,No,2013-03-12T10:00:00.000,Service,"[-71.071975, 42.334581]",Point,Service,3,HLDPRI,169,D4,Day,No,ALBANY ST,Part Three,Unarmed,771896.608,,2947240.389,2013
+46043,130147137.0,Tuesday,No,2013-03-12T15:30:00.000,Service,"[-71.030165, 42.376841]",Point,Service,3,IVMV  ,20,A7,Day,No,PUTNAM ST,Part Three,Unarmed,783116.2956,,2962700.209,2013
+74351,130146472.0,Tuesday,No,2013-03-12T09:00:00.000,Service,"[-71.05899, 42.356791]",Point,Service,3,ARREST,103,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,775365.6264,,2955352.003,2013
+210645,130147596.0,Tuesday,No,2013-03-12T18:30:00.000,Service,"[-71.078186, 42.334556]",Point,Service,3,AOD   ,271,D4,First,No,E LENOX ST,Part Three,Unarmed,770217.2220000001,,2947222.7819999997,2013
+228526,130147476.0,Tuesday,No,2013-03-12T17:23:00.000,Service,"[-71.03974, 42.369131]",Point,Service,3,SSTOP ,0,A7,First,No,MAVERICK SQ,Part Three,Unarmed,780544.3158,,2959876.425,2013
+244488,130146097.0,Tuesday,No,2013-03-12T02:30:00.000,Service,"[-71.06305, 42.350871]",Point,Service,3,SSTOP ,122,A1,Last,No,WASHINGTON ST,Part Three,Unarmed,774279.327,STUART ST,2953188.994,2013
+256728,130146485.0,Tuesday,No,2013-03-12T09:19:00.000,Service,"[-71.07102, 42.336701]",Point,Service,3,CD11  ,167,D4,Day,No,E NEWTON ST,Part Three,Unarmed,772150.9382,,2948014.253,2013
+266062,130147073.0,Tuesday,No,2013-03-12T14:41:00.000,Service,"[0, 0]",Point,Service,3,PERGUN,568,E13,Day,No,PIERPONT RD,Part Three,Unarmed,,,,2013

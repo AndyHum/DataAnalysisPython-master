@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70634,152003513.0,Wednesday,No,2015-01-14T00:45:00.000,Service,"[-71.085295, 42.314416]",Point,Service,1,IVPER,0,B2,Last,No,WABON ST,Part three,Unarmed,768330.8947,,2939874.1289999997,2015
+77609,152003696.0,Wednesday,No,2015-01-14T19:32:00.000,Service,"[-71.08287, 42.324091]",Point,Service,1,TS,0,B2,First,No,WARREN ST,Part three,Unarmed,768969.5276,WALNUT AV,2943403.055,2015
+182641,152003549.0,Wednesday,No,2015-01-14T09:30:00.000,Service,"[-71.08323, 42.327536]",Point,Service,1,ARREST,0,B2,Day,No,WARREN ST,Part three,Unarmed,768866.0406,,2944657.9960000003,2015
+225846,152003691.0,Wednesday,No,2015-01-14T19:25:00.000,Service,"[-71.060271, 42.307553]",Point,Service,1,CD11,0,C11,First,No,EAST ST,Part three,Unarmed,775111.7335,,2937407.012,2015
+263967,152003528.0,Wednesday,No,2015-01-14T06:30:00.000,Service,"[0, 0]",Point,Service,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+266765,152003611.0,Wednesday,No,2015-01-14T01:50:00.000,Service,"[0, 0]",Point,Service,1,IVPER,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,,,,2015

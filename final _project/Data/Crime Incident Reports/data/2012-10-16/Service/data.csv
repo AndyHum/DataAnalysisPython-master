@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76714,120651192.0,Tuesday,No,2012-10-16T08:57:00.000,Service,"[-71.05647, 42.378401]",Point,Service,10,IVPREM,900,A15,Day,No,WALFORD WY,Part Three,Unarmed,776005.7914,,2963230.651,2012
+142414,120651167.0,Tuesday,No,2012-10-16T08:34:00.000,Service,"[-71.092995, 42.271531]",Point,Service,10,ARREST,425,B3,Day,No,FREMONT ST,Part Three,Unarmed,766322.8836,,2924236.159,2012
+220779,120652806.0,Tuesday,No,2012-10-16T19:40:00.000,Service,"[-71.058108, 42.309016]",Point,Service,10,LARCIP,255,C11,First,No,DORCHESTER AV,Part Three,Other,775694.0122,,2937943.142,2012
+226806,120652508.0,Tuesday,No,2012-10-16T17:50:00.000,Service,"[-71.06894, 42.288516]",Point,Service,10,ARREST,398,C11,First,No,WELLES AV,Part Three,Unarmed,772802.0436,,2930457.7060000002,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18491,130266033.0,Sunday,No,2013-05-05T09:45:00.000,PropFound,"[-71.064348, 42.375438]",Point,PropFound,5,FDPROP,56,A15,Day,No,THOMPSON SQ,Part Three,Unarmed,773882.7245,,2962139.622,2013
+84277,130266225.0,Sunday,No,2013-05-05T12:07:00.000,PropFound,"[-71.10538, 42.316201]",Point,PropFound,5,FDPROP,640,E13,Day,No,HUBBARD ST,Part Three,Unarmed,762895.5907,LAMARTINE ST,2940498.837,2013
+92137,130266233.0,Sunday,No,2013-05-05T12:34:00.000,PropFound,"[-71.077685, 42.340711]",Point,PropFound,5,FDPROP,0,D4,Day,No,TREMONT ST,Part Three,Unarmed,770341.686,,2949466.575,2013
+104015,130267328.0,Sunday,No,2013-05-05T21:50:00.000,PropFound,"[-71.125905, 42.288551]",Point,PropFound,5,FDPROP,563,E5,First,No,WASHINGTON ST,Part three,Unarmed,757388.6357,,2930397.712,2013
+122526,130266562.0,Sunday,No,2013-05-05T16:07:00.000,PropFound,"[-71.12196, 42.295491]",Point,PropFound,5,FDWEAP,671,E13,First,No,BUSSEY ST,Part Three,Unarmed,758444.8501,SOUTH ST,2932931.462,2013
+188602,130266162.0,Sunday,No,2013-05-05T09:30:00.000,PropFound,"[-71.05227, 42.362381]",Point,PropFound,5,FDPROP,89,A1,Day,No,COMMERCIAL ST,Part Three,Unarmed,777171.2382,,2957398.5689999997,2013
+240315,130266532.0,Sunday,No,2013-05-05T15:37:00.000,PropFound,"[-71.109297, 42.287813]",Point,PropFound,5,IVPREM,503,E18,Day,No,CANTERBURY ST,Part Three,Unarmed,761883.5736,,2930148.74,2013
+263839,130266508.0,Sunday,No,2013-05-05T15:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,900,A15,Day,No,CARNEY CT,Part Three,Unarmed,,,,2013

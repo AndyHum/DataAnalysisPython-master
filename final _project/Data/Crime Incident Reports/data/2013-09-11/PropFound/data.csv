@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+163371,130578811.0,Wednesday,No,2013-09-11T18:25:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,9,FDPROP,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+168955,130578678.0,Wednesday,No,2013-09-11T17:40:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,9,FDPROP,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+260696,130579993.0,Wednesday,No,2013-09-11T08:00:00.000,PropFound,"[0, 0]",Point,PropFound,9,FDPROP,40,A15,Day,No,CHESTNUT ST,Part three,Unarmed,,,,2013
+262456,130578400.0,Wednesday,No,2013-09-11T16:00:00.000,PropFound,"[0, 0]",Point,PropFound,9,FDPROP,465,B3,First,No,CANTERBURY ST,Part three,Unarmed,,,,2013

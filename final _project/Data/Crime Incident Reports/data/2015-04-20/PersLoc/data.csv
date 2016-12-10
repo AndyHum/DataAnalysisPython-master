@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37761,152032179.0,Monday,No,2015-04-20T09:00:00.000,PersLoc,"[-71.032814, 42.38051]",Point,PersLoc,4,IVPER,0,A7,Day,No,WHITE ST,Other,Unarmed,782393.1228,,2964033.045,2015
+79325,152032487.0,Monday,No,2015-04-20T12:00:00.000,PersLoc,"[-71.111334, 42.310271]",Point,PersLoc,4,MISSIN,0,E13,Day,No,ROANOKE AV,Other,Unarmed,761295.0036,,2938330.207,2015
+123464,152032310.0,Monday,No,2015-04-20T13:00:00.000,PersLoc,"[-71.066805, 42.292011]",Point,PersLoc,4,IVPER,0,C11,Day,No,ALLSTON ST,Other,Unarmed,773373.2534,,2931734.2589999996,2015
+160490,152032615.0,Monday,No,2015-04-20T22:00:00.000,PersLoc,"[-71.066805, 42.292011]",Point,PersLoc,4,IVPER,0,C11,First,No,ALLSTON ST,Other,Unarmed,773373.2534,,2931734.2589999996,2015

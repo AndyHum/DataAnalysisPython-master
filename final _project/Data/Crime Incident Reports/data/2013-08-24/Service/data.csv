@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51738,130534743.0,Saturday,No,2013-08-24T11:32:00.000,Service,"[-71.063675, 42.352301]",Point,Service,8,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+182554,130534013.0,Saturday,No,2013-08-24T01:32:00.000,Service,"[-71.041445, 42.348751]",Point,Service,8,ABIP  ,207,C6,Last,No,SEAPORT LN,Part three,Unarmed,780123.5001,,2952447.085,2013
+190521,130534282.0,Saturday,No,2013-08-24T04:55:00.000,Service,"[-71.08955, 42.283831]",Point,Service,8,ARREST,429,B3,Last,No,MORTON ST,Part three,Unarmed,767233.6974,LUCERNE ST,2928722.915,2013

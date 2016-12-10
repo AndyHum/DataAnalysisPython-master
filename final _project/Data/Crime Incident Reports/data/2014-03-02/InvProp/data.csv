@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64516,140128139.0,Sunday,No,2014-03-02T00:22:00.000,InvProp,"[-71.07161, 42.290211]",Point,InvProp,3,SHOTS ,398,C11,Last,No,TALBOT AV,Part three,Unarmed,772076.5056,WASHINGTON ST,2931071.748,2014
+157646,140129798.0,Sunday,No,2014-03-02T21:14:00.000,InvProp,"[-71.03698, 42.374051]",Point,InvProp,3,IVPREM,28,A7,First,No,HAVRE ST,Part three,Other,781280.4190000001,PORTER ST,2961673.4069999997,2014
+159187,140129505.0,Sunday,No,2014-03-02T18:00:00.000,InvProp,"[-71.038465, 42.335581]",Point,InvProp,3,CD35  ,222,C6,First,No,E BROADWAY,Part three,Unarmed,780955.0161,,2947652.0530000003,2014
+166852,140128381.0,Sunday,No,2014-03-02T02:07:00.000,InvProp,"[-71.04339, 42.350736]",Point,InvProp,3,ABIP  ,207,C6,Last,No,NORTHERN AV,Part three,Unarmed,779593.8607,,2953167.635,2014
+183530,140128485.0,Sunday,No,2014-03-02T08:00:00.000,InvProp,"[-71.12395, 42.256421]",Point,InvProp,3,ARREST,496,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+190833,140128678.0,Sunday,No,2014-03-02T08:20:00.000,InvProp,"[-71.075605, 42.291256]",Point,InvProp,3,HARPT ,438,B3,Day,No,TALBOT AV,Part three,Unarmed,770993.6902,,2931447.1569999997,2014
+203303,140128185.0,Sunday,No,2014-03-02T00:40:00.000,InvProp,"[-71.15706, 42.261331]",Point,InvProp,3,SHOTS ,713,E5,Last,No,GROVE ST,Part three,Firearm,748998.7127,WASHINGTON ST,2920442.909,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68172,130596715.0,Wednesday,No,2013-09-18T07:00:00.000,PersLoc,"[-71.056357, 42.320993]",Point,PersLoc,9,MISPER,235,C6,Last,No,COLUMBIA RD,Other,Unarmed,776144.9394,,2942310.3,2013
+85792,130596139.0,Wednesday,No,2013-09-18T06:15:00.000,PersLoc,"[-71.087645, 42.285741]",Point,PersLoc,9,MISPER,429,B3,Last,No,HARWOOD ST,Other,Unarmed,767745.8152,,2929421.435,2013
+121949,130596193.0,Wednesday,No,2013-09-18T10:30:00.000,PersLoc,"[-71.039428, 42.367778]",Point,PersLoc,9,MISPER,35,A7,Day,No,S BREMEN ST,Other,Unarmed,780631.3068,,2959383.722,2013
+195156,130596033.0,Wednesday,No,2013-09-18T19:44:00.000,PersLoc,"[-71.080365, 42.280871]",Point,PersLoc,9,MISPER,418,B3,First,No,SELDEN ST,Other,Unarmed,769724.4234,,2927656.3460000004,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39266,130182619.0,Thursday,No,2013-03-28T17:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,3,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2013
+91948,130180693.0,Thursday,No,2013-03-28T00:30:00.000,Service,"[-71.085816, 42.30968]",Point,Service,3,NOTIFY,319,B2,Last,No,CHENEY ST,Part Three,Unarmed,768198.1833,,2938147.32,2013
+123010,130180946.0,Thursday,No,2013-03-28T03:08:00.000,Service,"[-71.07491, 42.276231]",Point,Service,3,TSTOP ,410,B3,Last,No,MORTON ST,Part Three,Unarmed,771209.0196,CLEARWATER DR,2925972.775,2013
+188129,130181923.0,Thursday,No,2013-03-28T13:56:00.000,Service,"[-71.089625, 42.276051]",Point,Service,3,ARREST,421,B3,Day,No,DELHI ST,Part Three,Unarmed,767227.0426,,2925887.6769999997,2013
+202352,130181382.0,Thursday,No,2013-03-28T10:45:00.000,Service,"[-71.06006, 42.301996]",Point,Service,3,ARREST,352,C11,Day,No,ADAMS ST,Part Three,Unarmed,775179.4158,,2935382.2789999996,2013
+207104,130181450.0,Thursday,No,2013-03-28T10:35:00.000,Service,"[-71.0987, 42.277166]",Point,Service,3,CD11  ,470,B3,Day,No,ITASCA ST,Part Three,Unarmed,764769.1315,,2926282.332,2013
+208818,130182398.0,Thursday,No,2013-03-28T17:31:00.000,Service,"[-71.04625, 42.354256]",Point,Service,3,ARREST,207,C6,First,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2013
+231802,130182941.0,Thursday,No,2013-03-28T19:40:00.000,Service,"[-71.02232, 42.381141]",Point,Service,3,CD11  ,15,A7,First,No,BENNINGTON ST,Part Three,Unarmed,785227.2168,SWIFT ST,2964278.988,2013

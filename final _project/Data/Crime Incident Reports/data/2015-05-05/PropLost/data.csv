@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8410,152037115.0,Tuesday,No,2015-05-05T15:45:00.000,PropLost,"[-71.09294, 42.329171]",Point,PropLost,5,PROP,0,B2,Day,No,HIGHLAND AV,Part three,Unarmed,766237.5265,CENTRE ST,2945241.139,2015
+88866,152036678.0,Tuesday,No,2015-05-05T14:17:00.000,PropLost,"[-71.123129, 42.2725]",Point,PropLost,5,PROP,0,E18,Day,No,METROPOLITAN AV,Part three,Unarmed,758165.4741,,2924551.833,2015
+170017,152038836.0,Tuesday,No,2015-05-05T14:30:00.000,PropLost,"[-71.08037, 42.349236]",Point,PropLost,5,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769600.5057,,2952569.662,2015
+198110,152037400.0,Tuesday,No,2015-05-05T01:02:00.000,PropLost,"[-71.063757, 42.354358]",Point,PropLost,5,LARCEN,0,A1,Last,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2015

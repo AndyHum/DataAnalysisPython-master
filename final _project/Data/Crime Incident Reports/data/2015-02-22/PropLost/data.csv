@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33701,152014293.0,Sunday,No,2015-02-22T00:00:00.000,PropLost,"[-71.084485, 42.348131]",Point,PropLost,2,PROP,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2015
+41720,152014975.0,Sunday,No,2015-02-22T19:00:00.000,PropLost,"[-71.048531, 42.337316]",Point,PropLost,2,PROP,0,C6,First,No,W BROADWAY,Part three,Unarmed,778230.0596,,2948269.7369999997,2015
+95189,152014520.0,Sunday,No,2015-02-22T07:00:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,2,PROP,0,B2,Last,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2015
+118101,152015345.0,Sunday,No,2015-02-22T22:30:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,2,PROP,0,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2015
+173125,152014629.0,Sunday,No,2015-02-22T22:30:00.000,PropLost,"[-71.08058, 42.339166]",Point,PropLost,2,PROP,0,D4,First,No,TREMONT ST,Part three,Unarmed,769561.7843,MASSACHUSETTS AV,2948899.687,2015
+208055,152014352.0,Sunday,No,2015-02-22T02:12:00.000,PropLost,"[-71.07337, 42.351831]",Point,PropLost,2,MISC,0,D4,Last,No,BERKELEY ST,Part three,Unarmed,771487.9884,NEWBURY ST,2953524.716,2015
+227706,152014241.0,Sunday,No,2015-02-22T08:30:00.000,PropLost,"[-71.081575, 42.340721]",Point,PropLost,2,PROP,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,769289.9968,MASSACHUSETTS AV,2949465.0360000003,2015
+253945,152020846.0,Sunday,No,2015-02-22T00:00:00.000,PropLost,"[-71.135855, 42.354211]",Point,PropLost,2,PROP,0,D14,Last,No,CAMBRIDGE ST,Part three,Unarmed,754594.2509,,2954313.7430000002,2015
+264229,152014408.0,Sunday,No,2015-02-22T01:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,A1,Last,No,CHATHAM ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36006,,Friday,No,2015-07-31T00:00:00.000,Investigate Property,"[-71.054324, 42.313591]",Point,InvProp,7,IVPER,249,C11,,No,SAXTON ST,Part Three,None,776709.0,,2940000.0,2015
+45199,,Friday,No,2015-07-31T00:00:00.000,Investigate Property,"[-71.080054, 42.280093]",Point,InvProp,7,ALARM,418,B3,,No,FULLER ST,Part Three,None,769810.0,,2930000.0,2015
+126679,,Friday,No,2015-07-31T16:27:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,0,,,No,CITY HALL PLZ,Part Three,None,,,,2015
+128343,,Friday,No,2015-07-31T00:00:00.000,Investigate Property,"[-71.082069, 42.294787]",Point,InvProp,7,BE,441,B3,,No,KINGSDALE ST,Part Three,None,769238.0,,2930000.0,2015
+133423,,Friday,No,2015-07-31T00:00:00.000,Investigate Property,"[-71.143383, 42.241119]",Point,InvProp,7,ALARM,529,E18,,No,ERNEST AVE,Part Three,None,752732.0,,2910000.0,2015
+135745,,Friday,No,2015-07-31T00:00:00.000,Investigate Property,"[-71.066425, 42.352495]",Point,InvProp,7,VAND,118,A1,,No,BOYLSTON ST,Part Three,None,773364.0,,2950000.0,2015
+160297,,Friday,No,2015-07-31T00:00:00.000,Investigate Property,"[-71.125121, 42.250558]",Point,InvProp,7,IVMV,522,E18,,No,A ST,Part Three,None,757661.0,,2920000.0,2015
+202046,,Friday,No,2015-07-31T00:00:00.000,Investigate Property,"[-71.064291, 42.299181]",Point,InvProp,7,SSA,358,C11,,No,GENEVA AVE,Part Three,None,774040.0,,2930000.0,2015

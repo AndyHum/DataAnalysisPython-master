@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77422,120667654.0,Tuesday,No,2012-10-23T10:54:00.000,WEAPONS CHARGE,"[-71.083045, 42.327576]",Point,15xx,10,ARREST,282,B2,Day,No,WARREN ST,Part Two,Firearm,768915.9952,,2944672.817,2012
+110658,120668295.0,Tuesday,No,2012-10-23T15:44:00.000,WEAPONS CHARGE,"[-71.080596, 42.327236]",Point,15xx,10,PERGUN,281,B2,Day,No,GREENVILLE ST,Part Two,Unarmed,769578.6737,,2944551.923,2012
+242307,120667247.0,Tuesday,No,2012-10-23T07:15:00.000,WEAPONS CHARGE,"[-71.077917, 42.343296]",Point,15xx,10,ARREST,152,D4,Last,No,WARREN AV,Part Two,Other,770274.0752,,2950408.285,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+441,152035525.0,Thursday,No,2014-11-20T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,PROP,0,D4,First,No,WESTLAND AV,Part three,Other,,,,2014
+6001,142050807.0,Thursday,No,2014-11-20T17:00:00.000,PropLost,"[-71.086365, 42.344616]",Point,PropLost,11,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767988.1254,,2950878.13,2014
+112921,142050657.0,Thursday,No,2014-11-20T12:15:00.000,PropLost,"[-71.05751, 42.311671]",Point,PropLost,11,LARCEN,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775850.9453,,2938911.564,2014

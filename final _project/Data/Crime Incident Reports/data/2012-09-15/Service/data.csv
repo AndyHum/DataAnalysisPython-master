@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115668,120578819.0,Saturday,No,2012-09-15T11:15:00.000,Service,"[-71.03655, 42.373872]",Point,Service,9,ARREST,0,A7,Day,No,VISCONTI RD,Part Three,Unarmed,781396.7649,HAVRE ST,2961608.602,2012
+224470,120579570.0,Saturday,No,2012-09-15T17:47:00.000,Service,"[-71.139352, 42.240701]",Point,Service,9,ARREST,529,E18,First,No,COMO RD,Part Three,Unarmed,753823.8916,,2912944.788,2012
+252455,120579129.0,Saturday,No,2012-09-15T14:04:00.000,Service,"[-71.091509, 42.311352]",Point,Service,9,IVPER ,316,B2,Day,No,HUTCHINGS ST,Part Three,Unarmed,766655.5601,,2938749.308,2012

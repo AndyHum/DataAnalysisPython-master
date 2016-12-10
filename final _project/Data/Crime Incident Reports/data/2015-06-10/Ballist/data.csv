@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105768,152048275.0,Wednesday,No,2015-06-10T23:18:00.000,Ballist,"[-71.100769, 42.325321]",Point,Ballist,6,SHOTS,0,E13,First,No,PARKER ST,Part Two,Firearm,764127.0458,,2943828.1319999998,2015
+168424,152048135.0,Wednesday,No,2015-06-10T17:20:00.000,Ballist,"[-71.076455, 42.283472]",Point,Ballist,6,SHOTS,0,B3,First,No,MILTON AV,Part Two,Firearm,770777.6487,,2928609.295,2015
+248412,152048237.0,Wednesday,No,2015-06-10T22:27:00.000,Ballist,"[-71.081367, 42.336818]",Point,Ballist,6,SHOTS,0,D4,First,No,LENOX ST,Part Two,Firearm,769353.1922,,2948042.758,2015

@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16444,152024672.0,Thursday,No,2015-03-26T18:56:00.000,InvPer,"[-71.073461, 42.302702]",Point,InvPer,3,IVPER,0,C11,First,No,ROSSETER ST,Part three,Unarmed,771552.865,,2935621.039,2015
+28433,152024623.0,Thursday,No,2015-03-26T17:02:00.000,InvPer,"[-71.079263, 42.30593]",Point,InvPer,3,IVPER,0,B2,First,No,COLUMBIA RD,Part three,Unarmed,769977.5131,,2936789.672,2015
+51553,152024680.0,Thursday,No,2015-03-26T18:21:00.000,InvPer,"[-71.070213, 42.319216]",Point,InvPer,3,IVPER,0,B2,First,No,DUDLEY ST,Part three,Unarmed,772401.1225,,2941643.2810000004,2015
+65536,152024316.0,Thursday,No,2015-03-26T04:57:00.000,InvPer,"[-71.069959, 42.391119]",Point,InvPer,3,IVPER,0,A15,Last,No,ALFORD ST,Part three,Unarmed,772337.7794,,2967846.673,2015
+72931,152024744.0,Thursday,No,2015-03-26T20:00:00.000,InvPer,"[-71.131245, 42.350806]",Point,InvPer,3,IVPER,0,D14,First,No,HARVARD AV,Part three,Unarmed,755845.6789,,2953078.245,2015
+89192,152024585.0,Thursday,No,2015-03-26T15:56:00.000,InvPer,"[-71.150117, 42.342133]",Point,InvPer,3,IVPER,0,D14,Day,No,LEAMINGTON RD,Part three,Unarmed,750757.2848,,2949896.106,2015
+149530,152024483.0,Thursday,No,2015-03-26T10:00:00.000,InvPer,"[-71.08209, 42.336671]",Point,InvPer,3,IVPER,0,D4,Day,No,LATTIMORE CT,Part three,Unarmed,769157.9964,,2947988.46,2015
+214214,152024889.0,Thursday,No,2015-03-26T14:00:00.000,InvPer,"[-71.08051, 42.307658]",Point,InvPer,3,IVPER,0,B2,Day,No,GENEVA AV,Part three,Knife,769636.9643,,2937417.7189999996,2015
+266892,152024294.0,Thursday,No,2015-03-26T00:07:00.000,InvPer,"[0, 0]",Point,InvPer,3,BE,0,D4,Last,No,ALBEMARLE CT,Part three,Unarmed,,,,2015
+266898,152024305.0,Thursday,No,2015-03-26T01:05:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,E5,Last,No,BELGRADE AV,Part three,Unarmed,,,,2015
+266908,152024701.0,Thursday,No,2015-03-26T19:37:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,C11,First,No,HALLET ST,Part three,Unarmed,,,,2015
+266910,152024524.0,Thursday,No,2015-03-26T12:51:00.000,InvPer,"[0, 0]",Point,InvPer,3,PERGUN,0,B3,Day,No,BABSON ST,Part three,Firearm,,,,2015
+266952,152024564.0,Thursday,No,2015-03-26T14:46:00.000,InvPer,"[0, 0]",Point,InvPer,3,REQP,0,B2,Day,No,WARREN PL,Part three,Unarmed,,,,2015

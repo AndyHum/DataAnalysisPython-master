@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64534,152025365.0,Saturday,No,2015-03-28T23:00:00.000,InvPer,"[-71.119079, 42.351603]",Point,InvPer,3,DISTRB,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,759132.7976,,2953383.027,2015
+70452,152025301.0,Saturday,No,2015-03-28T17:40:00.000,InvPer,"[-71.15088, 42.355141]",Point,InvPer,3,IVPER,0,D14,First,No,FANEUIL ST,Part three,Unarmed,750531.6695,,2954635.6739999996,2015
+75388,152025135.0,Saturday,No,2015-03-28T03:24:00.000,InvPer,"[-71.086445, 42.335931]",Point,InvPer,3,IVPER,0,D4,Last,No,TREMONT ST,Part three,Unarmed,767981.8432,ST CYPRIANS PL,2947713.0519999997,2015
+153391,152025294.0,Saturday,No,2015-03-28T14:00:00.000,InvPer,"[-71.076775, 42.335256]",Point,InvPer,3,IVPER,0,D4,Day,No,NORTHAMPTON ST,Part three,Other,770597.5713,,2947479.894,2015
+180431,152026836.0,Saturday,No,2015-03-28T07:30:00.000,InvPer,"[-71.063175, 42.376396]",Point,InvPer,3,LARCEN,0,A15,Day,No,HIGH ST,Part three,Unarmed,774197.901,,2962490.6380000003,2015
+190785,152028197.0,Saturday,No,2015-03-28T09:00:00.000,InvPer,"[-71.054835, 42.366201]",Point,InvPer,3,IVPER,0,A1,Day,No,SALEM ST,Part three,Unarmed,776470.7577,,2958787.0239999997,2015
+267023,152025244.0,Saturday,No,2015-03-28T13:25:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,B2,Day,No,DABNEY ST,Part three,Unarmed,,,,2015
+267026,152025358.0,Saturday,No,2015-03-28T21:57:00.000,InvPer,"[0, 0]",Point,InvPer,3,PERGUN,0,B2,First,No,SMITH ST,Part three,Unarmed,,,,2015
+267064,152025266.0,Saturday,No,2015-03-28T13:45:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,D4,Day,No,PROVIDENCE ST,Part three,Unarmed,,,,2015
+267374,152025262.0,Saturday,No,2015-03-28T14:25:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,B2,Day,No,BOWDITCH CT,Part three,Unarmed,,,,2015

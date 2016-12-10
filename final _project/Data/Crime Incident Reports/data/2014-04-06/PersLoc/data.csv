@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5816,140210026.0,Sunday,No,2014-04-06T14:00:00.000,PersLoc,"[-71.03207, 42.366086]",Point,PersLoc,4,MISPER,33,A7,Day,No,HOOTEN CT,Other,Unarmed,782623.0708,,2958778.045,2014
+23852,140208987.0,Sunday,No,2014-04-06T15:00:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,4,MISPER,345,C11,Day,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+145601,140208796.0,Sunday,No,2014-04-06T16:00:00.000,PersLoc,"[-71.057908, 42.293715]",Point,PersLoc,4,MISPER,364,C11,First,No,WHITTEN ST,Other,Unarmed,775776.9943,,2932367.5560000003,2014
+148031,140208300.0,Sunday,No,2014-04-06T20:04:00.000,PersLoc,"[-71.088241, 42.283284]",Point,PersLoc,4,MSNCOM,429,B3,First,No,WILDWOOD ST,Other,Unarmed,767588.7423,,2928525.213,2014

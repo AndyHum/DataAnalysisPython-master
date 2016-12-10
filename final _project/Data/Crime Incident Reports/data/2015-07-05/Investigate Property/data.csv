@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27683,,Sunday,No,2015-07-05T00:00:00.000,Investigate Property,"[-71.109716, 42.261948]",Point,InvProp,7,VAND,493,E18,,No,RIVER ST,Part Three,None,761813.0,,2920000.0,2015
+39045,,Sunday,No,2015-07-05T00:00:00.000,Investigate Property,"[-71.103176, 42.326242]",Point,InvProp,7,SHOTS,906,E13,,No,HEATH ST,Part Three,None,763475.0,,2940000.0,2015
+135829,,Sunday,No,2015-07-05T00:00:00.000,Investigate Property,"[-71.058524, 42.359721]",Point,InvProp,7,CD19,92,A1,,No,CITY HALL PLZ,Part Three,None,775486.0,,2960000.0,2015
+146465,,Sunday,No,2015-07-05T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,7,IVPREM,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+251891,,Sunday,No,2015-07-05T23:39:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,SHOTS,24,A7,,No,MARION ST,Part Three,Firearm,,MONMOUTH ST,,2015

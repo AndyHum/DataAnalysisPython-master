@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11652,130607405.0,Monday,No,2013-09-23T14:17:00.000,WEAPONS CHARGE,"[-71.06845, 42.282051]",Point,15xx,9,TRANSP,403,C11,Day,No,GALTY AV,Part Two,Knife,772946.5448,MERCIER AV,2928102.44,2013
+70779,130606882.0,Monday,No,2013-09-23T10:17:00.000,WEAPONS CHARGE,"[-71.090956, 42.333723]",Point,15xx,9,MEET  ,289,B2,Day,No,SCHROEDER PLAZA,Part Two,Unarmed,766765.8102,,2946902.542,2013
+191767,130609213.0,Monday,No,2013-09-23T07:45:00.000,WEAPONS CHARGE,"[-71.145297, 42.349864]",Point,15xx,9,IVPER ,784,D14,Day,No,WARREN ST,Part Two,Other,752048.4758,,2952718.7569999998,2013
+197963,130608751.0,Monday,No,2013-09-23T02:30:00.000,WEAPONS CHARGE,"[-71.01643, 42.383681]",Point,15xx,9,ARREST,14,A7,Last,No,BYRON ST,Part Two,Knife,786813.3236,,2965213.584,2013

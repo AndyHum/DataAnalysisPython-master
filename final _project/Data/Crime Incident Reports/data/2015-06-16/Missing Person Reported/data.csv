@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35449,,Tuesday,No,2015-06-16T19:20:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,6,IVPER,30,A7,,No,SUMNER ST,Part Three,None,,,,2015
+56433,,Tuesday,No,2015-06-16T00:00:00.000,Missing Person Reported,"[-71.119155, 42.271625]",Point,PersMiss,6,IVPER,498,E18,,No,CLARE AVE,Part Three,None,759242.0,,2920000.0,2015
+214028,,Tuesday,No,2015-06-16T00:00:00.000,Missing Person Reported,"[-71.066503, 42.34413]",Point,PersMiss,6,IVPER,163,D4,,No,E BERKELEY ST,Part Three,None,773358.0,,2950000.0,2015
+244498,,Tuesday,No,2015-06-16T19:20:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,6,I00027,281,B2,,No,GREENVILLE ST,Part Three,None,,,,2015

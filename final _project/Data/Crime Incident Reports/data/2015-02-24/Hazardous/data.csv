@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+144581,152014837.0,Tuesday,No,2015-02-24T10:00:00.000,Hazardous,"[-71.083115, 42.348516]",Point,Hazardous,2,AOD,0,D4,Day,No,BOYLSTON ST,Other,Unarmed,768859.7706,,2952303.642,2015
+190607,152014984.0,Tuesday,No,2015-02-24T16:30:00.000,Hazardous,"[-71.130805, 42.255226]",Point,Hazardous,2,INVEST,0,E18,First,No,CLEVELAND ST,Other,Unarmed,756115.3775,,2918247.834,2015
+232144,152014815.0,Tuesday,No,2015-02-24T08:00:00.000,Hazardous,"[-71.07879, 42.338343]",Point,Hazardous,2,REQP,0,D4,Day,No,MASSACHUSETTS AV,Other,Unarmed,770047.1337,,2948601.985,2015

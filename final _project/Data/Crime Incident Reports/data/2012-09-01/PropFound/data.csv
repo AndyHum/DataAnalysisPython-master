@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52268,120665586.0,Saturday,No,2012-09-01T12:00:00.000,PropFound,"[-71.12988, 42.349021]",Point,PropFound,9,LSTPRP,793,D14,Day,No,HARVARD AV,Part Three,Unarmed,756217.475,,2952429.354,2012
+75152,120547028.0,Saturday,No,2012-09-01T19:00:00.000,PropFound,"[-71.122726, 42.289178]",Point,PropFound,9,FDPROP,563,E5,First,No,STELLMAN RD,Part Three,Unarmed,758247.5523,,2930629.9280000003,2012
+143847,120545508.0,Saturday,No,2012-09-01T08:30:00.000,PropFound,"[-71.07293, 42.333901]",Point,PropFound,9,FDPROP,97,D4,Day,No,ALBANY ST,Part Three,Unarmed,771639.6374,,2946991.29,2012
+173993,120545954.0,Saturday,No,2012-09-01T13:00:00.000,PropFound,"[-71.088916, 42.342401]",Point,PropFound,9,LARCRT,618,D4,Day,No,GAINSBOROUGH ST,Part Three,Unarmed,767302.2579999999,,2950067.662,2012
+191418,120545060.0,Saturday,No,2012-09-01T00:58:00.000,PropFound,"[-71.103995, 42.333881]",Point,PropFound,9,FDPROP,602,B2,Last,No,TREMONT ST,Part Three,Unarmed,763240.2622,,2946943.477,2012
+194774,120546007.0,Saturday,No,2012-09-01T12:00:00.000,PropFound,"[-71.114485, 42.311256]",Point,PropFound,9,FDPROP,303,E13,Day,No,CENTRE ST,Part Three,Unarmed,760441.2169,,2938685.534,2012
+196510,120545320.0,Saturday,No,2012-09-01T03:42:00.000,PropFound,"[-71.05937, 42.352471]",Point,PropFound,9,FDPROP,116,A1,Last,No,ESSEX ST,Part Three,Unarmed,775271.0513,KINGSTON ST,2953777.182,2012
+208681,120546201.0,Saturday,No,2012-09-01T10:00:00.000,PropFound,"[-71.08657, 42.341481]",Point,PropFound,9,FDPROP,619,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,767938.2433,GAINSBOROUGH ST,2949735.409,2012

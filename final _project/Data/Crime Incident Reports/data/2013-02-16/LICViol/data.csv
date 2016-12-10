@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69580,130099271.0,Saturday,No,2013-02-16T21:30:00.000,LICViol,"[-71.07163, 42.350686]",Point,LICViol,2,CD35  ,0,D4,First,No,ST JAMES AV,Part Three,Unarmed,771960.4134,,2953109.815,2013
+138453,130097746.0,Saturday,No,2013-02-16T02:05:00.000,LICViol,"[-71.062495, 42.356936]",Point,LICViol,2,IVPREM,102,A1,Last,No,PARK ST,Part Three,Unarmed,774418.0128,,2955399.966,2013
+256944,130099345.0,Saturday,No,2013-02-16T22:10:00.000,LICViol,"[-71.07486, 42.346136]",Point,LICViol,2,CD35  ,149,D4,First,No,COLUMBUS AV,Part Three,Unarmed,771095.5781,,2951447.3389999997,2013

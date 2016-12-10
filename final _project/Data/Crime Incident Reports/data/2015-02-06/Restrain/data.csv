@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47579,152009855.0,Friday,No,2015-02-06T12:29:00.000,Restrain,"[-71.05105, 42.288421]",Point,Restrain,2,VIORDR,0,C11,Day,No,NEWHALL ST,Part Two,Unarmed,777642.817,,2930448.0560000003,2015
+177885,152009868.0,Friday,No,2015-02-06T13:09:00.000,Restrain,"[-71.055055, 42.336376]",Point,Restrain,2,IVPER,0,C6,Day,No,BAXTER ST,Part Two,Unarmed,776468.0024,,2947917.9289999995,2015
+266293,152009939.0,Friday,No,2015-02-06T17:39:00.000,Restrain,"[0, 0]",Point,Restrain,2,VIORDR,0,E5,First,No,FAWNDALE RD,Part Two,Unarmed,,,,2015

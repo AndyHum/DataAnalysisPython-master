@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1037,152017336.0,Wednesday,No,2015-03-04T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+4669,152017483.0,Wednesday,No,2015-03-04T13:15:00.000,InvProp,"[-71.10296, 42.262681]",Point,InvProp,3,ALARM,0,E18,Day,No,OSCEOLA ST,Part three,Other,763640.8837,,2920998.389,2015
+61331,152017543.0,Wednesday,No,2015-03-04T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,3,CD9,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+82980,152017649.0,Wednesday,No,2015-03-04T22:00:00.000,InvProp,"[-71.05704, 42.313676]",Point,InvProp,3,ROBBER,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775974.2748,,2939642.878,2015
+87698,152017562.0,Wednesday,No,2015-03-04T08:45:00.000,InvProp,"[-71.108885, 42.286326]",Point,InvProp,3,BE,0,E18,Day,No,AMERICAN LEGION HY,Part three,Other,761997.5566,,2929607.546,2015
+101934,152017537.0,Wednesday,No,2015-03-04T13:00:00.000,InvProp,"[-71.07243, 42.349951]",Point,InvProp,3,IVPER,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,771745.5102,,2952840.88,2015
+133471,152017331.0,Wednesday,No,2015-03-04T00:03:00.000,InvProp,"[-71.12246, 42.257711]",Point,InvProp,3,ALARM,0,E18,Last,No,HARVARD AV,Part three,Unarmed,758370.5147,,2919163.289,2015
+156129,152017513.0,Wednesday,No,2015-03-04T14:55:00.000,InvProp,"[-71.069575, 42.305421]",Point,InvProp,3,ALARM,0,C11,Day,No,OLNEY ST,Part three,Unarmed,772599.1411,,2936617.269,2015
+221610,152017442.0,Wednesday,No,2015-03-04T11:55:00.000,InvProp,"[-71.108885, 42.286326]",Point,InvProp,3,IVPER,0,E18,Day,No,AMERICAN LEGION HY,Part three,Unarmed,761997.5566,,2929607.546,2015

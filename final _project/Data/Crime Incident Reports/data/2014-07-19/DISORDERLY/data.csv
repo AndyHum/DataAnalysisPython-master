@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20279,142010565.0,Saturday,No,2014-07-19T00:15:00.000,DISORDERLY,"[-71.06521, 42.349691]",Point,24xx,7,ARREST,0,A1,Last,No,TREMONT ST,Part Two,Unarmed,773697.6517,,2952755.997,2014
+162637,142010567.0,Saturday,No,2014-07-19T00:10:00.000,DISORDERLY,"[-71.056374, 42.350817]",Point,24xx,7,ARREST,0,A1,Last,No,ATLANTIC AV,Part Two,Unarmed,776084.0039,,2953178.441,2014
+187077,142010823.0,Saturday,No,2014-07-19T20:30:00.000,DISORDERLY,"[-71.06279, 42.351551]",Point,24xx,7,ARREST,0,A1,First,No,WASHINGTON AV,Part Two,Unarmed,774348.337,BEACH ST,2953437.16,2014

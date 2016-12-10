@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113051,140377082.0,Saturday,No,2014-06-14T15:14:00.000,PropFound,"[-71.06286, 42.355591]",Point,PropFound,6,FDPROP,111,A1,Day,No,TEMPLE ST,Part three,Other,774321.8701,TREMONT ST,2954909.315,2014
+177004,140377609.0,Saturday,No,2014-06-14T18:00:00.000,PropFound,"[-71.07738, 42.350061]",Point,PropFound,6,INVEST,130,D4,First,No,BOYLSTON ST,Part three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2014
+227519,140376056.0,Saturday,No,2014-06-14T02:00:00.000,PropFound,"[-71.06942, 42.356141]",Point,PropFound,6,FIGHT ,69,A1,Last,No,BEACON ST,Part three,Unarmed,772547.7636,CHARLES ST,2955100.727,2014

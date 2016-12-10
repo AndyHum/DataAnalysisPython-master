@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9798,120756951.0,Monday,No,2012-12-03T09:30:00.000,DISORDERLY,"[-71.06281, 42.351461]",Point,24xx,12,ARREST,117,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774343.0987,LAGRANGE ST,2953404.334,2012
+148337,120757075.0,Monday,No,2012-12-03T09:15:00.000,DISORDERLY,"[-71.124361, 42.28369]",Point,24xx,12,TRANSP,558,E5,Day,No,CUMMINS HY,Part Two,Other,757814.1441,,2928627.903,2012
+229419,120758321.0,Monday,No,2012-12-03T19:09:00.000,DISORDERLY,"[-71.0853, 42.309401]",Point,24xx,12,SSTOP ,320,B2,First,No,CHENEY ST,Part Two,Knife,768338.4254,MAPLE ST,2938046.5710000005,2012
+257146,120758659.0,Monday,No,2012-12-03T22:12:00.000,DISORDERLY,"[-71.10549, 42.309846]",Point,24xx,12,ABIP  ,573,E13,First,No,GREEN ST,Part Two,Unarmed,762876.5513,,2938182.8310000002,2012

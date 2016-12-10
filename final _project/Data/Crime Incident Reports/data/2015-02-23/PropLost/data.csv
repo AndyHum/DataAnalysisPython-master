@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122191,152014827.0,Monday,No,2015-02-23T13:00:00.000,PropLost,"[-71.060674, 42.360562]",Point,PropLost,2,PROP,0,A1,Day,No,CENTER PZ,Part three,Unarmed,774903.4055,,2956723.5960000004,2015
+165087,152014588.0,Monday,No,2015-02-23T11:59:00.000,PropLost,"[-71.065265, 42.317081]",Point,PropLost,2,LARCEN,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,773743.3527,,2940872.269,2015
+260599,152015904.0,Monday,No,2015-02-23T08:30:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,C6,Day,No,CONGRESS ST,Part three,Unarmed,,FARNSWORTH ST,,2015
+261340,152015023.0,Monday,No,2015-02-23T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,E13,Day,No,RUGGLES ST,Part three,Unarmed,,,,2015
+264411,152014899.0,Monday,No,2015-02-23T09:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,B2,Day,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Unarmed,,,,2015
+265600,152014838.0,Monday,No,2015-02-23T17:40:00.000,PropLost,"[0, 0]",Point,PropLost,2,LARCEN,0,C6,First,No,DORCHESTER AV,Part three,Unarmed,,,,2015

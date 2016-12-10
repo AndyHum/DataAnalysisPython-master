@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80877,130322388.0,Saturday,No,2013-05-25T22:00:00.000,PersLoc,"[-71.116952, 42.249916]",Point,PersLoc,5,MISPER,516,E18,First,No,POND ST,Part Three,Unarmed,759874.0806,,2916329.075,2013
+110065,130314113.0,Saturday,No,2013-05-25T10:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,5,MISPER,446,B3,Day,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+199437,130315210.0,Saturday,No,2013-05-25T16:30:00.000,PersLoc,"[-71.07285, 42.314366]",Point,PersLoc,5,MISPER,327,B2,First,No,HARTFORD CT,Other,Unarmed,771696.9191,,2939872.515,2013
+255820,130313543.0,Saturday,No,2013-05-25T08:30:00.000,PersLoc,"[-71.074385, 42.335516]",Point,PersLoc,5,MISPER,171,D4,Day,No,HARRISON AV,Other,Unarmed,771243.2964,,2947577.858,2013
+257680,130315342.0,Saturday,No,2013-05-25T10:00:00.000,PersLoc,"[-71.050305, 42.330781]",Point,PersLoc,5,MSNCOM,915,C6,Day,No,BURKE ST,Part Three,Unarmed,777763.0109999999,,2945885.749,2013

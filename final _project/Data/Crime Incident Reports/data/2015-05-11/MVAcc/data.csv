@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1012,152038589.0,Monday,No,2015-05-11T15:48:00.000,MVAcc,"[0, 0]",Point,MVAcc,5,MVA,0,E5,Day,No,WRP,Other,Unarmed,,BELGRADE AV,,2015
+19704,152038599.0,Monday,No,2015-05-11T16:57:00.000,MVAcc,"[-71.115583, 42.281506]",Point,MVAcc,5,MVA,0,E18,First,No,AMERICAN LEGION HY,Other,Other,760192.8732,,2927842.6380000003,2015
+52940,152038685.0,Monday,No,2015-05-11T21:21:00.000,MVAcc,"[-71.100324, 42.275593]",Point,MVAcc,5,MVA,0,B3,First,No,ITASCA ST,Other,Unarmed,764332.3102,,2925706.975,2015
+128954,152038580.0,Monday,No,2015-05-11T15:40:00.000,MVAcc,"[-71.077395, 42.344376]",Point,MVAcc,5,MVA,0,D4,Day,No,HOLYOKE ST,Other,Unarmed,770413.4716,COLUMBUS AV,2950802.557,2015
+198174,152038601.0,Monday,No,2015-05-11T16:40:00.000,MVAcc,"[-71.131445, 42.252806]",Point,MVAcc,5,MVA,0,E18,First,No,RESERVATION RD,Other,Unarmed,755945.9277,,2917365.2060000002,2015
+212720,152038619.0,Monday,No,2015-05-11T17:00:00.000,MVAcc,"[-71.06022, 42.363071]",Point,MVAcc,5,MVA,0,A1,First,No,MERRIMAC ST,Other,Unarmed,775021.3784,NEW CHARDON ST,2957638.841,2015

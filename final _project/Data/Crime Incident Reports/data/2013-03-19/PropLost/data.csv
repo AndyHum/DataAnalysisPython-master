@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31462,130163237.0,Tuesday,No,2013-03-19T22:55:00.000,PropLost,"[-71.091075, 42.285061]",Point,PropLost,3,LSTPRP,430,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766818.8895,,2929169.163,2013
+142442,130163620.0,Tuesday,No,2013-03-19T19:00:00.000,PropLost,"[-71.11166, 42.261481]",Point,PropLost,3,LSTPRP,406,E18,First,No,RIVER ST,Part Three,Unarmed,761287.9032,REDDY AV,2920550.251,2013
+174659,130163952.0,Tuesday,No,2013-03-19T09:00:00.000,PropLost,"[-71.068155, 42.342031]",Point,PropLost,3,LSTPRP,164,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,772915.7097,,2949960.5069999998,2013
+246254,130163167.0,Tuesday,No,2013-03-19T21:30:00.000,PropLost,"[-71.093219, 42.311324]",Point,PropLost,3,LSTPRP,316,B2,First,No,SEAVER ST,Part Three,Unarmed,766193.1083,,2938736.974,2013

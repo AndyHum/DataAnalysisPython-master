@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+531,152013545.0,Thursday,No,2015-02-19T19:15:00.000,Arrest,"[0, 0]",Point,Arrest,2,ARREST,0,B3,First,No,LINVALE TR,Part three,Unarmed,,,,2015
+7071,152013341.0,Thursday,No,2015-02-19T08:03:00.000,Arrest,"[-71.087155, 42.272035]",Point,Arrest,2,SS,0,B3,Day,No,GLADESIDE AV,Part three,Unarmed,767902.3624,,2924427.3680000002,2015
+64204,152013361.0,Thursday,No,2015-02-19T09:15:00.000,Arrest,"[-71.062055, 42.306561]",Point,Arrest,2,IVPER,0,C11,Day,No,ADAMS ST,Part three,Unarmed,774631.1918,,2937043.057,2015
+260865,152013322.0,Thursday,No,2015-02-19T02:31:00.000,Arrest,"[0, 0]",Point,Arrest,2,ARREST,0,B2,Last,No,SHAWMUT AV,Part three,Unarmed,,RUGGLES ST,,2015

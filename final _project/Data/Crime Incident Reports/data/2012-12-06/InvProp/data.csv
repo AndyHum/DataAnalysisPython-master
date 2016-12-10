@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5521,120763616.0,Thursday,No,2012-12-06T00:35:00.000,InvProp,"[-71.07834, 42.295811]",Point,InvProp,12,IVPER ,446,B3,Last,No,ATHELWOLD ST,Part Three,Unarmed,770245.493,NORWELL ST,2933103.396,2012
+123339,120765109.0,Thursday,No,2012-12-06T17:30:00.000,InvProp,"[-71.066905, 42.379951]",Point,InvProp,12,PDRPT ,54,A15,First,No,RUSSELL ST,Part Three,Other,773183.4775,,2963781.0160000003,2012
+135170,120765712.0,Thursday,No,2012-12-06T22:28:00.000,InvProp,"[-71.078657, 42.301454]",Point,InvProp,12,SHOTS ,455,B3,First,No,NORWELL ST,Part Three,Unarmed,770149.4675,,2935159.311,2012
+230658,120769255.0,Thursday,No,2012-12-06T08:00:00.000,InvProp,"[-71.14539, 42.282861]",Point,InvProp,12,MISCRP,686,E5,Day,No,NEW PARK AV,Part Three,Other,752125.0774,,2928301.668,2012

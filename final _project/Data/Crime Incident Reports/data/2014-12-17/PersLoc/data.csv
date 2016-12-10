@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17601,142058409.0,Wednesday,No,2014-12-17T18:05:00.000,PersLoc,"[-71.082431, 42.305072]",Point,PersLoc,12,IVPER,0,B2,First,No,PASADENA RD,Other,Unarmed,769121.9528,,2936472.6789999995,2014
+177147,142058486.0,Wednesday,No,2014-12-17T21:50:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,12,IVPER,0,B3,First,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2014
+195071,142058586.0,Wednesday,No,2014-12-17T07:00:00.000,PersLoc,"[-71.112634, 42.316692]",Point,PersLoc,12,IVPER,0,E13,Last,No,ROBINWOOD AV,Other,Unarmed,760932.8212,,2940668.6760000004,2014

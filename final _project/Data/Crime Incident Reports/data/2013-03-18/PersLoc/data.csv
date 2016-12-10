@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59152,130161031.0,Monday,No,2013-03-18T20:30:00.000,PersLoc,"[-71.03118, 42.376406]",Point,PersLoc,3,MISPER,20,A7,First,No,CHELSEA ST,Part Three,Unarmed,782842.9146,,2962540.1780000003,2013
+170470,130160419.0,Monday,No,2013-03-18T15:00:00.000,PersLoc,"[-71.073461, 42.302702]",Point,PersLoc,3,MISPER,462,C11,Day,No,ROSSETER ST,Part Three,Unarmed,771552.865,,2935621.039,2013
+230491,130161585.0,Monday,No,2013-03-18T20:30:00.000,PersLoc,"[-71.122726, 42.289178]",Point,PersLoc,3,MISPER,563,E5,First,No,STELLMAN RD,Part Three,Unarmed,758247.5523,,2930629.9280000003,2013

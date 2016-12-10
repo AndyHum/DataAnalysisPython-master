@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10097,130610598.0,Tuesday,No,2013-09-24T06:30:00.000,PersLoc,"[-71.060271, 42.307553]",Point,PersLoc,9,MISPER,355,C11,Last,No,EAST ST,Other,Unarmed,775111.7335,,2937407.012,2013
+26960,130612581.0,Tuesday,No,2013-09-24T05:30:00.000,PersLoc,"[-71.070905, 42.302511]",Point,PersLoc,9,MISPER,343,C11,Last,No,HOMES AV,Other,Unarmed,772244.7064,,2935555.008,2013
+54258,130625427.0,Tuesday,No,2013-09-24T10:30:00.000,PersLoc,"[-71.076399, 42.333996]",Point,PersLoc,9,MISPER,271,D4,Day,No,HARRISON AV,Other,Unarmed,770701.3598,,2947021.0810000002,2013
+112487,130610251.0,Tuesday,No,2013-09-24T16:00:00.000,PersLoc,"[-71.054605, 42.311351]",Point,PersLoc,9,MISPER,254,C11,First,No,MIDLAND ST,Other,Unarmed,776637.2869,,2938799.041,2013
+138402,130609496.0,Tuesday,No,2013-09-24T17:35:00.000,PersLoc,"[-71.083481, 42.319361]",Point,PersLoc,9,MSNCOM,309,B2,First,No,CHARLAME ST,Other,Unarmed,768812.7048,,2941678.445,2013
+157077,130609557.0,Tuesday,No,2013-09-24T15:00:00.000,PersLoc,"[-71.05743, 42.300921]",Point,PersLoc,9,MISPER,351,C11,Day,No,DICKENS ST,Other,Unarmed,775892.9091,,2934994.215,2013
+163330,130610364.0,Tuesday,No,2013-09-24T18:54:00.000,PersLoc,"[-71.079334, 42.308682]",Point,PersLoc,9,MSNCOM,329,B2,First,No,STANWOOD ST,Other,Other,769953.2615,,2937792.376,2013

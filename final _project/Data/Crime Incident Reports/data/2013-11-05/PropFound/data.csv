@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2011,130703961.0,Tuesday,No,2013-11-05T08:17:00.000,PropFound,"[-71.074805, 42.352956]",Point,PropFound,11,FDPROP,132,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,771098.0565,,2953932.752,2013
+58852,130705153.0,Tuesday,No,2013-11-05T17:00:00.000,PropFound,"[-71.075175, 42.344101]",Point,PropFound,11,FDPROP,153,D4,First,No,WARREN AV,Part three,Unarmed,771014.1177,,2950705.3239999996,2013
+59651,130705316.0,Tuesday,No,2013-11-05T18:33:00.000,PropFound,"[-71.079641, 42.319008]",Point,PropFound,11,IVPREM,311,B2,First,No,WOODBINE ST,Part three,Unarmed,769851.8126,,2941554.837,2013
+134293,130705448.0,Tuesday,No,2013-11-05T16:30:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,11,FDPROP,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2013
+138668,130703976.0,Tuesday,No,2013-11-05T08:00:00.000,PropFound,"[-71.100115, 42.341996]",Point,PropFound,11,FDPROP,626,D4,Day,No,QUEENSBERRY ST,Part three,Unarmed,764275.4786,,2949905.628,2013
+179159,130704922.0,Tuesday,No,2013-11-05T16:11:00.000,PropFound,"[-71.106223, 42.316416]",Point,PropFound,11,SUSPER,636,E13,First,No,HUBBARD ST,Part three,Unarmed,762667.1941,,2940575.858,2013

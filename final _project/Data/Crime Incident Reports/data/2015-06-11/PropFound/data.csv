@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2894,152048358.0,Thursday,No,2015-06-11T12:20:00.000,PropFound,"[0, 0]",Point,PropFound,6,IVPREM,0,C11,Day,No,HUTCHINSON ST,Part three,Unarmed,,,,2015
+56849,152048389.0,Thursday,No,2015-06-11T13:09:00.000,PropFound,"[-71.14427, 42.284631]",Point,PropFound,6,SUSOBJ,0,E5,Day,No,MONTVALE ST,Part three,Unarmed,752425.4649,,2928947.9469999997,2015
+101617,152048431.0,Thursday,No,2015-06-11T16:00:00.000,PropFound,"[-71.07332, 42.338551]",Point,PropFound,6,PROP,0,D4,First,No,E NEWTON ST,Part three,Unarmed,771525.7131,WASHINGTON ST,2948685.305,2015
+123020,152048571.0,Thursday,No,2015-06-11T23:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,6,PROP,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+169467,152048273.0,Thursday,No,2015-06-11T02:54:00.000,PropFound,"[-71.043855, 42.287976]",Point,PropFound,6,IVPREM,0,C11,Last,No,MORRISSEY BL,Part three,Unarmed,779590.4745,,2930296.2210000004,2015

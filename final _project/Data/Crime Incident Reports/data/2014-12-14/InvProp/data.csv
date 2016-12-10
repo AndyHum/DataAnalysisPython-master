@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76041,142057369.0,Sunday,No,2014-12-14T03:28:00.000,InvProp,"[-71.08565, 42.346201]",Point,InvProp,12,BE,0,D4,Last,No,BELVIDERE ST,Part three,Unarmed,768178.6096,,2951456.6739999996,2014
+157968,142057507.0,Sunday,No,2014-12-14T18:20:00.000,InvProp,"[-71.070005, 42.348241]",Point,InvProp,12,BE,0,A1,First,No,CORTES ST,Part three,Other,772404.1598,,2952221.02,2014
+239440,142057479.0,Sunday,No,2014-12-14T16:56:00.000,InvProp,"[-71.086275, 42.317906]",Point,InvProp,12,IVPER,0,B2,First,No,HUMBOLDT AV,Part three,Unarmed,768059.6676,,2941144.651,2014

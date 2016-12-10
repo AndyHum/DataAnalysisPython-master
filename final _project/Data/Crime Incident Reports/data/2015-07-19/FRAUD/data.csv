@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17363,,Sunday,No,2015-07-19T00:00:00.000,Fraud,"[-71.078538, 42.337012]",Point,11xx,7,IVPER,273,D4,,No,SHAWMUT AVE,Part Two,None,770118.0,,2950000.0,2015
+55797,,Sunday,No,2015-07-19T00:00:00.000,Fraud,"[-71.072668, 42.353174]",Point,11xx,7,IVPER,133,D4,,No,COMMONWEALTH AVE,Part Two,None,771675.0,,2950000.0,2015
+216151,,Sunday,No,2015-07-19T20:00:00.000,Fraud,"[0, 0]",Point,11xx,7,IVPER,0,,,No,COLMER,Part Two,None,,,,2015

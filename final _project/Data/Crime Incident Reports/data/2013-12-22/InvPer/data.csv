@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5177,130804973.0,Sunday,No,2013-12-22T19:25:00.000,InvPer,"[-71.060845, 42.355056]",Point,InvPer,12,SHPLFT,112,A1,First,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2013
+45074,130805194.0,Sunday,No,2013-12-22T21:25:00.000,InvPer,"[-71.08738, 42.346641]",Point,InvPer,12,IVPER ,620,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767710.1637,HAVILAND ST,2951614.749,2013
+62747,130805940.0,Sunday,No,2013-12-22T20:00:00.000,InvPer,"[-71.09547, 42.337831]",Point,InvPer,12,VIORDR,616,D4,First,No,HUNTINGTON AV,Part three,Unarmed,765538.4416,,2948393.745,2013
+135113,130803705.0,Sunday,No,2013-12-22T02:10:00.000,InvPer,"[-71.063785, 42.302456]",Point,InvPer,12,SHOTS ,345,C11,Last,No,DRAPER ST,Part three,Firearm,774170.8801,,2935544.7339999997,2013
+226577,130804667.0,Sunday,No,2013-12-22T15:00:00.000,InvPer,"[-71.150915, 42.348981]",Point,InvPer,12,INVEST,778,D14,Day,No,WASHINGTON SQ,Part three,Unarmed,750531.3965,,2952390.805,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27533,130403848.0,Monday,No,2013-07-01T20:34:00.000,InvProp,"[-71.14452, 42.272331]",Point,InvProp,7,SHOTS ,705,E5,First,No,PHEASANT ST,Part three,Unarmed,752376.4934,WASHINGTON ST,2924465.36,2013
+41484,130403211.0,Monday,No,2013-07-01T16:09:00.000,InvProp,"[-71.078225, 42.325198]",Point,InvProp,7,SHOTS ,281,B2,First,No,FAIRLAND ST,Part three,Other,770223.47,,2943812.633,2013
+96270,130401996.0,Monday,No,2013-07-01T02:43:00.000,InvProp,"[-71.067732, 42.348428]",Point,InvProp,7,BEIP  ,126,A1,Last,No,CHURCH ST,Part three,Unarmed,773018.0261,,2952292.01,2013
+108214,130401983.0,Monday,No,2013-07-01T02:25:00.000,InvProp,"[-71.05895, 42.280011]",Point,InvProp,7,IVPREM,389,C11,Last,No,ADAMS ST,Part three,Unarmed,775521.1167,MILTON ST,2927372.186,2013
+176614,130405595.0,Monday,No,2013-07-01T05:24:00.000,InvProp,"[-71.130125, 42.287036]",Point,InvProp,7,IVPER ,680,E5,Last,No,BELGRADE AV,Part three,Other,756249.1984,,2929840.643,2013
+186956,130413076.0,Monday,No,2013-07-01T19:30:00.000,InvProp,"[-71.068405, 42.303741]",Point,InvProp,7,MEET  ,341,C11,First,No,TOPLIFF ST,Part three,Unarmed,772918.7277,,2936006.65,2013
+231654,130401910.0,Monday,No,2013-07-01T01:25:00.000,InvProp,"[-71.140134, 42.353928]",Point,InvProp,7,SHOTS ,804,D14,Last,No,N BEACON ST,Part three,Unarmed,753437.9524,,2954205.5930000003,2013

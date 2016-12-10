@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140711,120689549.0,Thursday,No,2012-11-01T17:05:00.000,PersMiss,"[-71.09567, 42.317406]",Point,PersMiss,11,MISPER,306,B2,First,No,COBDEN ST,Part Three,Unarmed,765519.6526,,2940950.2589999996,2012
+151883,120692113.0,Thursday,No,2012-11-01T12:00:00.000,PersMiss,"[-71.06163, 42.351416]",Point,PersMiss,11,MISPER,117,A1,Day,No,BEACH ST,Part Three,Unarmed,774662.1445,,2953389.5730000003,2012
+170165,120691636.0,Thursday,No,2012-11-01T11:40:00.000,PersMiss,"[-71.083646, 42.332502]",Point,PersMiss,11,MISPER,276,B2,Day,No,SHAWMUT AV,Part Three,Unarmed,768744.4995,,2946467.083,2012

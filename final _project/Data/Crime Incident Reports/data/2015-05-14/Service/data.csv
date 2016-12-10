@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1202,152039507.0,Thursday,No,2015-05-14T14:36:00.000,Service,"[0, 0]",Point,Service,5,AOD,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+74276,152039614.0,Thursday,No,2015-05-14T19:20:00.000,Service,"[-71.092561, 42.311882]",Point,Service,5,IVPER,0,B2,First,No,HUTCHINGS ST,Part three,Unarmed,766369.8625,,2938941.191,2015
+101673,152039484.0,Thursday,No,2015-05-14T13:09:00.000,Service,"[-71.079739, 42.329344]",Point,Service,5,IVPER,0,B2,Day,No,WHEATLEY WY,Part three,Unarmed,769806.7553,,2945321.255,2015
+156385,152039625.0,Thursday,No,2015-05-14T15:00:00.000,Service,"[-71.11297, 42.300811]",Point,Service,5,LARCEN,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,760868.2636,,2934881.061,2015
+156945,152039534.0,Thursday,No,2015-05-14T04:15:00.000,Service,"[-71.151584, 42.338387]",Point,Service,5,CD11,0,D14,Last,No,BRAEMORE RD,Part three,Unarmed,750366.095,,2948529.144,2015
+180340,152039547.0,Thursday,No,2015-05-14T16:30:00.000,Service,"[-71.06575, 42.361141]",Point,Service,5,ARREST,0,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,773530.4391,N ANDERSON ST,2956927.854,2015
+204082,152039418.0,Thursday,No,2015-05-14T09:15:00.000,Service,"[-71.06579, 42.314636]",Point,Service,5,FIGHT,0,C11,Day,No,HANCOCK ST,Part three,Unarmed,773605.9009,JEROME ST,2939980.548,2015
+215546,152039425.0,Thursday,No,2015-05-14T08:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,5,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015

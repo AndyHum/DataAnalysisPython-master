@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35431,,Saturday,No,2015-06-20T00:00:00.000,Property Found,"[-71.071866, 42.351571]",Point,PropFound,6,PROP,129,D4,,No,BOYLSTON ST,Part Three,None,771895.0,,2950000.0,2015
+40697,,Saturday,No,2015-06-20T00:00:00.000,Property Found,"[-71.069409, 42.339542]",Point,PropFound,6,PROP,165,D4,,No,HARRISON AVE,Part Three,None,772581.0,,2950000.0,2015
+107840,,Saturday,No,2015-06-20T02:45:00.000,Property Found,"[0, 0]",Point,PropFound,6,PROP,77,A1,,No,NEW SUDBURY ST,Part Three,None,,,,2015

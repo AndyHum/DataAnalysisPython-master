@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21283,,Saturday,No,2015-08-01T22:24:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,STAB,0,,,No,,Part One,Knife/Cutting Instrument,,MARSHFIELD ST,,2015
+99851,,Saturday,No,2015-08-01T00:00:00.000,Aggravated Assault,"[-71.069547, 42.362403]",Point,04xx,8,AB,64,A1,,No,FRUIT ST,Part One,None,772502.0,,2960000.0,2015
+178197,,Saturday,No,2015-08-01T18:05:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,PSHOT,314,B2,,Yes,HAROLD ST,Part One,Firearm,,WAUMBECK ST,,2015
+201583,,Saturday,No,2015-08-01T00:00:00.000,Aggravated Assault,"[-71.086344, 42.289658]",Point,04xx,8,AB,944,B3,,No,AMES WAY,Part One,Knife/Cutting Instrument,768091.0,,2930000.0,2015
+218690,,Saturday,No,2015-08-01T16:31:00.000,Aggravated Assault,"[0, 0]",Point,04xx,8,PERGUN,263,B2,,No,BLUE HILL AVE,Part One,Firearm,,DUDLEY ST,,2015

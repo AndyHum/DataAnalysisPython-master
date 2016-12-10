@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19030,142049208.0,Wednesday,No,2014-11-12T13:30:00.000,FORGERY,"[-71.080085, 42.346711]",Point,10xx,11,LARCEN,0,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769682.0757,,2951649.883,2014
+70578,142056542.0,Wednesday,No,2014-11-12T07:00:00.000,FORGERY,"[-71.131796, 42.352053]",Point,10xx,11,LARCEN,0,D14,Last,No,HARVARD AV,Part Two,Unarmed,755694.562,,2953532.085,2014
+188196,142048225.0,Wednesday,No,2014-11-12T12:34:00.000,FORGERY,"[-71.047162, 42.280687]",Point,10xx,11,LARCEN,0,C11,Day,No,HALLET ST,Part Two,Unarmed,778709.5751,,2927635.23,2014
+225744,142048201.0,Wednesday,No,2014-11-12T10:45:00.000,FORGERY,"[-71.10537, 42.308606]",Point,10xx,11,IVPER,0,E13,Day,No,WASHINGTON ST,Part Two,Unarmed,762911.0968,,2937731.106,2014

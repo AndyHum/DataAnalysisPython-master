@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30760,152007690.0,Thursday,No,2015-01-29T12:19:00.000,PersLoc,"[-71.100769, 42.325321]",Point,PersLoc,1,IVPER,0,E13,Day,No,PARKER ST,Other,Unarmed,764127.0458,,2943828.1319999998,2015
+163058,152007767.0,Thursday,No,2015-01-29T13:45:00.000,PersLoc,"[-71.05718, 42.342551]",Point,PersLoc,1,MISSIN,0,C6,Day,No,DORCHESTER AV,Other,Unarmed,775881.781,W BROADWAY,2950165.2169999997,2015
+217092,152007828.0,Thursday,No,2015-01-29T16:30:00.000,PersLoc,"[-71.056221, 42.287944]",Point,PersLoc,1,IVPER,0,C11,First,No,ASHMONT ST,Other,Unarmed,776244.3441,,2930266.922,2015

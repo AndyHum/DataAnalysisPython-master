@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11834,142036430.0,Sunday,No,2014-10-05T11:06:00.000,PersLoc,"[-71.049746, 42.294186]",Point,PersLoc,10,IVPER,0,C11,Day,No,WORRELL ST,Other,Unarmed,777984.5293,,2932550.6139999996,2014
+62097,142036242.0,Sunday,No,2014-10-05T12:30:00.000,PersLoc,"[-71.15251, 42.355526]",Point,PersLoc,10,MISSIN,0,D14,Day,No,FANEUIL ST,Other,Unarmed,750090.5224,,2954774.1769999997,2014
+143493,142036572.0,Sunday,No,2014-10-05T19:00:00.000,PersLoc,"[-71.059527, 42.319622]",Point,PersLoc,10,IVPER,0,C11,First,No,POND ST,Other,Unarmed,775290.3243,,2941806.0739999996,2014
+215812,142036213.0,Sunday,No,2014-10-05T16:18:00.000,PersLoc,"[-71.092377, 42.311075]",Point,PersLoc,10,IVPER,0,B2,First,No,PARK VIEW ST,Other,Unarmed,766421.0875,,2938647.2260000003,2014

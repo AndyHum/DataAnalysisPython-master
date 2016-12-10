@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1690,152018072.0,Thursday,No,2015-03-05T16:40:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,IVPER,0,C11,First,No,ADAMS ST,Other,Unarmed,,,,2015
+94815,152017953.0,Thursday,No,2015-03-05T20:54:00.000,PersLoc,"[-71.06577, 42.302076]",Point,PersLoc,3,IVPER,0,C11,First,No,RIDGEWOOD ST,Other,Unarmed,773634.6072,,2935403.522,2015
+161127,152017955.0,Thursday,No,2015-03-05T20:00:00.000,PersLoc,"[-71.097718, 42.321928]",Point,PersLoc,3,IVPER,0,B2,First,No,SLAYTON WY,Other,Unarmed,764957.8611,,2942595.539,2015
+266768,152017675.0,Thursday,No,2015-03-05T00:20:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,IVPER,0,C11,Last,No,CLARKSON ST,Other,Unarmed,,,,2015

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9566,,Monday,No,2015-07-13T00:00:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,7,,224,C6,,No,E THIRD ST,Part One,None,,P ST,,2015
+101246,,Monday,No,2015-07-13T00:00:00.000,Larceny From Motor Vehicle,"[-71.162172, 42.264626]",Point,06MV,7,,713,E5,,No,DANA RD,Part One,None,747610.0,,2920000.0,2015
+102918,,Monday,No,2015-07-13T21:00:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,7,BE,480,E18,,No,FAIRLAWN AVE,Part One,None,,,,2015
+110397,,Monday,No,2015-07-13T00:00:00.000,Larceny From Motor Vehicle,"[-71.071887, 42.293606]",Point,06MV,7,,359,C11,,No,WASHINGTON ST,Part One,None,771995.0,,2930000.0,2015
+127731,,Monday,No,2015-07-13T00:00:00.000,Larceny From Motor Vehicle,"[-71.068116, 42.350644]",Point,06MV,7,BE,118,A1,,No,STUART ST,Part One,None,772910.0,,2950000.0,2015
+169193,,Monday,No,2015-07-13T00:00:00.000,Larceny From Motor Vehicle,"[-71.099224, 42.314855]",Point,06MV,7,,572,E13,,No,WASHINGTON ST,Part One,None,764563.0,,2940000.0,2015
+193632,,Monday,No,2015-07-13T06:10:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,7,BE,120,D4,,No,ARLINGTON ST,Part One,None,,PROVIDENCE ST,,2015
+195284,,Monday,No,2015-07-13T00:00:00.000,Larceny From Motor Vehicle,"[-71.166434, 42.265121]",Point,06MV,7,BE,715,E5,,No,NEW HAVEN ST,Part One,None,746456.0,,2920000.0,2015
+222564,,Monday,No,2015-07-13T00:00:00.000,Larceny From Motor Vehicle,"[-71.05533, 42.339621]",Point,06MV,7,NIDV,936,C6,,No,B ST,Part One,None,776387.0,,2950000.0,2015
+247384,,Monday,No,2015-07-13T00:00:00.000,Larceny From Motor Vehicle,"[-71.085634, 42.328663]",Point,06MV,7,BE,282,B2,,No,WASHINGTON ST,Part One,None,768214.0,,2950000.0,2015

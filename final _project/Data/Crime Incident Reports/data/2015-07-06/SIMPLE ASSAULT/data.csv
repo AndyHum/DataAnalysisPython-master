@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33329,,Monday,No,2015-07-06T14:30:00.000,Simple Assault,"[0, 0]",Point,08xx,7,ARREST,105,A1,,No,SUMMER ST,Part Two,None,, WASHINGTON ST ,,2015
+132719,,Monday,No,2015-07-06T10:27:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,522,E18,,No,HYDE PARK AVE,Part Two,Other,,,,2015
+151907,,Monday,No,2015-07-06T11:19:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,0,,,No,,Part Two,Personal Weapon (hand  foot  etc.),,E NEWTON ST,,2015
+185649,,Monday,No,2015-07-06T00:00:00.000,Simple Assault,"[-71.06583, 42.317355]",Point,08xx,7,AB,239,B2,,No,DUDLEY ST,Part Two,None,773590.0,,2940000.0,2015
+186392,,Monday,No,2015-07-06T00:00:00.000,Simple Assault,"[-71.060687, 42.350901]",Point,08xx,7,IVPER,116,A1,,No,TYLER ST,Part Two,None,774918.0,,2950000.0,2015
+191375,,Monday,No,2015-07-06T00:00:00.000,Simple Assault,"[-71.088878, 42.279671]",Point,08xx,7,FIGHT,427,B3,,No,NORFOLK ST,Part Two,None,767423.0,,2930000.0,2015
+215476,,Monday,No,2015-07-06T19:00:00.000,Simple Assault,"[0, 0]",Point,08xx,7,IVPER,76,A1,,No,CANAL ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015

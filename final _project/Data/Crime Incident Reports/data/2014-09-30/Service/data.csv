@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41238,142034417.0,Tuesday,No,2014-09-30T02:00:00.000,Service,"[-71.078863, 42.337782]",Point,Service,9,SS,0,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,770028.267,,2948397.4260000004,2014
+45871,142034456.0,Tuesday,No,2014-09-30T09:00:00.000,Service,"[-71.09307, 42.284131]",Point,Service,9,CD11,0,B3,Day,No,DEERING RD,Part three,Unarmed,766280.6819,,2928827.6780000003,2014
+121264,142034689.0,Tuesday,No,2014-09-30T20:30:00.000,Service,"[-71.002455, 42.388567]",Point,Service,9,ARREST,0,A7,First,No,LEYDEN ST,Part three,Unarmed,790578.4562,,2967015.853,2014
+121917,142034617.0,Tuesday,No,2014-09-30T16:30:00.000,Service,"[-71.03887, 42.371246]",Point,Service,9,SS,0,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+221329,142037601.0,Tuesday,No,2014-09-30T06:50:00.000,Service,"[-71.16176, 42.355021]",Point,Service,9,IVPREM,0,D14,Last,No,HOBSON ST,Part three,Unarmed,747591.0658,,2954580.095,2014
+226313,142034405.0,Tuesday,No,2014-09-30T00:45:00.000,Service,"[-71.07807, 42.316881]",Point,Service,9,ARREST,0,B2,Last,No,BLUE HILL AV,Part three,Unarmed,770280.5576,DEWEY ST,2940781.994,2014
+233142,142034470.0,Tuesday,No,2014-09-30T10:30:00.000,Service,"[-71.059735, 42.297541]",Point,Service,9,INVEST,0,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12431,130022777.0,Friday,No,2013-01-11T18:26:00.000,FIRE,"[-71.164783, 42.264684]",Point,FIRE,1,FIREB ,715,E5,First,No,VOGEL ST,Part Three,Unarmed,746903.2256,,2921656.335,2013
+55666,130022705.0,Friday,No,2013-01-11T17:07:00.000,FIRE,"[-71.069225, 42.359496]",Point,FIRE,1,FIREB ,66,A1,First,No,REVERE ST,Part Three,Unarmed,772594.2953,,2956323.6210000003,2013
+84382,130022464.0,Friday,No,2013-01-11T15:04:00.000,FIRE,"[-71.13295, 42.353086]",Point,FIRE,1,REQPF ,794,D14,Day,No,BRIGHTON AV,Part Three,Other,755381.2244,,2953907.1360000004,2013
+238941,130022669.0,Friday,No,2013-01-11T16:50:00.000,FIRE,"[-71.103295, 42.263613]",Point,FIRE,1,FV    ,485,E18,First,No,RIVER ST,Part Three,Unarmed,763548.6087,,2921337.5739999996,2013

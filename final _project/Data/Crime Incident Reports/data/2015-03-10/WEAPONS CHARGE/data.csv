@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1217,152019222.0,Tuesday,No,2015-03-10T09:30:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,3,PROP,0,E13,Day,No,MCBRIDE ST,Part Two,Unarmed,,,,2015
+12297,152019346.0,Tuesday,No,2015-03-10T16:30:00.000,WEAPONS CHARGE,"[-71.034765, 42.381976]",Point,15xx,3,IVPREM,0,A7,First,No,FALCON ST,Part Two,Firearm,781863.1806,,2964564.6980000003,2015
+240564,152019412.0,Tuesday,No,2015-03-10T18:50:00.000,WEAPONS CHARGE,"[-71.079283, 42.310154]",Point,15xx,3,SS,0,B2,First,No,NORMANDY ST,Part Two,Firearm,769964.5597,,2938328.873,2015
+256526,152019491.0,Tuesday,No,2015-03-10T22:55:00.000,WEAPONS CHARGE,"[-71.081833, 42.302999]",Point,15xx,3,ARREST,0,B3,First,No,HEWINS ST,Part Two,Firearm,769287.5512,,2935718.12,2015

@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11799,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.141262, 42.358033]",Point,14xx,6,VAND,808,D14,,No,LINCOLN ST,Part Two,None,753127.0,,2960000.0,2015
+24203,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.077763, 42.319569]",Point,14xx,6,BE,265,B2,,No,BLUE HILL AVE,Part Two,None,770359.0,,2940000.0,2015
+50173,,Tuesday,No,2015-06-30T22:30:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,339,C11,,No,EAST ST,Part Two,None,,,,2015
+86043,,Tuesday,No,2015-06-30T05:23:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,0,,,No,,Part Two,None,,ATLANTIC AVE,,2015
+93710,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.070406, 42.280301]",Point,14xx,6,VAND,403,C11,,No,WASHINGTON ST,Part Two,None,772420.0,,2930000.0,2015
+125886,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.080631, 42.295413]",Point,14xx,6,BE,441,B3,,No,BERNARD ST,Part Two,None,769626.0,,2930000.0,2015
+126596,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.166998, 42.276742]",Point,14xx,6,VAND,727,E5,,No,BAKER ST,Part Two,None,746286.0,,2930000.0,2015
+158225,,Tuesday,No,2015-06-30T18:43:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,558,E5,,No,CORNAUBA ST,Part Two,None,,,,2015
+189202,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.058419, 42.326921]",Point,14xx,6,VAND,186,C6,,No,BOSTON ST,Part Two,None,775576.0,,2940000.0,2015
+189203,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.058419, 42.326921]",Point,14xx,6,VAND,186,C6,,No,BOSTON ST,Part Two,None,775576.0,,2940000.0,2015
+189204,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.058419, 42.326921]",Point,14xx,6,VAND,186,C6,,No,BOSTON ST,Part Two,None,775576.0,,2940000.0,2015
+218952,,Tuesday,No,2015-06-30T15:56:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,508,E13,,No,HYDE PARK AVE,Part Two,None,,,,2015
+225526,,Tuesday,No,2015-06-30T07:19:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,222,C6,,No,E SECOND ST,Part Two,None,,EMMET ST,,2015
+226447,,Tuesday,No,2015-06-30T08:05:00.000,Vandalism,"[0, 0]",Point,14xx,6,PROP,38,A15,,No,EIGHTH ST,Part Two,None,,FIRST AVE,,2015
+236114,,Tuesday,No,2015-06-30T04:00:00.000,Vandalism,"[0, 0]",Point,14xx,6,BE,230,C6,,No,E SIXTH ST,Part Two,None,,K ST,,2015
+246256,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.081299, 42.335968]",Point,14xx,6,VAND,903,D4,,No,TROTTER CT,Part Two,None,769373.0,,2950000.0,2015
+248217,,Tuesday,No,2015-06-30T00:00:00.000,Vandalism,"[-71.034286, 42.379685]",Point,14xx,6,VIORDR,824,A7,,No,TRENTON ST,Part Two,None,781997.0,,2960000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19430,130743020.0,Saturday,No,2013-11-23T10:40:00.000,CRIMES AGAINST CHILDREN,"[-71.07742, 42.335791]",Point,20xx,11,INVCHD,271,D4,Day,No,NORTHAMPTON ST,Part Two,Unarmed,770422.2127,,2947673.9930000002,2013
+103364,140031641.0,Saturday,No,2013-11-23T16:00:00.000,CRIMES AGAINST CHILDREN,"[-71.089268, 42.295385]",Point,20xx,11,IVPER ,908,B3,First,No,SHANDON RD,Part Two,Unarmed,767289.676,,2932933.422,2013
+234552,130742182.0,Saturday,No,2013-11-23T12:15:00.000,CRIMES AGAINST CHILDREN,"[-71.05698, 42.301971]",Point,20xx,11,CURFEW,350,C11,Day,No,LEONARD ST,Part Two,Unarmed,776012.6569,,2935377.482,2013

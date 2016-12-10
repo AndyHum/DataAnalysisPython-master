@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23170,130452404.0,Monday,No,2013-07-15T20:19:00.000,PhoneCalls,"[-71.066745, 42.303426]",Point,PhoneCalls,7,HARPT ,345,C11,First,No,HOMES AV,Part three,Unarmed,773368.3558,,2935894.139,2013
+124570,130437223.0,Monday,No,2013-07-15T08:30:00.000,PhoneCalls,"[-71.03722, 42.368996]",Point,PhoneCalls,7,INVEST,35,A7,Day,No,ORLEANS ST,Part three,Other,781225.5635,,2959830.913,2013
+246233,130438135.0,Monday,No,2013-07-15T18:45:00.000,PhoneCalls,"[-71.057895, 42.353006]",Point,PhoneCalls,7,INVEST,113,A1,First,No,LINCOLN ST,Part three,Unarmed,775668.7366,,2953974.209,2013

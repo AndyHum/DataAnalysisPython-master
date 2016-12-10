@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58357,130050644.0,Thursday,No,2013-01-24T07:00:00.000,PersLoc,"[-71.058035, 42.316506]",Point,PersLoc,1,MISPER,244,C11,Last,No,MAYFIELD ST,Part Three,Unarmed,775699.8166,,2940672.7819999997,2013
+114544,130051311.0,Thursday,No,2013-01-24T12:30:00.000,PersLoc,"[-71.092113, 42.271941]",Point,PersLoc,1,MISPER,465,B3,Day,No,BABSON ST,Part Three,Unarmed,766560.827,,2924386.613,2013
+154676,130050348.0,Thursday,No,2013-01-24T14:00:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,1,MISPER,281,B2,Day,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013
+222649,130048414.0,Thursday,No,2013-01-24T04:47:00.000,PersLoc,"[-71.064897, 42.282112]",Point,PersLoc,1,MSNCOM,395,C11,Last,No,VAN WINKLE ST,Part Three,Unarmed,773907.8639,,2928129.422,2013

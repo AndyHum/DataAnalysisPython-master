@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10450,152008169.0,Saturday,No,2015-01-31T00:29:00.000,PhoneCalls,"[-71.089535, 42.329491]",Point,PhoneCalls,1,IVPER,0,B2,Last,No,DUDLEY ST,Part three,Other,767157.6844,,2945362.165,2015
+101638,152008369.0,Saturday,No,2015-01-31T21:06:00.000,PhoneCalls,"[-71.118926, 42.280846]",Point,PhoneCalls,1,IVPER,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,759289.3239,,2927598.193,2015
+159661,152008317.0,Saturday,No,2015-01-31T15:02:00.000,PhoneCalls,"[-71.083053, 42.310205]",Point,PhoneCalls,1,IVPER,0,B2,Day,No,WARREN ST,Part three,Unarmed,768944.7816,,2938342.497,2015

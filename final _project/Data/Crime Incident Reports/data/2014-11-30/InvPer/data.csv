@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+789,152036647.0,Sunday,No,2014-11-30T14:45:00.000,InvPer,"[0, 0]",Point,InvPer,11,IVPER,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2014
+8000,142053501.0,Sunday,No,2014-11-30T22:00:00.000,InvPer,"[-71.056955, 42.366067]",Point,InvPer,11,DISTRB,0,A1,First,No,PRINCE ST,Part three,Unarmed,775897.9111,,2958735.017,2014
+22432,142053342.0,Sunday,No,2014-11-30T10:30:00.000,InvPer,"[-71.059987, 42.361648]",Point,InvPer,11,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+114635,142056333.0,Sunday,No,2014-11-30T00:00:00.000,InvPer,"[-71.08257, 42.348656]",Point,InvPer,11,LARCEN,0,D4,Last,No,BOYLSTON ST,Part three,Other,769006.8448,,2952355.38,2014

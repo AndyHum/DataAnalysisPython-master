@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91338,120675232.0,Monday,No,2012-10-15T23:45:00.000,PhoneCalls,"[-71.089535, 42.329491]",Point,PhoneCalls,10,HARPT ,292,B2,First,No,DUDLEY ST,Part Three,Unarmed,767157.6844,,2945362.165,2012
+148277,120650453.0,Monday,No,2012-10-15T21:18:00.000,PhoneCalls,"[-71.062875, 42.360186]",Point,PhoneCalls,10,HARPT ,68,A1,First,No,BOWDOIN ST,Part Three,Unarmed,774309.2348,DERNE ST,2956583.8019999997,2012
+149750,120648508.0,Monday,No,2012-10-15T06:09:00.000,PhoneCalls,"[-71.051205, 42.365951]",Point,PhoneCalls,10,THREAT,83,A1,Last,No,COMMERCIAL ST,Part Two,Other,777452.22,,2958701.06,2012
+182365,120695935.0,Monday,No,2012-10-15T17:00:00.000,PhoneCalls,"[-71.106325, 42.319675]",Point,PhoneCalls,10,HARPT ,578,E13,First,No,SHERIDAN ST,Part Three,Unarmed,762633.995,,2941763.5560000003,2012

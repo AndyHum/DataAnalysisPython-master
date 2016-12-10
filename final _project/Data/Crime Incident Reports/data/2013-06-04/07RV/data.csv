@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108179,130338900.0,Tuesday,No,2013-06-04T23:03:00.000,07RV,"[-71.075911, 42.288455]",Point,07RV,6,MVA   ,437,B3,First,No,NORFOLK ST,Other,Unarmed,770915.798,,2930425.727,2013
+157112,130338249.0,Tuesday,No,2013-06-04T18:17:00.000,07RV,"[-71.071555, 42.272931]",Point,07RV,6,IVPER ,407,B3,First,No,OLD MORTON ST,Other,Unarmed,772123.0179999999,RIVER ST,2924774.7539999997,2013
+192660,130336584.0,Tuesday,No,2013-06-04T02:04:00.000,07RV,"[-71.080967, 42.305758]",Point,07RV,6,STOLMV,0,B2,Last,No,WASHINGTON ST,Other,Other,769516.8457,,2936724.604,2013

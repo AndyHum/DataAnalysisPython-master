@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29501,,Thursday,No,2015-08-06T00:00:00.000,Property Found,"[-71.134629, 42.356197]",Point,PropFound,8,PROP,803,D14,,No,BRAINTREE ST,Part Three,None,754922.0,,2960000.0,2015
+93079,,Thursday,No,2015-08-06T00:00:00.000,Property Found,"[-71.054679, 42.341288]",Point,PropFound,8,PROP,200,C6,,No,W BROADWAY,Part Three,None,776560.0,,2950000.0,2015
+113679,,Thursday,No,2015-08-06T07:40:00.000,Property Found,"[0, 0]",Point,PropFound,8,FDWEAP,465,B3,,No,BLUE HILL AVE,Part Three,None,,HAVELOCK ST,,2015
+115935,,Thursday,No,2015-08-06T00:00:00.000,Property Found,"[-71.091878, 42.333679]",Point,PropFound,8,PROP,289,B2,,No,SCHROEDER PLZ,Part Three,None,766517.0,,2950000.0,2015
+191381,,Thursday,No,2015-08-06T00:00:00.000,Property Found,"[-71.039707, 42.369171]",Point,PropFound,8,PROP,27,A7,,No,MAVERICK SQ,Part Three,None,780553.0,,2960000.0,2015
+194287,,Thursday,No,2015-08-06T20:58:00.000,Property Found,"[0, 0]",Point,PropFound,8,IVPREM,572,E13,,No,ATHERTON ST,Part Three,None,, WASHINGTON ST ,,2015
+234970,,Thursday,No,2015-08-06T00:00:00.000,Property Found,"[-71.077141, 42.316767]",Point,PropFound,8,IVPREM,325,B2,,No,DEWEY ST,Part Three,None,770532.0,,2940000.0,2015

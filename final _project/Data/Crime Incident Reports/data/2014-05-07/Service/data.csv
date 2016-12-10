@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15574,140280548.0,Wednesday,No,2014-05-07T15:11:00.000,Service,"[-71.120098, 42.288432]",Point,Service,5,LOCK  ,563,E5,Day,No,HARRISON ST,Part three,Unarmed,758959.8386,,2930361.1969999997,2014
+32115,140280248.0,Wednesday,No,2014-05-07T13:24:00.000,Service,"[-71.05956, 42.299808]",Point,Service,5,ARREST,351,C11,Day,No,LINCOLN ST,Part three,Unarmed,775318.7039,,2934585.623,2014
+38557,140295665.0,Wednesday,No,2014-05-07T07:45:00.000,Service,"[-71.089215, 42.340161]",Point,Service,5,INVEST,283,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767225.4855,,2949250.922,2014
+42597,140279736.0,Wednesday,No,2014-05-07T09:55:00.000,Service,"[-71.064983, 42.287156]",Point,Service,5,ARREST,401,C11,Day,No,TALBOT AV,Part three,Unarmed,773875.1664,,2929967.579,2014
+62477,140281112.0,Wednesday,No,2014-05-07T18:05:00.000,Service,"[-71.1138, 42.249551]",Point,Service,5,VICDOG,514,E18,First,No,WARREN AV,Part three,Unarmed,760728.308,SUMMIT ST,2916200.1780000003,2014
+73869,140279545.0,Wednesday,No,2014-05-07T08:39:00.000,Service,"[-71.059969, 42.355867]",Point,Service,5,BOMBT ,105,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2014
+98209,140281055.0,Wednesday,No,2014-05-07T15:15:00.000,Service,"[-71.074385, 42.335516]",Point,Service,5,TRANSP,169,D4,Day,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2014
+121101,140281674.0,Wednesday,No,2014-05-07T23:06:00.000,Service,"[-71.0626, 42.352361]",Point,Service,5,ARREST,111,A1,First,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+132364,140279803.0,Wednesday,No,2014-05-07T11:02:00.000,Service,"[-71.06942, 42.362401]",Point,Service,5,TRANSP,64,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,,2957381.922,2014
+239408,140281257.0,Wednesday,No,2014-05-07T16:00:00.000,Service,"[-71.12395, 42.256421]",Point,Service,5,IVDRUG,520,E18,First,No,HYDE PARK AV,Part three,Other,757969.2324,,2918691.415,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1993,152024320.0,Thursday,No,2015-03-26T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+20155,152024556.0,Thursday,No,2015-03-26T11:00:00.000,InvProp,"[-71.061434, 42.300547]",Point,InvProp,3,CD8,0,C11,Day,No,CHARLES ST,Part three,Unarmed,774810.2974,,2934852.3389999997,2015
+30784,152025282.0,Thursday,No,2015-03-26T22:00:00.000,InvProp,"[-71.074855, 42.351641]",Point,InvProp,3,BE,0,D4,First,No,NEWBURY ST,Part three,Unarmed,771086.9302,,2953453.473,2015
+200175,152024311.0,Thursday,No,2015-03-26T02:31:00.000,InvProp,"[-71.071642, 42.312489]",Point,InvProp,3,SSA,0,B2,Last,No,CEYLON ST,Part three,Unarmed,772026.9391,,2939189.9269999997,2015
+266955,152024669.0,Thursday,No,2015-03-26T08:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVPREM,0,E18,Day,No,LOCUST ST,Part three,Unarmed,,,,2015

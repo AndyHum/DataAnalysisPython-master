@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101333,120558564.0,Friday,No,2012-09-07T00:34:00.000,Ballist,"[-71.06764, 42.343831]",Point,Ballist,9,SHOTS ,162,D4,Last,No,SHAWMUT AV,Part Two,Firearm,773051.6136,DWIGHT ST,2950617.165,2012
+171214,120566218.0,Friday,No,2012-09-07T23:30:00.000,Ballist,"[-71.05862, 42.295126]",Point,Ballist,9,FDPROP,364,C11,First,No,LESLIE ST,Part Two,Unarmed,775581.9166,,2932880.7630000003,2012
+199318,120562006.0,Friday,No,2012-09-07T17:15:00.000,Ballist,"[-71.073606, 42.301168]",Point,Ballist,9,INVEST,462,C11,First,No,NOTTINGHAM ST,Part Two,Unarmed,771516.4205,,2935061.943,2012

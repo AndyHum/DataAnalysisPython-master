@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25362,120741831.0,Monday,No,2012-11-26T11:45:00.000,STOLEN PROPERTY CHARGES,"[-71.09516, 42.275076]",Point,13xx,11,IVPER ,0,B3,Day,No,ALMONT ST,Part Two,Knife,765730.7982,,2925525.216,2012
+70232,120742766.0,Monday,No,2012-11-26T18:55:00.000,STOLEN PROPERTY CHARGES,"[-71.139106, 42.348998]",Point,13xx,11,TSTOP ,795,D14,First,No,COMMONWEALTH AV,Part Two,Unarmed,753723.3022,,2952410.229,2012
+150014,130504146.0,Monday,No,2012-11-26T14:00:00.000,STOLEN PROPERTY CHARGES,"[-71.057685, 42.310896]",Point,13xx,11,IVPER ,255,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775805.0763,,2938628.897,2012

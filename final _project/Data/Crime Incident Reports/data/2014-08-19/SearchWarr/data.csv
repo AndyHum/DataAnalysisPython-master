@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28388,142020955.0,Tuesday,No,2014-08-19T15:15:00.000,SearchWarr,"[-71.06698, 42.296861]",Point,SearchWarr,8,TS,0,C11,Day,No,WALDECK ST,Part three,Unarmed,773316.9327,PARK ST,2933501.4289999995,2014
+111133,142020864.0,Tuesday,No,2014-08-19T12:20:00.000,SearchWarr,"[-71.077258, 42.272758]",Point,SearchWarr,8,CD11,0,B3,Day,No,GROVELAND ST,Part three,Unarmed,770579.8023,,2924704.018,2014
+256979,142020877.0,Tuesday,No,2014-08-19T12:36:00.000,SearchWarr,"[-71.129984, 42.25878]",Point,SearchWarr,8,CD11,0,E18,Day,No,GORDON AV,Part three,Firearm,756331.8692,,2919543.9669999997,2014

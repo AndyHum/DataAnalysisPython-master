@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14791,120600288.0,Monday,No,2012-09-24T12:29:00.000,InvProp,"[-71.096625, 42.331721]",Point,InvProp,9,ALARMM,587,B2,Day,No,TREMONT ST,Part Three,Unarmed,765236.7001,,2946165.671,2012
+19942,120600209.0,Monday,No,2012-09-24T08:30:00.000,InvProp,"[-71.09579, 42.313756]",Point,InvProp,9,IVPREM,0,E13,Day,No,COLUMBUS AV,Part Three,Other,765493.5024,,2939619.9839999997,2012
+44629,120599511.0,Monday,No,2012-09-24T04:06:00.000,InvProp,"[-71.08609, 42.336106]",Point,InvProp,9,ALARMC,285,D4,Last,No,TREMONT ST,Part Three,Unarmed,768077.5159,,2947777.29,2012
+69194,120600825.0,Monday,No,2012-09-24T16:33:00.000,InvProp,"[-71.09884, 42.274796]",Point,InvProp,9,BEIP  ,472,B3,First,No,ORLANDO ST,Part Three,Unarmed,764735.3419,,2925418.4760000003,2012
+230028,120602261.0,Monday,No,2012-09-24T12:45:00.000,InvProp,"[-71.04217, 42.371801]",Point,InvProp,9,BERPTA,27,A7,Day,No,BORDER ST,Part Three,Other,779882.4333,,2960845.892,2012
+240133,120599323.0,Monday,No,2012-09-24T00:32:00.000,InvProp,"[-71.080967, 42.305758]",Point,InvProp,9,IVPREM,460,B2,Last,No,WASHINGTON ST,Part Three,Unarmed,769516.8457,,2936724.604,2012
+254574,120601529.0,Monday,No,2012-09-24T22:09:00.000,InvProp,"[-71.08051, 42.307658]",Point,InvProp,9,IVPREM,329,B2,First,No,GENEVA AV,Part Three,Unarmed,769636.9643,,2937417.7189999996,2012

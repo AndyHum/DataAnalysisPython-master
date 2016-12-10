@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10095,130152390.0,Thursday,No,2013-03-14T16:30:00.000,PersLoc,"[-71.070855, 42.341986]",Point,PersLoc,3,MISPER,166,D4,First,No,SHAWMUT AV,Part Three,Unarmed,772185.8561,DARTMOUTH ST,2949940.425,2013
+58128,130151984.0,Thursday,No,2013-03-14T21:14:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,3,MISPER,281,B2,First,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013
+190900,130150405.0,Thursday,No,2013-03-14T23:15:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,3,MISPER,281,B2,First,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013
+228411,130152267.0,Thursday,No,2013-03-14T14:20:00.000,PersLoc,"[-71.144024, 42.346747]",Point,PersLoc,3,MISPER,938,D14,Day,No,JETTE CT,Part Three,Unarmed,752397.4732,,2951584.079,2013

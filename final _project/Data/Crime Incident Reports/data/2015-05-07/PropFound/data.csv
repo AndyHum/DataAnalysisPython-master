@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+824,152037413.0,Thursday,No,2015-05-07T16:45:00.000,PropFound,"[0, 0]",Point,PropFound,5,PROP,0,E13,First,No,THOMAS ST,Part three,Unarmed,,,,2015
+81998,152037543.0,Thursday,No,2015-05-07T23:15:00.000,PropFound,"[-71.106705, 42.310361]",Point,PropFound,5,PROP,0,E13,First,No,GREEN ST,Part three,Unarmed,762547.0467,AMORY ST,2938368.988,2015
+128876,152037466.0,Thursday,No,2015-05-07T18:18:00.000,PropFound,"[-71.070415, 42.332156]",Point,PropFound,5,IVPER,0,C6,First,No,SOUTHAMPTON ST,Part three,Unarmed,772322.8506,,2946358.797,2015
+135902,152037217.0,Thursday,No,2015-05-07T01:00:00.000,PropFound,"[-71.116355, 42.315351]",Point,PropFound,5,LARCEN,0,E13,Last,No,POND ST,Part three,Unarmed,759928.7101,,2940175.541,2015
+256409,152037461.0,Thursday,No,2015-05-07T18:24:00.000,PropFound,"[-71.060554, 42.364937]",Point,PropFound,5,PROP,0,A1,First,No,CANAL ST,Part three,Unarmed,774927.5836,,2958318.224,2015

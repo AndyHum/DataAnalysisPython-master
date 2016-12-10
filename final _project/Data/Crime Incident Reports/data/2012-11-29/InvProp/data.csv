@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35320,120748584.0,Thursday,No,2012-11-29T11:11:00.000,InvProp,"[-71.12525, 42.241561]",Point,InvProp,11,ALARMR,524,E18,Day,No,BADGER RD,Part Three,Unarmed,757641.0978,,2913274.6969999997,2012
+57923,120749786.0,Thursday,No,2012-11-29T15:30:00.000,InvProp,"[-71.05448, 42.330801]",Point,InvProp,11,STOLMV,195,C6,Day,No,MIDDLE ST,Part Three,Unarmed,776634.0749,DORCHESTER ST,2945887.113,2012
+103696,120748554.0,Thursday,No,2012-11-29T10:52:00.000,InvProp,"[-71.080976, 42.339931]",Point,InvProp,11,DISTRB,597,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,769453.3173,,2949177.707,2012
+228787,120749942.0,Thursday,No,2012-11-29T21:40:00.000,InvProp,"[-71.066885, 42.362496]",Point,InvProp,11,ALARMI,64,A1,First,No,BLOSSOM ST,Part Three,Unarmed,773221.1808,,2957420.083,2012

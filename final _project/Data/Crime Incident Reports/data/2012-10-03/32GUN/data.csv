@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133240,120622876.0,Wednesday,No,2012-10-03T18:15:00.000,32GUN,"[-71.066155, 42.319201]",Point,32GUN,10,FDPROP,238,B2,First,No,WENDOVER ST,Part Three,Firearm,773498.7203,,2941643.606,2012
+145233,120621067.0,Wednesday,No,2012-10-03T00:19:00.000,32GUN,"[-71.073606, 42.301168]",Point,32GUN,10,IVPER ,462,C11,Last,No,NOTTINGHAM ST,Part Three,Firearm,771516.4205,,2935061.943,2012
+151267,120621830.0,Wednesday,No,2012-10-03T10:15:00.000,32GUN,"[-71.15221, 42.294376]",Point,32GUN,10,FDWEAP,689,E5,Day,No,RUSSETT RD,Part Three,Firearm,750262.4715,,2932490.316,2012

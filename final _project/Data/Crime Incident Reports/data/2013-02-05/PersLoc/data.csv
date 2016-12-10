@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56857,130093798.0,Tuesday,No,2013-02-05T08:00:00.000,PersLoc,"[-71.136442, 42.348404]",Point,PersLoc,2,MISPER,793,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,754444.5294,,2952196.889,2013
+119551,130075522.0,Tuesday,No,2013-02-05T17:49:00.000,PersLoc,"[-71.05243, 42.376121]",Point,PersLoc,2,FDCHLD,38,A15,First,No,1ST AV,Part Three,Unarmed,777101.7226,9TH ST,2962405.474,2013
+185584,130076835.0,Tuesday,No,2013-02-05T09:15:00.000,PersLoc,"[-71.07529, 42.287551]",Point,PersLoc,2,MISPER,436,B3,Day,No,WENTWORTH ST,Part Three,Unarmed,771085.6408,,2930097.4260000004,2013

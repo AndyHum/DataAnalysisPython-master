@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40069,152000469.0,Friday,No,2015-01-02T10:55:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,IVPER,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+59257,152000787.0,Friday,No,2015-01-02T20:00:00.000,PersLoc,"[-71.05878, 42.294501]",Point,PersLoc,1,IVPER,0,C11,First,No,CENTRE ST,Other,Unarmed,775539.8065,,2932652.78,2015
+81314,152000410.0,Friday,No,2015-01-02T11:50:00.000,PersLoc,"[-71.12771, 42.252968]",Point,PersLoc,1,MISSIN,0,E18,Day,No,BUSINESS ST,Other,Unarmed,756956.5923,,2917428.6339999996,2015
+178383,152000402.0,Friday,No,2015-01-02T09:49:00.000,PersLoc,"[-71.113855, 42.261701]",Point,PersLoc,1,IVPER,0,E18,Day,No,HUNTINGTON AV,Other,Unarmed,760693.3729,,2920627.725,2015
+229907,152000627.0,Friday,No,2015-01-02T23:15:00.000,PersLoc,"[-71.08953, 42.270709]",Point,PersLoc,1,IVPER,0,B3,First,No,MAMELON CR,Other,Unarmed,767262.1281,,2923940.835,2015
+260224,152000380.0,Friday,No,2015-01-02T10:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,B3,Day,No,MORTON VILLAGE DR,Other,Unarmed,,,,2015
+261532,152000523.0,Friday,No,2015-01-02T16:20:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,C11,First,No,STOUGHTON ST,Other,Unarmed,,,,2015

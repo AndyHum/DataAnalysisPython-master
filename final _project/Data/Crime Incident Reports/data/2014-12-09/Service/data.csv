@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26575,142055934.0,Tuesday,No,2014-12-09T08:45:00.000,Service,"[-71.1055, 42.342116]",Point,Service,12,IVPER,0,B2,Day,No,PILGRIM RD,Part three,Unarmed,762819.4562,,2949942.578,2014
+78684,142056104.0,Tuesday,No,2014-12-09T23:45:00.000,Service,"[-71.07538, 42.333949]",Point,Service,12,IVPER,0,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2014
+158593,142055949.0,Tuesday,No,2014-12-09T14:00:00.000,Service,"[-71.124361, 42.28369]",Point,Service,12,IVPER,0,E5,Day,No,CUMMINS HY,Part three,Unarmed,757814.1441,,2928627.903,2014
+255228,142055893.0,Tuesday,No,2014-12-09T11:00:00.000,Service,"[-71.083699, 42.330436]",Point,Service,12,ARREST,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768733.8404,,2945714.085,2014

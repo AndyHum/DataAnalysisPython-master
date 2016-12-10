@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+149195,140199792.0,Thursday,No,2014-04-03T02:28:00.000,DISORDERLY,"[-71.0865, 42.307816]",Point,24xx,4,ARREST,319,B2,Last,No,MAPLE ST,Part Two,Unarmed,768016.6414,,2937467.396,2014
+168795,140201867.0,Thursday,No,2014-04-03T23:38:00.000,DISORDERLY,"[-71.07618, 42.345076]",Point,24xx,4,BEIP  ,149,D4,First,No,COLUMBUS AV,Part Two,Unarmed,770740.6628,,2951059.28,2014
+238742,140201006.0,Thursday,No,2014-04-03T16:00:00.000,DISORDERLY,"[-71.080967, 42.305758]",Point,24xx,4,FIGHT ,330,B2,First,No,WASHINGTON ST,Part Two,Unarmed,769516.8457,,2936724.604,2014

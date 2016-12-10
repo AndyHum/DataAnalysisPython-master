@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23569,142021858.0,Friday,No,2014-08-22T13:20:00.000,FORGERY,"[-71.08012, 42.339401]",Point,10xx,8,ARREST,0,D4,Day,No,TREMONT ST,Part Two,Unarmed,769685.7276,,2948985.937,2014
+95639,142032550.0,Friday,No,2014-08-22T14:00:00.000,FORGERY,"[-71.03371, 42.376881]",Point,10xx,8,LARCEN,0,A7,Day,No,BENNINGTON ST,Part Two,Unarmed,782158.3655,BROOKS ST,2962709.5289999996,2014
+219967,142021930.0,Friday,No,2014-08-22T16:45:00.000,FORGERY,"[-71.131796, 42.352053]",Point,10xx,8,LARCEN,0,D14,First,No,HARVARD AV,Part Two,Unarmed,755694.562,,2953532.085,2014

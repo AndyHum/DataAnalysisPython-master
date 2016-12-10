@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23438,152007629.0,Thursday,No,2015-01-29T08:15:00.000,FIRE,"[-71.067845, 42.319206]",Point,FIRE,1,FO,0,B2,Day,No,HUMPHREYS PL,Part three,Other,773041.4351,,2941643.002,2015
+146595,152007665.0,Thursday,No,2015-01-29T10:12:00.000,FIRE,"[-71.069145, 42.376221]",Point,FIRE,1,IVMV,0,A15,Day,No,RUTHERFORD AV,Part three,Unarmed,772585.1309,,2962418.66,2015
+220977,152007632.0,Thursday,No,2015-01-29T07:45:00.000,FIRE,"[-71.050814, 42.357948]",Point,FIRE,1,FIRE,0,A1,Day,No,E INDIA ROW,Part three,Other,777573.203,,2955784.918,2015

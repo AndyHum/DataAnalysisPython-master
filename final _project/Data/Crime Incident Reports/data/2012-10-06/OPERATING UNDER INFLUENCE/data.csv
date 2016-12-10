@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11605,120630263.0,Saturday,No,2012-10-06T18:34:00.000,OPERATING UNDER INFLUENCE,"[-71.07793, 42.317711]",Point,21xx,10,MVACC ,311,B2,First,No,BLUE HILL AV,Part Two,Unarmed,770316.9249,SOUTHWOOD ST,2941084.647,2012
+35958,120628815.0,Saturday,No,2012-10-06T02:09:00.000,OPERATING UNDER INFLUENCE,"[-71.06663, 42.345161]",Point,21xx,10,ARREST,161,D4,Last,No,SHAWMUT AV,Part Two,Unarmed,773322.1925,EMERALD CT,2951103.227,2012
+87357,120628696.0,Saturday,No,2012-10-06T01:17:00.000,OPERATING UNDER INFLUENCE,"[-71.065135, 42.350006]",Point,21xx,10,MVANO ,121,A1,Last,No,TREMONT ST,Part Two,Unarmed,773717.34,,2952870.892,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14397,142027555.0,Monday,No,2014-09-08T17:19:00.000,InvPer,"[-71.072235, 42.323546]",Point,InvPer,9,IVPER,0,B2,First,No,SHIRLEY ST,Part three,Unarmed,771846.4759,,2943218.693,2014
+15650,142032216.0,Monday,No,2014-09-08T16:00:00.000,InvPer,"[-71.123915, 42.352001]",Point,InvPer,9,IVPER,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,757825.1322,,2953522.3789999997,2014
+25478,142042500.0,Monday,No,2014-09-08T13:07:00.000,InvPer,"[-71.070387, 42.344687]",Point,InvPer,9,UNK,0,D4,Day,No,TREMONT ST,Part three,Unarmed,772307.4035,,2950925.22,2014
+103933,142027303.0,Monday,No,2014-09-08T03:00:00.000,InvPer,"[-71.128569, 42.358301]",Point,InvPer,9,PRSCRM,0,D14,Last,No,HOOKER ST,Part three,Unarmed,756557.1364,,2955812.4280000003,2014
+107045,142027395.0,Monday,No,2014-09-08T11:30:00.000,InvPer,"[-71.096105, 42.321479]",Point,InvPer,9,IVPER,0,B2,Day,No,WEAVER WY,Part three,Unarmed,765394.9806,,2942433.733,2014
+118461,142027884.0,Monday,No,2014-09-08T16:00:00.000,InvPer,"[-71.150493, 42.274666]",Point,InvPer,9,IVPREM,0,E5,First,No,SHAW ST,Part three,Other,750756.3537,,2925309.623,2014
+135735,142027379.0,Monday,No,2014-09-08T10:51:00.000,InvPer,"[-71.08457, 42.280821]",Point,InvPer,9,DISTRB,0,B3,Day,No,MORTON ST,Part three,Unarmed,768586.6065,EVANS ST,2927632.5530000003,2014
+265692,152003289.0,Monday,No,2014-09-08T00:00:00.000,InvPer,"[0, 0]",Point,InvPer,9,IVPER,0,E13,Last,No,MCBRIDE ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31878,130575462.0,Sunday,No,2013-09-08T10:58:00.000,DEATH INVESTIGATION,"[-71.112361, 42.316208]",Point,01INV,9,IVPER ,639,E13,Day,No,ROBINWOOD AV,Part three,Unarmed,761007.4093,,2940492.683,2013
+60731,130570460.0,Sunday,No,2013-09-08T08:08:00.000,DEATH INVESTIGATION,"[-71.127466, 42.354525]",Point,01INV,9,IVPREM,800,D14,Day,No,ASHFORD ST,Part three,Unarmed,756861.1942,,2954437.913,2013
+198361,130588126.0,Sunday,No,2013-09-08T17:00:00.000,DEATH INVESTIGATION,"[-71.054905, 42.330616]",Point,01INV,9,SDNDTH,194,C6,First,No,DORCHESTER ST,Part three,Other,776519.5096,,2945819.097,2013

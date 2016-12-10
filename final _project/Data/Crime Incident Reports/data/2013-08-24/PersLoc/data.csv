@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17633,130534927.0,Saturday,No,2013-08-24T00:10:00.000,PersLoc,"[-71.13209, 42.352991]",Point,PersLoc,8,IVPER ,794,D14,Last,No,HARVARD AV,Other,Unarmed,755613.8322,BRIGHTON AV,2953873.517,2013
+105378,130541704.0,Saturday,No,2013-08-24T09:00:00.000,PersLoc,"[-71.05108, 42.365106]",Point,PersLoc,8,MISPER,87,A1,Day,No,COMMERCIAL ST,Other,Unarmed,777487.6208,,2958393.3030000003,2013
+221694,130536503.0,Saturday,No,2013-08-24T18:00:00.000,PersLoc,"[-71.055028, 42.287827]",Point,PersLoc,8,MISPER,378,C11,First,No,ADAMS ST,Other,Unarmed,776567.4852,,2930225.7180000003,2013
+257096,130539113.0,Saturday,No,2013-08-24T10:00:00.000,PersLoc,"[-71.163496, 42.355125]",Point,PersLoc,8,MISPER,759,D14,Day,No,BIGELOW ST,Other,Unarmed,747121.6012,,2954616.082,2013
+261928,130536557.0,Saturday,No,2013-08-24T23:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,8,MISPER,55,A15,First,No,CONGRESS ST,Other,Unarmed,,,,2013

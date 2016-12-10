@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39454,120607244.0,Thursday,No,2012-09-27T07:58:00.000,Arrest,"[-71.06105, 42.297191]",Point,Arrest,9,ARREST,355,C11,Day,No,GIBSON ST,Part Three,Unarmed,774920.6138,DORCHESTER AV,2933629.8860000004,2012
+125421,120607304.0,Thursday,No,2012-09-27T08:17:00.000,Arrest,"[-71.07341, 42.331471]",Point,Arrest,9,ARREST,179,B2,Day,No,READING ST,Part Three,Other,771514.2842,ISLAND ST,2946105.105,2012
+200038,140163512.0,Thursday,No,2012-09-27T00:00:00.000,Arrest,"[-71.051305, 42.334636]",Point,Arrest,9,CD9   ,0,C6,Last,No,W 7TH ST,Part three,Other,777485.2265,,2947289.1539999996,2012

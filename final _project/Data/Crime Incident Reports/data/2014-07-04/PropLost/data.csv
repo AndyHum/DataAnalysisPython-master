@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6843,142006880.0,Friday,No,2014-07-04T21:00:00.000,PropLost,"[-71.057405, 42.358786]",Point,PropLost,7,ADMRPT,0,A1,First,No,STATE ST,Part three,Unarmed,775790.2538,,2956081.2389999996,2014
+34321,142006201.0,Friday,No,2014-07-04T18:00:00.000,PropLost,"[-71.03841, 42.373821]",Point,PropLost,7,IVPER,0,A7,First,No,LONDON ST,Part three,Unarmed,780894.4719,,2961587.497,2014
+35198,142005950.0,Friday,No,2014-07-04T02:30:00.000,PropLost,"[-71.16842, 42.350681]",Point,PropLost,7,IVPER,0,D14,Last,No,TREMONT ST,Part three,Unarmed,745797.066,WASHINGTON ST,2952991.438,2014
+74669,142006872.0,Friday,No,2014-07-04T23:30:00.000,PropLost,"[-71.06598, 42.350391]",Point,PropLost,7,PROP,0,A1,First,No,WARRENTON ST,Part three,Unarmed,773488.0855,,2953009.8660000004,2014
+84501,142006355.0,Friday,No,2014-07-04T23:00:00.000,PropLost,"[-71.05992, 42.356996]",Point,PropLost,7,PROP,0,A1,First,No,PROVINCE ST,Part three,Unarmed,775113.8775,,2955425.4110000003,2014
+103200,142021759.0,Friday,No,2014-07-04T07:00:00.000,PropLost,"[-71.085118, 42.298635]",Point,PropLost,7,PROP,0,B3,Last,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2014
+185564,152001728.0,Friday,No,2014-07-04T12:00:00.000,PropLost,"[-71.0729, 42.333256]",Point,PropLost,7,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2014
+213842,142005969.0,Friday,No,2014-07-04T11:30:00.000,PropLost,"[-71.098479, 42.267626]",Point,PropLost,7,LARCEN,0,E18,Day,No,ROSEWOOD ST,Part three,Unarmed,764845.1251,,2922805.789,2014

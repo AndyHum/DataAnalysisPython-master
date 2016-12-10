@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37701,130024566.0,Saturday,No,2013-01-12T15:40:00.000,DISORDERLY,"[-71.049401, 42.29763]",Point,24xx,1,DISTRB,373,C11,Day,No,MORRISSEY BL,Part Two,Unarmed,778071.2105,,2933806.111,2013
+43657,130023529.0,Saturday,No,2013-01-12T01:51:00.000,DISORDERLY,"[-71.05563, 42.356851]",Point,24xx,1,ARREST,108,A1,Last,No,MILK ST,Part Two,Unarmed,776273.6649,PEARL ST,2955378.5810000002,2013
+125928,130029012.0,Saturday,No,2013-01-12T19:07:00.000,DISORDERLY,"[-71.06707, 42.317896]",Point,24xx,1,ARREST,238,B2,First,No,DUDLEY ST,Part Two,Unarmed,773253.6772,,2941166.785,2013
+195478,130023682.0,Saturday,No,2013-01-12T03:45:00.000,DISORDERLY,"[-71.0576, 42.349671]",Point,24xx,1,IVPER ,115,A1,Last,No,KNEELAND ST,Part Two,Unarmed,775754.7782,SOUTH ST,2952759.2860000003,2013

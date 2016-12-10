@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1659,152040694.0,Sunday,No,2015-05-17T16:00:00.000,BENoProp,"[0, 0]",Point,BENoProp,5,BE,0,B3,First,No,TALBOT AV,Part One,Unarmed,,,,2015
+1900,152040566.0,Sunday,No,2015-05-17T23:20:00.000,BENoProp,"[0, 0]",Point,BENoProp,5,BE,0,B2,First,No,GREENVILLE ST,Part One,Unarmed,,,,2015
+245595,152040562.0,Sunday,No,2015-05-17T21:10:00.000,BENoProp,"[-71.086605, 42.294496]",Point,BENoProp,5,BE,0,B3,First,No,TALBOT AV,Part One,Other,768011.6795,,2932613.022,2015

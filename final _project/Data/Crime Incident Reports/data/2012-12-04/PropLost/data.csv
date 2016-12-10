@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37256,120760055.0,Tuesday,No,2012-12-04T14:35:00.000,PropLost,"[-71.06401, 42.302851]",Point,PropLost,12,LSTPRP,465,C11,Day,No,DRAPER ST,Part Three,Unarmed,774109.2782,,2935688.367,2012
+100856,120760316.0,Tuesday,No,2012-12-04T15:55:00.000,PropLost,"[-71.098485, 42.343391]",Point,PropLost,12,LARCRT,626,D4,Day,No,PETERBOROUGH ST,Part Three,Unarmed,764713.7517,,2950416.063,2012
+219726,120762127.0,Tuesday,No,2012-12-04T23:50:00.000,PropLost,"[-71.119714, 42.292533]",Point,PropLost,12,LARCRT,564,E5,Last,No,BROOKWAY RD,Part Three,Unarmed,759057.0586,,2931855.943,2012
+229796,120763252.0,Tuesday,No,2012-12-04T21:20:00.000,PropLost,"[-71.102265, 42.333311]",Point,PropLost,12,LSTPRP,603,B2,First,No,TREMONT ST,Part Three,Unarmed,763708.9912,,2946737.934,2012
+260884,120759880.0,Tuesday,No,2012-12-04T12:45:00.000,PropLost,"[0, 0]",Point,PropLost,12,LSTPRP,329,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,,,,2012

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5680,130435329.0,Sunday,No,2013-07-14T06:00:00.000,PropFound,"[-71.06336, 42.364091]",Point,PropFound,7,FDPROP,74,A1,Last,No,MERRIMAC ST,Part three,Unarmed,774170.8689,STANIFORD ST,2958006.189,2013
+14532,130436179.0,Sunday,No,2013-07-14T16:00:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,7,INVEST,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+33158,130436054.0,Sunday,No,2013-07-14T20:50:00.000,PropFound,"[-71.09437, 42.331411]",Point,PropFound,7,FDPROP,290,B2,First,No,COLUMBUS AV,Part three,Unarmed,765846.9695,MALCOLM X BL,2946055.5919999997,2013
+126684,130435364.0,Sunday,No,2013-07-14T14:50:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,7,FDPROP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+209274,130436145.0,Sunday,No,2013-07-14T15:10:00.000,PropFound,"[-71.06942, 42.356141]",Point,PropFound,7,INVEST,119,A1,Day,No,CHARLES ST,Part three,Unarmed,772547.7636,BEACON ST,2955100.727,2013

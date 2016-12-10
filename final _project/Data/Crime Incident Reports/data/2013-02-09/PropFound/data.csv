@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11516,130108074.0,Saturday,No,2013-02-09T13:00:00.000,PropFound,"[-71.07991, 42.350301]",Point,PropFound,2,LSTPRP,138,D4,Day,No,NEWBURY ST,Part Three,Unarmed,769722.9399,EXETER ST,2952958.38,2013
+109980,130083306.0,Saturday,No,2013-02-09T14:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,2,FDPROP,691,E5,Day,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2013
+124551,130083010.0,Saturday,No,2013-02-09T09:30:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,2,LSTPRP,28,A7,Day,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2013

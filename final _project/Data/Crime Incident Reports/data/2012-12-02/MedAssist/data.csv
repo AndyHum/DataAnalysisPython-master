@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5445,120754603.0,Sunday,No,2012-12-02T00:55:00.000,MedAssist,"[-71.03525, 42.367731]",Point,MedAssist,12,IVPER ,30,A7,Last,No,EVERETT ST,Part Three,Other,781760.4305,COTTAGE ST,2959372.816,2012
+34464,120754613.0,Sunday,No,2012-12-02T00:51:00.000,MedAssist,"[-71.092073, 42.289674]",Point,MedAssist,12,IVPER ,566,B3,Last,No,HARVARD ST,Part Three,Unarmed,766540.6237,,2930848.814,2012
+82657,120756048.0,Sunday,No,2012-12-02T19:32:00.000,MedAssist,"[-71.171513, 42.29864]",Point,MedAssist,12,OVRDOS,745,E5,First,No,LAGRANGE ST,Part Three,Unarmed,745033.833,,2934023.473,2012
+88069,120755680.0,Sunday,No,2012-12-02T16:19:00.000,MedAssist,"[-71.03231, 42.376995]",Point,MedAssist,12,REQEP ,20,A7,First,No,PARIS ST,Part Three,Unarmed,782536.3817,,2962753.2,2012
+102889,120755541.0,Sunday,No,2012-12-02T14:43:00.000,MedAssist,"[-71.134095, 42.243156]",Point,MedAssist,12,IVPER ,532,E18,Day,No,READVILLE ST,Part Three,Unarmed,755243.5813,,2913845.5360000003,2012
+124225,120755361.0,Sunday,No,2012-12-02T12:47:00.000,MedAssist,"[-71.03398, 42.370806]",Point,MedAssist,12,EDP2  ,30,A7,Day,No,FRANKFORT ST,Part Three,Unarmed,782097.5063,,2960495.28,2012
+154545,120758247.0,Sunday,No,2012-12-02T21:00:00.000,MedAssist,"[-71.047162, 42.280687]",Point,MedAssist,12,UNK   ,386,C11,First,No,HALLET ST,Part Three,Unarmed,778709.5751,,2927635.23,2012
+175842,120755752.0,Sunday,No,2012-12-02T06:14:00.000,MedAssist,"[-71.0729, 42.333256]",Point,MedAssist,12,IVPER ,172,D4,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2012
+236561,120755812.0,Sunday,No,2012-12-02T17:10:00.000,MedAssist,"[-71.06443, 42.285251]",Point,MedAssist,12,IVPER ,393,C11,First,No,DORCHESTER AV,Part Three,Unarmed,774028.4138,,2929274.0930000003,2012

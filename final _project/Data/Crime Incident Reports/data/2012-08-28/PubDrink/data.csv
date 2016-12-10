@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2028,120537643.0,Tuesday,No,2012-08-28T17:40:00.000,PubDrink,"[-71.079717, 42.319866]",Point,PubDrink,8,INVEST,0,B2,First,No,CLIFFORD ST,Part Two,Unarmed,769829.6122,,2941867.4469999997,2012
+41303,120536952.0,Tuesday,No,2012-08-28T14:52:00.000,PubDrink,"[0, 0]",Point,PubDrink,8,IVPER ,274,D4,Day,No,WASHINGTON ST,Part Two,Other,,,,2012
+113866,120537489.0,Tuesday,No,2012-08-28T18:52:00.000,PubDrink,"[-71.114485, 42.311256]",Point,PubDrink,8,ARREST,645,E13,First,No,CENTRE ST,Part Two,Unarmed,760441.2169,,2938685.534,2012
+137250,120537629.0,Tuesday,No,2012-08-28T19:30:00.000,PubDrink,"[-71.08397, 42.335521]",Point,PubDrink,8,DKDIST,285,D4,First,No,GREENWICH CT,Part Two,Unarmed,768651.7454,WESTMINSTER ST,2947566.895,2012
+155029,120536518.0,Tuesday,No,2012-08-28T11:37:00.000,PubDrink,"[-71.06201, 42.320091]",Point,PubDrink,8,CD19  ,240,C11,Day,No,COLUMBIA RD,Part Two,Unarmed,774618.0458,,2941973.665,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47118,140203419.0,Friday,No,2014-04-04T11:30:00.000,PropLost,"[-71.127043, 42.300948]",Point,PropLost,4,REMOVE,666,E13,Day,No,CENTRE ST,Part three,Unarmed,757060.8483,,2934913.767,2014
+63738,140206052.0,Friday,No,2014-04-04T13:30:00.000,PropLost,"[-71.13734, 42.277991]",Point,PropLost,4,LSTPRP,550,E5,Day,No,WASHINGTON ST,Part three,Unarmed,754310.9585,,2926536.126,2014
+88932,140207545.0,Friday,No,2014-04-04T13:00:00.000,PropLost,"[-71.058455, 42.291101]",Point,PropLost,4,LSTPRP,366,C11,Day,No,LONSDALE ST,Part three,Unarmed,775634.1475,,2931414.229,2014
+130391,140207205.0,Friday,No,2014-04-04T23:00:00.000,PropLost,"[-71.044545, 42.347516]",Point,PropLost,4,LSTPRP,203,C6,First,No,SUMMER ST,Part three,Unarmed,779287.9190000001,,2951992.539,2014
+157804,140335248.0,Friday,No,2014-04-04T16:00:00.000,PropLost,"[-71.059735, 42.297541]",Point,PropLost,4,LSTPRP,355,C11,First,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+161666,140254017.0,Friday,No,2014-04-04T16:00:00.000,PropLost,"[-71.122385, 42.257056]",Point,PropLost,4,LSTPRP,520,E18,First,No,HARVARD AV,Part three,Unarmed,758391.8746,,2918924.689,2014
+187505,140213676.0,Friday,No,2014-04-04T00:00:00.000,PropLost,"[-71.1079, 42.263866]",Point,PropLost,4,LSTPRP,520,E18,Last,No,GEORGE ST,Part three,Unarmed,762301.7089,,2921424.0330000003,2014

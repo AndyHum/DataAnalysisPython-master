@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66685,142036747.0,Saturday,No,2014-09-06T00:01:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,9,PROP,0,B2,Last,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2014
+209233,142026884.0,Saturday,No,2014-09-06T13:10:00.000,PropLost,"[-71.05987, 42.351191]",Point,PropLost,9,PROP,0,A1,Day,No,BEACH ST,Part three,Unarmed,775138.3074,HUDSON ST,2953310.028,2014
+246911,142034254.0,Saturday,No,2014-09-06T22:00:00.000,PropLost,"[-71.06521, 42.349691]",Point,PropLost,9,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,773697.6517,,2952755.997,2014
+263236,142027044.0,Saturday,No,2014-09-06T19:30:00.000,PropLost,"[0, 0]",Point,PropLost,9,PROP,0,A1,First,No,HIGH ST,Part three,Unarmed,,,,2014
+264899,142027185.0,Saturday,No,2014-09-06T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,PROP,0,D4,First,No,HEMENWAY ST,Part three,Unarmed,,MASSACHUSETTS AV,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65312,152004634.0,Sunday,No,2015-01-18T01:00:00.000,LICViol,"[-71.071635, 42.286426]",Point,LICViol,1,CD35,0,B3,Last,No,DUNBAR AV,Part three,Unarmed,772076.6677,,2929692.4060000004,2015
+176219,152004851.0,Sunday,No,2015-01-18T09:30:00.000,LICViol,"[-71.06166, 42.364266]",Point,LICViol,1,CD35,0,A1,Day,No,PORTLAND ST,Part three,Unarmed,774629.9723,,2958072.32,2015
+183621,152004658.0,Sunday,No,2015-01-18T02:30:00.000,LICViol,"[-71.1029, 42.347231]",Point,LICViol,1,DISTRB,0,D4,Last,No,BEACON ST,Part three,Unarmed,763513.6806,,2951809.8430000003,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54899,130636900.0,Sunday,No,2013-10-06T01:25:00.000,VIOLATION OF LIQUOR LAWS,"[-71.099695, 42.330611]",Point,22xx,10,PARTY ,0,B2,Last,No,ALLEGHANY ST,Part Two,Unarmed,764408.5,,2945757.258,2013
+62794,130636960.0,Sunday,No,2013-10-06T01:45:00.000,VIOLATION OF LIQUOR LAWS,"[-71.12889, 42.354991]",Point,22xx,10,ARREST,800,D14,Last,No,PRATT ST,Part Two,Unarmed,756475.6109999999,,2954606.095,2013
+174693,130636920.0,Sunday,No,2013-10-06T01:36:00.000,VIOLATION OF LIQUOR LAWS,"[-71.106975, 42.331486]",Point,22xx,10,ARREST,605,B2,Last,No,HILLSIDE ST,Part Two,Unarmed,762438.5446,,2946066.9680000003,2013

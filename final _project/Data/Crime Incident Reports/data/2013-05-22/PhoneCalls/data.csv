@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39464,130308707.0,Wednesday,No,2013-05-22T17:40:00.000,PhoneCalls,"[-71.12088, 42.351821]",Point,PhoneCalls,5,IVPER ,797,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2013
+65300,130309395.0,Wednesday,No,2013-05-22T20:15:00.000,PhoneCalls,"[-71.06929, 42.381046]",Point,PhoneCalls,5,HARPT ,52,A15,First,No,AUBURN ST,Part Three,Other,772537.072,,2964176.7939999998,2013
+169407,130308950.0,Wednesday,No,2013-05-22T04:16:00.000,PhoneCalls,"[-71.04142, 42.319296]",Point,PhoneCalls,5,HARPT ,256,C6,Last,No,HARBOR POINT BL,Part Three,Unarmed,780187.9671,,2941713.22,2013
+190965,130306481.0,Wednesday,No,2013-05-22T13:00:00.000,PhoneCalls,"[-71.07666, 42.351141]",Point,PhoneCalls,5,THREAT,137,D4,Day,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2013

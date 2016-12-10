@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5697,120529735.0,Saturday,No,2012-08-25T08:40:00.000,Ballist,"[-71.09034, 42.287851]",Point,Ballist,8,SHOTS ,465,B3,Day,No,BLUE HILL AV,Part Two,Firearm,767012.8906,HANSBOROUGH ST,2930186.834,2012
+88390,120531160.0,Saturday,No,2012-08-25T22:26:00.000,Ballist,"[-71.065315, 42.288686]",Point,Ballist,8,SHOT  ,397,C11,First,No,ARGYLE TR,Part Two,Firearm,773782.5633,,2930524.6339999996,2012
+192268,120529609.0,Saturday,No,2012-08-25T06:18:00.000,Ballist,"[-71.079505, 42.304556]",Point,Ballist,8,SHOTS ,459,C11,Last,No,WASHINGTON ST,Part Two,Firearm,769914.5976,,2936288.651,2012

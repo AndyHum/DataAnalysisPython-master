@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108002,,Friday,No,2015-07-10T00:00:00.000,Auto Theft Recovery,"[-71.074848, 42.310129]",Point,07RV,7,IVPREM,328,B2,,No,MAGNOLIA ST,Other,None,771164.0,,2940000.0,2015
+136812,,Friday,No,2015-07-10T18:30:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,619,D4,,No,HUNTINGTON AVE,Part One,None,, MASSACHUSETTS AVE ,,2015
+151546,,Friday,No,2015-07-10T00:00:00.000,Auto Theft,"[-71.168819, 42.266563]",Point,07xx,7,IVMV,723,E5,,No,VFW PKWY,Part One,None,745808.0,,2920000.0,2015
+175568,,Friday,No,2015-07-10T00:00:00.000,Auto Theft,"[-71.128362, 42.283802]",Point,07xx,7,IVMV,560,E5,,No,POPLAR ST,Part One,None,756731.0,,2930000.0,2015
+246180,,Friday,No,2015-07-10T00:00:00.000,Auto Theft,"[-71.07093, 42.358788]",Point,07xx,7,ADMRPT,66,A1,,No,PINCKNEY ST,Part One,None,772135.0,,2960000.0,2015

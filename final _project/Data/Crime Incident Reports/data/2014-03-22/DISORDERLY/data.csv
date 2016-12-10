@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22714,140182681.0,Saturday,No,2014-03-22T23:38:00.000,DISORDERLY,"[-71.15879, 42.341721]",Point,24xx,3,DISTRB,773,D14,First,No,FOSTER ST,Part Two,Unarmed,748413.2232,,2949736.5,2014
+28094,140173712.0,Saturday,No,2014-03-22T03:34:00.000,DISORDERLY,"[-71.05464, 42.325816]",Point,24xx,3,ARREST,914,C6,Last,No,OCALLAGHAN WY,Part Two,Unarmed,776600.2984,,2944070.27,2014
+84061,140173649.0,Saturday,No,2014-03-22T02:25:00.000,DISORDERLY,"[-71.05464, 42.359201]",Point,24xx,3,ARREST,100,A1,Last,No,STATE ST,Part Two,Unarmed,776536.7729999999,BROAD ST,2956236.3619999997,2014

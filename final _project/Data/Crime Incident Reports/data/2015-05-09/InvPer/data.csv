@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+924,152038028.0,Saturday,No,2015-05-09T16:45:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,E18,First,No,TRUMAN PY,Part three,Unarmed,,,,2015
+929,152037997.0,Saturday,No,2015-05-09T13:33:00.000,InvPer,"[0, 0]",Point,InvPer,5,MISSIN,0,C6,Day,No,W BROADWAY,Part three,Unarmed,,,,2015
+943,152038042.0,Saturday,No,2015-05-09T17:05:00.000,InvPer,"[0, 0]",Point,InvPer,5,REQP,0,C6,First,No,MORRISSEY BL,Part three,Firearm,,,,2015
+16525,152038134.0,Saturday,No,2015-05-09T23:41:00.000,InvPer,"[-71.09047, 42.290406]",Point,InvPer,5,EDP,0,B3,First,No,GREENOCK ST,Part three,Unarmed,766973.2468,,2931117.745,2015
+92544,152037888.0,Saturday,No,2015-05-09T02:48:00.000,InvPer,"[-71.09741, 42.331841]",Point,InvPer,5,DISTRB,0,B2,Last,No,TREMONT ST,Part three,Unarmed,765024.2366,,2946208.398,2015
+95483,152039220.0,Saturday,No,2015-05-09T15:15:00.000,InvPer,"[-71.115653, 42.311794]",Point,InvPer,5,IVPER,0,E13,Day,No,BREWER ST,Part three,Other,760124.4052,,2938879.89,2015
+189974,152037882.0,Saturday,No,2015-05-09T02:15:00.000,InvPer,"[-71.148587, 42.341222]",Point,InvPer,5,BE,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,751172.2522,,2949565.789,2015
+222480,152038122.0,Saturday,No,2015-05-09T20:30:00.000,InvPer,"[-71.089615, 42.344991]",Point,InvPer,5,MISSIN,0,D4,First,No,HEMENWAY ST,Part three,Unarmed,767108.76,,2951010.563,2015

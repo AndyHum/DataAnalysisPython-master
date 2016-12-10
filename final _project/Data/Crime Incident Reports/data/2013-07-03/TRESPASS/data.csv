@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+147615,130407903.0,Wednesday,No,2013-07-03T13:52:00.000,TRESPASS,"[-71.149442, 42.359682]",Point,TRESPASS,7,REMOVE,767,D14,Day,No,SOLDIERS FIELD PL,Part Two,Unarmed,750913.4673,,2956291.848,2013
+172661,130408566.0,Wednesday,No,2013-07-03T18:26:00.000,TRESPASS,"[-71.08011, 42.314071]",Point,TRESPASS,7,BEIP  ,323,B2,First,No,HOLBORN ST,Part Two,Unarmed,769733.8732,,2939755.262,2013
+196879,130408085.0,Wednesday,No,2013-07-03T15:20:00.000,TRESPASS,"[-71.085628, 42.34206]",Point,TRESPASS,7,PKNIFE,283,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,768191.7788,,2949947.602,2013

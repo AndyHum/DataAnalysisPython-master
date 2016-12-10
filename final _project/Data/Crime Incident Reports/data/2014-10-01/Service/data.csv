@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15444,142034910.0,Wednesday,No,2014-10-01T16:51:00.000,Service,"[-71.06942, 42.362401]",Point,Service,10,ARREST,0,A1,First,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+137414,142034788.0,Wednesday,No,2014-10-01T10:15:00.000,Service,"[-71.03887, 42.371246]",Point,Service,10,IVPER,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+159765,142034766.0,Wednesday,No,2014-10-01T07:00:00.000,Service,"[-71.05311, 42.337916]",Point,Service,10,IVPER,0,C6,Last,No,FLAHERTY WY,Part three,Unarmed,776990.9328,,2948481.881,2014
+187961,142034843.0,Wednesday,No,2014-10-01T12:45:00.000,Service,"[-71.085305, 42.287356]",Point,Service,10,CD11,0,B3,Day,No,CARLOS ST,Part three,Unarmed,768376.1308,,2930013.0310000004,2014

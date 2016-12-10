@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27573,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.069397, 42.329801]",Point,18xx,7,FIGHT,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772602.0,,2950000.0,2015
+31099,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.082731, 42.30775]",Point,18xx,7,CD11,330,B2,,No,WASHINGTON ST,Part Two,None,769036.0,,2940000.0,2015
+39408,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.076261, 42.350379]",Point,18xx,7,ARREST,130,D4,,No,BOYLSTON ST,Part Two,None,770709.0,,2950000.0,2015
+41264,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.039799, 42.376203]",Point,18xx,7,SS,26,A7,,No,BORDER ST,Part Two,None,780514.0,,2960000.0,2015
+63156,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,7,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015
+84801,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.137089, 42.357495]",Point,18xx,7,CD11,809,D14,,No,LINCOLN ST,Part Two,None,754255.0,,2960000.0,2015
+104529,,Friday,No,2015-07-17T17:21:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,367,C11,,No,ADAMS ST,Part Two,None,, ROSEMONT ST ,,2015
+144182,,Friday,No,2015-07-17T17:24:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,573,E13,,No,AMORY ST,Part Two,None,,WILLIAMS ST,,2015
+218664,,Friday,No,2015-07-17T10:31:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,135,D4,,No,BEACON ST,Part Two,None,,FAIRFIELD ST,,2015
+237156,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.083116, 42.303557]",Point,18xx,7,IVMV,458,B3,,No,COLUMBIA RD,Part Two,None,768939.0,,2940000.0,2015
+240211,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.058484, 42.292249]",Point,18xx,7,TS,365,C11,,No,SAINT MARKS RD,Part Two,None,775624.0,,2930000.0,2015
+240557,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[-71.150499, 42.349056]",Point,18xx,7,INVEST,778,D14,,No,AVON ST,Part Two,None,750644.0,,2950000.0,2015
+246138,,Friday,No,2015-07-17T00:00:00.000,Drug Violation,"[0, 0]",Point,18xx,7,,565,E13,,No,,Part Two,None,,,,2015
+247584,,Friday,No,2015-07-17T00:45:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,0,,,No,PUB ALLEY 439,Part Two,None,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+165235,142038980.0,Monday,No,2014-10-13T18:00:00.000,FORGERY,"[-71.063158, 42.295136]",Point,10xx,10,PROP,0,C11,First,No,PENHALLOW ST,Part Two,Unarmed,774354.1356,,2932878.1010000003,2014
+196185,142038691.0,Monday,No,2014-10-13T17:00:00.000,FORGERY,"[-71.061745, 42.356021]",Point,10xx,10,LARCEN,0,A1,First,No,WINTER ST,Part Two,Unarmed,774622.4376,,2955067.563,2014
+233731,142049193.0,Monday,No,2014-10-13T08:00:00.000,FORGERY,"[-71.05247, 42.289036]",Point,10xx,10,LARCEN,0,C11,Day,No,ASHMONT ST,Part Two,Unarmed,777257.4238,,2930670.152,2014

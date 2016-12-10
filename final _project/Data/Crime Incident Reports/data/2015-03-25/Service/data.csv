@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43559,152024229.0,Wednesday,No,2015-03-25T19:15:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+88161,152024017.0,Wednesday,No,2015-03-25T11:05:00.000,Service,"[-71.081935, 42.340711]",Point,Service,3,ARREST,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,769192.6879,,2949460.915,2015
+96733,152024103.0,Wednesday,No,2015-03-25T14:20:00.000,Service,"[-71.062575, 42.352726]",Point,Service,3,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774404.2569,HAYWARD PL,2953865.65,2015
+119829,152024106.0,Wednesday,No,2015-03-25T11:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,3,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+167605,152024127.0,Wednesday,No,2015-03-25T14:00:00.000,Service,"[-71.138309, 42.255283]",Point,Service,3,MVA,0,E18,Day,No,TURTLE POND PY,Part three,Unarmed,754083.6345,,2918259.595,2015
+183182,152024020.0,Wednesday,No,2015-03-25T11:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+195059,152023992.0,Wednesday,No,2015-03-25T09:45:00.000,Service,"[-71.06942, 42.362401]",Point,Service,3,ARREST,0,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+221021,152024084.0,Wednesday,No,2015-03-25T13:12:00.000,Service,"[-71.03904, 42.373741]",Point,Service,3,CD9,0,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780724.3981,,2961557.422,2015

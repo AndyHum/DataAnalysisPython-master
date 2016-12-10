@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50264,120456322.0,Tuesday,No,2012-07-24T11:30:00.000,CRIMES AGAINST CHILDREN,"[-71.03887, 42.371246]",Point,20xx,7,ARREST,28,A7,Day,No,PARIS ST,Part Two,Unarmed,780775.2494,,2960648.442,2012
+75897,120456296.0,Tuesday,No,2012-07-24T11:48:00.000,CRIMES AGAINST CHILDREN,"[-71.146024, 42.25608]",Point,20xx,7,INVCHD,822,E5,Day,No,MARGARETTA DR,Part Two,Unarmed,751993.9090000001,,2918541.2939999998,2012
+167894,120455531.0,Tuesday,No,2012-07-24T01:48:00.000,CRIMES AGAINST CHILDREN,"[-71.07625, 42.341471]",Point,20xx,7,INVCHD,157,D4,Last,No,TREMONT ST,Part Two,Unarmed,770728.2659,,2949745.457,2012

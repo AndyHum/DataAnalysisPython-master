@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20660,152003367.0,Tuesday,No,2015-01-13T14:15:00.000,Hazardous,"[-71.159225, 42.281185]",Point,Hazardous,1,HAZMAT,0,E5,Day,No,LAGRANGE ST,Other,Unarmed,748383.5038,,2927675.559,2015
+125678,152003336.0,Tuesday,No,2015-01-13T12:57:00.000,Hazardous,"[-71.142088, 42.353409]",Point,Hazardous,1,IVPREM,0,D14,Day,No,SAUNDERS ST,Other,Unarmed,752910.7031,,2954014.147,2015

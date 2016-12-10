@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119927,142032840.0,Thursday,No,2014-09-25T08:56:00.000,PersLoc,"[-71.091557, 42.312409]",Point,PersLoc,9,IVPER,0,B2,Day,No,HOMESTEAD ST,Other,Unarmed,766640.7488,,2939134.5289999996,2014
+126812,142032940.0,Thursday,No,2014-09-25T14:21:00.000,PersLoc,"[-71.035045, 42.365841]",Point,PersLoc,9,IVPER,0,A7,Day,No,WEBSTER ST,Other,Unarmed,781819.5843,,2958684.367,2014
+154458,142033041.0,Thursday,No,2014-09-25T18:00:00.000,PersLoc,"[-71.042645, 42.319331]",Point,PersLoc,9,IVPER,0,C6,First,No,HARBOR POINT BL,Other,Other,779856.6052,,2941724.1960000005,2014
+251317,142034708.0,Thursday,No,2014-09-25T22:00:00.000,PersLoc,"[-71.074385, 42.335516]",Point,PersLoc,9,IVPER,0,D4,First,No,HARRISON AV,Other,Unarmed,771243.2964,,2947577.858,2014

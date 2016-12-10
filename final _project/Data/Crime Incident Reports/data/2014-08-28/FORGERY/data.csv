@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80815,142024058.0,Thursday,No,2014-08-28T15:30:00.000,FORGERY,"[-71.060845, 42.355056]",Point,10xx,8,PROP,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774867.5053,,2954717.1489999997,2014
+162257,152001732.0,Thursday,No,2014-08-28T12:00:00.000,FORGERY,"[-71.12146, 42.293661]",Point,10xx,8,LARCEN,0,E5,Day,No,COLGATE RD,Part Two,Unarmed,758583.0832,,2932265.182,2014
+182701,142023927.0,Thursday,No,2014-08-28T19:17:00.000,FORGERY,"[-71.153043, 42.287232]",Point,10xx,8,ARREST,0,E5,First,No,CENTRE ST,Part Two,Other,750047.6314,,2929885.93,2014
+211013,142024189.0,Thursday,No,2014-08-28T00:00:00.000,FORGERY,"[-71.119521, 42.254189]",Point,10xx,8,LARCEN,0,E18,Last,No,SECOND NEW WY,Part Two,Unarmed,759171.8162,,2917883.36,2014
+255305,142023783.0,Thursday,No,2014-08-28T14:03:00.000,FORGERY,"[-71.08099, 42.300209]",Point,10xx,8,LARCEN,0,B3,Day,No,HARLEM ST,Part Two,Unarmed,769520.6679,,2934702.57,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96835,142050124.0,Tuesday,No,2014-11-18T14:00:00.000,Bomb,"[-71.038912, 42.374688]",Point,Bomb,11,BOMB,0,A7,Day,No,WILLIAMS SQ,Part Two,Unarmed,780756.9565,,2961902.499,2014
+203694,142049989.0,Tuesday,No,2014-11-18T08:07:00.000,Bomb,"[-71.063785, 42.349246]",Point,Bomb,11,REQP,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774083.6785,,2952595.797,2014
+257549,142050113.0,Tuesday,No,2014-11-18T14:00:00.000,Bomb,"[-71.097465, 42.315081]",Point,Bomb,11,BOMB,0,E13,Day,No,COLUMBUS AV,Part Two,Unarmed,765038.1884,,2940100.693,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101292,142017378.0,Friday,No,2014-08-08T14:00:00.000,Argue,"[-71.120325, 42.260607]",Point,Argue,8,DVIP,0,E18,Day,No,WEST ST,Part three,Unarmed,758943.5979,,2920221.14,2014
+104572,142017389.0,Friday,No,2014-08-08T14:26:00.000,Argue,"[-71.06328, 42.306381]",Point,Argue,8,FIGHT,0,C11,Day,No,FOX ST,Part three,Unarmed,774300.1672,,2936975.7630000003,2014
+112391,142017438.0,Friday,No,2014-08-08T16:10:00.000,Argue,"[-71.119867, 42.243568]",Point,Argue,8,DISTRB,0,E18,First,No,GARFIELD AV,Part three,Unarmed,759095.3804,,2914012.528,2014

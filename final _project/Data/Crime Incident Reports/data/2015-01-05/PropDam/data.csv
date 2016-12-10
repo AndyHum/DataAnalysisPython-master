@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2892,152027096.0,Monday,No,2015-01-05T09:00:00.000,PropDam,"[0, 0]",Point,PropDam,1,MISC,0,D4,Day,No,E CONCORD ST,Part three,Unarmed,,HARRISON AV,,2015
+97149,152001110.0,Monday,No,2015-01-05T09:30:00.000,PropDam,"[-71.05789, 42.309941]",Point,PropDam,1,MVA,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775751.4323,DEWAR ST,2938280.5930000003,2015
+112393,152001167.0,Monday,No,2015-01-05T11:26:00.000,PropDam,"[-71.124075, 42.255986]",Point,PropDam,1,MVA,0,E18,Day,No,HYDE PARK AV,Part three,Other,757936.0917,,2918532.7460000003,2015
+129311,152001134.0,Monday,No,2015-01-05T10:19:00.000,PropDam,"[-71.05015, 42.337091]",Point,PropDam,1,IVPREM,0,C6,Day,No,W 4TH ST,Part three,Unarmed,777792.7946,E ST,2948185.442,2015
+132976,152001304.0,Monday,No,2015-01-05T14:45:00.000,PropDam,"[-71.065251, 42.314806]",Point,PropDam,1,IVPREM,0,B2,Day,No,JEROME ST,Part three,Unarmed,773751.1227,,2940043.256,2015
+141042,152001063.0,Monday,No,2015-01-05T00:30:00.000,PropDam,"[-71.09932, 42.318856]",Point,PropDam,1,PROP,0,E13,Last,No,BRAGDON ST,Part three,Unarmed,764530.0188,,2941474.005,2015
+187303,152001195.0,Monday,No,2015-01-05T11:45:00.000,PropDam,"[-71.04844, 42.353131]",Point,PropDam,1,MVA,0,C6,Day,No,SLEEPER ST,Part three,Other,778224.1783,SEAPORT BL,2954033.15,2015
+221565,152001505.0,Monday,No,2015-01-05T16:00:00.000,PropDam,"[-71.087595, 42.310136]",Point,PropDam,1,IVPREM,0,B2,First,No,HOMESTEAD ST,Part three,Unarmed,767716.3638,,2938311.4069999997,2015

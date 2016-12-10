@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9873,140041471.0,Tuesday,No,2014-01-21T10:00:00.000,Service,"[-71.044145, 42.332866]",Point,Service,1,AOD   ,219,C6,Day,No,G ST,Other,Unarmed,779424.5802,,2946654.4,2014
+35180,140041532.0,Tuesday,No,2014-01-21T10:28:00.000,Service,"[-71.088405, 42.287166]",Point,Service,1,ARREST,431,B3,Day,No,LUCERNE ST,Part three,Unarmed,767537.6643,,2929939.73,2014
+178941,140041045.0,Tuesday,No,2014-01-21T02:33:00.000,Service,"[-71.058395, 42.351291]",Point,Service,1,ARREST,116,A1,Last,No,LINCOLN ST,Part three,Unarmed,775536.8222,,2953348.5310000004,2014
+184267,140056846.0,Tuesday,No,2014-01-21T07:50:00.000,Service,"[-71.090956, 42.333723]",Point,Service,1,MVANO ,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+199593,140041798.0,Tuesday,No,2014-01-21T13:15:00.000,Service,"[-71.07632, 42.271511]",Point,Service,1,TSTOP ,409,B3,Day,No,IDAHO ST,Part three,Unarmed,770835.978,RIVER ST,2924250.8460000004,2014
+218463,140042492.0,Tuesday,No,2014-01-21T18:00:00.000,Service,"[-71.090772, 42.341561]",Point,Service,1,LOCK  ,618,D4,First,No,HEMENWAY ST,Part three,Unarmed,766801.9673,,2949758.7819999997,2014
+244705,140040932.0,Tuesday,No,2014-01-21T00:28:00.000,Service,"[-71.0626, 42.352361]",Point,Service,1,ARREST,117,A1,Last,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014

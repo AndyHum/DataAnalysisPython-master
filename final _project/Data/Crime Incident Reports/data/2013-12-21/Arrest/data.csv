@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35359,130802230.0,Saturday,No,2013-12-21T12:05:00.000,Arrest,"[-71.12424, 42.255091]",Point,Arrest,12,ARREST,521,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757892.8605,OAK ST,2918206.4,2013
+240209,130801463.0,Saturday,No,2013-12-21T01:11:00.000,Arrest,"[-71.0714, 42.303361]",Point,Arrest,12,IVPER ,0,C11,Last,No,GENEVA AV,Part three,Unarmed,772109.2449,BOWDOIN ST,2935864.087,2013
+253762,130802591.0,Saturday,No,2013-12-21T14:40:00.000,Arrest,"[-71.063873, 42.325436]",Point,Arrest,12,CD11  ,186,C6,Day,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2013

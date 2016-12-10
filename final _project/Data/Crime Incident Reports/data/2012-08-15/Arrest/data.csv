@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61570,120507262.0,Wednesday,No,2012-08-15T12:36:00.000,Arrest,"[-71.06866, 42.320946]",Point,Arrest,8,ARREST,183,B2,Day,No,ROBEY ST,Part Three,Unarmed,772818.0412,,2942276.077,2012
+188353,120506476.0,Wednesday,No,2012-08-15T01:35:00.000,Arrest,"[-71.13768, 42.353586]",Point,Arrest,8,ARREST,803,D14,Last,No,N BEACON ST,Part Three,Unarmed,754101.9287,,2954083.8789999997,2012
+224564,120507005.0,Wednesday,No,2012-08-15T09:50:00.000,Arrest,"[-71.074385, 42.335516]",Point,Arrest,8,ARREST,171,D4,Day,No,HARRISON AV,Part Three,Unarmed,771243.2964,,2947577.858,2012

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+173,152033603.0,Saturday,No,2015-04-25T09:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,A1,Day,No,YAWKEY WY,Part three,Unarmed,,,,2015
+12579,152033581.0,Saturday,No,2015-04-25T05:00:00.000,InvProp,"[-71.06765, 42.340511]",Point,InvProp,4,IVMV,0,D4,Last,No,UNION PARK ST,Part three,Unarmed,773055.0431,,2949407.284,2015
+54115,152033569.0,Saturday,No,2015-04-25T00:15:00.000,InvProp,"[-71.077701, 42.327925]",Point,InvProp,4,SSA,0,B2,Last,No,DUDLEY ST,Part three,Unarmed,770360.3001,ADAMS ST,2944807.002,2015
+101939,152033759.0,Saturday,No,2015-04-25T16:00:00.000,InvProp,"[-71.06889, 42.358386]",Point,InvProp,4,CD9,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772686.8814,,2955919.5730000003,2015
+129012,152033836.0,Saturday,No,2015-04-25T22:46:00.000,InvProp,"[-71.066534, 42.313851]",Point,InvProp,4,IVPER,0,C11,First,No,PAYSON AV,Part three,Unarmed,773405.9843,,2939693.4289999995,2015
+143126,152033567.0,Saturday,No,2015-04-25T02:58:00.000,InvProp,"[-71.076829, 42.301465]",Point,InvProp,4,IVPREM,0,C11,Last,No,WASHINGTON ST,Part three,Unarmed,770644.0423,,2935165.667,2015
+180749,152033653.0,Saturday,No,2015-04-25T11:12:00.000,InvProp,"[-71.054896, 42.375662]",Point,InvProp,4,FIRE,0,A15,Day,No,3RD AV,Part three,Unarmed,776436.2935,,2962234.564,2015
+199665,152033752.0,Saturday,No,2015-04-25T17:16:00.000,InvProp,"[-71.03926, 42.368586]",Point,InvProp,4,FIRE,0,A7,First,No,SUMNER ST,Part three,Unarmed,780675.0997,,2959678.517,2015
+205207,152033834.0,Saturday,No,2015-04-25T23:45:00.000,InvProp,"[-71.06889, 42.358386]",Point,InvProp,4,CD9,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772686.8814,,2955919.5730000003,2015
+215030,152033842.0,Saturday,No,2015-04-25T23:45:00.000,InvProp,"[-71.145856, 42.256202]",Point,InvProp,4,SHOTS,0,E5,First,No,MARGARETTA DR,Part three,Other,752039.0539,,2918586.099,2015
+220813,152033590.0,Saturday,No,2015-04-25T07:30:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,4,CD9,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015

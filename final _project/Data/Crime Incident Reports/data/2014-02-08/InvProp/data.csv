@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130140,140080989.0,Saturday,No,2014-02-08T14:00:00.000,InvProp,"[-71.15163, 42.349006]",Point,InvProp,2,IVPREM,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750338.0816,,2952399.125,2014
+193528,140125231.0,Saturday,No,2014-02-08T18:13:00.000,InvProp,"[-71.06181, 42.320401]",Point,InvProp,2,IVMV  ,237,B2,First,No,E COTTAGE ST,Part three,Unarmed,774671.5535,COLUMBIA RD,2942086.912,2014
+200032,140085118.0,Saturday,No,2014-02-08T18:00:00.000,InvProp,"[-71.074215, 42.303326]",Point,InvProp,2,IVPER ,461,C11,First,No,ROSSETER ST,Part three,Unarmed,771347.8181,,2935847.519,2014

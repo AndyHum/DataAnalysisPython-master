@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87897,130695922.0,Friday,No,2013-11-01T12:55:00.000,PropDam,"[-71.107135, 42.318266]",Point,PropDam,11,IVMV  ,638,E13,Day,No,BEECHER ST,Part three,Unarmed,762417.4695,BOYLSTON ST,2941249.167,2013
+200469,130695843.0,Friday,No,2013-11-01T12:26:00.000,PropDam,"[-71.02121, 42.381561]",Point,PropDam,11,DWNPWR,15,A7,Day,No,BENNINGTON ST,Part three,Unarmed,785526.2566,,2964433.728,2013
+240312,130695858.0,Friday,No,2013-11-01T13:05:00.000,PropDam,"[-71.102665, 42.330421]",Point,PropDam,11,PDRPT ,586,B2,Day,No,HILLSIDE ST,Part three,Other,763605.7437,,2945684.262,2013

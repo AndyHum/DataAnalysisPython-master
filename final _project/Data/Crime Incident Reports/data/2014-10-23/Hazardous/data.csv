@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+136427,142041898.0,Thursday,No,2014-10-23T04:00:00.000,Hazardous,"[-71.1111, 42.266531]",Point,Hazardous,10,IVPREM,0,E18,Last,No,WOOD AV,Other,Unarmed,761431.1002,GERAGHTY TR,2922391.229,2014
+142199,142041861.0,Thursday,No,2014-10-23T08:00:00.000,Hazardous,"[-71.149195, 42.350047]",Point,Hazardous,10,IVPREM,0,D14,Day,No,ELKO ST,Other,Unarmed,750994.5104,,2952781.203,2014
+229401,142041959.0,Thursday,No,2014-10-23T12:26:00.000,Hazardous,"[-71.03561, 42.371676]",Point,Hazardous,10,REQP,0,A7,Day,No,BREMEN ST,Other,Unarmed,781655.3152,,2960809.9239999996,2014
+262687,142041858.0,Thursday,No,2014-10-23T10:33:00.000,Hazardous,"[0, 0]",Point,Hazardous,10,IVPREM,0,E18,Day,No,GERAGHTY TR,Other,Unarmed,,WOOD AV,,2014

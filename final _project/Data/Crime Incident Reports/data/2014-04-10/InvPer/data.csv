@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44878,140226554.0,Thursday,No,2014-04-10T16:00:00.000,InvPer,"[-71.08718, 42.307476]",Point,InvPer,4,IVPER ,319,B2,First,No,NAZING CT,Part three,Unarmed,767833.3058,,2937342.604,2014
+62973,140217048.0,Thursday,No,2014-04-10T14:42:00.000,InvPer,"[-71.110659, 42.333961]",Point,InvPer,4,IVPER ,611,B2,Day,No,NEW WHITNEY ST,Part three,Unarmed,761438.0939,,2946964.375,2014
+65717,140218005.0,Thursday,No,2014-04-10T22:59:00.000,InvPer,"[-71.06493, 42.361146]",Point,InvPer,4,PERGUN,68,A1,First,No,CAMBRIDGE ST,Part three,Firearm,773752.0472,,2956930.805,2014
+97320,140217388.0,Thursday,No,2014-04-10T17:18:00.000,InvPer,"[-71.053506, 42.32612]",Point,InvPer,4,FIGHT ,914,C6,First,No,GAVIN WY,Part three,Unarmed,776906.2024,,2944182.5530000003,2014
+97342,140218507.0,Thursday,No,2014-04-10T22:00:00.000,InvPer,"[-71.157724, 42.258343]",Point,InvPer,4,IVPREM,821,E5,First,No,BIRCHWOOD ST,Part three,Unarmed,748823.1516,,2919353.222,2014
+114658,140219906.0,Thursday,No,2014-04-10T00:30:00.000,InvPer,"[-71.10438, 42.268031]",Point,InvPer,4,BERPT ,486,E18,Last,No,RADCLIFFE RD,Part three,Unarmed,763247.4633,,2922946.215,2014
+187717,140217981.0,Thursday,No,2014-04-10T20:45:00.000,InvPer,"[-71.06939, 42.329836]",Point,InvPer,4,THREAT,177,C6,First,No,MASSACHUSETTS AV,Part three,Other,772604.2674,,2945514.745,2014
+217388,140218899.0,Thursday,No,2014-04-10T11:15:00.000,InvPer,"[-71.12395, 42.256421]",Point,InvPer,4,IVPER ,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+260871,140217273.0,Thursday,No,2014-04-10T16:26:00.000,InvPer,"[0, 0]",Point,InvPer,4,PERGUN,298,B2,First,No,DALE ST,Part three,Unarmed,,,,2014

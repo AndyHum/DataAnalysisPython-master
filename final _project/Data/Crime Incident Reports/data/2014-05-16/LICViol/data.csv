@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129198,140304643.0,Friday,No,2014-05-16T22:25:00.000,LICViol,"[-71.052515, 42.357331]",Point,LICViol,5,CD35  ,100,A1,First,No,BROAD ST,Part three,Unarmed,777114.68,,2955557.905,2014
+208794,140304743.0,Friday,No,2014-05-16T23:15:00.000,LICViol,"[-71.098625, 42.346181]",Point,LICViol,5,TRAUMA,624,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+258074,140304592.0,Friday,No,2014-05-16T22:10:00.000,LICViol,"[-71.05301, 42.357526]",Point,LICViol,5,CD35  ,100,A1,First,No,BROAD ST,Part three,Unarmed,776980.5185,,2955628.265,2014

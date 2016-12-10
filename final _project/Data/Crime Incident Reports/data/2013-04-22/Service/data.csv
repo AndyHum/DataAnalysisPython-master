@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124513,130237715.0,Monday,No,2013-04-22T20:30:00.000,Service,"[-71.09082, 42.335871]",Point,Service,4,ABIP  ,911,D4,First,No,RUGGLES ST,Part Three,Unarmed,766799.0657,,2947685.482,2013
+172940,130236007.0,Monday,No,2013-04-22T02:32:00.000,Service,"[-71.166065, 42.353471]",Point,Service,4,ROBRPT,759,D14,Last,No,PERTHSHIRE RD,Part Three,Unarmed,746429.6340000001,,2954010.538,2013
+195596,130237511.0,Monday,No,2013-04-22T15:15:00.000,Service,"[-71.089215, 42.340161]",Point,Service,4,LARCRT,283,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,767225.4855,,2949250.922,2013
+196048,130237491.0,Monday,No,2013-04-22T18:00:00.000,Service,"[-71.053695, 42.336386]",Point,Service,4,INJAML,936,C6,First,No,D ST,Part Three,Unarmed,776835.6861,,2947923.4930000002,2013
+225310,130237595.0,Monday,No,2013-04-22T19:12:00.000,Service,"[-71.0626, 42.352361]",Point,Service,4,ARREST,112,A1,First,No,ESSEX ST,Part Three,Other,774398.1813,WASHINGTON ST,2953732.602,2013
+239720,130236965.0,Monday,No,2013-04-22T14:18:00.000,Service,"[-71.13143, 42.351131]",Point,Service,4,ARREST,794,D14,Day,No,HARVARD AV,Part Three,Unarmed,755795.16,GLENVILLE TR,2953196.465,2013

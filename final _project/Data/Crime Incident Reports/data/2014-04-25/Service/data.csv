@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33534,140251340.0,Friday,No,2014-04-25T10:36:00.000,Service,"[-71.03887, 42.371246]",Point,Service,4,CD11  ,28,A7,Day,No,PARIS ST,Other,Unarmed,780775.2494,,2960648.442,2014
+43884,140251170.0,Friday,No,2014-04-25T08:50:00.000,Service,"[-71.062857, 42.319528]",Point,Service,4,ARREST,237,B2,Day,No,COLUMBIA RD,Part three,Unarmed,774389.8347,,2941767.137,2014
+89563,140251769.0,Friday,No,2014-04-25T14:06:00.000,Service,"[-71.116981, 42.300337]",Point,Service,4,ARREST,652,E13,Day,No,SOUTH ST,Part three,Unarmed,759783.7729999999,,2934703.249,2014
+149980,140252239.0,Friday,No,2014-04-25T17:36:00.000,Service,"[-71.063873, 42.325436]",Point,Service,4,SSTOP ,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+212448,140251490.0,Friday,No,2014-04-25T11:30:00.000,Service,"[-71.07102, 42.336701]",Point,Service,4,ARREST,169,D4,Day,No,E NEWTON ST,Part three,Unarmed,772150.9382,,2948014.253,2014
+220527,140254180.0,Friday,No,2014-04-25T20:00:00.000,Service,"[-71.130035, 42.359386]",Point,Service,4,LARCRT,816,D14,First,No,COOLIDGE RD,Part three,Unarmed,756159.192,,2956206.39,2014

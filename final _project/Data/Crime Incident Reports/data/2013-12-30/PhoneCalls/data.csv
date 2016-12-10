@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5073,130818420.0,Monday,No,2013-12-30T13:19:00.000,PhoneCalls,"[-71.118798, 42.257885]",Point,PhoneCalls,12,IVPER ,519,E18,Day,No,RIVER ST,Part three,Unarmed,759361.4307,,2919230.9260000004,2013
+95230,130818471.0,Monday,No,2013-12-30T14:35:00.000,PhoneCalls,"[-71.067305, 42.314776]",Point,PhoneCalls,12,IVPER ,258,B2,Day,No,COLUMBIA RD,Part three,Unarmed,773195.8889,,2940029.4839999997,2013
+202836,130818642.0,Monday,No,2013-12-30T16:36:00.000,PhoneCalls,"[-71.09531, 42.269846]",Point,PhoneCalls,12,THREAT,476,B3,First,No,REXFORD ST,Part three,Unarmed,765699.2422,,2923619.142,2013

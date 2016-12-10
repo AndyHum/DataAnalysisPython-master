@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60356,130340601.0,Wednesday,No,2013-06-05T17:08:00.000,TRESPASS,"[-71.080641, 42.329362]",Point,TRESPASS,6,SSTOP ,904,B2,First,No,BETHUNE WY,Part Two,Unarmed,769562.6662,,2945326.736,2013
+96385,130339616.0,Wednesday,No,2013-06-05T09:42:00.000,TRESPASS,"[-71.069812, 42.273029]",Point,TRESPASS,6,BEIP  ,405,C11,Day,No,WASHINGTON ST,Part Two,Other,772594.4688,,2924812.603,2013
+137635,130340542.0,Wednesday,No,2013-06-05T16:49:00.000,TRESPASS,"[-71.077661, 42.330753]",Point,TRESPASS,6,SSTOP ,904,B2,First,No,ALBANY ST,Part Two,Unarmed,770366.1347,,2945837.597,2013
+190590,130339607.0,Wednesday,No,2013-06-05T09:29:00.000,TRESPASS,"[-71.073901, 42.312496]",Point,TRESPASS,6,IVPREM,327,B2,Day,No,QUINCY ST,Part Two,Other,771415.9646,,2939189.5960000004,2013

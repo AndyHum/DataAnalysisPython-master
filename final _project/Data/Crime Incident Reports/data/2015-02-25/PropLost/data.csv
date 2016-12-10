@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39351,152015212.0,Wednesday,No,2015-02-25T01:21:00.000,PropLost,"[-71.10186, 42.270696]",Point,PropLost,2,MISC,0,B3,Last,No,CUMMINS HY,Part three,Unarmed,763925.0049,,2923920.5489999996,2015
+117628,152019230.0,Wednesday,No,2015-02-25T10:00:00.000,PropLost,"[-71.165562, 42.264913]",Point,PropLost,2,PROP,0,E5,Day,No,SALMAN ST,Part three,Unarmed,746691.9698,,2921739.1160000004,2015
+130303,152015168.0,Wednesday,No,2015-02-25T10:10:00.000,PropLost,"[-71.048195, 42.291061]",Point,PropLost,2,LARCEN,0,C11,Day,No,FREEPORT ST,Part three,Unarmed,778410.2138,,2931414.187,2015
+202250,152016232.0,Wednesday,No,2015-02-25T23:59:00.000,PropLost,"[-71.061984, 42.36231]",Point,PropLost,2,PROP,0,A1,Last,No,NEW CHARDON ST,Part three,Unarmed,774546.0673,,2957359.042,2015
+222181,152017430.0,Wednesday,No,2015-02-25T15:30:00.000,PropLost,"[-71.104895, 42.337681]",Point,PropLost,2,IVPER,0,B2,Day,No,LONGWOOD AV,Part three,Unarmed,762990.5031,,2948327.137,2015
+264073,152016725.0,Wednesday,No,2015-02-25T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,B2,First,No,COLUMBUS AV,Part three,Unarmed,,TREMONT ST,,2015
+264671,152019577.0,Wednesday,No,2015-02-25T00:01:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,B2,Last,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015

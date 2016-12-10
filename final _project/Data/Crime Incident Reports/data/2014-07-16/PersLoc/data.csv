@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43563,142009902.0,Wednesday,No,2014-07-16T08:00:00.000,PersLoc,"[-71.092706, 42.319572]",Point,PersLoc,7,IVPER,0,B2,Day,No,TOWNSEND ST,Other,Unarmed,766317.3997,,2941743.244,2014
+72598,142009910.0,Wednesday,No,2014-07-16T20:00:00.000,PersLoc,"[-71.07161, 42.314756]",Point,PersLoc,7,IVPER,0,B2,First,No,MAGNOLIA ST,Other,Unarmed,772031.5819,,2940016.318,2014
+146403,142013701.0,Wednesday,No,2014-07-16T16:00:00.000,PersLoc,"[-71.07102, 42.336701]",Point,PersLoc,7,MISSIN,0,D4,First,No,E NEWTON ST,Other,Unarmed,772150.9382,,2948014.253,2014
+151807,142009615.0,Wednesday,No,2014-07-16T02:30:00.000,PersLoc,"[-71.069315, 42.313072]",Point,PersLoc,7,MISSIN,0,B2,Last,No,GLENDALE ST,Other,Unarmed,772655.2814,,2939405.653,2014
+176970,142009900.0,Wednesday,No,2014-07-16T23:03:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,7,IVPER,0,C11,First,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014

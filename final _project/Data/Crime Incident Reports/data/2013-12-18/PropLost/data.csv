@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59105,130800422.0,Wednesday,No,2013-12-18T00:30:00.000,PropLost,"[-71.05634, 42.352901]",Point,PropLost,12,LSTPRP,106,A1,Last,No,PURCHASE ST,Part three,Unarmed,776089.2508,SUMMER ST,2953938.128,2013
+103676,130797584.0,Wednesday,No,2013-12-18T20:45:00.000,PropLost,"[-71.070605, 42.351621]",Point,PropLost,12,LARCRT,120,A1,First,No,ARLINGTON ST,Part three,Unarmed,772235.7668,,2953451.938,2013
+112132,130797994.0,Wednesday,No,2013-12-18T07:00:00.000,PropLost,"[-71.165505, 42.34934]",Point,PropLost,12,LSTPRP,752,D14,Last,No,LANGLEY RD,Part three,Unarmed,746586.7823,,2952505.836,2013
+122547,130801968.0,Wednesday,No,2013-12-18T06:00:00.000,PropLost,"[-71.064983, 42.287156]",Point,PropLost,12,BERPT ,817,C11,Last,No,TALBOT AV,Part three,Unarmed,773875.1664,,2929967.579,2013
+133215,130816525.0,Wednesday,No,2013-12-18T19:30:00.000,PropLost,"[-71.085387, 42.289863]",Point,PropLost,12,LSTPRP,944,B3,First,No,AMES ST,Part three,Unarmed,768349.27,,2930926.4310000003,2013
+139854,130794850.0,Wednesday,No,2013-12-18T10:00:00.000,PropLost,"[-71.065136, 42.319763]",Point,PropLost,12,LSTPRP,237,B2,Day,No,BELDEN ST,Part three,Unarmed,773773.2628,,2941849.644,2013
+155255,130800922.0,Wednesday,No,2013-12-18T23:00:00.000,PropLost,"[-71.117889, 42.264132]",Point,PropLost,12,LSTPRP,492,E18,First,No,METROPOLITAN AV,Part three,Unarmed,759597.1786,,2921508.637,2013
+158766,130796290.0,Wednesday,No,2013-12-18T15:45:00.000,PropLost,"[-71.06024, 42.351281]",Point,PropLost,12,LSTPRP,116,A1,Day,No,BEACH ST,Part three,Unarmed,775038.1239,OXFORD ST,2953342.31,2013
+208725,130799813.0,Wednesday,No,2013-12-18T08:00:00.000,PropLost,"[-71.081633, 42.318648]",Point,PropLost,12,LSTPRP,311,B2,Day,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2013
+224172,130797541.0,Wednesday,No,2013-12-18T13:00:00.000,PropLost,"[-71.088, 42.347211]",Point,PropLost,12,LARCRT,620,D4,Day,No,BOYLSTON ST,Part three,Unarmed,767541.5577,,2951821.6580000003,2013
+238727,130800807.0,Wednesday,No,2013-12-18T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,MISC  ,324,B2,Day,No,DEWEY ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+156735,120481126.0,Friday,No,2012-08-03T21:58:00.000,CRIMES AGAINST CHILDREN,"[-71.09666, 42.318511]",Point,20xx,8,CHDABU,304,B2,First,No,NOTRE DAME ST,Part Two,Other,765249.9973,,2941351.672,2012
+164854,120479296.0,Friday,No,2012-08-03T08:43:00.000,CRIMES AGAINST CHILDREN,"[-71.130451, 42.35065]",Point,20xx,8,REQEP ,794,D14,Day,No,COMMONWEALTH AV,Part Two,Unarmed,756060.5505,,2953022.06,2012
+204127,120480744.0,Friday,No,2012-08-03T19:22:00.000,CRIMES AGAINST CHILDREN,"[-71.08551, 42.307211]",Point,20xx,8,IVPER ,319,B2,First,No,WAYNE ST,Part Two,Unarmed,768285.5034,,2937248.2260000003,2012

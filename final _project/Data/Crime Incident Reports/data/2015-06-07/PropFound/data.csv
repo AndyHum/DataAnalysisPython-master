@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1751,152047204.0,Sunday,No,2015-06-07T17:30:00.000,PropFound,"[-71.074855, 42.351641]",Point,PropFound,6,PROP,0,D4,First,No,NEWBURY ST,Part three,Unarmed,771086.9302,,2953453.473,2015
+2651,152047153.0,Sunday,No,2015-06-07T17:45:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+2652,152047171.0,Sunday,No,2015-06-07T18:00:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+2656,152047160.0,Sunday,No,2015-06-07T17:48:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+2660,152047154.0,Sunday,No,2015-06-07T17:50:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+2666,152047152.0,Sunday,No,2015-06-07T17:45:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+4257,152047016.0,Sunday,No,2015-06-07T07:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,6,PROP,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+226623,152047080.0,Sunday,No,2015-06-07T02:00:00.000,PropFound,"[-71.08257, 42.348656]",Point,PropFound,6,PROP,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+231178,152047122.0,Sunday,No,2015-06-07T15:20:00.000,PropFound,"[-71.069615, 42.356111]",Point,PropFound,6,PROP,0,A1,Day,No,BEACON ST,Part three,Unarmed,772495.1137,CHARLES ST,2955089.5289999996,2015

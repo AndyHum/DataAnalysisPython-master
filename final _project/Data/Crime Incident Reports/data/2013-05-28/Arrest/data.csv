@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73802,130319218.0,Tuesday,No,2013-05-28T08:04:00.000,Arrest,"[-71.07713, 42.280711]",Point,Arrest,5,ARREST,418,B3,Day,No,FULLER ST,Part Three,Unarmed,770600.1297,,2927602.3639999996,2013
+119726,130319588.0,Tuesday,No,2013-05-28T10:20:00.000,Arrest,"[-71.063873, 42.325436]",Point,Arrest,5,ARREST,186,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013
+137062,130319207.0,Tuesday,No,2013-05-28T08:00:00.000,Arrest,"[-71.088875, 42.325151]",Point,Arrest,5,ARREST,293,B2,Day,No,JUNIPER ST,Part three,Unarmed,767343.7713,,2943781.453,2013
+155945,130319618.0,Tuesday,No,2013-05-28T11:00:00.000,Arrest,"[-71.061495, 42.356911]",Point,Arrest,5,ARREST,102,A1,Day,No,TREMONT ST,Part Three,Unarmed,774688.3413,,2955392.2430000002,2013

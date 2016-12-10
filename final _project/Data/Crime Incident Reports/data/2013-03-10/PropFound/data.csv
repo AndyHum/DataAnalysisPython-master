@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86190,130142665.0,Sunday,No,2013-03-10T14:10:00.000,PropFound,"[-71.1049, 42.318101]",Point,PropFound,3,FDPROP,578,E13,Day,No,DANFORTH ST,Part Three,Unarmed,763022.2034,PAUL GORE ST,2941191.83,2013
+114417,130142304.0,Sunday,No,2013-03-10T09:50:00.000,PropFound,"[-71.10399, 42.310001]",Point,PropFound,3,FDPROP,571,E13,Day,No,WOODSIDE AV,Part Three,Unarmed,763282.0165,WASHINGTON ST,2938241.1960000005,2013
+206913,130142970.0,Sunday,No,2013-03-10T16:00:00.000,PropFound,"[-71.048389, 42.308881]",Point,PropFound,3,LSTPRP,252,C11,First,No,SAVIN HILL AV,Part Three,Unarmed,778323.1004,,2937907.564,2013
+262387,130144432.0,Sunday,No,2013-03-10T17:45:00.000,PropFound,"[0, 0]",Point,PropFound,3,LARCRT,915,C6,First,No,JAMES ONEILL ST,Part Three,Unarmed,,,,2013
+263412,130142669.0,Sunday,No,2013-03-10T13:20:00.000,PropFound,"[0, 0]",Point,PropFound,3,LSTPRP,49,A15,Day,No,ALFORD ST,Part Three,Unarmed,,,,2013

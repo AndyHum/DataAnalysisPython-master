@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32203,130409876.0,Wednesday,No,2013-07-03T08:00:00.000,InvProp,"[-71.073885, 42.355071]",Point,InvProp,7,IVPREM,131,D4,Day,No,BEACON ST,Part three,Unarmed,771342.8818,,2954704.7389999996,2013
+59016,130406750.0,Wednesday,No,2013-07-03T00:17:00.000,InvProp,"[0, 0]",Point,InvProp,7,SHOTS ,303,E13,Last,No,ERNST ST,Part three,Unarmed,,,,2013
+84252,130408357.0,Wednesday,No,2013-07-03T17:30:00.000,InvProp,"[-71.070539, 42.312118]",Point,InvProp,7,PDRPT ,331,B2,First,No,DRAYTON AV,Part three,Unarmed,772325.9185,,2939056.353,2013
+140327,130416256.0,Wednesday,No,2013-07-03T23:30:00.000,InvProp,"[-71.08132, 42.279566]",Point,InvProp,7,HARPT ,420,B3,First,No,MORTON ST,Part three,Other,769468.3284,,2927179.514,2013
+199161,130407684.0,Wednesday,No,2013-07-03T12:07:00.000,InvProp,"[-71.112386, 42.331892]",Point,InvProp,7,REQP  ,606,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,760974.5252,,2946208.275,2013
+221696,130407081.0,Wednesday,No,2013-07-03T00:30:00.000,InvProp,"[-71.03813, 42.377501]",Point,InvProp,7,LMUSIC,23,A7,Last,No,LEXINGTON ST,Part three,Unarmed,780962.8688,,2962928.974,2013
+258765,130407771.0,Wednesday,No,2013-07-03T12:50:00.000,InvProp,"[-71.082405, 42.352746]",Point,InvProp,7,IVPREM,135,D4,Day,No,BEACON ST,Part three,Unarmed,769044.1485,,2953846.0760000004,2013

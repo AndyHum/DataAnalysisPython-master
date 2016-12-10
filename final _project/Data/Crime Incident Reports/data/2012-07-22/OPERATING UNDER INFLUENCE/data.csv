@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3757,120452781.0,Sunday,No,2012-07-22T20:26:00.000,OPERATING UNDER INFLUENCE,"[-71.002594, 42.383787]",Point,21xx,7,ARREST,5,A7,First,No,BAYSWATER ST,Part Two,Unarmed,790551.1508,,2965273.652,2012
+139929,120452887.0,Sunday,No,2012-07-22T21:25:00.000,OPERATING UNDER INFLUENCE,"[-71.07314, 42.295316]",Point,21xx,7,INVEST,452,B3,First,No,PARK ST,Part Two,Other,771653.225,,2932930.01,2012
+158628,120451728.0,Sunday,No,2012-07-22T09:42:00.000,OPERATING UNDER INFLUENCE,"[-71.03802, 42.368051]",Point,21xx,7,ARREST,35,A7,Day,No,SUMNER ST,Part Two,Unarmed,781011.2440000001,ORLEANS ST,2959485.3639999996,2012

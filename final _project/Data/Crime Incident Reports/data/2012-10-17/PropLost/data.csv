@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56232,120697285.0,Wednesday,No,2012-10-17T13:30:00.000,PropLost,"[-71.048882, 42.281732]",Point,PropLost,10,LSTPRP,383,C11,Day,No,MILTON ST,Part Three,Unarmed,778242.2325,,2928013.562,2012
+93219,120654723.0,Wednesday,No,2012-10-17T13:30:00.000,PropLost,"[-71.13085, 42.352856]",Point,PropLost,10,LSTPRP,796,D14,Day,No,BRIGHTON AV,Part Three,Unarmed,755949.2183,,2953825.769,2012
+218230,120658725.0,Wednesday,No,2012-10-17T23:00:00.000,PropLost,"[-71.055312, 42.327496]",Point,PropLost,10,LSTPRP,914,C6,First,No,OCALLAGHAN WY,Part Three,Unarmed,776415.2591,,2944681.3510000003,2012

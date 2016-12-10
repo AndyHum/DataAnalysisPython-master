@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36219,120629359.0,Saturday,No,2012-10-06T10:30:00.000,PropFound,"[-71.09134, 42.279336]",Point,PropFound,10,LSTPRP,427,B3,Day,No,EVELYN ST,Part Three,Unarmed,766757.183,,2927082.5519999997,2012
+42180,120628906.0,Saturday,No,2012-10-06T02:41:00.000,PropFound,"[-71.068085, 42.350586]",Point,PropFound,10,FDPROP,125,A1,Last,No,STUART ST,Part Three,Unarmed,772918.8471,,2953078.204,2012
+161030,120629017.0,Saturday,No,2012-10-06T01:00:00.000,PropFound,"[-71.07547, 42.346214]",Point,PropFound,10,FDPROP,149,D4,Last,No,DARTMOUTH ST,Part Three,Unarmed,770930.358,,2951474.633,2012
+211830,120628940.0,Saturday,No,2012-10-06T03:05:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,10,FDPROP,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012

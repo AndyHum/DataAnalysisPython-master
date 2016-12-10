@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14550,130192982.0,Tuesday,No,2013-04-02T10:30:00.000,MedAssist,"[-71.04206, 42.317766]",Point,MedAssist,4,REQEP ,256,C6,Day,No,MT VERNON ST,Part Three,Unarmed,780017.8828,,2941154.74,2013
+74591,130192917.0,Tuesday,No,2013-04-02T12:38:00.000,MedAssist,"[-71.065829, 42.316441]",Point,MedAssist,4,CARST ,332,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,773591.8648,,2940638.1739999996,2013
+80337,130193352.0,Tuesday,No,2013-04-02T15:57:00.000,MedAssist,"[-71.03584, 42.376091]",Point,MedAssist,4,MVPED2,22,A7,Day,No,BENNINGTON ST,Part Three,Unarmed,781584.4115,LONDON ST,2962418.498,2013
+178412,130192324.0,Tuesday,No,2013-04-02T07:31:00.000,MedAssist,"[-71.057265, 42.322646]",Point,MedAssist,4,CARST ,188,C6,Day,No,HARVEST ST,Part Three,Unarmed,775896.4527,,2942911.374,2013
+214447,130194022.0,Tuesday,No,2013-04-02T08:44:00.000,MedAssist,"[-71.073461, 42.302702]",Point,MedAssist,4,JUMPER,462,C11,Day,No,ROSSETER ST,Part Three,Unarmed,771552.865,,2935621.039,2013
+220208,130193823.0,Tuesday,No,2013-04-02T19:30:00.000,MedAssist,"[-71.065539, 42.365847]",Point,MedAssist,4,REQP  ,70,A1,First,No,MARTHA RD,Part Three,Unarmed,773578.6116,,2958642.849,2013
+223144,130192919.0,Tuesday,No,2013-04-02T12:39:00.000,MedAssist,"[-71.09131, 42.330001]",Point,MedAssist,4,UNK   ,288,B2,Day,No,JOHN ELIOT SQ,Part Three,Unarmed,766676.8321,,2945545.713,2013
+246795,130192063.0,Tuesday,No,2013-04-02T00:43:00.000,MedAssist,"[-71.06261, 42.291781]",Point,MedAssist,4,UNK   ,363,C11,Last,No,DORCHESTER AV,Part Three,Unarmed,774508.684,KING ST,2931656.236,2013

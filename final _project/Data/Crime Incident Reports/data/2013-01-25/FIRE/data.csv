@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90349,130051722.0,Friday,No,2013-01-25T16:16:00.000,FIRE,"[-71.097465, 42.315081]",Point,FIRE,1,FIREB ,930,E13,First,No,COLUMBUS AV,Part Three,Other,765038.1884,,2940100.693,2013
+105131,130050347.0,Friday,No,2013-01-25T23:31:00.000,FIRE,"[-71.099225, 42.314846]",Point,FIRE,1,FIREB ,572,E13,First,No,WASHINGTON ST,Part Three,Unarmed,764562.5768,,2940012.814,2013
+178957,130051944.0,Friday,No,2013-01-25T17:57:00.000,FIRE,"[-71.05421, 42.295926]",Point,FIRE,1,FV    ,354,C11,First,No,VICTORY RD,Part Three,Unarmed,776773.5045,,2933178.499,2013
+227707,130050632.0,Friday,No,2013-01-25T03:52:00.000,FIRE,"[-71.107209, 42.304861]",Point,FIRE,1,FIREB ,569,E13,Last,No,ROSSMORE RD,Part Three,Other,762419.7822,STEDMAN ST,2936364.061,2013

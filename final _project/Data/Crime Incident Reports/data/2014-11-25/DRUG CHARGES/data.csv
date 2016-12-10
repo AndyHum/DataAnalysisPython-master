@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10519,142052063.0,Tuesday,No,2014-11-25T09:00:00.000,DRUG CHARGES,"[-71.145297, 42.349864]",Point,18xx,11,IVPER,0,D14,Day,No,WARREN ST,Part Two,Unarmed,752048.4758,,2952718.7569999998,2014
+41933,142052153.0,Tuesday,No,2014-11-25T12:30:00.000,DRUG CHARGES,"[-71.054711, 42.341305]",Point,18xx,11,IVPER,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,776551.5679,,2949714.607,2014
+214781,142052167.0,Tuesday,No,2014-11-25T10:25:00.000,DRUG CHARGES,"[-71.060895, 42.380496]",Point,18xx,11,PROP,0,A15,Day,No,MEDFORD ST,Part Two,Other,774806.2656,POLK ST,2963987.9280000003,2014
+238311,142052181.0,Tuesday,No,2014-11-25T14:56:00.000,DRUG CHARGES,"[-71.11787, 42.264041]",Point,18xx,11,ARREST,0,E18,Day,No,WESTMINSTER AV,Part Two,Unarmed,759602.7289,METROPOLITAN AV,2921475.557,2014

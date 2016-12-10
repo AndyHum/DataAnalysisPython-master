@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34000,152006267.0,Friday,No,2015-01-23T12:20:00.000,PersMiss,"[-71.144024, 42.346747]",Point,PersMiss,1,IVPER,0,D14,Day,No,JETTE CT,Other,Unarmed,752397.4732,,2951584.079,2015
+261726,152006934.0,Friday,No,2015-01-23T10:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,1,IVPER,0,C11,Day,No,STOUGHTON ST,Other,Unarmed,,,,2015

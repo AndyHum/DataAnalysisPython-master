@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120393,130493326.0,Wednesday,No,2013-08-07T08:55:00.000,Arrest,"[-71.053506, 42.32612]",Point,Arrest,8,ARREST,914,C6,Day,No,GAVIN WY,Part three,Unarmed,776906.2024,,2944182.5530000003,2013
+222889,130493007.0,Wednesday,No,2013-08-07T02:31:00.000,Arrest,"[-71.062335, 42.315811]",Point,Arrest,8,CD11  ,0,C11,Last,No,STOUGHTON ST,Part three,Unarmed,774538.1562,,2940413.5130000003,2013
+230802,130494300.0,Wednesday,No,2013-08-07T16:58:00.000,Arrest,"[-71.05276, 42.288961]",Point,Arrest,8,SSTOP ,393,C11,First,No,ASHMONT ST,Part three,Unarmed,777179.1009,HUMES RD,2930642.41,2013

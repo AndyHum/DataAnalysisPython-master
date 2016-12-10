@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3049,152049273.0,Sunday,No,2015-06-14T11:00:00.000,Service,"[0, 0]",Point,Service,6,CD11,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,,,,2015
+4139,152049332.0,Sunday,No,2015-06-14T14:22:00.000,Service,"[0, 0]",Point,Service,6,FIGHT,0,D14,Day,No,SOLDIERS FIELD RD,Part three,Unarmed,,,,2015
+24386,152049302.0,Sunday,No,2015-06-14T12:00:00.000,Service,"[-71.064905, 42.352371]",Point,Service,6,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+61007,152049758.0,Sunday,No,2015-06-14T20:30:00.000,Service,"[-71.15331, 42.33931]",Point,Service,6,MVA,0,D14,First,No,STRATHMORE RD,Part three,Unarmed,749898.3105,,2948863.793,2015
+75417,152049396.0,Sunday,No,2015-06-14T16:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,6,CD9,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+78146,152049299.0,Sunday,No,2015-06-14T11:07:00.000,Service,"[-71.12864, 42.351584]",Point,Service,6,IVPER,0,D14,Day,No,CHESTER ST,Part three,Other,756548.412,BRIGHTON AV,2953364.769,2015
+112653,152049724.0,Sunday,No,2015-06-14T15:30:00.000,Service,"[-71.036425, 42.378896]",Point,Service,6,PROP,0,A7,Day,No,TRENTON ST,Part three,Unarmed,781420.7872,,2963439.84,2015
+112874,152049231.0,Sunday,No,2015-06-14T06:31:00.000,Service,"[-71.03584, 42.368766]",Point,Service,6,ROBBER,0,A7,Last,No,MAVERICK ST,Part three,Unarmed,781598.939,,2959749.122,2015
+119922,152049259.0,Sunday,No,2015-06-14T09:35:00.000,Service,"[-71.061495, 42.356911]",Point,Service,6,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2015
+150625,152049288.0,Sunday,No,2015-06-14T11:45:00.000,Service,"[-71.073978, 42.333151]",Point,Service,6,IVPER,0,D4,Day,No,ALBANY ST,Part three,Unarmed,771357.6081,NORTHAMPTON ST,2946716.26,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45255,,Tuesday,No,2015-06-30T14:01:00.000,Violations,"[0, 0]",Point,VAL,6,TS,116,A1,,No,ESSEX ST,Part Two,None,,JOHN F. FITZGERALD SURFACE RD,,2015
+65104,,Tuesday,No,2015-06-30T00:00:00.000,Restraining Order Violations,"[-71.061327, 42.362607]",Point,Restrain,6,IVPER,74,A1,,No,NEW CHARDON ST,Part Two,None,774723.0,,2960000.0,2015
+76885,,Tuesday,No,2015-06-30T08:53:00.000,Violations,"[0, 0]",Point,VAL,6,TS,796,D14,,No, COMMONWEALTH AVE ,Part Two,None,, HARVARD AVE ,,2015
+126568,,Tuesday,No,2015-06-30T22:11:00.000,Violations,"[0, 0]",Point,VAL,6,ARREST,959,C11,,No,DORCHESTER AVE,Part Two,None,,DRACUT ST,,2015
+214800,,Tuesday,No,2015-06-30T01:26:00.000,Violations,"[0, 0]",Point,VAL,6,ARREST,328,B2,,No,COLUMBIA RD,Part Two,None,,INTERVALE ST,,2015
+242609,,Tuesday,No,2015-06-30T18:45:00.000,Violations,"[0, 0]",Point,VAL,6,TS,291,B2,,No,COLUMBUS AVE,Part Two,None,,,,2015

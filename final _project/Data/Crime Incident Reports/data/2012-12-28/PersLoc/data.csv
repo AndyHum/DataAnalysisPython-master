@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99646,120811160.0,Friday,No,2012-12-28T16:18:00.000,PersLoc,"[-71.11987, 42.293381]",Point,PersLoc,12,MISPER,564,E5,First,No,ELVEN RD,Part Three,Unarmed,759013.7185,,2932165.058,2012
+195152,120811522.0,Friday,No,2012-12-28T19:01:00.000,PersLoc,"[-71.0793, 42.271526]",Point,PersLoc,12,MSNCOM,422,B3,First,No,RIVER ST,Part Three,Unarmed,770029.4192,,2924252.32,2012
+211699,120811672.0,Friday,No,2012-12-28T20:15:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,12,MISPER,281,B2,First,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2012
+226679,120811030.0,Friday,No,2012-12-28T14:41:00.000,PersLoc,"[-71.068175, 42.309816]",Point,PersLoc,12,MISPER,335,C11,Day,No,BELLEVUE ST,Part Three,Unarmed,772969.7365,,2938220.789,2012

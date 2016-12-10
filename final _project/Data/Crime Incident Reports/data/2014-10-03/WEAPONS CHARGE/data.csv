@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74690,142035526.0,Friday,No,2014-10-03T17:09:00.000,WEAPONS CHARGE,"[-71.10278, 42.319866]",Point,15xx,10,FDWEAP,0,E13,First,No,LAMARTINE ST,Part Two,Firearm,763592.5594,,2941837.689,2014
+201262,142035551.0,Friday,No,2014-10-03T17:52:00.000,WEAPONS CHARGE,"[-71.08257, 42.348656]",Point,15xx,10,ARREST,0,D4,First,No,BOYLSTON ST,Part Two,Other,769006.8448,,2952355.38,2014
+243817,142035589.0,Friday,No,2014-10-03T20:00:00.000,WEAPONS CHARGE,"[-71.05341, 42.333381]",Point,15xx,10,DISTRB,0,C6,First,No,FREDERICK ST,Part Two,Unarmed,776918.4828,,2946828.605,2014
+260001,142035498.0,Friday,No,2014-10-03T15:05:00.000,WEAPONS CHARGE,"[-71.062665, 42.288866]",Point,15xx,10,ARREST,0,C11,Day,No,EDWIN ST,Part Two,Unarmed,774499.2492,,2930593.894,2014

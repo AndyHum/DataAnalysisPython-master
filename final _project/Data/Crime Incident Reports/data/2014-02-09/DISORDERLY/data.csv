@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67160,140086467.0,Sunday,No,2014-02-09T02:00:00.000,DISORDERLY,"[-71.038548, 42.318574]",Point,24xx,2,DISTRB,256,C6,Last,No,OCEAN VIEW DR,Part Two,Unarmed,780965.9465,SOUTH POINT DR,2941454.045,2014
+67185,140082464.0,Sunday,No,2014-02-09T04:57:00.000,DISORDERLY,"[-71.085841, 42.306613]",Point,24xx,2,LMUSIC,319,B2,Last,No,NAZING ST,Part Two,Unarmed,768196.8940000001,,2937029.841,2014
+99041,140081978.0,Sunday,No,2014-02-09T12:03:00.000,DISORDERLY,"[-71.096745, 42.337636]",Point,24xx,2,PARTY ,616,B2,Day,No,VANCOUVER ST,Part Two,Other,765194.0614,,2948321.0510000004,2014
+115395,140083006.0,Sunday,No,2014-02-09T13:47:00.000,DISORDERLY,"[-71.079605, 42.347101]",Point,24xx,2,ARREST,146,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769811.1326,,2951792.646,2014

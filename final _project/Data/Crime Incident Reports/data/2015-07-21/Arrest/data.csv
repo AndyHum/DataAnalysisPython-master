@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19845,,Tuesday,No,2015-07-21T00:00:00.000,Warrant Arrests,"[-71.059173, 42.357944]",Point,Arrest,7,ARREST,92,A1,,No,CITY HALL PLZ,Part Three,None,775314.0,,2960000.0,2015
+42255,,Tuesday,No,2015-07-21T00:36:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,173,A1,,No,ATLANTIC AVE,Part Three,None,,,,2015
+59399,,Tuesday,No,2015-07-21T00:00:00.000,Warrant Arrests,"[-71.063705, 42.352312]",Point,Arrest,7,ARREST,117,A1,,No,BOYLSTON ST,Part Three,None,774099.0,,2950000.0,2015
+70565,,Tuesday,No,2015-07-21T12:18:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,SS,521,E18,,No,HYDE PARK AVE,Part Three,None,,RIVER ST,,2015
+100577,,Tuesday,No,2015-07-21T00:00:00.000,Warrant Arrests,"[-71.079209, 42.338256]",Point,Arrest,7,ARREST,273,D4,,No,MASSACHUSETTS AVE,Part Three,None,769934.0,,2950000.0,2015
+123029,,Tuesday,No,2015-07-21T00:00:00.000,Warrant Arrests,"[-71.03262, 42.370106]",Point,Arrest,7,ARREST,30,A7,,No,COTTAGE ST,Part Three,None,782466.0,,2960000.0,2015
+139168,,Tuesday,No,2015-07-21T00:00:00.000,Warrant Arrests,"[-71.038631, 42.380123]",Point,Arrest,7,CD11,24,A7,,No,MARION ST,Part Three,None,780822.0,,2960000.0,2015
+211871,,Tuesday,No,2015-07-21T10:02:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,0,,,No,,Part Three,None,,,,2015
+251401,,Tuesday,No,2015-07-21T19:11:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,IVPER,115,A1,,No,EAST ST,Part Three,None,,SOUTH ST,,2015

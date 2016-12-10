@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44972,142039024.0,Tuesday,No,2014-10-14T17:20:00.000,InvProp,"[-71.092073, 42.289674]",Point,InvProp,10,BE,0,B3,First,No,HARVARD ST,Part three,Unarmed,766540.6237,,2930848.814,2014
+59811,142038945.0,Tuesday,No,2014-10-14T13:12:00.000,InvProp,"[-71.07351, 42.333491]",Point,InvProp,10,IVPREM,0,D4,Day,No,ALBANY ST,Part three,Unarmed,771483.5641,MASSACHUSETTS AV,2946841.0930000003,2014
+110327,142039990.0,Tuesday,No,2014-10-14T23:00:00.000,InvProp,"[-71.081935, 42.340711]",Point,InvProp,10,IVMV,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,769192.6879,,2949460.915,2014
+178817,142038817.0,Tuesday,No,2014-10-14T02:13:00.000,InvProp,"[-71.074325, 42.280566]",Point,InvProp,10,SHOTS,0,B3,Last,No,FAIRMOUNT ST,Part three,Unarmed,771359.452,,2927553.2989999996,2014

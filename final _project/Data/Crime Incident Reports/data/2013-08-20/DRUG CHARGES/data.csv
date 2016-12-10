@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78232,130526268.0,Tuesday,No,2013-08-20T22:29:00.000,DRUG CHARGES,"[-71.05015, 42.310761]",Point,18xx,8,GANG  ,251,C11,First,No,CASPIAN WY,Part Two,Other,777843.3991,ROCKMERE ST,2938590.36,2013
+91996,130525648.0,Tuesday,No,2013-08-20T18:08:00.000,DRUG CHARGES,"[-71.03338, 42.336521]",Point,18xx,8,IVPER ,0,C6,First,No,E 3RD ST,Part Two,Unarmed,782327.9922,M ST,2948002.082,2013
+123376,130526040.0,Tuesday,No,2013-08-20T16:00:00.000,DRUG CHARGES,"[-71.06939, 42.339506]",Point,18xx,8,IVDRUG,167,D4,First,No,HARRISON AV,Part Two,Other,772586.4767,,2949038.664,2013
+164434,130525629.0,Tuesday,No,2013-08-20T18:01:00.000,DRUG CHARGES,"[-71.138508, 42.355898]",Point,18xx,8,ARREST,804,D14,First,No,EVERETT ST,Part Two,Other,753874.4121,,2954925.45,2013

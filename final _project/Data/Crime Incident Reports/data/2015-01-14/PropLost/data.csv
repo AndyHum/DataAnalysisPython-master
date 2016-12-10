@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40288,152003623.0,Wednesday,No,2015-01-14T14:45:00.000,PropLost,"[-71.083435, 42.280591]",Point,PropLost,1,IVPER,0,B3,Day,No,MORTON ST,Part three,Unarmed,768894.1564,,2927550.2369999997,2015
+44741,152003592.0,Wednesday,No,2015-01-14T13:16:00.000,PropLost,"[-71.071171, 42.285811]",Point,PropLost,1,PROP,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772203.2275,,2929468.745,2015
+263283,152003638.0,Wednesday,No,2015-01-14T16:41:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,C11,First,No,BOWDOIN ST,Part three,Unarmed,,,,2015
+264380,152003503.0,Wednesday,No,2015-01-14T21:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,B2,First,No,EVERETT AV,Part three,Unarmed,,,,2015

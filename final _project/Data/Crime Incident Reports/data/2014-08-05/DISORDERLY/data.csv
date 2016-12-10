@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18102,142016503.0,Tuesday,No,2014-08-05T18:00:00.000,DISORDERLY,"[-71.080301, 42.292654]",Point,24xx,8,ARREST,0,B3,First,No,TALBOT AV,Part Two,Unarmed,769720.5959999999,,2931950.291,2014
+164392,142016478.0,Tuesday,No,2014-08-05T16:15:00.000,DISORDERLY,"[-71.061495, 42.356911]",Point,24xx,8,FIGHT,0,A1,First,No,TREMONT ST,Part Two,Unarmed,774688.3413,,2955392.2430000002,2014
+180166,142016320.0,Tuesday,No,2014-08-05T00:32:00.000,DISORDERLY,"[-71.079466, 42.327327]",Point,24xx,8,DISTRB,0,B2,Last,No,MT PLEASANT AV,Part Two,Unarmed,769884.0976,FOREST ST,2944586.5360000003,2014
+261219,142016563.0,Tuesday,No,2014-08-05T21:50:00.000,DISORDERLY,"[0, 0]",Point,24xx,8,ARREST,0,A1,First,No,SCHOOL ST,Part Two,Unarmed,,WINTER ST,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10092,120618051.0,Monday,No,2012-10-01T07:40:00.000,LICViol,"[-71.16852, 42.350626]",Point,LICViol,10,CD35  ,754,D14,Day,No,TREMONT ST,Part Three,Unarmed,745770.1124,,2952971.291,2012
+120052,120618446.0,Monday,No,2012-10-01T00:05:00.000,LICViol,"[-71.05294, 42.359431]",Point,LICViol,10,CD35  ,101,A1,Last,No,STATE ST,Part Three,Unarmed,776995.7993,,2956322.582,2012
+132649,120616163.0,Monday,No,2012-10-01T00:15:00.000,LICViol,"[-71.06598, 42.350391]",Point,LICViol,10,CD35  ,121,A1,Last,No,WARRENTON ST,Part Three,Unarmed,773488.0855,,2953009.8660000004,2012
+146732,120618109.0,Monday,No,2012-10-01T20:11:00.000,LICViol,"[-71.058108, 42.309016]",Point,LICViol,10,CD35  ,255,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775694.0122,,2937943.142,2012

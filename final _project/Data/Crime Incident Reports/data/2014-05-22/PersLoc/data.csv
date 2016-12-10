@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20184,140318709.0,Thursday,No,2014-05-22T12:12:00.000,PersLoc,"[-71.072008, 42.301524]",Point,PersLoc,5,MISPER,462,C11,Day,No,BOWDOIN ST,Other,Unarmed,771947.8819,,2935193.67,2014
+83767,140318265.0,Thursday,No,2014-05-22T08:49:00.000,PersLoc,"[-71.06108, 42.313556]",Point,PersLoc,5,MISPER,823,C11,Day,No,PEVERELL ST,Other,Unarmed,774881.7855,,2939593.473,2014
+130359,140319962.0,Thursday,No,2014-05-22T05:45:00.000,PersLoc,"[-71.119115, 42.271606]",Point,PersLoc,5,MISPER,498,E18,Last,No,CLARE AV,Other,Unarmed,759253.4211,,2924230.8389999997,2014
+140019,140319674.0,Thursday,No,2014-05-22T06:30:00.000,PersLoc,"[-71.07713, 42.280711]",Point,PersLoc,5,MISPER,419,B3,Last,No,FULLER ST,Other,Unarmed,770600.1297,,2927602.3639999996,2014
+208178,140319499.0,Thursday,No,2014-05-22T07:45:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,5,MISPER,281,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+227419,140319923.0,Thursday,No,2014-05-22T07:00:00.000,PersLoc,"[-71.04162, 42.369616]",Point,PersLoc,5,MISPER,902,A7,Last,No,SUMNER ST,Other,Unarmed,780035.3332,,2960050.433,2014

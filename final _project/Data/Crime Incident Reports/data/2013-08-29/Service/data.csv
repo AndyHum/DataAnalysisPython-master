@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53222,130547214.0,Thursday,No,2013-08-29T20:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2013
+68206,130547109.0,Thursday,No,2013-08-29T18:49:00.000,Service,"[-71.078742, 42.303175]",Point,Service,8,IVPER ,0,C11,First,No,ERIE ST,Part three,Unarmed,770123.4728,WASHINGTON ST,2935786.126,2013
+196587,130546438.0,Thursday,No,2013-08-29T13:40:00.000,Service,"[-71.08621, 42.318231]",Point,Service,8,TSTOP ,0,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,768076.6728,MUNROE ST,2941263.172,2013
+223565,130545389.0,Thursday,No,2013-08-29T00:29:00.000,Service,"[-71.09437, 42.331411]",Point,Service,8,TSTOP ,0,B2,Last,No,MALCOLM X BL,Part three,Other,765846.9695,TREMONT ST,2946055.5919999997,2013
+230961,130547329.0,Thursday,No,2013-08-29T20:32:00.000,Service,"[-71.073635, 42.288136]",Point,Service,8,IVPREM,0,B3,First,No,OAKWOOD ST,Part three,Unarmed,771532.3853,,2930312.8430000003,2013
+265521,130545795.0,Thursday,No,2013-08-29T08:59:00.000,Service,"[0, 0]",Point,Service,8,ARREST,133,D4,Day,No,PUBLIC ALLEY 436,Part three,Unarmed,,,,2013

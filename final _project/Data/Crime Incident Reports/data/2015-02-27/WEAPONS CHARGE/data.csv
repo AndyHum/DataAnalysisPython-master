@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131168,152016039.0,Friday,No,2015-02-27T18:15:00.000,WEAPONS CHARGE,"[-71.03665, 42.371736]",Point,15xx,2,TS,0,A7,First,No,CHELSEA ST,Part Two,Firearm,781374.1704,,2960830.26,2015
+258334,152015816.0,Friday,No,2015-02-27T04:45:00.000,WEAPONS CHARGE,"[-71.079641, 42.319008]",Point,15xx,2,CD11,0,B2,Last,No,WOODBINE ST,Part Two,Unarmed,769851.8126,,2941554.837,2015
+262749,152015896.0,Friday,No,2015-02-27T08:00:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,2,FDWEAP,0,C11,Day,No,CROFTLAND AV,Part Two,Firearm,,,,2015

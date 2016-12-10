@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3501,130673873.0,Tuesday,No,2013-10-22T16:24:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,10,FDPROP,289,B2,First,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2013
+112904,130673592.0,Tuesday,No,2013-10-22T13:30:00.000,PropFound,"[-71.0435, 42.286166]",Point,PropFound,10,IVPREM,381,C11,Day,No,NEPONSET AV,Part three,Unarmed,779690.0596,,2929637.147,2013
+170185,130673914.0,Tuesday,No,2013-10-22T14:00:00.000,PropFound,"[-71.1176, 42.258447]",Point,PropFound,10,LSTPRP,519,E18,Day,No,WEST ST,Part three,Unarmed,759684.6991,,2919437.337,2013
+228561,130673845.0,Tuesday,No,2013-10-22T12:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,10,LSTPRP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013

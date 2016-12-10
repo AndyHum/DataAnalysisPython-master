@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77134,142061155.0,Sunday,No,2014-12-28T09:20:00.000,PropFound,"[-71.06023, 42.356681]",Point,PropFound,12,PROP,0,A1,Day,No,BROMFIELD ST,Part three,Unarmed,775030.6815,PROVINCE ST,2955310.186,2014
+81086,142061348.0,Sunday,No,2014-12-28T23:55:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,12,IVPER,0,A7,Last,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+86366,142061224.0,Sunday,No,2014-12-28T15:00:00.000,PropFound,"[-71.103995, 42.333881]",Point,PropFound,12,PROP,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2014
+135970,142061257.0,Sunday,No,2014-12-28T08:00:00.000,PropFound,"[-71.13734, 42.277991]",Point,PropFound,12,LARCEN,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,754310.9585,,2926536.126,2014
+145379,142061250.0,Sunday,No,2014-12-28T17:00:00.000,PropFound,"[-71.134874, 42.353333]",Point,PropFound,12,PROP,0,D14,First,No,BRIGHTON AV,Part three,Unarmed,754860.65,,2953994.954,2014
+207937,142061120.0,Sunday,No,2014-12-28T02:00:00.000,PropFound,"[-71.05548, 42.365211]",Point,PropFound,12,PROP,0,A1,Last,No,SALEM ST,Part three,Unarmed,776298.3304,PRINCE ST,2958425.3389999997,2014
+230986,142061107.0,Sunday,No,2014-12-28T01:45:00.000,PropFound,"[-71.13106, 42.350481]",Point,PropFound,12,PROP,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,755896.1988,HARVARD AV,2952960.025,2014
+261647,152004114.0,Sunday,No,2014-12-28T21:10:00.000,PropFound,"[0, 0]",Point,PropFound,12,PROP,0,E13,First,No,NEWBERN ST,Part three,Unarmed,,,,2014

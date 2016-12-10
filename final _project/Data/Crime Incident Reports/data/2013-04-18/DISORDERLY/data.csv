@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77842,130227888.0,Thursday,No,2013-04-18T01:05:00.000,DISORDERLY,"[-71.05315, 42.336861]",Point,24xx,4,ARREST,936,C6,Last,No,D ST,Part Two,Unarmed,776982.1303,W 6TH ST,2948097.363,2013
+97707,130229931.0,Thursday,No,2013-04-18T23:30:00.000,DISORDERLY,"[-71.118925, 42.293946]",Point,24xx,4,ARREST,564,E5,First,No,BROOKWAY RD,Part Two,Unarmed,759268.4725,,2932372.0939999996,2013
+122083,130229785.0,Thursday,No,2013-04-18T22:03:00.000,DISORDERLY,"[-71.07161, 42.314756]",Point,24xx,4,FIGHT ,260,B2,First,No,MAGNOLIA ST,Part Two,Other,772031.5819,,2940016.318,2013
+204679,130229609.0,Thursday,No,2013-04-18T20:29:00.000,DISORDERLY,"[-71.113135, 42.312066]",Point,24xx,4,LMUSIC,645,E13,First,No,SEAVERNS AV,Part Two,Unarmed,760805.0252,,2938982.365,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74393,152038588.0,Friday,No,2015-05-08T20:00:00.000,TRESPASS,"[-71.10842, 42.334051]",Point,TRESPASS,5,IVPER,0,B2,First,No,MISSION PARK DR,Part Two,Unarmed,762043.5362,,2946999.9039999996,2015
+98033,152037823.0,Friday,No,2015-05-08T18:00:00.000,TRESPASS,"[-71.05776, 42.378251]",Point,TRESPASS,5,ARREST,0,A15,First,No,MCNULTY CT,Part Two,Unarmed,775657.5279999999,,2963174.1780000003,2015
+127308,152037599.0,Friday,No,2015-05-08T07:52:00.000,TRESPASS,"[-71.13939, 42.357761]",Point,TRESPASS,5,IVPER,0,D14,Day,No,LINCOLN ST,Part Two,Unarmed,753633.2873,,2955603.38,2015
+164659,152037668.0,Friday,No,2015-05-08T11:50:00.000,TRESPASS,"[-71.08411, 42.328726]",Point,TRESPASS,5,IVPER,0,B2,Day,No,DUDLEY ST,Part Two,Unarmed,768625.9666,,2945090.4910000004,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34336,130113008.0,Saturday,No,2013-02-23T15:00:00.000,Service,"[-71.085618, 42.32866]",Point,Service,2,AOD   ,282,B2,Day,No,WASHINGTON ST,Part Three,Other,768218.0809,,2945064.255,2013
+96707,130112603.0,Saturday,No,2013-02-23T18:59:00.000,Service,"[-71.058105, 42.282211]",Point,Service,2,ARREST,389,C11,First,No,GALLIVAN BL,Part Three,Unarmed,775745.6305,,2928175.079,2013
+236255,130112791.0,Saturday,No,2013-02-23T21:00:00.000,Service,"[-71.063873, 42.325436]",Point,Service,2,SHPLFT,186,C6,First,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46253,152014929.0,Tuesday,No,2015-02-24T11:07:00.000,DEATH INVESTIGATION,"[-71.14112, 42.286111]",Point,01INV,2,IVPER,0,E5,Day,No,BELGRADE AV,Part three,Unarmed,753275.5597,,2929490.8510000003,2015
+152607,152023874.0,Tuesday,No,2015-02-24T19:27:00.000,DEATH INVESTIGATION,"[-71.09126, 42.339511]",Point,01INV,2,EDP,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,766673.7445,,2949011.394,2015
+187269,152014959.0,Tuesday,No,2015-02-24T16:44:00.000,DEATH INVESTIGATION,"[-71.10931, 42.311441]",Point,01INV,2,UNKEMS,0,E13,First,No,GREEN ST,Part three,Unarmed,761840.6373,,2938759.32,2015

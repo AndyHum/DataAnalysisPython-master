@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4513,140171683.0,Friday,No,2014-03-21T10:34:00.000,Service,"[-71.04625, 42.354256]",Point,Service,3,CD11  ,207,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+34424,140171266.0,Friday,No,2014-03-21T03:32:00.000,Service,"[-71.078, 42.317311]",Point,Service,3,ARREST,311,B2,Last,No,EDGEWOOD ST,Part three,Unarmed,770298.7151,BLUE HILL AV,2940938.787,2014
+259278,140177966.0,Friday,No,2014-03-21T16:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,3,CD9   ,70,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014

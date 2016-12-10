@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50024,140221521.0,Saturday,No,2014-04-12T12:24:00.000,PropFound,"[-71.05531, 42.282616]",Point,PropFound,4,FDPROP,389,C11,Day,No,GALLIVAN BL,Part three,Unarmed,776501.1936,,2928326.598,2014
+80367,140221921.0,Saturday,No,2014-04-12T10:30:00.000,PropFound,"[-71.077145, 42.350131]",Point,PropFound,4,FDPROP,130,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770470.6585,,2952900.122,2014
+95141,140220689.0,Saturday,No,2014-04-12T01:00:00.000,PropFound,"[-71.06758, 42.352791]",Point,PropFound,4,FDPROP,118,A1,Last,No,CHARLES ST,Part three,Unarmed,773051.2799,BOYLSTON ST,2953882.438,2014
+197036,140236199.0,Saturday,No,2014-04-12T03:00:00.000,PropFound,"[-71.061974, 42.365091]",Point,PropFound,4,FDPROP,75,A1,Last,No,CAUSEWAY ST,Part three,Unarmed,774543.3245,,2958372.495,2014
+227376,140220605.0,Saturday,No,2014-04-12T00:15:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,4,FDPROP,200,C6,Last,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+252155,140222113.0,Saturday,No,2014-04-12T17:15:00.000,PropFound,"[-71.115598, 42.247048]",Point,PropFound,4,MEET  ,515,E18,First,No,WILLIAMS AV,Part three,Unarmed,760245.6107,,2915285.62,2014
+253003,140222841.0,Saturday,No,2014-04-12T18:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,4,FDPROP,72,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

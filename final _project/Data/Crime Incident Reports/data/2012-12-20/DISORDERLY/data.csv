@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38879,120796417.0,Thursday,No,2012-12-20T16:47:00.000,DISORDERLY,"[-71.064905, 42.352371]",Point,24xx,12,IVPER ,69,A1,First,No,BOYLSTON ST,Part Two,Unarmed,773775.1158,,2953733.06,2012
+72866,120797047.0,Thursday,No,2012-12-20T21:57:00.000,DISORDERLY,"[-71.061955, 42.289336]",Point,24xx,12,IVPER ,366,C11,First,No,DENVIR ST,Part Two,Unarmed,774690.4778,,2930766.153,2012
+74961,120795415.0,Thursday,No,2012-12-20T09:30:00.000,DISORDERLY,"[-71.098485, 42.343391]",Point,24xx,12,TRANSP,627,D4,Day,No,PETERBOROUGH ST,Part Two,Unarmed,764713.7517,,2950416.063,2012
+159529,120795551.0,Thursday,No,2012-12-20T09:30:00.000,DISORDERLY,"[-71.06684, 42.379131]",Point,24xx,12,TRANSP,54,A15,Day,No,WALKER ST,Part Two,Unarmed,773202.5569,,2963482.2789999996,2012

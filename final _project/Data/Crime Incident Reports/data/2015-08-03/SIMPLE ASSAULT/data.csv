@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5687,,Monday,No,2015-08-03T00:00:00.000,Simple Assault,"[-71.063049, 42.290252]",Point,08xx,8,IVPER,365,C11,,No,DORCHESTER AVE,Part Two,Other,774393.0,,2930000.0,2015
+61960,,Monday,No,2015-08-03T00:00:00.000,Simple Assault,"[-71.065701, 42.29882]",Point,08xx,8,NIDV,358,C11,,No,WALDECK ST,Part Two,Personal Weapon (hand  foot  etc.),773659.0,,2930000.0,2015
+130782,,Monday,No,2015-08-03T00:00:00.000,Simple Assault,"[-71.061041, 42.320042]",Point,08xx,8,AB,240,C11,,No,E COTTAGE ST,Part Two,None,774880.0,,2940000.0,2015
+193102,,Monday,No,2015-08-03T00:00:00.000,Simple Assault,"[-71.165603, 42.343798]",Point,08xx,8,IVPER,751,D14,,No,LAKE SHORE RD,Part Two,Other,746568.0,,2950000.0,2015
+206841,,Monday,No,2015-08-03T00:00:00.000,Simple Assault,"[-71.076261, 42.350379]",Point,08xx,8,REQP,134,D4,,No,BOYLSTON ST,Part Two,None,770709.0,,2950000.0,2015
+252249,,Monday,No,2015-08-03T18:09:00.000,Simple Assault,"[0, 0]",Point,08xx,8,IVPER,366,C11,,No,DORCHESTER AVE,Part Two,Personal Weapon (hand  foot  etc.),,WELLES AVE,,2015

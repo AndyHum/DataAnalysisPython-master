@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145775,130488048.0,Monday,No,2013-08-05T03:15:00.000,FIRE,"[-71.068642, 42.316293]",Point,FIRE,8,FV    ,258,B2,Last,No,MONADNOCK ST,Part three,Unarmed,772831.4244,,2940580.485,2013
+149358,130488572.0,Monday,No,2013-08-05T10:50:00.000,FIRE,"[0, 0]",Point,FIRE,8,FV    ,330,B2,Day,No,JEWISH WAR VETERANS,Part three,Unarmed,,,,2013
+168453,130488347.0,Monday,No,2013-08-05T09:14:00.000,FIRE,"[-71.060805, 42.378351]",Point,FIRE,8,FIREB ,900,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,774834.6061,,2963206.369,2013
+253452,130488234.0,Monday,No,2013-08-05T08:00:00.000,FIRE,"[-71.124041, 42.27432]",Point,FIRE,8,FIREB ,553,E18,Day,No,METROPOLITAN AV,Part three,Unarmed,757915.8237,,2925213.8680000002,2013

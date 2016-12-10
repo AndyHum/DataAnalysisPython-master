@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10359,140334898.0,Sunday,No,2014-05-18T10:00:00.000,InvProp,"[-71.121755, 42.351736]",Point,InvProp,5,MISC  ,797,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758409.4191,,2953428.389,2014
+22308,140316949.0,Sunday,No,2014-05-18T07:00:00.000,InvProp,"[-71.03688, 42.348011]",Point,InvProp,5,MISC  ,207,C6,Last,No,NORTHERN AV,Part three,Other,781358.9651,,2952184.084,2014
+33735,140307650.0,Sunday,No,2014-05-18T00:54:00.000,InvProp,"[-71.08321, 42.336241]",Point,InvProp,5,SHOTS ,285,D4,Last,No,HAMMOND ST,Part three,Firearm,768855.948,SUSSEX ST,2947830.278,2014
+100121,140308325.0,Sunday,No,2014-05-18T10:30:00.000,InvProp,"[-71.070625, 42.361461]",Point,InvProp,5,IVPREM,64,A1,Day,No,CHARLES ST,Part three,Unarmed,772212.3098,,2957037.798,2014
+172336,140311572.0,Sunday,No,2014-05-18T22:00:00.000,InvProp,"[-71.07654, 42.328506]",Point,InvProp,5,BERPT ,268,B2,First,No,ADAMS ST,Part three,Unarmed,770673.3057,,2945020.405,2014
+196713,140316150.0,Sunday,No,2014-05-18T12:00:00.000,InvProp,"[-71.07142, 42.340286]",Point,InvProp,5,INVEST,166,D4,Day,No,WASHINGTON ST,Part three,Unarmed,772036.2226,,2949320.146,2014
+251079,140307878.0,Sunday,No,2014-05-18T02:45:00.000,InvProp,"[-71.104475, 42.345416]",Point,InvProp,5,VANIP ,629,D4,Last,No,PARK DR,Part three,Unarmed,763090.9859,,2951146.4439999997,2014
+260891,140312711.0,Sunday,No,2014-05-18T08:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,790,D14,Day,No,BEACON ST,Part three,Unarmed,,,,2014

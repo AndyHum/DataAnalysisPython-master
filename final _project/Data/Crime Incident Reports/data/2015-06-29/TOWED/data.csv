@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73698,,Monday,No,2015-06-29T00:00:00.000,Towed,"[-71.079437, 42.342384]",Point,Towed,6,IVMV,154,D4,,No,COLUMBUS AVE,Part Three,None,769865.0,,2950000.0,2015
+85565,,Monday,No,2015-06-29T20:09:00.000,Towed,"[0, 0]",Point,Towed,6,IVMV,303,E13,,No,AMORY ST,Part Three,None,,COLUMBUS AVE,,2015
+227712,,Monday,No,2015-06-29T00:00:00.000,Towed,"[-71.150068, 42.339288]",Point,Towed,6,IVMV,788,D14,,No,CHISWICK RD,Part Three,None,750775.0,,2950000.0,2015
+229235,,Monday,No,2015-06-29T00:00:00.000,Towed,"[-71.117943, 42.304712]",Point,Towed,6,IVMV,650,E13,,No,SAINT ROSE ST,Part Three,None,759516.0,,2940000.0,2015

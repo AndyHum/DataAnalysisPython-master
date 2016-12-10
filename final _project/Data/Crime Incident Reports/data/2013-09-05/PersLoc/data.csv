@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49344,130564036.0,Thursday,No,2013-09-05T16:49:00.000,PersLoc,"[-71.07686, 42.344536]",Point,PersLoc,9,MSNCOM,149,D4,First,No,COLUMBUS AV,Other,Unarmed,770557.8118,,2950861.5810000002,2013
+100833,130563885.0,Thursday,No,2013-09-05T08:00:00.000,PersLoc,"[-71.009504, 42.38977]",Point,PersLoc,9,MSNCOM,10,A7,Day,No,LEYDEN ST,Other,Unarmed,788671.5371,,2967443.041,2013
+151022,130564665.0,Thursday,No,2013-09-05T06:00:00.000,PersLoc,"[-71.069221, 42.30886]",Point,PersLoc,9,MSNCOM,335,C11,Last,No,BELLEVUE ST,Other,Unarmed,772688.4477,,2937870.6760000004,2013
+166292,130564671.0,Thursday,No,2013-09-05T22:00:00.000,PersLoc,"[-71.03336, 42.370471]",Point,PersLoc,9,MISPER,30,A7,First,No,LUBEC ST,Other,Unarmed,782265.7126,,2960374.1160000004,2013
+235175,130564729.0,Thursday,No,2013-09-05T22:40:00.000,PersLoc,"[-71.087645, 42.285741]",Point,PersLoc,9,MISPER,429,B3,First,No,HARWOOD ST,Other,Unarmed,767745.8152,,2929421.435,2013

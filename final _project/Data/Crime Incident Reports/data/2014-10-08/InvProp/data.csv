@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46255,142037099.0,Wednesday,No,2014-10-08T12:00:00.000,InvProp,"[-71.117658, 42.359586]",Point,InvProp,10,IVPREM,0,D14,Day,No,SOLDIERS FIELD RD,Part three,Other,759503.8198,,2956294.0710000005,2014
+53480,142037010.0,Wednesday,No,2014-10-08T04:22:00.000,InvProp,"[-71.08668, 42.309096]",Point,InvProp,10,IVPREM,0,B2,Last,No,SCHUYLER ST,Part three,Other,767965.694,,2937933.613,2014
+68632,142037065.0,Wednesday,No,2014-10-08T08:35:00.000,InvProp,"[-71.049954, 42.377686]",Point,InvProp,10,REQP,0,A15,Day,No,1ST AV,Part three,Other,777767.5231,,2962979.242,2014
+81983,142037323.0,Wednesday,No,2014-10-08T23:52:00.000,InvProp,"[-71.0648, 42.283951]",Point,InvProp,10,IVPREM,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,773930.7124,FULLER ST,2928799.8439999996,2014
+115976,142037168.0,Wednesday,No,2014-10-08T12:30:00.000,InvProp,"[-71.09046, 42.330191]",Point,InvProp,10,FDWEAP,0,B2,Day,No,ROXBURY ST,Part three,Unarmed,766906.3382,,2945616.055,2014
+142654,142037209.0,Wednesday,No,2014-10-08T18:00:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,10,CD9,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014

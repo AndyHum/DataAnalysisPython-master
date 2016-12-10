@@ -1,0 +1,21 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14633,,Monday,No,2015-08-03T18:48:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,0,,,No,,Part Three,None,,DORCHESTER AVE,,2015
+22621,,Monday,No,2015-08-03T10:12:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,350,C11,,No,ADAMS ST,Part Three,None,, DORCHESTER AVE ,,2015
+28580,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.133047, 42.358134]",Point,MVAcc,8,MVA,815,D14,,No,FRANKLIN ST,Part Three,None,755347.0,,2960000.0,2015
+34194,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.153884, 42.357066]",Point,MVAcc,8,MVA,768,D14,,No,GOODENOUGH ST,Part Three,None,749717.0,,2960000.0,2015
+34587,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.066654, 42.330048]",Point,MVAcc,8,MVA,176,C6,,No,NEWMARKET SQ,Part Three,None,773343.0,,2950000.0,2015
+36658,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.063367, 42.307821]",Point,MVAcc,8,MVA,340,C11,,No,ADAMS ST,Part Three,None,774274.0,,2940000.0,2015
+41236,,Monday,No,2015-08-03T17:58:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,354,C11,,No,CLAYTON ST,Part Three,None,,PARK ST,,2015
+49107,,Monday,No,2015-08-03T15:00:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,0,,,No,,Part Three,None,,EXETER ST,,2015
+84799,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.086353, 42.314013]",Point,MVAcc,8,MVA,315,B2,,No,WAUMBECK ST,Part Three,None,768045.0,,2940000.0,2015
+100713,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.085634, 42.328663]",Point,MVAcc,8,MVA,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+125765,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.062523, 42.374292]",Point,MVAcc,8,MVA,57,A15,,No,WARREN ST,Part Three,None,774378.0,,2960000.0,2015
+133543,,Monday,No,2015-08-03T12:22:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,76,A1,,No,CANAL ST,Part Three,None,, CAUSEWAY ST ,,2015
+168256,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.084142, 42.33723]",Point,MVAcc,8,MVA,285,D4,,No,TREMONT ST,Part Three,None,768602.0,,2950000.0,2015
+174019,,Monday,No,2015-08-03T07:03:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,317,B2,,No,HUMBOLDT AVE,Part Three,None,,RUTHVEN ST,,2015
+187775,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.062483, 42.380031]",Point,MVAcc,8,MVA,45,A15,,No,MYSTIC ST,Part Three,None,774378.0,,2960000.0,2015
+188744,,Monday,No,2015-08-03T14:54:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,584,B2,,No,BUCKNAM ST,Part Three,None,,LAWN ST,,2015
+188871,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.124573, 42.287894]",Point,MVAcc,8,MVA,562,E5,,No,FIRTH RD,Part Three,None,757750.0,,2930000.0,2015
+211233,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.083735, 42.330441]",Point,MVAcc,8,MVA,287,B2,,No,WASHINGTON ST,Part Three,None,768724.0,,2950000.0,2015
+233451,,Monday,No,2015-08-03T00:00:00.000,Motor Vehicle Accident Response,"[-71.048503, 42.338493]",Point,MVAcc,8,IVMV,211,C6,,No,E ST,Part Three,None,778235.0,,2950000.0,2015
+253024,,Monday,No,2015-08-03T14:51:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,8,MVA,0,,,No,,Part Three,None,,DARTMOUTH ST,,2015

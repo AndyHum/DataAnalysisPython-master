@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10113,130401435.0,Sunday,No,2013-06-30T20:30:00.000,MedAssist,"[-71.132126, 42.357911]",Point,MedAssist,6,UNCONS,815,D14,First,No,ALCOTT ST,Part three,Unarmed,755596.1167,,2955666.271,2013
+43943,130401559.0,Sunday,No,2013-06-30T21:50:00.000,MedAssist,"[-71.06842, 42.343391]",Point,MedAssist,6,ROBIP ,163,D4,First,No,SHAWMUT AV,Part three,Other,772841.5604,BRADFORD ST,2950455.753,2013
+44333,130400735.0,Sunday,No,2013-06-30T15:20:00.000,MedAssist,"[-71.047526, 42.287981]",Point,MedAssist,6,SDNDTH,378,C11,Day,No,BLACKWELL ST,Part three,Unarmed,778596.9418,,2930292.64,2013
+73513,130401099.0,Sunday,No,2013-06-30T18:25:00.000,MedAssist,"[-71.068653, 42.306188]",Point,MedAssist,6,DOGBIT,336,C11,First,No,NORTON ST,Part three,Unarmed,772847.1206,,2936897.7789999996,2013
+135726,130401132.0,Sunday,No,2013-06-30T18:38:00.000,MedAssist,"[-71.08969, 42.346756]",Point,MedAssist,6,UNCONS,624,D4,First,No,BOYLSTON ST,Part three,Unarmed,767085.5061,,2951653.646,2013
+139541,130401016.0,Sunday,No,2013-06-30T16:45:00.000,MedAssist,"[-71.059415, 42.359251]",Point,MedAssist,6,IVPER ,92,A1,First,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2013
+166448,130401036.0,Sunday,No,2013-06-30T16:35:00.000,MedAssist,"[-71.05072, 42.334281]",Point,MedAssist,6,INJOFF,200,C6,First,No,F ST,Part three,Unarmed,777644.0788,W 7TH ST,2947160.617,2013
+198730,130399929.0,Sunday,No,2013-06-30T01:30:00.000,MedAssist,"[-71.059735, 42.297541]",Point,MedAssist,6,INJOFF,355,C11,Last,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+205836,130399966.0,Sunday,No,2013-06-30T04:45:00.000,MedAssist,"[-71.040356, 42.367266]",Point,MedAssist,6,CARST ,902,A7,Last,No,MARGINAL ST,Part three,Unarmed,780381.3752,,2959195.738,2013
+230706,130400432.0,Sunday,No,2013-06-30T12:15:00.000,MedAssist,"[-71.054711, 42.341305]",Point,MedAssist,6,IVPER ,200,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013

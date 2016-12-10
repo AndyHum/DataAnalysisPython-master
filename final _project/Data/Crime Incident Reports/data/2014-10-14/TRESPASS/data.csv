@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59954,142039246.0,Tuesday,No,2014-10-14T16:15:00.000,TRESPASS,"[-71.063096, 42.31159]",Point,TRESPASS,10,IVPREM,0,C11,First,No,HANCOCK ST,Part Two,Unarmed,774340.0595,,2938874.267,2014
+74926,142039032.0,Tuesday,No,2014-10-14T16:15:00.000,TRESPASS,"[-71.039428, 42.367778]",Point,TRESPASS,10,IVPER,0,A7,First,No,S BREMEN ST,Part Two,Unarmed,780631.3068,MAVERICK ST,2959383.722,2014
+200915,142038905.0,Tuesday,No,2014-10-14T11:30:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,10,ARREST,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014

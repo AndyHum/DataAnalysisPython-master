@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19859,152001172.0,Saturday,No,2015-01-03T18:30:00.000,PropLost,"[-71.094665, 42.344556]",Point,PropLost,1,PROP,0,D4,First,No,PARK DR,Part three,Unarmed,765744.4399,,2950845.494,2015
+44866,152000857.0,Saturday,No,2015-01-03T16:00:00.000,PropLost,"[-71.134874, 42.353333]",Point,PropLost,1,PROP,0,D14,First,No,BRIGHTON AV,Part three,Unarmed,754860.65,,2953994.954,2015
+76745,152004187.0,Saturday,No,2015-01-03T17:00:00.000,PropLost,"[-71.090671, 42.318728]",Point,PropLost,1,PROP,0,B2,First,No,WALNUT AV,Part three,Unarmed,766869.1168,,2941438.501,2015
+175122,152001193.0,Saturday,No,2015-01-03T15:00:00.000,PropLost,"[-71.131245, 42.350806]",Point,PropLost,1,LARCEN,0,D14,Day,No,HARVARD AV,Part three,Unarmed,755845.6789,,2953078.245,2015
+252221,152001150.0,Saturday,No,2015-01-03T08:30:00.000,PropLost,"[-71.058866, 42.357544]",Point,PropLost,1,ADMRPT,0,A1,Day,No,SCHOOL ST,Part three,Unarmed,775397.5892,,2955626.3189999997,2015
+261295,152000808.0,Saturday,No,2015-01-03T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,MISC,0,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,,,,2015

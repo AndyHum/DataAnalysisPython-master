@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90399,130021897.0,Wednesday,No,2013-01-09T12:00:00.000,Plates,"[-71.12617, 42.352276]",Point,Plates,1,LSTPRP,796,D14,Day,No,BRIGHTON AV,Part Three,Other,757215.1554,,2953619.915,2013
+122157,130018650.0,Wednesday,No,2013-01-09T18:00:00.000,Plates,"[-71.134456, 42.363298]",Point,Plates,1,FDPROP,811,D14,First,No,WESTERN AV,Part Three,Unarmed,754958.1462,,2957626.671,2013
+129605,130019870.0,Wednesday,No,2013-01-09T12:00:00.000,Plates,"[-71.12617, 42.352276]",Point,Plates,1,LSTPRP,796,D14,Day,No,BRIGHTON AV,Part Three,Unarmed,757215.1554,,2953619.915,2013

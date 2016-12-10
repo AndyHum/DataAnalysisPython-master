@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70717,152030560.0,Tuesday,No,2015-04-14T15:15:00.000,PersLoc,"[-71.057908, 42.293715]",Point,PersLoc,4,MISSIN,0,C11,Day,No,WHITTEN ST,Other,Unarmed,775776.9943,,2932367.5560000003,2015
+128092,152030306.0,Tuesday,No,2015-04-14T12:30:00.000,PersLoc,"[-71.05395, 42.378346]",Point,PersLoc,4,CD9,0,A15,Day,No,DECATUR ST,Other,Unarmed,776686.7773,,2963214.159,2015
+191557,152030455.0,Tuesday,No,2015-04-14T07:00:00.000,PersLoc,"[-71.123097, 42.250596]",Point,PersLoc,4,IVPER,0,E18,Last,No,EASTON AV,Other,Unarmed,758209.286,,2916569.537,2015
+218583,152030163.0,Tuesday,No,2015-04-14T00:23:00.000,PersLoc,"[-71.078225, 42.295106]",Point,PersLoc,4,IVPER,0,B3,Last,No,NORWELL ST,Other,Unarmed,770277.8757,,2932846.637,2015
+232346,152030646.0,Tuesday,No,2015-04-14T06:30:00.000,PersLoc,"[-71.093249, 42.317844]",Point,PersLoc,4,IVPER,0,B2,Last,No,DENNISON ST,Other,Unarmed,766173.5859999999,,2941112.88,2015
+258968,152030445.0,Tuesday,No,2015-04-14T19:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,4,MISSIN,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015

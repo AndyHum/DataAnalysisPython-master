@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11971,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.056208, 42.360205]",Point,08xx,8,ADMRPT,93,A1,,No,FANEUIL HALL SQ,Part Two,Personal Weapon (hand  foot  etc.),776111.0,,2960000.0,2015
+29922,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.072153, 42.321042]",Point,08xx,8,UNKEMS,183,B2,,No,DUDLEY ST,Part Two,Personal Weapon (hand  foot  etc.),771873.0,,2940000.0,2015
+32413,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.059891, 42.291221]",Point,08xx,8,AB,365,C11,,No,FLORIDA ST,Part Two,Personal Weapon (hand  foot  etc.),775245.0,,2930000.0,2015
+78727,,Saturday,No,2015-08-01T19:00:00.000,Simple Assault,"[0, 0]",Point,08xx,8,AB,467,B3,,No,HARVARD ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+84926,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.143877, 42.346003]",Point,08xx,8,AB,938,D14,,No,FIDELIS WAY,Part Two,Personal Weapon (hand  foot  etc.),752438.0,,2950000.0,2015
+97225,,Saturday,No,2015-08-01T01:04:00.000,Simple Assault,"[0, 0]",Point,08xx,8,ARREST,0,,,No,,Part Two,None,,MELNEA CASS BLVD,,2015
+129639,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.084455, 42.342439]",Point,08xx,8,DISTRB,145,D4,,No,MASSACHUSETTS AVE,Part Two,None,768508.0,,2950000.0,2015
+155215,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.056208, 42.360205]",Point,08xx,8,FIGHT,93,A1,,No,FANEUIL HALL SQ,Part Two,None,776111.0,,2960000.0,2015
+159545,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.037068, 42.367724]",Point,08xx,8,AB,30,A7,,No,SUMNER ST,Part Two,Personal Weapon (hand  foot  etc.),781269.0,,2960000.0,2015
+200167,,Saturday,No,2015-08-01T05:15:00.000,Simple Assault,"[0, 0]",Point,08xx,8,AB,113,A1,,No,ARCH ST,Part Two,Other,, SUMMER ST ,,2015
+206542,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.057113, 42.361794]",Point,08xx,8,ARREST,78,A1,,No,HANOVER ST,Part Two,Knife/Cutting Instrument,775863.0,,2960000.0,2015
+236062,,Saturday,No,2015-08-01T00:00:00.000,Simple Assault,"[-71.098248, 42.315846]",Point,08xx,8,AB,306,B2,,No,CODMAN PARK,Part Two,None,764825.0,,2940000.0,2015

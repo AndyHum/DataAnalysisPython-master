@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84385,142022207.0,Sunday,No,2014-08-24T15:38:00.000,Service,"[-71.05893, 42.282001]",Point,Service,8,PSHOT,0,C11,Day,No,GALLIVAN BL,Part three,Unarmed,775522.7791,ADAMS ST,2928097.397,2014
+97282,142022398.0,Sunday,No,2014-08-24T09:15:00.000,Service,"[-71.06458, 42.352351]",Point,Service,8,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2014
+116774,142022400.0,Sunday,No,2014-08-24T09:15:00.000,Service,"[-71.06458, 42.352351]",Point,Service,8,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2014
+189181,142022416.0,Sunday,No,2014-08-24T10:45:00.000,Service,"[-71.05543, 42.352621]",Point,Service,8,ARREST,0,A1,Day,No,SUMMER ST,Part three,Unarmed,776335.7564,ATLANTIC AV,2953837.3710000003,2014

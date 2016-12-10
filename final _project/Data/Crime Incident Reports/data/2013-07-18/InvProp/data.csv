@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67110,130446453.0,Thursday,No,2013-07-18T22:33:00.000,InvProp,"[-71.072674, 42.305479]",Point,InvProp,7,SHOTS ,348,C11,First,No,OLNEY ST,Part three,Firearm,771760.7317,,2936634.146,2013
+125692,130446477.0,Thursday,No,2013-07-18T22:45:00.000,InvProp,"[-71.079765, 42.325614]",Point,InvProp,7,SHOTS ,281,B2,First,No,WINTHROP ST,Part three,Other,769806.2740000001,,2943961.912,2013
+134154,130446408.0,Thursday,No,2013-07-18T22:11:00.000,InvProp,"[-71.091557, 42.312409]",Point,InvProp,7,SHOTS ,316,B2,First,No,HOMESTEAD ST,Part three,Unarmed,766640.7488,,2939134.5289999996,2013
+148322,130444204.0,Thursday,No,2013-07-18T03:00:00.000,InvProp,"[-71.085295, 42.314416]",Point,InvProp,7,BEIP  ,313,B2,Last,No,WABON ST,Part three,Unarmed,768330.8947,,2939874.1289999997,2013
+174258,130444909.0,Thursday,No,2013-07-18T11:41:00.000,InvProp,"[-71.071643, 42.290556]",Point,InvProp,7,PERGUN,450,C11,Day,No,WASHINGTON ST,Part three,Firearm,772066.839,,2931197.369,2013
+247787,130446219.0,Thursday,No,2013-07-18T08:30:00.000,InvProp,"[-71.085618, 42.32866]",Point,InvProp,7,MISC  ,282,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+251100,130445695.0,Thursday,No,2013-07-18T18:00:00.000,InvProp,"[-71.1168, 42.283011]",Point,InvProp,7,IVPREM,501,E18,First,No,BRADSTREET AV,Part three,Unarmed,759861.2998,,2928389.79,2013

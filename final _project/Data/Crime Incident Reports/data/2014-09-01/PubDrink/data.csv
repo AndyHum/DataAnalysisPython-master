@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48255,142024926.0,Monday,No,2014-09-01T00:55:00.000,PubDrink,"[-71.03927, 42.370256]",Point,PubDrink,9,ARREST,0,A7,Last,No,MAVERICK ST,Part Two,Other,780669.1099,,2960287.083,2014
+55001,142025119.0,Monday,No,2014-09-01T16:23:00.000,PubDrink,"[-71.062825, 42.361341]",Point,PubDrink,9,ARREST,0,A1,First,No,BOWDOIN SQ,Part Two,Unarmed,774320.5907,,2957004.776,2014
+264117,142025156.0,Monday,No,2014-09-01T17:24:00.000,PubDrink,"[0, 0]",Point,PubDrink,9,SS,0,B2,First,No,GEORGIA ST,Part Two,Unarmed,,,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14696,142057752.0,Monday,No,2014-12-15T16:51:00.000,SearchWarr,"[-71.080945, 42.311606]",Point,SearchWarr,12,CD11,0,B2,First,No,BLUE HILL AV,Part three,Firearm,769512.4455,,2938855.865,2014
+35229,142057755.0,Monday,No,2014-12-15T16:48:00.000,SearchWarr,"[-71.087612, 42.312512]",Point,SearchWarr,12,CD11,0,B2,First,No,CRAWFORD ST,Part three,Unarmed,767707.5761,,2939177.0239999997,2014
+110077,142057824.0,Monday,No,2014-12-15T15:43:00.000,SearchWarr,"[-71.057942, 42.379287]",Point,SearchWarr,12,CD11,0,A15,Day,No,MEDFORD ST,Part three,Unarmed,775606.1433,,2963551.393,2014
+208362,142057891.0,Monday,No,2014-12-15T23:50:00.000,SearchWarr,"[-71.090319, 42.313599]",Point,SearchWarr,12,CD11,0,B2,Last,No,CRAWFORD ST,Part three,Unarmed,766973.4358,,2939569.644,2014

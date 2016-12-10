@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148344,142005307.0,Wednesday,No,2014-07-02T17:00:00.000,Arrest,"[-71.06212, 42.351391]",Point,Arrest,7,SS,0,A1,First,No,KNAPP ST,Part three,Other,774529.7407,BEACH ST,2953379.7810000004,2014
+217597,142005306.0,Wednesday,No,2014-07-02T17:45:00.000,Arrest,"[-71.06636, 42.352221]",Point,Arrest,7,ARREST,0,A1,First,No,BOYLSTON PL,Part three,Unarmed,773382.1034,,2953676.394,2014
+218051,142005116.0,Wednesday,No,2014-07-02T08:50:00.000,Arrest,"[-71.05936, 42.351041]",Point,Arrest,7,ARREST,0,A1,Day,No,BEACH ST,Part three,Unarmed,775276.4461,SURFACE RD,2953256.077,2014
+247272,142005403.0,Wednesday,No,2014-07-02T21:00:00.000,Arrest,"[-71.166415, 42.301223]",Point,Arrest,7,CD11,0,E5,First,No,WESTGATE RD,Part three,Unarmed,746409.4307,,2934970.003,2014

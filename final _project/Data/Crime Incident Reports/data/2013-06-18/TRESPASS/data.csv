@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+126767,130370342.0,Tuesday,No,2013-06-18T01:00:00.000,TRESPASS,"[-71.15251, 42.355526]",Point,TRESPASS,6,IVPER ,939,D14,Last,No,FANEUIL ST,Part Two,Unarmed,750090.5224,,2954774.1769999997,2013
+135926,130372446.0,Tuesday,No,2013-06-18T23:30:00.000,TRESPASS,"[-71.055312, 42.327496]",Point,TRESPASS,6,ARREST,914,C6,First,No,OCALLAGHAN WY,Part Two,Unarmed,776415.2591,,2944681.3510000003,2013
+141150,130370531.0,Tuesday,No,2013-06-18T05:57:00.000,TRESPASS,"[-71.041225, 42.368566]",Point,TRESPASS,6,REMOVE,902,A7,Last,No,JACOBBE RD,Part Two,Unarmed,780144.1312,,2959668.3660000004,2013
+218419,130370511.0,Tuesday,No,2013-06-18T04:40:00.000,TRESPASS,"[-71.103995, 42.333881]",Point,TRESPASS,6,ARREST,0,B2,Last,No,TREMONT ST,Part Two,Unarmed,763240.2622,,2946943.477,2013

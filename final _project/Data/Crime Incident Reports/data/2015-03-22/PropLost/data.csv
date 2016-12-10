@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78383,152023367.0,Sunday,No,2015-03-22T02:00:00.000,PropLost,"[-71.06636, 42.352221]",Point,PropLost,3,PROP,0,A1,Last,No,BOYLSTON PL,Part three,Unarmed,773382.1034,,2953676.394,2015
+137696,152023075.0,Sunday,No,2015-03-22T17:45:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,3,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+187708,152023127.0,Sunday,No,2015-03-22T22:00:00.000,PropLost,"[-71.07538, 42.333949]",Point,PropLost,3,LARCEN,0,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2015
+203849,152026513.0,Sunday,No,2015-03-22T14:00:00.000,PropLost,"[-71.061015, 42.353246]",Point,PropLost,3,LARCEN,0,A1,Day,No,AVENUE DE LAFAYETTE,Part three,Unarmed,774824.9513,,2954057.314,2015
+226518,152030022.0,Sunday,No,2015-03-22T16:00:00.000,PropLost,"[-71.077748, 42.348631]",Point,PropLost,3,PROP,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,770310.163,,2952352.43,2015
+245072,152023126.0,Sunday,No,2015-03-22T21:30:00.000,PropLost,"[-71.05548, 42.352551]",Point,PropLost,3,PROP,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,776322.3745,SUMMER ST,2953811.791,2015
+255013,152032717.0,Sunday,No,2015-03-22T13:30:00.000,PropLost,"[-71.02958, 42.380691]",Point,PropLost,3,PROP,0,A7,Day,No,LEXINGTON ST,Part three,Unarmed,783266.6211,,2964104.1,2015
+255154,152023520.0,Sunday,No,2015-03-22T01:00:00.000,PropLost,"[-71.065775, 42.352431]",Point,PropLost,3,PROP,0,A1,Last,No,BOYLSTON ST,Part three,Unarmed,773539.8413,,2953753.727,2015
+266783,152023257.0,Sunday,No,2015-03-22T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,BE,0,B2,First,No,GREENVILLE ST,Part three,Unarmed,,,,2015
+266810,152023577.0,Sunday,No,2015-03-22T19:22:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015

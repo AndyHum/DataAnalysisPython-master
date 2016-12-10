@@ -1,0 +1,24 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5,152033020.0,Thursday,No,2015-04-23T11:43:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,EDP,0,C11,Day,No,ADAMS ST,Part three,Unarmed,,,,2015
+7,152033134.0,Thursday,No,2015-04-23T17:50:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,UNCONS,0,D4,First,No,HARRISON AV,Part three,Unarmed,,,,2015
+15,152032952.0,Thursday,No,2015-04-23T03:55:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,IVPER,0,C11,Last,No,GIBSON ST,Part three,Unarmed,,,,2015
+23,152033111.0,Thursday,No,2015-04-23T17:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,REQEP,0,C6,First,No,TERMINAL ST,Part three,Unarmed,,,,2015
+29,152033138.0,Thursday,No,2015-04-23T17:09:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,REQP,0,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2015
+33,152033154.0,Thursday,No,2015-04-23T18:37:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,ARREST,0,C6,First,No,ROSECLAIR ST,Part three,Unarmed,,,,2015
+3251,152033209.0,Thursday,No,2015-04-23T22:28:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,IVPER,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+21737,152033095.0,Thursday,No,2015-04-23T16:00:00.000,MedAssist,"[-71.116773, 42.248278]",Point,MedAssist,4,INJOFF,0,E18,First,No,WILLIAMS AV,Part three,Unarmed,759925.2504,,2915732.3589999997,2015
+75862,152033007.0,Thursday,No,2015-04-23T11:30:00.000,MedAssist,"[-71.143747, 42.243792]",Point,MedAssist,4,IVPER,0,E18,Day,No,SOLARIS RD,Part three,Other,752629.0531,,2914066.209,2015
+92876,152033012.0,Thursday,No,2015-04-23T11:24:00.000,MedAssist,"[-71.065585, 42.309856]",Point,MedAssist,4,REQP,0,C11,Day,No,HENDRY ST,Part three,Other,773670.2174,,2938238.923,2015
+112169,152033016.0,Thursday,No,2015-04-23T11:46:00.000,MedAssist,"[-71.03208, 42.331536]",Point,MedAssist,4,UNKEMS,0,C6,Day,No,E 8TH ST,Part three,Unarmed,782689.4391,,2946187.3910000003,2015
+112809,152033037.0,Thursday,No,2015-04-23T13:08:00.000,MedAssist,"[-71.085298, 42.329524]",Point,MedAssist,4,IVPER,0,B2,Day,No,ROXBURY ST,Part three,Unarmed,768303.1628,,2945379.693,2015
+140326,152033013.0,Thursday,No,2015-04-23T11:20:00.000,MedAssist,"[-71.120484, 42.256473]",Point,MedAssist,4,REQEP,0,E18,Day,No,RIVER ST,Part three,Unarmed,758907.3112,,2918714.372,2015
+143332,152033212.0,Thursday,No,2015-04-23T22:35:00.000,MedAssist,"[-71.048935, 42.340401]",Point,MedAssist,4,INVEST,0,C6,First,No,D ST,Part three,Unarmed,778114.9119,,2949393.4,2015
+144322,152033172.0,Thursday,No,2015-04-23T15:49:00.000,MedAssist,"[-71.060045, 42.300631]",Point,MedAssist,4,UNCONS,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775186.0391,,2934884.873,2015
+151965,152033211.0,Thursday,No,2015-04-23T22:20:00.000,MedAssist,"[-71.14657, 42.360201]",Point,MedAssist,4,CARDIA,0,D14,First,No,BIRMINGHAM PY,Part three,Unarmed,751688.9870000001,,2956484.442,2015
+169417,152033004.0,Thursday,No,2015-04-23T10:20:00.000,MedAssist,"[-71.161135, 42.257871]",Point,MedAssist,4,EDP,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,747900.6475,,2919177.628,2015
+188151,152033213.0,Thursday,No,2015-04-23T22:37:00.000,MedAssist,"[-71.07591, 42.290956]",Point,MedAssist,4,EDP,0,B3,First,No,MILLET ST,Part three,Unarmed,770911.712,,2931337.422,2015
+202740,152033151.0,Thursday,No,2015-04-23T18:20:00.000,MedAssist,"[-71.08446, 42.342426]",Point,MedAssist,4,EDP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,768507.0033,,2950082.557,2015
+205299,152032942.0,Thursday,No,2015-04-23T01:00:00.000,MedAssist,"[-71.127466, 42.354525]",Point,MedAssist,4,INVEST,0,D14,Last,No,ASHFORD ST,Part three,Unarmed,756861.1942,,2954437.913,2015
+235814,152033067.0,Thursday,No,2015-04-23T14:11:00.000,MedAssist,"[-71.038515, 42.372161]",Point,MedAssist,4,DISTRB,0,A7,Day,No,GOVE ST,Part three,Unarmed,780869.3745,,2960982.4060000004,2015
+246989,152032982.0,Thursday,No,2015-04-23T09:43:00.000,MedAssist,"[-71.111099, 42.332557]",Point,MedAssist,4,REQEP,0,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,761321.6315,,2946451.875,2015
+268051,152032946.0,Thursday,No,2015-04-23T02:16:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,NIDV,0,A7,Last,No,BREMEN ST,Part three,Unarmed,,,,2015

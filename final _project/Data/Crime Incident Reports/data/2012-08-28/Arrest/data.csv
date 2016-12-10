@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33522,120537680.0,Tuesday,No,2012-08-28T18:30:00.000,Arrest,"[-71.055312, 42.327496]",Point,Arrest,8,ARREST,200,C6,First,No,OCALLAGHAN WY,Part Three,Unarmed,776415.2591,,2944681.3510000003,2012
+219515,120536155.0,Tuesday,No,2012-08-28T08:22:00.000,Arrest,"[-71.070835, 42.331511]",Point,Arrest,8,IVPER ,177,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,772210.4703,,2946123.1760000004,2012
+247194,120536667.0,Tuesday,No,2012-08-28T12:43:00.000,Arrest,"[-71.063873, 42.325436]",Point,Arrest,8,INVEST,0,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2012
+262646,120535776.0,Tuesday,No,2012-08-28T00:52:00.000,Arrest,"[0, 0]",Point,Arrest,8,ARREST,0,E18,Last,No,REDDY AV,Part Three,Unarmed,,,,2012

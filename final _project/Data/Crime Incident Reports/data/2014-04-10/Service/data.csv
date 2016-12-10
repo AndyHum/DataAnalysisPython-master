@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29760,140216084.0,Thursday,No,2014-04-10T07:10:00.000,Service,"[0, 0]",Point,Service,4,IVPER ,914,C6,Last,No,PREBLE ST,Part three,Unarmed,,OLD COLONY AV,,2014
+59648,140215954.0,Thursday,No,2014-04-10T03:03:00.000,Service,"[-71.05932, 42.354551]",Point,Service,4,ARREST,105,A1,Last,No,SUMMER ST,Part three,Unarmed,775280.6508,,2954535.244,2014
+61437,142018595.0,Thursday,No,2014-04-10T00:00:00.000,Service,"[-71.129984, 42.25878]",Point,Service,4,IVPER,0,E18,Last,No,GORDON AV,Part three,Unarmed,756331.8692,,2919543.9669999997,2014
+67937,140216214.0,Thursday,No,2014-04-10T08:10:00.000,Service,"[-71.090265, 42.284003]",Point,Service,4,ARREST,428,B3,Day,No,MORTON ST,Part three,Unarmed,767039.8025,,2928784.595,2014
+79525,140216239.0,Thursday,No,2014-04-10T08:21:00.000,Service,"[-71.16048, 42.353771]",Point,Service,4,ARREST,765,D14,Day,No,NEWCASTLE RD,Part three,Unarmed,747938.8554,,2954125.9460000005,2014
+103407,140216930.0,Thursday,No,2014-04-10T13:55:00.000,Service,"[-71.124785, 42.280301]",Point,Service,4,ARREST,557,E5,Day,No,POPLAR ST,Part three,Unarmed,757704.9064,,2927392.62,2014
+105528,140217300.0,Thursday,No,2014-04-10T16:46:00.000,Service,"[-71.056221, 42.287944]",Point,Service,4,INJAML,392,C11,First,No,ASHMONT ST,Part three,Unarmed,776244.3441,,2930266.922,2014
+255743,140216230.0,Thursday,No,2014-04-10T06:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,4,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014

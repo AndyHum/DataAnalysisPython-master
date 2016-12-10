@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140529,140040296.0,Monday,No,2014-01-20T18:07:00.000,InvProp,"[-71.0835, 42.325271]",Point,InvProp,1,IVPREM,299,B2,First,No,HANSFORD PL,Part three,Unarmed,768797.0611,,2943832.2339999997,2014
+152669,140039950.0,Monday,No,2014-01-20T15:01:00.000,InvProp,"[-71.008643, 42.393294]",Point,InvProp,1,REQBHA,942,A7,Day,No,WALDEMAR AV,Part three,Unarmed,788896.8788,,2968728.664,2014
+243436,140040900.0,Monday,No,2014-01-20T23:50:00.000,InvProp,"[-71.085618, 42.32866]",Point,InvProp,1,IVPREM,282,B2,Last,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014

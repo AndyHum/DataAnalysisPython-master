@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+163222,130045506.0,Tuesday,No,2013-01-22T17:00:00.000,Arrest,"[-71.13914, 42.276441]",Point,Arrest,1,ARREST,685,E5,First,No,LISZT ST,Part Three,Unarmed,753826.2303,WASHINGTON ST,2925969.2169999997,2013
+195714,130045137.0,Tuesday,No,2013-01-22T14:08:00.000,Arrest,"[-71.085618, 42.32866]",Point,Arrest,1,ARREST,0,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2013

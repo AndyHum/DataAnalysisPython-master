@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49960,130572419.0,Monday,No,2013-09-02T17:00:00.000,PropLost,"[-71.060693, 42.295207]",Point,PropLost,9,IVPREM,355,C11,First,No,DIX ST,Part three,Unarmed,775020.8351,,2932907.2739999997,2013
+53684,130555624.0,Monday,No,2013-09-02T11:20:00.000,PropLost,"[-71.09099, 42.283187]",Point,PropLost,9,LSTPRP,428,B3,Day,No,LANDOR RD,Part three,Unarmed,766845.1785,,2928486.099,2013
+89392,130556379.0,Monday,No,2013-09-02T16:00:00.000,PropLost,"[-71.062835, 42.353226]",Point,PropLost,9,LARCRT,111,A1,First,No,AVERY ST,Part three,Unarmed,774333.0448,,2954047.5,2013
+94116,130590613.0,Monday,No,2013-09-02T15:00:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,9,LARCRT,282,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+151163,130564121.0,Monday,No,2013-09-02T10:00:00.000,PropLost,"[-71.063155, 42.298481]",Point,PropLost,9,LSTPRP,356,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,,2934097.058,2013
+157844,130559065.0,Monday,No,2013-09-02T09:35:00.000,PropLost,"[-71.07567, 42.337441]",Point,PropLost,9,LSTPRP,170,D4,Day,No,WASHINGTON ST,Part three,Unarmed,770892.3755,WORCESTER SQ,2948277.631,2013
+192451,130556061.0,Monday,No,2013-09-02T15:04:00.000,PropLost,"[-71.054711, 42.341305]",Point,PropLost,9,LSTPRP,214,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,DORCHESTER ST,2949714.607,2013
+196074,130565902.0,Monday,No,2013-09-02T04:00:00.000,PropLost,"[-71.07628, 42.283161]",Point,PropLost,9,LSTPRP,434,B3,Last,No,EVANS ST,Part three,Unarmed,770825.7139,MILTON ST,2928496.316,2013

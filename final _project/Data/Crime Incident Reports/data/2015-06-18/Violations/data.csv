@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6634,,Thursday,No,2015-06-18T00:00:00.000,Firearm Violations,"[-71.091878, 42.333679]",Point,15xx,6,ARREST,289,B2,,No,SCHROEDER PLZ,Part Two,None,766517.0,,2950000.0,2015
+6635,,Thursday,No,2015-06-18T00:00:00.000,Firearm Violations,"[-71.091878, 42.333679]",Point,15xx,6,ARREST,289,B2,,No,SCHROEDER PLZ,Part Two,None,766517.0,,2950000.0,2015
+7035,,Thursday,No,2015-06-18T00:00:00.000,Violations,"[-71.123322, 42.290934]",Point,VAL,6,TS,563,E5,,No,WASHINGTON ST,Part Two,None,758083.0,,2930000.0,2015
+27405,,Thursday,No,2015-06-18T08:03:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,0,C11,,No,,Part Two,None,,BOWDOIN ST,,2015
+39840,,Thursday,No,2015-06-18T00:00:00.000,Firearm Violations,"[-71.048138, 42.289714]",Point,15xx,6,ARREST,374,C11,,No,NEPONSET AVE,Part Two,Firearm,778428.0,,2930000.0,2015
+70423,,Thursday,No,2015-06-18T00:00:00.000,Assembly or Gathering Violations,"[-71.057591, 42.306105]",Point,Gather,6,CD19,348,C11,,No,FREEPORT ST,Part Three,None,775839.0,,2940000.0,2015
+122597,,Thursday,No,2015-06-18T00:00:00.000,Restraining Order Violations,"[-71.073276, 42.292811]",Point,Restrain,6,DVIP,450,B3,,No,DUNLAP ST,Part Two,None,771621.0,,2930000.0,2015
+134468,,Thursday,No,2015-06-18T00:00:00.000,Violations,"[-71.154299, 42.353568]",Point,VAL,6,TS,764,D14,,No,PARSONS ST,Part Two,None,749610.0,,2950000.0,2015
+148770,,Thursday,No,2015-06-18T00:00:00.000,Assembly or Gathering Violations,"[-71.109054, 42.332978]",Point,Gather,6,DISTRB,605,B2,,No,SHEPHERD AVE,Part Three,None,761874.0,,2950000.0,2015
+169613,,Thursday,No,2015-06-18T00:00:00.000,Firearm Violations,"[-71.084991, 42.334268]",Point,15xx,6,SHOTS,286,B2,,No,KERR PL,Part Two,Firearm,768378.0,,2950000.0,2015
+182342,,Thursday,No,2015-06-18T07:05:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,0,,,No,,Part Two,None,,PORTER ST,,2015
+205204,,Thursday,No,2015-06-18T00:00:00.000,Violations,"[-71.062899, 42.35123]",Point,VAL,6,IVMV,117,A1,,No,WASHINGTON ST,Part Two,None,774319.0,,2950000.0,2015
+247794,,Thursday,No,2015-06-18T00:00:00.000,Violations,"[-71.071332, 42.310819]",Point,VAL,6,MVA,333,B2,,No,COLUMBIA RD,Part Two,None,772114.0,,2940000.0,2015

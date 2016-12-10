@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+149942,130400663.0,Sunday,No,2013-06-23T16:00:00.000,Service,"[-71.048242, 42.316663]",Point,Service,6,LARCRT,256,C6,First,No,MORRISSEY BL,Part three,Unarmed,778348.0479,,2940743.602,2013
+192968,130384185.0,Sunday,No,2013-06-23T18:30:00.000,Service,"[-71.085618, 42.32866]",Point,Service,6,IVPER ,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+249473,130384089.0,Sunday,No,2013-06-23T21:54:00.000,Service,"[-71.07837, 42.341951]",Point,Service,6,CD11  ,0,D4,First,No,RUTLAND SQ,Part three,Unarmed,770154.2611,,2949917.538,2013

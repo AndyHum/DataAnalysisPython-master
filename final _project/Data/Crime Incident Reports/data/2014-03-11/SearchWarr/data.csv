@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42314,140138084.0,Tuesday,No,2014-03-11T12:00:00.000,SearchWarr,"[-71.12395, 42.256421]",Point,SearchWarr,3,IVDRUG,520,E18,Day,No,HYDE PARK AV,Part three,Other,757969.2324,,2918691.415,2014
+157201,140148952.0,Tuesday,No,2014-03-11T10:32:00.000,SearchWarr,"[-71.085978, 42.296806]",Point,SearchWarr,3,ARREST,444,B3,Day,No,ABBOT ST,Part three,Unarmed,768177.1099,,2933455.566,2014
+169169,140150228.0,Tuesday,No,2014-03-11T20:05:00.000,SearchWarr,"[-71.03118, 42.376406]",Point,SearchWarr,3,CD11  ,20,A7,First,No,CHELSEA ST,Part three,Unarmed,782842.9146,,2962540.1780000003,2014

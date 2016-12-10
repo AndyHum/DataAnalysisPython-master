@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37427,142015945.0,Sunday,No,2014-08-03T23:25:00.000,DISORDERLY,"[-71.06219, 42.356241]",Point,24xx,8,FIGHT,0,A1,First,No,TREMONT ST,Part Two,Unarmed,774501.7472,WINTER ST,2955147.117,2014
+70301,142015943.0,Sunday,No,2014-08-03T22:42:00.000,DISORDERLY,"[-71.095995, 42.347161]",Point,24xx,8,DISTRB,0,D4,First,No,LANSDOWNE ST,Part Two,Unarmed,765380.3957,,2951793.104,2014
+247485,142015864.0,Sunday,No,2014-08-03T17:45:00.000,DISORDERLY,"[-71.058866, 42.357544]",Point,24xx,8,SS,0,A1,First,No,SCHOOL ST,Part Two,Other,775397.5892,WASHINGTON ST,2955626.3189999997,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65906,140103785.0,Saturday,No,2014-01-25T09:00:00.000,InvPer,"[-71.090619, 42.347463]",Point,InvPer,1,INVEST,591,D4,Day,No,IPSWICH ST,Part three,Unarmed,766832.8865,,2951909.848,2014
+106373,140050131.0,Saturday,No,2014-01-25T10:00:00.000,InvPer,"[-71.085618, 42.32866]",Point,InvPer,1,IVPER ,282,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+108284,140050518.0,Saturday,No,2014-01-25T11:00:00.000,InvPer,"[-71.099695, 42.330611]",Point,InvPer,1,IVPER ,587,B2,Day,No,ALLEGHANY ST,Part three,Unarmed,764408.5,,2945757.258,2014
+115009,140050201.0,Saturday,No,2014-01-25T11:30:00.000,InvPer,"[-71.161625, 42.356194]",Point,InvPer,1,HITRUN,786,D14,Day,No,OLIVA RD,Part three,Unarmed,747625.6336,,2955007.409,2014
+138928,140049813.0,Saturday,No,2014-01-25T04:44:00.000,InvPer,"[-71.05471, 42.366381]",Point,InvPer,1,UNK   ,80,A1,Last,No,SALEM ST,Part three,Unarmed,776504.1956,,2958852.796,2014
+158995,140050087.0,Saturday,No,2014-01-25T10:04:00.000,InvPer,"[-71.05845, 42.307551]",Point,InvPer,1,IVPER ,254,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775604.469,FREEPORT ST,2937408.856,2014
+168171,140050259.0,Saturday,No,2014-01-25T11:00:00.000,InvPer,"[-71.059735, 42.297541]",Point,InvPer,1,IVPER ,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+227375,140049821.0,Saturday,No,2014-01-25T04:57:00.000,InvPer,"[-71.051876, 42.35661]",Point,InvPer,1,MISPER,109,A1,Last,No,HIGH ST,Part three,Other,777288.6819,,2955295.825,2014

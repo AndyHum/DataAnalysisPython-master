@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54355,120587118.0,Tuesday,No,2012-09-18T08:30:00.000,PersLoc,"[-71.06969, 42.304686]",Point,PersLoc,9,CURFEW,336,C11,Day,No,DEVER ST,Part Three,Unarmed,772569.3849,,2936349.2660000003,2012
+137252,120586571.0,Tuesday,No,2012-09-18T16:55:00.000,PersLoc,"[-71.055123, 42.300532]",Point,PersLoc,9,MISPER,354,C11,First,No,PARK ST,Part Three,Unarmed,776517.7477,,2934855.395,2012
+217215,120587283.0,Tuesday,No,2012-09-18T17:00:00.000,PersLoc,"[-71.074795, 42.303521]",Point,PersLoc,9,MISPER,461,C11,First,No,WILCUTT RD,Part Three,Unarmed,771190.5661,,2935917.797,2012
+219831,120585530.0,Tuesday,No,2012-09-18T09:40:00.000,PersLoc,"[-71.117678, 42.28982]",Point,PersLoc,9,TRANSP,501,E13,Day,No,SOUTHBOURNE RD,Part Three,Unarmed,759612.4190000001,HYDE PARK AV,2930869.9680000003,2012

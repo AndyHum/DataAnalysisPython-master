@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23003,,Wednesday,No,2015-07-01T00:00:00.000,Aggravated Assault,"[-71.066153, 42.307038]",Point,04xx,7,PKNIFE,340,C11,,No,BOWDOIN ST,Part One,Knife/Cutting Instrument,773522.0,,2940000.0,2015
+75208,,Wednesday,No,2015-07-01T00:00:00.000,Aggravated Assault,"[-71.091997, 42.27856]",Point,04xx,7,PSHOT,427,B3,,Yes,FESSENDEN ST,Part One,Firearm,766581.0,,2930000.0,2015
+83504,,Wednesday,No,2015-07-01T00:00:00.000,Aggravated Assault,"[-71.06957, 42.356455]",Point,04xx,7,,0,A1,,No,CHARLES,Part One,Personal Weapon (hand  foot  etc.),772507.0,BRANCH ST,2960000.0,2015
+84006,,Wednesday,No,2015-07-01T00:00:00.000,Aggravated Assault,"[-71.072336, 42.296907]",Point,04xx,7,PKNIFE,453,C11,,No,WASHINGTON ST,Part One,Knife/Cutting Instrument,771868.0,,2930000.0,2015
+105218,,Wednesday,No,2015-07-01T00:00:00.000,Aggravated Assault,"[-71.089389, 42.345872]",Point,04xx,7,DVIP,620,D4,,No,HEMENWAY ST,Part One,Personal Weapon (hand  foot  etc.),767168.0,,2950000.0,2015
+140559,,Wednesday,No,2015-07-01T00:00:00.000,Aggravated Assault,"[-71.076265, 42.299263]",Point,04xx,7,AB,454,B3,,No,RIPLEY RD,Part One,Other,770800.0,,2930000.0,2015
+259915,,Wednesday,No,2015-07-01T00:00:00.000,Aggravated Assault,"[-71.072126, 42.346669]",Point,04xx,7,ARREST,151,D4,,No,CHANDLER ST,Part One,Firearm,771834.0,,2950000.0,2015

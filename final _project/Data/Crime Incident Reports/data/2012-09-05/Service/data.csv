@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11731,120555715.0,Wednesday,No,2012-09-05T19:30:00.000,Service,"[0, 0]",Point,Service,9,IVPER ,257,C11,First,No,PARK ST,Part Three,Unarmed,,,,2012
+33474,120555265.0,Wednesday,No,2012-09-05T17:18:00.000,Service,"[-71.10271, 42.262361]",Point,Service,9,ARREST,484,E18,First,No,OSCEOLA ST,Part Three,Unarmed,763709.0989,FRIENDSHIP RD,2920882.0919999997,2012
+76980,120555630.0,Wednesday,No,2012-09-05T20:10:00.000,Service,"[-71.067491, 42.344883]",Point,Service,9,IVPER ,161,D4,First,No,CASTLE CT,Part Three,Unarmed,773089.8881,,2951000.7389999996,2012
+104002,120555299.0,Wednesday,No,2012-09-05T17:34:00.000,Service,"[-71.121261, 42.252722]",Point,Service,9,ARREST,521,E18,First,No,WALNUT AV,Part Three,Unarmed,758702.9438,,2917346.3860000004,2012
+137317,120555603.0,Wednesday,No,2012-09-05T19:30:00.000,Service,"[-71.078394, 42.32898]",Point,Service,9,IVPER ,268,B2,First,No,EUSTIS ST,Part Three,Unarmed,770171.0377,,2945190.659,2012
+145320,120555685.0,Wednesday,No,2012-09-05T20:40:00.000,Service,"[-71.09486, 42.315301]",Point,Service,9,IVPER ,307,E13,First,No,WARDMAN RD,Part Three,Unarmed,765742.3612,,2940184.2010000004,2012
+188793,120554809.0,Wednesday,No,2012-09-05T13:39:00.000,Service,"[-71.099107, 42.328539]",Point,Service,9,ARREST,586,B2,Day,No,PARKER ST,Part Three,Unarmed,764570.8891,,2945002.935,2012
+206706,120554405.0,Wednesday,No,2012-09-05T10:24:00.000,Service,"[-71.060565, 42.361386]",Point,Service,9,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,774931.3031,,2957024.314,2012
+261518,120554271.0,Wednesday,No,2012-09-05T09:16:00.000,Service,"[0, 0]",Point,Service,9,ARREST,784,D14,Day,No,NEVINS ST,Part Three,Unarmed,,,,2012

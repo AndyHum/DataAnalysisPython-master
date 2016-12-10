@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91719,130166626.0,Monday,No,2013-03-18T12:00:00.000,FORGERY,"[-71.07064, 42.338541]",Point,10xx,3,LARCRT,167,D4,Day,No,HARRISON AV,Part Two,Unarmed,772250.2999,,2948685.297,2013
+105481,130161169.0,Monday,No,2013-03-18T21:14:00.000,FORGERY,"[-71.07974, 42.349416]",Point,10xx,3,IVPER ,143,D4,First,No,BOYLSTON ST,Part Two,Other,769770.4817,,2952636.0960000004,2013

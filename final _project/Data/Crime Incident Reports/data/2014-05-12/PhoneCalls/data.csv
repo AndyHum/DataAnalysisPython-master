@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19112,140298170.0,Monday,No,2014-05-12T12:00:00.000,PhoneCalls,"[-71.093834, 42.319031]",Point,PhoneCalls,5,IVPER ,304,B2,Day,No,CODMAN PARK,Part three,Other,766013.1401,,2941544.7060000002,2014
+39239,140293021.0,Monday,No,2014-05-12T13:13:00.000,PhoneCalls,"[-71.02716, 42.335341]",Point,PhoneCalls,5,HARPT ,228,C6,Day,No,P ST,Part three,Unarmed,784012.0756,,2947581.333,2014
+111259,140293236.0,Monday,No,2014-05-12T14:21:00.000,PhoneCalls,"[-71.121632, 42.279758]",Point,PhoneCalls,5,HARPT ,556,E5,Day,No,SEYMOUR ST,Part three,Other,758558.8093,,2927198.481,2014
+140790,140328394.0,Monday,No,2014-05-12T18:30:00.000,PhoneCalls,"[-71.12954, 42.351696]",Point,PhoneCalls,5,INVEST,796,D14,First,No,REEDSDALE ST,Part three,Other,756305.1478,,2953404.5760000004,2014

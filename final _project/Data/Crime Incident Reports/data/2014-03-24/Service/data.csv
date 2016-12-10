@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+170103,140178033.0,Monday,No,2014-03-24T10:11:00.000,Service,"[-71.09154, 42.284251]",Point,Service,3,ARREST,428,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766694.479,MORTON ST,2928873.385,2014
+252662,140177919.0,Monday,No,2014-03-24T09:13:00.000,Service,"[-71.14136, 42.349171]",Point,Service,3,ARREST,783,D14,Day,No,WARREN ST,Part three,Unarmed,753113.9957,CAMELOT CT,2952470.76,2014
+264243,140178867.0,Monday,No,2014-03-24T13:00:00.000,Service,"[0, 0]",Point,Service,3,THREAT,320,B2,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84953,140057699.0,Tuesday,No,2014-01-28T21:35:00.000,PropFound,"[-71.07243, 42.349951]",Point,PropFound,1,FDPROP,129,D4,First,No,BERKELEY ST,Part three,Unarmed,771745.5102,,2952840.88,2014
+142513,140056760.0,Tuesday,No,2014-01-28T12:05:00.000,PropFound,"[-71.12167, 42.257471]",Point,PropFound,1,CD9   ,520,E18,Day,No,EVERETT ST,Part three,Unarmed,758584.7613,,2919076.7789999996,2014
+142615,140056547.0,Tuesday,No,2014-01-28T11:15:00.000,PropFound,"[-71.056003, 42.351606]",Point,PropFound,1,IVPREM,113,A1,Day,No,FINANCIAL CENTER,Part three,Unarmed,776182.564,,2953466.568,2014

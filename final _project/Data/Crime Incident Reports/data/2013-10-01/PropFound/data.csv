@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21456,130625611.0,Tuesday,No,2013-10-01T12:44:00.000,PropFound,"[-71.071885, 42.351536]",Point,PropFound,10,MEET  ,138,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771889.9292,,2953419.2260000003,2013
+124607,130625111.0,Tuesday,No,2013-10-01T12:44:00.000,PropFound,"[-71.08207, 42.348781]",Point,PropFound,10,MEET  ,129,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769141.7805,,2952401.595,2013
+128734,130626051.0,Tuesday,No,2013-10-01T17:32:00.000,PropFound,"[-71.09859, 42.332096]",Point,PropFound,10,IVDRUG,601,B2,First,No,TREMONT ST,Part three,Unarmed,764704.7386,,2946299.8219999997,2013
+162141,130625165.0,Tuesday,No,2013-10-01T08:30:00.000,PropFound,"[-71.07366, 42.338811]",Point,PropFound,10,FDPROP,168,D4,Day,No,E NEWTON ST,Part three,Unarmed,771433.3162,WASHINGTON ST,2948779.5939999996,2013
+205487,130626687.0,Tuesday,No,2013-10-01T20:15:00.000,PropFound,"[-71.12426, 42.254841]",Point,PropFound,10,LSTPRP,522,E18,First,No,HYDE PARK AV,Part three,Unarmed,757887.8477,PINGREE ST,2918115.273,2013
+236072,130624732.0,Tuesday,No,2013-10-01T00:25:00.000,PropFound,"[-71.0855, 42.351911]",Point,PropFound,10,FDPROP,0,D4,Last,No,BEACON ST,Part three,Unarmed,768209.047,GLOUCESTER ST,2953537.702,2013
+262489,130626586.0,Tuesday,No,2013-10-01T17:40:00.000,PropFound,"[0, 0]",Point,PropFound,10,LSTPRP,527,E18,First,No,HAMILTON ST,Part three,Unarmed,,,,2013

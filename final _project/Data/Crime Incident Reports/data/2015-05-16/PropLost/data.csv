@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1516,152040281.0,Saturday,No,2015-05-16T23:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+7069,152040393.0,Saturday,No,2015-05-16T12:00:00.000,PropLost,"[-71.071312, 42.360965]",Point,PropLost,5,PROP,0,A1,Day,No,DAVID G MUGAR WAY,Part three,Unarmed,772027.5221,,2956855.873,2015
+31325,152040380.0,Saturday,No,2015-05-16T19:15:00.000,PropLost,"[-71.058756, 42.36273]",Point,PropLost,5,PROP,0,A1,First,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2015
+63947,152040209.0,Saturday,No,2015-05-16T17:32:00.000,PropLost,"[-71.0892, 42.290746]",Point,PropLost,5,LARCEN,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767316.2688,,2931243.297,2015
+194314,152040243.0,Saturday,No,2015-05-16T20:49:00.000,PropLost,"[-71.08499, 42.334271]",Point,PropLost,5,PROP,0,B2,First,No,SOJOURNER TRUTH CT,Part three,Unarmed,768378.1791,,2947110.0289999996,2015
+205201,152041276.0,Saturday,No,2015-05-16T04:00:00.000,PropLost,"[-71.073978, 42.333151]",Point,PropLost,5,LARCEN,0,D4,Last,No,ALBANY ST,Part three,Unarmed,771357.6081,,2946716.26,2015

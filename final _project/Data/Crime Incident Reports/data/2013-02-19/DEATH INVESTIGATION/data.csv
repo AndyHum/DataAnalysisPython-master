@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61,130231962.0,Tuesday,No,2013-02-19T21:30:00.000,DEATH INVESTIGATION,"[-71.17312, 42.351201]",Point,01INV,2,CARST ,755,D14,First,No,TREMONT ST,Part Three,Unarmed,744525.8777,,2953176.035,2013
+125324,130103684.0,Tuesday,No,2013-02-19T11:23:00.000,DEATH INVESTIGATION,"[-71.09952, 42.317741]",Point,01INV,2,UNK   ,303,E13,Day,No,W WALNUT PARK,Part Three,Unarmed,764477.8371,,2941067.4260000004,2013
+179634,130103253.0,Tuesday,No,2013-02-19T06:38:00.000,DEATH INVESTIGATION,"[-71.030225, 42.334846]",Point,01INV,2,UNK   ,227,C6,Last,No,E 4TH ST,Part Three,Unarmed,783184.3709,,2947396.369,2013

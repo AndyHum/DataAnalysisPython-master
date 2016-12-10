@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+150439,130608020.0,Monday,No,2013-09-23T17:10:00.000,Arrest,"[0, 0]",Point,Arrest,9,IVPER ,28,A7,First,No,MAVERICK SQ,Part three,Unarmed,,,,2013
+219530,130608023.0,Monday,No,2013-09-23T17:10:00.000,Arrest,"[0, 0]",Point,Arrest,9,IVPER ,28,A7,First,No,MAVERICK SQ,Part three,Unarmed,,,,2013
+226715,130608087.0,Monday,No,2013-09-23T18:00:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,9,ARREST,72,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+263683,130607939.0,Monday,No,2013-09-23T17:10:00.000,Arrest,"[0, 0]",Point,Arrest,9,IVDRUG,27,A7,First,No,MAVERICK SQ,Part three,Unarmed,,,,2013

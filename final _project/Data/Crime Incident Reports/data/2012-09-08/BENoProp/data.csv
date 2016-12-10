@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36129,120563075.0,Saturday,No,2012-09-08T18:30:00.000,BENoProp,"[-71.136411, 42.2727]",Point,BENoProp,9,BERPT ,550,E5,First,No,BLUE LEDGE DR,Part One,Other,754570.4698,,2924609.102,2012
+147768,120561437.0,Saturday,No,2012-09-08T02:15:00.000,BENoProp,"[-71.12622, 42.360346]",Point,BENoProp,9,BERPT ,814,D14,Last,No,W SORRENTO ST,Part One,Unarmed,757188.7526,,2956560.729,2012
+151208,120561931.0,Saturday,No,2012-09-08T03:00:00.000,BENoProp,"[-71.136064, 42.350146]",Point,BENoProp,9,BERPT ,794,D14,Last,No,LONG AV,Part One,Unarmed,754544.0296,,2952832.01,2012

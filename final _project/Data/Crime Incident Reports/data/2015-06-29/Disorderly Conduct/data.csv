@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41344,,Monday,No,2015-06-29T00:00:00.000,Disorderly Conduct,"[-71.085842, 42.296862]",Point,24xx,6,AB,444,B3,,No,ABBOT ST,Part Two,None,768214.0,,2930000.0,2015
+45054,,Monday,No,2015-06-29T19:05:00.000,Disorderly Conduct,"[0, 0]",Point,24xx,6,IVPREM,498,E18,,No,HYDE PARK AVE,Part Two,None,,,,2015
+88253,,Monday,No,2015-06-29T00:00:00.000,Disorderly Conduct,"[-71.081384, 42.340816]",Point,24xx,6,IVPER,155,D4,,No,COLUMBUS AVE,Part Two,None,769341.0,,2950000.0,2015

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129123,130087002.0,Monday,No,2013-02-11T12:34:00.000,Service,"[-71.059987, 42.361648]",Point,Service,2,ARREST,0,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013
+132525,130086449.0,Monday,No,2013-02-11T07:00:00.000,Service,"[0, 0]",Point,Service,2,AOD   ,235,C11,Last,No,COLUMBIA RD,Part Three,Unarmed,,,,2013

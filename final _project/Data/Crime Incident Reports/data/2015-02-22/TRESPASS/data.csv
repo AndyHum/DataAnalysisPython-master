@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6733,152014409.0,Sunday,No,2015-02-22T19:54:00.000,TRESPASS,"[-71.062735, 42.351706]",Point,TRESPASS,2,ARREST,0,A1,First,No,WASHINGTON ST,Part Two,Unarmed,774362.9145,,2953493.7210000004,2015
+24429,152014218.0,Sunday,No,2015-02-22T04:36:00.000,TRESPASS,"[-71.060805, 42.378351]",Point,TRESPASS,2,ARREST,0,A15,Last,No,BUNKER HILL ST,Part Two,Unarmed,774834.6061,,2963206.369,2015
+127414,152014386.0,Sunday,No,2015-02-22T17:20:00.000,TRESPASS,"[-71.083699, 42.330436]",Point,TRESPASS,2,IVPER,0,B2,First,No,WASHINGTON ST,Part Two,Other,768733.8404,,2945714.085,2015

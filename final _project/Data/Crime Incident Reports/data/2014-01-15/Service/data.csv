@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24265,140029944.0,Wednesday,No,2014-01-15T18:00:00.000,Service,"[-71.03685, 42.379501]",Point,Service,1,IVPER ,28,A7,First,No,EUTAW ST,Part three,Unarmed,781304.7602,,2963659.69,2014
+30283,140029531.0,Wednesday,No,2014-01-15T15:15:00.000,Service,"[-71.06293, 42.351166]",Point,Service,1,AOD   ,117,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2014
+31822,140029909.0,Wednesday,No,2014-01-15T17:53:00.000,Service,"[-71.04837, 42.331231]",Point,Service,1,CD9   ,219,C6,First,No,E 8TH ST,Part three,Unarmed,778285.3561,,2946052.502,2014
+151450,140029123.0,Wednesday,No,2014-01-15T11:56:00.000,Service,"[-71.03393, 42.374056]",Point,Service,1,ARREST,21,A7,Day,No,CHELSEA ST,Part three,Unarmed,782104.5469,,2961679.7189999996,2014
+189952,140028456.0,Wednesday,No,2014-01-15T02:09:00.000,Service,"[-71.066011, 42.348689]",Point,Service,1,ARREST,127,A1,Last,No,TREMONT ST,Part three,Unarmed,773482.8942,,2952389.792,2014
+217791,140029069.0,Wednesday,No,2014-01-15T11:40:00.000,Service,"[-71.097081, 42.319472]",Point,Service,1,ARREST,304,B2,Day,No,DIMOCK ST,Part three,Unarmed,765134.3663,,2941701.057,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80071,152048945.0,Saturday,No,2015-06-13T06:00:00.000,FIRE,"[-71.073606, 42.301168]",Point,FIRE,6,FO,0,C11,Last,No,NOTTINGHAM ST,Part three,Other,771516.4205,,2935061.943,2015
+155573,152048973.0,Saturday,No,2015-06-13T09:32:00.000,FIRE,"[-71.127627, 42.255195]",Point,FIRE,6,FO,0,E18,Day,No,RIVER ST,Part three,Unarmed,756975.571,,2918240.278,2015
+215425,152049114.0,Saturday,No,2015-06-13T18:45:00.000,FIRE,"[-71.026551, 42.332972]",Point,FIRE,6,FIRE,0,C6,First,No,LENNON CT,Part three,Unarmed,784181.3236,,2946718.71,2015

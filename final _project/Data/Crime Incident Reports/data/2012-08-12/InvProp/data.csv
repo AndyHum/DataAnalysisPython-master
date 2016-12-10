@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11035,120500847.0,Sunday,No,2012-08-12T15:08:00.000,InvProp,"[-71.147485, 42.278556]",Point,InvProp,8,ALARMR,701,E5,Day,No,WREN ST,Part Three,Unarmed,751564.6543,,2926730.5110000004,2012
+43154,120500547.0,Sunday,No,2012-08-12T11:48:00.000,InvProp,"[-71.076405, 42.338031]",Point,InvProp,8,IVPREM,170,D4,Day,No,WORCESTER ST,Part Three,Unarmed,770692.5881,,2948491.651,2012
+63048,120501557.0,Sunday,No,2012-08-12T22:20:00.000,InvProp,"[-71.090025, 42.316871]",Point,InvProp,8,IVPREM,312,B2,First,No,HAROLD ST,Part Three,Unarmed,767047.292,,2940762.583,2012
+115837,120501022.0,Sunday,No,2012-08-12T17:02:00.000,InvProp,"[-71.071225, 42.287436]",Point,InvProp,8,ALARMR,435,C11,First,No,WASHINGTON ST,Part Three,Unarmed,772185.7571,,2930061.021,2012
+254745,120502625.0,Sunday,No,2012-08-12T19:30:00.000,InvProp,"[-71.13721, 42.291456]",Point,InvProp,8,VANRPT,673,E5,First,No,HEWLETT ST,Part Three,Other,754325.2741,,2931443.1289999997,2012

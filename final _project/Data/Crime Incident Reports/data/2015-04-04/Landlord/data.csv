@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120010,152027620.0,Saturday,No,2015-04-04T21:30:00.000,Landlord,"[-71.070575, 42.302876]",Point,Landlord,4,DISTRB,0,C11,First,No,GENEVA AV,Part three,Unarmed,772333.3076,,2935688.4680000003,2015
+173065,152027417.0,Saturday,No,2015-04-04T14:22:00.000,Landlord,"[-71.071885, 42.351536]",Point,Landlord,4,LANTEN,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771889.9292,,2953419.2260000003,2015
+184730,152027454.0,Saturday,No,2015-04-04T16:19:00.000,Landlord,"[-71.114345, 42.288641]",Point,Landlord,4,LANTEN,0,E13,First,No,CATHERINE ST,Part three,Unarmed,760516.3459999999,,2930444.44,2015

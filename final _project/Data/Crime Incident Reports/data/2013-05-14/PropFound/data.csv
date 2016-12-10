@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25743,130288251.0,Tuesday,No,2013-05-14T18:00:00.000,PropFound,"[-71.108089, 42.323474]",Point,PropFound,5,LARCRT,582,E13,First,No,CREIGHTON ST,Part Three,Other,762150.5458,,2943145.577,2013
+46463,130288857.0,Tuesday,No,2013-05-14T23:00:00.000,PropFound,"[-71.125411, 42.351745]",Point,PropFound,5,FDPROP,796,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,757421.073,,2953427.042,2013
+48179,130287837.0,Tuesday,No,2013-05-14T17:10:00.000,PropFound,"[-71.06561, 42.344456]",Point,PropFound,5,FDPROP,162,D4,First,No,WASHINGTON ST,Part Three,Unarmed,773599.2408,,2950847.715,2013
+58522,130289702.0,Tuesday,No,2013-05-14T00:00:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,5,FDPROP,574,E13,Last,No,WASHINGTON ST,Part Three,Unarmed,763205.8082,,2938139.2,2013
+108491,130288163.0,Tuesday,No,2013-05-14T19:05:00.000,PropFound,"[-71.03118, 42.376406]",Point,PropFound,5,FDPROP,20,A7,First,No,CHELSEA ST,Part Three,Unarmed,782842.9146,,2962540.1780000003,2013
+265992,130286744.0,Tuesday,No,2013-05-14T07:30:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,751,D14,Day,No,UNDINE RD,Part three,Unarmed,,,,2013

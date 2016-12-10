@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1953,152043489.0,Wednesday,No,2015-05-27T11:30:00.000,Service,"[0, 0]",Point,Service,5,ARREST,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+3629,152043659.0,Wednesday,No,2015-05-27T18:53:00.000,Service,"[0, 0]",Point,Service,5,VAND,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,,,,2015
+3650,152043705.0,Wednesday,No,2015-05-27T18:00:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015
+3806,152043712.0,Wednesday,No,2015-05-27T20:51:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,C6,First,No,BOSTON ST,Part three,Unarmed,,,,2015
+3849,152043439.0,Wednesday,No,2015-05-27T07:45:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+3915,152043518.0,Wednesday,No,2015-05-27T12:00:00.000,Service,"[0, 0]",Point,Service,5,ARREST,0,C11,Day,No,STOUGHTON ST,Part three,Unarmed,,,,2015
+18642,152043441.0,Wednesday,No,2015-05-27T08:37:00.000,Service,"[-71.085036, 42.294732]",Point,Service,5,ARREST,0,B3,Day,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2015
+37220,152043567.0,Wednesday,No,2015-05-27T14:45:00.000,Service,"[-71.150915, 42.348981]",Point,Service,5,CD11,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+107282,152043681.0,Wednesday,No,2015-05-27T19:44:00.000,Service,"[-71.061434, 42.300547]",Point,Service,5,IVPREM,0,C11,First,No,CHARLES ST,Part three,Other,774810.2974,,2934852.3389999997,2015
+180589,152043672.0,Wednesday,No,2015-05-27T19:32:00.000,Service,"[-71.056915, 42.329571]",Point,Service,5,ARREST,0,C6,First,No,DORCHESTER ST,Part three,Unarmed,775977.9936,DORCHESTER AV,2945435.4510000004,2015
+191920,152043639.0,Wednesday,No,2015-05-27T16:45:00.000,Service,"[-71.09514, 42.349621]",Point,Service,5,IVMV,0,D4,First,No,RALEIGH ST,Part three,Unarmed,765607.2686,BEACON ST,2952690.666,2015
+217344,152043661.0,Wednesday,No,2015-05-27T18:30:00.000,Service,"[-71.033025, 42.377876]",Point,Service,5,CD11,0,A7,First,No,SARATOGA ST,Part three,Unarmed,782341.4644,,2963073.142,2015

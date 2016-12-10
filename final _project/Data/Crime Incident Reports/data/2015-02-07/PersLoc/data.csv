@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49568,152010067.0,Saturday,No,2015-02-07T02:27:00.000,PersLoc,"[-71.05438, 42.339861]",Point,PersLoc,2,IVPER,0,C6,Last,No,CROWLEY ROGERS WY,Other,Unarmed,776643.8663,,2949188.876,2015
+104678,152010353.0,Saturday,No,2015-02-07T19:00:00.000,PersLoc,"[-71.06974, 42.289166]",Point,PersLoc,2,IVPER,0,C11,First,No,BRENT ST,Other,Unarmed,772584.3859,,2930693.4839999997,2015
+127730,152010109.0,Saturday,No,2015-02-07T10:44:00.000,PersLoc,"[-71.087612, 42.312512]",Point,PersLoc,2,IVPER,0,B2,Day,No,CRAWFORD ST,Other,Unarmed,767707.5761,,2939177.0239999997,2015
+235704,152011748.0,Saturday,No,2015-02-07T10:00:00.000,PersLoc,"[-71.072008, 42.301524]",Point,PersLoc,2,IVPER,0,C11,Day,No,BOWDOIN ST,Other,Other,771947.8819,,2935193.67,2015

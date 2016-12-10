@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93355,140322550.0,Friday,No,2014-05-23T21:35:00.000,FIRE,"[-71.133978, 42.351961]",Point,FIRE,5,FIREB ,794,D14,First,No,QUINT AV,Part three,Other,755104.91,,2953495.785,2014
+170761,140321734.0,Friday,No,2014-05-23T15:37:00.000,FIRE,"[-71.140715, 42.348189]",Point,FIRE,5,FIREB ,784,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,753289.6735,,2952113.337,2014
+231358,140322691.0,Friday,No,2014-05-23T22:30:00.000,FIRE,"[-71.091505, 42.288081]",Point,FIRE,5,FIREB ,464,B3,First,No,HANSBOROUGH ST,Part three,Unarmed,766697.2661,,2930269.139,2014

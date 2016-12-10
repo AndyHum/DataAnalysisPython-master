@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111950,130740216.0,Friday,No,2013-11-22T03:01:00.000,InvProp,"[-71.076495, 42.289841]",Point,InvProp,11,IVPREM,0,B3,Last,No,SOUTHERN AV,Part three,Unarmed,770755.4486,,2930930.314,2013
+171401,130740083.0,Friday,No,2013-11-22T00:51:00.000,InvProp,"[-71.112411, 42.284053]",Point,InvProp,11,IVPREM,503,E18,Last,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2013
+190538,130740137.0,Friday,No,2013-11-22T01:40:00.000,InvProp,"[-71.139735, 42.286161]",Point,InvProp,11,ALARMC,687,E5,Last,No,BELGRADE AV,Part three,Other,753650.2456,,2929510.651,2013

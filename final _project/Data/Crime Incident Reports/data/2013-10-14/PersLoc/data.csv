@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30233,130656668.0,Monday,No,2013-10-14T18:00:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,10,MISPER,281,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2013
+42348,130656151.0,Monday,No,2013-10-14T15:00:00.000,PersLoc,"[-71.07102, 42.336701]",Point,PersLoc,10,MSNCOM,169,D4,Day,No,E NEWTON ST,Other,Unarmed,772150.9382,,2948014.253,2013
+66981,130656657.0,Monday,No,2013-10-14T21:49:00.000,PersLoc,"[-71.10031, 42.272706]",Point,PersLoc,10,MSNCOM,474,B3,First,No,NEWCASTLE ST,Other,Unarmed,764341.0835,,2924654.982,2013
+133004,130655119.0,Monday,No,2013-10-14T02:57:00.000,PersLoc,"[-71.092561, 42.311882]",Point,PersLoc,10,MISPER,316,B2,Last,No,HUTCHINGS ST,Other,Unarmed,766369.8625,,2938941.191,2013
+228047,130692953.0,Monday,No,2013-10-14T11:00:00.000,PersLoc,"[-71.074113, 42.29713]",Point,PersLoc,10,MISPER,453,B3,Day,No,BRADLEE ST,Other,Unarmed,771386.5956,,2933589.519,2013
+253456,130655886.0,Monday,No,2013-10-14T18:00:00.000,PersLoc,"[-71.088325, 42.284031]",Point,PersLoc,10,MISPER,429,B3,First,No,THEODORE ST,Other,Unarmed,767564.8231,,2928797.397,2013

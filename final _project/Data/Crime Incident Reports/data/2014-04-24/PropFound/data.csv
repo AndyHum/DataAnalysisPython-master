@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64401,140249002.0,Thursday,No,2014-04-24T11:39:00.000,PropFound,"[-71.104895, 42.337681]",Point,PropFound,4,FDPROP,0,B2,Day,No,LONGWOOD AV,Part three,Unarmed,762990.5031,,2948327.137,2014
+204872,140249198.0,Thursday,No,2014-04-24T13:00:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,4,FDPROP,571,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+237700,140248477.0,Thursday,No,2014-04-24T05:20:00.000,PropFound,"[-71.057025, 42.361191]",Point,PropFound,4,FDPROP,93,A1,Last,No,UNION ST,Part three,Unarmed,775888.4065,,2956958.2010000004,2014
+262262,140249019.0,Thursday,No,2014-04-24T01:15:00.000,PropFound,"[0, 0]",Point,PropFound,4,FDPROP,795,D14,Last,No,GORDON ST,Part three,Unarmed,,,,2014

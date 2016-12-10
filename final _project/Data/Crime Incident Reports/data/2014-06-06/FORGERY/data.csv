@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11223,140355947.0,Friday,No,2014-06-06T11:54:00.000,FORGERY,"[-71.05508, 42.326231]",Point,10xx,6,IVPER ,914,C6,Day,No,OCALLAGHAN WY,Part Two,Other,776480.5259,STERLING SQ,2944220.881,2014
+48542,140358599.0,Friday,No,2014-06-06T14:30:00.000,FORGERY,"[-71.07776, 42.318941]",Point,10xx,6,LARCRT,311,B2,Day,No,BLUE HILL AV,Part Two,Unarmed,770360.6823,,2941533.107,2014
+51798,140355870.0,Friday,No,2014-06-06T11:31:00.000,FORGERY,"[-71.099385, 42.342666]",Point,10xx,6,INVEST,626,D4,Day,No,KILMARNOCK ST,Part Two,Unarmed,764471.6869,,2950150.713,2014

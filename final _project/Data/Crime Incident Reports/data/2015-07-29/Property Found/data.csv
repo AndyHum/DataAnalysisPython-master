@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84149,,Wednesday,No,2015-07-29T00:00:00.000,Property Found,"[-71.154886, 42.352463]",Point,PropFound,7,IVPREM,763,D14,,No,ARLINGTON ST,Part Three,None,749453.0,,2950000.0,2015
+105716,,Wednesday,No,2015-07-29T00:00:00.000,Property Found,"[-71.066854, 42.300165]",Point,PropFound,7,PROP,357,C11,,No,DAKOTA ST,Part Three,None,773345.0,,2930000.0,2015
+217893,,Wednesday,No,2015-07-29T00:00:00.000,Property Found,"[-71.096068, 42.348776]",Point,PropFound,7,PROP,623,D4,,No,COMMONWEALTH AVE,Part Three,None,765358.0,,2950000.0,2015
+243897,,Wednesday,No,2015-07-29T08:54:00.000,Property Found,"[0, 0]",Point,PropFound,7,IVPREM,624,D4,,No,VAN NESS ST,Part Three,None,,YAWKEY WAY,,2015

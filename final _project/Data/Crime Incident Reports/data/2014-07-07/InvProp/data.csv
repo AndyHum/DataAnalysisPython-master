@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53723,142007063.0,Monday,No,2014-07-07T22:18:00.000,InvProp,"[-71.115065, 42.283936]",Point,InvProp,7,IVPER,0,E18,First,No,BROOK ST,Part three,Unarmed,760329.2657,,2928728.9889999996,2014
+79711,142007020.0,Monday,No,2014-07-07T19:52:00.000,InvProp,"[-71.05238, 42.336371]",Point,InvProp,7,BE,0,C6,First,No,W 6TH ST,Part three,Unarmed,777191.2536,,2947919.8910000003,2014
+87898,142006911.0,Monday,No,2014-07-07T15:00:00.000,InvProp,"[-71.06813, 42.286736]",Point,InvProp,7,IVPER,0,C11,Day,No,ROSLIN ST,Part three,Unarmed,773024.4936,,2929810.1569999997,2014
+194981,142007034.0,Monday,No,2014-07-07T20:35:00.000,InvProp,"[-71.103505, 42.331466]",Point,InvProp,7,BE,0,B2,First,No,CALUMET ST,Part three,Other,763376.84,,2946064.022,2014

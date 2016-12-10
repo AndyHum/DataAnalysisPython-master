@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48286,130660227.0,Wednesday,No,2013-10-16T16:41:00.000,InvProp,"[-71.098595, 42.271346]",Point,InvProp,10,BEMVRT,475,B3,First,No,BROCKTON ST,Part three,Other,764807.5651,,2924161.561,2013
+76603,130661176.0,Wednesday,No,2013-10-16T19:57:00.000,InvProp,"[-71.00413, 42.385721]",Point,InvProp,10,ALARMI,6,A7,First,No,SARATOGA ST,Part three,Unarmed,790131.9348,,2965975.807,2013
+88424,130660257.0,Wednesday,No,2013-10-16T13:13:00.000,InvProp,"[-71.126335, 42.248291]",Point,InvProp,10,BEIP  ,523,E18,Day,No,GLENWOOD AV,Part three,Other,757336.5607,,2915725.902,2013
+156344,130661348.0,Wednesday,No,2013-10-16T21:29:00.000,InvProp,"[-71.129053, 42.357425]",Point,InvProp,10,BEIP  ,816,D14,First,No,LINCOLN ST,Part three,Unarmed,756427.5109999999,,2955492.895,2013

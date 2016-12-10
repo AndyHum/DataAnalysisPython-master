@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140166,140132668.0,Wednesday,No,2014-02-26T20:40:00.000,PropLost,"[-71.153145, 42.343791]",Point,PropLost,2,LSTPRP,926,D14,First,No,LEDGEMERE RD,Part three,Unarmed,749936.2779,,2950497.005,2014
+160167,140120600.0,Wednesday,No,2014-02-26T08:00:00.000,PropLost,"[-71.07372, 42.340181]",Point,PropLost,2,LSTPRP,166,D4,Day,No,SHAWMUT AV,Part three,Unarmed,771414.5992,,2949278.7660000003,2014
+264478,140122244.0,Wednesday,No,2014-02-26T10:50:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,80,A1,Day,No,FRUIT ST,Part three,Unarmed,,,,2014

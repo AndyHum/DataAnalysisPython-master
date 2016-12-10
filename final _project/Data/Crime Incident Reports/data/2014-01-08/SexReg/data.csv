@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3739,140124639.0,Wednesday,No,2014-01-08T16:00:00.000,SexReg,"[-71.059987, 42.361648]",Point,SexReg,1,INVEST,72,A1,First,No,SUDBURY ST,Part Two,Unarmed,775087.02,,2957120.525,2014
+51072,140022652.0,Wednesday,No,2014-01-08T16:00:00.000,SexReg,"[-71.059987, 42.361648]",Point,SexReg,1,IVPER ,72,A1,First,No,SUDBURY ST,Part Two,Unarmed,775087.02,,2957120.525,2014
+97549,140014278.0,Wednesday,No,2014-01-08T08:00:00.000,SexReg,"[-71.150915, 42.348981]",Point,SexReg,1,INVEST,778,D14,Day,No,WASHINGTON ST,Part Two,Unarmed,750531.3965,,2952390.805,2014
+211751,140023082.0,Wednesday,No,2014-01-08T12:00:00.000,SexReg,"[-71.06494, 42.343021]",Point,SexReg,1,IVPER ,165,D4,Day,No,HARRISON AV,Part Two,Unarmed,773783.0344,,2950325.6980000003,2014

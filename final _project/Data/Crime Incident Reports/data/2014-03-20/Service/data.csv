@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70712,140170463.0,Thursday,No,2014-03-20T18:00:00.000,Service,"[-71.093739, 42.334956]",Point,Service,3,IVPREM,282,B2,First,No,ANNUNCIATION RD,Part three,Unarmed,766011.2668,,2947348.014,2014
+239097,140169136.0,Thursday,No,2014-03-20T07:53:00.000,Service,"[-71.074325, 42.280566]",Point,Service,3,CD11  ,417,B3,Day,No,FAIRMOUNT ST,Part three,Unarmed,771359.452,,2927553.2989999996,2014
+261975,140211848.0,Thursday,No,2014-03-20T10:00:00.000,Service,"[0, 0]",Point,Service,3,MISCRP,216,C6,Day,No,8TH ST,Part three,Unarmed,,,,2014

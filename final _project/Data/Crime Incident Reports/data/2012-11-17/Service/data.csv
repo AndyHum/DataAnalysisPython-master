@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151519,120724072.0,Saturday,No,2012-11-17T11:18:00.000,Service,"[-71.153785, 42.355626]",Point,Service,11,ARREST,939,D14,Day,No,FANEUIL ST,Part Three,Unarmed,749745.7540000001,,2954809.2180000003,2012
+195631,120724478.0,Saturday,No,2012-11-17T14:26:00.000,Service,"[-71.112411, 42.284053]",Point,Service,11,ARREST,503,E18,Day,No,AMERICAN LEGION HY,Part Three,Unarmed,761047.1773,,2928774.728,2012
+209638,120723892.0,Saturday,No,2012-11-17T08:43:00.000,Service,"[-71.084646, 42.304835]",Point,Service,11,CD11  ,330,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,768523.3694,,2936383.492,2012

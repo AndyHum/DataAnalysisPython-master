@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19744,142017305.0,Friday,No,2014-08-08T09:40:00.000,MedAssist,"[-71.074689, 42.3085]",Point,MedAssist,8,IVPER,0,C11,Day,No,COLUMBIA RD,Part three,Unarmed,771209.9408,,2937732.365,2014
+47056,142017512.0,Friday,No,2014-08-08T21:32:00.000,MedAssist,"[-71.064572, 42.312683]",Point,MedAssist,8,UNKEMS,0,C11,First,No,HANCOCK ST,Part three,Unarmed,773938.7598,,2939270.416,2014
+73949,142017409.0,Friday,No,2014-08-08T11:10:00.000,MedAssist,"[-71.141761, 42.24314]",Point,MedAssist,8,REQP,0,E18,Day,No,RIVER ST,Part three,Unarmed,753167.8771,,2913830.861,2014
+85167,142017245.0,Friday,No,2014-08-08T00:23:00.000,MedAssist,"[-71.060674, 42.360562]",Point,MedAssist,8,UNK,0,A1,Last,No,CENTER PZ,Part three,Unarmed,774903.4055,,2956723.5960000004,2014
+142867,142017415.0,Friday,No,2014-08-08T15:34:00.000,MedAssist,"[-71.147508, 42.257526]",Point,MedAssist,8,ALARM,0,E5,Day,No,CROWN POINT DR,Part three,Unarmed,751589.8849,,2919066.82,2014
+150703,142017313.0,Friday,No,2014-08-08T10:16:00.000,MedAssist,"[-71.107525, 42.300191]",Point,MedAssist,8,UNCONS,0,E13,Day,No,MORTON ST,Part three,Unarmed,762342.3043,,2934661.854,2014
+197066,142017362.0,Friday,No,2014-08-08T12:33:00.000,MedAssist,"[-71.05532, 42.311616]",Point,MedAssist,8,FIGHT,0,C11,Day,No,MARYLAND ST,Part three,Unarmed,776443.3919,,2938894.602,2014
+222778,142017271.0,Friday,No,2014-08-08T00:44:00.000,MedAssist,"[-71.092706, 42.319572]",Point,MedAssist,8,DISTRB,0,B2,Last,No,TOWNSEND ST,Part three,Unarmed,766317.3997,,2941743.244,2014
+250694,142017386.0,Friday,No,2014-08-08T14:30:00.000,MedAssist,"[-71.054905, 42.377836]",Point,MedAssist,8,EDP,0,A15,Day,No,OBRIEN CT,Part three,Other,776429.7148,,2963026.9560000002,2014
+262722,142017406.0,Friday,No,2014-08-08T15:10:00.000,MedAssist,"[0, 0]",Point,MedAssist,8,MISSIN,0,D4,Day,No,BROOKLINE AV,Part three,Unarmed,,,,2014
+263269,142017265.0,Friday,No,2014-08-08T02:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,8,INJOFF,0,D4,Last,No,PUBLIC ALLEY 539,Part three,Unarmed,,,,2014

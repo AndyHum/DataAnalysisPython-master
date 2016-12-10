@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26633,130542556.0,Tuesday,No,2013-08-27T05:30:00.000,PropLost,"[-71.03343, 42.378486]",Point,PropLost,8,IVPREM,23,A7,Last,No,PRINCETON ST,Part three,Unarmed,782230.82,,2963294.84,2013
+159149,130541834.0,Tuesday,No,2013-08-27T14:50:00.000,PropLost,"[-71.054585, 42.377671]",Point,PropLost,8,LSTPRP,900,A15,Day,No,DECATUR ST,Part three,Unarmed,776516.4905,,2962967.278,2013
+235192,130544901.0,Tuesday,No,2013-08-27T11:00:00.000,PropLost,"[-71.07572, 42.335536]",Point,PropLost,8,LSTPRP,170,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770882.3115,,2947583.349,2013

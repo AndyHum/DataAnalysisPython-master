@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11504,,Friday,No,2015-07-10T06:47:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,I00039,593,B2,,No,LONGWOOD AVE,Part Three,None,,,,2015
+151038,,Friday,No,2015-07-10T00:00:00.000,Investigate Property,"[-71.064082, 42.337969]",Point,InvProp,7,MVA,174,C6,,No,FRONTAGE RD,Part Three,None,774024.0,,2950000.0,2015
+156136,,Friday,No,2015-07-10T00:06:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVMV,429,B3,,No,MORTON ST,Part Three,None,,NORFOLK ST,,2015
+165451,,Friday,No,2015-07-10T18:27:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,61,A1,,No,LEGENDS WAY,Part Three,None,,,,2015
+166782,,Friday,No,2015-07-10T00:00:00.000,Investigate Property,"[-71.086546, 42.281274]",Point,InvProp,7,IVMV,429,B3,,No,MORTON ST,Part Three,None,768051.0,,2930000.0,2015
+170949,,Friday,No,2015-07-10T00:00:00.000,Investigate Property,"[-71.060678, 42.366463]",Point,InvProp,7,IVPREM,61,A1,,No,FLEET CENTER PL,Part Three,None,774891.0,,2960000.0,2015

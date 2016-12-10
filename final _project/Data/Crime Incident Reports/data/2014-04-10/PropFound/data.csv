@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17039,140216867.0,Thursday,No,2014-04-10T14:00:00.000,PropFound,"[-71.061779, 42.363537]",Point,PropFound,4,FDPROP,75,A1,Day,No,MERRIMAC ST,Part three,Unarmed,774598.9478,,2957806.2569999998,2014
+74006,140216966.0,Thursday,No,2014-04-10T13:00:00.000,PropFound,"[-71.046717, 42.336149]",Point,PropFound,4,LARCRT,213,C6,Day,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2014
+79753,140218867.0,Thursday,No,2014-04-10T23:30:00.000,PropFound,"[-71.11073, 42.328881]",Point,PropFound,4,FDPROP,606,E13,First,No,HEATH ST,Part three,Unarmed,761427.5535,S HUNTINGTON AV,2945113.001,2014
+219891,140217123.0,Thursday,No,2014-04-10T15:10:00.000,PropFound,"[-71.03898, 42.371121]",Point,PropFound,4,FDPROP,26,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780745.7714,PARIS ST,2960602.729,2014

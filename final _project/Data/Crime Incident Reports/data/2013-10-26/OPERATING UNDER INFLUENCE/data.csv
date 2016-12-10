@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+155351,130682035.0,Saturday,No,2013-10-26T03:00:00.000,OPERATING UNDER INFLUENCE,"[-71.03932, 42.383181]",Point,21xx,10,ARREST,26,A7,Last,No,MERIDIAN ST,Part Two,Other,780630.1595,,2964997.143,2013
+158175,130681846.0,Saturday,No,2013-10-26T01:00:00.000,OPERATING UNDER INFLUENCE,"[-71.06942, 42.356141]",Point,21xx,10,ARREST,69,A1,Last,No,BEACON ST,Part Two,Unarmed,772547.7636,CHARLES ST,2955100.727,2013
+227613,130683607.0,Saturday,No,2013-10-26T20:05:00.000,OPERATING UNDER INFLUENCE,"[-71.077707, 42.28625]",Point,21xx,10,ARREST,435,B3,First,No,EDSON ST,Part Two,Unarmed,770433.7566,,2929619.983,2013

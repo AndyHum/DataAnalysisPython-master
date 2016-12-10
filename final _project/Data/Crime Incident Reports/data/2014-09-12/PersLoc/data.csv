@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8344,142028831.0,Friday,No,2014-09-12T18:00:00.000,PersLoc,"[-71.07635, 42.287146]",Point,PersLoc,9,MISSIN,0,B3,First,No,PEACEVALE RD,Other,Unarmed,770799.5613,,2929948.413,2014
+23222,142028996.0,Friday,No,2014-09-12T09:25:00.000,PersLoc,"[-71.126397, 42.254439]",Point,PersLoc,9,MISSIN,0,E18,Day,No,BUSINESS ST,Other,Unarmed,757309.8715,,2917965.9510000004,2014
+37448,142028897.0,Friday,No,2014-09-12T20:29:00.000,PersLoc,"[-71.069815, 42.282456]",Point,PersLoc,9,IVPER,0,C11,First,No,FULLER ST,Other,Unarmed,772576.4249,,2928248.165,2014
+218656,142029030.0,Friday,No,2014-09-12T18:00:00.000,PersLoc,"[-71.087612, 42.312512]",Point,PersLoc,9,MISSIN,0,B2,First,No,CRAWFORD ST,Other,Unarmed,767707.5761,,2939177.0239999997,2014

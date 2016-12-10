@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62127,152042663.0,Sunday,No,2015-05-24T17:00:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,5,PROP,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+99619,152042662.0,Sunday,No,2015-05-24T19:00:00.000,PropLost,"[-71.099412, 42.345068]",Point,PropLost,5,PROP,0,D4,First,No,VAN NESS ST,Part three,Unarmed,764460.0455,,2951025.916,2015
+101222,152042581.0,Sunday,No,2015-05-24T12:10:00.000,PropLost,"[-71.081633, 42.318648]",Point,PropLost,5,PROP,0,B2,Day,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2015
+153355,152042554.0,Sunday,No,2015-05-24T05:30:00.000,PropLost,"[-71.05104, 42.363691]",Point,PropLost,5,ADMRPT,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,777501.1451,,2957877.7060000002,2015
+219146,152042513.0,Sunday,No,2015-05-24T03:18:00.000,PropLost,"[-71.111099, 42.332557]",Point,PropLost,5,LARCEN,0,B2,Last,No,HUNTINGTON AV,Part three,Unarmed,761321.6315,,2946451.875,2015

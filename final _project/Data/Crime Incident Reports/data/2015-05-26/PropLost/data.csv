@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1965,152043735.0,Tuesday,No,2015-05-26T21:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+2052,152043957.0,Tuesday,No,2015-05-26T00:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,B2,Last,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+11280,152043515.0,Tuesday,No,2015-05-26T20:00:00.000,PropLost,"[-71.138945, 42.285444]",Point,PropLost,5,PROP,0,E5,First,No,NEWBURG ST,Part three,Unarmed,753865.1156,,2929250.258,2015
+102081,152044562.0,Tuesday,No,2015-05-26T09:00:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,5,LARCEN,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+104807,152043375.0,Tuesday,No,2015-05-26T20:30:00.000,PropLost,"[-71.065485, 42.351054]",Point,PropLost,5,LARCEN,0,A1,First,No,STUART ST,Part three,Unarmed,773620.7745,,2953252.21,2015
+113121,152043382.0,Tuesday,No,2015-05-26T22:25:00.000,PropLost,"[-71.05679, 42.321191]",Point,PropLost,5,LARCEN,0,C6,First,No,DORCHESTER AV,Part three,Unarmed,776027.6618,,2942381.815,2015
+134556,152043616.0,Tuesday,No,2015-05-26T07:30:00.000,PropLost,"[-71.093325, 42.279636]",Point,PropLost,5,LARCEN,0,B3,Day,No,WELLINGTON HILL ST,Part three,Unarmed,766219.4868,,2927189.305,2015
+142672,152043212.0,Tuesday,No,2015-05-26T15:00:00.000,PropLost,"[-71.086745, 42.307506]",Point,PropLost,5,PROP,0,B2,Day,No,MAPLE ST,Part three,Unarmed,767950.9178,,2937354.106,2015
+160302,152043557.0,Tuesday,No,2015-05-26T16:15:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,5,PROP,0,B2,First,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2015

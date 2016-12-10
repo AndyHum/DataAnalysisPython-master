@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12184,142022288.0,Saturday,No,2014-08-23T22:10:00.000,BENoProp,"[-71.11655, 42.258881]",Point,BENoProp,8,ARREST,0,E18,First,No,DAVISON ST,Part One,Other,759968.479,,2919596.789,2014
+187074,142022084.0,Saturday,No,2014-08-23T05:45:00.000,BENoProp,"[-71.06465, 42.351016]",Point,BENoProp,8,BE,0,A1,Last,No,STUART ST,Part One,Other,773846.5631,,2953239.624,2014
+198167,142022411.0,Saturday,No,2014-08-23T17:00:00.000,BENoProp,"[-71.14938, 42.287191]",Point,BENoProp,8,BE,0,E5,First,No,CENTRE ST,Part One,Other,751038.8958,,2929875.124,2014
+241270,142022067.0,Saturday,No,2014-08-23T04:53:00.000,BENoProp,"[-71.05691, 42.328281]",Point,BENoProp,8,ALARM,0,C6,Last,No,DORCHESTER AV,Part One,Other,775981.7875,,2944965.36,2014

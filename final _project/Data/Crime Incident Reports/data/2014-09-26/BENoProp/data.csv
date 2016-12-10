@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7565,142033230.0,Friday,No,2014-09-26T11:30:00.000,BENoProp,"[-71.017464, 42.384914]",Point,BENoProp,9,FIGHT,0,A7,Day,No,WORDSWORTH ST,Part One,Unarmed,786531.1838,,2965661.37,2014
+88498,142033131.0,Friday,No,2014-09-26T01:44:00.000,BENoProp,"[-71.091351, 42.276486]",Point,BENoProp,9,ALARM,0,B3,Last,No,MILDRED AV,Part One,Unarmed,766759.0071,,2926043.833,2014
+203006,142033287.0,Friday,No,2014-09-26T01:30:00.000,BENoProp,"[-71.044649, 42.320568]",Point,BENoProp,9,ARREST,0,C6,Last,No,PENINSULA PL,Part One,Unarmed,779312.0542,NORTH POINT DR,2942171.965,2014

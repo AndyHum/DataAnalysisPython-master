@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55270,152010064.0,Saturday,No,2015-02-07T02:03:00.000,Service,"[-71.059565, 42.351576]",Point,Service,2,ARREST,0,A1,Last,No,KINGSTON ST,Part three,Unarmed,775220.0269,EDINBORO ST,2953450.755,2015
+72638,152010184.0,Saturday,No,2015-02-07T14:45:00.000,Service,"[-71.074175, 42.37913]",Point,Service,2,JUMPER,0,A15,Day,No,BUNKER HILL IND PARK,Part three,Unarmed,771220.5057,,2963471.807,2015
+163376,152010259.0,Saturday,No,2015-02-07T19:06:00.000,Service,"[-71.098528, 42.327445]",Point,Service,2,PROP,0,B2,First,No,TERRACE ST,Part three,Unarmed,764729.4865,,2944604.955,2015
+242529,152010151.0,Saturday,No,2015-02-07T10:15:00.000,Service,"[-71.050008, 42.287901]",Point,Service,2,MISSIN,0,C11,Day,No,PIERCE AV,Part three,Unarmed,777925.7502,,2930259.873,2015

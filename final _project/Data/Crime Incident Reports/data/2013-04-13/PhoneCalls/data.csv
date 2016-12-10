@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131189,130219243.0,Saturday,No,2013-04-13T22:42:00.000,PhoneCalls,"[-71.0908, 42.282601]",Point,PhoneCalls,4,DVIP  ,428,B3,First,No,LESTON ST,Part Three,Unarmed,766897.6013,,2928273.061,2013
+144770,140223832.0,Saturday,No,2013-04-13T08:00:00.000,PhoneCalls,"[-71.091505, 42.288081]",Point,PhoneCalls,4,HARPT ,464,B3,Day,No,HANSBOROUGH ST,Part three,Other,766697.2661,,2930269.139,2013
+195101,130218323.0,Saturday,No,2013-04-13T14:25:00.000,PhoneCalls,"[-71.066015, 42.315236]",Point,PhoneCalls,4,THREAT,257,B2,Day,No,HANCOCK ST,Part Three,Unarmed,773543.9338,,2940198.8880000003,2013

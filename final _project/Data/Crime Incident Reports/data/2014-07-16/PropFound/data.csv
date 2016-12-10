@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45739,142015548.0,Wednesday,No,2014-07-16T19:00:00.000,PropFound,"[-71.08257, 42.288461]",Point,PropFound,7,IVMV,0,B3,First,No,CALLENDER ST,Part three,Unarmed,769114.1966,,2930419.3210000005,2014
+113854,142009896.0,Wednesday,No,2014-07-16T10:45:00.000,PropFound,"[-71.038795, 42.379566]",Point,PropFound,7,PROP,0,A7,Day,No,MONMOUTH ST,Part three,Unarmed,780779.1214,,2963680.5289999996,2014
+256081,142009785.0,Wednesday,No,2014-07-16T15:00:00.000,PropFound,"[-71.061425, 42.354521]",Point,PropFound,7,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774711.7395,,2954521.3789999997,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135017,152006504.0,Saturday,No,2015-01-24T01:48:00.000,DISORDERLY,"[-71.06223, 42.364936]",Point,24xx,1,FIGHT,0,A1,Last,No,CAUSEWAY ST,Part Two,Unarmed,774474.6741,,2958315.689,2015
+231926,152006474.0,Saturday,No,2015-01-24T02:35:00.000,DISORDERLY,"[-71.06521, 42.349691]",Point,24xx,1,ARREST,0,A1,Last,No,TREMONT ST,Part Two,Unarmed,773697.6517,,2952755.997,2015
+258920,152006552.0,Saturday,No,2015-01-24T09:55:00.000,DISORDERLY,"[-71.09794, 42.316146]",Point,24xx,1,IVPER,0,E13,Day,No,WASHINGTON ST,Part Two,Unarmed,764907.8894,,2940488.191,2015

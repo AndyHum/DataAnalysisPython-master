@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+409,152046292.0,Thursday,No,2015-06-04T18:38:00.000,FIRE,"[-71.078671, 42.29826]",Point,FIRE,6,FIRE,0,B3,First,No,NORWELL ST,Part three,Other,770151.3021,,2933995.437,2015
+76752,152046202.0,Thursday,No,2015-06-04T15:39:00.000,FIRE,"[-71.148585, 42.279753]",Point,FIRE,6,FO,0,E5,Day,No,WHITE OAK RD,Part three,Unarmed,751265.0666,,2927165.483,2015
+227332,152046164.0,Thursday,No,2015-06-04T14:00:00.000,FIRE,"[-71.02259, 42.381596]",Point,FIRE,6,FO,0,A7,Day,No,SWIFT ST,Part three,Unarmed,785153.3417,,2964444.392,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30069,130550940.0,Saturday,No,2013-08-31T09:51:00.000,Arrest,"[-71.07351, 42.333491]",Point,Arrest,8,IVPER ,172,D4,Day,No,ALBANY ST,Part three,Unarmed,771483.5641,MASSACHUSETTS AV,2946841.0930000003,2013
+120207,130551015.0,Saturday,No,2013-08-31T10:27:00.000,Arrest,"[-71.085036, 42.294732]",Point,Arrest,8,CD11  ,441,B3,Day,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2013
+251344,130551991.0,Saturday,No,2013-08-31T18:00:00.000,Arrest,"[-71.074385, 42.335516]",Point,Arrest,8,ARREST,165,D4,First,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2013

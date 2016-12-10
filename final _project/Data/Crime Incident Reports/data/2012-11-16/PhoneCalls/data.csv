@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62923,120762823.0,Friday,No,2012-11-16T19:00:00.000,PhoneCalls,"[-71.030755, 42.335716]",Point,PhoneCalls,11,IVPER ,227,C6,First,No,E BROADWAY,Part Three,Unarmed,783039.3266,,2947712.622,2012
+156774,120722750.0,Friday,No,2012-11-16T09:30:00.000,PhoneCalls,"[-71.099725, 42.311756]",Point,PhoneCalls,11,HARPT ,571,E13,Day,No,MONTEBELLO RD,Part Three,Unarmed,764432.6351,,2938886.137,2012
+210955,120741485.0,Friday,No,2012-11-16T14:45:00.000,PhoneCalls,"[-71.147508, 42.257526]",Point,PhoneCalls,11,IVPER ,822,E5,Day,No,CROWN POINT DR,Part Three,Unarmed,751589.8849,,2919066.82,2012
+216687,120724819.0,Friday,No,2012-11-16T19:00:00.000,PhoneCalls,"[-71.097718, 42.321928]",Point,PhoneCalls,11,HARPT ,304,B2,First,No,SLAYTON WY,Part Three,Other,764957.8611,,2942595.539,2012

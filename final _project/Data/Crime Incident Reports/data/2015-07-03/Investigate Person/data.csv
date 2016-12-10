@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36945,,Friday,No,2015-07-03T00:00:00.000,Investigate Person,"[-71.05611, 42.330111]",Point,InvPer,7,EDP,194,C6,,No,DORCHESTER ST,Part Three,None,776194.0,,2950000.0,2015
+54410,,Friday,No,2015-07-03T14:10:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,IVPER,305,B2,,No,ELMORE ST,Part Three,None,,,,2015
+72990,,Friday,No,2015-07-03T00:00:00.000,Investigate Person,"[-71.065654, 42.280917]",Point,InvPer,7,NIDV,395,C11,,No,DORCHESTER AVE,Part Three,None,773705.0,,2930000.0,2015
+148879,,Friday,No,2015-07-03T00:00:00.000,Investigate Person,"[-71.140387, 42.36081]",Point,InvPer,7,PERGUN,807,D14,,No,LITCHFIELD ST,Part Three,None,753359.0,,2960000.0,2015
+179481,,Friday,No,2015-07-03T16:25:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,TS,451,C11,,No,PARK ST,Part Three,None,,WASHINGTON ST,,2015
+187015,,Friday,No,2015-07-03T00:00:00.000,Investigate Person,"[-71.081183, 42.302166]",Point,InvPer,7,UNK,456,B3,,No,ERIE ST,Part Three,None,769465.0,,2940000.0,2015
+224817,,Friday,No,2015-07-03T00:00:00.000,Investigate Person,"[-71.073036, 42.290671]",Point,InvPer,7,NIDV,450,B3,,No,SOUTHERN AVE,Part Three,None,771690.0,,2930000.0,2015
+224970,,Friday,No,2015-07-03T00:00:00.000,Investigate Person,"[-71.071063, 42.318361]",Point,InvPer,7,IVPER,260,B2,,No,WOODFORD ST,Part Three,None,772173.0,,2940000.0,2015
+248393,,Friday,No,2015-07-03T20:02:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,PKNIFE,476,B3,,No,CUMMINS HWY,Part Three,None,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74650,130073246.0,Monday,No,2013-02-04T16:55:00.000,InvProp,"[-71.13001, 42.237961]",Point,InvProp,2,MEET  ,527,E18,First,No,WOLCOTT ST,Part Three,Unarmed,756357.8917,,2911957.19,2013
+77765,130072614.0,Monday,No,2013-02-04T11:33:00.000,InvProp,"[-71.008841, 42.385972]",Point,InvProp,2,ENVADM,10,A7,Day,No,BENNINGTON ST,Part Three,Unarmed,788858.6962,,2966060.0089999996,2013
+84973,130084737.0,Monday,No,2013-02-04T00:00:00.000,InvProp,"[-71.089151, 42.311211]",Point,InvProp,2,BERPT ,318,B2,Last,No,HOMESTEAD ST,Part Three,Unarmed,767293.447,,2938701.003,2013

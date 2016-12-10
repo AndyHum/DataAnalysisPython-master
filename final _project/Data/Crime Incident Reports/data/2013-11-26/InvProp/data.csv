@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+182476,130749927.0,Tuesday,No,2013-11-26T19:55:00.000,InvProp,"[-71.144024, 42.346747]",Point,InvProp,11,IVPER ,938,D14,First,No,JETTE CT,Part three,Unarmed,752397.4732,,2951584.079,2013
+208760,130748193.0,Tuesday,No,2013-11-26T00:54:00.000,InvProp,"[-71.083145, 42.349411]",Point,InvProp,11,REQP  ,137,D4,Last,No,NEWBURY ST,Part three,Unarmed,768850.0656,,2952629.758,2013
+227948,130749566.0,Tuesday,No,2013-11-26T16:49:00.000,InvProp,"[-71.03386, 42.379111]",Point,InvProp,11,IVPREM,824,A7,First,No,LEXINGTON ST,Part three,Unarmed,782113.3934,,2963521.9669999997,2013
+256189,130748933.0,Tuesday,No,2013-11-26T10:15:00.000,InvProp,"[-71.068381, 42.322211]",Point,InvProp,11,BERPTA,182,B2,Day,No,ROBEY ST,Part three,Unarmed,772891.0664,,2942737.4439999997,2013

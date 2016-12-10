@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12162,130650236.0,Friday,No,2013-10-11T19:00:00.000,InvProp,"[-71.063016, 42.281548]",Point,InvProp,10,IVPER ,395,C11,First,No,HURON CR,Part three,Unarmed,774417.8763,,2927926.568,2013
+43491,130650335.0,Friday,No,2013-10-11T19:56:00.000,InvProp,"[-71.06876, 42.322956]",Point,InvProp,10,IVPREM,182,B2,First,No,MARSHFIELD ST,Part three,Unarmed,772787.2943,,2943008.417,2013
+52271,130649254.0,Friday,No,2013-10-11T11:49:00.000,InvProp,"[-71.078225, 42.325198]",Point,InvProp,10,INVEST,266,B2,Day,No,FAIRLAND ST,Part three,Unarmed,770223.47,,2943812.633,2013
+106488,130648527.0,Friday,No,2013-10-11T01:42:00.000,InvProp,"[-71.106295, 42.301346]",Point,InvProp,10,CTYALM,569,E13,Last,No,FOREST HILLS ST,Part three,Unarmed,762673.0911,,2935084.0039999997,2013
+118267,130659789.0,Friday,No,2013-10-11T12:00:00.000,InvProp,"[-71.100507, 42.309841]",Point,InvProp,10,BERPT ,571,E13,Day,No,ROBESON ST,Part three,Unarmed,764224.1683,,2938186.972,2013
+153693,130649271.0,Friday,No,2013-10-11T12:00:00.000,InvProp,"[-71.08447, 42.331506]",Point,InvProp,10,IVPER ,586,B2,Day,No,SHAWMUT AV,Part three,Unarmed,768523.6853,,2946103.098,2013
+264277,130650461.0,Friday,No,2013-10-11T16:30:00.000,InvProp,"[0, 0]",Point,InvProp,10,INVEST,94,A1,First,No,COMMERCIAL ST,Part three,Unarmed,,,,2013

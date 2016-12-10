@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24151,120793881.0,Monday,No,2012-12-17T21:00:00.000,PhoneCalls,"[-71.061046, 42.308797]",Point,PhoneCalls,12,IVPER ,339,C11,First,No,CHURCH ST,Part Three,Other,774899.9249,,2937859.1810000003,2012
+129444,120794192.0,Monday,No,2012-12-17T08:00:00.000,PhoneCalls,"[-71.092001, 42.278561]",Point,PhoneCalls,12,HARPT ,427,B3,Day,No,FESSENDEN ST,Part Three,Unarmed,766579.5337,,2926799.047,2012
+130599,120815505.0,Monday,No,2012-12-17T12:00:00.000,PhoneCalls,"[-71.13457, 42.249796]",Point,PhoneCalls,12,IVPER ,539,E18,Day,No,SUNNYSIDE ST,Part Three,Other,755104.5977,,2916264.683,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29436,130115192.0,Sunday,No,2013-02-24T14:30:00.000,InvProp,"[-71.05635, 42.302586]",Point,InvProp,2,BERPT ,351,C11,Day,No,CLAYTON ST,Part Three,Unarmed,776181.9177,,2935602.5130000003,2013
+180246,130113430.0,Sunday,No,2013-02-24T05:53:00.000,InvProp,"[-71.152092, 42.359936]",Point,InvProp,2,ALARMC,806,D14,Last,No,SOLDIERS FIELD RD,Part Three,Unarmed,750196.926,,2956381.583,2013
+254751,130113067.0,Sunday,No,2013-02-24T00:50:00.000,InvProp,"[-71.08074, 42.311861]",Point,InvProp,2,SHOTS ,326,B2,Last,No,BLUE HILL AV,Part Three,Firearm,769567.4369,INTERVALE ST,2938949.064,2013

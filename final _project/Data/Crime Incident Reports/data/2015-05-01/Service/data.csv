@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2631,152035369.0,Friday,No,2015-05-01T04:25:00.000,Service,"[-71.085118, 42.298635]",Point,Service,5,MVA,0,B3,Last,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2015
+3554,152035509.0,Friday,No,2015-05-01T14:43:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,C6,Day,No,ATLANTIC AV,Part three,Unarmed,,,,2015
+38523,152035417.0,Friday,No,2015-05-01T10:36:00.000,Service,"[-71.063675, 42.352301]",Point,Service,5,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+57674,152035534.0,Friday,No,2015-05-01T16:49:00.000,Service,"[-71.06216, 42.352401]",Point,Service,5,ARREST,0,A1,First,No,ESSEX ST,Part three,Other,774517.0398,,2953747.79,2015
+87610,152035407.0,Friday,No,2015-05-01T10:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,5,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015

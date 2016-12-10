@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11155,152041600.0,Thursday,No,2015-05-21T06:30:00.000,Service,"[-71.059987, 42.361648]",Point,Service,5,ARREST,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+71191,152041605.0,Thursday,No,2015-05-21T07:41:00.000,Service,"[-71.095235, 42.276842]",Point,Service,5,CD11,0,B3,Day,No,HIAWATHA RD,Part three,Unarmed,765707.4298,,2926168.385,2015
+191458,152041785.0,Thursday,No,2015-05-21T17:27:00.000,Service,"[-71.064495, 42.352581]",Point,Service,5,ARREST,0,A1,First,No,TREMONT ST,Part three,Unarmed,773885.5489,,2953810.1539999996,2015
+245426,152041640.0,Thursday,No,2015-05-21T11:05:00.000,Service,"[-71.008436, 42.39263]",Point,Service,5,NIDV,0,A7,Day,No,VALLAR RD,Part three,Unarmed,788954.13,,2968486.8839999996,2015

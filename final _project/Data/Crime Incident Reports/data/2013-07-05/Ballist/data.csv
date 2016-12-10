@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99900,130412317.0,Friday,No,2013-07-05T00:25:00.000,Ballist,"[-71.131976, 42.360774]",Point,Ballist,7,IVPREM,811,D14,Last,No,FRANKLIN ST,Part Two,Unarmed,755632.1891,,2956709.937,2013
+151389,130414357.0,Friday,No,2013-07-05T21:43:00.000,Ballist,"[-71.0807, 42.305191]",Point,Ballist,7,IVPREM,459,C11,First,No,COLUMBIA RD,Part Two,Unarmed,769590.2042,,2936518.4639999997,2013
+161268,130418634.0,Friday,No,2013-07-05T09:00:00.000,Ballist,"[-71.06214, 42.301591]",Point,Ballist,7,IVPREM,352,C11,Day,No,ARCADIA ST,Part Two,Firearm,774617.4963,,2935231.795,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31703,142018376.0,Monday,No,2014-08-11T16:41:00.000,FORGERY,"[-71.05582, 42.360091]",Point,10xx,8,LARCEN,0,A1,First,No,FANEUIL HALL SQ,Part Two,Unarmed,776216.1627,,2956559.0330000003,2014
+65739,142018381.0,Monday,No,2014-08-11T16:00:00.000,FORGERY,"[-71.036625, 42.329606]",Point,10xx,8,LARCEN,0,C6,First,No,COLUMBIA RD,Part Two,Unarmed,781464.3327,,2945477.3589999997,2014
+186800,142018198.0,Monday,No,2014-08-11T10:30:00.000,FORGERY,"[-71.065829, 42.316441]",Point,10xx,8,LARCEN,0,B2,Day,No,COLUMBIA RD,Part Two,Unarmed,773591.8648,,2940638.1739999996,2014

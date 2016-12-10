@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71242,140065668.0,Saturday,No,2014-02-01T12:09:00.000,Service,"[-71.063873, 42.325436]",Point,Service,2,IVPER ,186,C6,Day,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+104161,140094326.0,Saturday,No,2014-02-01T12:00:00.000,Service,"[-71.125897, 42.256133]",Point,Service,2,LARCRT,543,E18,Day,No,GORDON AV,Part three,Unarmed,757442.6012,,2918583.9110000003,2014
+127943,140065745.0,Saturday,No,2014-02-01T12:30:00.000,Service,"[-71.06064, 42.329261]",Point,Service,2,ARREST,174,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,774971.3358,FRONTAGE RD,2945317.271,2014
+199103,140071739.0,Saturday,No,2014-02-01T09:20:00.000,Service,"[-71.059735, 42.297541]",Point,Service,2,LARCRT,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014

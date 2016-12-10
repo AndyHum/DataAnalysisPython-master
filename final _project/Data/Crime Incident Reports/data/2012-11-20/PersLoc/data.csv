@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121972,120733116.0,Tuesday,No,2012-11-20T06:45:00.000,PersLoc,"[-71.080624, 42.337477]",Point,PersLoc,11,MISPER,273,D4,Last,No,CAMDEN ST,Part Three,Unarmed,769552.6659,,2948284.111,2012
+182203,120729603.0,Tuesday,No,2012-11-20T00:04:00.000,PersLoc,"[-71.100769, 42.325321]",Point,PersLoc,11,MISPER,912,E13,Last,No,PARKER ST,Part Three,Unarmed,764127.0458,,2943828.1319999998,2012
+191681,120733037.0,Tuesday,No,2012-11-20T16:00:00.000,PersLoc,"[-71.129485, 42.300755]",Point,PersLoc,11,MSNCOM,658,E13,First,No,ALLANDALE ST,Part Three,Unarmed,756400.4658,,2934840.7939999998,2012
+202970,120731416.0,Tuesday,No,2012-11-20T10:00:00.000,PersLoc,"[-71.093548, 42.283568]",Point,PersLoc,11,MISPER,466,B3,Day,No,GOODALE RD,Part Three,Unarmed,766152.2222,,2928621.874,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38627,142057049.0,Saturday,No,2014-12-13T01:46:00.000,InvProp,"[-71.06917, 42.325011]",Point,InvProp,12,FIGHT,0,B2,Last,No,SHIRLEY ST,Part three,Other,772672.6363,NORFOLK AV,2943756.733,2014
+62575,142057241.0,Saturday,No,2014-12-13T17:13:00.000,InvProp,"[-71.077284, 42.328513]",Point,InvProp,12,SHOTS,0,B2,First,No,EUSTIS ST,Part three,Unarmed,770472.0958,,2945021.704,2014
+79708,142058362.0,Saturday,No,2014-12-13T02:35:00.000,InvProp,"[-71.061155, 42.315261]",Point,InvProp,12,INVEST,0,C11,Last,No,STOUGHTON ST,Part three,Unarmed,774858.3282,,2940214.724,2014
+131863,142057224.0,Saturday,No,2014-12-13T15:30:00.000,InvProp,"[-71.067021, 42.272287]",Point,InvProp,12,BE,0,C11,Day,No,ADAMS ST,Part three,Unarmed,773351.298,,2924546.203,2014
+147054,142057153.0,Saturday,No,2014-12-13T11:50:00.000,InvProp,"[-71.106295, 42.307636]",Point,InvProp,12,DISTRB,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,762662.5281,,2937376.465,2014
+189900,142057089.0,Saturday,No,2014-12-13T05:03:00.000,InvProp,"[-71.154221, 42.341069]",Point,InvProp,12,BE,0,D14,Last,No,CHISWICK RD,Part three,Unarmed,749649.1922,,2949503.921,2014
+205595,142057076.0,Saturday,No,2014-12-13T04:12:00.000,InvProp,"[-71.13045, 42.354651]",Point,InvProp,12,BE,0,D14,Last,No,LINDEN ST,Part three,Unarmed,756054.2565,,2954480.297,2014

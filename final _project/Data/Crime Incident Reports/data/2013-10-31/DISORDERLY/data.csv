@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28047,130694232.0,Thursday,No,2013-10-31T20:10:00.000,DISORDERLY,"[-71.002635, 42.385626]",Point,24xx,10,STNING,5,A7,First,No,ST EDWARD RD,Part Two,Other,790536.1544,,2965943.812,2013
+115471,130692801.0,Thursday,No,2013-10-31T08:18:00.000,DISORDERLY,"[-71.0648, 42.299441]",Point,24xx,10,JUMPER,358,C11,Day,No,GENEVA AV,Part Two,Unarmed,773901.9117,WALDECK ST,2934444.6210000003,2013
+175000,130694660.0,Thursday,No,2013-10-31T21:49:00.000,DISORDERLY,"[-71.09366, 42.274281]",Point,24xx,10,ARREST,427,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766138.128,ALMONT ST,2925237.437,2013

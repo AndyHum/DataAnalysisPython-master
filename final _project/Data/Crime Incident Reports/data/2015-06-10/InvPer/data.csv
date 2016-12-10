@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2498,152048020.0,Wednesday,No,2015-06-10T11:55:00.000,InvPer,"[-71.0794, 42.339786]",Point,InvPer,6,IVPER,0,D4,Day,No,TREMONT ST,Part three,Unarmed,769879.6938,,2949127.1969999997,2015
+2788,152048220.0,Wednesday,No,2015-06-10T21:34:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,E5,First,No,BELGRADE AV,Part three,Unarmed,,,,2015
+2803,152048094.0,Wednesday,No,2015-06-10T12:45:00.000,InvPer,"[0, 0]",Point,InvPer,6,CD9,0,A7,Day,No,BENNINGTON ST,Part three,Unarmed,,,,2015
+2806,152047913.0,Wednesday,No,2015-06-10T00:30:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,C6,Last,No,GAVIN WY,Part three,Unarmed,,,,2015
+2810,152047968.0,Wednesday,No,2015-06-10T10:00:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+4036,152048528.0,Wednesday,No,2015-06-10T14:30:00.000,InvPer,"[0, 0]",Point,InvPer,6,VIORDR,0,A1,Day,No,PARK PL,Part three,Unarmed,,,,2015
+8729,152048067.0,Wednesday,No,2015-06-10T13:30:00.000,InvPer,"[-71.08257, 42.348656]",Point,InvPer,6,IVPER,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2015
+25434,152048785.0,Wednesday,No,2015-06-10T15:00:00.000,InvPer,"[-71.076245, 42.335806]",Point,InvPer,6,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770739.8745,,2947681.035,2015
+71231,152047984.0,Wednesday,No,2015-06-10T09:00:00.000,InvPer,"[-71.080301, 42.292654]",Point,InvPer,6,IVPER,0,B3,Day,No,TALBOT AV,Part three,Unarmed,769720.5959999999,,2931950.291,2015
+71771,152048053.0,Wednesday,No,2015-06-10T13:05:00.000,InvPer,"[-71.094221, 42.285525]",Point,InvPer,6,PERGUN,0,B3,Day,No,GREENDALE RD,Part three,Unarmed,765966.6819,,2929333.8819999998,2015
+123042,152047939.0,Wednesday,No,2015-06-10T07:00:00.000,InvPer,"[-71.058265, 42.330426]",Point,InvPer,6,DISTRB,0,C6,Last,No,ELLERY ST,Part three,Unarmed,775611.3401,,2945745.1339999996,2015
+148528,152048167.0,Wednesday,No,2015-06-10T16:00:00.000,InvPer,"[-71.058475, 42.291707]",Point,InvPer,6,IVPER,0,C11,First,No,GLENROSE RD,Part three,Unarmed,775627.4011,,2931634.749,2015
+171962,152048079.0,Wednesday,No,2015-06-10T13:30:00.000,InvPer,"[-71.061155, 42.357256]",Point,InvPer,6,ADMRPT,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774779.5911,,2955518.44,2015
+199806,152048151.0,Wednesday,No,2015-06-10T12:00:00.000,InvPer,"[-71.06054, 42.318511]",Point,InvPer,6,IVPER,0,C11,Day,No,DAWES ST,Part three,Unarmed,775018.5595,,2941399.932,2015
+250129,152048046.0,Wednesday,No,2015-06-10T11:47:00.000,InvPer,"[-71.14381, 42.344226]",Point,InvPer,6,REQEP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,752459.245,,2950665.9280000003,2015

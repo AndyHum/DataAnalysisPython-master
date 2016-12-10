@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40342,130751832.0,Wednesday,No,2013-11-27T17:48:00.000,TRESPASS,"[-71.093077, 42.335921]",Point,TRESPASS,11,IVDRUG,911,B2,First,No,ANNUNCIATION RD,Part Two,Unarmed,766188.6874,,2947700.482,2013
+64311,130750355.0,Wednesday,No,2013-11-27T01:03:00.000,TRESPASS,"[-71.079335, 42.328182]",Point,TRESPASS,11,SSTOP ,0,B2,Last,No,MT PLEASANT AV,Part Two,Unarmed,769917.9148,,2944898.3210000005,2013
+212378,130751599.0,Wednesday,No,2013-11-27T15:30:00.000,TRESPASS,"[-71.06176, 42.301701]",Point,TRESPASS,11,IVPER ,352,C11,Day,No,ARCADIA ST,Part Two,Unarmed,774720.088,,2935272.409,2013

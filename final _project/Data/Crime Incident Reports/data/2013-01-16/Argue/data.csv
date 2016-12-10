@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69374,130032010.0,Wednesday,No,2013-01-16T05:54:00.000,Argue,"[-71.033105, 42.374331]",Point,Argue,1,NIDV  ,21,A7,Last,No,MARION ST,Part Three,Unarmed,782326.9222,,2961781.153,2013
+106089,130033532.0,Wednesday,No,2013-01-16T19:20:00.000,Argue,"[-71.07576, 42.346816]",Point,Argue,1,MISC  ,149,D4,First,No,DARTMOUTH ST,Part Three,Unarmed,770851.0494,,2951693.932,2013
+110718,130033817.0,Wednesday,No,2013-01-16T22:46:00.000,Argue,"[-71.092165, 42.286291]",Point,Argue,1,PERGUN,465,B3,First,No,HAVELOCK ST,Part Three,Firearm,766521.8038,,2929615.983,2013
+122429,130033786.0,Wednesday,No,2013-01-16T22:19:00.000,Argue,"[-71.052015, 42.339541]",Point,Argue,1,FIGHT ,936,C6,First,No,W BROADWAY,Part Three,Unarmed,777283.8706,,2949075.6119999997,2013

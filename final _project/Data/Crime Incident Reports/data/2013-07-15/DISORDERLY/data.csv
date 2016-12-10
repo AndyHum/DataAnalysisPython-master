@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116418,130438423.0,Monday,No,2013-07-15T19:56:00.000,DISORDERLY,"[-71.040025, 42.287886]",Point,24xx,7,THREAT,372,C11,First,No,WALNUT ST,Part Two,Other,780626.962,,2930268.9889999996,2013
+138576,130437283.0,Monday,No,2013-07-15T11:45:00.000,DISORDERLY,"[-71.104425, 42.322761]",Point,24xx,7,ARREST,582,E13,Day,No,CENTRE ST,Part Two,Unarmed,763142.7906,,2942890.61,2013
+202766,130437119.0,Monday,No,2013-07-15T10:34:00.000,DISORDERLY,"[-71.07105, 42.352651]",Point,24xx,7,ARREST,134,D4,Day,No,ARLINGTON ST,Part Two,Unarmed,772113.5933,NEWBURY ST,2953826.685,2013

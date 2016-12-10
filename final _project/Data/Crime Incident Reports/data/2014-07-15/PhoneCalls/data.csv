@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31049,142009368.0,Tuesday,No,2014-07-15T13:00:00.000,PhoneCalls,"[-71.03827, 42.371066]",Point,PhoneCalls,7,IVPER,0,A7,Day,No,EMMONS ST,Part three,Other,780937.7379,,2960583.724,2014
+80969,142009489.0,Tuesday,No,2014-07-15T16:00:00.000,PhoneCalls,"[-71.0676, 42.301321]",Point,PhoneCalls,7,IVPER,0,C11,First,No,TOPLIFF ST,Part three,Unarmed,773140.9592,,2935125.869,2014
+105990,142009742.0,Tuesday,No,2014-07-15T23:45:00.000,PhoneCalls,"[-71.08013, 42.277766]",Point,PhoneCalls,7,IVPER,0,B3,First,No,WOODBOLE AV,Part three,Unarmed,769793.5876,,2926525.152,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71604,120585055.0,Tuesday,No,2012-09-18T04:44:00.000,BENoProp,"[-71.113273, 42.300388]",Point,BENoProp,9,BEIP  ,510,E13,Last,No,WASHINGTON ST,Part One,Other,760786.7644,,2934726.341,2012
+91375,120586881.0,Tuesday,No,2012-09-18T18:30:00.000,BENoProp,"[-71.151155, 42.271667]",Point,BENoProp,9,VIORDR,706,E5,First,No,EAGLE ST,Part One,Unarmed,750581.6402,,2924215.7369999997,2012
+107267,120586252.0,Tuesday,No,2012-09-18T16:34:00.000,BENoProp,"[-71.107835, 42.272996]",Point,BENoProp,9,BERPT ,473,B3,First,No,CUMMINS HY,Part One,Other,762304.0055,,2924751.208,2012
+138327,120586512.0,Tuesday,No,2012-09-18T16:30:00.000,BENoProp,"[-71.0684, 42.362151]",Point,BENoProp,9,ARREST,64,A1,First,No,PARKMAN ST,Part One,Unarmed,772812.3743,BLOSSOM ST,2957292.2830000003,2012

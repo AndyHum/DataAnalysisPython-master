@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76916,140211052.0,Tuesday,No,2014-04-08T00:47:00.000,InvProp,"[-71.07468, 42.310351]",Point,InvProp,4,IVPREM,328,B2,Last,No,MAGNOLIA ST,Part three,Unarmed,771209.2636,,2938406.9110000003,2014
+108981,140211517.0,Tuesday,No,2014-04-08T09:00:00.000,InvProp,"[-71.15242, 42.351791]",Point,InvProp,4,CD9   ,133,D14,Day,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2014
+122855,140210980.0,Tuesday,No,2014-04-08T00:03:00.000,InvProp,"[-71.117675, 42.308876]",Point,InvProp,4,SHOTS ,649,E13,Last,No,CENTRE ST,Part three,Unarmed,759582.277,,2937814.3389999997,2014
+174810,140212071.0,Tuesday,No,2014-04-08T14:02:00.000,InvProp,"[-71.055167, 42.31972]",Point,InvProp,4,ALARMR,235,C11,Day,No,MOSELEY ST,Part three,Unarmed,776469.2249,,2941847.8910000003,2014
+211207,140211286.0,Tuesday,No,2014-04-08T06:54:00.000,InvProp,"[-71.106975, 42.287486]",Point,InvProp,4,ALARMC,503,E18,Last,No,AMERICAN LEGION HY,Part three,Unarmed,762512.4267,,2930032.643,2014
+259315,140213192.0,Tuesday,No,2014-04-08T22:08:00.000,InvProp,"[-71.05675, 42.314921]",Point,InvProp,4,SHOTS ,248,C11,First,No,DORCHESTER AV,Part three,Unarmed,776050.3518,ST WILLIAM ST,2940096.982,2014
+264052,140212261.0,Tuesday,No,2014-04-08T16:00:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPREM,624,D4,First,No,FENWAY,Part three,Unarmed,,,,2014

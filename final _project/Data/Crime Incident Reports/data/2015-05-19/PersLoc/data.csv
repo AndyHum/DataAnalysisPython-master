@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20383,152040981.0,Tuesday,No,2015-05-19T08:30:00.000,PersLoc,"[-71.083533, 42.288775]",Point,PersLoc,5,MISSIN,0,B3,Day,No,STRATTON ST,Other,Unarmed,768852.8372,,2930532.1780000003,2015
+35349,152040918.0,Tuesday,No,2015-05-19T02:04:00.000,PersLoc,"[-71.103282, 42.273251]",Point,PersLoc,5,IVPER,0,B3,Last,No,CANAAN ST,Other,Unarmed,763535.608,,2924849.547,2015
+139539,152041254.0,Tuesday,No,2015-05-19T07:20:00.000,PersLoc,"[-71.12222, 42.281676]",Point,PersLoc,5,IVPER,0,E5,Last,No,CUMMINS HY,Other,Unarmed,758396.8047,,2927896.7539999997,2015
+202876,152042362.0,Tuesday,No,2015-05-19T06:00:00.000,PersLoc,"[-71.1269, 42.357816]",Point,PersLoc,5,MISSIN,0,D14,Last,No,CAMBRIDGE ST,Other,Unarmed,757009.0017,,2955637.94,2015

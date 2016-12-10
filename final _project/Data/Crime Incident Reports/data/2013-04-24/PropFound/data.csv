@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50610,130240209.0,Wednesday,No,2013-04-24T06:20:00.000,PropFound,"[-71.07576, 42.346816]",Point,PropFound,4,IVPREM,149,D4,Last,No,DARTMOUTH ST,Part Three,Unarmed,770851.0494,,2951693.932,2013
+71010,130240369.0,Wednesday,No,2013-04-24T07:52:00.000,PropFound,"[-71.07738, 42.350061]",Point,PropFound,4,FDPROP,130,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2013
+205502,130378502.0,Wednesday,No,2013-04-24T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,4,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+256371,130241844.0,Wednesday,No,2013-04-24T17:45:00.000,PropFound,"[-71.071135, 42.352861]",Point,PropFound,4,FDPROP,120,D4,First,No,ARLINGTON ST,Part Three,Unarmed,772090.233,,2953903.097,2013

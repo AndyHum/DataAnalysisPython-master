@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23177,130107984.0,Tuesday,No,2013-02-12T10:00:00.000,PropLost,"[-71.083615, 42.313351]",Point,PropLost,2,LSTPRP,321,B2,Day,No,WARREN ST,Part Three,Unarmed,768787.1681,,2939488.235,2013
+103855,130089171.0,Tuesday,No,2013-02-12T11:00:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,2,LSTPRP,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013
+135424,130091349.0,Tuesday,No,2013-02-12T21:00:00.000,PropLost,"[-71.06122, 42.365521]",Point,PropLost,2,LSTPRP,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2013
+157859,130090595.0,Tuesday,No,2013-02-12T23:35:00.000,PropLost,"[-71.088, 42.347211]",Point,PropLost,2,LARCRT,620,D4,First,No,BOYLSTON ST,Part Three,Unarmed,767541.5577,,2951821.6580000003,2013
+262556,130090313.0,Tuesday,No,2013-02-12T00:30:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,254,C11,Last,No,HOYT ST,Part Three,Unarmed,,,,2013

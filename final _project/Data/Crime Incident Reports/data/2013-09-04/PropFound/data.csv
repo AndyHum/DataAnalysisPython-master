@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17371,130560724.0,Wednesday,No,2013-09-04T12:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,9,FDPROP,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+20792,130561903.0,Wednesday,No,2013-09-04T19:19:00.000,PropFound,"[-71.130465, 42.293071]",Point,PropFound,9,FDPROP,663,E5,First,No,WALTER ST,Part three,Other,756147.6723,,2932039.492,2013
+44724,130561158.0,Wednesday,No,2013-09-04T10:30:00.000,PropFound,"[-71.086655, 42.348466]",Point,PropFound,9,FDPROP,142,D4,Day,No,NEWBURY ST,Part three,Unarmed,767902.9271,,2952280.765,2013
+79173,130560381.0,Wednesday,No,2013-09-04T09:30:00.000,PropFound,"[-71.12813, 42.286431]",Point,PropFound,9,FDPROP,691,E5,Day,No,WASHINGTON ST,Part three,Unarmed,756789.9722,CUMMINS HY,2929622.519,2013
+90899,130560843.0,Wednesday,No,2013-09-04T12:45:00.000,PropFound,"[-71.067535, 42.274196]",Point,PropFound,9,FDWEAP,405,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773208.6602,,2925241.227,2013
+191420,130561301.0,Wednesday,No,2013-09-04T13:00:00.000,PropFound,"[-71.028937, 42.378653]",Point,PropFound,9,FDPROP,17,A7,Day,No,BENNINGTON ST,Part three,Unarmed,783444.3714,,2963362.309,2013

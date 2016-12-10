@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19936,,Sunday,No,2015-07-05T00:00:00.000,Property Found,"[-71.065255, 42.352418]",Point,PropFound,7,PROP,119,A1,,No,BOYLSTON ST,Part Three,None,773680.0,,2950000.0,2015
+44422,,Sunday,No,2015-07-05T00:00:00.000,Property Found,"[-71.037229, 42.380118]",Point,PropFound,7,FDWEAP,24,A7,,No,MONMOUTH ST,Part Three,None,781201.0,,2960000.0,2015
+57554,,Sunday,No,2015-07-05T12:46:00.000,Property Found,"[0, 0]",Point,PropFound,7,PROP,0,,,No,POPE JOHN PAUL PARK,Part Three,None,,,,2015
+182441,,Sunday,No,2015-07-05T00:00:00.000,Property Found,"[-71.078033, 42.344854]",Point,PropFound,7,SUSOBJ,149,D4,,No,HOLYOKE ST,Part Three,None,770240.0,,2950000.0,2015
+193042,,Sunday,No,2015-07-05T14:03:00.000,Property Found,"[0, 0]",Point,PropFound,7,ADMRPT,77,A1,,No,NEW SUDBURY ST,Part Three,None,,,,2015
+224461,,Sunday,No,2015-07-05T11:52:00.000,Property Found,"[0, 0]",Point,PropFound,7,SUSOBJ,807,D14,,No,WESTERN AVE,Part Three,None,,,,2015

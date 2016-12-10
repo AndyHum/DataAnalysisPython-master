@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+188137,120736207.0,Thursday,No,2012-11-22T13:00:00.000,PropLost,"[-71.06428, 42.285761]",Point,PropLost,11,LSTPRP,244,C11,Day,No,ASHMONT ST,Part Three,Unarmed,774068.0525,DORCHESTER AV,2929460.152,2012
+204610,120746845.0,Thursday,No,2012-11-22T22:30:00.000,PropLost,"[0, 0]",Point,PropLost,11,IVPER ,304,B2,First,No,WEAVER WY,Part Three,Unarmed,,,,2012
+213655,120762589.0,Thursday,No,2012-11-22T16:00:00.000,PropLost,"[-71.06086, 42.319891]",Point,PropLost,11,LARCRT,240,C11,First,No,E COTTAGE ST,Part Three,Unarmed,774929.4272,SUMNER AV,2941902.381,2012

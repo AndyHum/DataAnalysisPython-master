@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21262,130146031.0,Tuesday,No,2013-03-12T03:12:00.000,InvProp,"[-71.0829, 42.339651]",Point,InvProp,3,ALARMC,597,D4,Last,No,COLUMBUS AV,Part Three,Unarmed,768933.6861,,2949073.354,2013
+57926,130146720.0,Tuesday,No,2013-03-12T11:25:00.000,InvProp,"[-71.13687, 42.347496]",Point,InvProp,3,IVPREM,793,D14,Day,No,SCOTTFIELD RD,Part Three,Other,754330.3184,,2951865.492,2013
+76919,130147166.0,Tuesday,No,2013-03-12T15:00:00.000,InvProp,"[-71.119913, 42.259931]",Point,InvProp,3,MISC  ,519,E18,Day,No,CENTRAL AV,Part Three,Unarmed,759056.2384,,2919975.374,2013
+148979,130146135.0,Tuesday,No,2013-03-12T03:14:00.000,InvProp,"[-71.059705, 42.325476]",Point,InvProp,3,IVMV  ,186,C6,Last,No,W HOWELL ST,Part Three,Unarmed,775231.2815,,2943939.258,2013
+181749,130147873.0,Tuesday,No,2013-03-12T20:59:00.000,InvProp,"[-71.03231, 42.376995]",Point,InvProp,3,ALARMC,20,A7,First,No,PARIS ST,Part Three,Unarmed,782536.3817,,2962753.2,2013
+215138,130148023.0,Tuesday,No,2013-03-12T22:37:00.000,InvProp,"[-71.10834, 42.322771]",Point,InvProp,3,RECMV ,582,E13,First,No,CREIGHTON ST,Part Three,Unarmed,762084.0417,DAY ST,2942889.3680000002,2013

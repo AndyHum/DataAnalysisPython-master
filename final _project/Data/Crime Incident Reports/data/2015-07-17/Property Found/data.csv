@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46640,,Friday,No,2015-07-17T00:00:00.000,Property Found,"[-71.134441, 42.288418]",Point,PropFound,7,IVPREM,672,E5,,No,S WALTER ST,Part Three,None,755079.0,,2930000.0,2015
+59646,,Friday,No,2015-07-17T00:00:00.000,Property Found,"[-71.065255, 42.352418]",Point,PropFound,7,PROP,119,A1,,No,BOYLSTON ST,Part Three,None,773680.0,,2950000.0,2015
+110832,,Friday,No,2015-07-17T22:49:00.000,Property Found,"[0, 0]",Point,PropFound,7,PROP,168,D4,,No,SHAWMUT AVE,Part Three,None,,W NEWTON ST,,2015
+244144,,Friday,No,2015-07-17T00:00:00.000,Property Found,"[-71.081072, 42.331207]",Point,PropFound,7,FDWEAP,280,B2,,No,EUSTIS ST,Part Three,None,769443.0,,2950000.0,2015

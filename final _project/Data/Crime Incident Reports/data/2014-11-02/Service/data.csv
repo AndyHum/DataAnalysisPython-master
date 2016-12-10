@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23990,142045184.0,Sunday,No,2014-11-02T08:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,11,CD9,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+168657,142045113.0,Sunday,No,2014-11-02T00:10:00.000,Service,"[-71.0807, 42.305191]",Point,Service,11,ARREST,0,C11,Last,No,COLUMBIA RD,Part three,Unarmed,769590.2042,,2936518.4639999997,2014
+176517,142045330.0,Sunday,No,2014-11-02T21:01:00.000,Service,"[-71.09357, 42.315501]",Point,Service,11,ARREST,0,B2,First,No,WESTMINSTER ST,Part three,Unarmed,766090.9097,WALNUT AV,2940258.7430000002,2014
+265314,142045478.0,Sunday,No,2014-11-02T14:00:00.000,Service,"[0, 0]",Point,Service,11,RAPE,0,D14,Day,No,N BEACON ST,Part three,Unarmed,,,,2014

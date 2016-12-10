@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2187,142018177.0,Monday,No,2014-08-11T08:00:00.000,PropFound,"[-71.05783, 42.358771]",Point,PropFound,8,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775675.4145,STATE ST,2956075.1760000004,2014
+82175,142018283.0,Monday,No,2014-08-11T14:30:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,8,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+96739,142018489.0,Monday,No,2014-08-11T22:38:00.000,PropFound,"[-71.052625, 42.31811]",Point,PropFound,8,PERGUN,0,C11,First,No,SYDNEY ST,Part three,Unarmed,777159.8741,,2941264.903,2014
+138211,142018424.0,Monday,No,2014-08-11T19:50:00.000,PropFound,"[-71.0544, 42.311966]",Point,PropFound,8,LARCEN,0,C11,First,No,SAVIN HILL AV,Part three,Unarmed,776691.565,,2939023.4460000005,2014
+164033,142018133.0,Monday,No,2014-08-11T03:40:00.000,PropFound,"[-71.08648, 42.346961]",Point,PropFound,8,PROP,0,D4,Last,No,ST CECELIA ST,Part three,Unarmed,767952.8933,SCOTIA ST,2951732.541,2014
+234065,142018170.0,Monday,No,2014-08-11T08:40:00.000,PropFound,"[-71.03931, 42.382621]",Point,PropFound,8,IVPREM,0,A7,Day,No,CONDOR ST,Part three,Unarmed,780633.9622,MERIDIAN ST,2964793.082,2014

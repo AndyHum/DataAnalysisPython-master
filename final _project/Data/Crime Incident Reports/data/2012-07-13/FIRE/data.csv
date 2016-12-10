@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81663,120430602.0,Friday,No,2012-07-13T06:45:00.000,FIRE,"[-71.131365, 42.286626]",Point,FIRE,7,REQP  ,679,E5,Last,No,BELGRADE AV,Part Three,Unarmed,755914.3214,,2929689.7810000004,2012
+98664,120431270.0,Friday,No,2012-07-13T13:36:00.000,FIRE,"[-71.08972, 42.282369]",Point,FIRE,7,FIREB ,428,B3,Day,No,WILDWOOD ST,Part Three,Unarmed,767190.2526,,2928189.921,2012
+158311,120432084.0,Friday,No,2012-07-13T19:25:00.000,FIRE,"[-71.10003, 42.319231]",Point,FIRE,7,FIREB ,303,E13,First,No,BRAGDON ST,Part Three,Unarmed,764337.3609999999,,2941609.76,2012

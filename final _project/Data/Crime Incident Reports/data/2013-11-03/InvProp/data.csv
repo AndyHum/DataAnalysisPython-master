@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52037,130700675.0,Sunday,No,2013-11-03T16:12:00.000,InvProp,"[-71.079466, 42.327327]",Point,InvProp,11,SHOT  ,267,B2,First,No,MT PLEASANT AV,Part three,Other,769884.0976,,2944586.5360000003,2013
+158754,130701198.0,Sunday,No,2013-11-03T21:13:00.000,InvProp,"[-71.063905, 42.312206]",Point,InvProp,11,SHOTS ,334,C11,First,No,HANCOCK ST,Part three,Firearm,774120.2529,HOWES ST,2939097.619,2013
+177779,130699655.0,Sunday,No,2013-11-03T01:17:00.000,InvProp,"[-71.13213, 42.239221]",Point,InvProp,11,NOISE ,523,E18,Last,No,HYDE PARK AV,Part three,Unarmed,755781.8303,MILTON ST,2912413.8639999996,2013
+211891,130699776.0,Sunday,No,2013-11-03T01:19:00.000,InvProp,"[-71.09558, 42.323541]",Point,InvProp,11,SHOTS ,301,B2,Last,No,MARCELLA ST,Part three,Firearm,765533.3926,HIGHLAND ST,2943186.0719999997,2013
+256092,130700627.0,Sunday,No,2013-11-03T15:34:00.000,InvProp,"[-71.076649, 42.342321]",Point,InvProp,11,ALARMR,153,D4,Day,No,PEMBROKE ST,Part three,Unarmed,770618.712,,2950054.729,2013

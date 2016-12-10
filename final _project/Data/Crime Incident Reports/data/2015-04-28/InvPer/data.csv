@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+240,152034664.0,Tuesday,No,2015-04-28T16:00:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVPER,0,C6,First,No,SUMMER ST,Part three,Unarmed,,,,2015
+281,152034700.0,Tuesday,No,2015-04-28T18:00:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVPER,0,C6,First,No,NEWBURY ST,Part three,Unarmed,,,,2015
+1086,152034549.0,Tuesday,No,2015-04-28T12:35:00.000,InvPer,"[-71.056433, 42.374224]",Point,InvPer,4,DISTRB,0,A15,Day,No,2ND AV,Part three,Unarmed,776023.6523,,2961708.4110000003,2015
+25758,152034521.0,Tuesday,No,2015-04-28T11:19:00.000,InvPer,"[-71.09008, 42.290926]",Point,InvPer,4,BE,0,B3,Day,No,DONALD RD,Part three,Unarmed,767077.8569,,2931307.747,2015
+96712,152034650.0,Tuesday,No,2015-04-28T16:50:00.000,InvPer,"[-71.060585, 42.298841]",Point,InvPer,4,IVPER,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775043.317,,2934231.818,2015
+112059,152034667.0,Tuesday,No,2015-04-28T17:37:00.000,InvPer,"[-71.082405, 42.335031]",Point,InvPer,4,ALARM,0,D4,First,No,HAMMOND ST,Part three,Unarmed,769075.7574,,2947390.398,2015
+138683,152034477.0,Tuesday,No,2015-04-28T09:00:00.000,InvPer,"[-71.070185, 42.349911]",Point,InvPer,4,MVA,0,A1,Day,No,COLUMBUS AV,Part three,Unarmed,772352.4122,ARLINGTON ST,2952829.0710000005,2015
+184581,152035144.0,Tuesday,No,2015-04-28T10:17:00.000,InvPer,"[-71.08071, 42.299551]",Point,InvPer,4,IVPER,0,B3,Day,No,YORK ST,Part three,Unarmed,769597.6018,,2934463.148,2015
+200624,152034935.0,Tuesday,No,2015-04-28T16:00:00.000,InvPer,"[-71.06761, 42.304043]",Point,InvPer,4,IVPER,0,C11,First,No,SPEEDWELL ST,Part three,Unarmed,773133.0281,,2936117.6139999996,2015
+202294,152034720.0,Tuesday,No,2015-04-28T20:30:00.000,InvPer,"[-71.07033, 42.291278]",Point,InvPer,4,IVPER,0,C11,First,No,MOULTRIE ST,Part three,Unarmed,772420.6342,,2931462.2210000004,2015
+252061,152034446.0,Tuesday,No,2015-04-28T00:25:00.000,InvPer,"[-71.065491, 42.305384]",Point,InvPer,4,SHOTS,0,C11,Last,No,DRAPER ST,Part three,Other,773703.9466,,2936609.337,2015

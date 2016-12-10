@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16591,130220638.0,Sunday,No,2013-04-14T08:00:00.000,DRUG CHARGES,"[-71.091325, 42.284861]",Point,18xx,4,IVDRUG,465,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,766751.5911,,2929095.955,2013
+33288,130220341.0,Sunday,No,2013-04-14T13:50:00.000,DRUG CHARGES,"[-71.08634, 42.317581]",Point,18xx,4,ARREST,308,B2,Day,No,ELBERT ST,Part Two,Other,768042.6631,HUMBOLDT AV,2941026.13,2013
+59946,130220314.0,Sunday,No,2013-04-14T13:00:00.000,DRUG CHARGES,"[-71.054711, 42.341305]",Point,18xx,4,IVDRUG,200,C6,Day,No,W BROADWAY,Part Two,Unarmed,776551.5679,,2949714.607,2013

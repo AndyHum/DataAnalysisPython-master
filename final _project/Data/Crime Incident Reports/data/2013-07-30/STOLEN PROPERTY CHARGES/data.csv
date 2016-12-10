@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70269,130474545.0,Tuesday,No,2013-07-30T14:00:00.000,STOLEN PROPERTY CHARGES,"[-71.05464, 42.325816]",Point,13xx,7,IVPER ,914,C6,Day,No,OCALLAGHAN WY,Part Two,Unarmed,776600.2984,STERLING SQ,2944070.27,2013
+107889,130474642.0,Tuesday,No,2013-07-30T17:03:00.000,STOLEN PROPERTY CHARGES,"[-71.08634, 42.295291]",Point,13xx,7,ARREST,440,B3,First,No,HARVARD AV,Part Two,Unarmed,768082.0561,VESTA RD,2932903.3019999997,2013
+204059,130473161.0,Tuesday,No,2013-07-30T01:32:00.000,STOLEN PROPERTY CHARGES,"[-71.101367, 42.330119]",Point,13xx,7,ARREST,586,B2,Last,No,HILLSIDE ST,Part Two,Other,763957.2066,,2945575.7389999996,2013

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9664,152028250.0,Tuesday,No,2015-04-07T10:00:00.000,PropLost,"[-71.049883, 42.319643]",Point,PropLost,4,LARCEN,0,C6,Day,No,MORRISSEY BL,Part three,Unarmed,777898.4159,,2941827.522,2015
+37808,152028675.0,Tuesday,No,2015-04-07T00:01:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,4,PROP,0,B2,Last,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2015
+39988,152028116.0,Tuesday,No,2015-04-07T02:30:00.000,PropLost,"[-71.056755, 42.286581]",Point,PropLost,4,LARCEN,0,C11,Last,No,BURGOYNE ST,Part three,Unarmed,776102.6682,,2929769.462,2015
+133474,152033449.0,Tuesday,No,2015-04-07T19:00:00.000,PropLost,"[-71.095995, 42.347161]",Point,PropLost,4,PROP,0,D4,First,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2015
+161102,152028263.0,Tuesday,No,2015-04-07T15:00:00.000,PropLost,"[-71.069527, 42.351443]",Point,PropLost,4,PROP,0,A1,Day,No,PARK PLAZA,Part three,Unarmed,772527.4805,,2953388.3860000004,2015
+164984,152028362.0,Tuesday,No,2015-04-07T19:30:00.000,PropLost,"[-71.05657, 42.353406]",Point,PropLost,4,LARCEN,0,A1,First,No,HIGH ST,Part three,Other,776026.1254,,2954121.836,2015
+183543,152028239.0,Tuesday,No,2015-04-07T09:00:00.000,PropLost,"[-71.059969, 42.355867]",Point,PropLost,4,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,WINTER ST,2955013.727,2015
+186657,152028686.0,Tuesday,No,2015-04-07T17:30:00.000,PropLost,"[-71.050247, 42.338434]",Point,PropLost,4,LARCEN,0,C6,First,No,W BROADWAY,Part three,Unarmed,777763.844,,2948674.624,2015
+267415,152028232.0,Tuesday,No,2015-04-07T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B2,Day,No,CHELSEA ST,Part three,Unarmed,,,,2015
+267528,152028775.0,Tuesday,No,2015-04-07T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,B3,Day,No,PARK DR,Part three,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159302,130150658.0,Wednesday,No,2013-03-13T22:00:00.000,BENoProp,"[-71.074427, 42.271311]",Point,BENoProp,3,BERPT ,408,B3,First,No,RIVER ST,Part One,Unarmed,771348.5999,,2924180.5,2013
+188251,130148223.0,Wednesday,No,2013-03-13T01:45:00.000,BENoProp,"[-71.079466, 42.327327]",Point,BENoProp,3,BERPT ,281,B2,Last,No,MT PLEASANT AV,Part One,Other,769884.0976,,2944586.5360000003,2013
+231408,130150058.0,Wednesday,No,2013-03-13T20:05:00.000,BENoProp,"[-71.063065, 42.315251]",Point,BENoProp,3,BEIP  ,257,C11,First,No,EVERETT AV,Part One,Unarmed,774341.7652,,2940208.4280000003,2013
+240597,130148580.0,Wednesday,No,2013-03-13T03:59:00.000,BENoProp,"[-71.077634, 42.320912]",Point,BENoProp,3,BERPT ,265,B2,Last,No,BLUE HILL AV,Part One,Other,770391.0231,,2942251.5160000003,2013

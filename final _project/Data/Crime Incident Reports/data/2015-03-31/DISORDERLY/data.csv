@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30481,152026181.0,Tuesday,No,2015-03-31T17:53:00.000,DISORDERLY,"[-71.064, 42.352326]",Point,24xx,3,SS,0,A1,First,No,BOYLSTON ST,Part Two,Other,774019.8233,,2953717.9110000003,2015
+163531,152026236.0,Tuesday,No,2015-03-31T21:29:00.000,DISORDERLY,"[-71.06252, 42.374816]",Point,24xx,3,ARREST,0,A15,First,No,PLEASANT ST,Part Two,Other,774377.835,,2961915.76,2015
+267155,152026194.0,Tuesday,No,2015-03-31T19:10:00.000,DISORDERLY,"[0, 0]",Point,24xx,3,SS,0,C11,First,No,BOWDOIN ST,Part Two,Unarmed,,,,2015
+267170,152026201.0,Tuesday,No,2015-03-31T19:40:00.000,DISORDERLY,"[0, 0]",Point,24xx,3,ARREST,0,B2,First,No,WARREN ST,Part Two,Unarmed,,ZEIGLER ST,,2015

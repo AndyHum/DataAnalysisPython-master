@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51091,120805530.0,Tuesday,No,2012-12-25T13:44:00.000,MedAssist,"[-71.03133, 42.337381]",Point,MedAssist,12,CONFPR,223,C6,Day,No,E 2ND ST,Part Three,Unarmed,782880.5281,N ST,2948318.52,2012
+74307,120805518.0,Tuesday,No,2012-12-25T13:35:00.000,MedAssist,"[-71.056445, 42.365771]",Point,MedAssist,12,INVEST,79,A1,Day,No,PRINCE ST,Part Three,Unarmed,776036.4807,,2958628.057,2012
+88095,120805085.0,Tuesday,No,2012-12-25T01:00:00.000,MedAssist,"[-71.069004, 42.3779]",Point,MedAssist,12,UNCONS,53,A15,Last,No,TIBBETTS TOWN WY,Part Three,Unarmed,772619.9537,,2963030.684,2012
+90706,120805693.0,Tuesday,No,2012-12-25T17:44:00.000,MedAssist,"[-71.086459, 42.325482]",Point,MedAssist,12,NIDV  ,294,B2,First,No,ALPINE ST,Part Three,Unarmed,767996.417,,2943905.04,2012
+106506,120805785.0,Tuesday,No,2012-12-25T19:40:00.000,MedAssist,"[-71.163424, 42.276105]",Point,MedAssist,12,UNK   ,721,E5,First,No,CASS ST,Part Three,Unarmed,747254.6754,,2925819.856,2012
+138493,120805650.0,Tuesday,No,2012-12-25T17:15:00.000,MedAssist,"[-71.053355, 42.324819]",Point,MedAssist,12,CARST ,914,C6,First,No,OCALLAGHAN WY,Part Three,Unarmed,776949.5422,,2943708.555,2012
+154887,120805016.0,Tuesday,No,2012-12-25T12:16:00.000,MedAssist,"[-71.069025, 42.307691]",Point,MedAssist,12,NIDV  ,336,C11,Day,No,HAMILTON ST,Part Three,Unarmed,772743.7386,,2937445.2430000002,2012
+160764,120805763.0,Tuesday,No,2012-12-25T19:23:00.000,MedAssist,"[-71.098085, 42.342541]",Point,MedAssist,12,REQP  ,626,D4,First,No,QUEENSBERRY ST,Part Three,Other,764823.3476,,2950106.816,2012
+254996,120805483.0,Tuesday,No,2012-12-25T10:30:00.000,MedAssist,"[-71.053355, 42.324819]",Point,MedAssist,12,EDP2  ,914,C6,Day,No,OCALLAGHAN WY,Part Three,Unarmed,776949.5422,,2943708.555,2012

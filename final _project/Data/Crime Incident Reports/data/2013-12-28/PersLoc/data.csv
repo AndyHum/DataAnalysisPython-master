@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44749,130815768.0,Saturday,No,2013-12-28T22:47:00.000,PersLoc,"[-71.07621, 42.282721]",Point,PersLoc,12,MISPER,418,B3,First,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2013
+71991,140004684.0,Saturday,No,2013-12-28T15:00:00.000,PersLoc,"[-71.012211, 42.387175]",Point,PersLoc,12,IVPER ,12,A7,Day,No,BRANDYWYNE DR,Other,Unarmed,787945.8755,,2966493.185,2013
+237188,130814038.0,Saturday,No,2013-12-28T00:56:00.000,PersLoc,"[-71.151385, 42.259141]",Point,PersLoc,12,MISPER,822,E5,Last,No,WILLERS ST,Other,Unarmed,750538.1553,,2919651.07,2013
+259223,130815017.0,Saturday,No,2013-12-28T14:37:00.000,PersLoc,"[-71.10906, 42.307391]",Point,PersLoc,12,FDCHLD,573,E13,Day,No,AMORY ST,Other,Unarmed,761915.0204,WILLIAMS ST,2937283.7430000002,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69559,120488415.0,Tuesday,No,2012-08-07T04:05:00.000,DISORDERLY,"[-71.06942, 42.362401]",Point,24xx,8,ARREST,64,A1,Last,No,FRUIT ST,Part Two,Unarmed,772536.2528,,2957381.922,2012
+153928,120488251.0,Tuesday,No,2012-08-07T01:28:00.000,DISORDERLY,"[-71.06706, 42.319021]",Point,24xx,8,MVA   ,184,B2,Last,No,HUMPHREYS ST,Part Two,Unarmed,773254.3011,HARROW ST,2941576.7660000003,2012
+154082,120488407.0,Tuesday,No,2012-08-07T04:10:00.000,DISORDERLY,"[-71.085618, 42.32866]",Point,24xx,8,ARREST,282,B2,Last,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2012

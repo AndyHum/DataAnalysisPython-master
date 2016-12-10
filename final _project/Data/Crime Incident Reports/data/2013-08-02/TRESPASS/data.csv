@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134687,130480994.0,Friday,No,2013-08-02T05:48:00.000,TRESPASS,"[-71.075564, 42.318418]",Point,TRESPASS,8,SEXOFF,324,B2,Last,No,BROOKFORD ST,Part Two,Unarmed,770955.4967,,2941345.341,2013
+191751,130481830.0,Friday,No,2013-08-02T13:34:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,8,SSTOP ,0,A1,Day,No,OXFORD PL,Part Two,Unarmed,,,,2013
+247150,130483115.0,Friday,No,2013-08-02T23:28:00.000,TRESPASS,"[-71.081155, 42.330851]",Point,TRESPASS,8,FDWEAP,280,B2,First,No,HARRISON AV,Part Two,Unarmed,769421.2068,,2945868.788,2013

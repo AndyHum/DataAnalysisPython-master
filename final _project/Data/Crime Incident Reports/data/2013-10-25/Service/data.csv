@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43233,130681163.0,Friday,No,2013-10-25T17:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,10,IVPER ,257,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2013
+44416,130680827.0,Friday,No,2013-10-25T18:21:00.000,Service,"[-71.1337, 42.288771]",Point,Service,10,SHOT  ,724,E5,First,No,SOUTH ST,Part three,Unarmed,755279.1505,,2930468.73,2013
+123254,130680127.0,Friday,No,2013-10-25T11:10:00.000,Service,"[-71.06588, 42.320061]",Point,Service,10,ARREST,237,B2,Day,No,HUMPHREYS ST,Part three,Other,773571.4968,GROOM ST,2941957.3819999998,2013
+146706,130679990.0,Friday,No,2013-10-25T10:10:00.000,Service,"[-71.061485, 42.292056]",Point,Service,10,CD11  ,365,C11,Day,No,KING ST,Part three,Unarmed,774812.5494,,2931758.015,2013
+151077,130686485.0,Friday,No,2013-10-25T09:30:00.000,Service,"[-71.12088, 42.351821]",Point,Service,10,INVEST,797,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2013
+184766,130681591.0,Friday,No,2013-10-25T22:52:00.000,Service,"[-71.067725, 42.327786]",Point,Service,10,SSTOP ,181,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,773058.2678,PROCTOR ST,2944769.9680000003,2013
+203732,130681317.0,Friday,No,2013-10-25T20:30:00.000,Service,"[-71.09362, 42.275141]",Point,Service,10,ARREST,469,B3,First,No,TENNIS RD,Part three,Unarmed,766147.4607,BLUE HILL AV,2925550.885,2013
+237356,130679468.0,Friday,No,2013-10-25T02:06:00.000,Service,"[-71.07901, 42.329261]",Point,Service,10,ARREST,268,B2,Last,No,EUSTIS ST,Part three,Unarmed,770004.0637,DEARBORN ST,2945292.2189999996,2013

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13293,,Monday,No,2015-06-22T00:00:00.000,Aggravated Assault,"[-71.086896, 42.297927]",Point,04xx,6,ASLTIP,444,B3,,No,BLUE HILL AVE,Part One,Other,767927.0,,2930000.0,2015
+41463,,Monday,No,2015-06-22T21:59:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,PKNIFE,911,B2,,No,ANNUNCIATION RD,Part One,Knife/Cutting Instrument,,,,2015
+62981,,Monday,No,2015-06-22T00:00:00.000,Aggravated Assault,"[-71.105906, 42.302933]",Point,04xx,6,AB,569,E13,,No,BROOKLEY RD,Part One,Blunt Object,762775.0,,2940000.0,2015
+75786,,Monday,No,2015-06-22T00:00:00.000,Aggravated Assault,"[-71.03475, 42.382593]",Point,04xx,6,AB,25,A7,,No,CONDOR ST,Part One,Blunt Object,781866.0,,2960000.0,2015
+92857,,Monday,No,2015-06-22T00:00:00.000,Aggravated Assault,"[-71.075904, 42.288458]",Point,04xx,6,FIGHT,437,B3,,No,NORFOLK ST,Part One,None,770918.0,,2930000.0,2015
+98749,,Monday,No,2015-06-22T00:00:00.000,Aggravated Assault,"[-71.051927, 42.334984]",Point,04xx,6,ARREST,215,C6,,No,W SEVENTH ST,Part One,Blunt Object,777316.0,,2950000.0,2015
+108902,,Monday,No,2015-06-22T00:00:00.000,Aggravated Assault,"[-71.095748, 42.268576]",Point,04xx,6,PERGUN,481,B3,,No,CUMMINS HWY,Part One,Firearm,765583.0,,2920000.0,2015
+119165,,Monday,No,2015-06-22T00:00:00.000,Aggravated Assault,"[-71.062567, 42.306659]",Point,04xx,6,AB,611,B2,,No,NEW WHITNEY ST,Part One,Other,774492.0,,2940000.0,2015
+189472,,Monday,No,2015-06-22T00:00:00.000,Aggravated Assault,"[-71.098891, 42.270303]",Point,04xx,6,REQP,480,E18,,No,CUMMINS HWY,Part One,Knife/Cutting Instrument,764729.0,,2920000.0,2015

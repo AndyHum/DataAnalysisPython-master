@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2933,152048685.0,Friday,No,2015-06-12T12:19:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,EDP,0,C11,Day,No,SAWYER AV,Part three,Unarmed,,,,2015
+2952,152048722.0,Friday,No,2015-06-12T15:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,6,REQEP,0,E5,Day,No,BROOKWAY RD,Part three,Unarmed,,,,2015
+16613,152048705.0,Friday,No,2015-06-12T14:40:00.000,MedAssist,"[-71.08209, 42.317721]",Point,MedAssist,6,IVMV,0,B2,Day,No,WARREN ST,Part three,Unarmed,769191.8313,SAVIN ST,2941082.752,2015
+21211,152048569.0,Friday,No,2015-06-12T00:30:00.000,MedAssist,"[-71.05423, 42.330916]",Point,MedAssist,6,DISTRB,0,C6,Last,No,DORCHESTER ST,Part three,Unarmed,776701.4554,,2945929.374,2015
+21928,152048823.0,Friday,No,2015-06-12T19:05:00.000,MedAssist,"[-71.115994, 42.275121]",Point,MedAssist,6,CARDIA,0,E18,First,No,AMERICAN LEGION HY,Part three,Unarmed,760092.1353,,2925515.338,2015
+35646,152048849.0,Friday,No,2015-06-12T17:45:00.000,MedAssist,"[-71.131745, 42.283066]",Point,MedAssist,6,IVPER,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,755817.1002,,2928392.019,2015
+77267,152048582.0,Friday,No,2015-06-12T02:00:00.000,MedAssist,"[-71.11662, 42.29735]",Point,MedAssist,6,INVEST,0,E5,Last,No,WASHINGTON ST,Part three,Other,759886.3972,,2933615.372,2015
+145670,152048781.0,Friday,No,2015-06-12T16:44:00.000,MedAssist,"[-71.06577, 42.302076]",Point,MedAssist,6,ALARM,0,C11,First,No,RIDGEWOOD ST,Part three,Unarmed,773634.6072,,2935403.522,2015
+148586,152048654.0,Friday,No,2015-06-12T10:45:00.000,MedAssist,"[-71.03164, 42.379161]",Point,MedAssist,6,UNKEMS,0,A7,Day,No,PRINCETON ST,Part three,Unarmed,782713.1109999999,,2963543.473,2015
+216093,152048588.0,Friday,No,2015-06-12T03:35:00.000,MedAssist,"[-71.033415, 42.337766]",Point,MedAssist,6,UNKEMS,0,C6,Last,No,M ST,Part three,Unarmed,782316.0478,,2948455.731,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35769,130021143.0,Thursday,No,2013-01-10T23:43:00.000,InvProp,"[-71.07428, 42.300894]",Point,InvProp,1,IVPREM,461,C11,First,No,BOWDOIN AV,Part Three,Firearm,771334.5603,,2934961.063,2013
+77055,130022575.0,Thursday,No,2013-01-10T15:30:00.000,InvProp,"[-71.059096, 42.308825]",Point,InvProp,1,IVPER ,339,C11,Day,No,HANCOCK ST,Part Three,Unarmed,775427.1276,,2937872.041,2013
+194697,130019174.0,Thursday,No,2013-01-10T02:30:00.000,InvProp,"[-71.05835, 42.357481]",Point,InvProp,1,AOD   ,97,A1,Last,No,WASHINGTON ST,Part Three,Unarmed,775537.3061,,2955604.347,2013

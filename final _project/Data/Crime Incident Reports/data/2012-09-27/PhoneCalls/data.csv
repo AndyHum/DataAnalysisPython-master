@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90635,120608752.0,Thursday,No,2012-09-27T00:01:00.000,PhoneCalls,"[-70.972049, 42.312511]",Point,PhoneCalls,9,IVPER ,376,C11,Last,No,LONG ISLAND RD,Part Three,Unarmed,798964.0477,,2939348.963,2012
+116741,120622392.0,Thursday,No,2012-09-27T02:34:00.000,PhoneCalls,"[-71.066403, 42.343387]",Point,PhoneCalls,9,INVEST,164,D4,Last,No,WASHINGTON ST,Part Three,Unarmed,773386.6818,,2950456.92,2012
+117630,120617258.0,Thursday,No,2012-09-27T09:00:00.000,PhoneCalls,"[-71.117583, 42.278591]",Point,PhoneCalls,9,HARPT ,499,E18,Day,No,CANTERBURY ST,Part Three,Unarmed,759656.4721,,2926777.8680000002,2012
+177361,120608505.0,Thursday,No,2012-09-27T00:01:00.000,PhoneCalls,"[-71.09666, 42.318511]",Point,PhoneCalls,9,IVPER ,304,B2,Last,No,NOTRE DAME ST,Part Three,Unarmed,765249.9973,,2941351.672,2012

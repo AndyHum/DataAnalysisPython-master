@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41044,130452343.0,Sunday,No,2013-07-21T10:00:00.000,Arrest,"[-71.06427, 42.306086]",Point,Arrest,7,ARREST,346,C11,Day,No,FOX ST,Part three,Unarmed,774032.922,,2936866.8910000003,2013
+217223,130453153.0,Sunday,No,2013-07-21T17:15:00.000,Arrest,"[-71.092198, 42.274937]",Point,Arrest,7,ARREST,427,B3,First,No,BABSON ST,Part three,Unarmed,766532.6381,,2925478.341,2013
+238496,130453207.0,Sunday,No,2013-07-21T17:44:00.000,Arrest,"[-71.065955, 42.291082]",Point,Arrest,7,LARCIP,397,C11,First,No,MELBOURNE ST,Part three,Unarmed,773604.8812,,2931396.827,2013

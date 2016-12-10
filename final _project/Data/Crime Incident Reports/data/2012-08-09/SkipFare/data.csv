@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30201,120492890.0,Thursday,No,2012-08-09T00:50:00.000,SkipFare,"[-71.05766, 42.295991]",Point,SkipFare,8,LARCIP,355,C11,Last,No,DIX ST,Part Two,Unarmed,775840.0044,,2933197.329,2012
+68429,120495777.0,Thursday,No,2012-08-09T21:00:00.000,SkipFare,"[-71.121035, 42.255946]",Point,SkipFare,8,IVPER ,519,E18,First,No,RIVER ST,Part Two,Unarmed,758759.1304,,2918521.811,2012
+102378,120495254.0,Thursday,No,2012-08-09T11:00:00.000,SkipFare,"[-71.137603, 42.286024]",Point,SkipFare,8,SSTOP ,0,E5,Day,No,WALWORTH ST,Part Two,Unarmed,754227.1188,,2929462.9680000003,2012
+246079,120493047.0,Thursday,No,2012-08-09T04:35:00.000,SkipFare,"[-71.061495, 42.356911]",Point,SkipFare,8,LARCIP,102,A1,Last,No,TREMONT ST,Part Two,Unarmed,774688.3413,,2955392.2430000002,2012

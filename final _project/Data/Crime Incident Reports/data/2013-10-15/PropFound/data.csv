@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65068,130657783.0,Tuesday,No,2013-10-15T12:45:00.000,PropFound,"[-71.12167, 42.257471]",Point,PropFound,10,IVPER ,0,E18,Day,No,EVERETT ST,Part three,Unarmed,758584.7613,,2919076.7789999996,2013
+89087,130657994.0,Tuesday,No,2013-10-15T11:00:00.000,PropFound,"[-71.10509, 42.346631]",Point,PropFound,10,FDPROP,629,D4,Day,No,PARK DR,Part three,Unarmed,762922.6813,BEACON ST,2951588.442,2013
+145755,130658897.0,Tuesday,No,2013-10-15T20:00:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,10,FDPROP,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+166483,130657245.0,Tuesday,No,2013-10-15T08:26:00.000,PropFound,"[-71.058031, 42.354993]",Point,PropFound,10,IVPREM,106,A1,Day,No,WINTHROP LA,Part three,Unarmed,775628.0382,,2954698.0960000004,2013
+250988,130657849.0,Tuesday,No,2013-10-15T13:00:00.000,PropFound,"[-71.108393, 42.30138]",Point,PropFound,10,FDPROP,569,E13,Day,No,ARBORWAY,Part three,Unarmed,762105.2756,,2935093.9839999997,2013

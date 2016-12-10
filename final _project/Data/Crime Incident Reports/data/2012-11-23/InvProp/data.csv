@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14849,120735956.0,Friday,No,2012-11-23T10:37:00.000,InvProp,"[-71.098485, 42.343391]",Point,InvProp,11,IVPREM,626,D4,Day,No,PETERBOROUGH ST,Part Three,Unarmed,764713.7517,,2950416.063,2012
+117282,120737979.0,Friday,No,2012-11-23T01:30:00.000,InvProp,"[-71.124943, 42.29048]",Point,InvProp,11,BERPTA,563,E5,Last,No,SOUTH ST,Part Three,Other,757645.7592,,2931101.6560000004,2012
+178052,120735588.0,Friday,No,2012-11-23T03:05:00.000,InvProp,"[-71.058108, 42.309016]",Point,InvProp,11,ALARMC,255,C11,Last,No,DORCHESTER AV,Part Three,Other,775694.0122,,2937943.142,2012
+216315,120742713.0,Friday,No,2012-11-23T06:00:00.000,InvProp,"[-71.09622, 42.280691]",Point,InvProp,11,IVPER ,468,B3,Last,No,HAZELTON ST,Part Three,Unarmed,765434.0731,,2927570.023,2012

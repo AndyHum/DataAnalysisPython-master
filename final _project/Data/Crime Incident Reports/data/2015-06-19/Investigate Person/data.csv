@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18186,,Friday,No,2015-06-19T00:00:00.000,Investigate Person,"[-71.070082, 42.303643]",Point,InvPer,6,AB,342,C11,,No,TEBROC ST,Part Three,None,772465.0,,2940000.0,2015
+71639,,Friday,No,2015-06-19T00:00:00.000,Investigate Person,"[-71.123269, 42.242498]",Point,InvPer,6,IVPER,524,E18,,No,NEEDHAM RD,Part Three,None,758176.0,,2910000.0,2015
+80260,,Friday,No,2015-06-19T00:00:00.000,Investigate Person,"[-71.091876, 42.336272]",Point,InvPer,6,NIDV,911,B2,,No,RUGGLES ST,Part Three,None,766513.0,,2950000.0,2015
+107023,,Friday,No,2015-06-19T09:30:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,728,E5,,No,RIVERMOOR ST,Part Three,None,,,,2015
+118069,,Friday,No,2015-06-19T18:50:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,INVEST,489,E18,,No,OAKWOOD ST,Part Three,None,,,,2015
+125244,,Friday,No,2015-06-19T00:00:00.000,Investigate Person,"[-71.062588, 42.311133]",Point,InvPer,6,DISTRB,334,C11,,No,HANCOCK ST,Part Three,None,774478.0,,2940000.0,2015
+165782,,Friday,No,2015-06-19T00:00:00.000,Investigate Person,"[-71.068699, 42.30098]",Point,InvPer,6,IVPER,344,C11,,No,WESTVILLE TER,Part Three,None,772844.0,,2940000.0,2015
+207504,,Friday,No,2015-06-19T20:21:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,768,D14,,No,N BEACON ST,Part Three,None,,VINELAND ST,,2015
+209313,,Friday,No,2015-06-19T00:00:00.000,Investigate Person,"[-71.053306, 42.364361]",Point,InvPer,6,IVPER,88,A1,,No,GARDEN COURT ST,Part Three,None,776887.0,,2960000.0,2015
+233864,,Friday,No,2015-06-19T00:00:00.000,Investigate Person,"[-71.152747, 42.355553]",Point,InvPer,6,AB,939,D14,,No,FANEUIL ST,Part Three,None,750026.0,,2950000.0,2015
+250411,,Friday,No,2015-06-19T16:50:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,DISTRB,168,D4,,No,E BROOKLINE ST,Part Three,None,,WASHINGTON ST,,2015
+253027,,Friday,No,2015-06-19T11:22:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,NIDV,618,D4,,No,SAINT STEPHEN ST,Part Three,None,,,,2015
+259802,,Friday,No,2015-06-19T00:00:00.000,Investigate Person,"[-71.076265, 42.299263]",Point,InvPer,6,DVIP,454,B3,,No,RIPLEY RD,Part Three,None,770800.0,,2930000.0,2015

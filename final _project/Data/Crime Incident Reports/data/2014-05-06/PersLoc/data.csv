@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13804,140277769.0,Tuesday,No,2014-05-06T13:55:00.000,PersLoc,"[-71.166065, 42.353471]",Point,PersLoc,5,MISPER,759,D14,Day,No,PERTHSHIRE RD,Other,Unarmed,746429.6340000001,,2954010.538,2014
+37243,140277272.0,Tuesday,No,2014-05-06T10:00:00.000,PersLoc,"[-71.06667, 42.277346]",Point,PersLoc,5,MSNCOM,404,C11,Day,No,DORCHESTER AV,Other,Unarmed,773436.9288,,2926390.317,2014
+45962,140277277.0,Tuesday,No,2014-05-06T07:45:00.000,PersLoc,"[-71.076405, 42.313081]",Point,PersLoc,5,MSNCOM,326,B2,Day,No,PERTH ST,Other,Unarmed,770737.7409,,2939399.445,2014
+78718,140278055.0,Tuesday,No,2014-05-06T16:12:00.000,PersLoc,"[-71.083575, 42.307776]",Point,PersLoc,5,MSNCOM,330,B2,First,No,BLUE HILL AV,Other,Unarmed,768807.9052,,2937456.668,2014
+140760,140278983.0,Tuesday,No,2014-05-06T22:51:00.000,PersLoc,"[-71.101675, 42.285176]",Point,PersLoc,5,MISPER,503,B3,First,No,W MAIN ST,Other,Unarmed,763950.4336,,2929197.498,2014
+211139,140279320.0,Tuesday,No,2014-05-06T21:00:00.000,PersLoc,"[-71.098725, 42.315361]",Point,PersLoc,5,MSNCOM,577,E13,First,No,WASHINGTON ST,Other,Unarmed,764696.9253,,2940201.124,2014
+237723,140278977.0,Tuesday,No,2014-05-06T09:00:00.000,PersLoc,"[-71.067175, 42.316924]",Point,PersLoc,5,MSNCOM,258,B2,Day,No,VIRGINIA ST,Other,Unarmed,773226.8846,,2940812.425,2014

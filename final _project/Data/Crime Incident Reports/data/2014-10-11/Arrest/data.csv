@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11295,142038074.0,Saturday,No,2014-10-11T10:00:00.000,Arrest,"[-71.060305, 42.351446]",Point,Arrest,10,ARREST,0,A1,Day,No,OXFORD ST,Part three,Unarmed,775020.2445,,2953402.349,2014
+78623,142038217.0,Saturday,No,2014-10-11T18:30:00.000,Arrest,"[-71.08336, 42.329391]",Point,Arrest,10,ARREST,0,B2,First,No,WARREN ST,Part three,Unarmed,768827.5862,ZEIGLER ST,2945333.818,2014
+96577,142038192.0,Saturday,No,2014-10-11T17:15:00.000,Arrest,"[-71.08816, 42.294461]",Point,Arrest,10,ARREST,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767591.1223,HARVARD ST,2932598.455,2014

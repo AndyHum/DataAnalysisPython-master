@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26866,120571496.0,Wednesday,No,2012-09-12T10:20:00.000,Landlord,"[-71.083645, 42.341856]",Point,Landlord,9,IVPREM,145,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,768728.349,,2949875.913,2012
+211546,120571662.0,Wednesday,No,2012-09-12T14:49:00.000,Landlord,"[-71.085036, 42.294732]",Point,Landlord,9,BERPT ,441,B3,Day,No,NIGHTINGALE ST,Part Three,Other,768435.6675,,2932701.1580000003,2012
+233091,120572192.0,Wednesday,No,2012-09-12T18:30:00.000,Landlord,"[-71.141721, 42.34306]",Point,Landlord,9,IVPER ,786,D14,First,No,WASHINGTON ST,Part Three,Unarmed,753025.5063,ALLSTON ST,2950243.078,2012

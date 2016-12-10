@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58444,152011790.0,Friday,No,2015-02-13T11:43:00.000,DEATH INVESTIGATION,"[-71.065185, 42.307956]",Point,01INV,2,CARDIA,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773781.9406,,2937547.084,2015
+162684,152011761.0,Friday,No,2015-02-13T12:30:00.000,DEATH INVESTIGATION,"[-71.056505, 42.373631]",Point,01INV,2,UNKEMS,0,A15,Day,No,1ST AV,Part three,Unarmed,776005.3731,,2961492.315,2015
+266264,152011729.0,Friday,No,2015-02-13T12:00:00.000,DEATH INVESTIGATION,"[0, 0]",Point,01INV,2,UNKEMS,0,B2,Day,No,WEAVER WY,Part three,Unarmed,,,,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19324,140116415.0,Monday,No,2014-02-24T20:37:00.000,InvProp,"[-71.0692, 42.279996]",Point,InvProp,2,SHOTS ,403,C11,First,No,OWENCROFT RD,Part three,Unarmed,772747.3773,,2927352.545,2014
+31567,140114372.0,Monday,No,2014-02-24T00:27:00.000,InvProp,"[-71.076286, 42.340036]",Point,InvProp,2,IVPREM,157,D4,Last,No,RUTLAND ST,Part three,Other,770721.1363,,2949222.187,2014
+75470,140115528.0,Monday,No,2014-02-24T13:55:00.000,InvProp,"[-71.077701, 42.327925]",Point,InvProp,2,REMOVE,267,B2,Day,No,DUDLEY ST,Part three,Unarmed,770360.3001,,2944807.002,2014
+99896,140116282.0,Monday,No,2014-02-24T19:30:00.000,InvProp,"[-71.050247, 42.338434]",Point,InvProp,2,CD35  ,211,C6,First,No,W BROADWAY,Part three,Unarmed,777763.844,,2948674.624,2014
+146639,140114605.0,Monday,No,2014-02-24T04:37:00.000,InvProp,"[-71.08353, 42.352441]",Point,InvProp,2,LARCIP,135,D4,Last,No,BEACON ST,Part three,Unarmed,768740.6036,FAIRFIELD ST,2953733.438,2014
+176643,140116314.0,Monday,No,2014-02-24T19:46:00.000,InvProp,"[-71.040765, 42.335861]",Point,InvProp,2,CD35  ,221,C6,First,No,EMERSON ST,Part three,Unarmed,780332.6076,,2947750.733,2014
+251255,140115281.0,Monday,No,2014-02-24T12:06:00.000,InvProp,"[-71.053775, 42.338936]",Point,InvProp,2,IVPREM,936,C6,Day,No,ST CASIMIR,Part three,Unarmed,776809.1943,,2948852.645,2014

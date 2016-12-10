@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11901,,Friday,No,2015-07-03T17:19:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,131,D4,,No,BEACON ST,Part Three,None,,DARTMOUTH ST,,2015
+26345,,Friday,No,2015-07-03T00:00:00.000,Investigate Property,"[-71.085408, 42.343091]",Point,InvProp,7,IVPREM,619,D4,,No,MASSACHUSETTS AVE,Part Three,None,768250.0,,2950000.0,2015
+83856,,Friday,No,2015-07-03T08:13:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,619,D4,,No,MASSACHUSETTS AVE,Part Three,None,,,,2015
+108157,,Friday,No,2015-07-03T00:00:00.000,Investigate Property,"[-71.10391, 42.322348]",Point,InvProp,7,,579,E13,,No,BUCKLEY AVE,Part Three,None,763283.0,,2940000.0,2015
+115748,,Friday,No,2015-07-03T08:04:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,0,,,No,,Part Three,None,,,,2015
+157366,,Friday,No,2015-07-03T02:25:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,SHOTS,266,B2,,No,FAIRLAND ST,Part Three,None,,WINTHROP ST,,2015
+185022,,Friday,No,2015-07-03T09:47:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,0,,,No,,Part Three,None,,,,2015
+198166,,Friday,No,2015-07-03T00:00:00.000,Investigate Property,"[-71.04075, 42.335544]",Point,InvProp,7,BE,225,C6,,No,E BROADWAY,Part Three,None,780337.0,,2950000.0,2015
+213064,,Friday,No,2015-07-03T00:00:00.000,Investigate Property,"[-71.084991, 42.317851]",Point,InvProp,7,SSA,310,B2,,No,HAZELWOOD CT,Part Three,None,768407.0,,2940000.0,2015
+220749,,Friday,No,2015-07-03T20:37:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,69,A1,,No,BEACON ST,Part Three,None,,BEAVER ST,,2015
+223905,,Friday,No,2015-07-03T00:00:00.000,Investigate Property,"[-71.064248, 42.299909]",Point,InvProp,7,ALARM,356,C11,,No,CHARLES ST,Part Three,None,774050.0,,2930000.0,2015
+224379,,Friday,No,2015-07-03T00:00:00.000,Investigate Property,"[-71.068629, 42.304435]",Point,InvProp,7,TS,342,C11,,No,TOPLIFF ST,Part Three,None,772857.0,,2940000.0,2015
+226570,,Friday,No,2015-07-03T00:00:00.000,Investigate Property,"[-71.07082, 42.361928]",Point,InvProp,7,IVPREM,64,A1,,No,CHARLES ST,Part Three,None,772159.0,,2960000.0,2015
+235655,,Friday,No,2015-07-03T17:13:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,89,A1,,No,COMMERCIAL ST,Part Three,None,,,,2015

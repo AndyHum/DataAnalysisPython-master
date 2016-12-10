@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12554,130352335.0,Sunday,No,2013-06-09T16:00:00.000,PersLoc,"[-71.070855, 42.341986]",Point,PersLoc,6,MISPER,166,D4,First,No,SHAWMUT AV,Other,Unarmed,772185.8561,,2949940.425,2013
+221236,130350163.0,Sunday,No,2013-06-09T12:49:00.000,PersLoc,"[-71.093834, 42.319031]",Point,PersLoc,6,FDCHLD,306,B2,Day,No,CODMAN PARK,Other,Unarmed,766013.1401,,2941544.7060000002,2013
+249947,130349103.0,Sunday,No,2013-06-09T02:00:00.000,PersLoc,"[-71.039304, 42.382306]",Point,PersLoc,6,MSNCOM,25,A7,Last,No,MERIDIAN ST,Other,Unarmed,780636.0627,,2964678.298,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31787,130629674.0,Thursday,No,2013-10-03T01:00:00.000,Arrest,"[-71.13227, 42.353751]",Point,Arrest,10,CD11  ,813,D14,Last,No,HARVARD AV,Part three,Unarmed,755563.9839,,2954150.267,2013
+116388,130630258.0,Thursday,No,2013-10-03T10:55:00.000,Arrest,"[-71.077815, 42.302411]",Point,Arrest,10,ARREST,455,C11,Day,No,WASHINGTON ST,Part three,Unarmed,770375.6239,,2935509.238,2013
+149685,130630371.0,Thursday,No,2013-10-03T12:40:00.000,Arrest,"[-71.171675, 42.278601]",Point,Arrest,10,CD24  ,729,E5,Day,No,VFW PY,Part three,Unarmed,745018.3088,,2926720.784,2013

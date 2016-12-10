@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64814,140176554.0,Sunday,No,2014-03-23T15:45:00.000,MVAcc,"[-71.09219, 42.309831]",Point,MVAcc,3,MVA   ,316,B2,Day,No,HUMBOLDT AV,Other,Unarmed,766474.0251,SEAVER ST,2938194.284,2014
+108436,140175421.0,Sunday,No,2014-03-23T00:05:00.000,MVAcc,"[-71.13779, 42.348321]",Point,MVAcc,3,MVPED1,793,D14,Last,No,COMMONWEALTH AV,Other,Unarmed,754080.3448,ALLSTON ST,2952165.08,2014
+175393,140176780.0,Sunday,No,2014-03-23T17:27:00.000,MVAcc,"[-71.00424, 42.387491]",Point,MVAcc,3,MVANO ,7,A7,First,No,BENNINGTON ST,Other,Unarmed,790098.5989,,2966620.932,2014
+260281,140177047.0,Sunday,No,2014-03-23T06:30:00.000,MVAcc,"[0, 0]",Point,MVAcc,3,HITRUN,64,A1,Last,No,BLOSSOM ST,Other,Other,,OCONNELL WY,,2014

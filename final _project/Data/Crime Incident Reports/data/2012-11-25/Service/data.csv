@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53469,120740686.0,Sunday,No,2012-11-25T19:55:00.000,Service,"[-71.155685, 42.295591]",Point,Service,11,VICDOG,693,E5,First,No,VFW PY,Part Three,Other,749320.5174,,2932929.268,2012
+54125,120739743.0,Sunday,No,2012-11-25T09:15:00.000,Service,"[-71.091325, 42.284861]",Point,Service,11,ARREST,0,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2012
+77112,120740075.0,Sunday,No,2012-11-25T13:30:00.000,Service,"[-71.093739, 42.334956]",Point,Service,11,ARREST,911,B2,Day,No,ANNUNCIATION RD,Part Three,Unarmed,766011.2668,,2947348.014,2012

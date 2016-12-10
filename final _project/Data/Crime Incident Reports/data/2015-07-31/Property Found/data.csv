@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47730,,Friday,No,2015-07-31T00:00:00.000,Property Found,"[-71.14523, 42.27978]",Point,PropFound,7,FDWEAP,698,E5,,No,STRATFORD ST,Part Three,None,752173.0,,2930000.0,2015
+65334,,Friday,No,2015-07-31T08:41:00.000,Property Found,"[0, 0]",Point,PropFound,7,IVPREM,94,A1,,No,ATLANTIC AVE,Part Three,None,, CROSS ST ,,2015
+86749,,Friday,No,2015-07-31T00:00:00.000,Property Found,"[-71.106833, 42.337114]",Point,PropFound,7,FDWEAP,0,B2,,No,CHILDREN'S,Part Three,None,762467.0,SHATTUCK ST,2950000.0,2015
+109070,,Friday,No,2015-07-31T00:00:00.000,Property Found,"[-71.091878, 42.333679]",Point,PropFound,7,PROP,289,B2,,No,SCHROEDER PLZ,Part Three,None,766517.0,,2950000.0,2015
+129501,,Friday,No,2015-07-31T00:00:00.000,Property Found,"[-71.146508, 42.271695]",Point,PropFound,7,FDWEAP,706,E5,,No,VERSHIRE ST,Part Three,None,751839.0,,2920000.0,2015

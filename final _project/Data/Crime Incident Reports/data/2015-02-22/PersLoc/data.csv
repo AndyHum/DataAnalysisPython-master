@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87833,152014451.0,Sunday,No,2015-02-22T22:56:00.000,PersLoc,"[-71.05635, 42.296031]",Point,PersLoc,2,IVPER,0,C11,First,No,ADAMS ST,Other,Unarmed,776194.3422,,2933213.744,2015
+114098,152014177.0,Sunday,No,2015-02-22T00:30:00.000,PersLoc,"[-71.09486, 42.315301]",Point,PersLoc,2,MISSIN,0,E13,Last,No,WARDMAN RD,Other,Unarmed,765742.3612,,2940184.2010000004,2015
+130233,152014412.0,Sunday,No,2015-02-22T11:30:00.000,PersLoc,"[-71.084515, 42.352176]",Point,PersLoc,2,MISSIN,0,D4,Day,No,BEACON ST,Other,Unarmed,768474.8252,,2953635.5710000005,2015

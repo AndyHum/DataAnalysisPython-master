@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31989,142008016.0,Thursday,No,2014-07-10T19:51:00.000,Ballist,"[-71.074107, 42.284279]",Point,Ballist,7,FDWEAP,0,C11,First,No,ARMANDINE ST,Part Two,Unarmed,771411.6405,,2928906.461,2014
+173157,142008057.0,Thursday,No,2014-07-10T22:09:00.000,Ballist,"[-71.084663, 42.335681]",Point,Ballist,7,SHOTS,0,D4,First,No,WARWICK ST,Part Two,Firearm,768464.0312,,2947624.3189999997,2014
+243046,142008119.0,Thursday,No,2014-07-10T05:00:00.000,Ballist,"[-71.09744, 42.266303]",Point,Ballist,7,REQP,0,E18,Last,No,RIVER ST,Part Two,Other,765128.8053,,2922325.297,2014

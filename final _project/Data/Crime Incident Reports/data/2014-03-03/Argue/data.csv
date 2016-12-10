@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50395,140131745.0,Monday,No,2014-03-03T19:13:00.000,Argue,"[-71.037705, 42.382621]",Point,Argue,3,NIDV  ,25,A7,First,No,CONDOR ST,Part three,Unarmed,781067.5907,,2964795.432,2014
+126794,140129979.0,Monday,No,2014-03-03T00:03:00.000,Argue,"[-71.09785, 42.314351]",Point,Argue,3,FIGHT ,572,E13,Last,No,DIXWELL ST,Part three,Unarmed,764935.3132,,2939834.1780000003,2014
+143863,140130466.0,Monday,No,2014-03-03T08:29:00.000,Argue,"[-71.08786, 42.28502]",Point,Argue,3,DVIP  ,429,B3,Day,No,WINSTON RD,Part three,Unarmed,767688.7109,,2929158.389,2014

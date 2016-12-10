@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18045,,Wednesday,No,2015-06-17T00:00:00.000,Property Lost,"[-71.008939, 42.392146]",Point,PropLost,6,PROP,942,A7,,No,FAYWOOD AVE,Part Three,None,788819.0,,2970000.0,2015
+121695,,Wednesday,No,2015-06-17T00:00:00.000,Property Lost,"[-71.054235, 42.375027]",Point,PropLost,6,PROP,38,A15,,No,FIRST AVE,Part Three,None,776616.0,,2960000.0,2015
+198972,,Wednesday,No,2015-06-17T00:00:00.000,Property Lost,"[-71.093877, 42.268174]",Point,PropLost,6,PROP,476,B3,,No,BLUE HILL AVE,Part Three,None,766090.0,,2920000.0,2015

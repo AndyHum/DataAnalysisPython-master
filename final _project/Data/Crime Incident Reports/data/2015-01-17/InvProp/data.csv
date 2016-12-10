@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20381,152004553.0,Saturday,No,2015-01-17T17:30:00.000,InvProp,"[-71.0612, 42.365521]",Point,InvProp,1,CD9,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774751.9335,CANAL ST,2958530.305,2015
+26970,152004529.0,Saturday,No,2015-01-17T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,1,CD9,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+53452,152004540.0,Saturday,No,2015-01-17T15:38:00.000,InvProp,"[-71.125897, 42.256133]",Point,InvProp,1,REQP,0,E18,Day,No,GORDON AV,Part three,Unarmed,757442.6012,,2918583.9110000003,2015
+68384,152004528.0,Saturday,No,2015-01-17T14:10:00.000,InvProp,"[-71.077323, 42.342044]",Point,InvProp,1,ALARM,0,D4,Day,No,W NEWTON ST,Part three,Unarmed,770436.9896,,2949952.858,2015
+78342,152004524.0,Saturday,No,2015-01-17T13:57:00.000,InvProp,"[-71.100705, 42.342791]",Point,InvProp,1,IVPREM,0,D4,Day,No,PETERBOROUGH ST,Part three,Unarmed,764114.6170000001,,2950194.595,2015
+223197,152004412.0,Saturday,No,2015-01-17T03:37:00.000,InvProp,"[-71.081161, 42.301584]",Point,InvProp,1,IVPREM,0,B3,Last,No,ELLINGTON ST,Part three,Other,769471.7612,,2935203.265,2015

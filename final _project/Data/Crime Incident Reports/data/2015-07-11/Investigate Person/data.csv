@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39452,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.085109, 42.315877]",Point,InvPer,7,IVPER,313,B2,,No,DECKARD ST,Part Three,None,768379.0,,2940000.0,2015
+42545,,Saturday,No,2015-07-11T17:57:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,SHOTS,402,C11,,No,BAILEY ST,Part Three,None,,,,2015
+59406,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.06134, 42.310434]",Point,InvPer,7,IVPER,338,C11,,No,HANCOCK ST,Part Three,None,774817.0,,2940000.0,2015
+61011,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.054679, 42.341288]",Point,InvPer,7,IVPREM,200,C6,,No,W BROADWAY,Part Three,None,776560.0,,2950000.0,2015
+61012,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.054679, 42.341288]",Point,InvPer,7,IVPREM,200,C6,,No,W BROADWAY,Part Three,None,776560.0,,2950000.0,2015
+90033,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.070467, 42.308768]",Point,InvPer,7,IVPER,336,C11,,No,HAMILTON ST,Part Three,None,772352.0,,2940000.0,2015
+113751,,Saturday,No,2015-07-11T13:31:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,IVPER,0,,,No,GENERAL LAWRENCE J LOGAN WAY,Part Three,None,,,,2015
+126956,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.075178, 42.336029]",Point,InvPer,7,IVPER,170,D4,,No,E SPRINGFIELD ST,Part Three,None,771028.0,,2950000.0,2015
+187117,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.073276, 42.292811]",Point,InvPer,7,IVPER,450,B3,,No,DUNLAP ST,Part Three,None,771621.0,,2930000.0,2015
+201876,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.073743, 42.273056]",Point,InvPer,7,IVPER,408,B3,,No,CADDY RD,Part Three,None,771531.0,,2920000.0,2015
+215415,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.081094, 42.278082]",Point,InvPer,7,UNCONS,943,B3,,No,WOODBOLE AVE,Part Three,None,769532.0,,2930000.0,2015
+249819,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.080454, 42.322384]",Point,InvPer,7,EDP,265,B2,,No,COPELAND ST,Part Three,None,769626.0,,2940000.0,2015
+258441,,Saturday,No,2015-07-11T00:00:00.000,Investigate Person,"[-71.059753, 42.352072]",Point,InvPer,7,PERGUN,116,A1,,No,EDINBORO ST,Part Three,None,775168.0,,2950000.0,2015

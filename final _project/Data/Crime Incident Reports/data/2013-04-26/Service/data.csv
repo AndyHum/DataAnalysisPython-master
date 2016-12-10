@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37094,130245092.0,Friday,No,2013-04-26T09:00:00.000,Service,"[-71.162655, 42.272666]",Point,Service,4,IVPER ,718,E5,Day,No,ANSONIA RD,Part Three,Unarmed,747467.8488,,2924567.505,2013
+52956,130245626.0,Friday,No,2013-04-26T13:30:00.000,Service,"[-71.05899, 42.356791]",Point,Service,4,AOD   ,103,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,775365.6264,,2955352.003,2013
+70334,130246080.0,Friday,No,2013-04-26T16:58:00.000,Service,"[-71.088717, 42.31927]",Point,Service,4,ARREST,308,B2,First,No,HAROLD ST,Part Three,Unarmed,767396.7214,,2941638.5130000003,2013
+175532,130248484.0,Friday,No,2013-04-26T10:55:00.000,Service,"[-71.057195, 42.319706]",Point,Service,4,IVPER ,236,C11,Day,No,EDISON,Part Three,Unarmed,775920.9442,,2941840.0889999997,2013

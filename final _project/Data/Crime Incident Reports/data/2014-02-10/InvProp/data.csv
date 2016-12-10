@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53995,140084126.0,Monday,No,2014-02-10T02:35:00.000,InvProp,"[-71.099075, 42.331231]",Point,InvProp,2,BEIP  ,587,B2,Last,No,DELLE AV,Part three,Other,764575.0813,,2945983.983,2014
+137721,140086061.0,Monday,No,2014-02-10T22:35:00.000,InvProp,"[-71.07713, 42.280711]",Point,InvProp,2,BERPT ,418,B3,First,No,FULLER ST,Part three,Other,770600.1297,,2927602.3639999996,2014
+137834,140084057.0,Monday,No,2014-02-10T01:27:00.000,InvProp,"[-71.07864, 42.296726]",Point,InvProp,2,IVPREM,455,B3,Last,No,HARVARD ST,Part three,Unarmed,770162.682,,2933436.435,2014

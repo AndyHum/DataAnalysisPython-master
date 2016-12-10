@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124798,140358516.0,Saturday,No,2014-06-07T10:52:00.000,DEATH INVESTIGATION,"[-71.149285, 42.354906]",Point,01INV,6,UNK   ,780,D14,Day,No,SAYBROOK ST,Part three,Unarmed,750963.1374,,2954551.8039999995,2014
+169223,140358508.0,Saturday,No,2014-06-07T10:48:00.000,DEATH INVESTIGATION,"[-71.040345, 42.381666]",Point,01INV,6,UNK   ,26,A7,Day,No,BORDER ST,Part three,Unarmed,780356.2099,,2964443.5510000004,2014
+198496,140357738.0,Saturday,No,2014-06-07T00:23:00.000,DEATH INVESTIGATION,"[-71.0888, 42.324191]",Point,01INV,6,MVAINJ,293,B2,Last,No,WASHINGTON ST,Part three,Unarmed,767365.7394,CRISPUS ATTUCKS PL,2943431.709,2014

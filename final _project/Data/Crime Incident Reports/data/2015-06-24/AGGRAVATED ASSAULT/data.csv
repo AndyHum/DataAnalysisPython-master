@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8455,,Wednesday,No,2015-06-24T00:00:00.000,Aggravated Assault,"[-71.052022, 42.292141]",Point,04xx,6,PSHOT,377,C11,,Yes,S MUNROE TER,Part One,Firearm,777372.0,,2930000.0,2015
+42302,,Wednesday,No,2015-06-24T00:00:00.000,Aggravated Assault,"[-71.070992, 42.277584]",Point,04xx,6,AB,414,B3,,No,CLANCY RD,Part One,Other,772267.0,,2930000.0,2015
+48410,,Wednesday,No,2015-06-24T19:59:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,ARREST,435,B3,,No,DARLINGTON ST,Part One,Other,,NORFOLK ST,,2015
+82997,,Wednesday,No,2015-06-24T22:53:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,ARREST,61,A1,,No,LEGENDS WAY,Part One,Other,,,,2015
+93511,,Wednesday,No,2015-06-24T00:00:00.000,Aggravated Assault,"[-71.075271, 42.314683]",Point,04xx,6,NIDV,325,B2,,No,HOWARD AVE,Part One,Blunt Object,771041.0,,2940000.0,2015
+160536,,Wednesday,No,2015-06-24T00:00:00.000,Aggravated Assault,"[-71.054635, 42.32584]",Point,04xx,6,STAB,914,C6,,No,MONSIGNOR DENNIS F O'CALLAGHAN WAY,Part One,Knife/Cutting Instrument,776601.0,,2940000.0,2015
+162445,,Wednesday,No,2015-06-24T00:00:00.000,Aggravated Assault,"[-71.084889, 42.309194]",Point,04xx,6,AB,320,B2,,No,CHENEY ST,Part One,Blunt Object,768450.0,,2940000.0,2015
+239870,,Wednesday,No,2015-06-24T00:00:00.000,Aggravated Assault,"[-71.093069, 42.337894]",Point,04xx,6,AB,589,B2,,No,ANNUNCIATION RD,Part One,None,766187.0,PARKER ST,2950000.0,2015
+243661,,Wednesday,No,2015-06-24T20:03:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,PKNIFE,601,B2,,No,PARKER ST,Part One,Firearm,,TREMONT ST,,2015

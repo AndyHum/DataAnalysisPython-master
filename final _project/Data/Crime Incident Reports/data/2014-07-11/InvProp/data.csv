@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39103,142008276.0,Friday,No,2014-07-11T15:27:00.000,InvProp,"[-71.102315, 42.338336]",Point,InvProp,7,ALARM,0,B2,Day,No,AVENUE LOUIS PASTEUR,Part three,Unarmed,763686.9342,,2948569.0730000003,2014
+86835,142008299.0,Friday,No,2014-07-11T00:00:00.000,InvProp,"[-71.13546, 42.295725]",Point,InvProp,7,BE,0,E5,Last,No,BUCHANAN RD,Part three,Other,754791.8483,,2933000.7410000004,2014
+93343,142008264.0,Friday,No,2014-07-11T17:55:00.000,InvProp,"[-71.085618, 42.32866]",Point,InvProp,7,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+182099,142008146.0,Friday,No,2014-07-11T10:31:00.000,InvProp,"[-71.05368, 42.354851]",Point,InvProp,7,IVPREM,0,A1,Day,No,PEARL ST,Part three,Other,776804.5316,,2954652.4960000003,2014
+195242,142008190.0,Friday,No,2014-07-11T13:30:00.000,InvProp,"[-71.068177, 42.31206]",Point,InvProp,7,IVPER,0,C11,Day,No,BELLEVUE ST,Part three,Unarmed,772964.9832,,2939038.224,2014
+196583,142008144.0,Friday,No,2014-07-11T06:30:00.000,InvProp,"[-71.05843, 42.366011]",Point,InvProp,7,VAND,0,A1,Last,No,N WASHINGTON ST,Part three,Unarmed,775499.5916,,2958712.7339999997,2014

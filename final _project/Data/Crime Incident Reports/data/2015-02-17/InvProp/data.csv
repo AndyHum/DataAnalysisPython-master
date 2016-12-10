@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+241,152013178.0,Tuesday,No,2015-02-17T08:00:00.000,InvProp,"[0, 0]",Point,InvProp,2,IVPREM,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+6495,152012986.0,Tuesday,No,2015-02-17T21:01:00.000,InvProp,"[-71.087592, 42.290888]",Point,InvProp,2,IVPER,0,B3,First,No,WESTVIEW ST,Part three,Unarmed,767750.9008,,2931297.042,2015
+7605,152012683.0,Tuesday,No,2015-02-17T01:30:00.000,InvProp,"[-71.100769, 42.325321]",Point,InvProp,2,SSA,0,E13,Last,No,PARKER ST,Part three,Unarmed,764127.0458,,2943828.1319999998,2015
+81335,152012998.0,Tuesday,No,2015-02-17T22:50:00.000,InvProp,"[-71.052393, 42.363538]",Point,InvProp,2,REQP,0,A1,First,No,NORTH ST,Part three,Unarmed,777135.5431,,2957819.723,2015
+150103,152012730.0,Tuesday,No,2015-02-17T08:25:00.000,InvProp,"[-71.06853, 42.295871]",Point,InvProp,2,IVPER,0,C11,Day,No,ALPHA RD,Part three,Unarmed,772899.4194,,2933138.537,2015
+170633,152024810.0,Tuesday,No,2015-02-17T14:00:00.000,InvProp,"[-71.092395, 42.276738]",Point,InvProp,2,LARCEN,0,B3,Day,No,NORFOLK ST,Part three,Unarmed,766476.1248,,2926134.416,2015
+172950,152012904.0,Tuesday,No,2015-02-17T17:04:00.000,InvProp,"[-71.058595, 42.289326]",Point,InvProp,2,FIRE,0,C11,First,No,MONSIGNOR PATRICK J LYDON WAY,Part three,Unarmed,775599.6174,,2930767.1960000005,2015
+179815,152012940.0,Tuesday,No,2015-02-17T17:20:00.000,InvProp,"[-71.12127, 42.25337]",Point,InvProp,2,REQP,0,E18,First,No,MAPLE ST,Part three,Unarmed,758699.5321,,2917582.6969999997,2015
+194844,152012753.0,Tuesday,No,2015-02-17T09:01:00.000,InvProp,"[-71.08241, 42.299761]",Point,InvProp,2,ALARM,0,B3,Day,No,PAGE ST,Part three,Unarmed,769137.3294,,2934537.4189999998,2015
+214068,152012685.0,Tuesday,No,2015-02-17T01:53:00.000,InvProp,"[-71.033275, 42.332751]",Point,InvProp,2,REQP,0,C6,Last,No,M ST,Part three,Unarmed,782363.8988,,2946628.387,2015
+263229,152012783.0,Tuesday,No,2015-02-17T03:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,BE,0,E13,Last,No,COLUMBUS AV,Part three,Unarmed,,,,2015

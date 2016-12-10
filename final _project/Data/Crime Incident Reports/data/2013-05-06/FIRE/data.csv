@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+117449,130268646.0,Monday,No,2013-05-06T15:10:00.000,FIRE,"[-71.055333, 42.354078]",Point,FIRE,5,FIREB ,108,A1,Day,No,HIGH ST,Part Three,Unarmed,776359.026,,2954368.472,2013
+158354,130269365.0,Monday,No,2013-05-06T20:12:00.000,FIRE,"[-71.0883, 42.342946]",Point,FIRE,5,FIREB ,619,D4,First,No,SYMPHONY RD,Part Three,Unarmed,767467.9634,,2950267.023,2013
+202338,130268307.0,Monday,No,2013-05-06T13:02:00.000,FIRE,"[-71.104895, 42.337681]",Point,FIRE,5,FIREB ,612,B2,Day,No,LONGWOOD AV,Part Three,Unarmed,762990.5031,,2948327.137,2013
+231914,130267863.0,Monday,No,2013-05-06T09:08:00.000,FIRE,"[-71.105825, 42.338096]",Point,FIRE,5,FIREB ,614,B2,Day,No,LONGWOOD AV,Part Three,Unarmed,762738.3642,,2948477.208,2013

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1565,152041204.0,Tuesday,No,2015-05-19T17:50:00.000,InvPer,"[0, 0]",Point,InvPer,5,LARCEN,0,A1,First,No,MERCHANTS RW,Part three,Unarmed,,,,2015
+111293,152041053.0,Tuesday,No,2015-05-19T12:54:00.000,InvPer,"[-71.057485, 42.294521]",Point,InvPer,5,IVPER,0,C11,Day,No,GINITA ST,Part three,Unarmed,775890.1309,,2932661.883,2015
+116518,152041176.0,Tuesday,No,2015-05-19T18:45:00.000,InvPer,"[-71.10363, 42.322626]",Point,InvPer,5,IVPER,0,E13,First,No,JOHNSON AV,Part three,Unarmed,763358.0106,,2942842.412,2015
+123637,152041175.0,Tuesday,No,2015-05-19T14:00:00.000,InvPer,"[-71.104895, 42.337681]",Point,InvPer,5,IVPER,0,B2,Day,No,LONGWOOD AV,Part three,Unarmed,762990.5031,,2948327.137,2015
+125752,152045241.0,Tuesday,No,2015-05-19T22:53:00.000,InvPer,"[-71.042015, 42.371451]",Point,InvPer,5,IVPER,0,A7,First,No,MAVERICK ST,Part three,Unarmed,779925.0024,,2960718.57,2015
+132626,152041078.0,Tuesday,No,2015-05-19T14:14:00.000,InvPer,"[-71.093785, 42.267651]",Point,InvPer,5,VIORDR,0,B3,Day,No,RIVER ST,Part three,Unarmed,766115.8043,BLUE HILL AV,2922821.216,2015
+164935,152040945.0,Tuesday,No,2015-05-19T08:36:00.000,InvPer,"[-71.055028, 42.287827]",Point,InvPer,5,IVPER,0,C11,Day,No,ADAMS ST,Part three,Unarmed,776567.4852,,2930225.7180000003,2015
+199288,152041090.0,Tuesday,No,2015-05-19T14:30:00.000,InvPer,"[-71.072415, 42.348111]",Point,InvPer,5,LARCEN,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,771752.9256,,2952170.37,2015
+239439,152040913.0,Tuesday,No,2015-05-19T01:10:00.000,InvPer,"[-71.11069, 42.324233]",Point,InvPer,5,SHOTS,0,E13,Last,No,EVERGREEN ST,Part three,Unarmed,761446.0413,,2943419.0930000003,2015

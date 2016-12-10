@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46582,130424887.0,Wednesday,No,2013-07-10T10:54:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,7,IVPER ,116,A1,Day,No,PING ON ST,Part Two,Unarmed,,,,2013
+119291,130426508.0,Wednesday,No,2013-07-10T22:47:00.000,TRESPASS,"[-71.09794, 42.316146]",Point,TRESPASS,7,REMOVE,304,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764907.8894,,2940488.191,2013

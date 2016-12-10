@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5460,,Friday,No,2015-07-03T00:14:00.000,Robbery,"[0, 0]",Point,03xx,7,I00040,618,D4,,No,HUNTINGTON AVE,Part One,Firearm,,,,2015
+23197,,Friday,No,2015-07-03T01:05:00.000,Robbery,"[0, 0]",Point,03xx,7,STAB,357,C11,,No,BOWDOIN AVE,Part One,Knife/Cutting Instrument,,WASHINGTON ST,,2015
+28238,,Friday,No,2015-07-03T00:00:00.000,Robbery,"[-71.056958, 42.33014]",Point,03xx,7,I00040,458,B3,,No,BLUE HILL AVE,Part One,Firearm,775965.0,GLENWAY,2950000.0,2015
+39752,,Friday,No,2015-07-03T00:00:00.000,Robbery,"[-71.107114, 42.333663]",Point,03xx,7,I00040,611,B2,,No,SAINT ALBANS RD,Part One,None,762397.0,,2950000.0,2015
+72240,,Friday,No,2015-07-03T00:00:00.000,Robbery,"[-71.034179, 42.375001]",Point,03xx,7,PERGUN,21,A7,,No,MARION ST,Part One,Firearm,782035.0,,2960000.0,2015
+74728,,Friday,No,2015-07-03T00:03:00.000,Robbery,"[0, 0]",Point,03xx,7,I00040,395,C11,,No,BAILEY ST,Part One,Blunt Object,,DORCHESTER AVE,,2015
+92114,,Friday,No,2015-07-03T00:00:00.000,Robbery,"[-71.065879, 42.283688]",Point,03xx,7,IVMV,402,C11,,No,FULLER ST,Part One,Firearm,773639.0,,2930000.0,2015
+101369,,Friday,No,2015-07-03T00:00:00.000,Robbery,"[-71.120372, 42.28523]",Point,03xx,7,PERGUN,561,E5,,No,BROWN AVE,Part One,Firearm,758891.0,,2930000.0,2015
+167097,,Friday,No,2015-07-03T00:00:00.000,Robbery,"[-71.131698, 42.355113]",Point,03xx,7,ARMROB,801,D14,,No,FARRINGTON AVE,Part One,Firearm,755716.0,HIGHGATE ST,2950000.0,2015
+222479,,Friday,No,2015-07-03T00:00:00.000,Robbery,"[-71.025932, 42.380319]",Point,03xx,7,I00040,17,A7,,No,NEPTUNE RD,Part One,Personal Weapon (hand  foot  etc.),784253.0,,2960000.0,2015
+246171,,Friday,No,2015-07-03T00:00:00.000,Robbery,"[-71.086246, 42.351722]",Point,03xx,7,REQP,139,D4,,No,BEACON ST,Part One,Firearm,768008.0,,2950000.0,2015

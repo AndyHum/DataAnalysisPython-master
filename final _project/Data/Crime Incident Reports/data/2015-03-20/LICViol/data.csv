@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66348,152022329.0,Friday,No,2015-03-20T00:25:00.000,LICViol,"[-71.10074, 42.313266]",Point,LICViol,3,CD35,0,E13,Last,No,WASHINGTON ST,Part three,Unarmed,764155.5198,,2939435.1139999996,2015
+136906,152022628.0,Friday,No,2015-03-20T23:46:00.000,LICViol,"[-71.070865, 42.344381]",Point,LICViol,3,CD35,0,D4,Last,No,TREMONT ST,Part three,Unarmed,772178.7613,,2950813.193,2015
+183924,152022623.0,Friday,No,2015-03-20T23:19:00.000,LICViol,"[-71.058496, 42.355529]",Point,LICViol,3,CD35,0,A1,First,No,FRANKLIN ST,Part three,Unarmed,775501.3361,,2954892.767,2015
+266688,152022330.0,Friday,No,2015-03-20T00:32:00.000,LICViol,"[0, 0]",Point,LICViol,3,CD35,0,A1,Last,No,PEARL PL,Part three,Unarmed,,,,2015

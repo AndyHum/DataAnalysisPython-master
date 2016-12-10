@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85952,152013436.0,Wednesday,No,2015-02-04T11:00:00.000,PhoneCalls,"[-71.06076, 42.357671]",Point,PhoneCalls,2,IVPER,0,A1,Day,No,TREMONT ST,Part three,Other,774885.5732,,2955670.224,2015
+194089,152010434.0,Wednesday,No,2015-02-04T13:00:00.000,PhoneCalls,"[-71.116163, 42.277856]",Point,PhoneCalls,2,IVPER,0,E18,Day,No,AMERICAN LEGION HY,Part three,Other,760041.927,,2926512.02,2015
+266193,152009146.0,Wednesday,No,2015-02-04T02:30:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,2,IVPER,0,C6,Last,No,COLUMBIA PARK,Part three,Unarmed,,,,2015

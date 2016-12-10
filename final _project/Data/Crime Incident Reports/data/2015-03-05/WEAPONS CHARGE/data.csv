@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20271,152017886.0,Thursday,No,2015-03-05T17:00:00.000,WEAPONS CHARGE,"[-71.081625, 42.336141]",Point,15xx,3,ARREST,0,D4,First,No,TROTTER CT,Part Two,Knife,769284.6658,,2947795.935,2015
+70481,152017692.0,Thursday,No,2015-03-05T04:29:00.000,WEAPONS CHARGE,"[-71.122475, 42.292586]",Point,15xx,3,ARREST,0,E5,Last,No,LESHER ST,Part Two,Unarmed,758310.2041,,2931872.2169999997,2015
+248569,152017769.0,Thursday,No,2015-03-05T06:00:00.000,WEAPONS CHARGE,"[-71.104747, 42.303975]",Point,15xx,3,CD11,0,E13,Last,No,WILLIAMS ST,Part Two,Unarmed,763087.2917,,2936044.1989999996,2015

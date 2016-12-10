@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18152,130033407.0,Monday,No,2013-01-07T20:46:00.000,PhoneCalls,"[-71.121852, 42.310602]",Point,PhoneCalls,1,INVCHD,644,E13,First,No,ARBORWAY,Part Three,Other,758449.548,,2938438.0730000003,2013
+42038,130017256.0,Monday,No,2013-01-07T23:00:00.000,PhoneCalls,"[-71.120948, 42.309917]",Point,PhoneCalls,1,IVPER ,644,E13,First,No,PRINCE ST,Part Three,Unarmed,758695.2129,,2938189.668,2013
+83130,130086881.0,Monday,No,2013-01-07T06:00:00.000,PhoneCalls,"[-71.06318, 42.313626]",Point,PhoneCalls,1,THREAT,347,C11,Last,No,CUSHING AV,Part Three,Unarmed,774313.6957,,2939616.0919999997,2013
+181498,130014579.0,Monday,No,2013-01-07T20:47:00.000,PhoneCalls,"[-71.089912, 42.309524]",Point,PhoneCalls,1,THREAT,318,B2,First,No,BROOKLEDGE ST,Part Three,Unarmed,767090.6075,,2938085.256,2013

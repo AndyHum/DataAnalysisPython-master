@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+127579,130517234.0,Saturday,No,2013-08-17T06:10:00.000,Restrain,"[-71.07372, 42.340181]",Point,Restrain,8,SHOTS ,157,D4,Last,No,SHAWMUT AV,Part Two,Firearm,771414.5992,,2949278.7660000003,2013
+172932,130518279.0,Saturday,No,2013-08-17T15:43:00.000,Restrain,"[-71.012211, 42.387175]",Point,Restrain,8,VIORDR,12,A7,Day,No,BRANDYWYNE DR,Part Two,Other,787945.8755,,2966493.185,2013
+227605,130518410.0,Saturday,No,2013-08-17T17:30:00.000,Restrain,"[-71.130045, 42.286346]",Point,Restrain,8,VIORDR,680,E5,First,No,CORINTH ST,Part Two,Unarmed,756271.9359,,2929589.291,2013

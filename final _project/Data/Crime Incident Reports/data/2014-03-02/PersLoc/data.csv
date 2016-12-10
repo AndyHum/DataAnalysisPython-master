@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42492,140128980.0,Sunday,No,2014-03-02T12:20:00.000,PersLoc,"[-71.144024, 42.346747]",Point,PersLoc,3,MSNCOM,938,D14,Day,No,JETTE CT,Other,Unarmed,752397.4732,,2951584.079,2014
+133655,140129503.0,Sunday,No,2014-03-02T18:00:00.000,PersLoc,"[-71.093572, 42.329571]",Point,PersLoc,3,MISPER,291,B2,First,No,CENTRE ST,Other,Unarmed,766065.833,,2945385.845,2014
+144646,140209892.0,Sunday,No,2014-03-02T08:00:00.000,PersLoc,"[-71.111426, 42.326534]",Point,PersLoc,3,MISPER,607,E13,Day,No,S HUNTINGTON AV,Other,Unarmed,761243.045,,2944256.8310000002,2014

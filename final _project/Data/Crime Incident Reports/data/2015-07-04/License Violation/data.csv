@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103474,,Saturday,No,2015-07-04T00:00:00.000,License Violation,"[-71.086957, 42.345695]",Point,LICViol,7,CD35,620,D4,,No,MASSACHUSETTS AVE,Part Three,None,767826.0,,2950000.0,2015
+147910,,Saturday,No,2015-07-04T00:00:00.000,License Violation,"[-71.048141, 42.353482]",Point,LICViol,7,CD35,206,C6,,No,SLEEPER ST,Part Three,None,778304.0,,2950000.0,2015
+242776,,Saturday,No,2015-07-04T19:11:00.000,License Violation,"[0, 0]",Point,LICViol,7,CD35,620,D4,,No,BOYLSTON ST,Part Three,None,,,,2015

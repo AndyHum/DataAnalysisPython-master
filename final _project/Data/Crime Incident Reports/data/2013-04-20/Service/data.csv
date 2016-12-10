@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40846,130739334.0,Saturday,No,2013-04-20T16:00:00.000,Service,"[-71.08136, 42.329161]",Point,Service,4,SSTOP ,279,B2,First,No,WINSLOW ST,Part three,Unarmed,769368.7993,ZEIGLER ST,2945252.65,2013
+171790,130233869.0,Saturday,No,2013-04-20T22:00:00.000,Service,"[-71.053506, 42.32612]",Point,Service,4,IVPER ,914,C6,First,No,GAVIN WY,Part Three,Other,776906.2024,,2944182.5530000003,2013
+183450,130232691.0,Saturday,No,2013-04-20T10:22:00.000,Service,"[-71.097817, 42.269993]",Point,Service,4,TSTOP ,472,E18,Day,No,CUMMINS HY,Part Three,Unarmed,765020.2924,FAIRLAWN AV,2923669.2389999996,2013
+192992,130233058.0,Saturday,No,2013-04-20T14:21:00.000,Service,"[-71.100569, 42.265333]",Point,Service,4,ARREST,0,E18,Day,No,CATON ST,Part Three,Unarmed,764283.4523,,2921967.567,2013
+204886,130233828.0,Saturday,No,2013-04-20T18:00:00.000,Service,"[-71.11897, 42.282711]",Point,Service,4,IVPER ,501,E18,First,No,HYDE PARK AV,Part Three,Unarmed,759274.5503,,2928277.793,2013

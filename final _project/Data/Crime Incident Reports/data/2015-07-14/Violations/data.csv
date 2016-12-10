@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21421,,Tuesday,No,2015-07-14T21:48:00.000,Violations,"[0, 0]",Point,VAL,7,TS,0,,,No,BLUE HILL AVE,Part Two,None,,,,2015
+28518,,Tuesday,No,2015-07-14T00:00:00.000,Violations,"[-71.058212, 42.308547]",Point,VAL,7,IVPER,254,C11,,No,DORCHESTER AVE,Part Two,None,775667.0,,2940000.0,2015
+40277,,Tuesday,No,2015-07-14T00:00:00.000,Violations,"[-71.067839, 42.31922]",Point,VAL,7,IVMV,184,B2,,No,HUMPHREYS PL,Part Two,None,773043.0,,2940000.0,2015
+102188,,Tuesday,No,2015-07-14T16:41:00.000,Violations,"[0, 0]",Point,VAL,7,CD15,0,,,No,TREMONT IN THE SOUTH END,Part Two,None,,,,2015
+159336,,Tuesday,No,2015-07-14T10:35:00.000,Violations,"[0, 0]",Point,VAL,7,TS,275,D4,,No,MELNEA CASS BLVD,Part Two,None,, WASHINGTON ST ,,2015
+238071,,Tuesday,No,2015-07-14T00:00:00.000,Violations,"[-71.057163, 42.338561]",Point,VAL,7,MVA,174,C6,,No,DORCHESTER AVE,Part Two,None,775894.0,,2950000.0,2015
+240898,,Tuesday,No,2015-07-14T22:21:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,CD303,462,C11,,No,BOWDOIN AVE,Part Two,Firearm,,BULLARD ST,,2015
+256819,,Tuesday,No,2015-07-14T00:00:00.000,Violations,"[-71.077799, 42.305747]",Point,VAL,7,MVA,337,C11,,No,GENEVA AVE,Part Two,None,770374.0,,2940000.0,2015
+258333,,Tuesday,No,2015-07-14T09:01:00.000,Violations,"[0, 0]",Point,VAL,7,IVMV,613,B2,,No,FRANCIS ST,Part Two,None,,PILGRIM RD,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51170,130228988.0,Thursday,No,2013-04-18T19:00:00.000,PersLoc,"[-71.068436, 42.290364]",Point,PersLoc,4,MISPER,397,C11,First,No,LITHGOW ST,Other,Unarmed,772934.9327,,2931131.8,2013
+153053,130229704.0,Thursday,No,2013-04-18T07:00:00.000,PersLoc,"[-71.104747, 42.303975]",Point,PersLoc,4,MISPER,570,E13,Last,No,WILLIAMS ST,Part Three,Unarmed,763087.2917,,2936044.1989999996,2013
+154576,130230722.0,Thursday,No,2013-04-18T18:30:00.000,PersLoc,"[-71.09279, 42.335528]",Point,PersLoc,4,MISPER,911,B2,First,No,ANNUNCIATION RD,Part Three,Unarmed,766266.9936,,2947557.934,2013
+193346,130229111.0,Thursday,No,2013-04-18T19:01:00.000,PersLoc,"[-71.066425, 42.278251]",Point,PersLoc,4,MISPER,388,C11,First,No,DORCHESTER AV,Part Three,Unarmed,773501.5553,,2926720.4480000003,2013

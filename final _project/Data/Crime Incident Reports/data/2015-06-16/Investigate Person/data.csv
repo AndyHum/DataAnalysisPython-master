@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38861,,Tuesday,No,2015-06-16T16:31:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,PKNIFE,436,B3,,No,NORFOLK ST,Part Three,None,,,,2015
+41309,,Tuesday,No,2015-06-16T00:00:00.000,Investigate Person,"[-71.065815, 42.288974]",Point,InvPer,6,IVPER,817,C11,,No,ARGYLE ST,Part Three,None,773646.0,,2930000.0,2015
+44279,,Tuesday,No,2015-06-16T00:00:00.000,Investigate Person,"[-71.080975, 42.305767]",Point,InvPer,6,,329,B2,,No,WASHINGTON ST,Part Three,None,769515.0,,2940000.0,2015
+62770,,Tuesday,No,2015-06-16T16:10:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,CD19,426,B3,,No,BLUE HILL AVE,Part Three,None,,,,2015
+80642,,Tuesday,No,2015-06-16T00:00:00.000,Investigate Person,"[-71.082541, 42.316966]",Point,InvPer,6,,311,B2,,No,WARREN ST,Part Three,None,769071.0,,2940000.0,2015
+213791,,Tuesday,No,2015-06-16T00:00:00.000,Investigate Person,"[-71.085634, 42.328663]",Point,InvPer,6,IVPER,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015

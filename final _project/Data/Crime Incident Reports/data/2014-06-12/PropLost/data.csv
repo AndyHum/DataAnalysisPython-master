@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20952,142008218.0,Thursday,No,2014-06-12T18:00:00.000,PropLost,"[-71.083699, 42.330436]",Point,PropLost,6,LARCEN,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768733.8404,,2945714.085,2014
+33918,140372697.0,Thursday,No,2014-06-12T19:30:00.000,PropLost,"[-71.074809, 42.308575]",Point,PropLost,6,LARCRT,328,B2,First,No,COLUMBIA RD,Part three,Unarmed,771177.5147,,2937759.292,2014
+38262,140374331.0,Thursday,No,2014-06-12T13:00:00.000,PropLost,"[-71.057055, 42.361776]",Point,PropLost,6,LSTPRP,87,A1,Day,No,HANOVER ST,Part three,Unarmed,775879.1916,,2957171.3439999996,2014
+111931,140376528.0,Thursday,No,2014-06-12T15:45:00.000,PropLost,"[-71.125834, 42.24278]",Point,PropLost,6,LSTPRP,524,E18,Day,No,WAKEFIELD AV,Part three,Unarmed,757480.9056,,2913717.966,2014
+130157,140373924.0,Thursday,No,2014-06-12T19:00:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,6,LSTPRP,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+175995,140374162.0,Thursday,No,2014-06-12T01:00:00.000,PropLost,"[-71.084485, 42.348131]",Point,PropLost,6,LSTPRP,142,D4,Last,No,BOYLSTON ST,Part three,Other,768490.1158,,2952161.534,2014

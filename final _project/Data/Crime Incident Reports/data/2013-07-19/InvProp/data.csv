@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129936,130447396.0,Friday,No,2013-07-19T10:28:00.000,InvProp,"[-71.07849, 42.346141]",Point,InvProp,7,ABANRE,146,D4,Day,No,HARCOURT ST,Part three,Unarmed,770114.2743,,2951444.292,2013
+213790,130448154.0,Friday,No,2013-07-19T16:44:00.000,InvProp,"[-71.08122, 42.325281]",Point,InvProp,7,DMV   ,281,B2,First,No,MORELAND ST,Part three,Unarmed,769413.5978,CLEVELAND ST,2943838.897,2013
+219659,130447878.0,Friday,No,2013-07-19T13:58:00.000,InvProp,"[-71.07079, 42.300966]",Point,InvProp,7,SHOTS ,344,C11,Day,No,CORONA ST,Part three,Firearm,772278.647,,2934992.145,2013
+223635,130448789.0,Friday,No,2013-07-19T20:13:00.000,InvProp,"[-71.066605, 42.318716]",Point,InvProp,7,IVPER ,238,B2,First,No,QUINCEFIELD ST,Part three,Unarmed,773377.9184,,2941466.245,2013

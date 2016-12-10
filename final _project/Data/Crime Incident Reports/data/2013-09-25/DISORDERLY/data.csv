@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74912,130612208.0,Wednesday,No,2013-09-25T15:11:00.000,DISORDERLY,"[-71.160234, 42.345844]",Point,24xx,9,TRANSP,750,D14,Day,No,GLENMONT RD,Part Two,Unarmed,748016.682,,2951237.2589999996,2013
+97105,130613224.0,Wednesday,No,2013-09-25T23:28:00.000,DISORDERLY,"[-71.074079, 42.346119]",Point,24xx,9,ARREST,150,D4,First,No,CHANDLER ST,Part Two,Unarmed,771306.5826,,2951441.914,2013
+101548,130612675.0,Wednesday,No,2013-09-25T17:50:00.000,DISORDERLY,"[-71.083781, 42.329494]",Point,24xx,9,ARREST,0,B2,First,No,ZEIGLER ST,Part Two,Other,768713.5278,,2945370.85,2013
+193759,130611602.0,Wednesday,No,2013-09-25T09:40:00.000,DISORDERLY,"[-71.07632, 42.350356]",Point,24xx,9,ARREST,130,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770693.2587,,2952983.224,2013
+238247,130612982.0,Wednesday,No,2013-09-25T20:30:00.000,DISORDERLY,"[-71.089151, 42.311211]",Point,24xx,9,FIGHT ,318,B2,First,No,HOMESTEAD ST,Part Two,Unarmed,767293.447,,2938701.003,2013

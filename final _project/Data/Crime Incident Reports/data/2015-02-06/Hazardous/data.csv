@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99043,152009883.0,Friday,No,2015-02-06T05:30:00.000,Hazardous,"[-71.086949, 42.341247]",Point,Hazardous,2,PROP,0,D4,Last,No,HUNTINGTON AV,Other,Other,767835.9698,GAINSBOROUGH ST,2949649.585,2015
+164618,152009764.0,Friday,No,2015-02-06T06:30:00.000,Hazardous,"[-71.08493, 42.342881]",Point,Hazardous,2,IVPREM,0,D4,Last,No,HUNTINGTON AV,Other,Unarmed,768379.1338,MASSACHUSETTS AV,2950247.748,2015
+215718,152009790.0,Friday,No,2015-02-06T09:36:00.000,Hazardous,"[-71.027205, 42.337046]",Point,Hazardous,2,REQP,0,C6,Day,No,P ST,Other,Unarmed,783996.4647,,2948202.5960000004,2015

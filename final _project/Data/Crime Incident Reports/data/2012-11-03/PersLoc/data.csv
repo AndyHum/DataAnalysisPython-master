@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35419,120696342.0,Saturday,No,2012-11-03T12:00:00.000,PersLoc,"[-71.072127, 42.308537]",Point,PersLoc,11,MISPER,465,C11,Day,No,RICHFIELD ST,Part Three,Unarmed,771903.1093,,2937749.188,2012
+171827,120692629.0,Saturday,No,2012-11-03T00:10:00.000,PersLoc,"[-71.068594, 42.297067]",Point,PersLoc,11,MISPER,358,C11,Last,No,LARCHMONT ST,Part Three,Unarmed,772879.7803,,2933574.0539999995,2012
+214525,120693124.0,Saturday,No,2012-11-03T04:40:00.000,PersLoc,"[-71.127195, 42.248256]",Point,PersLoc,11,MISPER,523,E18,Last,No,HYDE PARK AV,Part Three,Unarmed,757103.7718,,2915712.128,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88878,140358514.0,Saturday,No,2014-06-07T10:00:00.000,PropFound,"[-71.06293, 42.360887]",Point,PropFound,6,FDPROP,68,A1,Day,No,BOWDOIN ST,Part three,Unarmed,774293.0622,,2956838.923,2014
+100576,140359255.0,Saturday,No,2014-06-07T16:20:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,6,FDPROP,574,E13,First,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+120896,140356333.0,Saturday,No,2014-06-07T14:45:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,6,FDPROP,118,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+170024,140358781.0,Saturday,No,2014-06-07T13:08:00.000,PropFound,"[-71.01038, 42.385441]",Point,PropFound,6,IVPER ,0,A7,Day,No,BENNINGTON ST,Part three,Unarmed,788444.1572,TRIDENT ST,2965864.288,2014

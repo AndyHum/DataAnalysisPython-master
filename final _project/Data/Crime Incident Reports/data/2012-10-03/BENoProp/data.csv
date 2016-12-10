@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+133272,120621313.0,Wednesday,No,2012-10-03T04:09:00.000,BENoProp,"[-71.062975, 42.374211]",Point,BENoProp,10,ALARMC,60,A15,Last,No,PLEASANT ST,Part One,Other,774256.0206,,2961694.6560000004,2012
+194116,120621930.0,Wednesday,No,2012-10-03T11:05:00.000,BENoProp,"[-71.065105, 42.360591]",Point,BENoProp,10,IVPER ,67,A1,Day,No,JOY ST,Part One,Other,773705.7822,,2956728.311,2012
+217502,120622746.0,Wednesday,No,2012-10-03T17:07:00.000,BENoProp,"[-71.051425, 42.336041]",Point,BENoProp,10,BEIP  ,215,C6,First,No,E ST,Part One,Unarmed,777450.0881,,2947800.9889999996,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24621,152042215.0,Friday,No,2015-05-22T06:20:00.000,PersLoc,"[-71.109867, 42.322428]",Point,PersLoc,5,IVPER,0,E13,Last,No,DAY ST,Other,Unarmed,761671.5068,,2942762.3860000004,2015
+95005,152042155.0,Friday,No,2015-05-22T16:00:00.000,PersLoc,"[-71.088405, 42.334926]",Point,PersLoc,5,IVPER,0,B2,First,No,TREMONT ST,Other,Unarmed,767453.6793,,2947344.248,2015
+241932,152042218.0,Friday,No,2015-05-22T12:00:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,5,IVPER,0,C11,Day,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2015

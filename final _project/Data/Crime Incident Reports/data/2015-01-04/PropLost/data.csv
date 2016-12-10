@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68273,152001006.0,Sunday,No,2015-01-04T15:45:00.000,PropLost,"[-71.06561, 42.344456]",Point,PropLost,1,MISC,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,773599.2408,,2950847.715,2015
+217505,152003095.0,Sunday,No,2015-01-04T00:00:00.000,PropLost,"[-71.061155, 42.315261]",Point,PropLost,1,LARCEN,0,C11,Last,No,STOUGHTON ST,Part three,Unarmed,774858.3282,,2940214.724,2015
+260850,152002038.0,Sunday,No,2015-01-04T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,IVPER,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,,,,2015
+261804,152001024.0,Sunday,No,2015-01-04T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,B3,First,No,ERIE ST,Part three,Unarmed,,WASHINGTON ST,,2015

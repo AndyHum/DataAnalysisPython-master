@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+779,152037226.0,Thursday,No,2015-05-07T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,0,C6,Last,No,MORRISSEY BL,Part three,Unarmed,,,,2015
+783,152037305.0,Thursday,No,2015-05-07T12:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,SUSOBJ,0,A1,Day,No,OCONNELL WY,Part three,Unarmed,,,,2015
+3575,152037239.0,Thursday,No,2015-05-07T07:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD19,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+54573,152037548.0,Thursday,No,2015-05-07T22:23:00.000,InvProp,"[-71.080768, 42.330221]",Point,InvProp,5,SHOTS,0,B2,First,No,DEGAUTIER WY,Part three,Unarmed,769526.9025,SHABAZZ WY,2945639.497,2015
+134664,152037277.0,Thursday,No,2015-05-07T10:34:00.000,InvProp,"[-71.068863, 42.312111]",Point,InvProp,5,ARREST,0,C11,Day,No,COLUMBIA RD,Part three,Firearm,772779.1762,,2939055.95,2015
+136192,152037521.0,Thursday,No,2015-05-07T21:36:00.000,InvProp,"[-71.055582, 42.324729]",Point,InvProp,5,ALARM,0,C6,First,No,VON HILLERN ST,Part three,Unarmed,776347.3774,,2943672.817,2015
+165226,152037237.0,Thursday,No,2015-05-07T08:35:00.000,InvProp,"[-71.12628, 42.353491]",Point,InvProp,5,IVPREM,0,D14,Day,No,GARDNER ST,Part three,Unarmed,757183.4816,,2954062.555,2015

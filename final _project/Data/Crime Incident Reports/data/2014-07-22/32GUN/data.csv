@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91975,142011726.0,Tuesday,No,2014-07-22T14:30:00.000,32GUN,"[-71.03887, 42.371246]",Point,32GUN,7,BUYBAC,0,A7,Day,No,PARIS ST,Part three,Firearm,780775.2494,,2960648.442,2014
+259934,142011699.0,Tuesday,No,2014-07-22T12:00:00.000,32GUN,"[-71.091325, 42.284861]",Point,32GUN,7,FDWEAP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95640,140355319.0,Friday,No,2014-06-06T07:01:00.000,InvProp,"[-71.03994, 42.335581]",Point,InvProp,6,IVPREM,222,C6,Last,No,E BROADWAY,Part three,Other,780556.2141,I ST,2947649.896,2014
+133825,140356524.0,Friday,No,2014-06-06T16:09:00.000,InvProp,"[-71.038805, 42.370056]",Point,InvProp,6,FIGHT ,28,A7,First,No,MAVERICK SQ,Part three,Unarmed,780795.1588,,2960214.878,2014
+147866,140360029.0,Friday,No,2014-06-06T22:35:00.000,InvProp,"[-71.10311, 42.316581]",Point,InvProp,6,SHOTS ,577,E13,First,No,AMORY ST,Part three,Unarmed,763508.8855,BOYLSTON ST,2940640.163,2014
+151766,140359449.0,Friday,No,2014-06-06T22:00:00.000,InvProp,"[-71.139235, 42.3522]",Point,InvProp,6,VANRPT,795,D14,First,No,CAMBRIDGE TR,Part three,Unarmed,753683.6625,,2953576.9269999997,2014
+154109,140356698.0,Friday,No,2014-06-06T17:06:00.000,InvProp,"[-71.094585, 42.348806]",Point,InvProp,6,UNK   ,623,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,765758.7053,,2952394.378,2014
+241058,140357444.0,Friday,No,2014-06-06T21:52:00.000,InvProp,"[-71.080596, 42.327236]",Point,InvProp,6,SHOTS ,267,B2,First,No,GREENVILLE ST,Part three,Unarmed,769578.6737,,2944551.923,2014
+252817,140356978.0,Friday,No,2014-06-06T18:50:00.000,InvProp,"[-71.113366, 42.276708]",Point,InvProp,6,MISC  ,477,E18,First,No,CUMMINS HY,Part three,Unarmed,760800.8031,,2926097.0730000003,2014

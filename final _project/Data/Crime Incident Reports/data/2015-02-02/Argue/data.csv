@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15713,152008639.0,Monday,No,2015-02-02T01:35:00.000,Argue,"[-71.03561, 42.371676]",Point,Argue,2,DVIP,0,A7,Last,No,BREMEN ST,Part three,Other,781655.3152,,2960809.9239999996,2015
+53004,152008706.0,Monday,No,2015-02-02T11:45:00.000,Argue,"[-71.156323, 42.33916]",Point,Argue,2,ALARM,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,749083.8463,,2948805.8030000003,2015
+191110,152008879.0,Monday,No,2015-02-02T21:00:00.000,Argue,"[-71.159843, 42.346389]",Point,Argue,2,IVPER,0,D14,First,No,TRAPELO ST,Part three,Unarmed,748121.7232,,2951436.316,2015
+242072,152008806.0,Monday,No,2015-02-02T17:24:00.000,Argue,"[-71.14714, 42.281091]",Point,Argue,2,NIDV,0,E5,First,No,STRATFORD ST,Part three,Unarmed,751654.2009999999,,2927654.692,2015

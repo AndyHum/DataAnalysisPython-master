@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77655,152003086.0,Monday,No,2015-01-12T05:05:00.000,InvPer,"[-71.0729, 42.333256]",Point,InvPer,1,MISC,0,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2015
+87482,152003143.0,Monday,No,2015-01-12T15:30:00.000,InvPer,"[-71.08939, 42.345876]",Point,InvPer,1,LOCKOU,0,D4,Day,No,HEMENWAY ST,Part three,Other,767168.1477,,2951333.347,2015
+89717,152003183.0,Monday,No,2015-01-12T19:30:00.000,InvPer,"[-71.07526, 42.345831]",Point,InvPer,1,IVPER,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770988.0006,COLUMBUS AV,2951335.652,2015
+100079,152003196.0,Monday,No,2015-01-12T21:00:00.000,InvPer,"[-71.05609, 42.314816]",Point,InvPer,1,NIDV,0,C11,First,No,ST WILLIAM ST,Part three,Unarmed,776229.0571,,2940059.648,2015
+135194,152007441.0,Monday,No,2015-01-12T18:57:00.000,InvPer,"[-71.06253, 42.347961]",Point,InvPer,1,IVPER,0,A1,First,No,HARRISON AV,Part three,Unarmed,774425.3267,,2952129.2569999998,2015
+229010,152003188.0,Monday,No,2015-01-12T20:20:00.000,InvPer,"[-71.021715, 42.382066]",Point,InvPer,1,IVPER,0,A7,First,No,SARATOGA ST,Part three,Unarmed,785388.7845,,2964616.9960000003,2015
+265859,152003153.0,Monday,No,2015-01-12T17:47:00.000,InvPer,"[0, 0]",Point,InvPer,1,ALARM,0,C6,First,No,8TH ST,Part three,Unarmed,,,,2015

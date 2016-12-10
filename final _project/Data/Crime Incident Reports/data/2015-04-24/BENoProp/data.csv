@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67541,152033525.0,Friday,No,2015-04-24T23:15:00.000,BENoProp,"[-71.09679, 42.314596]",Point,BENoProp,4,BE,0,E13,First,No,COLUMBUS AV,Part One,Other,765221.5863,,2939924.814,2015
+148033,152034256.0,Friday,No,2015-04-24T14:30:00.000,BENoProp,"[-71.061295, 42.288676]",Point,BENoProp,4,BE,0,C11,Day,No,MONSIGNOR PATRICK J LYDON WAY,Part One,Other,774870.2865,,2930526.566,2015
+249585,152033235.0,Friday,No,2015-04-24T01:30:00.000,BENoProp,"[-71.129273, 42.28538]",Point,BENoProp,4,IVPREM,0,E5,Last,No,WASHINGTON ST,Part One,Other,756482.1399,,2929237.938,2015

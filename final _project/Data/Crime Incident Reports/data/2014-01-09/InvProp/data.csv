@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97527,140017235.0,Thursday,No,2014-01-09T14:54:00.000,InvProp,"[-71.067775, 42.273361]",Point,InvProp,1,LARCRT,935,C11,Day,No,DORCHESTER AV,Part three,Other,773145.2492,,2924936.613,2014
+131446,140016796.0,Thursday,No,2014-01-09T11:33:00.000,InvProp,"[-71.124405, 42.272201]",Point,InvProp,1,IVPREM,0,E18,Day,No,DALE ST,Part three,Unarmed,757820.7363,,2924441.316,2014
+145846,140017972.0,Thursday,No,2014-01-09T21:40:00.000,InvProp,"[-71.060805, 42.378351]",Point,InvProp,1,BERPTA,900,A15,First,No,BUNKER HILL ST,Part three,Other,774834.6061,,2963206.369,2014
+159058,140016802.0,Thursday,No,2014-01-09T11:47:00.000,InvProp,"[-71.14215, 42.294472]",Point,InvProp,1,IVPREM,659,E5,Day,No,GRETTER RD,Part three,Unarmed,752984.0383,,2932536.3260000004,2014

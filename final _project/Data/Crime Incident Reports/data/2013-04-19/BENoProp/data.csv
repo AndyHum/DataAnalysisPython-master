@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74129,130231616.0,Friday,No,2013-04-19T19:00:00.000,BENoProp,"[-71.05372, 42.327461]",Point,BENoProp,4,ABIP  ,914,C6,First,No,LOGAN WY,Part One,Unarmed,776845.9439,,2944671.0360000003,2013
+83128,130230210.0,Friday,No,2013-04-19T04:50:00.000,BENoProp,"[-71.107365, 42.288176]",Point,BENoProp,4,ALARMC,506,E18,Last,No,WALK HILL ST,Part One,Unarmed,762405.7441,,2930283.604,2013
+194806,130230801.0,Friday,No,2013-04-19T04:00:00.000,BENoProp,"[-71.157505, 42.341188]",Point,BENoProp,4,BERPT ,773,D14,Last,No,KIRKWOOD RD,Part One,Other,748761.1914,,2949543.563,2013

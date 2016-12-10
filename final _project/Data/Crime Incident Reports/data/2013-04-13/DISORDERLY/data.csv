@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72673,130217600.0,Saturday,No,2013-04-13T05:26:00.000,DISORDERLY,"[-71.08598, 42.329471]",Point,24xx,4,ARREST,288,B2,Last,No,MALCOLM X BL,Part Two,Unarmed,768118.9934,SHAWMUT AV,2945359.522,2013
+110318,130218385.0,Saturday,No,2013-04-13T15:18:00.000,DISORDERLY,"[-71.119485, 42.258571]",Point,24xx,4,FIGHT ,519,E18,Day,No,LINCOLN ST,Part Two,Unarmed,759174.474,,2919480.265,2013
+136992,130217576.0,Saturday,No,2013-04-13T04:00:00.000,DISORDERLY,"[-71.03393, 42.374056]",Point,24xx,4,NOISMV,21,A7,Last,No,CHELSEA ST,Part Two,Unarmed,782104.5469,,2961679.7189999996,2013
+194313,130217414.0,Saturday,No,2013-04-13T01:52:00.000,DISORDERLY,"[-71.094124, 42.347355]",Point,24xx,4,IVPER ,624,D4,Last,No,IPSWICH ST,Part Two,Unarmed,765885.7661,,2951866.0330000003,2013

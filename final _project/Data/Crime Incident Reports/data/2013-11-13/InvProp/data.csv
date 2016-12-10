@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73944,130722479.0,Wednesday,No,2013-11-13T20:57:00.000,InvProp,"[-71.051475, 42.279331]",Point,InvProp,11,BEIP  ,385,C11,First,No,HILL TOP ST,Part three,Unarmed,777545.2411,,2927134.934,2013
+84781,130724733.0,Wednesday,No,2013-11-13T19:00:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,11,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2013
+148967,130722337.0,Wednesday,No,2013-11-13T19:43:00.000,InvProp,"[-71.074427, 42.271311]",Point,InvProp,11,IVPREM,406,B3,First,No,RIVER ST,Part three,Other,771348.5999,,2924180.5,2013
+167159,130722417.0,Wednesday,No,2013-11-13T10:00:00.000,InvProp,"[-71.088895, 42.344466]",Point,InvProp,11,IVPREM,619,D4,Day,No,BURBANK ST,Part three,Unarmed,767304.4387,,2950820.162,2013

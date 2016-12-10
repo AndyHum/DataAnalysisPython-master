@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31410,142057212.0,Saturday,No,2014-12-13T11:30:00.000,PropLost,"[-71.06198, 42.356441]",Point,PropLost,12,PROP,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774558.1332,PARK ST,2955220.292,2014
+80558,142057404.0,Saturday,No,2014-12-13T10:10:00.000,PropLost,"[-71.081633, 42.318648]",Point,PropLost,12,PROP,0,B2,Day,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2014
+150949,142057203.0,Saturday,No,2014-12-13T02:00:00.000,PropLost,"[-71.04339, 42.350736]",Point,PropLost,12,PROP,0,C6,Last,No,NORTHERN AV,Part three,Unarmed,779593.8607,,2953167.635,2014
+159811,142057200.0,Saturday,No,2014-12-13T07:30:00.000,PropLost,"[-71.065337, 42.316869]",Point,PropLost,12,PROP,0,B2,Day,No,COLUMBIA RD,Part three,Unarmed,773724.0529,DUDLEY ST,2940794.738,2014
+195609,142057163.0,Saturday,No,2014-12-13T11:30:00.000,PropLost,"[-71.066425, 42.278251]",Point,PropLost,12,LARCEN,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773501.5553,,2926720.4480000003,2014
+202342,142058250.0,Saturday,No,2014-12-13T21:00:00.000,PropLost,"[-71.08037, 42.349236]",Point,PropLost,12,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769600.5057,,2952569.662,2014
+203685,142057454.0,Saturday,No,2014-12-13T15:00:00.000,PropLost,"[-71.059015, 42.300266]",Point,PropLost,12,PROP,0,C11,Day,No,ADAMS ST,Part three,Unarmed,775465.3659999999,,2934753.3010000004,2014
+206262,142057436.0,Saturday,No,2014-12-13T12:00:00.000,PropLost,"[-71.06521, 42.343276]",Point,PropLost,12,PROP,0,D4,Day,No,FAY ST,Part three,Unarmed,773709.5687,,2950418.253,2014

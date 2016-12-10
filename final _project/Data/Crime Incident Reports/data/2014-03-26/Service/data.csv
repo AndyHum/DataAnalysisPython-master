@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124800,140183898.0,Wednesday,No,2014-03-26T20:51:00.000,Service,"[-71.0846, 42.333701]",Point,Service,3,IVPREM,276,B2,First,No,KERR PL,Other,Unarmed,768484.6391,,2946902.8230000003,2014
+154525,140182094.0,Wednesday,No,2014-03-26T02:01:00.000,Service,"[-71.076026, 42.325545]",Point,Service,3,ARREST,267,B2,Last,No,FOREST ST,Part three,Unarmed,770817.6305,PLEASANT AV,2943941.7410000004,2014
+237665,140183552.0,Wednesday,No,2014-03-26T17:35:00.000,Service,"[-71.159329, 42.258372]",Point,Service,3,ARREST,821,E5,First,No,ROCKLAND ST,Part three,Unarmed,748388.8099,,2919362.038,2014

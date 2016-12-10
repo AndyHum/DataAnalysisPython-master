@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22763,142035102.0,Thursday,No,2014-10-02T13:00:00.000,Service,"[-71.077875, 42.318046]",Point,Service,10,IVPER,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770331.1952,,2941206.8010000004,2014
+128592,142035147.0,Thursday,No,2014-10-02T15:03:00.000,Service,"[-71.123104, 42.259722]",Point,Service,10,ARREST,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,758192.8956,,2919895.084,2014
+185723,142035053.0,Thursday,No,2014-10-02T08:20:00.000,Service,"[-71.055405, 42.316671]",Point,Service,10,DISTRB,0,C11,Day,No,SUDAN ST,Part three,Unarmed,776410.8018,,2940736.606,2014
+191274,142035036.0,Thursday,No,2014-10-02T06:00:00.000,Service,"[-71.09713, 42.334301]",Point,Service,10,CD11,0,B2,Last,No,TURQUOISE WAY,Part three,Unarmed,765095.7112,,2947105.224,2014
+202455,142035097.0,Thursday,No,2014-10-02T12:30:00.000,Service,"[-71.07784, 42.318281]",Point,Service,10,UNK,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770340.2378,BROOKFORD ST,2941292.485,2014
+236883,142035098.0,Thursday,No,2014-10-02T12:30:00.000,Service,"[-71.063155, 42.298481]",Point,Service,10,ARREST,0,C11,Day,No,GENEVA AV,Part three,Unarmed,774348.7245,,2934097.058,2014
+250195,142035233.0,Thursday,No,2014-10-02T18:45:00.000,Service,"[-71.06054, 42.362421]",Point,Service,10,CD9,0,A1,First,No,BOWKER ST,Part three,Unarmed,774936.1171,,2957401.522,2014

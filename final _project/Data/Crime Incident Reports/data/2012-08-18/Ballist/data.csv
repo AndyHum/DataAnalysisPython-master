@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48268,120513638.0,Saturday,No,2012-08-18T01:57:00.000,Ballist,"[-71.084918, 42.322934]",Point,Ballist,8,SHOTS ,298,B2,Last,No,HESTIA PARK,Part Two,Other,768417.5914,,2942978.541,2012
+72197,120513700.0,Saturday,No,2012-08-18T02:25:00.000,Ballist,"[-71.06667, 42.277346]",Point,Ballist,8,SHOTS ,388,C11,Last,No,DORCHESTER AV,Part Two,Firearm,773436.9288,,2926390.317,2012
+127346,120515435.0,Saturday,No,2012-08-18T23:02:00.000,Ballist,"[-71.1099, 42.262951]",Point,Ballist,8,SHOTS ,493,E18,First,No,FRAZER ST,Part Two,Unarmed,761761.8703,LEWISTON ST,2921088.1119999997,2012
+178181,120522884.0,Saturday,No,2012-08-18T02:30:00.000,Ballist,"[-71.088063, 42.328986]",Point,Ballist,8,IVPREM,292,B2,Last,No,KENILWORTH ST,Part Two,Firearm,767556.5947,,2945179.9669999997,2012

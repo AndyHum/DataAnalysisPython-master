@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78680,120474926.0,Wednesday,No,2012-08-01T12:07:00.000,SearchWarr,"[-71.079739, 42.329344]",Point,SearchWarr,8,CD11  ,904,B2,Day,No,WHEATLEY WY,Part Three,Unarmed,769806.7553,,2945321.255,2012
+155671,120475392.0,Wednesday,No,2012-08-01T15:29:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,8,CD11  ,282,B2,Day,No,WASHINGTON ST,Part Three,Other,768218.0809,,2945064.255,2012
+231713,120475411.0,Wednesday,No,2012-08-01T15:00:00.000,SearchWarr,"[-71.061235, 42.310371]",Point,SearchWarr,8,CD11  ,257,C11,Day,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+232996,120475975.0,Wednesday,No,2012-08-01T13:00:00.000,SearchWarr,"[-71.091325, 42.284861]",Point,SearchWarr,8,IVDRUG,465,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2012

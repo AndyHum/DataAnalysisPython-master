@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+183351,130820617.0,Tuesday,No,2013-12-31T14:20:00.000,FIRE,"[-71.084165, 42.309351]",Point,FIRE,12,FIREB ,320,B2,Day,No,HARTWELL ST,Part three,Unarmed,768645.5155,,2938029.845,2013
+223190,130820798.0,Tuesday,No,2013-12-31T16:13:00.000,FIRE,"[-71.12515, 42.259011]",Point,FIRE,12,FV    ,961,E18,First,No,SUMMER ST,Part three,Unarmed,757640.2289,PARROT ST,2919633.815,2013
+244645,130819947.0,Tuesday,No,2013-12-31T07:50:00.000,FIRE,"[-71.08084, 42.281579]",Point,FIRE,12,FIREB ,418,B3,Day,No,MAXWELL ST,Part three,Other,769594.6205,,2927913.646,2013

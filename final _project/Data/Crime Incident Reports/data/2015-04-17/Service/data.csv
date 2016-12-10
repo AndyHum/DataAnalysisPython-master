@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3456,152031307.0,Friday,No,2015-04-17T11:00:00.000,Service,"[0, 0]",Point,Service,4,CD9,0,D4,Day,No,MOON ISLAND,Part three,Unarmed,,,,2015
+3461,152031277.0,Friday,No,2015-04-17T11:15:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,D4,Day,No,PUBLIC ALLEY 439,Part three,Unarmed,,,,2015
+12325,152031254.0,Friday,No,2015-04-17T10:40:00.000,Service,"[-71.07449, 42.287966]",Point,Service,4,SS,0,B3,Day,No,CHIPMAN ST,Part three,Unarmed,771301.3507,,2930249.7369999997,2015
+110068,152031381.0,Friday,No,2015-04-17T16:20:00.000,Service,"[-71.098823, 42.322633]",Point,Service,4,ROBBER,0,E13,First,No,CENTRE ST,Part three,Unarmed,764657.923,COLUMBUS AV,2942850.979,2015
+130700,152031242.0,Friday,No,2015-04-17T10:13:00.000,Service,"[-71.078526, 42.322336]",Point,Service,4,TS,0,B2,Day,No,PERRIN ST,Part three,Unarmed,770147.4212,,2942769.0110000004,2015
+227769,152031513.0,Friday,No,2015-04-17T23:26:00.000,Service,"[-71.057975, 42.351206]",Point,Service,4,ARREST,0,A1,First,No,UTICA ST,Part three,Unarmed,775650.5119,,2953318.144,2015
+267845,152031392.0,Friday,No,2015-04-17T16:28:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267856,152031285.0,Friday,No,2015-04-17T12:00:00.000,Service,"[0, 0]",Point,Service,4,CD11,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+267862,152031262.0,Friday,No,2015-04-17T11:05:00.000,Service,"[0, 0]",Point,Service,4,SS,0,C11,Day,No,GENEVA AV,Part three,Unarmed,,,,2015

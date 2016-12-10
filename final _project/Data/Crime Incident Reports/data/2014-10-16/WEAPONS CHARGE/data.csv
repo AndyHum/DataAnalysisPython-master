@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107976,142039777.0,Thursday,No,2014-10-16T19:00:00.000,WEAPONS CHARGE,"[-71.150915, 42.348981]",Point,15xx,10,PERGUN,0,D14,First,No,WASHINGTON ST,Part Two,Unarmed,750531.3965,,2952390.805,2014
+165370,142039500.0,Thursday,No,2014-10-16T00:46:00.000,WEAPONS CHARGE,"[-71.081367, 42.336818]",Point,15xx,10,UNK,0,D4,Last,No,LENOX ST,Part Two,Knife,769353.1922,,2948042.758,2014

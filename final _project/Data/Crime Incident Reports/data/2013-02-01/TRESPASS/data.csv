@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44112,130067287.0,Friday,No,2013-02-01T18:17:00.000,TRESPASS,"[-71.05919, 42.379331]",Point,TRESPASS,2,IVPER ,900,A15,First,No,MONUMENT ST,Part Two,Unarmed,775269.1197,,2963565.753,2013
+62422,130067255.0,Friday,No,2013-02-01T18:30:00.000,TRESPASS,"[-71.081625, 42.336141]",Point,TRESPASS,2,ARREST,903,D4,First,No,TROTTER CT,Part Two,Unarmed,769284.6658,,2947795.935,2013
+180608,130065469.0,Friday,No,2013-02-01T00:22:00.000,TRESPASS,"[-71.081625, 42.336141]",Point,TRESPASS,2,IVDRUG,903,D4,Last,No,TROTTER CT,Part Two,Unarmed,769284.6658,,2947795.935,2013

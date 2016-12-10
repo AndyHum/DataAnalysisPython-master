@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39091,130500211.0,Saturday,No,2013-08-10T02:40:00.000,PropFound,"[-71.08874, 42.347016]",Point,PropFound,8,FDPROP,620,D4,Last,No,BOYLSTON ST,Part three,Unarmed,767341.8596,,2951749.6319999998,2013
+102298,130501557.0,Saturday,No,2013-08-10T18:20:00.000,PropFound,"[-71.091161, 42.342922]",Point,PropFound,8,FDPROP,618,D4,First,No,FENWAY,Part three,Unarmed,766694.2972,,2950254.445,2013
+131581,130500405.0,Saturday,No,2013-08-10T08:20:00.000,PropFound,"[-71.087695, 42.349131]",Point,PropFound,8,MISC  ,141,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,767620.6238,,2952521.7430000002,2013
+172589,130500518.0,Saturday,No,2013-08-10T08:45:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,8,FDPROP,574,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2013
+208982,130503023.0,Saturday,No,2013-08-10T22:00:00.000,PropFound,"[-71.068135, 42.305341]",Point,PropFound,8,FDPROP,341,C11,First,No,BOWDOIN ST,Part three,Unarmed,772988.8132,,2936590.084,2013
+230144,130501054.0,Saturday,No,2013-08-10T13:55:00.000,PropFound,"[-71.153043, 42.287232]",Point,PropFound,8,FDPROP,695,E5,Day,No,CENTRE ST,Part three,Unarmed,750047.6314,,2929885.93,2013
+263409,130501110.0,Saturday,No,2013-08-10T14:31:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,640,E13,Day,No,OAKVIEW TR,Part three,Unarmed,,GREEN ST,,2013

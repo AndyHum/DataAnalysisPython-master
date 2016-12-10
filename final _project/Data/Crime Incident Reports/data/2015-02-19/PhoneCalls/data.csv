@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30335,152022471.0,Thursday,No,2015-02-19T16:00:00.000,PhoneCalls,"[-71.05423, 42.363244]",Point,PhoneCalls,2,IVPER,0,A1,First,No,RICHMOND ST,Part three,Unarmed,776639.8945,,2957710.17,2015
+97018,152013453.0,Thursday,No,2015-02-19T14:57:00.000,PhoneCalls,"[-71.09679, 42.314596]",Point,PhoneCalls,2,IVPER,0,E13,Day,No,COLUMBUS AV,Part three,Unarmed,765221.5863,,2939924.814,2015
+160284,152013437.0,Thursday,No,2015-02-19T12:45:00.000,PhoneCalls,"[-71.081089, 42.323]",Point,PhoneCalls,2,IVPER,0,B2,Day,No,DUNREATH ST,Part three,Unarmed,769452.9866,,2943007.778,2015
+179846,152013462.0,Thursday,No,2015-02-19T15:00:00.000,PhoneCalls,"[-71.086655, 42.348466]",Point,PhoneCalls,2,IVPER,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,767902.9271,,2952280.765,2015

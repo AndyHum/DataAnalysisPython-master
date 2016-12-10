@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+149389,140023384.0,Sunday,No,2014-01-12T15:32:00.000,PersLoc,"[-71.063804, 42.313876]",Point,PersLoc,1,MISPER,823,C11,Day,No,CUSHING AV,Other,Unarmed,774144.3198,,2939706.043,2014
+152545,140023569.0,Sunday,No,2014-01-12T17:21:00.000,PersLoc,"[-71.10031, 42.272706]",Point,PersLoc,1,MSNCOM,474,B3,First,No,NEWCASTLE ST,Other,Unarmed,764341.0835,,2924654.982,2014
+182974,140024318.0,Sunday,No,2014-01-12T23:30:00.000,PersLoc,"[-71.057074, 42.379799]",Point,PersLoc,1,MSNCOM,37,A15,First,No,OLD IRONSIDES WY,Other,Unarmed,775839.8787,,2963739.04,2014
+238615,140023923.0,Sunday,No,2014-01-12T21:23:00.000,PersLoc,"[-71.077385, 42.288851]",Point,PersLoc,1,CURFEW,437,B3,First,No,FERNDALE ST,Other,Unarmed,770516.43,,2930568.349,2014
+260248,140090111.0,Sunday,No,2014-01-12T15:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,MSNCOM,347,C11,Day,No,G ST,Other,Unarmed,,,,2014

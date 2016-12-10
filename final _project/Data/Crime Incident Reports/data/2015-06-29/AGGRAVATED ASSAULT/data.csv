@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87159,,Monday,No,2015-06-29T00:00:00.000,Aggravated Assault,"[-71.07693, 42.308126]",Point,04xx,6,PKNIFE,329,B2,,No,DEVON ST,Part One,Knife/Cutting Instrument,770605.0,,2940000.0,2015
+91477,,Monday,No,2015-06-29T20:15:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,AB,22,A7,,No,BENNINGTON ST,Part One,Other,,,,2015
+95040,,Monday,No,2015-06-29T00:00:00.000,Aggravated Assault,"[-71.05611, 42.330111]",Point,04xx,6,STAB,194,C6,,No,DORCHESTER ST,Part One,Knife/Cutting Instrument,776194.0,,2950000.0,2015
+125147,,Monday,No,2015-06-29T00:00:00.000,Aggravated Assault,"[-71.008424, 42.392697]",Point,04xx,6,REQP,942,A7,,No,VALLAR RD,Part One,Other,788957.0,,2970000.0,2015

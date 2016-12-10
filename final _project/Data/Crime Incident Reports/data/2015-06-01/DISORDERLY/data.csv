@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2235,152045100.0,Monday,No,2015-06-01T00:40:00.000,DISORDERLY,"[0, 0]",Point,24xx,6,IVPER,0,A1,Last,No,STATE ST,Part Two,Unarmed,,,,2015
+2281,152045316.0,Monday,No,2015-06-01T16:46:00.000,DISORDERLY,"[0, 0]",Point,24xx,6,IVPER,0,B2,First,No,RAYNOR CR,Part Two,Unarmed,,,,2015
+154022,152045118.0,Monday,No,2015-06-01T03:30:00.000,DISORDERLY,"[-71.0904, 42.280796]",Point,24xx,6,DISTRB,0,B3,Last,No,HOSMER ST,Part Two,Unarmed,767009.0082,,2927615.818,2015

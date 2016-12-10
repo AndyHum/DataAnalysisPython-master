@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12639,130046538.0,Wednesday,No,2013-01-23T08:27:00.000,PropFound,"[-71.06564, 42.347651]",Point,PropFound,1,LSTPRP,127,A1,Day,No,MARGINAL RD,Part Three,Unarmed,773585.2017,SHAWMUT ST,2952011.99,2013
+72921,130055646.0,Wednesday,No,2013-01-23T07:00:00.000,PropFound,"[-71.115788, 42.309289]",Point,PropFound,1,FDPROP,649,E13,Last,No,CENTRE ST,Part Three,Unarmed,760091.9476,,2937967.148,2013
+171575,130047287.0,Wednesday,No,2013-01-23T14:50:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,1,FDPROP,200,C6,Day,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2013
+180523,130046121.0,Wednesday,No,2013-01-23T00:22:00.000,PropFound,"[-71.02963, 42.337406]",Point,PropFound,1,IVMV  ,223,C6,Last,No,E 2ND ST,Part Three,Unarmed,783340.1002,,2948330.1610000003,2013

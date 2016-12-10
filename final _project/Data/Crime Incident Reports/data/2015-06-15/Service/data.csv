@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4025,152049655.0,Monday,No,2015-06-15T16:12:00.000,Service,"[0, 0]",Point,Service,6,IVPER,0,B3,First,No,TREMONT ST,Part three,Other,,,,2015
+4027,152049614.0,Monday,No,2015-06-15T12:15:00.000,Service,"[0, 0]",Point,Service,6,MISSIN,0,E18,Day,No,READVILLE ST,Part three,Unarmed,,,,2015
+54643,152049564.0,Monday,No,2015-06-15T10:40:00.000,Service,"[-71.045655, 42.308886]",Point,Service,6,INVEST,0,C11,Day,No,MORRISSEY BL,Part three,Unarmed,779062.8467,,2937913.525,2015

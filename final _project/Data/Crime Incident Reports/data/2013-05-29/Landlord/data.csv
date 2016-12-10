@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37540,130322085.0,Wednesday,No,2013-05-29T11:26:00.000,Landlord,"[-71.08453, 42.284221]",Point,Landlord,5,TRESPS,432,B3,Day,No,MASCOT ST,Part three,Unarmed,768591.3958,,2928871.613,2013
+59984,130322971.0,Wednesday,No,2013-05-29T19:46:00.000,Landlord,"[-71.069245, 42.344491]",Point,Landlord,5,IVPREM,160,D4,First,No,DWIGHT ST,Part three,Unarmed,772616.5062,,2950855.488,2013
+129002,130322785.0,Wednesday,No,2013-05-29T16:15:00.000,Landlord,"[-71.038215, 42.336452]",Point,Landlord,5,IVPER ,222,C6,First,No,E 3RD ST,Part Three,Unarmed,781020.8424,,2947969.8439999996,2013

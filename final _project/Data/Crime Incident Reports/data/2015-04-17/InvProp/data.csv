@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39401,152031321.0,Friday,No,2015-04-17T13:40:00.000,InvProp,"[-71.061984, 42.36231]",Point,InvProp,4,LARCEN,0,A1,Day,No,NEW CHARDON ST,Part three,Unarmed,774546.0673,BULFINCH PL,2957359.042,2015
+132420,152031226.0,Friday,No,2015-04-17T09:50:00.000,InvProp,"[-71.104273, 42.309722]",Point,InvProp,4,HAZMAT,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2015
+179053,152031511.0,Friday,No,2015-04-17T23:19:00.000,InvProp,"[-71.09666, 42.333711]",Point,InvProp,4,SHOTS,0,B2,First,No,HORADAN WY,Part three,Unarmed,765223.8077,PARKER ST,2946890.818,2015
+201630,152031483.0,Friday,No,2015-04-17T19:00:00.000,InvProp,"[-71.061974, 42.365091]",Point,InvProp,4,PROP,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774543.3245,,2958372.495,2015
+267821,152031202.0,Friday,No,2015-04-17T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,,,,2015

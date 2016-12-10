@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76946,120458418.0,Saturday,No,2012-07-21T11:28:00.000,STOLEN PROPERTY CHARGES,"[-71.065835, 42.288941]",Point,13xx,7,INVEST,817,C11,Day,No,ARGYLE ST,Part Two,Unarmed,773641.392,,2930616.8419999997,2012
+135527,120449792.0,Saturday,No,2012-07-21T12:35:00.000,STOLEN PROPERTY CHARGES,"[-71.099227, 42.314407]",Point,13xx,7,ARREST,307,E13,Day,No,SCHOOL ST,Part Two,Other,764562.7782,WELD AV,2939852.566,2012
+166865,120449661.0,Saturday,No,2012-07-21T11:00:00.000,STOLEN PROPERTY CHARGES,"[-71.07935, 42.354141]",Point,13xx,7,ARREST,135,D4,Day,No,DARTMOUTH ST,Part Two,Unarmed,769867.4133,BACK ST,2954358.495,2012

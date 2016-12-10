@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1153,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.059576, 42.365425]",Point,08xx,6,AB,76,A1,,No,BEVERLY ST,Part Two,Personal Weapon (hand  foot  etc.),775191.0,,2960000.0,2015
+3670,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.056208, 42.360205]",Point,08xx,6,AB,93,A1,,No,FANEUIL HALL SQ,Part Two,None,776111.0,,2960000.0,2015
+3745,,Friday,No,2015-06-26T21:30:00.000,Simple Assault,"[0, 0]",Point,08xx,6,DVIP,285,D4,,No,COLUMBUS AVE,Part Two,None,,COVENTRY ST,,2015
+10975,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.072714, 42.318629]",Point,08xx,6,ARREST,260,B2,,No,WOODWARD PARK ST,Part Two,None,771726.0,,2940000.0,2015
+73468,,Friday,No,2015-06-26T17:00:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,771,D14,,No,WASHINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+91798,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.096777, 42.266635]",Point,08xx,6,PERGUN,481,E18,,No,RIVER ST,Part Two,Firearm,765308.0,,2920000.0,2015
+93109,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.077551, 42.336892]",Point,08xx,6,REQP,273,D4,,No,MASSACHUSETTS AVE,Part Two,Other,770385.0,,2950000.0,2015
+144594,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.036595, 42.36913]",Point,08xx,6,FIGHT,30,A7,,No,MAVERICK ST,Part Two,Personal Weapon (hand  foot  etc.),781394.0,,2960000.0,2015
+164289,,Friday,No,2015-06-26T18:30:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,210,C6,,No,D ST,Part Two,None,,,,2015
+167464,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.063217, 42.3281]",Point,08xx,6,IVPER,186,C6,,No,ALLSTATE RD,Part Two,None,774277.0,,2940000.0,2015
+173978,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.071938, 42.294173]",Point,08xx,6,DISTRB,451,C11,,No,WASHINGTON ST,Part Two,None,771980.0,,2930000.0,2015
+224791,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.130989, 42.348743]",Point,08xx,6,NIDV,793,D14,,No,BRAINERD RD,Part Two,Personal Weapon (hand  foot  etc.),755918.0,,2950000.0,2015
+236545,,Friday,No,2015-06-26T00:00:00.000,Simple Assault,"[-71.068173, 42.309832]",Point,08xx,6,NIDV,335,C11,,No,BELLEVUE ST,Part Two,None,772970.0,,2940000.0,2015

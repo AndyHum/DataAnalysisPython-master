@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15855,120621665.0,Wednesday,No,2012-10-03T09:20:00.000,Service,"[-71.140058, 42.348826]",Point,Service,10,IVPER ,0,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,753466.266,,2952346.292,2012
+18542,120623270.0,Wednesday,No,2012-10-03T21:21:00.000,Service,"[-71.08786, 42.28502]",Point,Service,10,SSTOP ,429,B3,First,No,WINSTON RD,Part Three,Unarmed,767688.7109,,2929158.389,2012
+19943,120621162.0,Wednesday,No,2012-10-03T01:15:00.000,Service,"[-71.058395, 42.351291]",Point,Service,10,ARREST,115,A1,Last,No,LINCOLN ST,Part Three,Unarmed,775536.8222,,2953348.5310000004,2012
+110252,120621531.0,Wednesday,No,2012-10-03T08:00:00.000,Service,"[-71.085835, 42.324566]",Point,Service,10,ARREST,294,B2,Day,No,REGENT ST,Part Three,Unarmed,768166.8803,,2943572.2460000003,2012
+171181,120625296.0,Wednesday,No,2012-10-03T18:20:00.000,Service,"[-71.074541, 42.34067]",Point,Service,10,TRANSP,158,D4,First,No,SAN JUAN ST,Part Three,Unarmed,771191.5839,,2949455.8239999996,2012
+174591,120623076.0,Wednesday,No,2012-10-03T19:00:00.000,Service,"[-71.074385, 42.335516]",Point,Service,10,ARREST,171,D4,First,No,HARRISON AV,Part Three,Unarmed,771243.2964,,2947577.858,2012
+245142,120621743.0,Wednesday,No,2012-10-03T09:30:00.000,Service,"[-71.063106, 42.355355]",Point,Service,10,IVPER ,72,A1,Day,No,TREMONT ST,Part Three,Unarmed,774255.6857,,2954822.79,2012

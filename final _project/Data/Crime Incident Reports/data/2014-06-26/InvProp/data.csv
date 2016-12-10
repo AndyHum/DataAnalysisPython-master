@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60684,142004754.0,Thursday,No,2014-06-26T12:01:00.000,InvProp,"[-71.101505, 42.312046]",Point,InvProp,6,VAND,0,E13,Day,No,FOREST HILLS ST,Part three,Unarmed,763950.6876,,2938989.558,2014
+100786,142003118.0,Thursday,No,2014-06-26T12:22:00.000,InvProp,"[-71.097405, 42.316681]",Point,InvProp,6,HAZMAT,0,E13,Day,No,WASHINGTON ST,Part three,Other,765051.6637,,2940683.837,2014
+231691,142003111.0,Thursday,No,2014-06-26T12:30:00.000,InvProp,"[-71.127043, 42.300948]",Point,InvProp,6,SUSOBJ,0,E13,Day,No,CENTRE ST,Part three,Unarmed,757060.8483,,2934913.767,2014
+260988,142003246.0,Thursday,No,2014-06-26T14:30:00.000,InvProp,"[0, 0]",Point,InvProp,6,CD9,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,,IPSWICH ST,,2014

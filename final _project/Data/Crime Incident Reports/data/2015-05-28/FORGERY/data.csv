@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44903,152043767.0,Thursday,No,2015-05-28T02:45:00.000,FORGERY,"[-71.08712, 42.297801]",Point,10xx,5,LARCEN,0,B3,Last,No,BLUE HILL AV,Part Two,Unarmed,767866.6020000001,,2933816.961,2015
+190708,152043861.0,Thursday,No,2015-05-28T06:30:00.000,FORGERY,"[-71.051815, 42.362931]",Point,10xx,5,ADMRPT,0,A1,Last,No,COMMERCIAL ST,Part Two,Unarmed,777293.1537,,2957599.646,2015
+230485,152043998.0,Thursday,No,2015-05-28T16:36:00.000,FORGERY,"[-71.066019, 42.284605]",Point,10xx,5,LARCEN,0,C11,First,No,BAILEY ST,Part Two,Unarmed,773599.5243,,2929036.4439999997,2015
+246517,152043972.0,Thursday,No,2015-05-28T12:00:00.000,FORGERY,"[-71.107805, 42.33605]",Point,10xx,5,IVPER,0,B2,Day,No,FRANCIS ST,Part Two,Unarmed,762206.2941,,2947728.97,2015

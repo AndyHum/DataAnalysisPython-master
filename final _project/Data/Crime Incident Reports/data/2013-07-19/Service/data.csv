@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28125,130449107.0,Friday,No,2013-07-19T22:56:00.000,Service,"[-71.057205, 42.366286]",Point,Service,7,INVEST,79,A1,First,No,PRINCE ST,Part three,Other,775830.1202,FAYETTE ST,2958814.666,2013
+33749,130446919.0,Friday,No,2013-07-19T03:34:00.000,Service,"[-71.0567, 42.317541]",Point,Service,7,ARREST,245,C11,Last,No,HARBOR VIEW ST,Part three,Unarmed,776058.9135,DORCHESTER AV,2941051.8219999997,2013
+128929,130447542.0,Friday,No,2013-07-19T11:29:00.000,Service,"[-71.064242, 42.319884]",Point,Service,7,AOD   ,237,B2,Day,No,EASTMAN ST,Part three,Unarmed,774014.7895,,2941894.955,2013
+166971,130447285.0,Friday,No,2013-07-19T09:45:00.000,Service,"[-71.08588, 42.331105]",Point,Service,7,SSTOP ,0,B2,Day,No,MADISON PARK CT,Part three,Unarmed,768143.0706,,2945954.994,2013
+232754,130446786.0,Friday,No,2013-07-19T01:46:00.000,Service,"[-71.08411, 42.328726]",Point,Service,7,SSTOP ,282,B2,Last,No,DUDLEY ST,Part three,Unarmed,768625.9666,,2945090.4910000004,2013
+238784,130447373.0,Friday,No,2013-07-19T10:20:00.000,Service,"[-71.05592, 42.376646]",Point,Service,7,SSTOP ,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2013

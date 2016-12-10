@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57170,130690271.0,Tuesday,No,2013-10-29T07:15:00.000,BENoProp,"[-71.005485, 42.385721]",Point,BENoProp,10,BERPT ,6,A7,Last,No,BAYSWATER ST,Part One,Other,789766.0005,,2965973.955,2013
+58106,130688838.0,Tuesday,No,2013-10-29T10:35:00.000,BENoProp,"[-71.07011, 42.283376]",Point,BENoProp,10,ARREST,402,C11,Day,No,BAILEY ST,Part One,Other,772494.9087,,2928583.022,2013
+96773,130695780.0,Tuesday,No,2013-10-29T21:00:00.000,BENoProp,"[-71.105305, 42.303466]",Point,BENoProp,10,INVEST,570,E13,First,No,ROSSMORE RD,Part One,Unarmed,762937.3523,,2935858.0889999997,2013

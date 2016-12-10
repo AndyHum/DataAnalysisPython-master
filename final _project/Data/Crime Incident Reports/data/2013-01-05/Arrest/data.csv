@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11591,130009376.0,Saturday,No,2013-01-05T11:09:00.000,Arrest,"[-71.080624, 42.337477]",Point,Arrest,1,ARREST,273,D4,Day,No,CAMDEN ST,Part Three,Unarmed,769552.6659,,2948284.111,2013
+101849,130009341.0,Saturday,No,2013-01-05T10:49:00.000,Arrest,"[-71.082049, 42.294765]",Point,Arrest,1,ARREST,441,B3,Day,No,KINGSDALE ST,Part Three,Unarmed,769243.8945,,2932717.086,2013

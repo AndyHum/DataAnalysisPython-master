@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73197,152007890.0,Thursday,No,2015-01-29T17:00:00.000,PropLost,"[-71.059969, 42.355867]",Point,PropLost,1,PROP,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2015
+136680,152008053.0,Thursday,No,2015-01-29T14:00:00.000,PropLost,"[-71.06593, 42.343951]",Point,PropLost,1,PROP,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,773513.6715,E BERKELEY ST,2950663.2430000002,2015
+197456,152008306.0,Thursday,No,2015-01-29T21:00:00.000,PropLost,"[-71.05992, 42.356996]",Point,PropLost,1,PROP,0,A1,First,No,PROVINCE ST,Part three,Unarmed,775113.8775,,2955425.4110000003,2015

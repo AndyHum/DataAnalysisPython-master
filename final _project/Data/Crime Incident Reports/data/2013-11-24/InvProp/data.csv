@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5080,130745044.0,Sunday,No,2013-11-24T12:11:00.000,InvProp,"[-71.07507, 42.339301]",Point,InvProp,11,ALARMR,168,D4,Day,No,SHAWMUT AV,Part three,Unarmed,771051.218,,2948956.2569999998,2013
+122921,130744257.0,Sunday,No,2013-11-24T00:02:00.000,InvProp,"[-71.05725, 42.351531]",Point,InvProp,11,CRIP  ,115,A1,Last,No,SOUTH ST,Part three,Other,775845.8698,TUFTS ST,2953437.5960000004,2013
+152063,130745240.0,Sunday,No,2013-11-24T14:07:00.000,InvProp,"[-71.060105, 42.357876]",Point,InvProp,11,IVPREM,103,A1,Day,No,SCHOOL ST,Part three,Unarmed,775062.2215,,2955745.8419999997,2013
+160854,130749310.0,Sunday,No,2013-11-24T15:00:00.000,InvProp,"[-71.107805, 42.33605]",Point,InvProp,11,LARCRT,612,B2,Day,No,FRANCIS ST,Part three,Other,762206.2941,,2947728.97,2013
+252353,130745139.0,Sunday,No,2013-11-24T13:15:00.000,InvProp,"[-71.166495, 42.340036]",Point,InvProp,11,IVPREM,751,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,746332.5821,,2949114.2139999997,2013

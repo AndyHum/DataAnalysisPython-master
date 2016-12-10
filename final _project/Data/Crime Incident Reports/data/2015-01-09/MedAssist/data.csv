@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17606,152002427.0,Friday,No,2015-01-09T18:30:00.000,MedAssist,"[-71.05096, 42.337551]",Point,MedAssist,1,REQP,0,C6,First,No,W 4TH ST,Part three,Unarmed,777572.9162,,2948351.921,2015
+62740,152002467.0,Friday,No,2015-01-09T21:44:00.000,MedAssist,"[-71.136255, 42.347956]",Point,MedAssist,1,ALARM,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,754495.8535,,2952033.833,2015
+152167,152002272.0,Friday,No,2015-01-09T07:58:00.000,MedAssist,"[-71.163153, 42.269416]",Point,MedAssist,1,UNCONS,0,E5,Day,No,GLENELLEN RD,Part three,Unarmed,747337.5289,,2923382.341,2015
+163677,152002286.0,Friday,No,2015-01-09T09:53:00.000,MedAssist,"[-71.065153, 42.29921]",Point,MedAssist,1,INVEST,0,C11,Day,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2015
+200867,152002243.0,Friday,No,2015-01-09T02:20:00.000,MedAssist,"[-71.067755, 42.360016]",Point,MedAssist,1,INJOFF,0,A1,Last,No,ANDERSON ST,Part three,Unarmed,772990.6351,,2956515.1289999997,2015
+224714,152002310.0,Friday,No,2015-01-09T10:54:00.000,MedAssist,"[-71.078836, 42.300272]",Point,MedAssist,1,IVPER,0,B3,Day,No,NORWELL ST,Part three,Unarmed,770103.1274,,2934728.188,2015
+251188,152002396.0,Friday,No,2015-01-09T16:54:00.000,MedAssist,"[-71.07739, 42.314841]",Point,MedAssist,1,REQEP,0,B2,First,No,DACIA ST,Part three,Unarmed,770468.1499,,2940039.4960000003,2015
+260621,152002336.0,Friday,No,2015-01-09T13:13:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,EDP,0,C6,Day,No,MT VERNON ST,Part three,Unarmed,,,,2015
+264038,152002242.0,Friday,No,2015-01-09T02:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,INJOFF,0,A15,Last,No,ANDERSON ST,Part three,Unarmed,,,,2015
+264867,152002451.0,Friday,No,2015-01-09T20:30:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,CARDIA,0,E5,First,No,STIMSON RD,Part three,Unarmed,,,,2015
+265559,152002249.0,Friday,No,2015-01-09T04:44:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,STAB,0,C6,Last,No,HARRISON AV,Part three,Unarmed,,,,2015

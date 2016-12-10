@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18863,140297893.0,Wednesday,No,2014-05-14T10:52:00.000,PubDrink,"[-71.09641, 42.332791]",Point,PubDrink,5,ARREST,588,B2,Day,No,GURNEY ST,Part Two,Unarmed,765292.9891,PARKER ST,2946555.872,2014
+126649,140298114.0,Wednesday,No,2014-05-14T12:20:00.000,PubDrink,"[-71.060915, 42.320201]",Point,PubDrink,5,CD19  ,0,C11,Day,No,COLUMBIA ST,Part Two,Unarmed,774913.8799,E COTTAGE ST,2942015.04,2014
+172070,140298931.0,Wednesday,No,2014-05-14T18:00:00.000,PubDrink,"[-71.081299, 42.276593]",Point,PubDrink,5,IVPER ,419,B3,First,No,WOODRUFF WY,Part Two,Unarmed,769479.2854,,2926096.117,2014

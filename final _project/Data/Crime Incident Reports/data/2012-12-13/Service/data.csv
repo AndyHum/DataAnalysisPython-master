@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5484,120779514.0,Thursday,No,2012-12-13T04:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,12,IVPREM,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+32482,120779657.0,Thursday,No,2012-12-13T09:03:00.000,Service,"[-71.067225, 42.319435]",Point,Service,12,ARREST,184,B2,Day,No,HARROW ST,Part Three,Unarmed,773208.6986,,2941727.381,2012
+173992,120780114.0,Thursday,No,2012-12-13T13:10:00.000,Service,"[-71.04625, 42.354256]",Point,Service,12,IVPER ,207,C6,Day,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012
+255164,120779765.0,Thursday,No,2012-12-13T09:40:00.000,Service,"[-71.059735, 42.297541]",Point,Service,12,CD13  ,355,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2012

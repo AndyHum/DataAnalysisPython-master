@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53132,130414704.0,Friday,No,2013-07-05T21:30:00.000,Service,"[-71.054711, 42.341305]",Point,Service,7,CD11  ,0,C6,First,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+144410,130419823.0,Friday,No,2013-07-05T20:30:00.000,Service,"[-71.130905, 42.354466]",Point,Service,7,LSTPRP,801,D14,First,No,FARRINGTON AV,Part three,Unarmed,755931.8125,,2954412.421,2013
+164521,130413520.0,Friday,No,2013-07-05T13:55:00.000,Service,"[-71.171675, 42.278601]",Point,Service,7,IVPER ,729,E5,Day,No,VFW PY,Part three,Unarmed,745018.3088,GARDNER ST,2926720.784,2013

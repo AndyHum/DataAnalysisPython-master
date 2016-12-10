@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59156,130377845.0,Friday,No,2013-06-21T08:40:00.000,32GUN,"[-71.091364, 42.325426]",Point,32GUN,6,FDWEAP,300,B2,Day,No,CEDAR ST,Part three,Firearm,766669.9978,,2943878.125,2013
+126278,130379457.0,Friday,No,2013-06-21T21:30:00.000,32GUN,"[-71.087188, 42.320054]",Point,32GUN,6,GANG  ,308,B2,First,No,BOWER ST,Part three,Unarmed,767808.8692,,2941926.166,2013

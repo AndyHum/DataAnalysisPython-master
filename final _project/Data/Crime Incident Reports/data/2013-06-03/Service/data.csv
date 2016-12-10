@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64415,130334685.0,Monday,No,2013-06-03T11:40:00.000,Service,"[-71.064691, 42.284347]",Point,Service,6,MEET  ,395,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773959.2319,,2928944.028,2013
+153770,130334151.0,Monday,No,2013-06-03T06:45:00.000,Service,"[-71.07359, 42.271331]",Point,Service,6,PKNIFE,406,B3,Last,No,RIVER ST,Part three,Knife,771575.175,CENTRAL AV,2924188.934,2013
+157314,130334101.0,Monday,No,2013-06-03T04:56:00.000,Service,"[-71.060735, 42.298351]",Point,Service,6,IVPER ,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775003.6566,,2934053.046,2013
+214249,130333983.0,Monday,No,2013-06-03T00:53:00.000,Service,"[-71.07463, 42.335321]",Point,Service,6,ARREST,171,D4,Last,No,HARRISON AV,Part three,Unarmed,771177.4087,,2947506.466,2013
+237669,130336171.0,Monday,No,2013-06-03T21:38:00.000,Service,"[-71.01386, 42.381931]",Point,Service,6,ARREST,13,A7,First,No,WORDSWORTH ST,Part three,Unarmed,787511.2892,COWPER ST,2964579.795,2013

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32594,130488033.0,Monday,No,2013-08-05T02:46:00.000,WEAPONS CHARGE,"[-71.08151, 42.304841]",Point,15xx,8,ARREST,0,B2,Last,No,COLUMBIA RD,Part Two,Firearm,769371.7214,,2936389.8419999997,2013
+49741,130490116.0,Monday,No,2013-08-05T22:19:00.000,WEAPONS CHARGE,"[-71.07376, 42.282643]",Point,15xx,8,ARREST,417,B3,First,No,STOCKTON ST,Part Two,Firearm,771508.3897,,2928310.909,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+146200,140355427.0,Thursday,No,2014-06-05T14:00:00.000,PropLost,"[-71.056181, 42.361546]",Point,PropLost,6,LSTPRP,93,A1,Day,No,BLACKSTONE ST,Part three,Unarmed,776115.7974,,2957088.77,2014
+239525,140358120.0,Thursday,No,2014-06-05T11:00:00.000,PropLost,"[-71.07572, 42.335536]",Point,PropLost,6,LSTPRP,170,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770882.3115,,2947583.349,2014
+259767,140357035.0,Thursday,No,2014-06-05T19:00:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,6,LSTPRP,143,D4,First,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2014
+262244,140359179.0,Thursday,No,2014-06-05T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,627,D4,First,No,KILMARNOCK ST,Part three,Unarmed,,,,2014

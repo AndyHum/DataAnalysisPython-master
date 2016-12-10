@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71982,130241742.0,Friday,No,2013-04-12T16:00:00.000,Service,"[-71.056705, 42.364881]",Point,Service,4,INVEST,85,A1,First,No,N MARGIN ST,Part Three,Unarmed,775967.9024,,2958303.358,2013
+146457,130215422.0,Friday,No,2013-04-12T07:20:00.000,Service,"[0, 0]",Point,Service,4,IVPER ,652,E13,Last,No,ARBORWAY,Part Three,Unarmed,,,,2013
+169829,130215551.0,Friday,No,2013-04-12T11:07:00.000,Service,"[-71.066645, 42.350021]",Point,Service,4,IVPER ,120,A1,Day,No,CHARLES ST S,Part Three,Unarmed,773309.1403,,2952874.2819999997,2013
+199874,130215176.0,Friday,No,2013-04-12T03:14:00.000,Service,"[-71.084435, 42.301291]",Point,Service,4,IVPER ,458,B3,Last,No,GLENWAY ST,Part Three,Unarmed,768586.7961,,2935092.2989999996,2013

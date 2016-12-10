@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50059,142004669.0,Sunday,No,2014-03-30T21:50:00.000,MedAssist,"[-71.0626, 42.352361]",Point,MedAssist,3,REQP,0,A1,First,No,ESSEX ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+56377,140191450.0,Sunday,No,2014-03-30T12:07:00.000,MedAssist,"[-71.05699, 42.291116]",Point,MedAssist,3,NOTIFY,366,C11,Day,No,ADAMS ST,Part three,Unarmed,776030.4974,,2931421.749,2014
+66523,140191465.0,Sunday,No,2014-03-30T11:31:00.000,MedAssist,"[-71.10931, 42.311441]",Point,MedAssist,3,EDP2  ,640,E13,Day,No,GREEN ST,Part three,Unarmed,761840.6373,,2938759.32,2014
+86893,140191941.0,Sunday,No,2014-03-30T16:24:00.000,MedAssist,"[-71.049529, 42.309551]",Point,MedAssist,3,ALARMI,252,C11,First,No,GRAMPIAN WY,Part three,Unarmed,778013.6283,,2938150.038,2014
+92216,140193320.0,Sunday,No,2014-03-30T23:30:00.000,MedAssist,"[-71.091598, 42.327271]",Point,MedAssist,3,EDP2  ,293,B2,First,No,DORR ST,Part three,Unarmed,766603.7056,,2944550.183,2014
+154977,140191437.0,Sunday,No,2014-03-30T11:12:00.000,MedAssist,"[-71.061606, 42.290907]",Point,MedAssist,3,IVPER ,365,C11,Day,No,SEMONT RD,Part three,Unarmed,774781.8208,,2931338.963,2014
+181451,140192420.0,Sunday,No,2014-03-30T21:05:00.000,MedAssist,"[-71.056134, 42.368284]",Point,MedAssist,3,UNCONS,81,A1,First,No,COMMERCIAL ST,Part three,Unarmed,776115.6885,,2959544.232,2014
+193374,140191984.0,Sunday,No,2014-03-30T16:00:00.000,MedAssist,"[-71.05677, 42.320701]",Point,MedAssist,3,AOD   ,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,776033.9979,DORCHESTER AV,2942203.2789999996,2014
+196394,140192097.0,Sunday,No,2014-03-30T17:38:00.000,MedAssist,"[-71.060105, 42.357876]",Point,MedAssist,3,UNCONS,103,A1,First,No,SCHOOL ST,Part three,Unarmed,775062.2215,,2955745.8419999997,2014
+235000,140191568.0,Sunday,No,2014-03-30T12:35:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,UNK   ,603,B2,Day,No,BRIGHAM ST,Part three,Unarmed,,,,2014
+240965,140190840.0,Sunday,No,2014-03-30T00:05:00.000,MedAssist,"[-71.078255, 42.311286]",Point,MedAssist,3,EDP2  ,328,B2,Last,No,NORMANDY ST,Part three,Unarmed,770240.6048,,2938742.838,2014
+255360,140191216.0,Sunday,No,2014-03-30T07:29:00.000,MedAssist,"[-71.106503, 42.326544]",Point,MedAssist,3,CARST ,584,E13,Last,No,HEATH ST,Part three,Unarmed,762574.3166,,2944266.457,2014

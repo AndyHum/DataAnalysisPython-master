@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19835,130353765.0,Monday,No,2013-06-10T21:43:00.000,WEAPONS CHARGE,"[-71.075448, 42.292018]",Point,15xx,6,SSTOP ,449,B3,First,No,SPENCER ST,Part Two,Unarmed,771034.6931,,2931724.8,2013
+52694,130353369.0,Monday,No,2013-06-10T16:50:00.000,WEAPONS CHARGE,"[-71.108495, 42.311776]",Point,15xx,6,ARREST,640,E13,First,No,LAMARTINE ST,Part Two,Other,762060.5152,,2938882.41,2013
+63180,130351694.0,Monday,No,2013-06-10T01:38:00.000,WEAPONS CHARGE,"[-71.07161, 42.290211]",Point,15xx,6,SSTOP ,398,C11,Last,No,TALBOT AV,Part Two,Unarmed,772076.5056,WASHINGTON ST,2931071.748,2013
+237907,130352587.0,Monday,No,2013-06-10T11:00:00.000,WEAPONS CHARGE,"[-71.07463, 42.335321]",Point,15xx,6,ARREST,171,D4,Day,No,HARRISON AV,Part Two,Unarmed,771177.4087,,2947506.466,2013

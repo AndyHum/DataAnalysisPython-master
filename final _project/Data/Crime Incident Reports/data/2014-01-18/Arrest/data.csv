@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29452,140035360.0,Saturday,No,2014-01-18T01:55:00.000,Arrest,"[-71.06049, 42.363971]",Point,Arrest,1,ARREST,75,A1,Last,No,FRIEND ST,Part three,Unarmed,774946.7186,VALENTI WY,2957966.442,2014
+85504,140035269.0,Saturday,No,2014-01-18T01:03:00.000,Arrest,"[-71.08404, 42.307411]",Point,Arrest,1,ARREST,330,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768682.7745,CASTLEGATE RD,2937323.043,2014
+199604,140035848.0,Saturday,No,2014-01-18T10:10:00.000,Arrest,"[-71.068456, 42.308677]",Point,Arrest,1,ARREST,335,C11,Day,No,BARRY ST,Part three,Unarmed,772895.7041,,2937805.369,2014

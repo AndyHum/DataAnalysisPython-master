@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11976,130191888.0,Monday,No,2013-04-01T21:45:00.000,InvProp,"[-71.07695, 42.308106]",Point,InvProp,4,BERPTA,329,B2,First,No,DEVON ST,Part Three,Unarmed,770599.3288,,2937585.745,2013
+142390,130257412.0,Monday,No,2013-04-01T00:00:00.000,InvProp,"[-71.072538, 42.299153]",Point,InvProp,4,LARCRT,357,C11,Last,No,CLAYBOURNE ST,Part Three,Unarmed,771809.0652,,2934328.8510000003,2013
+155521,130190369.0,Monday,No,2013-04-01T10:15:00.000,InvProp,"[-71.079717, 42.319866]",Point,InvProp,4,AOD   ,311,B2,Day,No,CLIFFORD ST,Part Three,Unarmed,769829.6122,,2941867.4469999997,2013
+161057,130319832.0,Monday,No,2013-04-01T20:00:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPER ,792,D14,First,No,BOULEVARD TR,Part three,Unarmed,,,,2013
+193174,130191760.0,Monday,No,2013-04-01T21:04:00.000,InvProp,"[-71.104895, 42.337681]",Point,InvProp,4,FV    ,612,B2,First,No,LONGWOOD AV,Part Three,Unarmed,762990.5031,,2948327.137,2013

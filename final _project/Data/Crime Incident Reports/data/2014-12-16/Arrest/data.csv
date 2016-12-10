@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+181872,142058041.0,Tuesday,No,2014-12-16T14:00:00.000,Arrest,"[-71.06942, 42.362401]",Point,Arrest,12,ARREST,0,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+215798,142057944.0,Tuesday,No,2014-12-16T09:35:00.000,Arrest,"[-71.036455, 42.376976]",Point,Arrest,12,ARREST,0,A7,Day,No,MARION ST,Part three,Unarmed,781416.4866,,2962740.107,2014
+241716,142058080.0,Tuesday,No,2014-12-16T16:00:00.000,Arrest,"[-71.03865, 42.380136]",Point,Arrest,12,ARREST,0,A7,First,No,MARION ST,Part three,Unarmed,780817.1758,,2963888.46,2014
+242475,142058037.0,Tuesday,No,2014-12-16T14:00:00.000,Arrest,"[-71.054711, 42.341305]",Point,Arrest,12,ARREST,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014

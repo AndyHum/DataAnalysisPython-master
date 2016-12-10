@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75074,152036848.0,Tuesday,No,2015-05-05T23:53:00.000,LICViol,"[-71.06482, 42.351321]",Point,LICViol,5,CD35,0,A1,Last,No,TREMONT ST,Part three,Unarmed,773800.0435,,2953350.537,2015
+139892,152036779.0,Tuesday,No,2015-05-05T19:50:00.000,LICViol,"[-71.083145, 42.349411]",Point,LICViol,5,CD35,0,D4,First,No,NEWBURY ST,Part three,Unarmed,768850.0656,,2952629.758,2015
+192157,152036625.0,Tuesday,No,2015-05-05T13:00:00.000,LICViol,"[-71.122665, 42.352056]",Point,LICViol,5,INVEST,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758162.9245,,2953543.914,2015

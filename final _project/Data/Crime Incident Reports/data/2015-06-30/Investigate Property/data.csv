@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11511,,Tuesday,No,2015-06-30T00:00:00.000,Investigate Property,"[-71.143412, 42.292378]",Point,InvProp,6,BE,678,E5,,No,GLENBURNIE RD,Part Three,None,752646.0,,2930000.0,2015
+18899,,Tuesday,No,2015-06-30T19:00:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,IVMV,180,B2,,No,EUSTIS ST,Part Three,None,,,,2015
+45340,,Tuesday,No,2015-06-30T00:00:00.000,Investigate Property,"[-71.095534, 42.279971]",Point,InvProp,6,NIDV,468,B3,,No,HAZLETON ST,Part Three,None,765621.0,,2930000.0,2015
+126504,,Tuesday,No,2015-06-30T00:00:00.000,Investigate Property,"[-71.0688, 42.316339]",Point,InvProp,6,IVPREM,258,B2,,No,MONADNOCK ST,Part Three,None,772789.0,,2940000.0,2015
+203003,,Tuesday,No,2015-06-30T00:00:00.000,Investigate Property,"[-71.071021, 42.336711]",Point,InvProp,6,SS,169,D4,,No,E NEWTON ST,Part Three,None,772151.0,,2950000.0,2015

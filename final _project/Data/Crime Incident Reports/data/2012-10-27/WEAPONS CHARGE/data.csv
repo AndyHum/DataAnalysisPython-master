@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33166,120678848.0,Saturday,No,2012-10-27T23:03:00.000,WEAPONS CHARGE,"[-71.084909, 42.299435]",Point,15xx,10,PERGUN,457,B3,First,No,CHARLOTTE ST,Part Two,Firearm,768461.8364,,2934415.332,2012
+146445,120677084.0,Saturday,No,2012-10-27T06:26:00.000,WEAPONS CHARGE,"[-71.09045, 42.308695]",Point,15xx,10,SHOTS ,316,B2,Last,No,SEAVER ST,Part Two,Firearm,766946.5418,,2937782.313,2012
+219334,120678756.0,Saturday,No,2012-10-27T22:23:00.000,WEAPONS CHARGE,"[-71.11524, 42.305536]",Point,15xx,10,ARREST,649,E13,First,No,METCALF CT,Part Two,Knife,760246.4079,,2936600.15,2012

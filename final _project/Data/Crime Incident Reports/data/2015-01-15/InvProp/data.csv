@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+176511,152003886.0,Thursday,No,2015-01-15T12:59:00.000,InvProp,"[-71.098149, 42.280546]",Point,InvProp,1,CD7,0,B3,Day,No,ALMONT ST,Part three,Other,764912.3809,,2927514.5939999996,2015
+192974,152003833.0,Thursday,No,2015-01-15T09:00:00.000,InvProp,"[-71.054585, 42.377671]",Point,InvProp,1,IVPREM,0,A15,Day,No,DECATUR ST,Part three,Unarmed,776516.4905,,2962967.278,2015
+206266,152003898.0,Thursday,No,2015-01-15T11:00:00.000,InvProp,"[-71.059987, 42.361648]",Point,InvProp,1,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+209786,152003930.0,Thursday,No,2015-01-15T15:51:00.000,InvProp,"[-71.090956, 42.333723]",Point,InvProp,1,IVPREM,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2015
+223653,152003954.0,Thursday,No,2015-01-15T17:30:00.000,InvProp,"[-71.0612, 42.365521]",Point,InvProp,1,CD9,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774751.9335,CANAL ST,2958530.305,2015
+267474,152003795.0,Thursday,No,2015-01-15T06:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVPER,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

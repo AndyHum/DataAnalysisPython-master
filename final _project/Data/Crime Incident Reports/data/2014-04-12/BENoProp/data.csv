@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78313,140221207.0,Saturday,No,2014-04-12T09:28:00.000,BENoProp,"[-71.082485, 42.328571]",Point,BENoProp,4,REQP  ,279,B2,Day,No,DUDLEY ST,Part One,Unarmed,769065.6491,,2945036.153,2014
+119634,142028735.0,Saturday,No,2014-04-12T12:55:00.000,BENoProp,"[-71.123097, 42.250596]",Point,BENoProp,4,IVPREM,0,E18,Day,No,EASTON AV,Part One,Unarmed,758209.286,,2916569.537,2014
+210664,140220781.0,Saturday,No,2014-04-12T01:41:00.000,BENoProp,"[-71.063245, 42.292711]",Point,BENoProp,4,BEIP  ,361,C11,Last,No,CENTRE AV,Part One,Other,774335.1415,,2931994.2630000003,2014

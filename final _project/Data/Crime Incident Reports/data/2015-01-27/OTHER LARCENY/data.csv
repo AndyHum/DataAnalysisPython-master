@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88063,152007320.0,Tuesday,No,2015-01-27T16:00:00.000,OTHER LARCENY,"[-71.08046, 42.335661]",Point,06xx,1,LARCEN,0,D4,First,No,SHAWMUT AV,Part One,Unarmed,769600.5096,LENOX ST,2947622.561,2015
+174976,152008909.0,Tuesday,No,2015-01-27T18:00:00.000,OTHER LARCENY,"[-71.085279, 42.290702]",Point,06xx,1,LARCEN,0,B3,First,No,WESTVIEW ST,Part One,Unarmed,768377.0931,,2931232.3639999996,2015
+193789,152007459.0,Tuesday,No,2015-01-27T23:48:00.000,OTHER LARCENY,"[-71.15263, 42.265331]",Point,06xx,1,LARCEN,0,E5,Last,No,WASHINGTON ST,Part One,Unarmed,750191.9448,,2921905.416,2015
+252728,152007319.0,Tuesday,No,2015-01-27T16:44:00.000,OTHER LARCENY,"[-71.095322, 42.322238]",Point,06xx,1,LARCEN,0,B2,First,No,MARCELLA ST,Part One,Unarmed,765605.1718,,2942711.28,2015

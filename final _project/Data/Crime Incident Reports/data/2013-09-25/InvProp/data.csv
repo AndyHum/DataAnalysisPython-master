@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71122,130610977.0,Wednesday,No,2013-09-25T00:33:00.000,InvProp,"[-71.072115, 42.315751]",Point,InvProp,9,BEIP  ,260,B2,Last,No,CHAMBLET ST,Part three,Other,771893.1799,,2940378.228,2013
+109133,130611960.0,Wednesday,No,2013-09-25T11:41:00.000,InvProp,"[-71.114039, 42.315723]",Point,InvProp,9,LARCRT,641,E13,Day,No,CENTRE ST,Part three,Unarmed,760554.3069,,2940313.901,2013
+214152,130613595.0,Wednesday,No,2013-09-25T22:30:00.000,InvProp,"[-71.080085, 42.346711]",Point,InvProp,9,IVPREM,146,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2013

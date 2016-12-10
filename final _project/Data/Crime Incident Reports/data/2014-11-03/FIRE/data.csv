@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148920,142045640.0,Monday,No,2014-11-03T22:32:00.000,FIRE,"[-71.140865, 42.348921]",Point,FIRE,11,FIRE,0,D14,First,No,WARREN ST,Part three,Unarmed,753248.1867,,2952380.2180000003,2014
+161967,142045573.0,Monday,No,2014-11-03T18:08:00.000,FIRE,"[-71.144637, 42.342441]",Point,FIRE,11,FO,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,752238.2041,,2950014.455,2014
+183778,142045368.0,Monday,No,2014-11-03T07:25:00.000,FIRE,"[-71.05953, 42.354741]",Point,FIRE,11,FIRE,0,A1,Last,No,SUMMER ST,Part three,Other,775223.5315,,2954604.19,2014
+226088,142045571.0,Monday,No,2014-11-03T18:09:00.000,FIRE,"[-71.144637, 42.342441]",Point,FIRE,11,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,752238.2041,,2950014.455,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1065,152038937.0,Monday,No,2015-05-11T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+2173,152038695.0,Monday,No,2015-05-11T16:00:00.000,PropLost,"[-71.088028, 42.334461]",Point,PropLost,5,LARCEN,0,B2,First,No,RUGGLES ST,Part three,Unarmed,767556.2352,,2947175.229,2015
+66883,152038740.0,Monday,No,2015-05-11T17:00:00.000,PropLost,"[-71.071985, 42.348451]",Point,PropLost,5,PROP,0,D4,First,No,COLUMBUS AV,Part three,Unarmed,771868.5415,BERKELEY ST,2952294.855,2015
+80664,152038670.0,Monday,No,2015-05-11T21:00:00.000,PropLost,"[-71.10692, 42.335461]",Point,PropLost,5,PROP,0,B2,First,No,FRANCIS ST,Part three,Unarmed,762446.7411,,2947515.599,2015
+93385,152038613.0,Monday,No,2015-05-11T16:46:00.000,PropLost,"[-71.008436, 42.39263]",Point,PropLost,5,LARCEN,0,A7,First,No,VALLAR RD,Part three,Unarmed,788954.13,FAYWOOD AV,2968486.8839999996,2015
+202779,152039906.0,Monday,No,2015-05-11T14:00:00.000,PropLost,"[-71.081035, 42.349986]",Point,PropLost,5,PROP,0,D4,Day,No,NEWBURY ST,Part three,Other,769419.4017,,2952842.095,2015

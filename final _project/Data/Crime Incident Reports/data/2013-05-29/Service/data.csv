@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17294,130339762.0,Wednesday,No,2013-05-29T12:00:00.000,Service,"[-71.129365, 42.353611]",Point,Service,5,LSTPRP,800,D14,Day,No,GARDNER ST,Part three,Unarmed,756349.42,,2954102.647,2013
+25238,130323222.0,Wednesday,No,2013-05-29T20:09:00.000,Service,"[-71.098425, 42.320071]",Point,Service,5,IVPER ,303,E13,First,No,COLUMBUS AV,Part Three,Other,764769.9832,,2941917.909,2013
+219566,130321524.0,Wednesday,No,2013-05-29T04:42:00.000,Service,"[-71.09237, 42.328021]",Point,Service,5,CD11  ,292,B2,Last,No,HIGHLAND ST,Part three,Unarmed,766393.6581,,2944822.7939999998,2013
+247383,130321742.0,Wednesday,No,2013-05-29T09:20:00.000,Service,"[-71.033715, 42.333976]",Point,Service,5,CD11  ,225,C6,Day,No,E 5TH ST,Part Three,Unarmed,782242.4886,,2947074.147,2013

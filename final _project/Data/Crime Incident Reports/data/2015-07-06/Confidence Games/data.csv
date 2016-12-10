@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43877,,Monday,No,2015-07-06T00:00:00.000,Confidence Games,"[-71.054679, 42.341288]",Point,11xx,7,,200,C6,,No,W BROADWAY,Part Two,None,776560.0,,2950000.0,2015
+78836,,Monday,No,2015-07-06T11:13:00.000,Confidence Games,"[0, 0]",Point,11xx,7,,199,C6,,No,W FOURTH ST,Part Two,None,,,,2015
+116676,,Monday,No,2015-07-06T00:00:00.000,Confidence Games,"[-71.075242, 42.272377]",Point,11xx,7,IVPER,408,B3,,No,CEDAR ST,Part Two,None,771126.0,,2920000.0,2015
+232703,,Monday,No,2015-07-06T00:00:00.000,Confidence Games,"[-71.096592, 42.344896]",Point,11xx,7,ARREST,624,D4,,No,BOYLSTON ST,Part Two,None,765223.0,,2950000.0,2015

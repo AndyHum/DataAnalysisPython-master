@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2299,152045091.0,Monday,No,2015-06-01T00:20:00.000,LICViol,"[0, 0]",Point,LICViol,6,CD35,0,E13,Last,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+177581,152045095.0,Monday,No,2015-06-01T00:50:00.000,LICViol,"[-71.1093, 42.322166]",Point,LICViol,6,CD35,0,E13,Last,No,CENTRE ST,Part three,Unarmed,761825.4392,,2942667.705,2015

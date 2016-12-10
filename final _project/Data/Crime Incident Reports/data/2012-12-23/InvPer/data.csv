@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23089,120801832.0,Sunday,No,2012-12-23T03:11:00.000,InvPer,"[-71.15418, 42.350841]",Point,InvPer,12,IVPER ,770,D14,Last,No,LEICESTER ST,Part Three,Unarmed,749646.059,,2953065.0310000004,2012
+60518,120801777.0,Sunday,No,2012-12-23T02:30:00.000,InvPer,"[-71.140095, 42.351061]",Point,InvPer,12,BEIP  ,795,D14,Last,No,GORDON ST,Part Three,Unarmed,753453.0409,,2953160.954,2012
+62965,120803068.0,Sunday,No,2012-12-23T19:00:00.000,InvPer,"[-71.061434, 42.300547]",Point,InvPer,12,CD7   ,0,C11,First,No,CHARLES ST,Part Three,Unarmed,774810.2974,,2934852.3389999997,2012
+76909,120802131.0,Sunday,No,2012-12-23T10:32:00.000,InvPer,"[-71.134955, 42.350416]",Point,InvPer,12,ALARMI,794,D14,Day,No,GREYLOCK RD,Part Three,Unarmed,754843.4377,,2952931.81,2012
+134550,120802398.0,Sunday,No,2012-12-23T13:00:00.000,InvPer,"[-71.157647, 42.292941]",Point,InvPer,12,IVPER ,694,E5,Day,No,WESTOVER ST,Part Three,Unarmed,748793.526,,2931961.3260000004,2012
+140325,120802614.0,Sunday,No,2012-12-23T16:05:00.000,InvPer,"[-71.098195, 42.313716]",Point,InvPer,12,SHOTS ,572,E13,First,No,SCHOOL ST,Part Three,Firearm,764843.0943,,2939602.334,2012
+142161,120802754.0,Sunday,No,2012-12-23T17:15:00.000,InvPer,"[-71.07625, 42.341471]",Point,InvPer,12,IVPER ,157,D4,First,No,TREMONT ST,Part Three,Unarmed,770728.2659,,2949745.457,2012
+261143,120803229.0,Sunday,No,2012-12-23T22:58:00.000,InvPer,"[0, 0]",Point,InvPer,12,INVEST,60,A15,First,No,BOSTON HARBOR - A15,Part Three,Unarmed,,,,2012

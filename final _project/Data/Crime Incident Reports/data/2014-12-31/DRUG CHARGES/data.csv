@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44127,142062115.0,Wednesday,No,2014-12-31T18:42:00.000,DRUG CHARGES,"[-71.088194, 42.307145]",Point,18xx,12,TS,0,B2,First,No,SEAVER ST,Part Two,Other,767559.3509999999,,2937220.7060000002,2014
+186002,142062079.0,Wednesday,No,2014-12-31T17:00:00.000,DRUG CHARGES,"[-71.08209, 42.336671]",Point,18xx,12,ARREST,0,D4,First,No,LATTIMORE CT,Part Two,Unarmed,769157.9964,,2947988.46,2014
+260532,142062159.0,Wednesday,No,2014-12-31T21:34:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,12,CARDIA,0,E18,First,No,HYDE PARK AV,Part Two,Unarmed,,,,2014
+261063,142062166.0,Wednesday,No,2014-12-31T21:37:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,12,REQP,0,C11,First,No,DORCHESTER AV,Part Two,Unarmed,,,,2014
+263338,142061972.0,Wednesday,No,2014-12-31T09:00:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,12,IVPER,0,C6,Day,No,W BROADWAY,Part Two,Unarmed,,,,2014

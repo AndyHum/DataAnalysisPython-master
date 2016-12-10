@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+153285,130370870.0,Monday,No,2013-06-17T18:00:00.000,PersLoc,"[-71.07395, 42.298386]",Point,PersLoc,6,MISPER,453,C11,First,No,GAYLORD ST,Other,Unarmed,771428.4941,,2934047.667,2013
+225159,130371957.0,Monday,No,2013-06-17T18:00:00.000,PersLoc,"[-71.069937, 42.31691]",Point,PersLoc,6,MISPER,259,B2,First,No,ALEXANDER ST,Other,Unarmed,772480.0127,,2940803.5130000003,2013
+251151,130372050.0,Monday,No,2013-06-17T11:30:00.000,PersLoc,"[-71.088325, 42.284031]",Point,PersLoc,6,MISPER,429,B3,Day,No,THEODORE ST,Other,Unarmed,767564.8231,,2928797.397,2013
+262186,130384363.0,Monday,No,2013-06-17T09:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,6,MISPER,282,B2,Day,No,TREMONT ST,Other,Unarmed,,,,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90880,130551858.0,Saturday,No,2013-08-31T17:50:00.000,32GUN,"[-71.073978, 42.333151]",Point,32GUN,8,PERGUN,169,D4,First,No,ALBANY ST,Part three,Firearm,771357.6081,,2946716.26,2013
+119411,130550345.0,Saturday,No,2013-08-31T00:43:00.000,32GUN,"[-71.091807, 42.315029]",Point,32GUN,8,FDWEAP,316,B2,Last,No,CRAWFORD ST,Part three,Firearm,766568.3992,,2940088.937,2013
+126295,130551170.0,Saturday,No,2013-08-31T11:30:00.000,32GUN,"[-71.137155, 42.352186]",Point,32GUN,8,FDPROP,795,D14,Day,No,WEBLEY ST,Part three,Unarmed,754246.0059,,2953574.2939999998,2013
+190761,130550654.0,Saturday,No,2013-08-31T03:29:00.000,32GUN,"[-71.06782, 42.312751]",Point,32GUN,8,SHOTS ,332,C11,Last,No,GLENDALE ST,Part three,Firearm,773060.3396,,2939290.836,2013

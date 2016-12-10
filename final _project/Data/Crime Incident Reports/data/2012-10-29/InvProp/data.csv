@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106963,120681523.0,Monday,No,2012-10-29T08:47:00.000,InvProp,"[-71.029416, 42.344704]",Point,InvProp,10,ALARMC,207,C6,Day,No,DRY DOCK AV,Part Three,Unarmed,783383.2419,,2950989.983,2012
+146330,120683111.0,Monday,No,2012-10-29T23:55:00.000,InvProp,"[-71.17312, 42.351201]",Point,InvProp,10,SHOTS ,755,D14,Last,No,TREMONT ST,Part Three,Unarmed,744525.8777,,2953176.035,2012
+161737,120682738.0,Monday,No,2012-10-29T09:00:00.000,InvProp,"[-71.101634, 42.271637]",Point,InvProp,10,IVPER ,475,B3,Day,No,CORMAN RD,Part Three,Unarmed,763984.3525,,2924263.637,2012
+174654,120681699.0,Monday,No,2012-10-29T11:52:00.000,InvProp,"[-71.06115, 42.364581]",Point,InvProp,10,IVPREM,75,A1,Day,No,FRIEND ST,Part Three,Unarmed,774767.2102,,2958187.8210000005,2012
+179429,120681230.0,Monday,No,2012-10-29T01:50:00.000,InvProp,"[-71.071275, 42.332311]",Point,InvProp,10,IVPREM,179,C6,Last,No,SOUTHAMPTON ST,Part Three,Other,772090.0319,,2946414.111,2012
+234094,120682706.0,Monday,No,2012-10-29T06:40:00.000,InvProp,"[-71.051965, 42.330791]",Point,InvProp,10,SHOTS ,915,C6,Last,No,PATTERSON WY,Part Three,Other,777314.1349,,2945887.0319999997,2012
+237948,120682570.0,Monday,No,2012-10-29T17:20:00.000,InvProp,"[-71.062413, 42.353534]",Point,InvProp,10,HAZARD,111,A1,First,No,WASHINGTON ST,Part Three,Unarmed,774446.4264,,2954160.1610000003,2012

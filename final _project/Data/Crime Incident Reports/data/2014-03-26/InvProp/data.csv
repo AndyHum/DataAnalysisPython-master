@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4611,140183790.0,Wednesday,No,2014-03-26T08:00:00.000,InvProp,"[-71.058089, 42.357829]",Point,InvProp,3,IVPER ,98,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775607.1052,,2955731.24,2014
+9362,140183010.0,Wednesday,No,2014-03-26T13:20:00.000,InvProp,"[-71.08257, 42.288461]",Point,InvProp,3,IVPER ,439,B3,Day,No,CALLENDER ST,Part three,Unarmed,769114.1966,,2930419.3210000005,2014
+32887,140182613.0,Wednesday,No,2014-03-26T10:06:00.000,InvProp,"[-71.090815, 42.280136]",Point,InvProp,3,HAZ   ,428,B3,Day,No,CLARKWOOD ST,Part three,Unarmed,766897.8582,,2927374.765,2014
+100053,140183299.0,Wednesday,No,2014-03-26T15:36:00.000,InvProp,"[-71.15578, 42.264688]",Point,InvProp,3,ALARMR,712,E5,Day,No,ROCKINGHAM AV,Part three,Unarmed,749340.247,,2921667.5330000003,2014
+141086,140181964.0,Wednesday,No,2014-03-26T00:18:00.000,InvProp,"[-71.068685, 42.300926]",Point,InvProp,3,SHOTS ,344,C11,Last,No,WESTVILLE TR,Part three,Other,772848.1721,,2934980.439,2014
+207267,140184063.0,Wednesday,No,2014-03-26T22:32:00.000,InvProp,"[-71.055085, 42.289881]",Point,InvProp,3,SHOTS ,367,C11,First,No,AURIGA ST,Part three,Unarmed,776548.2697,,2930974.38,2014
+211576,140183753.0,Wednesday,No,2014-03-26T19:15:00.000,InvProp,"[-71.113275, 42.312996]",Point,InvProp,3,IVPER ,639,E13,First,No,GREEN ST,Part three,Other,760765.6221,,2939321.102,2014
+222692,140182188.0,Wednesday,No,2014-03-26T05:00:00.000,InvProp,"[-71.053511, 42.287716]",Point,InvProp,3,REQP  ,378,C11,Last,No,NAHANT AV,Part three,Unarmed,776978.1222,,2930187.475,2014

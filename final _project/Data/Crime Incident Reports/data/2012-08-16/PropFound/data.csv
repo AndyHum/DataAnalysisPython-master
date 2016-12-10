@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105393,120509876.0,Thursday,No,2012-08-16T14:50:00.000,PropFound,"[-71.13457, 42.249796]",Point,PropFound,8,IVPREM,0,E18,Day,No,SUNNYSIDE ST,Part Three,Unarmed,755104.5977,,2916264.683,2012
+156814,120508847.0,Thursday,No,2012-08-16T03:25:00.000,PropFound,"[-71.069937, 42.31691]",Point,PropFound,8,CRIP  ,259,B2,Last,No,ALEXANDER ST,Part Three,Other,772480.0127,,2940803.5130000003,2012
+197030,120509419.0,Thursday,No,2012-08-16T11:15:00.000,PropFound,"[-71.115994, 42.275121]",Point,PropFound,8,FDPROP,0,E18,Day,No,AMERICAN LEGION HY,Part Three,Unarmed,760092.1353,,2925515.338,2012
+202461,120509394.0,Thursday,No,2012-08-16T11:12:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,8,FDPROP,355,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2012
+222970,120510410.0,Thursday,No,2012-08-16T17:00:00.000,PropFound,"[-71.050303, 42.333285]",Point,PropFound,8,FDPROP,220,C6,First,No,DORCHESTER ST,Part Three,Unarmed,777758.5140000001,,2946797.986,2012
+262438,120510725.0,Thursday,No,2012-08-16T21:45:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,573,E13,First,No,UNION AV,Part Three,Unarmed,,,,2012
+263221,120509857.0,Thursday,No,2012-08-16T14:30:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,196,C6,Day,No,OLD COLONY AV,Part Three,Unarmed,,,,2012
+264503,120514559.0,Thursday,No,2012-08-16T07:00:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,414,C11,Last,No,CLANCY RD,Part Three,Unarmed,,,,2012

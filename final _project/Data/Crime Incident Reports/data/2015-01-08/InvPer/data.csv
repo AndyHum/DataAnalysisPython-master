@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42043,152002022.0,Thursday,No,2015-01-08T09:00:00.000,InvPer,"[-71.06465, 42.351016]",Point,InvPer,1,IVPER,0,A1,Day,No,STUART ST,Part three,Unarmed,773846.5631,,2953239.624,2015
+51104,152002052.0,Thursday,No,2015-01-08T13:30:00.000,InvPer,"[-71.08156, 42.348911]",Point,InvPer,1,IVPER,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769279.4105,,2952449.645,2015
+52286,152002031.0,Thursday,No,2015-01-08T11:15:00.000,InvPer,"[-71.077578, 42.324227]",Point,InvPer,1,UNK,0,B2,Day,No,WINTHROP ST,Part three,Unarmed,770400.1993,,2943459.37,2015
+95099,152002044.0,Thursday,No,2015-01-08T14:00:00.000,InvPer,"[-71.059987, 42.361648]",Point,InvPer,1,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+200423,152003285.0,Thursday,No,2015-01-08T14:00:00.000,InvPer,"[-71.10301, 42.343576]",Point,InvPer,1,DISTRB,0,D4,Day,No,PARK DR,Part three,Unarmed,763490.1442,BROOKLINE AV,2950477.753,2015
+212556,152001949.0,Thursday,No,2015-01-08T00:21:00.000,InvPer,"[-71.084165, 42.309351]",Point,InvPer,1,IVPER,0,B2,Last,No,HARTWELL ST,Part three,Unarmed,768645.5155,,2938029.845,2015
+261162,152001959.0,Thursday,No,2015-01-08T02:55:00.000,InvPer,"[0, 0]",Point,InvPer,1,NIDV,0,C11,Last,No,STOUGHTON ST,Part three,Unarmed,,,,2015
+263779,152001993.0,Thursday,No,2015-01-08T08:16:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPER,0,A7,Day,No,BENNINGTON ST,Part three,Other,,,,2015
+265836,152002071.0,Thursday,No,2015-01-08T14:09:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPREM,0,C11,Day,No,ALVAN TR,Part three,Unarmed,,,,2015

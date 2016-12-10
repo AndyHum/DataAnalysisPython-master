@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3463,152030904.0,Thursday,No,2014-12-25T10:00:00.000,OTHER LARCENY,"[0, 0]",Point,06xx,12,LARCEN,0,D4,Day,No,HARRISON AV,Part One,Unarmed,,,,2014
+46265,142060528.0,Thursday,No,2014-12-25T14:08:00.000,OTHER LARCENY,"[-71.148595, 42.349557]",Point,06xx,12,LARCEN,0,D14,Day,No,CAMBRIDGE ST,Part One,Unarmed,751157.6141,,2952603.025,2014
+147222,142060535.0,Thursday,No,2014-12-25T14:55:00.000,OTHER LARCENY,"[-71.061095, 42.319491]",Point,06xx,12,LARCEN,0,C11,Day,No,SUMNER ST,Part One,Other,774866.6238,,2941756.288,2014
+250606,142061471.0,Thursday,No,2014-12-25T14:00:00.000,OTHER LARCENY,"[-71.100769, 42.325321]",Point,06xx,12,LARCEN,0,E13,Day,No,PARKER ST,Part One,Other,764127.0458,,2943828.1319999998,2014
+255324,142060479.0,Thursday,No,2014-12-25T04:25:00.000,OTHER LARCENY,"[-71.007692, 42.387215]",Point,06xx,12,FIGHT,0,A7,Last,No,FORD ST,Part One,Unarmed,789166.5509,,2966514.872,2014
+264939,142061971.0,Thursday,No,2014-12-25T12:00:00.000,OTHER LARCENY,"[0, 0]",Point,06xx,12,LARCEN,0,D14,Day,No,WASHINGTON ST,Part One,Unarmed,,,,2014

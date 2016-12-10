@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2172,,Wednesday,No,2015-07-22T00:00:00.000,Property Found,"[-71.071021, 42.336711]",Point,PropFound,7,SUSOBJ,169,D4,,No,E NEWTON ST,Part Three,None,772151.0,,2950000.0,2015
+88670,,Wednesday,No,2015-07-22T14:00:00.000,Property Found,"[0, 0]",Point,PropFound,7,PROP,127,A1,,No,CHARLES ST S,Part Three,None,,TREMONT ST,,2015
+202601,,Wednesday,No,2015-07-22T00:00:00.000,Property Found,"[-71.073, 42.339203]",Point,PropFound,7,PROP,168,D4,,No,WASHINGTON ST,Part Three,None,771611.0,,2950000.0,2015
+227973,,Wednesday,No,2015-07-22T00:00:00.000,Property Found,"[-71.086017, 42.323481]",Point,PropFound,7,FDWEAP,295,B2,,No,CIRCUIT ST,Part Three,None,768120.0,,2940000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91926,120697245.0,Monday,No,2012-11-05T09:32:00.000,DEATH INVESTIGATION,"[-71.083365, 42.331551]",Point,01INV,11,CARST ,276,B2,Day,No,RUGGLES ST,Part Three,Unarmed,768822.3904,,2946120.954,2012
+180666,120696994.0,Monday,No,2012-11-05T07:35:00.000,DEATH INVESTIGATION,"[-71.07157, 42.284188]",Point,01INV,11,ALARMM,933,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,772098.3196,,2928876.74,2012
+195866,120698720.0,Monday,No,2012-11-05T23:08:00.000,DEATH INVESTIGATION,"[-71.075585, 42.340456]",Point,01INV,11,SDNDTH,157,D4,First,No,W NEWTON ST,Part Three,Unarmed,770909.8909,,2949376.4669999997,2012

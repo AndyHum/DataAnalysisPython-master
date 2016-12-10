@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45241,120730214.0,Monday,No,2012-08-13T07:50:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,8,LSTPRP,72,A1,Day,No,SUDBURY ST,Part Three,Other,775087.02,,2957120.525,2012
+82415,120504756.0,Monday,No,2012-08-13T11:00:00.000,PropLost,"[-71.109925, 42.263971]",Point,PropLost,8,LSTPRP,493,E18,Day,No,EDWARDSON ST,Part Three,Unarmed,761753.4029,,2921459.7830000003,2012
+88072,120507086.0,Monday,No,2012-08-13T12:00:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,8,LSTPRP,93,A1,Day,No,FANEUIL HALL SQ,Part Three,Unarmed,776216.1627,,2956559.0330000003,2012
+96517,120502767.0,Monday,No,2012-08-13T13:20:00.000,PropLost,"[-71.066885, 42.362496]",Point,PropLost,8,LARCRT,64,A1,Day,No,BLOSSOM ST,Part Three,Unarmed,773221.1808,,2957420.083,2012
+111849,120512128.0,Monday,No,2012-08-13T15:00:00.000,PropLost,"[-71.104895, 42.337681]",Point,PropLost,8,LARCRT,612,B2,Day,No,LONGWOOD AV,Part Three,Unarmed,762990.5031,,2948327.137,2012
+132324,120504527.0,Monday,No,2012-08-13T23:00:00.000,PropLost,"[-71.088325, 42.284031]",Point,PropLost,8,LSTPRP,429,B3,First,No,THEODORE ST,Part Three,Unarmed,767564.8231,,2928797.397,2012
+192085,120503382.0,Monday,No,2012-08-13T10:00:00.000,PropLost,"[-71.08418, 42.287121]",Point,PropLost,8,LSTPRP,432,B3,Day,No,WOODROW AV,Part Three,Unarmed,768680.9504,,2929928.878,2012

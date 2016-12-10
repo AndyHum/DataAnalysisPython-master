@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52808,142012087.0,Wednesday,No,2014-07-23T12:00:00.000,PersLoc,"[-71.116308, 42.288786]",Point,PersLoc,7,IVPER,0,E13,Day,No,FLORIAN ST,Other,Unarmed,759984.8796,,2930494.675,2014
+70725,142012774.0,Wednesday,No,2014-07-23T08:30:00.000,PersLoc,"[-71.108165, 42.325526]",Point,PersLoc,7,IVPER,0,E13,Day,No,GROTTO GLEN RD,Other,Unarmed,762126.7552,,2943893.5560000003,2014
+208323,142012565.0,Wednesday,No,2014-07-23T20:30:00.000,PersLoc,"[-71.152004, 42.267277]",Point,PersLoc,7,IVPER,0,E5,First,No,HIGH VIEW AV,Other,Unarmed,750358.4756,WASHINGTON ST,2922615.268,2014
+218023,142012161.0,Wednesday,No,2014-07-23T17:00:00.000,PersLoc,"[-71.079987, 42.339076]",Point,PersLoc,7,MISSIN,0,D4,First,No,MASSACHUSETTS AV,Other,Unarmed,769722.0129999999,,2948867.455,2014

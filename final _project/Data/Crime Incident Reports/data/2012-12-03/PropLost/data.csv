@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11378,120758670.0,Monday,No,2012-12-03T22:30:00.000,PropLost,"[-71.081565, 42.345586]",Point,PropLost,12,LARCRT,146,D4,First,No,HUNTINGTON AV,Part Three,Unarmed,769284.003,,2951237.9460000005,2012
+20599,120757256.0,Monday,No,2012-12-03T11:40:00.000,PropLost,"[-71.079137, 42.291224]",Point,PropLost,12,LSTPRP,439,B3,Day,No,BERNARD ST,Part Three,Unarmed,770037.8624,,2931430.4560000002,2012
+46530,120757885.0,Monday,No,2012-12-03T14:00:00.000,PropLost,"[-71.07747, 42.327771]",Point,PropLost,12,LSTPRP,288,B2,Day,No,DUDLEY ST,Part Three,Unarmed,770423.172,ADAMS ST,2944751.296,2012
+91637,130160303.0,Monday,No,2012-12-03T15:00:00.000,PropLost,"[-71.074615, 42.32577]",Point,PropLost,12,LSTPRP,180,B2,Day,No,DUNMORE ST,Part Three,Unarmed,771198.7111,,2944025.8639999996,2012
+136329,120759669.0,Monday,No,2012-12-03T15:13:00.000,PropLost,"[-71.06494, 42.343021]",Point,PropLost,12,LARCRT,165,D4,Day,No,HARRISON AV,Part Three,Unarmed,773783.0344,,2950325.6980000003,2012
+169420,120780078.0,Monday,No,2012-12-03T00:01:00.000,PropLost,"[-71.09104, 42.337616]",Point,PropLost,12,LSTPRP,590,D4,Last,No,LEON ST,Part Three,Unarmed,766736.5347,,2948321.106,2012
+188660,120757670.0,Monday,No,2012-12-03T08:00:00.000,PropLost,"[-71.06732, 42.327316]",Point,PropLost,12,LSTPRP,200,C6,Day,No,MASSACHUSETTS AV,Part Three,Other,773168.6514,,2944599.247,2012

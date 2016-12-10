@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89685,120466393.0,Saturday,No,2012-07-28T15:15:00.000,Hazardous,"[-71.050635, 42.312856]",Point,Hazardous,7,REQP  ,250,C11,Day,No,WAVE AV,Part Three,Unarmed,777708.1942,,2939353.119,2012
+142721,120466939.0,Saturday,No,2012-07-28T20:07:00.000,Hazardous,"[-71.10658, 42.307351]",Point,Hazardous,7,MEET  ,570,E13,First,No,WASHINGTON ST,Part Three,Unarmed,762585.9164,KENTON RD,2937272.251,2012
+155774,120465824.0,Saturday,No,2012-07-28T09:35:00.000,Hazardous,"[-71.10584, 42.333636]",Point,Hazardous,7,INVEST,604,B2,Day,No,HUNTINGTON AV,Part Three,Unarmed,762741.8189,,2946851.883,2012

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22324,142021460.0,Thursday,No,2014-08-21T09:35:00.000,InvProp,"[-71.14938, 42.287191]",Point,InvProp,8,SUSOBJ,0,E5,Day,No,CENTRE ST,Part three,Unarmed,751038.8958,,2929875.124,2014
+44730,142021479.0,Thursday,No,2014-08-21T10:50:00.000,InvProp,"[-71.07321, 42.292406]",Point,InvProp,8,REQP,0,B3,Day,No,ROSEDALE ST,Part three,Unarmed,771639.5912,,2931869.47,2014
+96064,142021874.0,Thursday,No,2014-08-21T15:00:00.000,InvProp,"[-71.090956, 42.333723]",Point,InvProp,8,IVPREM,0,B2,Day,No,SCHROEDER PLAZA,Part three,Firearm,766765.8102,,2946902.542,2014
+97546,142021495.0,Thursday,No,2014-08-21T11:01:00.000,InvProp,"[-71.162287, 42.294387]",Point,InvProp,8,ALARM,0,E5,Day,No,KEANE RD,Part three,Unarmed,747535.8674,,2932483.108,2014
+109560,142021403.0,Thursday,No,2014-08-21T02:06:00.000,InvProp,"[-71.104475, 42.345416]",Point,InvProp,8,BE,0,D4,Last,No,PARK DR,Part three,Unarmed,763090.9859,,2951146.4439999997,2014
+164626,142021466.0,Thursday,No,2014-08-21T10:19:00.000,InvProp,"[-71.09899, 42.350181]",Point,InvProp,8,HAZMAT,0,D4,Day,No,BAY STATE RD,Part three,Unarmed,764565.5978,,2952889.828,2014
+186971,142021663.0,Thursday,No,2014-08-21T21:00:00.000,InvProp,"[-71.07854, 42.343161]",Point,InvProp,8,IVPREM,0,D4,First,No,W NEWTON ST,Part three,Unarmed,770106.1236,COLUMBUS AV,2950358.256,2014
+194182,142021764.0,Thursday,No,2014-08-21T22:00:00.000,InvProp,"[-71.075205, 42.352516]",Point,InvProp,8,BE,0,D4,First,No,COMMONWEALTH AV,Part three,Other,770990.7349,,2953771.8680000002,2014
+207820,142021528.0,Thursday,No,2014-08-21T13:53:00.000,InvProp,"[-71.05238, 42.336371]",Point,InvProp,8,INVEST,0,C6,Day,No,W 6TH ST,Part three,Unarmed,777191.2536,,2947919.8910000003,2014

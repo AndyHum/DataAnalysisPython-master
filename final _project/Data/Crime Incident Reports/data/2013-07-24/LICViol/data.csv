@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43129,130459765.0,Wednesday,No,2013-07-24T13:20:00.000,LICViol,"[-71.077025, 42.327426]",Point,LICViol,7,CD35  ,268,B2,Day,No,DUDLEY ST,Part three,Unarmed,770544.1271,,2944626.17,2013
+135156,130460040.0,Wednesday,No,2013-07-24T15:10:00.000,LICViol,"[-71.061155, 42.357256]",Point,LICViol,7,CD35  ,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774779.5911,,2955518.44,2013
+225523,130459743.0,Wednesday,No,2013-07-24T13:00:00.000,LICViol,"[-71.074415, 42.330461]",Point,LICViol,7,CD35  ,179,B2,Day,No,FARNHAM ST,Part three,Unarmed,771244.3764,,2945735.687,2013
+251614,130460514.0,Wednesday,No,2013-07-24T18:18:00.000,LICViol,"[-71.122495, 42.266196]",Point,LICViol,7,ENVADM,495,E18,First,No,PROVIDENCE ST,Part three,Unarmed,758347.3513,,2922255.2939999998,2013

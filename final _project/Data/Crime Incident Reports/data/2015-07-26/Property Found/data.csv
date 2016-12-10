@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44079,,Sunday,No,2015-07-26T09:30:00.000,Property Found,"[0, 0]",Point,PropFound,7,IVPREM,208,C6,,No,E FIRST ST,Part Three,None,,SUMMER ST,,2015
+57503,,Sunday,No,2015-07-26T00:00:00.000,Property Found,"[-71.167563, 42.349176]",Point,PropFound,7,REQP,752,D14,,No,N CRESCENT CIRT,Part Three,None,746031.0,,2950000.0,2015
+89423,,Sunday,No,2015-07-26T00:00:00.000,Property Found,"[-71.073, 42.339203]",Point,PropFound,7,PROP,168,D4,,No,WASHINGTON ST,Part Three,None,771611.0,,2950000.0,2015
+236105,,Sunday,No,2015-07-26T00:00:00.000,Property Found,"[-71.152631, 42.281813]",Point,PropFound,7,PROP,702,E5,,No,WREN ST,Part Three,None,750167.0,,2930000.0,2015

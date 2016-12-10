@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32526,130074891.0,Tuesday,No,2013-02-05T13:06:00.000,InvProp,"[-71.068365, 42.328546]",Point,InvProp,2,IVPER ,177,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,772883.8062,,2945046.048,2013
+67720,130074019.0,Tuesday,No,2013-02-05T01:12:00.000,InvProp,"[-71.05353, 42.359506]",Point,InvProp,2,LOCK  ,94,A1,Last,No,COMMERCIAL ST,Part Three,Unarmed,776836.1956,,2956349.079,2013
+74423,130075781.0,Tuesday,No,2013-02-05T18:30:00.000,InvProp,"[-71.1046, 42.345631]",Point,InvProp,2,PDRPT ,629,D4,First,No,MEDFIELD ST,Part Three,Unarmed,763056.8315,PARK DR,2951224.637,2013
+138137,130075575.0,Tuesday,No,2013-02-05T18:00:00.000,InvProp,"[-71.080596, 42.327236]",Point,InvProp,2,HAZMAT,281,B2,First,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013
+142934,130073944.0,Tuesday,No,2013-02-05T00:10:00.000,InvProp,"[-71.130364, 42.242611]",Point,InvProp,2,ALARMC,523,E18,Last,No,HYDE PARK AV,Part Three,Unarmed,756254.4316,,2913651.113,2013
+190581,130075722.0,Tuesday,No,2013-02-05T19:22:00.000,InvProp,"[-71.124318, 42.275777]",Point,InvProp,2,SHOTS ,555,E18,First,No,MAYNARD ST,Part Three,Unarmed,757838.3159,,2925744.287,2013
+234888,130075085.0,Tuesday,No,2013-02-05T14:30:00.000,InvProp,"[-71.09222, 42.281641]",Point,InvProp,2,IVPREM,428,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766515.0223,HOSMER ST,2927921.383,2013

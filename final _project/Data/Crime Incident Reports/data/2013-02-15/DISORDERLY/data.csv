@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16862,130096449.0,Friday,No,2013-02-15T14:30:00.000,DISORDERLY,"[-71.08323, 42.327536]",Point,24xx,2,INVEST,282,B2,Day,No,WARREN ST,Part Two,Unarmed,768866.0406,,2944657.9960000003,2013
+57068,130095643.0,Friday,No,2013-02-15T02:00:00.000,DISORDERLY,"[-71.040034, 42.317592]",Point,24xx,2,MISC  ,256,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780565.8978,BEACH POINT PL,2941094.309,2013
+166416,130096104.0,Friday,No,2013-02-15T11:15:00.000,DISORDERLY,"[-71.160234, 42.345844]",Point,24xx,2,TRANSP,750,D14,Day,No,GLENMONT RD,Part Two,Unarmed,748016.682,,2951237.2589999996,2013
+234905,130097466.0,Friday,No,2013-02-15T23:03:00.000,DISORDERLY,"[-71.13241, 42.353026]",Point,24xx,2,FIGHT ,802,D14,First,No,BRIGHTON AV,Part Two,Unarmed,755527.2809,HARVARD AV,2953885.8989999997,2013

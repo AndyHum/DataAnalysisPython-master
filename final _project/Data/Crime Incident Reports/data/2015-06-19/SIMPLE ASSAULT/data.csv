@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8857,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.094529, 42.277915]",Point,08xx,6,AB,469,B3,,No,WALK HILL ST,Part Two,None,765896.0,,2930000.0,2015
+19487,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.061498, 42.34888]",Point,08xx,6,IVPER,124,A1,,No,TYLER ST,Part Two,Other,774703.0,,2950000.0,2015
+56010,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.061986, 42.326966]",Point,08xx,6,AB,186,C6,,No,ALLSTATE RD,Part Two,None,774612.0,,2940000.0,2015
+67332,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.161185, 42.257984]",Point,08xx,6,AB,714,E5,,No,WASHINGTON ST,Part Two,None,747887.0,,2920000.0,2015
+83333,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.065468, 42.312508]",Point,08xx,6,AB,334,C11,,No,TRULL ST,Part Two,None,773697.0,,2940000.0,2015
+109777,,Friday,No,2015-06-19T20:15:00.000,Simple Assault,"[0, 0]",Point,08xx,6,ASLTIP,400,C11,,No,ASHMONT ST,Part Two,Personal Weapon (hand  foot  etc.),,MONTAGUE ST,,2015
+132426,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.063705, 42.352312]",Point,08xx,6,ARREST,111,A1,,No,BOYLSTON ST,Part Two,None,774099.0,,2950000.0,2015
+148226,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.119742, 42.292556]",Point,08xx,6,NIDV,941,E5,,No,BROOKWAY RD,Part Two,None,759050.0,,2930000.0,2015
+170499,,Friday,No,2015-06-19T01:38:00.000,Simple Assault,"[0, 0]",Point,08xx,6,FIGHT,101,A1,,No,INDIA ST,Part Two,Personal Weapon (hand  foot  etc.),,MILK ST,,2015
+178313,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.108427, 42.334076]",Point,08xx,6,AB,611,B2,,No,MISSION PARK DR,Part Two,Personal Weapon (hand  foot  etc.),762042.0,,2950000.0,2015
+189261,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.094, 42.319047]",Point,08xx,6,OT,306,B2,,No,CODMAN PARK,Part Two,Personal Weapon (hand  foot  etc.),765968.0,,2940000.0,2015
+202008,,Friday,No,2015-06-19T20:03:00.000,Simple Assault,"[0, 0]",Point,08xx,6,REQP,7,A7,,No,ASHLEY ST,Part Two,Personal Weapon (hand  foot  etc.),, BENNINGTON ST ,,2015
+203432,,Friday,No,2015-06-19T00:00:00.000,Simple Assault,"[-71.081036, 42.317859]",Point,08xx,6,FIGHT,311,B2,,No,MAYWOOD ST,Part Two,None,769477.0,,2940000.0,2015

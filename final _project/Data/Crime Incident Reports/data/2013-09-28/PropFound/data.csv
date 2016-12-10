@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40852,130619471.0,Saturday,No,2013-09-28T15:00:00.000,PropFound,"[-71.06879, 42.357971]",Point,PropFound,9,INVEST,70,A1,Day,No,MT VERNON ST,Part three,Unarmed,772714.673,LOUISBURG SQ,2955768.475,2013
+102507,130619428.0,Saturday,No,2013-09-28T15:00:00.000,PropFound,"[-71.08174, 42.340581]",Point,PropFound,9,FDPROP,284,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,769245.6389,COLUMBUS AV,2949413.7989999996,2013
+152308,130619419.0,Saturday,No,2013-09-28T15:50:00.000,PropFound,"[-71.07705, 42.336481]",Point,PropFound,9,FDPROP,170,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770521.0048,WASHINGTON ST,2947925.937,2013
+166425,130620117.0,Saturday,No,2013-09-28T21:50:00.000,PropFound,"[-71.07102, 42.349216]",Point,PropFound,9,IVPREM,125,A1,First,No,COLUMBUS AV,Part three,Unarmed,772127.9967,,2952574.9460000005,2013
+182409,130619595.0,Saturday,No,2013-09-28T17:22:00.000,PropFound,"[-71.07078, 42.359871]",Point,PropFound,9,FDPROP,66,A1,First,No,CHARLES ST,Part three,Unarmed,772173.3348,,2956458.16,2013
+225598,130620016.0,Saturday,No,2013-09-28T20:45:00.000,PropFound,"[-71.16658, 42.290251]",Point,PropFound,9,FDPROP,740,E5,First,No,NEWFIELD ST,Part three,Unarmed,746380.5219,,2930971.575,2013

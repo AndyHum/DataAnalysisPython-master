@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76238,140260479.0,Tuesday,No,2014-04-29T14:30:00.000,32GUN,"[-71.056415, 42.326841]",Point,32GUN,4,BUYBAK,914,C6,Day,No,KEMP ST,Part three,Unarmed,776118.3673,,2944441.296,2014
+161222,140260952.0,Tuesday,No,2014-04-29T16:15:00.000,32GUN,"[-71.091325, 42.284861]",Point,32GUN,4,BUYBAK,465,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+195950,140260910.0,Tuesday,No,2014-04-29T15:30:00.000,32GUN,"[-71.041515, 42.371511]",Point,32GUN,4,BUYBAK,26,A7,Day,No,LIVERPOOL ST,Part three,Unarmed,780059.9946,,2960741.1610000003,2014

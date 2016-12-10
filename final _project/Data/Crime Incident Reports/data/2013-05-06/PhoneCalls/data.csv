@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14304,130269283.0,Monday,No,2013-05-06T19:08:00.000,PhoneCalls,"[-71.069515, 42.383745]",Point,PhoneCalls,5,THREAT,47,A15,First,No,MEDFORD ST,Part Three,Other,772471.1984,,2965159.787,2013
+27972,130268687.0,Monday,No,2013-05-06T11:00:00.000,PhoneCalls,"[-71.166065, 42.353471]",Point,PhoneCalls,5,THREAT,759,D14,Day,No,PERTHSHIRE RD,Part three,Unarmed,746429.6340000001,,2954010.538,2013
+156205,130269056.0,Monday,No,2013-05-06T19:30:00.000,PhoneCalls,"[-71.077413, 42.34321]",Point,PhoneCalls,5,THREAT,153,D4,First,No,PEMBROKE ST,Part Three,Unarmed,770410.4653,,2950377.4110000003,2013
+237389,130284602.0,Monday,No,2013-05-06T22:55:00.000,PhoneCalls,"[-71.072285, 42.342411]",Point,PhoneCalls,5,INVEST,159,D4,First,No,UPTON ST,Part Three,Unarmed,771798.4845,,2950093.361,2013

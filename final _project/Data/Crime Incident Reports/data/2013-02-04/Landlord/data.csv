@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23234,130073507.0,Monday,No,2013-02-04T18:54:00.000,Landlord,"[-71.121632, 42.279758]",Point,Landlord,2,VANRPT,556,E5,First,No,SEYMOUR ST,Part Three,Unarmed,758558.8093,,2927198.481,2013
+132157,130073448.0,Monday,No,2013-02-04T18:35:00.000,Landlord,"[-71.120865, 42.258636]",Point,Landlord,2,VANRPT,519,E18,First,No,CENTRAL AV,Part Three,Unarmed,758800.7947,,2919502.2860000003,2013
+208277,130079496.0,Monday,No,2013-02-04T13:57:00.000,Landlord,"[-71.08913, 42.281956]",Point,Landlord,2,LANTEN,428,B3,Day,No,SUTTON ST,Part Three,Unarmed,767350.6368,,2928040.186,2013

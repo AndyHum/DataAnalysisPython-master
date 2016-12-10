@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+734,152017032.0,Tuesday,No,2015-03-03T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,A1,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+5672,152017079.0,Tuesday,No,2015-03-03T10:00:00.000,InvProp,"[-71.05862, 42.295126]",Point,InvProp,3,REQP,0,C11,Day,No,LESLIE ST,Part three,Unarmed,775581.9166,,2932880.7630000003,2015
+42904,152017220.0,Tuesday,No,2015-03-03T17:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,3,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+69897,152022848.0,Tuesday,No,2015-03-03T06:00:00.000,InvProp,"[-71.07367, 42.344506]",Point,InvProp,3,BE,0,D4,Last,No,WARREN AV,Part three,Unarmed,771420.2386,,2950854.9439999997,2015
+101206,152037615.0,Tuesday,No,2015-03-03T08:00:00.000,InvProp,"[-71.063107, 42.301073]",Point,InvProp,3,IVMV,0,C11,Day,No,ARCADIA PARK,Part three,Unarmed,774356.6356,,2935041.712,2015
+151150,152017128.0,Tuesday,No,2015-03-03T13:38:00.000,InvProp,"[-71.08356, 42.328666]",Point,InvProp,3,LARCEN,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,768774.7954,,2945069.352,2015
+186789,152017113.0,Tuesday,No,2015-03-03T10:35:00.000,InvProp,"[-71.148344, 42.338331]",Point,InvProp,3,ALARM,0,D14,Day,No,STRATHMORE RD,Part three,Unarmed,751242.1822,,2948512.3210000005,2015
+263090,152017026.0,Tuesday,No,2015-03-03T03:35:00.000,InvProp,"[0, 0]",Point,InvProp,3,SSA,0,B3,Last,No,BABSON ST,Part three,Unarmed,,,,2015

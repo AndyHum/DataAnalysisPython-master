@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97400,130478779.0,Thursday,No,2013-08-01T09:50:00.000,FIRE,"[-71.07912, 42.353621]",Point,FIRE,8,FV    ,135,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,769930.5159,BEACON ST,2954169.3039999995,2013
+140892,130479080.0,Thursday,No,2013-08-01T12:23:00.000,FIRE,"[-71.07426, 42.313657]",Point,FIRE,8,FIREB ,327,B2,Day,No,WAYLAND ST,Part three,Unarmed,771316.8572,,2939612.229,2013
+213054,130478260.0,Thursday,No,2013-08-01T01:38:00.000,FIRE,"[-71.074875, 42.314326]",Point,FIRE,8,FIREB ,327,B2,Last,No,CUNNINGHAM ST,Part three,Other,771149.2998,,2939855.202,2013

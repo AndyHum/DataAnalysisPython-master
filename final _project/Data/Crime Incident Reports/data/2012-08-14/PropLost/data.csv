@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24690,120505619.0,Tuesday,No,2012-08-14T17:30:00.000,PropLost,"[-71.165145, 42.291106]",Point,PropLost,8,LSTPRP,740,E5,First,No,CHELLMAN ST,Part Three,Unarmed,746767.5654,,2931284.672,2012
+61840,120505848.0,Tuesday,No,2012-08-14T18:00:00.000,PropLost,"[-71.11415, 42.312261]",Point,PropLost,8,LSTPRP,645,E13,First,No,CENTRE ST,Part Three,Unarmed,760530.1714,SEAVERNS AV,2939052.183,2012
+147438,120506269.0,Tuesday,No,2012-08-14T22:00:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,8,LSTPRP,111,A1,First,No,TREMONT ST,Part Three,Unarmed,773924.729,,2953989.2660000003,2012
+170871,120506403.0,Tuesday,No,2012-08-14T22:30:00.000,PropLost,"[-71.03911, 42.375551]",Point,PropLost,8,LARCRT,23,A7,First,No,SARATOGA ST,Part Three,Unarmed,780701.9188,MERIDIAN ST,2962216.92,2012
+171395,120527461.0,Tuesday,No,2012-08-14T12:00:00.000,PropLost,"[-71.065845, 42.301366]",Point,PropLost,8,LSTPRP,352,C11,Day,No,WESTVILLE ST,Part Three,Unarmed,773615.6368,,2935144.682,2012
+215968,120505446.0,Tuesday,No,2012-08-14T16:33:00.000,PropLost,"[-71.11868, 42.285931]",Point,PropLost,8,LSTPRP,503,E18,First,No,HYDE PARK AV,Part Three,Unarmed,759347.8159,,2929451.6010000003,2012
+264248,120504733.0,Tuesday,No,2012-08-14T11:05:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,915,C6,Day,No,COLUMBIA PARK,Part Three,Other,,,,2012
+265602,120525326.0,Tuesday,No,2012-08-14T11:30:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,536,E18,Day,No,COLUMBUS AV,Part Three,Unarmed,,,,2012

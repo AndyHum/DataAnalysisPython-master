@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38701,120710372.0,Sunday,No,2012-11-11T03:00:00.000,OPERATING UNDER INFLUENCE,"[-71.013745, 42.385036]",Point,21xx,11,MVA   ,12,A7,Last,No,SARATOGA ST,Part Two,Other,787535.9081,,2965711.498,2012
+111387,120711763.0,Sunday,No,2012-11-11T21:34:00.000,OPERATING UNDER INFLUENCE,"[-71.11495, 42.282411]",Point,21xx,11,MVA   ,496,E18,First,No,AMERICAN LEGION HY,Part Two,Unarmed,760362.8967,MT HOPE ST,2928173.396,2012
+158650,120711603.0,Sunday,No,2012-11-11T20:05:00.000,OPERATING UNDER INFLUENCE,"[-71.06149, 42.350551]",Point,21xx,11,MVADD ,116,A1,First,No,KNEELAND ST,Part Two,Unarmed,774701.6076,HARRISON AV,2953074.545,2012

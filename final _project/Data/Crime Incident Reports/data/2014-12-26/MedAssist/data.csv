@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19482,142060820.0,Friday,No,2014-12-26T23:45:00.000,MedAssist,"[-71.03551, 42.367401]",Point,MedAssist,12,EDP,0,A7,First,No,COTTAGE ST,Part three,Unarmed,781690.8237,,2959252.1760000004,2014
+55819,142060616.0,Friday,No,2014-12-26T08:54:00.000,MedAssist,"[-71.105225, 42.270276]",Point,MedAssist,12,UNCONS,0,E18,Day,No,GREENFIELD RD,Part three,Unarmed,763014.9693,,2923763.262,2014
+74304,142060754.0,Friday,No,2014-12-26T18:00:00.000,MedAssist,"[-71.090835, 42.286361]",Point,MedAssist,12,CARDIA,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766881.5587,,2929643.213,2014
+75574,142060797.0,Friday,No,2014-12-26T21:33:00.000,MedAssist,"[-71.084009, 42.345962]",Point,MedAssist,12,UNKEMS,0,D4,First,No,BELVIDERE ST,Part three,Unarmed,768622.3928,,2951371.465,2014
+103447,142060615.0,Friday,No,2014-12-26T08:08:00.000,MedAssist,"[-71.03938, 42.333881]",Point,MedAssist,12,EDP,0,C6,Day,No,E 5TH ST,Part three,Unarmed,780710.9693,,2947031.205,2014
+116351,142060678.0,Friday,No,2014-12-26T12:58:00.000,MedAssist,"[-71.134, 42.289041]",Point,MedAssist,12,CARDIA,0,E5,Day,No,HEWLETT ST,Part three,Unarmed,755197.5563,WALTER ST,2930566.7739999997,2014
+188269,152001462.0,Friday,No,2014-12-26T06:50:00.000,MedAssist,"[-71.0729, 42.333256]",Point,MedAssist,12,MISC,0,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2014
+218593,142060767.0,Friday,No,2014-12-26T19:20:00.000,MedAssist,"[-71.08699, 42.327751]",Point,MedAssist,12,IVPER,0,B2,First,No,BARTLETT ST,Part three,Other,767848.9239,WASHINGTON ST,2944731.4,2014
+255502,142060705.0,Friday,No,2014-12-26T14:51:00.000,MedAssist,"[-71.078586, 42.32835]",Point,MedAssist,12,IVPER,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,770120.2868,,2944960.5310000004,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65,152033544.0,Saturday,No,2015-04-25T00:44:00.000,Gather,"[0, 0]",Point,Gather,4,DISTRB,0,B2,Last,No,FISHER AV,Part three,Unarmed,,,,2015
+35126,152033749.0,Saturday,No,2015-04-25T16:54:00.000,Gather,"[-71.11308, 42.281181]",Point,Gather,4,DISTRB,0,E18,First,No,MT HOPE ST,Part three,Unarmed,760870.7941,,2927727.4710000004,2015
+122151,152033536.0,Saturday,No,2015-04-25T00:15:00.000,Gather,"[-71.099715, 42.329496]",Point,Gather,4,DISTRB,0,B2,Last,No,HILLSIDE ST,Part three,Unarmed,764404.997,,2945350.905,2015

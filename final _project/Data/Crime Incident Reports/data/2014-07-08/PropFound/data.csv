@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74474,142007464.0,Tuesday,No,2014-07-08T17:30:00.000,PropFound,"[-71.03865, 42.380136]",Point,PropFound,7,IVPREM,0,A7,First,No,MARION ST,Part three,Unarmed,780817.1758,,2963888.46,2014
+91383,142007114.0,Tuesday,No,2014-07-08T08:34:00.000,PropFound,"[-71.109935, 42.321701]",Point,PropFound,7,PROP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,761654.4897,DAY ST,2942497.465,2014
+157467,142007148.0,Tuesday,No,2014-07-08T09:55:00.000,PropFound,"[-71.159055, 42.352636]",Point,PropFound,7,PROP,0,D14,Day,No,ARLINGTON ST,Part three,Unarmed,748325.6624,,2953713.8619999997,2014

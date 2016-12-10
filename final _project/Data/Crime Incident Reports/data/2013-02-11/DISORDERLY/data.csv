@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18311,130087916.0,Monday,No,2013-02-11T19:20:00.000,DISORDERLY,"[-71.0332, 42.375466]",Point,24xx,2,DVIP  ,21,A7,First,No,MORRIS ST,Part Two,Unarmed,782298.9865,,2962194.63,2013
+90216,130087231.0,Monday,No,2013-02-11T14:20:00.000,DISORDERLY,"[-71.090956, 42.333723]",Point,24xx,2,ARREST,289,B2,Day,No,SCHROEDER PLAZA,Part Two,Unarmed,766765.8102,,2946902.542,2013
+127055,130088226.0,Monday,No,2013-02-11T22:01:00.000,DISORDERLY,"[-71.080596, 42.327236]",Point,24xx,2,FIGHT ,281,B2,First,No,GREENVILLE ST,Part Two,Unarmed,769578.6737,,2944551.923,2013

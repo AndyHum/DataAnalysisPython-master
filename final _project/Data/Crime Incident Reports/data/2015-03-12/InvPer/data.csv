@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6293,152019953.0,Thursday,No,2015-03-12T12:18:00.000,InvPer,"[-71.083435, 42.280591]",Point,InvPer,3,DISTRB,0,B3,Day,No,MORTON ST,Part three,Unarmed,768894.1564,,2927550.2369999997,2015
+8763,152019890.0,Thursday,No,2015-03-12T08:50:00.000,InvPer,"[-71.061745, 42.356021]",Point,InvPer,3,AB,0,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2015
+17801,152020154.0,Thursday,No,2015-03-12T21:30:00.000,InvPer,"[-71.073978, 42.333151]",Point,InvPer,3,IVPER,0,D4,First,No,ALBANY ST,Part three,Unarmed,771357.6081,,2946716.26,2015
+39693,152020137.0,Thursday,No,2015-03-12T21:47:00.000,InvPer,"[-71.05984, 42.356501]",Point,InvPer,3,IVPER,0,A1,First,No,BROMFIELD ST,Part three,Unarmed,775136.4313,,2955245.135,2015
+55405,152019949.0,Thursday,No,2015-03-12T10:10:00.000,InvPer,"[-71.070938, 42.304692]",Point,InvPer,3,IVPER,0,C11,Day,No,BLAKEVILLE ST,Part three,Unarmed,772231.7517,,2936349.582,2015
+89221,152020236.0,Thursday,No,2015-03-12T19:45:00.000,InvPer,"[-71.012211, 42.387175]",Point,InvPer,3,IVPER,0,A7,First,No,BRANDYWYNE DR,Part three,Unarmed,787945.8755,,2966493.185,2015
+159254,152020146.0,Thursday,No,2015-03-12T22:07:00.000,InvPer,"[-71.076668, 42.346397]",Point,InvPer,3,ALARM,0,D4,First,No,YARMOUTH PL,Part three,Unarmed,770606.1059999999,,2951539.878,2015
+197465,152020021.0,Thursday,No,2015-03-12T15:08:00.000,InvPer,"[-71.095913, 42.335108]",Point,InvPer,3,IVPER,0,B2,Day,No,WARD ST,Part three,Unarmed,765423.3474,,2947400.8019999997,2015
+203461,152020086.0,Thursday,No,2015-03-12T15:20:00.000,InvPer,"[-71.078421, 42.284653]",Point,InvPer,3,IVPER,0,B3,Day,No,THETFORD AV,Part three,Unarmed,770243.5782,,2929036.869,2015
+261533,152020198.0,Thursday,No,2015-03-12T15:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,,,,2015
+263538,152020147.0,Thursday,No,2015-03-12T22:10:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,C6,First,No,E BROADWAY,Part three,Unarmed,,,,2015
+267957,152020005.0,Thursday,No,2015-03-12T15:45:00.000,InvPer,"[0, 0]",Point,InvPer,3,LARCEN,0,E13,Day,No,CENTRE ST,Part three,Unarmed,,,,2015

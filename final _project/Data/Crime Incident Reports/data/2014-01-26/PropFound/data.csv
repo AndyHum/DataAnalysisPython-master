@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88376,140054185.0,Sunday,No,2014-01-26T14:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,1,FDPROP,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2014
+115128,140052218.0,Sunday,No,2014-01-26T08:35:00.000,PropFound,"[-71.04424, 42.335481]",Point,PropFound,1,LSTPRP,220,C6,Day,No,E BROADWAY,Part three,Unarmed,779393.8013,G ST,2947607.213,2014
+129499,140061862.0,Sunday,No,2014-01-26T12:00:00.000,PropFound,"[-71.11964, 42.313821]",Point,PropFound,1,FDPROP,641,E13,Day,No,JAMAICAWAY,Part three,Unarmed,759042.73,POND ST,2939614.003,2014
+190986,140052552.0,Sunday,No,2014-01-26T14:04:00.000,PropFound,"[-71.06361, 42.348321]",Point,PropFound,1,FDWEAP,123,A1,Day,No,ASH ST,Part three,Firearm,774132.7079,OAK ST,2952258.952,2014

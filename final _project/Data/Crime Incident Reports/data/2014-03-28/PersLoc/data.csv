@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31637,140189398.0,Friday,No,2014-03-28T14:00:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,3,MISPER,345,C11,Day,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+50056,140188594.0,Friday,No,2014-03-28T23:10:00.000,PersLoc,"[-71.075539, 42.301738]",Point,PersLoc,3,MISPER,462,C11,First,No,BOWDOIN AV,Other,Unarmed,770992.4228,,2935266.7830000003,2014
+110821,140193105.0,Friday,No,2014-03-28T10:00:00.000,PersLoc,"[-71.072008, 42.301524]",Point,PersLoc,3,MISPER,462,C11,Day,No,BOWDOIN ST,Other,Unarmed,771947.8819,,2935193.67,2014
+138916,140186358.0,Friday,No,2014-03-28T01:40:00.000,PersLoc,"[-71.076983, 42.314285]",Point,PersLoc,3,MISPER,325,B2,Last,No,WAYLAND ST,Other,Unarmed,770579.0601,,2939837.128,2014
+165186,140193896.0,Friday,No,2014-03-28T23:30:00.000,PersLoc,"[-71.080907, 42.28446]",Point,PersLoc,3,MISPER,434,B3,First,No,NORFOLK ST,Other,Unarmed,769571.1147,,2928963.528,2014
+214438,140200447.0,Friday,No,2014-03-28T16:00:00.000,PersLoc,"[-71.083646, 42.332502]",Point,PersLoc,3,MISPER,276,B2,First,No,SHAWMUT AV,Other,Unarmed,768744.4995,,2946467.083,2014

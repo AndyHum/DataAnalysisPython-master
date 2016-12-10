@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123728,130308847.0,Saturday,No,2013-05-18T12:00:00.000,PersMiss,"[-71.074513, 42.314688]",Point,PersMiss,5,MISPER,327,B2,Day,No,WOODLEDGE ST,Other,Unarmed,771246.3715,,2939987.483,2013
+174785,130298324.0,Saturday,No,2013-05-18T17:00:00.000,PersMiss,"[-71.07903, 42.320369]",Point,PersMiss,5,MISPER,265,B2,First,No,WAVERLY ST,Other,Unarmed,770014.5147,,2942051.588,2013
+187036,130298008.0,Saturday,No,2013-05-18T21:00:00.000,PersMiss,"[-71.094678, 42.319428]",Point,PersMiss,5,CURFEW,304,B2,First,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2013

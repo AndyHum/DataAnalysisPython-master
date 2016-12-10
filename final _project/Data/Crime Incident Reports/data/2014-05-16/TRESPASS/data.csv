@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30092,140304054.0,Friday,No,2014-05-16T16:50:00.000,TRESPASS,"[-71.059415, 42.359251]",Point,TRESPASS,5,REMOVE,92,A1,First,No,CITY HALL PZ,Part Two,Unarmed,775246.1256,,2956247.881,2014
+65307,140304340.0,Friday,No,2014-05-16T18:00:00.000,TRESPASS,"[-71.084525, 42.329741]",Point,TRESPASS,5,IVPREM,288,B2,First,No,WASHINGTON ST,Part Two,Other,768511.9472,,2945459.828,2014
+218317,140304836.0,Friday,No,2014-05-16T22:15:00.000,TRESPASS,"[-71.074385, 42.335516]",Point,TRESPASS,5,ARREST,171,D4,First,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2014

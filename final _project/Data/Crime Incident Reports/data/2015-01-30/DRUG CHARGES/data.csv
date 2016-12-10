@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110372,152008022.0,Friday,No,2015-01-30T13:20:00.000,DRUG CHARGES,"[-71.065153, 42.29921]",Point,18xx,1,INVEST,0,C11,Day,No,WALDECK ST,Part Two,Other,773806.5957,,2934359.6689999998,2015
+166902,152007898.0,Friday,No,2015-01-30T01:18:00.000,DRUG CHARGES,"[-71.05739, 42.350641]",Point,18xx,1,ARREST,0,A1,Last,No,BEACH ST,Part Two,Unarmed,775809.7102,SOUTH ST,2953113.066,2015
+239204,152008003.0,Friday,No,2015-01-30T07:30:00.000,DRUG CHARGES,"[-71.091325, 42.284861]",Point,18xx,1,IVPREM,0,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,766751.5911,,2929095.955,2015
+245300,152007995.0,Friday,No,2015-01-30T12:07:00.000,DRUG CHARGES,"[-71.063675, 42.352301]",Point,18xx,1,IVPER,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2015

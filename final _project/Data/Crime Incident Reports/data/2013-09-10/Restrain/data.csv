@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41836,130576530.0,Tuesday,No,2013-09-10T21:36:00.000,Restrain,"[-71.074079, 42.346119]",Point,Restrain,9,IVPER ,150,D4,First,No,CHANDLER ST,Part Two,Unarmed,771306.5826,,2951441.914,2013
+86654,130581567.0,Tuesday,No,2013-09-10T12:00:00.000,Restrain,"[-71.163153, 42.269416]",Point,Restrain,9,IVPER ,716,E5,Day,No,GLENELLEN RD,Part Two,Unarmed,747337.5289,,2923382.341,2013
+226189,130576058.0,Tuesday,No,2013-09-10T17:37:00.000,Restrain,"[-71.083489, 42.308113]",Point,Restrain,9,VIORDR,319,B2,First,No,BLUE HILL AV,Part Two,Unarmed,768830.3802,,2937579.3460000004,2013

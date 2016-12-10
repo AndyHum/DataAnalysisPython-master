@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63276,120760141.0,Tuesday,No,2012-12-04T16:54:00.000,Arrest,"[-71.04625, 42.354256]",Point,Arrest,12,CD11  ,207,C6,First,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012
+120835,120760756.0,Tuesday,No,2012-12-04T19:35:00.000,Arrest,"[-71.0906, 42.286571]",Point,Arrest,12,SSTOP ,430,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766944.7791,ANSELL RD,2929720.045,2012
+192816,120759379.0,Tuesday,No,2012-12-04T09:27:00.000,Arrest,"[-71.06259, 42.311141]",Point,Arrest,12,ARREST,334,C11,Day,No,HANCOCK ST,Part Three,Unarmed,774477.9156,BOWDOIN ST,2938711.337,2012

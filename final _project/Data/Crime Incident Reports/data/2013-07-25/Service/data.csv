@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5742,130462293.0,Thursday,No,2013-07-25T12:39:00.000,Service,"[-71.062605, 42.317161]",Point,Service,7,CD11  ,241,C11,Day,No,ALVAN TR,Part three,Unarmed,774462.6091,,2940905.1,2013
+68042,130462139.0,Thursday,No,2013-07-25T11:15:00.000,Service,"[-71.04686, 42.337106]",Point,Service,7,INVEST,213,C6,Day,No,PULASKI AV,Part three,Unarmed,778682.2746,,2948195.617,2013
+106765,130463520.0,Thursday,No,2013-07-25T22:30:00.000,Service,"[-71.053565, 42.285468]",Point,Service,7,REMOVE,379,C11,First,No,FRANCONIA ST,Part three,Other,776967.7039,,2929368.1580000003,2013
+192821,130461612.0,Thursday,No,2013-07-25T05:00:00.000,Service,"[-71.13158, 42.349131]",Point,Service,7,CRIP  ,793,D14,Last,No,ROYCE RD,Part three,Unarmed,755757.762,,2952467.4510000004,2013
+209132,130462275.0,Thursday,No,2013-07-25T11:45:00.000,Service,"[-71.0567, 42.317541]",Point,Service,7,ARREST,245,C11,Day,No,DORCHESTER AV,Part three,Unarmed,776058.9135,HARBOR VIEW ST,2941051.8219999997,2013
+219615,130462021.0,Thursday,No,2013-07-25T10:23:00.000,Service,"[-71.041225, 42.368566]",Point,Service,7,CD11  ,902,A7,Day,No,FATHER JACOBEE RD,Other,Unarmed,780144.1312,,2959668.3660000004,2013
+262202,130469543.0,Thursday,No,2013-07-25T23:59:00.000,Service,"[0, 0]",Point,Service,7,LARCRT,495,E18,Last,No,OAKLAND ST,Other,Unarmed,,,,2013

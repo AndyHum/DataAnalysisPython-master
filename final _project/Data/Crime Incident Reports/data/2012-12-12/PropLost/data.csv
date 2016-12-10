@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13974,120777698.0,Wednesday,No,2012-12-12T12:08:00.000,PropLost,"[-71.109305, 42.336121]",Point,PropLost,12,LARCRT,593,B2,Day,No,FENWOOD RD,Part Three,Unarmed,761800.7939,,2947753.153,2012
+37871,130109915.0,Wednesday,No,2012-12-12T17:00:00.000,PropLost,"[-71.090772, 42.341561]",Point,PropLost,12,LSTPRP,618,D4,First,No,HEMENWAY ST,Part Three,Unarmed,766801.9673,,2949758.7819999997,2012
+72999,120778677.0,Wednesday,No,2012-12-12T17:00:00.000,PropLost,"[-71.088205, 42.293726]",Point,PropLost,12,LSTPRP,440,B3,First,No,BLUE HILL AV,Part Three,Unarmed,767580.1636,,2932330.567,2012
+77127,120782936.0,Wednesday,No,2012-12-12T02:00:00.000,PropLost,"[-71.074525, 42.337508]",Point,PropLost,12,LARCRT,168,D4,Last,No,E CONCORD ST,Part Three,Unarmed,771201.7305,,2948303.372,2012
+104326,120788618.0,Wednesday,No,2012-12-12T14:00:00.000,PropLost,"[-71.05874, 42.322336]",Point,PropLost,12,LSTPRP,200,C6,Day,No,MT VERNON ST,Part Three,Unarmed,775498.1589,,2942796.3439999996,2012
+158496,130045796.0,Wednesday,No,2012-12-12T18:00:00.000,PropLost,"[-71.07948, 42.349491]",Point,PropLost,12,LSTPRP,138,D4,First,No,BOYLSTON ST,Part Three,Unarmed,769840.6296,EXETER ST,2952663.773,2012
+213390,120778647.0,Wednesday,No,2012-12-12T07:00:00.000,PropLost,"[-71.147605, 42.354461]",Point,PropLost,12,FDPROP,780,D14,Last,No,SAYBROOK ST,Part Three,Unarmed,751417.8997,,2954391.5089999996,2012
+242965,120777669.0,Wednesday,No,2012-12-12T08:55:00.000,PropLost,"[-71.06689, 42.361221]",Point,PropLost,12,TRACK ,64,A1,Day,No,CAMBRIDGE ST,Part Three,Unarmed,773222.1886,BLOSSOM ST,2956955.44,2012
+260796,120788505.0,Wednesday,No,2012-12-12T21:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,LSTPRP,72,A1,First,No,NASHUA ST,Part Three,Unarmed,,,,2012

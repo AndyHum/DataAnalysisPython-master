@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31999,130072410.0,Monday,No,2013-02-04T09:39:00.000,PropLost,"[-71.095673, 42.312875]",Point,PropLost,2,IVPER ,572,E13,Day,No,WALNUT AV,Part Three,Unarmed,765526.525,,2939299.0530000003,2013
+163187,130074634.0,Monday,No,2013-02-04T12:45:00.000,PropLost,"[-71.06859, 42.347431]",Point,PropLost,2,LSTPRP,161,D4,Day,No,TREMONT ST,Part Three,Unarmed,772788.1556,HERALD ST,2951927.771,2013
+166080,130073350.0,Monday,No,2013-02-04T17:35:00.000,PropLost,"[-71.09045, 42.308695]",Point,PropLost,2,LSTPRP,318,B2,First,No,SEAVER ST,Part Three,Unarmed,766946.5418,,2937782.313,2013
+221547,130072831.0,Monday,No,2013-02-04T13:27:00.000,PropLost,"[-71.063804, 42.313876]",Point,PropLost,2,LSTPRP,823,C11,Day,No,CUSHING AV,Part Three,Unarmed,774144.3198,,2939706.043,2013
+262567,130073865.0,Monday,No,2013-02-04T03:30:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,72,A1,Last,No,HUNTINGTON AV,Part Three,Unarmed,,WEST ST,,2013

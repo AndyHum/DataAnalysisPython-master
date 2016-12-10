@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6932,130314016.0,Saturday,No,2013-05-25T17:10:00.000,InvProp,"[-71.08609, 42.336106]",Point,InvProp,5,IVPREM,285,D4,First,No,TREMONT ST,Part three,Unarmed,768077.5159,,2947777.29,2013
+15001,130314220.0,Saturday,No,2013-05-25T20:03:00.000,InvProp,"[-71.080301, 42.292654]",Point,InvProp,5,SCHALM,439,B3,First,No,TALBOT AV,Part three,Unarmed,769720.5959999999,,2931950.291,2013
+36845,130386325.0,Saturday,No,2013-05-25T09:00:00.000,InvProp,"[-71.133124, 42.255179]",Point,InvProp,5,MISC  ,541,E18,Day,No,BRAINARD ST,Part three,Unarmed,755487.5086,,2918227.905,2013
+58560,130312690.0,Saturday,No,2013-05-25T01:23:00.000,InvProp,"[-71.100645, 42.319136]",Point,InvProp,5,SHOTS ,948,E13,Last,No,AMORY ST,Part Three,Other,764171.1989,,2941574.361,2013
+229281,130313358.0,Saturday,No,2013-05-25T12:05:00.000,InvProp,"[-71.092395, 42.276738]",Point,InvProp,5,DVIP  ,427,B3,Day,No,NORFOLK ST,Part three,Unarmed,766476.1248,,2926134.416,2013
+249013,130313083.0,Saturday,No,2013-05-25T09:06:00.000,InvProp,"[-71.076026, 42.325545]",Point,InvProp,5,SUSPER,267,B2,Day,No,FOREST ST,Part three,Unarmed,770817.6305,,2943941.7410000004,2013

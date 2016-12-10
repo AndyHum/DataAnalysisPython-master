@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17340,130743233.0,Saturday,No,2013-11-23T08:45:00.000,BENoProp,"[-71.065595, 42.314246]",Point,BENoProp,11,BERPT ,257,C11,Day,No,HANCOCK ST,Part One,Unarmed,773659.365,,2939838.6939999997,2013
+48012,130743065.0,Saturday,No,2013-11-23T11:17:00.000,BENoProp,"[-71.06749, 42.305196]",Point,BENoProp,11,BEIP  ,341,C11,Day,No,NORTON ST,Part One,Other,773163.5563,,2936538.128,2013
+95421,130751031.0,Saturday,No,2013-11-23T15:00:00.000,BENoProp,"[-71.17132, 42.352041]",Point,BENoProp,11,BERPT ,755,D14,Day,No,WASHINGTON ST,Part One,Other,745011.2533,,2953484.018,2013

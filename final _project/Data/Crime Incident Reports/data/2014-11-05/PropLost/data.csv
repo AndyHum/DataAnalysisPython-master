@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62560,142047094.0,Wednesday,No,2014-11-05T22:00:00.000,PropLost,"[-71.063375, 42.289026]",Point,PropLost,11,PROP,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,774306.8437,,2930651.215,2014
+169594,142047043.0,Wednesday,No,2014-11-05T09:00:00.000,PropLost,"[-71.062565, 42.291966]",Point,PropLost,11,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774520.5136,,2931723.715,2014
+191227,142046436.0,Wednesday,No,2014-11-05T21:00:00.000,PropLost,"[-71.076399, 42.333996]",Point,PropLost,11,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,770701.3598,,2947021.0810000002,2014
+219254,142046407.0,Wednesday,No,2014-11-05T19:00:00.000,PropLost,"[-71.09908, 42.344211]",Point,PropLost,11,MISC,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,764551.4944,,2950714.1289999997,2014

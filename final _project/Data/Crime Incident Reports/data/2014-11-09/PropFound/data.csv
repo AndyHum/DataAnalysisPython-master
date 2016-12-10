@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17706,142047497.0,Sunday,No,2014-11-09T20:00:00.000,PropFound,"[-71.15242, 42.351791]",Point,PropFound,11,PROP,0,D14,First,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2014
+71300,142047245.0,Sunday,No,2014-11-09T02:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,11,PROP,0,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+76341,142047351.0,Sunday,No,2014-11-09T13:30:00.000,PropFound,"[-71.0639, 42.350956]",Point,PropFound,11,PROP,0,A1,Day,No,STUART ST,Part three,Unarmed,774049.4062,,2953218.795,2014
+106049,142047343.0,Sunday,No,2014-11-09T11:00:00.000,PropFound,"[-71.07439, 42.353981]",Point,PropFound,11,PROP,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,771208.3683,MARLBOROUGH ST,2954306.8389999997,2014
+160096,142047374.0,Sunday,No,2014-11-09T12:45:00.000,PropFound,"[-71.0851, 42.351131]",Point,PropFound,11,IVPREM,0,D4,Day,No,GLOUCESTER ST,Part three,Unarmed,768318.5516,MARLBOROUGH ST,2953253.981,2014

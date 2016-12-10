@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24366,152030251.0,Tuesday,No,2015-04-14T10:45:00.000,PropFound,"[-71.081833, 42.302999]",Point,PropFound,4,IVPREM,0,B3,Day,No,HEWINS ST,Part three,Unarmed,769287.5512,,2935718.12,2015
+63844,152030281.0,Tuesday,No,2015-04-14T12:20:00.000,PropFound,"[-71.056445, 42.354941]",Point,PropFound,4,SUSOBJ,0,A1,Day,No,FEDERAL ST,Part three,Unarmed,776057.0056,,2954681.191,2015
+90780,152030562.0,Tuesday,No,2015-04-14T08:30:00.000,PropFound,"[-71.059705, 42.325476]",Point,PropFound,4,IVPREM,0,C6,Day,No,W HOWELL ST,Part three,Unarmed,775231.2815,,2943939.258,2015
+267692,152030286.0,Tuesday,No,2015-04-14T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,4,PROP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,,S HUNTINGTON AV,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43084,142006470.0,Sunday,No,2014-07-06T02:54:00.000,DISORDERLY,"[-71.089205, 42.316173]",Point,24xx,7,FIGHT,0,B2,Last,No,HOLWORTHY ST,Part Two,Unarmed,767270.2679,,2940509.336,2014
+47656,142006520.0,Sunday,No,2014-07-06T08:17:00.000,DISORDERLY,"[-71.11747, 42.288538]",Point,24xx,7,DISTRB,0,E18,Day,No,WYVERN ST,Part Two,Unarmed,759670.8946,,2930402.816,2014
+153784,142006655.0,Sunday,No,2014-07-06T17:30:00.000,DISORDERLY,"[-71.098625, 42.346181]",Point,24xx,7,IVPER,0,D4,First,No,YAWKEY WY,Part Two,Unarmed,764671.1215,,2951432.6119999997,2014

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6835,130297641.0,Saturday,No,2013-05-18T19:15:00.000,InvProp,"[-71.071135, 42.352861]",Point,InvProp,5,IVPREM,120,D4,First,No,ARLINGTON ST,Part three,Unarmed,772090.233,,2953903.097,2013
+18893,130296930.0,Saturday,No,2013-05-18T13:05:00.000,InvProp,"[-71.0755, 42.311141]",Point,InvProp,5,ALARMR,328,B2,Day,No,LAWRENCE AV,Part three,Unarmed,770986.036,,2938693.695,2013
+37430,130297925.0,Saturday,No,2013-05-18T20:52:00.000,InvProp,"[-71.08358, 42.313151]",Point,InvProp,5,FIRWKS,315,B2,First,No,WARREN ST,Part three,Unarmed,768796.9904,WAUMBECK ST,2939415.397,2013
+105738,130296289.0,Saturday,No,2013-05-18T03:00:00.000,InvProp,"[-71.084071, 42.320051]",Point,InvProp,5,IVPREM,309,B2,Last,No,CATAWBA ST,Part three,Firearm,768651.8865,,2941929.1969999997,2013
+149313,130296876.0,Saturday,No,2013-05-18T12:20:00.000,InvProp,"[-71.13227, 42.353751]",Point,InvProp,5,ALARMI,802,D14,Day,No,HARVARD AV,Part three,Unarmed,755563.9839,,2954150.267,2013
+184289,130296724.0,Saturday,No,2013-05-18T11:15:00.000,InvProp,"[0, 0]",Point,InvProp,5,BOMBR ,146,D4,Day,No,PUBLIC ALLEY 402,Part Three,Unarmed,,,,2013
+201535,130296544.0,Saturday,No,2013-05-18T08:46:00.000,InvProp,"[-71.140555, 42.294006]",Point,InvProp,5,ALARMR,659,E5,Day,No,MOREY RD,Part Three,Unarmed,753416.3179,,2932368.555,2013
+202657,130297969.0,Saturday,No,2013-05-18T21:09:00.000,InvProp,"[-71.069883, 42.320965]",Point,InvProp,5,BEIP  ,183,B2,First,No,CLIFTON ST,Part three,Unarmed,772487.079,,2942281.2539999997,2013
+239676,130299288.0,Saturday,No,2013-05-18T22:00:00.000,InvProp,"[-71.06942, 42.362401]",Point,InvProp,5,VIORDR,64,A1,First,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+249558,130296314.0,Saturday,No,2013-05-18T03:15:00.000,InvProp,"[0, 0]",Point,InvProp,5,SHOTS ,265,B2,Last,No,KENSINGTON PARK,Part three,Firearm,,,,2013
+251844,130299525.0,Saturday,No,2013-05-18T19:00:00.000,InvProp,"[-71.12525, 42.28566]",Point,InvProp,5,RECMV ,564,E5,First,No,FLORENCE ST,Part Three,Unarmed,757570.4448,,2929344.666,2013

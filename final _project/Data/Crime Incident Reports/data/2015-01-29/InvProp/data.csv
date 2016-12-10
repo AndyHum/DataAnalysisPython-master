@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20264,152007657.0,Thursday,No,2015-01-29T10:30:00.000,InvProp,"[-71.104273, 42.309722]",Point,InvProp,1,PROP,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2015
+252577,152007757.0,Thursday,No,2015-01-29T15:13:00.000,InvProp,"[-71.11756, 42.266781]",Point,InvProp,1,ALARM,0,E18,Day,No,THATCHER ST,Part three,Unarmed,759682.1623,,2922474.4269999997,2015
+266835,152007950.0,Thursday,No,2015-01-29T12:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVPER,0,A1,Day,No,JOY ST,Part three,Other,,,,2015
+267467,152007624.0,Thursday,No,2015-01-29T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD19,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

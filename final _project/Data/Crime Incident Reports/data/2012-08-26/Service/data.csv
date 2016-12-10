@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93572,120533018.0,Sunday,No,2012-08-26T20:07:00.000,Service,"[-71.05699, 42.291116]",Point,Service,8,NIDV  ,367,C11,First,No,ADAMS ST,Part Three,Unarmed,776030.4974,,2931421.749,2012
+228573,120532120.0,Sunday,No,2012-08-26T11:25:00.000,Service,"[-71.063675, 42.352301]",Point,Service,8,ARREST,118,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774107.7181,,2953709.249,2012
+228836,120532273.0,Sunday,No,2012-08-26T13:15:00.000,Service,"[-71.055312, 42.327496]",Point,Service,8,ARREST,914,C6,Day,No,OCALLAGHAN WY,Part Three,Unarmed,776415.2591,,2944681.3510000003,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113890,140290846.0,Sunday,No,2014-05-11T15:03:00.000,FIRE,"[-71.070755, 42.321496]",Point,FIRE,5,FIREB ,183,B2,Day,No,E COTTAGE ST,Part three,Unarmed,772250.4672,,2942473.648,2014
+133623,140290862.0,Sunday,No,2014-05-11T15:46:00.000,FIRE,"[-71.051523, 42.345567]",Point,FIRE,5,FIREB ,204,C6,Day,No,CHANNEL CENTER ST,Part three,Unarmed,777405.1722,,2951272.278,2014
+258610,140291689.0,Sunday,No,2014-05-11T22:04:00.000,FIRE,"[-71.039304, 42.382306]",Point,FIRE,5,FV    ,26,A7,First,No,MERIDIAN ST,Part three,Unarmed,780636.0627,,2964678.298,2014

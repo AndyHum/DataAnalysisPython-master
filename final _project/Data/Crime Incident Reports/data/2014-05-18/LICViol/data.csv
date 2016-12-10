@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21996,140307802.0,Sunday,No,2014-05-18T02:44:00.000,LICViol,"[-71.054615, 42.359146]",Point,LICViol,5,ABIP  ,100,A1,Last,No,BROAD ST,Part three,Unarmed,776543.6355,,2956216.355,2014
+43141,140307871.0,Sunday,No,2014-05-18T02:42:00.000,LICViol,"[-71.05294, 42.359431]",Point,LICViol,5,CD35  ,101,A1,Last,No,STATE ST,Part three,Unarmed,776995.7993,,2956322.582,2014
+121442,140307543.0,Sunday,No,2014-05-18T00:37:00.000,LICViol,"[-71.052946, 42.357137]",Point,LICViol,5,CD35  ,109,A1,Last,No,FRANKLIN ST,Part three,Unarmed,776998.3439,,2955486.627,2014
+254894,140307680.0,Sunday,No,2014-05-18T01:00:00.000,LICViol,"[-71.04427, 42.351924]",Point,LICViol,5,CD35  ,0,C6,Last,No,NORTHERN AV,Part three,Unarmed,779353.4688,,2953599.191,2014

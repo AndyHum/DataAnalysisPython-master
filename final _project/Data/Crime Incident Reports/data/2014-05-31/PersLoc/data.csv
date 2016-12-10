@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42159,140341392.0,Saturday,No,2014-05-31T16:29:00.000,PersLoc,"[-71.037275, 42.375496]",Point,PersLoc,5,INVCHD,23,A7,First,No,BENNINGTON ST,Other,Unarmed,781197.8470000001,,2962199.565,2014
+68133,140341470.0,Saturday,No,2014-05-31T14:45:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,5,MISPER,281,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+100469,140340371.0,Saturday,No,2014-05-31T00:30:00.000,PersLoc,"[-71.106952, 42.264486]",Point,PersLoc,5,MSNCOM,487,E18,Last,No,BLAKE ST,Other,Unarmed,762557.0837,,2921650.892,2014
+216225,140342921.0,Saturday,No,2014-05-31T17:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,5,MISPER,806,D14,First,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2014
+230267,140342410.0,Saturday,No,2014-05-31T13:00:00.000,PersLoc,"[-71.08864, 42.286466]",Point,PersLoc,5,MISPER,430,B3,Day,No,LUCERNE ST,Other,Unarmed,767475.3082,,2929684.333,2014
+256527,140341194.0,Saturday,No,2014-05-31T14:33:00.000,PersLoc,"[-71.11324, 42.269451]",Point,PersLoc,5,MSNCOM,491,E18,Day,No,VICTORIA HEIGHTS RD,Other,Other,760847.0409,,2923452.683,2014

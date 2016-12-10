@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44954,152018698.0,Sunday,No,2015-03-08T08:21:00.000,InvPer,"[-71.07776, 42.320501]",Point,InvPer,3,IVPER,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770357.868,,2942101.597,2015
+67554,152018774.0,Sunday,No,2015-03-08T16:00:00.000,InvPer,"[-71.074925, 42.304986]",Point,InvPer,3,IVPER,0,C11,First,No,GENEVA AV,Part three,Unarmed,771152.7388,,2936451.49,2015
+168911,152018807.0,Sunday,No,2015-03-08T19:05:00.000,InvPer,"[-71.048225, 42.332091]",Point,InvPer,3,IVPER,0,C6,First,No,GATES ST,Part three,Unarmed,778322.9033,,2946366.108,2015
+200348,152018635.0,Sunday,No,2015-03-08T00:42:00.000,InvPer,"[-71.1002, 42.268416]",Point,InvPer,3,DVIP,0,E18,Last,No,FAIRLAWN AV,Part three,Unarmed,764378.1779,,2923091.789,2015
+261254,152018786.0,Sunday,No,2015-03-08T18:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,INVEST,0,C6,First,No,BROADWAY,Part three,Unarmed,,,,2015
+261400,152018660.0,Sunday,No,2015-03-08T03:20:00.000,InvPer,"[0, 0]",Point,InvPer,3,DISTRB,0,A1,Last,No,BEACON ST,Part three,Unarmed,,,,2015
+263028,152018681.0,Sunday,No,2015-03-08T09:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,PERGUN,0,C6,Day,No,DORCHESTER AV,Part three,Firearm,,PREBLE ST,,2015

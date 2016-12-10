@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56889,130678781.0,Monday,No,2013-06-24T16:17:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,6,CD11  ,72,A1,First,No,BULFINCH PL,Part three,Unarmed,774549.1083,,2957241.005,2013
+109592,130385447.0,Monday,No,2013-06-24T10:50:00.000,SearchWarr,"[-71.11459, 42.265696]",Point,SearchWarr,6,CD11  ,492,E18,Day,No,MANION RD,Part three,Unarmed,760487.8375,,2922082.6560000004,2013
+202138,130679111.0,Monday,No,2013-06-24T16:31:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,6,CD11  ,72,A1,First,No,BULFINCH PL,Part three,Unarmed,774549.1083,,2957241.005,2013

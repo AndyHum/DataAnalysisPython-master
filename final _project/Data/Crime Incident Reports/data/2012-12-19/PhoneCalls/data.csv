@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51851,120804786.0,Wednesday,No,2012-12-19T23:00:00.000,PhoneCalls,"[-71.1092, 42.333231]",Point,PhoneCalls,12,HARPT ,611,B2,First,No,HUNTINGTON AV,Part Three,Other,761834.0078,,2946700.113,2012
+76290,130006063.0,Wednesday,No,2012-12-19T19:30:00.000,PhoneCalls,"[-71.07547, 42.353706]",Point,PhoneCalls,12,IVPREM,131,D4,First,No,MARLBOROUGH ST,Part Three,Unarmed,770916.946,,2954205.171,2012
+90849,120795571.0,Wednesday,No,2012-12-19T18:03:00.000,PhoneCalls,"[-71.107805, 42.33605]",Point,PhoneCalls,12,THREAT,612,B2,First,No,FRANCIS ST,Part Three,Other,762206.2941,,2947728.97,2012

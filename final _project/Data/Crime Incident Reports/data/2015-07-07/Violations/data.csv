@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64171,,Tuesday,No,2015-07-07T21:14:00.000,Violations,"[0, 0]",Point,VAL,7,,442,B3,,No,TALBOT AVE,Part Two,None,,,,2015
+95061,,Tuesday,No,2015-07-07T00:00:00.000,Violations,"[-71.080504, 42.307678]",Point,VAL,7,MVA,329,B2,,No,GENEVA AVE,Part Two,None,769639.0,,2940000.0,2015
+100733,,Tuesday,No,2015-07-07T00:00:00.000,Restraining Order Violations,"[-71.085634, 42.328663]",Point,Restrain,7,VIORDR,271,D4,,No,HARRISON AVE,Part Two,None,768214.0,,2950000.0,2015
+104217,,Tuesday,No,2015-07-07T03:20:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,328,B2,,No,COLUMBIA RD,Part Two,None,,,,2015
+113598,,Tuesday,No,2015-07-07T00:00:00.000,Restraining Order Violations,"[-71.077932, 42.295898]",Point,Restrain,7,VIORDR,446,B3,,No,ATHELWOLD ST,Part Two,None,770356.0,,2930000.0,2015
+125580,,Tuesday,No,2015-07-07T00:00:00.000,Violations,"[-71.097151, 42.314716]",Point,VAL,7,TS,307,E13,,No,COLUMBUS AVE,Part Two,None,765124.0,WASHINGTON ST,2940000.0,2015
+150372,,Tuesday,No,2015-07-07T12:40:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,779,D14,,No,ARLINGTON ST,Part Two,None,,MARKET ST,,2015
+181363,,Tuesday,No,2015-07-07T00:00:00.000,Firearm Violations,"[-71.091459, 42.317283]",Point,15xx,7,IVPREM,312,B2,,No,WALNUT AVE,Part Two,Firearm,766659.0,,2940000.0,2015

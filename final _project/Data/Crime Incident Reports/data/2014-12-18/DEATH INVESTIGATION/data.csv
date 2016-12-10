@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52659,142058509.0,Thursday,No,2014-12-18T00:03:00.000,DEATH INVESTIGATION,"[-71.065153, 42.29921]",Point,01INV,12,UNCONS,0,C11,Last,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2014
+104832,142058520.0,Thursday,No,2014-12-18T03:46:00.000,DEATH INVESTIGATION,"[-71.061295, 42.296361]",Point,01INV,12,CARDIA,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,774855.8882,,2933327.0810000002,2014
+210154,142058772.0,Thursday,No,2014-12-18T18:58:00.000,DEATH INVESTIGATION,"[-71.08747, 42.322251]",Point,01INV,12,UNCONS,0,B2,First,No,ROCKLAND ST,Part three,Unarmed,767728.8218,,2942726.477,2014

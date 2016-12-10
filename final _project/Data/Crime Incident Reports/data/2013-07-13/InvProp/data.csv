@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55142,130432406.0,Saturday,No,2013-07-13T09:50:00.000,InvProp,"[-71.0439, 42.337666]",Point,InvProp,7,IVPREM,212,C6,Day,No,W 1ST ST,Part three,Unarmed,779481.4721,,2948403.957,2013
+59006,130433221.0,Saturday,No,2013-07-13T17:29:00.000,InvProp,"[-71.07825, 42.335516]",Point,InvProp,7,IVPREM,271,D4,First,No,WASHINGTON ST,Part three,Unarmed,770198.2968,,2947572.668,2013
+142367,130432630.0,Saturday,No,2013-07-13T09:00:00.000,InvProp,"[-71.123097, 42.250596]",Point,InvProp,7,IVPREM,522,E18,Day,No,EASTON AV,Part three,Other,758209.286,,2916569.537,2013
+155009,130433159.0,Saturday,No,2013-07-13T17:03:00.000,InvProp,"[-71.070718, 42.277656]",Point,InvProp,7,ALARM ,414,B3,First,No,CLANCY RD,Part three,Unarmed,772340.6359999999,,2926497.439,2013
+164692,130432094.0,Saturday,No,2013-07-13T03:50:00.000,InvProp,"[-71.14312, 42.343861]",Point,InvProp,7,SHOTS ,786,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,752646.3343,WASHINGTON ST,2950533.693,2013

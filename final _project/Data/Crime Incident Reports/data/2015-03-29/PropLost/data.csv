@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13648,152025512.0,Sunday,No,2015-03-29T12:00:00.000,PropLost,"[-71.0695, 42.356281]",Point,PropLost,3,LARCEN,0,A1,Day,No,CHARLES ST,Part three,Unarmed,772525.8840000001,,2955151.637,2015
+40466,152026008.0,Sunday,No,2015-03-29T23:45:00.000,PropLost,"[-71.07041, 42.357126]",Point,PropLost,3,PROP,0,A1,First,No,RIVER ST,Part three,Other,772278.373,,2955458.3310000002,2015
+70884,152025683.0,Sunday,No,2015-03-29T23:00:00.000,PropLost,"[-71.06262, 42.364691]",Point,PropLost,3,PROP,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774369.7347,PORTLAND ST,2958225.8660000004,2015
+86134,152025791.0,Sunday,No,2015-03-29T16:00:00.000,PropLost,"[-71.114345, 42.288641]",Point,PropLost,3,PROP,0,E13,First,No,CATHERINE ST,Part three,Unarmed,760516.3459999999,,2930444.44,2015
+93784,152025654.0,Sunday,No,2015-03-29T20:30:00.000,PropLost,"[-71.06255, 42.365411]",Point,PropLost,3,LARCEN,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+226000,152026068.0,Sunday,No,2015-03-29T21:30:00.000,PropLost,"[-71.05363, 42.357796]",Point,PropLost,3,PROP,0,A1,First,No,BROAD ST,Part three,Unarmed,776812.4296,,2955725.78,2015
+226831,152025642.0,Sunday,No,2015-03-29T14:30:00.000,PropLost,"[-71.055835, 42.320276]",Point,PropLost,3,PROP,0,C11,Day,No,BUTTONWOOD ST,Part three,Unarmed,776287.6639,,2942049.7180000003,2015

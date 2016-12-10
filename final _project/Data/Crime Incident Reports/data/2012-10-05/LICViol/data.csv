@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60909,120641521.0,Friday,No,2012-10-05T19:00:00.000,LICViol,"[-71.095995, 42.347161]",Point,LICViol,10,CD35  ,624,D4,First,No,LANSDOWNE ST,Part Three,Unarmed,765380.3957,,2951793.104,2012
+186977,120628029.0,Friday,No,2012-10-05T19:50:00.000,LICViol,"[-71.166437, 42.350427]",Point,LICViol,10,CD35  ,752,D14,First,No,WASHINGTON ST,Part Three,Unarmed,746333.4308,,2952900.885,2012
+226061,120626041.0,Friday,No,2012-10-05T20:00:00.000,LICViol,"[-71.166437, 42.350427]",Point,LICViol,10,IVPREM,213,D14,First,No,WASHINGTON ST,Part Three,Unarmed,746333.4308,,2952900.885,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113976,142013173.0,Saturday,No,2014-07-26T16:38:00.000,FORGERY,"[-71.071115, 42.281641]",Point,10xx,7,LARCEN,0,C11,First,No,WASHINGTON ST,Part Two,Unarmed,772226.1395,,2927949.393,2014
+153611,142016013.0,Saturday,No,2014-07-26T01:49:00.000,FORGERY,"[-71.08012, 42.339401]",Point,10xx,7,LARCEN,0,D4,Last,No,TREMONT ST,Part Two,Unarmed,769685.7276,,2948985.937,2014
+192352,142013060.0,Saturday,No,2014-07-26T10:30:00.000,FORGERY,"[-71.085387, 42.289863]",Point,10xx,7,PROP,0,B3,Day,No,AMES ST,Part Two,Unarmed,768349.27,,2930926.4310000003,2014

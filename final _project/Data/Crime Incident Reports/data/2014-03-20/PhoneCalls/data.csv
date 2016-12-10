@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41350,140168855.0,Thursday,No,2014-03-20T01:45:00.000,PhoneCalls,"[-71.06769, 42.310766]",Point,PhoneCalls,3,HARPT ,334,C11,Last,No,BELLEVUE ST,Part three,Unarmed,773099.167,,2938567.648,2014
+91311,140171340.0,Thursday,No,2014-03-20T16:30:00.000,PhoneCalls,"[-71.065916, 42.298578]",Point,PhoneCalls,3,HARPT ,358,C11,First,No,WALDECK ST,Part three,Other,773601.433,,2934128.63,2014
+198398,140182999.0,Thursday,No,2014-03-20T17:30:00.000,PhoneCalls,"[-71.058315, 42.353881]",Point,PhoneCalls,3,THREAT,113,A1,First,No,SUMMER ST,Part three,Other,775553.5597,,2954292.488,2014

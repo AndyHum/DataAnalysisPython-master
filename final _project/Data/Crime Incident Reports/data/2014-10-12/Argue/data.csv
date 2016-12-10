@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59102,142038281.0,Sunday,No,2014-10-12T01:30:00.000,Argue,"[-71.052625, 42.31811]",Point,Argue,10,NIDV,0,C11,Last,No,SYDNEY ST,Part three,Unarmed,777159.8741,,2941264.903,2014
+77291,142038485.0,Sunday,No,2014-10-12T20:16:00.000,Argue,"[-71.119409, 42.268452]",Point,Argue,10,UNK,0,E18,First,No,METROPOLITAN AV,Part three,Unarmed,759178.7906,,2923081.078,2014
+219870,142038407.0,Sunday,No,2014-10-12T15:15:00.000,Argue,"[-71.05871, 42.306361]",Point,Argue,10,FIGHT,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775536.3849,,2936974.837,2014

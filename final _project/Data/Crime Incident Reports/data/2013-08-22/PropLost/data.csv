@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77989,130530938.0,Thursday,No,2013-08-22T17:30:00.000,PropLost,"[-71.07161, 42.290211]",Point,PropLost,8,LARCRT,398,C11,First,No,TALBOT AV,Part three,Unarmed,772076.5056,WASHINGTON ST,2931071.748,2013
+81519,130531014.0,Thursday,No,2013-08-22T18:00:00.000,PropLost,"[-71.069525, 42.272471]",Point,PropLost,8,LSTPRP,389,C11,First,No,RIVER ST,Part three,Unarmed,772673.2659,,2924609.89,2013
+120308,130623465.0,Thursday,No,2013-08-22T08:00:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,8,LSTPRP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+122898,130529738.0,Thursday,No,2013-08-22T10:46:00.000,PropLost,"[-71.143135, 42.241876]",Point,PropLost,8,CD7   ,0,E18,Day,No,ERNEST AV,Part three,Unarmed,752797.7706,,2913368.7169999997,2013
+168294,130539218.0,Thursday,No,2013-08-22T15:00:00.000,PropLost,"[-71.05397, 42.288616]",Point,PropLost,8,LSTPRP,367,C11,Day,No,ASHMONT ST,Part three,Unarmed,776852.3649,,2930514.972,2013
+189289,130530532.0,Thursday,No,2013-08-22T15:00:00.000,PropLost,"[-71.06435, 42.352341]",Point,PropLost,8,LSTPRP,117,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773925.1896,,2953722.893,2013
+213408,130555894.0,Thursday,No,2013-08-22T10:00:00.000,PropLost,"[-71.072122, 42.300294]",Point,PropLost,8,LSTPRP,462,C11,Day,No,BOWDOIN ST,Part three,Unarmed,771919.4938,,2934745.1569999997,2013
+219578,130532229.0,Thursday,No,2013-08-22T14:00:00.000,PropLost,"[-71.104968, 42.334088]",Point,PropLost,8,LSTPRP,593,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,762976.5829,,2947017.4080000003,2013
+239806,130530285.0,Thursday,No,2013-08-22T10:30:00.000,PropLost,"[-71.05231, 42.352351]",Point,PropLost,8,LSTPRP,114,A1,Day,No,CONGRESS ST,Part three,Unarmed,777179.6126,,2953743.389,2013
+261917,130532424.0,Thursday,No,2013-08-22T00:15:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,24,A7,Last,No,TRENTON ST,Part three,Unarmed,,,,2013
+264546,130531945.0,Thursday,No,2013-08-22T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,116,A1,Day,No,HARRISON AV,Part three,Unarmed,,,,2013

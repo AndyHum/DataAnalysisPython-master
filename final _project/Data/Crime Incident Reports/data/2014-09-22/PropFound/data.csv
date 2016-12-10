@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43195,142031882.0,Monday,No,2014-09-22T13:49:00.000,PropFound,"[-71.080615, 42.346296]",Point,PropFound,9,IVPREM,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769539.5462,,2951497.9439999997,2014
+56468,142031853.0,Monday,No,2014-09-22T11:23:00.000,PropFound,"[-71.11069, 42.324233]",Point,PropFound,9,IVPREM,0,E13,Day,No,EVERGREEN ST,Part three,Unarmed,761446.0413,,2943419.0930000003,2014
+160524,142032007.0,Monday,No,2014-09-22T16:10:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,9,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+197923,142031930.0,Monday,No,2014-09-22T16:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,9,PROP,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+226268,142031955.0,Monday,No,2014-09-22T18:00:00.000,PropFound,"[-71.091598, 42.327271]",Point,PropFound,9,PROP,0,B2,First,No,DORR ST,Part three,Unarmed,766603.7056,,2944550.183,2014
+260714,142032000.0,Monday,No,2014-09-22T16:20:00.000,PropFound,"[0, 0]",Point,PropFound,9,IVPER,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2014
+262328,142031904.0,Monday,No,2014-09-22T16:30:00.000,PropFound,"[0, 0]",Point,PropFound,9,PROP,0,B2,First,No,HUNTINGTON AV,Part three,Unarmed,,,,2014

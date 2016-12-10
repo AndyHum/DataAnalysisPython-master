@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19944,140214463.0,Wednesday,No,2014-04-09T12:50:00.000,STOLEN PROPERTY CHARGES,"[-71.148575, 42.287141]",Point,13xx,4,FDWEAP,691,E5,Day,No,CENTRE ST,Part Two,Unarmed,751256.7891,,2929857.7989999996,2014
+125290,140213514.0,Wednesday,No,2014-04-09T03:17:00.000,STOLEN PROPERTY CHARGES,"[-71.07913, 42.273681]",Point,13xx,4,STOLMV,411,B3,Last,No,FREELAND ST,Part Two,Unarmed,770071.5546,STANDARD ST,2925037.858,2014
+214147,140214938.0,Wednesday,No,2014-04-09T16:53:00.000,STOLEN PROPERTY CHARGES,"[-71.100988, 42.332045]",Point,13xx,4,IVPER ,0,B2,First,No,PONTIAC ST,Part Two,Unarmed,764056.3176,,2946278.0439999998,2014
+219727,140213498.0,Wednesday,No,2014-04-09T02:06:00.000,STOLEN PROPERTY CHARGES,"[-71.05911, 42.354401]",Point,13xx,4,IVPER ,106,A1,Last,No,ARCH ST,Part Two,Unarmed,775337.6937,SUMMER ST,2954480.874,2014

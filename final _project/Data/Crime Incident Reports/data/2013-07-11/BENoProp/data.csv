@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70563,130429652.0,Thursday,No,2013-07-11T17:00:00.000,BENoProp,"[-71.088645, 42.334806]",Point,BENoProp,7,BERPT ,0,B2,First,No,TREMONT ST,Part One,Other,767388.9993,,2947300.205,2013
+76600,130428094.0,Thursday,No,2013-07-11T16:37:00.000,BENoProp,"[-71.053765, 42.378866]",Point,BENoProp,7,BERPT ,42,A15,First,No,MEDFORD ST,Part One,Unarmed,776735.7719,,2963403.9189999998,2013
+126422,130429012.0,Thursday,No,2013-07-11T18:40:00.000,BENoProp,"[-71.062898, 42.274177]",Point,BENoProp,7,BEIP  ,387,C11,First,No,ADAMS ST,Part One,Other,774463.5996,,2925240.475,2013
+242251,130428156.0,Thursday,No,2013-07-11T16:27:00.000,BENoProp,"[-71.061395, 42.290356]",Point,BENoProp,7,BEIP  ,366,C11,First,No,LONSDALE ST,Part One,Unarmed,774840.0835,,2931138.639,2013

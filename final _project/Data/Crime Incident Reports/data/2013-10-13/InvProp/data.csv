@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53212,130795994.0,Sunday,No,2013-10-13T09:00:00.000,InvProp,"[-71.06598, 42.350391]",Point,InvProp,10,INVEST,121,A1,Day,No,WARRENTON ST,Part three,Unarmed,773488.0855,,2953009.8660000004,2013
+116841,130653484.0,Sunday,No,2013-10-13T09:07:00.000,InvProp,"[-71.153043, 42.287232]",Point,InvProp,10,IVMV  ,696,E5,Day,No,CENTRE ST,Part three,Other,750047.6314,,2929885.93,2013
+130281,130653784.0,Sunday,No,2013-10-13T12:37:00.000,InvProp,"[-71.077495, 42.338971]",Point,InvProp,10,ALARMR,156,D4,Day,No,WORCESTER ST,Part three,Unarmed,770396.195,,2948832.742,2013
+174517,130654494.0,Sunday,No,2013-10-13T19:36:00.000,InvProp,"[-71.135885, 42.353451]",Point,InvProp,10,DISTRB,795,D14,First,No,BRIGHTON AV,Part three,Other,754587.3247,,2954036.749,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51542,,Monday,No,2015-08-03T00:00:00.000,Missing Person Reported,"[-71.068607, 42.297034]",Point,PersMiss,8,IVPER,358,C11,,No,LARCHMONT ST,Part Three,None,772876.0,,2930000.0,2015
+210078,,Monday,No,2015-08-03T00:00:00.000,Missing Person Reported,"[-71.104136, 42.269896]",Point,PersMiss,8,IVPER,479,E18,,No,RUGBY RD,Part Three,None,763310.0,,2920000.0,2015
+217592,,Monday,No,2015-08-03T00:00:00.000,Missing Person Reported,"[-71.073279, 42.317454]",Point,PersMiss,8,IVPER,260,B2,,No,HARTFORD ST,Part Three,None,771575.0,,2940000.0,2015

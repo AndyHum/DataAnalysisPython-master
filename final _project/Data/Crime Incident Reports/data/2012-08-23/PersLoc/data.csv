@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57809,120524353.0,Thursday,No,2012-08-23T00:59:00.000,PersLoc,"[-71.092997, 42.320035]",Point,PersLoc,8,MISPER,305,B2,Last,No,CODMAN PARK,Part Three,Unarmed,766238.0029,,2941911.626,2012
+107864,120527852.0,Thursday,No,2012-08-23T22:30:00.000,PersLoc,"[-71.129984, 42.25878]",Point,PersLoc,8,MSNCOM,545,E18,First,No,GORDON AV,Part Three,Unarmed,756331.8692,,2919543.9669999997,2012
+192619,120526241.0,Thursday,No,2012-08-23T21:17:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,8,MISPER,281,B2,First,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2012
+225063,120527249.0,Thursday,No,2012-08-23T20:00:00.000,PersLoc,"[-71.076405, 42.338031]",Point,PersLoc,8,MISPER,170,D4,First,No,WORCESTER ST,Part Three,Unarmed,770692.5881,,2948491.651,2012

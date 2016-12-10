@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35080,130596131.0,Wednesday,No,2013-09-18T20:26:00.000,FIRE,"[-71.10367, 42.347016]",Point,FIRE,9,FIREB ,630,D4,First,No,BEACON ST,Part three,Other,763305.8942,,2951730.525,2013
+145071,130595401.0,Wednesday,No,2013-09-18T15:15:00.000,FIRE,"[-71.033105, 42.374331]",Point,FIRE,9,AOD   ,21,A7,Day,No,MARION ST,Part three,Unarmed,782326.9222,,2961781.153,2013
+157137,130595451.0,Wednesday,No,2013-09-18T15:45:00.000,FIRE,"[-71.07502, 42.332376]",Point,FIRE,9,FV    ,270,D4,Day,No,ALBANY ST,Part three,Other,771077.0854,,2946432.707,2013

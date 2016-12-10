@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38313,120531363.0,Sunday,No,2012-08-26T00:40:00.000,LICViol,"[0, 0]",Point,LICViol,8,CD35  ,207,C6,Last,No,NORTHERN AV,Part Three,Unarmed,,,,2012
+86271,120531523.0,Sunday,No,2012-08-26T01:45:00.000,LICViol,"[-71.06598, 42.350391]",Point,LICViol,8,CD35  ,121,A1,Last,No,WARRENTON ST,Part Three,Unarmed,773488.0855,,2953009.8660000004,2012
+145821,120532926.0,Sunday,No,2012-08-26T19:10:00.000,LICViol,"[-71.14943, 42.336261]",Point,LICViol,8,CD35  ,790,D14,First,No,BEACON ST,Part Three,Unarmed,750951.8701,,2947757.0319999997,2012
+228434,120532784.0,Sunday,No,2012-08-26T17:45:00.000,LICViol,"[-71.159892, 42.352806]",Point,LICViol,8,CD35  ,765,D14,First,No,FANEUIL ST,Part Three,Unarmed,748099.1425,,2953774.6210000003,2012

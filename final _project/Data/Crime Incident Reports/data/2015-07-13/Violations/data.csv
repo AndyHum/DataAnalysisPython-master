@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15859,,Monday,No,2015-07-13T00:00:00.000,Restraining Order Violations,"[-71.068664, 42.351628]",Point,Restrain,7,VIORDR,120,A1,,No,PARK PLZ,Part Two,None,772760.0,,2950000.0,2015
+58063,,Monday,No,2015-07-13T00:00:00.000,Firearm Violations,"[-71.071443, 42.279691]",Point,15xx,7,FDWEAP,427,B3,,No,MILDRED AVE,Part Two,Firearm,772141.0,,2930000.0,2015
+116156,,Monday,No,2015-07-13T00:00:00.000,Violations,"[-71.07657, 42.289042]",Point,VAL,7,ARREST,437,B3,,No,ELMHURST ST,Part Two,None,770736.0,,2930000.0,2015
+116983,,Monday,No,2015-07-13T00:00:00.000,Firearm Violations,"[-71.066708, 42.356784]",Point,15xx,7,ARREST,119,A1,,No,BOYLSTON ST,Part Two,Knife/Cutting Instrument,773279.0,,2960000.0,2015
+129912,,Monday,No,2015-07-13T12:25:00.000,Violations,"[0, 0]",Point,VAL,7,CD15,912,E13,,No,HEATH ST,Part Two,None,,PARKER ST,,2015
+174202,,Monday,No,2015-07-13T17:21:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,441,B3,,No,BERNARD ST,Part Two,None,,KINGSDALE ST,,2015
+177639,,Monday,No,2015-07-13T00:00:00.000,Restraining Order Violations,"[-71.061327, 42.362607]",Point,Restrain,7,VIORDR,74,A1,,No,NEW CHARDON ST,Part Two,None,774723.0,,2960000.0,2015
+184377,,Monday,No,2015-07-13T00:00:00.000,Firearm Violations,"[-71.093913, 42.314305]",Point,15xx,7,SHOTS,0,,,No,,Part Two,Firearm,766000.0,RUTHVEN ST,2940000.0,2015
+206242,,Monday,No,2015-07-13T21:15:00.000,Violations,"[0, 0]",Point,VAL,7,TS,593,B2,,No,BINNEY ST,Part Two,None,,FRANCIS ST,,2015
+222537,,Monday,No,2015-07-13T22:12:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,773,D14,,No,CHESTNUT HILL AVE,Part Two,None,,CHISWICK RD,,2015
+222952,,Monday,No,2015-07-13T19:57:00.000,Violations,"[0, 0]",Point,VAL,7,TS,187,C6,,No,BELLFLOWER ST,Part Two,None,,BOSTON ST,,2015

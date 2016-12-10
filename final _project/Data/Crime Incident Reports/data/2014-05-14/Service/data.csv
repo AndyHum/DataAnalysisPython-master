@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14762,140298267.0,Wednesday,No,2014-05-14T13:39:00.000,Service,"[-71.036385, 42.375601]",Point,Service,5,INJAML,22,A7,Day,No,LONDON ST,Part three,Other,781438.1221,,2962239.1319999998,2014
+15819,140297951.0,Wednesday,No,2014-05-14T11:15:00.000,Service,"[-71.037275, 42.375496]",Point,Service,5,ARREST,23,A7,Day,No,BENNINGTON ST,Part three,Unarmed,781197.8470000001,,2962199.565,2014
+25291,140298589.0,Wednesday,No,2014-05-14T15:47:00.000,Service,"[-71.06254, 42.353221]",Point,Service,5,IVPER ,111,A1,Day,No,AVERY ST,Part three,Other,774412.7922,WASHINGTON ST,2954046.086,2014
+35188,140299004.0,Wednesday,No,2014-05-14T18:39:00.000,Service,"[-71.089151, 42.311211]",Point,Service,5,NIDV  ,318,B2,First,No,HOMESTEAD ST,Other,Unarmed,767293.447,,2938701.003,2014
+81293,140297346.0,Wednesday,No,2014-05-14T06:30:00.000,Service,"[-71.07936, 42.349221]",Point,Service,5,CD9   ,0,D4,Last,No,EXETER ST,Part three,Unarmed,769873.5524,,2952565.54,2014
+102481,140297790.0,Wednesday,No,2014-05-14T10:19:00.000,Service,"[-71.060445, 42.353341]",Point,Service,5,ARREST,0,A1,Day,No,CHAUNCY ST,Part three,Unarmed,774978.843,,2954092.728,2014
+176270,140297835.0,Wednesday,No,2014-05-14T09:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,INVEST,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+181829,140303982.0,Wednesday,No,2014-05-14T13:00:00.000,Service,"[0, 0]",Point,Service,5,IVPER ,915,C6,Day,No,MARY BOYLE WY,Part three,Unarmed,,,,2014
+204460,140299125.0,Wednesday,No,2014-05-14T19:36:00.000,Service,"[-71.12395, 42.256421]",Point,Service,5,CD11  ,0,E18,First,No,HYDE PARK AV,Part three,Other,757969.2324,,2918691.415,2014
+210661,140298804.0,Wednesday,No,2014-05-14T17:00:00.000,Service,"[-71.061745, 42.356021]",Point,Service,5,LARCRT,102,A1,First,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2014
+234615,140299530.0,Wednesday,No,2014-05-14T22:57:00.000,Service,"[-71.06122, 42.365521]",Point,Service,5,ARREST,76,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+267391,152028273.0,Wednesday,No,2014-05-14T00:00:00.000,Service,"[0, 0]",Point,Service,5,AOD,0,C6,Last,No,COURTHOUSE WY,Part three,Other,,,,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75808,140261243.0,Tuesday,No,2014-04-29T17:00:00.000,PropFound,"[-71.0567, 42.317541]",Point,PropFound,4,FDPROP,245,C11,First,No,DORCHESTER AV,Part three,Unarmed,776058.9135,HARBOR VIEW ST,2941051.8219999997,2014
+132330,140259966.0,Tuesday,No,2014-04-29T08:26:00.000,PropFound,"[-71.07053, 42.358268]",Point,PropFound,4,FDPROP,70,A1,Day,No,CHARLES ST,Part three,Unarmed,772243.5923,,2955874.336,2014
+156285,140260528.0,Tuesday,No,2014-04-29T12:30:00.000,PropFound,"[-71.063873, 42.325436]",Point,PropFound,4,LSTPRP,186,C6,Day,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+195300,140261582.0,Tuesday,No,2014-04-29T19:30:00.000,PropFound,"[-71.063815, 42.374756]",Point,PropFound,4,FDPROP,59,A15,First,No,MAIN ST,Part three,Unarmed,774028.0296,,2961892.103,2014
+200395,140260869.0,Tuesday,No,2014-04-29T15:45:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,4,FDPROP,574,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+229925,140260331.0,Tuesday,No,2014-04-29T11:30:00.000,PropFound,"[-71.126315, 42.282641]",Point,PropFound,4,FDPROP,558,E5,Day,No,SHERMAN ST,Part three,Unarmed,757287.135,,2928243.5330000003,2014
+249876,140274531.0,Tuesday,No,2014-04-29T08:00:00.000,PropFound,"[-71.137961, 42.273376]",Point,PropFound,4,LARCRT,550,E5,Day,No,BLUE LEDGE DR,Part three,Other,754149.8141,,2924853.36,2014
+259847,140260645.0,Tuesday,No,2014-04-29T13:54:00.000,PropFound,"[-71.078505, 42.305738]",Point,PropFound,4,FDWEAP,460,C11,Day,No,BRINSLEY ST,Part three,Unarmed,770182.8844,,2936720.722,2014

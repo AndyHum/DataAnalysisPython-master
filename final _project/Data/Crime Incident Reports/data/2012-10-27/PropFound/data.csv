@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24746,120676725.0,Saturday,No,2012-10-27T01:15:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,10,FDPROP,574,E13,Last,No,WASHINGTON ST,Part Three,Unarmed,763205.8082,,2938139.2,2012
+37428,120678535.0,Saturday,No,2012-10-27T10:00:00.000,PropFound,"[-71.07524, 42.350651]",Point,PropFound,10,FDPROP,134,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770984.6601,CLARENDON ST,2953092.1780000003,2012
+57894,120677022.0,Saturday,No,2012-10-27T03:40:00.000,PropFound,"[-71.06494, 42.343021]",Point,PropFound,10,FDPROP,165,D4,Last,No,HARRISON AV,Part Three,Unarmed,773783.0344,,2950325.6980000003,2012
+239891,120677550.0,Saturday,No,2012-10-27T07:15:00.000,PropFound,"[-71.06877, 42.379091]",Point,PropFound,10,LSTPRP,54,A15,Last,No,ESSEX ST,Part Three,Unarmed,772681.1666,MAIN ST,2963465.06,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39537,130068584.0,Saturday,No,2013-02-02T10:13:00.000,FIRE,"[-71.130469, 42.305087]",Point,FIRE,2,FV    ,656,E13,Day,No,CALVIN RD,Part Three,Unarmed,756127.6143,,2936418.3060000003,2013
+138428,130068957.0,Saturday,No,2013-02-02T14:30:00.000,FIRE,"[-71.17145, 42.278596]",Point,FIRE,2,FIRE  ,727,E5,Day,No,VFW PY,Part Three,Other,745079.2053,,2926719.1960000005,2013
+142073,130068727.0,Saturday,No,2013-02-02T11:43:00.000,FIRE,"[-71.067775, 42.273361]",Point,FIRE,2,FIREB ,405,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,773145.2492,,2924936.613,2013
+230146,130069788.0,Saturday,No,2013-02-02T22:05:00.000,FIRE,"[-71.055028, 42.287827]",Point,FIRE,2,FIREB ,378,C11,First,No,ADAMS ST,Part Three,Unarmed,776567.4852,,2930225.7180000003,2013

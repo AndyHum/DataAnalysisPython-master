@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62489,,Monday,No,2015-07-27T00:00:00.000,Property Found,"[-71.082503, 42.343481]",Point,PropFound,7,IVPREM,145,D4,,No,SAINT BOTOLPH ST,Part Three,None,769034.0,,2950000.0,2015
+130723,,Monday,No,2015-07-27T00:00:00.000,Property Found,"[-71.125306, 42.257169]",Point,PropFound,7,PROP,544,E18,,No,SUMMER ST,Part Three,None,757601.0,,2920000.0,2015
+249694,,Monday,No,2015-07-27T00:00:00.000,Property Found,"[-71.115705, 42.278328]",Point,PropFound,7,PROP,500,E18,,No,CUMMINS HWY,Part Three,None,760165.0,,2930000.0,2015

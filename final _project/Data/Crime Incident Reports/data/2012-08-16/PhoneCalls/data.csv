@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37784,120510629.0,Thursday,No,2012-08-16T18:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,8,HARPT ,915,C6,First,No,JAMES ONEILL ST,Part Three,Unarmed,,,,2012
+85653,120511041.0,Thursday,No,2012-08-16T23:37:00.000,PhoneCalls,"[-71.158736, 42.339864]",Point,PhoneCalls,8,HARPT ,773,D14,First,No,COMMONWEALTH AV,Part Three,Unarmed,748430.5191,,2949059.58,2012
+130853,120521472.0,Thursday,No,2012-08-16T15:11:00.000,PhoneCalls,"[-71.104475, 42.345416]",Point,PhoneCalls,8,HARPT ,629,D4,Day,No,PARK DR,Part Three,Unarmed,763090.9859,,2951146.4439999997,2012
+246884,120527577.0,Thursday,No,2012-08-16T12:00:00.000,PhoneCalls,"[-71.04208, 42.320915]",Point,PhoneCalls,8,HARPT ,256,C6,Day,No,N POINT DR,Part Three,Other,780006.1699,,2942301.9760000003,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75384,,Saturday,No,2015-08-01T00:00:00.000,Auto Theft,"[-71.079296, 42.349098]",Point,07xx,8,IVMV,130,D4,,No,EXETER ST,Part One,None,769891.0,,2950000.0,2015
+83510,,Saturday,No,2015-08-01T00:00:00.000,Auto Theft,"[-71.096913, 42.315919]",Point,07xx,8,IVMV,307,E13,,No,WALNUT PARK,Part One,None,765186.0,,2940000.0,2015
+123612,,Saturday,No,2015-08-01T00:00:00.000,Auto Theft,"[-71.04211, 42.317794]",Point,07xx,8,IVMV,256,C6,,No,MOUNT VERNON ST,Part One,None,780004.0,,2940000.0,2015
+134739,,Saturday,No,2015-08-01T13:00:00.000,Auto Theft,"[0, 0]",Point,07xx,8,,226,C6,,No,E FOURTH ST,Part One,None,,K ST,,2015

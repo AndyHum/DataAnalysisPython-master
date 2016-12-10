@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9971,130362598.0,Friday,No,2013-06-14T19:25:00.000,Service,"[-71.098005, 42.324861]",Point,Service,6,ARREST,302,B2,First,No,CENTRE ST,Part three,Unarmed,764875.3416,,2943664.003,2013
+98972,130362279.0,Friday,No,2013-06-14T17:25:00.000,Service,"[-71.090956, 42.333723]",Point,Service,6,MISC  ,289,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+128511,130361172.0,Friday,No,2013-06-14T08:50:00.000,Service,"[-71.14136, 42.349171]",Point,Service,6,ARREST,783,D14,Day,No,WARREN ST,Part three,Unarmed,753113.9957,CAMELOT CT,2952470.76,2013
+131246,130361408.0,Friday,No,2013-06-14T10:53:00.000,Service,"[-71.05681, 42.322086]",Point,Service,6,IVPER ,189,C6,Day,No,DORCHESTER AV,Part three,Unarmed,776020.5581,,2942707.94,2013
+185728,130360982.0,Friday,No,2013-06-14T06:46:00.000,Service,"[-71.089925, 42.314421]",Point,Service,6,ARREST,314,B2,Last,No,HOWLAND ST,Part Three,Unarmed,767078.4323,,2939869.713,2013
+217171,130361246.0,Friday,No,2013-06-14T10:25:00.000,Service,"[-71.055215, 42.328911]",Point,Service,6,CD11  ,192,C6,Day,No,ROGERS ST,Other,Unarmed,776438.927,,2945197.328,2013

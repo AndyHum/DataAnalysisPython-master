@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23900,142017029.0,Thursday,No,2014-08-07T12:30:00.000,PropLost,"[-71.103055, 42.314321]",Point,PropLost,8,LARCEN,0,E13,Day,No,GERMANIA ST,Part three,Unarmed,763527.5926,,2939816.651,2014
+33475,142018565.0,Thursday,No,2014-08-07T14:00:00.000,PropLost,"[-71.059755, 42.301741]",Point,PropLost,8,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775262.4031,,2935289.7789999996,2014
+46420,142017309.0,Thursday,No,2014-08-07T09:00:00.000,PropLost,"[-71.087308, 42.319456]",Point,PropLost,8,LARCEN,0,B2,Day,No,MARTIN LUTHER KING BLVD,Part three,Unarmed,767777.4263,,2941708.002,2014
+189400,142018012.0,Thursday,No,2014-08-07T17:00:00.000,PropLost,"[-71.108935, 42.334281]",Point,PropLost,8,PROP,0,B2,First,No,NEW WHITNEY ST,Part three,Unarmed,761903.69,,2947083.078,2014
+261450,142017074.0,Thursday,No,2014-08-07T15:20:00.000,PropLost,"[0, 0]",Point,PropLost,8,PROP,0,B2,Day,No,WARREN ST,Part three,Unarmed,,,,2014

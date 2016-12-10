@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10339,152015512.0,Thursday,No,2015-02-26T11:39:00.000,InvProp,"[-71.076925, 42.296581]",Point,InvProp,2,SSA,0,B3,Day,No,SPENCER ST,Part three,Unarmed,770626.9209,,2933385.8910000003,2015
+165563,152015531.0,Thursday,No,2015-02-26T12:52:00.000,InvProp,"[-71.099725, 42.311756]",Point,InvProp,2,BE,0,E13,Day,No,MONTEBELLO RD,Part three,Unarmed,764432.6351,,2938886.137,2015
+262275,152015490.0,Thursday,No,2015-02-26T10:00:00.000,InvProp,"[0, 0]",Point,InvProp,2,ALARM,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,,,,2015

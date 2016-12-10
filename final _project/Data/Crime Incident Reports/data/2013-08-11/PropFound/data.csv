@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+170099,130504085.0,Sunday,No,2013-08-11T19:22:00.000,PropFound,"[-71.09368, 42.287751]",Point,PropFound,8,IVMV  ,465,B3,First,No,HARVARD ST,Part three,Unarmed,766109.332,JOHNSTON RD,2930146.0689999997,2013
+171992,130503515.0,Sunday,No,2013-08-11T13:25:00.000,PropFound,"[-71.157532, 42.259821]",Point,PropFound,8,FDPROP,713,E5,Day,No,STIMSON ST,Part three,Unarmed,748873.1036,,2919891.877,2013
+193199,130503482.0,Sunday,No,2013-08-11T14:15:00.000,PropFound,"[-71.125325, 42.352176]",Point,PropFound,8,FDPROP,798,D14,Day,No,BRIGHTON AV,Part three,Unarmed,757443.7219,,2953584.474,2013
+257852,130503474.0,Sunday,No,2013-08-11T11:45:00.000,PropFound,"[-71.063757, 42.354358]",Point,PropFound,8,FDPROP,119,A1,Day,No,TREMONT ST,Part three,Other,774081.4655,,2954458.626,2013

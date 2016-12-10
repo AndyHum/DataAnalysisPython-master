@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131884,130359405.0,Thursday,No,2013-06-13T12:26:00.000,SearchWarr,"[-71.075315, 42.334781]",Point,SearchWarr,6,CD11  ,270,D4,Day,No,HARRISON AV,Part three,Other,770993.181,,2947308.758,2013
+168833,130359834.0,Thursday,No,2013-06-13T12:54:00.000,SearchWarr,"[-71.131655, 42.232891]",Point,SearchWarr,6,CD11  ,527,E18,Day,No,CLIFFORD ST,Part three,Unarmed,755920.3218,,2910107.728,2013
+188878,130360484.0,Thursday,No,2013-06-13T12:00:00.000,SearchWarr,"[-71.091325, 42.284861]",Point,SearchWarr,6,IVDRUG,465,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2013
+252164,130359787.0,Thursday,No,2013-06-13T13:15:00.000,SearchWarr,"[-71.089285, 42.279236]",Point,SearchWarr,6,IVDRUG,427,B3,Day,No,NORFOLK ST,Part three,Unarmed,767313.4676,,2927048.778,2013

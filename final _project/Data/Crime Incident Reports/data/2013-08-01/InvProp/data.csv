@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63864,130480154.0,Thursday,No,2013-08-01T20:09:00.000,InvProp,"[-71.07547, 42.346214]",Point,InvProp,8,THREAT,149,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770930.358,,2951474.633,2013
+97286,130478895.0,Thursday,No,2013-08-01T10:57:00.000,InvProp,"[-71.124761, 42.308189]",Point,InvProp,8,ALARMI,655,E13,Day,No,MOSS HILL RD,Part three,Unarmed,757666.5371,,2937555.2739999997,2013
+99868,130480175.0,Thursday,No,2013-08-01T19:55:00.000,InvProp,"[-71.03545, 42.369521]",Point,InvProp,8,SHOTS ,30,A7,First,No,FRANKFORT ST,Part three,Other,781702.8289,,2960024.834,2013
+193599,130478807.0,Thursday,No,2013-08-01T10:00:00.000,InvProp,"[-71.04093, 42.372216]",Point,InvProp,8,IVMV  ,0,A7,Day,No,LIVERPOOL ST,Part three,Unarmed,780216.6902,,2960998.9280000003,2013
+204559,130480434.0,Thursday,No,2013-08-01T20:00:00.000,InvProp,"[-71.10937, 42.323591]",Point,InvProp,8,IVPER ,582,E13,First,No,DAY ST,Part three,Unarmed,761804.12,,2943186.941,2013
+210675,130478349.0,Thursday,No,2013-08-01T03:15:00.000,InvProp,"[-71.029225, 42.377201]",Point,InvProp,8,SHOTS ,20,A7,Last,No,BREMEN ST,Part three,Unarmed,783369.5556,,2962832.8010000004,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9910,130083837.0,Saturday,No,2013-02-09T20:44:00.000,MVAcc,"[-71.0804, 42.328511]",Point,MVAcc,2,MVPED1,904,B2,First,No,DUDLEY ST,Part Three,Unarmed,769629.4938,ADAMS ST,2945016.955,2013
+25655,130109643.0,Saturday,No,2013-02-09T17:30:00.000,MVAcc,"[-71.15757, 42.347451]",Point,MVAcc,2,PDRPT ,771,D14,First,No,FOSTER ST,Part Three,Unarmed,748734.6671,MT VERNON ST,2951825.9480000003,2013
+62031,130082653.0,Saturday,No,2013-02-09T02:50:00.000,MVAcc,"[-71.06939, 42.339506]",Point,MVAcc,2,MVANO ,167,D4,Last,No,HARRISON AV,Part Three,Other,772586.4767,,2949038.664,2013
+79392,130083523.0,Saturday,No,2013-02-09T17:00:00.000,MVAcc,"[-71.05999, 42.373916]",Point,MVAcc,2,PDRPT ,40,A15,First,No,PUTNAM ST,Part Three,Unarmed,775063.1499,,2961591.298,2013
+103304,130083245.0,Saturday,No,2013-02-09T14:26:00.000,MVAcc,"[-71.05549, 42.364871]",Point,MVAcc,2,MVA   ,85,A1,Day,No,SALEM ST,Part Three,Unarmed,776296.2741,,2958301.423,2013
+132230,130082929.0,Saturday,No,2013-02-09T10:24:00.000,MVAcc,"[-71.08323, 42.327536]",Point,MVAcc,2,IVMV  ,0,B2,Day,No,WARREN ST,Part Three,Unarmed,768866.0406,,2944657.9960000003,2013
+153160,130083675.0,Saturday,No,2013-02-09T18:54:00.000,MVAcc,"[-71.07699, 42.28426]",Point,MVAcc,2,MVPED1,434,B3,First,No,MILTON AV,Part Three,Other,770631.5427,,2928895.599,2013
+182914,130083841.0,Saturday,No,2013-02-09T20:45:00.000,MVAcc,"[0, 0]",Point,MVAcc,2,MVANO ,0,D14,First,No,BROOKS ST,Part Three,Unarmed,,,,2013

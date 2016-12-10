@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26690,,Friday,No,2015-07-17T00:00:00.000,Investigate Property,"[-71.166906, 42.283973]",Point,InvProp,7,FDWEAP,731,E5,,No,TEMPLE ST,Part Three,None,746301.0,,2930000.0,2015
+74620,,Friday,No,2015-07-17T00:00:00.000,Investigate Property,"[-71.099743, 42.328096]",Point,InvProp,7,IVPREM,586,B2,,No,PARKER HILL AVE,Part Three,None,764400.0,,2940000.0,2015
+78995,,Friday,No,2015-07-17T08:33:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD19,111,A1,,No,TREMONT ST,Part Three,None,,,,2015
+91684,,Friday,No,2015-07-17T06:38:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,290,B2,,No,KING ST,Part Three,None,, MALCOLM X BLVD ,,2015
+193579,,Friday,No,2015-07-17T00:00:00.000,Investigate Property,"[-71.080519, 42.326968]",Point,InvProp,7,SSA,281,B2,,No,GREENVILLE ST,Part Three,None,769600.0,,2940000.0,2015
+196869,,Friday,No,2015-07-17T00:00:00.000,Investigate Property,"[-71.089636, 42.27607]",Point,InvProp,7,BE,421,B3,,No,DELHI ST,Part Three,None,767224.0,,2930000.0,2015
+214939,,Friday,No,2015-07-17T10:30:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,530,E18,,No,FLEET ST,Part Three,None,,MILTON ST,,2015
+231228,,Friday,No,2015-07-17T00:00:00.000,Investigate Property,"[-71.052868, 42.33091]",Point,InvProp,7,IVPREM,193,C6,,No,OLD COLONY AVE,Part Three,None,777070.0,,2950000.0,2015
+239300,,Friday,No,2015-07-17T00:00:00.000,Investigate Property,"[-71.062583, 42.355942]",Point,InvProp,7,CD9,111,A1,,No,TREMONT ST,Part Three,None,774396.0,,2960000.0,2015
+244107,,Friday,No,2015-07-17T00:00:00.000,Investigate Property,"[-71.110364, 42.308834]",Point,InvProp,7,BE,647,E13,,No,JOHN A. ANDREW ST,Part Three,None,761560.0,,2940000.0,2015

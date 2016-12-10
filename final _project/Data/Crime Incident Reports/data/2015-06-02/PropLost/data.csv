@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2399,152046265.0,Tuesday,No,2015-06-02T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,D14,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+2449,152046059.0,Tuesday,No,2015-06-02T14:30:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015
+2657,152047038.0,Tuesday,No,2015-06-02T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,,LENOX ST,,2015
+2854,152048357.0,Tuesday,No,2015-06-02T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,,,,2015
+8168,152047354.0,Tuesday,No,2015-06-02T00:59:00.000,PropLost,"[-71.057141, 42.361472]",Point,PropLost,6,PROP,0,A1,Last,No,UNION ST,Part three,Unarmed,775856.5178,,2957060.42,2015
+60766,152045763.0,Tuesday,No,2015-06-02T16:00:00.000,PropLost,"[-71.10383, 42.322836]",Point,PropLost,6,PROP,0,E13,First,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2015
+169405,152045689.0,Tuesday,No,2015-06-02T21:15:00.000,PropLost,"[-71.13449, 42.346712]",Point,PropLost,6,PROP,0,D14,First,No,WALBRIDGE ST,Part three,Unarmed,754974.7554,,2951582.43,2015
+249521,152045878.0,Tuesday,No,2015-06-02T08:00:00.000,PropLost,"[-71.084807, 42.328824]",Point,PropLost,6,LARCEN,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,768437.1156,WASHINGTON ST,2945125.001,2015

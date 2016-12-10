@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34873,140144675.0,Sunday,No,2014-03-09T10:45:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,3,MISPER,446,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+36346,140146750.0,Sunday,No,2014-03-09T11:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,3,MISPER,806,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2014
+37889,140148159.0,Sunday,No,2014-03-09T15:00:00.000,PersLoc,"[-71.0778, 42.326806]",Point,PersLoc,3,MISPER,267,B2,Day,No,FOREST ST,Other,Unarmed,770335.6781,,2944399.193,2014
+79096,140149042.0,Sunday,No,2014-03-09T15:00:00.000,PersLoc,"[-71.082049, 42.294765]",Point,PersLoc,3,MISPER,441,B3,Day,No,KINGSDALE ST,Other,Unarmed,769243.8945,,2932717.086,2014

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39247,152009800.0,Friday,No,2015-02-06T08:30:00.000,InvPer,"[-71.03887, 42.371246]",Point,InvPer,2,IVPER,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+45863,152009977.0,Friday,No,2015-02-06T18:30:00.000,InvPer,"[-71.098149, 42.280546]",Point,InvPer,2,IVPER,0,B3,First,No,ALMONT ST,Part three,Unarmed,764912.3809,,2927514.5939999996,2015
+68411,152009740.0,Friday,No,2015-02-06T00:48:00.000,InvPer,"[-71.084025, 42.305016]",Point,InvPer,2,NIDV,0,B2,Last,No,SEAVER ST,Part three,Unarmed,768691.0889,,2936450.287,2015
+128780,152009748.0,Friday,No,2015-02-06T02:43:00.000,InvPer,"[-71.05795, 42.358781]",Point,InvPer,2,LARCEN,0,A1,Last,No,COURT ST,Part three,Unarmed,775642.9631,,2956078.653,2015
+211708,152009759.0,Friday,No,2015-02-06T07:00:00.000,InvPer,"[-71.083497, 42.321962]",Point,InvPer,2,EDP,0,B2,Last,No,ROCKLAND ST,Part three,Unarmed,768803.7625,,2942626.381,2015
+214767,152009928.0,Friday,No,2015-02-06T16:40:00.000,InvPer,"[-71.083412, 42.329027]",Point,InvPer,2,IVPER,0,B2,First,No,WARREN ST,Part three,Unarmed,768814.0374,,2945200.835,2015
+230531,152009788.0,Friday,No,2015-02-06T09:38:00.000,InvPer,"[-71.053065, 42.327871]",Point,InvPer,2,IVPER,0,C6,Day,No,MCDONOUGH WY,Part three,Unarmed,777022.2779,,2944821.374,2015
+235093,152009938.0,Friday,No,2015-02-06T16:30:00.000,InvPer,"[-71.070033, 42.273536]",Point,InvPer,2,CD9,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772533.7455,,2924997.126,2015
+262704,152009969.0,Friday,No,2015-02-06T17:43:00.000,InvPer,"[0, 0]",Point,InvPer,2,PERGUN,0,B3,First,No,BLUE HILL AV,Part three,Firearm,,,,2015
+262882,152009985.0,Friday,No,2015-02-06T15:30:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,B3,Day,No,MORTON ST,Part three,Unarmed,,,,2015

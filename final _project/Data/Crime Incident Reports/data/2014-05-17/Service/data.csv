@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33146,140306291.0,Saturday,No,2014-05-17T15:08:00.000,Service,"[-71.080967, 42.305758]",Point,Service,5,TSTOP ,329,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769516.8457,,2936724.604,2014
+57968,140306069.0,Saturday,No,2014-05-17T14:16:00.000,Service,"[-71.079935, 42.282141]",Point,Service,5,ARREST,418,B3,Day,No,CAPEN ST,Part three,Unarmed,769838.5075,,2928119.722,2014
+77491,140306582.0,Saturday,No,2014-05-17T17:00:00.000,Service,"[-71.05958, 42.351571]",Point,Service,5,ARREST,116,A1,First,No,KINGSTON ST,Part three,Other,775215.9809999999,EDINBORO ST,2953448.912,2014
+91011,140306008.0,Saturday,No,2014-05-17T13:04:00.000,Service,"[-71.05809, 42.350791]",Point,Service,5,ARREST,115,A1,Day,No,BEACH ST,Part three,Other,775620.2099,UTICA ST,2953166.748,2014
+168111,140305591.0,Saturday,No,2014-05-17T09:38:00.000,Service,"[-71.080275, 42.276607]",Point,Service,5,ARREST,943,B3,Day,No,STANDARD ST,Part three,Unarmed,769756.3384,,2926102.452,2014

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14721,130808347.0,Friday,No,2013-12-20T19:00:00.000,InvProp,"[-71.087625, 42.325776]",Point,InvProp,12,LARCRT,299,B2,First,No,HOMMAGEN CT,Part three,Unarmed,767680.6942,,2944010.845,2013
+47043,130813255.0,Friday,No,2013-12-20T12:00:00.000,InvProp,"[-71.053375, 42.362136]",Point,InvProp,12,LARCRT,91,A1,Day,No,FULTON ST,Part three,Unarmed,776873.0689,,2957307.7210000004,2013
+91081,130799036.0,Friday,No,2013-12-20T01:00:00.000,InvProp,"[-71.05253, 42.326571]",Point,InvProp,12,SHOTS ,218,C6,Last,No,OLD COLONY AV,Part three,Unarmed,777169.4318,,2944348.39,2013
+106328,130800788.0,Friday,No,2013-12-20T18:49:00.000,InvProp,"[-71.07091, 42.326291]",Point,InvProp,12,SHOTS ,181,B2,First,No,NORFOLK AV,Part three,Unarmed,772199.7604,PROCTOR ST,2944220.815,2013
+194644,130799207.0,Friday,No,2013-12-20T03:50:00.000,InvProp,"[-71.14184, 42.353926]",Point,InvProp,12,PARTY ,782,D14,Last,No,SAUNDERS ST,Part three,Unarmed,752976.9671,,2954203.034,2013
+204436,130800180.0,Friday,No,2013-12-20T14:31:00.000,InvProp,"[-71.069582, 42.284133]",Point,InvProp,12,CRIP  ,402,C11,Day,No,BURT ST,Part three,Unarmed,772636.202,,2928859.293,2013
+206152,130799783.0,Friday,No,2013-12-20T11:20:00.000,InvProp,"[-71.033715, 42.375791]",Point,InvProp,12,UNK   ,20,A7,Day,No,PARIS ST,Part three,Unarmed,782159.1846,,2962312.305,2013
+220204,130800840.0,Friday,No,2013-12-20T19:18:00.000,InvProp,"[-71.15298, 42.349071]",Point,InvProp,12,FIREB ,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,749973.0561,,2952421.325,2013
+221226,130800678.0,Friday,No,2013-12-20T18:00:00.000,InvProp,"[-71.06013, 42.305676]",Point,InvProp,12,SHOTS ,347,C11,First,No,LINDEN ST,Part three,Unarmed,775153.5618,,2936723.231,2013

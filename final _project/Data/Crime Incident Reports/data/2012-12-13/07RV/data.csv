@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51894,120779867.0,Thursday,No,2012-12-13T10:30:00.000,07RV,"[-71.093655, 42.269336]",Point,07RV,12,AOD   ,426,B3,Day,No,BLUE HILL AV,Other,Unarmed,766148.0654,,2923435.4189999998,2012
+175703,120780541.0,Thursday,No,2012-12-13T15:13:00.000,07RV,"[-71.055631, 42.381676]",Point,07RV,12,RECMVI,37,A15,Day,No,TERMINAL ST,Other,Other,776226.2569,,2964425.193,2012
+222003,120779733.0,Thursday,No,2012-12-13T09:35:00.000,07RV,"[-71.078285, 42.381841]",Point,07RV,12,RECMV ,50,A15,Day,No,ROLAND ST,Other,Unarmed,770105.3688,,2964454.3660000004,2012

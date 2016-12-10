@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1072,152038368.0,Sunday,No,2015-05-10T22:25:00.000,InvProp,"[0, 0]",Point,InvProp,5,SHOTS,0,C11,First,No,BEECHWOOD ST,Part three,Unarmed,,,,2015
+16732,152038294.0,Sunday,No,2015-05-10T17:46:00.000,InvProp,"[-71.093739, 42.334956]",Point,InvProp,5,SHOTS,0,B2,First,No,ANNUNCIATION RD,Part three,Other,766011.2668,,2947348.014,2015
+16748,152038311.0,Sunday,No,2015-05-10T18:39:00.000,InvProp,"[-71.048347, 42.31996]",Point,InvProp,5,ALARM,0,C6,First,No,MT VERNON ST,Part three,Unarmed,778313.0768,,2941944.941,2015
+137887,152038216.0,Sunday,No,2015-05-10T11:40:00.000,InvProp,"[-71.005729, 42.389414]",Point,InvProp,5,INVEST,0,A7,Day,No,GLADSTONE ST,Part three,Unarmed,789692.1085,,2967319.409,2015
+164735,152038219.0,Sunday,No,2015-05-10T11:45:00.000,InvProp,"[-71.090755, 42.269537]",Point,InvProp,5,BE,0,B3,Day,No,RIVER ST,Part three,Unarmed,766932.4073,,2923512.3660000004,2015
+212311,152038275.0,Sunday,No,2015-05-10T16:25:00.000,InvProp,"[-71.059125, 42.363461]",Point,InvProp,5,SUSOBJ,0,A1,First,No,NEW CHARDON ST,Part three,Unarmed,775316.5746,CANAL ST,2957782.4930000002,2015

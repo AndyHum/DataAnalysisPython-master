@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44038,120808587.0,Thursday,No,2012-12-27T11:15:00.000,MedAssist,"[-71.03724, 42.380121]",Point,MedAssist,12,UNK   ,24,A7,Day,No,MONMOUTH ST,Part Three,Unarmed,781198.1616,,2963885.06,2012
+49266,120813816.0,Thursday,No,2012-12-27T13:45:00.000,MedAssist,"[-71.06071, 42.365801]",Point,MedAssist,12,INVEST,76,A1,Day,No,CAUSEWAY ST,Part Three,Unarmed,774883.8284,HAVERHILL ST,2958633.0239999997,2012
+140872,120809439.0,Thursday,No,2012-12-27T06:47:00.000,MedAssist,"[-71.04837, 42.331231]",Point,MedAssist,12,CARST ,219,C6,Last,No,E 8TH ST,Part Three,Unarmed,778285.3561,,2946052.502,2012
+152836,120808107.0,Thursday,No,2012-12-27T05:21:00.000,MedAssist,"[-71.039428, 42.367778]",Point,MedAssist,12,REQP  ,35,A7,Last,No,S BREMEN ST,Part Three,Unarmed,780631.3068,,2959383.722,2012
+225807,120809270.0,Thursday,No,2012-12-27T16:00:00.000,MedAssist,"[-71.106575, 42.304406]",Point,MedAssist,12,PKNIFE,570,E13,First,No,ROSSMORE RD,Part Three,Knife,762592.2192,,2936199.0510000004,2012
+225946,120808532.0,Thursday,No,2012-12-27T11:06:00.000,MedAssist,"[-71.088555, 42.280791]",Point,MedAssist,12,UNCONS,428,B3,Day,No,WOOLSON ST,Part Three,Unarmed,767508.2841,,2927616.394,2012
+229899,120809737.0,Thursday,No,2012-12-27T21:30:00.000,MedAssist,"[-71.10398, 42.313636]",Point,MedAssist,12,ALARMI,576,E13,First,No,MERRIAM ST,Part Three,Other,763278.5705,,2939565.863,2012
+256714,120809812.0,Thursday,No,2012-12-27T23:14:00.000,MedAssist,"[-71.12165, 42.292506]",Point,MedAssist,12,UNK   ,664,E5,First,No,WASHINGTON ST,Part Three,Unarmed,758533.5432,,2931844.0530000003,2012

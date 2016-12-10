@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63459,120654635.0,Tuesday,No,2012-10-16T17:00:00.000,PersMiss,"[-71.10907, 42.338411]",Point,PersMiss,10,MSNCOM,613,B2,First,No,DEACONESS RD,Part Three,Unarmed,761860.5061,,2948587.962,2012
+152853,120653054.0,Tuesday,No,2012-10-16T22:00:00.000,PersMiss,"[-71.143489, 42.341248]",Point,PersMiss,10,MISPER,778,D14,First,No,EGREMONT RD,Part Three,Unarmed,752550.3574,,2949581.088,2012
+163900,120661597.0,Tuesday,No,2012-10-16T15:00:00.000,PersMiss,"[-71.07977, 42.302721]",Point,PersMiss,10,MISPER,456,B3,Day,No,ERIE ST,Part Three,Unarmed,769846.2076,,2935619.595,2012

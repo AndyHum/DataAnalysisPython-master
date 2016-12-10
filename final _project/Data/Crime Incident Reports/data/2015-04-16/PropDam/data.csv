@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71843,152031101.0,Thursday,No,2015-04-16T14:00:00.000,PropDam,"[-71.050814, 42.357948]",Point,PropDam,4,PROP,0,A1,Day,No,E INDIA ROW,Part three,Unarmed,777573.203,,2955784.918,2015
+122675,152031081.0,Thursday,No,2015-04-16T18:02:00.000,PropDam,"[-71.145818, 42.257502]",Point,PropDam,4,MVA,0,E5,First,No,MARGARETTA DR,Part three,Other,752047.3948,,2919059.747,2015
+192199,152031048.0,Thursday,No,2015-04-16T10:00:00.000,PropDam,"[-71.03439, 42.335651]",Point,PropDam,4,IVPER,0,C6,Day,No,E BROADWAY,Part three,Unarmed,782056.6497,,2947683.55,2015

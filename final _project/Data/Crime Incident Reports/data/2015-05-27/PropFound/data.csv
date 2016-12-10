@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2058,152043805.0,Wednesday,No,2015-05-27T18:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,IVPER,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+29592,152043702.0,Wednesday,No,2015-05-27T20:00:00.000,PropFound,"[-71.12088, 42.351821]",Point,PropFound,5,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2015
+60961,152043591.0,Wednesday,No,2015-05-27T15:37:00.000,PropFound,"[-71.067975, 42.301336]",Point,PropFound,5,PROP,0,C11,Day,No,GENEVA AV,Part three,Unarmed,773039.4863,CORONA ST,2935130.8210000005,2015
+91744,152043508.0,Wednesday,No,2015-05-27T07:00:00.000,PropFound,"[-71.113366, 42.276708]",Point,PropFound,5,IVPREM,0,E18,Last,No,CUMMINS HY,Part three,Unarmed,760800.8031,,2926097.0730000003,2015
+248108,152048695.0,Wednesday,No,2015-05-27T17:00:00.000,PropFound,"[-71.13145, 42.349901]",Point,PropFound,5,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Other,755791.6895,,2952748.2060000002,2015
+256768,152043504.0,Wednesday,No,2015-05-27T10:30:00.000,PropFound,"[-71.055655, 42.352681]",Point,PropFound,5,CD19,0,A1,Day,No,SUMMER ST,Part three,Unarmed,776274.825,ATLANTIC AV,2953858.92,2015

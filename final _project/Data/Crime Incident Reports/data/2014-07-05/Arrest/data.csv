@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3152,142006358.0,Saturday,No,2014-07-05T19:15:00.000,Arrest,"[-71.07899, 42.302991]",Point,Arrest,7,SS,0,B3,First,No,GREENWOOD ST,Part three,Unarmed,770056.7243,ERIE ST,2935719.028,2014
+34941,142006351.0,Saturday,No,2014-07-05T18:15:00.000,Arrest,"[-71.03153, 42.377671]",Point,Arrest,7,ARREST,0,A7,First,No,BENNINGTON ST,Part three,Unarmed,782745.814,PUTNAM ST,2963000.6489999997,2014
+124567,142006253.0,Saturday,No,2014-07-05T11:30:00.000,Arrest,"[-71.08273, 42.309391]",Point,Arrest,7,ARREST,0,B2,Day,No,WARREN ST,Part three,Unarmed,769033.5933,BLUE HILL AV,2938046.317,2014

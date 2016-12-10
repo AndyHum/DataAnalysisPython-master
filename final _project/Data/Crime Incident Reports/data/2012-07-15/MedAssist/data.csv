@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28729,120436753.0,Sunday,No,2012-07-15T22:52:00.000,MedAssist,"[-71.128836, 42.26851]",Point,MedAssist,7,DVIP  ,547,E18,First,No,HALLRON ST,Part Three,Unarmed,756627.2682,,2923090.711,2012
+29974,120435062.0,Sunday,No,2012-07-15T01:45:00.000,MedAssist,"[-71.070835, 42.331511]",Point,MedAssist,7,REQP  ,177,C6,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,772210.4703,,2946123.1760000004,2012
+100518,120435644.0,Sunday,No,2012-07-15T09:50:00.000,MedAssist,"[-71.058845, 42.292711]",Point,MedAssist,7,INJOFF,363,C11,Day,No,KING ST,Part Three,Unarmed,775525.5926,,2932000.3910000003,2012
+105963,120435517.0,Sunday,No,2012-07-15T09:53:00.000,MedAssist,"[-71.077578, 42.324227]",Point,MedAssist,7,CARST ,266,B2,Day,No,WINTHROP ST,Part Three,Unarmed,770400.1993,,2943459.37,2012
+124816,120435066.0,Sunday,No,2012-07-15T01:45:00.000,MedAssist,"[-71.118843, 42.282721]",Point,MedAssist,7,IVPER ,501,E18,Last,No,HYDE PARK AV,Part Three,Other,759308.7448,,2928281.607,2012
+147686,120436586.0,Sunday,No,2012-07-15T21:04:00.000,MedAssist,"[-71.118926, 42.280846]",Point,MedAssist,7,UNCONS,501,E18,First,No,HYDE PARK AV,Part Three,Unarmed,759289.3239,,2927598.193,2012
+168480,120436247.0,Sunday,No,2012-07-15T17:59:00.000,MedAssist,"[-71.034775, 42.376486]",Point,MedAssist,7,STAB  ,23,A7,First,No,BENNINGTON ST,Part Three,Knife,781871.3889,,2962564.014,2012
+182225,120436145.0,Sunday,No,2012-07-15T17:00:00.000,MedAssist,"[-71.04391, 42.370631]",Point,MedAssist,7,IVPER ,907,A7,First,No,SUMNER ST,Part Three,Unarmed,779414.5312,NEW ST,2960417.001,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81736,142026373.0,Friday,No,2014-09-05T11:19:00.000,PersMiss,"[-71.116135, 42.312831]",Point,PersMiss,9,IVPER,0,E13,Day,No,BURROUGHS ST,Other,Unarmed,759992.3464,,2939257.479,2014
+110102,142027091.0,Friday,No,2014-09-05T23:00:00.000,PersMiss,"[-71.079626, 42.316792]",Point,PersMiss,9,MISSIN,0,B2,First,No,MAYWOOD ST,Other,Unarmed,769859.6508,,2940747.383,2014
+121622,142026447.0,Friday,No,2014-09-05T14:45:00.000,PersMiss,"[-71.061984, 42.36231]",Point,PersMiss,9,ADMRPT,0,A1,Day,No,NEW CHARDON ST,Other,Unarmed,774546.0673,,2957359.042,2014

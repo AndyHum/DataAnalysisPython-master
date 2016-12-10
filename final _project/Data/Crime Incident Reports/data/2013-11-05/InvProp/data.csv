@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4812,130704409.0,Tuesday,No,2013-11-05T12:00:00.000,InvProp,"[-71.069527, 42.351443]",Point,InvProp,11,IVPREM,0,A1,Day,No,PARK PLAZA,Part three,Unarmed,772527.4805,,2953388.3860000004,2013
+63654,130704481.0,Tuesday,No,2013-11-05T11:00:00.000,InvProp,"[-71.076048, 42.322631]",Point,InvProp,11,IVPREM,167,B2,Day,No,MORELAND ST,Part three,Unarmed,770816.9822,,2942880.1410000003,2013
+93615,130706196.0,Tuesday,No,2013-11-05T18:20:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,11,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2013
+122105,130704421.0,Tuesday,No,2013-11-05T12:00:00.000,InvProp,"[-71.077748, 42.348631]",Point,InvProp,11,CD9   ,130,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,770310.163,,2952352.43,2013
+148467,130705467.0,Tuesday,No,2013-11-05T19:51:00.000,InvProp,"[-71.09516, 42.275076]",Point,InvProp,11,SHOTS ,469,B3,First,No,ALMONT ST,Part three,Unarmed,765730.7982,,2925525.216,2013
+148604,130705775.0,Tuesday,No,2013-11-05T22:56:00.000,InvProp,"[-71.089245, 42.285976]",Point,InvProp,11,ALARMC,430,B3,First,No,WOODROW AV,Part three,Unarmed,767312.464,,2929504.981,2013
+176910,130705446.0,Tuesday,No,2013-11-05T19:38:00.000,InvProp,"[-71.0976, 42.344116]",Point,InvProp,11,FIREB ,624,D4,First,No,JERSEY ST,Part three,Unarmed,764951.7591,,2950681.392,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100297,120603132.0,Tuesday,No,2012-09-25T14:15:00.000,FIRE,"[-71.040535, 42.286136]",Point,FIRE,9,FIREB ,376,C11,Day,No,TAYLOR ST,Part Three,Other,780492.4022,,2929630.522,2012
+210561,120602857.0,Tuesday,No,2012-09-25T13:29:00.000,FIRE,"[-71.06543, 42.348736]",Point,FIRE,9,FIREB ,127,A1,Day,No,TREMONT ST,Part Three,Unarmed,773639.9559,,2952407.6739999996,2012
+241602,120603659.0,Tuesday,No,2012-09-25T18:35:00.000,FIRE,"[-71.03685, 42.379501]",Point,FIRE,9,FIREB ,24,A7,First,No,EUTAW ST,Part Three,Other,781304.7602,,2963659.69,2012

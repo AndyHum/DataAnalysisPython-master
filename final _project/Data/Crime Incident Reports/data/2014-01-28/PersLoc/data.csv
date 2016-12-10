@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30487,140056706.0,Tuesday,No,2014-01-28T12:30:00.000,PersLoc,"[-71.148595, 42.349557]",Point,PersLoc,1,MSNCOM,778,D14,Day,No,CAMBRIDGE ST,Other,Unarmed,751157.6141,,2952603.025,2014
+100902,140057521.0,Tuesday,No,2014-01-28T07:00:00.000,PersLoc,"[-71.055123, 42.300532]",Point,PersLoc,1,MISPER,354,C11,Last,No,PARK ST,Other,Unarmed,776517.7477,,2934855.395,2014
+164641,140057986.0,Tuesday,No,2014-01-28T23:00:00.000,PersLoc,"[-71.10316, 42.326236]",Point,PersLoc,1,MISPER,906,E13,First,No,HEATH ST,Other,Unarmed,763478.9920000001,,2944158.5510000004,2014

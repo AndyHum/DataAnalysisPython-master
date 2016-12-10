@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82361,130533383.0,Friday,No,2013-08-23T20:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,8,FDPROP,72,A1,First,No,SUDBURY ST,Part three,Other,775087.02,,2957120.525,2013
+186960,130531767.0,Friday,No,2013-08-23T06:00:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,8,LSTPRP,200,C6,Last,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+193168,130531684.0,Friday,No,2013-08-23T01:30:00.000,PropFound,"[-71.074715, 42.349611]",Point,PropFound,8,FDPROP,129,D4,Last,No,CLARENDON ST,Part three,Unarmed,771128.4623,,2952713.89,2013
+266273,130532005.0,Friday,No,2013-08-23T02:00:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,783,D14,Last,No,QUINT AV,Part three,Unarmed,,,,2013

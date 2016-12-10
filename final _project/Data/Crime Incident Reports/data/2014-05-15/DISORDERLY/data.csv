@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2583,140302165.0,Thursday,No,2014-05-15T22:33:00.000,DISORDERLY,"[-71.09045, 42.308695]",Point,24xx,5,IVPER ,318,B2,First,No,SEAVER ST,Part Two,Unarmed,766946.5418,HUMBOLDT AV,2937782.313,2014
+48961,140301751.0,Thursday,No,2014-05-15T20:00:00.000,DISORDERLY,"[-71.06512, 42.308021]",Point,24xx,5,DISTRB,335,C11,First,No,BOWDOIN ST,Part Two,Unarmed,773799.4015,QUINCY ST,2937570.861,2014
+157141,140304118.0,Thursday,No,2014-05-15T18:25:00.000,DISORDERLY,"[-71.133385, 42.243471]",Point,24xx,5,HARPT ,531,E18,First,No,WATERLOO ST,Part Two,Unarmed,755435.3352,,2913961.152,2014

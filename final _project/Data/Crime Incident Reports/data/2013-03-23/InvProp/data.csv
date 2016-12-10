@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41734,130170593.0,Saturday,No,2013-03-23T11:01:00.000,InvProp,"[-71.062708, 42.281896]",Point,InvProp,3,ALARMR,395,C11,Day,No,HURON CR,Part Three,Unarmed,774500.4831,,2928053.62,2013
+91723,130171509.0,Saturday,No,2013-03-23T19:30:00.000,InvProp,"[-71.06789, 42.305511]",Point,InvProp,3,SHOTS ,341,C11,First,No,BOWDOIN ST,Part Three,Other,773054.7721,NORTON ST,2936652.3710000003,2013
+256243,130170195.0,Saturday,No,2013-03-23T04:11:00.000,InvProp,"[-71.0778, 42.326806]",Point,InvProp,3,SHOTS ,267,B2,Last,No,FOREST ST,Part Three,Unarmed,770335.6781,,2944399.193,2013

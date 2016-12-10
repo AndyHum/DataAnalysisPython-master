@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24720,152005042.0,Monday,No,2015-01-19T14:10:00.000,Service,"[-71.068653, 42.306188]",Point,Service,1,IVPER,0,C11,Day,No,NORTON ST,Part three,Unarmed,772847.1206,,2936897.7789999996,2015
+213165,152004939.0,Monday,No,2015-01-19T07:30:00.000,Service,"[-71.068595, 42.358406]",Point,Service,1,CD9,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+231912,152004962.0,Monday,No,2015-01-19T09:28:00.000,Service,"[-71.140058, 42.348826]",Point,Service,1,ARREST,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,753466.266,,2952346.292,2015

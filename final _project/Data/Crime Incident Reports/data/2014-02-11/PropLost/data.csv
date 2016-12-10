@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37302,140087446.0,Tuesday,No,2014-02-11T14:49:00.000,PropLost,"[-71.09134, 42.279336]",Point,PropLost,2,LSTPRP,427,B3,Day,No,EVELYN ST,Part three,Unarmed,766757.183,,2927082.5519999997,2014
+76036,140087574.0,Tuesday,No,2014-02-11T16:11:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,2,LSTPRP,143,D4,First,No,BOYLSTON ST,Part three,Other,770123.9452,,2952769.035,2014
+138930,140094205.0,Tuesday,No,2014-02-11T08:00:00.000,PropLost,"[-71.073885, 42.355071]",Point,PropLost,2,LSTPRP,131,D4,Day,No,BEACON ST,Part three,Unarmed,771342.8818,,2954704.7389999996,2014
+179184,140089631.0,Tuesday,No,2014-02-11T18:00:00.000,PropLost,"[-71.07738, 42.350061]",Point,PropLost,2,LSTPRP,130,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770407.2615,BOYLSTON ST,2952874.296,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29459,142050729.0,Thursday,No,2014-11-20T15:25:00.000,InvProp,"[-71.086365, 42.344616]",Point,InvProp,11,ALARM,0,D4,Day,No,MASSACHUSETTS AV,Part three,Other,767988.1254,,2950878.13,2014
+64863,142050572.0,Thursday,No,2014-11-20T00:37:00.000,InvProp,"[-71.0892, 42.290746]",Point,InvProp,11,SSA,0,B3,Last,No,BLUE HILL AV,Part three,Other,767316.2688,,2931243.297,2014
+106644,142050860.0,Thursday,No,2014-11-20T01:51:00.000,InvProp,"[-71.12366, 42.257651]",Point,InvProp,11,IVPREM,0,E18,Last,No,HYDE PARK AV,Part three,Unarmed,758045.7614,,2919139.9889999996,2014
+119884,142050686.0,Thursday,No,2014-11-20T09:15:00.000,InvProp,"[-71.08676, 42.311131]",Point,InvProp,11,BE,0,B2,Day,No,RUTHVEN ST,Part three,Unarmed,767940.4608,,2938675.0939999996,2014
+137481,142050644.0,Thursday,No,2014-11-20T12:00:00.000,InvProp,"[-71.05078, 42.356576]",Point,InvProp,11,CD9,0,A1,Day,No,ROWES WHRF,Part three,Unarmed,777585.0668,,2955285.233,2014
+213263,142050837.0,Thursday,No,2014-11-20T22:47:00.000,InvProp,"[-71.057685, 42.310896]",Point,InvProp,11,IVPREM,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775805.0763,,2938628.897,2014

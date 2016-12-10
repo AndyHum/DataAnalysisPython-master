@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81205,142051701.0,Sunday,No,2014-11-23T22:08:00.000,MedAssist,"[-71.062109, 42.358107]",Point,MedAssist,11,UNKEMS,0,A1,First,No,BEACON ST,Part three,Unarmed,774520.0939,,2955827.087,2014
+85892,142051500.0,Sunday,No,2014-11-23T09:25:00.000,MedAssist,"[-71.06428, 42.285761]",Point,MedAssist,11,EDP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774068.0525,TALBOT AV,2929460.152,2014
+97141,142051680.0,Sunday,No,2014-11-23T19:50:00.000,MedAssist,"[-71.07893, 42.382376]",Point,MedAssist,11,UNKEMS,0,A15,First,No,CAMBRIDGE ST,Part three,Unarmed,769930.1425,,2964648.47,2014
+127353,142051618.0,Sunday,No,2014-11-23T17:04:00.000,MedAssist,"[-71.03089, 42.378666]",Point,MedAssist,11,REQP,0,A7,First,No,SARATOGA ST,Part three,Unarmed,782916.7432,,2963364.2,2014
+151689,142051709.0,Sunday,No,2014-11-23T22:00:00.000,MedAssist,"[-71.08261, 42.337161]",Point,MedAssist,11,POISON,0,D4,First,No,DITMUS CT,Part three,Unarmed,769016.5305,,2948166.337,2014
+218840,142051670.0,Sunday,No,2014-11-23T20:01:00.000,MedAssist,"[-71.08518, 42.272399]",Point,MedAssist,11,INVEST,0,B3,First,No,RIDGEVIEW AV,Part three,Unarmed,768436.2754,,2924562.537,2014
+227241,142051814.0,Sunday,No,2014-11-23T20:40:00.000,MedAssist,"[-71.07601, 42.30414]",Point,MedAssist,11,UNK,0,C11,First,No,ROSSETER ST,Part three,Unarmed,770860.7479,,2936141.6789999995,2014
+227923,142051660.0,Sunday,No,2014-11-23T20:14:00.000,MedAssist,"[-71.086098, 42.311308]",Point,MedAssist,11,REQP,0,B2,First,No,ELM HILL AV,Part three,Unarmed,768119.0474,,2938740.247,2014
+252172,142051703.0,Sunday,No,2014-11-23T23:45:00.000,MedAssist,"[-71.04419, 42.333811]",Point,MedAssist,11,IVPER,0,C6,First,No,G ST,Part three,Unarmed,779410.5718,E 5TH ST,2946998.708,2014

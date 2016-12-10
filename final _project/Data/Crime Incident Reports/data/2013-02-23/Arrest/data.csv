@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38715,130112730.0,Saturday,No,2013-02-23T20:18:00.000,Arrest,"[-71.08816, 42.294461]",Point,Arrest,2,SSTOP ,444,B3,First,No,BLUE HILL AV,Part three,Unarmed,767591.1223,HARVARD ST,2932598.455,2013
+67071,130111694.0,Saturday,No,2013-02-23T09:30:00.000,Arrest,"[-71.03912, 42.375956]",Point,Arrest,2,ARREST,26,A7,Day,No,MERIDIAN ST,Part Three,Unarmed,780698.4198,,2962364.4960000003,2013
+216087,130111644.0,Saturday,No,2013-02-23T08:40:00.000,Arrest,"[-71.07395, 42.298386]",Point,Arrest,2,CD11  ,453,C11,Day,No,GAYLORD ST,Part Three,Unarmed,771428.4941,,2934047.667,2013

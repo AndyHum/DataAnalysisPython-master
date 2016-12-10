@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33059,130722197.0,Wednesday,No,2013-11-13T18:33:00.000,SearchWarr,"[-71.094815, 42.277296]",Point,SearchWarr,11,CD11  ,469,B3,First,No,MATTAPAN ST,Part three,Other,765820.3275,,2926334.66,2013
+68427,130722488.0,Wednesday,No,2013-11-13T21:01:00.000,SearchWarr,"[-71.090025, 42.316871]",Point,SearchWarr,11,CD11  ,312,B2,First,No,HAROLD ST,Part three,Unarmed,767047.292,,2940762.583,2013
+110429,130721825.0,Wednesday,No,2013-11-13T16:44:00.000,SearchWarr,"[-71.153785, 42.355626]",Point,SearchWarr,11,CD11  ,939,D14,First,No,FANEUIL ST,Part three,Other,749745.7540000001,,2954809.2180000003,2013

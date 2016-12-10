@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78729,130712398.0,Friday,No,2013-11-08T21:30:00.000,Ballist,"[-71.075585, 42.340456]",Point,Ballist,11,FDWEAP,157,D4,First,No,W NEWTON ST,Part Two,Unarmed,770909.8909,,2949376.4669999997,2013
+158043,130711351.0,Friday,No,2013-11-08T13:00:00.000,Ballist,"[-71.058945, 42.378816]",Point,Ballist,11,FDWEAP,900,A15,Day,No,WALFORD WY,Part Two,Firearm,775336.2862,,2963378.418,2013
+182097,130711346.0,Friday,No,2013-11-08T11:30:00.000,Ballist,"[-71.06026, 42.378161]",Point,Ballist,11,FDPROP,900,A15,Day,No,BUNKER HILL ST,Part Two,Unarmed,774982.2177,,2963137.8880000003,2013
+242051,130710384.0,Friday,No,2013-11-08T00:35:00.000,Ballist,"[-71.05988, 42.378031]",Point,Ballist,11,SHOTS ,44,A15,Last,No,BUNKER HILL ST,Part Two,Firearm,775085.1343,MONUMENT ST,2963091.042,2013
+249760,130711924.0,Friday,No,2013-11-08T17:15:00.000,Ballist,"[-71.126665, 42.286651]",Point,Ballist,11,IVPREM,562,E5,First,No,BASILE ST,Part Two,Unarmed,757186.0298,,2929704.423,2013

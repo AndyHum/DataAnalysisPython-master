@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51241,,Monday,No,2015-07-27T00:00:00.000,Robbery,"[-71.148676, 42.337918]",Point,03xx,7,HOMINV,790,D14,,No,ENGLEWOOD AVE,Part One,Firearm,751153.0,,2950000.0,2015
+121874,,Monday,No,2015-07-27T10:47:00.000,Robbery,"[0, 0]",Point,03xx,7,,77,A1,,No,BOWDOIN SQ,Part One,None,,,,2015
+126951,,Monday,No,2015-07-27T00:00:00.000,Robbery,"[-71.121835, 42.290729]",Point,03xx,7,ARMROB,563,E5,,No,BRADEEN ST,Part One,Firearm,758486.0,,2930000.0,2015
+215312,,Monday,No,2015-07-27T00:00:00.000,Robbery,"[-71.077782, 42.27846]",Point,03xx,7,AOD,935,C11,,No,DORCHESTER AVE,Part One,Knife/Cutting Instrument,770428.0,,2930000.0,2015

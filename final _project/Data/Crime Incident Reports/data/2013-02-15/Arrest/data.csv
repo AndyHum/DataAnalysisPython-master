@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84878,130095630.0,Friday,No,2013-02-15T06:31:00.000,Arrest,"[-71.084885, 42.309181]",Point,Arrest,2,CD11  ,320,B2,Last,No,CHENEY ST,Part Three,Unarmed,768451.0674,,2937966.9460000005,2013
+87446,130095980.0,Friday,No,2013-02-15T10:02:00.000,Arrest,"[-71.06803, 42.272181]",Point,Arrest,2,ARREST,388,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,773078.4134,ADAMS ST,2924506.2569999998,2013
+147462,130095353.0,Friday,No,2013-02-15T00:50:00.000,Arrest,"[-71.00046, 42.388461]",Point,Arrest,2,IVPER ,7,A7,Last,No,BENNINGTON ST,Part Three,Unarmed,791117.7011,LEYDEN ST,2966980.377,2013
+180818,130096815.0,Friday,No,2013-02-15T17:11:00.000,Arrest,"[-71.08533, 42.336531]",Point,Arrest,2,ARREST,285,D4,First,No,COVENTRY ST,Part Three,Unarmed,768282.2465,TREMONT ST,2947933.166,2013
+202116,130096529.0,Friday,No,2013-02-15T14:47:00.000,Arrest,"[-71.07917, 42.302616]",Point,Arrest,2,UNK   ,456,B3,Day,No,GREENWOOD ST,Part Three,Unarmed,770008.7053,,2935582.1319999998,2013
+203291,130097013.0,Friday,No,2013-02-15T18:59:00.000,Arrest,"[-71.075165, 42.287106]",Point,Arrest,2,IVPER ,435,B3,First,No,WENTWORTH ST,Part Three,Unarmed,771120.271,,2929935.43,2013
+211942,130096408.0,Friday,No,2013-02-15T12:55:00.000,Arrest,"[-71.071735, 42.291806]",Point,Arrest,2,IVPER ,450,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,772039.7656,,2931652.818,2013

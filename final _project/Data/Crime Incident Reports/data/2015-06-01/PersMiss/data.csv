@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2351,152045555.0,Monday,No,2015-06-01T14:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,6,IVPER,0,B3,Day,No,WOODBOLE AV,Other,Unarmed,,,,2015
+96979,152045865.0,Monday,No,2015-06-01T16:00:00.000,PersMiss,"[-71.11456, 42.260911]",Point,PersMiss,6,MISSIN,0,E18,First,No,RIVER ST,Other,Unarmed,760503.8362,,2920338.975,2015
+130566,152045423.0,Monday,No,2015-06-01T06:30:00.000,PersMiss,"[-71.094985, 42.287311]",Point,PersMiss,6,IVPER,0,B3,Last,No,W MAIN ST,Other,Unarmed,765756.9871,,2929984.047,2015
+213845,152045439.0,Monday,No,2015-06-01T17:00:00.000,PersMiss,"[-71.078255, 42.311286]",Point,PersMiss,6,IVPER,0,B2,First,No,NORMANDY ST,Other,Unarmed,770240.6048,,2938742.838,2015

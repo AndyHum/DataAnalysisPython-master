@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18846,,Wednesday,No,2015-07-08T15:10:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,567,E13,,No,FOREST HILLS ST,Part Three,None,,GLEN RD,,2015
+27470,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.14848, 42.283189]",Point,MedAssist,7,UNCONS,698,E5,,No,ALLENWOOD ST,Part Three,None,751288.0,,2930000.0,2015
+48787,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.093051, 42.28414]",Point,MedAssist,7,NIDV,466,B3,,No,DEERING RD,Part Three,None,766286.0,,2930000.0,2015
+84853,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.166955, 42.341571]",Point,MedAssist,7,UNKEMS,751,D14,,No,CALTHA RD,Part Three,None,746206.0,,2950000.0,2015
+97319,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.017706, 42.383567]",Point,MedAssist,7,UNCONS,14,A7,,No,SARATOGA ST,Part Three,None,786469.0,,2970000.0,2015
+123964,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.058839, 42.307582]",Point,MedAssist,7,IVPER,347,C11,,No,EAST ST,Part Three,None,775499.0,,2940000.0,2015
+133181,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.061735, 42.358255]",Point,MedAssist,7,UNKEMS,102,A1,,No,BEACON ST,Part Three,None,774621.0,,2960000.0,2015
+148514,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.077065, 42.287017]",Point,MedAssist,7,UNKEMS,435,B3,,No,WHITMAN ST,Part Three,None,770606.0,,2930000.0,2015
+215930,,Wednesday,No,2015-07-08T07:00:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,171,D4,,No, ALBANY ST ,Part Three,None,, MASSACHUSETTS AVE ,,2015
+217314,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.090742, 42.318783]",Point,MedAssist,7,I00015,305,B2,,No,WALNUT AVE,Part Three,None,766850.0,,2940000.0,2015
+234018,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.053491, 42.326146]",Point,MedAssist,7,INJ,914,C6,,No,DR. MICHAEL GAVIN WAY,Part Three,None,776910.0,,2940000.0,2015
+247948,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.068629, 42.304435]",Point,MedAssist,7,INVEST,342,C11,,No,TOPLIFF ST,Part Three,None,772857.0,,2940000.0,2015
+250554,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.0526, 42.328909]",Point,MedAssist,7,UNKEMS,192,C6,,No,OLD COLONY AVE,Part Three,None,777146.0,,2950000.0,2015
+253429,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.046654, 42.336112]",Point,MedAssist,7,IVPER,213,C6,,No,W BROADWAY,Part Three,None,778740.0,,2950000.0,2015
+259561,,Wednesday,No,2015-07-08T00:00:00.000,Medical Assistance,"[-71.154916, 42.342962]",Point,MedAssist,7,ALARM,773,D14,,No,HATHERLY RD,Part Three,None,749459.0,,2950000.0,2015

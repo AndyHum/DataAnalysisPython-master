@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47117,120806623.0,Wednesday,No,2012-12-26T12:27:00.000,PhoneCalls,"[-71.077765, 42.319156]",Point,PhoneCalls,12,HARPT ,264,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,770358.9422,,2941611.45,2012
+133466,120808374.0,Wednesday,No,2012-12-26T08:38:00.000,PhoneCalls,"[-71.122874, 42.293109]",Point,PhoneCalls,12,HARPT ,686,E5,Day,No,SOUTH ST,Part Three,Unarmed,758201.3690000001,,2932062.0760000004,2012
+245771,130250681.0,Wednesday,No,2012-12-26T00:30:00.000,PhoneCalls,"[-71.080005, 42.342261]",Point,PhoneCalls,12,IVPER ,285,D4,Last,No,GREENWICH PARK,Part Three,Unarmed,769711.6875,,2950028.327,2012
+250529,130002830.0,Wednesday,No,2012-12-26T09:00:00.000,PhoneCalls,"[-71.110067, 42.311196]",Point,PhoneCalls,12,THREAT,645,E13,Day,No,SEAVERNS AV,Part Three,Unarmed,761636.3008,,2938669.0,2012

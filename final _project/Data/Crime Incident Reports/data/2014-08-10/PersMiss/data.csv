@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40254,142018121.0,Sunday,No,2014-08-10T11:00:00.000,PersMiss,"[-71.075585, 42.340456]",Point,PersMiss,8,IVPER,0,D4,Day,No,W NEWTON ST,Other,Unarmed,770909.8909,,2949376.4669999997,2014
+67667,142018612.0,Sunday,No,2014-08-10T18:00:00.000,PersMiss,"[-71.05827, 42.301551]",Point,PersMiss,8,IVPER,0,C11,First,No,LEONARD ST,Other,Unarmed,775664.4821,,2935222.617,2014
+226107,142018033.0,Sunday,No,2014-08-10T15:40:00.000,PersMiss,"[-71.080596, 42.327236]",Point,PersMiss,8,MISSIN,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014

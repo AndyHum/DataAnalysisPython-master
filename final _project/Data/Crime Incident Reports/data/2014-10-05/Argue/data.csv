@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20052,142036093.0,Sunday,No,2014-10-05T09:55:00.000,Argue,"[-71.041215, 42.369001]",Point,Argue,10,IVPER,0,A7,Day,No,CLIPPER SHIP LA,Part three,Unarmed,780145.9806,,2959826.903,2014
+31597,142036004.0,Sunday,No,2014-10-05T01:15:00.000,Argue,"[-71.02958, 42.380691]",Point,Argue,10,DISTRB,0,A7,Last,No,LEXINGTON ST,Part three,Unarmed,783266.6211,,2964104.1,2014
+56014,142036304.0,Sunday,No,2014-10-05T21:21:00.000,Argue,"[-71.085118, 42.298635]",Point,Argue,10,IVPER,0,B3,First,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2014
+86735,142036036.0,Sunday,No,2014-10-05T01:18:00.000,Argue,"[-71.054204, 42.31971]",Point,Argue,10,DISTRB,0,C11,Last,No,CARSON ST,Part three,Unarmed,776729.6492,,2941845.811,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24379,130615234.0,Thursday,No,2013-09-26T20:03:00.000,PropFound,"[-71.13059, 42.279651]",Point,PropFound,9,SUSPER,559,E5,First,No,AUGUSTUS AV,Part three,Unarmed,756135.0327,METROPOLITAN AV,2927148.894,2013
+54210,130614074.0,Thursday,No,2013-09-26T06:00:00.000,PropFound,"[-71.07163, 42.350686]",Point,PropFound,9,FDPROP,129,D4,Last,No,ST JAMES AV,Part three,Unarmed,771960.4134,,2953109.815,2013
+236298,130613676.0,Thursday,No,2013-09-26T08:00:00.000,PropFound,"[-71.05592, 42.376646]",Point,PropFound,9,LSTPRP,41,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2013

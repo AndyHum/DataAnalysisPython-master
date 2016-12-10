@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112423,152021455.0,Tuesday,No,2015-03-17T10:53:00.000,PropDam,"[-71.052533, 42.36293]",Point,PropDam,3,IVPREM,0,A1,Day,No,FULTON ST,Part three,Unarmed,777098.9175,LEWIS ST,2957598.0160000003,2015
+118882,152021620.0,Tuesday,No,2015-03-17T17:05:00.000,PropDam,"[-71.119175, 42.278916]",Point,PropDam,3,FO,0,E18,First,No,HYDE PARK AV,Part three,Other,759225.2889,,2926894.6339999996,2015
+241131,152021630.0,Tuesday,No,2015-03-17T19:45:00.000,PropDam,"[-71.06414, 42.343936]",Point,PropDam,3,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,773997.6042,TRAVELER ST,2950660.245,2015

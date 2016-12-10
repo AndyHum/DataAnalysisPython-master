@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28761,142011538.0,Monday,No,2014-07-21T15:00:00.000,PersLoc,"[-71.074448, 42.304942]",Point,PersLoc,7,MISSIN,0,C11,Day,No,GENEVA AV,Other,Other,771281.7061,,2936435.9930000002,2014
+48010,142011452.0,Monday,No,2014-07-21T18:00:00.000,PersLoc,"[-71.06857, 42.305041]",Point,PersLoc,7,MISSIN,0,C11,First,No,BOWDOIN ST,Other,Other,772871.6973,,2936480.164,2014
+237688,142011554.0,Monday,No,2014-07-21T22:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,7,IVPER,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+257059,142011510.0,Monday,No,2014-07-21T16:30:00.000,PersLoc,"[-71.097081, 42.319472]",Point,PersLoc,7,MISSIN,0,B2,First,No,DIMOCK ST,Other,Unarmed,765134.3663,,2941701.057,2014

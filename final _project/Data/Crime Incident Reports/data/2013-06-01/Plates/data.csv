@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+118368,130387456.0,Saturday,No,2013-06-01T09:00:00.000,Plates,"[-71.145052, 42.34499]",Point,Plates,6,STOLMV,784,D14,Day,No,WASHINGTON ST,Part three,Unarmed,752122.333,,2950942.686,2013
+192097,130371332.0,Saturday,No,2013-06-01T15:00:00.000,Plates,"[-71.081455, 42.338701]",Point,Plates,6,LSTPRP,273,D4,Day,No,TREMONT ST,Part three,Other,769326.0512,,2948729.0710000005,2013
+259268,130342065.0,Saturday,No,2013-06-01T09:00:00.000,Plates,"[-71.170565, 42.283751]",Point,Plates,6,STOLMV,744,E5,Day,No,DURANT ST,Part Three,Unarmed,745311.4483,,2928598.683,2013

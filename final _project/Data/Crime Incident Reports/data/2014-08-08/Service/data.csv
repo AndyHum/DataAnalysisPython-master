@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71028,142017440.0,Friday,No,2014-08-08T17:13:00.000,Service,"[-71.131156, 42.248901]",Point,Service,8,ARREST,0,E18,First,No,RIVER ST,Part three,Unarmed,756030.0814,,2915942.225,2014
+100453,142017323.0,Friday,No,2014-08-08T11:06:00.000,Service,"[-71.064905, 42.352371]",Point,Service,8,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+128923,142017453.0,Friday,No,2014-08-08T17:58:00.000,Service,"[-71.103255, 42.322886]",Point,Service,8,ARREST,0,E13,First,No,CENTRE ST,Part three,Unarmed,763458.9812,,2942937.6319999998,2014
+207661,142017509.0,Friday,No,2014-08-08T22:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER,0,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014
+242145,142017515.0,Friday,No,2014-08-08T21:50:00.000,Service,"[-71.0829, 42.316361]",Point,Service,8,SS,0,B2,First,No,WARREN ST,Part three,Unarmed,768975.1904,QUINCY ST,2940586.0719999997,2014

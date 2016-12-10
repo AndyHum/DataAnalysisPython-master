@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+233213,152026190.0,Tuesday,No,2015-03-31T19:05:00.000,TRESPASS,"[-71.08209, 42.336671]",Point,TRESPASS,3,SS,0,D4,First,No,LATTIMORE CT,Part Two,Unarmed,769157.9964,,2947988.46,2015
+267129,152026091.0,Tuesday,No,2015-03-31T12:15:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,3,DISTRB,0,A7,Day,No,MCCLELLAN HY,Part Two,Unarmed,,,,2015

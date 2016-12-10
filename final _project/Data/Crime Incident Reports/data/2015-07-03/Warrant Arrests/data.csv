@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116860,,Friday,No,2015-07-03T00:00:00.000,Warrant Arrests,"[-71.06809, 42.302848]",Point,Arrest,7,ARREST,342,C11,,No,TOPLIFF ST,Part Three,None,773006.0,,2940000.0,2015
+244685,,Friday,No,2015-07-03T00:00:00.000,Warrant Arrests,"[-71.077384, 42.288865]",Point,Arrest,7,CD11,437,B3,,No,FERNDALE ST,Part Three,None,770516.0,,2930000.0,2015
+255867,,Friday,No,2015-07-03T00:00:00.000,Warrant Arrests,"[-71.07648, 42.300408]",Point,Arrest,7,ARREST,455,B3,,No,VASSAR ST,Part Three,None,770740.0,,2930000.0,2015

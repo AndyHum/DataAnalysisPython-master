@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102439,130336071.0,Monday,No,2013-06-03T15:00:00.000,PropLost,"[-71.093775, 42.269596]",Point,PropLost,6,LSTPRP,476,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766115.135,,2923530.012,2013
+118211,130354614.0,Monday,No,2013-06-03T12:00:00.000,PropLost,"[-71.001288, 42.391436]",Point,PropLost,6,LSTPRP,2,A7,Day,No,WALDEMAR AV,Part three,Unarmed,790887.4654,,2968063.1160000004,2013
+119338,130337870.0,Monday,No,2013-06-03T18:00:00.000,PropLost,"[-71.099445, 42.346327]",Point,PropLost,6,LSTPRP,627,D4,First,No,BROOKLINE AV,Part three,Unarmed,764448.9697,,2951484.588,2013
+157497,130337042.0,Monday,No,2013-06-03T12:45:00.000,PropLost,"[-71.143891, 42.345952]",Point,PropLost,6,LSTPRP,938,D14,Day,No,FIDELIS WY,Part three,Unarmed,752434.4823,,2951294.5710000005,2013
+168550,130335319.0,Monday,No,2013-06-03T08:30:00.000,PropLost,"[-71.061975, 42.361986]",Point,PropLost,6,LSTPRP,72,A1,Day,No,BULFINCH PL,Part three,Unarmed,774549.1083,,2957241.005,2013
+177840,130336729.0,Monday,No,2013-06-03T10:00:00.000,PropLost,"[-71.148575, 42.287141]",Point,PropLost,6,LSTPRP,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2013
+218042,130335788.0,Monday,No,2013-06-03T12:40:00.000,PropLost,"[-71.063106, 42.355355]",Point,PropLost,6,LARCRT,72,A1,Day,No,TREMONT ST,Part three,Other,774255.6857,,2954822.79,2013
+223305,130352666.0,Monday,No,2013-06-03T07:30:00.000,PropLost,"[-71.080135, 42.382231]",Point,PropLost,6,LSTPRP,50,A15,Day,No,CAMBRIDGE ST,Part three,Unarmed,769604.8423,,2964594.0239999997,2013
+264472,130338225.0,Monday,No,2013-06-03T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LSTPRP,566,B2,First,No,CIRCUIT DR,Part three,Unarmed,,,,2013

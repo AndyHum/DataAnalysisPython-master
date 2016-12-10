@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23422,130817193.0,Sunday,No,2013-12-29T19:19:00.000,InvProp,"[-71.124361, 42.28369]",Point,InvProp,12,CTYALM,561,E5,First,No,CUMMINS HY,Part three,Unarmed,757814.1441,,2928627.903,2013
+74073,130817424.0,Sunday,No,2013-12-29T21:55:00.000,InvProp,"[-71.119079, 42.351603]",Point,InvProp,12,FIGHT ,797,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,759132.7976,,2953383.027,2013
+100752,130817493.0,Sunday,No,2013-12-29T23:25:00.000,InvProp,"[-71.034375, 42.368116]",Point,InvProp,12,UNK   ,33,A7,First,No,MAVERICK ST,Part three,Other,781996.122,,2959514.4080000003,2013
+123563,130816514.0,Sunday,No,2013-12-29T11:49:00.000,InvProp,"[-71.078815, 42.350571]",Point,InvProp,12,AOD   ,138,D4,Day,No,NEWBURY ST,Part three,Other,770018.4438,,2953058.235,2013
+160600,130816721.0,Sunday,No,2013-12-29T14:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,12,CD19  ,70,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2013
+196542,130815938.0,Sunday,No,2013-12-29T00:44:00.000,InvProp,"[-71.088765, 42.334881]",Point,InvProp,12,SHOTS ,289,B2,Last,No,TREMONT ST,Part three,Firearm,767356.4222,,2947327.38,2013
+214419,130816698.0,Sunday,No,2013-12-29T13:40:00.000,InvProp,"[-71.105834, 42.269482]",Point,InvProp,12,IVPREM,478,E18,Day,No,RIDLON RD,Part three,Unarmed,762851.4391,,2923473.19,2013
+247171,130816657.0,Sunday,No,2013-12-29T13:18:00.000,InvProp,"[-71.096755, 42.342406]",Point,InvProp,12,BOMB  ,625,D4,Day,No,JERSEY ST,Part three,Unarmed,765183.1408,QUEENSBERRY ST,2950059.315,2013

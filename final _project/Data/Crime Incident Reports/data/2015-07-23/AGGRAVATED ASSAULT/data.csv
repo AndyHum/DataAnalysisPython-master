@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23046,,Thursday,No,2015-07-23T11:12:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PSHOT,364,C11,,Yes,BRENT ST,Part One,Firearm,,,,2015
+44457,,Thursday,No,2015-07-23T00:00:00.000,Aggravated Assault,"[-71.074364, 42.33556]",Point,04xx,7,AB,285,D4,,No,TREMONT ST,Part One,Blunt Object,771249.0,,2950000.0,2015
+92030,,Thursday,No,2015-07-23T00:00:00.000,Aggravated Assault,"[-71.064581, 42.343298]",Point,04xx,7,AB,164,D4,,No,HARRISON AVE,Part One,Blunt Object,773879.0,,2950000.0,2015
+121814,,Thursday,No,2015-07-23T00:00:00.000,Aggravated Assault,"[-71.079861, 42.315985]",Point,04xx,7,ARREST,311,B2,,No,SAVIN ST,Part One,Knife/Cutting Instrument,769798.0,,2940000.0,2015
+131938,,Thursday,No,2015-07-23T00:00:00.000,Aggravated Assault,"[-71.063124, 42.355407]",Point,04xx,7,STAB,111,A1,,No,TEMPLE PL,Part One,Knife/Cutting Instrument,774251.0,WASHINGTON ST,2950000.0,2015
+171151,,Thursday,No,2015-07-23T00:00:00.000,Aggravated Assault,"[-71.091374, 42.284826]",Point,04xx,7,STAB,428,B3,,No,BLUE HILL AVE,Part One,Knife/Cutting Instrument,766738.0,WOOLSON ST,2930000.0,2015
+195635,,Thursday,No,2015-07-23T00:00:00.000,Aggravated Assault,"[-71.065162, 42.34285]",Point,04xx,7,STAB,165,D4,,No,HARRISON AVE,Part One,Knife/Cutting Instrument,773723.0,,2950000.0,2015
+224768,,Thursday,No,2015-07-23T00:00:00.000,Aggravated Assault,"[-71.076256, 42.311611]",Point,04xx,7,ARREST,326,B2,,No,LAWRENCE AVE,Part One,Firearm,770781.0,,2940000.0,2015
+249161,,Thursday,No,2015-07-23T00:00:00.000,Aggravated Assault,"[-71.04705, 42.334829]",Point,04xx,7,AB,220,C6,,No,DORCHESTER ST,Part One,Other,778635.0,,2950000.0,2015

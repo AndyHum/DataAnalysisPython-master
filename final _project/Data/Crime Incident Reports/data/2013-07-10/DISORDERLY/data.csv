@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54025,130426829.0,Wednesday,No,2013-07-10T22:41:00.000,DISORDERLY,"[-71.083535, 42.335491]",Point,24xx,7,IVPER ,285,D4,First,No,GREENWICH ST,Part Two,Unarmed,768769.4122,,2947556.5360000003,2013
+87290,130424267.0,Wednesday,No,2013-07-10T01:50:00.000,DISORDERLY,"[-71.07825, 42.335516]",Point,24xx,7,TRANSP,273,D4,Last,No,WASHINGTON ST,Part Two,Unarmed,770198.2968,,2947572.668,2013
+188593,130426512.0,Wednesday,No,2013-07-10T22:47:00.000,DISORDERLY,"[-71.081515, 42.320271]",Point,24xx,7,ARREST,311,B2,First,No,WARREN ST,Part Two,Unarmed,769342.7391,,2942012.768,2013
+224924,130424066.0,Wednesday,No,2013-07-10T01:00:00.000,DISORDERLY,"[-71.05464, 42.325816]",Point,24xx,7,LMUSIC,914,C6,Last,No,OCALLAGHAN WY,Part Two,Unarmed,776600.2984,,2944070.27,2013

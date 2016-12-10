@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+557,,Saturday,No,2015-07-11T00:00:00.000,Larceny From Motor Vehicle,"[-71.069527, 42.342777]",Point,06MV,7,BE,160,D4,,No,SHAWMUT AVE,Part One,None,772543.0,,2950000.0,2015
+24479,,Saturday,No,2015-07-11T00:00:00.000,Larceny From Motor Vehicle,"[-71.030161, 42.332385]",Point,06MV,7,BE,231,C6,,No,E SEVENTH ST,Part One,None,783207.0,,2950000.0,2015
+52157,,Saturday,No,2015-07-11T00:00:00.000,Larceny From Motor Vehicle,"[-71.11081, 42.309609]",Point,06MV,7,,647,E13,,No,ELM ST,Part One,None,761438.0,,2940000.0,2015
+86181,,Saturday,No,2015-07-11T00:00:00.000,Larceny From Motor Vehicle,"[-71.083158, 42.349421]",Point,06MV,7,BE,137,D4,,No,NEWBURY ST,Part One,None,768846.0,,2950000.0,2015
+100503,,Saturday,No,2015-07-11T00:00:00.000,Larceny From Motor Vehicle,"[-71.077896, 42.313414]",Point,06MV,7,BE,326,B2,,No,FAYSTON ST,Part One,None,770334.0,,2940000.0,2015
+126779,,Saturday,No,2015-07-11T00:00:00.000,Larceny From Motor Vehicle,"[-71.086246, 42.351722]",Point,06MV,7,BE,139,D4,,No,BEACON ST,Part One,None,768008.0,,2950000.0,2015
+148758,,Saturday,No,2015-07-11T00:00:00.000,Larceny From Motor Vehicle,"[-71.065711, 42.344325]",Point,06MV,7,,162,D4,,No,WASHINGTON ST,Part One,None,773572.0,,2950000.0,2015
+234469,,Saturday,No,2015-07-11T00:00:00.000,Larceny From Motor Vehicle,"[-71.055717, 42.328937]",Point,06MV,7,BE,192,C6,,No,MOHAWK ST,Part One,None,776303.0,,2950000.0,2015

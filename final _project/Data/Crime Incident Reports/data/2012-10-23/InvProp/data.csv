@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13303,120669013.0,Tuesday,No,2012-10-23T21:35:00.000,InvProp,"[-71.068485, 42.277406]",Point,InvProp,10,BEIP  ,404,C11,First,No,VALLEY RD,Part Three,Unarmed,772945.6361,,2926409.693,2012
+68890,120667752.0,Tuesday,No,2012-10-23T11:45:00.000,InvProp,"[-71.084885, 42.309181]",Point,InvProp,10,IVPREM,319,B2,Day,No,CHENEY ST,Part Three,Unarmed,768451.0674,,2937966.9460000005,2012
+122009,120668939.0,Tuesday,No,2012-10-23T20:59:00.000,InvProp,"[-71.088026, 42.290197]",Point,InvProp,10,IVPREM,439,B3,First,No,STRATTON ST,Part Three,Other,767634.6963,,2931044.4889999996,2012
+164789,120667672.0,Tuesday,No,2012-10-23T11:05:00.000,InvProp,"[-71.143968, 42.29174]",Point,InvProp,10,ALARMR,678,E5,Day,No,BELLAIRE RD,Part Three,Other,752496.2689,,2931538.8310000002,2012

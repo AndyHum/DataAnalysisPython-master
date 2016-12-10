@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17881,140139205.0,Wednesday,No,2014-03-05T18:00:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,3,MSNCOM,817,C11,First,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2014
+26738,140136420.0,Wednesday,No,2014-03-05T16:00:00.000,PersLoc,"[-71.114821, 42.263407]",Point,PersLoc,3,MISPER,493,E18,First,No,HUNTINGTON AV,Other,Unarmed,760428.8925,,2921248.2460000003,2014
+155229,140136453.0,Wednesday,No,2014-03-05T18:00:00.000,PersLoc,"[-71.10875, 42.269951]",Point,PersLoc,3,MSNCOM,478,E18,First,No,MARIPOSA ST,Other,Unarmed,762061.4578,,2923640.432,2014
+172016,140136905.0,Wednesday,No,2014-03-05T09:50:00.000,PersLoc,"[-71.122558, 42.289692]",Point,PersLoc,3,MSNCOM,563,E5,Day,No,GRANFIELD AV,Other,Unarmed,758292.2559999999,,2930817.442,2014
+209510,140136434.0,Wednesday,No,2014-03-05T18:50:00.000,PersLoc,"[-71.085618, 42.32866]",Point,PersLoc,3,MISPER,282,B2,First,No,WASHINGTON ST,Other,Unarmed,768218.0809,,2945064.255,2014

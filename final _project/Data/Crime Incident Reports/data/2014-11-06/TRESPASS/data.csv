@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14471,142046349.0,Thursday,No,2014-11-06T08:32:00.000,TRESPASS,"[-71.13939, 42.357761]",Point,TRESPASS,11,ARREST,0,D14,Day,No,LINCOLN ST,Part Two,Unarmed,753633.2873,,2955603.38,2014
+102513,142046308.0,Thursday,No,2014-11-06T01:20:00.000,TRESPASS,"[-71.057255, 42.378436]",Point,TRESPASS,11,ARREST,0,A15,Last,No,WALL ST,Part Two,Unarmed,775793.6252,,2963242.3039999995,2014
+210709,142046351.0,Thursday,No,2014-11-06T08:45:00.000,TRESPASS,"[-71.08261, 42.337161]",Point,TRESPASS,11,ARREST,0,D4,Day,No,DITMUS CT,Part Two,Unarmed,769016.5305,,2948166.337,2014

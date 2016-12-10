@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8548,152005634.0,Wednesday,No,2015-01-21T12:00:00.000,PropLost,"[-71.058495, 42.354946]",Point,PropLost,1,PROP,0,A1,Day,No,ARCH ST,Part three,Unarmed,775502.8971,,2954680.3419999997,2015
+83666,152005500.0,Wednesday,No,2015-01-21T00:01:00.000,PropLost,"[-71.058756, 42.36273]",Point,PropLost,1,PROP,0,A1,Last,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2015
+95493,152005876.0,Wednesday,No,2015-01-21T15:00:00.000,PropLost,"[-71.08967, 42.312926]",Point,PropLost,1,PROP,0,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,767150.2196,,2939325.421,2015
+99259,152005828.0,Wednesday,No,2015-01-21T19:00:00.000,PropLost,"[-71.046945, 42.293781]",Point,PropLost,1,PROP,0,C11,First,No,MORRISSEY BL,Part three,Unarmed,778743.1088,,2932407.163,2015
+153804,152025757.0,Wednesday,No,2015-01-21T03:30:00.000,PropLost,"[-71.06942, 42.362401]",Point,PropLost,1,PROP,0,A1,Last,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+155064,152005743.0,Wednesday,No,2015-01-21T19:10:00.000,PropLost,"[-71.074855, 42.350756]",Point,PropLost,1,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2015
+164298,152006430.0,Wednesday,No,2015-01-21T23:00:00.000,PropLost,"[-71.05793, 42.356691]",Point,PropLost,1,PROP,0,A1,First,No,MILK ST,Part three,Unarmed,775652.3161,,2955317.0439999998,2015
+218494,152005782.0,Wednesday,No,2015-01-21T20:00:00.000,PropLost,"[-71.088005, 42.343661]",Point,PropLost,1,PROP,0,D4,First,No,WESTLAND AV,Part three,Unarmed,767546.4547,,2950527.965,2015
+263417,152005770.0,Wednesday,No,2015-01-21T14:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,C11,Day,No,GIBSON ST,Part three,Unarmed,,,,2015
+263943,152005717.0,Wednesday,No,2015-01-21T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,B2,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015

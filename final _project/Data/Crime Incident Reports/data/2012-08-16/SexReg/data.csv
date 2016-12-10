@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111310,120509180.0,Thursday,No,2012-08-16T09:33:00.000,SexReg,"[-71.12804, 42.363416]",Point,SexReg,8,ARREST,813,D14,Day,No,STADIUM WY,Part Two,Unarmed,756691.9836,,2957677.3510000003,2012
+160690,120516890.0,Thursday,No,2012-08-16T12:00:00.000,SexReg,"[-71.087815, 42.340856]",Point,SexReg,8,IVPER ,283,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,767602.7587,,2949506.019,2012
+218795,120509388.0,Thursday,No,2012-08-16T12:00:00.000,SexReg,"[-71.0729, 42.333256]",Point,SexReg,8,IVPER ,172,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2012

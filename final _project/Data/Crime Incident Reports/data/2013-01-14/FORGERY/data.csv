@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15664,130037226.0,Monday,No,2013-01-14T11:00:00.000,FORGERY,"[-71.05716, 42.313186]",Point,10xx,1,MEET  ,247,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775942.7453,,2939464.145,2013
+59172,130072545.0,Monday,No,2013-01-14T12:00:00.000,FORGERY,"[-71.0332, 42.375466]",Point,10xx,1,LARCRT,21,A7,Day,No,MORRIS ST,Part Two,Unarmed,782298.9865,,2962194.63,2013
+129431,130027990.0,Monday,No,2013-01-14T11:45:00.000,FORGERY,"[-71.054042, 42.318015]",Point,10xx,1,LARCRT,245,C11,Day,No,NEWPORT ST,Part Two,Other,776776.8138,,2941228.0689999997,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30786,130366583.0,Sunday,No,2013-06-16T12:00:00.000,TRESPASS,"[-71.12804, 42.363416]",Point,TRESPASS,6,ARREST,813,D14,Day,No,STADIUM WY,Part Two,Unarmed,756691.9836,,2957677.3510000003,2013
+39455,130367028.0,Sunday,No,2013-06-16T16:27:00.000,TRESPASS,"[-71.077661, 42.330753]",Point,TRESPASS,6,ARREST,278,B2,First,No,ALBANY ST,Part Two,Unarmed,770366.1347,,2945837.597,2013
+47422,130366205.0,Sunday,No,2013-06-16T05:16:00.000,TRESPASS,"[-71.148595, 42.349557]",Point,TRESPASS,6,ARREST,778,D14,Last,No,CAMBRIDGE ST,Part Two,Unarmed,751157.6141,,2952603.025,2013
+188726,130366145.0,Sunday,No,2013-06-16T03:30:00.000,TRESPASS,"[-71.044085, 42.319721]",Point,TRESPASS,6,FIGHT ,256,C6,Last,No,ISLAND VIEW PL,Part Two,Unarmed,779466.4075,NORTH POINT DR,2941864.2339999997,2013

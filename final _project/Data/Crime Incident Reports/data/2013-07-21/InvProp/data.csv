@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37631,130452828.0,Sunday,No,2013-07-21T14:30:00.000,InvProp,"[-71.04904, 42.350711]",Point,InvProp,7,IVPREM,206,C6,Day,No,CONGRESS ST,Part three,Unarmed,778066.6609,FARNSWORTH ST,2953150.398,2013
+143542,130453773.0,Sunday,No,2013-07-21T22:01:00.000,InvProp,"[-71.086785, 42.287831]",Point,InvProp,7,SHOTS ,431,B3,First,No,CALLENDER ST,Part three,Other,767974.8327,,2930184.185,2013
+156226,130453908.0,Sunday,No,2013-07-21T23:07:00.000,InvProp,"[-71.07138, 42.321421]",Point,InvProp,7,SHOTS ,183,B2,First,No,E COTTAGE ST,Part three,Unarmed,772081.5836,LEYLAND ST,2942445.466,2013
+169053,130452451.0,Sunday,No,2013-07-21T10:00:00.000,InvProp,"[-71.08574, 42.336966]",Point,InvProp,7,BEIP  ,285,D4,Day,No,COVENTRY ST,Part three,Unarmed,768170.625,,2948091.15,2013

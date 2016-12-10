@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98386,142060893.0,Saturday,No,2014-12-27T11:31:00.000,Ballist,"[-71.079865, 42.324351]",Point,Ballist,12,SSA,0,B2,Day,No,MORELAND ST,Part Two,Firearm,769781.6841,,2943501.791,2014
+218471,142060907.0,Saturday,No,2014-12-27T12:24:00.000,Ballist,"[-71.08911, 42.313631]",Point,Ballist,12,SHOTS,0,B2,Day,No,HUMBOLDT AV,Part Two,Firearm,767300.4456,,2939583.064,2014
+238764,142060997.0,Saturday,No,2014-12-27T18:18:00.000,Ballist,"[-71.063205, 42.289621]",Point,Ballist,12,SHOTS,0,C11,First,No,DORCHESTER AV,Part Two,Firearm,774351.7311,SHEPTON ST,2930868.277,2014

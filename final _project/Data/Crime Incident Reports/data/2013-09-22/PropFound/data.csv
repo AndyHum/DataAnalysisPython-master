@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8931,130604972.0,Sunday,No,2013-09-22T12:05:00.000,PropFound,"[-71.0686, 42.350441]",Point,PropFound,9,IVPREM,129,A1,Day,No,CHURCH ST,Part three,Unarmed,772779.9046,STUART ST,2953024.6580000003,2013
+30629,130605056.0,Sunday,No,2013-09-22T01:00:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,9,FDPROP,520,E18,Last,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2013
+50341,130610129.0,Sunday,No,2013-09-22T17:03:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,9,FDPROP,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+150943,130605084.0,Sunday,No,2013-09-22T13:31:00.000,PropFound,"[-71.056025, 42.360651]",Point,PropFound,9,FDPROP,93,A1,Day,No,NORTH ST,Part three,Unarmed,776159.6956,,2956762.8189999997,2013
+231989,130604726.0,Sunday,No,2013-09-22T08:51:00.000,PropFound,"[-71.051019, 42.362401]",Point,PropFound,9,IVPREM,90,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777509.2589,,2957407.462,2013
+261886,130605548.0,Sunday,No,2013-09-22T13:00:00.000,PropFound,"[0, 0]",Point,PropFound,9,INVEST,93,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,,,,2013

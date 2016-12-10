@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29218,130295168.0,Friday,No,2013-05-17T16:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,5,LSTPRP,289,B2,First,No,TREMONT ST,Part Three,Unarmed,766765.8102,,2946902.542,2013
+52228,130294647.0,Friday,No,2013-05-17T13:15:00.000,PropFound,"[-71.058756, 42.36273]",Point,PropFound,5,FDPROP,72,A1,Day,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2013
+93629,130294953.0,Friday,No,2013-05-17T15:20:00.000,PropFound,"[-71.10818, 42.308687]",Point,PropFound,5,LARCIP,576,E13,Day,No,AMORY ST,Part Three,Unarmed,762150.6564,,2937756.869,2013
+176427,130295639.0,Friday,No,2013-05-17T19:42:00.000,PropFound,"[-71.08571, 42.343351]",Point,PropFound,5,FDPROP,144,D4,First,No,WESTLAND,Part Three,Unarmed,768167.4338,MASSACHUSETTS AV,2950418.0,2013
+179000,130294151.0,Friday,No,2013-05-17T09:37:00.000,PropFound,"[-71.05842, 42.357421]",Point,PropFound,5,FDPROP,0,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,775518.4991,SCHOOL ST,2955582.383,2013
+212026,130295475.0,Friday,No,2013-05-17T19:29:00.000,PropFound,"[-71.03336, 42.370471]",Point,PropFound,5,EDP2  ,30,A7,First,No,LUBEC ST,Part three,Other,782265.7126,,2960374.1160000004,2013
+219921,130295203.0,Friday,No,2013-05-17T17:15:00.000,PropFound,"[-71.047162, 42.280687]",Point,PropFound,5,IVMV  ,385,C11,First,No,HALLET ST,Part Three,Unarmed,778709.5751,,2927635.23,2013
+248576,130294775.0,Friday,No,2013-05-17T12:45:00.000,PropFound,"[-71.06458, 42.352351]",Point,PropFound,5,LSTPRP,118,A1,Day,No,TREMONT ST,Part Three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2013
+264694,130301261.0,Friday,No,2013-05-17T00:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,97,A1,Last,No,TREMONT ST,Part Three,Unarmed,,,,2013

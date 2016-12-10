@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30900,142024272.0,Friday,No,2014-08-29T19:00:00.000,PropLost,"[-71.07572, 42.335536]",Point,PropLost,8,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770882.3115,,2947583.349,2014
+81280,142025326.0,Friday,No,2014-08-29T08:00:00.000,PropLost,"[-71.088294, 42.341504]",Point,PropLost,8,PROP,0,D4,Day,No,ST STEPHEN ST,Part three,Unarmed,767472.0844,,2949741.2860000003,2014
+88768,142024227.0,Friday,No,2014-08-29T15:30:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,8,IVPREM,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2014
+144808,142024749.0,Friday,No,2014-08-29T13:00:00.000,PropLost,"[-71.06818, 42.298401]",Point,PropLost,8,LARCEN,0,C11,Day,No,TONAWANDA ST,Part three,Unarmed,772989.4359,,2934060.992,2014
+151044,142025739.0,Friday,No,2014-08-29T19:45:00.000,PropLost,"[-71.083145, 42.349411]",Point,PropLost,8,PROP,0,D4,First,No,NEWBURY ST,Part three,Unarmed,768850.0656,,2952629.758,2014
+199285,142032995.0,Friday,No,2014-08-29T09:00:00.000,PropLost,"[-71.071598, 42.293363]",Point,PropLost,8,LARCEN,0,C11,Day,No,MELVILLE AV,Part three,Unarmed,772073.8459,,2932220.186,2014
+210140,142025758.0,Friday,No,2014-08-29T20:00:00.000,PropLost,"[-71.093964, 42.345871]",Point,PropLost,8,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,765931.6383,,2951325.4069999997,2014
+216985,142024306.0,Friday,No,2014-08-29T22:45:00.000,PropLost,"[-71.08489, 42.348946]",Point,PropLost,8,LARCEN,0,D4,First,No,NEWBURY ST,Part three,Unarmed,768379.1902,,2952458.002,2014

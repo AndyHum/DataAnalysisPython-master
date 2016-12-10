@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4074,152048361.0,Thursday,No,2015-06-11T10:26:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,6,CD19IV,0,E13,Day,No,HEATH ST,Part Two,Knife,,,,2015
+27080,152048504.0,Thursday,No,2015-06-11T18:27:00.000,WEAPONS CHARGE,"[-71.061495, 42.356911]",Point,15xx,6,ARREST,0,A1,First,No,TREMONT ST,Part Two,Unarmed,774688.3413,,2955392.2430000002,2015
+122456,152048311.0,Thursday,No,2015-06-11T09:22:00.000,WEAPONS CHARGE,"[-71.05839, 42.307821]",Point,15xx,6,ARREST,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775620.1902,FREEPORT ST,2937507.3310000002,2015
+214919,152048531.0,Thursday,No,2015-06-11T20:40:00.000,WEAPONS CHARGE,"[-71.07935, 42.343716]",Point,15xx,6,ARREST,0,D4,First,No,W NEWTON ST,Part Two,Firearm,769886.1488,,2950559.4280000003,2015

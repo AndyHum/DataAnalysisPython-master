@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53168,152017843.0,Thursday,No,2015-03-05T15:10:00.000,PropFound,"[-71.039415, 42.368976]",Point,PropFound,3,PROP,0,A7,Day,No,MAVERICK SQ,Part three,Unarmed,780632.4456,,2959820.414,2015
+226744,152017948.0,Thursday,No,2015-03-05T20:57:00.000,PropFound,"[-71.096925, 42.338961]",Point,PropFound,3,PROP,0,D4,First,No,FENWAY,Part three,Unarmed,765143.1143,MUSEUM RD,2948803.675,2015
+263364,152017898.0,Thursday,No,2015-03-05T17:43:00.000,PropFound,"[0, 0]",Point,PropFound,3,PROP,0,E5,First,No,BROOKWAY RD,Part three,Firearm,,,,2015

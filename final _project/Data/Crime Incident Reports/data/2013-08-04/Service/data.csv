@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29875,130486780.0,Sunday,No,2013-08-04T14:50:00.000,Service,"[-71.059987, 42.361648]",Point,Service,8,PRIOR ,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+144158,130487293.0,Sunday,No,2013-08-04T20:00:00.000,Service,"[-71.11759, 42.279391]",Point,Service,8,ARREST,0,E18,First,No,CUMMINS HY,Part three,Unarmed,759653.4409,,2927069.65,2013
+168836,130486332.0,Sunday,No,2013-08-04T10:15:00.000,Service,"[-71.091325, 42.284861]",Point,Service,8,IVPER ,465,B3,Day,No,BLUE HILL AV,Other,Unarmed,766751.5911,,2929095.955,2013
+195806,130485826.0,Sunday,No,2013-08-04T01:48:00.000,Service,"[-71.059575, 42.302511]",Point,Service,8,IVPER ,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775309.6471,,2935570.63,2013

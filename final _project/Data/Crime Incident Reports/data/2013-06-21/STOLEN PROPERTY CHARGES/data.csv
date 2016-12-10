@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51089,130379627.0,Friday,No,2013-06-21T22:53:00.000,STOLEN PROPERTY CHARGES,"[-71.09091, 42.285581]",Point,13xx,6,MVPED1,430,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766862.6289,WOODROW AV,2929358.873,2013
+111078,130378331.0,Friday,No,2013-06-21T12:33:00.000,STOLEN PROPERTY CHARGES,"[-71.079605, 42.347101]",Point,13xx,6,ARREST,146,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769811.1326,,2951792.646,2013
+195637,130377509.0,Friday,No,2013-06-21T02:04:00.000,STOLEN PROPERTY CHARGES,"[-71.0873, 42.271261]",Point,13xx,6,IVMV  ,424,B3,Last,No,GLADESIDE AV,Part Two,Unarmed,767864.7009,LINVALE TR,2924145.173,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6916,142020666.0,Monday,No,2014-08-18T16:00:00.000,PropLost,"[-71.123165, 42.255916]",Point,PropLost,8,DISTRB,0,E18,First,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2014
+134720,142023090.0,Monday,No,2014-08-18T23:00:00.000,PropLost,"[-71.079416, 42.284079]",Point,PropLost,8,PROP,0,B3,First,No,STANTON ST,Part three,Unarmed,769975.3356,,2928826.4189999998,2014
+178138,142025348.0,Monday,No,2014-08-18T12:00:00.000,PropLost,"[-71.094105, 42.348821]",Point,PropLost,8,PROP,0,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765888.4317,,2952400.461,2014
+193004,142021202.0,Monday,No,2014-08-18T04:00:00.000,PropLost,"[-71.08939, 42.345876]",Point,PropLost,8,PROP,0,D4,Last,No,HEMENWAY ST,Part three,Unarmed,767168.1477,,2951333.347,2014
+240815,142020615.0,Monday,No,2014-08-18T15:03:00.000,PropLost,"[-71.10164, 42.344226]",Point,PropLost,8,PROP,0,D4,Day,No,BROOKLINE AV,Part three,Unarmed,763859.4027,,2950716.352,2014
+262051,142020556.0,Monday,No,2014-08-18T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,ADMRPT,0,A1,Day,No,ESSEX ST,Part three,Unarmed,,BEACH ST,,2014
+264634,142020924.0,Monday,No,2014-08-18T17:30:00.000,PropLost,"[0, 0]",Point,PropLost,8,PROP,0,E13,First,No,HARTFORD ST,Part three,Unarmed,,,,2014

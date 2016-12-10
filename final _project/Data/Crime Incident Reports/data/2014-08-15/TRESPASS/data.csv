@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34579,142019698.0,Friday,No,2014-08-15T17:31:00.000,TRESPASS,"[-71.063175, 42.347406]",Point,TRESPASS,8,ARREST,0,A1,First,No,PINE ST,Part Two,Unarmed,774251.8638,,2951926.042,2014
+139017,142019519.0,Friday,No,2014-08-15T07:15:00.000,TRESPASS,"[-71.07122, 42.338081]",Point,TRESPASS,8,ARREST,0,D4,Last,No,HARRISON AV,Part Two,Unarmed,772094.3327,,2948516.876,2014
+235629,142019758.0,Friday,No,2014-08-15T20:52:00.000,TRESPASS,"[-71.081035, 42.349986]",Point,TRESPASS,8,ARREST,0,D4,First,No,NEWBURY ST,Part Two,Unarmed,769419.4017,,2952842.095,2014
+263625,142019595.0,Friday,No,2014-08-15T12:50:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,8,ARREST,0,A1,Day,No,PING ON ST,Part Two,Unarmed,,,,2014

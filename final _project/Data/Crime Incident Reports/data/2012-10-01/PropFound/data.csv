@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33101,120616618.0,Monday,No,2012-10-01T08:15:00.000,PropFound,"[-71.113585, 42.311911]",Point,PropFound,10,FDPROP,645,E13,Day,No,BROWN TR,Part Three,Unarmed,760683.5671,,2938925.328,2012
+47551,120616863.0,Monday,No,2012-10-01T10:00:00.000,PropFound,"[-71.059415, 42.352836]",Point,PropFound,10,FDPROP,112,A1,Day,No,KINGSTON ST,Part Three,Unarmed,775258.2007,,2953910.1319999998,2012
+58947,120616853.0,Monday,No,2012-10-01T10:00:00.000,PropFound,"[-71.046717, 42.336149]",Point,PropFound,10,FDPROP,213,C6,Day,No,W BROADWAY,Part Three,Unarmed,778722.6466,,2947847.002,2012
+93916,130345150.0,Monday,No,2012-10-01T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,10,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2012
+151382,120617423.0,Monday,No,2012-10-01T14:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,10,FDPROP,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+191814,120617373.0,Monday,No,2012-10-01T14:00:00.000,PropFound,"[-71.063155, 42.298481]",Point,PropFound,10,FDPROP,356,C11,Day,No,GENEVA AV,Part Three,Unarmed,774348.7245,,2934097.058,2012
+258924,120618147.0,Monday,No,2012-10-01T20:00:00.000,PropFound,"[-71.06867, 42.323626]",Point,PropFound,10,FDPROP,182,B2,First,No,BURRELL ST,Part Three,Unarmed,772810.3976,,2943252.7,2012

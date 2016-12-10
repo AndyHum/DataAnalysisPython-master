@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+401,140300579.0,Saturday,No,2014-02-01T08:00:00.000,PhoneCalls,"[-71.057335, 42.312466]",Point,PhoneCalls,2,THREAT,254,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775896.7749,,2939201.52,2014
+227541,142000779.0,Saturday,No,2014-02-01T12:00:00.000,PhoneCalls,"[-71.00474, 42.392707]",Point,PhoneCalls,2,DVIP,0,A7,Day,No,WALDEMAR AV,Part three,Unarmed,789952.4141,,2968520.7180000003,2014
+248515,140213268.0,Saturday,No,2014-02-01T07:00:00.000,PhoneCalls,"[-71.057908, 42.293715]",Point,PhoneCalls,2,IVPER ,364,C11,Last,No,WHITTEN ST,Part three,Unarmed,775776.9943,,2932367.5560000003,2014
+262381,142046126.0,Saturday,No,2014-02-01T00:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,2,ADMRPT,0,A1,Last,No,LONGWOOD AV,Part three,Unarmed,,,,2014

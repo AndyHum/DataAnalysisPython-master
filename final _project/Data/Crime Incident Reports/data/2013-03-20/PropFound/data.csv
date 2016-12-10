@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+136196,130165356.0,Wednesday,No,2013-03-20T19:00:00.000,PropFound,"[-71.053815, 42.376351]",Point,PropFound,3,LSTPRP,38,A15,First,No,3RD AV,Part Three,Unarmed,776727.0554,,2962487.3310000002,2013
+142487,130164463.0,Wednesday,No,2013-03-20T13:45:00.000,PropFound,"[-71.039415, 42.368976]",Point,PropFound,3,FDPROP,27,A7,Day,No,MAVERICK SQ,Part Three,Unarmed,780632.4456,,2959820.414,2013
+160996,130167008.0,Wednesday,No,2013-03-20T20:13:00.000,PropFound,"[-71.162303, 42.261265]",Point,PropFound,3,LSTPRP,714,E5,First,No,PLEASANTDALE RD,Part Three,Unarmed,747579.4723,,2920412.8910000003,2013
+237682,130165370.0,Wednesday,No,2013-03-20T22:20:00.000,PropFound,"[-71.084515, 42.352176]",Point,PropFound,3,FDPROP,135,D4,First,No,BEACON ST,Part Three,Unarmed,768474.8252,,2953635.5710000005,2013

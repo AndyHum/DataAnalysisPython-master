@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2376,152045597.0,Monday,No,2015-06-01T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+2517,152045314.0,Monday,No,2015-06-01T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,LARCEN,0,A7,First,No,BENNINGTON ST,Part three,Unarmed,,,,2015
+135590,152047445.0,Monday,No,2015-06-01T10:00:00.000,PropLost,"[-71.042515, 42.334626]",Point,PropLost,6,PROP,0,C6,Day,No,E 4TH ST,Part three,Unarmed,779861.8684,,2947298.135,2015
+191336,152048825.0,Monday,No,2015-06-01T16:00:00.000,PropLost,"[-71.062095, 42.302741]",Point,PropLost,6,IVPER,0,C11,First,No,ROBINSON ST,Part three,Unarmed,774627.5179,,2935650.936,2015
+239770,152045613.0,Monday,No,2015-06-01T18:00:00.000,PropLost,"[-71.058429, 42.311378]",Point,PropLost,6,IVPER,0,C11,First,No,DEER ST,Part three,Unarmed,775602.9363,,2938803.439,2015

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9259,,Saturday,No,2015-07-04T00:00:00.000,Drug Violation,"[-71.101818, 42.326388]",Point,18xx,7,ARREST,906,E13,,No,HEATH ST,Part Two,None,763842.0,,2940000.0,2015
+37965,,Saturday,No,2015-07-04T00:00:00.000,Drug Violation,"[-71.080828, 42.32822]",Point,18xx,7,UNKEMS,281,B2,,No,GREENVILLE ST,Part Two,None,769514.0,,2940000.0,2015
+56714,,Saturday,No,2015-07-04T20:35:00.000,Drug Violation,"[0, 0]",Point,18xx,7,EDP,357,C11,,No,DAKOTA ST,Part Two,None,,,,2015
+148562,,Saturday,No,2015-07-04T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,7,IVPREM,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+148563,,Saturday,No,2015-07-04T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,7,IVPREM,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+151902,,Saturday,No,2015-07-04T00:00:00.000,Drug Violation,"[-71.075389, 42.333951]",Point,18xx,7,ALARM,270,D4,,No,NORTHAMPTON ST,Part Two,None,770974.0,,2950000.0,2015
+200010,,Saturday,No,2015-07-04T00:00:00.000,Drug Violation,"[-71.008939, 42.392146]",Point,18xx,7,I00015,9,A7,,No,FAYWOOD AVE,Part Two,None,788819.0,,2970000.0,2015
+226106,,Saturday,No,2015-07-04T19:47:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ADMRPT,265,B2,,No,MORELAND ST,Part Two,None,,PERRIN ST,,2015
+233812,,Saturday,No,2015-07-04T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,7,UNCONS,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+239477,,Saturday,No,2015-07-04T19:45:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,309,B2,,No,MARTIN LUTHER KING JR BLVD,Part Two,None,,,,2015

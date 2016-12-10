@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92766,130538163.0,Sunday,No,2013-08-25T01:30:00.000,PropLost,"[-71.078037, 42.348524]",Point,PropLost,8,LSTPRP,130,D4,Last,No,HUNTINGTON AV,Part three,Unarmed,770232.2551,,2952313.058,2013
+148567,130537423.0,Sunday,No,2013-08-25T15:00:00.000,PropLost,"[-71.05158, 42.358761]",Point,PropLost,8,INVEST,95,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777364.6527,MILK ST,2956080.3510000003,2013
+181268,130537652.0,Sunday,No,2013-08-25T17:56:00.000,PropLost,"[-71.060208, 42.30637]",Point,PropLost,8,LARCIP,347,C11,First,No,LYON ST,Part three,Unarmed,775131.0737,,2936975.959,2013
+244366,130538993.0,Sunday,No,2013-08-25T15:00:00.000,PropLost,"[-71.09357, 42.276071]",Point,PropLost,8,LSTPRP,427,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766159.3765,NORFOLK ST,2925889.854,2013

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63433,152026090.0,Tuesday,No,2015-03-31T13:00:00.000,32GUN,"[-71.07629, 42.311596]",Point,32GUN,3,IVMV,0,B2,Day,No,LAWRENCE AV,Part three,Firearm,770771.5345,,2938858.442,2015
+105965,152026130.0,Tuesday,No,2015-03-31T12:00:00.000,32GUN,"[-71.078285, 42.381841]",Point,32GUN,3,FDWEAP,0,A15,Day,No,ROLAND ST,Part three,Unarmed,770105.3688,,2964454.3660000004,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15643,140333182.0,Saturday,No,2014-05-24T12:30:00.000,PropFound,"[-71.079605, 42.347101]",Point,PropFound,5,LSTPRP,130,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769811.1326,,2951792.646,2014
+20503,140324028.0,Saturday,No,2014-05-24T08:00:00.000,PropFound,"[-71.125155, 42.289261]",Point,PropFound,5,FDPROP,563,E5,Day,No,WASHINGTON ST,Part three,Unarmed,757590.4303,,2930657.338,2014
+28992,140323748.0,Saturday,No,2014-05-24T11:57:00.000,PropFound,"[-71.16095, 42.355791]",Point,PropFound,5,FDPROP,766,D14,Day,No,CORINNE RD,Part three,Unarmed,747808.8886,RANELEGH RD,2954861.568,2014
+114346,140323489.0,Saturday,No,2014-05-24T09:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,5,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+114562,140325933.0,Saturday,No,2014-05-24T20:00:00.000,PropFound,"[-71.07259, 42.355426]",Point,PropFound,5,STOLMV,131,D4,First,No,BEACON ST,Part three,Unarmed,771692.2617,ARLINGTON ST,2954835.858,2014
+190042,140324722.0,Saturday,No,2014-05-24T19:15:00.000,PropFound,"[-71.08174, 42.340581]",Point,PropFound,5,FDPROP,597,D4,First,No,COLUMBUS AV,Part three,Unarmed,769245.6389,MASSACHUSETTS AV,2949413.7989999996,2014
+211877,140323651.0,Saturday,No,2014-05-24T10:00:00.000,PropFound,"[-71.058, 42.352311]",Point,PropFound,5,FDPROP,115,A1,Day,No,LINCOLN AV,Part three,Unarmed,775641.6671,ESSEX ST,2953720.791,2014
+219253,140324510.0,Saturday,No,2014-05-24T16:30:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,5,FDPROP,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014

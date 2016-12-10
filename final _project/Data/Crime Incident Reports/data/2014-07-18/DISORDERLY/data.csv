@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76688,142010329.0,Friday,No,2014-07-18T12:09:00.000,DISORDERLY,"[-71.107805, 42.33605]",Point,24xx,7,ARREST,0,B2,Day,No,FRANCIS ST,Part Two,Unarmed,762206.2941,,2947728.97,2014
+97403,142010235.0,Friday,No,2014-07-18T03:45:00.000,DISORDERLY,"[-71.104895, 42.337681]",Point,24xx,7,ARREST,0,B2,Last,No,LONGWOOD AV,Part Two,Unarmed,762990.5031,,2948327.137,2014
+114858,142010438.0,Friday,No,2014-07-18T16:32:00.000,DISORDERLY,"[-71.06318, 42.291991]",Point,24xx,7,PERGUN,0,C11,First,No,CHEVERUS RD,Part Two,Unarmed,774354.0716,,2931731.974,2014

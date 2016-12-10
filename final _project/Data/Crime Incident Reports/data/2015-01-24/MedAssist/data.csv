@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37649,152006671.0,Saturday,No,2015-01-24T18:18:00.000,MedAssist,"[-71.145038, 42.251969]",Point,MedAssist,1,IVPREM,0,E18,First,No,DODGE RD,Part three,Unarmed,752267.0761,,2917044.51,2015
+55691,152006568.0,Saturday,No,2015-01-24T10:53:00.000,MedAssist,"[-71.04283, 42.333401]",Point,MedAssist,1,UNCONS,0,C6,Day,No,STORY ST,Part three,Unarmed,779779.0923,,2946851.269,2015
+91563,152006682.0,Saturday,No,2015-01-24T21:58:00.000,MedAssist,"[-71.098335, 42.347376]",Point,MedAssist,1,IVPER,0,D4,First,No,BROOKLINE AV,Part three,Unarmed,764747.4655,,2951868.462,2015
+164982,152006696.0,Saturday,No,2015-01-24T22:06:00.000,MedAssist,"[-71.045125, 42.330436]",Point,MedAssist,1,DVIP,0,C6,First,No,COLUMBIA RD,Part three,Unarmed,779164.3248,,2945767.454,2015
+170394,152006664.0,Saturday,No,2015-01-24T18:45:00.000,MedAssist,"[-71.061415, 42.378571]",Point,MedAssist,1,POISON,0,A15,First,No,BUNKER HILL ST,Part three,Other,774669.3774,,2963285.6939999997,2015
+184302,152006662.0,Saturday,No,2015-01-24T18:28:00.000,MedAssist,"[-71.05712, 42.353261]",Point,MedAssist,1,INVEST,0,A1,First,No,SUMMER ST,Part three,Other,775877.7362,,2954068.223,2015
+197092,152006659.0,Saturday,No,2015-01-24T18:12:00.000,MedAssist,"[-71.113855, 42.261701]",Point,MedAssist,1,IVPER,0,E18,First,No,HUNTINGTON AV,Part three,Unarmed,760693.3729,,2920627.725,2015
+198987,152006525.0,Saturday,No,2015-01-24T07:30:00.000,MedAssist,"[-71.05751, 42.358636]",Point,MedAssist,1,UNCONS,0,A1,Day,No,DEVONSHIRE PL,Part three,Unarmed,775762.1587,,2956026.4289999995,2015
+217280,152006609.0,Saturday,No,2015-01-24T15:09:00.000,MedAssist,"[-71.037705, 42.382621]",Point,MedAssist,1,POISON,0,A7,Day,No,CONDOR ST,Part three,Unarmed,781067.5907,,2964795.432,2015
+252040,152006713.0,Saturday,No,2015-01-24T23:54:00.000,MedAssist,"[-71.067175, 42.316924]",Point,MedAssist,1,UNKEMS,0,B2,Last,No,VIRGINIA ST,Part three,Unarmed,773226.8846,,2940812.425,2015
+265140,152006813.0,Saturday,No,2015-01-24T07:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,IVPER,0,D4,Day,No,ST BOTOLPH ST,Part three,Unarmed,,,,2015
+266362,152006558.0,Saturday,No,2015-01-24T09:35:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,INVEST,0,D4,Day,No,TREMONT PL,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54882,120442908.0,Wednesday,No,2012-07-18T14:30:00.000,PropLost,"[-71.0829, 42.316361]",Point,PropLost,7,LSTPRP,311,B2,Day,No,WARREN ST,Part Three,Unarmed,768975.1904,QUINCY ST,2940586.0719999997,2012
+229151,120442954.0,Wednesday,No,2012-07-18T15:30:00.000,PropLost,"[-71.064005, 42.310376]",Point,PropLost,7,LSTPRP,334,C11,Day,No,CAMERON ST,Part Three,Unarmed,774096.6135,,2938430.6,2012
+258803,120442845.0,Wednesday,No,2012-07-18T14:20:00.000,PropLost,"[-71.068653, 42.306188]",Point,PropLost,7,LSTPRP,336,C11,Day,No,NORTON ST,Part Three,Unarmed,772847.1206,,2936897.7789999996,2012

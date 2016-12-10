@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+748,152036943.0,Wednesday,No,2015-05-06T10:54:00.000,Service,"[0, 0]",Point,Service,5,IVPREM,0,E5,Day,No,SOUTH ST,Part three,Unarmed,,,,2015
+888,152036971.0,Wednesday,No,2015-05-06T12:31:00.000,Service,"[0, 0]",Point,Service,5,IVPREM,0,C11,Day,No,FULLER ST,Part three,Unarmed,,,,2015
+107807,152037005.0,Wednesday,No,2015-05-06T13:15:00.000,Service,"[-71.06287, 42.352321]",Point,Service,5,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2015
+119808,152036887.0,Wednesday,No,2015-05-06T06:40:00.000,Service,"[-71.119022, 42.25556]",Point,Service,5,AOD,0,E18,Last,No,PIERCE ST,Part three,Unarmed,759304.6913,,2918383.2810000004,2015
+206090,152036864.0,Wednesday,No,2015-05-06T01:37:00.000,Service,"[-71.06076, 42.357671]",Point,Service,5,ARREST,0,A1,Last,No,TREMONT ST,Part three,Other,774885.5732,BOSWORTH ST,2955670.224,2015
+234637,152037335.0,Wednesday,No,2015-05-06T15:00:00.000,Service,"[-71.12088, 42.351821]",Point,Service,5,INVEST,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2015

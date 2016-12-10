@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123465,130756083.0,Saturday,No,2013-11-30T10:00:00.000,InvProp,"[-71.05984, 42.356501]",Point,InvProp,11,IVPREM,103,A1,Day,No,BROMFIELD ST,Part three,Unarmed,775136.4313,,2955245.135,2013
+167200,130757151.0,Saturday,No,2013-11-30T20:53:00.000,InvProp,"[-71.0403, 42.334666]",Point,InvProp,11,CRIP  ,226,C6,First,No,E 4TH ST,Part three,Unarmed,780460.6772,,2947315.93,2013
+195818,130755766.0,Saturday,No,2013-11-30T05:00:00.000,InvProp,"[-71.09045, 42.308695]",Point,InvProp,11,SHOTS ,318,B2,Last,No,SEAVER ST,Part three,Unarmed,766946.5418,,2937782.313,2013

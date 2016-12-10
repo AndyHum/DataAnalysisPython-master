@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4058,130362871.0,Friday,No,2013-06-14T21:30:00.000,FIRE,"[-71.086099, 42.344019]",Point,FIRE,6,FV    ,620,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,768060.9025,,2950660.6539999996,2013
+111101,130362751.0,Friday,No,2013-06-14T20:30:00.000,FIRE,"[-71.05571, 42.304386]",Point,FIRE,6,FV    ,253,C11,First,No,FREEPORT ST,Part three,Unarmed,776351.6018,,2936259.272,2013
+121204,130362564.0,Friday,No,2013-06-14T19:11:00.000,FIRE,"[-71.1548, 42.28957]",Point,FIRE,6,FV    ,696,E5,First,No,GARTH RD,Part three,Unarmed,749568.569,,2930736.122,2013
+165152,130362262.0,Friday,No,2013-06-14T17:13:00.000,FIRE,"[-71.12157, 42.243854]",Point,FIRE,6,FIREB ,940,E18,First,No,WOODGLEN RD,Part three,Unarmed,758633.7996,,2914114.7339999997,2013

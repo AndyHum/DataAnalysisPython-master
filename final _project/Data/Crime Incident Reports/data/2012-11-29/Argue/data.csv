@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106234,120748558.0,Thursday,No,2012-11-29T10:52:00.000,Argue,"[-71.13295, 42.353086]",Point,Argue,11,PKNIFE,794,D14,Day,No,BRIGHTON AV,Part Three,Unarmed,755381.2244,,2953907.1360000004,2012
+138263,120749388.0,Thursday,No,2012-11-29T17:00:00.000,Argue,"[-71.02974, 42.365506]",Point,Argue,11,FIGHT ,33,A7,First,No,EVERETT CT,Part Three,Unarmed,783253.9029,,2958570.145,2012
+195363,120748064.0,Thursday,No,2012-11-29T06:50:00.000,Argue,"[-71.075433, 42.315296]",Point,Argue,11,MEET  ,324,B2,Last,No,HOWARD AV,Part Three,Unarmed,770996.4146,,2940207.647,2012

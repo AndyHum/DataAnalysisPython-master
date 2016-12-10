@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80120,130483108.0,Thursday,No,2013-08-01T06:00:00.000,PersMiss,"[-71.092073, 42.289674]",Point,PersMiss,8,MISPER,464,B3,Last,No,HARVARD ST,Other,Unarmed,766540.6237,,2930848.814,2013
+165669,130479523.0,Thursday,No,2013-08-01T15:30:00.000,PersMiss,"[-71.059655, 42.282498]",Point,PersMiss,8,MISPER,390,C11,Day,No,VERDUN ST,Other,Unarmed,775325.4453,,2928277.345,2013
+170403,130491838.0,Thursday,No,2013-08-01T15:00:00.000,PersMiss,"[-71.068175, 42.309816]",Point,PersMiss,8,MISPER,335,C11,Day,No,BELLEVUE ST,Other,Unarmed,772969.7365,,2938220.789,2013

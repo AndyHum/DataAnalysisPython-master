@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2560,130174399.0,Monday,No,2013-03-25T09:45:00.000,Arrest,"[-71.0663, 42.315891]",Point,Arrest,3,TRANSP,332,B2,Day,No,HANCOCK ST,Part Three,Unarmed,773465.6386,COLUMBIA RD,2940437.188,2013
+67078,130176040.0,Monday,No,2013-03-25T23:15:00.000,Arrest,"[-71.07825, 42.335516]",Point,Arrest,3,ARREST,273,D4,First,No,WASHINGTON ST,Part Three,Unarmed,770198.2968,,2947572.668,2013
+214593,130174245.0,Monday,No,2013-03-25T08:17:00.000,Arrest,"[-71.06996, 42.327256]",Point,Arrest,3,SSTOP ,178,B2,Day,No,MAGAZINE ST,Part Three,Other,772454.8792,,2944573.773,2013
+236286,130175185.0,Monday,No,2013-03-25T14:45:00.000,Arrest,"[-71.06942, 42.362401]",Point,Arrest,3,ARREST,64,A1,Day,No,FRUIT ST,Part Three,Unarmed,772536.2528,,2957381.922,2013

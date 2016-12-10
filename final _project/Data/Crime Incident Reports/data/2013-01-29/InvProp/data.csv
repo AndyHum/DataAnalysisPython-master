@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7738,130059711.0,Tuesday,No,2013-01-29T13:49:00.000,InvProp,"[-71.057365, 42.288166]",Point,InvProp,1,ALARMR,393,C11,Day,No,LOUIS TR,Part Three,Unarmed,775934.6154,,2930346.2010000004,2013
+37170,130060359.0,Tuesday,No,2013-01-29T18:30:00.000,InvProp,"[-71.10167, 42.332322]",Point,InvProp,1,FDBODY,603,B2,First,No,ST ALPHONSUS ST,Part Three,Unarmed,763871.5198,,2946378.123,2013
+54182,130058761.0,Tuesday,No,2013-01-29T03:01:00.000,InvProp,"[-71.064375, 42.358856]",Point,InvProp,1,REQP  ,71,A1,Last,No,HANCOCK ST,Part Three,Other,773906.3061,,2956097.05,2013
+84444,130059282.0,Tuesday,No,2013-01-29T10:44:00.000,InvProp,"[-71.081808, 42.339442]",Point,InvProp,1,IVPER ,597,D4,Day,No,NORTHAMPTON ST,Part Three,Unarmed,769229.0704,,2948998.559,2013
+87938,130058782.0,Tuesday,No,2013-01-29T03:38:00.000,InvProp,"[-71.067238, 42.284994]",Point,InvProp,1,BEIP  ,402,C11,Last,No,BURT ST,Part Three,Other,773268.9143,,2929176.5889999997,2013
+90636,130268023.0,Tuesday,No,2013-01-29T08:00:00.000,InvProp,"[-71.09134, 42.279336]",Point,InvProp,1,FDPROP,410,B3,Day,No,EVELYN ST,Part Three,Unarmed,766757.183,,2927082.5519999997,2013
+249552,130060808.0,Tuesday,No,2013-01-29T23:52:00.000,InvProp,"[-71.142165, 42.251686]",Point,InvProp,1,ALARM ,535,E18,Last,No,DIETZ RD,Part Three,Unarmed,753045.4253,,2916944.705,2013

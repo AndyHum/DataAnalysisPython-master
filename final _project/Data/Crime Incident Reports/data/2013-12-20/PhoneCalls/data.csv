@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78340,130808396.0,Friday,No,2013-12-20T00:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,12,HARPT ,656,E13,Last,No,CENTRE ST,Part three,Unarmed,,,,2013
+95587,130808091.0,Friday,No,2013-12-20T12:00:00.000,PhoneCalls,"[-71.048947, 42.28349]",Point,PhoneCalls,12,THREAT,380,C11,Day,No,GALLIVAN BL,Part three,Unarmed,778221.2174,,2928654.028,2013
+205647,140069774.0,Friday,No,2013-12-20T22:00:00.000,PhoneCalls,"[-71.081455, 42.338701]",Point,PhoneCalls,12,HARPT ,273,D4,First,No,TREMONT ST,Part three,Unarmed,769326.0512,,2948729.0710000005,2013
+231647,140231735.0,Friday,No,2013-12-20T12:00:00.000,PhoneCalls,"[-71.10636, 42.347296]",Point,PhoneCalls,12,INVEST,630,D4,Day,No,BUSWELL ST,Part three,Unarmed,762578.2461,,2951829.1960000005,2013

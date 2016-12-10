@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+143454,140375668.0,Friday,No,2014-06-13T22:26:00.000,WEAPONS CHARGE,"[-71.09568, 42.332291]",Point,15xx,6,SSTOP ,588,B2,First,No,HALLECK ST,Part Two,Unarmed,765491.2354,GURNEY ST,2946374.598,2014
+199470,140375246.0,Friday,No,2014-06-13T18:30:00.000,WEAPONS CHARGE,"[-71.06435, 42.352341]",Point,15xx,6,ARREST,0,A1,First,No,BOYLSTON ST,Part Two,Other,773925.1896,,2953722.893,2014
+217018,140374507.0,Friday,No,2014-06-13T13:43:00.000,WEAPONS CHARGE,"[-71.07161, 42.314756]",Point,15xx,6,ARREST,260,B2,Day,No,MAGNOLIA ST,Part Two,Unarmed,772031.5819,,2940016.318,2014
+233551,140373578.0,Friday,No,2014-06-13T04:19:00.000,WEAPONS CHARGE,"[-71.07585, 42.313965]",Point,15xx,6,CD11  ,325,B2,Last,No,WAYLAND ST,Part Two,Unarmed,770886.1343,,2939722.162,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49857,142022418.0,Sunday,No,2014-08-24T09:38:00.000,Landlord,"[-71.09998, 42.264651]",Point,Landlord,8,UNK,0,E18,Day,No,RIVER ST,Part three,Unarmed,764444.1613,,2921720.0519999997,2014
+182779,142022428.0,Sunday,No,2014-08-24T11:10:00.000,Landlord,"[-71.07708, 42.287021]",Point,Landlord,8,UNK,0,B3,Day,No,WHITMAN ST,Part three,Unarmed,770602.2625,,2929901.88,2014
+192674,142022717.0,Sunday,No,2014-08-24T11:30:00.000,Landlord,"[-71.056435, 42.329889]",Point,Landlord,8,IVPER,0,C6,Day,No,DORCHESTER ST,Part three,Other,776107.0606,,2945551.784,2014
+236005,152016496.0,Sunday,No,2014-08-24T08:00:00.000,Landlord,"[-71.07088, 42.346821]",Point,Landlord,8,BE,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,772170.2331,,2951702.354,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41191,140366053.0,Tuesday,No,2014-06-10T10:00:00.000,Service,"[-71.080945, 42.311606]",Point,Service,6,IVDRUG,520,B2,Day,No,BLUE HILL AV,Part three,Unarmed,769512.4455,,2938855.865,2014
+45138,140365849.0,Tuesday,No,2014-06-10T09:11:00.000,Service,"[-71.063675, 42.352301]",Point,Service,6,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+64514,140367753.0,Tuesday,No,2014-06-10T22:04:00.000,Service,"[-71.059969, 42.355867]",Point,Service,6,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2014
+118125,140371299.0,Tuesday,No,2014-06-10T19:10:00.000,Service,"[-71.063873, 42.325436]",Point,Service,6,LARCRT,186,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+145623,140365614.0,Tuesday,No,2014-06-10T06:50:00.000,Service,"[-71.131001, 42.251857]",Point,Service,6,CD11  ,540,E18,Last,No,RIVER ST,Part three,Unarmed,756067.5583,,2917019.702,2014
+194742,140365893.0,Tuesday,No,2014-06-10T09:25:00.000,Service,"[-71.15159, 42.356801]",Point,Service,6,ARREST,939,D14,Day,No,N BEACON ST,Part three,Unarmed,750337.2932,,2955239.8310000002,2014
+260521,140366652.0,Tuesday,No,2014-06-10T12:30:00.000,Service,"[0, 0]",Point,Service,6,BEMVRT,936,C6,Day,No,WILLIAM DAY BL,Part three,Unarmed,,,,2014

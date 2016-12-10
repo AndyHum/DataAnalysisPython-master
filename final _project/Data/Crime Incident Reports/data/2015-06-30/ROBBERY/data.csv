@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85768,,Tuesday,No,2015-06-30T23:20:00.000,Robbery,"[0, 0]",Point,03xx,6,AB,44,A15,,No,MEDFORD ST,Part One,None,,POLK ST,,2015
+132158,,Tuesday,No,2015-06-30T00:00:00.000,Robbery,"[-71.039057, 42.373742]",Point,03xx,6,IVPER,26,A7,,No,MERIDIAN ST,Part One,None,780720.0,,2960000.0,2015
+254724,,Tuesday,No,2015-06-30T14:00:00.000,Robbery,"[0, 0]",Point,03xx,6,DISTRB,939,D14,,No,N BEACON ST,Part One,Personal Weapon (hand  foot  etc.),,,,2015

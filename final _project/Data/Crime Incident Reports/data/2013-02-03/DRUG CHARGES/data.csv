@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29940,130070979.0,Sunday,No,2013-02-03T13:20:00.000,DRUG CHARGES,"[-71.124155, 42.255601]",Point,18xx,2,TSTOP ,522,E18,Day,No,HYDE PARK AV,Part Two,Other,757915.0527,,2918392.3510000003,2013
+154554,130070766.0,Sunday,No,2013-02-03T07:30:00.000,DRUG CHARGES,"[-71.104273, 42.309722]",Point,18xx,2,IVDRUG,574,E13,Day,No,WASHINGTON ST,Part Two,Unarmed,763205.8082,,2938139.2,2013
+177396,130071095.0,Sunday,No,2013-02-03T14:20:00.000,DRUG CHARGES,"[-71.13106, 42.350481]",Point,18xx,2,IVMV  ,796,D14,Day,No,COMMONWEALTH AV,Part Two,Unarmed,755896.1988,HARVARD ST,2952960.025,2013
+202065,130070651.0,Sunday,No,2013-02-03T09:30:00.000,DRUG CHARGES,"[-71.039415, 42.368976]",Point,18xx,2,IVPER ,27,A7,Day,No,MAVERICK SQ,Part Two,Other,780632.4456,,2959820.414,2013

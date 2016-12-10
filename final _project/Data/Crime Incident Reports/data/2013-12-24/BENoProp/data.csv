@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41087,130807622.0,Tuesday,No,2013-12-24T03:00:00.000,BENoProp,"[-71.050025, 42.283391]",Point,BENoProp,12,ALARMC,380,C11,Last,No,GALLIVAN BL,Part One,Other,777929.8266,,2928616.518,2013
+119707,130811060.0,Tuesday,No,2013-12-24T14:00:00.000,BENoProp,"[-71.076265, 42.312576]",Point,BENoProp,12,BERPT ,326,B2,Day,No,FAYSTON ST,Part One,Other,770776.5217,,2939215.603,2013
+230145,130808314.0,Tuesday,No,2013-12-24T13:35:00.000,BENoProp,"[-71.164759, 42.28903]",Point,BENoProp,12,BERPT ,739,E5,Day,No,ADDINGTON RD,Part One,Unarmed,746874.9566,,2930528.4930000002,2013

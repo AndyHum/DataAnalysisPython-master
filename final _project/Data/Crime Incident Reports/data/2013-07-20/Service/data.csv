@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6883,130450694.0,Saturday,No,2013-07-20T16:41:00.000,Service,"[-71.07128, 42.320181]",Point,Service,7,MISPER,261,B2,First,No,HOWARD AV,Part three,Unarmed,772110.8982,DUDLEY ST,2941993.725,2013
+128023,130450961.0,Saturday,No,2013-07-20T18:40:00.000,Service,"[-71.065835, 42.317351]",Point,Service,7,GANG  ,239,B2,First,No,DUDLEY ST,Part three,Unarmed,773588.6939,,2940969.876,2013
+192180,130450895.0,Saturday,No,2013-07-20T18:12:00.000,Service,"[-71.049401, 42.29763]",Point,Service,7,LARCIP,373,C11,First,No,MORRISSEY BL,Part three,Unarmed,778071.2105,,2933806.111,2013
+243733,130450504.0,Saturday,No,2013-07-20T15:00:00.000,Service,"[-71.05842, 42.357421]",Point,Service,7,TRANSP,0,A1,Day,No,SCHOOL ST,Part three,Unarmed,775518.4991,WASHINGTON ST,2955582.383,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81782,140331391.0,Tuesday,No,2014-05-27T17:20:00.000,TRESPASS,"[-71.084315, 42.322643]",Point,TRESPASS,5,TRESPS,297,B2,First,No,FENNO ST,Part Two,Unarmed,768581.2072,,2942873.4239999996,2014
+194367,140329629.0,Tuesday,No,2014-05-27T00:15:00.000,TRESPASS,"[-71.075195, 42.327371]",Point,TRESPASS,5,IVMV  ,180,B2,Last,No,HAMPDEN ST,Part Two,Unarmed,771039.0753,GEORGE ST,2944608.586,2014
+263318,140331384.0,Tuesday,No,2014-05-27T17:25:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,5,ARREST,72,A1,First,No,PING ON ST,Part Two,Unarmed,,,,2014

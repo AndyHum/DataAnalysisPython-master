@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37635,130722294.0,Wednesday,No,2013-11-13T07:15:00.000,InvPer,"[-71.05352, 42.375431]",Point,InvPer,11,IVPER ,38,A15,Last,No,1ST AV,Part three,Unarmed,776808.5204,8TH ST,2962152.48,2013
+61178,130721155.0,Wednesday,No,2013-11-13T10:19:00.000,InvPer,"[-71.06494, 42.343021]",Point,InvPer,11,MEET  ,165,D4,Day,No,HARRISON AV,Part three,Unarmed,773783.0344,,2950325.6980000003,2013
+79089,130805761.0,Wednesday,No,2013-11-13T09:00:00.000,InvPer,"[-71.093062, 42.267991]",Point,InvPer,11,DISTRB,426,B3,Day,No,RIVER ST,Part three,Unarmed,766310.7859,,2922945.837,2013
+86444,130723399.0,Wednesday,No,2013-11-13T16:00:00.000,InvPer,"[-71.036575, 42.369096]",Point,InvPer,11,IVPER ,30,A7,First,No,MAVERICK ST,Part three,Other,781399.6651,,2959868.3010000004,2013
+88159,130722054.0,Wednesday,No,2013-11-13T13:45:00.000,InvPer,"[-71.12659, 42.255431]",Point,InvPer,11,IVPER ,542,E18,Day,No,RIVER ST,Part three,Other,757256.1285,,2918327.506,2013
+106320,130721549.0,Wednesday,No,2013-11-13T14:30:00.000,InvPer,"[-71.03404, 42.368896]",Point,InvPer,11,IVPER ,32,A7,Day,No,COTTAGE ST,Part three,Unarmed,782085.0952,,2959799.15,2013
+129459,130722580.0,Wednesday,No,2013-11-13T18:22:00.000,InvPer,"[-71.081654, 42.320308]",Point,InvPer,11,DISTRB,309,B2,First,No,WARREN ST,Part three,Unarmed,769305.0476,,2942025.772,2013
+177007,130720687.0,Wednesday,No,2013-11-13T03:00:00.000,InvPer,"[-71.151475, 42.354846]",Point,InvPer,11,SUSPER,769,D14,Last,No,SANDERSON PL,Part three,Unarmed,750371.2846,,2954527.512,2013
+207121,130723651.0,Wednesday,No,2013-11-13T23:00:00.000,InvPer,"[-71.07464, 42.297861]",Point,InvPer,11,HARPT ,453,B3,First,No,CHAMBERLAIN ST,Part three,Unarmed,771242.7816,,2933855.417,2013
+232808,130722291.0,Wednesday,No,2013-11-13T06:00:00.000,InvPer,"[0, 0]",Point,InvPer,11,IVPER ,566,B2,Last,No,FRANKLIN PARK RD,Part three,Unarmed,,,,2013
+250507,130722365.0,Wednesday,No,2013-11-13T09:00:00.000,InvPer,"[0, 0]",Point,InvPer,11,IVPER ,465,B3,Day,No,BLUE HILL AV,Part three,Unarmed,,,,2013

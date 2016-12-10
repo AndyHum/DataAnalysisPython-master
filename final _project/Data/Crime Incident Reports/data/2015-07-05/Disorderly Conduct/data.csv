@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98871,,Sunday,No,2015-07-05T00:00:00.000,Disorderly Conduct,"[-71.058947, 42.378827]",Point,24xx,7,IVPER,900,A15,,No,WALFORD WAY,Part Two,None,775336.0,,2960000.0,2015
+125951,,Sunday,No,2015-07-05T00:00:00.000,Disorderly Conduct,"[-71.098806, 42.346538]",Point,24xx,7,ARREST,624,D4,,No,YAWKEY WAY,Part Two,None,764621.0,,2950000.0,2015
+253485,,Sunday,No,2015-07-05T00:00:00.000,Disorderly Conduct,"[-71.08179, 42.312261]",Point,24xx,7,IVPER,321,B2,,No,INTERVALE ST,Part Two,None,769283.0,,2940000.0,2015

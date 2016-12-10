@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91714,142004085.0,Thursday,No,2014-06-26T14:30:00.000,PersLoc,"[-71.13654, 42.364311]",Point,PersLoc,6,IVPER,0,D14,Day,No,SOLDIERS FIELD RD,Other,Unarmed,754393.4147,,2957993.605,2014
+104089,142003504.0,Thursday,No,2014-06-26T11:30:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,6,MISSIN,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+255271,142003036.0,Thursday,No,2014-06-26T03:10:00.000,PersLoc,"[-71.068604, 42.296414]",Point,PersLoc,6,IVPER,0,C11,Last,No,PARK ST,Other,Unarmed,772878.4023,,2933336.3010000004,2014

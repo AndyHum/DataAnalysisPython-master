@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31860,130767665.0,Thursday,No,2013-12-05T17:00:00.000,PubDrink,"[-71.08135, 42.332389]",Point,PubDrink,12,CD19  ,274,B2,First,No,WASHINGTON ST,Part Two,Unarmed,769365.5688,,2946429.0289999996,2013
+189432,130766741.0,Thursday,No,2013-12-05T09:59:00.000,PubDrink,"[-71.071905, 42.276286]",Point,PubDrink,12,SSTOP ,0,B3,Day,No,PLEASANT HILL TR,Part Two,Unarmed,772022.156,,2925996.885,2013
+200815,130766687.0,Thursday,No,2013-12-05T09:25:00.000,PubDrink,"[-71.09754, 42.315016]",Point,PubDrink,12,INVEST,0,E13,Day,No,COLUMBUS AV,Part Two,Unarmed,765018.0158,,2940076.91,2013

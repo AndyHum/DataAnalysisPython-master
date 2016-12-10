@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+161570,140277778.0,Tuesday,No,2014-05-06T13:40:00.000,Argue,"[-71.066425, 42.278251]",Point,Argue,5,REQP  ,388,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773501.5553,,2926720.4480000003,2014
+171485,140277352.0,Tuesday,No,2014-05-06T10:40:00.000,Argue,"[-71.06587, 42.313256]",Point,Argue,5,REMOVE,332,C11,Day,No,GLENDALE ST,Part three,Unarmed,773586.7516,,2939477.3189999997,2014
+199227,140277073.0,Tuesday,No,2014-05-06T08:36:00.000,Argue,"[-71.08387, 42.295991]",Point,Argue,5,IVPER ,444,B3,Day,No,HARVARD ST,Part three,Other,768749.0615,,2933161.643,2014
+205507,140280883.0,Tuesday,No,2014-05-06T13:07:00.000,Argue,"[-71.11966, 42.257481]",Point,Argue,5,IVPER ,519,E18,Day,No,RIVER ST,Part three,Unarmed,759128.8702,WEBSTER ST,2919082.8419999997,2014

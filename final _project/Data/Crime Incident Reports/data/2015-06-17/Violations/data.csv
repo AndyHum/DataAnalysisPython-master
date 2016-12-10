@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36618,,Wednesday,No,2015-06-17T00:16:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,151,D4,,No,CLARENDON ST,Part Two,None,, COLUMBUS AVE ,,2015
+48248,,Wednesday,No,2015-06-17T15:51:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,268,B2,,No,ADAMS ST,Part Two,None,,DUDLEY ST,,2015
+63441,,Wednesday,No,2015-06-17T02:31:00.000,Violations,"[0, 0]",Point,VAL,6,ARREST,0,,,No,DAY,Part Two,None,,,,2015
+67639,,Wednesday,No,2015-06-17T23:23:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,0,C11,,No,,Part Two,None,,GENEVA AVE,,2015
+104739,,Wednesday,No,2015-06-17T00:00:00.000,Restraining Order Violations,"[-71.070769, 42.287249]",Point,Restrain,6,IVPER,399,C11,,No,WALTON ST,Part Two,None,772309.0,,2930000.0,2015
+119230,,Wednesday,No,2015-06-17T00:32:00.000,Violations,"[0, 0]",Point,VAL,6,TS,0,,,No,BOYLSTON ST,Part Two,None,,,,2015
+159182,,Wednesday,No,2015-06-17T00:00:00.000,Assembly or Gathering Violations,"[-71.069693, 42.351435]",Point,Gather,6,I00039,120,A1,,No,PARK PLZ,Part Three,None,772482.0,,2950000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25350,140304574.0,Friday,No,2014-05-16T21:42:00.000,Ballist,"[-71.06366, 42.320431]",Point,Ballist,5,SHOTS ,237,B2,First,No,CAWFIELD ST,Part Two,Firearm,774171.1849,ELDER ST,2942095.2789999996,2014
+204229,140302224.0,Friday,No,2014-05-16T00:25:00.000,Ballist,"[-71.067225, 42.319435]",Point,Ballist,5,SHOTS ,184,B2,Last,No,HARROW ST,Part Two,Firearm,773208.6986,,2941727.381,2014
+212414,140303087.0,Friday,No,2014-05-16T12:55:00.000,Ballist,"[-71.03118, 42.376406]",Point,Ballist,5,FDWEAP,20,A7,Day,No,CHELSEA ST,Part Two,Unarmed,782842.9146,,2962540.1780000003,2014

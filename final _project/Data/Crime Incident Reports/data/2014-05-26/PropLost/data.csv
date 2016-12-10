@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52184,140330132.0,Monday,No,2014-05-26T10:00:00.000,PropLost,"[-71.088865, 42.279666]",Point,PropLost,5,LSTPRP,428,B3,Day,No,NORFOLK ST,Part three,Unarmed,767426.3706,,2927206.023,2014
+76993,142002366.0,Monday,No,2014-05-26T12:00:00.000,PropLost,"[-71.059735, 42.297541]",Point,PropLost,5,IVPER,0,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+99533,140336609.0,Monday,No,2014-05-26T19:00:00.000,PropLost,"[-71.06122, 42.365521]",Point,PropLost,5,INVEST,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+114043,140328062.0,Monday,No,2014-05-26T00:00:00.000,PropLost,"[-71.065135, 42.350006]",Point,PropLost,5,LSTPRP,121,A1,Last,No,TREMONT ST,Part three,Unarmed,773717.34,,2952870.892,2014
+122343,140332909.0,Monday,No,2014-05-26T00:01:00.000,PropLost,"[-71.054711, 42.341305]",Point,PropLost,5,LSTPRP,200,C6,Last,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+132245,140345610.0,Monday,No,2014-05-26T13:55:00.000,PropLost,"[-71.05835, 42.357481]",Point,PropLost,5,LARCRT,98,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775537.3061,,2955604.347,2014
+221568,140329125.0,Monday,No,2014-05-26T15:30:00.000,PropLost,"[-71.05181, 42.359651]",Point,PropLost,5,LSTPRP,95,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777300.7852,STATE ST,2956404.357,2014

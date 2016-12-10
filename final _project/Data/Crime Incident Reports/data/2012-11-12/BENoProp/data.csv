@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57444,120713821.0,Monday,No,2012-11-12T21:00:00.000,BENoProp,"[-71.08246, 42.342981]",Point,BENoProp,11,BERPT ,145,D4,First,No,BLACKWOOD ST,Part One,Unarmed,769046.704,,2950287.45,2012
+62295,120712880.0,Monday,No,2012-11-12T08:30:00.000,BENoProp,"[-71.09884, 42.274796]",Point,BENoProp,11,BERPT ,472,B3,Day,No,ORLANDO ST,Part One,Unarmed,764735.3419,,2925418.4760000003,2012
+202465,120714853.0,Monday,No,2012-11-12T23:00:00.000,BENoProp,"[-71.09036, 42.324236]",Point,BENoProp,11,BERPT ,300,B2,First,No,THORNTON ST,Part One,Other,766943.8,,2943446.079,2012
+256934,120714022.0,Monday,No,2012-11-12T23:15:00.000,BENoProp,"[-71.06352, 42.305976]",Point,BENoProp,11,BEIP  ,346,C11,First,No,PERCIVAL ST,Part One,Other,774236.0026,,2936827.8419999997,2012

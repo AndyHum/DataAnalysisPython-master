@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27666,142013320.0,Saturday,No,2014-07-26T10:30:00.000,PersLoc,"[-71.075307, 42.297484]",Point,PersLoc,7,MISSIN,0,B3,Day,No,ALGONQUIN ST,Other,Unarmed,771062.8043,,2933717.1160000004,2014
+61140,142012994.0,Saturday,No,2014-07-26T03:00:00.000,PersLoc,"[-71.075835, 42.289281]",Point,PersLoc,7,IVPER,0,B3,Last,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2014
+112954,142013397.0,Saturday,No,2014-07-26T11:30:00.000,PersLoc,"[-71.104495, 42.325606]",Point,PersLoc,7,MISSIN,0,E13,Day,No,WALDEN ST,Other,Unarmed,763119.0537,,2943927.29,2014
+186440,142013158.0,Saturday,No,2014-07-26T14:30:00.000,PersLoc,"[-71.064346, 42.353072]",Point,PersLoc,7,IVPER,0,A1,Day,No,TREMONT ST,Other,Unarmed,773924.729,,2953989.2660000003,2014
+200461,142013249.0,Saturday,No,2014-07-26T19:52:00.000,PersLoc,"[-71.075718, 42.319378]",Point,PersLoc,7,IVPER,0,B2,First,No,JULIAN ST,Other,Unarmed,770912.1543,,2941695.0239999997,2014
+240918,142013277.0,Saturday,No,2014-07-26T12:30:00.000,PersLoc,"[-71.074448, 42.304942]",Point,PersLoc,7,MISSIN,0,C11,Day,No,GENEVA AV,Other,Unarmed,771281.7061,,2936435.9930000002,2014
+263937,142013256.0,Saturday,No,2014-07-26T20:20:00.000,PersLoc,"[0, 0]",Point,PersLoc,7,IVPER,0,C6,First,No,JAMES ONEILL ST,Other,Unarmed,,,,2014

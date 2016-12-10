@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21924,130045297.0,Tuesday,No,2013-01-22T15:38:00.000,Service,"[-71.07949, 42.342386]",Point,Service,1,PERGUN,154,D4,Day,No,COLUMBUS AV,Part three,Unarmed,769850.6902,,2950074.565,2013
+30280,130045413.0,Tuesday,No,2013-01-22T16:31:00.000,Service,"[-71.11297, 42.300811]",Point,Service,1,AOD   ,510,E13,First,No,WASHINGTON ST,Part Three,Unarmed,760868.2636,,2934881.061,2013
+192160,130045222.0,Tuesday,No,2013-01-22T14:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,1,ARREST,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+239601,130045247.0,Tuesday,No,2013-01-22T15:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,1,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013

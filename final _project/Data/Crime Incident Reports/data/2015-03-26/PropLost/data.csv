@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5335,152024783.0,Thursday,No,2015-03-26T23:00:00.000,PropLost,"[-71.088027, 42.325407]",Point,PropLost,3,PROP,0,B2,First,No,WASHINGTON ST,Part three,Other,767572.6255,,2943875.67,2015
+25504,152025476.0,Thursday,No,2015-03-26T21:00:00.000,PropLost,"[-71.067205, 42.309906]",Point,PropLost,3,LARCEN,0,C11,First,No,QUINCY ST,Part three,Other,773231.9407,,2938254.916,2015
+55555,152024602.0,Thursday,No,2015-03-26T13:30:00.000,PropLost,"[-71.077145, 42.350131]",Point,PropLost,3,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770470.6585,,2952900.122,2015
+95980,152036648.0,Thursday,No,2015-03-26T12:00:00.000,PropLost,"[-71.079248, 42.346159]",Point,PropLost,3,PROP,0,D4,Day,No,ST BOTOLPH ST,Part three,Unarmed,769909.2311,,2951449.6119999997,2015
+155672,152024808.0,Thursday,No,2015-03-26T12:00:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,3,PROP,0,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2015
+157657,152024773.0,Thursday,No,2015-03-26T17:00:00.000,PropLost,"[-71.062525, 42.355916]",Point,PropLost,3,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,774411.8094,,2955028.2169999997,2015
+193847,152024671.0,Thursday,No,2015-03-26T09:00:00.000,PropLost,"[-71.091509, 42.311352]",Point,PropLost,3,PROP,0,B2,Day,No,HUTCHINGS ST,Part three,Unarmed,766655.5601,,2938749.308,2015
+242567,152024874.0,Thursday,No,2015-03-26T12:30:00.000,PropLost,"[-71.065829, 42.316441]",Point,PropLost,3,PROP,0,B2,Day,No,COLUMBIA RD,Part three,Unarmed,773591.8648,,2940638.1739999996,2015
+266969,152024912.0,Thursday,No,2015-03-26T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,A1,First,No,KNEELAND ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26210,142057553.0,Sunday,No,2014-12-14T22:53:00.000,PropFound,"[-71.07369, 42.323521]",Point,PropFound,12,DISTRB,0,B2,First,No,DUDLEY ST,Part three,Unarmed,771453.0538,,2943207.611,2014
+151107,142057444.0,Sunday,No,2014-12-14T10:00:00.000,PropFound,"[-71.076185, 42.349481]",Point,PropFound,12,MISC,0,D4,Day,No,ST JAMES AV,Part three,Other,770731.3351,,2952664.538,2014
+175795,142057438.0,Sunday,No,2014-12-14T12:00:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,12,PROP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014

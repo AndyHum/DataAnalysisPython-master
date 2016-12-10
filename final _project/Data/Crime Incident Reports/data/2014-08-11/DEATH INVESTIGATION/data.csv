@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3244,142018195.0,Monday,No,2014-08-11T10:02:00.000,DEATH INVESTIGATION,"[-71.077577, 42.329834]",Point,01INV,8,UNKEMS,0,B2,Day,No,AMBROSE ST,Part three,Unarmed,770390.3063,,2945502.707,2014
+32639,142018178.0,Monday,No,2014-08-11T09:01:00.000,DEATH INVESTIGATION,"[-71.12105, 42.352696]",Point,01INV,8,UNKEMS,0,D14,Day,No,BABCOCK ST,Part three,Unarmed,758598.4302,,2953779.078,2014
+217749,142018216.0,Monday,No,2014-08-11T12:10:00.000,DEATH INVESTIGATION,"[-71.10142, 42.340956]",Point,01INV,8,UNKEMS,0,B2,Day,No,FENWAY,Part three,Unarmed,763924.4485,,2949524.98,2014
+254257,142018276.0,Monday,No,2014-08-11T13:04:00.000,DEATH INVESTIGATION,"[-71.07157, 42.284188]",Point,01INV,8,UNKEMS,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772098.3196,,2928876.74,2014

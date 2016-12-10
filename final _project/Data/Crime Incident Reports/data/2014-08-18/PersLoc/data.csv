@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58472,142020411.0,Monday,No,2014-08-18T07:25:00.000,PersLoc,"[-71.048222, 42.33785]",Point,PersLoc,8,IVPER,0,C6,Last,No,ATHENS ST,Other,Unarmed,778312.5847,,2948464.69,2014
+85587,142020398.0,Monday,No,2014-08-18T00:40:00.000,PersLoc,"[-71.075835, 42.289281]",Point,PersLoc,8,IVPER,0,B3,Last,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2014
+207141,142020695.0,Monday,No,2014-08-18T23:09:00.000,PersLoc,"[-71.112361, 42.316208]",Point,PersLoc,8,IVPER,0,E13,First,No,ROBINWOOD AV,Other,Unarmed,761007.4093,,2940492.683,2014

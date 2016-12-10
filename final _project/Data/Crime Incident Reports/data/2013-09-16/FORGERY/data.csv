@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+169172,140133780.0,Monday,No,2013-09-16T12:38:00.000,FORGERY,"[-71.07632, 42.350356]",Point,10xx,9,MISC  ,134,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770693.2587,,2952983.224,2013
+179063,140118424.0,Monday,No,2013-09-16T14:58:00.000,FORGERY,"[-71.059755, 42.301741]",Point,10xx,9,MISC  ,351,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775262.4031,,2935289.7789999996,2013
+240254,142043594.0,Monday,No,2013-09-16T13:33:00.000,FORGERY,"[-71.14626, 42.360691]",Point,10xx,9,LARCEN,0,D14,Day,No,BIRMINGHAM PY,Part Two,Unarmed,751772.0302,,2956663.356,2013

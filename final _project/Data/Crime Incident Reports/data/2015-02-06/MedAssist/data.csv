@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20013,152009769.0,Friday,No,2015-02-06T07:30:00.000,MedAssist,"[-71.06002, 42.350166]",Point,MedAssist,2,UNKEMS,0,A1,Day,No,KNEELAND ST,Part three,Unarmed,775099.6882,,2952936.29,2015
+30633,152009820.0,Friday,No,2015-02-06T11:15:00.000,MedAssist,"[-71.06028, 42.306752]",Point,MedAssist,2,EDP,0,C11,Day,No,HECLA ST,Part three,Unarmed,775110.7209999999,,2937115.057,2015
+63912,152009886.0,Friday,No,2015-02-06T13:36:00.000,MedAssist,"[-71.072674, 42.305479]",Point,MedAssist,2,EDP,0,C11,Day,No,OLNEY ST,Part three,Unarmed,771760.7317,,2936634.146,2015
+127881,152009808.0,Friday,No,2015-02-06T10:24:00.000,MedAssist,"[-71.132965, 42.251356]",Point,MedAssist,2,EDP,0,E18,Day,No,SUNNYSIDE ST,Part three,Unarmed,755536.6923,,2916835.0330000003,2015
+139054,152009816.0,Friday,No,2015-02-06T10:28:00.000,MedAssist,"[-71.093739, 42.334956]",Point,MedAssist,2,POISON,0,B2,Day,No,ANNUNCIATION RD,Part three,Unarmed,766011.2668,,2947348.014,2015
+186106,152009875.0,Friday,No,2015-02-06T13:57:00.000,MedAssist,"[-71.063345, 42.345876]",Point,MedAssist,2,AOD,0,D4,Day,No,HARRISON AV,Part three,Unarmed,774208.9039,,2951368.316,2015
+192362,152010020.0,Friday,No,2015-02-06T21:47:00.000,MedAssist,"[-71.080085, 42.346711]",Point,MedAssist,2,UNCONS,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2015
+226343,152010083.0,Friday,No,2015-02-06T06:00:00.000,MedAssist,"[-71.132607, 42.362334]",Point,MedAssist,2,UNKEMS,0,D14,Last,No,RIVERDALE ST,Part three,Unarmed,755459.2633,WESTERN AV,2957277.527,2015
+249121,152009888.0,Friday,No,2015-02-06T13:58:00.000,MedAssist,"[-71.08077, 42.271356]",Point,MedAssist,2,IVPER,0,B3,Day,No,RIVER ST,Part three,Unarmed,769631.8708,,2924188.4110000003,2015
+261253,152009872.0,Friday,No,2015-02-06T13:16:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,EDP,0,C11,Day,No,ADAMS ST,Part three,Unarmed,,,,2015
+265561,152009871.0,Friday,No,2015-02-06T12:57:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,NIDV,0,E5,Day,No,KITTREDGE ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90225,140002034.0,Wednesday,No,2014-01-01T08:47:00.000,PersLoc,"[-71.077535, 42.296961]",Point,PersLoc,1,MISPER,446,B3,Day,No,HARVARD ST,Other,Unarmed,770461.2051,,2933523.5510000004,2014
+148267,140001816.0,Wednesday,No,2014-01-01T18:00:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,1,MISPER,281,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+225904,140005023.0,Wednesday,No,2014-01-01T11:00:00.000,PersLoc,"[-71.11455, 42.314741]",Point,PersLoc,1,MISPER,571,E13,Day,No,POND ST,Other,Unarmed,760417.8974,,2939955.4469999997,2014
+242630,140001157.0,Wednesday,No,2014-01-01T11:52:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,1,MISPER,281,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+247024,140001885.0,Wednesday,No,2014-01-01T19:24:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISPER,446,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+260208,140000230.0,Wednesday,No,2014-01-01T01:39:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,MISPER,503,B3,Last,No,W MAIN ST,Other,Unarmed,,,,2014

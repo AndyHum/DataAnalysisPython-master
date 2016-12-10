@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13807,142007838.0,Thursday,No,2014-07-10T11:49:00.000,Service,"[-71.065286, 42.272802]",Point,Service,7,ARREST,0,C11,Day,No,ADAMS ST,Part three,Unarmed,773819.6967,,2924736.0489999996,2014
+71211,142007812.0,Thursday,No,2014-07-10T09:30:00.000,Service,"[-71.06563, 42.307516]",Point,Service,7,ARREST,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773662.3883,,2937386.1289999997,2014
+148490,142008011.0,Thursday,No,2014-07-10T20:00:00.000,Service,"[-71.061984, 42.36231]",Point,Service,7,IVPER,0,A1,First,No,NEW CHARDON ST,Other,Unarmed,774546.0673,,2957359.042,2014
+149831,142007763.0,Thursday,No,2014-07-10T02:55:00.000,Service,"[-71.05693, 42.305101]",Point,Service,7,SS,0,C11,Last,No,FREEPORT ST,Part three,Unarmed,776020.2577,KIMBALL ST,2936518.17,2014
+170610,142007979.0,Thursday,No,2014-07-10T19:00:00.000,Service,"[-71.05884, 42.356951]",Point,Service,7,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775405.8674,MILK ST,2955410.519,2014
+177123,142007948.0,Thursday,No,2014-07-10T15:00:00.000,Service,"[-71.05563, 42.317361]",Point,Service,7,SUSOBJ,0,C11,Day,No,GRANT ST,Part three,Unarmed,776348.6381,HARBOR VIEW ST,2940987.733,2014
+190834,142007759.0,Thursday,No,2014-07-10T02:30:00.000,Service,"[-71.060964, 42.352801]",Point,Service,7,ARREST,0,A1,Last,No,CHAUNCY ST,Part three,Unarmed,774839.4243,,2953895.0289999996,2014
+248369,142008066.0,Thursday,No,2014-07-10T22:45:00.000,Service,"[-71.058362, 42.358828]",Point,Service,7,FIGHT,0,A1,First,No,COURT ST,Part three,Other,775531.3609,,2956095.0919999997,2014
+266137,142008007.0,Thursday,No,2014-07-10T20:50:00.000,Service,"[0, 0]",Point,Service,7,ARREST,0,A7,First,No,MAVERICK SQ,Part three,Unarmed,,,,2014

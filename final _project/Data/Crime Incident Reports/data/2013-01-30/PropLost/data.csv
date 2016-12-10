@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6760,130064704.0,Wednesday,No,2013-01-30T15:00:00.000,PropLost,"[-71.14094, 42.358671]",Point,PropLost,1,LSTPRP,778,D14,Day,No,ASCOT ST,Part Three,Unarmed,753212.9558,,2955933.233,2013
+31422,130062993.0,Wednesday,No,2013-01-30T09:45:00.000,PropLost,"[-71.07547, 42.346214]",Point,PropLost,1,LSTPRP,149,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770930.358,,2951474.633,2013
+117970,130061270.0,Wednesday,No,2013-01-30T08:25:00.000,PropLost,"[-71.141515, 42.353476]",Point,PropLost,1,LSTPRP,782,D14,Day,No,POMEROY ST,Part Three,Unarmed,753065.5033,,2954039.414,2013
+226932,130064321.0,Wednesday,No,2013-01-30T09:00:00.000,PropLost,"[-71.15535, 42.261401]",Point,PropLost,1,LSTPRP,549,E5,Day,No,CHERITON RD,Part Three,Unarmed,749461.4935,,2920470.2830000003,2013
+262372,130061732.0,Wednesday,No,2013-01-30T12:47:00.000,PropLost,"[0, 0]",Point,PropLost,1,LARCRT,58,A15,Day,No,AUSTIN ST,Part Three,Unarmed,,,,2013
+264948,130065442.0,Wednesday,No,2013-01-30T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,INVEST,352,C11,First,No,CHARLES ST,Part Three,Unarmed,,,,2013

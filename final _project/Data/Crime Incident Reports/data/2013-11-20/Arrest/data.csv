@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109167,130736372.0,Wednesday,No,2013-11-20T12:06:00.000,Arrest,"[-71.09131, 42.330001]",Point,Arrest,11,ARREST,0,B2,Day,No,JOHN ELIOT SQ,Part three,Unarmed,766676.8321,,2945545.713,2013
+115497,130736117.0,Wednesday,No,2013-11-20T09:32:00.000,Arrest,"[-71.06288, 42.361181]",Point,Arrest,11,ARREST,72,A1,Day,No,BOWDOIN ST,Part three,Unarmed,774306.0241,CAMBRIDGE ST,2956946.392,2013
+151978,130736582.0,Wednesday,No,2013-11-20T13:40:00.000,Arrest,"[-71.102874, 42.325388]",Point,Arrest,11,ARREST,906,E13,Day,No,HORAN WY,Part three,Unarmed,763557.568,,2943849.8589999997,2013
+250589,130736491.0,Wednesday,No,2013-11-20T12:00:00.000,Arrest,"[-71.053506, 42.32612]",Point,Arrest,11,CD24  ,914,C6,Day,No,GAVIN WY,Part three,Unarmed,776906.2024,,2944182.5530000003,2013

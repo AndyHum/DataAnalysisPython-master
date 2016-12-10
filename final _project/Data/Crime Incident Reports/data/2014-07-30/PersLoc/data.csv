@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22939,142015086.0,Wednesday,No,2014-07-30T10:00:00.000,PersLoc,"[-71.06749, 42.306571]",Point,PersLoc,7,IVPER,0,C11,Day,No,HAMILTON ST,Other,Unarmed,773161.0159,,2937039.2,2014
+104465,142014438.0,Wednesday,No,2014-07-30T13:30:00.000,PersLoc,"[-71.092073, 42.289674]",Point,PersLoc,7,MISSIN,0,B3,Day,No,HARVARD ST,Other,Unarmed,766540.6237,,2930848.814,2014
+110582,142014378.0,Wednesday,No,2014-07-30T10:20:00.000,PersLoc,"[-71.087665, 42.318571]",Point,PersLoc,7,IVPER,0,B2,Day,No,MUNROE ST,Other,Unarmed,767682.5728,,2941385.171,2014
+111965,142014432.0,Wednesday,No,2014-07-30T01:45:00.000,PersLoc,"[-71.12749, 42.284901]",Point,PersLoc,7,IVPER,0,E5,Last,No,FLORENCE ST,Other,Unarmed,756965.5815,,2929065.72,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10016,130067960.0,Saturday,No,2013-02-02T00:04:00.000,InvPer,"[-71.073752, 42.273028]",Point,InvPer,2,REQEP ,408,B3,Last,No,CADDY RD,Part Three,Unarmed,771528.2197,,2924806.84,2013
+60035,130068094.0,Saturday,No,2013-02-02T01:55:00.000,InvPer,"[-71.038075, 42.337276]",Point,InvPer,2,ABIP  ,222,C6,Last,No,E 2ND ST,Part Three,Unarmed,781057.1166,,2948270.309,2013
+73438,130068628.0,Saturday,No,2013-02-02T10:43:00.000,InvPer,"[-71.115321, 42.255882]",Point,InvPer,2,ASLTIP,512,E18,Day,No,TRUMAN PY,Part Three,Unarmed,760305.8829,,2918505.3860000004,2013
+95367,130071510.0,Saturday,No,2013-02-02T21:00:00.000,InvPer,"[-71.135475, 42.355656]",Point,InvPer,2,LARCRT,803,D14,First,No,RUGG RD,Part Three,Unarmed,754694.713,,2954840.77,2013
+115028,140056582.0,Saturday,No,2013-02-02T12:00:00.000,InvPer,"[-71.112305, 42.261326]",Point,InvPer,2,LARCRT,493,E18,Day,No,RIVER ST,Part three,Unarmed,761113.5637,,2920492.973,2013
+218740,130068881.0,Saturday,No,2013-02-02T13:03:00.000,InvPer,"[-71.12499, 42.279011]",Point,InvPer,2,IVPER ,557,E5,Day,No,HILBURN ST,Part Three,Unarmed,757651.4951,,2926922.2819999997,2013
+264557,130076944.0,Saturday,No,2013-02-02T07:00:00.000,InvPer,"[0, 0]",Point,InvPer,2,THREAT,0,E18,Last,No,ARBORETUM RD,Part Three,Unarmed,,,,2013

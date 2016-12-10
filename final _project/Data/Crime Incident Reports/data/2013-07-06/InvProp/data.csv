@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70784,130416988.0,Saturday,No,2013-07-06T22:21:00.000,InvProp,"[-71.080885, 42.305236]",Point,InvProp,7,REQP  ,330,B2,First,No,COLUMBIA RD,Part three,Unarmed,769540.0803,,2936534.6160000004,2013
+78475,130416960.0,Saturday,No,2013-07-06T22:49:00.000,InvProp,"[-71.080019, 42.274578]",Point,InvProp,7,PARTY ,943,B3,First,No,STANDARD ST,Part three,Unarmed,769829.1535,,2925363.5489999996,2013
+113339,130417303.0,Saturday,No,2013-07-06T19:00:00.000,InvProp,"[-71.05311, 42.337916]",Point,InvProp,7,BERPT ,936,C6,First,No,FLAHERTY WY,Part three,Other,776990.9328,,2948481.881,2013
+221039,130416303.0,Saturday,No,2013-07-06T17:04:00.000,InvProp,"[-71.086, 42.319481]",Point,InvProp,7,SHOTS ,310,B2,First,No,HUMBOLDT AV,Part three,Firearm,768131.2557,KING BL,2941718.9689999996,2013
+245355,130416944.0,Saturday,No,2013-07-06T22:06:00.000,InvProp,"[-71.081455, 42.338701]",Point,InvProp,7,IVPREM,273,D4,First,No,TREMONT ST,Part three,Unarmed,769326.0512,,2948729.0710000005,2013

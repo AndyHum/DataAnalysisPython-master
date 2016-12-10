@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10986,152033269.0,Friday,No,2015-04-24T08:57:00.000,Service,"[-71.071643, 42.290556]",Point,Service,4,IVPER,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772066.839,TALBOT AV,2931197.369,2015
+15226,152033399.0,Friday,No,2015-04-24T14:30:00.000,Service,"[-71.053815, 42.376351]",Point,Service,4,REQEP,0,A15,Day,No,3RD AV,Other,Unarmed,776727.0554,,2962487.3310000002,2015
+61262,152033306.0,Friday,No,2015-04-24T11:15:00.000,Service,"[-71.06124, 42.352041]",Point,Service,4,SS,0,A1,Day,No,HARRISON AV,Part three,Unarmed,774766.3929999999,OXFORD PL,2953617.876,2015
+129712,152033339.0,Friday,No,2015-04-24T12:40:00.000,Service,"[-71.063757, 42.354358]",Point,Service,4,ARREST,0,A1,Day,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2015
+165276,152034225.0,Friday,No,2015-04-24T14:35:00.000,Service,"[-71.07843, 42.349776]",Point,Service,4,MISC,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2015
+185541,152033243.0,Friday,No,2015-04-24T02:06:00.000,Service,"[-71.16238, 42.356121]",Point,Service,4,IVPER,0,D14,Last,No,BROOKS ST,Part three,Other,747421.8978,NEWTON ST,2954980.2939999998,2015
+188255,152033762.0,Friday,No,2015-04-24T23:00:00.000,Service,"[-71.05999, 42.366376]",Point,Service,4,LARCEN,0,A1,First,No,BEVERLY ST,Part three,Unarmed,775077.3241,,2958843.5689999997,2015
+231680,152033441.0,Friday,No,2015-04-24T17:20:00.000,Service,"[-71.154682, 42.351987]",Point,Service,4,IVPREM,0,D14,First,No,PARSONS ST,Part three,Unarmed,749508.4681,BENNETT ST,2953482.085,2015

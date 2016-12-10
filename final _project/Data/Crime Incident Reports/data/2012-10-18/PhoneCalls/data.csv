@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131390,120658561.0,Thursday,No,2012-10-18T20:43:00.000,PhoneCalls,"[-71.162655, 42.272666]",Point,PhoneCalls,10,THREAT,718,E5,First,No,ANSONIA RD,Part Three,Unarmed,747467.8488,,2924567.505,2012
+161586,120657530.0,Thursday,No,2012-10-18T23:50:00.000,PhoneCalls,"[-71.06615, 42.359301]",Point,PhoneCalls,10,HARPT ,67,A1,Last,No,MYRTLE ST,Part Three,Unarmed,773425.7438,,2956256.771,2012
+255699,120657429.0,Thursday,No,2012-10-18T19:45:00.000,PhoneCalls,"[-71.057942, 42.379287]",Point,PhoneCalls,10,SEXOFF,37,A15,First,No,OLD IRONSIDES WY,Part Three,Unarmed,775606.1433,,2963551.393,2012

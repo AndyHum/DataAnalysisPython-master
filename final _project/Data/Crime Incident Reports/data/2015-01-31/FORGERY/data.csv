@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101588,152036754.0,Saturday,No,2015-01-31T12:00:00.000,FORGERY,"[-71.106206, 42.324661]",Point,10xx,1,MISC,0,E13,Day,No,ROUND HILL ST,Part Two,Unarmed,762657.7784,,2943580.5110000004,2015
+120774,152009219.0,Saturday,No,2015-01-31T12:00:00.000,FORGERY,"[-71.077284, 42.328513]",Point,10xx,1,IVPER,0,B2,Day,No,EUSTIS ST,Part Two,Unarmed,770472.0958,,2945021.704,2015
+258431,152008170.0,Saturday,No,2015-01-31T00:13:00.000,FORGERY,"[-71.05582, 42.360091]",Point,10xx,1,LARCEN,0,A1,Last,No,FANEUIL HALL SQ,Part Two,Unarmed,776216.1627,,2956559.0330000003,2015
+261212,152008461.0,Saturday,No,2015-01-31T16:40:00.000,FORGERY,"[0, 0]",Point,10xx,1,IVPER,0,E5,First,No,CANTERBURY ST,Part Two,Unarmed,,,,2015

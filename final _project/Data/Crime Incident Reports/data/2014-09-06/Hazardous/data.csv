@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7926,142026901.0,Saturday,No,2014-09-06T18:35:00.000,Hazardous,"[-71.056735, 42.360596]",Point,Hazardous,9,DISTRB,0,A1,First,No,UNION ST,Other,Unarmed,775967.9099,,2956741.778,2014
+193257,142026913.0,Saturday,No,2014-09-06T19:50:00.000,Hazardous,"[-71.114233, 42.323356]",Point,Hazardous,9,FO,0,E13,First,No,CASTLETON ST,Other,Other,760489.2929,,2943095.289,2014
+212030,142026908.0,Saturday,No,2014-09-06T18:00:00.000,Hazardous,"[-71.118925, 42.293946]",Point,Hazardous,9,PROP,0,E5,First,No,BROOKWAY RD,Other,Other,759268.4725,,2932372.0939999996,2014

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8445,142036536.0,Monday,No,2014-10-06T17:00:00.000,TRESPASS,"[-71.077661, 42.330753]",Point,TRESPASS,10,SS,0,B2,First,No,ALBANY ST,Part Two,Unarmed,770366.1347,,2945837.597,2014
+132093,142036595.0,Monday,No,2014-10-06T17:15:00.000,TRESPASS,"[-71.077661, 42.330753]",Point,TRESPASS,10,IVPREM,0,B2,First,No,ALBANY ST,Part Two,Other,770366.1347,,2945837.597,2014

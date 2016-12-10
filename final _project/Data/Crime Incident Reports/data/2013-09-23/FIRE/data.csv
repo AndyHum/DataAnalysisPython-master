@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12120,130607725.0,Monday,No,2013-09-23T16:37:00.000,FIRE,"[-71.092113, 42.271941]",Point,FIRE,9,FIREB ,424,B3,First,No,BABSON ST,Part three,Unarmed,766560.827,,2924386.613,2013
+30232,130608216.0,Monday,No,2013-09-23T19:57:00.000,FIRE,"[-71.09486, 42.315301]",Point,FIRE,9,FIREB ,307,E13,First,No,WARDMAN RD,Part three,Other,765742.3612,,2940184.2010000004,2013
+178662,130608376.0,Monday,No,2013-09-23T21:18:00.000,FIRE,"[-71.054204, 42.31971]",Point,FIRE,9,REQEP ,235,C11,First,No,CARSON ST,Part three,Other,776729.6492,,2941845.811,2013

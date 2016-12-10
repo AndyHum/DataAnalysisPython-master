@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37768,140219057.0,Thursday,No,2014-04-10T16:00:00.000,InvProp,"[-71.12101, 42.352871]",Point,InvProp,4,VANRPT,797,D14,First,No,BABCOCK ST,Part three,Unarmed,758608.9593,GARDNER ST,2953842.8989999997,2014
+86540,140217147.0,Thursday,No,2014-04-10T12:50:00.000,InvProp,"[-71.0883, 42.342946]",Point,InvProp,4,IVPREM,619,D4,Day,No,SYMPHONY RD,Part three,Unarmed,767467.9634,,2950267.023,2014
+95516,140216716.0,Thursday,No,2014-04-10T12:15:00.000,InvProp,"[-71.03724, 42.380121]",Point,InvProp,4,LOCK  ,24,A7,Day,No,MONMOUTH ST,Part three,Unarmed,781198.1616,,2963885.06,2014
+161106,140215967.0,Thursday,No,2014-04-10T03:31:00.000,InvProp,"[-71.0663, 42.315891]",Point,InvProp,4,SHOTS ,332,B2,Last,No,COLUMBIA RD,Part three,Other,773465.6386,HANCOCK ST,2940437.188,2014
+191805,140217413.0,Thursday,No,2014-04-10T17:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,BEIP  ,503,B3,First,No,W MAIN ST,Part three,Unarmed,,,,2014
+229967,140217966.0,Thursday,No,2014-04-10T22:15:00.000,InvProp,"[-71.063585, 42.288311]",Point,InvProp,4,ALARMC,817,C11,First,No,DORCHESTER AV,Part three,Unarmed,774251.3569,,2930390.3680000002,2014
+237364,140215828.0,Thursday,No,2014-04-10T01:05:00.000,InvProp,"[-71.059987, 42.361648]",Point,InvProp,4,IVMV  ,72,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+237911,140215796.0,Thursday,No,2014-04-10T00:47:00.000,InvProp,"[-71.037105, 42.367651]",Point,InvProp,4,IVPREM,35,A7,Last,No,SUMNER ST,Part three,Unarmed,781259.3019,,2959340.939,2014
+259639,140216583.0,Thursday,No,2014-04-10T11:16:00.000,InvProp,"[-71.09307, 42.284131]",Point,InvProp,4,IVPREM,466,B3,Day,No,DEERING RD,Part three,Unarmed,766280.6819,,2928827.6780000003,2014

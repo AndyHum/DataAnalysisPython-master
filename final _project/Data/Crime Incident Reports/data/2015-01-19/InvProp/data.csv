@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44069,152005091.0,Monday,No,2015-01-19T16:18:00.000,InvProp,"[-71.06749, 42.305196]",Point,InvProp,1,SHOTS,0,C11,First,No,NORTON ST,Part three,Unarmed,773163.5563,STONEHURST ST,2936538.128,2015
+45251,152005045.0,Monday,No,2015-01-19T14:00:00.000,InvProp,"[-71.029435, 42.379976]",Point,InvProp,1,BE,0,A7,Day,No,PRINCETON ST,Part three,Other,783307.2358,,2963843.755,2015
+45787,152004992.0,Monday,No,2015-01-19T10:50:00.000,InvProp,"[-71.10974, 42.261984]",Point,InvProp,1,IVPER,0,E18,Day,No,RIVER ST,Part three,Unarmed,761806.7440000001,,2920735.827,2015
+260551,152004980.0,Monday,No,2015-01-19T10:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+261246,152005047.0,Monday,No,2015-01-19T13:43:00.000,InvProp,"[0, 0]",Point,InvProp,1,BE,0,E13,Day,No,S HUNTINGTON AV,Part three,Other,,,,2015
+263627,152005072.0,Monday,No,2015-01-19T15:42:00.000,InvProp,"[0, 0]",Point,InvProp,1,BE,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015

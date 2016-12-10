@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91424,130030276.0,Tuesday,No,2013-01-15T04:00:00.000,BENoProp,"[-71.112411, 42.284053]",Point,BENoProp,1,BERPT ,503,E18,Last,No,AMERICAN LEGION HY,Part One,Other,761047.1773,,2928774.728,2013
+166131,130030838.0,Tuesday,No,2013-01-15T08:10:00.000,BENoProp,"[-71.077923, 42.282182]",Point,BENoProp,1,BERPT ,418,B3,Day,No,MAXWELL ST,Part One,Unarmed,770382.7502,,2928137.329,2013
+235932,130057486.0,Tuesday,No,2013-01-15T17:56:00.000,BENoProp,"[-71.098085, 42.342541]",Point,BENoProp,1,BERPT ,626,D4,First,No,QUEENSBERRY ST,Part One,Unarmed,764823.3476,,2950106.816,2013

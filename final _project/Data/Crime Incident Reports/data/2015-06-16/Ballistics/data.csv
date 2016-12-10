@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17303,,Tuesday,No,2015-06-16T12:07:00.000,Ballistics,"[0, 0]",Point,BALLIST,6,FDWEAP,901,B2,,No,PARKER ST,Part Two,None,,PRENTISS ST,,2015
+91246,,Tuesday,No,2015-06-16T00:00:00.000,Ballistics,"[-71.067206, 42.283785]",Point,BALLIST,6,FDWEAP,402,C11,,No,CLERMONT ST,Part Two,None,773280.0,,2930000.0,2015

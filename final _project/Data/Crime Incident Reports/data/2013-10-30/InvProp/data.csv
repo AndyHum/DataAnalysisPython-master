@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1727,130690497.0,Wednesday,No,2013-10-30T02:35:00.000,InvProp,"[-71.061365, 42.305081]",Point,InvProp,10,IVPER ,347,C11,Last,No,ADAMS ST,Part three,Unarmed,774820.6088,,2936504.6810000003,2013
+66274,130692264.0,Wednesday,No,2013-10-30T20:48:00.000,InvProp,"[-71.038912, 42.374688]",Point,InvProp,10,FIREB ,26,A7,First,No,CENTRAL SQ,Part three,Unarmed,780756.9565,,2961902.499,2013
+80190,130692451.0,Wednesday,No,2013-10-30T23:23:00.000,InvProp,"[-71.109186, 42.301176]",Point,InvProp,10,DISTRB,510,E13,First,No,ARBORWAY,Part three,Unarmed,761891.1983,,2935018.4689999996,2013
+98730,130691127.0,Wednesday,No,2013-10-30T11:00:00.000,InvProp,"[-71.04206, 42.317766]",Point,InvProp,10,BERPT ,913,C6,Day,No,MT VERNON ST,Part three,Unarmed,780017.8828,,2941154.74,2013
+118825,130690923.0,Wednesday,No,2013-10-30T10:11:00.000,InvProp,"[-71.099412, 42.345068]",Point,InvProp,10,IVPREM,624,D4,Day,No,VAN NESS ST,Part three,Unarmed,764460.0455,,2951025.916,2013

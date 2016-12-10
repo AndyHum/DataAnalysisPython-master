@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74732,140170720.0,Thursday,No,2014-03-20T19:00:00.000,Arrest,"[-71.074385, 42.335516]",Point,Arrest,3,ARREST,171,D4,First,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2014
+89929,140169682.0,Thursday,No,2014-03-20T12:38:00.000,Arrest,"[-71.08157, 42.301991]",Point,Arrest,3,IVPER ,458,B3,Day,No,ERIE ST,Part three,Unarmed,769360.5866,WOLCOTT ST,2935351.1780000003,2014
+174823,140169062.0,Thursday,No,2014-03-20T06:56:00.000,Arrest,"[-71.060271, 42.307553]",Point,Arrest,3,ARREST,397,C11,Last,No,EAST ST,Part three,Unarmed,775111.7335,,2937407.012,2014

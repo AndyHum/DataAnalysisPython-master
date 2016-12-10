@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24331,142014665.0,Thursday,No,2014-07-31T00:44:00.000,BENoProp,"[-71.0557, 42.335811]",Point,BENoProp,7,ALARM,0,C6,Last,No,OLD COLONY AV,Part One,Other,776294.6855,,2947711.124,2014
+90330,142014729.0,Thursday,No,2014-07-31T10:43:00.000,BENoProp,"[-71.074765, 42.324916]",Point,BENoProp,7,BE,0,B2,Day,No,DUDLEY ST,Part One,Unarmed,771159.6509,,2943714.452,2014
+110749,142014646.0,Thursday,No,2014-07-31T23:54:00.000,BENoProp,"[-71.106683, 42.320865]",Point,BENoProp,7,ARREST,0,E13,Last,No,FORBES ST,Part One,Unarmed,762535.1284,,2942196.902,2014
+213566,142014731.0,Thursday,No,2014-07-31T10:43:00.000,BENoProp,"[-71.074765, 42.324916]",Point,BENoProp,7,IVPREM,0,B2,Day,No,DUDLEY ST,Part One,Unarmed,771159.6509,,2943714.452,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71271,130443328.0,Monday,No,2013-07-15T08:00:00.000,Restrain,"[-71.035045, 42.365841]",Point,Restrain,7,IVPER ,34,A7,Day,No,WEBSTER ST,Part Two,Unarmed,781819.5843,,2958684.367,2013
+101762,130438064.0,Monday,No,2013-07-15T17:34:00.000,Restrain,"[-71.05311, 42.337916]",Point,Restrain,7,IVPER ,936,C6,First,No,FLAHERTY WY,Part Two,Unarmed,776990.9328,,2948481.881,2013
+165109,130440678.0,Monday,No,2013-07-15T13:00:00.000,Restrain,"[-71.076286, 42.340036]",Point,Restrain,7,VIORDR,680,D4,Day,No,RUTLAND ST,Part Two,Unarmed,770721.1363,,2949222.187,2013
+240698,130437858.0,Monday,No,2013-07-15T16:22:00.000,Restrain,"[-71.039325, 42.28777]",Point,Restrain,7,VIORDR,372,C11,First,No,TAYLOR ST,Part Two,Unarmed,780816.4839,,2930227.675,2013

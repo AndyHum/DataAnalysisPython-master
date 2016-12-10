@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27904,140056751.0,Tuesday,No,2014-01-28T11:40:00.000,LICViol,"[-71.060805, 42.378351]",Point,LICViol,1,CD35  ,56,A15,Day,No,BUNKER HILL ST,Part three,Unarmed,774834.6061,,2963206.369,2014
+80127,140056744.0,Tuesday,No,2014-01-28T12:50:00.000,LICViol,"[-71.072745, 42.350576]",Point,LICViol,1,CD35  ,129,D4,Day,No,BERKELEY ST,Part three,Unarmed,771659.2201,,2953068.216,2014
+185339,140056746.0,Tuesday,No,2014-01-28T13:15:00.000,LICViol,"[-71.074855, 42.350756]",Point,LICViol,1,CD35  ,134,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2014
+258277,140056742.0,Tuesday,No,2014-01-28T12:30:00.000,LICViol,"[-71.0721, 42.349281]",Point,LICViol,1,CD35  ,128,D4,Day,No,BERKELEY ST,Part three,Unarmed,771835.9379,,2952597.167,2014

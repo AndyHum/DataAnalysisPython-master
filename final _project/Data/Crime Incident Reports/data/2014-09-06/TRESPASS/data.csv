@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32792,142026967.0,Saturday,No,2014-09-06T23:15:00.000,TRESPASS,"[-71.059415, 42.359251]",Point,TRESPASS,9,ARREST,0,A1,First,No,CITY HALL PZ,Part Two,Unarmed,775246.1256,,2956247.881,2014
+264661,142026651.0,Saturday,No,2014-09-06T01:15:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,9,ARREST,0,A1,Last,No,LONG WHRF,Part Two,Unarmed,,,,2014

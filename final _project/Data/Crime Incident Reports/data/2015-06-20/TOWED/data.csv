@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8173,,Saturday,No,2015-06-20T00:00:00.000,Towed,"[-71.078784, 42.341318]",Point,Towed,6,IVMV,154,D4,,No,CONCORD SQ,Part Three,None,770043.0,,2950000.0,2015
+29438,,Saturday,No,2015-06-20T00:00:00.000,Towed,"[-71.15049, 42.338611]",Point,Towed,6,IVMV,789,D14,,No,CHISWICK RD,Part Three,None,750662.0,,2950000.0,2015
+137750,,Saturday,No,2015-06-20T00:00:00.000,Towed,"[-71.058921, 42.283125]",Point,Towed,6,IVMV,390,C11,,No,FREDERIKA ST,Part Three,None,775523.0,,2930000.0,2015
+155548,,Saturday,No,2015-06-20T00:00:00.000,Towed,"[-71.0784, 42.28466]",Point,Towed,6,IVPREM,434,B3,,No,THETFORD AVE,Part Three,None,770249.0,,2930000.0,2015
+174979,,Saturday,No,2015-06-20T00:00:00.000,Towed,"[-71.143367, 42.343552]",Point,Towed,6,IVMV,785,D14,,No,COMMONWEALTH AVE,Part Three,None,752580.0,,2950000.0,2015
+185731,,Saturday,No,2015-06-20T00:00:00.000,Towed,"[-71.068104, 42.338916]",Point,Towed,6,IVMV,167,D4,,No,PLYMPTON ST,Part Three,None,772935.0,,2950000.0,2015
+226312,,Saturday,No,2015-06-20T00:00:00.000,Towed,"[-71.06554, 42.309184]",Point,Towed,6,IVMV,334,C11,,No,TRENT ST,Part Three,None,773684.0,,2940000.0,2015
+233866,,Saturday,No,2015-06-20T00:00:00.000,Towed,"[-71.054679, 42.341288]",Point,Towed,6,IVMV,200,C6,,No,W BROADWAY,Part Three,None,776560.0,,2950000.0,2015

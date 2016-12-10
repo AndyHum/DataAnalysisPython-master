@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2742,152027047.0,Friday,No,2015-04-03T10:04:00.000,Service,"[0, 0]",Point,Service,4,CD11,0,E5,Day,No,BRYON RD,Part three,Unarmed,,,,2015
+38276,152027039.0,Friday,No,2015-04-03T10:00:00.000,Service,"[-71.063585, 42.288311]",Point,Service,4,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774251.3569,,2930390.3680000002,2015
+73127,152026909.0,Friday,No,2015-04-03T01:25:00.000,Service,"[-71.039255, 42.381176]",Point,Service,4,AOD,0,A7,Last,No,MERIDIAN ST,Part three,Firearm,780651.6673,W EAGLE ST,2964266.5739999996,2015
+78938,152027049.0,Friday,No,2015-04-03T10:10:00.000,Service,"[-71.05679, 42.35006]",Point,Service,4,ARREST,0,A1,Day,No,ATLANTIC AV,Part three,Unarmed,775972.8791,,2952902.028,2015
+179991,152027222.0,Friday,No,2015-04-03T19:30:00.000,Service,"[-71.03904, 42.373741]",Point,Service,4,DISTRB,0,A7,First,No,MERIDIAN ST,Part three,Unarmed,780724.3981,CENTRAL SQ,2961557.422,2015
+196505,152027199.0,Friday,No,2015-04-03T17:50:00.000,Service,"[-71.067175, 42.316924]",Point,Service,4,ARREST,0,B2,First,No,VIRGINIA ST,Part three,Unarmed,773226.8846,DUDLEY ST,2940812.425,2015
+200954,152027085.0,Friday,No,2015-04-03T11:45:00.000,Service,"[-71.05592, 42.376646]",Point,Service,4,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015

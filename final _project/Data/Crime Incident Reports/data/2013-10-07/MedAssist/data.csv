@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14054,130640677.0,Monday,No,2013-10-07T20:02:00.000,MedAssist,"[-71.096413, 42.344914]",Point,MedAssist,10,REMOVE,624,D4,First,No,BOYLSTON ST,Part three,Unarmed,765271.056,,2950973.562,2013
+21545,130640332.0,Monday,No,2013-10-07T17:40:00.000,MedAssist,"[-71.05899, 42.356791]",Point,MedAssist,10,INVCHD,98,A1,First,No,WASHINGTON ST,Part three,Other,775365.6264,,2955352.003,2013
+31910,130639877.0,Monday,No,2013-10-07T14:32:00.000,MedAssist,"[-71.016865, 42.382321]",Point,MedAssist,10,INVEST,14,A7,Day,No,HORACE ST,Part three,Unarmed,786698.6057,,2964717.308,2013
+90377,130639569.0,Monday,No,2013-10-07T12:10:00.000,MedAssist,"[-71.03825, 42.374616]",Point,MedAssist,10,UNCONS,22,A7,Day,No,PORTER ST,Part three,Unarmed,780936.1392,,2961877.445,2013
+108089,130640188.0,Monday,No,2013-10-07T16:38:00.000,MedAssist,"[-71.058802, 42.373371]",Point,MedAssist,10,IVPER ,38,A15,First,No,CHELSEA ST,Part three,Unarmed,775385.0561,,2961394.123,2013
+119498,130639932.0,Monday,No,2013-10-07T14:55:00.000,MedAssist,"[-71.059085, 42.304686]",Point,MedAssist,10,EDP2  ,348,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775438.1029,,2936363.917,2013
+139788,130639264.0,Monday,No,2013-10-07T09:43:00.000,MedAssist,"[-71.06617, 42.361221]",Point,MedAssist,10,UNK   ,65,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,773416.7792,,2956956.43,2013
+148175,130639997.0,Monday,No,2013-10-07T14:45:00.000,MedAssist,"[-71.09708, 42.341806]",Point,MedAssist,10,IVPER ,626,D4,Day,No,PARK DR,Part three,Unarmed,765096.3106,,2949840.249,2013
+210109,130638778.0,Monday,No,2013-10-07T01:08:00.000,MedAssist,"[-71.075735, 42.307661]",Point,MedAssist,10,EDP2  ,337,C11,Last,No,COLUMBIA RD,Part three,Unarmed,770928.7809,,2937425.211,2013
+214558,130640122.0,Monday,No,2013-10-07T16:20:00.000,MedAssist,"[-71.058925, 42.377691]",Point,MedAssist,10,UNCONS,900,A15,First,No,BUNKER HILL ST,Part three,Unarmed,775343.8101,,2962968.473,2013

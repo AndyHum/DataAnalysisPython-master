@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27906,130022865.0,Friday,No,2013-01-11T17:25:00.000,Arrest,"[-71.075535, 42.313156]",Point,Arrest,1,SSTOP ,326,B2,First,No,QUINCY ST,Part Three,Unarmed,770972.9147,,2939427.9460000005,2013
+154838,130022000.0,Friday,No,2013-01-11T11:40:00.000,Arrest,"[-71.0749, 42.331291]",Point,Arrest,1,ARREST,179,B2,Day,No,MELNEA CASS BL,Part Three,Unarmed,771111.7269,HAMPDEN ST,2946037.499,2013
+178266,130022411.0,Friday,No,2013-01-11T14:40:00.000,Arrest,"[-71.07142, 42.289601]",Point,Arrest,1,ARREST,398,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,772129.0301,,2930849.713,2013
+254581,130021344.0,Friday,No,2013-01-11T02:10:00.000,Arrest,"[-71.06305, 42.350871]",Point,Arrest,1,ARREST,122,A1,Last,No,WASHINGTON ST,Part Three,Unarmed,774279.327,STUART ST,2953188.994,2013

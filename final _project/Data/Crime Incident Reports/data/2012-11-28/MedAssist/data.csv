@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33504,120745539.0,Wednesday,No,2012-11-28T00:01:00.000,MedAssist,"[-71.057165, 42.341011]",Point,MedAssist,11,EDP2  ,173,C6,Last,No,DORCHESTER AV,Part Three,Unarmed,775888.7493,,2949604.035,2012
+48699,120747074.0,Wednesday,No,2012-11-28T17:04:00.000,MedAssist,"[-71.08469, 42.334646]",Point,MedAssist,11,EDP2  ,276,B2,First,No,KERR WY,Part Three,Unarmed,768458.628,,2947247.08,2012
+54022,120746583.0,Wednesday,No,2012-11-28T13:30:00.000,MedAssist,"[-71.03887, 42.371246]",Point,MedAssist,11,INJOFF,28,A7,Day,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2012
+62882,120747581.0,Wednesday,No,2012-11-28T21:05:00.000,MedAssist,"[-71.11324, 42.269451]",Point,MedAssist,11,ALARMM,491,E18,First,No,VICTORIA HEIGHTS RD,Part Three,Unarmed,760847.0409,,2923452.683,2012
+99265,120746637.0,Wednesday,No,2012-11-28T13:50:00.000,MedAssist,"[-70.972049, 42.312511]",Point,MedAssist,11,IVPER ,376,C11,Day,No,LONG ISLAND RD,Part Three,Unarmed,798964.0477,,2939348.963,2012
+130646,120747031.0,Wednesday,No,2012-11-28T16:52:00.000,MedAssist,"[-71.07003, 42.311261]",Point,MedAssist,11,REQP  ,332,C11,First,No,COLUMBIA RD,Part Three,Unarmed,772465.3334,QUINCY CT,2938744.836,2012
+198523,120746423.0,Wednesday,No,2012-11-28T12:13:00.000,MedAssist,"[-71.068974, 42.289773]",Point,MedAssist,11,UNK   ,398,C11,Day,No,TALBOT AV,Part Three,Unarmed,772790.5334,,2930915.749,2012
+238176,120746101.0,Wednesday,No,2012-11-28T09:31:00.000,MedAssist,"[-71.083535, 42.335491]",Point,MedAssist,11,REQP  ,285,D4,Day,No,GREENWICH ST,Part Three,Unarmed,768769.4122,,2947556.5360000003,2012
+258117,120747543.0,Wednesday,No,2012-11-28T21:00:00.000,MedAssist,"[-71.05374, 42.366416]",Point,MedAssist,11,EDP2  ,83,A1,First,No,UNITY ST,Part Three,Unarmed,776766.2640000001,,2958866.921,2012

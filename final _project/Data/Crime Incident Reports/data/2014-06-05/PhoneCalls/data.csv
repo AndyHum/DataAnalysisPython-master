@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92925,140354744.0,Thursday,No,2014-06-05T15:00:00.000,PhoneCalls,"[-71.075535, 42.313156]",Point,PhoneCalls,6,HARPT ,326,B2,Day,No,QUINCY ST,Part three,Unarmed,770972.9147,,2939427.9460000005,2014
+110958,142000434.0,Thursday,No,2014-06-05T00:00:00.000,PhoneCalls,"[-71.137471, 42.246781]",Point,PhoneCalls,6,IVPER,0,E18,Last,No,ALVARADO AV,Part three,Unarmed,754323.6353,,2915162.3839999996,2014
+230870,140354430.0,Thursday,No,2014-06-05T19:24:00.000,PhoneCalls,"[-71.015125, 42.380676]",Point,PhoneCalls,6,HARPT ,13,A7,First,No,COLERIDGE ST,Part three,Unarmed,787172.1169,,2964120.503,2014

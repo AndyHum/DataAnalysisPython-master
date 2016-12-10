@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+167557,120480342.0,Friday,No,2012-08-03T16:28:00.000,Arrest,"[-71.06126, 42.358746]",Point,Arrest,8,CD5   ,0,A1,First,No,PEMBERTON SQ,Part Three,Unarmed,774748.4183,,2956061.2789999996,2012
+221299,120480676.0,Friday,No,2012-08-03T15:45:00.000,Arrest,"[-71.074385, 42.335516]",Point,Arrest,8,IVPER ,200,D4,Day,No,HARRISON AV,Part Three,Unarmed,771243.2964,,2947577.858,2012
+241218,120479054.0,Friday,No,2012-08-03T02:30:00.000,Arrest,"[-71.06982, 42.345251]",Point,Arrest,8,ARREST,151,D4,Last,No,TREMONT ST,Part Three,Unarmed,772459.6640000001,BERKELEY ST,2951131.66,2012

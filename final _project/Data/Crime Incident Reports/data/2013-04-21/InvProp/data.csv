@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+156590,130234413.0,Sunday,No,2013-04-21T04:35:00.000,InvProp,"[-71.078815, 42.350571]",Point,InvProp,4,ALARMC,137,D4,Last,No,NEWBURY ST,Part Three,Other,770018.4438,,2953058.235,2013
+194900,130235354.0,Sunday,No,2013-04-21T17:53:00.000,InvProp,"[-71.060845, 42.355056]",Point,InvProp,4,IVPREM,111,A1,First,No,WASHINGTON ST,Part Three,Other,774867.5053,,2954717.1489999997,2013
+198249,130234982.0,Sunday,No,2013-04-21T14:13:00.000,InvProp,"[-71.100758, 42.335565]",Point,InvProp,4,FIREB ,602,B2,Day,No,HUNTINGTON AV,Part Three,Unarmed,764112.391,,2947560.9480000003,2013

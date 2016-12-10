@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27621,130134113.0,Wednesday,No,2013-03-06T08:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,3,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+122452,130133882.0,Wednesday,No,2013-03-06T07:11:00.000,Service,"[-71.11578, 42.291066]",Point,Service,3,CD11  ,506,E13,Last,No,BOURNEDALE RD,Part Three,Unarmed,760124.0866,,2931326.397,2013
+129445,130135111.0,Wednesday,No,2013-03-06T17:14:00.000,Service,"[-71.101375, 42.308576]",Point,Service,3,ARREST,571,E13,First,No,GLEN RD,Part Three,Other,763991.7590000001,SIGOURNEY ST,2937725.1969999997,2013
+190196,130133964.0,Wednesday,No,2013-03-06T07:58:00.000,Service,"[-71.10153, 42.322861]",Point,Service,3,AOD   ,912,E13,Day,No,CENTRE ST,Part Three,Unarmed,763925.5141,,2942930.6960000005,2013

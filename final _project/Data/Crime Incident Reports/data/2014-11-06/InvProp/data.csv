@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+172299,142046448.0,Thursday,No,2014-11-06T13:55:00.000,InvProp,"[-71.0935, 42.313411]",Point,InvProp,11,IVPREM,0,B2,Day,No,HOMESTEAD ST,Part three,Unarmed,766113.4736,,2939497.205,2014
+186409,142046469.0,Thursday,No,2014-11-06T14:30:00.000,InvProp,"[-71.056571, 42.294477]",Point,InvProp,11,IVPER,0,C11,Day,No,ADAMS ST,Part three,Unarmed,776137.3217,,2932647.035,2014
+194636,142046326.0,Thursday,No,2014-11-06T03:25:00.000,InvProp,"[-71.05681, 42.378421]",Point,InvProp,11,SHOTS,0,A15,Last,No,TUFTS ST,Part three,Firearm,775913.8886,WALFORD WY,2963237.461,2014
+204850,142046321.0,Thursday,No,2014-11-06T00:13:00.000,InvProp,"[-71.077707, 42.28625]",Point,InvProp,11,IVPREM,0,B3,Last,No,EDSON ST,Part three,Unarmed,770433.7566,,2929619.983,2014

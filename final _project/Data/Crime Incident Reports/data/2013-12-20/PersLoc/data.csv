@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4682,130800886.0,Friday,No,2013-12-20T09:00:00.000,PersLoc,"[-71.09342, 42.275896]",Point,PersLoc,12,MISPER,427,B3,Day,No,BLUE HILL AV,Other,Unarmed,766200.2749,,2925826.275,2013
+115916,130805888.0,Friday,No,2013-12-20T12:30:00.000,PersLoc,"[-71.07837, 42.337556]",Point,PersLoc,12,MSNCOM,273,D4,Day,No,MASSACHUSETTS AV,Other,Unarmed,770162.1788,,2948315.92,2013
+190994,130802695.0,Friday,No,2013-12-20T13:30:00.000,PersLoc,"[-71.067175, 42.316924]",Point,PersLoc,12,MISPER,258,B2,Day,No,VIRGINIA ST,Other,Unarmed,773226.8846,,2940812.425,2013
+210161,130801848.0,Friday,No,2013-12-20T07:00:00.000,PersLoc,"[-71.0808, 42.283406]",Point,PersLoc,12,MISPER,417,B3,Last,No,CAPEN ST,Other,Unarmed,769602.17,,2928579.5539999995,2013
+260514,130801485.0,Friday,No,2013-12-20T20:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,12,MISPER,324,B2,First,No,WASHINGTON ST,Other,Other,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3390,152032210.0,Monday,No,2015-04-20T15:30:00.000,DISORDERLY,"[0, 0]",Point,24xx,4,FIGHT,0,B3,Day,No,RIVER ST,Part Two,Unarmed,,,,2015
+169051,152034649.0,Monday,No,2015-04-20T09:25:00.000,DISORDERLY,"[-71.15674, 42.339976]",Point,24xx,4,DISTRB,0,D14,Day,No,SOUTH ST,Part Two,Unarmed,748969.9128,,2949102.514,2015
+254042,152034235.0,Monday,No,2015-04-20T11:30:00.000,DISORDERLY,"[-71.15896, 42.341401]",Point,24xx,4,DISTRB,0,D14,Day,No,FOSTER ST,Part Two,Unarmed,748367.7302,,2949619.702,2015

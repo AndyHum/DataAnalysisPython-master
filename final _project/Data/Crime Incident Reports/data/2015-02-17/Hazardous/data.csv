@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121487,152012677.0,Tuesday,No,2015-02-17T00:30:00.000,Hazardous,"[-71.08315, 42.330241]",Point,Hazardous,2,REQP,0,B2,Last,No,WARREN ST,Other,Other,768882.8559,,2945643.8510000003,2015
+186397,152012963.0,Tuesday,No,2015-02-17T16:22:00.000,Hazardous,"[-71.077145, 42.350131]",Point,Hazardous,2,IVPREM,0,D4,First,No,BOYLSTON ST,Other,Unarmed,770470.6585,,2952900.122,2015
+209696,152012697.0,Tuesday,No,2015-02-17T02:55:00.000,Hazardous,"[-71.0531, 42.366061]",Point,Hazardous,2,REQP,0,A1,Last,No,CHARTER ST,Other,Unarmed,776939.8972,,2958738.457,2015

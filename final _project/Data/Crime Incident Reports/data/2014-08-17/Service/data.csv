@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10596,142020917.0,Sunday,No,2014-08-17T01:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,LARCEN,0,C11,Last,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2014
+96777,142037760.0,Sunday,No,2014-08-17T00:01:00.000,Service,"[-71.08507, 42.328881]",Point,Service,8,LARCEN,0,B2,Last,No,WASHINGTON ST,Part three,Unarmed,768366.1044,DUDLEY ST,2945145.712,2014
+135127,142020328.0,Sunday,No,2014-08-17T19:10:00.000,Service,"[-71.08826, 42.324542]",Point,Service,8,TS,0,B2,First,No,CRISPUS ATTUCKS PL,Part three,Unarmed,767511.1506,,2943560.184,2014

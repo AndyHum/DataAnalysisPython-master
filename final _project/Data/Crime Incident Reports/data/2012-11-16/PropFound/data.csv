@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15378,120721300.0,Friday,No,2012-11-16T07:25:00.000,PropFound,"[-71.07764, 42.350661]",Point,PropFound,11,FDPROP,143,D4,Last,No,DARTMOUTH ST,Part Three,Unarmed,770335.8976,NEWBURY ST,2953092.6010000003,2012
+25523,120721472.0,Friday,No,2012-11-16T08:45:00.000,PropFound,"[-71.054585, 42.377671]",Point,PropFound,11,FDPROP,900,A15,Day,No,DECATUR ST,Part Three,Unarmed,776516.4905,,2962967.278,2012
+42652,120721205.0,Friday,No,2012-11-16T04:31:00.000,PropFound,"[-71.08281, 42.343211]",Point,PropFound,11,FDPROP,145,D4,Last,No,BLACKWOOD ST,Part Three,Unarmed,768951.6741,ST BOTOLPH ST,2950370.8030000003,2012
+44559,120722464.0,Friday,No,2012-11-16T16:24:00.000,PropFound,"[-71.07351, 42.333491]",Point,PropFound,11,FDPROP,179,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,771483.5641,ALBANY ST,2946841.0930000003,2012
+150405,120721254.0,Friday,No,2012-11-16T06:30:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,11,FDPROP,28,A7,Last,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2012

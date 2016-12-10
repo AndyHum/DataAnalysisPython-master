@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30850,,Sunday,No,2015-07-12T00:00:00.000,Other,"[-71.033977, 42.370837]",Point,OTHER,7,IVPER,30,A7,,No,FRANKFORT ST,Part Three,None,782098.0,,2960000.0,2015
+32938,,Sunday,No,2015-07-12T19:30:00.000,Other,"[0, 0]",Point,OTHER,7,IVPER,0,,,No,,Part Two,None,,DARTMOUTH ST,,2015
+34092,,Sunday,No,2015-07-12T00:00:00.000,Other Burglary,"[-71.080298, 42.276615]",Point,05OH,7,BE,943,B3,,No,STANDARD ST,Part One,None,769750.0,,2930000.0,2015
+43281,,Sunday,No,2015-07-12T00:00:00.000,Other,"[-71.08265, 42.276266]",Point,OTHER,7,IVPER,943,B3,,No,WOODBOLE AVE,Part Two,None,769114.0,,2930000.0,2015
+82706,,Sunday,No,2015-07-12T00:00:00.000,Other,"[-71.080889, 42.282293]",Point,OTHER,7,NIDV,950,B3,,No,EVANS ST,Part Two,None,769580.0,,2930000.0,2015
+86752,,Sunday,No,2015-07-12T00:00:00.000,Other,"[-71.0995, 42.327541]",Point,OTHER,7,DISTRB,586,B2,,No,PARKER ST,Part Two,None,764466.0,,2940000.0,2015
+146165,,Sunday,No,2015-07-12T00:00:00.000,Other,"[-71.068847, 42.295815]",Point,OTHER,7,NIDV,359,C11,,No,ALPHA RD,Part Two,None,772814.0,,2930000.0,2015
+217786,,Sunday,No,2015-07-12T22:46:00.000,Other,"[0, 0]",Point,OTHER,7,MVA,17,A7,,No,CHELSEA ST,Part Two,None,,,,2015
+224476,,Sunday,No,2015-07-12T00:00:00.000,Other,"[-71.086433, 42.290415]",Point,OTHER,7,IVPER,944,B3,,No,AMES ST,Part Two,None,768065.0,,2930000.0,2015

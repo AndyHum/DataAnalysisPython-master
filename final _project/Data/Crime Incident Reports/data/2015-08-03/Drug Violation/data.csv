@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17592,,Monday,No,2015-08-03T18:30:00.000,Drug Violation,"[0, 0]",Point,18xx,8,IVMV,246,C11,,No,DORCHESTER AVE,Part Two,None,,VICTORIA ST,,2015
+19495,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.10865, 42.262909]",Point,18xx,8,POISON,488,E18,,No,WOOD AVE,Part Two,None,762100.0,,2920000.0,2015
+29179,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.082623, 42.309384]",Point,18xx,8,ADMRPT,329,B2,,No,BLUE HILL AVE,Part Two,None,769062.0,,2940000.0,2015
+37529,,Monday,No,2015-08-03T18:35:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,302,E13,,No,CENTRE ST,Part Two,None,,,,2015
+42334,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.051758, 42.297943]",Point,18xx,8,CD11,253,C11,,No,MILL ST,Part Two,None,777433.0,,2930000.0,2015
+48185,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.083248, 42.329787]",Point,18xx,8,ARREST,280,B2,,No,WARREN ST,Part Two,None,768857.0,,2950000.0,2015
+56469,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,8,IVPER,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+161169,,Monday,No,2015-08-03T13:36:00.000,Drug Violation,"[0, 0]",Point,18xx,8,CD5,282,B2,,No,WARREN ST,Part Two,None,,,,2015
+180132,,Monday,No,2015-08-03T20:15:00.000,Drug Violation,"[0, 0]",Point,18xx,8,TS,0,,,No,,Part Two,None,,HAMPDEN ST,,2015
+185907,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.123197, 42.259657]",Point,18xx,8,ARREST,519,E18,,No,HYDE PARK AVE,Part Two,None,758168.0,,2920000.0,2015
+198243,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,8,ADMRPT,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+216503,,Monday,No,2015-08-03T11:51:00.000,Drug Violation,"[0, 0]",Point,18xx,8,IVMV,453,B3,,No,HARVARD ST,Part Two,None,, THANE ST ,,2015
+240492,,Monday,No,2015-08-03T12:27:00.000,Drug Violation,"[0, 0]",Point,18xx,8,TS,0,,,No,,Part Two,None,,,,2015
+253790,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,8,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015
+253791,,Monday,No,2015-08-03T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,8,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015

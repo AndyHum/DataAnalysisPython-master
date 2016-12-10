@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104048,140097530.0,Sunday,No,2014-02-16T07:47:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,2,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+190971,140097971.0,Sunday,No,2014-02-16T12:00:00.000,PropFound,"[-71.15223, 42.287511]",Point,PropFound,2,IVPER ,691,E5,Day,No,WILLOW ST,Part three,Unarmed,750267.2607,CENTRE ST,2929988.58,2014
+260243,140098184.0,Sunday,No,2014-02-16T14:00:00.000,PropFound,"[0, 0]",Point,PropFound,2,LSTPRP,493,E18,Day,No,RIVER ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44568,152023024.0,Sunday,No,2015-03-22T16:00:00.000,InvProp,"[-71.061515, 42.365357]",Point,InvProp,3,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774666.9647,CANAL ST,2958469.934,2015
+82275,152022912.0,Sunday,No,2015-03-22T00:04:00.000,InvProp,"[-71.084695, 42.305636]",Point,InvProp,3,SSA,0,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768508.75,,2936675.341,2015
+136731,152022954.0,Sunday,No,2015-03-22T09:23:00.000,InvProp,"[-71.09131, 42.330001]",Point,InvProp,3,ALARM,0,B2,Day,No,JOHN ELIOT SQ,Part three,Unarmed,766676.8321,,2945545.713,2015
+154222,152022930.0,Sunday,No,2015-03-22T05:18:00.000,InvProp,"[-71.1075, 42.270746]",Point,InvProp,3,ALARM,0,E18,Last,No,WEYBOSSET ST,Part three,Unarmed,762398.44,,2923931.6960000005,2015
+160389,152022909.0,Sunday,No,2015-03-22T03:09:00.000,InvProp,"[-71.065765, 42.319131]",Point,InvProp,3,SHOTS,0,B2,Last,No,WENDOVER ST,Part three,Unarmed,773604.3231,,2941618.633,2015
+186955,152022911.0,Sunday,No,2015-03-22T03:05:00.000,InvProp,"[-71.08893, 42.343806]",Point,InvProp,3,BE,0,D4,Last,No,WESTLAND AV,Part three,Other,767296.1359,,2950579.599,2015
+266749,152022983.0,Sunday,No,2015-03-22T11:42:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVPREM,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+266757,152023023.0,Sunday,No,2015-03-22T16:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,First,No,2ND AV,Part three,Unarmed,,,,2015

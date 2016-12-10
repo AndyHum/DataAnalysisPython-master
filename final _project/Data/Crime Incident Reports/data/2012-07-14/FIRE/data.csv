@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109890,120433244.0,Saturday,No,2012-07-14T09:20:00.000,FIRE,"[-71.156555, 42.261694]",Point,FIRE,7,INVEST,712,E5,Day,No,WASHINGTON ST,Part Three,Other,749134.8547,,2920575.6760000004,2012
+128406,120433878.0,Saturday,No,2012-07-14T16:34:00.000,FIRE,"[-71.069937, 42.31691]",Point,FIRE,7,EDP2  ,259,B2,First,No,ALEXANDER ST,Part Three,Unarmed,772480.0127,,2940803.5130000003,2012
+185369,120434224.0,Saturday,No,2012-07-14T19:00:00.000,FIRE,"[-71.116349, 42.307451]",Point,FIRE,7,FIREB ,649,E13,First,No,CUSTER ST,Part Three,Unarmed,759943.105,,2937296.353,2012

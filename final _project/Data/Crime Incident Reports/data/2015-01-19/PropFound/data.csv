@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7344,152004976.0,Monday,No,2015-01-19T10:00:00.000,PropFound,"[-71.104114, 42.269872]",Point,PropFound,1,PROP,0,E18,Day,No,RUGBY RD,Part three,Unarmed,763316.1327,,2923617.375,2015
+140848,152005138.0,Monday,No,2015-01-19T17:00:00.000,PropFound,"[-71.084485, 42.348131]",Point,PropFound,1,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2015
+209355,152005085.0,Monday,No,2015-01-19T15:53:00.000,PropFound,"[-71.060735, 42.298351]",Point,PropFound,1,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775003.6566,,2934053.046,2015

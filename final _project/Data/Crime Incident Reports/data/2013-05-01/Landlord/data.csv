@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66732,130299379.0,Wednesday,No,2013-05-01T07:00:00.000,Landlord,"[-71.06894, 42.288516]",Point,Landlord,5,LARCRT,398,C11,Last,No,WELLES AV,Part three,Unarmed,772802.0436,,2930457.7060000002,2013
+90892,130257859.0,Wednesday,No,2013-05-01T20:08:00.000,Landlord,"[-71.09342, 42.275896]",Point,Landlord,5,NIDV  ,427,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766200.2749,,2925826.275,2013
+101915,130258016.0,Wednesday,No,2013-05-01T16:15:00.000,Landlord,"[-71.07825, 42.335516]",Point,Landlord,5,THREAT,273,D4,First,No,WASHINGTON ST,Part Three,Unarmed,770198.2968,,2947572.668,2013
+126196,130257319.0,Wednesday,No,2013-05-01T16:20:00.000,Landlord,"[-71.07825, 42.335516]",Point,Landlord,5,MEET  ,273,D4,First,No,WASHINGTON ST,Part Three,Unarmed,770198.2968,,2947572.668,2013

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41360,142023321.0,Tuesday,No,2014-08-26T20:00:00.000,PropLost,"[-71.154509, 42.349729]",Point,PropLost,8,PROP,0,D14,First,No,LEICESTER ST,Part three,Unarmed,749558.6629,,2952659.4839999997,2014
+108272,142023179.0,Tuesday,No,2014-08-26T15:00:00.000,PropLost,"[-71.075045, 42.341721]",Point,PropLost,8,LARCEN,0,D4,Day,No,W BROOKLINE ST,Part three,Unarmed,771053.5838,,2949838.182,2014
+178111,142023262.0,Tuesday,No,2014-08-26T14:00:00.000,PropLost,"[-71.12485, 42.351824]",Point,PropLost,8,PROP,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,757572.4943,,2953456.4669999997,2014
+181536,142023606.0,Tuesday,No,2014-08-26T20:15:00.000,PropLost,"[-71.07525, 42.294946]",Point,PropLost,8,ASSTPO,0,B3,First,No,PARK ST,Part three,Unarmed,771083.0440000001,,2932792.325,2014
+183406,142023121.0,Tuesday,No,2014-08-26T11:30:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,8,PROP,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+185377,142023369.0,Tuesday,No,2014-08-26T15:00:00.000,PropLost,"[-71.08499, 42.342831]",Point,PropLost,8,PROP,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,768363.0027,HUNTINGTON AV,2950229.4480000003,2014
+202401,142024521.0,Tuesday,No,2014-08-26T19:00:00.000,PropLost,"[-71.070505, 42.346036]",Point,PropLost,8,MISC,0,D4,First,No,BERKELEY ST,Part three,Unarmed,772273.0459,,2951416.795,2014
+245777,142023137.0,Tuesday,No,2014-08-26T13:39:00.000,PropLost,"[-71.06041, 42.299431]",Point,PropLost,8,LARCEN,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775089.5518,,2934447.067,2014
+260996,142022971.0,Tuesday,No,2014-08-26T01:12:00.000,PropLost,"[0, 0]",Point,PropLost,8,LOCKOU,0,C6,Last,No,JAMES ONEILL ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14350,152040783.0,Monday,No,2015-05-18T10:30:00.000,PropFound,"[-71.072745, 42.350576]",Point,PropFound,5,PROP,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,771659.2201,,2953068.216,2015
+74949,152040657.0,Monday,No,2015-05-18T10:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,5,PROP,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+227677,152040824.0,Monday,No,2015-05-18T18:00:00.000,PropFound,"[-71.114065, 42.313311]",Point,PropFound,5,PROP,0,E13,First,No,CENTRE ST,Part three,Unarmed,760551.4299,GREEN ST,2939434.9239999996,2015

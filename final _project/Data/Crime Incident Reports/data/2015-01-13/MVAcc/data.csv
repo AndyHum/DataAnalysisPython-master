@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58924,152003474.0,Tuesday,No,2015-01-13T20:52:00.000,MVAcc,"[-71.11998, 42.262221]",Point,MVAcc,1,MVA,0,E18,First,No,ARLINGTON ST,Other,Unarmed,759034.5481,HILTON ST,2920809.773,2015
+187116,152003251.0,Tuesday,No,2015-01-13T05:27:00.000,MVAcc,"[-71.11977, 42.260231]",Point,MVAcc,1,MVA,0,E18,Last,No,CENTRAL AV,Other,Other,759094.6249,WEST ST,2920084.845,2015
+213062,152003267.0,Tuesday,No,2015-01-13T09:02:00.000,MVAcc,"[-71.13437, 42.353261]",Point,MVAcc,1,MVA,0,D14,Day,No,BRIGHTON AV,Other,Unarmed,754997.1246,ALLSTON ST,2953969.26,2015
+216106,152003266.0,Tuesday,No,2015-01-13T07:59:00.000,MVAcc,"[-71.0648, 42.299441]",Point,MVAcc,1,MVA,0,C11,Day,No,GENEVA AV,Other,Unarmed,773901.9125,TONAWANDA ST,2934444.622,2015
+258885,152003500.0,Tuesday,No,2015-01-13T23:03:00.000,MVAcc,"[-71.11941, 42.277721]",Point,MVAcc,1,MVA,0,E18,First,No,HYDE PARK AV,Other,Unarmed,759163.6361,,2926458.875,2015
+260433,152003407.0,Tuesday,No,2015-01-13T16:05:00.000,MVAcc,"[0, 0]",Point,MVAcc,1,MVA,0,E5,First,No,BROWN AV,Other,Unarmed,,,,2015
+264396,152003397.0,Tuesday,No,2015-01-13T16:27:00.000,MVAcc,"[0, 0]",Point,MVAcc,1,MVA,0,C11,First,No,DORCHESTER AV,Other,Other,,,,2015
+266237,152003326.0,Tuesday,No,2015-01-13T10:55:00.000,MVAcc,"[0, 0]",Point,MVAcc,1,MVA,0,B2,Day,No,QUINCY ST,Other,Unarmed,,,,2015

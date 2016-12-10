@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46417,152001668.0,Tuesday,No,2015-01-06T06:30:00.000,PersLoc,"[-71.084165, 42.309351]",Point,PersLoc,1,IVPER,0,B2,Last,No,HARTWELL ST,Other,Unarmed,768645.5155,,2938029.845,2015
+54782,152001487.0,Tuesday,No,2015-01-06T09:30:00.000,PersLoc,"[-71.077917, 42.343296]",Point,PersLoc,1,IVPER,0,D4,Day,No,WARREN AV,Other,Unarmed,770274.0752,,2950408.285,2015
+97081,152002105.0,Tuesday,No,2015-01-06T08:30:00.000,PersLoc,"[-71.04162, 42.369616]",Point,PersLoc,1,MISSIN,0,A7,Day,No,SUMNER ST,Other,Unarmed,780035.3332,,2960050.433,2015
+184093,152001671.0,Tuesday,No,2015-01-06T22:41:00.000,PersLoc,"[-71.092001, 42.278561]",Point,PersLoc,1,IVPER,0,B3,First,No,FESSENDEN ST,Other,Other,766579.5337,,2926799.047,2015

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90705,152005400.0,Tuesday,No,2015-01-20T17:22:00.000,32GUN,"[-71.11411, 42.312631]",Point,32GUN,1,FDWEAP,0,E13,First,No,CENTRE ST,Part three,Unarmed,760540.3798,,2939187.065,2015
+138210,152005263.0,Tuesday,No,2015-01-20T10:25:00.000,32GUN,"[-71.072115, 42.346646]",Point,32GUN,1,IVPER,0,D4,Day,No,CHANDLER ST,Part three,Unarmed,771836.6997,,2951636.903,2015

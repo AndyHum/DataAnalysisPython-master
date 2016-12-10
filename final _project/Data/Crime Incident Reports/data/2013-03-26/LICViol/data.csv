@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38421,130177504.0,Tuesday,No,2013-03-26T15:30:00.000,LICViol,"[0, 0]",Point,LICViol,3,CD35  ,0,A1,Day,No,FRONTAGE RD,Part Three,Unarmed,,,,2013
+50326,130177356.0,Tuesday,No,2013-03-26T14:30:00.000,LICViol,"[-71.06149, 42.348856]",Point,LICViol,3,CD35  ,124,A1,Day,No,TYLER ST,Part Three,Unarmed,774704.7832,,2952456.856,2013
+187512,130177435.0,Tuesday,No,2013-03-26T14:50:00.000,LICViol,"[-71.058315, 42.353881]",Point,LICViol,3,CD35  ,0,A1,Day,No,SUMMER ST,Part Three,Unarmed,775553.5597,,2954292.488,2013
+209877,130177486.0,Tuesday,No,2013-03-26T15:20:00.000,LICViol,"[-71.05357, 42.355631]",Point,LICViol,3,CD35  ,108,A1,Day,No,HIGH ST,Part Three,Unarmed,776832.775,,2954936.898,2013

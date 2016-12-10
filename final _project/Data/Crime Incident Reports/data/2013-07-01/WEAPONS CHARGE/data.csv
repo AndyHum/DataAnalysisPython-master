@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142681,130404115.0,Monday,No,2013-07-01T22:53:00.000,WEAPONS CHARGE,"[-71.090865, 42.281881]",Point,15xx,7,FIGHT ,428,B3,First,No,WOOLSON ST,Part Two,Knife,766881.2723,,2928010.598,2013
+186665,130402018.0,Monday,No,2013-07-01T03:09:00.000,WEAPONS CHARGE,"[-71.071411, 42.280731]",Point,15xx,7,SSTOP ,416,B3,Last,No,OGDEN ST,Part Two,Firearm,772147.7053,,2927617.192,2013
+216722,130403516.0,Monday,No,2013-07-01T18:05:00.000,WEAPONS CHARGE,"[-71.099225, 42.314846]",Point,15xx,7,IVPER ,572,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764562.5768,,2940012.814,2013

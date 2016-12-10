@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22190,140280143.0,Wednesday,No,2014-05-07T12:30:00.000,32GUN,"[-71.056415, 42.326841]",Point,32GUN,5,CD19  ,914,C6,Day,No,KEMP ST,Part three,Unarmed,776118.3673,,2944441.296,2014
+77928,140280960.0,Wednesday,No,2014-05-07T17:30:00.000,32GUN,"[-71.06939, 42.339506]",Point,32GUN,5,BUYBAK,167,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+86501,140280043.0,Wednesday,No,2014-05-07T11:35:00.000,32GUN,"[-71.06202, 42.379876]",Point,32GUN,5,FDWEAP,44,A15,Day,No,ELM ST,Part three,Firearm,774503.468,,2963760.4239999996,2014
+180496,140280105.0,Wednesday,No,2014-05-07T12:30:00.000,32GUN,"[-71.056415, 42.326841]",Point,32GUN,5,IVPREM,914,C6,Day,No,KEMP ST,Part three,Unarmed,776118.3673,,2944441.296,2014

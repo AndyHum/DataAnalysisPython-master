@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72833,130674466.0,Tuesday,No,2013-10-22T19:45:00.000,FIRE,"[-71.034765, 42.381976]",Point,FIRE,10,REQP  ,25,A7,First,No,FALCON ST,Part three,Unarmed,781863.1806,,2964564.6980000003,2013
+163929,130672642.0,Tuesday,No,2013-10-22T02:26:00.000,FIRE,"[-71.009807, 42.388505]",Point,FIRE,10,FIREB ,12,A7,Last,No,BOARDMAN ST,Part three,Other,788592.427,,2966981.545,2013
+181072,130674716.0,Tuesday,No,2013-10-22T22:14:00.000,FIRE,"[-71.147876, 42.339513]",Point,FIRE,10,FIREB ,788,D14,First,No,SELKIRK RD,Part three,Other,751367.0244,,2948943.689,2013

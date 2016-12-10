@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12249,130191277.0,Monday,No,2013-04-01T16:15:00.000,TRESPASS,"[-71.07463, 42.335321]",Point,TRESPASS,4,ARREST,171,D4,First,No,HARRISON AV,Part Two,Unarmed,771177.4087,,2947506.466,2013
+154097,130190926.0,Monday,No,2013-04-01T14:40:00.000,TRESPASS,"[-71.117583, 42.278591]",Point,TRESPASS,4,REMOVE,499,E18,Day,No,CANTERBURY ST,Part Two,Unarmed,759656.4721,,2926777.8680000002,2013
+245391,130190704.0,Monday,No,2013-04-01T13:00:00.000,TRESPASS,"[-71.081656, 42.330447]",Point,TRESPASS,4,IVPER ,280,B2,Day,No,HARRISON AV,Part Two,Unarmed,769286.3327,,2945720.856,2013

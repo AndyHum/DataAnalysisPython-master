@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31011,130774491.0,Sunday,No,2013-12-08T17:43:00.000,FIRE,"[-71.096765, 42.332291]",Point,FIRE,12,FIREB ,901,B2,First,No,PARKER ST,Part three,Unarmed,765197.8626,,2946373.21,2013
+89966,130773618.0,Sunday,No,2013-12-08T08:21:00.000,FIRE,"[-71.08769, 42.270241]",Point,FIRE,12,FV    ,424,B3,Day,No,GLADESIDE AV,Part three,Unarmed,767760.9448,RIVER ST,2923772.962,2013
+95631,130773933.0,Sunday,No,2013-12-08T12:25:00.000,FIRE,"[-71.107805, 42.33605]",Point,FIRE,12,FIREB ,612,B2,Day,No,FRANCIS ST,Part three,Other,762206.2941,,2947728.97,2013

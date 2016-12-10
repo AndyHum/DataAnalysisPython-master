@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95511,130405780.0,Tuesday,No,2013-07-02T17:00:00.000,Argue,"[-71.05945, 42.356321]",Point,Argue,7,ABIP  ,104,A1,First,No,FRANKLIN ST,Part three,Unarmed,775242.1801,WASHINGTON ST,2955180.083,2013
+157496,130407685.0,Tuesday,No,2013-07-02T11:00:00.000,Argue,"[-71.094585, 42.348806]",Point,Argue,7,INVEST,623,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765758.7053,,2952394.378,2013
+257587,130405441.0,Tuesday,No,2013-07-02T14:03:00.000,Argue,"[-71.143891, 42.345952]",Point,Argue,7,DISTRB,938,D14,Day,No,FIDELIS WY,Part three,Unarmed,752434.4823,,2951294.5710000005,2013

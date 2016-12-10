@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119595,130520107.0,Sunday,No,2013-08-18T11:30:00.000,PropFound,"[-71.055765, 42.359881]",Point,PropFound,8,FDPROP,93,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,776231.4261,,2956482.582,2013
+200894,130519929.0,Sunday,No,2013-08-18T10:24:00.000,PropFound,"[-71.063757, 42.354358]",Point,PropFound,8,HAZ   ,111,A1,Day,No,TREMONT ST,Part three,Unarmed,774081.4655,,2954458.626,2013
+246084,130520320.0,Sunday,No,2013-08-18T01:00:00.000,PropFound,"[-71.053601, 42.35182]",Point,PropFound,8,FDPROP,173,A1,Last,No,SUMMER ST,Part three,Unarmed,776831.4925,,2953548.019,2013

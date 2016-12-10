@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31400,130041086.0,Sunday,No,2013-01-20T10:34:00.000,InvProp,"[-71.084207, 42.271688]",Point,InvProp,1,ALARMR,423,B3,Day,No,NEWCROFT CR,Part Three,Unarmed,768700.8887,,2924304.6789999995,2013
+31690,130041104.0,Sunday,No,2013-01-20T10:45:00.000,InvProp,"[-71.12618, 42.307261]",Point,InvProp,1,ALARMR,655,E13,Day,No,SURREYHILL LA,Part Three,Unarmed,757284.3463,,2937215.6089999997,2013
+168332,130041007.0,Sunday,No,2013-01-20T09:15:00.000,InvProp,"[-71.17312, 42.351201]",Point,InvProp,1,DVIP  ,755,D14,Day,No,TREMONT ST,Part Three,Unarmed,744525.8777,,2953176.035,2013
+186946,130041519.0,Sunday,No,2013-01-20T15:15:00.000,InvProp,"[-71.07227, 42.316727]",Point,InvProp,1,BEIP  ,260,B2,Day,No,LINGARD ST,Part Three,Unarmed,771849.3676,,2940733.5539999995,2013
+194558,130040996.0,Sunday,No,2013-01-20T08:55:00.000,InvProp,"[-71.142936, 42.345312]",Point,InvProp,1,IVPER ,938,D14,Day,No,FIDELIS WY,Part Three,Unarmed,752693.6724,,2951062.6210000003,2013
+197082,142048509.0,Sunday,No,2013-01-20T00:00:00.000,InvProp,"[-71.087946, 42.31793]",Point,InvProp,1,VAND,0,B2,Last,No,CRESTWOOD PARK,Part three,Unarmed,767607.5313,,2941151.18,2013
+257968,130040752.0,Sunday,No,2013-01-20T03:16:00.000,InvProp,"[-71.153043, 42.287232]",Point,InvProp,1,ALARMC,696,E5,Last,No,CENTRE ST,Part Three,Other,750047.6314,MAPLE ST,2929885.93,2013

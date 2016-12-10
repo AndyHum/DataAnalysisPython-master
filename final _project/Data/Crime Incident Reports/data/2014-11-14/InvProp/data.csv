@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10842,142049042.0,Friday,No,2014-11-14T22:46:00.000,InvProp,"[-71.063691, 42.287957]",Point,InvProp,11,SHOTS,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,774223.1395,LYDON WY,2930260.961,2014
+18291,142048765.0,Friday,No,2014-11-14T06:45:00.000,InvProp,"[-71.056675, 42.365901]",Point,InvProp,11,CD11,0,A1,Last,No,PRINCE ST,Part three,Unarmed,775974.0779,,2958675.108,2014
+28940,142048754.0,Friday,No,2014-11-14T02:27:00.000,InvProp,"[-71.073917, 42.328335]",Point,InvProp,11,SSA,0,B2,Last,No,NORFOLK AV,Part three,Other,771382.6753,GERARD ST,2944961.445,2014
+30120,142048983.0,Friday,No,2014-11-14T18:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,11,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014
+47787,142048759.0,Friday,No,2014-11-14T05:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,CD9,0,A1,Last,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+198279,142048997.0,Friday,No,2014-11-14T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,IVPREM,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+217848,142048860.0,Friday,No,2014-11-14T07:30:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,CD9,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+219525,142049039.0,Friday,No,2014-11-14T22:04:00.000,InvProp,"[-71.074275, 42.343906]",Point,InvProp,11,POISON,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,771257.7776,,2950635.474,2014

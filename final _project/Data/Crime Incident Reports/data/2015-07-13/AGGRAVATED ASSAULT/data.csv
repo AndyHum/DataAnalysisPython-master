@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13512,,Monday,No,2015-07-13T02:48:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,REQP,122,A1,,No,STUART ST,Part One,Personal Weapon (hand  foot  etc.),, TREMONT ST ,,2015
+19606,,Monday,No,2015-07-13T00:00:00.000,Aggravated Assault,"[-71.061344, 42.304974]",Point,04xx,7,PKNIFE,347,C11,,No,ADAMS ST,Part One,Knife/Cutting Instrument,774826.0,,2940000.0,2015
+42067,,Monday,No,2015-07-13T02:20:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PERGUN,17,A7,,No,CHELSEA ST,Part One,Firearm,,,,2015
+49490,,Monday,No,2015-07-13T00:00:00.000,Aggravated Assault,"[-71.085132, 42.288812]",Point,04xx,7,ARREST,944,B3,,No,STRATTON ST,Part One,Knife/Cutting Instrument,768420.0,,2930000.0,2015
+70060,,Monday,No,2015-07-13T11:16:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,SHOTS,154,D4,,No,COLUMBUS AVE,Part One,Firearm,,,,2015
+73815,,Monday,No,2015-07-13T00:00:00.000,Aggravated Assault,"[-71.085088, 42.315085]",Point,04xx,7,DISTRB,313,B2,,No,WYOMING ST,Part One,Blunt Object,768386.0,,2940000.0,2015
+112401,,Monday,No,2015-07-13T00:00:00.000,Aggravated Assault,"[-71.059753, 42.352072]",Point,04xx,7,FIGHT,116,A1,,No,EDINBORO ST,Part One,Other,775168.0,,2950000.0,2015
+158783,,Monday,No,2015-07-13T00:00:00.000,Aggravated Assault,"[-71.081213, 42.328491]",Point,04xx,7,PSHOT,281,B2,,Yes,DUDLEY ST,Part One,Firearm,769410.0,,2950000.0,2015
+172405,,Monday,No,2015-07-13T00:00:00.000,Aggravated Assault,"[-71.077065, 42.287017]",Point,04xx,7,ARREST,435,B3,,No,WHITMAN ST,Part One,Knife/Cutting Instrument,770606.0,,2930000.0,2015
+242788,,Monday,No,2015-07-13T20:36:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,AB,115,A1,,No,ATLANTIC AVE,Part One,Other,,EAST ST,,2015
+251038,,Monday,No,2015-07-13T00:00:00.000,Aggravated Assault,"[-71.094708, 42.314515]",Point,04xx,7,AB,316,B2,,No,SEAVER ST,Part One,Blunt Object,765785.0,,2940000.0,2015

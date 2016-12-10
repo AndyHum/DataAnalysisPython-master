@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74397,130425427.0,Wednesday,No,2013-07-10T14:36:00.000,Service,"[-71.06548, 42.314021]",Point,Service,7,ARREST,332,C11,Day,No,WHITTEMORE ST,Part three,Unarmed,773690.8858,HANCOCK ST,2939756.8589999997,2013
+133352,130424574.0,Wednesday,No,2013-07-10T09:00:00.000,Service,"[-71.07416, 42.290841]",Point,Service,7,ARREST,438,B3,Day,No,TALBOT AV,Part three,Unarmed,771385.4106,WHITFIELD ST,2931297.874,2013
+245747,130425883.0,Wednesday,No,2013-07-10T19:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,7,CD19  ,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2013

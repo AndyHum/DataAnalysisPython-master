@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21865,130671046.0,Monday,No,2013-10-21T11:00:00.000,WEAPONS CHARGE,"[-71.090389, 42.331096]",Point,15xx,10,IVPER ,290,B2,Day,No,MALCOLM X BL,Part Two,Unarmed,766923.848,,2945945.7830000003,2013
+40484,130671668.0,Monday,No,2013-10-21T16:42:00.000,WEAPONS CHARGE,"[-71.07633, 42.297221]",Point,15xx,10,INVEST,446,B3,First,No,THANE ST,Part Two,Unarmed,770786.7344,HARVARD ST,2933619.915,2013
+218127,130671466.0,Monday,No,2013-10-21T15:06:00.000,WEAPONS CHARGE,"[-71.05841, 42.289831]",Point,15xx,10,CD11  ,366,C11,Day,No,DAWSON ST,Part Two,Unarmed,775648.7209,,2930951.4839999997,2013

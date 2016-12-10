@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44518,142042936.0,Sunday,No,2014-10-26T16:45:00.000,TRESPASS,"[-71.086716, 42.281419]",Point,TRESPASS,10,IVPER,0,B3,First,No,MORTON ST,Part Two,Unarmed,768004.7667,,2927847.627,2014
+182674,142042813.0,Sunday,No,2014-10-26T09:30:00.000,TRESPASS,"[-71.070225, 42.339211]",Point,TRESPASS,10,IVPER,0,D4,Day,No,HARRISON ARCHWAYS,Part Two,Unarmed,772361.2702,,2948930.022,2014
+248686,142042930.0,Sunday,No,2014-10-26T17:09:00.000,TRESPASS,"[-71.061745, 42.356021]",Point,TRESPASS,10,ARREST,0,A1,First,No,WINTER ST,Part Two,Unarmed,774622.4376,,2955067.563,2014

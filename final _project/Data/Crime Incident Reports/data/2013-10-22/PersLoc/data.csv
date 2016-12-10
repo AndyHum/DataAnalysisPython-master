@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5323,130674352.0,Tuesday,No,2013-10-22T20:07:00.000,PersLoc,"[-71.099695, 42.330611]",Point,PersLoc,10,MISPER,587,B2,First,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2013
+151876,130676261.0,Tuesday,No,2013-10-22T19:00:00.000,PersLoc,"[-71.12024, 42.251331]",Point,PersLoc,10,MISPER,516,E18,First,No,TRUMAN PY,Other,Unarmed,758981.8366,DANA AV,2916841.0039999997,2013
+171345,130675266.0,Tuesday,No,2013-10-22T08:00:00.000,PersLoc,"[-71.09291, 42.31258]",Point,PersLoc,10,MISPER,316,B2,Day,No,HAROLD ST,Other,Unarmed,766274.4956,,2939194.943,2013
+176093,130673716.0,Tuesday,No,2013-10-22T14:40:00.000,PersLoc,"[-71.083504, 42.285373]",Point,PersLoc,10,MISPER,432,B3,Day,No,JACOB ST,Other,Unarmed,768866.8293,,2929292.5,2013

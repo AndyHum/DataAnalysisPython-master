@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37898,140366699.0,Tuesday,No,2014-06-10T12:30:00.000,InvProp,"[-71.070295, 42.317651]",Point,InvProp,6,BEMVRT,259,B2,Day,No,MAGNOLIA ST,Part three,Other,772381.926,,2941073.0930000003,2014
+48927,140367349.0,Tuesday,No,2014-06-10T08:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,6,MISC  ,70,A1,Day,No,LOUISBURG SQ,Part three,Other,772766.5761,,2955927.264,2014
+115571,140367602.0,Tuesday,No,2014-06-10T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,6,IVPREM,70,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+120097,140366658.0,Tuesday,No,2014-06-10T14:48:00.000,InvProp,"[-71.121909, 42.320483]",Point,InvProp,6,ALARMR,633,E13,Day,No,PERKINS ST,Part three,Unarmed,758418.175,,2942038.8189999997,2014
+136704,140368616.0,Tuesday,No,2014-06-10T07:30:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,6,IVPREM,70,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+155597,140366705.0,Tuesday,No,2014-06-10T14:58:00.000,InvProp,"[-71.12497, 42.267851]",Point,InvProp,6,ALARMR,546,E18,Day,No,SHERRIN ST,Part three,Unarmed,757674.7907,,2922855.443,2014
+206111,140366451.0,Tuesday,No,2014-06-10T14:09:00.000,InvProp,"[-71.14693, 42.355591]",Point,InvProp,6,BOMB  ,780,D14,Day,No,N BEACON ST,Part three,Unarmed,751598.6440000001,,2954804.059,2014

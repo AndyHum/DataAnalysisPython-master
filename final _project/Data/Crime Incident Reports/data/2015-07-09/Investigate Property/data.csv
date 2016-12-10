@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30195,,Thursday,No,2015-07-09T00:00:00.000,Investigate Property,"[-71.093711, 42.319878]",Point,InvProp,7,IVPREM,306,B2,,No,TOWNSEND ST,Part Three,None,766045.0,,2940000.0,2015
+45732,,Thursday,No,2015-07-09T00:00:00.000,Investigate Property,"[-71.136578, 42.278655]",Point,InvProp,7,VAND,681,E5,,No,WASHINGTON ST,Part Three,None,754516.0,,2930000.0,2015
+62298,,Thursday,No,2015-07-09T12:38:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,SHOTS,312,B2,,No,HAROLD ST,Part Three,None,,HOLWORTHY ST,,2015
+73475,,Thursday,No,2015-07-09T00:00:00.000,Investigate Property,"[-71.052728, 42.367271]",Point,InvProp,7,CD9,0,,,No,COMMERCIAL,Part Three,None,777038.0,HANOVER ST,2960000.0,2015
+140563,,Thursday,No,2015-07-09T00:00:00.000,Investigate Property,"[-71.087607, 42.288168]",Point,InvProp,7,IVPER,431,B3,,No,CALLENDER ST,Part Three,None,767752.0,,2930000.0,2015
+150948,,Thursday,No,2015-07-09T00:00:00.000,Investigate Property,"[-71.117863, 42.244107]",Point,InvProp,7,SHOTS,940,E18,,No,BOW ST,Part Three,None,759637.0,,2910000.0,2015
+152516,,Thursday,No,2015-07-09T00:00:00.000,Investigate Property,"[-71.115715, 42.305368]",Point,InvProp,7,,946,E13,,No,METCALF CT,Part Three,None,760118.0,,2940000.0,2015
+183303,,Thursday,No,2015-07-09T00:00:00.000,Investigate Property,"[-71.065752, 42.302094]",Point,InvProp,7,SHOTS,345,C11,,No,RIDGEWOOD ST,Part Three,None,773639.0,,2940000.0,2015
+185550,,Thursday,No,2015-07-09T23:06:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,SHOTS,584,B2,,No,FISHER AVE,Part Three,None,,,,2015
+219258,,Thursday,No,2015-07-09T01:06:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,0,B2,,No,,Part Three,None,,,,2015
+239131,,Thursday,No,2015-07-09T00:00:00.000,Investigate Property,"[-71.069257, 42.344491]",Point,InvProp,7,IVPREM,160,D4,,No,DWIGHT ST,Part Three,None,772613.0,,2950000.0,2015

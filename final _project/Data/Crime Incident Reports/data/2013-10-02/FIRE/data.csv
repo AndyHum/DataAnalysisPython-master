@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16545,130628242.0,Wednesday,No,2013-10-02T14:15:00.000,FIRE,"[-71.065775, 42.352431]",Point,FIRE,10,FIREB ,118,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773539.8413,,2953753.727,2013
+54391,130627237.0,Wednesday,No,2013-10-02T02:45:00.000,FIRE,"[-71.096265, 42.265371]",Point,FIRE,10,FV    ,482,E18,Last,No,EDGEWATER DR,Part three,Other,765448.2899,,2921987.0739999996,2013
+116961,130627790.0,Wednesday,No,2013-10-02T10:50:00.000,FIRE,"[-71.007327, 42.386832]",Point,FIRE,10,FIREB ,10,A7,Day,No,SARATOGA ST,Part three,Unarmed,789266.0329,,2966375.8239999996,2013

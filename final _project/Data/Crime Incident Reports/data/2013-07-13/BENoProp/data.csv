@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57981,130432375.0,Saturday,No,2013-07-13T09:50:00.000,BENoProp,"[-71.04078, 42.370086]",Point,BENoProp,7,BEIP  ,27,A7,Day,No,HAVRE ST,Part One,Unarmed,780261.4013,,2960222.932,2013
+75910,130431891.0,Saturday,No,2013-07-13T01:35:00.000,BENoProp,"[-71.08358, 42.282947]",Point,BENoProp,7,ARREST,418,B3,Last,No,CORBET ST,Part One,Unarmed,768850.6286,,2928408.4869999997,2013
+217367,130433208.0,Saturday,No,2013-07-13T17:26:00.000,BENoProp,"[-71.036575, 42.369096]",Point,BENoProp,7,BEIP  ,30,A7,First,No,MAVERICK ST,Part One,Other,781399.6651,,2959868.3010000004,2013

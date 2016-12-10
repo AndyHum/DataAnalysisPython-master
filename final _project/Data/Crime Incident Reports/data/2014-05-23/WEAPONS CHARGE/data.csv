@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4950,140322157.0,Friday,No,2014-05-23T18:41:00.000,WEAPONS CHARGE,"[-71.06178, 42.306001]",Point,15xx,5,ARREST,347,C11,First,No,ADAMS ST,Part Two,Firearm,774706.6265,LYON ST,2936839.367,2014
+125981,140320571.0,Friday,No,2014-05-23T06:02:00.000,WEAPONS CHARGE,"[-71.144024, 42.346747]",Point,15xx,5,ARREST,938,D14,Last,No,JETTE CT,Part Two,Unarmed,752397.4732,,2951584.079,2014

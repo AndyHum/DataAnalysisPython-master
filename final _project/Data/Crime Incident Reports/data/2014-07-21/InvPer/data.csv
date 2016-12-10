@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11287,142011486.0,Monday,No,2014-07-21T18:40:00.000,InvPer,"[-71.056001, 42.315276]",Point,InvPer,7,IVPER,0,C11,First,No,BELFORT ST,Part three,Other,776252.0032,,2940227.3880000003,2014
+36440,142012149.0,Monday,No,2014-07-21T21:30:00.000,InvPer,"[-71.090195, 42.294891]",Point,InvPer,7,CD9,0,B3,First,No,FRANKLIN HILL AV,Part three,Unarmed,767039.7998,,2932752.503,2014
+89996,142011318.0,Monday,No,2014-07-21T09:30:00.000,InvPer,"[-71.153043, 42.287232]",Point,InvPer,7,IVPER,0,E5,Day,No,CENTRE ST,Part three,Unarmed,750047.6314,,2929885.93,2014
+197359,142011243.0,Monday,No,2014-07-21T07:41:00.000,InvPer,"[-71.16522, 42.294256]",Point,InvPer,7,LARCEN,0,E5,Day,No,MARLIN RD,Part three,Unarmed,746742.766,,2932432.503,2014
+242621,142011238.0,Monday,No,2014-07-21T08:15:00.000,InvPer,"[-71.065076, 42.362976]",Point,InvPer,7,IVPER,0,A1,Day,No,OCONNELL WY,Part three,Unarmed,773708.9968,,2957597.52,2014
+247213,142011519.0,Monday,No,2014-07-21T21:42:00.000,InvPer,"[-71.158055, 42.256836]",Point,InvPer,7,DISTRB,0,E5,First,No,SCHORTMANNS TR,Part three,Unarmed,748735.9391,,2918803.787,2014
+249408,142011371.0,Monday,No,2014-07-21T15:00:00.000,InvPer,"[-71.10164, 42.344226]",Point,InvPer,7,IVPREM,0,D4,Day,No,BROOKLINE AV,Part three,Unarmed,763859.4027,,2950716.352,2014
+266312,142011444.0,Monday,No,2014-07-21T18:00:00.000,InvPer,"[0, 0]",Point,InvPer,7,PERGUN,0,E18,First,No,RESERVATION RD,Part three,Firearm,,,,2014

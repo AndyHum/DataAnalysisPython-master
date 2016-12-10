@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6343,130007135.0,Friday,No,2013-01-04T10:45:00.000,InvProp,"[-71.056374, 42.350817]",Point,InvProp,1,BOMBT ,114,A1,Day,No,ATLANTIC AV,Part Three,Unarmed,776084.0039,,2953178.441,2013
+36559,130006778.0,Friday,No,2013-01-04T07:40:00.000,InvProp,"[-71.073665, 42.282068]",Point,InvProp,1,CD11  ,417,B3,Day,No,MORA ST,Part Three,Unarmed,771535.1918,,2928101.3230000003,2013
+59318,130008072.0,Friday,No,2013-01-04T18:19:00.000,InvProp,"[-71.05214, 42.365376]",Point,InvProp,1,REQP  ,87,A1,First,No,HARRIS ST,Part Three,Unarmed,777200.6417,,2958490.191,2013
+68120,130007176.0,Friday,No,2013-01-04T11:00:00.000,InvProp,"[-71.08072, 42.342736]",Point,InvProp,1,IVDRUG,147,D4,Day,No,GREENWICH PARK,Part Three,Unarmed,769517.54,,2950200.475,2013
+86712,130008643.0,Friday,No,2013-01-04T23:49:00.000,InvProp,"[-71.085219, 42.300836]",Point,InvProp,1,CTYALM,457,B3,Last,No,MCCLELLAN HY,Part Three,Unarmed,768375.5219,,2934925.1569999997,2013
+128210,130009346.0,Friday,No,2013-01-04T20:40:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,1,IVPREM,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2013
+206280,130007380.0,Friday,No,2013-01-04T12:53:00.000,InvProp,"[-71.077707, 42.28625]",Point,InvProp,1,ALARMR,435,B3,Day,No,EDSON ST,Part Three,Other,770433.7566,,2929619.983,2013

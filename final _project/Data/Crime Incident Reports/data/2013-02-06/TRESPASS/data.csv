@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4113,130076305.0,Wednesday,No,2013-02-06T02:43:00.000,TRESPASS,"[-71.093739, 42.334956]",Point,TRESPASS,2,REMOVE,911,B2,Last,No,ANNUNCIATION RD,Part Two,Other,766011.2668,,2947348.014,2013
+139578,130076867.0,Wednesday,No,2013-02-06T11:20:00.000,TRESPASS,"[-71.10086, 42.322816]",Point,TRESPASS,2,ARREST,912,E13,Day,No,CENTRE ST,Part Two,Unarmed,764106.7781,,2942915.144,2013
+153672,130078332.0,Wednesday,No,2013-02-06T21:45:00.000,TRESPASS,"[-71.074385, 42.335516]",Point,TRESPASS,2,TRESPS,171,D4,First,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2013

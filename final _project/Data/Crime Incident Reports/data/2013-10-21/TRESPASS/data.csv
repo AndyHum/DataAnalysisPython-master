@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69536,130672225.0,Monday,No,2013-10-21T21:00:00.000,TRESPASS,"[-71.05309, 42.331621]",Point,TRESPASS,10,IVPREM,196,C6,First,No,DORCHESTER ST,Part Two,Unarmed,777008.3578,OLD COLONY AV,2946187.901,2013
+134175,130671272.0,Monday,No,2013-10-21T15:05:00.000,TRESPASS,"[-71.06443, 42.285251]",Point,TRESPASS,10,CD19  ,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,774028.4138,,2929274.0930000003,2013
+197912,130671810.0,Monday,No,2013-10-21T17:36:00.000,TRESPASS,"[-71.077145, 42.350131]",Point,TRESPASS,10,ABIP  ,134,D4,First,No,BOYLSTON ST,Part Two,Unarmed,770470.6585,,2952900.122,2013
+238163,130670576.0,Monday,No,2013-10-21T08:30:00.000,TRESPASS,"[-71.063165, 42.350631]",Point,TRESPASS,10,ARREST,123,A1,Day,No,WASHINGTON ST,Part Two,Other,774248.6896,,2953101.376,2013

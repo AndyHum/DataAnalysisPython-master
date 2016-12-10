@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109620,130796623.0,Thursday,No,2013-12-19T01:14:00.000,InvProp,"[-71.080967, 42.305758]",Point,InvProp,12,ALARMC,329,B2,Last,No,WASHINGTON ST,Part three,Unarmed,769516.8457,,2936724.604,2013
+144380,130796861.0,Thursday,No,2013-12-19T06:57:00.000,InvProp,"[-71.108935, 42.334281]",Point,InvProp,12,LOCK  ,611,B2,Last,No,NEW WHITNEY ST,Part three,Other,761903.69,,2947083.078,2013
+241812,130797183.0,Thursday,No,2013-12-19T11:17:00.000,InvProp,"[-71.0983, 42.315791]",Point,InvProp,12,LARCRT,930,E13,Day,No,COLUMBUS AV,Part three,Unarmed,764811.1341,WASHINGTON AV,2940358.3639999996,2013

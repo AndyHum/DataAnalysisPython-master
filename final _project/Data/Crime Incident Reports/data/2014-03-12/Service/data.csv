@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33247,140150546.0,Wednesday,No,2014-03-12T23:00:00.000,Service,"[-71.06512, 42.308021]",Point,Service,3,SSTOP ,335,C11,First,No,BOWDOIN AV,Part three,Unarmed,773799.4015,QUINCY ST,2937570.861,2014
+193153,140154996.0,Wednesday,No,2014-03-12T20:05:00.000,Service,"[-71.093706, 42.272606]",Point,Service,3,HARPT ,476,B3,First,No,BLUE HILL AV,Part three,Unarmed,766128.34,,2924626.974,2014
+222406,140150989.0,Wednesday,No,2014-03-12T07:15:00.000,Service,"[-71.04217, 42.371801]",Point,Service,3,CD11  ,27,A7,Last,No,BORDER ST,Part three,Unarmed,779882.4333,,2960845.892,2014
+243305,140152323.0,Wednesday,No,2014-03-12T17:30:00.000,Service,"[-71.066792, 42.305208]",Point,Service,3,IVPER ,341,C11,First,No,STONEHURST ST,Part three,Unarmed,773352.3358,,2936543.1580000003,2014
+258712,140151568.0,Wednesday,No,2014-03-12T12:30:00.000,Service,"[-71.090835, 42.286361]",Point,Service,3,ARREST,465,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766881.5587,,2929643.213,2014
+265904,140151358.0,Wednesday,No,2014-03-12T10:25:00.000,Service,"[0, 0]",Point,Service,3,ARREST,166,D4,Day,No,PELHAM ST,Part three,Unarmed,,,,2014

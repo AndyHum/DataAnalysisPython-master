@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43727,130747967.0,Monday,No,2013-11-25T21:30:00.000,Service,"[-71.079466, 42.327327]",Point,Service,11,IVPREM,281,B2,First,No,MT PLEASANT AV,Other,Unarmed,769884.0976,,2944586.5360000003,2013
+142879,130747490.0,Monday,No,2013-11-25T17:23:00.000,Service,"[-71.06908, 42.342511]",Point,Service,11,SSTOP ,163,D4,First,No,BRADFORD ST,Part three,Unarmed,772664.7551,,2950134.164,2013
+265724,130746693.0,Monday,No,2013-11-25T11:15:00.000,Service,"[0, 0]",Point,Service,11,IVDRUG,250,C11,Day,No,WILLIAM DAY BL,Part three,Unarmed,,MT VERNON ST,,2013

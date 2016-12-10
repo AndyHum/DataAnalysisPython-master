@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65710,130806798.0,Monday,No,2013-12-23T17:28:00.000,PersLoc,"[-71.124365, 42.289971]",Point,PersLoc,12,MSNCOM,563,E5,First,No,WASHINGTON ST,Other,Unarmed,757803.0437,,2930917.0130000003,2013
+77522,130806049.0,Monday,No,2013-12-23T11:46:00.000,PersLoc,"[-71.021715, 42.382066]",Point,PersLoc,12,MSNCOM,15,A7,Day,No,SARATOGA ST,Other,Unarmed,785388.7845,,2964616.9960000003,2013
+221868,130805996.0,Monday,No,2013-12-23T11:28:00.000,PersLoc,"[-71.10395, 42.329316]",Point,PersLoc,12,MISPER,585,B2,Day,No,PARKER HILL AV,Other,Unarmed,763260.1548,,2945279.966,2013

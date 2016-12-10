@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99832,152020139.0,Thursday,No,2015-03-12T21:57:00.000,Argue,"[-71.083615, 42.323217]",Point,Argue,3,DVIP,0,B2,First,No,ST RICHARD ST,Part three,Unarmed,768769.5313,,2943083.394,2015
+172113,152019859.0,Thursday,No,2015-03-12T00:02:00.000,Argue,"[-71.08913, 42.281956]",Point,Argue,3,IVPER,0,B3,Last,No,SUTTON ST,Part three,Unarmed,767350.6368,,2928040.186,2015
+260172,152020031.0,Thursday,No,2015-03-12T15:47:00.000,Argue,"[0, 0]",Point,Argue,3,AB,0,B3,Day,No,NORFOLK TR,Part three,Unarmed,,,,2015
+264448,152019857.0,Thursday,No,2015-03-12T02:55:00.000,Argue,"[0, 0]",Point,Argue,3,DISTRB,0,E18,Last,No,SHERRIN ST,Part three,Unarmed,,,,2015

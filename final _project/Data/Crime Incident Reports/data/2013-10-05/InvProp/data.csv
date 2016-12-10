@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47573,130635669.0,Saturday,No,2013-10-05T15:25:00.000,InvProp,"[-71.06155, 42.295526]",Point,InvProp,10,LARCIP,361,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774788.4638,,2933022.44,2013
+84446,130634621.0,Saturday,No,2013-10-05T02:10:00.000,InvProp,"[-71.05005, 42.351366]",Point,InvProp,10,REQP  ,206,C6,Last,No,CONGRESS ST,Part three,Unarmed,777792.3899,,2953387.652,2013
+164732,130634508.0,Saturday,No,2013-10-05T00:53:00.000,InvProp,"[-71.09377, 42.287706]",Point,InvProp,10,SHOTS ,465,B3,Last,No,HARVARD ST,Part three,Unarmed,766085.0577,,2930129.5539999995,2013
+233851,130635109.0,Saturday,No,2013-10-05T10:14:00.000,InvProp,"[-71.101531, 42.269163]",Point,InvProp,10,ALARMR,480,E18,Day,No,RICHMERE RD,Part three,Unarmed,764016.4742,,2923362.356,2013
+237300,130634540.0,Saturday,No,2013-10-05T01:09:00.000,InvProp,"[-71.07442, 42.332791]",Point,InvProp,10,SHOTS ,270,D4,Last,No,ALBANY ST,Part three,Firearm,771238.7876,NORTHAMPTON ST,2946584.772,2013

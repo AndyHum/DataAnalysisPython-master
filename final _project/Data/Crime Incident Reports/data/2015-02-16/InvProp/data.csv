@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4242,152012665.0,Monday,No,2015-02-16T10:53:00.000,InvProp,"[-71.05256, 42.359511]",Point,InvProp,2,ALARM,0,A1,Day,No,STATE ST,Part three,Unarmed,777098.3496,,2956352.275,2015
+37300,152012554.0,Monday,No,2015-02-16T15:27:00.000,InvProp,"[-71.07843, 42.349776]",Point,InvProp,2,SUSOBJ,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2015
+39603,152012436.0,Monday,No,2015-02-16T10:23:00.000,InvProp,"[-71.141615, 42.343421]",Point,InvProp,2,FIRE,0,D14,Day,No,ALLSTON ST,Part three,Unarmed,753053.8688,,2950375.055,2015
+149940,152012633.0,Monday,No,2015-02-16T04:00:00.000,InvProp,"[-71.16264, 42.352451]",Point,InvProp,2,IVPREM,0,D14,Last,No,FANEUIL ST,Part three,Unarmed,747356.9127,,2953642.591,2015
+173152,152012538.0,Monday,No,2015-02-16T14:46:00.000,InvProp,"[-71.065463, 42.312484]",Point,InvProp,2,ALARM,0,C11,Day,No,TRULL ST,Part three,Unarmed,773698.2790000001,,2939196.77,2015

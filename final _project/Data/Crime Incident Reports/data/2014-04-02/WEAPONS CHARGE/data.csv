@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79666,140198120.0,Wednesday,No,2014-04-02T11:18:00.000,WEAPONS CHARGE,"[-71.08209, 42.322206]",Point,15xx,4,CD11  ,297,B2,Day,No,WARREN ST,Part Two,Unarmed,769183.8241,,2942717.1610000003,2014
+200257,140197447.0,Wednesday,No,2014-04-02T01:20:00.000,WEAPONS CHARGE,"[-71.08206, 42.334311]",Point,15xx,4,TSTOP ,274,D4,Last,No,SHAWMUT AV,Part Two,Knife,769170.322,BALL ST,2947128.473,2014
+203570,140198843.0,Wednesday,No,2014-04-02T17:08:00.000,WEAPONS CHARGE,"[-71.078452, 42.304244]",Point,15xx,4,ARREST,460,C11,First,No,MORSE ST,Part Two,Firearm,770199.8024,,2936176.0889999997,2014
+203757,140199073.0,Wednesday,No,2014-04-02T18:00:00.000,WEAPONS CHARGE,"[-71.056254, 42.330538]",Point,15xx,4,IVDRUG,200,C6,First,No,LEEDS ST,Part Two,Unarmed,776154.7111,,2945788.8,2014

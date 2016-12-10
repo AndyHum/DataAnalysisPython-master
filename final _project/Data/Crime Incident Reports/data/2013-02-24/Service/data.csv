@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80683,130113664.0,Sunday,No,2013-02-24T11:16:00.000,Service,"[-71.085637, 42.325786]",Point,Service,2,LOCK  ,294,B2,Day,No,AKRON ST,Part Three,Unarmed,768218.1006,,2944016.8219999997,2013
+85101,130114010.0,Sunday,No,2013-02-24T14:00:00.000,Service,"[-71.074385, 42.335516]",Point,Service,2,ARREST,171,D4,Day,No,HARRISON AV,Part Three,Unarmed,771243.2964,,2947577.858,2013
+140954,130113442.0,Sunday,No,2013-02-24T06:21:00.000,Service,"[-71.143395, 42.241076]",Point,Service,2,ARREST,529,E18,Last,No,ERNEST AV,Part Three,Unarmed,752728.587,,2913076.893,2013
+156801,130113565.0,Sunday,No,2013-02-24T09:48:00.000,Service,"[-71.03034, 42.381341]",Point,Service,2,ARREST,16,A7,Day,No,GLENDON ST,Part Three,Unarmed,783059.9809,E EAGLE ST,2964339.84,2013
+180521,130113641.0,Sunday,No,2013-02-24T10:00:00.000,Service,"[-71.074385, 42.335516]",Point,Service,2,AOD   ,169,D4,Day,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2013
+234291,130113240.0,Sunday,No,2013-02-24T02:02:00.000,Service,"[-71.072225, 42.272281]",Point,Service,2,IVPER ,408,B3,Last,No,TEMPLE ST,Part Three,Unarmed,771942.8747,,2924536.9760000003,2013

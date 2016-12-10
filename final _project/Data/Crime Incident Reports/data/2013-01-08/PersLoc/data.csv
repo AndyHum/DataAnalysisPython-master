@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5582,130017752.0,Tuesday,No,2013-01-08T06:05:00.000,PersLoc,"[-71.136411, 42.2727]",Point,PersLoc,1,MISPER,550,E5,Last,No,BLUE LEDGE DR,Part Three,Unarmed,754570.4698,,2924609.102,2013
+47108,130016231.0,Tuesday,No,2013-01-08T10:30:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISPER,446,B3,Day,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+94526,130016798.0,Tuesday,No,2013-01-08T22:15:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,1,MISPER,784,D14,First,No,WARREN ST,Part Three,Unarmed,752824.3316,,2952548.8430000003,2013
+182766,130016562.0,Tuesday,No,2013-01-08T07:00:00.000,PersLoc,"[-71.077385, 42.288851]",Point,PersLoc,1,MISPER,437,B3,Last,No,FERNDALE ST,Part Three,Unarmed,770516.43,,2930568.349,2013

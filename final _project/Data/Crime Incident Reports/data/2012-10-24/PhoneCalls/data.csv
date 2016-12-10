@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+168629,120671200.0,Wednesday,No,2012-10-24T18:22:00.000,PhoneCalls,"[-71.051215, 42.332156]",Point,PhoneCalls,10,HARPT ,915,C6,First,No,E 9TH ST,Part Three,Unarmed,777514.316,,2946385.527,2012
+171930,120670274.0,Wednesday,No,2012-10-24T13:00:00.000,PhoneCalls,"[-71.066435, 42.320161]",Point,PhoneCalls,10,INVEST,184,B2,Day,No,GROOM ST,Part Three,Unarmed,773421.2175,,2941993.061,2012
+175365,120730889.0,Wednesday,No,2012-10-24T20:00:00.000,PhoneCalls,"[-71.059107, 42.311854]",Point,PhoneCalls,10,IVPER ,255,C11,First,No,PLEASANT ST,Part Three,Other,775418.6164,,2938975.943,2012
+194737,120670939.0,Wednesday,No,2012-10-24T19:52:00.000,PhoneCalls,"[-71.11524, 42.305536]",Point,PhoneCalls,10,VIORDR,946,E13,First,No,METCALF CT,Part Three,Unarmed,760246.4079,,2936600.15,2012

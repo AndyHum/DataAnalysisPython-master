@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84295,130752450.0,Thursday,No,2013-11-28T00:30:00.000,MVAcc,"[-71.02752, 42.381321]",Point,MVAcc,11,MVA   ,17,A7,Last,No,E EAGLE ST,Other,Unarmed,783821.9241,,2964336.7610000004,2013
+155026,130752688.0,Thursday,No,2013-11-28T02:57:00.000,MVAcc,"[-71.073735, 42.290721]",Point,MVAcc,11,MVANO ,449,B3,Last,No,TALBOT AV,Other,Unarmed,771500.6187,,2931254.7189999996,2013
+160674,130752439.0,Thursday,No,2013-11-28T00:25:00.000,MVAcc,"[-71.07266, 42.350411]",Point,MVAcc,11,MVAINJ,129,D4,Last,No,BERKELEY ST,Other,Unarmed,771682.4978,ST JAMES AV,2953008.2,2013
+209025,130753268.0,Thursday,No,2013-11-28T18:00:00.000,MVAcc,"[-71.07412, 42.304891]",Point,MVAcc,11,MVAINJ,461,C11,First,No,GENEVA AV,Other,Unarmed,771370.6685,OLNEY ST,2936417.957,2013
+235409,130753279.0,Thursday,No,2013-11-28T18:15:00.000,MVAcc,"[-71.06248, 42.298081]",Point,MVAcc,11,MVANO ,358,C11,First,No,GENEVA AV,Other,Unarmed,774532.0806,PARK ST,2933952.228,2013

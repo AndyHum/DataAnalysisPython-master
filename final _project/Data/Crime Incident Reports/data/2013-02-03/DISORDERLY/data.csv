@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32667,130074168.0,Sunday,No,2013-02-03T04:30:00.000,DISORDERLY,"[-71.039965, 42.318876]",Point,24xx,2,DISTRB,256,C6,Last,No,BEACH POINT PL,Part Two,Unarmed,780582.2878,OCEAN VIEW DR,2941562.285,2013
+151633,130072046.0,Sunday,No,2013-02-03T00:50:00.000,DISORDERLY,"[-71.038746, 42.319281]",Point,24xx,2,MISC  ,256,C6,Last,No,OCEAN VIEW DR,Part Two,Unarmed,780911.1094,,2941711.705,2013
+197919,130076298.0,Sunday,No,2013-02-03T23:20:00.000,DISORDERLY,"[-71.04206, 42.317766]",Point,24xx,2,DISTRB,256,C6,First,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2013
+246408,130070266.0,Sunday,No,2013-02-03T02:22:00.000,DISORDERLY,"[-71.088135, 42.336141]",Point,24xx,2,SSTOP ,286,D4,Last,No,COLUMBUS AV,Part Two,Unarmed,767524.5426,MELNEA CASS BL,2947787.369,2013

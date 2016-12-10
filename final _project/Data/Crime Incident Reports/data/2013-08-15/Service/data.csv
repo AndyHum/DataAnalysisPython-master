@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9123,130512094.0,Thursday,No,2013-08-15T01:00:00.000,Service,"[-71.06942, 42.362401]",Point,Service,8,ARREST,64,A1,Last,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+28535,130513933.0,Thursday,No,2013-08-15T19:13:00.000,Service,"[-71.092706, 42.319572]",Point,Service,8,IVPER ,257,B2,First,No,TOWNSEND ST,Other,Unarmed,766317.3997,,2941743.244,2013
+53599,130512446.0,Thursday,No,2013-08-15T06:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,8,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+54652,130512510.0,Thursday,No,2013-08-15T09:13:00.000,Service,"[-71.140916, 42.349989]",Point,Service,8,IVPER ,783,D14,Day,No,CAMELOT CT,Part three,Unarmed,753232.5233,,2952769.203,2013
+61309,130512035.0,Thursday,No,2013-08-15T00:40:00.000,Service,"[-71.08696, 42.281611]",Point,Service,8,ARREST,428,B3,Last,No,MORTON ST,Part three,Unarmed,767938.4574,NORFOLK ST,2927917.2989999996,2013
+172103,130512579.0,Thursday,No,2013-08-15T10:00:00.000,Service,"[-71.05883, 42.318631]",Point,Service,8,ARREST,236,C11,Day,No,PLEASANT ST,Part three,Unarmed,775480.7977,POND ST,2941446.0489999996,2013
+248251,130512607.0,Thursday,No,2013-08-15T10:00:00.000,Service,"[-71.06835, 42.288671]",Point,Service,8,VICDOG,401,C11,Day,No,WELLES AV,Part three,Unarmed,772961.3973,OCEAN ST,2930514.997,2013
+260195,130513265.0,Thursday,No,2013-08-15T15:30:00.000,Service,"[0, 0]",Point,Service,8,ARREST,186,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2013

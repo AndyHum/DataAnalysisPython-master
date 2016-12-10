@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119802,152006209.0,Friday,No,2015-01-23T08:34:00.000,SearchWarr,"[-71.114275, 42.267891]",Point,SearchWarr,1,CD11,0,E18,Day,No,TACOMA ST,Part three,Unarmed,760569.4808,,2922882.9289999995,2015
+197136,152006261.0,Friday,No,2015-01-23T13:02:00.000,SearchWarr,"[-71.120906, 42.29036]",Point,SearchWarr,1,CD11,0,E5,Day,No,BRADEEN ST,Part three,Unarmed,758738.1691,,2931062.6210000003,2015
+259184,152006467.0,Friday,No,2015-01-23T18:00:00.000,SearchWarr,"[-71.14054, 42.360511]",Point,SearchWarr,1,INVEST,0,D14,First,No,DUVAL ST,Part three,Unarmed,753318.2411,LITCHFIELD ST,2956604.222,2015

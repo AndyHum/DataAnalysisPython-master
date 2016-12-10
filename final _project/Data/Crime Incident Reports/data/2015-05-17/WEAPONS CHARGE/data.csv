@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1387,152040302.0,Sunday,No,2015-05-17T02:42:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,5,PERGUN,0,A1,Last,No,WASHINGTON ST,Part Two,Firearm,,,,2015
+201263,152040467.0,Sunday,No,2015-05-17T17:05:00.000,WEAPONS CHARGE,"[-71.087645, 42.296111]",Point,15xx,5,ARREST,0,B3,First,No,BLUE HILL AV,Part Two,Unarmed,767727.5475,,2933200.413,2015

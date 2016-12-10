@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22472,130766703.0,Thursday,No,2013-12-05T09:00:00.000,DISORDERLY,"[-71.13512, 42.346536]",Point,24xx,12,DISTRB,793,D14,Day,No,BRAINERD RD,Part Two,Unarmed,754804.8827,,2951517.667,2013
+43537,130768025.0,Thursday,No,2013-12-05T19:33:00.000,DISORDERLY,"[-71.07082, 42.360476]",Point,24xx,12,DISTRB,66,A1,First,No,CHARLES ST,Part Two,Unarmed,772161.4146,,2956678.579,2013
+146429,130766760.0,Thursday,No,2013-12-05T00:15:00.000,DISORDERLY,"[-71.044649, 42.320568]",Point,24xx,12,MISC  ,256,C6,Last,No,PENINSULA PL,Part Two,Unarmed,779312.0542,,2942171.965,2013
+248253,130766887.0,Thursday,No,2013-12-05T11:03:00.000,DISORDERLY,"[-71.063675, 42.352301]",Point,24xx,12,ARREST,117,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2013

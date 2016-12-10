@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38782,120561158.0,Saturday,No,2012-09-08T00:13:00.000,Gather,"[-71.107616, 42.33222]",Point,Gather,9,PARTY ,605,B2,Last,No,STOCKWELL ST,Part Three,Other,762263.7923,,2946333.62,2012
+151600,120563416.0,Saturday,No,2012-09-08T00:17:00.000,Gather,"[-71.135297, 42.352075]",Point,Gather,9,PARTY ,795,D14,Last,No,ALLSTON ST,Part Three,Other,754748.3936,,2953535.876,2012
+160813,120561155.0,Saturday,No,2012-09-08T01:15:00.000,Gather,"[-71.157755, 42.340665]",Point,Gather,9,DISTRB,773,D14,Last,No,RADNOR RD,Part Three,Unarmed,748694.4779,,2949352.6139999996,2012

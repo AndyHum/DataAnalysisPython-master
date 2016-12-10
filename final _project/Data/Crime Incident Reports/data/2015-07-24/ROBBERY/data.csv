@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35306,,Friday,No,2015-07-24T21:39:00.000,Robbery,"[0, 0]",Point,03xx,7,ARMROB,325,B2,,No,BALFOUR ST,Part One,Firearm,,WAYLAND ST,,2015
+81939,,Friday,No,2015-07-24T00:00:00.000,Robbery,"[-71.114263, 42.267883]",Point,03xx,7,ARMROB,492,E18,,No,TACOMA ST,Part One,Knife/Cutting Instrument,760573.0,,2920000.0,2015
+170262,,Friday,No,2015-07-24T21:25:00.000,Robbery,"[0, 0]",Point,03xx,7,ARMROB,566,B2,,No,ELM HILL AVE,Part One,Firearm,,SEAVER ST,,2015
+210159,,Friday,No,2015-07-24T01:31:00.000,Robbery,"[0, 0]",Point,03xx,7,MVA,350,C11,,No,ADAMS ST,Part One,Personal Weapon (hand  foot  etc.),, DORCHESTER AVE ,,2015
+223840,,Friday,No,2015-07-24T00:00:00.000,Robbery,"[-71.155273, 42.349111]",Point,03xx,7,I00040,771,D14,,No,WASHINGTON ST,Part One,Other,749353.0,,2950000.0,2015

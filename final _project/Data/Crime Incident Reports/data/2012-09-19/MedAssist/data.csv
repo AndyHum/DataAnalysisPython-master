@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9186,120587811.0,Wednesday,No,2012-09-19T09:05:00.000,MedAssist,"[-71.02821, 42.380441]",Point,MedAssist,9,IVPER ,17,A7,Day,No,PRINCETON ST,Part Three,Unarmed,783637.2745,,2964015.038,2012
+23889,120589148.0,Wednesday,No,2012-09-19T18:43:00.000,MedAssist,"[-71.008874, 42.39214]",Point,MedAssist,9,UNK   ,942,A7,First,No,FAYWOOD AV,Part Three,Unarmed,788836.8524,,2968307.764,2012
+45985,120589001.0,Wednesday,No,2012-09-19T17:47:00.000,MedAssist,"[-71.089151, 42.311211]",Point,MedAssist,9,REQP  ,318,B2,First,No,HOMESTEAD ST,Part Three,Unarmed,767293.447,,2938701.003,2012
+56598,120587696.0,Wednesday,No,2012-09-19T08:04:00.000,MedAssist,"[-71.071354, 42.342918]",Point,MedAssist,9,SDNDTH,159,D4,Day,No,UNION PARK,Part Three,Unarmed,772049.0812,,2950279.2260000003,2012
+57095,120589551.0,Wednesday,No,2012-09-19T22:55:00.000,MedAssist,"[-71.00102, 42.390083]",Point,MedAssist,9,IVPER ,8,A7,First,No,ORIENT AV,Part Three,Unarmed,790962.9403,,2967570.528,2012
+87906,120588706.0,Wednesday,No,2012-09-19T13:00:00.000,MedAssist,"[-71.0663, 42.315891]",Point,MedAssist,9,INJOFF,332,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,773465.6386,HANCOCK ST,2940437.188,2012
+97525,120588749.0,Wednesday,No,2012-09-19T15:55:00.000,MedAssist,"[0, 0]",Point,MedAssist,9,FIGHT ,75,A1,Day,No,ANTHONY RIP VALENTI WAY,Part Three,Unarmed,,N WASHINGTON ST,,2012
+189525,120588724.0,Wednesday,No,2012-09-19T15:40:00.000,MedAssist,"[-71.125325, 42.352176]",Point,MedAssist,9,MVPED1,798,D14,Day,No,BRIGHTON AV,Part Three,Unarmed,757443.7219,,2953584.474,2012
+192179,120589610.0,Wednesday,No,2012-09-19T23:53:00.000,MedAssist,"[-71.09879, 42.317201]",Point,MedAssist,9,EDP2  ,303,E13,Last,No,W WALNUT PARK,Part Three,Knife,764676.1927,,2940871.5689999997,2012
+208379,120588354.0,Wednesday,No,2012-09-19T13:11:00.000,MedAssist,"[-71.06293, 42.351166]",Point,MedAssist,9,UNK   ,117,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774311.2131,,2953296.665,2012
+257983,120588005.0,Wednesday,No,2012-09-19T10:51:00.000,MedAssist,"[-71.071809, 42.358087]",Point,MedAssist,9,EDP2  ,69,A1,Day,No,BRIMMER ST,Part Three,Other,771898.4968,,2955806.628,2012

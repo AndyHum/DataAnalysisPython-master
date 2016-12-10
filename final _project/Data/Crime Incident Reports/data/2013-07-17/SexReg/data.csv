@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64849,130447481.0,Wednesday,No,2013-07-17T08:00:00.000,SexReg,"[-71.05566, 42.330276]",Point,SexReg,7,IVPER ,193,C6,Day,No,DORCHESTER ST,Part Two,Unarmed,776316.0067,,2945694.131,2013
+66882,130442849.0,Wednesday,No,2013-07-17T12:00:00.000,SexReg,"[-71.0729, 42.333256]",Point,SexReg,7,IVPER ,172,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2013
+203975,140084942.0,Wednesday,No,2013-07-17T16:00:00.000,SexReg,"[-71.085978, 42.296806]",Point,SexReg,7,IVPER ,444,B3,First,No,ABBOT ST,Part Two,Unarmed,768177.1099,,2933455.566,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15633,130411636.0,Thursday,No,2013-07-04T21:39:00.000,MVAcc,"[-71.054095, 42.301466]",Point,MVAcc,7,MVPED1,253,C11,First,No,PARK ST,Other,Other,776794.0615,,2935197.519,2013
+214383,130411710.0,Thursday,No,2013-07-04T22:08:00.000,MVAcc,"[-71.081499, 42.270589]",Point,MVAcc,7,MVADD ,406,B3,First,No,MEADOWBANK AV,Other,Unarmed,769435.6897,,2923907.9310000003,2013
+227691,130411011.0,Thursday,No,2013-07-04T18:08:00.000,MVAcc,"[-71.07609, 42.307541]",Point,MVAcc,7,MVAINJ,329,B2,First,No,COLUMBIA RD,Other,Unarmed,770832.9737,DEVON ST,2937381.0039999997,2013
+243643,130410341.0,Thursday,No,2013-07-04T12:39:00.000,MVAcc,"[-71.116911, 42.250713]",Point,MVAcc,7,MVPED1,516,E18,Day,No,HIGHLAND ST,Other,Other,759883.9759,,2916619.8030000003,2013
+264511,130410855.0,Thursday,No,2013-07-04T17:07:00.000,MVAcc,"[0, 0]",Point,MVAcc,7,TRAUMA,566,B2,First,No,JEWISH WAR VETERANS,Other,Unarmed,,,,2013

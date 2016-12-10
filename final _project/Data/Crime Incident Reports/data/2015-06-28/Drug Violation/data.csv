@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42777,,Sunday,No,2015-06-28T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,6,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015
+42778,,Sunday,No,2015-06-28T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,6,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015
+78860,,Sunday,No,2015-06-28T14:50:00.000,Drug Violation,"[0, 0]",Point,18xx,6,UNCONS,135,D4,,No,BACK ST,Part Two,None,,EXETER ST,,2015
+113230,,Sunday,No,2015-06-28T03:42:00.000,Drug Violation,"[0, 0]",Point,18xx,6,UNKEMS,776,D14,,No,WALLINGFORD RD,Part Two,None,,,,2015
+125773,,Sunday,No,2015-06-28T18:30:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPER,397,C11,,No,MELBOURNE ST,Part Two,None,,,,2015
+145310,,Sunday,No,2015-06-28T03:46:00.000,Drug Violation,"[0, 0]",Point,18xx,6,DISTRB,414,B3,,No,PLEASANT HILL AVE,Part Two,None,,,,2015
+146527,,Sunday,No,2015-06-28T00:00:00.000,Drug Violation,"[-71.138601, 42.349007]",Point,18xx,6,ARREST,795,D14,,No,COMMONWEALTH AVE,Part Two,None,753860.0,,2950000.0,2015
+215167,,Sunday,No,2015-06-28T00:00:00.000,Drug Violation,"[-71.072156, 42.337651]",Point,18xx,6,ALARM,168,D4,,No,E NEWTON ST,Part Two,None,771842.0,,2950000.0,2015

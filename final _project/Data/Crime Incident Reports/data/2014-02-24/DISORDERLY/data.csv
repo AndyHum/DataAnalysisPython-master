@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96967,140116429.0,Monday,No,2014-02-24T20:00:00.000,DISORDERLY,"[-71.097081, 42.319472]",Point,24xx,2,FIGHT ,304,B2,First,No,DIMOCK ST,Part Two,Unarmed,765134.3663,,2941701.057,2014
+118755,140115975.0,Monday,No,2014-02-24T17:08:00.000,DISORDERLY,"[-71.086716, 42.281419]",Point,24xx,2,ARREST,428,B3,First,No,MORTON ST,Part Two,Unarmed,768004.7667,,2927847.627,2014
+129348,140116462.0,Monday,No,2014-02-24T21:00:00.000,DISORDERLY,"[-71.083781, 42.329494]",Point,24xx,2,ARREST,280,B2,First,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2014
+150218,140116048.0,Monday,No,2014-02-24T17:45:00.000,DISORDERLY,"[-71.083646, 42.332502]",Point,24xx,2,ARREST,276,B2,First,No,SHAWMUT AV,Part Two,Unarmed,768744.4995,WILLIAMS ST,2946467.083,2014

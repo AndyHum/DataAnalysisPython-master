@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102622,120503645.0,Monday,No,2012-08-13T20:05:00.000,SearchWarr,"[-71.0327, 42.377236]",Point,SearchWarr,8,INVEST,20,A7,First,No,BENNINGTON ST,Part Three,Other,782430.5548,,2962840.394,2012
+104255,120510498.0,Monday,No,2012-08-13T17:16:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,8,CD11  ,72,A1,First,No,BULFINCH PL,Part Three,Unarmed,774549.1083,,2957241.005,2012
+137296,120503504.0,Monday,No,2012-08-13T20:05:00.000,SearchWarr,"[-71.0327, 42.377236]",Point,SearchWarr,8,CD11  ,20,A7,First,No,BENNINGTON ST,Part Three,Other,782430.5548,,2962840.394,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+158222,130524673.0,Friday,No,2013-08-09T12:00:00.000,PersMiss,"[-71.13095, 42.249381]",Point,PersMiss,8,MISPER,533,E18,Day,No,RIVER ST,Other,Unarmed,756085.3388,,2916117.671,2013
+160763,130501289.0,Friday,No,2013-08-09T06:45:00.000,PersMiss,"[-71.14539, 42.352676]",Point,PersMiss,8,MISPER,782,D14,Last,No,DUSTIN ST,Other,Unarmed,752019.3066,,2953743.499,2013
+198253,130498975.0,Friday,No,2013-08-09T16:59:00.000,PersMiss,"[-71.078225, 42.325198]",Point,PersMiss,8,MISPER,281,B2,First,No,FAIRLAND ST,Other,Unarmed,770223.47,,2943812.633,2013

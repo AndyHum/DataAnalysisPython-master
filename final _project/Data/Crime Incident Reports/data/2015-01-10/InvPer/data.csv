@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17299,152002539.0,Saturday,No,2015-01-10T00:00:00.000,InvPer,"[-71.09973, 42.269758]",Point,InvPer,1,DISTRB,0,E18,Last,No,BISMARCK ST,Part three,Unarmed,764503.0772,,2923581.22,2015
+42011,152002712.0,Saturday,No,2015-01-10T21:59:00.000,InvPer,"[-71.082405, 42.335031]",Point,InvPer,1,IVPER,0,D4,First,No,HAMMOND ST,Part three,Unarmed,769075.7574,,2947390.398,2015
+79386,152003114.0,Saturday,No,2015-01-10T00:30:00.000,InvPer,"[-71.07676, 42.302772]",Point,InvPer,1,IVPER,0,C11,Last,No,BOWDOIN AV,Part three,Unarmed,770660.3057,,2935642.018,2015
+84236,152005894.0,Saturday,No,2015-01-10T12:30:00.000,InvPer,"[-71.05991, 42.301131]",Point,InvPer,1,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775221.6194,,2935067.269,2015
+156137,152002589.0,Saturday,No,2015-01-10T09:08:00.000,InvPer,"[-71.07538, 42.333949]",Point,InvPer,1,IVPER,0,D4,Day,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2015
+175335,152002648.0,Saturday,No,2015-01-10T15:23:00.000,InvPer,"[-71.089124, 42.283313]",Point,InvPer,1,LANTEN,0,B3,Day,No,MORTON ST,Part three,Unarmed,767349.8104,,2928534.724,2015
+211619,152002511.0,Saturday,No,2015-01-10T01:45:00.000,InvPer,"[-71.10985, 42.264676]",Point,InvPer,1,PERGUN,0,E18,Last,No,WOOD AV,Part three,Unarmed,761772.5295,,2921716.787,2015
+234609,152002793.0,Saturday,No,2015-01-10T22:00:00.000,InvPer,"[-71.076338, 42.306233]",Point,InvPer,1,DISTRB,0,C11,First,No,VAUGHAN AV,Part three,Unarmed,770768.2376,,2936903.829,2015
+261597,152002643.0,Saturday,No,2015-01-10T14:19:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPER,0,E13,Day,No,MINDEN ST,Part three,Unarmed,,,,2015
+261742,152002817.0,Saturday,No,2015-01-10T12:00:00.000,InvPer,"[0, 0]",Point,InvPer,1,LARCEN,0,C11,Day,No,WASHINGTON ST,Part three,Other,,,,2015

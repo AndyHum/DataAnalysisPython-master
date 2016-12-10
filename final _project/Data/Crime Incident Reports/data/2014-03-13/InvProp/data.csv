@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24301,140153704.0,Thursday,No,2014-03-13T10:38:00.000,InvProp,"[-71.036033, 42.372261]",Point,InvProp,3,REQP  ,29,A7,Day,No,CHELSEA ST,Part three,Other,781539.6777,,2961022.195,2014
+47016,140154703.0,Thursday,No,2014-03-13T18:30:00.000,InvProp,"[-71.04522, 42.335636]",Point,InvProp,3,CD35  ,213,C6,First,No,DORCHESTER ST,Part three,Unarmed,779128.5335,,2947662.284,2014
+50425,140153143.0,Thursday,No,2014-03-13T02:04:00.000,InvProp,"[-71.07776, 42.318941]",Point,InvProp,3,ALARMC,264,B2,Last,No,BLUE HILL AV,Part three,Unarmed,770360.6823,,2941533.107,2014
+67956,140157063.0,Thursday,No,2014-03-13T08:30:00.000,InvProp,"[-71.07072, 42.359106]",Point,InvProp,3,INVEST,66,A1,Day,No,CHARLES ST,Part three,Unarmed,772190.9539,,2956179.46,2014
+239939,140154657.0,Thursday,No,2014-03-13T18:20:00.000,InvProp,"[-71.04653, 42.335066]",Point,InvProp,3,CD35  ,220,C6,First,No,DORCHESTER ST,Part three,Unarmed,778775.4483,,2947452.68,2014
+242923,140155020.0,Thursday,No,2014-03-13T21:19:00.000,InvProp,"[-71.03996, 42.377891]",Point,InvProp,3,SHOTS ,27,A7,First,No,BORDER ST,Part three,Unarmed,780467.6477,,2963068.4239999996,2014
+242925,140153852.0,Thursday,No,2014-03-13T12:13:00.000,InvProp,"[-71.040415, 42.37168]",Point,InvProp,3,FIREB ,26,A7,Day,No,LONDON ST,Part three,Unarmed,780356.8579,,2960804.075,2014

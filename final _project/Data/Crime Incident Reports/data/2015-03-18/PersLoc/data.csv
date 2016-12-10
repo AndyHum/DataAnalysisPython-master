@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+587,152021889.0,Wednesday,No,2015-03-18T16:16:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,IVPER,0,B2,First,No,VINING ST,Other,Unarmed,,,,2015
+130077,152021985.0,Wednesday,No,2015-03-18T22:44:00.000,PersLoc,"[-71.075835, 42.289281]",Point,PersLoc,3,IVPER,0,B3,First,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2015
+135177,152021974.0,Wednesday,No,2015-03-18T13:30:00.000,PersLoc,"[-71.078657, 42.301454]",Point,PersLoc,3,IVPER,0,B3,Day,No,NORWELL ST,Other,Unarmed,770149.4675,,2935159.311,2015
+166745,152021864.0,Wednesday,No,2015-03-18T15:09:00.000,PersLoc,"[-71.075785, 42.297]",Point,PersLoc,3,MISSIN,0,B3,Day,No,SCHOOL ST,Other,Unarmed,770934.5115,,2933539.867,2015

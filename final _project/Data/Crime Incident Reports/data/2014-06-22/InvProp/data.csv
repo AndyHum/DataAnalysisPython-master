@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8892,142001656.0,Sunday,No,2014-06-22T02:10:00.000,InvProp,"[-71.083303, 42.302514]",Point,InvProp,6,IVPREM,0,B3,Last,No,MICHIGAN AV,Part three,Unarmed,768890.6104,,2935539.2180000003,2014
+26000,142002149.0,Sunday,No,2014-06-22T23:00:00.000,InvProp,"[-71.164783, 42.264684]",Point,InvProp,6,IVPER,0,E5,First,No,VOGEL ST,Part three,Unarmed,746903.2256,STIMSON ST,2921656.335,2014
+123348,142001889.0,Sunday,No,2014-06-22T20:00:00.000,InvProp,"[-71.08118, 42.342071]",Point,InvProp,6,ALARM,0,D4,First,No,CLAREMONT PARK,Part three,Unarmed,769394.3719,,2949957.526,2014
+127430,142001929.0,Sunday,No,2014-06-22T23:57:00.000,InvProp,"[-71.06729, 42.348971]",Point,InvProp,6,SHOTS,0,A1,Last,No,FAYETTE ST,Part three,Other,773136.7296,,2952490.7569999998,2014
+145629,142001922.0,Sunday,No,2014-06-22T23:25:00.000,InvProp,"[-71.09531, 42.314921]",Point,InvProp,6,SHOTS,0,E13,First,No,WALNUT PARK,Part three,Unarmed,765621.3119,WARDMAN RD,2940045.144,2014
+191225,142001963.0,Sunday,No,2014-06-22T11:00:00.000,InvProp,"[-71.05724, 42.360116]",Point,InvProp,6,BOMB,0,A1,Day,No,CITY HALL SQ,Part three,Unarmed,775832.3331,,2956566.147,2014
+248965,142001823.0,Sunday,No,2014-06-22T16:45:00.000,InvProp,"[-71.07882, 42.340091]",Point,InvProp,6,VAND,0,D4,First,No,TREMONT ST,Part three,Other,770035.9522,WORCESTER ST,2949239.119,2014
+264573,142001740.0,Sunday,No,2014-06-22T05:30:00.000,InvProp,"[0, 0]",Point,InvProp,6,IVPREM,0,A1,Last,No,BEACON ST,Part three,Unarmed,,,,2014

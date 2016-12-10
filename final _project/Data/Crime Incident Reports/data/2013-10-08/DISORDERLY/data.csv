@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69286,130643406.0,Tuesday,No,2013-10-08T21:15:00.000,DISORDERLY,"[-71.06204, 42.286441]",Point,24xx,10,SUSPER,393,C11,First,No,ASHMONT ST,Part Two,Unarmed,774672.8953,CARRUTH ST,2929711.057,2013
+111569,130644569.0,Tuesday,No,2013-10-08T21:30:00.000,DISORDERLY,"[-71.063106, 42.355355]",Point,24xx,10,PDRPT ,72,A1,First,No,TREMONT ST,Part Two,Other,774255.6857,,2954822.79,2013
+223299,130642850.0,Tuesday,No,2013-10-08T17:06:00.000,DISORDERLY,"[-71.071643, 42.290556]",Point,24xx,10,FIGHT ,399,C11,First,No,WASHINGTON ST,Part Two,Unarmed,772066.839,,2931197.369,2013

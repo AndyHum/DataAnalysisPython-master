@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1368,142048519.0,Thursday,No,2014-11-13T10:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,11,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+143919,142048552.0,Thursday,No,2014-11-13T09:30:00.000,PropFound,"[-71.110111, 42.304699]",Point,PropFound,11,FDWEAP,0,E13,Day,No,BURNETT ST,Part three,Unarmed,761635.0187,,2936301.3039999995,2014
+249047,142048527.0,Thursday,No,2014-11-13T10:44:00.000,PropFound,"[-71.08489, 42.348946]",Point,PropFound,11,IVPREM,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,768379.1902,,2952458.002,2014

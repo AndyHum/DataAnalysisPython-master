@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10460,130705104.0,Tuesday,No,2013-11-05T05:10:00.000,Gather,"[-71.052242, 42.354304]",Point,Gather,11,PROTES,114,A1,Last,No,ATLANTIC AV,Part three,Unarmed,777194.1083,,2954455.002,2013
+137766,130705579.0,Tuesday,No,2013-11-05T20:46:00.000,Gather,"[-71.088738, 42.346309]",Point,Gather,11,DISTRB,620,D4,First,No,HAVILAND ST,Part three,Unarmed,767343.5085,,2951492.037,2013
+260460,130704378.0,Tuesday,No,2013-11-05T11:47:00.000,Gather,"[0, 0]",Point,Gather,11,PROTES,0,A1,Day,No,BEACON ST,Part three,Unarmed,,,,2013

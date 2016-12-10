@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10029,,Tuesday,No,2015-07-07T14:42:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,61,A1,,No,LEGENDS WAY,Part Two,None,,,,2015
+16537,,Tuesday,No,2015-07-07T00:00:00.000,Simple Assault,"[-71.077384, 42.288865]",Point,08xx,7,ARREST,437,B3,,No,FERNDALE ST,Part Two,None,770516.0,,2930000.0,2015
+72624,,Tuesday,No,2015-07-07T00:00:00.000,Simple Assault,"[-71.102374, 42.263617]",Point,08xx,7,AB,951,E18,,No,RIVER ST,Part Two,None,763798.0,,2920000.0,2015
+79710,,Tuesday,No,2015-07-07T00:00:00.000,Simple Assault,"[-71.055754, 42.335811]",Point,08xx,7,AB,196,C6,,No,OLD COLONY AVE,Part Two,Other,776280.0,,2950000.0,2015
+111624,,Tuesday,No,2015-07-07T00:00:00.000,Simple Assault,"[-71.104294, 42.309719]",Point,08xx,7,AB,574,E13,,No,WASHINGTON ST,Part Two,None,763200.0,,2940000.0,2015
+118315,,Tuesday,No,2015-07-07T00:00:00.000,Simple Assault,"[-71.061521, 42.295572]",Point,08xx,7,FIGHT,361,C11,,No,DORCHESTER AVE,Part Two,Personal Weapon (hand  foot  etc.),774796.0,,2930000.0,2015
+124751,,Tuesday,No,2015-07-07T00:00:00.000,Simple Assault,"[-71.059709, 42.297555]",Point,08xx,7,DVIP,355,C11,,No,GIBSON ST,Part Two,Personal Weapon (hand  foot  etc.),775283.0,,2930000.0,2015
+141595,,Tuesday,No,2015-07-07T00:00:00.000,Simple Assault,"[-71.087158, 42.283787]",Point,08xx,7,UNK,429,B3,,No,WILDWOOD ST,Part Two,None,767881.0,,2930000.0,2015
+179604,,Tuesday,No,2015-07-07T19:51:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,311,B2,,No,MAYWOOD ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+250787,,Tuesday,No,2015-07-07T00:00:00.000,Simple Assault,"[-71.062888, 42.290835]",Point,08xx,7,IVPER,365,C11,,No,DORCHESTER AVE,Part Two,None,774435.0,,2930000.0,2015

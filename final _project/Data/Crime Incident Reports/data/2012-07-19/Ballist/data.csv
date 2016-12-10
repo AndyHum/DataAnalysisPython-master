@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59814,120444778.0,Thursday,No,2012-07-19T11:25:00.000,Ballist,"[-71.100769, 42.325321]",Point,Ballist,7,SHOTS ,912,E13,Day,No,PARKER ST,Part Two,Firearm,764127.0458,,2943828.1319999998,2012
+214753,120443937.0,Thursday,No,2012-07-19T00:41:00.000,Ballist,"[-71.094595, 42.333351]",Point,Ballist,7,SHOTS ,588,B2,Last,No,HALLECK ST,Part Two,Firearm,765782.7695,,2946762.2739999997,2012
+258595,120458774.0,Thursday,No,2012-07-19T21:50:00.000,Ballist,"[-71.0726, 42.341736]",Point,Ballist,7,VANRPT,962,D4,First,No,W DEDHAM ST,Part Two,Other,771714.5582,,2949846.952,2012

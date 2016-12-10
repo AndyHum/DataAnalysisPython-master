@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+215,152011406.0,Thursday,No,2015-02-12T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+131433,152011603.0,Thursday,No,2015-02-12T20:30:00.000,InvProp,"[-71.06761, 42.304043]",Point,InvProp,2,IVPREM,0,C11,First,No,SPEEDWELL ST,Part three,Unarmed,773133.0281,,2936117.6139999996,2015
+198346,152011615.0,Thursday,No,2015-02-12T18:34:00.000,InvProp,"[-71.07483, 42.310751]",Point,InvProp,2,ASLTIP,0,B2,First,No,LAWRENCE AV,Part three,Unarmed,771167.9655,,2938552.475,2015
+205343,152011387.0,Thursday,No,2015-02-12T03:12:00.000,InvProp,"[-71.078394, 42.32898]",Point,InvProp,2,BE,0,B2,Last,No,EUSTIS ST,Part three,Unarmed,770171.0377,,2945190.659,2015
+209926,152011580.0,Thursday,No,2015-02-12T19:00:00.000,InvProp,"[-71.08041, 42.298256]",Point,InvProp,2,LARCEN,0,B3,First,No,ROXTON ST,Part three,Unarmed,769681.0823,,2933991.6289999997,2015

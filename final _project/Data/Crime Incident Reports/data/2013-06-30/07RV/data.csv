@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38032,130401267.0,Sunday,No,2013-06-30T19:50:00.000,07RV,"[-71.059315, 42.279231]",Point,07RV,6,RECMV ,389,C11,First,No,ADAMS ST,Other,Unarmed,775423.811,,2927087.434,2013
+71829,130400861.0,Sunday,No,2013-06-30T16:28:00.000,07RV,"[-71.133146, 42.236513]",Point,07RV,6,RECMV ,0,E18,First,No,PRESCOTT ST,Other,Unarmed,755510.7471,,2911425.764,2013
+176340,130481702.0,Sunday,No,2013-06-30T00:01:00.000,07RV,"[-71.062288, 42.330544]",Point,07RV,6,STOLMV,172,C6,Last,No,SOUTHAMPTON ST,Other,Other,774523.0893,,2945782.537,2013

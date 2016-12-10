@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27046,140016631.0,Tuesday,No,2013-11-12T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,11,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013
+86094,130718961.0,Tuesday,No,2013-11-12T10:09:00.000,PropFound,"[-71.05286, 42.284151]",Point,PropFound,11,IVPREM,379,C11,Day,No,BRANTON ST,Part three,Unarmed,777161.2318,MINOT ST,2928889.438,2013
+114359,130719053.0,Tuesday,No,2013-11-12T11:38:00.000,PropFound,"[-71.08087, 42.328491]",Point,PropFound,11,IVPREM,281,B2,Day,No,DUDLEY ST,Part three,Unarmed,769502.4961,GREENVILLE ST,2945009.1410000003,2013

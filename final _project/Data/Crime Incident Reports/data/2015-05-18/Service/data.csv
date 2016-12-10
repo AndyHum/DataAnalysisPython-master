@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1437,152040670.0,Monday,No,2015-05-18T10:50:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,C11,Day,No,GENEVA AV,Part three,Unarmed,,,,2015
+66567,152040710.0,Monday,No,2015-05-18T12:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,5,SS,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+181692,152040865.0,Monday,No,2015-05-18T20:00:00.000,Service,"[-71.067955, 42.366911]",Point,Service,5,IVPER,0,A1,First,No,NASHUA ST,Part three,Unarmed,772923.854,,2959027.53,2015
+188063,152040713.0,Monday,No,2015-05-18T12:56:00.000,Service,"[-71.071525, 42.271891]",Point,Service,5,CD11,0,B3,Day,No,RIVER ST,Part three,Unarmed,772133.04,,2924395.805,2015

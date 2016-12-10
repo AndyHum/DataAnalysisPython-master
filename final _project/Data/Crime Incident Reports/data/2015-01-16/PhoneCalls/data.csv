@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23191,152004372.0,Friday,No,2015-01-16T10:23:00.000,PhoneCalls,"[-71.07203, 42.339206]",Point,PhoneCalls,1,IVPER,0,D4,Day,No,E BROOKLINE ST,Part three,Unarmed,771873.282,,2948925.7460000003,2015
+118444,152004161.0,Friday,No,2015-01-16T11:45:00.000,PhoneCalls,"[-71.159575, 42.278621]",Point,PhoneCalls,1,IVPER,0,E5,Day,No,CENTRE ST,Part three,Other,748292.7734,,2926740.9080000003,2015
+128725,152004388.0,Friday,No,2015-01-16T00:20:00.000,PhoneCalls,"[-71.016035, 42.384176]",Point,PhoneCalls,1,IVPER,0,A7,Last,No,SARATOGA ST,Part three,Other,786919.0157,,2965394.577,2015
+132322,152004347.0,Friday,No,2015-01-16T19:41:00.000,PhoneCalls,"[-71.130565, 42.359127]",Point,PhoneCalls,1,IVPER,0,D14,First,No,COOLIDGE RD,Part three,Unarmed,756016.2048,,2956111.232,2015

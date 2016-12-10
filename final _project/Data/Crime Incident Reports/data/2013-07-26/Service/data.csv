@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93362,130465448.0,Friday,No,2013-07-26T18:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,7,MISC  ,257,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2013
+184708,130464439.0,Friday,No,2013-07-26T10:53:00.000,Service,"[-71.07161, 42.290211]",Point,Service,7,ARREST,398,C11,Day,No,TALBOT AV,Part three,Unarmed,772076.5056,WASHINGTON ST,2931071.748,2013
+192406,130465814.0,Friday,No,2013-07-26T21:43:00.000,Service,"[-71.121909, 42.320483]",Point,Service,7,BURN1 ,633,E13,First,No,PERKINS ST,Part three,Other,758418.175,,2942038.8189999997,2013
+253597,130464837.0,Friday,No,2013-07-26T14:30:00.000,Service,"[-71.0824, 42.333916]",Point,Service,7,STOLMV,277,B2,Day,No,SHAWMUT AV,Part three,Unarmed,769079.0973,MALCOLM X BL,2946984.078,2013

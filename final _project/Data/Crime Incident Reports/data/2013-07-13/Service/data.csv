@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21941,130432843.0,Saturday,No,2013-07-13T14:00:00.000,Service,"[-71.06219, 42.356241]",Point,Service,7,ARREST,102,A1,Day,No,WINTER ST,Part three,Unarmed,774501.7472,TREMONT ST,2955147.117,2013
+65591,130432647.0,Saturday,No,2013-07-13T12:30:00.000,Service,"[-71.05659, 42.328551]",Point,Service,7,ARREST,192,C6,Day,No,DEVINE WY,Part three,Unarmed,776067.8057,,2945064.203,2013
+101899,130432772.0,Saturday,No,2013-07-13T13:33:00.000,Service,"[-71.06266, 42.294671]",Point,Service,7,IVMV  ,361,C11,Day,No,MATHER ST,Part three,Unarmed,774489.7562,SILLOWAY ST,2932709.325,2013
+122029,130432321.0,Saturday,No,2013-07-13T08:49:00.000,Service,"[-71.121407, 42.283265]",Point,Service,7,ARREST,0,E5,Day,No,BROWN AV,Part three,Unarmed,758614.1943,,2928476.515,2013
+176542,130432960.0,Saturday,No,2013-07-13T15:00:00.000,Service,"[-71.106206, 42.324661]",Point,Service,7,IVPER ,583,E13,Day,No,ROUND HILL ST,Part three,Unarmed,762657.7784,,2943580.5110000004,2013
+181807,130442984.0,Saturday,No,2013-07-13T12:00:00.000,Service,"[-71.031545, 42.332361]",Point,Service,7,LARCRT,200,C6,Day,No,E 7TH ST,Part three,Other,782832.4471,,2946488.829,2013
+209097,130431835.0,Saturday,No,2013-07-13T01:45:00.000,Service,"[-71.107773, 42.331385]",Point,Service,7,PARTY ,605,B2,Last,No,ELDORA ST,Part three,Unarmed,762222.7731,,2946029.1580000003,2013
+231281,130431664.0,Saturday,No,2013-07-13T00:18:00.000,Service,"[-71.100988, 42.332045]",Point,Service,7,PARTY ,586,B2,Last,No,PONTIAC ST,Part three,Unarmed,764056.3176,,2946278.0439999998,2013
+266390,130431945.0,Saturday,No,2013-07-13T02:00:00.000,Service,"[0, 0]",Point,Service,7,TRANSP,915,C6,Last,No,JAMES ONEILL ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+958,152038154.0,Sunday,No,2015-05-10T01:47:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,B3,Last,No,TALBOT AV,Part three,Unarmed,,,,2015
+1048,152038661.0,Sunday,No,2015-05-10T09:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,E18,Day,No,RIVER ST,Part three,Unarmed,,,,2015
+1459,152040693.0,Sunday,No,2015-05-10T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,E18,First,No,WILLIAMS ST,Part three,Unarmed,,,,2015
+41096,152038301.0,Sunday,No,2015-05-10T11:00:00.000,PropLost,"[-71.10214, 42.334221]",Point,PropLost,5,PROP,0,B2,Day,No,WORTHINGTON ST,Part three,Unarmed,763741.2418,,2947069.712,2015
+77814,152038744.0,Sunday,No,2015-05-10T12:00:00.000,PropLost,"[-71.057518, 42.28534]",Point,PropLost,5,PROP,0,C11,Day,No,BEAUMONT ST,Part three,Unarmed,775898.5249,,2929316.027,2015
+103947,152038319.0,Sunday,No,2015-05-10T14:00:00.000,PropLost,"[-71.069221, 42.30886]",Point,PropLost,5,PROP,0,C11,Day,No,BELLEVUE ST,Part three,Unarmed,772688.4477,,2937870.6760000004,2015
+123627,152038564.0,Sunday,No,2015-05-10T23:00:00.000,PropLost,"[-71.054375, 42.327796]",Point,PropLost,5,PROP,0,C6,First,No,LOGAN WY,Part three,Unarmed,776668.1887,,2944792.189,2015
+176418,152038356.0,Sunday,No,2015-05-10T19:30:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,5,PROP,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+188644,152039202.0,Sunday,No,2015-05-10T22:40:00.000,PropLost,"[-71.08209, 42.336671]",Point,PropLost,5,PROP,0,D4,First,No,LATTIMORE CT,Part three,Unarmed,769157.9964,,2947988.46,2015
+233300,152040819.0,Sunday,No,2015-05-10T16:00:00.000,PropLost,"[-71.027715, 42.336631]",Point,PropLost,5,IVPER,0,C6,First,No,E 3RD ST,Part three,Unarmed,783859.4145,,2948050.6,2015

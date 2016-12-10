@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9267,130186457.0,Saturday,No,2013-03-30T11:15:00.000,DISORDERLY,"[-71.120811, 42.242465]",Point,24xx,3,HARPT ,940,E18,Day,No,GARFIELD AV,Part Two,Unarmed,758841.5183,,2913609.127,2013
+65846,130187183.0,Saturday,No,2013-03-30T17:28:00.000,DISORDERLY,"[-71.08784, 42.315206]",Point,24xx,3,IVPER ,312,B2,First,No,HUMBOLDT AV,Part Two,Unarmed,767641.1664,,2940158.6769999997,2013
+124689,130187189.0,Saturday,No,2013-03-30T22:34:00.000,DISORDERLY,"[-71.064355, 42.309846]",Point,24xx,3,SSTOP ,449,C11,First,No,DOWNER CT,Part Two,Unarmed,774002.9319,BOWDOIN ST,2938236.9760000003,2013

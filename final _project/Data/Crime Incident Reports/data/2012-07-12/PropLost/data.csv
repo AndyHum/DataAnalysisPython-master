@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2633,120431707.0,Thursday,No,2012-07-12T23:00:00.000,PropLost,"[-71.052515, 42.341961]",Point,PropLost,7,LSTPRP,200,C6,First,No,B ST,Part Three,Unarmed,777144.0647,,2949956.793,2012
+238577,120448302.0,Thursday,No,2012-07-12T08:00:00.000,PropLost,"[-71.081195, 42.344021]",Point,PropLost,7,LSTPRP,145,D4,Day,No,DURHAM ST,Part Three,Unarmed,769386.8266,,2950668.122,2012
+260235,120640638.0,Thursday,No,2012-07-12T22:30:00.000,PropLost,"[0, 0]",Point,PropLost,7,LSTPRP,57,A15,First,No,MONUMENT SQ,Part Three,Unarmed,,,,2012
+260978,120440104.0,Thursday,No,2012-07-12T17:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,LARCRT,257,C11,First,No,CUSHING AV,Part Three,Unarmed,,,,2012

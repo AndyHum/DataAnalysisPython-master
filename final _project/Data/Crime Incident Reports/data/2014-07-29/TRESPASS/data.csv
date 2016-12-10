@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79263,142014015.0,Tuesday,No,2014-07-29T09:29:00.000,TRESPASS,"[-71.06458, 42.352351]",Point,TRESPASS,7,ARREST,0,A1,Day,No,TREMONT ST,Part Two,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2014
+145404,142014188.0,Tuesday,No,2014-07-29T18:00:00.000,TRESPASS,"[-71.05321, 42.327191]",Point,TRESPASS,7,CD19,0,C6,First,No,LOGAN WY,Part Two,Unarmed,776984.3679,,2944573.365,2014
+198246,142013986.0,Tuesday,No,2014-07-29T06:55:00.000,TRESPASS,"[-71.06013, 42.298741]",Point,TRESPASS,7,IVPER,0,C11,Last,No,PARK ST,Part Two,Unarmed,775166.5959,,2934196.0110000004,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70195,140349363.0,Thursday,No,2014-05-01T12:00:00.000,PersLoc,"[-71.06286, 42.358836]",Point,PersLoc,5,INVEST,72,A1,Day,No,BOWDOIN ST,Other,Unarmed,774315.8099,,2956091.857,2014
+146901,140266535.0,Thursday,No,2014-05-01T06:30:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,5,MISPER,457,B3,Last,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2014
+216403,140265501.0,Thursday,No,2014-05-01T12:30:00.000,PersLoc,"[-71.0708, 42.333203]",Point,PersLoc,5,MSNCOM,175,C6,Day,No,BRADSTON ST,Other,Unarmed,772216.8065,,2946739.535,2014
+235464,140266702.0,Thursday,No,2014-05-01T08:00:00.000,PersLoc,"[-71.039428, 42.367778]",Point,PersLoc,5,MISPER,35,A7,Day,No,S BREMEN ST,Other,Unarmed,780631.3068,,2959383.722,2014
+252544,140266307.0,Thursday,No,2014-05-01T18:55:00.000,PersLoc,"[-71.104735, 42.265021]",Point,PersLoc,5,MSNCOM,487,E18,First,No,ROSEMONT ST,Other,Unarmed,763156.4611,,2921848.885,2014
+266343,140266553.0,Thursday,No,2014-05-01T17:45:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,MSNCOM,807,D14,First,No,JUSTINIAN WAY,Other,Unarmed,,,,2014

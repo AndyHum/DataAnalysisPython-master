@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45299,130492629.0,Tuesday,No,2013-08-06T21:30:00.000,PropLost,"[-71.06006, 42.301996]",Point,PropLost,8,LSTPRP,352,C11,First,No,ADAMS ST,Part three,Unarmed,775179.4158,,2935382.2789999996,2013
+93184,130491679.0,Tuesday,No,2013-08-06T15:15:00.000,PropLost,"[-71.039415, 42.368976]",Point,PropLost,8,LSTPRP,29,A7,Day,No,MAVERICK SQ,Part three,Unarmed,780632.4456,,2959820.414,2013
+133327,130491791.0,Tuesday,No,2013-08-06T15:00:00.000,PropLost,"[-71.06259, 42.311141]",Point,PropLost,8,LSTPRP,334,C11,Day,No,BOWDOIN ST,Part three,Other,774477.9156,HANCOCK ST,2938711.337,2013
+206989,130492028.0,Tuesday,No,2013-08-06T17:30:00.000,PropLost,"[-71.1144, 42.311541]",Point,PropLost,8,LSTPRP,642,E13,First,No,CENTRE ST,Part three,Unarmed,760463.7384,BURROUGHS ST,2938789.497,2013
+215390,130490401.0,Tuesday,No,2013-08-06T01:05:00.000,PropLost,"[-71.084364, 42.306373]",Point,PropLost,8,LARCRT,330,B2,Last,No,BLUE HILL AV,Part three,Unarmed,768596.965,,2936944.225,2013
+223696,130498152.0,Tuesday,No,2013-08-06T16:00:00.000,PropLost,"[-71.07632, 42.350356]",Point,PropLost,8,LSTPRP,134,D4,First,No,BOYLSTON ST,Part three,Other,770693.2587,,2952983.224,2013
+224403,130491738.0,Tuesday,No,2013-08-06T16:15:00.000,PropLost,"[-71.06575, 42.325491]",Point,PropLost,8,LARCIP,186,C6,First,No,MASSACHUSETTS AV,Part three,Unarmed,773596.582,,2943936.3439999996,2013
+260102,130524718.0,Tuesday,No,2013-08-06T19:15:00.000,PropLost,"[-71.05742, 42.294856]",Point,PropLost,8,LARCRT,364,C11,First,No,CENTRE ST,Part three,Other,775907.083,,2932784.0539999995,2013

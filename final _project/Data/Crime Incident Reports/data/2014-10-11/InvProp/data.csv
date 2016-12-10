@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60111,142038452.0,Saturday,No,2014-10-11T12:00:00.000,InvProp,"[-71.096606, 42.28424]",Point,InvProp,10,BE,0,B3,Day,No,WESTMORE RD,Part three,Unarmed,765323.5602,,2928862.752,2014
+100801,142038107.0,Saturday,No,2014-10-11T11:56:00.000,InvProp,"[-71.06691, 42.360471]",Point,InvProp,10,ABAN,0,A1,Day,No,GARDEN ST,Part three,Unarmed,773218.1713,,2956682.098,2014
+101154,142038044.0,Saturday,No,2014-10-11T06:52:00.000,InvProp,"[-71.11718, 42.269416]",Point,InvProp,10,ALARM,0,E18,Last,No,BRADLEE ST,Part three,Unarmed,759780.7081,,2923435.117,2014
+107100,142038225.0,Saturday,No,2014-10-11T19:47:00.000,InvProp,"[-71.06427, 42.306086]",Point,InvProp,10,IVPREM,0,C11,First,No,FOX ST,Part three,Unarmed,774032.922,,2936866.8910000003,2014
+160585,142038031.0,Saturday,No,2014-10-11T03:58:00.000,InvProp,"[-71.056715, 42.295031]",Point,InvProp,10,IVPREM,0,C11,Last,No,CENTRE ST,Part three,Other,776097.4878,,2932848.817,2014
+160933,142038055.0,Saturday,No,2014-10-11T08:07:00.000,InvProp,"[-71.128006, 42.307089]",Point,InvProp,10,ALARM,0,E13,Day,No,MOSS HILL RD,Part three,Other,756790.6924,,2937150.6,2014
+162334,142038161.0,Saturday,No,2014-10-11T14:55:00.000,InvProp,"[-71.09385, 42.315161]",Point,InvProp,10,SSA,0,B2,Day,No,HILTON TR,Part three,Unarmed,766015.7704,,2940134.481,2014

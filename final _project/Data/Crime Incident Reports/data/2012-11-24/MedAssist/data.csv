@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45278,120737821.0,Saturday,No,2012-11-24T09:37:00.000,MedAssist,"[-71.09192, 42.270941]",Point,MedAssist,11,IVPER ,424,B3,Day,No,FREMONT ST,Part Three,Firearm,766614.8591,,2924022.545,2012
+72769,120738378.0,Saturday,No,2012-11-24T15:23:00.000,MedAssist,"[-71.03888, 42.344191]",Point,MedAssist,11,IVPER ,209,C6,Day,No,SUMMER ST,Part Three,Unarmed,780825.8479,PAPPAS WY,2950789.077,2012
+86363,120738001.0,Saturday,No,2012-11-24T11:27:00.000,MedAssist,"[-71.120484, 42.256473]",Point,MedAssist,11,IVPER ,519,E18,Day,No,RIVER ST,Part Three,Unarmed,758907.3112,,2918714.372,2012
+88520,120739041.0,Saturday,No,2012-11-24T21:42:00.000,MedAssist,"[-71.059735, 42.297541]",Point,MedAssist,11,INJOFF,355,C11,First,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2012
+107135,120738792.0,Saturday,No,2012-11-24T17:09:00.000,MedAssist,"[-71.072422, 42.29719]",Point,MedAssist,11,IVPER ,453,C11,First,No,WASHINGTON ST,Part Three,Other,771843.9805,,2933613.758,2012
+123229,120737923.0,Saturday,No,2012-11-24T10:40:00.000,MedAssist,"[-71.08228, 42.276562]",Point,MedAssist,11,REQEP ,943,B3,Day,No,WOODBOLE AV,Part Three,Unarmed,769213.8122,,2926083.233,2012
+186707,120739069.0,Saturday,No,2012-11-24T22:05:00.000,MedAssist,"[-71.060585, 42.298841]",Point,MedAssist,11,UNCONS,356,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775043.317,,2934231.818,2012
+210178,120737997.0,Saturday,No,2012-11-24T11:30:00.000,MedAssist,"[-71.084485, 42.348131]",Point,MedAssist,11,TRAUMA,142,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,768490.1158,,2952161.534,2012
+239325,120741763.0,Saturday,No,2012-11-24T11:09:00.000,MedAssist,"[-71.117275, 42.303196]",Point,MedAssist,11,EDP2  ,652,E13,Day,No,ARBORWAY,Part Three,Unarmed,759699.6826,,2935744.688,2012

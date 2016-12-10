@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3358,152018156.0,Thursday,No,2015-01-15T12:00:00.000,FORGERY,"[-71.08156, 42.348911]",Point,10xx,1,LARCEN,0,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,769279.4105,,2952449.645,2015
+11967,152003924.0,Thursday,No,2015-01-15T15:00:00.000,FORGERY,"[-71.099395, 42.264986]",Point,10xx,1,LARCEN,0,E18,Day,No,RIVER ST,Part Two,Other,764601.9343,,2921842.873,2015
+118952,152003918.0,Thursday,No,2015-01-15T15:00:00.000,FORGERY,"[-71.075485, 42.350581]",Point,10xx,1,ARREST,0,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770918.5605,,2953066.34,2015

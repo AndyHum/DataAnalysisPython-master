@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15512,140294070.0,Monday,No,2014-05-12T18:00:00.000,32GUN,"[-71.11078, 42.262726]",Point,32GUN,5,FDWEAP,493,E18,First,No,FRAZER ST,Part three,Firearm,761524.0405,,2921005.0330000003,2014
+24859,140292180.0,Monday,No,2014-05-12T06:38:00.000,32GUN,"[-71.06594, 42.313856]",Point,32GUN,5,FDWEAP,332,C11,Last,No,WHITTEMORE TR,Part three,Firearm,773566.7773,,2939696.098,2014
+70336,140292861.0,Monday,No,2014-05-12T12:00:00.000,32GUN,"[-71.12395, 42.256421]",Point,32GUN,5,MISCRP,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+202523,140292594.0,Monday,No,2014-05-12T10:00:00.000,32GUN,"[-71.059735, 42.297541]",Point,32GUN,5,BUYBAK,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014

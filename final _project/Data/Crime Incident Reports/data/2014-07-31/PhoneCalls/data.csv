@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+182398,142015162.0,Thursday,No,2014-07-31T23:00:00.000,PhoneCalls,"[-71.03596, 42.380206]",Point,PhoneCalls,7,IVPER,0,A7,First,No,BROOKS ST,Part three,Unarmed,781543.8302,,2963917.912,2014
+202583,142014822.0,Thursday,No,2014-07-31T12:02:00.000,PhoneCalls,"[-71.14693, 42.355591]",Point,PhoneCalls,7,IVPER,0,D14,Day,No,N BEACON ST,Part three,Other,751598.6440000001,,2954804.059,2014
+249452,142015240.0,Thursday,No,2014-07-31T10:19:00.000,PhoneCalls,"[-71.08677, 42.322723]",Point,PhoneCalls,7,IVPER,0,B2,Day,No,ROCKLAND ST,Part three,Unarmed,767917.2751,,2942899.1,2014

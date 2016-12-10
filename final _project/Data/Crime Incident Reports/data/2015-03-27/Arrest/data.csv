@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23005,152024765.0,Friday,No,2015-03-27T07:30:00.000,Arrest,"[-71.073855, 42.279191]",Point,Arrest,3,ARREST,0,B3,Day,No,CODMAN HILL AV,Part three,Unarmed,771489.1417,,2927052.865,2015
+114406,152024788.0,Friday,No,2015-03-27T09:25:00.000,Arrest,"[-71.14243, 42.349389]",Point,Arrest,3,ARREST,0,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2015
+194996,152024772.0,Friday,No,2015-03-27T08:15:00.000,Arrest,"[-71.081833, 42.302999]",Point,Arrest,3,CD11,0,B3,Day,No,HEWINS ST,Part three,Unarmed,769287.5512,,2935718.12,2015
+266991,152025076.0,Friday,No,2015-03-27T21:00:00.000,Arrest,"[0, 0]",Point,Arrest,3,ARREST,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015

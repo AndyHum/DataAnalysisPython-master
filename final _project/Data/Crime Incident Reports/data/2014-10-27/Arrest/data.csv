@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95242,142043089.0,Monday,No,2014-10-27T10:20:00.000,Arrest,"[-71.03887, 42.371246]",Point,Arrest,10,ARREST,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2014
+186663,142043174.0,Monday,No,2014-10-27T13:17:00.000,Arrest,"[-71.153435, 42.347726]",Point,Arrest,10,ARREST,0,D14,Day,No,ACADEMY HILL RD,Part three,Unarmed,749852.0524,,2951930.6789999995,2014
+227537,142043072.0,Monday,No,2014-10-27T09:12:00.000,Arrest,"[-71.153435, 42.347726]",Point,Arrest,10,ARREST,0,D14,Day,No,ACADEMY HILL RD,Part three,Unarmed,749852.0524,,2951930.6789999995,2014

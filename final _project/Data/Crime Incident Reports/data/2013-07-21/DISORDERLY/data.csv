@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66591,130454900.0,Sunday,No,2013-07-21T21:26:00.000,DISORDERLY,"[-71.11622, 42.244936]",Point,24xx,7,IVPER ,515,E18,First,No,BRUSH HILL TR,Part Two,Unarmed,760080.6763,,2914515.46,2013
+167769,130451567.0,Sunday,No,2013-07-21T00:25:00.000,DISORDERLY,"[-71.095995, 42.347161]",Point,24xx,7,DKDIST,624,D4,Last,No,LANSDOWNE ST,Part Two,Unarmed,765380.3957,,2951793.104,2013
+180939,130452922.0,Sunday,No,2013-07-21T15:21:00.000,DISORDERLY,"[-71.069275, 42.361066]",Point,24xx,7,AOD   ,66,A1,Day,No,CAMBRIDGE ST,Part Two,Unarmed,772577.8924,,2956895.691,2013
+233701,130453200.0,Sunday,No,2013-07-21T17:35:00.000,DISORDERLY,"[-71.06838, 42.305171]",Point,24xx,7,ARREST,341,C11,First,No,OLNEY ST,Part Two,Unarmed,772922.8528,BOWDOIN ST,2936527.798,2013

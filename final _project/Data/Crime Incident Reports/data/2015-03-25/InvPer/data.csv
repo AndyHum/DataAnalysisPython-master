@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21742,152024140.0,Wednesday,No,2015-03-25T15:55:00.000,InvPer,"[-71.08421, 42.295506]",Point,InvPer,3,SHOTS,0,B3,Day,No,WALES ST,Part three,Firearm,768657.939,NIGHTINGALE ST,2932984.453,2015
+67073,152024508.0,Wednesday,No,2015-03-25T16:30:00.000,InvPer,"[-71.072097, 42.321041]",Point,InvPer,3,IVPER,0,B2,First,No,DUDLEY ST,Part three,Unarmed,771888.2764,,2942305.988,2015
+83532,152024116.0,Wednesday,No,2015-03-25T11:30:00.000,InvPer,"[-71.172215, 42.277226]",Point,InvPer,3,IVPER,0,E5,Day,No,VFW PY,Part three,Unarmed,744874.1017,,2926219.15,2015
+101339,152024272.0,Wednesday,No,2015-03-25T20:00:00.000,InvPer,"[-71.03334, 42.376651]",Point,InvPer,3,ALARM,0,A7,First,No,BROOKS ST,Part three,Unarmed,782258.7976,,2962626.26,2015
+266905,152024506.0,Wednesday,No,2015-03-25T08:00:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,D14,Day,No,GLENMONT RD,Part three,Other,,,,2015

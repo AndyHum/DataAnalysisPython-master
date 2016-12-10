@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7229,130064058.0,Thursday,No,2013-01-31T12:11:00.000,Service,"[-71.05227, 42.362381]",Point,Service,1,IVPER ,89,A1,Day,No,COMMERCIAL ST,Part Three,Other,777171.2382,COMMERCIAL WF,2957398.5689999997,2013
+104055,130065134.0,Thursday,No,2013-01-31T20:30:00.000,Service,"[-71.067491, 42.344883]",Point,Service,1,IVPER ,161,D4,First,No,CASTLE CT,Part Three,Unarmed,773089.8881,,2951000.7389999996,2013
+106160,130064083.0,Thursday,No,2013-01-31T12:08:00.000,Service,"[-71.13106, 42.350481]",Point,Service,1,ARREST,796,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,755896.1988,HARVARD AV,2952960.025,2013
+124529,130065173.0,Thursday,No,2013-01-31T20:55:00.000,Service,"[-71.081625, 42.336141]",Point,Service,1,IVPREM,903,D4,First,No,TROTTER CT,Part Three,Unarmed,769284.6658,,2947795.935,2013
+202900,130064171.0,Thursday,No,2013-01-31T13:00:00.000,Service,"[-71.064905, 42.352371]",Point,Service,1,IVPER ,119,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2013
+210728,130065159.0,Thursday,No,2013-01-31T20:45:00.000,Service,"[-71.079567, 42.338236]",Point,Service,1,IVPREM,273,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,769837.2194,,2948561.8589999997,2013

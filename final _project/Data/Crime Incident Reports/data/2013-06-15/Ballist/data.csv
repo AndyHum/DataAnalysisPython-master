@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+117130,130365398.0,Saturday,No,2013-06-15T21:57:00.000,Ballist,"[-71.13625, 42.276656]",Point,Ballist,6,SHOTS ,910,E5,First,No,BEECHLAND ST,Part Two,Firearm,754608.0111,WASHINGTON ST,2926050.889,2013
+203862,130366454.0,Saturday,No,2013-06-15T22:00:00.000,Ballist,"[-71.07165, 42.324631]",Point,Ballist,6,FDWEAP,184,B2,First,No,GEORGE ST,Part Two,Firearm,772002.6916,LANGDON ST,2943614.877,2013
+238794,130370968.0,Saturday,No,2013-06-15T22:00:00.000,Ballist,"[-71.07141, 42.324296]",Point,Ballist,6,IVMV  ,181,B2,First,No,GEORGE ST,Part Two,Unarmed,772068.2061,,2943493.124,2013

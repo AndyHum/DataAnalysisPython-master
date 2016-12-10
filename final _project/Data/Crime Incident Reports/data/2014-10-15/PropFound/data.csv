@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7735,142039262.0,Wednesday,No,2014-10-15T12:00:00.000,PropFound,"[-71.07738, 42.350061]",Point,PropFound,10,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2014
+25278,142039745.0,Wednesday,No,2014-10-15T18:13:00.000,PropFound,"[-71.06635, 42.341861]",Point,PropFound,10,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,773404.0005,RANDOLPH ST,2949901.0319999997,2014
+152289,142039200.0,Wednesday,No,2014-10-15T08:30:00.000,PropFound,"[-71.038912, 42.374688]",Point,PropFound,10,SUSOBJ,0,A7,Day,No,CENTRAL SQ,Part three,Unarmed,780756.9565,,2961902.499,2014
+262828,142039411.0,Wednesday,No,2014-10-15T19:00:00.000,PropFound,"[0, 0]",Point,PropFound,10,LARCEN,0,C11,First,No,DOWNER AV,Part three,Unarmed,,,,2014

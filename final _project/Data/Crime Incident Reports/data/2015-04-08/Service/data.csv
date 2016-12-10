@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7288,152028583.0,Wednesday,No,2015-04-08T21:00:00.000,Service,"[-71.092995, 42.285271]",Point,Service,4,ARREST,0,B3,First,No,RHOADES ST,Part three,Unarmed,766298.9906,MORTON ST,2929243.205,2015
+63168,152031072.0,Wednesday,No,2015-04-08T14:30:00.000,Service,"[-71.112895, 42.320571]",Point,Service,4,LARCEN,0,E13,Day,No,HALIFAX ST,Part three,Other,760855.8729,,2942082.028,2015
+195400,152028615.0,Wednesday,No,2015-04-08T23:15:00.000,Service,"[-71.083203, 42.303653]",Point,Service,4,ARREST,0,B2,First,No,COLUMBIA RD,Part three,Unarmed,768915.6563,,2935954.518,2015

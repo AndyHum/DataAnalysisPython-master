@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145786,130809672.0,Wednesday,No,2013-12-25T13:08:00.000,FIRE,"[-71.080145, 42.271406]",Point,FIRE,12,REQP  ,422,B3,Day,No,RIVER ST,Part three,Other,769800.9367,,2924207.4639999997,2013
+203803,130809244.0,Wednesday,No,2013-12-25T01:24:00.000,FIRE,"[-71.085387, 42.289863]",Point,FIRE,12,REQP  ,944,B3,Last,No,AMES ST,Part three,Unarmed,768349.27,,2930926.4310000003,2013
+248074,130810013.0,Wednesday,No,2013-12-25T20:07:00.000,FIRE,"[-71.091557, 42.312409]",Point,FIRE,12,FV    ,316,B2,First,No,HOMESTEAD ST,Part three,Unarmed,766640.7488,,2939134.5289999996,2013

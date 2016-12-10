@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73966,130057316.0,Monday,No,2013-01-28T12:00:00.000,PropFound,"[-71.068433, 42.297649]",Point,PropFound,1,FDWEAP,358,C11,Day,No,LINDSEY ST,Part Three,Knife,772922.1667,,2933786.325,2013
+122128,130058339.0,Monday,No,2013-01-28T21:00:00.000,PropFound,"[-71.074787, 42.38437]",Point,PropFound,1,IVPREM,50,A15,First,No,SEVER ST,Part Three,Unarmed,771045.7843,,2965380.378,2013
+206005,130056949.0,Monday,No,2013-01-28T09:00:00.000,PropFound,"[-71.08316, 42.330081]",Point,PropFound,1,FDPROP,280,B2,Day,No,TABER ST,Part Three,Unarmed,768880.4371,WARREN AV,2945585.5310000004,2013
+232763,130173661.0,Monday,No,2013-01-28T19:30:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,1,FDPROP,520,E18,First,No,HYDE PARK AV,Part Three,Unarmed,757969.2324,,2918691.415,2013
+247891,130287156.0,Monday,No,2013-01-28T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,1,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2013

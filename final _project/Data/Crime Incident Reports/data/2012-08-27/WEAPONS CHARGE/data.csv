@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41157,120533439.0,Monday,No,2012-08-27T00:04:00.000,WEAPONS CHARGE,"[-71.084646, 42.304835]",Point,15xx,8,IVPER ,330,B2,Last,No,BLUE HILL AV,Part Two,Unarmed,768523.3694,,2936383.492,2012
+85822,120533508.0,Monday,No,2012-08-27T00:43:00.000,WEAPONS CHARGE,"[-71.040135, 42.379591]",Point,15xx,8,ARREST,26,A7,Last,No,BORDER ST,Part Two,Knife,780417.0241,,2963687.684,2012
+131771,120533751.0,Monday,No,2012-08-27T06:00:00.000,WEAPONS CHARGE,"[-71.08545, 42.286831]",Point,15xx,8,ARREST,432,B3,Last,No,WOODROW AV,Part Two,Unarmed,768337.8261,,2929821.523,2012

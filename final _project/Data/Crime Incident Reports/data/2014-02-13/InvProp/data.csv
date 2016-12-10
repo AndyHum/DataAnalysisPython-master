@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14347,140092838.0,Thursday,No,2014-02-13T23:06:00.000,InvProp,"[-71.034775, 42.376486]",Point,InvProp,2,SHOTS ,23,A7,First,No,BENNINGTON ST,Part three,Unarmed,781871.3889,,2962564.014,2014
+118653,140092309.0,Thursday,No,2014-02-13T16:56:00.000,InvProp,"[-71.129217, 42.291884]",Point,InvProp,2,ALARMR,662,E5,First,No,MENDUM ST,Part three,Unarmed,756487.068,,2931608.395,2014
+125182,140091183.0,Thursday,No,2014-02-13T07:54:00.000,InvProp,"[-71.157532, 42.259821]",Point,InvProp,2,VANIP ,821,E5,Day,No,STIMSON ST,Part three,Other,748873.1036,WASHINGTON ST,2919891.877,2014

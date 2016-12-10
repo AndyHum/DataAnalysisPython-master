@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134334,142036433.0,Monday,No,2014-10-06T12:30:00.000,PhoneCalls,"[-71.078025, 42.353926]",Point,PhoneCalls,10,IVPER,0,D4,Day,No,BEACON ST,Part three,Unarmed,770225.9404,,2954281.917,2014
+217113,142036663.0,Monday,No,2014-10-06T14:00:00.000,PhoneCalls,"[-71.09345, 42.274701]",Point,PhoneCalls,10,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Other,766194.2316,,2925390.762,2014
+234854,142036500.0,Monday,No,2014-10-06T15:28:00.000,PhoneCalls,"[-71.064295, 42.313324]",Point,PhoneCalls,10,IVPER,0,C11,Day,No,ROWELL ST,Part three,Unarmed,774012.4873,,2939504.413,2014

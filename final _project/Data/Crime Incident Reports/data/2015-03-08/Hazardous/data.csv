@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1193,152018679.0,Sunday,No,2015-03-08T08:57:00.000,Hazardous,"[0, 0]",Point,Hazardous,3,DISTRB,0,B3,Day,No,AMES WY,Other,Unarmed,,,,2015
+155723,152018768.0,Sunday,No,2015-03-08T14:50:00.000,Hazardous,"[-71.168727, 42.271512]",Point,Hazardous,3,IVPREM,0,E5,Day,No,GOULD ST,Other,Unarmed,745826.0978,,2924140.5039999997,2015

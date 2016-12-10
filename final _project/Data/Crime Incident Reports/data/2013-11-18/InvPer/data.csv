@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88726,130732583.0,Monday,No,2013-11-18T15:15:00.000,InvPer,"[-71.030165, 42.376841]",Point,InvPer,11,SUSPER,20,A7,Day,No,PUTNAM ST,Part three,Unarmed,783116.2956,,2962700.209,2013
+130618,130732148.0,Monday,No,2013-11-18T10:30:00.000,InvPer,"[-71.17312, 42.351201]",Point,InvPer,11,HARPT ,755,D14,Day,No,TREMONT ST,Part three,Unarmed,744525.8777,,2953176.035,2013
+130626,130732042.0,Monday,No,2013-11-18T12:09:00.000,InvPer,"[0, 0]",Point,InvPer,11,IVPER ,666,E13,Day,No,FAULKNER ST,Part three,Unarmed,,,,2013
+165985,130732331.0,Monday,No,2013-11-18T15:15:00.000,InvPer,"[-71.108399, 42.329393]",Point,InvPer,11,BERPT ,606,B2,Day,No,FISHER AV,Part three,Unarmed,762056.9561,,2945302.163,2013
+178263,130731231.0,Monday,No,2013-11-18T00:54:00.000,InvPer,"[-71.092503, 42.268483]",Point,InvPer,11,VIORDR,426,B3,Last,No,RIVER ST,Part three,Unarmed,766461.2137,,2923125.834,2013
+195406,130734669.0,Monday,No,2013-11-18T20:30:00.000,InvPer,"[-71.12603, 42.358681]",Point,InvPer,11,IVPER ,814,D14,First,No,EMPIRE ST,Part three,Unarmed,757242.7629999999,,2955954.1939999997,2013
+199891,130733210.0,Monday,No,2013-11-18T22:30:00.000,InvPer,"[-71.08876, 42.292621]",Point,InvPer,11,REQP  ,464,B3,First,No,BLUE HILL AV,Part three,Unarmed,767432.0235,,2931927.1489999997,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+193790,130114454.0,Sunday,No,2013-02-24T20:11:00.000,MedAssist,"[-71.11156, 42.317276]",Point,MedAssist,2,CARST ,639,E13,First,No,SPRING PARK AV,Part Three,Unarmed,761222.3807,,2940882.915,2013
+195887,130113656.0,Sunday,No,2013-02-24T11:06:00.000,MedAssist,"[-71.138423, 42.345885]",Point,MedAssist,2,EDP2  ,792,D14,Day,No,VINAL ST,Part Three,Other,753912.8947,,2951276.645,2013
+217936,130113238.0,Sunday,No,2013-02-24T01:50:00.000,MedAssist,"[-71.0292, 42.378121]",Point,MedAssist,2,IVPER ,17,A7,Last,No,CHELSEA ST,Part Three,Unarmed,783374.4608,PRESCOTT ST,2963168.104,2013
+218891,130113551.0,Sunday,No,2013-02-24T09:30:00.000,MedAssist,"[-71.09157, 42.295581]",Point,MedAssist,2,CARST ,463,B3,Day,No,FRANKLIN HILL AV,Part Three,Unarmed,766666.5909,,2933002.164,2013

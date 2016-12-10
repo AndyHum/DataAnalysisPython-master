@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96052,142001010.0,Friday,No,2014-06-20T09:00:00.000,Service,"[-71.03979, 42.330551]",Point,Service,6,ARREST,0,C6,Day,No,I ST,Part three,Unarmed,780606.6606,COLUMBIA RD,2945817.098,2014
+194139,142001245.0,Friday,No,2014-06-20T20:16:00.000,Service,"[-71.03986, 42.374611]",Point,Service,6,SS,0,A7,First,No,BORDER ST,Part three,Unarmed,780501.1147,CENTRAL SQ,2961873.271,2014
+225294,142001247.0,Friday,No,2014-06-20T20:45:00.000,Service,"[-71.039079, 42.375371]",Point,Service,6,ARREST,0,A7,First,No,CENTRAL SQ,Part three,Unarmed,780710.6016,,2962151.396,2014

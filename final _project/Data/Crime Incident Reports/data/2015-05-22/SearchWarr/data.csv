@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1687,152041295.0,Friday,No,2015-05-22T08:33:00.000,SearchWarr,"[0, 0]",Point,SearchWarr,5,PROP,0,E13,Day,No,WHITMAN ST,Part three,Other,,,,2015
+143185,152041956.0,Friday,No,2015-05-22T08:35:00.000,SearchWarr,"[-71.07708, 42.287021]",Point,SearchWarr,5,ARREST,0,B3,Day,No,WHITMAN ST,Part three,Unarmed,770602.2625,,2929901.88,2015
+148142,152041958.0,Friday,No,2015-05-22T08:45:00.000,SearchWarr,"[-71.08686, 42.326691]",Point,SearchWarr,5,ADMRPT,0,B2,Day,No,ST JAMES PL,Part three,Other,767885.9478,,2944345.288,2015
+213424,152041969.0,Friday,No,2015-05-22T08:33:00.000,SearchWarr,"[-71.07708, 42.287021]",Point,SearchWarr,5,ARREST,0,B3,Day,No,WHITMAN ST,Part three,Other,770602.2625,,2929901.88,2015

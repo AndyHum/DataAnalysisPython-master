@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32541,130444174.0,Thursday,No,2013-07-18T02:21:00.000,Arrest,"[-71.047314, 42.294874]",Point,Arrest,7,ARREST,370,C11,Last,No,MORRISSEY BL,Part three,Unarmed,778641.0768,,2932804.8460000004,2013
+90679,130444196.0,Thursday,No,2013-07-18T02:51:00.000,Arrest,"[-71.06601, 42.289301]",Point,Arrest,7,ARREST,397,C11,Last,No,WELLES AV,Part three,Unarmed,773593.3737,ARGYLE ST,2930747.791,2013
+148611,130445883.0,Thursday,No,2013-07-18T18:26:00.000,Arrest,"[-71.089151, 42.311211]",Point,Arrest,7,ARREST,318,B2,First,No,HOMESTEAD ST,Part three,Unarmed,767293.447,,2938701.003,2013
+170020,130444821.0,Thursday,No,2013-07-18T11:05:00.000,Arrest,"[-71.097081, 42.319472]",Point,Arrest,7,AOD   ,304,B2,Day,No,DIMOCK ST,Part three,Unarmed,765134.3663,,2941701.057,2013

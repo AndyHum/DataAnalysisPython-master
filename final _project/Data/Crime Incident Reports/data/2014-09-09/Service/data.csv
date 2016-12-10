@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115162,142027935.0,Tuesday,No,2014-09-09T22:30:00.000,Service,"[-71.033025, 42.377876]",Point,Service,9,DISTRB,0,A7,First,No,SARATOGA ST,Part three,Unarmed,782341.4644,,2963073.142,2014
+213873,142027921.0,Tuesday,No,2014-09-09T21:40:00.000,Service,"[-71.085618, 42.32866]",Point,Service,9,ARREST,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2014
+223511,142027727.0,Tuesday,No,2014-09-09T09:30:00.000,Service,"[-71.078133, 42.285884]",Point,Service,9,CD11,0,B3,Day,No,MILTON AV,Part three,Unarmed,770319.2890000001,,2929485.997,2014

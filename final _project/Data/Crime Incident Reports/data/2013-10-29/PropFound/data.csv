@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+152931,130690258.0,Tuesday,No,2013-10-29T18:30:00.000,PropFound,"[-71.10697, 42.310471]",Point,PropFound,10,FDPROP,574,E13,First,No,AMORY ST,Part three,Unarmed,762475.1843,GREEN ST,2938408.744,2013
+163285,130709041.0,Tuesday,No,2013-10-29T12:00:00.000,PropFound,"[-71.067735, 42.348706]",Point,PropFound,10,FDPROP,126,A1,Day,No,FAYETTE ST,Part three,Unarmed,773016.928,,2952393.5760000004,2013
+199812,130690246.0,Tuesday,No,2013-10-29T22:23:00.000,PropFound,"[-71.100758, 42.335565]",Point,PropFound,10,FDPROP,0,B2,First,No,HUNTINGTON AV,Part three,Unarmed,764112.391,,2947560.9480000003,2013

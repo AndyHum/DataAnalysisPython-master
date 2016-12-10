@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110535,152006111.0,Thursday,No,2015-01-22T22:03:00.000,PersLoc,"[-71.059615, 42.312879]",Point,PersLoc,1,IVPER,0,C11,First,No,SAWYER AV,Other,Unarmed,775279.099,,2939348.8310000002,2015
+208070,152006102.0,Thursday,No,2015-01-22T22:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,IVPER,0,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+214148,152006072.0,Thursday,No,2015-01-22T18:49:00.000,PersLoc,"[-71.075307, 42.297484]",Point,PersLoc,1,IVPER,0,B3,First,No,ALGONQUIN ST,Other,Unarmed,771062.8043,,2933717.1160000004,2015
+237885,152005809.0,Thursday,No,2015-01-22T01:39:00.000,PersLoc,"[-71.07624, 42.314636]",Point,PersLoc,1,IVPER,0,B2,Last,No,BALFOUR ST,Other,Unarmed,770779.5532,,2939966.334,2015

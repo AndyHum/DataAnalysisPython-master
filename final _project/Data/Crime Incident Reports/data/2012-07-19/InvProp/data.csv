@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87201,120445678.0,Thursday,No,2012-07-19T16:30:00.000,InvProp,"[-71.061985, 42.378526]",Point,InvProp,7,DVIP  ,55,A15,First,No,GREEN ST,Part Three,Other,774515.4525,,2963268.503,2012
+170961,120444892.0,Thursday,No,2012-07-19T10:00:00.000,InvProp,"[-71.051305, 42.334636]",Point,InvProp,7,MISCRP,216,C6,Day,No,W 7TH ST,Part Three,Unarmed,777485.2265,,2947289.1539999996,2012
+190981,120444007.0,Thursday,No,2012-07-19T01:20:00.000,InvProp,"[-71.093706, 42.272606]",Point,InvProp,7,IVPREM,476,B3,Last,No,BLUE HILL AV,Part Three,Unarmed,766128.34,,2924626.974,2012

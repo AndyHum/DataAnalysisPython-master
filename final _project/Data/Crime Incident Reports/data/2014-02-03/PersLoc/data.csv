@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26662,140071690.0,Monday,No,2014-02-03T07:00:00.000,PersLoc,"[-71.06657, 42.318186]",Point,PersLoc,2,MISPER,238,B2,Last,No,WENDOVER ST,Other,Unarmed,773388.3646,,2941273.152,2014
+138528,140070538.0,Monday,No,2014-02-03T07:00:00.000,PersLoc,"[-71.085118, 42.298635]",Point,PersLoc,2,MISPER,457,B3,Last,No,ESMOND ST,Other,Unarmed,768406.6291,,2934123.522,2014
+143877,140070119.0,Monday,No,2014-02-03T15:20:00.000,PersLoc,"[-71.073665, 42.282068]",Point,PersLoc,2,MSNCOM,417,B3,Day,No,MORA ST,Other,Unarmed,771535.1918,,2928101.3230000003,2014
+150312,140078528.0,Monday,No,2014-02-03T09:00:00.000,PersLoc,"[-71.116135, 42.312831]",Point,PersLoc,2,MISPER,642,E13,Day,No,BURROUGHS ST,Other,Unarmed,759992.3464,,2939257.479,2014

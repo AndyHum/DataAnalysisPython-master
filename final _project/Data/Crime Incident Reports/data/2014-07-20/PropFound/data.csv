@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24177,142011125.0,Sunday,No,2014-07-20T20:15:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,7,IVPREM,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+27999,142010933.0,Sunday,No,2014-07-20T00:30:00.000,PropFound,"[-71.052465, 42.354942]",Point,PropFound,7,IVPER,0,A1,Last,No,PURCHASE ST,Part three,Unarmed,777132.6553,,2954687.227,2014
+93693,142011030.0,Sunday,No,2014-07-20T14:01:00.000,PropFound,"[-71.10259, 42.343261]",Point,PropFound,7,IVPREM,0,D4,Day,No,PARK DR,Part three,Other,763604.2226,BROOKLINE AV,2950363.4889999996,2014
+104423,142011758.0,Sunday,No,2014-07-20T12:00:00.000,PropFound,"[-71.105224, 42.327963]",Point,PropFound,7,IVPREM,0,B2,Day,No,FISHER AV,Part three,Unarmed,762917.9131,,2944785.227,2014
+125010,142010914.0,Sunday,No,2014-07-20T02:10:00.000,PropFound,"[-71.15417, 42.355656]",Point,PropFound,7,IVPER,0,D14,Last,No,FANEUIL ST,Part three,Unarmed,749641.6483,,2954819.728,2014
+141264,142011652.0,Sunday,No,2014-07-20T09:00:00.000,PropFound,"[-71.05681, 42.322086]",Point,PropFound,7,IVPREM,0,C6,Day,No,DORCHESTER AV,Part three,Unarmed,776020.5581,,2942707.94,2014
+186066,142010990.0,Sunday,No,2014-07-20T11:40:00.000,PropFound,"[-71.07105, 42.352651]",Point,PropFound,7,PROP,0,D4,Day,No,ARLINGTON ST,Part three,Unarmed,772113.5933,NEWBURY ST,2953826.685,2014

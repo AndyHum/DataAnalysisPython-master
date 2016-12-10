@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35568,142000550.0,Wednesday,No,2014-06-18T21:47:00.000,InvProp,"[-71.159225, 42.281185]",Point,InvProp,6,IVPREM,0,E5,First,No,LAGRANGE ST,Part three,Unarmed,748383.5038,,2927675.559,2014
+171857,142000232.0,Wednesday,No,2014-06-18T01:58:00.000,InvProp,"[-71.10869, 42.324221]",Point,InvProp,6,SHOTS,0,E13,Last,No,DAY ST,Part three,Other,761986.9679,KENNEY ST,2943417.3389999997,2014
+257301,142000387.0,Wednesday,No,2014-06-18T12:40:00.000,InvProp,"[-71.08662, 42.307651]",Point,InvProp,6,PERGUN,0,B2,Day,No,MAPLE ST,Part three,Firearm,767984.4742,WAYNE ST,2937407.11,2014

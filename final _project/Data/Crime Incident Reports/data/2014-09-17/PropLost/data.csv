@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39453,142030244.0,Wednesday,No,2014-09-17T11:15:00.000,PropLost,"[-71.08135, 42.332389]",Point,PropLost,9,LARCEN,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,769365.5688,,2946429.0289999996,2014
+63460,142030337.0,Wednesday,No,2014-09-17T12:30:00.000,PropLost,"[-71.06006, 42.301996]",Point,PropLost,9,PROP,0,C11,Day,No,ADAMS ST,Part three,Unarmed,775179.4158,,2935382.2789999996,2014
+78621,142034824.0,Wednesday,No,2014-09-17T18:00:00.000,PropLost,"[-71.099096, 42.270248]",Point,PropLost,9,INVEST,0,E18,First,No,CUMMINS HY,Part three,Unarmed,764673.8571,,2923760.817,2014
+94198,152035202.0,Wednesday,No,2014-09-17T08:00:00.000,PropLost,"[-71.065835, 42.288941]",Point,PropLost,9,PROP,0,C11,Day,No,ARGYLE ST,Part three,Unarmed,773641.392,,2930616.8419999997,2014
+162146,142034471.0,Wednesday,No,2014-09-17T12:00:00.000,PropLost,"[-71.06669, 42.317736]",Point,PropLost,9,PROP,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,773356.7446,,2941109.0,2014
+250431,142030622.0,Wednesday,No,2014-09-17T20:00:00.000,PropLost,"[-71.056041, 42.342169]",Point,PropLost,9,PROP,0,C6,First,No,W BROADWAY,Part three,Unarmed,776190.2658,,2950027.5960000004,2014
+263505,142053333.0,Wednesday,No,2014-09-17T19:10:00.000,PropLost,"[0, 0]",Point,PropLost,9,PROP,0,B3,First,No,CRAGMERE TR,Part three,Unarmed,,,,2014

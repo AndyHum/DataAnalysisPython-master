@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+178902,142010539.0,Friday,No,2014-07-18T21:28:00.000,Restrain,"[-71.097815, 42.334961]",Point,Restrain,7,VIORDR,0,B2,First,No,MCGREEVEY WY,Part Two,Unarmed,764909.3671,,2947344.8660000004,2014
+201790,142010360.0,Friday,No,2014-07-18T08:30:00.000,Restrain,"[-71.121632, 42.279758]",Point,Restrain,7,VIORDR,0,E5,Day,No,SEYMOUR ST,Part Two,Other,758558.8093,,2927198.481,2014
+221199,142010290.0,Friday,No,2014-07-18T10:00:00.000,Restrain,"[-71.067245, 42.376641]",Point,Restrain,7,IVPER,0,A15,Day,No,PHIPPS ST,Part Two,Unarmed,773097.7346,,2962574.315,2014

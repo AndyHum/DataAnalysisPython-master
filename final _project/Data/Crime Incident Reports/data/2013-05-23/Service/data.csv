@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62153,130309091.0,Thursday,No,2013-05-23T14:59:00.000,Service,"[-71.08507, 42.328881]",Point,Service,5,ARREST,282,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768366.1044,DUDLEY ST,2945145.712,2013
+209286,130308467.0,Thursday,No,2013-05-23T10:30:00.000,Service,"[-71.16271, 42.277581]",Point,Service,5,AOD   ,719,E5,Day,No,SPRING ST,Part Three,Unarmed,747445.8814,,2926358.546,2013
+251975,130309467.0,Thursday,No,2013-05-23T18:00:00.000,Service,"[-71.104365, 42.346821]",Point,Service,5,ARREST,629,D4,First,No,BEACON ST,Part three,Unarmed,763118.3474,,2951658.591,2013
+264501,130309404.0,Thursday,No,2013-05-23T18:19:00.000,Service,"[0, 0]",Point,Service,5,BRKDOG,914,C6,First,No,16TH ST,Part Three,Unarmed,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63052,142055586.0,Monday,No,2014-12-08T02:40:00.000,FIRE,"[-71.07719, 42.291741]",Point,FIRE,12,FIRE,0,B3,Last,No,TALBOT AV,Part three,Unarmed,770563.9706,NORWELL ST,2931621.769,2014
+77837,142055693.0,Monday,No,2014-12-08T13:25:00.000,FIRE,"[-71.0804, 42.328511]",Point,FIRE,12,FIRE,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,769629.4938,,2945016.955,2014
+166998,142055666.0,Monday,No,2014-12-08T12:45:00.000,FIRE,"[-71.111926, 42.268724]",Point,FIRE,12,IVMV,0,E18,Day,No,TACOMA ST,Part three,Unarmed,761203.7912,,2923189.2789999996,2014

@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32175,152006294.0,Friday,No,2015-01-23T13:51:00.000,MedAssist,"[-71.07899, 42.302991]",Point,MedAssist,1,PKNIFE,0,B3,Day,No,ERIE ST,Part three,Knife,770056.7244,GREENWOOD ST,2935719.028,2015
+73185,152006273.0,Friday,No,2015-01-23T12:35:00.000,MedAssist,"[-71.073606, 42.301168]",Point,MedAssist,1,UNCONS,0,C11,Day,No,NOTTINGHAM ST,Part three,Unarmed,771516.4205,,2935061.943,2015
+78399,152006239.0,Friday,No,2015-01-23T11:30:00.000,MedAssist,"[-71.04139, 42.330941]",Point,MedAssist,1,REQP,0,C6,Day,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2015
+82869,152006434.0,Friday,No,2015-01-23T22:35:00.000,MedAssist,"[-71.03974, 42.369131]",Point,MedAssist,1,UNKEMS,0,A7,First,No,MAVERICK SQ,Part three,Unarmed,780544.3158,,2959876.425,2015
+97662,152006397.0,Friday,No,2015-01-23T19:38:00.000,MedAssist,"[-71.056753, 42.367228]",Point,MedAssist,1,REQEP,0,A1,First,No,HULL ST,Part three,Unarmed,775950.3470000001,,2959158.5760000004,2015
+108381,152006161.0,Friday,No,2015-01-23T06:00:00.000,MedAssist,"[-71.038595, 42.332231]",Point,MedAssist,1,FIGHT,0,C6,Last,No,E 7TH ST,Part three,Unarmed,780926.4712,,2946431.067,2015
+129632,152006140.0,Friday,No,2015-01-23T01:04:00.000,MedAssist,"[-71.054245, 42.292836]",Point,MedAssist,1,REQP,0,C11,Last,No,TRAIN ST,Part three,Unarmed,776769.9201,,2932052.41,2015
+147031,152006216.0,Friday,No,2015-01-23T11:01:00.000,MedAssist,"[-71.08368, 42.328671]",Point,MedAssist,1,IVPER,0,B2,Day,No,WARREN ST,Part three,Unarmed,768742.3387,DUDLEY ST,2945071.014,2015
+172907,152006392.0,Friday,No,2015-01-23T19:00:00.000,MedAssist,"[-71.09679, 42.314596]",Point,MedAssist,1,NIDV,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,765221.5863,,2939924.814,2015
+184787,152006134.0,Friday,No,2015-01-23T00:49:00.000,MedAssist,"[-71.05308, 42.315666]",Point,MedAssist,1,POISON,0,C11,Last,No,ROMSEY ST,Part three,Unarmed,777041.5272,,2940373.653,2015
+208969,152006163.0,Friday,No,2015-01-23T06:44:00.000,MedAssist,"[-71.13803, 42.348791]",Point,MedAssist,1,INVEST,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,754014.7399,,2952336.082,2015
+260604,152006221.0,Friday,No,2015-01-23T11:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,POISON,0,E13,Day,No,ROCKY NOOK TR,Part three,Unarmed,,,,2015
+262401,152006260.0,Friday,No,2015-01-23T11:53:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,EDP,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+266037,152006371.0,Friday,No,2015-01-23T18:30:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,REQP,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+266347,152006145.0,Friday,No,2015-01-23T02:05:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,REQP,0,E18,Last,No,ALLEN RD,Part three,Unarmed,,,,2015

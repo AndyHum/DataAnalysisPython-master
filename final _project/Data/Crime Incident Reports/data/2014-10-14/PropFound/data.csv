@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112779,142038898.0,Tuesday,No,2014-10-14T11:00:00.000,PropFound,"[-71.07589, 42.343901]",Point,PropFound,10,PROP,0,D4,Day,No,W CANTON ST,Part three,Unarmed,770821.1899,WARREN AV,2950631.478,2014
+240546,142039232.0,Tuesday,No,2014-10-14T16:30:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,10,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+265482,142038876.0,Tuesday,No,2014-10-14T10:45:00.000,PropFound,"[0, 0]",Point,PropFound,10,PROP,0,D4,Day,No,UNION PARK,Part three,Unarmed,,,,2014
+265823,142038935.0,Tuesday,No,2014-10-14T12:15:00.000,PropFound,"[0, 0]",Point,PropFound,10,PROP,0,A1,Day,No,CROSS ST,Part three,Unarmed,,,,2014

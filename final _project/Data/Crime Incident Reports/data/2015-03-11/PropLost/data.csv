@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+193894,152032538.0,Wednesday,No,2015-03-11T16:00:00.000,PropLost,"[-71.091195, 42.336386]",Point,PropLost,3,PROP,0,D4,First,No,LEON ST,Part three,Unarmed,766696.7762,,2947872.671,2015
+260619,152019786.0,Wednesday,No,2015-03-11T08:45:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,A1,Day,No,STANIFORD ST,Part three,Unarmed,,,,2015
+262803,152019738.0,Wednesday,No,2015-03-11T15:30:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,D14,Day,No,EVERETT ST,Part three,Unarmed,,,,2015
+266698,152022198.0,Wednesday,No,2015-03-11T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LARCEN,0,C11,Day,No,WESTVILLE TR,Part three,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99410,120744364.0,Tuesday,No,2012-11-27T13:44:00.000,InvProp,"[-71.125905, 42.288551]",Point,InvProp,11,ALARMC,563,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,757388.6357,,2930397.712,2012
+100307,120743266.0,Tuesday,No,2012-11-27T00:33:00.000,InvProp,"[-71.055815, 42.360236]",Point,InvProp,11,ALARMC,94,A1,Last,No,N MARKET ST,Part Three,Other,776217.2392,,2956611.88,2012
+152374,120746740.0,Tuesday,No,2012-11-27T14:00:00.000,InvProp,"[-71.094585, 42.348806]",Point,InvProp,11,LARCRT,623,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,765758.7053,,2952394.378,2012
+158015,120743420.0,Tuesday,No,2012-11-27T03:09:00.000,InvProp,"[-71.06375, 42.285901]",Point,InvProp,11,SHOTS ,394,C11,Last,No,ASHMONT ST,Part Three,Unarmed,774211.2032,BUSHNELL ST,2929511.903,2012

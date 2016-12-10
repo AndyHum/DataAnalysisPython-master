@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26818,142051992.0,Monday,No,2014-11-24T17:04:00.000,PersLoc,"[-71.069406, 42.276628]",Point,PersLoc,11,IVPER,0,C11,First,No,WASHINGTON ST,Other,Unarmed,772697.7977,,2926124.635,2014
+102846,142051964.0,Monday,No,2014-11-24T19:45:00.000,PersLoc,"[-71.104895, 42.337681]",Point,PersLoc,11,IVPER,0,B2,First,No,LONGWOOD AV,Other,Unarmed,762990.5031,,2948327.137,2014
+159517,142052017.0,Monday,No,2014-11-24T06:30:00.000,PersLoc,"[-71.086495, 42.271257]",Point,PersLoc,11,IVPER,0,B3,Last,No,BRIARCLIFF TR,Other,Unarmed,768082.4093,,2924144.47,2014
+231384,142051864.0,Monday,No,2014-11-24T14:27:00.000,PersLoc,"[-71.0804, 42.328511]",Point,PersLoc,11,MISSIN,0,B2,Day,No,DUDLEY ST,Other,Unarmed,769629.4938,,2945016.955,2014
+259199,142052013.0,Monday,No,2014-11-24T21:17:00.000,PersLoc,"[-71.089495, 42.279021]",Point,PersLoc,11,IVPER,0,B3,First,No,NORFOLK ST,Other,Unarmed,767257.0156,,2926970.155,2014

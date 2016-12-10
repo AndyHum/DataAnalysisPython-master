@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151736,142023785.0,Thursday,No,2014-08-28T14:00:00.000,DISORDERLY,"[-71.03974, 42.369131]",Point,24xx,8,ARREST,0,A7,Day,No,MAVERICK SQ,Part Two,Unarmed,780544.3158,,2959876.425,2014
+181737,142023654.0,Thursday,No,2014-08-28T01:55:00.000,DISORDERLY,"[-71.063815, 42.374756]",Point,24xx,8,AB,0,A15,Last,No,MAIN ST,Part Two,Unarmed,774028.0296,,2961892.103,2014
+188991,142023805.0,Thursday,No,2014-08-28T14:25:00.000,DISORDERLY,"[-71.059415, 42.359251]",Point,24xx,8,ARREST,0,A1,Day,No,CITY HALL PZ,Part Two,Unarmed,775246.1256,,2956247.881,2014
+251096,142023849.0,Thursday,No,2014-08-28T16:25:00.000,DISORDERLY,"[-71.10005, 42.315071]",Point,24xx,8,ARREST,0,E13,First,No,SCHOOL ST,Part Two,Unarmed,764339.0606,EGLESTON ST,2940093.7589999996,2014

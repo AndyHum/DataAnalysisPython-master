@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19740,130811112.0,Wednesday,No,2013-12-25T15:00:00.000,PropLost,"[-71.147508, 42.257526]",Point,PropLost,12,LSTPRP,822,E5,Day,No,CROWN POINT DR,Part three,Other,751589.8849,,2919066.82,2013
+23059,130810899.0,Wednesday,No,2013-12-25T15:00:00.000,PropLost,"[-71.053317, 42.364932]",Point,PropLost,12,LSTPRP,84,A1,Day,No,HANOVER ST,Part three,Unarmed,776883.3317,,2958326.645,2013
+209739,140003117.0,Wednesday,No,2013-12-25T23:30:00.000,PropLost,"[-71.07738, 42.350061]",Point,PropLost,12,LSTPRP,130,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770407.2615,BOYLSTON ST,2952874.296,2013
+263969,130811025.0,Wednesday,No,2013-12-25T21:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,LSTPRP,355,C11,First,No,SAVIN HILL AV,Part three,Unarmed,,,,2013

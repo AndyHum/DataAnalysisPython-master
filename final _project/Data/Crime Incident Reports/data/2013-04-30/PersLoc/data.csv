@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66949,130254645.0,Tuesday,No,2013-04-30T13:45:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,4,MISPER,281,B2,Day,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013
+110021,130254824.0,Tuesday,No,2013-04-30T07:00:00.000,PersLoc,"[-71.080681, 42.283145]",Point,PersLoc,4,MISPER,417,B3,Last,No,CAPEN ST,Part Three,Unarmed,769634.7723,,2928484.3510000003,2013
+248135,130254650.0,Tuesday,No,2013-04-30T14:35:00.000,PersLoc,"[-71.16589, 42.267926]",Point,PersLoc,4,MSNCOM,715,E5,Day,No,NEW HAVEN ST,Part Three,Unarmed,746598.9821,,2922836.517,2013

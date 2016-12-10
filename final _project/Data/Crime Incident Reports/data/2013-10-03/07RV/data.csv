@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16826,130630383.0,Thursday,No,2013-10-03T11:57:00.000,07RV,"[-71.09208, 42.321571]",Point,07RV,10,MVAINJ,305,B2,Day,No,MARTIN LUTHER KING BLVD,Other,Other,766483.3172,WASHINGTON ST,2942472.6769999997,2013
+82263,130631425.0,Thursday,No,2013-10-03T19:26:00.000,07RV,"[-71.099375, 42.318306]",Point,07RV,10,RECMV ,303,E13,First,No,ERNST ST,Other,Unarmed,764516.0847,,2941273.506,2013
+151962,140012287.0,Thursday,No,2013-10-03T16:00:00.000,07RV,"[-71.012108, 42.393627]",Point,07RV,10,RECMV ,15,A7,First,No,MCCLELLAN HY,Other,Unarmed,787960.0487,,2968844.6410000003,2013
+186802,130631202.0,Thursday,No,2013-10-03T17:50:00.000,07RV,"[-71.03685, 42.379501]",Point,07RV,10,RECMV ,24,A7,First,No,EUTAW ST,Other,Unarmed,781304.7602,,2963659.69,2013

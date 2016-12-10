@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14597,120471518.0,Monday,No,2012-07-30T16:30:00.000,PropFound,"[-71.135695, 42.353041]",Point,PropFound,7,FDPROP,795,D14,First,No,HIGGINS ST,Part Three,Unarmed,754639.3194,,2953887.5560000003,2012
+45394,120470634.0,Monday,No,2012-07-30T15:00:00.000,PropFound,"[-71.084525, 42.329741]",Point,PropFound,7,FDPROP,288,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,768511.9472,,2945459.828,2012
+88329,120471582.0,Monday,No,2012-07-30T22:28:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,7,FDPROP,574,E13,First,No,WASHINGTON ST,Part Three,Unarmed,763205.8082,,2938139.2,2012
+150561,120475174.0,Monday,No,2012-07-30T19:00:00.000,PropFound,"[0, 0]",Point,PropFound,7,IVPER ,786,D14,First,No,TREMONT ST,Part Three,Unarmed,,PARK ST,,2012
+242074,120470873.0,Monday,No,2012-07-30T15:00:00.000,PropFound,"[-71.1468, 42.283602]",Point,PropFound,7,FDPROP,677,E5,Day,No,W ROXBURY PY,Part Three,Unarmed,751742.3577,,2928569.84,2012

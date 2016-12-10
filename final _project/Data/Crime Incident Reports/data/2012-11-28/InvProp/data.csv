@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37578,120747569.0,Wednesday,No,2012-11-28T21:05:00.000,InvProp,"[-71.079466, 42.327327]",Point,InvProp,11,IVDRUG,281,B2,First,No,MT PLEASANT AV,Part Three,Other,769884.0976,,2944586.5360000003,2012
+109059,120747189.0,Wednesday,No,2012-11-28T17:57:00.000,InvProp,"[-71.06557, 42.299901]",Point,InvProp,11,SHOTS ,357,C11,First,No,BLOOMFIELD ST,Part Three,Firearm,773692.7508,GENEVA AV,2934611.189,2012
+159212,120748955.0,Wednesday,No,2012-11-28T18:00:00.000,InvProp,"[-71.0725, 42.339611]",Point,InvProp,11,STOLMV,166,D4,First,No,W BROOKLINE ST,Part Three,Unarmed,771745.4731,WASHINGTON ST,2949072.6980000003,2012
+191245,120746556.0,Wednesday,No,2012-11-28T13:00:00.000,InvProp,"[-71.04567, 42.335481]",Point,InvProp,11,MISC  ,220,C6,Day,No,E BROADWAY,Part Three,Unarmed,779007.1661,W BROADWAY,2947605.15,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74668,152001816.0,Saturday,No,2014-11-01T00:00:00.000,PhoneCalls,"[-71.146433, 42.341822]",Point,PhoneCalls,11,IVPER,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,751753.6867,,2949786.905,2014
+114230,142045086.0,Saturday,No,2014-11-01T21:00:00.000,PhoneCalls,"[-71.08326, 42.300656]",Point,PhoneCalls,11,IVPER,0,B3,First,No,GLENWAY ST,Part three,Unarmed,768905.7882,,2934862.445,2014
+123397,142061809.0,Saturday,No,2014-11-01T00:00:00.000,PhoneCalls,"[-71.077895, 42.336181]",Point,PhoneCalls,11,IVPER,0,D4,Last,No,NORTHAMPTON ST,Part three,Unarmed,770293.082,,2947815.48,2014
+238651,142050253.0,Saturday,No,2014-11-01T12:00:00.000,PhoneCalls,"[-71.08724, 42.329171]",Point,PhoneCalls,11,IVPER,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,767778.8177,,2945248.546,2014

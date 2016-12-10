@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11343,142051531.0,Sunday,No,2014-11-23T11:30:00.000,InvPer,"[-71.060605, 42.379941]",Point,InvPer,11,DISTRB,0,A15,Day,No,POLK ST,Part three,Unarmed,774885.6595,,2963786.077,2014
+36657,142051683.0,Sunday,No,2014-11-23T01:00:00.000,InvPer,"[-71.10773, 42.335566]",Point,InvPer,11,LANTEN,0,B2,Last,No,VINING ST,Part three,Unarmed,762227.5598,,2947552.854,2014
+79235,142051623.0,Sunday,No,2014-11-23T17:45:00.000,InvPer,"[-71.085118, 42.298635]",Point,InvPer,11,IVPER,0,B3,First,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2014
+170309,142051574.0,Sunday,No,2014-11-23T10:38:00.000,InvPer,"[-71.089615, 42.344991]",Point,InvPer,11,BE,0,D4,Day,No,HEMENWAY ST,Part three,Unarmed,767108.76,,2951010.563,2014

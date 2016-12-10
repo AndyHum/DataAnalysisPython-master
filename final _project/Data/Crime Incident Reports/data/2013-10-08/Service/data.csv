@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25629,130641986.0,Tuesday,No,2013-10-08T11:06:00.000,Service,"[-71.112411, 42.284053]",Point,Service,10,ARREST,0,E18,Day,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2013
+95981,130641843.0,Tuesday,No,2013-10-08T09:49:00.000,Service,"[-71.05799, 42.294706]",Point,Service,10,ARREST,364,C11,Day,No,CENTRE ST,Part three,Unarmed,775753.1538,,2932728.5919999997,2013
+102122,130643006.0,Tuesday,No,2013-10-08T18:10:00.000,Service,"[-71.082485, 42.332456]",Point,Service,10,SSTOP ,276,B2,First,No,WILLIAMS ST,Part three,Unarmed,769058.7207,,2946451.916,2013
+123119,130641938.0,Tuesday,No,2013-10-08T11:15:00.000,Service,"[-71.04625, 42.354256]",Point,Service,10,CD11  ,207,C6,Day,No,COURTHOUSE WY,Part three,Other,778813.9495,,2954446.2630000003,2013
+175140,130641629.0,Tuesday,No,2013-10-08T08:30:00.000,Service,"[-71.065491, 42.305384]",Point,Service,10,CD11  ,340,C11,Day,No,DRAPER ST,Part three,Unarmed,773703.9466,,2936609.337,2013
+252332,130643229.0,Tuesday,No,2013-10-08T12:58:00.000,Service,"[-71.10017, 42.349336]",Point,Service,10,AOD   ,622,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,764248.0722,,2952580.394,2013
+264081,130643484.0,Tuesday,No,2013-10-08T09:31:00.000,Service,"[0, 0]",Point,Service,10,INVEST,257,C11,Day,No,LAWRENCE AV,Other,Unarmed,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39995,142037808.0,Friday,No,2014-10-10T14:00:00.000,PersMiss,"[-71.097081, 42.319472]",Point,PersMiss,10,MISSIN,0,B2,Day,No,DIMOCK ST,Other,Unarmed,765134.3663,,2941701.057,2014
+79787,142038153.0,Friday,No,2014-10-10T19:00:00.000,PersMiss,"[-71.071171, 42.285811]",Point,PersMiss,10,IVPER,0,C11,First,No,WASHINGTON ST,Other,Unarmed,772203.2275,,2929468.745,2014
+214380,142037877.0,Friday,No,2014-10-10T11:40:00.000,PersMiss,"[-71.04206, 42.317766]",Point,PersMiss,10,MISSIN,0,C6,Day,No,MT VERNON ST,Other,Unarmed,780017.8828,,2941154.74,2014

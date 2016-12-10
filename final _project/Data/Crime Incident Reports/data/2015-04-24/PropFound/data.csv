@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67,152033514.0,Friday,No,2015-04-24T22:30:00.000,PropFound,"[0, 0]",Point,PropFound,4,PROP,0,E13,First,No,FOREST HILLS ET DR,Part three,Unarmed,,,,2015
+48796,152033406.0,Friday,No,2015-04-24T15:30:00.000,PropFound,"[-71.08058, 42.339166]",Point,PropFound,4,PROP,0,D4,Day,No,TREMONT ST,Part three,Unarmed,769561.7843,MASSACHUSETTS AV,2948899.687,2015
+183957,152033281.0,Friday,No,2015-04-24T08:30:00.000,PropFound,"[-71.10686, 42.316936]",Point,PropFound,4,PROP,0,E13,Day,No,CHESTNUT AV,Part three,Unarmed,762494.078,,2940764.835,2015
+231034,152033594.0,Friday,No,2015-04-24T15:30:00.000,PropFound,"[-71.07632, 42.350356]",Point,PropFound,4,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2015

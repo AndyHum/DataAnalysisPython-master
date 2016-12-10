@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23402,152011394.0,Thursday,No,2015-02-12T02:30:00.000,MedAssist,"[-71.136398, 42.301464]",Point,MedAssist,2,INJOFF,0,E13,Last,No,ALLANDALE ST,Part three,Unarmed,754529.2323,,2935091.128,2015
+31975,152011592.0,Thursday,No,2015-02-12T20:00:00.000,MedAssist,"[-71.10602, 42.310071]",Point,MedAssist,2,UNCONS,0,E13,First,No,GREEN ST,Part three,Unarmed,762732.8157,,2938264.162,2015
+46377,152011381.0,Thursday,No,2015-02-12T01:42:00.000,MedAssist,"[-71.053495, 42.363836]",Point,MedAssist,2,IVPER,0,A1,Last,No,NORTH SQ,Part three,Unarmed,776837.1579,,2957926.771,2015
+65495,152011528.0,Thursday,No,2015-02-12T15:35:00.000,MedAssist,"[-71.10985, 42.264676]",Point,MedAssist,2,IVPREM,0,E18,Day,No,WOOD AV,Part three,Other,761772.5295,,2921716.787,2015
+78510,152011377.0,Thursday,No,2015-02-12T01:24:00.000,MedAssist,"[-71.069555, 42.272641]",Point,MedAssist,2,UNCONS,0,C11,Last,No,WASHINGTON ST,Part three,Unarmed,772664.8342,,2924671.8,2015
+94639,152011379.0,Thursday,No,2015-02-12T02:10:00.000,MedAssist,"[-71.051505, 42.338226]",Point,MedAssist,2,INJOFF,0,C6,Last,No,D ST,Part three,Unarmed,777424.2715,,2948597.127,2015
+103517,152011465.0,Thursday,No,2015-02-12T11:45:00.000,MedAssist,"[-71.144762, 42.341805]",Point,MedAssist,2,INJOFF,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,752205.4496,,2949782.3419999997,2015
+124138,152011423.0,Thursday,No,2015-02-12T08:00:00.000,MedAssist,"[-71.061933, 42.287398]",Point,MedAssist,2,IVPER,0,C11,Day,No,DRACUT ST,Part three,Other,774699.9919,,2930059.777,2015
+167321,152011522.0,Thursday,No,2015-02-12T15:15:00.000,MedAssist,"[-71.08383, 42.307431]",Point,MedAssist,2,EDP,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,768739.5428,,2937330.608,2015
+189474,152011391.0,Thursday,No,2015-02-12T04:25:00.000,MedAssist,"[-71.140865, 42.348921]",Point,MedAssist,2,REQP,0,D14,Last,No,WARREN ST,Part three,Unarmed,753248.1867,,2952380.2180000003,2015
+240620,152011501.0,Thursday,No,2015-02-12T14:17:00.000,MedAssist,"[-71.05137, 42.332641]",Point,MedAssist,2,UNCONS,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,777471.4752,,2946562.0489999996,2015
+261855,152011517.0,Thursday,No,2015-02-12T14:50:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,ALARM,0,A7,Day,No,MAVERICK ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20576,130493588.0,Wednesday,No,2013-08-07T13:29:00.000,07RV,"[-71.10316, 42.326236]",Point,07RV,8,RECMV ,584,E13,Day,No,HEATH ST,Other,Unarmed,763478.9920000001,,2944158.5510000004,2013
+65752,130492912.0,Wednesday,No,2013-08-07T01:15:00.000,07RV,"[-71.096574, 42.328863]",Point,07RV,8,RECMVI,291,B2,Last,No,COLUMBUS AV,Other,Other,765255.1768,,2945124.079,2013
+196471,130492815.0,Wednesday,No,2013-08-07T00:13:00.000,07RV,"[-71.040135, 42.379591]",Point,07RV,8,STOLMV,26,A7,Last,No,BORDER ST,Other,Unarmed,780417.0241,,2963687.684,2013

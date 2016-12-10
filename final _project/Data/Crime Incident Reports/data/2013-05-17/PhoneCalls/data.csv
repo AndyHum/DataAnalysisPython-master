@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99086,130295610.0,Friday,No,2013-05-17T18:00:00.000,PhoneCalls,"[-71.12326, 42.242486]",Point,PhoneCalls,5,IVPER ,524,E18,First,No,NEEDHAM RD,Part Three,Unarmed,758178.4586,,2913614.1539999996,2013
+242727,130295913.0,Friday,No,2013-05-17T23:46:00.000,PhoneCalls,"[-71.094985, 42.338026]",Point,PhoneCalls,5,HARPT ,617,D4,Last,No,HUNTINGTON AV,Part Three,Other,765669.2314,,2948465.4289999995,2013
+247355,130311115.0,Friday,No,2013-05-17T17:00:00.000,PhoneCalls,"[-71.083645, 42.341856]",Point,PhoneCalls,5,HARPT ,145,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,768728.349,,2949875.913,2013

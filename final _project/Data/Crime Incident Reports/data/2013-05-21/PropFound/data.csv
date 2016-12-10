@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4764,130304986.0,Tuesday,No,2013-05-21T15:30:00.000,PropFound,"[-71.16615, 42.340071]",Point,PropFound,5,LSTPRP,750,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,746425.8056,LAKE ST,2949127.332,2013
+46223,130304441.0,Tuesday,No,2013-05-21T13:12:00.000,PropFound,"[-71.07986, 42.345081]",Point,PropFound,5,FDPROP,146,D4,Day,No,FOLLEN ST,Part three,Unarmed,769745.8259,,2951056.18,2013
+262282,130303817.0,Tuesday,No,2013-05-21T09:45:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,462,C11,Day,No,BOWDOIN ST,Part Three,Unarmed,,,,2013

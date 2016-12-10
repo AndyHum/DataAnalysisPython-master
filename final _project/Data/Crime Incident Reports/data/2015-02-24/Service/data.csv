@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39615,152014961.0,Tuesday,No,2015-02-24T16:18:00.000,Service,"[-71.059295, 42.356476]",Point,Service,2,LARCEN,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775283.7829999999,,2955236.785,2015
+56173,152014788.0,Tuesday,No,2015-02-24T00:33:00.000,Service,"[-71.08185, 42.279916]",Point,Service,2,ARREST,0,B3,Last,No,MORTON ST,Part three,Unarmed,769324.2782,,2927306.356,2015
+84055,152014889.0,Tuesday,No,2015-02-24T09:40:00.000,Service,"[-71.062825, 42.361341]",Point,Service,2,ARREST,0,A1,Day,No,BOWDOIN SQ,Part three,Unarmed,774320.5907,,2957004.776,2015
+92811,152015062.0,Tuesday,No,2015-02-24T21:51:00.000,Service,"[-71.08562, 42.301656]",Point,Service,2,IVPER,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,768265.5812,GLENWAY ST,2935223.75,2015
+208708,152015001.0,Tuesday,No,2015-02-24T18:30:00.000,Service,"[-71.066195, 42.316026]",Point,Service,2,SS,0,B2,First,No,COLUMBIA RD,Part three,Unarmed,773493.7866,HANCOCK ST,2940486.5289999996,2015
+226049,152014872.0,Tuesday,No,2015-02-24T11:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+259409,152015010.0,Tuesday,No,2015-02-24T17:19:00.000,Service,"[-71.0833, 42.326901]",Point,Service,2,IVPER,0,B2,First,No,WARREN ST,Part three,Firearm,768848.2427,,2944426.499,2015
+262395,152014973.0,Tuesday,No,2015-02-24T16:44:00.000,Service,"[0, 0]",Point,Service,2,IVPER,0,C6,First,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

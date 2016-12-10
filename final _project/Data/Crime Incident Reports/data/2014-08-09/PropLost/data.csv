@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21783,142018224.0,Saturday,No,2014-08-09T02:00:00.000,PropLost,"[-71.17018, 42.288276]",Point,PropLost,8,PROP,0,E5,Last,No,GLENHAM ST,Part three,Unarmed,745409.2532,,2930248.066,2014
+47623,142017742.0,Saturday,No,2014-08-09T16:51:00.000,PropLost,"[-71.124662, 42.253324]",Point,PropLost,8,LARCEN,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,757781.442,,2917561.938,2014
+91602,142018469.0,Saturday,No,2014-08-09T10:20:00.000,PropLost,"[-71.104895, 42.337681]",Point,PropLost,8,PROP,0,B2,Day,No,LONGWOOD AV,Part three,Other,762990.5031,,2948327.137,2014
+127953,142020573.0,Saturday,No,2014-08-09T17:00:00.000,PropLost,"[-71.05181, 42.359651]",Point,PropLost,8,PROP,0,A1,First,No,STATE ST,Part three,Unarmed,777300.7852,ATLANTIC AV,2956404.357,2014
+131417,142017789.0,Saturday,No,2014-08-09T19:30:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,8,PROP,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+146269,142017804.0,Saturday,No,2014-08-09T22:30:00.000,PropLost,"[-71.03981, 42.376191]",Point,PropLost,8,PROP,0,A7,First,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2014
+187171,142017634.0,Saturday,No,2014-08-09T01:00:00.000,PropLost,"[-71.13241, 42.353026]",Point,PropLost,8,LARCEN,0,D14,Last,No,BRIGHTON AV,Part three,Unarmed,755527.2809,,2953885.8989999997,2014
+207178,142017784.0,Saturday,No,2014-08-09T16:30:00.000,PropLost,"[-71.074855, 42.350756]",Point,PropLost,8,IVPER,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2014
+209716,142017846.0,Saturday,No,2014-08-09T22:10:00.000,PropLost,"[-71.05718, 42.342551]",Point,PropLost,8,MISC,0,C6,First,No,W BROADWAY,Part three,Unarmed,775881.7799,DORCHESTER AV,2950165.2180000003,2014
+263489,142017934.0,Saturday,No,2014-08-09T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,PROP,0,A15,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2014

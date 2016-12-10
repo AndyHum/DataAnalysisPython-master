@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10230,130488547.0,Monday,No,2013-08-05T10:50:00.000,FORGERY,"[-71.094727, 42.26796]",Point,10xx,8,LARCIP,476,B3,Day,No,CUMMINS HY,Part Two,Unarmed,765860.1933,,2922932.318,2013
+122685,140118148.0,Monday,No,2013-08-05T00:00:00.000,FORGERY,"[-71.054444, 42.289968]",Point,10xx,8,LARCRT,367,C11,Last,No,GARNER RD,Part Two,Unarmed,776721.309,,2931006.7810000004,2013
+153935,130488836.0,Monday,No,2013-08-05T13:00:00.000,FORGERY,"[-71.088465, 42.293526]",Point,10xx,8,LARCRT,465,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,767510.2474,,2932257.329,2013
+226523,130517501.0,Monday,No,2013-08-05T09:00:00.000,FORGERY,"[-71.062109, 42.358107]",Point,10xx,8,LARCRT,72,A1,Day,No,BEACON ST,Part Two,Unarmed,774520.0939,,2955827.087,2013

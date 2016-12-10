@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10955,152001527.0,Tuesday,No,2015-01-06T14:30:00.000,MVAcc,"[-71.05882, 42.325971]",Point,MVAcc,1,MVA,0,C6,Day,No,BOSTON ST,Other,Unarmed,775469.6678,WASHBURN ST,2944120.881,2015
+35006,152001569.0,Tuesday,No,2015-01-06T16:20:00.000,MVAcc,"[-71.05691, 42.328021]",Point,MVAcc,1,MVA,0,C6,First,No,DORCHESTER AV,Other,Other,775982.28,OCONNOR WY,2944870.6119999997,2015
+101562,152001431.0,Tuesday,No,2015-01-06T05:49:00.000,MVAcc,"[-71.04778, 42.292776]",Point,MVAcc,1,MVA,0,C11,Last,No,MORRISSEY BL,Other,Unarmed,778519.0387,,2932039.6360000004,2015
+107371,152001556.0,Tuesday,No,2015-01-06T15:46:00.000,MVAcc,"[-71.10258, 42.311411]",Point,MVAcc,1,INVEST,0,E13,Day,No,WASHINGTON ST,Other,Unarmed,763661.0047,PETER PARLEY RD,2938756.797,2015
+201920,152001537.0,Tuesday,No,2015-01-06T14:45:00.000,MVAcc,"[-71.1549, 42.286141]",Point,MVAcc,1,IVPREM,0,E5,Day,No,COREY ST,Other,Unarmed,749546.8301,CENTRE ST,2929486.395,2015
+261869,152001570.0,Tuesday,No,2015-01-06T16:25:00.000,MVAcc,"[0, 0]",Point,MVAcc,1,MVA,0,B3,First,No,BLUE HILL AV,Other,Unarmed,,,,2015

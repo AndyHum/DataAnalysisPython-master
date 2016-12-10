@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22541,,Thursday,No,2015-07-09T10:20:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,0,,,No,,Part Two,None,,HARRISON AVE,,2015
+43270,,Thursday,No,2015-07-09T00:00:00.000,Assembly or Gathering Violations,"[-71.058524, 42.359721]",Point,Gather,7,I00039,92,A1,,No,CITY HALL PLZ,Part Three,None,775486.0,,2960000.0,2015
+60324,,Thursday,No,2015-07-09T13:39:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,593,B2,,No,BINNEY ST,Part Two,None,,FRANCIS ST,,2015
+77512,,Thursday,No,2015-07-09T00:00:00.000,Restraining Order Violations,"[-71.068629, 42.304435]",Point,Restrain,7,VIORDR,342,C11,,No,TOPLIFF ST,Part Two,None,772857.0,,2940000.0,2015
+131994,,Thursday,No,2015-07-09T00:00:00.000,Restraining Order Violations,"[-71.079207, 42.291277]",Point,Restrain,7,VIORDR,439,B3,,No,BERNARD ST,Part Two,None,770019.0,,2930000.0,2015
+134810,,Thursday,No,2015-07-09T17:42:00.000,Violations,"[0, 0]",Point,VAL,7,IVMV,466,B3,,No,BLUE HILL AVE,Part Two,None,, MORTON ST ,,2015
+200215,,Thursday,No,2015-07-09T00:00:00.000,Assembly or Gathering Violations,"[-71.066859, 42.361697]",Point,Gather,7,IVPREM,65,A1,,No,BLOSSOM ST,Part Three,None,773230.0,,2960000.0,2015

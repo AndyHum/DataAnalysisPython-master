@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9564,120550682.0,Monday,No,2012-09-03T16:41:00.000,InvProp,"[-71.082487, 42.302716]",Point,InvProp,9,SHOTS ,458,B3,First,No,WOLCOTT ST,Part Three,Unarmed,769111.0059999999,,2935614.0689999997,2012
+21019,120550013.0,Monday,No,2012-09-03T09:23:00.000,InvProp,"[-71.06219, 42.299251]",Point,InvProp,9,DMV   ,356,C11,Day,No,FREEMAN ST,Part Three,Unarmed,774608.3472,FAULKNER ST,2934378.995,2012
+140013,120550639.0,Monday,No,2012-09-03T05:00:00.000,InvProp,"[-71.07157, 42.284188]",Point,InvProp,9,IVPER ,933,C11,Last,No,WASHINGTON ST,Part Three,Unarmed,772098.3196,,2928876.74,2012

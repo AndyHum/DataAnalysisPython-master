@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151901,140024778.0,Sunday,No,2014-01-12T08:00:00.000,PropLost,"[-71.04739, 42.332326]",Point,PropLost,1,LSTPRP,219,C6,Day,No,OLD HARBOR ST,Part three,Unarmed,778548.2233,,2946452.942,2014
+192315,140025151.0,Sunday,No,2014-01-12T19:30:00.000,PropLost,"[-71.055307, 42.328285]",Point,PropLost,1,LSTPRP,914,C6,First,No,LOGAN WY,Part three,Unarmed,776415.2056,,2944969.124,2014
+231355,140022571.0,Sunday,No,2014-01-12T02:45:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,1,FDPROP,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+240467,140022948.0,Sunday,No,2014-01-12T09:00:00.000,PropLost,"[-71.0553, 42.352571]",Point,PropLost,1,LSTPRP,173,A1,Day,No,SUMMER ST,Part three,Unarmed,776370.9908,,2953819.333,2014

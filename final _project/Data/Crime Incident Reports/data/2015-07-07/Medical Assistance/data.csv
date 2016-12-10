@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63266,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.093496, 42.283628]",Point,MedAssist,7,EDP,466,B3,,No,GOODALE RD,Part Three,None,766166.0,,2930000.0,2015
+64301,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.113563, 42.316748]",Point,MedAssist,7,ALARM,641,E13,,No,CENTRE ST,Part Three,None,760682.0,,2940000.0,2015
+67589,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.065608, 42.314248]",Point,MedAssist,7,IVPER,257,C11,,No,HANCOCK ST,Part Three,None,773656.0,,2940000.0,2015
+84292,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.10175, 42.276394]",Point,MedAssist,7,EDP,470,B3,,No,ALABAMA ST,Part Three,None,763945.0,,2930000.0,2015
+90405,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.062135, 42.356375]",Point,MedAssist,7,IVPER,119,A1,,No,TREMONT ST,Part Three,None,774516.0,,2960000.0,2015
+122332,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.148221, 42.287094]",Point,MedAssist,7,INJOFF,691,E5,,No,CENTRE ST,Part Three,None,751352.0,,2930000.0,2015
+167288,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.066221, 42.274218]",Point,MedAssist,7,UNKEMS,388,C11,,No,RICHMOND ST,Part Three,None,773564.0,,2930000.0,2015
+183475,,Tuesday,No,2015-07-07T11:05:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,CD7,709,E5,,No,CENTRE ST,Part Three,None,,,,2015
+218770,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.115945, 42.321583]",Point,MedAssist,7,UNKEMS,610,E13,,No,PERKINS SQ,Part Three,None,760029.0,,2940000.0,2015
+239654,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.054679, 42.341288]",Point,MedAssist,7,INJOFF,200,C6,,No,W BROADWAY,Part Three,None,776560.0,,2950000.0,2015
+243313,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.065255, 42.352418]",Point,MedAssist,7,IVPER,119,A1,,No,BOYLSTON ST,Part Three,None,773680.0,,2950000.0,2015
+254648,,Tuesday,No,2015-07-07T00:00:00.000,Medical Assistance,"[-71.068139, 42.284004]",Point,MedAssist,7,LANTEN,402,C11,,No,BAILEY ST,Part Three,None,773027.0,,2930000.0,2015

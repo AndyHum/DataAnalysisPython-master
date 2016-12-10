@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44807,130432940.0,Friday,No,2013-07-12T15:00:00.000,Arrest,"[-71.092145, 42.330171]",Point,Arrest,7,SSTOP ,0,B2,Day,No,ROXBURY ST,Part three,Unarmed,766450.7531,,2945606.584,2013
+124945,130429699.0,Friday,No,2013-07-12T09:08:00.000,Arrest,"[-71.050303, 42.333285]",Point,Arrest,7,IVPER ,216,C6,Day,No,DORCHESTER ST,Part three,Other,777758.5140000001,,2946797.986,2013
+159076,130430295.0,Friday,No,2013-07-12T13:50:00.000,Arrest,"[-71.06424, 42.351631]",Point,Arrest,7,ARREST,117,A1,Day,No,TAMWORTH ST,Part three,Unarmed,773956.2440000001,LAGRANGE ST,2953464.307,2013

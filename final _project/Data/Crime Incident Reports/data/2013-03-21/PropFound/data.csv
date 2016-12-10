@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7395,130165524.0,Thursday,No,2013-03-21T00:15:00.000,PropFound,"[-71.10301, 42.343576]",Point,PropFound,3,FDPROP,628,D4,Last,No,PARK DR,Part Three,Unarmed,763490.1442,,2950477.753,2013
+42976,130166045.0,Thursday,No,2013-03-21T08:00:00.000,PropFound,"[-71.068932, 42.312299]",Point,PropFound,3,LARCRT,331,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,772760.1686,,2939124.445,2013
+194630,130166826.0,Thursday,No,2013-03-21T16:00:00.000,PropFound,"[-71.06122, 42.365521]",Point,PropFound,3,IVPREM,61,A1,First,No,CAUSEWAY ST,Part Three,Other,774746.5282,CANAL ST,2958530.278,2013
+261195,130167337.0,Thursday,No,2013-03-21T20:00:00.000,PropFound,"[0, 0]",Point,PropFound,3,INVEST,70,A1,First,No,JOY ST,Part Three,Unarmed,,,,2013

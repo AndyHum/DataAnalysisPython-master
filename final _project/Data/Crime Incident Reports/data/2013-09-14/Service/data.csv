@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73912,130586666.0,Saturday,No,2013-09-14T23:10:00.000,Service,"[-71.07634, 42.292071]",Point,Service,9,IVPER ,449,B3,First,No,MILLET ST,Part three,Unarmed,770793.3514,,2931743.167,2013
+137453,130585662.0,Saturday,No,2013-09-14T15:13:00.000,Service,"[-71.06969, 42.318951]",Point,Service,9,ARREST,259,B2,Day,No,DUDLEY ST,Part three,Unarmed,772543.1582,MAGNOLIA ST,2941547.6580000003,2013
+175534,130585942.0,Saturday,No,2013-09-14T17:25:00.000,Service,"[-71.06651, 42.306701]",Point,Service,9,ARREST,340,C11,First,No,BOWDOIN ST,Part three,Unarmed,773425.8620000001,DRAPER ST,2937087.9189999998,2013

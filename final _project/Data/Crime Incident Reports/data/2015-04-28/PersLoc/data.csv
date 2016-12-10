@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79221,152035030.0,Tuesday,No,2015-04-28T15:00:00.000,PersLoc,"[-71.137471, 42.246781]",Point,PersLoc,4,MISSIN,0,E18,Day,No,ALVARADO AV,Other,Unarmed,754323.6353,,2915162.3839999996,2015
+121364,152034677.0,Tuesday,No,2015-04-28T15:55:00.000,PersLoc,"[-71.065893, 42.283662]",Point,PersLoc,4,IVPER,0,C11,Day,No,FULLER ST,Other,Unarmed,773635.2414,,2928692.7430000002,2015
+136017,152034566.0,Tuesday,No,2015-04-28T13:30:00.000,PersLoc,"[-71.085295, 42.314416]",Point,PersLoc,4,IVPER,0,B2,Day,No,WABON ST,Other,Unarmed,768330.8947,,2939874.1289999997,2015

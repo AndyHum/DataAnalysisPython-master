@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25807,130262951.0,Friday,No,2013-05-03T22:01:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,5,FDPROP,794,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+54993,130261014.0,Friday,No,2013-05-03T06:20:00.000,PropFound,"[-71.133978, 42.351961]",Point,PropFound,5,FDPROP,778,D14,Last,No,QUINT AV,Part three,Unarmed,755104.91,,2953495.785,2013
+181950,130261728.0,Friday,No,2013-05-03T08:30:00.000,PropFound,"[-71.06236, 42.313331]",Point,PropFound,5,FDPROP,823,C11,Day,No,CUSHING AV,Part Three,Other,774536.0316,SALCOMBE ST,2939509.7260000003,2013
+228501,130260600.0,Friday,No,2013-05-03T00:30:00.000,PropFound,"[-71.08561, 42.309006]",Point,PropFound,5,FDPROP,319,B2,Last,No,MAPLE ST,Part Three,Unarmed,768255.2731,,2937902.2189999996,2013
+237458,130263802.0,Friday,No,2013-05-03T10:00:00.000,PropFound,"[-71.11406, 42.313201]",Point,PropFound,5,FDPROP,642,E13,Day,No,CENTRE ST,Part Three,Unarmed,760552.9634,MYRTLE ST,2939394.845,2013
+248014,130262104.0,Friday,No,2013-05-03T16:45:00.000,PropFound,"[-71.056003, 42.351606]",Point,PropFound,5,IVPREM,115,A1,First,No,ATLANTIC AV,Part Three,Unarmed,776182.564,,2953466.568,2013

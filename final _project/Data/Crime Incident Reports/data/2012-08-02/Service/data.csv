@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13987,120477007.0,Thursday,No,2012-08-02T10:10:00.000,Service,"[-71.041075, 42.334656]",Point,Service,8,IVPER ,225,C6,Day,No,E 4TH ST,Part Three,Unarmed,780251.1540000001,,2947311.1580000003,2012
+82738,120477096.0,Thursday,No,2012-08-02T10:35:00.000,Service,"[-71.088555, 42.293241]",Point,Service,8,SSTOP ,463,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,767486.3984,,2932153.353,2012
+129125,120478032.0,Thursday,No,2012-08-02T17:44:00.000,Service,"[-71.05936, 42.351041]",Point,Service,8,ARREST,116,A1,First,No,BEACH ST,Part Three,Unarmed,775276.4461,SURFACE RD,2953256.077,2012

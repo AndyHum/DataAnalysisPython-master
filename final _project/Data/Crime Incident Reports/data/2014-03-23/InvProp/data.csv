@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59226,140176005.0,Sunday,No,2014-03-23T09:19:00.000,InvProp,"[-71.128006, 42.307089]",Point,InvProp,3,LARCRT,655,E13,Day,No,MOSS HILL RD,Part three,Unarmed,756790.6924,,2937150.6,2014
+84275,140176426.0,Sunday,No,2014-03-23T02:04:00.000,InvProp,"[-71.060929, 42.312194]",Point,InvProp,3,BERPTA,823,C11,Last,No,SAWYER AV,Part three,Unarmed,774925.0232,,2939097.247,2014
+114438,140175681.0,Sunday,No,2014-03-23T02:20:00.000,InvProp,"[-71.07322, 42.354326]",Point,InvProp,3,VANRPT,134,D4,Last,No,MARLBOROUGH ST,Part three,Other,771523.9831,BERKELEY ST,2954434.147,2014
+256254,140176713.0,Sunday,No,2014-03-23T16:51:00.000,InvProp,"[-71.077413, 42.34321]",Point,InvProp,3,AU    ,153,D4,First,No,PEMBROKE ST,Part three,Unarmed,770410.4653,,2950377.4110000003,2014

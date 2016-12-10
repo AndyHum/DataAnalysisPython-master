@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53966,152049084.0,Saturday,No,2015-06-13T12:23:00.000,Service,"[-71.095235, 42.276842]",Point,Service,6,IVPER,0,B3,Day,No,HIAWATHA RD,Part three,Unarmed,765707.4298,,2926168.385,2015
+78803,152049067.0,Saturday,No,2015-06-13T16:43:00.000,Service,"[-71.05835, 42.357481]",Point,Service,6,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775537.3061,SCHOOL ST,2955604.347,2015
+124062,152049135.0,Saturday,No,2015-06-13T20:55:00.000,Service,"[-71.059987, 42.361648]",Point,Service,6,CD11,0,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+169774,152049098.0,Saturday,No,2015-06-13T12:00:00.000,Service,"[-71.060845, 42.355056]",Point,Service,6,MISC,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2015

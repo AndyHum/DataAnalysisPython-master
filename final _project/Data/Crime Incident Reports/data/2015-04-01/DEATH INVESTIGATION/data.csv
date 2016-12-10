@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135044,152026475.0,Wednesday,No,2015-04-01T15:45:00.000,DEATH INVESTIGATION,"[-71.065463, 42.312484]",Point,01INV,4,ALARM,0,C11,Day,No,TRULL ST,Part three,Unarmed,773698.2790000001,,2939196.77,2015
+144721,152026553.0,Wednesday,No,2015-04-01T15:45:00.000,DEATH INVESTIGATION,"[-71.065463, 42.312484]",Point,01INV,4,IVPREM,0,C11,Day,No,TRULL ST,Part three,Unarmed,773698.2790000001,,2939196.77,2015
+176978,152026568.0,Wednesday,No,2015-04-01T21:58:00.000,DEATH INVESTIGATION,"[-71.118955, 42.273566]",Point,01INV,4,UNCONS,0,E18,First,No,CLARE AV,Part three,Unarmed,759293.5338,,2924945.284,2015

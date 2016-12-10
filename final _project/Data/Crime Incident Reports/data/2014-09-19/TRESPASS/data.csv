@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4175,142031059.0,Friday,No,2014-09-19T17:00:00.000,TRESPASS,"[-71.081656, 42.330447]",Point,TRESPASS,9,IVPREM,0,B2,First,No,HARRISON AV,Part Two,Other,769286.3327,,2945720.856,2014
+214947,142030891.0,Friday,No,2014-09-19T12:00:00.000,TRESPASS,"[-71.03813, 42.377501]",Point,TRESPASS,9,ARREST,0,A7,Day,No,LEXINGTON ST,Part Two,Knife,780962.8688,,2962928.974,2014
+228796,142031051.0,Friday,No,2014-09-19T19:00:00.000,TRESPASS,"[-71.05253, 42.326571]",Point,TRESPASS,9,IVPER,0,C6,First,No,OLD COLONY AV,Part Two,Unarmed,777169.4318,,2944348.39,2014

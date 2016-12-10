@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63742,142005714.0,Thursday,No,2014-07-03T18:00:00.000,32GUN,"[-71.059735, 42.297541]",Point,32GUN,7,FDWEAP,0,C11,First,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+217391,142005535.0,Thursday,No,2014-07-03T10:11:00.000,32GUN,"[-71.054711, 42.341305]",Point,32GUN,7,FDWEAP,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014

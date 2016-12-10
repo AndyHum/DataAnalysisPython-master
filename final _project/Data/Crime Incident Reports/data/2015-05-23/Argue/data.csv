@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16631,152042415.0,Saturday,No,2015-05-23T17:15:00.000,Argue,"[-71.07618, 42.345076]",Point,Argue,5,FIGHT,0,D4,First,No,COLUMBUS AV,Part three,Unarmed,770740.6628,,2951059.28,2015
+98341,152042478.0,Saturday,No,2015-05-23T22:15:00.000,Argue,"[-71.075539, 42.301738]",Point,Argue,5,IVPER,0,C11,First,No,BOWDOIN AV,Part three,Unarmed,770992.4228,,2935266.7830000003,2015
+105947,152042384.0,Saturday,No,2015-05-23T15:40:00.000,Argue,"[-71.12366, 42.257651]",Point,Argue,5,DVIP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,758045.7614,,2919139.9889999996,2015

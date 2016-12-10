@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30519,142026891.0,Saturday,No,2014-09-06T19:00:00.000,PropFound,"[-71.134106, 42.349002]",Point,PropFound,9,IVPREM,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,755074.9875,,2952417.195,2014
+141403,142026829.0,Saturday,No,2014-09-06T15:13:00.000,PropFound,"[-71.07777, 42.319561]",Point,PropFound,9,PROP,0,B2,Day,No,BLUE HILL AV,Part three,Knife,770356.8595,,2941759.0319999997,2014
+158925,142026935.0,Saturday,No,2014-09-06T21:22:00.000,PropFound,"[-71.106952, 42.264486]",Point,PropFound,9,SUSOBJ,0,E18,First,No,BLAKE ST,Part three,Unarmed,762557.0837,,2921650.892,2014
+205127,142026965.0,Saturday,No,2014-09-06T22:00:00.000,PropFound,"[-71.05781, 42.358881]",Point,PropFound,9,PROP,0,A1,First,No,CORNHILL ST,Part three,Unarmed,775680.6126,,2956115.29,2014

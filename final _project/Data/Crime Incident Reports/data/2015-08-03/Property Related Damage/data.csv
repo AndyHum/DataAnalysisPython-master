@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+170614,,Monday,No,2015-08-03T00:00:00.000,Property Related Damage,"[-71.170592, 42.273202]",Point,PropDam,8,CD11,722,E5,,No,SPRING ST,Part Three,None,745319.0,,2920000.0,2015
+180086,,Monday,No,2015-08-03T00:00:00.000,Property Related Damage,"[-71.154154, 42.292115]",Point,PropDam,8,IVPREM,692,E5,,No,ALAMEDA RD,Part Three,None,749740.0,,2930000.0,2015
+203439,,Monday,No,2015-08-03T00:00:00.000,Property Related Damage,"[-71.076101, 42.320525]",Point,PropDam,8,IVPREM,184,B2,,No,E COTTAGE ST,Part Three,None,770806.0,,2940000.0,2015

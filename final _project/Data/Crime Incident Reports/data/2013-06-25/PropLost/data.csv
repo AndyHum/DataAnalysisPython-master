@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109707,130388006.0,Tuesday,No,2013-06-25T10:00:00.000,PropLost,"[-71.033275, 42.332751]",Point,PropLost,6,LSTPRP,230,C6,Day,No,M ST,Part three,Unarmed,782363.8988,,2946628.387,2013
+226174,130389172.0,Tuesday,No,2013-06-25T20:00:00.000,PropLost,"[-71.126385, 42.243296]",Point,PropLost,6,LSTPRP,525,E18,First,No,TRUMAN PY,Part three,Unarmed,757330.9954,,2913905.604,2013
+245930,130391064.0,Tuesday,No,2013-06-25T18:00:00.000,PropLost,"[-71.08586, 42.295476]",Point,PropLost,6,LSTPRP,441,B3,First,No,HARVARD ST,Part three,Unarmed,768211.5908,,2932971.349,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51529,152013183.0,Wednesday,No,2015-02-18T14:30:00.000,PropDam,"[-71.15265, 42.276781]",Point,PropDam,2,IVPER,0,E5,Day,No,LAGRANGE ST,Part three,Other,750169.5403,,2926077.94,2015
+115743,152013144.0,Wednesday,No,2015-02-18T14:10:00.000,PropDam,"[-71.071255, 42.341771]",Point,PropDam,2,PROP,0,D4,Day,No,SHAWMUT AV,Part three,Other,772078.1113,,2949861.5310000004,2015
+253526,152014719.0,Wednesday,No,2015-02-18T22:00:00.000,PropDam,"[-71.032995, 42.379786]",Point,PropDam,2,PROP,0,A7,First,No,PUTNAM ST,Part three,Unarmed,782345.7609999999,,2963769.228,2015
+262798,152013640.0,Wednesday,No,2015-02-18T16:00:00.000,PropDam,"[0, 0]",Point,PropDam,2,PROP,0,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,,,,2015

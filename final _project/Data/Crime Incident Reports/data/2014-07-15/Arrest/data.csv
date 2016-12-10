@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16973,142009283.0,Tuesday,No,2014-07-15T03:15:00.000,Arrest,"[-71.08421, 42.311696]",Point,Arrest,7,IVPER,0,B2,Last,No,HOWLAND ST,Part three,Unarmed,768629.0083,,2938884.2539999997,2014
+179422,142009371.0,Tuesday,No,2014-07-15T12:55:00.000,Arrest,"[-71.060565, 42.361386]",Point,Arrest,7,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,774931.3031,,2957024.314,2014
+243979,142009433.0,Tuesday,No,2014-07-15T15:55:00.000,Arrest,"[-71.095715, 42.313821]",Point,Arrest,7,INVEST,0,E13,Day,No,COLUMBUS AV,Part three,Unarmed,765513.6749,,2939643.768,2014

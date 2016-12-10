@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17547,130724628.0,Thursday,No,2013-11-14T19:30:00.000,SearchWarr,"[-71.085618, 42.32866]",Point,SearchWarr,11,CD11  ,282,B2,First,No,WASHINGTON ST,Part three,Other,768218.0809,,2945064.255,2013
+19860,130724842.0,Thursday,No,2013-11-14T19:50:00.000,SearchWarr,"[0, 0]",Point,SearchWarr,11,MISC  ,282,B2,First,No,FOREST HILLS ST,Part three,Unarmed,,,,2013
+36228,130724293.0,Thursday,No,2013-11-14T17:38:00.000,SearchWarr,"[-71.09016, 42.316561]",Point,SearchWarr,11,CD11  ,312,B2,First,No,HAROLD ST,Part three,Other,767011.3241,HOLWORTHY ST,2940649.437,2013
+131720,130724615.0,Thursday,No,2013-11-14T17:55:00.000,SearchWarr,"[-71.06758, 42.340921]",Point,SearchWarr,11,CD11  ,164,D4,First,No,HARRISON AV,Part three,Unarmed,773073.2097,,2949556.791,2013
+132741,130723510.0,Thursday,No,2013-11-14T11:45:00.000,SearchWarr,"[-71.059987, 42.361648]",Point,SearchWarr,11,IVPER ,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+143942,130724852.0,Thursday,No,2013-11-14T21:30:00.000,SearchWarr,"[-71.076145, 42.282366]",Point,SearchWarr,11,MISC  ,418,B3,First,No,MILTON AV,Part three,Other,770863.6843,,2928206.789,2013
+198763,130724324.0,Thursday,No,2013-11-14T17:50:00.000,SearchWarr,"[-71.06758, 42.340921]",Point,SearchWarr,11,CD11  ,164,D4,First,No,HARRISON AV,Part three,Unarmed,773073.2097,,2949556.791,2013
+216718,130724309.0,Thursday,No,2013-11-14T17:45:00.000,SearchWarr,"[-71.087308, 42.319456]",Point,SearchWarr,11,CD11  ,308,B2,First,No,MARTIN LUTHER KING BLVD,Part three,Other,767777.4263,,2941708.002,2013

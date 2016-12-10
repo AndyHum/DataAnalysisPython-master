@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+126460,130289939.0,Monday,No,2013-05-13T21:50:00.000,PersMiss,"[-71.070615, 42.320596]",Point,PersMiss,5,MISPER,183,B2,First,No,LEYLAND ST,Part Three,Unarmed,772289.9823,,2942145.8639999996,2013
+219945,130294035.0,Monday,No,2013-05-13T14:30:00.000,PersMiss,"[-71.078657, 42.301454]",Point,PersMiss,5,MISPER,455,B3,Day,No,NORWELL ST,Part Three,Unarmed,770149.4675,,2935159.311,2013
+221576,130287898.0,Monday,No,2013-05-13T15:00:00.000,PersMiss,"[-71.090389, 42.331096]",Point,PersMiss,5,MISPER,290,B2,Day,No,MALCOLM X BL,Part Three,Unarmed,766923.848,,2945945.7830000003,2013

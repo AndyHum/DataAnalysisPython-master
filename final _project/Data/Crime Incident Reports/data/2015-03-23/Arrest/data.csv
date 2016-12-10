@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1038,152023288.0,Monday,No,2015-03-23T11:30:00.000,Arrest,"[0, 0]",Point,Arrest,3,IVPER,0,A1,Day,No,CANAL ST,Part three,Unarmed,,,,2015
+71249,152023161.0,Monday,No,2015-03-23T08:25:00.000,Arrest,"[-71.06768, 42.300426]",Point,Arrest,3,ARREST,0,C11,Day,No,IOWA ST,Part three,Unarmed,773120.9707,,2934799.607,2015
+85533,152023166.0,Monday,No,2015-03-23T08:15:00.000,Arrest,"[-71.063065, 42.315251]",Point,Arrest,3,CD11,0,C11,Day,No,EVERETT AV,Part three,Unarmed,774341.7652,,2940208.4280000003,2015
+169071,152023219.0,Monday,No,2015-03-23T10:36:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,3,ARREST,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+242819,152023216.0,Monday,No,2015-03-23T09:49:00.000,Arrest,"[-71.060554, 42.364937]",Point,Arrest,3,ARREST,0,A1,Day,No,CANAL ST,Part three,Unarmed,774927.5836,,2958318.224,2015

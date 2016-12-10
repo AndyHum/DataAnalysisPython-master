@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93772,120638611.0,Wednesday,No,2012-10-10T05:50:00.000,DISORDERLY,"[-71.0729, 42.333256]",Point,24xx,10,IVPER ,172,D4,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2012
+110786,120637630.0,Wednesday,No,2012-10-10T09:00:00.000,DISORDERLY,"[-71.098485, 42.343391]",Point,24xx,10,TRANSP,627,D4,Day,No,PETERBOROUGH ST,Part Two,Unarmed,764713.7517,,2950416.063,2012
+140916,120638471.0,Wednesday,No,2012-10-10T14:25:00.000,DISORDERLY,"[-71.1021, 42.322896]",Point,24xx,10,IVPER ,912,E13,Day,No,CENTRE ST,Part Two,Unarmed,763771.31,,2942942.731,2012

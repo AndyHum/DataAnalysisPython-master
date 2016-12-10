@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73659,120442806.0,Wednesday,No,2012-07-18T13:30:00.000,Arrest,"[-71.150915, 42.348981]",Point,Arrest,7,ARREST,778,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012
+94418,120444029.0,Wednesday,No,2012-07-18T20:45:00.000,Arrest,"[-71.071135, 42.335176]",Point,Arrest,7,IVPER ,179,D4,First,No,ALBANY ST,Part Three,Unarmed,772122.6365,,2947458.358,2012
+205012,120443384.0,Wednesday,No,2012-07-18T18:58:00.000,Arrest,"[-71.08046, 42.335661]",Point,Arrest,7,ARREST,274,D4,First,No,SHAWMUT AV,Part Three,Unarmed,769600.5096,,2947622.561,2012

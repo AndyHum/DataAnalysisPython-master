@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36689,130726123.0,Friday,No,2013-11-15T14:45:00.000,PropFound,"[-71.06563, 42.307516]",Point,PropFound,11,DISTRB,335,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773662.3883,,2937386.1289999997,2013
+41154,130726463.0,Friday,No,2013-11-15T16:30:00.000,PropFound,"[-71.063675, 42.352301]",Point,PropFound,11,FDPROP,111,A1,First,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+63085,130725229.0,Friday,No,2013-11-15T06:36:00.000,PropFound,"[-71.040745, 42.335561]",Point,PropFound,11,FDPROP,222,C6,Last,No,E BROADWAY,Part three,Unarmed,780338.6026,,2947641.437,2013
+73708,130725792.0,Friday,No,2013-11-15T11:45:00.000,PropFound,"[-71.06252, 42.374816]",Point,PropFound,11,LSTPRP,56,A15,Day,No,PLEASANT ST,Part three,Unarmed,774377.835,,2961915.76,2013
+81357,130728386.0,Friday,No,2013-11-15T15:00:00.000,PropFound,"[-71.06115, 42.364581]",Point,PropFound,11,FDPROP,75,A1,Day,No,FRIEND ST,Part three,Unarmed,774767.2102,,2958187.8210000005,2013
+98408,130726850.0,Friday,No,2013-11-15T20:00:00.000,PropFound,"[-71.120977, 42.267011]",Point,PropFound,11,LSTPRP,496,E18,First,No,HYDE PARK AV,Part three,Unarmed,758756.7157,,2922553.869,2013
+126562,130725937.0,Friday,No,2013-11-15T13:01:00.000,PropFound,"[-71.08781, 42.351296]",Point,PropFound,11,FDPROP,139,D4,Day,No,BEACON ST,Part three,Unarmed,767585.7246,,2953310.56,2013
+141232,130724883.0,Friday,No,2013-11-15T00:02:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,11,FDPROP,520,E18,Last,No,HYDE PARK AV,Part three,Other,757969.2324,,2918691.415,2013

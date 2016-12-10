@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91056,120573061.0,Thursday,No,2012-09-13T06:32:00.000,Service,"[-71.07426, 42.313657]",Point,Service,9,CD11  ,327,B2,Last,No,WAYLAND ST,Part Three,Unarmed,771316.8572,,2939612.229,2012
+224167,120573947.0,Thursday,No,2012-09-13T13:00:00.000,Service,"[-71.091325, 42.284861]",Point,Service,9,ARREST,465,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2012
+226591,120573149.0,Thursday,No,2012-09-13T07:15:00.000,Service,"[-71.077917, 42.343296]",Point,Service,9,TRANSP,153,D4,Last,No,COLUMBUS SQ,Part Three,Unarmed,770274.0752,,2950408.285,2012
+263593,120573561.0,Thursday,No,2012-09-13T10:44:00.000,Service,"[0, 0]",Point,Service,9,ARREST,29,A7,Day,No,LEWIS MALL,Part Three,Unarmed,,MAVERICK SQ,,2012

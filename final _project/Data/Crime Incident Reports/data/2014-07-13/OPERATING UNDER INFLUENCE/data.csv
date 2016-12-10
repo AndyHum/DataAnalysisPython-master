@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105187,142008666.0,Sunday,No,2014-07-13T02:56:00.000,OPERATING UNDER INFLUENCE,"[-71.0712, 42.286816]",Point,21xx,7,ARREST,0,C11,Last,No,WASHINGTON ST,Part Two,Unarmed,772193.6576,,2929835.119,2014
+109518,142008866.0,Sunday,No,2014-07-13T21:15:00.000,OPERATING UNDER INFLUENCE,"[-71.07294, 42.291171]",Point,21xx,7,MVA,0,B3,First,No,HOPESTILL ST,Part Two,Other,771714.8981,,2931419.7810000004,2014
+259295,142008669.0,Sunday,No,2014-07-13T03:30:00.000,OPERATING UNDER INFLUENCE,"[-71.07524, 42.350651]",Point,21xx,7,ARREST,0,D4,Last,No,CLARENDON ST,Part Two,Other,770984.6601,BOYLSTON ST,2953092.1780000003,2014

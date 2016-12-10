@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89456,120482939.0,Saturday,No,2012-08-04T17:15:00.000,PubDrink,"[-71.07951, 42.334481]",Point,PubDrink,8,IVPER ,274,D4,First,No,WASHINGTON ST,Part Two,Unarmed,769859.4851,,2947193.813,2012
+223802,120482897.0,Saturday,No,2012-08-04T17:20:00.000,PubDrink,"[-71.08135, 42.332389]",Point,PubDrink,8,CD19  ,0,B2,First,No,WASHINGTON ST,Part Two,Unarmed,769365.5688,,2946429.0289999996,2012
+233696,120481492.0,Saturday,No,2012-08-04T01:30:00.000,PubDrink,"[-71.10002, 42.334951]",Point,PubDrink,8,PARTY ,0,B2,Last,No,HORADAN WY,Part Two,Unarmed,764313.2021,ST ALPHONSUS ST,2947338.418,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80596,142051475.0,Sunday,No,2014-11-23T04:04:00.000,MVAcc,"[-71.0829, 42.316361]",Point,MVAcc,11,MVA,0,B2,Last,No,WARREN ST,Other,Unarmed,768975.1904,QUINCY ST,2940586.0719999997,2014
+95617,142051477.0,Sunday,No,2014-11-23T04:19:00.000,MVAcc,"[-71.04344, 42.330466]",Point,MVAcc,11,MVA,0,C6,Last,No,COLUMBIA RD,Other,Unarmed,779619.8833,,2945780.82,2014
+158165,142051434.0,Sunday,No,2014-11-23T00:44:00.000,MVAcc,"[-71.0576, 42.349671]",Point,MVAcc,11,MVA,0,A1,Last,No,KNEELAND ST,Other,Unarmed,775754.7782,SOUTH ST,2952759.2860000003,2014
+238782,142051679.0,Sunday,No,2014-11-23T21:44:00.000,MVAcc,"[-71.12348, 42.258416]",Point,MVAcc,11,MVA,0,E18,First,No,HYDE PARK AV,Other,Unarmed,758093.2583,,2919418.98,2014

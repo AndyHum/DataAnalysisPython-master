@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26462,140026136.0,Wednesday,No,2014-01-08T15:00:00.000,PhoneCalls,"[-71.01149, 42.385086]",Point,PhoneCalls,1,HARPT ,12,A7,Day,No,BENNINGTON ST,Part three,Unarmed,788145.0185,,2965733.2010000004,2014
+57840,140015539.0,Wednesday,No,2014-01-08T19:00:00.000,PhoneCalls,"[-71.081178, 42.274496]",Point,PhoneCalls,1,HARPT ,943,B3,First,No,WOODRUFF WY,Part three,Other,769515.6581,,2925332.0319999997,2014
+162358,140014944.0,Wednesday,No,2014-01-08T14:00:00.000,PhoneCalls,"[-71.081402, 42.324234]",Point,PhoneCalls,1,IVPER ,296,B2,Day,No,WHITING ST,Part three,Unarmed,769366.0068,,2943457.0960000004,2014

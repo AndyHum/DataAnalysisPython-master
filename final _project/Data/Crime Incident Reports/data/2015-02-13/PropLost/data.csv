@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140987,152012080.0,Friday,No,2015-02-13T19:50:00.000,PropLost,"[-71.08099, 42.300209]",Point,PropLost,2,PROP,0,B3,First,No,HARLEM ST,Part three,Unarmed,769520.6679,,2934702.57,2015
+167592,152011879.0,Friday,No,2015-02-13T20:30:00.000,PropLost,"[-71.065829, 42.316441]",Point,PropLost,2,LARCEN,0,B2,First,No,COLUMBIA RD,Part three,Unarmed,773591.8648,,2940638.1739999996,2015
+182537,152011910.0,Friday,No,2015-02-13T23:40:00.000,PropLost,"[-71.102615, 42.274451]",Point,PropLost,2,PROP,0,B3,First,No,COLORADO ST,Part three,Unarmed,763714.2865,,2925287.97,2015
+232835,152011938.0,Friday,No,2015-02-13T23:00:00.000,PropLost,"[-71.06262, 42.364691]",Point,PropLost,2,PROP,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774369.7347,,2958225.8660000004,2015
+257413,152012125.0,Friday,No,2015-02-13T07:00:00.000,PropLost,"[-71.064015, 42.285831]",Point,PropLost,2,LARCEN,0,C11,Last,No,ASHMONT ST,Part three,Unarmed,774139.6285,,2929486.027,2015
+264363,152011969.0,Friday,No,2015-02-13T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,E5,Day,No,INDEPENDENCE DR,Part three,Unarmed,,,,2015

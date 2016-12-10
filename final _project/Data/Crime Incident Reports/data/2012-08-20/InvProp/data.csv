@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38382,120519047.0,Monday,No,2012-08-20T16:35:00.000,InvProp,"[-71.128679, 42.311245]",Point,InvProp,8,ALARMR,655,E13,First,No,POND ST,Part Three,Unarmed,756601.9703,,2938664.288,2012
+49279,120519802.0,Monday,No,2012-08-20T23:00:00.000,InvProp,"[-71.075315, 42.334781]",Point,InvProp,8,IVPER ,271,D4,First,No,HARRISON AV,Part Three,Unarmed,770993.181,,2947308.758,2012
+63836,120517748.0,Monday,No,2012-08-20T00:33:00.000,InvProp,"[-71.08476, 42.319246]",Point,InvProp,8,IVPREM,309,B2,Last,No,S CHARLAME TR,Part Three,Other,768467.0221,,2941634.961,2012
+81082,120519434.0,Monday,No,2012-08-20T09:20:00.000,InvProp,"[-71.068594, 42.297067]",Point,InvProp,8,DISTRB,358,C11,Day,No,LARCHMONT ST,Part Three,Unarmed,772879.7803,,2933574.0539999995,2012
+106884,120518462.0,Monday,No,2012-08-20T11:33:00.000,InvProp,"[-71.13234, 42.282036]",Point,InvProp,8,CD7   ,559,E5,Day,No,ROSECLIFF ST,Part Three,Unarmed,755657.712,,2928015.977,2012
+214896,120518607.0,Monday,No,2012-08-20T12:55:00.000,InvProp,"[-71.070165, 42.338916]",Point,InvProp,8,IVPREM,0,D4,Day,No,HARRISON AV,Part Three,Unarmed,772378.0333,,2948822.6,2012
+238409,120518095.0,Monday,No,2012-08-20T08:10:00.000,InvProp,"[-71.14117, 42.354126]",Point,InvProp,8,INVEST,804,D14,Day,No,N BEACON ST,Part Three,Unarmed,753157.7603,,2954276.6789999995,2012

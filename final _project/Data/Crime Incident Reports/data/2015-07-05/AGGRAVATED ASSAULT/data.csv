@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1088,,Sunday,No,2015-07-05T00:00:00.000,Aggravated Assault,"[-71.130956, 42.259926]",Point,04xx,7,ASLTIP,545,E18,,No,GORDON AVE,Part One,Other,756067.0,,2920000.0,2015
+7794,,Sunday,No,2015-07-05T00:00:00.000,Aggravated Assault,"[-71.092125, 42.289681]",Point,04xx,7,AB,464,B3,,No,HARVARD ST,Part One,Other,766526.0,,2930000.0,2015
+9972,,Sunday,No,2015-07-05T00:40:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PSHOT,309,B2,,Yes,HUMBOLDT AVE,Part One,Firearm,, MARTIN LUTHER KING JR BLVD ,,2015
+41328,,Sunday,No,2015-07-05T00:00:00.000,Aggravated Assault,"[-71.08585, 42.306641]",Point,04xx,7,FIGHT,319,B2,,No,NAZING ST,Part One,Other,768194.0,,2940000.0,2015
+42022,,Sunday,No,2015-07-05T02:09:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PKNIFE,426,B3,,No,RIVER ST,Part One,Knife/Cutting Instrument,,,,2015
+47450,,Sunday,No,2015-07-05T00:00:00.000,Aggravated Assault,"[-71.037932, 42.370637]",Point,04xx,7,IVPER,28,A7,,No,CHELSEA ST,Part One,Knife/Cutting Instrument,781030.0,,2960000.0,2015
+118590,,Sunday,No,2015-07-05T00:00:00.000,Aggravated Assault,"[-71.08715, 42.319968]",Point,04xx,7,INVEST,308,B2,,Yes,BOWER ST,Part One,Firearm,767819.0,,2940000.0,2015
+118818,,Sunday,No,2015-07-05T16:18:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PERGUN,351,C11,,No,LINCOLN ST,Part One,Firearm,,,,2015
+179695,,Sunday,No,2015-07-05T00:00:00.000,Aggravated Assault,"[-71.08678, 42.325452]",Point,04xx,7,FIGHT,294,B2,,No,ALPINE ST,Part One,Blunt Object,767910.0,,2940000.0,2015
+192381,,Sunday,No,2015-07-05T00:00:00.000,Aggravated Assault,"[-71.070355, 42.339368]",Point,04xx,7,IVPREM,905,D4,,No,HARRISON ARCHWAYS,Part One,Other,772326.0,,2950000.0,2015
+248325,,Sunday,No,2015-07-05T00:01:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,ASLTIP,623,D4,,No,BEACON ST,Part One,Personal Weapon (hand  foot  etc.),, COMMONWEALTH AVE ,,2015
+253708,,Sunday,No,2015-07-05T16:54:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,ARREST,119,A1,,No,PARK ST,Part One,None,,TREMONT ST,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88666,140317698.0,Wednesday,No,2014-05-21T23:57:00.000,TRESPASS,"[-71.098625, 42.346181]",Point,TRESPASS,5,ARREST,624,D4,Last,No,YAWKEY WY,Part Two,Other,764671.1215,,2951432.6119999997,2014
+233496,140316985.0,Wednesday,No,2014-05-21T18:00:00.000,TRESPASS,"[-71.05809, 42.350791]",Point,TRESPASS,5,ARREST,115,A1,First,No,UTICA ST,Part Two,Unarmed,775620.2099,BEACH ST,2953166.748,2014
+250768,140315762.0,Wednesday,No,2014-05-21T10:39:00.000,TRESPASS,"[-71.060025, 42.351976]",Point,TRESPASS,5,ARREST,116,A1,Day,No,PING ON ST,Part Two,Other,775094.7079,,2953595.69,2014

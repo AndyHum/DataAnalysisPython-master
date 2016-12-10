@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+166694,120750940.0,Friday,No,2012-11-30T11:21:00.000,Service,"[-71.03511, 42.380531]",Point,Service,11,ARREST,0,A7,Day,No,WHITE ST,Part Three,Unarmed,781772.8403,,2964037.6010000003,2012
+181062,120751054.0,Friday,No,2012-11-30T12:16:00.000,Service,"[-71.09867, 42.318526]",Point,Service,11,AOD   ,0,E13,Day,No,BRAGDON ST,Part Three,Unarmed,764706.3744,,2941354.5739999996,2012
+221674,120750936.0,Friday,No,2012-11-30T11:35:00.000,Service,"[-71.05944, 42.363946]",Point,Service,11,ARREST,75,A1,Day,No,CANAL ST,Part Three,Unarmed,775230.5321,,2957958.797,2012
+227697,120751584.0,Friday,No,2012-11-30T11:30:00.000,Service,"[-71.083645, 42.341856]",Point,Service,11,CD9   ,284,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,768728.349,,2949875.913,2012

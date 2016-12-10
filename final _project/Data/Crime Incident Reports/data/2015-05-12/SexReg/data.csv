@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3779,152039638.0,Tuesday,No,2015-05-12T12:00:00.000,SexReg,"[-71.06551, 42.289921]",Point,SexReg,5,IVPER,0,C11,Day,No,MELBOURNE ST,Part Two,Unarmed,773727.5092,,2930974.416,2015
+49197,152038885.0,Tuesday,No,2015-05-12T12:00:00.000,SexReg,"[-71.088815, 42.349461]",Point,SexReg,5,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,767317.2901,,2952640.538,2015
+106140,152038835.0,Tuesday,No,2015-05-12T13:00:00.000,SexReg,"[-71.084525, 42.329741]",Point,SexReg,5,ARREST,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768511.9472,ROXBURY ST,2945459.828,2015

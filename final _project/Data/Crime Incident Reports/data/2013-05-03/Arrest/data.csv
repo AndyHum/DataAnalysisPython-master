@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101327,130261711.0,Friday,No,2013-05-03T13:00:00.000,Arrest,"[-71.083781, 42.329494]",Point,Arrest,5,SSTOP ,0,B2,Day,No,ZEIGLER ST,Part Three,Unarmed,768713.5278,,2945370.85,2013
+140672,130261082.0,Friday,No,2013-05-03T07:40:00.000,Arrest,"[-71.08992, 42.312601]",Point,Arrest,5,CD11  ,316,B2,Day,No,RUTHVEN ST,Part Three,Unarmed,767083.1718,HUMBOLDT AV,2939206.6610000003,2013
+192014,130262644.0,Friday,No,2013-05-03T19:00:00.000,Arrest,"[-71.065955, 42.291082]",Point,Arrest,5,ARREST,397,C11,First,No,MELBOURNE ST,Part Three,Unarmed,773604.8812,,2931396.827,2013

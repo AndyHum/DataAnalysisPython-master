@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106361,152027893.0,Sunday,No,2015-04-05T20:30:00.000,MVAcc,"[-71.087955, 42.295106]",Point,MVAcc,4,MVA,0,B3,First,No,BLUE HILL AV,Other,Unarmed,767645.4486,TALBOT AV,2932833.77,2015
+199787,152027636.0,Sunday,No,2015-04-05T12:31:00.000,MVAcc,"[-71.052341, 42.359223]",Point,MVAcc,4,MVA,0,A1,Day,No,SURFACE RD,Other,Unarmed,777157.8413,STATE ST,2956247.373,2015
+267334,152027706.0,Sunday,No,2015-04-05T20:21:00.000,MVAcc,"[0, 0]",Point,MVAcc,4,MVA,0,B3,First,No,AMERICAN LEGION HY,Other,Unarmed,,FRANKLIN HILL AV,,2015

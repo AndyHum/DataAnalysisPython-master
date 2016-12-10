@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68855,,Saturday,No,2015-07-18T00:00:00.000,Disorderly Conduct,"[-71.069649, 42.308169]",Point,24xx,7,IVPER,336,C11,,No,HAMILTON ST,Part Two,None,772574.0,,2940000.0,2015
+141459,,Saturday,No,2015-07-18T00:00:00.000,Disorderly Conduct,"[-71.058612, 42.354874]",Point,24xx,7,IVPER,106,A1,,No,ARCH ST,Part Two,None,775471.0,,2950000.0,2015
+171863,,Saturday,No,2015-07-18T02:25:00.000,Disorderly Conduct,"[0, 0]",Point,24xx,7,ARREST,127,A1,,No,OAK ST W,Part Two,None,, TREMONT ST ,,2015

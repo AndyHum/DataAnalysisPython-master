@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+173034,140179471.0,Monday,No,2014-03-24T21:29:00.000,PersLoc,"[-71.07764, 42.317781]",Point,PersLoc,3,MISPER,324,B2,First,No,ADRIAN ST,Other,Unarmed,770395.2292,,2941110.545,2014
+185234,140179670.0,Monday,No,2014-03-24T06:00:00.000,PersLoc,"[-71.127195, 42.248256]",Point,PersLoc,3,MISPER,523,E18,Last,No,HYDE PARK AV,Other,Unarmed,757103.7718,,2915712.128,2014
+234598,140177939.0,Monday,No,2014-03-24T09:00:00.000,PersLoc,"[-71.06563, 42.307516]",Point,PersLoc,3,MISPER,335,C11,Day,No,BOWDOIN ST,Other,Unarmed,773662.3883,,2937386.1289999997,2014

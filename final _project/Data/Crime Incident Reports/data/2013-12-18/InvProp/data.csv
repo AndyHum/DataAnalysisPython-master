@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50582,130797173.0,Wednesday,No,2013-12-18T23:00:00.000,InvProp,"[-71.09958, 42.315711]",Point,InvProp,12,IVPER ,577,E13,First,No,BEETHOVEN ST,Part three,Unarmed,764465.0842,,2940327.584,2013
+87398,130795145.0,Wednesday,No,2013-12-18T12:20:00.000,InvProp,"[-71.065785, 42.315356]",Point,InvProp,12,BEIP  ,257,C11,Day,No,UPHAM AV,Part three,Unarmed,773605.9173,,2940242.935,2013
+91073,140008138.0,Wednesday,No,2013-12-18T00:00:00.000,InvProp,"[-71.0883, 42.342946]",Point,InvProp,12,BERPT ,619,D4,Last,No,SYMPHONY RD,Part three,Unarmed,767467.9634,,2950267.023,2013
+112962,130795550.0,Wednesday,No,2013-12-18T16:08:00.000,InvProp,"[-71.10479, 42.334141]",Point,InvProp,12,IVPER ,603,B2,First,No,HUNTINGTON AV,Part three,Unarmed,763024.8693,TREMONT ST,2947037.227,2013
+138918,130808413.0,Wednesday,No,2013-12-18T07:00:00.000,InvProp,"[-71.11502, 42.294866]",Point,InvProp,12,LARCRT,509,E13,Last,No,WACHUSETT ST,Part three,Other,760323.4681,,2932712.1,2013
+147319,130796464.0,Wednesday,No,2013-12-18T23:03:00.000,InvProp,"[-71.074745, 42.290261]",Point,InvProp,12,IVPER ,438,B3,First,No,SOUTHERN AV,Part three,Unarmed,771228.1822,,2931085.725,2013
+186626,130796154.0,Wednesday,No,2013-12-18T07:00:00.000,InvProp,"[-71.108685, 42.331121]",Point,InvProp,12,BERPTA,605,B2,Last,No,SUNSET ST,Part three,Other,761976.7831,,2945931.829,2013
+191975,130796489.0,Wednesday,No,2013-12-18T23:39:00.000,InvProp,"[-71.0726, 42.341736]",Point,InvProp,12,REQP  ,157,D4,First,No,W DEDHAM ST,Part three,Unarmed,771714.5582,,2949846.952,2013

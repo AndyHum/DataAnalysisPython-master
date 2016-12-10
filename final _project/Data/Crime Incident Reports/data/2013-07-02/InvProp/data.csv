@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5015,130406234.0,Tuesday,No,2013-07-02T19:43:00.000,InvProp,"[-71.07068, 42.351861]",Point,InvProp,7,BOMBT ,129,A1,First,No,BOYLSTON ST,Part three,Other,772215.054,ARLINGTON ST,2953539.296,2013
+36200,130404468.0,Tuesday,No,2013-07-02T04:27:00.000,InvProp,"[-71.03543, 42.375801]",Point,InvProp,7,UNK   ,23,A7,Last,No,MARION ST,Part three,Other,781695.7705,,2962313.42,2013
+98623,130405249.0,Tuesday,No,2013-07-02T12:49:00.000,InvProp,"[-71.007327, 42.386832]",Point,InvProp,7,INVEST,10,A7,Day,No,SARATOGA ST,Part three,Unarmed,789266.0329,,2966375.8239999996,2013
+225060,130405509.0,Tuesday,No,2013-07-02T14:37:00.000,InvProp,"[-71.087188, 42.320054]",Point,InvProp,7,IVPER ,308,B2,Day,No,BOWER ST,Part three,Unarmed,767808.8692,,2941926.166,2013
+232929,130405202.0,Tuesday,No,2013-07-02T12:37:00.000,InvProp,"[-71.05568, 42.358996]",Point,InvProp,7,IVPREM,93,A1,Day,No,STATE ST,Part three,Other,776256.079,,2956160.191,2013
+256535,130404359.0,Tuesday,No,2013-07-02T02:05:00.000,InvProp,"[-71.13581, 42.349494]",Point,InvProp,7,CRIP  ,794,D14,Last,No,LONG AV,Part three,Unarmed,754613.6771,,2952594.6539999996,2013

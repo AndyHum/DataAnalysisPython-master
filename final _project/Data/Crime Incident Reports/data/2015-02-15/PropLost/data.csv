@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49685,152017310.0,Sunday,No,2015-02-15T11:45:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,2,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+265406,152014558.0,Sunday,No,2015-02-15T14:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,D4,Day,No,RING RD,Part three,Unarmed,,,,2015
+267485,152028695.0,Sunday,No,2015-02-15T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,PROP,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,,,,2015

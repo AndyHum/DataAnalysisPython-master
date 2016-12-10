@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19719,,Thursday,No,2015-08-06T01:50:00.000,Firearm Violations,"[0, 0]",Point,15xx,8,ARREST,244,C11,,No,HOWES ST,Part Two,Firearm,,PLEASANT ST,,2015
+51286,,Thursday,No,2015-08-06T22:10:00.000,Violations,"[0, 0]",Point,VAL,8,ARREST,572,E13,,No,SCHOOL ST,Part Two,None,, WASHINGTON ST ,,2015
+121473,,Thursday,No,2015-08-06T00:00:00.000,Violations,"[-71.081094, 42.278082]",Point,VAL,8,TS,943,B3,,No,WOODBOLE AVE,Part Two,None,769532.0,,2930000.0,2015
+184303,,Thursday,No,2015-08-06T10:39:00.000,Violations,"[0, 0]",Point,VAL,8,ARREST,355,C11,,No,DORCHESTER AVE,Part Two,None,, GIBSON ST ,,2015
+216275,,Thursday,No,2015-08-06T17:30:00.000,Firearm Violations,"[0, 0]",Point,15xx,8,ARREST,119,A1,,No,BEACON ST,Part Two,Knife/Cutting Instrument,,JOY ST,,2015

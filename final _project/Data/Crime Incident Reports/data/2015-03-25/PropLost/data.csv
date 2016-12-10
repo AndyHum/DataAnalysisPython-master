@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25898,152023957.0,Wednesday,No,2015-03-25T08:30:00.000,PropLost,"[-71.074427, 42.271311]",Point,PropLost,3,LARCEN,0,B3,Day,No,RIVER ST,Part three,Other,771348.5999,,2924180.5,2015
+71059,152024180.0,Wednesday,No,2015-03-25T10:30:00.000,PropLost,"[-71.104895, 42.337681]",Point,PropLost,3,PROP,0,B2,Day,No,LONGWOOD AV,Part three,Unarmed,762990.5031,,2948327.137,2015
+186867,152025051.0,Wednesday,No,2015-03-25T08:10:00.000,PropLost,"[-71.091295, 42.349696]",Point,PropLost,3,LARCEN,0,D4,Day,No,MARLBOROUGH ST,Part three,Unarmed,766646.4978,,2952722.955,2015
+192316,152027624.0,Wednesday,No,2015-03-25T12:00:00.000,PropLost,"[-71.14693, 42.355591]",Point,PropLost,3,PROP,0,D14,Day,No,N BEACON ST,Part three,Unarmed,751598.6440000001,,2954804.059,2015
+218480,152024279.0,Wednesday,No,2015-03-25T19:14:00.000,PropLost,"[-71.055125, 42.334901]",Point,PropLost,3,PROP,0,C6,First,No,OLD COLONY AV,Part three,Unarmed,776451.8785,,2947380.314,2015
+221534,152025736.0,Wednesday,No,2015-03-25T08:00:00.000,PropLost,"[-71.085113, 42.324962]",Point,PropLost,3,LARCEN,0,B2,Day,No,REGENT ST,Part three,Unarmed,768361.2726,,2943717.4680000003,2015
+248590,152025277.0,Wednesday,No,2015-03-25T19:00:00.000,PropLost,"[-71.055725, 42.289196]",Point,PropLost,3,PROP,0,C11,First,No,ADAMS ST,Part three,Unarmed,776376.4052,,2930723.854,2015
+266846,152024139.0,Wednesday,No,2015-03-25T16:25:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,A1,First,No,PARK ST,Part three,Unarmed,,,,2015
+266860,152024264.0,Wednesday,No,2015-03-25T19:28:00.000,PropLost,"[0, 0]",Point,PropLost,3,LARCEN,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015

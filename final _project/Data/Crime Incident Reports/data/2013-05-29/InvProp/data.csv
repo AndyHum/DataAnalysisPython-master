@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45772,130322282.0,Wednesday,No,2013-05-29T12:00:00.000,InvProp,"[-71.037544, 42.372451]",Point,InvProp,5,MISC  ,28,A7,Day,No,PARIS ST,Part three,Unarmed,781131.0781,,2961089.363,2013
+73636,130323130.0,Wednesday,No,2013-05-29T18:00:00.000,InvProp,"[-71.08156, 42.348911]",Point,InvProp,5,MISC  ,143,D4,First,No,BOYLSTON ST,Part three,Unarmed,769279.4105,,2952449.645,2013
+111908,130321378.0,Wednesday,No,2013-05-29T01:08:00.000,InvProp,"[-71.146005, 42.341426]",Point,InvProp,5,ALARMC,786,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,751870.0851,,2949643.082,2013
+146775,130323573.0,Wednesday,No,2013-05-29T23:53:00.000,InvProp,"[-71.07414, 42.352811]",Point,InvProp,5,ALARMC,133,D4,Last,No,COMMONWEALTH AV,Part three,Other,771278.0709,,2953880.8060000003,2013
+153777,130321688.0,Wednesday,No,2013-05-29T08:00:00.000,InvProp,"[-71.15242, 42.351791]",Point,InvProp,5,CD9   ,133,D14,Day,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2013

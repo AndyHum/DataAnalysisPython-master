@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51632,130629235.0,Tuesday,No,2013-10-01T16:20:00.000,PhoneCalls,"[-71.064299, 42.363418]",Point,PhoneCalls,10,HARPT ,63,A1,First,No,LONGFELLOW PL,Part three,Unarmed,773918.166,,2957759.4680000003,2013
+91571,130626052.0,Tuesday,No,2013-10-01T01:30:00.000,PhoneCalls,"[-71.07078, 42.359871]",Point,PhoneCalls,10,IVPER ,62,A1,Last,No,CHARLES ST,Part three,Unarmed,772173.3348,,2956458.16,2013
+156217,130710264.0,Tuesday,No,2013-10-01T12:00:00.000,PhoneCalls,"[-71.105845, 42.309636]",Point,PhoneCalls,10,THREAT,573,E13,Day,No,UNION AV,Part three,Unarmed,762780.8825,,2938105.86,2013

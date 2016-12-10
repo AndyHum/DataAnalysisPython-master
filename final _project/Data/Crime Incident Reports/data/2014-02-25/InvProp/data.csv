@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43887,140116965.0,Tuesday,No,2014-02-25T03:28:00.000,InvProp,"[-71.108935, 42.334281]",Point,InvProp,2,ALARMM,611,B2,Last,No,NEW WHITNEY ST,Part three,Other,761903.69,,2947083.078,2014
+124221,140120664.0,Tuesday,No,2014-02-25T18:30:00.000,InvProp,"[-71.10334, 42.316351]",Point,InvProp,2,IVPREM,576,E13,First,No,AMORY ST,Part three,Other,763447.0695,,2940556.058,2014
+203908,140118481.0,Tuesday,No,2014-02-25T16:00:00.000,InvProp,"[-71.099385, 42.342666]",Point,InvProp,2,IVPER ,626,D4,First,No,KILMARNOCK ST,Part three,Unarmed,764471.6869,,2950150.713,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63488,130745018.0,Sunday,No,2013-11-24T01:00:00.000,PropLost,"[-71.084485, 42.348131]",Point,PropLost,11,LSTPRP,142,D4,Last,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2013
+111771,130748552.0,Sunday,No,2013-11-24T23:00:00.000,PropLost,"[-71.057735, 42.298051]",Point,PropLost,11,LSTPRP,355,C11,First,No,GIBSON ST,Part three,Unarmed,775815.8226,,2933947.916,2013
+122294,130747088.0,Sunday,No,2013-11-24T17:00:00.000,PropLost,"[-71.054215, 42.314976]",Point,PropLost,11,LSTPRP,249,C11,First,No,BELFORT ST,Part three,Unarmed,776735.87,,2940120.599,2013
+214379,130745266.0,Sunday,No,2013-11-24T01:00:00.000,PropLost,"[-71.06114, 42.351441]",Point,PropLost,11,INVEST,116,A1,Last,No,BEACH ST,Part three,Other,774794.5474,HARRISON AV,2953399.3639999996,2013
+226179,130744858.0,Sunday,No,2013-11-24T03:00:00.000,PropLost,"[-71.039315, 42.382861]",Point,PropLost,11,LARCRT,25,A7,Last,No,MERIDIAN ST,Part three,Other,780632.1398,,2964880.5360000003,2013
+256592,130745319.0,Sunday,No,2013-11-24T09:00:00.000,PropLost,"[-71.153043, 42.287232]",Point,PropLost,11,LARCRT,695,E5,Day,No,CENTRE ST,Part three,Unarmed,750047.6314,,2929885.93,2013

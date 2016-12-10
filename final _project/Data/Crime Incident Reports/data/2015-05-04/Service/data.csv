@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+602,152036216.0,Monday,No,2015-05-04T06:30:00.000,Service,"[0, 0]",Point,Service,5,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+696,152036965.0,Monday,No,2015-05-04T00:00:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,B3,Last,No,CHESTNUT ST,Part three,Unarmed,,,,2015
+3726,152038757.0,Monday,No,2015-05-04T12:00:00.000,Service,"[0, 0]",Point,Service,5,LARCEN,0,D4,Day,No,BEACON ST,Part three,Other,,,,2015
+29092,152036375.0,Monday,No,2015-05-04T15:00:00.000,Service,"[-71.039935, 42.335126]",Point,Service,5,LARCEN,0,C6,Day,No,I ST,Part three,Unarmed,780558.4608,E BROADWAY,2947484.0939999996,2015
+34886,152036488.0,Monday,No,2015-05-04T19:46:00.000,Service,"[-71.077225, 42.320419]",Point,Service,5,ARREST,0,B2,First,No,W COTTAGE ST,Part three,Unarmed,770502.6344,BLUE HILL AV,2942072.223,2015
+168182,152036302.0,Monday,No,2015-05-04T11:45:00.000,Service,"[-71.070835, 42.331511]",Point,Service,5,IVPREM,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2015
+185515,152036263.0,Monday,No,2015-05-04T10:08:00.000,Service,"[-71.085402, 42.302343]",Point,Service,5,TS,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,768323.3179,ELLINGTON ST,2935474.13,2015
+206694,152036300.0,Monday,No,2015-05-04T11:31:00.000,Service,"[-71.076575, 42.348426]",Point,Service,5,ARREST,0,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,770627.8209,STUART ST,2952279.5519999997,2015
+214680,152037344.0,Monday,No,2015-05-04T06:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,5,IVPER,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+256468,152036247.0,Monday,No,2015-05-04T09:00:00.000,Service,"[-71.06473, 42.305636]",Point,Service,5,IVPREM,0,C11,Day,No,MT IDA RD,Part three,Unarmed,773909.3291,,2936702.269,2015

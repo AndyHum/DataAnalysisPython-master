@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1501,152022717.0,Saturday,No,2015-03-21T10:33:00.000,Service,"[0, 0]",Point,Service,3,IVPREM,0,B2,Day,No,WAUMBECK ST,Part three,Unarmed,,,,2015
+191514,152022732.0,Saturday,No,2015-03-21T12:06:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36013,130426613.0,Thursday,No,2013-07-11T00:02:00.000,TRESPASS,"[-71.074764, 42.304464]",Point,TRESPASS,7,UNK   ,461,C11,Last,No,OLNEY ST,Part Two,Unarmed,771197.1183,,2936261.267,2013
+171187,130427520.0,Thursday,No,2013-07-11T11:58:00.000,TRESPASS,"[-71.072217, 42.281007]",Point,TRESPASS,7,ARREST,417,B3,Day,No,FAIRMOUNT ST,Part Two,Unarmed,771929.0719,,2927716.809,2013
+187851,130427490.0,Thursday,No,2013-07-11T11:43:00.000,TRESPASS,"[-71.07843, 42.349776]",Point,TRESPASS,7,ARREST,143,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770123.9452,,2952769.035,2013
+266048,130427645.0,Thursday,No,2013-07-11T12:53:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,7,ARREST,0,A1,Day,No,PING ON ST,Part Two,Other,,,,2013

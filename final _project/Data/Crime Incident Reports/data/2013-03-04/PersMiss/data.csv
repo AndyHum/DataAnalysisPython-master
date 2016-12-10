@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9449,130129365.0,Monday,No,2013-03-04T00:21:00.000,PersMiss,"[-71.074107, 42.284279]",Point,PersMiss,3,MISPER,417,B3,Last,No,ARMANDINE ST,Part Three,Unarmed,771411.6405,,2928906.461,2013
+233907,130130265.0,Monday,No,2013-03-04T13:06:00.000,PersMiss,"[-71.075835, 42.289281]",Point,PersMiss,3,MISPER,437,B3,Day,No,DARLINGTON ST,Part Three,Unarmed,770935.0404,,2930727.1289999997,2013
+239777,130130187.0,Monday,No,2013-03-04T11:11:00.000,PersMiss,"[-71.077185, 42.296021]",Point,PersMiss,3,MISPER,446,B3,Day,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+255430,130130920.0,Monday,No,2013-03-04T15:41:00.000,PersMiss,"[-71.091095, 42.320611]",Point,PersMiss,3,MISPER,305,B2,Day,No,KENSINGTON ST,Part Three,Unarmed,766751.3719,,2942124.113,2013

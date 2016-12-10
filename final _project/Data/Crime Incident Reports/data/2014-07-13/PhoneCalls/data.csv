@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23054,142012033.0,Sunday,No,2014-07-13T15:30:00.000,PhoneCalls,"[-71.07621, 42.296719]",Point,PhoneCalls,7,IVPER,0,B3,Day,No,THANE ST,Part three,Unarmed,770819.8638,,2933437.131,2014
+189603,142008808.0,Sunday,No,2014-07-13T17:00:00.000,PhoneCalls,"[-71.10846, 42.333254]",Point,PhoneCalls,7,IVPER,0,B2,First,No,HUNTINGTON AV,Part three,Unarmed,762034.0211,,2946709.245,2014
+191530,142008948.0,Sunday,No,2014-07-13T21:35:00.000,PhoneCalls,"[-71.069055, 42.337746]",Point,PhoneCalls,7,IVPER,0,D4,First,No,E CANTON ST,Part three,Unarmed,772680.2889,,2948397.747,2014

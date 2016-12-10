@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8204,142047720.0,Monday,No,2014-11-10T16:15:00.000,PersLoc,"[-71.090895, 42.316771]",Point,PersLoc,11,IVPER,0,B2,First,No,HOLWORTHY ST,Other,Unarmed,766812.1723,,2940725.0130000003,2014
+22600,142047942.0,Monday,No,2014-11-10T18:30:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,11,IVPER,0,C11,First,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+42816,142047802.0,Monday,No,2014-11-10T06:00:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,11,IVPER,0,B3,Last,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2014
+105923,142047809.0,Monday,No,2014-11-10T11:30:00.000,PersLoc,"[-71.145305, 42.360826]",Point,PersLoc,11,MISSIN,0,D14,Day,No,WAVERLY ST,Other,Unarmed,752029.9319,,2956713.625,2014
+193572,142048221.0,Monday,No,2014-11-10T11:30:00.000,PersLoc,"[-71.097079, 42.280332]",Point,PersLoc,11,IVPER,0,B3,Day,No,WALK HILL ST,Other,Unarmed,765202.2625,,2927437.8389999997,2014
+229998,142047803.0,Monday,No,2014-11-10T06:00:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,11,IVPER,0,B3,Last,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+164391,130680319.0,Thursday,No,2013-10-24T23:24:00.000,Restrain,"[-71.117179, 42.257119]",Point,Restrain,10,VIORDR,519,E18,First,No,PIERCE ST,Part Two,Unarmed,759800.8691,,2918953.793,2013
+223233,130678853.0,Thursday,No,2013-10-24T19:14:00.000,Restrain,"[-71.073395, 42.323221]",Point,Restrain,10,VIORDR,263,B2,First,No,DUDLEY ST,Part Two,Unarmed,771533.3762,,2943098.685,2013
+243257,130684943.0,Thursday,No,2013-10-24T16:00:00.000,Restrain,"[-71.084909, 42.299435]",Point,Restrain,10,VIORDR,457,B3,First,No,CHARLOTTE ST,Part Two,Other,768461.8364,,2934415.332,2013

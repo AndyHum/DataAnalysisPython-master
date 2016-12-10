@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46548,,Monday,No,2015-06-29T00:00:00.000,Vandalism,"[-71.051311, 42.346711]",Point,14xx,6,BE,204,C6,,No,A ST,Part Two,None,777460.0,,2950000.0,2015
+77424,,Monday,No,2015-06-29T19:30:00.000,Vandalism,"[0, 0]",Point,14xx,6,BE,164,D4,,No,PERRY ST,Part Two,None,,WASHINGTON ST,,2015
+94435,,Monday,No,2015-06-29T00:00:00.000,Vandalism,"[-71.046738, 42.290803]",Point,14xx,6,ALARM,374,C11,,No,WILLIAM T MORRISSEY BLVD,Part Two,None,778805.0,,2930000.0,2015
+105519,,Monday,No,2015-06-29T00:00:00.000,Vandalism,"[-71.075663, 42.309847]",Point,14xx,6,VAND,328,B2,,No,INTERVALE ST,Part Two,None,770944.0,,2940000.0,2015
+106419,,Monday,No,2015-06-29T00:00:00.000,Vandalism,"[-71.055483, 42.288545]",Point,14xx,6,VAND,393,C11,,No,ADAMS ST,Part Two,None,776443.0,,2930000.0,2015
+117050,,Monday,No,2015-06-29T17:00:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,534,E18,,No,RIVER ST,Part Two,None,,,,2015
+155400,,Monday,No,2015-06-29T00:00:00.000,Vandalism,"[-71.081299, 42.335968]",Point,14xx,6,SHOTS,903,D4,,No,SHAWMUT AVE,Part Two,Firearm,769373.0,,2950000.0,2015
+174946,,Monday,No,2015-06-29T00:00:00.000,Vandalism,"[-71.101666, 42.311342]",Point,14xx,6,VAND,571,E13,,No,FOREST HILLS ST,Part Two,None,763908.0,,2940000.0,2015
+183624,,Monday,No,2015-06-29T00:00:00.000,Vandalism,"[-71.074043, 42.346152]",Point,14xx,6,VAND,150,D4,,No,CHANDLER ST,Part Two,None,771316.0,,2950000.0,2015
+231946,,Monday,No,2015-06-29T07:59:00.000,Vandalism,"[0, 0]",Point,14xx,6,VAND,396,C11,,No,ROSELAND ST,Part Two,None,,SANTUIT ST,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52885,152036744.0,Tuesday,No,2015-05-05T17:52:00.000,PubDrink,"[-71.061495, 42.356911]",Point,PubDrink,5,ARREST,0,A1,First,No,TREMONT ST,Part Two,Unarmed,774688.3413,,2955392.2430000002,2015
+177179,152037666.0,Tuesday,No,2015-05-05T11:00:00.000,PubDrink,"[-71.084525, 42.329741]",Point,PubDrink,5,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768511.9472,,2945459.828,2015
+184299,152036624.0,Tuesday,No,2015-05-05T11:30:00.000,PubDrink,"[-71.07632, 42.350356]",Point,PubDrink,5,ARREST,0,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770693.2587,,2952983.224,2015

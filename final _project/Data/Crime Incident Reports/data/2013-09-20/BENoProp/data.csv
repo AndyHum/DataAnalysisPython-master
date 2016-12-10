@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77734,130600179.0,Friday,No,2013-09-20T14:30:00.000,BENoProp,"[-71.095483, 42.284278]",Point,BENoProp,9,BEIP  ,467,B3,Day,No,WELLINGTON HILL ST,Part One,Other,765627.3617,,2928878.166,2013
+81079,130601039.0,Friday,No,2013-09-20T20:00:00.000,BENoProp,"[-71.057908, 42.293715]",Point,BENoProp,9,BEIP  ,364,C11,First,No,WHITTEN ST,Part One,Unarmed,775776.9943,,2932367.5560000003,2013
+215316,130601289.0,Friday,No,2013-09-20T08:00:00.000,BENoProp,"[-71.08209, 42.336671]",Point,BENoProp,9,BERPT ,903,D4,Day,No,LATTIMORE CT,Part One,Other,769157.9964,,2947988.46,2013

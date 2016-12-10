@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9515,140260319.0,Tuesday,No,2014-04-29T11:18:00.000,MedAssist,"[-71.03981, 42.330971]",Point,MedAssist,4,REQEP ,234,C6,Day,No,I ST,Part three,Unarmed,780600.4272,,2945970.124,2014
+81424,140261848.0,Tuesday,No,2014-04-29T20:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,CD13  ,355,C11,First,Yes,DORCHESTER AV,Part three,Firearm,,,,2014
+98332,140260449.0,Tuesday,No,2014-04-29T12:33:00.000,MedAssist,"[-71.060674, 42.360562]",Point,MedAssist,4,EDP2  ,72,A1,Day,No,CENTER PZ,Part three,Unarmed,774903.4055,,2956723.5960000004,2014
+102425,140261713.0,Tuesday,No,2014-04-29T21:56:00.000,MedAssist,"[-71.10846, 42.333254]",Point,MedAssist,4,UNK   ,611,B2,First,No,HUNTINGTON AV,Part three,Unarmed,762034.0211,,2946709.245,2014
+127428,140260014.0,Tuesday,No,2014-04-29T08:40:00.000,MedAssist,"[-71.081633, 42.318648]",Point,MedAssist,4,REQEP ,311,B2,Day,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2014
+161730,140260598.0,Tuesday,No,2014-04-29T13:23:00.000,MedAssist,"[-71.117275, 42.310301]",Point,MedAssist,4,TEST  ,644,E13,Day,No,HOLBROOK ST,Part three,Unarmed,759688.1466,,2938334.119,2014
+165785,140260916.0,Tuesday,No,2014-04-29T16:14:00.000,MedAssist,"[-71.05984, 42.356501]",Point,MedAssist,4,OVRDOS,102,A1,First,No,BROMFIELD ST,Part three,Unarmed,775136.4313,,2955245.135,2014
+222576,140261860.0,Tuesday,No,2014-04-29T23:46:00.000,MedAssist,"[-71.077999, 42.306128]",Point,MedAssist,4,EDP2  ,337,C11,Last,No,COLUMBIA RD,Part three,Unarmed,770319.0636,,2936863.43,2014
+235634,140261425.0,Tuesday,No,2014-04-29T19:18:00.000,MedAssist,"[-71.04974, 42.330836]",Point,MedAssist,4,REQP  ,915,C6,First,No,MERCER ST,Part three,Unarmed,777915.6777,,2945906.598,2014
+243345,140259499.0,Tuesday,No,2014-04-29T12:15:00.000,MedAssist,"[-71.058631, 42.357187]",Point,MedAssist,4,EDP2  ,98,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775461.8627,,2955496.662,2014

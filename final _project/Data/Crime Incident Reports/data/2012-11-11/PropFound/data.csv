@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82323,120712772.0,Sunday,No,2012-11-11T12:00:00.000,PropFound,"[-71.075639, 42.344889]",Point,PropFound,11,LARCRT,150,D4,Day,No,APPLETON ST,Part Three,Unarmed,770887.2370000001,,2950991.837,2012
+227783,120712703.0,Sunday,No,2012-11-11T19:30:00.000,PropFound,"[-71.07215, 42.339826]",Point,PropFound,11,FDPROP,166,D4,First,No,WASHINGTON ST,Part Three,Unarmed,771839.7049,E BROOKLINE ST,2949151.523,2012
+228617,120710576.0,Sunday,No,2012-11-11T08:00:00.000,PropFound,"[-71.161115, 42.351651]",Point,PropFound,11,IVPREM,761,D14,Day,No,BEECHCROFT ST,Part Three,Unarmed,747770.2839,,2953352.688,2012
+262129,120711963.0,Sunday,No,2012-11-11T13:25:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,304,B2,Day,No,DIMOCK PL,Part Three,Unarmed,,,,2012

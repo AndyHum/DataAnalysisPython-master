@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+663,152036603.0,Friday,No,2015-05-01T12:00:00.000,SexReg,"[0, 0]",Point,SexReg,5,IVPER,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015
+793,152037354.0,Friday,No,2015-05-01T12:00:00.000,SexReg,"[0, 0]",Point,SexReg,5,IVPER,0,C11,Day,No,COLUMBIA RD,Part Two,Unarmed,,,,2015
+91442,152039000.0,Friday,No,2015-05-01T12:00:00.000,SexReg,"[-71.080885, 42.305236]",Point,SexReg,5,INVEST,0,B2,Day,No,COLUMBIA RD,Part Two,Unarmed,769540.0803,,2936534.6160000004,2015
+207510,152037030.0,Friday,No,2015-05-01T12:00:00.000,SexReg,"[-71.087815, 42.340856]",Point,SexReg,5,IVPER,0,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,767602.7587,,2949506.019,2015

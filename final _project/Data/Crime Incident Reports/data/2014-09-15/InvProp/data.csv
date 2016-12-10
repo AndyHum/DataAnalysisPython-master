@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37018,142029659.0,Monday,No,2014-09-15T13:34:00.000,InvProp,"[-71.112325, 42.330206]",Point,InvProp,9,IVPER,0,E13,Day,No,JAMAICAWAY,Part three,Unarmed,760994.0649,,2945593.892,2014
+138343,142029526.0,Monday,No,2014-09-15T06:45:00.000,InvProp,"[-71.050878, 42.347244]",Point,InvProp,9,FIRE,0,C6,Last,No,A ST,Part three,Unarmed,777576.2791,,2951884.2819999997,2014
+155247,142029836.0,Monday,No,2014-09-15T23:12:00.000,InvProp,"[-71.156474, 42.295799]",Point,InvProp,9,ALARM,0,E5,First,No,VFW PY,Part three,Unarmed,749106.5155,,2933003.973,2014
+202199,142029764.0,Monday,No,2014-09-15T18:30:00.000,InvProp,"[-71.061515, 42.365357]",Point,InvProp,9,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774666.9647,CANAL ST,2958469.934,2014

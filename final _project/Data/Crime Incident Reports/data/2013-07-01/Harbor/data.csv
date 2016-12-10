@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105310,130403526.0,Monday,No,2013-07-01T18:00:00.000,Harbor,"[-71.051366, 42.36351]",Point,Harbor,7,CD19  ,89,A1,First,No,COMMERCIAL ST,Part three,Unarmed,777413.2519,,2957811.1769999997,2013
+210775,130403600.0,Monday,No,2013-07-01T18:00:00.000,Harbor,"[0, 0]",Point,Harbor,7,CD19  ,82,A1,First,No,BOSTON HARBOR - A1,Part three,Unarmed,,,,2013
+261550,130402556.0,Monday,No,2013-07-01T10:55:00.000,Harbor,"[0, 0]",Point,Harbor,7,INVEST,96,A1,Day,No,GALLOPS ISLAND,Part three,Unarmed,,,,2013

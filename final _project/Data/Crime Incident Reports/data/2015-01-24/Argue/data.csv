@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106691,152006688.0,Saturday,No,2015-01-24T22:00:00.000,Argue,"[-71.168415, 42.290816]",Point,Argue,1,IVPREM,0,E5,First,No,LAGRANGE ST,Part three,Unarmed,745883.2257,,2931175.534,2015
+227193,152006668.0,Saturday,No,2015-01-24T19:45:00.000,Argue,"[-71.05464, 42.325816]",Point,Argue,1,IVPER,0,C6,First,No,OCALLAGHAN WY,Part three,Other,776600.2984,,2944070.27,2015
+244402,152006689.0,Saturday,No,2015-01-24T21:39:00.000,Argue,"[-71.100235, 42.334626]",Point,Argue,1,DVIP,0,B2,First,No,ST ALPHONSUS ST,Part three,Unarmed,764255.6256,,2947219.71,2015
+267432,152011221.0,Saturday,No,2015-01-24T09:45:00.000,Argue,"[0, 0]",Point,Argue,1,IVPER,0,A7,Day,No,MCCLELLAN HY,Part three,Unarmed,,,,2015

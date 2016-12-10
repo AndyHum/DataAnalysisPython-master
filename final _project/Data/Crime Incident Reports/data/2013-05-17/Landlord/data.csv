@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94374,130294969.0,Friday,No,2013-05-17T15:35:00.000,Landlord,"[-71.06894, 42.288516]",Point,Landlord,5,THREAT,398,C11,Day,No,WELLES AV,Part Three,Unarmed,772802.0436,,2930457.7060000002,2013
+141120,130296606.0,Friday,No,2013-05-17T10:00:00.000,Landlord,"[-71.099639, 42.263631]",Point,Landlord,5,VANRPT,483,E18,Day,No,MONPONSET ST,Part Three,Unarmed,764538.002,,2921348.691,2013
+162021,130293586.0,Friday,No,2013-05-17T01:29:00.000,Landlord,"[-71.059357, 42.28831]",Point,Landlord,5,MEET  ,393,C11,Last,No,WRENTHAM ST,Part Three,Unarmed,775395.2132,,2930395.613,2013

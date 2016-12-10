@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52888,130704686.0,Saturday,No,2013-11-02T00:30:00.000,Gather,"[-71.157755, 42.340665]",Point,Gather,11,DISTRB,773,D14,Last,No,RADNOR RD,Part three,Unarmed,748694.4779,,2949352.6139999996,2013
+163485,130709253.0,Saturday,No,2013-11-02T00:30:00.000,Gather,"[-71.157755, 42.340665]",Point,Gather,11,DISTRB,773,D14,Last,No,RADNOR RD,Part three,Unarmed,748694.4779,,2949352.6139999996,2013
+204374,130697847.0,Saturday,No,2013-11-02T07:00:00.000,Gather,"[-71.103345, 42.264086]",Point,Gather,11,DISTRB,485,E18,Last,No,THORN ST,Part three,Other,763534.2872,,2921509.905,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63635,120604766.0,Wednesday,No,2012-09-26T08:30:00.000,Arrest,"[-71.089912, 42.309524]",Point,Arrest,9,CD11  ,0,B2,Day,No,BROOKLEDGE ST,Part Three,Unarmed,767090.6075,,2938085.256,2012
+65042,120604517.0,Wednesday,No,2012-09-26T06:00:00.000,Arrest,"[-71.086285, 42.326426]",Point,Arrest,9,CD11  ,294,B2,Last,No,ALPINE ST,Part three,Unarmed,768041.9032,,2944249.4710000004,2012
+91483,120605053.0,Wednesday,No,2012-09-26T10:45:00.000,Arrest,"[-71.08394, 42.337341]",Point,Arrest,9,ARREST,285,D4,Day,No,HAMMOND ST,Part Three,Unarmed,768656.6215,TREMONT ST,2948230.1739999996,2012

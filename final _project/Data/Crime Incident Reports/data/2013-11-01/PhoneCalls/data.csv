@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74876,130722073.0,Friday,No,2013-11-01T01:00:00.000,PhoneCalls,"[-71.08046, 42.335661]",Point,PhoneCalls,11,HARPT ,274,D4,Last,No,SHAWMUT AV,Part three,Unarmed,769600.5096,,2947622.561,2013
+109697,140025365.0,Friday,No,2013-11-01T09:00:00.000,PhoneCalls,"[-71.0628, 42.358371]",Point,PhoneCalls,11,HARPT ,72,A1,Day,No,BOWDOIN ST,Part three,Other,774332.8948,,2955922.485,2013
+143555,140132907.0,Friday,No,2013-11-01T12:00:00.000,PhoneCalls,"[-71.118795, 42.285211]",Point,PhoneCalls,11,IVPER ,503,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759317.8711,,2929189.083,2013

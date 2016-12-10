@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79543,,Saturday,No,2015-07-04T00:00:00.000,Missing Person Located,"[-71.079897, 42.312952]",Point,PersFound,7,IVPER,326,B2,,No,BLUE HILL AVE,Part Three,None,769793.0,,2940000.0,2015
+91100,,Saturday,No,2015-07-04T00:00:00.000,Missing Person Located,"[-71.093965, 42.316369]",Point,PersFound,7,IVPER,307,B2,,No,WESTMINSTER CT,Part Three,None,765982.0,,2940000.0,2015
+164282,,Saturday,No,2015-07-04T00:00:00.000,Missing Person Located,"[-71.080077, 42.3109]",Point,PersFound,7,IVPER,329,B2,,No,BRUNSWICK ST,Part Three,None,769748.0,,2940000.0,2015

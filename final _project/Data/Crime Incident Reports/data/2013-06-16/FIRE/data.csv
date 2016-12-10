@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22470,130367240.0,Sunday,No,2013-06-16T18:18:00.000,FIRE,"[-71.077804, 42.278457]",Point,FIRE,6,FIREB ,419,B3,First,No,GALLIVAN BL,Part Three,Unarmed,770421.59,,2926780.098,2013
+25333,130367110.0,Sunday,No,2013-06-16T17:05:00.000,FIRE,"[-71.059096, 42.308825]",Point,FIRE,6,FIREB ,339,C11,First,No,HANCOCK ST,Part three,Other,775427.1276,,2937872.041,2013
+108628,130367549.0,Sunday,No,2013-06-16T21:05:00.000,FIRE,"[-71.06509, 42.317001]",Point,FIRE,6,FV    ,239,B2,First,No,STOUGHTON ST,Part three,Unarmed,773790.8306,COLUMBIA RD,2940843.356,2013
+146229,130365822.0,Sunday,No,2013-06-16T01:12:00.000,FIRE,"[-71.04875, 42.350536]",Point,FIRE,6,FV    ,206,C6,Last,No,CONGRESS ST,Part three,Unarmed,778145.3885,,2953087.041,2013

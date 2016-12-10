@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20717,130657610.0,Tuesday,No,2013-10-15T11:30:00.000,Arrest,"[-71.10278, 42.319866]",Point,Arrest,10,IVPREM,640,E13,Day,No,LAMARTINE ST,Part three,Unarmed,763592.5594,,2941837.689,2013
+40270,130658807.0,Tuesday,No,2013-10-15T20:15:00.000,Arrest,"[-71.09279, 42.335528]",Point,Arrest,10,ARREST,911,B2,First,No,ANNUNCIATION RD,Part three,Unarmed,766266.9936,,2947557.934,2013
+127769,130656991.0,Tuesday,No,2013-10-15T02:35:00.000,Arrest,"[-71.06427, 42.353331]",Point,Arrest,10,SSTOP ,111,A1,Last,No,AVERY ST,Part three,Unarmed,773944.9704,TREMONT ST,2954083.778,2013

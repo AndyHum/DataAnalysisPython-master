@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33742,140183259.0,Wednesday,No,2014-03-26T15:00:00.000,PropFound,"[-71.062085, 42.356341]",Point,PropFound,3,FDPROP,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774529.9407,,2955183.704,2014
+41504,140183086.0,Wednesday,No,2014-03-26T15:30:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,3,LSTPRP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+187289,140183265.0,Wednesday,No,2014-03-26T14:30:00.000,PropFound,"[-71.06703, 42.341336]",Point,PropFound,3,FDPROP,164,D4,Day,No,HARRISON AV,Part three,Unarmed,773221.1349,,2949708.7789999996,2014
+246991,140183602.0,Wednesday,No,2014-03-26T18:00:00.000,PropFound,"[-71.07197, 42.337491]",Point,PropFound,3,FDPROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,771892.6392,E NEWTON ST,2948300.85,2014
+254387,140183872.0,Wednesday,No,2014-03-26T12:00:00.000,PropFound,"[-71.07533, 42.337671]",Point,PropFound,3,FDPROP,170,D4,Day,No,WASHINGTON ST,Part three,Unarmed,770983.8818,,2948361.905,2014

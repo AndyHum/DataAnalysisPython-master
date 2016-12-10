@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83790,130500293.0,Saturday,No,2013-08-10T03:55:00.000,BENoProp,"[-71.054342, 42.313587]",Point,BENoProp,8,BEIP  ,249,C11,Last,No,SAXTON ST,Part One,Other,776704.0295,,2939614.1780000003,2013
+165983,130500932.0,Saturday,No,2013-08-10T13:15:00.000,BENoProp,"[-71.06666, 42.305854]",Point,BENoProp,8,IVPER ,340,C11,Day,No,HAMILTON ST,Part One,Other,773386.7248,,2936778.7630000003,2013
+170451,130502087.0,Saturday,No,2013-08-10T10:15:00.000,BENoProp,"[-71.08209, 42.336671]",Point,BENoProp,8,BEIP  ,903,D4,Day,No,LATTIMORE CT,Part One,Unarmed,769157.9964,,2947988.46,2013
+252884,130516456.0,Saturday,No,2013-08-10T00:00:00.000,BENoProp,"[-71.052525, 42.311206]",Point,BENoProp,8,BERPT ,250,C11,Last,No,SAVIN HILL AV,Part One,Unarmed,777200.1585,,2938749.145,2013

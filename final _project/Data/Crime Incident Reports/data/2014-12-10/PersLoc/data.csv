@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18193,142056261.0,Wednesday,No,2014-12-10T11:15:00.000,PersLoc,"[-71.077917, 42.343296]",Point,PersLoc,12,IVPER,0,D4,Day,No,WARREN AV,Other,Unarmed,770274.0752,,2950408.285,2014
+124575,142056431.0,Wednesday,No,2014-12-10T06:20:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,12,IVPER,0,B3,Last,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2014
+196355,142056464.0,Wednesday,No,2014-12-10T12:00:00.000,PersLoc,"[-71.144446, 42.256597]",Point,PersLoc,12,IVPER,0,E5,Day,No,GEORGETOWNE DR,Other,Unarmed,752420.4223,,2918731.463,2014

@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2373,152029999.0,Monday,No,2015-04-13T14:30:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,A7,Day,No,LEWIS MALL,Part three,Unarmed,,,,2015
+23682,152029925.0,Monday,No,2015-04-13T11:25:00.000,Service,"[-71.06563, 42.307516]",Point,Service,4,CD11,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773662.3883,,2937386.1289999997,2015
+27576,152029852.0,Monday,No,2015-04-13T03:46:00.000,Service,"[-71.087955, 42.295106]",Point,Service,4,ARREST,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,767645.4486,TALBOT AV,2932833.77,2015
+45709,152030232.0,Monday,No,2015-04-13T11:30:00.000,Service,"[-71.05592, 42.376646]",Point,Service,4,IVPREM,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+49503,152029992.0,Monday,No,2015-04-13T14:40:00.000,Service,"[-71.025616, 42.380095]",Point,Service,4,ARREST,0,A7,Day,No,NEPTUNE RD,Part three,Unarmed,784338.7236,,2963892.778,2015
+50439,152030425.0,Monday,No,2015-04-13T12:00:00.000,Service,"[-71.13417, 42.276486]",Point,Service,4,INVEST,0,E5,Day,No,BEECH ST,Part three,Other,755171.1815,,2925991.3460000004,2015
+65209,152029911.0,Monday,No,2015-04-13T11:04:00.000,Service,"[-71.061745, 42.356021]",Point,Service,4,ARREST,0,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,WINTER PL,2955067.563,2015
+170982,152030021.0,Monday,No,2015-04-13T16:00:00.000,Service,"[-71.0958, 42.285506]",Point,Service,4,TS,0,B3,First,No,DEERING RD,Part three,Unarmed,765539.5814,WESTMORE RD,2929325.233,2015
+198015,152030059.0,Monday,No,2015-04-13T17:30:00.000,Service,"[-71.052393, 42.363538]",Point,Service,4,DVIP,0,A1,First,No,NORTH ST,Part three,Unarmed,777135.5431,,2957819.723,2015
+252391,152029975.0,Monday,No,2015-04-13T13:32:00.000,Service,"[-71.1172, 42.270391]",Point,Service,4,IVPREM,0,E18,Day,No,CRANE ST,Part three,Unarmed,759773.6999,,2923790.397,2015
+267660,152029994.0,Monday,No,2015-04-13T02:45:00.000,Service,"[0, 0]",Point,Service,4,CD11,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+267663,152029912.0,Monday,No,2015-04-13T10:45:00.000,Service,"[0, 0]",Point,Service,4,CD11,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

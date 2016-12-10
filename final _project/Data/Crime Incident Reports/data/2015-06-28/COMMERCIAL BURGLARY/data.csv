@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76771,,Sunday,No,2015-06-28T00:00:00.000,Commercial Burglary,"[-71.072733, 42.350602]",Point,05CB,6,,129,D4,,No,BERKELEY ST,Part One,None,771662.0,,2950000.0,2015
+134504,,Sunday,No,2015-06-28T21:25:00.000,Commercial Burglary,"[0, 0]",Point,05CB,6,IVPER,274,D4,,No,PEOPLES BAPTIST PL,Part One,None,,TREMONT ST,,2015
+231766,,Sunday,No,2015-06-28T00:00:00.000,Commercial Burglary,"[-71.160342, 42.339937]",Point,05CB,6,BE,749,D14,,No,COMMONWEALTH AVE,Part One,None,747996.0,,2950000.0,2015

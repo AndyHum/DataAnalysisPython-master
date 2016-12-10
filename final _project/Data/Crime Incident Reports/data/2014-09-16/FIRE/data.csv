@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31038,142029996.0,Tuesday,No,2014-09-16T14:00:00.000,FIRE,"[-71.08559, 42.336381]",Point,FIRE,9,FIRE,0,D4,Day,No,TREMONT ST,Part three,Unarmed,768212.2151,,2947878.162,2014
+145190,142030004.0,Tuesday,No,2014-09-16T02:08:00.000,FIRE,"[-71.123791, 42.282723]",Point,FIRE,9,FIRE,0,E5,Last,No,CUMMINS HY,Part three,Unarmed,757969.9965,,2928276.255,2014
+183853,142029854.0,Tuesday,No,2014-09-16T02:21:00.000,FIRE,"[-71.06258, 42.310281]",Point,FIRE,9,IVMV,0,C11,Last,No,BOWDOIN ST,Part three,Unarmed,774482.2279,WINTER ST,2938397.954,2014

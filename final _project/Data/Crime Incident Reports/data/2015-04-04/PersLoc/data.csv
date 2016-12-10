@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25290,152027384.0,Saturday,No,2015-04-04T11:30:00.000,PersLoc,"[-71.080395, 42.283356]",Point,PersLoc,4,MISSIN,0,B3,Day,No,DYER ST,Other,Unarmed,769711.8516,,2928561.873,2015
+110273,152027715.0,Saturday,No,2015-04-04T15:00:00.000,PersLoc,"[-71.098258, 42.27649]",Point,PersLoc,4,IVPER,0,B3,Day,No,SAVANNAH AV,Other,Unarmed,764889.8931,,2926036.5360000003,2015
+110891,152027503.0,Saturday,No,2015-04-04T15:45:00.000,PersLoc,"[-71.055978, 42.294612]",Point,PersLoc,4,MISSIN,0,C11,Day,No,ELMDALE ST,Other,Unarmed,776297.656,,2932696.97,2015
+111336,152027749.0,Saturday,No,2015-04-04T16:00:00.000,PersLoc,"[-71.08786, 42.28502]",Point,PersLoc,4,IVPER,0,B3,First,No,WINSTON RD,Other,Unarmed,767688.7109,,2929158.389,2015
+167653,152027750.0,Saturday,No,2015-04-04T16:00:00.000,PersLoc,"[-71.08786, 42.28502]",Point,PersLoc,4,IVPER,0,B3,First,No,WINSTON RD,Other,Unarmed,767688.7109,,2929158.389,2015
+224516,152027343.0,Saturday,No,2015-04-04T19:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,4,IVPER,0,D14,First,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015

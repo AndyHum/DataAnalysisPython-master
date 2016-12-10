@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54576,152028321.0,Tuesday,No,2015-04-07T20:27:00.000,DISORDERLY,"[-71.062575, 42.352726]",Point,24xx,4,ARREST,0,A1,First,No,WASHINGTON ST,Part Two,Unarmed,774404.2569,ESSEX ST,2953865.65,2015
+117053,152028148.0,Tuesday,No,2015-04-07T10:40:00.000,DISORDERLY,"[-71.083781, 42.329494]",Point,24xx,4,ARREST,0,B2,Day,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2015
+136117,152028078.0,Tuesday,No,2015-04-07T00:46:00.000,DISORDERLY,"[-71.085257, 42.297402]",Point,24xx,4,ARREST,0,B3,Last,No,WALES ST,Part Two,Unarmed,768371.2601,,2933673.9289999995,2015
+144417,152028277.0,Tuesday,No,2015-04-07T17:20:00.000,DISORDERLY,"[-71.079765, 42.315061]",Point,24xx,4,ARREST,0,B2,First,No,QUINCY ST,Part Two,Unarmed,769825.4058,,2940116.494,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111584,,Tuesday,No,2015-08-04T00:00:00.000,Auto Theft Recovery,"[-71.064082, 42.337969]",Point,07RV,8,IVMV,174,C6,,No,FRONTAGE RD,Other,None,774024.0,,2950000.0,2015
+187529,,Tuesday,No,2015-08-04T00:00:00.000,Auto Theft Recovery,"[-71.033508, 42.345827]",Point,07RV,8,IVMV,207,C6,,No,NORTHERN AVE,Other,None,782275.0,,2950000.0,2015
+241946,,Tuesday,No,2015-08-04T00:00:00.000,Auto Theft Recovery,"[-71.075715, 42.315057]",Point,07RV,8,MVA,325,B2,,No,DALKEITH ST,Other,None,770921.0,,2940000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114295,142055915.0,Wednesday,No,2014-01-01T07:00:00.000,EMBEZELLMENT,"[-71.08257, 42.348656]",Point,12xx,1,LARCEN,0,D4,Last,No,BOYLSTON ST,Part Two,Unarmed,769006.8448,,2952355.38,2014
+152482,142043117.0,Wednesday,No,2014-01-01T07:00:00.000,EMBEZELLMENT,"[-71.13493, 42.289844]",Point,12xx,1,IVPER,0,E5,Last,No,HEWLETT ST,Part Two,Unarmed,754944.6305,,2930858.341,2014
+215837,142024115.0,Wednesday,No,2014-01-01T09:00:00.000,EMBEZELLMENT,"[-71.055085, 42.363171]",Point,12xx,1,LARCEN,0,A1,Day,No,HANOVER ST,Part Two,Unarmed,776408.9563,,2957682.48,2014

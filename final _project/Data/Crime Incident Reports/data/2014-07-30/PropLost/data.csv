@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114,142014872.0,Wednesday,No,2014-07-30T19:00:00.000,PropLost,"[-71.08207, 42.348781]",Point,PropLost,7,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769141.7805,,2952401.595,2014
+5402,142014457.0,Wednesday,No,2014-07-30T12:00:00.000,PropLost,"[-71.059415, 42.359251]",Point,PropLost,7,PROP,0,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+16914,142016693.0,Wednesday,No,2014-07-30T17:00:00.000,PropLost,"[-71.109297, 42.287813]",Point,PropLost,7,IVPER,0,E18,First,No,CANTERBURY ST,Part three,Unarmed,761883.5736,,2930148.74,2014
+23284,142014472.0,Wednesday,No,2014-07-30T15:15:00.000,PropLost,"[-71.097687, 42.265053]",Point,PropLost,7,PROP,0,E18,Day,No,MALTA ST,Part three,Unarmed,765063.9117,,2921869.256,2014
+59124,142014747.0,Wednesday,No,2014-07-30T13:40:00.000,PropLost,"[-71.048485, 42.349406]",Point,PropLost,7,PROP,0,C6,Day,No,SUMMER ST,Part three,Unarmed,778219.2009999999,,2952675.627,2014
+66710,142014462.0,Wednesday,No,2014-07-30T10:00:00.000,PropLost,"[-71.095995, 42.347161]",Point,PropLost,7,PROP,0,D4,Day,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014
+135581,142018204.0,Wednesday,No,2014-07-30T15:00:00.000,PropLost,"[-71.10278, 42.319866]",Point,PropLost,7,PROP,0,E13,Day,No,LAMARTINE ST,Part three,Unarmed,763592.5594,,2941837.689,2014
+164436,142014515.0,Wednesday,No,2014-07-30T17:28:00.000,PropLost,"[-71.07437, 42.317741]",Point,PropLost,7,PROP,0,B2,First,No,HOWARD AV,Part three,Other,771279.6746,,2941100.3639999996,2014
+171092,142014539.0,Wednesday,No,2014-07-30T15:00:00.000,PropLost,"[-71.06942, 42.356141]",Point,PropLost,7,PROP,0,A1,Day,No,BEACON ST,Part three,Unarmed,772547.7636,CHARLES ST,2955100.727,2014
+195399,142014688.0,Wednesday,No,2014-07-30T17:00:00.000,PropLost,"[-71.070197, 42.290036]",Point,PropLost,7,PROP,0,C11,First,No,TALBOT AV,Part three,Unarmed,772459.06,,2931009.9110000003,2014
+260924,142014949.0,Wednesday,No,2014-07-30T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,,,,2014
+261968,142014797.0,Wednesday,No,2014-07-30T15:30:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2014
+264204,142023345.0,Wednesday,No,2014-07-30T05:45:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,A7,Last,No,AIRPORT RD,Part three,Unarmed,,,,2014

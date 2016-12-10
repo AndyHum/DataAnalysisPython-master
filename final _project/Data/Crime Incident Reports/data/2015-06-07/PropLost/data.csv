@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3334,152047547.0,Sunday,No,2015-06-07T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,A1,First,No,LANCASTER ST,Part three,Unarmed,,,,2015
+11409,152047401.0,Sunday,No,2015-06-07T08:00:00.000,PropLost,"[-71.055745, 42.363726]",Point,PropLost,6,ADMRPT,0,A1,Day,No,SALEM ST,Part three,Unarmed,776229.5334,,2957883.8030000003,2015
+49034,152047686.0,Sunday,No,2015-06-07T08:00:00.000,PropLost,"[-71.08559, 42.336381]",Point,PropLost,6,PROP,0,D4,Day,No,TREMONT ST,Part three,Unarmed,768212.2151,,2947878.162,2015
+56509,152047246.0,Sunday,No,2015-06-07T22:10:00.000,PropLost,"[-71.070865, 42.344381]",Point,PropLost,6,PROP,0,D4,First,No,TREMONT ST,Part three,Unarmed,772178.7613,HANSON ST,2950813.193,2015
+75302,152047485.0,Sunday,No,2015-06-07T16:00:00.000,PropLost,"[-71.075345, 42.350876]",Point,PropLost,6,PROP,0,D4,First,No,CLARENDON ST,Part three,Unarmed,770955.8688,,2953174.0319999997,2015
+177401,152047092.0,Sunday,No,2015-06-07T11:30:00.000,PropLost,"[-71.093775, 42.269596]",Point,PropLost,6,LARCEN,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766115.135,,2923530.012,2015
+197103,152047334.0,Sunday,No,2015-06-07T09:00:00.000,PropLost,"[-71.065585, 42.309856]",Point,PropLost,6,PROP,0,C11,Day,No,HENDRY ST,Part three,Unarmed,773670.2174,,2938238.923,2015
+228240,152048372.0,Sunday,No,2015-06-07T09:40:00.000,PropLost,"[-71.055896, 42.319352]",Point,PropLost,6,ADMRPT,0,C11,Day,No,BUTTONWOOD ST,Part three,Unarmed,776272.7879,,2941712.7210000004,2015
+234510,152047069.0,Sunday,No,2015-06-07T00:30:00.000,PropLost,"[-71.04339, 42.350736]",Point,PropLost,6,PROP,0,C6,Last,No,NORTHERN AV,Part three,Unarmed,779593.8607,,2953167.635,2015
+257517,152047120.0,Sunday,No,2015-06-07T14:52:00.000,PropLost,"[-71.092995, 42.271531]",Point,PropLost,6,LARCEN,0,B3,Day,No,FREMONT ST,Part three,Other,766322.8836,,2924236.159,2015

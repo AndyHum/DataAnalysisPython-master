@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12831,140135598.0,Wednesday,No,2014-03-05T12:45:00.000,FIRE,"[-71.141721, 42.34306]",Point,FIRE,3,FIREB ,956,D14,Day,No,WASHINGTON ST,Part three,Unarmed,753025.5063,,2950243.078,2014
+28069,140136373.0,Wednesday,No,2014-03-05T18:25:00.000,FIRE,"[-71.05137, 42.332641]",Point,FIRE,3,FIREB ,216,C6,First,No,DORCHESTER ST,Part three,Unarmed,777471.4752,,2946562.0489999996,2014
+45933,140134912.0,Wednesday,No,2014-03-05T07:25:00.000,FIRE,"[-71.072055, 42.343736]",Point,FIRE,3,FIREB ,152,D4,Last,No,TREMONT ST,Part three,Unarmed,771858.24,,2950576.527,2014
+136783,140136778.0,Wednesday,No,2014-03-05T21:57:00.000,FIRE,"[-71.060725, 42.370351]",Point,FIRE,3,FIREB ,39,A15,First,No,CHARLES RIVER AV,Part three,Unarmed,774871.2359,,2960291.1160000004,2014

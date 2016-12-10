@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2873,152048396.0,Thursday,No,2015-06-11T14:40:00.000,Argue,"[0, 0]",Point,Argue,6,AB,0,C11,Day,No,WESTVILLE ST,Part three,Unarmed,,GENEVA AV,,2015
+159335,152048247.0,Thursday,No,2015-06-11T23:45:00.000,Argue,"[-71.075585, 42.340456]",Point,Argue,6,DVIP,0,D4,First,No,W NEWTON ST,Part three,Unarmed,770909.8909,,2949376.4669999997,2015
+203172,152048473.0,Thursday,No,2015-06-11T16:00:00.000,Argue,"[-71.079178, 42.304207]",Point,Argue,6,DVIP,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,770003.4383,,2936161.74,2015
+222719,152048856.0,Thursday,No,2015-06-11T18:30:00.000,Argue,"[-71.16513, 42.294746]",Point,Argue,6,IVPER,0,E5,First,No,COREY ST,Part three,Unarmed,746766.4149,,2932611.162,2015

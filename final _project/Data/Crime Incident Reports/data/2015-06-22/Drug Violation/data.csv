@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3198,,Monday,No,2015-06-22T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,6,IVPER,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+10996,,Monday,No,2015-06-22T12:55:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVMV,652,E13,,No,SOUTH ST,Part Two,None,, WASHINGTON ST ,,2015
+32797,,Monday,No,2015-06-22T19:15:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPER,26,A7,,No,BORDER ST,Part Two,None,,CONDOR ST,,2015
+48275,,Monday,No,2015-06-22T14:36:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVMV,363,C11,,No,DIX ST,Part Two,None,, DORCHESTER AVE ,,2015
+74140,,Monday,No,2015-06-22T18:15:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,302,E13,,No,CENTRE ST,Part Two,None,,,,2015
+86272,,Monday,No,2015-06-22T00:00:00.000,Drug Violation,"[-71.059709, 42.297555]",Point,18xx,6,IVPREM,355,C11,,No,GIBSON ST,Part Two,None,775283.0,,2930000.0,2015
+152315,,Monday,No,2015-06-22T16:47:00.000,Drug Violation,"[0, 0]",Point,18xx,6,SS,0,,,No,,Part Two,None,,WALNUT AVE,,2015
+174243,,Monday,No,2015-06-22T00:00:00.000,Drug Violation,"[-71.075864, 42.335482]",Point,18xx,6,ARREST,271,D4,,No,MASSACHUSETTS AVE,Part Two,None,770843.0,,2950000.0,2015
+212454,,Monday,No,2015-06-22T19:45:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,332,B2,,No,BIRD ST,Part Two,None,, COLUMBIA RD ,,2015
+218869,,Monday,No,2015-06-22T13:55:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVMV,444,B3,,No,BERNARD ST,Part Two,None,, HARVARD ST ,,2015
+236977,,Monday,No,2015-06-22T16:56:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPER,119,A1,,No,BOYLSTON ST,Part Two,None,,,,2015
+245333,,Monday,No,2015-06-22T00:00:00.000,Drug Violation,"[-71.08175, 42.29415]",Point,18xx,6,CD11,442,B3,,No,BROWNING AVE,Part Two,None,769326.0,,2930000.0,2015
+251684,,Monday,No,2015-06-22T00:00:00.000,Drug Violation,"[-71.097074, 42.319498]",Point,18xx,6,UNCONS,304,B2,,No,DIMOCK ST,Part Two,None,765136.0,,2940000.0,2015
+252847,,Monday,No,2015-06-22T00:00:00.000,Drug Violation,"[-71.0603, 42.306821]",Point,18xx,6,EDP,347,C11,,No,HECLA ST,Part Two,None,775105.0,,2940000.0,2015

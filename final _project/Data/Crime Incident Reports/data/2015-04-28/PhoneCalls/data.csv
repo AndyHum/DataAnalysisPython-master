@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93195,152034654.0,Tuesday,No,2015-04-28T17:59:00.000,PhoneCalls,"[-71.078815, 42.350571]",Point,PhoneCalls,4,IVPER,0,D4,First,No,NEWBURY ST,Part three,Unarmed,770018.4438,,2953058.235,2015
+170203,152034711.0,Tuesday,No,2015-04-28T18:48:00.000,PhoneCalls,"[-71.07033, 42.291278]",Point,PhoneCalls,4,IVPER,0,C11,First,No,MOULTRIE ST,Part three,Other,772420.6342,,2931462.2210000004,2015
+187016,152034717.0,Tuesday,No,2015-04-28T17:00:00.000,PhoneCalls,"[-71.07666, 42.351141]",Point,PhoneCalls,4,DISTRB,0,D4,First,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2015

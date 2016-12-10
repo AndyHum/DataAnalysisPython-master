@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20229,,Tuesday,No,2015-06-23T00:00:00.000,Investigate Person,"[-71.100832, 42.335515]",Point,InvPer,6,EDP,612,B2,,No,HUNTINGTON AVE,Part Three,None,764093.0,,2950000.0,2015
+29070,,Tuesday,No,2015-06-23T00:00:00.000,Investigate Person,"[-71.076451, 42.340204]",Point,InvPer,6,IVPREM,157,D4,,No,RUTLAND ST,Part Three,None,770676.0,,2950000.0,2015
+67719,,Tuesday,No,2015-06-23T00:00:00.000,Investigate Person,"[-71.086883, 42.348406]",Point,InvPer,6,IVPER,141,D4,,No,NEWBURY ST,Part Three,None,767841.0,,2950000.0,2015
+81334,,Tuesday,No,2015-06-23T00:00:00.000,Investigate Person,"[-71.058178, 42.378509]",Point,InvPer,6,BE,900,A15,,No,WALFORD WAY,Part Three,None,775544.0,,2960000.0,2015
+115347,,Tuesday,No,2015-06-23T00:00:00.000,Investigate Person,"[-71.061327, 42.362607]",Point,InvPer,6,IVPER,74,A1,,No,NEW CHARDON ST,Part Three,None,774723.0,,2960000.0,2015
+152912,,Tuesday,No,2015-06-23T00:00:00.000,Investigate Person,"[-71.084112, 42.331925]",Point,InvPer,6,,287,B2,,No,SHAWMUT AVE,Part Three,None,768620.0,,2950000.0,2015
+163572,,Tuesday,No,2015-06-23T14:50:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,498,E18,,No,NAVARRE ST,Part Three,None,,,,2015
+220186,,Tuesday,No,2015-06-23T00:00:00.000,Investigate Person,"[-71.072107, 42.315785]",Point,InvPer,6,EDP,327,B2,,No,CHAMBLET ST,Part Three,None,771895.0,,2940000.0,2015

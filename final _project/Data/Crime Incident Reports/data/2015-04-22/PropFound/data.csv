@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+177524,152032761.0,Wednesday,No,2015-04-22T14:30:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,4,PROP,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2015
+187987,152032816.0,Wednesday,No,2015-04-22T16:31:00.000,PropFound,"[-71.06264, 42.352111]",Point,PropFound,4,LARCEN,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774387.8367,,2953641.442,2015
+258523,152032862.0,Wednesday,No,2015-04-22T19:00:00.000,PropFound,"[-71.08785, 42.350376]",Point,PropFound,4,PROP,0,D4,First,No,MARLBOROUGH ST,Part three,Unarmed,767576.5314,,2952975.2430000002,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59244,,Saturday,No,2015-07-25T00:00:00.000,Auto Theft,"[-71.167435, 42.300983]",Point,07xx,7,IVMV,748,E5,,No,BRYON RD,Part One,None,746134.0,,2930000.0,2015
+87312,,Saturday,No,2015-07-25T00:00:00.000,Auto Theft,"[-71.068419, 42.297685]",Point,07xx,7,IVMV,358,C11,,No,LINDSEY ST,Part One,None,772926.0,,2930000.0,2015
+126992,,Saturday,No,2015-07-25T00:00:00.000,Auto Theft,"[-71.122547, 42.242887]",Point,07xx,7,IVPER,517,E18,,No,FARADAY ST,Part One,None,758371.0,,2910000.0,2015
+148171,,Saturday,No,2015-07-25T00:00:00.000,Auto Theft Recovery,"[-71.072966, 42.304613]",Point,07RV,7,IVMV,462,C11,,No,GENEVA AVE,Other,None,771683.0,,2940000.0,2015
+231294,,Saturday,No,2015-07-25T00:00:00.000,Auto Theft,"[-71.063664, 42.344934]",Point,07xx,7,IVMV,162,D4,,No,HARRISON AVE,Part One,None,774124.0,,2950000.0,2015

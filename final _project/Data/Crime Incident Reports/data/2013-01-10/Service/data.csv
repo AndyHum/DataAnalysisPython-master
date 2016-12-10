@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97147,130021080.0,Thursday,No,2013-01-10T22:36:00.000,Service,"[-71.04049, 42.373806]",Point,Service,1,SEXOFF,27,A7,First,No,BORDER ST,Part Three,Unarmed,780332.2546,,2961578.942,2013
+179768,130019528.0,Thursday,No,2013-01-10T08:48:00.000,Service,"[-71.15159, 42.356801]",Point,Service,1,ARREST,939,D14,Day,No,N BEACON ST,Part Three,Unarmed,750337.2932,,2955239.8310000002,2013
+224892,130019559.0,Thursday,No,2013-01-10T09:05:00.000,Service,"[-71.063675, 42.352301]",Point,Service,1,ARREST,0,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774107.7181,,2953709.249,2013
+263736,130022159.0,Thursday,No,2013-01-10T09:00:00.000,Service,"[0, 0]",Point,Service,1,LARCRT,288,B2,Day,No,DUDLEY ST,Part Three,Unarmed,,,,2013

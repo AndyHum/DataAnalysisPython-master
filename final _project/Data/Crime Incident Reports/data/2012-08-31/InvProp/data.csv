@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111733,120543087.0,Friday,No,2012-08-31T08:50:00.000,InvProp,"[-71.031875, 42.382581]",Point,InvProp,8,INVEST,16,A7,Day,No,CONDOR ST,Part Three,Unarmed,782642.7781,,2964789.4460000005,2012
+118221,120543388.0,Friday,No,2012-08-31T11:20:00.000,InvProp,"[-71.069385, 42.318831]",Point,InvProp,8,IVPER ,183,B2,Day,No,DUDLEY ST,Part Three,Unarmed,772625.8658,,2941504.345,2012
+159105,120542803.0,Friday,No,2012-08-31T02:28:00.000,InvProp,"[-71.107772, 42.325119]",Point,InvProp,8,IVPREM,607,E13,Last,No,DAY ST,Part Three,Unarmed,762233.6635,,2943745.5439999998,2012
+160211,120546033.0,Friday,No,2012-08-31T21:00:00.000,InvProp,"[-71.04139, 42.330941]",Point,InvProp,8,BERPTA,233,C6,First,No,H ST,Part Three,Other,780173.2641,,2945956.8910000003,2012
+190049,120543146.0,Friday,No,2012-08-31T09:18:00.000,InvProp,"[-71.090815, 42.280136]",Point,InvProp,8,SHOTS ,428,B3,Day,No,CLARKWOOD ST,Part Three,Unarmed,766897.8582,,2927374.765,2012
+237862,120542620.0,Friday,No,2012-08-31T00:15:00.000,InvProp,"[-71.122475, 42.292586]",Point,InvProp,8,IVPREM,664,E5,Last,No,LESHER ST,Part Three,Other,758310.2041,,2931872.2169999997,2012
+242281,120542750.0,Friday,No,2012-08-31T01:44:00.000,InvProp,"[-71.15301, 42.346151]",Point,InvProp,8,SHOTS ,771,D14,Last,No,CHESTNUT HILL AV,Part Three,Unarmed,749969.2759,UNION ST,2951357.184,2012

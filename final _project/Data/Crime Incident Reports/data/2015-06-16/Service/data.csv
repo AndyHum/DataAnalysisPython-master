@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34920,,Tuesday,No,2015-06-16T11:46:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,463,B3,,No,FRANKLIN HILL AVE,Part Three,None,,SHANDON RD,,2015
+135758,152049785.0,Tuesday,No,2015-06-16T01:47:00.000,Service,"[-71.082405, 42.335031]",Point,Service,6,AOD,0,D4,Last,No,HAMMOND ST,Part three,Other,769075.7574,SHAWMUT AV,2947390.398,2015
+204919,,Tuesday,No,2015-06-16T21:22:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,112,A1,,No,WASHINGTON ST,Part Three,None,,,,2015
+211618,,Tuesday,No,2015-06-16T00:00:00.000,Police Service Incidents,"[-71.070204, 42.333746]",Point,Service,6,ARREST,175,C6,,No,BRADSTON ST,Part Three,None,772377.0,,2950000.0,2015
+214298,,Tuesday,No,2015-06-16T00:00:00.000,Police Service Incidents,"[-71.059249, 42.313537]",Point,Service,6,IVPER,247,C11,,No,PLEASANT ST,Part Three,None,775377.0,,2940000.0,2015
+225575,,Tuesday,No,2015-06-16T00:00:00.000,Police Service Incidents,"[-71.04639, 42.354048]",Point,Service,6,CD5,207,C6,,No,COURTHOUSE WAY,Part Three,None,778776.0,,2950000.0,2015

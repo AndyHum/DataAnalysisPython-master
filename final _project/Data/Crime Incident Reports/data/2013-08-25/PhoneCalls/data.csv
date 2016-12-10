@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22253,130539555.0,Sunday,No,2013-08-25T22:08:00.000,PhoneCalls,"[-71.032515, 42.334806]",Point,PhoneCalls,8,IVPER ,227,C6,First,No,E 4TH ST,Part Two,Unarmed,782565.2875,,2947378.39,2013
+100645,130538021.0,Sunday,No,2013-08-25T21:30:00.000,PhoneCalls,"[-71.06123, 42.318241]",Point,PhoneCalls,8,HARPT ,242,C11,First,No,WILLIS ST,Part three,Unarmed,774832.4575,,2941300.58,2013
+247997,130547408.0,Sunday,No,2013-08-25T21:53:00.000,PhoneCalls,"[-71.09831, 42.313041]",Point,PhoneCalls,8,HARPT ,572,E13,First,No,GRANADA PARK,Part three,Other,764813.1478,,2939356.2060000002,2013

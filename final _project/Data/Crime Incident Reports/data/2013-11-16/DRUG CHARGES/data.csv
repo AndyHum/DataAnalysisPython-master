@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92143,130728722.0,Saturday,No,2013-11-16T18:00:00.000,DRUG CHARGES,"[-71.054711, 42.341305]",Point,18xx,11,IVDRUG,200,C6,First,No,W BROADWAY,Part Two,Unarmed,776551.5679,,2949714.607,2013
+155427,130728567.0,Saturday,No,2013-11-16T17:05:00.000,DRUG CHARGES,"[-71.0372, 42.376306]",Point,18xx,11,ARREST,23,A7,First,No,SARATOGA ST,Part Two,Other,781216.5126,,2962494.853,2013
+179765,130728045.0,Saturday,No,2013-11-16T11:44:00.000,DRUG CHARGES,"[-71.076399, 42.333996]",Point,18xx,11,SSTOP ,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,770701.3598,,2947021.0810000002,2013
+183264,130728898.0,Saturday,No,2013-11-16T16:00:00.000,DRUG CHARGES,"[-71.059987, 42.361648]",Point,18xx,11,IVDRUG,72,A1,First,No,SUDBURY ST,Part Two,Unarmed,775087.02,,2957120.525,2013

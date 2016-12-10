@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52111,142052600.0,Thursday,No,2014-11-27T03:59:00.000,InvPer,"[-71.08195, 42.282956]",Point,InvPer,11,IVPER,0,B3,Last,No,CROWELL ST,Part three,Unarmed,769291.7881,,2928414.041,2014
+59355,142052696.0,Thursday,No,2014-11-27T18:30:00.000,InvPer,"[-71.097405, 42.316681]",Point,InvPer,11,IVPER,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,765051.6637,,2940683.837,2014
+170240,142052695.0,Thursday,No,2014-11-27T17:30:00.000,InvPer,"[-71.087785, 42.330311]",Point,InvPer,11,CD7,0,B2,First,No,PUTNAM PL,Part three,Unarmed,767629.4407,,2945663.269,2014
+206808,142052613.0,Thursday,No,2014-11-27T00:39:00.000,InvPer,"[-71.090956, 42.333723]",Point,InvPer,11,INVEST,0,B2,Last,No,TREMONT ST,Part three,Other,766765.8102,,2946902.542,2014
+212445,142052599.0,Thursday,No,2014-11-27T01:00:00.000,InvPer,"[-71.040415, 42.37168]",Point,InvPer,11,IVPER,0,A7,Last,No,LONDON ST,Part three,Unarmed,780356.8579,,2960804.075,2014
+232598,142052645.0,Thursday,No,2014-11-27T11:30:00.000,InvPer,"[-71.11657, 42.266491]",Point,InvPer,11,IVPER,0,E18,Day,No,HUNTINGTON AV,Part three,Unarmed,759950.6008,,2922369.9489999996,2014
+251748,142052607.0,Thursday,No,2014-11-27T06:00:00.000,InvPer,"[-71.03089, 42.378666]",Point,InvPer,11,BE,0,A7,Last,No,SARATOGA ST,Part three,Unarmed,782916.7432,,2963364.2,2014

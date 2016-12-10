@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148715,130707893.0,Saturday,No,2013-11-02T12:19:00.000,PubDrink,"[-71.08216, 42.349671]",Point,PubDrink,11,DKDIST,138,D4,Day,No,NEWBURY ST,Part Two,Unarmed,769115.8639,FAIRFIELD ST,2952725.808,2013
+153171,130707888.0,Saturday,No,2013-11-02T12:25:00.000,PubDrink,"[-71.083145, 42.349411]",Point,PubDrink,11,IVLIC ,138,D4,Day,No,NEWBURY ST,Part Two,Unarmed,768850.0656,,2952629.758,2013
+183842,130697451.0,Saturday,No,2013-11-02T01:26:00.000,PubDrink,"[-71.06509, 42.317001]",Point,PubDrink,11,CD19  ,0,B2,Last,No,COLUMBIA RD,Part Two,Unarmed,773790.8306,STOUGHTON ST,2940843.356,2013

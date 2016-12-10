@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8698,152020216.0,Thursday,No,2015-03-12T08:00:00.000,DISORDERLY,"[-71.071512, 42.302864]",Point,24xx,3,IVPER,0,C11,Day,No,BOWDOIN ST,Part Two,Other,772079.7509999999,GENEVA AV,2935682.6780000003,2015
+73690,152020057.0,Thursday,No,2015-03-12T17:00:00.000,DISORDERLY,"[-71.08411, 42.328726]",Point,24xx,3,IVPER,0,B2,First,No,DUDLEY ST,Part Two,Unarmed,768625.9666,,2945090.4910000004,2015
+222349,152019916.0,Thursday,No,2015-03-12T10:45:00.000,DISORDERLY,"[-71.067985, 42.361196]",Point,24xx,3,ARREST,0,A1,Day,No,CAMBRIDGE ST,Part Two,Unarmed,772926.2953,,2956944.829,2015

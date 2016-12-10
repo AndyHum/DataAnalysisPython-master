@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110396,130298784.0,Sunday,No,2013-05-19T06:36:00.000,Argue,"[-71.114873, 42.323932]",Point,Argue,5,IVPER ,608,E13,Last,No,JAMAICAWAY,Part Three,Unarmed,760315.3392,,2943304.439,2013
+162241,130300099.0,Sunday,No,2013-05-19T20:45:00.000,Argue,"[-71.056815, 42.378781]",Point,Argue,5,DISTRB,900,A15,First,No,TUFTS ST,Part Three,Unarmed,775911.8562,,2963368.646,2013
+166238,130299197.0,Sunday,No,2013-05-19T11:50:00.000,Argue,"[-71.097081, 42.319472]",Point,Argue,5,EDP2  ,304,B2,Day,No,DIMOCK ST,Part three,Unarmed,765134.3663,,2941701.057,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140947,130662839.0,Wednesday,No,2013-10-16T18:00:00.000,PhoneCalls,"[-71.025635, 42.380611]",Point,PhoneCalls,10,IVPER ,16,A7,First,No,SARATOGA ST,Part three,Unarmed,784332.6485,,2964080.848,2013
+147310,130660365.0,Wednesday,No,2013-10-16T14:29:00.000,PhoneCalls,"[-71.114065, 42.313311]",Point,PhoneCalls,10,HARPT ,645,E13,Day,No,CENTRE ST,Part three,Unarmed,760551.4299,STARR LA,2939434.9239999996,2013
+155425,130660940.0,Wednesday,No,2013-10-16T17:30:00.000,PhoneCalls,"[-71.068585, 42.341776]",Point,PhoneCalls,10,IVPER ,164,D4,First,No,WASHINGTON ST,Part three,Unarmed,772799.9307,,2949866.9930000002,2013
+178175,130665112.0,Wednesday,No,2013-10-16T23:00:00.000,PhoneCalls,"[-71.070615, 42.320596]",Point,PhoneCalls,10,IVPER ,183,B2,First,No,LEYLAND ST,Part three,Unarmed,772289.9823,,2942145.8639999996,2013

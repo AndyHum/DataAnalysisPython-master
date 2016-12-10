@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63697,152002956.0,Sunday,No,2015-01-11T21:00:00.000,Service,"[-71.137903, 42.276186]",Point,Service,1,PROP,0,E5,First,No,BLUE LEDGE DR,Part three,Unarmed,754161.3702,,2925877.4239999996,2015
+74286,152002798.0,Sunday,No,2015-01-11T09:45:00.000,Service,"[-71.13625, 42.276656]",Point,Service,1,CD11,0,E5,Day,No,BEECHLAND ST,Part three,Unarmed,754608.0111,,2926050.889,2015
+209929,152002887.0,Sunday,No,2015-01-11T16:13:00.000,Service,"[-71.06815, 42.318346]",Point,Service,1,CARDIA,0,B2,First,No,DUDLEY ST,Part three,Unarmed,772960.7611,,2941329.292,2015
+222405,152002932.0,Sunday,No,2015-01-11T22:09:00.000,Service,"[-71.05833, 42.308091]",Point,Service,1,SS,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775635.9105,HANCOCK ST,2937605.808,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116279,120504127.0,Tuesday,No,2012-08-14T02:39:00.000,Ballist,"[-71.069575, 42.305421]",Point,Ballist,8,IVPREM,336,C11,Last,No,OLNEY ST,Part Two,Unarmed,772599.1411,,2936617.269,2012
+163675,120505547.0,Tuesday,No,2012-08-14T17:00:00.000,Ballist,"[-71.056775, 42.281351]",Point,Ballist,8,FDWEAP,389,C11,First,No,GRANVILLE ST,Part Two,Firearm,776106.9185,,2927863.521,2012
+250513,120504027.0,Tuesday,No,2012-08-14T01:13:00.000,Ballist,"[-71.08786, 42.28502]",Point,Ballist,8,INVEST,430,B3,Last,No,WINSTON RD,Part Two,Firearm,767688.7109,,2929158.389,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98266,120640007.0,Wednesday,No,2012-10-10T21:00:00.000,DEATH INVESTIGATION,"[-71.144262, 42.255257]",Point,01INV,10,CARST ,822,E5,First,No,GEORGETOWNE PL,Part Three,Unarmed,752472.2036,,2918243.367,2012
+190097,120638603.0,Wednesday,No,2012-10-10T15:30:00.000,DEATH INVESTIGATION,"[-71.086099, 42.344019]",Point,01INV,10,UNK   ,620,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,768060.9025,,2950660.6539999996,2012
+229732,120639196.0,Wednesday,No,2012-10-10T20:12:00.000,DEATH INVESTIGATION,"[-71.14115, 42.289276]",Point,01INV,10,SDNDTH,676,E5,First,No,AINSWORTH ST,Part Three,Other,753262.5908,,2930644.191,2012

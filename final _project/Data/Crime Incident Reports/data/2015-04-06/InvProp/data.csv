@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24973,152027944.0,Monday,No,2015-04-06T14:40:00.000,InvProp,"[-71.06263, 42.270793]",Point,InvProp,4,VAND,0,C11,Day,No,VENTURA ST,Part three,Unarmed,774542.4358,,2924007.5889999997,2015
+26286,152027851.0,Monday,No,2015-04-06T13:30:00.000,InvProp,"[-71.075185, 42.336021]",Point,InvProp,4,ALARM,0,D4,Day,No,E SPRINGFIELD ST,Part three,Unarmed,771026.0816,,2947760.812,2015
+67369,152027796.0,Monday,No,2015-04-06T09:55:00.000,InvProp,"[-71.076575, 42.348426]",Point,InvProp,4,IVPREM,0,D4,Day,No,DARTMOUTH ST,Part three,Unarmed,770627.8209,STUART ST,2952279.5519999997,2015
+119878,152028035.0,Monday,No,2015-04-06T20:34:00.000,InvProp,"[-71.06123, 42.318241]",Point,InvProp,4,BE,0,C11,First,No,WILLIS ST,Part three,Unarmed,774832.4575,,2941300.58,2015
+120146,152028311.0,Monday,No,2015-04-06T20:00:00.000,InvProp,"[-71.105655, 42.346336]",Point,InvProp,4,BE,0,D4,First,No,BEACON ST,Part three,Unarmed,762770.4429,,2951480.233,2015
+218192,152027754.0,Monday,No,2015-04-06T01:15:00.000,InvProp,"[-71.063107, 42.301073]",Point,InvProp,4,DISTRB,0,C11,Last,No,ARCADIA PARK,Part three,Unarmed,774356.6356,,2935041.712,2015
+267365,152027765.0,Monday,No,2015-04-06T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,A7,Last,No,HARBORSIDE DR,Part three,Unarmed,,,,2015
+267416,152027767.0,Monday,No,2015-04-06T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,4,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

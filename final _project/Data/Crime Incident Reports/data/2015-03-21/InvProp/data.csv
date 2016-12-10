@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26426,152022850.0,Saturday,No,2015-03-21T21:37:00.000,InvProp,"[-71.05661, 42.361881]",Point,InvProp,3,REQP,0,A1,First,No,BLACKSTONE ST,Part three,Unarmed,775999.2593,,2957210.233,2015
+74818,152022870.0,Saturday,No,2015-03-21T23:30:00.000,InvProp,"[-71.08551, 42.307211]",Point,InvProp,3,SSA,0,B2,First,No,WAYNE ST,Part three,Unarmed,768285.5034,,2937248.2260000003,2015
+80196,152024868.0,Saturday,No,2015-03-21T00:00:00.000,InvProp,"[-71.070197, 42.290036]",Point,InvProp,3,IVPER,0,C11,Last,No,TALBOT AV,Part three,Unarmed,772459.06,,2931009.9110000003,2015
+128212,152022872.0,Saturday,No,2015-03-21T23:45:00.000,InvProp,"[-71.081195, 42.344021]",Point,InvProp,3,BE,0,D4,First,No,DURHAM ST,Part three,Unarmed,769386.8266,,2950668.122,2015
+148258,152022838.0,Saturday,No,2015-03-21T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,3,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+174024,152022673.0,Saturday,No,2015-03-21T04:11:00.000,InvProp,"[-71.064295, 42.313324]",Point,InvProp,3,SSA,0,C11,Last,No,ROWELL ST,Part three,Other,774012.4873,,2939504.413,2015
+178143,152030094.0,Saturday,No,2015-03-21T09:00:00.000,InvProp,"[-71.070433, 42.363012]",Point,InvProp,3,LARCEN,0,A1,Day,No,CHARLES ST,Part three,Unarmed,772261.3324,,2957603.1539999996,2015
+216015,152022827.0,Saturday,No,2015-03-21T19:33:00.000,InvProp,"[-71.061745, 42.356021]",Point,InvProp,3,IVPER,0,A1,First,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2015
+266716,152022641.0,Saturday,No,2015-03-21T12:06:00.000,InvProp,"[0, 0]",Point,InvProp,3,IVMV,0,B3,Day,No,BLUE JAY CIRCLE,Part three,Unarmed,,,,2015
+266731,152022873.0,Saturday,No,2015-03-21T23:47:00.000,InvProp,"[0, 0]",Point,InvProp,3,ALARM,0,B2,Last,No,TOWNSEND ST,Part three,Unarmed,,,,2015

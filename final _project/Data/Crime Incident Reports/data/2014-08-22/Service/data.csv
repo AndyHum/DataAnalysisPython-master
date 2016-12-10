@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88343,142021805.0,Friday,No,2014-08-22T10:50:00.000,Service,"[-71.06942, 42.362401]",Point,Service,8,CD11,0,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,,2957381.922,2014
+144444,142021989.0,Friday,No,2014-08-22T20:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER,0,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014
+241806,142021816.0,Friday,No,2014-08-22T12:00:00.000,Service,"[-71.092186, 42.286881]",Point,Service,8,IVPER,0,B3,Day,No,WILCOCK ST,Part three,Unarmed,766515.0283,,2929830.797,2014
+260784,142023086.0,Friday,No,2014-08-22T23:00:00.000,Service,"[0, 0]",Point,Service,8,LARCEN,0,C11,First,No,ASHMONT ST,Part three,Unarmed,,,,2014

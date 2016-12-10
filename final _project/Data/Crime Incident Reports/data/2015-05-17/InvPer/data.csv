@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1380,152040394.0,Sunday,No,2015-05-17T11:50:00.000,InvPer,"[0, 0]",Point,InvPer,5,PERGUN,0,B3,Day,No,HARVARD ST,Part three,Firearm,,,,2015
+1398,152040314.0,Sunday,No,2015-05-17T02:53:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,B2,Last,No,BELDEN ST,Part three,Unarmed,,,,2015
+1466,152040718.0,Sunday,No,2015-05-17T20:00:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,E18,First,No,GLENCLIFF RD,Part three,Unarmed,,,,2015
+59563,152040511.0,Sunday,No,2015-05-17T19:40:00.000,InvPer,"[-71.130369, 42.350302]",Point,InvPer,5,IVPER,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,756083.2302,,2952895.6410000003,2015
+82655,152040336.0,Sunday,No,2015-05-17T07:00:00.000,InvPer,"[-71.07538, 42.333949]",Point,InvPer,5,AB,0,D4,Last,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2015
+145767,152040403.0,Sunday,No,2015-05-17T11:57:00.000,InvPer,"[-71.131494, 42.289836]",Point,InvPer,5,IVPER,0,E5,Day,No,SYMMES ST,Part three,Unarmed,755874.3425,,2930859.231,2015
+201441,152040342.0,Sunday,No,2015-05-17T07:41:00.000,InvPer,"[-71.146825, 42.350261]",Point,InvPer,5,FIGHT,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,751635.0665,WARREN ST,2952861.814,2015

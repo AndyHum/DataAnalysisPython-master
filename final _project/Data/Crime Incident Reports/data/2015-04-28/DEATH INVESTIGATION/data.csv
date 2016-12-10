@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84716,152034666.0,Tuesday,No,2015-04-28T18:10:00.000,DEATH INVESTIGATION,"[-71.032635, 42.375156]",Point,01INV,4,UNKEMS,0,A7,First,No,CHELSEA ST,Part three,Unarmed,782452.2703,,2962082.495,2015
+148731,152034561.0,Tuesday,No,2015-04-28T12:39:00.000,DEATH INVESTIGATION,"[-71.138565, 42.343871]",Point,01INV,4,UNKEMS,0,D14,Day,No,COREY RD,Part three,Unarmed,753877.7163,,2950542.523,2015
+238748,152034663.0,Tuesday,No,2015-04-28T16:29:00.000,DEATH INVESTIGATION,"[-71.065955, 42.291082]",Point,01INV,4,ALARM,0,C11,First,No,MELBOURNE ST,Part three,Unarmed,773604.8812,,2931396.827,2015

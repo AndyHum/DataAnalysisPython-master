@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7783,120761285.0,Wednesday,No,2012-12-05T01:57:00.000,WEAPONS CHARGE,"[-71.144637, 42.342441]",Point,15xx,12,EDP2  ,785,D14,Last,No,COMMONWEALTH AV,Part Two,Firearm,752238.2041,,2950014.455,2012
+115211,120763396.0,Wednesday,No,2012-12-05T21:43:00.000,WEAPONS CHARGE,"[-71.064761, 42.279129]",Point,15xx,12,PKNIFE,388,C11,First,No,BROOKVALE ST,Part Two,Knife,773950.1932,,2927042.684,2012
+115256,120762259.0,Wednesday,No,2012-12-05T12:25:00.000,WEAPONS CHARGE,"[-71.088738, 42.346309]",Point,15xx,12,PERGUN,620,D4,Day,No,HAVILAND ST,Part Two,Firearm,767343.5085,,2951492.037,2012

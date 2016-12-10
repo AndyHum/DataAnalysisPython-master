@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69432,130471631.0,Monday,No,2013-07-29T12:44:00.000,PropFound,"[-71.11917, 42.251963]",Point,PropFound,7,FDPROP,512,E18,Day,No,TRUMAN PY,Part three,Unarmed,759270.3839,,2917072.4560000002,2013
+76190,130471256.0,Monday,No,2013-07-29T11:39:00.000,PropFound,"[-71.060215, 42.319096]",Point,PropFound,7,FDPROP,240,C11,Day,No,DAWES ST,Part three,Unarmed,775105.3559,,2941613.5689999997,2013
+111873,130470992.0,Monday,No,2013-07-29T06:21:00.000,PropFound,"[-71.09358, 42.276826]",Point,PropFound,7,FDPROP,469,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766155.3594,,2926164.973,2013
+199356,130471431.0,Monday,No,2013-07-29T09:00:00.000,PropFound,"[-71.063345, 42.345876]",Point,PropFound,7,FDPROP,200,D4,Day,No,HARRISON AV,Part three,Other,774208.9039,HERALD ST,2951368.316,2013

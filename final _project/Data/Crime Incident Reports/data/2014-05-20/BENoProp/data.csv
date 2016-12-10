@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15128,140314021.0,Tuesday,No,2014-05-20T14:59:00.000,BENoProp,"[-71.155971, 42.283311]",Point,BENoProp,5,BERPT ,702,E5,Day,No,BELLEVUE ST,Part One,Other,749261.1021,,2928453.731,2014
+42169,140312576.0,Tuesday,No,2014-05-20T06:38:00.000,BENoProp,"[-71.03543, 42.375801]",Point,BENoProp,5,IVPER ,22,A7,Last,No,MARION ST,Part One,Unarmed,781695.7705,,2962313.42,2014
+245778,140313693.0,Tuesday,No,2014-05-20T14:59:00.000,BENoProp,"[-71.155971, 42.283311]",Point,BENoProp,5,BEIP  ,702,E5,Day,No,BELLEVUE ST,Part One,Other,749261.1021,,2928453.731,2014

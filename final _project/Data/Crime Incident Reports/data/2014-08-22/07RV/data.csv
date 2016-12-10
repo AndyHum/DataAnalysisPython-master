@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38084,142021800.0,Friday,No,2014-08-22T10:47:00.000,07RV,"[-71.058235, 42.310543]",Point,07RV,8,IVMV,0,C11,Day,No,ROACH ST,Other,Unarmed,775656.7314,,2938499.396,2014
+129340,142021717.0,Friday,No,2014-08-22T01:15:00.000,07RV,"[-71.06509, 42.317001]",Point,07RV,8,TS,0,B2,Last,No,COLUMBIA RD,Other,Unarmed,773790.8306,DUDLEY ST,2940843.356,2014
+177483,142021921.0,Friday,No,2014-08-22T16:45:00.000,07RV,"[-71.038395, 42.379261]",Point,07RV,8,IVMV,0,A7,First,No,MARION PL,Other,Unarmed,780887.7977,,2963569.965,2014

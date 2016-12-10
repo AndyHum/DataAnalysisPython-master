@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36545,120483006.0,Saturday,No,2012-08-04T18:05:00.000,PersLoc,"[-71.12589, 42.302171]",Point,PersLoc,8,IVPER ,657,E13,First,No,CENTRE ST,Part Three,Unarmed,757370.9245,,2935361.0730000003,2012
+81780,120483668.0,Saturday,No,2012-08-04T11:15:00.000,PersLoc,"[-71.138224, 42.287138]",Point,PersLoc,8,MISPER,675,E5,Day,No,TYNDALE ST,Part Three,Unarmed,754057.4357,,2929868.3439999996,2012
+240742,120481353.0,Saturday,No,2012-08-04T00:25:00.000,PersLoc,"[-71.07959, 42.276258]",Point,PersLoc,8,MSNCOM,943,B3,Last,No,WOODGATE ST,Part Three,Unarmed,769942.4463,,2925976.1360000004,2012

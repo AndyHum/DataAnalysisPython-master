@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85180,152034312.0,Monday,No,2015-04-27T17:00:00.000,DISORDERLY,"[-71.076655, 42.336766]",Point,24xx,4,IVPER,0,D4,First,No,WASHINGTON ST,Part Two,Unarmed,770627.2848,,2948030.3260000004,2015
+115824,152034190.0,Monday,No,2015-04-27T11:01:00.000,DISORDERLY,"[-71.0604, 42.355356]",Point,24xx,4,ARREST,0,A1,Day,No,SUMMER ST,Part Two,Unarmed,774987.2219,WASHINGTON ST,2954827.095,2015
+226834,152034410.0,Monday,No,2015-04-27T21:43:00.000,DISORDERLY,"[-71.059987, 42.361648]",Point,24xx,4,IVPER,0,A1,First,No,SUDBURY ST,Part Two,Unarmed,775087.02,,2957120.525,2015

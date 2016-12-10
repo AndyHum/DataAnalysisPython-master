@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37366,130282108.0,Sunday,No,2013-05-12T05:30:00.000,PropFound,"[-71.074855, 42.350756]",Point,PropFound,5,FDPROP,130,D4,Last,No,BOYLSTON ST,Part Three,Unarmed,771088.5381,,2953130.961,2013
+73387,130282613.0,Sunday,No,2013-05-12T13:00:00.000,PropFound,"[-71.06248, 42.298081]",Point,PropFound,5,FDPROP,358,C11,Day,No,GENEVA AV,Part Three,Unarmed,774532.0806,PARK ST,2933952.228,2013
+143954,130284606.0,Sunday,No,2013-05-12T19:00:00.000,PropFound,"[-71.07738, 42.350061]",Point,PropFound,5,FDPROP,130,D4,First,No,BOYLSTON ST,Part Three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2013
+253761,130283336.0,Sunday,No,2013-05-12T19:30:00.000,PropFound,"[-71.06344, 42.350916]",Point,PropFound,5,FDPROP,117,A1,First,No,STUART ST,Part Three,Unarmed,774173.8226,,2953204.854,2013

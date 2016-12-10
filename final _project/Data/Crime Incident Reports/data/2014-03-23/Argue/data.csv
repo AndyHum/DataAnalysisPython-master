@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15391,140175654.0,Sunday,No,2014-03-23T02:00:00.000,Argue,"[-71.065135, 42.350006]",Point,Argue,3,IVPER ,121,A1,Last,No,TREMONT ST,Part three,Other,773717.34,,2952870.892,2014
+51736,140176751.0,Sunday,No,2014-03-23T17:00:00.000,Argue,"[-71.098085, 42.342541]",Point,Argue,3,HARPT ,626,D4,First,No,QUEENSBERRY ST,Part three,Unarmed,764823.3476,,2950106.816,2014
+141138,140176846.0,Sunday,No,2014-03-23T18:00:00.000,Argue,"[-71.100705, 42.342791]",Point,Argue,3,DISTRB,626,D4,First,No,PETERBOROUGH ST,Part three,Unarmed,764114.6170000001,,2950194.595,2014
+213732,140176606.0,Sunday,No,2014-03-23T15:58:00.000,Argue,"[-71.07666, 42.351141]",Point,Argue,3,THREAT,134,D4,Day,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2014

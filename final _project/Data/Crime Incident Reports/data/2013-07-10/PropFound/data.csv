@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39570,130425079.0,Wednesday,No,2013-07-10T12:00:00.000,PropFound,"[-71.137625, 42.352416]",Point,PropFound,7,FDPROP,795,D14,Day,No,ARMINGTON ST,Part three,Unarmed,754118.6065,,2953657.5710000005,2013
+48139,130427789.0,Wednesday,No,2013-07-10T10:00:00.000,PropFound,"[-71.14805, 42.259326]",Point,PropFound,7,FDPROP,822,E5,Day,No,GEORGETOWNE DR,Part three,Unarmed,751440.6434,,2919722.167,2013
+256925,130425787.0,Wednesday,No,2013-07-10T17:32:00.000,PropFound,"[-71.15706, 42.261331]",Point,PropFound,7,FDPROP,713,E5,First,No,GROVE ST,Part three,Unarmed,748998.7127,WASHINGTON AV,2920442.909,2013

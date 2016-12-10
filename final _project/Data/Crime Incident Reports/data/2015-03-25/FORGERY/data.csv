@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21900,152024149.0,Wednesday,No,2015-03-25T16:16:00.000,FORGERY,"[-71.06072, 42.355536]",Point,10xx,3,ARREST,0,A1,First,No,WINTER ST,Part Two,Unarmed,774900.3914,,2954892.244,2015
+70437,152027466.0,Wednesday,No,2015-03-25T08:00:00.000,FORGERY,"[-71.071745, 42.305531]",Point,10xx,3,LARCEN,0,C11,Day,No,OLNEY ST,Part Two,Unarmed,772011.948,,2936654.4,2015
+250500,152024013.0,Wednesday,No,2015-03-25T11:30:00.000,FORGERY,"[-71.063565, 42.322881]",Point,10xx,3,LARCEN,0,C6,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,774192.3098,,2942988.232,2015

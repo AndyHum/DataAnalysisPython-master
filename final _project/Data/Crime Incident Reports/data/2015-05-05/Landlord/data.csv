@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40163,152036815.0,Tuesday,No,2015-05-05T20:54:00.000,Landlord,"[-71.09099, 42.283187]",Point,Landlord,5,LANTEN,0,B3,First,No,LANDOR RD,Part three,Unarmed,766845.1785,,2928486.099,2015
+84289,152036808.0,Tuesday,No,2015-05-05T19:25:00.000,Landlord,"[-71.0904, 42.280796]",Point,Landlord,5,MISC,0,B3,First,No,HOSMER ST,Part three,Unarmed,767009.0082,,2927615.818,2015
+189275,152045558.0,Tuesday,No,2015-05-05T11:00:00.000,Landlord,"[-71.05624, 42.314286]",Point,Landlord,5,IVPER,0,C11,Day,No,HALLAM ST,Part three,Other,776189.4928,,2939866.297,2015

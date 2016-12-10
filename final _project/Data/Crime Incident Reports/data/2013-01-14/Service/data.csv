@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52379,130027302.0,Monday,No,2013-01-14T01:24:00.000,Service,"[-71.066403, 42.343387]",Point,Service,1,ARREST,164,D4,Last,No,WASHINGTON ST,Part Three,Unarmed,773386.6818,,2950456.92,2013
+231676,130027943.0,Monday,No,2013-01-14T11:19:00.000,Service,"[-71.06942, 42.362401]",Point,Service,1,TRANSP,64,A1,Day,No,FRUIT ST,Part Three,Unarmed,772536.2528,CAMBRIDGE ST,2957381.922,2013
+232062,130028433.0,Monday,No,2013-01-14T14:52:00.000,Service,"[-71.059641, 42.327811]",Point,Service,1,IVPER ,191,C6,Day,No,BOSTON ST,Part Three,Unarmed,775244.0823,,2944790.3039999995,2013
+243991,130028953.0,Monday,No,2013-01-14T18:30:00.000,Service,"[-71.037917, 42.370635]",Point,Service,1,LARCIP,28,A7,First,No,CHELSEA ST,Part Three,Unarmed,781033.7515,,2960427.0719999997,2013
+260124,130028377.0,Monday,No,2013-01-14T14:19:00.000,Service,"[-71.08381, 42.281271]",Point,Service,1,ARREST,418,B3,Day,No,EVANS ST,Part Three,Unarmed,768791.4683,HOPKINS ST,2927797.543,2013

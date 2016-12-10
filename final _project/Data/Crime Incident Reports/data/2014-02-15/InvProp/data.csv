@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33760,140095614.0,Saturday,No,2014-02-15T08:34:00.000,InvProp,"[-71.065815, 42.291956]",Point,InvProp,2,ALARMC,361,C11,Day,No,CENTRE ST,Part three,Unarmed,773641.2102,,2931715.578,2014
+64166,140096484.0,Saturday,No,2014-02-15T17:32:00.000,InvProp,"[-71.06013, 42.298741]",Point,InvProp,2,DISTRB,355,C11,First,No,PARK ST,Part three,Unarmed,775166.5959,,2934196.0110000004,2014
+99245,140095848.0,Saturday,No,2014-02-15T11:33:00.000,InvProp,"[-71.09884, 42.274796]",Point,InvProp,2,BEIP  ,470,B3,Day,No,ORLANDO ST,Part three,Unarmed,764735.3419,,2925418.4760000003,2014
+114124,140096220.0,Saturday,No,2014-02-15T15:01:00.000,InvProp,"[-71.068025, 42.359531]",Point,InvProp,2,BEIP  ,66,A1,Day,No,REVERE ST,Part three,Unarmed,772918.5574,,2956338.0160000003,2014
+182506,140095072.0,Saturday,No,2014-02-15T00:00:00.000,InvProp,"[-71.06205, 42.293831]",Point,InvProp,2,ALARMC,361,C11,Last,No,DORCHESTER AV,Part three,Unarmed,774656.363,,2932404.063,2014
+185779,140096669.0,Saturday,No,2014-02-15T19:17:00.000,InvProp,"[-71.08417, 42.288116]",Point,InvProp,2,PERGUN,432,B3,First,No,CALLENDER ST,Part three,Unarmed,768681.8887,,2930291.482,2014
+217240,140096465.0,Saturday,No,2014-02-15T17:30:00.000,InvProp,"[-71.059655, 42.366801]",Point,InvProp,2,IVPREM,61,A1,First,No,LOVEJOY PL,Part three,Unarmed,775167.0552,,2958998.915,2014

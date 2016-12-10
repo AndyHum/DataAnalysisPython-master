@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5657,,Tuesday,No,2015-07-21T00:00:00.000,Larceny From Motor Vehicle,"[-71.084455, 42.342439]",Point,06MV,7,BE,145,D4,,No,MASSACHUSETTS AVE,Part One,None,768508.0,,2950000.0,2015
+102029,,Tuesday,No,2015-07-21T00:00:00.000,Larceny From Motor Vehicle,"[-71.082159, 42.31286]",Point,06MV,7,BE,321,B2,,No,ELM HILL PARK,Part One,None,769182.0,,2940000.0,2015
+250906,,Tuesday,No,2015-07-21T00:00:00.000,Larceny From Motor Vehicle,"[-71.070608, 42.285312]",Point,06MV,7,BE,400,C11,,No,ASHMONT ST,Part One,None,772356.0,MONTAGUE ST,2930000.0,2015

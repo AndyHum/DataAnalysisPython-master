@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21552,152016673.0,Sunday,No,2015-03-01T23:00:00.000,Landlord,"[-71.156415, 42.339026]",Point,Landlord,3,ALARM,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,749058.9966,,2948756.8660000004,2015
+107056,152016609.0,Sunday,No,2015-03-01T18:01:00.000,Landlord,"[-71.085118, 42.298635]",Point,Landlord,3,AB,0,B3,First,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2015
+242966,152016548.0,Sunday,No,2015-03-01T14:09:00.000,Landlord,"[-71.05948, 42.316446]",Point,Landlord,3,LANTEN,0,C11,Day,No,PLEASANT ST,Part three,Unarmed,775309.1199,,2940648.892,2015

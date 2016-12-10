@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7586,120558494.0,Friday,No,2012-09-07T00:00:00.000,PropFound,"[-71.05564, 42.330851]",Point,PropFound,9,FDPROP,194,C6,Last,No,LEEDS ST,Part Three,Unarmed,776320.3223,WOODWARD ST,2945903.6980000003,2012
+19001,120559487.0,Friday,No,2012-09-07T11:41:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,9,LSTPRP,282,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012
+78414,120559645.0,Friday,No,2012-09-07T12:50:00.000,PropFound,"[-71.06629, 42.304391]",Point,PropFound,9,FDPROP,341,C11,Day,No,SPEEDWELL ST,Part Three,Unarmed,773489.6524,,2936246.423,2012
+227944,120610775.0,Friday,No,2012-09-07T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,9,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111022,142011466.0,Monday,No,2014-07-21T12:00:00.000,PropFound,"[-71.049883, 42.347245]",Point,PropFound,7,PROP,0,C6,Day,No,WORMWOOD ST,Part three,Other,777845.2231,,2951885.838,2014
+129953,142011297.0,Monday,No,2014-07-21T07:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,7,PROP,0,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+171855,142011354.0,Monday,No,2014-07-21T02:00:00.000,PropFound,"[-71.088294, 42.341504]",Point,PropFound,7,IVPREM,0,D4,Last,No,ST STEPHEN ST,Part three,Unarmed,767472.0844,,2949741.2860000003,2014
+173429,142011480.0,Monday,No,2014-07-21T07:30:00.000,PropFound,"[-71.13471, 42.251251]",Point,PropFound,7,PROP,0,E18,Day,No,THOMPSON ST,Part three,Unarmed,755064.3418,,2916794.5069999998,2014

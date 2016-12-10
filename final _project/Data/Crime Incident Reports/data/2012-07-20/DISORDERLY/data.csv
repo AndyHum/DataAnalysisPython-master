@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83939,120448219.0,Friday,No,2012-07-20T18:39:00.000,DISORDERLY,"[-71.099225, 42.314846]",Point,24xx,7,FIGHT ,0,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764562.5768,,2940012.814,2012
+122269,120448799.0,Friday,No,2012-07-20T23:39:00.000,DISORDERLY,"[-71.07619, 42.323591]",Point,24xx,7,ARREST,263,B2,First,No,BLUE HILL AV,Part Two,Unarmed,770776.8631,WINTHROP ST,2943229.75,2012
+181896,120446481.0,Friday,No,2012-07-20T01:22:00.000,DISORDERLY,"[-71.07547, 42.346214]",Point,24xx,7,ARREST,150,D4,Last,No,DARTMOUTH ST,Part Two,Unarmed,770930.358,,2951474.633,2012
+188048,120448213.0,Friday,No,2012-07-20T18:35:00.000,DISORDERLY,"[-71.07619, 42.323591]",Point,24xx,7,ARREST,263,B2,First,No,BLUE HILL AV,Part Two,Unarmed,770776.8631,WINTHROP ST,2943229.75,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17965,120796911.0,Thursday,No,2012-12-20T19:30:00.000,Service,"[-71.061235, 42.310371]",Point,Service,12,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+56546,120796838.0,Thursday,No,2012-12-20T20:12:00.000,Service,"[-71.138515, 42.353131]",Point,Service,12,ARREST,795,D14,First,No,CAMBRIDGE ST,Part Three,Unarmed,753876.9328,,2953917.11,2012
+94017,120795858.0,Thursday,No,2012-12-20T12:55:00.000,Service,"[-71.047405, 42.353651]",Point,Service,12,CD11  ,207,C6,Day,No,NORTHERN AV,Part Three,Other,778502.9324,,2954224.131,2012
+122203,120795197.0,Thursday,No,2012-12-20T07:30:00.000,Service,"[-71.131406, 42.275599]",Point,Service,12,AOD   ,551,E5,Day,No,GLENDOWER RD,Part Three,Unarmed,755920.474,,2925671.356,2012
+184342,120796778.0,Thursday,No,2012-12-20T19:34:00.000,Service,"[-71.101659, 42.311342]",Point,Service,12,NIDV  ,571,E13,First,No,FOREST HILLS ST,Part Three,Unarmed,763910.0449,,2938732.577,2012
+262097,120795684.0,Thursday,No,2012-12-20T11:20:00.000,Service,"[0, 0]",Point,Service,12,ARREST,0,C6,Day,No,SOUTHAMPTON ST,Part Three,Other,,ALLSTATE RD,,2012
+262288,120796490.0,Thursday,No,2012-12-20T15:00:00.000,Service,"[0, 0]",Point,Service,12,FDPROP,698,E5,Day,No,CLEMENT AV,Part Three,Unarmed,,,,2012

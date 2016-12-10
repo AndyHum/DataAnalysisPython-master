@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34386,142059982.0,Sunday,No,2014-12-21T00:00:00.000,PropLost,"[-71.025498, 42.361624]",Point,PropLost,12,PROP,0,A7,Last,No,HARBORSIDE DR,Part three,Unarmed,784407.9679,,2957161.6210000003,2014
+62565,152006195.0,Sunday,No,2014-12-21T13:00:00.000,PropLost,"[-71.131805, 42.352961]",Point,PropLost,12,PROP,0,D14,Day,No,BRIGHTON AV,Part three,Unarmed,755690.9151,,2953862.917,2014
+132275,142059529.0,Sunday,No,2014-12-21T01:00:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,12,MISC,0,D4,Last,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2014
+143317,142059746.0,Sunday,No,2014-12-21T11:00:00.000,PropLost,"[-71.058035, 42.316506]",Point,PropLost,12,PROP,0,C11,Day,No,MAYFIELD ST,Part three,Unarmed,775699.8166,,2940672.7819999997,2014

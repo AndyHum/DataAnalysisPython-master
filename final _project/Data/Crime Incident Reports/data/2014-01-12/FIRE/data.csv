@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26050,140023572.0,Sunday,No,2014-01-12T17:25:00.000,FIRE,"[-71.100758, 42.335565]",Point,FIRE,1,FIREB ,602,B2,First,No,HUNTINGTON AV,Part three,Unarmed,764112.391,,2947560.9480000003,2014
+44603,140022453.0,Sunday,No,2014-01-12T00:15:00.000,FIRE,"[-71.08358, 42.342566]",Point,FIRE,1,REQP  ,145,D4,Last,No,ST BOTOLPH ST,Part three,Other,768744.6573,,2950134.735,2014
+147129,140023229.0,Sunday,No,2014-01-12T14:00:00.000,FIRE,"[-71.065345, 42.299776]",Point,FIRE,1,FV    ,358,C11,Day,No,GENEVA AV,Part three,Unarmed,773753.8520000001,,2934565.9480000003,2014
+184925,140022579.0,Sunday,No,2014-01-12T02:59:00.000,FIRE,"[-71.105675, 42.331156]",Point,FIRE,1,DISTRB,604,B2,Last,No,HILLSIDE ST,Part three,Other,762790.6105,,2945948.332,2014

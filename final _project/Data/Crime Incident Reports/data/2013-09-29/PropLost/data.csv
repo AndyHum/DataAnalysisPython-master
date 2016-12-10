@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14997,130626838.0,Sunday,No,2013-09-29T20:30:00.000,PropLost,"[-71.08041, 42.298256]",Point,PropLost,9,LARCRT,445,B3,First,No,ROXTON ST,Part three,Unarmed,769681.0823,,2933991.6289999997,2013
+60328,130625147.0,Sunday,No,2013-09-29T10:30:00.000,PropLost,"[-71.06732, 42.327316]",Point,PropLost,9,LARCRT,177,C6,Day,No,MASSACHUSETTS AV,Part three,Other,773168.6514,,2944599.247,2013
+73076,130623145.0,Sunday,No,2013-09-29T17:00:00.000,PropLost,"[-71.05489, 42.359141]",Point,PropLost,9,LSTPRP,100,A1,First,No,STATE ST,Part three,Unarmed,776469.3197,,2956214.145,2013
+74125,130621750.0,Sunday,No,2013-09-29T11:30:00.000,PropLost,"[-71.05005, 42.351366]",Point,PropLost,9,LSTPRP,114,C6,Day,No,CONGRESS ST,Part three,Unarmed,777792.3899,,2953387.652,2013
+100565,130623466.0,Sunday,No,2013-09-29T23:00:00.000,PropLost,"[-71.063525, 42.351546]",Point,PropLost,9,LSTPRP,117,A1,First,No,LAGRANGE ST,Part three,Unarmed,774149.6718,,2953434.3210000005,2013
+218980,130623920.0,Sunday,No,2013-09-29T15:00:00.000,PropLost,"[-71.112127, 42.322376]",Point,PropLost,9,LSTPRP,652,E13,Day,No,HUNTINGTON AV,Part three,Unarmed,761060.5415,,2942740.787,2013
+262323,130623547.0,Sunday,No,2013-09-29T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,84,A1,First,No,SALEM ST,Part three,Unarmed,,COMMERCIAL ST,,2013
+264319,130689088.0,Sunday,No,2013-09-29T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,153,D4,First,No,DARTMOUTH ST,Part three,Unarmed,,,,2013
+264388,130621711.0,Sunday,No,2013-09-29T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,620,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2013

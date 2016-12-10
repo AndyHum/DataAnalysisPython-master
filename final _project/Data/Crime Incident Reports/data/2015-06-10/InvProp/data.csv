@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2796,152048141.0,Wednesday,No,2015-06-10T13:45:00.000,InvProp,"[0, 0]",Point,InvProp,6,LARCEN,0,D4,Day,No,HARRINGTON AV,Part three,Other,,,,2015
+9535,152048078.0,Wednesday,No,2015-06-10T13:54:00.000,InvProp,"[-71.088028, 42.334461]",Point,InvProp,6,IVPER,0,B2,Day,No,RUGGLES ST,Part three,Unarmed,767556.2352,,2947175.229,2015
+31555,152047936.0,Wednesday,No,2015-06-10T06:17:00.000,InvProp,"[-71.07428, 42.300894]",Point,InvProp,6,DVIP,0,C11,Last,No,BOWDOIN AV,Part three,Unarmed,771334.5603,,2934961.063,2015
+59659,152048245.0,Wednesday,No,2015-06-10T23:31:00.000,InvProp,"[-71.057665, 42.378641]",Point,InvProp,6,SHOTS,0,A15,First,No,MCNULTY CT,Part three,Unarmed,775682.4594,,2963316.435,2015
+65180,152048048.0,Wednesday,No,2015-06-10T13:30:00.000,InvProp,"[-71.0707, 42.346451]",Point,InvProp,6,MISC,0,D4,Day,No,BERKELEY ST,Part three,Unarmed,772219.5706,,2951567.764,2015
+65429,152047986.0,Wednesday,No,2015-06-10T10:11:00.000,InvProp,"[-71.098725, 42.315361]",Point,InvProp,6,DISTRB,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,764696.9253,,2940201.124,2015
+109483,152047965.0,Wednesday,No,2015-06-10T09:30:00.000,InvProp,"[-71.06844, 42.352301]",Point,InvProp,6,CD9,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,772819.7246,,2953702.6980000003,2015
+178075,152048050.0,Wednesday,No,2015-06-10T09:00:00.000,InvProp,"[-71.03439, 42.335651]",Point,InvProp,6,IVPREM,0,C6,Day,No,E BROADWAY,Part three,Unarmed,782056.6497,,2947683.55,2015
+178810,152048061.0,Wednesday,No,2015-06-10T14:00:00.000,InvProp,"[-71.061515, 42.365357]",Point,InvProp,6,IVPREM,0,A1,Day,No,CAUSEWAY ST,Part three,Unarmed,774666.9647,CANAL ST,2958469.934,2015
+206317,152048180.0,Wednesday,No,2015-06-10T18:30:00.000,InvProp,"[-71.1576, 42.353346]",Point,InvProp,6,IVPER,0,D14,First,No,HARRIET ST,Part three,Unarmed,748717.9333,,2953974.1760000004,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112641,130379980.0,Saturday,No,2013-06-22T01:50:00.000,DISORDERLY,"[-71.05418, 42.359261]",Point,24xx,6,CD35  ,94,A1,Last,No,STATE ST,Part Two,Unarmed,776660.9853,,2956258.877,2013
+136817,130381901.0,Saturday,No,2013-06-22T22:00:00.000,DISORDERLY,"[-71.07755, 42.303551]",Point,24xx,6,ARREST,461,C11,First,No,BOWDOIN AV,Part Two,Unarmed,770445.2529,ELDON ST,2935925.027,2013
+165908,130381535.0,Saturday,No,2013-06-22T19:37:00.000,DISORDERLY,"[-71.070045, 42.323146]",Point,24xx,6,ABIP  ,182,B2,First,No,BURRELL ST,Part Two,Other,772439.4442,,2943075.903,2013

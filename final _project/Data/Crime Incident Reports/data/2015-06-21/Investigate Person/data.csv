@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+400,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.058833, 42.354262]",Point,InvPer,6,IVPER,113,A1,,No,SUMMER ST,Part Three,None,775413.0,,2950000.0,2015
+14002,,Sunday,No,2015-06-21T14:57:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,DVIP,915,C6,,No,E NINTH ST,Part Three,None,,,,2015
+50740,,Sunday,No,2015-06-21T17:00:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,310,B2,,No,MARTIN LUTHER KING JR BLVD,Part Three,None,,,,2015
+53435,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.157686, 42.296996]",Point,InvPer,6,NIDV,748,E5,,No,INDEPENDENCE DR,Part Three,None,748777.0,,2930000.0,2015
+84049,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.059006, 42.29396]",Point,InvPer,6,IVPER,363,C11,,No,ALTHEA ST,Part Three,None,775480.0,,2930000.0,2015
+90044,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.063969, 42.348742]",Point,InvPer,6,IVPER,123,A1,,No,WASHINGTON ST,Part Three,None,774035.0,,2950000.0,2015
+97609,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.039799, 42.376203]",Point,InvPer,6,IVPER,26,A7,,No,BORDER ST,Part Three,None,780514.0,,2960000.0,2015
+97849,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.101018, 42.275999]",Point,InvPer,6,ARREST,470,B3,,No,COLORADO ST,Part Three,None,764144.0,,2930000.0,2015
+104811,,Sunday,No,2015-06-21T07:55:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,UNKEMS,162,D4,,No,ALBANY ST,Part Three,None,, HERALD ST ,,2015
+138076,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.085634, 42.328663]",Point,InvPer,6,IVPER,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+174901,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.096834, 42.313887]",Point,InvPer,6,IVPER,572,E13,,No,CLEAVES ST,Part Three,None,765211.0,,2940000.0,2015
+181645,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.058861, 42.292731]",Point,InvPer,6,IVPER,367,C11,,No,KING ST,Part Three,None,775521.0,,2930000.0,2015
+212459,,Sunday,No,2015-06-21T00:00:00.000,Investigate Person,"[-71.065752, 42.302094]",Point,InvPer,6,UNKEMS,345,C11,,No,RIDGEWOOD ST,Part Three,None,773639.0,,2940000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8409,152011652.0,Friday,No,2015-02-13T00:53:00.000,TRESPASS,"[-71.08209, 42.336671]",Point,TRESPASS,2,ARREST,0,D4,Last,No,LATTIMORE CT,Part Two,Unarmed,769157.9964,,2947988.46,2015
+144649,152011643.0,Friday,No,2015-02-13T00:25:00.000,TRESPASS,"[-71.08209, 42.336671]",Point,TRESPASS,2,ARREST,0,D4,Last,No,LATTIMORE CT,Part Two,Other,769157.9964,SHAWMUT AV,2947988.46,2015
+149364,152011872.0,Friday,No,2015-02-13T19:40:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,2,BE,0,A1,First,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2015

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80637,130662321.0,Thursday,No,2013-10-17T06:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,10,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+93694,130662437.0,Thursday,No,2013-10-17T11:45:00.000,Service,"[-71.06942, 42.362401]",Point,Service,10,IVPER ,64,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2013
+152304,130680153.0,Thursday,No,2013-10-17T17:45:00.000,Service,"[-71.105666, 42.331797]",Point,Service,10,LARCRT,604,B2,First,No,DARLING ST,Part three,Other,762791.8067,,2946181.974,2013
+178457,130662331.0,Thursday,No,2013-10-17T11:35:00.000,Service,"[-71.063785, 42.349246]",Point,Service,10,ARREST,123,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774083.6785,,2952595.797,2013
+197532,130661664.0,Thursday,No,2013-10-17T02:11:00.000,Service,"[-71.07695, 42.315961]",Point,Service,10,IVDRUG,325,B2,Last,No,DACIA ST,Part three,Unarmed,770585.1301,WOODCLIFF ST,2940448.231,2013
+262003,130663258.0,Thursday,No,2013-10-17T18:45:00.000,Service,"[0, 0]",Point,Service,10,ARREST,454,B3,First,No,WASHINGTON ST,Part three,Unarmed,,HARTWELL ST,,2013

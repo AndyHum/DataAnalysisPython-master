@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145079,152020968.0,Sunday,No,2015-03-15T18:43:00.000,Service,"[-71.05533, 42.352716]",Point,Service,3,STAB,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,776362.6063,,2953872.1319999998,2015
+191918,152020966.0,Sunday,No,2015-03-15T18:02:00.000,Service,"[-71.05713, 42.339756]",Point,Service,3,TRAUMA,0,C6,First,No,DORCHESTER AV,Part three,Unarmed,775900.5863,,2949146.74,2015
+192573,152020869.0,Sunday,No,2015-03-15T12:53:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+196671,152020797.0,Sunday,No,2015-03-15T03:16:00.000,Service,"[-71.06138, 42.353241]",Point,Service,3,TS,0,A1,Last,No,HARRISON AV,Part three,Unarmed,774726.3015,AVE DELAFAYETTE,2954054.985,2015
+222642,152021884.0,Sunday,No,2015-03-15T03:00:00.000,Service,"[-71.142504, 42.279954]",Point,Service,3,LARCEN,0,E5,Last,No,W ROXBURY PY,Part three,Unarmed,752910.2743,,2927245.298,2015

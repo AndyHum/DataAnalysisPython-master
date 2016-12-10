@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15720,140303301.0,Friday,No,2014-05-16T11:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,INVEST,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+21378,140302886.0,Friday,No,2014-05-16T05:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+103867,140302747.0,Friday,No,2014-05-16T08:25:00.000,Service,"[-71.0626, 42.352361]",Point,Service,5,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014
+155760,140304542.0,Friday,No,2014-05-16T19:23:00.000,Service,"[-71.073304, 42.292786]",Point,Service,5,IVDRUG,355,B3,First,No,DUNLAP ST,Part three,Other,771613.2261,,2932007.611,2014
+168621,140302877.0,Friday,No,2014-05-16T09:30:00.000,Service,"[-71.125937, 42.280964]",Point,Service,5,TRANSP,557,E5,Day,No,POPLAR ST,Part three,Unarmed,757392.1092,,2927632.6760000004,2014
+169837,140314285.0,Friday,No,2014-05-16T10:00:00.000,Service,"[-71.085618, 42.32866]",Point,Service,5,IVPREM,282,B2,Day,No,WASHINGTON ST,Other,Unarmed,768218.0809,,2945064.255,2014
+191258,140303766.0,Friday,No,2014-05-16T16:19:00.000,Service,"[-71.04974, 42.330836]",Point,Service,5,SEXOFF,915,C6,First,No,MERCER ST,Part three,Unarmed,777915.6777,,2945906.598,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7983,130498825.0,Friday,No,2013-08-09T15:37:00.000,PhoneCalls,"[-71.136411, 42.2727]",Point,PhoneCalls,8,HARPT ,550,E5,Day,No,BLUE LEDGE DR,Part three,Other,754570.4698,WASHINGTON ST,2924609.102,2013
+76108,130505428.0,Friday,No,2013-08-09T14:00:00.000,PhoneCalls,"[-71.051902, 42.359918]",Point,PhoneCalls,8,IVPER ,96,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777275.2252,,2956501.3839999996,2013
+82593,130499487.0,Friday,No,2013-08-09T21:04:00.000,PhoneCalls,"[-71.06471, 42.359321]",Point,PhoneCalls,8,HARPT ,68,A1,First,No,MYRTLE ST,Part three,Unarmed,773814.8995,,2956266.043,2013

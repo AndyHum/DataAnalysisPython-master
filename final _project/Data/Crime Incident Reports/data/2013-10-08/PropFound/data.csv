@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37905,130645899.0,Tuesday,No,2013-10-08T00:01:00.000,PropFound,"[-71.048935, 42.340401]",Point,PropFound,10,FDPROP,211,C6,Last,No,D ST,Part three,Unarmed,778114.9119,,2949393.4,2013
+54341,130642829.0,Tuesday,No,2013-10-08T16:57:00.000,PropFound,"[-71.106406, 42.324266]",Point,PropFound,10,FDPROP,582,E13,First,No,EDGE HILL ST,Part three,Other,762604.3733,GAY HEAD ST,2943436.6139999996,2013
+61069,130641241.0,Tuesday,No,2013-10-08T02:00:00.000,PropFound,"[-71.033575, 42.371691]",Point,PropFound,10,FDPROP,21,A7,Last,No,PORTER ST,Part three,Unarmed,782205.1855,,2960818.39,2013
+165466,130643047.0,Tuesday,No,2013-10-08T10:00:00.000,PropFound,"[-71.11966, 42.257481]",Point,PropFound,10,FDPROP,519,E18,Day,No,RIVER ST,Part three,Unarmed,759128.8702,WEBSTER ST,2919082.8419999997,2013
+205428,130641576.0,Tuesday,No,2013-10-08T07:30:00.000,PropFound,"[-71.008841, 42.385972]",Point,PropFound,10,BOMB  ,12,A7,Day,No,BENNINGTON ST,Part three,Unarmed,788858.6962,,2966060.0089999996,2013

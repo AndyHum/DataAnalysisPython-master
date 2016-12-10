@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63335,140054246.0,Monday,No,2014-01-27T11:00:00.000,Arrest,"[-71.090956, 42.333723]",Point,Arrest,1,IVPER ,289,B2,Day,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2014
+107369,140054666.0,Monday,No,2014-01-27T15:20:00.000,Arrest,"[-71.085628, 42.34206]",Point,Arrest,1,ARREST,167,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,768191.7788,,2949947.602,2014
+246493,140054681.0,Monday,No,2014-01-27T15:00:00.000,Arrest,"[-71.09192, 42.270941]",Point,Arrest,1,ARREST,424,B3,Day,No,FREMONT ST,Part three,Unarmed,766614.8591,,2924022.545,2014

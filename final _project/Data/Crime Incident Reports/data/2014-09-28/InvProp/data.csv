@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28910,142034048.0,Sunday,No,2014-09-28T21:05:00.000,InvProp,"[-71.06761, 42.304043]",Point,InvProp,9,UNK,0,C11,First,No,SPEEDWELL ST,Part three,Unarmed,773133.0281,,2936117.6139999996,2014
+34230,142033891.0,Sunday,No,2014-09-28T11:42:00.000,InvProp,"[-71.080515, 42.304006]",Point,InvProp,9,IVMV,0,B3,Day,No,GLENARM ST,Part three,Unarmed,769642.3711,,2936086.877,2014
+40340,142034371.0,Sunday,No,2014-09-28T16:00:00.000,InvProp,"[-71.0622, 42.359116]",Point,InvProp,9,LARCEN,0,A1,First,No,ASHBURTON PL,Part three,Unarmed,774493.6675,,2956194.809,2014
+53560,142033870.0,Sunday,No,2014-09-28T10:00:00.000,InvProp,"[-71.135395, 42.354411]",Point,InvProp,9,VAND,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,754718.2756,,2954387.1580000003,2014
+113570,142033824.0,Sunday,No,2014-09-28T03:59:00.000,InvProp,"[-71.07134, 42.313021]",Point,InvProp,9,IVPREM,0,B2,Last,No,BIRD ST,Part three,Other,772107.7842,ALEXANDER ST,2939384.4239999996,2014
+215019,142033860.0,Sunday,No,2014-09-28T10:00:00.000,InvProp,"[-71.09728, 42.348731]",Point,InvProp,9,CD9,0,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765030.3267,BEACON ST,2952363.595,2014
+263908,142033903.0,Sunday,No,2014-09-28T12:00:00.000,InvProp,"[0, 0]",Point,InvProp,9,INVEST,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,,,,2014

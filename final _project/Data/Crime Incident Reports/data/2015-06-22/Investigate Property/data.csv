@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71021,,Monday,No,2015-06-22T00:00:00.000,Investigate Property,"[-71.072437, 42.313175]",Point,InvProp,6,SHOTS,259,B2,,No,MAGNOLIA ST,Part Three,None,771811.0,,2940000.0,2015
+81453,,Monday,No,2015-06-22T13:43:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,SHOTS,328,B2,,No,FERNBORO ST,Part Three,None,,INTERVALE ST,,2015
+159948,,Monday,No,2015-06-22T00:00:00.000,Investigate Property,"[-71.098487, 42.267613]",Point,InvProp,6,SHOTS,481,E18,,No,ROSEWOOD ST,Part Three,Other,764843.0,,2920000.0,2015
+223913,,Monday,No,2015-06-22T16:45:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,IVPREM,311,B2,,No,EDGEWOOD ST,Part Three,None,,,,2015
+250721,,Monday,No,2015-06-22T00:00:00.000,Investigate Property,"[-71.033457, 42.378461]",Point,InvProp,6,BE,19,A7,,No,PRINCETON ST,Part Three,None,782224.0,,2960000.0,2015

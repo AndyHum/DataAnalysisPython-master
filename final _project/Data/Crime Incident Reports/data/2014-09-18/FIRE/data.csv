@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92392,142030663.0,Thursday,No,2014-09-18T15:30:00.000,FIRE,"[-71.029225, 42.377201]",Point,FIRE,9,FIRE,0,A7,Day,No,BREMEN ST,Part three,Unarmed,783369.5556,,2962832.8010000004,2014
+204786,142030740.0,Thursday,No,2014-09-18T19:30:00.000,FIRE,"[-71.04979, 42.332491]",Point,FIRE,9,FIRE,0,C6,First,No,KNOWLTON ST,Part three,Unarmed,777898.9746,,2946509.637,2014
+217176,142030729.0,Thursday,No,2014-09-18T18:00:00.000,FIRE,"[-71.145604, 42.340262]",Point,FIRE,9,FIRE,0,D14,First,No,KILSYTH RD,Part three,Unarmed,751980.2404,,2949219.361,2014

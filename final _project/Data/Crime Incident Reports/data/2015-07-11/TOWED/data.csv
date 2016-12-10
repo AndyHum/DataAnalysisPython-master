@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93727,,Saturday,No,2015-07-11T00:00:00.000,Towed,"[-71.067489, 42.339314]",Point,Towed,7,IVMV,167,D4,,No,WAREHAM ST,Part Three,None,773101.0,,2950000.0,2015
+168537,,Saturday,No,2015-07-11T00:00:00.000,Towed,"[-71.071479, 42.345567]",Point,Towed,7,IVMV,151,D4,,No,GRAY ST,Part Three,None,772011.0,,2950000.0,2015
+178709,,Saturday,No,2015-07-11T14:16:00.000,Towed,"[0, 0]",Point,Towed,7,IVPREM,124,A1,,No,TYLER ST,Part Three,None,,,,2015

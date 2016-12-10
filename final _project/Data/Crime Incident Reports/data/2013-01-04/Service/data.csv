@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29941,130007299.0,Friday,No,2013-01-04T10:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,1,IVPREM,167,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+58173,130006716.0,Friday,No,2013-01-04T06:28:00.000,Service,"[-71.058108, 42.309016]",Point,Service,1,IVPER ,254,C11,Last,No,DORCHESTER AV,Part Three,Unarmed,775694.0122,,2937943.142,2013
+163490,130008543.0,Friday,No,2013-01-04T22:30:00.000,Service,"[-71.088765, 42.334881]",Point,Service,1,ARREST,289,B2,First,No,TREMONT ST,Part Three,Unarmed,767356.4222,,2947327.38,2013
+163907,130387224.0,Friday,No,2013-01-04T09:00:00.000,Service,"[-71.12395, 42.256421]",Point,Service,1,ARREST,520,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2013
+166500,130007208.0,Friday,No,2013-01-04T11:30:00.000,Service,"[-71.064905, 42.352371]",Point,Service,1,ARREST,119,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2013
+240530,130006769.0,Friday,No,2013-01-04T07:00:00.000,Service,"[-71.061971, 42.277771]",Point,Service,1,FDPROP,0,C11,Last,No,RICHVIEW ST,Part Three,Unarmed,774707.5906,,2926551.374,2013
+241262,130007092.0,Friday,No,2013-01-04T10:20:00.000,Service,"[-71.08063, 42.315521]",Point,Service,1,ARREST,311,B2,Day,No,QUINCY ST,Part Three,Unarmed,769590.632,,2940282.974,2013
+248760,130239261.0,Friday,No,2013-01-04T16:20:00.000,Service,"[-71.059735, 42.297541]",Point,Service,1,ARREST,355,C11,First,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2013

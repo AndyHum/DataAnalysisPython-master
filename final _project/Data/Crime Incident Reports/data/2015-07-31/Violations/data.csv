@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8218,,Friday,No,2015-07-31T00:00:00.000,Violations,"[-71.067405, 42.34484]",Point,VAL,7,ARREST,161,D4,,No,CASTLE CT,Part Two,None,773113.0,,2950000.0,2015
+23080,,Friday,No,2015-07-31T00:00:00.000,Restraining Order Violations,"[-71.076425, 42.323244]",Point,Restrain,7,ARREST,266,B2,,No,BLUE HILL AVE,Part Two,None,770714.0,,2940000.0,2015
+63310,,Friday,No,2015-07-31T00:00:00.000,Violations,"[-71.065796, 42.325538]",Point,VAL,7,MVA,186,C6,,No,MASSACHUSETTS AVE,Part Two,None,773584.0,,2940000.0,2015
+69636,,Friday,No,2015-07-31T18:04:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,765,D14,,No,ARLINGTON ST,Part Two,None,,FANEUIL ST,,2015
+82825,,Friday,No,2015-07-31T00:00:00.000,Restraining Order Violations,"[-71.168788, 42.352412]",Point,Restrain,7,VIORDR,756,D14,,No,CHAMPNEY ST,Part Two,None,745695.0,,2950000.0,2015
+131967,,Friday,No,2015-07-31T00:00:00.000,Violations,"[-71.06134, 42.310434]",Point,VAL,7,IVPER,338,C11,,No,HANCOCK ST,Part Two,None,774817.0,,2940000.0,2015
+154974,,Friday,No,2015-07-31T21:39:00.000,Violations,"[0, 0]",Point,VAL,7,TS,102,A1,,No,BROMFIELD ST,Part Two,None,,TREMONT ST,,2015
+179248,,Friday,No,2015-07-31T00:00:00.000,Restraining Order Violations,"[-71.067164, 42.295905]",Point,Restrain,7,VIORDR,359,C11,,No,WALDECK ST,Part Two,None,773269.0,,2930000.0,2015
+187912,,Friday,No,2015-07-31T00:00:00.000,Firearm Violations,"[-71.080666, 42.296934]",Point,15xx,7,ARREST,444,B3,,No,GLENWAY ST,Part Two,Firearm,769614.0,,2930000.0,2015
+209983,,Friday,No,2015-07-31T00:00:00.000,Violations,"[-71.088534, 42.280038]",Point,VAL,7,VIORDR,428,B3,,No,NORFOLK ST,Part Two,None,767515.0,,2930000.0,2015
+239600,,Friday,No,2015-07-31T16:11:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,131,D4,,No,BEACON ST,Part Two,None,,BERKELEY ST,,2015

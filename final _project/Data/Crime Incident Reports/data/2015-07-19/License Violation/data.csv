@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23853,,Sunday,No,2015-07-19T22:20:00.000,License Violation,"[0, 0]",Point,LICViol,7,CD35,790,D14,,No,BEACON ST,Part Three,None,,,,2015
+31927,,Sunday,No,2015-07-19T00:00:00.000,License Violation,"[-71.171831, 42.268975]",Point,LICViol,7,CD35,723,E5,,No,VFW PKWY,Part Three,None,744989.0,,2920000.0,2015
+57246,,Sunday,No,2015-07-19T00:00:00.000,License Violation,"[-71.140932, 42.352311]",Point,LICViol,7,CD35,783,D14,,No,CAMBRIDGE ST,Part Three,None,753225.0,,2950000.0,2015
+115002,,Sunday,No,2015-07-19T00:00:00.000,License Violation,"[-71.155273, 42.349111]",Point,LICViol,7,CD35,770,D14,,No,WASHINGTON ST,Part Three,None,749353.0,,2950000.0,2015
+258666,,Sunday,No,2015-07-19T00:00:00.000,License Violation,"[-71.149503, 42.336267]",Point,LICViol,7,CD35,790,D14,,No,BEACON ST,Part Three,None,750932.0,,2950000.0,2015

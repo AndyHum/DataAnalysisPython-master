@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86,152033471.0,Wednesday,No,2015-04-22T23:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,A7,First,No,SHORT ST PL,Part three,Unarmed,,,,2015
+26283,152033118.0,Wednesday,No,2015-04-22T16:30:00.000,PropLost,"[-71.056873, 42.342678]",Point,PropLost,4,MISC,0,C6,First,No,W BROADWAY,Part three,Unarmed,775964.3463,,2950211.663,2015
+53236,152034298.0,Wednesday,No,2015-04-22T09:00:00.000,PropLost,"[-71.145679, 42.355277]",Point,PropLost,4,PROP,0,D14,Day,No,N BEACON ST,Part three,Unarmed,751937.0492,,2954690.89,2015
+116106,152032624.0,Wednesday,No,2015-04-22T01:03:00.000,PropLost,"[-71.106559, 42.333329]",Point,PropLost,4,LARCEN,0,B2,Last,No,HUNTINGTON AV,Part three,Unarmed,762547.9394,,2946738.9239999996,2015
+168252,152032854.0,Wednesday,No,2015-04-22T17:45:00.000,PropLost,"[-71.141445, 42.351256]",Point,PropLost,4,PROP,0,D14,First,No,RIDGEMONT ST,Part three,Unarmed,753087.8235,,2953230.483,2015
+172928,152032804.0,Wednesday,No,2015-04-22T16:20:00.000,PropLost,"[-71.104805, 42.322381]",Point,PropLost,4,PROP,0,E13,First,No,MOZART ST,Part three,Unarmed,763040.6691,CENTRE ST,2942751.655,2015
+223878,152032927.0,Wednesday,No,2015-04-22T19:30:00.000,PropLost,"[-71.06007, 42.350711]",Point,PropLost,4,PROP,0,A1,First,No,HUDSON ST,Part three,Unarmed,775085.1479,,2953134.829,2015
+239833,152033950.0,Wednesday,No,2015-04-22T19:00:00.000,PropLost,"[-71.06598, 42.350391]",Point,PropLost,4,PROP,0,A1,First,No,WARRENTON ST,Part three,Unarmed,773488.0855,,2953009.8660000004,2015
+240988,152033292.0,Wednesday,No,2015-04-22T10:00:00.000,PropLost,"[-71.070433, 42.363012]",Point,PropLost,4,LARCEN,0,A1,Day,No,CHARLES ST,Part three,Unarmed,772261.3324,,2957603.1539999996,2015

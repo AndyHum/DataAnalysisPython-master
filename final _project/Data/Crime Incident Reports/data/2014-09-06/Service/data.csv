@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16268,142026760.0,Saturday,No,2014-09-06T11:02:00.000,Service,"[-71.114485, 42.311256]",Point,Service,9,LOCKOU,0,E13,Day,No,CENTRE ST,Part three,Unarmed,760441.2169,,2938685.534,2014
+209674,142030289.0,Saturday,No,2014-09-06T22:00:00.000,Service,"[-71.08363, 42.339061]",Point,Service,9,INVEST,0,D4,First,No,COLUMBUS AV,Part three,Other,768737.3752,,2948857.383,2014
+253026,142026914.0,Saturday,No,2014-09-06T20:14:00.000,Service,"[-71.07547, 42.346214]",Point,Service,9,CD11,0,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770930.358,,2951474.633,2014

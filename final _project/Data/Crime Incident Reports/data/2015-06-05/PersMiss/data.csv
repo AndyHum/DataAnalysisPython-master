@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2689,152047331.0,Friday,No,2015-06-05T17:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,6,MISSIN,0,C11,First,No,PARK ST,Other,Unarmed,,,,2015
+2704,152047332.0,Friday,No,2015-06-05T17:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,6,MISSIN,0,C11,First,No,PARK ST,Other,Unarmed,,,,2015
+180378,152046637.0,Friday,No,2015-06-05T10:15:00.000,PersMiss,"[-71.081089, 42.323]",Point,PersMiss,6,MISSIN,0,B2,Day,No,DUNREATH ST,Other,Unarmed,769452.9866,,2943007.778,2015
+182223,152046615.0,Friday,No,2015-06-05T12:00:00.000,PersMiss,"[-71.097405, 42.316681]",Point,PersMiss,6,MISSIN,0,E13,Day,No,WASHINGTON ST,Other,Unarmed,765051.6637,,2940683.837,2015

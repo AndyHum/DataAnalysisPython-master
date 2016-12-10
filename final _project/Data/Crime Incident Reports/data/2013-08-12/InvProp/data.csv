@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12741,130505879.0,Monday,No,2013-08-12T14:35:00.000,InvProp,"[-71.161705, 42.259716]",Point,InvProp,8,IVPREM,714,E5,Day,No,TOBIN RD,Part three,Unarmed,747743.6793,,2919849.3589999997,2013
+102200,130510414.0,Monday,No,2013-08-12T11:55:00.000,InvProp,"[-71.16879, 42.352396]",Point,InvProp,8,IVPER ,756,D14,Day,No,CHAMPNEY ST,Part three,Unarmed,745694.6237,,2953616.0330000003,2013
+115699,130506725.0,Monday,No,2013-08-12T20:39:00.000,InvProp,"[-71.0829, 42.316361]",Point,InvProp,8,SHOTS ,311,B2,First,No,QUINCY ST,Part three,Firearm,768975.1904,WARREN ST,2940586.0719999997,2013
+182438,130505068.0,Monday,No,2013-08-12T07:40:00.000,InvProp,"[-71.027685, 42.337446]",Point,InvProp,8,IVPREM,224,C6,Day,No,E 2ND ST,Part three,Other,783865.8809999999,,2948347.644,2013
+216458,130506639.0,Monday,No,2013-08-12T20:15:00.000,InvProp,"[-71.09908, 42.344211]",Point,InvProp,8,IVPREM,627,D4,First,No,BOYLSTON ST,Part three,Unarmed,764551.4944,,2950714.1289999997,2013
+255484,130506680.0,Monday,No,2013-08-12T20:19:00.000,InvProp,"[-71.064983, 42.287156]",Point,InvProp,8,IVPER ,817,C11,First,No,TALBOT AV,Part three,Unarmed,773875.1664,,2929967.579,2013

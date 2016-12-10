@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15392,120722842.0,Friday,No,2012-11-16T19:22:00.000,STOLEN PROPERTY CHARGES,"[-71.07831, 42.306021]",Point,13xx,11,TSTOP ,337,C11,First,No,COLUMBIA RD,Part Two,Knife,770235.2151,GENEVA AV,2936824.115,2012
+180169,120722349.0,Friday,No,2012-11-16T15:32:00.000,STOLEN PROPERTY CHARGES,"[-71.137625, 42.352416]",Point,13xx,11,ARREST,795,D14,Day,No,ARMINGTON ST,Part Two,Unarmed,754118.6065,,2953657.5710000005,2012
+236705,120721181.0,Friday,No,2012-11-16T04:30:00.000,STOLEN PROPERTY CHARGES,"[-71.08092, 42.344781]",Point,13xx,11,SSTOP ,145,D4,Last,No,ST BOTOLPH ST,Part Two,Unarmed,769459.8088,W NEWTON ST,2950945.4439999997,2012

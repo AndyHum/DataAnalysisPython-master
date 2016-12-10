@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+178193,130078028.0,Wednesday,No,2013-02-06T20:36:00.000,PropFound,"[-71.08275, 42.350851]",Point,PropFound,2,FDPROP,136,D4,First,No,COMMONWEALTH AV,Part Three,Unarmed,768954.2748,FAIRFIELD ST,2953155.042,2013
+189124,130077493.0,Wednesday,No,2013-02-06T16:00:00.000,PropFound,"[-71.07526, 42.345831]",Point,PropFound,2,FDPROP,150,D4,First,No,DARTMOUTH ST,Part Three,Unarmed,770988.0004,COLUMBUS AV,2951335.652,2013
+261648,130078120.0,Wednesday,No,2013-02-06T20:45:00.000,PropFound,"[0, 0]",Point,PropFound,2,FDPROP,88,A1,First,No,NORTH SQ,Part Three,Unarmed,,,,2013

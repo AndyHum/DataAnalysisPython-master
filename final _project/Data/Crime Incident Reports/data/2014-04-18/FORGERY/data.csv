@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41475,142027480.0,Friday,No,2014-04-18T12:30:00.000,FORGERY,"[-71.085618, 42.32866]",Point,10xx,4,INVEST,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2014
+59735,140242720.0,Friday,No,2014-04-18T15:50:00.000,FORGERY,"[-71.068995, 42.329296]",Point,10xx,4,LARCRT,178,C6,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,772712.0693,,2945318.5,2014
+159322,142033267.0,Friday,No,2014-04-18T18:53:00.000,FORGERY,"[-71.093775, 42.269596]",Point,10xx,4,INVEST,0,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766115.135,,2923530.012,2014
+221508,140236222.0,Friday,No,2014-04-18T15:28:00.000,FORGERY,"[-71.09126, 42.284506]",Point,10xx,4,LARCIP,430,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,766769.7994,,2928966.673,2014

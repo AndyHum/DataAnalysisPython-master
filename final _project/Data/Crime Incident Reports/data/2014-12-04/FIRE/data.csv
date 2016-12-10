@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115575,142054712.0,Thursday,No,2014-12-04T19:06:00.000,FIRE,"[-71.107805, 42.33605]",Point,FIRE,12,FIRE,0,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2014
+155022,142054506.0,Thursday,No,2014-12-04T06:40:00.000,FIRE,"[-71.07621, 42.296719]",Point,FIRE,12,FIRE,0,B3,Last,No,THANE ST,Part three,Unarmed,770819.8638,,2933437.131,2014
+159570,142054739.0,Thursday,No,2014-12-04T21:35:00.000,FIRE,"[-71.059315, 42.279231]",Point,FIRE,12,FIRE,0,C11,First,No,ADAMS ST,Part three,Unarmed,775423.811,,2927087.434,2014

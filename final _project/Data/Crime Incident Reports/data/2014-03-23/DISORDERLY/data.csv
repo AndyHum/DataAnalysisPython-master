@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121513,140175678.0,Sunday,No,2014-03-23T02:23:00.000,DISORDERLY,"[-71.120977, 42.267011]",Point,24xx,3,ARREST,496,E18,Last,No,HYDE PARK AV,Part Two,Other,758756.7157,,2922553.869,2014
+150457,140175626.0,Sunday,No,2014-03-23T01:30:00.000,DISORDERLY,"[-71.1586, 42.342046]",Point,24xx,3,PARTY ,750,D14,Last,No,FOSTER ST,Part Two,Unarmed,748464.1159,,2949855.142,2014
+209248,140177217.0,Sunday,No,2014-03-23T20:20:00.000,DISORDERLY,"[-71.09182, 42.310231]",Point,24xx,3,DISTRB,318,B2,First,No,HUMBOLDT AV,Part Two,Unarmed,766573.4054,SEAVER ST,2938340.53,2014

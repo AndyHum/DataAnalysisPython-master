@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37818,,Monday,No,2015-06-29T14:57:00.000,Fraud,"[0, 0]",Point,11xx,6,,822,E5,,No,GEORGETOWNE DR,Part Two,None,,,,2015
+44971,,Monday,No,2015-06-29T00:00:00.000,Fraud,"[-71.072695, 42.290415]",Point,11xx,6,ARREST,437,B3,,No,TALBOT AVE,Part Two,None,771782.0,,2930000.0,2015
+55332,,Monday,No,2015-06-29T16:15:00.000,Fraud,"[0, 0]",Point,11xx,6,,822,E5,,No,CROWN POINT DR,Part Two,None,,,,2015
+112941,,Monday,No,2015-06-29T00:00:00.000,Fraud,"[-71.135246, 42.276271]",Point,11xx,6,,550,E5,,No,JUNE ST,Part Two,None,754880.0,,2930000.0,2015
+147327,,Monday,No,2015-06-29T00:00:00.000,Fraud,"[-71.077919, 42.282206]",Point,11xx,6,,418,B3,,No,MAXWELL ST,Part Two,None,770384.0,,2930000.0,2015
+191931,,Monday,No,2015-06-29T00:00:00.000,Fraud,"[-71.057176, 42.288824]",Point,11xx,6,IVPER,393,C11,,No,WRENTHAM ST,Part Two,None,775984.0,,2930000.0,2015
+219907,,Monday,No,2015-06-29T00:00:00.000,Fraud,"[-71.043444, 42.33133]",Point,11xx,6,,233,C6,,No,E EIGHTH ST,Part Two,None,779617.0,,2950000.0,2015
+246742,,Monday,No,2015-06-29T00:00:00.000,Fraud,"[-71.127745, 42.359485]",Point,11xx,6,,814,D14,,No,N HARVARD ST,Part Two,None,756778.0,,2960000.0,2015
+250463,,Monday,No,2015-06-29T00:00:00.000,Fraud,"[-71.085342, 42.321782]",Point,11xx,6,IVPER,297,B2,,No,WALNUT AVE,Part Two,None,768305.0,,2940000.0,2015

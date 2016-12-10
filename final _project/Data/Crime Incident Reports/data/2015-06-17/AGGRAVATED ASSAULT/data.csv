@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17382,,Wednesday,No,2015-06-17T02:00:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,IVPER,823,C11,,No,PLEASANT ST,Part One,Other,,,,2015
+42627,,Wednesday,No,2015-06-17T00:00:00.000,Aggravated Assault,"[-71.077389, 42.314845]",Point,04xx,6,AB,325,B2,,No,DACIA ST,Part One,Blunt Object,770468.0,,2940000.0,2015
+144214,,Wednesday,No,2015-06-17T00:00:00.000,Aggravated Assault,"[-71.07312, 42.333391]",Point,04xx,6,AB,172,D4,,No,MASSACHUSETTS AVE,Part One,Knife/Cutting Instrument,771589.0,,2950000.0,2015
+145780,,Wednesday,No,2015-06-17T00:00:00.000,Aggravated Assault,"[-71.082067, 42.322216]",Point,04xx,6,FIGHT,296,B2,,No,WARREN ST,Part One,Other,769190.0,,2940000.0,2015

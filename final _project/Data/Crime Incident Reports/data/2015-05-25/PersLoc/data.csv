@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2041,152042803.0,Monday,No,2015-05-25T06:08:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,E18,Last,No,CANTERBURY ST,Other,Unarmed,,,,2015
+3568,152042992.0,Monday,No,2015-05-25T11:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,,,,2015
+3578,152042793.0,Monday,No,2015-05-25T01:19:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B2,Last,No,INTERVALE ST,Other,Unarmed,,,,2015
+3580,152042925.0,Monday,No,2015-05-25T15:15:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B2,Day,No,BROOKVALE ST,Other,Unarmed,,,,2015
+37026,152043067.0,Monday,No,2015-05-25T19:00:00.000,PersLoc,"[-71.13512, 42.346536]",Point,PersLoc,5,IVPER,0,D14,First,No,BRAINERD RD,Other,Unarmed,754804.8827,,2951517.667,2015
+58976,152046578.0,Monday,No,2015-05-25T12:30:00.000,PersLoc,"[-71.084323, 42.322242]",Point,PersLoc,5,IVPER,0,B2,Day,No,ROCKLAND ST,Other,Unarmed,768579.8752,,2942727.146,2015
+203091,152042911.0,Monday,No,2015-05-25T14:34:00.000,PersLoc,"[-71.10045, 42.308351]",Point,PersLoc,5,IVPER,0,E13,Day,No,GLEN RD,Other,Unarmed,764242.3464,SIGOURNEY ST,2937644.374,2015
+232170,152042960.0,Monday,No,2015-05-25T16:27:00.000,PersLoc,"[-71.094301, 42.29284]",Point,PersLoc,5,IVPER,0,B3,First,No,KINGBIRD RD,Other,Unarmed,765932.3696,,2931999.6969999997,2015
+233626,152043590.0,Monday,No,2015-05-25T07:20:00.000,PersLoc,"[-71.093623, 42.280668]",Point,PersLoc,5,MISSIN,0,B3,Last,No,ORMOND ST,Other,Unarmed,766136.9752,,2927564.867,2015

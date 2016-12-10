@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7535,152023269.0,Monday,No,2015-03-23T11:25:00.000,Service,"[-71.062735, 42.351706]",Point,Service,3,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774362.9145,,2953493.7210000004,2015
+33732,152023380.0,Monday,No,2015-03-23T15:06:00.000,Service,"[-71.067315, 42.332801]",Point,Service,3,IVPER,0,C6,Day,No,TOPEKA ST,Part three,Unarmed,773159.8604,SOUTHAMPTON ST,2946598.083,2015
+211209,152023154.0,Monday,No,2015-03-23T06:17:00.000,Service,"[-71.07755, 42.292551]",Point,Service,3,ARREST,0,B3,Last,No,WHEATLAND AV,Part three,Unarmed,770465.1059999999,,2931916.462,2015
+266763,152023156.0,Monday,No,2015-03-23T06:30:00.000,Service,"[0, 0]",Point,Service,3,CD9,0,A1,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+266778,152023310.0,Monday,No,2015-03-23T12:59:00.000,Service,"[0, 0]",Point,Service,3,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015

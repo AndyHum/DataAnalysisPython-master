@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34981,142028811.0,Friday,No,2014-09-12T15:46:00.000,Restrain,"[-71.0719, 42.293541]",Point,Restrain,9,VIORDR,0,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,771991.9497,,2932284.853,2014
+169305,142028656.0,Friday,No,2014-09-12T09:04:00.000,Restrain,"[-71.066885, 42.362496]",Point,Restrain,9,IVPER,0,A1,Day,No,BLOSSOM ST,Part Two,Unarmed,773221.1808,,2957420.083,2014
+215987,142030653.0,Friday,No,2014-09-12T21:00:00.000,Restrain,"[-71.121725, 42.256791]",Point,Restrain,9,VIORDR,0,E18,First,No,WINTHROP ST,Part Two,Unarmed,758570.9713,,2918828.9110000003,2014

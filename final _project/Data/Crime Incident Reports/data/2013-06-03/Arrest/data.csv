@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5771,130335027.0,Monday,No,2013-06-03T14:02:00.000,Arrest,"[-71.127805, 42.255911]",Point,Arrest,6,ARREST,543,E18,Day,No,AVILA RD,Part three,Unarmed,756926.4444,,2918500.9869999997,2013
+147756,130334533.0,Monday,No,2013-06-03T10:10:00.000,Arrest,"[-71.067315, 42.332801]",Point,Arrest,6,ARREST,175,C6,Day,No,TOPEKA ST,Part three,Unarmed,773159.8604,,2946598.083,2013
+193237,130334419.0,Monday,No,2013-06-03T09:45:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,6,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+195633,130333977.0,Monday,No,2013-06-03T01:48:00.000,Arrest,"[-71.064346, 42.353072]",Point,Arrest,6,ARREST,111,A1,Last,No,TREMONT ST,Part three,Firearm,773924.729,,2953989.2660000003,2013

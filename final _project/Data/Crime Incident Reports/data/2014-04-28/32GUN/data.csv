@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92746,140258633.0,Monday,No,2014-04-28T16:00:00.000,32GUN,"[-71.059987, 42.361648]",Point,32GUN,4,BUYBAK,72,A1,First,No,SUDBURY ST,Part three,Firearm,775087.02,,2957120.525,2014
+94216,140260904.0,Monday,No,2014-04-28T15:00:00.000,32GUN,"[-71.041515, 42.371511]",Point,32GUN,4,BUYBAK,26,A7,Day,No,LIVERPOOL ST,Part three,Unarmed,780059.9946,,2960741.1610000003,2014
+161215,140257416.0,Monday,No,2014-04-28T07:30:00.000,32GUN,"[-71.074385, 42.335516]",Point,32GUN,4,IVPER ,171,D4,Day,No,HARRISON AV,Part three,Knife,771243.2964,,2947577.858,2014

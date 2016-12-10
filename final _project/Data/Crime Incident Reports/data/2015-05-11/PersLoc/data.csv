@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66076,152038728.0,Monday,No,2015-05-11T08:00:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,5,IVPER,0,B3,Day,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2015
+178203,152038710.0,Monday,No,2015-05-11T07:00:00.000,PersLoc,"[-71.06974, 42.289166]",Point,PersLoc,5,IVPER,0,C11,Last,No,BRENT ST,Other,Unarmed,772584.3859,,2930693.4839999997,2015
+201401,152038692.0,Monday,No,2015-05-11T06:30:00.000,PersLoc,"[-71.12576, 42.249511]",Point,PersLoc,5,MISSIN,0,E18,Last,No,GRANTLEY ST,Other,Unarmed,757490.2901,,2916171.168,2015

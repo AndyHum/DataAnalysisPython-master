@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+575,152016632.0,Saturday,No,2015-02-28T19:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,2,IVPER,0,B2,First,No,DANUBE ST,Other,Unarmed,,,,2015
+81629,152016318.0,Saturday,No,2015-02-28T18:15:00.000,PersMiss,"[-71.104585, 42.325006]",Point,PersMiss,2,IVPER,0,E13,First,No,MINDEN ST,Other,Unarmed,763095.7293,,2943708.527,2015

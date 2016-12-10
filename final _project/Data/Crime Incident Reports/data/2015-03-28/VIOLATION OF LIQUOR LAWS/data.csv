@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116588,152025421.0,Saturday,No,2015-03-28T01:20:00.000,VIOLATION OF LIQUOR LAWS,"[-71.040034, 42.317592]",Point,22xx,3,IVPER,0,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780565.8978,,2941094.309,2015
+141093,152025422.0,Saturday,No,2015-03-28T01:34:00.000,VIOLATION OF LIQUOR LAWS,"[-71.04037, 42.318416]",Point,22xx,3,IVPER,0,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780473.6611,OCEAN VIEW DR,2941394.063,2015
+201059,152025146.0,Saturday,No,2015-03-28T00:53:00.000,VIOLATION OF LIQUOR LAWS,"[-71.040034, 42.317592]",Point,22xx,3,IVPER,0,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780565.8978,,2941094.309,2015
+267051,152025441.0,Saturday,No,2015-03-28T22:50:00.000,VIOLATION OF LIQUOR LAWS,"[0, 0]",Point,22xx,3,IVPREM,0,C6,First,No,MT VERNON ST,Part Two,Unarmed,,,,2015

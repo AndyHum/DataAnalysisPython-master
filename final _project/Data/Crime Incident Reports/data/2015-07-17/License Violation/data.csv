@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53148,,Friday,No,2015-07-17T18:51:00.000,License Violation,"[0, 0]",Point,LICViol,7,CD35,207,,,No,SEAPORT BLVD,Part Three,None,,,,2015
+112068,,Friday,No,2015-07-17T00:00:00.000,License Violation,"[-71.039303, 42.348992]",Point,LICViol,7,CD35,207,C6,,No,NORTHERN AVE,Part Three,None,780702.0,,2950000.0,2015
+165038,,Friday,No,2015-07-17T00:00:00.000,License Violation,"[-71.037879, 42.348395]",Point,LICViol,7,CD35,207,C6,,No,NORTHERN AVE,Part Three,None,781088.0,,2950000.0,2015
+216512,,Friday,No,2015-07-17T17:50:00.000,License Violation,"[0, 0]",Point,LICViol,7,CD35,0,,,No,,Part Three,None,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32178,,Sunday,No,2015-08-09T00:00:00.000,Auto Theft,"[-71.038097, 42.337279]",Point,07xx,8,IVMV,222,C6,,No,E SECOND ST,Part One,None,781051.0,,2950000.0,2015
+93998,,Sunday,No,2015-08-09T00:00:00.000,Auto Theft Recovery,"[-71.168508, 42.263865]",Point,07RV,8,IVMV,723,E5,,No,VFW PKWY,Other,None,745896.0,,2920000.0,2015
+132059,,Sunday,No,2015-08-09T00:00:00.000,Auto Theft,"[-71.092741, 42.327257]",Point,07xx,8,,291,B2,,No,HIGHLAND ST,Part One,None,766295.0,,2940000.0,2015

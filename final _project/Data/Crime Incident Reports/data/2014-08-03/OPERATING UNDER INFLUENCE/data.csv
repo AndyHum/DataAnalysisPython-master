@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76720,142015715.0,Sunday,No,2014-08-03T03:40:00.000,OPERATING UNDER INFLUENCE,"[-71.06429, 42.347791]",Point,21xx,8,ARREST,0,A1,Last,No,WASHINGTON ST,Part Two,Unarmed,773949.8772,PINE ST,2952064.87,2014
+150357,142015947.0,Sunday,No,2014-08-03T22:40:00.000,OPERATING UNDER INFLUENCE,"[-71.06651, 42.306701]",Point,21xx,8,ARREST,0,C11,First,No,BOWDOIN ST,Part Two,Other,773425.8620000001,DRAPER ST,2937087.9189999998,2014
+227516,142015939.0,Sunday,No,2014-08-03T22:30:00.000,OPERATING UNDER INFLUENCE,"[-71.134215, 42.275806]",Point,21xx,8,ARREST,0,E5,First,No,GRANDVIEW ST,Part Two,Unarmed,755160.0644,,2925743.492,2014

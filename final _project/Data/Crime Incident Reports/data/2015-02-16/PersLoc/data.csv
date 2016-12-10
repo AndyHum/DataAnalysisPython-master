@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25938,152012907.0,Monday,No,2015-02-16T21:30:00.000,PersLoc,"[-71.073901, 42.283379]",Point,PersLoc,2,MISSIN,0,B3,First,No,ROCKWELL ST,Other,Unarmed,771468.8277,,2928578.735,2015
+30228,152012661.0,Monday,No,2015-02-16T22:37:00.000,PersLoc,"[-71.097395, 42.278141]",Point,PersLoc,2,IVPER,0,B3,First,No,ITASCA ST,Other,Unarmed,765120.6587,,2926639.2819999997,2015
+53796,152013470.0,Monday,No,2015-02-16T10:00:00.000,PersLoc,"[-71.06934, 42.285836]",Point,PersLoc,2,MISSIN,0,C11,Day,No,MELLEN ST,Other,Unarmed,772698.7442,,2929480.5289999996,2015
+58214,152014585.0,Monday,No,2015-02-16T21:00:00.000,PersLoc,"[-71.0729, 42.333256]",Point,PersLoc,2,MISSIN,0,D4,First,No,MASSACHUSETTS AV,Other,Unarmed,771648.9274,,2946756.2810000004,2015

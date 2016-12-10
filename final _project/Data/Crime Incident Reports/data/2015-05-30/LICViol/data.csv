@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2234,152044788.0,Saturday,No,2015-05-30T21:15:00.000,LICViol,"[0, 0]",Point,LICViol,5,CD35,0,C6,First,No,CONGRESS ST,Part three,Unarmed,,,,2015
+185859,152044523.0,Saturday,No,2015-05-30T01:11:00.000,LICViol,"[-71.065775, 42.352431]",Point,LICViol,5,CD35,0,A1,Last,No,BOYLSTON ST,Part three,Unarmed,773539.8413,,2953753.727,2015
+249246,152044745.0,Saturday,No,2015-05-30T18:00:00.000,LICViol,"[-71.056735, 42.360596]",Point,LICViol,5,IVPER,0,A1,First,No,UNION ST,Part three,Unarmed,775967.9099,,2956741.778,2015

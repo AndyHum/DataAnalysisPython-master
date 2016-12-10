@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32028,130665558.0,Friday,No,2013-10-18T17:36:00.000,Service,"[-71.064115, 42.317839]",Point,Service,10,ARREST,239,B2,First,No,COLUMBIA RD,Part three,Unarmed,774052.7186,,2941150.083,2013
+150654,130664866.0,Friday,No,2013-10-18T13:00:00.000,Service,"[-71.063785, 42.349246]",Point,Service,10,ARREST,123,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774083.6785,,2952595.797,2013
+186568,130668088.0,Friday,No,2013-10-18T17:15:00.000,Service,"[-71.079015, 42.314296]",Point,Service,10,INVEST,83,B2,First,No,BLUE HILL AV,Part three,Unarmed,770029.6275,,2939838.715,2013

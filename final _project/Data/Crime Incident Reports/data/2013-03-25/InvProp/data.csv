@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17946,130175138.0,Monday,No,2013-03-25T15:03:00.000,InvProp,"[-71.072862, 42.319226]",Point,InvProp,3,ALARMR,260,B2,Day,No,HOWARD AV,Part Three,Unarmed,771684.6895,,2941643.34,2013
+131080,130176242.0,Monday,No,2013-03-25T01:16:00.000,InvProp,"[-71.058108, 42.309016]",Point,InvProp,3,ALARMC,254,C11,Last,No,DORCHESTER AV,Part Three,Unarmed,775694.0122,,2937943.142,2013
+169180,130174888.0,Monday,No,2013-03-25T13:32:00.000,InvProp,"[-71.123846, 42.278886]",Point,InvProp,3,IVPREM,555,E5,Day,No,POPLAR ST,Part Three,Unarmed,757961.1047,,2926877.98,2013
+204318,130174999.0,Monday,No,2013-03-25T14:03:00.000,InvProp,"[-71.086483, 42.283124]",Point,InvProp,3,BEIP  ,429,B3,Day,No,MIDDLETON ST,Part Three,Unarmed,768064.7522,,2928469.173,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13959,140237507.0,Saturday,No,2014-04-19T02:03:00.000,OPERATING UNDER INFLUENCE,"[-71.090389, 42.331096]",Point,21xx,4,TSTOP ,0,B2,Last,No,MALCOLM X BL,Part Two,Unarmed,766923.848,,2945945.7830000003,2014
+137108,140237525.0,Saturday,No,2014-04-19T02:12:00.000,OPERATING UNDER INFLUENCE,"[-71.08063, 42.315521]",Point,21xx,4,ARREST,311,B2,Last,No,QUINCY ST,Part Two,Other,769590.632,,2940282.974,2014
+197418,140239390.0,Saturday,No,2014-04-19T22:23:00.000,OPERATING UNDER INFLUENCE,"[-71.067845, 42.299908]",Point,21xx,4,MVA   ,357,C11,First,No,DAKOTA ST,Part Two,Other,773077.1372,,2934610.3030000003,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2487,152045721.0,Tuesday,No,2015-06-02T23:29:00.000,InvProp,"[0, 0]",Point,InvProp,6,BE,0,B2,First,No,PALACE RD,Part three,Other,,,,2015
+29117,152045691.0,Tuesday,No,2015-06-02T20:00:00.000,InvProp,"[-71.001859, 42.384902]",Point,InvProp,6,IVPREM,0,A7,First,No,SARATOGA ST,Part three,Unarmed,790747.2705,,2965681.242,2015
+33637,152045647.0,Tuesday,No,2015-06-02T18:36:00.000,InvProp,"[-71.092625, 42.314591]",Point,InvProp,6,BE,0,B2,First,No,ABBOTTSFORD ST,Part three,Other,766348.0804,,2939928.345,2015
+124276,152045417.0,Tuesday,No,2015-06-02T00:12:00.000,InvProp,"[-71.078394, 42.32898]",Point,InvProp,6,SHOTS,0,B2,Last,No,EUSTIS ST,Part three,Other,770171.0377,,2945190.659,2015

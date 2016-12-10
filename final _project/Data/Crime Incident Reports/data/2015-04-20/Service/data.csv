@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87047,152032159.0,Monday,No,2015-04-20T11:27:00.000,Service,"[-71.081515, 42.320271]",Point,Service,4,CD19,0,B2,Day,No,WARREN ST,Part three,Other,769342.7391,,2942012.768,2015
+157726,152032192.0,Monday,No,2015-04-20T12:46:00.000,Service,"[-71.150915, 42.348981]",Point,Service,4,ARREST,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+214310,152034071.0,Monday,No,2015-04-20T16:00:00.000,Service,"[-71.0904, 42.280796]",Point,Service,4,PROP,0,B3,First,No,HOSMER ST,Part three,Unarmed,767009.0082,,2927615.818,2015

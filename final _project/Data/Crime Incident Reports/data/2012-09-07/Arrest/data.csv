@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70218,120559046.0,Friday,No,2012-09-07T08:14:00.000,Arrest,"[-71.062665, 42.288866]",Point,Arrest,9,CD11  ,366,C11,Day,No,EDWIN ST,Part Three,Unarmed,774499.2492,,2930593.894,2012
+178973,120561027.0,Friday,No,2012-09-07T23:05:00.000,Arrest,"[-71.07499, 42.337901]",Point,Arrest,9,ARREST,168,D4,First,No,WASHINGTON ST,Part Three,Unarmed,771075.3888,W CONCORD ST,2948446.1780000003,2012
+192711,120558605.0,Friday,No,2012-09-07T00:53:00.000,Arrest,"[-71.064983, 42.287156]",Point,Arrest,9,ARREST,401,C11,Last,No,TALBOT AV,Part Three,Unarmed,773875.1664,,2929967.579,2012

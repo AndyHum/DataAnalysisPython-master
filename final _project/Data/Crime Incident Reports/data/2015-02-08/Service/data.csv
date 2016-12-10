@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81,152010406.0,Sunday,No,2015-02-08T12:15:00.000,Service,"[0, 0]",Point,Service,2,IVPER,0,C6,Day,No,GAVIN WY,Part three,Unarmed,,,,2015
+65571,152010433.0,Sunday,No,2015-02-08T14:00:00.000,Service,"[-71.090316, 42.291894]",Point,Service,2,ARREST,0,B3,Day,No,HARVARD ST,Part three,Unarmed,767012.0663,,2931660.0,2015
+178587,152010400.0,Sunday,No,2015-02-08T11:28:00.000,Service,"[-71.119655, 42.275876]",Point,Service,2,ARREST,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759100.3318,,2925786.235,2015
+263208,152010395.0,Sunday,No,2015-02-08T11:00:00.000,Service,"[0, 0]",Point,Service,2,IVPER,0,A7,Day,No,SARATOGA ST,Part three,Unarmed,,,,2015

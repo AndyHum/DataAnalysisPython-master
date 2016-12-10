@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9319,140050696.0,Saturday,No,2014-01-25T15:30:00.000,Restrain,"[-71.155765, 42.346989]",Point,Restrain,1,DVIP  ,771,D14,Day,No,MT VERNON ST,Part Two,Unarmed,749223.0382,,2951659.4460000005,2014
+78713,140050283.0,Saturday,No,2014-01-25T12:03:00.000,Restrain,"[-71.08417, 42.288116]",Point,Restrain,1,VIORDR,432,B3,Day,No,CALLENDER ST,Part Two,Unarmed,768681.8887,,2930291.482,2014
+245804,140069486.0,Saturday,No,2014-01-25T13:37:00.000,Restrain,"[-71.075925, 42.313301]",Point,Restrain,1,IVPER ,325,B2,Day,No,QUINCY ST,Part Two,Unarmed,770867.1685,,2939480.2610000004,2014

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106888,,Monday,No,2015-07-06T13:23:00.000,Violations,"[0, 0]",Point,VAL,7,IVMV,330,B2,,No,BLUE HILL AVE,Part Two,None,, SUPPLE RD ,,2015
+107830,,Monday,No,2015-07-06T00:00:00.000,Firearm Violations,"[-71.077896, 42.313414]",Point,15xx,7,ARREST,326,B2,,No,FAYSTON ST,Part Two,Knife/Cutting Instrument,770334.0,,2940000.0,2015
+114445,,Monday,No,2015-07-06T00:00:00.000,Restraining Order Violations,"[-71.084745, 42.282878]",Point,Restrain,7,VIORDR,432,B3,,No,NORFOLK ST,Part Two,None,768536.0,,2930000.0,2015
+155692,,Monday,No,2015-07-06T10:52:00.000,Violations,"[0, 0]",Point,VAL,7,TS,418,B3,,No,CAPEN ST,Part Two,None,,FULLER ST,,2015
+171551,,Monday,No,2015-07-06T00:00:00.000,Violations,"[-71.038931, 42.374686]",Point,VAL,7,ARREST,28,A7,,No,CENTRAL SQ,Part Two,None,780752.0,,2960000.0,2015
+214984,,Monday,No,2015-07-06T00:00:00.000,Restraining Order Violations,"[-71.15002, 42.349568]",Point,Restrain,7,VIORDR,778,D14,,No,HENSHAW ST,Part Two,None,750772.0,,2950000.0,2015
+218710,,Monday,No,2015-07-06T00:00:00.000,Violations,"[-71.131721, 42.3559]",Point,VAL,7,IVMV,801,D14,,No,CAMBRIDGE ST,Part Two,None,755709.0,,2950000.0,2015
+221234,,Monday,No,2015-07-06T18:25:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,ARREST,266,B2,,No,FAIRLAND ST,Part Two,Firearm,,WINTHROP ST,,2015
+224931,,Monday,No,2015-07-06T00:00:00.000,Restraining Order Violations,"[-71.093141, 42.278918]",Point,Restrain,7,VIORDR,427,B3,,No,BLUE HILL AVE,Part Two,None,766270.0,,2930000.0,2015
+228670,,Monday,No,2015-07-06T00:00:00.000,Violations,"[-71.074346, 42.334219]",Point,VAL,7,ARREST,270,D4,,No,MASSACHUSETTS AVE,Part Two,None,771256.0,,2950000.0,2015
+242352,,Monday,No,2015-07-06T00:00:00.000,Violations,"[-71.06787, 42.298509]",Point,VAL,7,TS,358,C11,,No,TONAWANDA ST,Part Two,None,773073.0,,2930000.0,2015

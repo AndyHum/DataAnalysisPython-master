@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17251,140222038.0,Saturday,No,2014-04-12T16:47:00.000,FIRE,"[-71.103083, 42.304586]",Point,FIRE,4,FV    ,570,E13,First,No,FOREST HILLS ST,Part three,Unarmed,763536.3242,,2936268.938,2014
+33878,140221918.0,Saturday,No,2014-04-12T16:03:00.000,FIRE,"[-71.16004, 42.261051]",Point,FIRE,4,FIREB ,713,E5,First,No,STIMSON ST,Part three,Other,748192.4547,,2920337.643,2014
+251055,140221265.0,Saturday,No,2014-04-12T09:58:00.000,FIRE,"[-71.060045, 42.355131]",Point,FIRE,4,FIREB ,105,A1,Day,No,SUMMER ST,Part three,Unarmed,775083.5981,,2954745.595,2014

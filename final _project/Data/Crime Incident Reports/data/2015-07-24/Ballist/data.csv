@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38060,,Friday,No,2015-07-24T00:00:00.000,Ballistics,"[-71.105538, 42.320778]",Point,BALLIST,7,IVPREM,578,E13,,No,WYMAN ST,Part Two,None,762845.0,,2940000.0,2015
+77530,,Friday,No,2015-07-24T00:00:00.000,Ballistics,"[-71.070679, 42.320661]",Point,BALLIST,7,SSA,183,B2,,No,LEYLAND ST,Part Two,None,772273.0,,2940000.0,2015

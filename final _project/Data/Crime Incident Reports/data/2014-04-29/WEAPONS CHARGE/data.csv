@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23002,140261295.0,Tuesday,No,2014-04-29T18:20:00.000,WEAPONS CHARGE,"[-71.08032, 42.339301]",Point,15xx,4,IVMV  ,286,D4,First,No,MASSACHUSETTS AV,Part Two,Other,769631.8361,TREMONT ST,2948949.228,2014
+72901,140261745.0,Tuesday,No,2014-04-29T22:09:00.000,WEAPONS CHARGE,"[-71.08319, 42.341546]",Point,15xx,4,ARREST,284,D4,First,No,MASSACHUSETTS AV,Part Two,Firearm,768851.9087,,2949763.5439999998,2014
+208981,140260868.0,Tuesday,No,2014-04-29T15:45:00.000,WEAPONS CHARGE,"[-71.0689, 42.301891]",Point,15xx,4,ARREST,343,C11,Day,No,GENEVA AV,Part Two,Firearm,772788.2323,OAKLEY ST,2935331.805,2014
+246117,140260298.0,Tuesday,No,2014-04-29T12:01:00.000,WEAPONS CHARGE,"[-71.07538, 42.333949]",Point,15xx,4,TRANSP,271,D4,Day,No,NORTHAMPTON ST,Part Two,Unarmed,770977.0295,,2947005.207,2014

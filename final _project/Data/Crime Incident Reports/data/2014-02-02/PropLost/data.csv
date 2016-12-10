@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42640,140072107.0,Sunday,No,2014-02-02T12:00:00.000,PropLost,"[-71.075433, 42.315296]",Point,PropLost,2,IVPREM,324,B2,Day,No,HOWARD AV,Part three,Unarmed,770996.4146,,2940207.647,2014
+92365,140078611.0,Sunday,No,2014-02-02T00:01:00.000,PropLost,"[-71.06598, 42.350391]",Point,PropLost,2,LSTPRP,121,A1,Last,No,WARRENTON ST,Part three,Unarmed,773488.0855,,2953009.8660000004,2014
+108697,140067360.0,Sunday,No,2014-02-02T03:00:00.000,PropLost,"[-71.059945, 42.352506]",Point,PropLost,2,LSTPRP,116,A1,Last,No,ESSEX ST,Part three,Unarmed,775115.5622,,2953789.135,2014
+177644,140068838.0,Sunday,No,2014-02-02T20:30:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,2,LSTPRP,186,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+264325,140094353.0,Sunday,No,2014-02-02T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,332,C11,First,No,WHITTEMORE TR,Part three,Unarmed,,,,2014

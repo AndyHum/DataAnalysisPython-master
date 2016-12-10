@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42372,142041543.0,Wednesday,No,2014-10-08T15:45:00.000,PropLost,"[-71.08207, 42.348781]",Point,PropLost,10,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769141.7805,,2952401.595,2014
+44099,142037529.0,Wednesday,No,2014-10-08T13:50:00.000,PropLost,"[-71.120811, 42.242465]",Point,PropLost,10,MISC,0,E18,Day,No,GARFIELD AV,Part three,Unarmed,758841.5183,,2913609.127,2014
+126224,142037230.0,Wednesday,No,2014-10-08T08:00:00.000,PropLost,"[-71.06465, 42.351016]",Point,PropLost,10,PROP,0,A1,Day,No,STUART ST,Part three,Unarmed,773846.5631,,2953239.624,2014
+234003,142037487.0,Wednesday,No,2014-10-08T22:30:00.000,PropLost,"[-71.100645, 42.319136]",Point,PropLost,10,PROP,0,E13,First,No,AMORY ST,Part three,Unarmed,764171.1989,,2941574.361,2014

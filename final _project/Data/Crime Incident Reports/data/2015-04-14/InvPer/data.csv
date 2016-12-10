@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+278,152034542.0,Tuesday,No,2015-04-14T00:00:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVPER,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,,,,2015
+23576,152030405.0,Tuesday,No,2015-04-14T19:36:00.000,InvPer,"[-71.0804, 42.328511]",Point,InvPer,4,IVPER,0,B2,First,No,DUDLEY ST,Part three,Unarmed,769629.4938,,2945016.955,2015
+73082,152030272.0,Tuesday,No,2015-04-14T11:48:00.000,InvPer,"[-71.162725, 42.349016]",Point,InvPer,4,IVPER,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,747338.8871,,2952390.715,2015
+90992,152030463.0,Tuesday,No,2015-04-14T22:30:00.000,InvPer,"[-71.138825, 42.292036]",Point,InvPer,4,IVPER,0,E5,First,No,CENTRE ST,Part three,Unarmed,753887.4134,,2931652.633,2015
+134822,152030374.0,Tuesday,No,2015-04-14T18:00:00.000,InvPer,"[-71.03404, 42.368896]",Point,InvPer,4,DISTRB,0,A7,First,No,COTTAGE ST,Part three,Unarmed,782085.0952,,2959799.15,2015
+158946,152030244.0,Tuesday,No,2015-04-14T10:00:00.000,InvPer,"[-71.071171, 42.285811]",Point,InvPer,4,IVPER,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772203.2275,,2929468.745,2015
+170804,152030439.0,Tuesday,No,2015-04-14T20:25:00.000,InvPer,"[-71.12279, 42.291426]",Point,InvPer,4,IVPER,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,758226.8467,,2931449.1180000002,2015
+208382,152030468.0,Tuesday,No,2015-04-14T22:33:00.000,InvPer,"[-71.058335, 42.314911]",Point,InvPer,4,INVEST,0,C11,First,No,PEARL ST,Part three,Unarmed,775621.6905,,2940091.1180000002,2015
+267767,152030438.0,Tuesday,No,2015-04-14T21:03:00.000,InvPer,"[0, 0]",Point,InvPer,4,UNK,0,D14,First,No,COREY ST,Part three,Unarmed,,MT HOOD RD,,2015
+267784,152030644.0,Tuesday,No,2015-04-14T23:00:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVPER,0,D14,First,No,MARKET ST,Part three,Unarmed,,,,2015

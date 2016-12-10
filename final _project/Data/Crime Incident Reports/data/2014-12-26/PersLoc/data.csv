@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+165006,152002930.0,Friday,No,2014-12-26T16:00:00.000,PersLoc,"[-71.050305, 42.330781]",Point,PersLoc,12,IVPER,0,C6,First,No,BURKE ST,Other,Unarmed,777763.0109999999,,2945885.749,2014
+175607,152001606.0,Friday,No,2014-12-26T12:00:00.000,PersLoc,"[-71.074135, 42.302786]",Point,PersLoc,12,MISSIN,0,C11,Day,No,MALLON RD,Other,Unarmed,771370.4405,,2935650.8430000003,2014
+199860,142060978.0,Friday,No,2014-12-26T13:30:00.000,PersLoc,"[-71.067175, 42.316924]",Point,PersLoc,12,IVPER,0,B2,Day,No,VIRGINIA ST,Other,Unarmed,773226.8846,,2940812.425,2014
+210137,142060782.0,Friday,No,2014-12-26T14:00:00.000,PersLoc,"[-71.087175, 42.308436]",Point,PersLoc,12,IVPER,0,B2,Day,No,SONOMA ST,Other,Unarmed,767832.9666,,2937692.45,2014
+215649,142060776.0,Friday,No,2014-12-26T20:00:00.000,PersLoc,"[-71.09458, 42.292971]",Point,PersLoc,12,IVPER,0,B3,First,No,KINGBIRD RD,Other,Unarmed,765856.7694,AMERICAN LEGION HY,2932047.155,2014

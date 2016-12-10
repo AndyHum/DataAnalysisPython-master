@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33763,,Thursday,No,2015-07-02T00:00:00.000,Medical Assistance,"[-71.134108, 42.351948]",Point,MedAssist,7,IVPER,794,D14,,No,QUINT AVE,Part Three,None,755070.0,,2950000.0,2015
+61930,,Thursday,No,2015-07-02T15:39:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,245,C11,,No,HARBOR VIEW ST,Part Three,None,,SYDNEY ST,,2015
+69837,,Thursday,No,2015-07-02T00:00:00.000,Medical Assistance,"[-71.133013, 42.355419]",Point,MedAssist,7,INVEST,803,D14,,No,CAMBRIDGE ST,Part Three,None,755360.0,,2950000.0,2015
+73543,,Thursday,No,2015-07-02T00:00:00.000,Medical Assistance,"[-71.115183, 42.322928]",Point,MedAssist,7,NIDV,610,E13,,No,PARKWOOD TER,Part Three,None,760233.0,,2940000.0,2015
+91177,,Thursday,No,2015-07-02T01:32:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,REQP,498,E18,,No,NAVARRE ST,Part Three,None,,,,2015
+159104,,Thursday,No,2015-07-02T00:00:00.000,Medical Assistance,"[-71.032597, 42.377246]",Point,MedAssist,7,UNK,19,A7,,No,BENNINGTON ST,Part Three,None,782458.0,,2960000.0,2015
+162126,,Thursday,No,2015-07-02T00:00:00.000,Medical Assistance,"[-71.046654, 42.336112]",Point,MedAssist,7,MISC,214,C6,,No,W BROADWAY,Part Three,None,778740.0,,2950000.0,2015
+183693,,Thursday,No,2015-07-02T00:00:00.000,Medical Assistance,"[-71.060876, 42.303854]",Point,MedAssist,7,BE,349,C11,,No,ADAMS ST,Part Three,None,774955.0,,2940000.0,2015
+218404,,Thursday,No,2015-07-02T08:08:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,NIDV,900,A15,,No,WALFORD WAY,Part Three,None,,,,2015

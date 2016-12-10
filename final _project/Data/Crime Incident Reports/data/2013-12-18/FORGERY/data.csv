@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29190,130806320.0,Wednesday,No,2013-12-18T15:45:00.000,FORGERY,"[-71.075555, 42.335226]",Point,10xx,12,LARCRT,271,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,770927.4843,,2947470.6010000003,2013
+180984,130795908.0,Wednesday,No,2013-12-18T11:30:00.000,FORGERY,"[-71.084625, 42.311006]",Point,10xx,12,LARCRT,320,B2,Day,No,CRAWFORD ST,Part Two,Other,768518.1535,,2938632.245,2013
+223624,130795252.0,Wednesday,No,2013-12-18T13:20:00.000,FORGERY,"[-71.115994, 42.275121]",Point,10xx,12,DISTRB,497,E18,Day,No,AMERICAN LEGION HY,Part Two,Unarmed,760092.1353,,2925515.338,2013

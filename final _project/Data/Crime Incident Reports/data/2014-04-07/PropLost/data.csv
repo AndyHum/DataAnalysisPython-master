@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114953,140210313.0,Monday,No,2014-04-07T15:30:00.000,PropLost,"[-71.062085, 42.356341]",Point,PropLost,4,INVEST,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774529.9407,,2955183.704,2014
+123301,140210631.0,Monday,No,2014-04-07T20:00:00.000,PropLost,"[-71.08284, 42.309116]",Point,PropLost,4,LSTPRP,282,B2,First,No,BLUE HILL AV,Part three,Unarmed,769004.3297,,2937945.957,2014
+159638,140210267.0,Monday,No,2014-04-07T17:25:00.000,PropLost,"[-71.066085, 42.289756]",Point,PropLost,4,LSTPRP,352,C11,First,No,JOSEPH ST,Part three,Other,773572.2382,,2930913.495,2014
+185054,140209440.0,Monday,No,2014-04-07T16:00:00.000,PropLost,"[-71.09178, 42.268962]",Point,PropLost,4,MISC  ,426,B3,First,No,RIVER ST,Part three,Unarmed,766656.1487,,2923301.256,2014

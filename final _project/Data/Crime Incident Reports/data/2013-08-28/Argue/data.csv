@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101517,130546483.0,Wednesday,No,2013-08-28T13:55:00.000,Argue,"[-71.052625, 42.31811]",Point,Argue,8,IVPER ,235,C11,Day,No,SYDNEY ST,Part three,Unarmed,777159.8741,,2941264.903,2013
+122370,130544934.0,Wednesday,No,2013-08-28T20:00:00.000,Argue,"[-71.116408, 42.293839]",Point,Argue,8,DVIP  ,508,E13,First,No,WACHUSETT ST,Part three,Unarmed,759949.6405,,2932335.9289999995,2013
+226071,130544871.0,Wednesday,No,2013-08-28T19:43:00.000,Argue,"[-71.103345, 42.264086]",Point,Argue,8,FIGHT ,485,E18,First,No,THORN ST,Part three,Unarmed,763534.2872,,2921509.905,2013

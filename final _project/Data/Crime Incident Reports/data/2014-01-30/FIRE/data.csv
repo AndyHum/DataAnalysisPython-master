@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7901,140062030.0,Thursday,No,2014-01-30T19:58:00.000,FIRE,"[-71.07142, 42.358756]",Point,FIRE,1,FIREB ,66,A1,First,No,PINCKNEY ST,Part three,Unarmed,772002.4031,,2956050.962,2014
+44744,140060618.0,Thursday,No,2014-01-30T08:32:00.000,FIRE,"[-71.105825, 42.338096]",Point,FIRE,1,FV    ,614,B2,Day,No,LONGWOOD AV,Part three,Unarmed,762738.3642,,2948477.208,2014
+186873,140061483.0,Thursday,No,2014-01-30T15:28:00.000,FIRE,"[-71.007992, 42.39148]",Point,FIRE,1,FIREB ,10,A7,Day,No,MONTMORENCI AV,Part three,Unarmed,789076.5855,,2968068.455,2014

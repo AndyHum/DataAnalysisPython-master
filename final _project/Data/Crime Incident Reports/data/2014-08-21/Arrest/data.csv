@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46896,142021559.0,Thursday,No,2014-08-21T15:00:00.000,Arrest,"[-71.100035, 42.320706]",Point,Arrest,8,ARREST,0,E13,Day,No,AMORY AV,Part three,Unarmed,764333.4883,,2942147.27,2014
+169211,142021469.0,Thursday,No,2014-08-21T10:15:00.000,Arrest,"[-71.131985, 42.350896]",Point,Arrest,8,IVPER,0,D14,Day,No,GLENVILLE AV,Part three,Unarmed,755645.507,,2953110.18,2014
+233909,142021420.0,Thursday,No,2014-08-21T07:00:00.000,Arrest,"[-71.076409, 42.272737]",Point,Arrest,8,CD11,0,B3,Last,No,IDAHO ST,Part three,Unarmed,770809.5069,,2924697.293,2014

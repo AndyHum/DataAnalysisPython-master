@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61498,130335283.0,Saturday,No,2013-06-01T19:00:00.000,PhoneCalls,"[-71.03827, 42.371066]",Point,PhoneCalls,6,IVPER ,28,A7,First,No,EMMONS ST,Part three,Other,780937.7379,,2960583.724,2013
+153649,152023707.0,Saturday,No,2013-06-01T20:00:00.000,PhoneCalls,"[-71.154715, 42.341246]",Point,PhoneCalls,6,IVPER,0,D14,First,No,CHESTNUT HILL AV,Part three,Unarmed,749515.5977,,2949567.834,2013
+179646,130603673.0,Saturday,No,2013-06-01T12:00:00.000,PhoneCalls,"[-71.1199, 42.270516]",Point,PhoneCalls,6,HARPT ,496,E18,Day,No,COLLINS ST,Part three,Unarmed,759042.7315,,2923832.6810000003,2013
+263305,130513414.0,Saturday,No,2013-06-01T12:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,6,INVEST,753,D14,Day,No,HUNTINGTON RD,Part three,Unarmed,,,,2013

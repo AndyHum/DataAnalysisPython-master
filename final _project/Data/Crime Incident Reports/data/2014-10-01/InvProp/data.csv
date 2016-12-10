@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24120,142034793.0,Wednesday,No,2014-10-01T06:30:00.000,InvProp,"[-71.060105, 42.357876]",Point,InvProp,10,CD9,0,A1,Last,No,SCHOOL ST,Part three,Unarmed,775062.2215,,2955745.8419999997,2014
+127506,142034761.0,Wednesday,No,2014-10-01T04:47:00.000,InvProp,"[-71.078255, 42.311286]",Point,InvProp,10,SHOTS,0,B2,Last,No,NORMANDY ST,Part three,Firearm,770240.6048,,2938742.838,2014
+210874,142034760.0,Wednesday,No,2014-10-01T03:37:00.000,InvProp,"[-71.06566, 42.309601]",Point,InvProp,10,IVPER,0,C11,Last,No,CLARKSON ST,Part three,Other,773650.4041,,2938145.894,2014
+217554,142034742.0,Wednesday,No,2014-10-01T00:05:00.000,InvProp,"[-71.102195, 42.323541]",Point,InvProp,10,PSHOT,0,E13,Last,No,BICKFORD ST,Part three,Firearm,763744.522,,2943177.66,2014
+253037,142034858.0,Wednesday,No,2014-10-01T14:02:00.000,InvProp,"[-71.066475, 42.300451]",Point,InvProp,10,SHOTS,0,C11,Day,No,GENEVA AV,Part three,Unarmed,773446.9064,,2934810.372,2014

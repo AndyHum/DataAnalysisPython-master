@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63187,142061128.0,Sunday,No,2014-12-28T03:30:00.000,DISORDERLY,"[-71.06465, 42.351016]",Point,24xx,12,ARREST,0,A1,Last,No,STUART ST,Part Two,Unarmed,773846.5631,,2953239.624,2014
+82991,142061129.0,Sunday,No,2014-12-28T04:00:00.000,DISORDERLY,"[-71.008436, 42.39263]",Point,24xx,12,DISTRB,0,A7,Last,No,VALLAR RD,Part Two,Unarmed,788954.13,,2968486.8839999996,2014
+155290,142061090.0,Sunday,No,2014-12-28T00:53:00.000,DISORDERLY,"[-71.106559, 42.333329]",Point,24xx,12,PKNIFE,0,B2,Last,No,HUNTINGTON AV,Part Two,Unarmed,762547.9394,,2946738.9239999996,2014

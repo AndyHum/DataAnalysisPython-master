@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+747,152035843.0,Saturday,No,2015-05-02T17:42:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B3,First,No,KINGBIRD RD,Other,Unarmed,,,,2015
+48058,152035989.0,Saturday,No,2015-05-02T22:00:00.000,PersLoc,"[-71.071303, 42.31078]",Point,PersLoc,5,IVPER,0,B2,First,No,COLUMBIA RD,Other,Unarmed,772121.7044,,2938567.833,2015
+109847,152035887.0,Saturday,No,2015-05-02T21:03:00.000,PersLoc,"[-71.063503, 42.310262]",Point,PersLoc,5,IVPER,0,C11,First,No,TOVAR ST,Other,Unarmed,774232.417,,2938389.63,2015
+137504,152035898.0,Saturday,No,2015-05-02T11:00:00.000,PersLoc,"[-71.098539, 42.266502]",Point,PersLoc,5,IVPER,0,E18,Day,No,ROCKDALE ST,Other,Unarmed,764830.78,,2922396.45,2015
+191165,152036012.0,Saturday,No,2015-05-02T10:30:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,5,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+197885,152036023.0,Saturday,No,2015-05-02T22:00:00.000,PersLoc,"[-71.071303, 42.31078]",Point,PersLoc,5,MISSIN,0,B2,First,No,COLUMBIA RD,Other,Unarmed,772121.7044,,2938567.833,2015

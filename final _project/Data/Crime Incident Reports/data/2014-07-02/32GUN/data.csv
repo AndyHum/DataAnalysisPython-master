@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9271,142005298.0,Wednesday,No,2014-07-02T17:00:00.000,32GUN,"[-71.128125, 42.289776]",Point,32GUN,7,PROP,0,E5,First,No,ARBOROUGH RD,Part three,Unarmed,756786.0059999999,,2930841.4960000003,2014
+128175,142005310.0,Wednesday,No,2014-07-02T17:45:00.000,32GUN,"[-71.054711, 42.341305]",Point,32GUN,7,INVEST,0,C6,First,No,BROADWAY,Part three,Firearm,776551.5679,,2949714.607,2014
+158382,142005313.0,Wednesday,No,2014-07-02T17:15:00.000,32GUN,"[-71.06428, 42.285761]",Point,32GUN,7,IVPREM,0,C11,First,No,ASHMONT ST,Part three,Unarmed,774068.0525,DORCHESTER AV,2929460.152,2014

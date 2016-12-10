@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6090,152014011.0,Wednesday,No,2015-02-18T20:30:00.000,PropFound,"[-71.073975, 42.338586]",Point,PropFound,2,MISC,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,771348.5616,RUTLAND ST,2948697.175,2015
+25979,152013097.0,Wednesday,No,2015-02-18T11:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,2,MISC,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015
+28292,152013019.0,Wednesday,No,2015-02-18T01:59:00.000,PropFound,"[-71.065775, 42.352431]",Point,PropFound,2,PROP,0,A1,Last,No,BOYLSTON ST,Part three,Unarmed,773539.8413,,2953753.727,2015
+55441,152013096.0,Wednesday,No,2015-02-18T11:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,2,MISC,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015

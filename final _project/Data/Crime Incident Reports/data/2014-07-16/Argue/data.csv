@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10341,142009848.0,Wednesday,No,2014-07-16T19:00:00.000,Argue,"[-71.092625, 42.314591]",Point,Argue,7,FIGHT,0,B2,First,No,ABBOTTSFORD ST,Part three,Unarmed,766348.0804,,2939928.345,2014
+24733,142009756.0,Wednesday,No,2014-07-16T14:30:00.000,Argue,"[-71.081402, 42.324234]",Point,Argue,7,DISTRB,0,B2,Day,No,WHITING ST,Part three,Unarmed,769366.0068,,2943457.0960000004,2014
+75256,142009752.0,Wednesday,No,2014-07-16T13:57:00.000,Argue,"[-71.16513, 42.294746]",Point,Argue,7,IVPER,0,E5,Day,No,COREY ST,Part three,Unarmed,746766.4149,,2932611.162,2014

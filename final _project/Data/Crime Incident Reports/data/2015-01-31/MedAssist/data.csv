@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25318,152008303.0,Saturday,No,2015-01-31T14:57:00.000,MedAssist,"[-71.04776, 42.336821]",Point,MedAssist,1,REQP,0,C6,Day,No,F ST,Part three,Unarmed,778439.4956,W BROADWAY,2948090.4669999997,2015
+27585,152008341.0,Saturday,No,2015-01-31T17:30:00.000,MedAssist,"[-71.119368, 42.261066]",Point,MedAssist,1,IVPER,0,E18,First,No,CENTRAL AV,Part three,Unarmed,759202.0347,,2920389.44,2015
+41667,152008356.0,Saturday,No,2015-01-31T19:50:00.000,MedAssist,"[-71.05033, 42.332956]",Point,MedAssist,1,UNCONS,0,C6,First,No,TELEGRAPH ST,Part three,Unarmed,777752.0724,,2946678.3210000005,2015
+52850,152008243.0,Saturday,No,2015-01-31T11:11:00.000,MedAssist,"[-71.085118, 42.298635]",Point,MedAssist,1,AB,0,B3,Day,No,ESMOND ST,Part three,Unarmed,768406.6291,,2934123.522,2015
+132432,152008194.0,Saturday,No,2015-01-31T00:38:00.000,MedAssist,"[-71.064346, 42.353072]",Point,MedAssist,1,EDP,0,A1,Last,No,TREMONT ST,Part three,Unarmed,773924.729,,2953989.2660000003,2015
+159803,152008318.0,Saturday,No,2015-01-31T16:20:00.000,MedAssist,"[-71.08324, 42.326272]",Point,MedAssist,1,INJ,0,B2,First,No,WARREN ST,Part three,Unarmed,768865.372,,2944197.244,2015
+176238,152008207.0,Saturday,No,2015-01-31T06:30:00.000,MedAssist,"[-71.073085, 42.340606]",Point,MedAssist,1,UNCONS,0,D4,Last,No,SHAWMUT AV,Part three,Unarmed,771585.4994,,2949434.503,2015

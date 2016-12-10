@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36342,120594032.0,Friday,No,2012-09-21T17:59:00.000,Service,"[-71.07928, 42.328551]",Point,Service,9,ARREST,268,B2,First,No,DUDLEY ST,Part Three,Unarmed,769932.3318,DEARBORN ST,2945033.123,2012
+37508,120593634.0,Friday,No,2012-09-21T15:04:00.000,Service,"[-71.04625, 42.354256]",Point,Service,9,CD11  ,207,C6,Day,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012
+91401,120593234.0,Friday,No,2012-09-21T12:25:00.000,Service,"[-71.08738, 42.346641]",Point,Service,9,ARREST,620,D4,Day,No,HAVILAND ST,Part Three,Unarmed,767710.1637,MASSACHUSETTS AV,2951614.749,2012
+184430,120593874.0,Friday,No,2012-09-21T17:00:00.000,Service,"[-71.077748, 42.348631]",Point,Service,9,CD9   ,0,D4,First,No,HUNTINGTON AV,Part Three,Unarmed,770310.163,,2952352.43,2012
+215419,120592242.0,Friday,No,2012-09-21T01:18:00.000,Service,"[-71.060775, 42.303651]",Point,Service,9,ARREST,349,C11,Last,No,ADAMS ST,Part Three,Unarmed,774982.8899,,2935984.389,2012
+228880,120593940.0,Friday,No,2012-09-21T16:30:00.000,Service,"[-71.08906, 42.285216]",Point,Service,9,MISC  ,300,B3,First,No,LUCERNE ST,Part Three,Unarmed,767363.8569,,2929228.267,2012
+259504,120592772.0,Friday,No,2012-09-21T09:00:00.000,Service,"[-71.08156, 42.348911]",Point,Service,9,CD9   ,143,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,769279.4105,,2952449.645,2012

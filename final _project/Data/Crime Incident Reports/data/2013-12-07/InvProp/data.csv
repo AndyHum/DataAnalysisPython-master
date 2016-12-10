@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6272,130771158.0,Saturday,No,2013-12-07T01:30:00.000,InvProp,"[-71.065136, 42.319763]",Point,InvProp,12,IVPREM,237,B2,Last,No,BELDEN ST,Part three,Firearm,773773.2628,,2941849.644,2013
+30292,130771298.0,Saturday,No,2013-12-07T03:23:00.000,InvProp,"[-71.054615, 42.359146]",Point,InvProp,12,ALARMC,101,A1,Last,No,BROAD ST,Part three,Unarmed,776543.6355,,2956216.355,2013
+193682,140074530.0,Saturday,No,2013-12-07T17:00:00.000,InvProp,"[-71.106406, 42.324266]",Point,InvProp,12,IVPER ,582,E13,First,No,EDGE HILL ST,Part three,Unarmed,762604.3733,,2943436.6139999996,2013
+238205,130771127.0,Saturday,No,2013-12-07T01:06:00.000,InvProp,"[-71.062835, 42.353226]",Point,InvProp,12,PARTY ,111,A1,Last,No,AVERY ST,Part three,Unarmed,774333.0448,,2954047.5,2013

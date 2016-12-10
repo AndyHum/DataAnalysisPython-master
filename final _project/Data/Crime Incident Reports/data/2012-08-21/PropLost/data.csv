@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11539,120527691.0,Tuesday,No,2012-08-21T15:00:00.000,PropLost,"[-71.072588, 42.384155]",Point,PropLost,8,LSTPRP,59,A15,Day,No,MAIN ST,Part Three,Unarmed,771640.2237,,2965305.2389999996,2012
+53515,120552730.0,Tuesday,No,2012-08-21T17:00:00.000,PropLost,"[-71.095215, 42.315491]",Point,PropLost,8,LSTPRP,307,E13,First,No,WALDREN RD,Part Three,Other,765646.0192,,2940252.9839999997,2012
+66207,120522865.0,Tuesday,No,2012-08-21T16:00:00.000,PropLost,"[-71.06365, 42.363381]",Point,PropLost,8,LARCRT,72,A1,First,No,STANIFORD ST,Part Three,Unarmed,774093.8189,LONGFELLOW PL,2957747.05,2012
+75741,120520182.0,Tuesday,No,2012-08-21T14:00:00.000,PropLost,"[-71.0729, 42.333256]",Point,PropLost,8,LARCRT,172,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2012
+97790,120522055.0,Tuesday,No,2012-08-21T20:30:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,8,LSTPRP,144,D4,First,No,DALTON ST,Part Three,Unarmed,768399.9598,,2951523.3460000004,2012
+247719,120522161.0,Tuesday,No,2012-08-21T20:15:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,8,LSTPRP,111,A1,First,No,TREMONT ST,Part Three,Unarmed,773924.729,,2953989.2660000003,2012
+258900,120526305.0,Tuesday,No,2012-08-21T14:00:00.000,PropLost,"[-71.07738, 42.350061]",Point,PropLost,8,LSTPRP,130,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2012
+262921,120522907.0,Tuesday,No,2012-08-21T12:30:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,60,A15,Day,No,RUTHERFORD AV,Part Three,Unarmed,,,,2012

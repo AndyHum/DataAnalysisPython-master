@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73226,152019096.0,Monday,No,2015-03-09T18:27:00.000,Service,"[-71.08483, 42.346381]",Point,Service,3,ARREST,0,D4,First,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2015
+77435,152019068.0,Monday,No,2015-03-09T17:00:00.000,Service,"[-71.040245, 42.368121]",Point,Service,3,CD11,0,A7,First,No,LEWIS MALL,Part three,Unarmed,780409.8322,,2959507.625,2015
+196067,152018970.0,Monday,No,2015-03-09T12:57:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+239287,152018897.0,Monday,No,2015-03-09T08:49:00.000,Service,"[-71.089912, 42.309524]",Point,Service,3,REQP,0,B2,Day,No,BROOKLEDGE ST,Part three,Unarmed,767090.6075,,2938085.256,2015

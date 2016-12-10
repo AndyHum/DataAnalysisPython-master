@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3563,,Sunday,No,2015-06-28T01:15:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,121,A1,,No,BROADWAY ST,Part Two,None,,PIEDMONT ST,,2015
+9499,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.07082, 42.361928]",Point,08xx,6,ARREST,64,A1,,No,CHARLES ST,Part Two,Personal Weapon (hand  foot  etc.),772159.0,,2960000.0,2015
+42530,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.120065, 42.273789]",Point,08xx,6,FIGHT,498,E18,,No,HYDE PARK AVE,Part Two,None,758993.0,,2930000.0,2015
+52647,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.078051, 42.348529]",Point,08xx,6,UNCONS,130,D4,,No,HUNTINGTON AVE,Part Two,Other,770229.0,,2950000.0,2015
+77977,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.076381, 42.334018]",Point,08xx,6,REQEP,271,D4,,No,HARRISON AVE,Part Two,None,770706.0,,2950000.0,2015
+87563,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.049259, 42.349349]",Point,08xx,6,AB,205,C6,,No,A ST,Part Two,None,778010.0,,2950000.0,2015
+109065,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.140387, 42.36081]",Point,08xx,6,DISTRB,807,D14,,No,LITCHFIELD ST,Part Two,None,753359.0,,2960000.0,2015
+155192,,Sunday,No,2015-06-28T21:27:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,272,D4,,No,E LENOX ST,Part Two,None,,WASHINGTON ST,,2015
+158849,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.063169, 42.313013]",Point,08xx,6,NIDV,257,C11,,No,SAWYER AVE,Part Two,None,774318.0,,2940000.0,2015
+171197,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.078402, 42.335435]",Point,08xx,6,NIDV,273,D4,,No,WASHINGTON ST,Part Two,None,770157.0,,2950000.0,2015
+236154,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.074746, 42.343387]",Point,08xx,6,IVPER,153,D4,,No,MONTGOMERY ST,Part Two,Other,771131.0,,2950000.0,2015
+248986,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.096592, 42.344896]",Point,08xx,6,FIGHT,624,D4,,No,BOYLSTON ST,Part Two,Personal Weapon (hand  foot  etc.),765223.0,,2950000.0,2015
+252622,,Sunday,No,2015-06-28T00:00:00.000,Simple Assault,"[-71.074751, 42.291256]",Point,08xx,6,ARREST,449,B3,,No,ASPINWALL RD,Part Two,None,771225.0,,2930000.0,2015

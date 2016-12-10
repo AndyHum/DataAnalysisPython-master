@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61731,140166642.0,Wednesday,No,2014-03-19T02:47:00.000,InvProp,"[-71.05538, 42.360271]",Point,InvProp,3,REQP  ,94,A1,Last,No,N MARKET ST,Part three,Unarmed,776334.7396,,2956625.248,2014
+75164,140167657.0,Wednesday,No,2014-03-19T14:15:00.000,InvProp,"[-71.092428, 42.2886]",Point,InvProp,3,ALARMR,566,B3,Day,No,HARVARD ST,Part three,Unarmed,766446.5415,,2930456.7630000003,2014
+87155,140167342.0,Wednesday,No,2014-03-19T12:07:00.000,InvProp,"[-71.086215, 42.343382]",Point,InvProp,3,BOMBT ,619,D4,Day,No,WESTLAND AV,Part three,Unarmed,768030.7109,,2950428.4460000005,2014

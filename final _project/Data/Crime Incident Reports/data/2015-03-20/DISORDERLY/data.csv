@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34876,152022536.0,Friday,No,2015-03-20T16:43:00.000,DISORDERLY,"[-71.093795, 42.268876]",Point,24xx,3,ARREST,0,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766110.9716,,2923267.608,2015
+94191,152022449.0,Friday,No,2015-03-20T11:45:00.000,DISORDERLY,"[-71.063675, 42.352301]",Point,24xx,3,IVPER,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2015
+158967,152022552.0,Friday,No,2015-03-20T17:26:00.000,DISORDERLY,"[-71.068642, 42.316293]",Point,24xx,3,ARREST,0,B2,First,No,MONADNOCK ST,Part Two,Unarmed,772831.4244,,2940580.485,2015
+177223,152022512.0,Friday,No,2015-03-20T15:10:00.000,DISORDERLY,"[-71.05482, 42.280521]",Point,24xx,3,FIGHT,0,C11,Day,No,GRANITE AV,Part Two,Unarmed,776637.7731,,2927563.8430000003,2015
+266683,152022433.0,Friday,No,2015-03-20T10:45:00.000,DISORDERLY,"[0, 0]",Point,24xx,3,ARREST,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015

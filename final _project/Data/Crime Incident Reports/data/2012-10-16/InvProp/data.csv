@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16165,120651936.0,Tuesday,No,2012-10-16T12:00:00.000,InvProp,"[-71.037465, 42.371036]",Point,InvProp,10,BERPT ,28,A7,Day,No,CHELSEA ST,Part Three,Other,781155.3254,,2960573.97,2012
+62363,120652550.0,Tuesday,No,2012-10-16T18:00:00.000,InvProp,"[-71.08041, 42.298256]",Point,InvProp,10,IVPREM,445,B3,First,No,ROXTON ST,Part Three,Other,769681.0823,,2933991.6289999997,2012
+158072,120650817.0,Tuesday,No,2012-10-16T01:47:00.000,InvProp,"[-71.05585, 42.316161]",Point,InvProp,10,LARCIP,244,C11,Last,No,ROMSEY ST,Part Three,Other,776291.4162,,2940550.126,2012
+166151,120651352.0,Tuesday,No,2012-10-16T09:30:00.000,InvProp,"[-71.063757, 42.354358]",Point,InvProp,10,CD9   ,111,A1,Day,No,TREMONT ST,Part Three,Other,774081.4655,,2954458.626,2012

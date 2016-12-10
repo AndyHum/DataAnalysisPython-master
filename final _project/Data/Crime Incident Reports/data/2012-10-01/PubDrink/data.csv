@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10573,120617711.0,Monday,No,2012-10-01T16:52:00.000,PubDrink,"[-71.08135, 42.332389]",Point,PubDrink,10,SSTOP ,0,B2,First,No,WASHINGTON ST,Part Two,Other,769365.5688,,2946429.0289999996,2012
+26036,120618191.0,Monday,No,2012-10-01T20:45:00.000,PubDrink,"[-71.112411, 42.284053]",Point,PubDrink,10,CD35  ,503,E18,First,No,AMERICAN LEGION HY,Part Two,Other,761047.1773,,2928774.728,2012
+255131,120618037.0,Monday,No,2012-10-01T19:31:00.000,PubDrink,"[-71.085298, 42.329524]",Point,PubDrink,10,INVEST,288,B2,First,No,ROXBURY ST,Part Two,Other,768303.1628,,2945379.693,2012

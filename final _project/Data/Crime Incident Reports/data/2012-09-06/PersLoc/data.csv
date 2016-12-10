@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104460,120557620.0,Thursday,No,2012-09-06T11:30:00.000,PersLoc,"[-71.119867, 42.243568]",Point,PersLoc,9,MSNCOM,523,E18,Day,No,GARFIELD AV,Part Three,Unarmed,759095.3804,,2914012.528,2012
+137257,120558390.0,Thursday,No,2012-09-06T22:30:00.000,PersLoc,"[-71.090055, 42.294061]",Point,PersLoc,9,MSNCOM,463,B3,First,No,WILBERT RD,Part Three,Unarmed,767079.1298,,2932450.22,2012
+151746,120557757.0,Thursday,No,2012-09-06T18:00:00.000,PersLoc,"[-71.09736, 42.269761]",Point,PersLoc,9,MSNCOM,481,E18,First,No,CUMMINS HY,Part Three,Unarmed,765144.5471,HOLLINGSWORTH ST,2923585.539,2012
+157352,120558465.0,Thursday,No,2012-09-06T23:55:00.000,PersLoc,"[-71.114821, 42.263407]",Point,PersLoc,9,MISPER,493,E18,Last,No,HUNTINGTON AV,Part Three,Unarmed,760428.8925,,2921248.2460000003,2012
+258954,120558325.0,Thursday,No,2012-09-06T01:50:00.000,PersLoc,"[-71.085618, 42.32866]",Point,PersLoc,9,IVPER ,288,B2,Last,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012

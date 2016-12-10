@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14084,130011335.0,Sunday,No,2013-01-06T11:18:00.000,InvProp,"[-71.048974, 42.349733]",Point,InvProp,1,ALARMC,205,C6,Day,No,A ST,Part Three,Unarmed,778086.3309,,2952794.0439999998,2013
+119484,130011328.0,Sunday,No,2013-01-06T11:00:00.000,InvProp,"[-71.08418, 42.287121]",Point,InvProp,1,VANRPT,432,B3,Day,No,WOODROW AV,Part Three,Other,768680.9504,,2929928.878,2013
+170052,130011991.0,Sunday,No,2013-01-06T18:25:00.000,InvProp,"[-71.13457, 42.249796]",Point,InvProp,1,ALARMR,539,E18,First,No,SUNNYSIDE ST,Part Three,Unarmed,755104.5977,,2916264.683,2013
+177119,130011998.0,Sunday,No,2013-01-06T18:28:00.000,InvProp,"[-71.056405, 42.336941]",Point,InvProp,1,ALARMC,196,C6,First,No,OLD COLONY AV,Part Three,Unarmed,776101.93,,2948121.923,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7202,152028185.0,Tuesday,No,2015-04-07T12:45:00.000,Service,"[-71.06564, 42.280931]",Point,Service,4,TS,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773709.0175,,2927698.1569999997,2015
+114894,152028344.0,Tuesday,No,2015-04-07T22:35:00.000,Service,"[-71.0604, 42.355356]",Point,Service,4,ARREST,0,A1,First,No,SUMMER ST,Part three,Unarmed,774987.2219,WASHINGTON ST,2954827.095,2015
+160790,152028155.0,Tuesday,No,2015-04-07T11:30:00.000,Service,"[-71.068595, 42.358406]",Point,Service,4,IVPREM,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+267389,152028160.0,Tuesday,No,2015-04-07T10:10:00.000,Service,"[0, 0]",Point,Service,4,IVPREM,0,B2,Day,No,MAYWOOD ST,Part three,Unarmed,,,,2015
+267392,152028340.0,Tuesday,No,2015-04-07T19:47:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,A1,First,No,TREMONT ST,Part three,Other,,,,2015

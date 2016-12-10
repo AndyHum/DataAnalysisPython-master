@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68035,152001575.0,Wednesday,No,2014-12-24T16:00:00.000,InvProp,"[-71.06979, 42.352031]",Point,InvProp,12,IVPREM,0,A1,First,No,BOYLSTON ST,Part three,Other,772455.3123,,2953602.461,2014
+95733,142060376.0,Wednesday,No,2014-12-24T15:26:00.000,InvProp,"[-71.029416, 42.344704]",Point,InvProp,12,ALARM,0,C6,Day,No,DRY DOCK AV,Part three,Unarmed,783383.2419,,2950989.983,2014
+114664,142060248.0,Wednesday,No,2014-12-24T04:06:00.000,InvProp,"[-71.0958, 42.326475]",Point,InvProp,12,IVPER,0,B2,Last,No,FORT AV,Part three,Unarmed,765468.5753,,2944254.749,2014
+140881,142060223.0,Wednesday,No,2014-12-24T00:33:00.000,InvProp,"[-71.08271, 42.331051]",Point,InvProp,12,IVPREM,0,B2,Last,No,WASHINGTON ST,Part three,Other,769000.3868,RUGGLES ST,2945939.61,2014
+230271,142060275.0,Wednesday,No,2014-12-24T08:53:00.000,InvProp,"[-71.095034, 42.275902]",Point,InvProp,12,REQP,0,B3,Day,No,TENNIS RD,Part three,Unarmed,765763.285,,2925826.202,2014

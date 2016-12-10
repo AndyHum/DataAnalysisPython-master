@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18100,142046439.0,Thursday,No,2014-11-06T13:59:00.000,SearchWarr,"[-71.0828, 42.283631]",Point,SearchWarr,11,CD11,0,B3,Day,No,NORFOLK ST,Part three,Unarmed,769060.5737,,2928658.894,2014
+74296,142050928.0,Thursday,No,2014-11-06T09:41:00.000,SearchWarr,"[-71.063654, 42.309786]",Point,SearchWarr,11,CD11,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,774192.423,,2938215.83,2014
+190163,142046488.0,Thursday,No,2014-11-06T14:44:00.000,SearchWarr,"[-71.08787, 42.287411]",Point,SearchWarr,11,IVPREM,0,B3,Day,No,ARBUTUS ST,Part three,Unarmed,767681.9944,,2930029.711,2014

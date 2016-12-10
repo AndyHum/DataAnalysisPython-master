@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64029,,Thursday,No,2015-07-16T00:00:00.000,Warrant Arrests,"[-71.076859, 42.298953]",Point,Arrest,7,CD11,446,B3,,No,SHAFTER ST,Part Three,None,770640.0,,2930000.0,2015
+130240,,Thursday,No,2015-07-16T10:23:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,269,B2,,No,HAMPDEN ST,Part Three,None,,KEMBLE ST,,2015
+133348,,Thursday,No,2015-07-16T14:30:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,0,,,No,,Part Three,None,,BOYLSTON ST,,2015
+200177,,Thursday,No,2015-07-16T11:00:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,134,D4,,No,BOYLSTON ST,Part Three,None,,DARTMOUTH ST,,2015

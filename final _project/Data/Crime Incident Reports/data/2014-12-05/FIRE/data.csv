@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64314,142054862.0,Friday,No,2014-12-05T12:15:00.000,FIRE,"[-71.108475, 42.273646]",Point,FIRE,12,FIRE,0,B3,Day,No,CUMMINS HY,Part three,Unarmed,762129.707,,2924987.2819999997,2014
+235202,142054953.0,Friday,No,2014-12-05T17:47:00.000,FIRE,"[-71.037465, 42.366871]",Point,FIRE,12,FO,0,A7,First,No,WEBSTER ST,Part three,Unarmed,781163.5587,,2959056.164,2014
+253794,142054852.0,Friday,No,2014-12-05T11:58:00.000,FIRE,"[-71.08356, 42.328666]",Point,FIRE,12,FIRE,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,768774.7954,,2945069.352,2014

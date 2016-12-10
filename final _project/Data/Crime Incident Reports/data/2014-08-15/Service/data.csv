@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24286,142019670.0,Friday,No,2014-08-15T17:00:00.000,Service,"[-71.059641, 42.327811]",Point,Service,8,ARREST,0,C6,First,No,BOSTON ST,Part three,Unarmed,775244.0823,,2944790.3039999995,2014
+50573,142019650.0,Friday,No,2014-08-15T15:30:00.000,Service,"[-71.04625, 42.354256]",Point,Service,8,CD5,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+137267,142019539.0,Friday,No,2014-08-15T09:50:00.000,Service,"[-71.04049, 42.373806]",Point,Service,8,CD11,0,A7,Day,No,BORDER ST,Other,Unarmed,780332.2546,,2961578.942,2014
+139057,142019552.0,Friday,No,2014-08-15T10:30:00.000,Service,"[-71.06942, 42.362401]",Point,Service,8,IVPER,0,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,CAMBRIDGE ST,2957381.922,2014
+144909,142019672.0,Friday,No,2014-08-15T04:45:00.000,Service,"[-71.058219, 42.327261]",Point,Service,8,ARREST,0,C6,Last,No,BOSTON ST,Part three,Unarmed,775629.5451,,2944591.795,2014
+218862,142019802.0,Friday,No,2014-08-15T23:59:00.000,Service,"[-71.062413, 42.353534]",Point,Service,8,IVPER,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774446.4264,,2954160.1610000003,2014
+221015,142019642.0,Friday,No,2014-08-15T15:49:00.000,Service,"[-71.068148, 42.271307]",Point,Service,8,IVPER,0,C11,Day,No,ADAMS ST,Part three,Unarmed,773047.8452,,2924187.454,2014
+248212,142019799.0,Friday,No,2014-08-15T11:50:00.000,Service,"[-71.085813, 42.303132]",Point,Service,8,LARCEN,0,B2,Day,No,FRANKLIN PARK RD,Part three,Unarmed,768210.6151,,2935761.349,2014

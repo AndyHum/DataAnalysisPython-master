@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7709,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.072459, 42.325769]",Point,08xx,7,AB,181,B2,,No,GEORGE ST,Part Two,None,771782.0,,2940000.0,2015
+20408,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.086344, 42.289658]",Point,08xx,7,FIGHT,944,B3,,No,AMES WAY,Part Two,Other,768091.0,,2930000.0,2015
+31695,,Friday,No,2015-07-03T23:55:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,0,,,No,MASS,Part Two,Blunt Object,,,,2015
+62051,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.08678, 42.325452]",Point,08xx,7,ASLTIP,294,B2,,No,ALPINE ST,Part Two,None,767910.0,,2940000.0,2015
+70253,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.147625, 42.349962]",Point,08xx,7,AB,784,D14,,No,CAMBRIDGE ST,Part Two,Other,751419.0,,2950000.0,2015
+87280,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.085105, 42.28957]",Point,08xx,7,IVPER,944,B3,,No,AMES ST,Part Two,None,768426.0,,2930000.0,2015
+96098,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.074683, 42.300226]",Point,08xx,7,FIGHT,454,C11,,No,WASHINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),771227.0,,2930000.0,2015
+110420,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.072966, 42.304613]",Point,08xx,7,DVIP,462,C11,,No,GENEVA AVE,Part Two,None,771683.0,,2940000.0,2015
+120285,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.082077, 42.317766]",Point,08xx,7,AB,311,B2,,No,WARREN ST,Part Two,None,769195.0,,2940000.0,2015
+142996,,Friday,No,2015-07-03T09:54:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,30,A7,,No,SUMNER ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+145609,,Friday,No,2015-07-03T19:07:00.000,Simple Assault,"[0, 0]",Point,08xx,7,FIGHT,319,B2,,No,CHENEY ST,Part Two,Personal Weapon (hand  foot  etc.),,HARTWELL ST,,2015
+147919,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.128362, 42.283802]",Point,08xx,7,AB,560,E5,,No,POPLAR ST,Part Two,None,756731.0,,2930000.0,2015
+212810,,Friday,No,2015-07-03T23:47:00.000,Simple Assault,"[0, 0]",Point,08xx,7,FIGHT,618,D4,,No,HUNTINGTON AVE,Part Two,Personal Weapon (hand  foot  etc.),,OPERA PL,,2015
+217815,,Friday,No,2015-07-03T00:00:00.000,Simple Assault,"[-71.073831, 42.314268]",Point,08xx,7,AB,327,B2,,No,CUNNINGHAM ST,Part Two,None,771432.0,,2940000.0,2015
+259198,,Friday,No,2015-07-03T16:46:00.000,Simple Assault,"[0, 0]",Point,08xx,7,IVPER,645,E13,,No,GREEN ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015

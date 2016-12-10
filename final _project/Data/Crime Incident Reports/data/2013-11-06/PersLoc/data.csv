@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18427,130707233.0,Wednesday,No,2013-11-06T14:30:00.000,PersLoc,"[-71.10031, 42.272706]",Point,PersLoc,11,MSNCOM,474,B3,Day,No,NEWCASTLE ST,Other,Unarmed,764341.0835,,2924654.982,2013
+62105,130706662.0,Wednesday,No,2013-11-06T11:00:00.000,PersLoc,"[-71.049746, 42.294186]",Point,PersLoc,11,MISPER,369,C11,Day,No,WORRELL ST,Other,Unarmed,777984.5293,,2932550.6139999996,2013
+231179,130709797.0,Wednesday,No,2013-11-06T07:45:00.000,PersLoc,"[-71.072995, 42.304498]",Point,PersLoc,11,IVPER ,462,C11,Day,No,GENEVA AV,Other,Unarmed,771675.6285,,2936276.22,2013

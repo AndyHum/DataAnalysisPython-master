@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52402,140131056.0,Monday,No,2014-03-03T13:51:00.000,Service,"[-71.06255, 42.353091]",Point,Service,3,ARREST,112,A1,Day,No,HAYWARD PL,Part three,Unarmed,774410.3318,WASHINGTON ST,2953998.6969999997,2014
+102413,140131591.0,Monday,No,2014-03-03T17:45:00.000,Service,"[-71.05533, 42.339601]",Point,Service,3,ARREST,936,C6,First,No,B ST,Part three,Unarmed,776387.522,,2949092.787,2014
+136679,140131593.0,Monday,No,2014-03-03T00:55:00.000,Service,"[-71.057335, 42.312466]",Point,Service,3,AOD   ,254,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775896.7749,,2939201.52,2014
+197765,140130705.0,Monday,No,2014-03-03T10:44:00.000,Service,"[0, 0]",Point,Service,3,TSTOP ,0,C6,Day,No,ELLERY ST,Part three,Unarmed,,,,2014
+251357,140133134.0,Monday,No,2014-03-03T17:30:00.000,Service,"[-71.090956, 42.333723]",Point,Service,3,IVPER ,289,B2,First,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014

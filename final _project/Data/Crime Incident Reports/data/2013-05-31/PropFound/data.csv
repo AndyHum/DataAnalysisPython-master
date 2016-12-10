@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89592,130327631.0,Friday,No,2013-05-31T14:30:00.000,PropFound,"[-71.03993, 42.288591]",Point,PropFound,5,FDPROP,372,C11,Day,No,REDFIELD ST,Part three,Unarmed,780651.2805,WALNUT ST,2930526.04,2013
+141132,130327140.0,Friday,No,2013-05-31T11:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,5,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+260562,130328609.0,Friday,No,2013-05-31T20:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,0,D14,First,No,PRATT ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+251883,152024269.0,Wednesday,No,2015-03-25T21:00:00.000,Ballist,"[-71.06296, 42.316091]",Point,Ballist,3,SHOTS,0,C11,First,No,STOUGHTON ST,Part Two,Unarmed,774368.5965,STOUGHTON TR,2940514.683,2015
+266882,152024108.0,Wednesday,No,2015-03-25T14:32:00.000,Ballist,"[0, 0]",Point,Ballist,3,SHOTS,0,B2,Day,No,SEAVER ST,Part Two,Firearm,,,,2015

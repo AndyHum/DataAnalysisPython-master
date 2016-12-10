@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14552,152021880.0,Wednesday,No,2015-03-18T15:30:00.000,Service,"[-71.07189, 42.346396]",Point,Service,3,AOD,0,D4,Day,No,LAWRENCE ST,Part three,Unarmed,771897.9794,,2951546.106,2015
+55050,152021958.0,Wednesday,No,2015-03-18T21:05:00.000,Service,"[-71.148398, 42.270909]",Point,Service,3,ARREST,0,E5,First,No,MAPLEWOOD ST,Part three,Unarmed,751329.0261,,2923942.58,2015
+148513,152021719.0,Wednesday,No,2015-03-18T06:01:00.000,Service,"[-71.062245, 42.316316]",Point,Service,3,IVPER,0,C11,Last,No,SUMNER SQ,Part three,Other,774561.5528,,2940597.668,2015
+224257,152021794.0,Wednesday,No,2015-03-18T07:45:00.000,Service,"[-71.05592, 42.376646]",Point,Service,3,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015

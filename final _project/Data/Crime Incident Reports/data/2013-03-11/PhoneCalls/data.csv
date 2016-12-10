@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+130706,130145228.0,Monday,No,2013-03-11T17:29:00.000,PhoneCalls,"[-71.10479, 42.334141]",Point,PhoneCalls,3,VIORDR,603,B2,First,No,TREMONT ST,Part Three,Other,763024.8693,HUNTINGTON AV,2947037.227,2013
+143520,130183894.0,Monday,No,2013-03-11T21:38:00.000,PhoneCalls,"[-71.13227, 42.353751]",Point,PhoneCalls,3,HARPT ,802,D14,First,No,HARVARD AV,Part Two,Other,755563.9839,,2954150.267,2013
+237347,130156585.0,Monday,No,2013-03-11T00:00:00.000,PhoneCalls,"[-71.112465, 42.262181]",Point,PhoneCalls,3,HARPT ,493,E18,Last,No,ROSA ST,Part Three,Unarmed,761068.839,,2920804.35,2013

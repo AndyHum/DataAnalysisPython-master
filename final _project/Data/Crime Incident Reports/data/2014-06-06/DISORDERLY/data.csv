@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17828,140357309.0,Friday,No,2014-06-06T21:03:00.000,DISORDERLY,"[-71.093815, 42.268396]",Point,24xx,6,ARREST,0,B3,First,No,BLUE HILL AV,Part Two,Unarmed,766106.3913,,2923092.665,2014
+188326,140356088.0,Friday,No,2014-06-06T12:55:00.000,DISORDERLY,"[-71.063675, 42.352301]",Point,24xx,6,ARREST,111,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2014
+218455,140355479.0,Friday,No,2014-06-06T08:40:00.000,DISORDERLY,"[-71.072588, 42.384155]",Point,24xx,6,ARREST,59,A15,Day,No,MAIN ST,Part Two,Firearm,771640.2237,,2965305.2389999996,2014
+235559,140355138.0,Friday,No,2014-06-06T02:31:00.000,DISORDERLY,"[-71.060375, 42.352521]",Point,24xx,6,SSTOP ,116,A1,Last,No,ESSEX ST,Part Two,Unarmed,774999.3043,,2953794.002,2014

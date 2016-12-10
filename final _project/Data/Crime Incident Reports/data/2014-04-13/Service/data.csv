@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33481,140224601.0,Sunday,No,2014-04-13T18:48:00.000,Service,"[-71.08238, 42.285582]",Point,Service,4,SSTOP ,0,B3,First,No,BALLOU AV,Part three,Unarmed,769170.6683,,2929370.341,2014
+53495,140225596.0,Sunday,No,2014-04-13T18:30:00.000,Service,"[-71.077015, 42.326816]",Point,Service,4,IVPREM,167,B2,First,No,VINE ST,Part three,Unarmed,770547.9326,,2944403.889,2014
+58212,140224877.0,Sunday,No,2014-04-13T19:00:00.000,Service,"[-71.06293, 42.351166]",Point,Service,4,IVDRUG,72,A1,First,No,WASHINGTON ST,Part three,Other,774311.2131,,2953296.665,2014
+105665,140224876.0,Sunday,No,2014-04-13T19:00:00.000,Service,"[-71.06293, 42.351166]",Point,Service,4,CD11  ,72,A1,First,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2014
+179679,140225134.0,Sunday,No,2014-04-13T23:45:00.000,Service,"[-71.08408, 42.323561]",Point,Service,4,IVPER ,297,B2,First,No,ST RICHARD ST,Part three,Unarmed,768643.2572,WALNUT AV,2943208.315,2014
+188229,140223826.0,Sunday,No,2014-04-13T11:50:00.000,Service,"[-71.060208, 42.30637]",Point,Service,4,ABIP  ,347,C11,Day,No,LYON ST,Part three,Unarmed,775131.0737,,2936975.959,2014

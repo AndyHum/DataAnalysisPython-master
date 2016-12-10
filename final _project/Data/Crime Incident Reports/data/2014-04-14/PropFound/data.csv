@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+217260,140298605.0,Monday,No,2014-04-14T09:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,4,FDPROP,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+252220,140225796.0,Monday,No,2014-04-14T07:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,4,FDPROP,260,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+265622,140228549.0,Monday,No,2014-04-14T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,4,INVEST,130,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,,,,2014

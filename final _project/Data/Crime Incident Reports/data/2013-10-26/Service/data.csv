@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+173774,130682797.0,Saturday,No,2013-10-26T13:40:00.000,Service,"[-71.064905, 42.352371]",Point,Service,10,ARREST,119,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+207010,130682393.0,Saturday,No,2013-10-26T10:05:00.000,Service,"[-71.05945, 42.356321]",Point,Service,10,ARREST,103,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775242.1801,FRANKLIN ST,2955180.083,2013
+231617,130681770.0,Saturday,No,2013-10-26T00:35:00.000,Service,"[-71.078526, 42.322336]",Point,Service,10,ARREST,265,B2,Last,No,PERRIN ST,Part three,Unarmed,770147.4212,,2942769.0110000004,2013
+246837,130682482.0,Saturday,No,2013-10-26T10:56:00.000,Service,"[-71.09574, 42.268581]",Point,Service,10,ARREST,481,E18,Day,No,CUMMINS HY,Part three,Unarmed,765585.0485,,2923157.606,2013

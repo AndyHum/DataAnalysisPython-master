@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26785,142058915.0,Friday,No,2014-12-19T10:50:00.000,TRESPASS,"[-71.084747, 42.329375]",Point,TRESPASS,12,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2014
+59423,142058914.0,Friday,No,2014-12-19T10:20:00.000,TRESPASS,"[-71.084807, 42.328824]",Point,TRESPASS,12,IVPER,0,B2,Day,No,DUDLEY ST,Part Two,Other,768437.1156,S BAY AV,2945125.001,2014
+137167,142058866.0,Friday,No,2014-12-19T05:43:00.000,TRESPASS,"[-71.08326, 42.329736]",Point,TRESPASS,12,ARREST,0,B2,Last,No,WARREN ST,Part Two,Unarmed,768854.0114,,2945459.675,2014

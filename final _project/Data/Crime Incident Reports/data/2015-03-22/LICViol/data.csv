@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92002,152022876.0,Sunday,No,2015-03-22T00:35:00.000,LICViol,"[-71.083855, 42.337396]",Point,LICViol,3,CD35,0,D4,Last,No,TREMONT ST,Part three,Unarmed,768679.5046,,2948250.33,2015
+100839,152022894.0,Sunday,No,2015-03-22T02:40:00.000,LICViol,"[-71.07486, 42.346136]",Point,LICViol,3,CD35,0,D4,Last,No,COLUMBUS AV,Part three,Unarmed,771095.5781,,2951447.3389999997,2015
+266733,152022883.0,Sunday,No,2015-03-22T00:50:00.000,LICViol,"[0, 0]",Point,LICViol,3,FIGHT,0,D14,Last,No,BEACON ST,Part three,Unarmed,,,,2015

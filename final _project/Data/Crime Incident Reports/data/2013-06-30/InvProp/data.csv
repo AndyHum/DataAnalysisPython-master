@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86280,130400324.0,Sunday,No,2013-06-30T11:16:00.000,InvProp,"[-71.044195, 42.334201]",Point,InvProp,6,VIORDR,225,C6,Day,No,G ST,Part three,Unarmed,779408.4611,,2947140.8239999996,2013
+149245,130401452.0,Sunday,No,2013-06-30T21:01:00.000,InvProp,"[-71.15646, 42.284136]",Point,InvProp,6,ALARMC,735,E5,First,No,MCKENNA TR,Part three,Unarmed,749127.6572,,2928754.038,2013
+165866,130401119.0,Sunday,No,2013-06-30T18:30:00.000,InvProp,"[-71.08551, 42.307211]",Point,InvProp,6,VANRPT,319,B2,First,No,WAYNE ST,Part three,Other,768285.5034,,2937248.2260000003,2013
+199633,130400294.0,Sunday,No,2013-06-30T10:48:00.000,InvProp,"[-71.16712, 42.353696]",Point,InvProp,6,REQPF ,759,D14,Day,No,PERTHSHIRE RD,Part three,Other,746144.1822,,2954091.538,2013
+243619,130400005.0,Sunday,No,2013-06-30T06:14:00.000,InvProp,"[-71.072895, 42.312567]",Point,InvProp,6,IVPREM,327,B2,Last,No,MAGNOLIA ST,Part three,Firearm,771687.9113,,2939216.583,2013

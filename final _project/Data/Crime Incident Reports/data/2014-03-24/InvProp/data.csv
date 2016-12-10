@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47673,140177368.0,Monday,No,2014-03-24T23:56:00.000,InvProp,"[-71.0833, 42.326901]",Point,InvProp,3,ALARMC,282,B2,Last,No,WARREN ST,Part three,Unarmed,768848.2427,,2944426.499,2014
+75503,140182325.0,Monday,No,2014-03-24T10:00:00.000,InvProp,"[-71.09904, 42.316141]",Point,InvProp,3,IVPER ,303,E13,Day,No,ATHERTON ST,Part three,Unarmed,764610.3956,,2940484.9689999996,2014
+142591,140178921.0,Monday,No,2014-03-24T17:00:00.000,InvProp,"[-71.079641, 42.319008]",Point,InvProp,3,MISCRP,311,B2,First,No,WOODBINE ST,Part three,Unarmed,769851.8126,,2941554.837,2014
+145430,140182767.0,Monday,No,2014-03-24T12:00:00.000,InvProp,"[-71.06939, 42.339506]",Point,InvProp,3,INVEST,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+228658,140179569.0,Monday,No,2014-03-24T22:07:00.000,InvProp,"[-71.039875, 42.332366]",Point,InvProp,3,UNK   ,229,C6,First,No,I ST,Part three,Unarmed,780580.109,,2946478.3910000003,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101180,130287269.0,Tuesday,No,2013-05-14T07:00:00.000,PhoneCalls,"[-71.08898, 42.275381]",Point,PhoneCalls,5,HARPT ,421,B3,Last,No,HALBORN ST,Part Three,Unarmed,767402.7765,,2925644.3619999997,2013
+239147,130287193.0,Tuesday,No,2013-05-14T11:30:00.000,PhoneCalls,"[-71.064015, 42.348681]",Point,PhoneCalls,5,HARPT ,123,A1,Day,No,WASHBURN ST,Part Three,Unarmed,774022.5582,,2952389.583,2013
+248952,130293045.0,Tuesday,No,2013-05-14T16:15:00.000,PhoneCalls,"[-71.141786, 42.255903]",Point,PhoneCalls,5,HARPT ,537,E18,First,No,SILVIA CT,Part Three,Other,753141.5281,,2918481.856,2013

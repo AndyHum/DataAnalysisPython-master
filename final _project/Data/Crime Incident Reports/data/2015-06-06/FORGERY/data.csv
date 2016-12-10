@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2747,152047389.0,Saturday,No,2015-06-06T12:22:00.000,FORGERY,"[0, 0]",Point,10xx,6,LARCEN,0,C6,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,,,,2015
+23750,152047448.0,Saturday,No,2015-06-06T11:02:00.000,FORGERY,"[-71.098253, 42.315627]",Point,10xx,6,LARCEN,0,E13,Day,No,COLUMBUS AV,Part Two,Unarmed,764823.949,,2940298.416,2015
+65427,152046809.0,Saturday,No,2015-06-06T12:43:00.000,FORGERY,"[-71.064925, 42.317121]",Point,10xx,6,LARCEN,0,B2,Day,No,COLUMBIA RD,Part Two,Unarmed,773835.2324,,2940887.314,2015
+99398,152047470.0,Saturday,No,2015-06-06T12:16:00.000,FORGERY,"[-71.098253, 42.315627]",Point,10xx,6,LARCEN,0,E13,Day,No,COLUMBUS AV,Part Two,Unarmed,764823.949,,2940298.416,2015
+154178,152048314.0,Saturday,No,2015-06-06T10:25:00.000,FORGERY,"[-71.112411, 42.284053]",Point,10xx,6,MISC,0,E18,Day,No,AMERICAN LEGION HY,Part Two,Unarmed,761047.1773,,2928774.728,2015

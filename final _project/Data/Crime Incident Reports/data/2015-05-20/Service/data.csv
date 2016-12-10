@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1412,152041240.0,Wednesday,No,2015-05-20T00:59:00.000,Service,"[-71.05793, 42.358231]",Point,Service,5,ARREST,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,775649.3502,,2955878.2589999996,2015
+3807,152044391.0,Wednesday,No,2015-05-20T15:15:00.000,Service,"[0, 0]",Point,Service,5,LARCEN,0,D4,Day,No,REYNOLDS WY,Part three,Unarmed,,,,2015
+22571,152041300.0,Wednesday,No,2015-05-20T09:18:00.000,Service,"[-71.070835, 42.331511]",Point,Service,5,ARREST,0,C6,Day,No,MASSACHUSETTS AV,Part three,Other,772210.4703,,2946123.1760000004,2015
+62488,152041499.0,Wednesday,No,2015-05-20T18:21:00.000,Service,"[-71.060845, 42.355056]",Point,Service,5,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Other,774867.5053,,2954717.1489999997,2015
+67591,152041493.0,Wednesday,No,2015-05-20T18:38:00.000,Service,"[-71.053143, 42.311275]",Point,Service,5,ROBBER,0,C11,First,No,SAVIN HILL AV,Part three,Unarmed,777032.7595,,2938773.398,2015
+187035,152041518.0,Wednesday,No,2015-05-20T20:01:00.000,Service,"[-71.06163, 42.351416]",Point,Service,5,DISTRB,0,A1,First,No,BEACH ST,Part three,Unarmed,774662.1445,HARRISON ST,2953389.5730000003,2015
+208260,152041292.0,Wednesday,No,2015-05-20T09:30:00.000,Service,"[-71.059987, 42.361648]",Point,Service,5,ARREST,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2015
+215387,152041313.0,Wednesday,No,2015-05-20T09:30:00.000,Service,"[-71.062495, 42.356936]",Point,Service,5,ARREST,0,A1,Day,No,PARK ST,Part three,Unarmed,774418.0128,TREMONT ST,2955399.966,2015

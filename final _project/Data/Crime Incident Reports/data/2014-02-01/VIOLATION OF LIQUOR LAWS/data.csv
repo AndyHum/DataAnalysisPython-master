@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4724,140066470.0,Saturday,No,2014-02-01T19:15:00.000,VIOLATION OF LIQUOR LAWS,"[-71.130451, 42.35065]",Point,22xx,2,IVPER ,796,D14,First,No,COMMONWEALTH AV,Part Two,Unarmed,756060.5505,,2953022.06,2014
+85522,140064796.0,Saturday,No,2014-02-01T00:24:00.000,VIOLATION OF LIQUOR LAWS,"[-71.104145, 42.331248]",Point,22xx,2,PARTY ,604,B2,Last,No,OSWALD ST,Part Two,Unarmed,763203.9971,,2945983.53,2014
+234572,140064923.0,Saturday,No,2014-02-01T00:58:00.000,VIOLATION OF LIQUOR LAWS,"[-71.108685, 42.331121]",Point,22xx,2,PARTY ,0,B2,Last,No,SUNSET ST,Part Two,Unarmed,761976.7831,,2945931.829,2014

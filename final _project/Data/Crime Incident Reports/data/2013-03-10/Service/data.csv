@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67097,130142471.0,Sunday,No,2013-03-10T11:58:00.000,Service,"[-71.063873, 42.325436]",Point,Service,3,ARREST,186,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013
+150231,130142329.0,Sunday,No,2013-03-10T10:26:00.000,Service,"[-71.061255, 42.355781]",Point,Service,3,ARREST,102,A1,Day,No,WINTER ST,Part Three,Unarmed,774755.3274,,2954980.7830000003,2013
+228025,130142610.0,Sunday,No,2013-03-10T13:42:00.000,Service,"[-71.063691, 42.287957]",Point,Service,3,ARREST,393,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,774223.1395,LYDON WY,2930260.961,2013
+255900,130143177.0,Sunday,No,2013-03-10T19:12:00.000,Service,"[-71.07267, 42.326031]",Point,Service,3,ARREST,181,B2,First,No,MAGAZINE ST,Part Three,Unarmed,771724.3059,GEORGE ST,2944123.6769999997,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23079,140259419.0,Monday,No,2014-04-28T20:44:00.000,InvProp,"[-71.07837, 42.337556]",Point,InvProp,4,MSNCOM,273,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770162.1788,,2948315.92,2014
+73932,140259235.0,Monday,No,2014-04-28T20:30:00.000,InvProp,"[-71.040324, 42.319613]",Point,InvProp,4,BEIP  ,256,C6,First,No,OCEAN VIEW DR,Part three,Unarmed,780483.7168,,2941830.142,2014
+110793,140257198.0,Monday,No,2014-04-28T01:44:00.000,InvProp,"[-71.092503, 42.268483]",Point,InvProp,4,FIGHT ,426,B3,Last,No,RIVER ST,Part three,Unarmed,766461.2137,,2923125.834,2014
+112387,140257736.0,Monday,No,2014-04-28T09:49:00.000,InvProp,"[-71.085257, 42.297402]",Point,InvProp,4,ALARMM,444,B3,Day,No,WALES ST,Part three,Other,768371.2601,,2933673.9289999995,2014
+168410,140262619.0,Monday,No,2014-04-28T22:00:00.000,InvProp,"[-71.007327, 42.386832]",Point,InvProp,4,BERPTA,10,A7,First,No,SARATOGA ST,Part three,Unarmed,789266.0329,,2966375.8239999996,2014
+216452,140258447.0,Monday,No,2014-04-28T14:55:00.000,InvProp,"[-71.071081, 42.300115]",Point,InvProp,4,BEIP  ,344,C11,Day,No,WESTVILLE ST,Part three,Unarmed,772201.4742,,2934681.494,2014
+255473,140259366.0,Monday,No,2014-04-28T22:14:00.000,InvProp,"[-71.071598, 42.293363]",Point,InvProp,4,ALARMC,362,C11,First,No,MELVILLE AV,Part three,Unarmed,772073.8459,,2932220.186,2014

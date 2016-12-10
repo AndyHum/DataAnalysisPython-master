@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21010,130707777.0,Thursday,No,2013-10-31T12:00:00.000,InvPer,"[-71.07547, 42.353706]",Point,InvPer,10,MISC  ,131,D4,Day,No,MARLBOROUGH ST,Part three,Unarmed,770916.946,,2954205.171,2013
+28418,130693595.0,Thursday,No,2013-10-31T15:25:00.000,InvPer,"[-71.077685, 42.294491]",Point,InvPer,10,INVCHD,448,B3,Day,No,PARK ST,Part three,Unarmed,770425.0801,,2932623.245,2013
+29897,130692653.0,Thursday,No,2013-10-31T05:00:00.000,InvPer,"[-71.053313, 42.376979]",Point,InvPer,10,ABIP  ,38,A15,Last,No,9TH ST,Part three,Unarmed,776861.4528,,2962716.724,2013
+60193,130698862.0,Thursday,No,2013-10-31T16:30:00.000,InvPer,"[-71.166448, 42.276235]",Point,InvPer,10,IVPER ,726,E5,First,No,SPRING ST,Part three,Unarmed,746436.0139,,2925864.005,2013
+101961,130693749.0,Thursday,No,2013-10-31T05:00:00.000,InvPer,"[-71.170616, 42.346737]",Point,InvPer,10,IVPER ,753,D14,Last,No,KENRICK ST,Part three,Unarmed,745208.9167,,2951551.716,2013
+119392,130693566.0,Thursday,No,2013-10-31T16:49:00.000,InvPer,"[-71.055535, 42.283972]",Point,InvPer,10,HARPT ,391,C11,First,No,ADAMS ST,Part three,Unarmed,776437.5406,,2928820.4060000004,2013
+133245,130693379.0,Thursday,No,2013-10-31T13:42:00.000,InvPer,"[-71.03981, 42.376191]",Point,InvPer,10,THREAT,26,A7,Day,No,BORDER ST,Part three,Unarmed,780511.5193,,2962449.128,2013
+179349,130694350.0,Thursday,No,2013-10-31T20:33:00.000,InvPer,"[-71.091908, 42.320862]",Point,InvPer,10,BEIP  ,305,B2,First,No,ELMORE ST,Part three,Unarmed,766530.9472,,2942214.5519999997,2013
+215501,130693123.0,Thursday,No,2013-10-31T11:30:00.000,InvPer,"[-71.098625, 42.346181]",Point,InvPer,10,MEET  ,627,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2013

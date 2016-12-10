@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63284,130119937.0,Wednesday,No,2013-02-27T07:33:00.000,WEAPONS CHARGE,"[-71.044145, 42.332866]",Point,15xx,2,MISC  ,219,C6,Day,No,G ST,Part Two,Knife,779424.5802,THOMAS PK,2946654.4,2013
+231158,130119029.0,Wednesday,No,2013-02-27T01:12:00.000,WEAPONS CHARGE,"[-71.03974, 42.369131]",Point,15xx,2,SSTOP ,0,A7,Last,No,MAVERICK SQ,Part Two,Unarmed,780544.3158,,2959876.425,2013
+238974,130119989.0,Wednesday,No,2013-02-27T14:08:00.000,WEAPONS CHARGE,"[-71.040345, 42.381666]",Point,15xx,2,ARREST,26,A7,Day,No,BORDER ST,Part Two,Firearm,780356.2099,,2964443.5510000004,2013

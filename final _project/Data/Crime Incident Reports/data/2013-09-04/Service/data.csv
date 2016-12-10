@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33368,130562905.0,Wednesday,No,2013-09-04T18:58:00.000,Service,"[-71.12088, 42.351821]",Point,Service,9,INVEST,797,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2013
+63606,130560866.0,Wednesday,No,2013-09-04T14:29:00.000,Service,"[-71.04625, 42.354256]",Point,Service,9,CD5   ,207,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2013
+106199,130562064.0,Wednesday,No,2013-09-04T20:49:00.000,Service,"[-71.09098, 42.277831]",Point,Service,9,SSTOP ,427,B3,First,No,NORFOLK ST,Part three,Unarmed,766857.2303,FESSENDEN ST,2926534.5719999997,2013
+106796,130560128.0,Wednesday,No,2013-09-04T08:00:00.000,Service,"[-71.05776, 42.378251]",Point,Service,9,ARREST,900,A15,Day,No,MCNULTY CT,Part three,Unarmed,775657.5279999999,,2963174.1780000003,2013
+157064,130559948.0,Wednesday,No,2013-09-04T06:30:00.000,Service,"[-71.071784, 42.29807]",Point,Service,9,ARREST,357,C11,Last,No,CLAYBOURNE ST,Part three,Unarmed,772014.9224,,2933935.486,2013
+228692,130560067.0,Wednesday,No,2013-09-04T07:45:00.000,Service,"[-71.095131, 42.287031]",Point,Service,9,ARREST,466,B3,Day,No,HARVARD ST,Part three,Unarmed,765717.7789,,2929881.8010000004,2013
+245615,130561720.0,Wednesday,No,2013-09-04T18:20:00.000,Service,"[-71.03993, 42.368891]",Point,Service,9,IVPER ,29,A7,First,No,SUMNER ST,Part three,Unarmed,780493.4437,MAVERICK SQ,2959788.687,2013

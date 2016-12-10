@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29920,120625481.0,Thursday,No,2012-10-04T19:55:00.000,Argue,"[-71.08257, 42.348656]",Point,Argue,10,LARCIP,143,D4,First,No,BOYLSTON ST,Part Three,Unarmed,769006.8448,,2952355.38,2012
+43314,120624892.0,Thursday,No,2012-10-04T15:08:00.000,Argue,"[-71.074734, 42.300181]",Point,Argue,10,PKNIFE,454,C11,Day,No,WASHINGTON ST,Part Three,Other,771212.9109,,2934700.731,2012
+195287,120654717.0,Thursday,No,2012-10-04T09:00:00.000,Argue,"[-71.049746, 42.294186]",Point,Argue,10,IVPER ,369,C11,Day,No,WORRELL ST,Part Three,Unarmed,777984.5293,,2932550.6139999996,2012
+244742,120625221.0,Thursday,No,2012-10-04T15:45:00.000,Argue,"[-71.12599, 42.250546]",Point,Argue,10,IVPER ,522,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,757426.3647,,2916548.062,2012

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1766,152042613.0,Sunday,No,2015-05-24T12:00:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,5,ARREST,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015
+1767,152042634.0,Sunday,No,2015-05-24T16:30:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,5,IVPREM,0,A7,First,No,CENTRAL SQ,Part Two,Other,,,,2015
+46503,152042522.0,Sunday,No,2015-05-24T04:30:00.000,DRUG CHARGES,"[-71.061235, 42.310371]",Point,18xx,5,IVPER,0,C11,Last,No,HANCOCK ST,Part Two,Unarmed,774845.858,,2938432.619,2015
+140154,152042635.0,Sunday,No,2015-05-24T16:00:00.000,DRUG CHARGES,"[-71.03974, 42.369131]",Point,18xx,5,IVPREM,0,A7,First,No,MAVERICK SQ,Part Two,Other,780544.3158,SUMNER ST,2959876.425,2015
+205794,152042707.0,Sunday,No,2015-05-24T21:00:00.000,DRUG CHARGES,"[-71.071695, 42.345491]",Point,18xx,5,FIGHT,0,D4,First,No,GRAY ST,Part Two,Unarmed,771952.3501,,2951216.5710000005,2015

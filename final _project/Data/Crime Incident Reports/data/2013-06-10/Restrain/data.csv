@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71390,130352943.0,Monday,No,2013-06-10T14:45:00.000,Restrain,"[-71.134735, 42.354686]",Point,Restrain,6,VIORDR,803,D14,Day,No,CAMBRIDGE ST,Part Two,Unarmed,754896.2411,,2954488.137,2013
+182337,130352186.0,Monday,No,2013-06-10T09:13:00.000,Restrain,"[-71.072205, 42.296246]",Point,Restrain,6,VIORDR,358,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,771904.4870000001,,2933270.1810000003,2013
+263368,130355503.0,Monday,No,2013-06-10T12:00:00.000,Restrain,"[0, 0]",Point,Restrain,6,VIORDR,770,D14,Day,No,,Part Two,Unarmed,,,,2013

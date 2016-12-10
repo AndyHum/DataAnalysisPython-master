@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41404,130624070.0,Monday,No,2013-09-30T14:50:00.000,Argue,"[-71.07959, 42.339671]",Point,Argue,9,ABRPT ,156,D4,Day,No,W SPRINGFIELD ST,Part three,Unarmed,769828.5327,TREMONT ST,2949085.0360000003,2013
+96302,130624571.0,Monday,No,2013-09-30T21:55:00.000,Argue,"[-71.065445, 42.279506]",Point,Argue,9,FIGHT ,388,C11,First,No,PATTERSON ST,Part three,Unarmed,773764.4324,,2927179.1360000004,2013
+124993,130625366.0,Monday,No,2013-09-30T22:00:00.000,Argue,"[-71.10066, 42.345171]",Point,Argue,9,THREAT,627,D4,First,No,BROOKLINE AV,Part three,Unarmed,764122.7227,,2951061.9669999997,2013
+187252,130623392.0,Monday,No,2013-09-30T13:00:00.000,Argue,"[-71.055825, 42.295761]",Point,Argue,9,NIDV  ,367,C11,Day,No,VICTORY RD,Part three,Unarmed,776336.8898,,2933116.0919999997,2013

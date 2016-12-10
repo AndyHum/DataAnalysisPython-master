@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95809,142016495.0,Saturday,No,2014-08-02T18:03:00.000,TRESPASS,"[-71.13786, 42.356511]",Point,TRESPASS,8,MISC,0,D14,First,No,BRAINTREE ST,Part Two,Unarmed,754048.7497,,2955149.603,2014
+140634,142015582.0,Saturday,No,2014-08-02T16:55:00.000,TRESPASS,"[-71.093582, 42.330188]",Point,TRESPASS,8,IVPER,0,B2,First,No,ROXBURY ST,Part Two,Unarmed,766061.9973,,2945610.765,2014
+219187,142015620.0,Saturday,No,2014-08-02T19:03:00.000,TRESPASS,"[-71.08261, 42.337161]",Point,TRESPASS,8,IVPER,0,D4,First,No,DITMUS CT,Part Two,Unarmed,769016.5305,,2948166.337,2014

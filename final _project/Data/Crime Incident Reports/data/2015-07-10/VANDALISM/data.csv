@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21057,,Friday,No,2015-07-10T00:00:00.000,Vandalism,"[-71.114983, 42.253068]",Point,14xx,7,VAND,512,E18,,No,ALBION ST,Part Two,None,760402.0,,2920000.0,2015
+88742,,Friday,No,2015-07-10T00:00:00.000,Vandalism,"[-71.032931, 42.333167]",Point,14xx,7,IVPER,231,C6,,No,E SIXTH ST,Part Two,None,782456.0,,2950000.0,2015
+188476,,Friday,No,2015-07-10T00:00:00.000,Vandalism,"[-71.119389, 42.27775]",Point,14xx,7,ARREST,499,E18,,No,HYDE PARK AVE,Part Two,None,759169.0,,2930000.0,2015
+205304,,Friday,No,2015-07-10T00:00:00.000,Vandalism,"[-71.069558, 42.292906]",Point,14xx,7,VAND,362,C11,,No,LYNDHURST ST,Part Two,None,772627.0,,2930000.0,2015
+250080,,Friday,No,2015-07-10T07:00:00.000,Vandalism,"[0, 0]",Point,14xx,7,BE,49,A15,,No,ALFORD ST,Part Two,None,,MAFFA WAY,,2015
+250509,,Friday,No,2015-07-10T00:00:00.000,Vandalism,"[-71.092416, 42.281742]",Point,14xx,7,BE,466,B3,,No,BLUE HILL AVE,Part Two,None,766462.0,,2930000.0,2015
+253139,,Friday,No,2015-07-10T00:00:00.000,Vandalism,"[-71.061397, 42.290377]",Point,14xx,7,IVPER,365,C11,,No,LONSDALE ST,Part Two,None,774839.0,,2930000.0,2015

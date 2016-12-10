@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65056,140039541.0,Monday,No,2014-01-20T11:00:00.000,Service,"[-71.037035, 42.380526]",Point,Service,1,ARREST,24,A7,Day,No,WHITE ST,Part three,Unarmed,781252.7501,,2964032.9489999996,2014
+89308,140040215.0,Monday,No,2014-01-20T17:24:00.000,Service,"[-71.02958, 42.380691]",Point,Service,1,IVPER ,17,A7,First,No,LEXINGTON ST,Part three,Unarmed,783266.6211,,2964104.1,2014
+125009,140040519.0,Monday,No,2014-01-20T19:41:00.000,Service,"[-71.08319, 42.308431]",Point,Service,1,ARREST,320,B2,First,No,BLUE HILL AV,Part three,Unarmed,768910.8794,CHENEY ST,2937695.869,2014
+262616,140039470.0,Monday,No,2014-01-20T10:15:00.000,Service,"[0, 0]",Point,Service,1,TRAUMA,252,C11,Day,No,BOSTON HARBOR - C6,Part three,Other,,,,2014

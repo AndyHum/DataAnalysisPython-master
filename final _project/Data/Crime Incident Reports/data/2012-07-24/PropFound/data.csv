@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7279,120457699.0,Tuesday,No,2012-07-24T22:17:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,7,FDPROP,28,A7,First,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2012
+51915,120456672.0,Tuesday,No,2012-07-24T14:25:00.000,PropFound,"[-71.064935, 42.380086]",Point,PropFound,7,FDPROP,54,A15,Day,No,BUNKER HILL ST,Part Three,Unarmed,773715.4909,,2963832.921,2012
+54155,120810478.0,Tuesday,No,2012-07-24T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,7,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+81484,120455695.0,Tuesday,No,2012-07-24T06:30:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,7,LSTPRP,200,C6,Last,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2012
+100529,120457216.0,Tuesday,No,2012-07-24T18:20:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,7,FDPROP,72,A1,First,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+247580,120459203.0,Tuesday,No,2012-07-24T13:00:00.000,PropFound,"[-71.072665, 42.353186]",Point,PropFound,7,FDPROP,133,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,771676.0783,,2954019.46,2012
+260509,120456599.0,Tuesday,No,2012-07-24T13:57:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,0,A15,Day,No,TERRY RING WY,Part Three,Unarmed,,,,2012
+264817,120456244.0,Tuesday,No,2012-07-24T08:30:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,516,E18,Day,No,TRUMAN PY,Part Three,Unarmed,,,,2012

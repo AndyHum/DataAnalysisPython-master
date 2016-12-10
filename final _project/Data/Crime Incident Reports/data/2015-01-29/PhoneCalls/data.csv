@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43944,152009889.0,Thursday,No,2015-01-29T18:14:00.000,PhoneCalls,"[-71.135565, 42.357286]",Point,PhoneCalls,1,IVPER,0,D14,First,No,LINCOLN ST,Part three,Unarmed,754667.8495,,2955434.673,2015
+200345,152007893.0,Thursday,No,2015-01-29T22:00:00.000,PhoneCalls,"[-71.140916, 42.349989]",Point,PhoneCalls,1,IVPER,0,D14,First,No,CAMELOT CT,Part three,Unarmed,753232.5233,,2952769.203,2015
+206099,152009351.0,Thursday,No,2015-01-29T01:00:00.000,PhoneCalls,"[-71.06894, 42.288516]",Point,PhoneCalls,1,IVPER,0,C11,Last,No,WELLES AV,Part three,Unarmed,772802.0436,,2930457.7060000002,2015
+260826,152007740.0,Thursday,No,2015-01-29T15:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,1,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+264011,152007874.0,Thursday,No,2015-01-29T21:45:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,1,IVPER,0,B2,First,No,SHAWMUT AV,Part three,Unarmed,,,,2015

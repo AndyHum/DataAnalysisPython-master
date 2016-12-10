@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44777,142014161.0,Tuesday,No,2014-07-29T17:10:00.000,WEAPONS CHARGE,"[-71.091325, 42.284861]",Point,15xx,7,IVPER,0,B3,First,No,BLUE HILL AV,Part Two,Firearm,766751.5911,,2929095.955,2014
+159500,142014287.0,Tuesday,No,2014-07-29T21:36:00.000,WEAPONS CHARGE,"[-71.06761, 42.304043]",Point,15xx,7,FDWEAP,0,C11,First,No,SPEEDWELL ST,Part Two,Unarmed,773133.0281,,2936117.6139999996,2014
+160184,142014255.0,Tuesday,No,2014-07-29T19:46:00.000,WEAPONS CHARGE,"[-71.0714, 42.303361]",Point,15xx,7,ARREST,0,C11,First,No,GENEVA AV,Part Two,Firearm,772109.2449,BOWDOIN ST,2935864.087,2014

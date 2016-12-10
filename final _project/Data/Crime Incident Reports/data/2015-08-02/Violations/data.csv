@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47919,,Sunday,No,2015-08-02T00:00:00.000,Assembly or Gathering Violations,"[-71.065295, 42.307831]",Point,Gather,8,IVPREM,335,C11,,No,BOWDOIN ST,Part Three,None,773752.0,,2940000.0,2015
+112452,,Sunday,No,2015-08-02T00:00:00.000,Assembly or Gathering Violations,"[-71.05813, 42.313233]",Point,Gather,8,DISTRB,247,C11,,No,TREADWAY RD,Part Three,None,775680.0,,2940000.0,2015
+160940,,Sunday,No,2015-08-02T00:00:00.000,Violations,"[-71.068353, 42.328564]",Point,VAL,8,MVA,178,C6,,No,MASSACHUSETTS AVE,Part Two,None,772887.0,,2950000.0,2015
+173362,,Sunday,No,2015-08-02T18:17:00.000,Violations,"[0, 0]",Point,VAL,8,TS,26,A7,,No,MERIDIAN ST,Part Two,None,,PRINCETON ST,,2015
+186153,,Sunday,No,2015-08-02T23:42:00.000,Firearm Violations,"[0, 0]",Point,15xx,8,SHOTS,906,E13,,Yes,HEATH ST,Part Two,Firearm,,,,2015
+188902,,Sunday,No,2015-08-02T00:00:00.000,Violations,"[-71.059709, 42.297555]",Point,VAL,8,TS,355,C11,,No,DORCHESTER AVE,Part Two,None,775283.0,,2930000.0,2015
+234898,,Sunday,No,2015-08-02T21:19:00.000,Violations,"[0, 0]",Point,VAL,8,VAND,0,E13,,No,,Part Two,None,,MLK BLVD,,2015

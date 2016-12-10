@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+150809,152006580.0,Friday,No,2015-01-23T15:25:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISSIN,0,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2015
+176705,152006202.0,Friday,No,2015-01-23T09:15:00.000,PersLoc,"[-71.080568, 42.310368]",Point,PersLoc,1,IVPER,0,B2,Day,No,DEVON ST,Other,Unarmed,769616.463,,2938405.0069999998,2015
+199430,152006361.0,Friday,No,2015-01-23T17:29:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,1,IVPER,0,C6,First,No,N POINT DR,Other,Unarmed,780248.572,,2942010.5539999995,2015
+201332,152006377.0,Friday,No,2015-01-23T17:29:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,1,IVPER,0,C6,First,No,N POINT DR,Other,Unarmed,780248.572,,2942010.5539999995,2015
+259069,152006407.0,Friday,No,2015-01-23T06:30:00.000,PersLoc,"[-71.119115, 42.271606]",Point,PersLoc,1,IVPER,0,E18,Last,No,CLARE AV,Other,Unarmed,759253.4211,,2924230.8389999997,2015
+265920,152006205.0,Friday,No,2015-01-23T09:42:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,D4,Day,No,ST MARYS ST,Other,Other,,,,2015

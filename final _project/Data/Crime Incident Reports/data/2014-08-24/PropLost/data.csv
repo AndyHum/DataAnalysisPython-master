@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59363,142022699.0,Sunday,No,2014-08-24T15:00:00.000,PropLost,"[-71.0676, 42.301321]",Point,PropLost,8,LARCEN,0,C11,Day,No,TOPLIFF ST,Part three,Unarmed,773140.9592,,2935125.869,2014
+76846,142022675.0,Sunday,No,2014-08-24T15:30:00.000,PropLost,"[-71.14909, 42.356151]",Point,PropLost,8,PROP,0,D14,Day,No,N BEACON ST,Part three,Unarmed,751013.9776,MARKET ST,2955005.724,2014
+93476,142022658.0,Sunday,No,2014-08-24T21:00:00.000,PropLost,"[-71.07038, 42.311091]",Point,PropLost,8,PROP,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,772370.9785,,2938682.4080000003,2014
+104635,142022612.0,Sunday,No,2014-08-24T18:00:00.000,PropLost,"[-71.07464, 42.338131]",Point,PropLost,8,IVPER,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,771169.598,,2948530.4669999997,2014
+108400,142022836.0,Sunday,No,2014-08-24T19:00:00.000,PropLost,"[-71.007327, 42.386832]",Point,PropLost,8,PROP,0,A7,First,No,SARATOGA ST,Part three,Unarmed,789266.0329,,2966375.8239999996,2014
+188109,142024466.0,Sunday,No,2014-08-24T08:00:00.000,PropLost,"[-71.05731, 42.360281]",Point,PropLost,8,PROP,0,A1,Day,No,CONGRESS ST,Part three,Unarmed,775813.1021,NORTH ST,2956626.1780000003,2014
+217553,142023350.0,Sunday,No,2014-08-24T06:30:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,8,PROP,0,B2,Last,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2014
+261324,142022422.0,Sunday,No,2014-08-24T14:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2014

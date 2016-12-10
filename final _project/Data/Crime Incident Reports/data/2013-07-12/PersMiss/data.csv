@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145259,130430820.0,Friday,No,2013-07-12T18:00:00.000,PersMiss,"[-71.07713, 42.280711]",Point,PersMiss,7,MISPER,419,B3,First,No,FULLER ST,Other,Unarmed,770600.1297,,2927602.3639999996,2013
+213035,130430622.0,Friday,No,2013-07-12T09:00:00.000,PersMiss,"[-71.143891, 42.345952]",Point,PersMiss,7,MSNCOM,938,D14,Day,No,FIDELIS WY,Other,Unarmed,752434.4823,,2951294.5710000005,2013
+263958,130440339.0,Friday,No,2013-07-12T16:15:00.000,PersMiss,"[0, 0]",Point,PersMiss,7,MISPER,179,B2,First,No,HARRISON AV,Other,Unarmed,,,,2013

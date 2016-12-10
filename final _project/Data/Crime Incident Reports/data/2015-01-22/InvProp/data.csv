@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4855,152007714.0,Thursday,No,2015-01-22T13:14:00.000,InvProp,"[-71.079915, 42.293486]",Point,InvProp,1,VAND,0,B3,Day,No,BERNARD ST,Part three,Other,769823.5584,,2932254.0289999996,2015
+62308,152006129.0,Thursday,No,2015-01-22T21:15:00.000,InvProp,"[-71.060614, 42.310751]",Point,InvProp,1,BE,0,C11,First,No,DEWOLF ST,Part three,Other,775012.9555,,2938571.9110000003,2015
+111936,152006116.0,Thursday,No,2015-01-22T22:34:00.000,InvProp,"[-71.06703, 42.341336]",Point,InvProp,1,ALARM,0,D4,First,No,HARRISON AV,Part three,Unarmed,773221.1349,,2949708.7789999996,2015
+133077,152005862.0,Thursday,No,2015-01-22T09:38:00.000,InvProp,"[-71.051757, 42.297941]",Point,InvProp,1,VAND,0,C11,Day,No,MILL ST,Part three,Other,777433.1167,,2933916.229,2015
+173511,152006524.0,Thursday,No,2015-01-22T18:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,1,IVMV,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2015
+264149,152006015.0,Thursday,No,2015-01-22T17:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVMV,0,B3,First,No,AMES ST,Part three,Unarmed,,,,2015
+264688,152005920.0,Thursday,No,2015-01-22T13:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,ALARM,0,E13,Day,No,CENTRE ST,Part three,Unarmed,,,,2015
+267472,152005829.0,Thursday,No,2015-01-22T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

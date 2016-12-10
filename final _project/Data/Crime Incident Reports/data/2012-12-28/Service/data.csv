@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10372,120810358.0,Friday,No,2012-12-28T09:00:00.000,Service,"[-71.04625, 42.354256]",Point,Service,12,CD11  ,0,C6,Day,No,COURTHOUSE WY,Part Three,Unarmed,778813.9495,,2954446.2630000003,2012
+30660,120811722.0,Friday,No,2012-12-28T21:12:00.000,Service,"[0, 0]",Point,Service,12,CARST ,96,A1,First,No,PEDDOCKS ISLAND,Part Three,Other,,,,2012
+59840,120811279.0,Friday,No,2012-12-28T16:46:00.000,Service,"[-71.119022, 42.25556]",Point,Service,12,ARREST,0,E18,First,No,PIERCE ST,Part Three,Unarmed,759304.6913,,2918383.2810000004,2012
+72785,120811490.0,Friday,No,2012-12-28T17:00:00.000,Service,"[-71.12395, 42.256421]",Point,Service,12,IVPER ,498,E18,First,No,HYDE PARK AV,Part Three,Unarmed,757969.2324,,2918691.415,2012
+166853,120810237.0,Friday,No,2012-12-28T07:49:00.000,Service,"[-71.07347, 42.289151]",Point,Service,12,CD11  ,437,B3,Day,No,NORFOLK ST,Part Three,Unarmed,771575.1799,,2930682.9469999997,2012
+193876,120809960.0,Friday,No,2012-12-28T01:01:00.000,Service,"[-71.07463, 42.335321]",Point,Service,12,SHOT  ,171,D4,Last,No,HARRISON AV,Part Three,Firearm,771177.4087,,2947506.466,2012
+249853,120810385.0,Friday,No,2012-12-28T09:20:00.000,Service,"[-71.057788, 42.318557]",Point,Service,12,ARREST,236,C11,Day,No,E COTTAGE ST,Part Three,Unarmed,775762.743,,2941420.5689999997,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7175,120472386.0,Tuesday,No,2013-01-15T14:00:00.000,Arrest,"[-71.07463, 42.335321]",Point,Arrest,1,ARREST,172,D4,Day,No,HARRISON AV,Part Three,Unarmed,771177.4087,,2947506.466,2013
+46962,130032820.0,Tuesday,No,2013-01-15T13:53:00.000,Arrest,"[-71.08336, 42.329391]",Point,Arrest,1,SSTOP ,280,B2,Day,No,ZEIGLER ST,Part Three,Unarmed,768827.5862,WARREN ST,2945333.818,2013
+250968,130031388.0,Tuesday,No,2013-01-15T19:47:00.000,Arrest,"[-71.0804, 42.328511]",Point,Arrest,1,CD11  ,279,B2,First,No,DUDLEY ST,Part Three,Unarmed,769629.4938,,2945016.955,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28795,130159497.0,Sunday,No,2013-03-17T22:30:00.000,VIOLATION OF LIQUOR LAWS,"[-71.04206, 42.317766]",Point,22xx,3,MISC  ,913,C6,First,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2013
+185148,130158251.0,Sunday,No,2013-03-17T13:30:00.000,VIOLATION OF LIQUOR LAWS,"[-71.05241, 42.339801]",Point,22xx,3,IVPER ,936,C6,Day,No,BROADWAY,Part Two,Unarmed,777176.5815,C ST,2949169.7989999996,2013
+205734,130157579.0,Sunday,No,2013-03-17T05:23:00.000,VIOLATION OF LIQUOR LAWS,"[-71.104475, 42.345416]",Point,22xx,3,PARTY ,629,D4,Last,No,PARK DR,Part Two,Unarmed,763090.9859,,2951146.4439999997,2013

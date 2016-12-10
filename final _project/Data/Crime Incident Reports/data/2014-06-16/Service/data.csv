@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8512,140380490.0,Monday,No,2014-06-16T00:18:00.000,Service,"[-71.07595, 42.341641]",Point,Service,6,BRKDOG,153,D4,Last,No,PEMBROKE ST,Part three,Unarmed,770809.0631,TREMONT ST,2949807.811,2014
+45605,140382818.0,Monday,No,2014-06-16T20:19:00.000,Service,"[-71.0626, 42.352361]",Point,Service,6,ARREST,112,A1,First,No,WASHINGTON ST,Part three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014
+146770,140380598.0,Monday,No,2014-06-16T01:03:00.000,Service,"[-71.059085, 42.304686]",Point,Service,6,ARREST,348,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775438.1029,,2936363.917,2014

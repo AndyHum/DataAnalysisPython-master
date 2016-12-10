@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7612,,Thursday,No,2015-06-18T00:00:00.000,Investigate Person,"[-71.081157, 42.33087]",Point,InvPer,6,IVPER,904,B2,,No,HARRISON AVE,Part Three,None,769421.0,,2950000.0,2015
+38036,,Thursday,No,2015-06-18T00:00:00.000,Investigate Person,"[-71.079387, 42.284114]",Point,InvPer,6,ALARM,434,B3,,No,STANTON ST,Part Three,None,769983.0,,2930000.0,2015
+65103,,Thursday,No,2015-06-18T00:00:00.000,Investigate Person,"[-71.102535, 42.325475]",Point,InvPer,6,SHOTS,906,E13,,No,HORAN WAY,Part Three,None,763649.0,,2940000.0,2015
+83372,,Thursday,No,2015-06-18T00:00:00.000,Investigate Person,"[-71.052133, 42.354383]",Point,InvPer,6,IVPER,114,A1,,No,ATLANTIC AVE,Part Three,None,777224.0,,2950000.0,2015
+143800,,Thursday,No,2015-06-18T00:00:00.000,Investigate Person,"[-71.080519, 42.326968]",Point,InvPer,6,IVPER,281,B2,,No,GREENVILLE ST,Part Three,None,769600.0,,2940000.0,2015
+190727,,Thursday,No,2015-06-18T20:00:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,IVPER,465,B3,,No,WILCOCK ST,Part Three,None,,,,2015
+231702,,Thursday,No,2015-06-18T00:00:00.000,Investigate Person,"[-71.068455, 42.290372]",Point,InvPer,6,NIDV,397,C11,,No,LITHGOW ST,Part Three,None,772930.0,,2930000.0,2015
+257593,,Thursday,No,2015-06-18T00:00:00.000,Investigate Person,"[-71.079255, 42.347499]",Point,InvPer,6,IVPER,143,D4,,No,HUNTINGTON AVE,Part Three,None,769905.0,,2950000.0,2015

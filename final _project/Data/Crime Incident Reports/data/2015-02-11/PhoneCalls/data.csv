@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18502,152011251.0,Wednesday,No,2015-02-11T15:40:00.000,PhoneCalls,"[-71.03887, 42.371246]",Point,PhoneCalls,2,IVPER,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+20369,152011594.0,Wednesday,No,2015-02-11T23:49:00.000,PhoneCalls,"[-71.081195, 42.344021]",Point,PhoneCalls,2,MISC,0,D4,Last,No,DURHAM ST,Part three,Unarmed,769386.8266,,2950668.122,2015
+37476,152011439.0,Wednesday,No,2015-02-11T12:00:00.000,PhoneCalls,"[-71.076925, 42.296581]",Point,PhoneCalls,2,IVPER,0,B3,Day,No,SPENCER ST,Part three,Unarmed,770626.9209,,2933385.8910000003,2015

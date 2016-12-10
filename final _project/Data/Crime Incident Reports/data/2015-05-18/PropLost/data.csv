@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1426,152040875.0,Monday,No,2015-05-18T19:15:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+1457,152040735.0,Monday,No,2015-05-18T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,D14,Day,No,BEACON ST,Part three,Unarmed,,,,2015
+1474,152040787.0,Monday,No,2015-05-18T15:45:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,D14,Day,No,BROOK ST,Part three,Unarmed,,,,2015
+2066,152044147.0,Monday,No,2015-05-18T19:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,E13,First,No,COLUMBUS AV,Part three,Unarmed,,MALCOLM X BL,,2015
+38010,152040949.0,Monday,No,2015-05-18T14:00:00.000,PropLost,"[-71.160445, 42.339921]",Point,PropLost,5,LARCEN,0,D14,Day,No,COMMONWEALTH AV,Part three,Other,747968.4066,,2949078.7589999996,2015
+42279,152040716.0,Monday,No,2015-05-18T10:00:00.000,PropLost,"[-71.120745, 42.351621]",Point,PropLost,5,PROP,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758682.6148,,2953387.693,2015
+145283,152042261.0,Monday,No,2015-05-18T12:00:00.000,PropLost,"[-71.074855, 42.350756]",Point,PropLost,5,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2015
+166088,152040683.0,Monday,No,2015-05-18T11:20:00.000,PropLost,"[-71.059415, 42.359251]",Point,PropLost,5,PROP,0,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2015
+171585,152040711.0,Monday,No,2015-05-18T12:40:00.000,PropLost,"[-71.112792, 42.301037]",Point,PropLost,5,IVPER,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,760915.9971,,2934963.627,2015
+202074,152040829.0,Monday,No,2015-05-18T14:30:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,5,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2015
+224913,152049129.0,Monday,No,2015-05-18T12:00:00.000,PropLost,"[-71.101595, 42.333071]",Point,PropLost,5,PROP,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763890.5575,,2946651.3189999997,2015

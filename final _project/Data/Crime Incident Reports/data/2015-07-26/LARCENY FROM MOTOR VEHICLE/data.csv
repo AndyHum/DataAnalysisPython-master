@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27910,,Sunday,No,2015-07-26T00:00:00.000,Larceny From Motor Vehicle,"[-71.087118, 42.302381]",Point,06MV,7,,566,B2,,No,FRANKLIN PARK RD,Part One,None,767859.0,,2940000.0,2015
+69946,,Sunday,No,2015-07-26T00:00:00.000,Larceny From Motor Vehicle,"[-71.087118, 42.302381]",Point,06MV,7,BE,566,B2,,No,FRANKLIN PARK RD,Part One,None,767859.0,,2940000.0,2015
+83866,,Sunday,No,2015-07-26T00:00:00.000,Larceny From Motor Vehicle,"[-71.073941, 42.320182]",Point,06MV,7,BE,261,B2,,No,BROOK AVE,Part One,None,771391.0,,2940000.0,2015
+110184,,Sunday,No,2015-07-26T00:00:00.000,Larceny From Motor Vehicle,"[-71.078294, 42.275425]",Point,06MV,7,VAND,411,B3,,No,MARYKNOLL ST,Part One,None,770295.0,,2930000.0,2015
+173768,,Sunday,No,2015-07-26T00:00:00.000,Larceny From Motor Vehicle,"[-71.08348, 42.335517]",Point,06MV,7,BE,285,D4,,No,GREENWICH ST,Part One,None,768784.0,,2950000.0,2015
+176621,,Sunday,No,2015-07-26T00:00:00.000,Larceny From Motor Vehicle,"[-71.091156, 42.327829]",Point,06MV,7,BE,293,B2,,No,MILLMONT ST,Part One,None,766722.0,,2940000.0,2015
+194890,,Sunday,No,2015-07-26T00:00:00.000,Larceny From Motor Vehicle,"[-71.001866, 42.384902]",Point,06MV,7,,5,A7,,No,SARATOGA ST,Part One,None,790745.0,,2970000.0,2015
+255488,,Sunday,No,2015-07-26T19:30:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,7,BE,639,E13,,No,BEAUFORT RD,Part One,None,,CENTRE ST,,2015

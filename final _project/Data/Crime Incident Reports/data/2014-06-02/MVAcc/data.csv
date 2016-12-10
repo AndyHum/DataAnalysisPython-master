@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26987,140344523.0,Monday,No,2014-06-02T00:05:00.000,MVAcc,"[-71.068505, 42.318486]",Point,MVAcc,6,MVA   ,258,B2,Last,No,DUDLEY ST,Other,Other,772864.4942,,2941379.8239999996,2014
+80317,140345956.0,Monday,No,2014-06-02T14:40:00.000,MVAcc,"[-71.02265, 42.383901]",Point,MVAcc,6,MVAINJ,16,A7,Day,No,CHELSEA ST,Other,Other,785132.4297,CURTIS ST,2965284.29,2014
+89765,140346193.0,Monday,No,2014-06-02T16:35:00.000,MVAcc,"[-71.061123, 42.296931]",Point,MVAcc,6,MVPED1,355,C11,First,No,DORCHESTER AV,Other,Unarmed,774901.1102,,2933534.9710000004,2014
+187999,140346605.0,Monday,No,2014-06-02T19:10:00.000,MVAcc,"[-71.147415, 42.337756]",Point,MVAcc,6,MVANO ,790,D14,First,No,STRATHMORE RD,Other,Unarmed,751494.4195,,2948304.083,2014
+252861,140345257.0,Monday,No,2014-06-02T10:13:00.000,MVAcc,"[-71.123975, 42.277931]",Point,MVAcc,6,MVAINJ,555,E5,Day,No,POPLAR ST,Other,Unarmed,757927.9083,,2926529.923,2014

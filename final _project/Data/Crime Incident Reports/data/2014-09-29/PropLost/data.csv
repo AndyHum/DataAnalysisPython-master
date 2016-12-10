@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40630,142034911.0,Monday,No,2014-09-29T23:59:00.000,PropLost,"[-71.041445, 42.348751]",Point,PropLost,9,PROP,0,C6,Last,No,SEAPORT LN,Part three,Unarmed,780123.5001,,2952447.085,2014
+159540,142034311.0,Monday,No,2014-09-29T17:29:00.000,PropLost,"[-71.090893, 42.321142]",Point,PropLost,9,PROP,0,B2,First,No,MARTIN LUTHER RD,Part three,Unarmed,766804.8797,,2942317.77,2014
+164068,142034539.0,Monday,No,2014-09-29T17:00:00.000,PropLost,"[-71.08357, 42.350261]",Point,PropLost,9,PROP,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,768733.6695,,2952938.954,2014
+186827,142034333.0,Monday,No,2014-09-29T13:45:00.000,PropLost,"[-71.061123, 42.296931]",Point,PropLost,9,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774901.1102,,2933534.9710000004,2014

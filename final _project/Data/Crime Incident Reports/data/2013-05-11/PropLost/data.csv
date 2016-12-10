@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21932,130280109.0,Saturday,No,2013-05-11T00:00:00.000,PropLost,"[-71.031205, 42.332161]",Point,PropLost,5,LSTPRP,231,C6,Last,No,N ST,Part Three,Unarmed,782924.7792,,2946416.4510000004,2013
+32848,130280492.0,Saturday,No,2013-05-11T13:32:00.000,PropLost,"[-71.098455, 42.321151]",Point,PropLost,5,LARCIP,303,E13,Day,No,COLUMBUS AV,Part Three,Unarmed,764760.017,,2942311.442,2013
+48431,130304379.0,Saturday,No,2013-05-11T20:00:00.000,PropLost,"[-71.0721, 42.349281]",Point,PropLost,5,LSTPRP,164,D4,First,No,BERKELEY ST,Part three,Unarmed,771835.9379,,2952597.167,2013
+135230,130283371.0,Saturday,No,2013-05-11T22:00:00.000,PropLost,"[-71.09622, 42.280691]",Point,PropLost,5,LSTPRP,468,B3,First,No,HAZELTON ST,Part Three,Unarmed,765434.0731,,2927570.023,2013
+139816,130290420.0,Saturday,No,2013-05-11T07:30:00.000,PropLost,"[-71.135661, 42.289355]",Point,PropLost,5,LSTPRP,674,E5,Day,No,FARQUHAR ST,Part Three,Unarmed,754747.5721,,2930679.055,2013
+195386,130282328.0,Saturday,No,2013-05-11T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,MISC  ,148,C6,First,No,PARK ST,Part Three,Other,,,,2013
+214512,130282562.0,Saturday,No,2013-05-11T00:00:00.000,PropLost,"[-71.06521, 42.349691]",Point,PropLost,5,LSTPRP,151,A1,Last,No,TREMONT ST,Part Three,Unarmed,773697.6517,,2952755.997,2013
+238214,130280644.0,Saturday,No,2013-05-11T22:30:00.000,PropLost,"[-71.061515, 42.365357]",Point,PropLost,5,LARCRT,76,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774666.9647,,2958469.934,2013

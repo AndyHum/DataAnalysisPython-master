@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12228,140089081.0,Tuesday,No,2014-02-11T15:00:00.000,PropFound,"[-71.06285, 42.361271]",Point,PropFound,2,FDPROP,68,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,774313.9643,NEW CHARDON ST,2956979.231,2014
+103542,140087025.0,Tuesday,No,2014-02-11T10:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,2,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+153199,140087012.0,Tuesday,No,2014-02-11T10:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,2,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014
+228833,140087656.0,Tuesday,No,2014-02-11T15:45:00.000,PropFound,"[-71.07773, 42.348001]",Point,PropFound,2,FDPROP,130,D4,Day,No,COPLEY PLACE,Part three,Unarmed,770316.3684,,2952123.127,2014

@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110149,152005112.0,Thursday,No,2015-01-08T08:00:00.000,PersMiss,"[-71.0979, 42.284119]",Point,PersMiss,1,MISSIN,0,B3,Day,No,HARVARD ST,Other,Unarmed,764973.6117,,2928817.0319999997,2015
+261004,152002195.0,Thursday,No,2015-01-08T19:55:00.000,PersMiss,"[0, 0]",Point,PersMiss,1,MISSIN,0,D4,First,No,E CONCORD ST,Other,Unarmed,,,,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54123,130645422.0,Wednesday,No,2013-10-09T18:30:00.000,Service,"[-71.087188, 42.320054]",Point,Service,10,ARREST,308,B2,First,No,BOWER ST,Part three,Unarmed,767808.8692,,2941926.166,2013
+164472,130159995.0,Wednesday,No,2013-10-09T11:30:00.000,Service,"[-71.060345, 42.302616]",Point,Service,10,CD19  ,0,C11,Day,No,ADAMS ST,Part three,Unarmed,775101.1541,ROBINSON ST,2935607.8189999997,2013
+173802,130644348.0,Wednesday,No,2013-10-09T10:13:00.000,Service,"[-71.059987, 42.361648]",Point,Service,10,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+248159,130644585.0,Wednesday,No,2013-10-09T12:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,10,IVPER ,111,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+256426,130647933.0,Wednesday,No,2013-10-09T00:00:00.000,Service,"[-71.059295, 42.356476]",Point,Service,10,MISPER,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,775283.7829999999,,2955236.785,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24261,142034349.0,Monday,No,2014-09-29T19:20:00.000,DISORDERLY,"[-71.095995, 42.347161]",Point,24xx,9,IVPER,0,D4,First,No,LANSDOWNE ST,Part Two,Unarmed,765380.3957,,2951793.104,2014
+168001,142034106.0,Monday,No,2014-09-29T00:44:00.000,DISORDERLY,"[-71.040034, 42.317592]",Point,24xx,9,IVPER,0,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780565.8978,,2941094.309,2014
+237984,142034401.0,Monday,No,2014-09-29T00:47:00.000,DISORDERLY,"[-71.03865, 42.380136]",Point,24xx,9,IVPREM,0,A7,Last,No,MARION ST,Part Two,Unarmed,780817.1758,,2963888.46,2014

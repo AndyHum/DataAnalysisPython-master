@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49657,,Saturday,No,2015-06-27T00:00:00.000,Investigate Property,"[-71.081835, 42.271324]",Point,InvProp,6,SHOTS,422,B3,,No,RIVER ST,Part Three,None,769344.0,,2920000.0,2015
+71434,,Saturday,No,2015-06-27T23:11:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,SHOTS,601,B2,,No,PARKER ST,Part Three,None,,TREMONT ST,,2015
+89311,,Saturday,No,2015-06-27T00:00:00.000,Investigate Property,"[-71.001866, 42.384902]",Point,InvProp,6,REQP,5,A7,,No,SARATOGA ST,Part Three,None,790745.0,,2970000.0,2015
+198582,,Saturday,No,2015-06-27T00:00:00.000,Investigate Property,"[-71.116365, 42.278107]",Point,InvProp,6,SHOTS,499,E18,,No,AMERICAN LEGION HWY,Part Three,None,759987.0,,2930000.0,2015
+215120,,Saturday,No,2015-06-27T17:14:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,IVPREM,336,C11,,No,NORTON ST,Part Three,None,,,,2015

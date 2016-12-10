@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44754,,Tuesday,No,2015-07-21T00:00:00.000,Counterfeiting,"[-71.077551, 42.336892]",Point,10xx,7,,273,D4,,No,MASSACHUSETTS AVE,Part Two,None,770385.0,,2950000.0,2015
+125709,,Tuesday,No,2015-07-21T00:00:00.000,Counterfeiting,"[-71.048313, 42.283494]",Point,10xx,7,,384,C11,,No,GALLIVAN BLVD,Part Two,None,778393.0,,2930000.0,2015
+134656,,Tuesday,No,2015-07-21T00:00:00.000,Counterfeiting,"[-71.058384, 42.351318]",Point,10xx,7,IVPER,115,A1,,No,LINCOLN ST,Part Two,None,775540.0,,2950000.0,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52983,130104177.0,Friday,No,2013-02-15T15:00:00.000,PersLoc,"[-71.060208, 42.30637]",Point,PersLoc,2,MISPER,347,C11,Day,No,LYON ST,Part Three,Unarmed,775131.0737,,2936975.959,2013
+53611,130097458.0,Friday,No,2013-02-15T06:30:00.000,PersLoc,"[-71.074107, 42.284279]",Point,PersLoc,2,MSNCOM,464,B3,Last,No,ARMANDINE ST,Part Three,Unarmed,771411.6405,,2928906.461,2013
+95936,130096876.0,Friday,No,2013-02-15T14:45:00.000,PersLoc,"[-71.159905, 42.263118]",Point,PersLoc,2,MISPER,713,E5,Day,No,OAK RD,Part Three,Unarmed,748225.8198,,2921090.8439999996,2013
+139179,130098213.0,Friday,No,2013-02-15T11:30:00.000,PersLoc,"[-71.080568, 42.310368]",Point,PersLoc,2,MISPER,321,B2,Day,No,DEVON ST,Part Three,Unarmed,769616.463,,2938405.0069999998,2013
+186857,130097211.0,Friday,No,2013-02-15T13:00:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,2,MISPER,281,B2,Day,No,GREENVILLE ST,Part Three,Unarmed,769578.6737,,2944551.923,2013
+224319,130097385.0,Friday,No,2013-02-15T19:20:00.000,PersLoc,"[-71.09713, 42.334301]",Point,PersLoc,2,MISPER,901,B2,First,No,Huban Ct,Part Three,Unarmed,765095.7112,,2947105.224,2013
+262447,130097363.0,Friday,No,2013-02-15T21:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,MSNCOM,907,A7,First,No,CUNARD WAY,Part Three,Unarmed,,,,2013

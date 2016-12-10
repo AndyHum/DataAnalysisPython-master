@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55603,130529346.0,Thursday,No,2013-08-22T07:15:00.000,Arrest,"[-71.064905, 42.352371]",Point,Arrest,8,ARREST,119,A1,Last,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+63512,130529398.0,Thursday,No,2013-08-22T07:44:00.000,Arrest,"[-71.09307, 42.284131]",Point,Arrest,8,ARREST,466,B3,Day,No,DEERING RD,Part three,Unarmed,766280.6819,,2928827.6780000003,2013
+185881,130529695.0,Thursday,No,2013-08-22T10:18:00.000,Arrest,"[-71.145297, 42.349864]",Point,Arrest,8,ARREST,784,D14,Day,No,WARREN ST,Part three,Unarmed,752048.4758,,2952718.7569999998,2013

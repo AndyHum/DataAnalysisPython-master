@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58593,140118815.0,Tuesday,No,2014-02-25T21:54:00.000,PropFound,"[-71.13241, 42.353026]",Point,PropFound,2,FDPROP,802,D14,First,No,BRIGHTON AV,Part three,Unarmed,755527.2809,,2953885.8989999997,2014
+165696,140118451.0,Tuesday,No,2014-02-25T18:27:00.000,PropFound,"[-71.06522, 42.313561]",Point,PropFound,2,FDPROP,332,C11,First,No,HANCOCK ST,Part three,Unarmed,773762.0614,GLENDALE ST,2939589.586,2014
+222664,140118883.0,Tuesday,No,2014-02-25T22:30:00.000,PropFound,"[-71.059406, 42.304177]",Point,PropFound,2,FDPROP,349,C11,First,No,ELLET ST,Part three,Unarmed,775352.2202,,2936177.758,2014

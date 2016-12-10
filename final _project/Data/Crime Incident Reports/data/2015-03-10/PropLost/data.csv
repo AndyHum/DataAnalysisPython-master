@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45937,152019590.0,Tuesday,No,2015-03-10T22:00:00.000,PropLost,"[-71.083145, 42.349411]",Point,PropLost,3,PROP,0,D4,First,No,NEWBURY ST,Part three,Unarmed,768850.0656,,2952629.758,2015
+51238,152020188.0,Tuesday,No,2015-03-10T16:00:00.000,PropLost,"[-71.043308, 42.346892]",Point,PropLost,3,PROP,0,C6,First,No,SUMMER ST,Part three,Unarmed,779623.2724,,2951766.909,2015
+84989,152019367.0,Tuesday,No,2015-03-10T16:28:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,3,LARCEN,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774867.5053,,2954717.1489999997,2015
+104269,152019291.0,Tuesday,No,2015-03-10T14:00:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,3,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+106363,152025019.0,Tuesday,No,2015-03-10T15:00:00.000,PropLost,"[-71.113535, 42.299991]",Point,PropLost,3,PROP,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,760716.7718,HYDE PARK AV,2934581.547,2015
+141850,152022063.0,Tuesday,No,2015-03-10T12:00:00.000,PropLost,"[-71.09727, 42.334751]",Point,PropLost,3,PROP,0,B2,Day,No,MCGREEVEY WY,Part three,Unarmed,765057.0843,,2947269.0330000003,2015
+260485,152019542.0,Tuesday,No,2015-03-10T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,B2,First,No,COLUMBIA ST,Part three,Unarmed,,,,2015

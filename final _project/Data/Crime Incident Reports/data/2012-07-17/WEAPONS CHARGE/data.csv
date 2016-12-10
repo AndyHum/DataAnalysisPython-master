@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8216,120440040.0,Tuesday,No,2012-07-17T11:04:00.000,WEAPONS CHARGE,"[-71.07989, 42.334171]",Point,15xx,7,ARREST,272,D4,Day,No,WASHINGTON ST,Part Two,Unarmed,769757.298,THORNDIKE ST,2947080.337,2012
+188223,120441090.0,Tuesday,No,2012-07-17T18:53:00.000,WEAPONS CHARGE,"[-71.080301, 42.292654]",Point,15xx,7,ARREST,439,B3,First,No,TALBOT AV,Part Two,Unarmed,769720.5959999999,,2931950.291,2012
+221784,120441302.0,Tuesday,No,2012-07-17T20:00:00.000,WEAPONS CHARGE,"[-71.08758, 42.343591]",Point,15xx,7,ARREST,619,D4,First,No,EDGERLY RD,Part Two,Other,767661.4725,WESTLAND AV,2950503.0110000004,2012

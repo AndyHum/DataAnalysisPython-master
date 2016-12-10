@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77593,142003431.0,Friday,No,2014-06-27T02:20:00.000,PersLoc,"[-71.145244, 42.343057]",Point,PersLoc,6,MISSIN,0,D14,Last,No,RANSOM RD,Other,Unarmed,752073.0985,,2950238.236,2014
+221653,142003606.0,Friday,No,2014-06-27T19:00:00.000,PersLoc,"[-71.064905, 42.352371]",Point,PersLoc,6,IVPER,0,A1,First,No,BOYLSTON ST,Other,Unarmed,773775.1158,,2953733.06,2014
+229983,142004800.0,Friday,No,2014-06-27T12:00:00.000,PersLoc,"[-71.130821, 42.254372]",Point,PersLoc,6,MISSIN,0,E18,Day,No,CHILD ST,Other,Other,756112.3975,,2917936.392,2014
+257887,142003641.0,Friday,No,2014-06-27T11:50:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,6,MISSIN,0,B2,Day,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014

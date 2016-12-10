@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1092,,Saturday,No,2015-06-27T19:58:00.000,Violations,"[0, 0]",Point,VAL,6,ARREST,438,B3,,No,NEW ENGLAND AVE,Part Two,None,,NORWELL ST,,2015
+7617,,Saturday,No,2015-06-27T17:52:00.000,Restraining Order Violations,"[0, 0]",Point,Restrain,6,VIORDR,911,B2,,No,ANNUNCIATION RD,Part Two,None,,,,2015
+15637,,Saturday,No,2015-06-27T00:00:00.000,Violations,"[-71.060091, 42.302039]",Point,VAL,6,TS,352,C11,,No,ADAMS ST,Part Two,None,775171.0,,2940000.0,2015
+26174,,Saturday,No,2015-06-27T11:05:00.000,Firearm Violations,"[0, 0]",Point,15xx,6,IVMV,418,B3,,No,FULLER ST,Part Two,Other,,MILTON AVE,,2015
+128486,,Saturday,No,2015-06-27T22:01:00.000,Violations,"[0, 0]",Point,VAL,6,REQP,180,B2,,No,GEORGE ST,Part Two,None,,HAMPDEN ST,,2015
+138195,,Saturday,No,2015-06-27T13:17:00.000,Violations,"[0, 0]",Point,VAL,6,MVA,463,B3,,No,HARVARD ST,Part Two,None,,LORNE ST,,2015
+159252,,Saturday,No,2015-06-27T02:00:00.000,Violations,"[0, 0]",Point,VAL,6,TS,619,D4,,No,HUNTINGTON AVE,Part Two,None,, MASSACHUSETTS AVE ,,2015
+163131,,Saturday,No,2015-06-27T00:00:00.000,Violations,"[-71.038931, 42.374686]",Point,VAL,6,TS,26,A7,,No,BORDER ST,Part Two,None,780752.0,CENTRAL SQ,2960000.0,2015
+187357,,Saturday,No,2015-06-27T00:00:00.000,Assembly or Gathering Violations,"[-71.11894, 42.293967]",Point,Gather,6,DISTRB,941,E5,,No,BROOKWAY RD,Part Three,None,759264.0,,2930000.0,2015
+197206,,Saturday,No,2015-06-27T00:00:00.000,Violations,"[-71.087836, 42.315211]",Point,VAL,6,MVA,436,B3,,No,TORREY ST,Part Two,None,767642.0,,2940000.0,2015

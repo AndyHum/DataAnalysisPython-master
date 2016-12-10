@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27933,140051142.0,Friday,No,2014-01-24T07:30:00.000,Service,"[-71.148575, 42.287141]",Point,Service,1,IVDRUG,691,E5,Day,No,CENTRE ST,Part three,Other,751256.7891,,2929857.7989999996,2014
+123155,140049048.0,Friday,No,2014-01-24T18:30:00.000,Service,"[-71.094096, 42.324135]",Point,Service,1,IVPER ,257,B2,First,No,BEECH GLEN ST,Other,Unarmed,765933.6088,,2943404.163,2014
+123903,140047838.0,Friday,No,2014-01-24T10:35:00.000,Service,"[-71.063675, 42.352301]",Point,Service,1,INVEST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

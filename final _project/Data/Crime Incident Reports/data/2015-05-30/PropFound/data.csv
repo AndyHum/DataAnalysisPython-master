@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3799,152044696.0,Saturday,No,2015-05-30T13:50:00.000,PropFound,"[0, 0]",Point,PropFound,5,IVPREM,0,C6,Day,No,W BROADWAY,Part three,Unarmed,,,,2015
+95267,152044816.0,Saturday,No,2015-05-30T23:00:00.000,PropFound,"[-71.116751, 42.320573]",Point,PropFound,5,PROP,0,E13,First,No,JAMAICAWAY,Part three,Unarmed,759812.8323,PERKINS ST,2942077.874,2015
+100143,152044725.0,Saturday,No,2015-05-30T16:30:00.000,PropFound,"[-71.15981, 42.348876]",Point,PropFound,5,IVPREM,0,D14,First,No,WASHINGTON ST,Part three,Unarmed,748127.0411,,2952342.825,2015
+188458,152044530.0,Saturday,No,2015-05-30T01:15:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,5,PROP,0,E13,Last,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2015

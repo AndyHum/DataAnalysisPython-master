@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52311,140061184.0,Thursday,No,2014-01-30T13:11:00.000,PersLoc,"[-71.126772, 42.309985]",Point,PersLoc,1,MSNCOM,655,E13,Day,No,WOODLAND RD,Other,Unarmed,757119.7842,,2938207.461,2014
+159360,140062292.0,Thursday,No,2014-01-30T22:37:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,1,MISPER,446,B3,First,No,ATHELWOLD ST,Other,Other,770557.5917,,2933181.47,2014
+183868,140064227.0,Thursday,No,2014-01-30T18:00:00.000,PersLoc,"[-71.034765, 42.381976]",Point,PersLoc,1,MISPER,25,A7,First,No,FALCON ST,Other,Unarmed,781863.1806,,2964564.6980000003,2014
+233062,140062658.0,Thursday,No,2014-01-30T19:30:00.000,PersLoc,"[-71.086495, 42.271257]",Point,PersLoc,1,MISPER,423,B3,First,No,BRIARCLIFF TR,Other,Unarmed,768082.4093,,2924144.47,2014

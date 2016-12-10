@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64491,130239669.0,Tuesday,No,2013-04-23T19:30:00.000,LICViol,"[-71.169709, 42.284247]",Point,LICViol,4,CD35  ,731,E5,First,No,BAKER ST,Part Three,Unarmed,745542.2684,,2928780.015,2013
+106956,130239462.0,Tuesday,No,2013-04-23T18:00:00.000,LICViol,"[-71.099985, 42.314061]",Point,LICViol,4,CD35  ,572,E13,First,No,WASHINGTON ST,Part Three,Unarmed,764358.3652,,2939725.7819999997,2013
+129554,130239820.0,Tuesday,No,2013-04-23T18:45:00.000,LICViol,"[-71.115475, 42.307826]",Point,LICViol,4,CD35  ,0,E13,First,No,SOUTH ST,Part Three,Unarmed,760179.078,,2937434.376,2013
+163548,130239629.0,Tuesday,No,2013-04-23T19:10:00.000,LICViol,"[-71.136395, 42.286246]",Point,LICViol,4,CD35  ,679,E5,First,No,BELGRADE AV,Part Three,Unarmed,754553.8721,,2929545.463,2013

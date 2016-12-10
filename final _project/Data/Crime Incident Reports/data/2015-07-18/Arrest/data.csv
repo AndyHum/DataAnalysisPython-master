@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122346,,Saturday,No,2015-07-18T00:00:00.000,Warrant Arrests,"[-71.091936, 42.270947]",Point,Arrest,7,IVPER,425,B3,,No,FREMONT ST,Part Three,None,766610.0,,2920000.0,2015
+168542,,Saturday,No,2015-07-18T00:00:00.000,Warrant Arrests,"[-71.093993, 42.292033]",Point,Arrest,7,ARREST,565,B3,,No,OSPREY WAY,Part Three,None,766017.0,,2930000.0,2015
+206741,,Saturday,No,2015-07-18T00:00:00.000,Warrant Arrests,"[-71.072624, 42.332856]",Point,Arrest,7,ARREST,179,D4,,No,MASSACHUSETTS AVE,Part Three,None,771724.0,,2950000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71202,130686601.0,Monday,No,2013-10-28T10:35:00.000,FIRE,"[-71.05651, 42.366836]",Point,FIRE,10,FIREB ,80,A1,Day,No,SNOW HILL ST,Part three,Other,776016.8967,,2959016.0730000003,2013
+96179,130687264.0,Monday,No,2013-10-28T16:15:00.000,FIRE,"[-71.07827, 42.289391]",Point,FIRE,10,FV    ,438,B3,First,No,NEW ENGLAND AV,Part three,Unarmed,770275.9982,SOUTHERN AV,2930763.9480000003,2013
+171136,130686712.0,Monday,No,2013-10-28T12:22:00.000,FIRE,"[-71.074079, 42.346119]",Point,FIRE,10,FIREB ,151,D4,Day,No,CHANDLER ST,Part three,Unarmed,771306.5826,,2951441.914,2013

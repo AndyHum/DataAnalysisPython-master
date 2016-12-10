@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19005,,Sunday,No,2015-08-02T11:30:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,8,BE,566,B2,,No,FRANKLIN PARK RD,Part One,None,,,,2015
+48334,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.054656, 42.334934]",Point,06MV,8,BE,216,C6,,No,W NINTH ST,Part One,None,776579.0,,2950000.0,2015
+51475,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.061998, 42.287906]",Point,06MV,8,PROP,393,C11,,No,WRENTHAM ST,Part One,None,774681.0,,2930000.0,2015
+76155,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.081862, 42.344013]",Point,06MV,8,BE,145,D4,,No,SAINT BOTOLPH ST,Part One,None,769206.0,,2950000.0,2015
+76156,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.081862, 42.344013]",Point,06MV,8,BE,145,D4,,No,SAINT BOTOLPH ST,Part One,None,769206.0,,2950000.0,2015
+123076,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.059661, 42.375959]",Point,06MV,8,BE,41,A15,,No,CHESTNUT ST,Part One,None,775148.0,,2960000.0,2015
+135090,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.076797, 42.338414]",Point,06MV,8,IVMV,156,D4,,No,WORCESTER ST,Part One,None,770586.0,,2950000.0,2015
+148983,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.060082, 42.352835]",Point,06MV,8,IVPER,0,E18,,No,AVE DE LAFAYETTE,Part One,None,775078.0,,2950000.0,2015
+152747,,Sunday,No,2015-08-02T02:45:00.000,Larceny From Motor Vehicle,"[0, 0]",Point,06MV,8,BE,598,D4,,No,BOYLSTON ST,Part One,None,,MASSACHUSETTS AVE,,2015
+161799,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.112333, 42.261336]",Point,06MV,8,,493,E18,,No,RIVER ST,Part One,None,761106.0,,2920000.0,2015
+195551,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.13249, 42.349378]",Point,06MV,8,BE,793,D14,,No,COMMONWEALTH AVE,Part One,None,755511.0,,2950000.0,2015
+202446,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.118884, 42.309862]",Point,06MV,8,BE,644,E13,,No,ALDWORTH ST,Part One,None,759254.0,,2940000.0,2015
+204073,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.059333, 42.377385]",Point,06MV,8,BE,41,A15,,No,LEXINGTON ST,Part One,None,775234.0,,2960000.0,2015
+220983,,Sunday,No,2015-08-02T00:00:00.000,Larceny From Motor Vehicle,"[-71.05035, 42.358955]",Point,06MV,8,VAND,95,A1,,No,INDIA ROW,Part One,None,777697.0,,2960000.0,2015

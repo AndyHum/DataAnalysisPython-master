@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15842,130627741.0,Wednesday,No,2013-10-02T10:32:00.000,Service,"[-71.06214, 42.301591]",Point,Service,10,IVPER ,345,C11,Day,No,ARCADIA ST,Part three,Unarmed,774617.4963,,2935231.795,2013
+51141,130628978.0,Wednesday,No,2013-10-02T19:25:00.000,Service,"[-71.064945, 42.295126]",Point,Service,10,ARREST,361,C11,First,No,MELVILLE AV,Part three,Unarmed,773870.7055,,2932871.972,2013
+92820,130627560.0,Wednesday,No,2013-10-02T08:50:00.000,Service,"[-71.058866, 42.357544]",Point,Service,10,ARREST,103,A1,Day,No,SCHOOL ST,Part three,Unarmed,775397.5892,,2955626.3189999997,2013
+122293,130628891.0,Wednesday,No,2013-10-02T17:00:00.000,Service,"[0, 0]",Point,Service,10,BEIP  ,187,C6,First,No,COLUMBIA RD,Part three,Unarmed,,,,2013
+149285,130628379.0,Wednesday,No,2013-10-02T15:22:00.000,Service,"[-71.05543, 42.352621]",Point,Service,10,IVPER ,173,A1,Day,No,SUMMER ST,Part three,Unarmed,776335.7564,ATLANTIC AV,2953837.3710000003,2013
+151447,130627063.0,Wednesday,No,2013-10-02T00:32:00.000,Service,"[-71.059575, 42.302511]",Point,Service,10,ARREST,350,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775309.6471,,2935570.63,2013

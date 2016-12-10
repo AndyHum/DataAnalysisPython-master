@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15199,130727438.0,Friday,No,2013-11-15T23:00:00.000,BENoProp,"[-71.099695, 42.330611]",Point,BENoProp,11,BERPT ,586,B2,First,No,ALLEGHANY ST,Part One,Other,764408.5,,2945757.258,2013
+27318,130728003.0,Friday,No,2013-11-15T18:30:00.000,BENoProp,"[-71.113428, 42.288748]",Point,BENoProp,11,BERPT ,504,E13,First,No,CATHERINE ST,Part One,Other,760764.0532,,2930484.338,2013
+102884,130726692.0,Friday,No,2013-11-15T19:05:00.000,BENoProp,"[-71.056645, 42.364271]",Point,BENoProp,11,IVPREM,85,A1,First,No,N MARGIN ST,Part One,Other,775985.2731,,2958081.146,2013

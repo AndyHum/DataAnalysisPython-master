@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52821,152034596.0,Wednesday,No,2015-04-29T11:00:00.000,PropFound,"[-71.07843, 42.349776]",Point,PropFound,4,IVPREM,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2015
+159091,152034875.0,Wednesday,No,2015-04-29T08:54:00.000,PropFound,"[-71.154526, 42.340214]",Point,PropFound,4,IVPREM,0,D14,Day,No,STRATHMORE RD,Part three,Unarmed,749568.0093,,2949191.688,2015
+211361,152034953.0,Wednesday,No,2015-04-29T16:00:00.000,PropFound,"[-71.114686, 42.310676]",Point,PropFound,4,PROP,0,E13,First,No,CENTRE ST,Part three,Unarmed,760387.7357,,2938473.9689999996,2015

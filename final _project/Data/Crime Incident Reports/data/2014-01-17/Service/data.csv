@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6838,140033337.0,Friday,No,2014-01-17T06:30:00.000,Service,"[-71.125962, 42.26534]",Point,Service,1,MISC  ,546,E18,Last,No,SHERRIN ST,Part three,Unarmed,757410.2866,,2921938.917,2014
+166441,140033724.0,Friday,No,2014-01-17T12:15:00.000,Service,"[-71.06293, 42.351166]",Point,Service,1,ARREST,117,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774311.2131,,2953296.665,2014
+177451,140165627.0,Friday,No,2014-01-17T13:00:00.000,Service,"[-71.084155, 42.337221]",Point,Service,1,LARCRT,285,D4,Day,No,TREMONT ST,Part three,Unarmed,768598.7055,,2948186.1610000003,2014

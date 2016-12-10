@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53921,142013344.0,Sunday,No,2014-07-27T03:31:00.000,BENoProp,"[-71.05691, 42.328281]",Point,BENoProp,7,ALARM,0,C6,Last,No,DORCHESTER AV,Part One,Unarmed,775981.7875,,2944965.36,2014
+243565,142013722.0,Sunday,No,2014-07-27T22:30:00.000,BENoProp,"[-71.054905, 42.330616]",Point,BENoProp,7,BE,0,C6,First,No,DORCHESTER ST,Part One,Other,776519.5096,,2945819.097,2014

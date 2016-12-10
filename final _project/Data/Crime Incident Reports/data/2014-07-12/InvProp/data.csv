@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13833,142008605.0,Saturday,No,2014-07-12T22:21:00.000,InvProp,"[-71.04686, 42.292281]",Point,InvProp,7,BE,0,C11,First,No,NORWOOD ST,Part three,Unarmed,778769.0549,CONLEY ST,2931860.689,2014
+36103,142008629.0,Saturday,No,2014-07-12T05:42:00.000,InvProp,"[-71.04206, 42.317766]",Point,InvProp,7,DISTRB,0,C6,Last,No,MT VERNON ST,Part three,Unarmed,780017.8828,,2941154.74,2014
+45043,142008564.0,Saturday,No,2014-07-12T18:58:00.000,InvProp,"[-71.048347, 42.31996]",Point,InvProp,7,ALARM,0,C6,First,No,MT VERNON ST,Part three,Unarmed,778313.0768,,2941944.941,2014
+60102,142008560.0,Saturday,No,2014-07-12T19:08:00.000,InvProp,"[-71.082049, 42.294765]",Point,InvProp,7,SUSOBJ,0,B3,First,No,KINGSDALE ST,Part three,Unarmed,769243.8945,,2932717.086,2014
+142450,142008520.0,Saturday,No,2014-07-12T14:19:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,7,AOD,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+148796,142008430.0,Saturday,No,2014-07-12T08:30:00.000,InvProp,"[-71.086517, 42.334457]",Point,InvProp,7,UNKEMS,0,B2,Day,No,RAYNOR CR,Part three,Other,767964.9617,,2947175.691,2014

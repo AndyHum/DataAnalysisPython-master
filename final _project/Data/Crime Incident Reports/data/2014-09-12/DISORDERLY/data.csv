@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88662,142028621.0,Friday,No,2014-09-12T04:11:00.000,DISORDERLY,"[-71.074115, 42.339221]",Point,24xx,9,DVIP,0,D4,Last,No,W NEWTON ST,Part Two,Unarmed,771309.5567,,2948928.3910000003,2014
+211906,142028619.0,Friday,No,2014-09-12T03:15:00.000,DISORDERLY,"[-71.074385, 42.335516]",Point,24xx,9,ARREST,0,D4,Last,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2014
+215057,142028920.0,Friday,No,2014-09-12T22:55:00.000,DISORDERLY,"[-71.095995, 42.347161]",Point,24xx,9,IVPER,0,D4,First,No,LANSDOWNE ST,Part Two,Other,765380.3957,,2951793.104,2014
+248860,142028820.0,Friday,No,2014-09-12T17:25:00.000,DISORDERLY,"[-71.060693, 42.295207]",Point,24xx,9,IVPER,0,C11,First,No,DIX ST,Part Two,Unarmed,775020.8351,,2932907.2739999997,2014

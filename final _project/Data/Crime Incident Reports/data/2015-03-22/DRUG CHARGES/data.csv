@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17973,152023057.0,Sunday,No,2015-03-22T18:10:00.000,DRUG CHARGES,"[-71.02868, 42.381641]",Point,18xx,3,IVPREM,0,A7,First,No,CONDOR ST,Part Two,Other,783507.8729,E EAGLE ST,2964451.64,2015
+44442,152023058.0,Sunday,No,2015-03-22T18:00:00.000,DRUG CHARGES,"[-71.030325, 42.381651]",Point,18xx,3,IVPREM,0,A7,First,No,GLENDON ST,Part Two,Other,783063.4118,FALCON ST,2964452.833,2015
+45370,152022913.0,Sunday,No,2015-03-22T02:45:00.000,DRUG CHARGES,"[-71.06028, 42.306752]",Point,18xx,3,ARREST,0,C11,Last,No,HECLA ST,Part Two,Unarmed,775110.7209999999,DORCHESTER AV,2937115.057,2015
+193404,152022914.0,Sunday,No,2015-03-22T03:30:00.000,DRUG CHARGES,"[-71.059741, 42.352052]",Point,18xx,3,ARREST,0,A1,Last,No,EDINBORO ST,Part Two,Unarmed,775171.4473,,2953623.878,2015
+266739,152023114.0,Sunday,No,2015-03-22T22:05:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,3,TS,0,E13,First,No,CENTRE ST,Part Two,Unarmed,,ESTRELLA ST,,2015

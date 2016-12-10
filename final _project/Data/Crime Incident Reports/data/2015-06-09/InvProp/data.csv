@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2746,152047638.0,Tuesday,No,2015-06-09T07:11:00.000,InvProp,"[0, 0]",Point,InvProp,6,PROP,0,E18,Last,No,WALK HILL ST,Part three,Unarmed,,,,2015
+91138,152047630.0,Tuesday,No,2015-06-09T03:31:00.000,InvProp,"[-71.072855, 42.298151]",Point,InvProp,6,IVPREM,0,C11,Last,No,WASHINGTON ST,Part three,Firearm,771725.1579,,2933963.51,2015
+106961,152047833.0,Tuesday,No,2015-06-09T10:00:00.000,InvProp,"[-71.140916, 42.344956]",Point,InvProp,6,IVPER,0,D14,Day,No,CAROL AV,Part three,Unarmed,753240.2247,,2950935.0069999998,2015
+211806,152047893.0,Tuesday,No,2015-06-09T22:31:00.000,InvProp,"[-71.071805, 42.324846]",Point,InvProp,6,SHOTS,0,B2,First,No,GEORGE ST,Part three,Other,771960.3825,CLARENCE ST,2943693.017,2015
+239203,152047777.0,Tuesday,No,2015-06-09T14:06:00.000,InvProp,"[-71.108955, 42.331996]",Point,InvProp,6,IVPER,0,B2,Day,No,HILLSIDE ST,Part three,Unarmed,761902.3157,,2946250.361,2015

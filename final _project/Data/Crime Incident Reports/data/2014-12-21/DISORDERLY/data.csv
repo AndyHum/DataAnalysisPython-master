@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65491,142059466.0,Sunday,No,2014-12-21T02:39:00.000,DISORDERLY,"[-71.06166, 42.364266]",Point,24xx,12,FIGHT,0,A1,Last,No,PORTLAND ST,Part Two,Unarmed,774629.9723,,2958072.32,2014
+183741,142059624.0,Sunday,No,2014-12-21T20:00:00.000,DISORDERLY,"[-71.057506, 42.377612]",Point,24xx,12,DISTRB,0,A15,First,No,OREILLY WY,Part Two,Unarmed,775727.2191,,2962941.7210000004,2014
+197240,142059457.0,Sunday,No,2014-12-21T01:17:00.000,DISORDERLY,"[-71.029645, 42.338241]",Point,24xx,12,DISTRB,0,C6,Last,No,E 1ST ST,Part Two,Unarmed,783334.3667,,2948634.4269999997,2014

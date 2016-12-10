@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57873,152039806.0,Saturday,No,2015-03-28T08:00:00.000,PropLost,"[-71.09134, 42.279336]",Point,PropLost,3,LARCEN,0,B3,Day,No,EVELYN ST,Part three,Unarmed,766757.183,,2927082.5519999997,2015
+124817,152025792.0,Saturday,No,2015-03-28T23:30:00.000,PropLost,"[-71.053965, 42.359656]",Point,PropLost,3,PROP,0,A1,First,No,CHATHAM ST,Part three,Unarmed,776718.3415,,2956403.126,2015
+162454,152025470.0,Saturday,No,2015-03-28T23:30:00.000,PropLost,"[-71.104325, 42.349656]",Point,PropLost,3,PROP,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,763124.3684,,2952691.771,2015
+171287,152026010.0,Saturday,No,2015-03-28T12:00:00.000,PropLost,"[-71.165041, 42.350129]",Point,PropLost,3,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,746711.0232,,2952793.874,2015
+175346,152025174.0,Saturday,No,2015-03-28T09:50:00.000,PropLost,"[-71.080575, 42.318566]",Point,PropLost,3,PROP,0,B2,Day,No,EDGEWOOD ST,Part three,Unarmed,769599.9214,,2941392.703,2015
+184490,152025329.0,Saturday,No,2015-03-28T19:00:00.000,PropLost,"[-71.0708, 42.333203]",Point,PropLost,3,PROP,0,C6,First,No,BRADSTON ST,Part three,Unarmed,772216.8065,,2946739.535,2015
+267009,152025271.0,Saturday,No,2015-03-28T15:20:00.000,PropLost,"[0, 0]",Point,PropLost,3,LARCEN,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267067,152025640.0,Saturday,No,2015-03-28T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LARCEN,0,D4,Day,No,HARRINGTON AV,Part three,Unarmed,,,,2015
+267084,152025721.0,Saturday,No,2015-03-28T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,D4,First,No,HARRISON AV,Part three,Unarmed,,,,2015
+267182,152026386.0,Saturday,No,2015-03-28T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,D4,First,No,COMMONWEALTH AV,Part three,Other,,,,2015

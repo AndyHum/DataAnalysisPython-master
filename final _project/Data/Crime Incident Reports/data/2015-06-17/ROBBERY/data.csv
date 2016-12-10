@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40694,,Wednesday,No,2015-06-17T00:00:00.000,Robbery,"[-71.149877, 42.354918]",Point,03xx,6,CARJAK,780,D14,,No,MARKET ST,Part One,Personal Weapon (hand  foot  etc.),750803.0,,2950000.0,2015
+158232,,Wednesday,No,2015-06-17T00:00:00.000,Robbery,"[-71.06957, 42.356455]",Point,03xx,6,ARREST,0,A1,,No,CHARLES,Part One,None,772507.0,BRANCH ST,2960000.0,2015
+173744,,Wednesday,No,2015-06-17T00:00:00.000,Robbery,"[-71.085634, 42.328663]",Point,03xx,6,I00040,282,B2,,No,,Part One,None,768214.0,,2950000.0,2015
+203295,,Wednesday,No,2015-06-17T21:40:00.000,Robbery,"[0, 0]",Point,03xx,6,ARMROB,303,E13,,No,COLUMBUS AVE,Part One,Knife/Cutting Instrument,,,,2015
+231316,,Wednesday,No,2015-06-17T00:00:00.000,Robbery,"[-71.115878, 42.275313]",Point,03xx,6,I00040,503,E18,,No,AMERICAN LEGION HWY,Part One,Other,760123.0,,2930000.0,2015

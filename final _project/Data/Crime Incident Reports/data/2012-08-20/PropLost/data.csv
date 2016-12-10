@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20705,120539959.0,Monday,No,2012-08-20T18:00:00.000,PropLost,"[-71.05273, 42.336071]",Point,PropLost,8,LSTPRP,215,C6,First,No,TUDOR ST,Part Three,Unarmed,777097.197,,2947810.07,2012
+45934,120518500.0,Monday,No,2012-08-20T07:00:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,8,LSTPRP,146,D4,Last,No,HUNTINGTON AV,Part Three,Unarmed,769682.0757,,2951649.883,2012
+90116,120518339.0,Monday,No,2012-08-20T10:15:00.000,PropLost,"[-71.096325, 42.316646]",Point,PropLost,8,LARCRT,307,E13,Day,No,WESTMINSTER AV,Part Three,Unarmed,765343.8173,,2940672.463,2012
+150018,120518453.0,Monday,No,2012-08-20T11:00:00.000,PropLost,"[-71.08209, 42.336671]",Point,PropLost,8,LSTPRP,903,D4,Day,No,LATTIMORE CT,Part Three,Unarmed,769157.9964,,2947988.46,2012
+152186,120520609.0,Monday,No,2012-08-20T07:30:00.000,PropLost,"[-71.103083, 42.304586]",Point,PropLost,8,LSTPRP,570,E13,Day,No,FOREST HILLS ST,Part Three,Unarmed,763536.3242,,2936268.938,2012
+176855,120518899.0,Monday,No,2012-08-20T03:15:00.000,PropLost,"[-71.038995, 42.371556]",Point,PropLost,8,LSTPRP,28,A7,Last,No,MERIDIAN ST,Part Three,Unarmed,780740.8613,,2960761.23,2012
+189649,120571373.0,Monday,No,2012-08-20T12:00:00.000,PropLost,"[-71.063675, 42.352301]",Point,PropLost,8,LARCRT,111,A1,Day,No,BOYLSTON ST,Part Three,Other,774107.7181,,2953709.249,2012

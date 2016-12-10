@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+222605,152001383.0,Monday,No,2015-01-05T10:10:00.000,DISORDERLY,"[-71.085816, 42.30968]",Point,24xx,1,IVPER,0,B2,Day,No,CHENEY ST,Part Two,Unarmed,768198.1833,,2938147.32,2015
+264684,152001261.0,Monday,No,2015-01-05T16:00:00.000,DISORDERLY,"[0, 0]",Point,24xx,1,EDP,0,C11,First,No,GIBSON ST,Part Two,Unarmed,,,,2015

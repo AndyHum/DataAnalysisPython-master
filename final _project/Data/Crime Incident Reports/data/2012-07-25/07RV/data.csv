@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+115675,120458236.0,Wednesday,No,2012-07-25T08:10:00.000,07RV,"[-71.08709, 42.295071]",Point,07RV,7,IVMV  ,444,B3,Day,No,HARVARD ST,Other,Unarmed,767879.5331,,2932822.148,2012
+120898,120458864.0,Wednesday,No,2012-07-25T12:42:00.000,07RV,"[-71.060271, 42.307553]",Point,07RV,7,RECMV ,347,C11,Day,No,EAST ST,Other,Unarmed,775111.7335,,2937407.012,2012
+246824,120458425.0,Wednesday,No,2012-07-25T09:40:00.000,07RV,"[-71.083535, 42.335491]",Point,07RV,7,RECMV ,285,D4,Day,No,GREENWICH ST,Other,Unarmed,768769.4122,,2947556.5360000003,2012

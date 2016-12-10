@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21937,,Wednesday,No,2015-06-24T00:00:00.000,Evading Fare,"[-71.072225, 42.348343]",Point,SkipFare,6,DISTRB,128,D4,,No,COLUMBUS AVE,Part Two,None,771804.0,,2950000.0,2015
+154383,,Wednesday,No,2015-06-24T13:23:00.000,Evading Fare,"[0, 0]",Point,SkipFare,6,,76,A1,,No,CANAL ST,Part Two,None,,,,2015
+158412,,Wednesday,No,2015-06-24T14:43:00.000,Evading Fare,"[0, 0]",Point,SkipFare,6,IVPER,149,D4,,No,DARTMOUTH ST,Part Two,None,,,,2015

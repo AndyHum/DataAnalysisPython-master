@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3865,130210476.0,Wednesday,No,2013-04-10T02:45:00.000,PropFound,"[-71.076995, 42.352391]",Point,PropFound,4,FDPROP,132,D4,Last,No,COMMONWEALTH AV,Part Three,Unarmed,770507.1203,,2953723.9110000003,2013
+198624,130210928.0,Wednesday,No,2013-04-10T10:15:00.000,PropFound,"[-71.10182, 42.314721]",Point,PropFound,4,FDPROP,576,E13,Day,No,BOYLSTON ST,Part Three,Unarmed,763860.9379,BROOKSIDE AV,2939963.974,2013
+218476,130210950.0,Wednesday,No,2013-04-10T10:40:00.000,PropFound,"[-71.061255, 42.355781]",Point,PropFound,4,FDPROP,111,A1,Day,No,WINTER ST,Part Three,Unarmed,774755.3274,,2954980.7830000003,2013
+240401,130211055.0,Wednesday,No,2013-04-10T11:22:00.000,PropFound,"[-71.1293, 42.278971]",Point,PropFound,4,FDPROP,552,E5,Day,No,MALVERNA RD,Part Three,Unarmed,756485.2025,METROPOLITAN AV,2926902.606,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3286,152033828.0,Saturday,No,2015-04-25T16:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,IVPER,0,B2,First,No,SEAVER ST,Other,Unarmed,,,,2015
+62684,152033769.0,Saturday,No,2015-04-25T18:25:00.000,PersLoc,"[-71.072945, 42.343251]",Point,PersLoc,4,IVPER,0,D4,First,No,TREMONT ST,Other,Unarmed,771618.5229999999,UPTON ST,2950398.578,2015
+67698,152033620.0,Saturday,No,2015-04-25T09:14:00.000,PersLoc,"[-71.122406, 42.27807]",Point,PersLoc,4,IVPER,0,E18,Day,No,CANTERBURY ST,Other,Unarmed,758352.2782,,2926582.395,2015
+103938,152033692.0,Saturday,No,2015-04-25T12:45:00.000,PersLoc,"[-71.15418, 42.350841]",Point,PersLoc,4,IVPER,0,D14,Day,No,LEICESTER ST,Other,Unarmed,749646.059,,2953065.0310000004,2015
+104999,152033720.0,Saturday,No,2015-04-25T11:30:00.000,PersLoc,"[-71.057908, 42.293715]",Point,PersLoc,4,IVPER,0,C11,Day,No,WHITTEN ST,Other,Unarmed,775776.9943,,2932367.5560000003,2015
+162590,152033696.0,Saturday,No,2015-04-25T10:47:00.000,PersLoc,"[-71.11145, 42.262041]",Point,PersLoc,4,IVPER,0,E18,Day,No,REDDY AV,Other,Unarmed,761343.8194,RIVER ST,2920754.582,2015
+197315,152036304.0,Saturday,No,2015-04-25T12:00:00.000,PersLoc,"[-71.036425, 42.378896]",Point,PersLoc,4,MISSIN,0,A7,Day,No,TRENTON ST,Other,Unarmed,781420.7872,,2963439.84,2015
+246875,152034126.0,Saturday,No,2015-04-25T15:00:00.000,PersLoc,"[-71.066805, 42.292011]",Point,PersLoc,4,IVPER,0,C11,Day,No,ALLSTON ST,Other,Unarmed,773373.2534,,2931734.2589999996,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57406,,Monday,No,2015-07-20T00:00:00.000,Restraining Order Violations,"[-71.072722, 42.341868]",Point,Restrain,7,VIORDR,962,D4,,No,W DEDHAM ST,Part Two,None,771681.0,,2950000.0,2015
+96946,,Monday,No,2015-07-20T17:01:00.000,Violations,"[0, 0]",Point,VAL,7,TS,152,D4,,No,TREMONT ST,Part Two,None,,UPTON ST,,2015
+99429,,Monday,No,2015-07-20T18:48:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,,308,B2,,No,BOWER ST,Part Two,None,,,,2015
+114194,,Monday,No,2015-07-20T00:00:00.000,Violations,"[-71.093695, 42.273862]",Point,VAL,7,ARREST,472,B3,,No,BLUE HILL AVE,Part Two,None,766129.0,,2930000.0,2015
+246191,,Monday,No,2015-07-20T08:49:00.000,Violations,"[0, 0]",Point,VAL,7,TS,0,,,No,KING,Part Two,None,,,,2015

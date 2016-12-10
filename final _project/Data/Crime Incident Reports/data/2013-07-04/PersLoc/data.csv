@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24367,130411714.0,Thursday,No,2013-07-04T10:00:00.000,PersLoc,"[-71.087645, 42.285741]",Point,PersLoc,7,MISPER,429,B3,Day,No,HARWOOD ST,Other,Unarmed,767745.8152,,2929421.435,2013
+208886,130421483.0,Thursday,No,2013-07-04T20:11:00.000,PersLoc,"[-71.076935, 42.290401]",Point,PersLoc,7,MISPER,438,B3,First,No,COLONIAL AV,Other,Unarmed,770635.3845,,2931133.797,2013
+214868,130413268.0,Thursday,No,2013-07-04T17:00:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,7,MISPER,817,C11,First,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2013

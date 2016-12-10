@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76702,120609374.0,Friday,No,2012-09-28T00:30:00.000,Gather,"[-71.07812, 42.302821]",Point,Gather,9,GANG  ,461,C11,Last,No,WASHINGTON ST,Part Three,Unarmed,770292.377,,2935658.24,2012
+194852,120610157.0,Friday,No,2012-09-28T00:30:00.000,Gather,"[-71.041077, 42.318032]",Point,Gather,9,IVPREM,256,C6,Last,No,WESTWIND RD,Part Three,Other,780283.1989,,2941252.986,2012
+202572,120610152.0,Friday,No,2012-09-28T11:00:00.000,Gather,"[-71.05777, 42.36749]",Point,Gather,9,CD9   ,0,A1,Day,No,COMMERCIAL ST,Part Three,Unarmed,775675.0007,,2959252.627,2012

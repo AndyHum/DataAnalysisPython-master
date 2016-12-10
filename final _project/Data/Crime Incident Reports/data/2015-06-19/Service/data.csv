@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110089,,Friday,No,2015-06-19T00:00:00.000,Police Service Incidents,"[-71.09039, 42.334025]",Point,Service,6,AOD,289,B2,,No,TREMONT ST,Part Three,None,766918.0,,2950000.0,2015
+137142,,Friday,No,2015-06-19T14:29:00.000,Service,"[0, 0]",Point,Service,6,DISTRB,252,C11,,No,DENNY ST,Part Three,None,,,,2015
+169353,,Friday,No,2015-06-19T00:00:00.000,Police Service Incidents,"[-71.057459, 42.358831]",Point,Service,6,IVPER,98,A1,,No,STATE ST,Part Three,None,775776.0,,2960000.0,2015

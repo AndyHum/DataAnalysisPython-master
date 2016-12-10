@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2467,152046296.0,Thursday,No,2015-06-04T19:30:00.000,Service,"[0, 0]",Point,Service,6,IVPREM,0,A15,First,No,MONUMENT SQ,Part three,Unarmed,,MONUMENT ST,,2015
+2535,152046441.0,Thursday,No,2015-06-04T11:00:00.000,Service,"[0, 0]",Point,Service,6,INVEST,0,HTU,Day,No,COMMONWEALTH AV,Part three,Unarmed,,,,2015
+13773,152046342.0,Thursday,No,2015-06-04T22:31:00.000,Service,"[-71.079335, 42.328182]",Point,Service,6,ARREST,0,B2,First,No,MT PLEASANT AV,Part three,Unarmed,769917.9148,,2944898.3210000005,2015
+94318,152046277.0,Thursday,No,2015-06-04T18:40:00.000,Service,"[-71.078925, 42.329451]",Point,Service,6,SS,0,B2,First,No,DEARBORN ST,Part three,Unarmed,770026.7059,EUSTIS ST,2945361.5730000003,2015
+111229,152046142.0,Thursday,No,2015-06-04T12:45:00.000,Service,"[-71.063675, 42.352301]",Point,Service,6,SS,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+130151,152046061.0,Thursday,No,2015-06-04T08:45:00.000,Service,"[-71.063675, 42.352301]",Point,Service,6,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+183827,152046269.0,Thursday,No,2015-06-04T18:16:00.000,Service,"[-71.094521, 42.27791]",Point,Service,6,ARREST,0,B3,First,No,WALK HILL ST,Part three,Unarmed,765898.5905,,2926558.567,2015

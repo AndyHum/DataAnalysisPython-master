@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5166,130221915.0,Monday,No,2013-04-15T09:33:00.000,DEATH INVESTIGATION,"[-71.060271, 42.307553]",Point,01INV,4,UNK   ,347,C11,Day,No,EAST ST,Part Three,Unarmed,775111.7335,,2937407.012,2013
+30325,130224028.0,Monday,No,2013-04-15T14:50:00.000,DEATH INVESTIGATION,"[-71.08105, 42.349046]",Point,01INV,4,INVEST,138,D4,Day,No,BOYLSTON ST,Part Three,Other,769417.031,,2952499.519,2013
+57518,130222517.0,Monday,No,2013-04-15T14:50:00.000,DEATH INVESTIGATION,"[-71.07843, 42.349776]",Point,01INV,4,BOMB  ,138,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770123.9452,,2952769.035,2013
+155948,130224029.0,Monday,No,2013-04-15T14:50:00.000,DEATH INVESTIGATION,"[-71.08105, 42.349046]",Point,01INV,4,INVEST,138,D4,Day,No,BOYLSTON ST,Part Three,Other,769417.031,,2952499.519,2013

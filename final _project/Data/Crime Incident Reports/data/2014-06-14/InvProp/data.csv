@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27240,140378144.0,Saturday,No,2014-06-14T23:36:00.000,InvProp,"[0, 0]",Point,InvProp,6,SHOTS ,362,C11,First,No,MELVILLE AV,Part three,Unarmed,,,,2014
+55229,140381140.0,Saturday,No,2014-06-14T13:00:00.000,InvProp,"[-71.103995, 42.333881]",Point,InvProp,6,IVPER ,603,B2,Day,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2014
+69184,140376689.0,Saturday,No,2014-06-14T11:42:00.000,InvProp,"[-71.072097, 42.321041]",Point,InvProp,6,ALARMC,183,B2,Day,No,DUDLEY ST,Part three,Unarmed,771888.2764,,2942305.988,2014
+180708,140379291.0,Saturday,No,2014-06-14T13:30:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,6,IVPREM,624,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+196866,140379709.0,Saturday,No,2014-06-14T09:00:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,6,IVPREM,92,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+215668,140378025.0,Saturday,No,2014-06-14T22:56:00.000,InvProp,"[-71.064041, 42.330883]",Point,InvProp,6,MISC  ,176,C6,First,No,SOUTHAMPTON ST,Part three,Unarmed,774048.6618,,2945903.515,2014
+223498,140377770.0,Saturday,No,2014-06-14T10:00:00.000,InvProp,"[-71.083365, 42.331551]",Point,InvProp,6,INVEST,276,B2,Day,No,RUGGLES ST,Part three,Unarmed,768822.3904,,2946120.954,2014
+238415,140375794.0,Saturday,No,2014-06-14T00:02:00.000,InvProp,"[-71.14117, 42.354126]",Point,InvProp,6,BEIP  ,782,D14,Last,No,N BEACON ST,Part three,Unarmed,753157.7603,,2954276.6789999995,2014

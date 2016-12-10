@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6245,140006571.0,Saturday,No,2014-01-04T13:43:00.000,Hazardous,"[-71.06293, 42.351166]",Point,Hazardous,1,REQP  ,117,A1,Day,No,WASHINGTON ST,Other,Unarmed,774311.2131,,2953296.665,2014
+19485,140006528.0,Saturday,No,2014-01-04T13:19:00.000,Hazardous,"[-71.06293, 42.360887]",Point,Hazardous,1,REQP  ,68,A1,Day,No,BOWDOIN ST,Other,Unarmed,774293.0622,,2956838.923,2014
+21972,140007278.0,Saturday,No,2014-01-04T21:09:00.000,Hazardous,"[-71.085955, 42.343151]",Point,Hazardous,1,IVPREM,619,D4,First,No,ST STEPHEN ST,Other,Other,768101.5539,,2950344.795,2014
+46795,140005988.0,Saturday,No,2014-01-04T04:22:00.000,Hazardous,"[-71.07825, 42.335516]",Point,Hazardous,1,HAZ   ,170,D4,Last,No,WASHINGTON ST,Other,Other,770198.2968,,2947572.668,2014
+202023,140006738.0,Saturday,No,2014-01-04T15:25:00.000,Hazardous,"[-71.085395, 42.351706]",Point,Hazardous,1,REQP  ,139,D4,Day,No,GLOUCESTER ST,Other,Unarmed,768237.7919,,2953463.135,2014
+215332,140006721.0,Saturday,No,2014-01-04T15:10:00.000,Hazardous,"[-71.076286, 42.340036]",Point,Hazardous,1,ALARMC,157,D4,Day,No,RUTLAND ST,Other,Unarmed,770721.1363,,2949222.187,2014
+237643,140006396.0,Saturday,No,2014-01-04T12:02:00.000,Hazardous,"[-71.07632, 42.350356]",Point,Hazardous,1,REQPF ,134,D4,Day,No,BOYLSTON ST,Other,Unarmed,770693.2587,,2952983.224,2014
+241960,140007100.0,Saturday,No,2014-01-04T19:00:00.000,Hazardous,"[-71.10931, 42.311441]",Point,Hazardous,1,REQEP ,640,E13,First,No,GREEN ST,Other,Unarmed,761840.6373,,2938759.32,2014

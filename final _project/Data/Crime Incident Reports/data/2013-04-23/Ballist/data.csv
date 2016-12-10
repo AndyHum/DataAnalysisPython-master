@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121404,130239754.0,Tuesday,No,2013-04-23T20:25:00.000,Ballist,"[-71.083706, 42.279645]",Point,Ballist,4,FDPROP,421,B3,First,No,W SELDEN ST,Part Two,Unarmed,768822.4534,,2927205.091,2013
+214245,130239817.0,Tuesday,No,2013-04-23T21:12:00.000,Ballist,"[-71.043622, 42.370465]",Point,Ballist,4,SHOTS ,27,A7,First,No,SUMNER ST,Part Two,Firearm,779492.5774,,2960356.811,2013
+220190,130238573.0,Tuesday,No,2013-04-23T10:20:00.000,Ballist,"[-71.06289, 42.290811]",Point,Ballist,4,MEET  ,396,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,774434.7385,,2931302.3660000004,2013

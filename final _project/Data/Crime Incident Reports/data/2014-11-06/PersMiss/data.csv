@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52855,142046895.0,Thursday,No,2014-11-06T13:00:00.000,PersMiss,"[-71.064945, 42.300521]",Point,PersMiss,11,MISSIN,0,C11,Day,No,JOSEPHINE ST,Other,Unarmed,773860.6766,,2934837.9910000004,2014
+97179,142048580.0,Thursday,No,2014-11-06T07:15:00.000,PersMiss,"[-71.013745, 42.385036]",Point,PersMiss,11,MISSIN,0,A7,Last,No,SARATOGA ST,Other,Unarmed,787535.9081,,2965711.498,2014
+171531,142046512.0,Thursday,No,2014-11-06T16:30:00.000,PersMiss,"[-71.07102, 42.336701]",Point,PersMiss,11,MISSIN,0,D4,First,No,E NEWTON ST,Other,Unarmed,772150.9382,,2948014.253,2014
+235444,142047637.0,Thursday,No,2014-11-06T07:00:00.000,PersMiss,"[-71.06969, 42.304686]",Point,PersMiss,11,MISSIN,0,C11,Last,No,DEVER ST,Other,Unarmed,772569.3849,,2936349.2660000003,2014

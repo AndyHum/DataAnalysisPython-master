@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42283,130284560.0,Monday,No,2013-05-13T11:06:00.000,Arrest,"[-71.07233, 42.332556]",Point,Arrest,5,TSTOP ,179,C6,Day,No,MELNEA CASS BL,Part Three,Unarmed,771804.3248,MASSACHUSETTS AV,2946501.961,2013
+199980,130284420.0,Monday,No,2013-05-13T09:53:00.000,Arrest,"[-71.070311, 42.310124]",Point,Arrest,5,CD11  ,333,C11,Day,No,MT EVERETT ST,Part Three,Unarmed,772391.3521,,2938329.9689999996,2013
+241330,130284774.0,Monday,No,2013-05-13T13:12:00.000,Arrest,"[-71.090893, 42.321142]",Point,Arrest,5,ARREST,309,B2,Day,No,MARTIN LUTHER KING BLVD,Part Three,Unarmed,766804.8797,,2942317.77,2013

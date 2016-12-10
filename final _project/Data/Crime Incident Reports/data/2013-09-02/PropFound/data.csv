@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44368,130555611.0,Monday,No,2013-09-02T11:00:00.000,PropFound,"[-71.065835, 42.317351]",Point,PropFound,9,FDPROP,258,B2,Day,No,DUDLEY ST,Part three,Unarmed,773588.6939,,2940969.876,2013
+88578,130555628.0,Monday,No,2013-09-02T11:23:00.000,PropFound,"[-71.051425, 42.283286]",Point,PropFound,9,FDPROP,379,C11,Day,No,GALLIVAN BL,Part three,Unarmed,777551.1922,,2928576.2589999996,2013
+181670,130555745.0,Monday,No,2013-09-02T12:34:00.000,PropFound,"[-71.05369, 42.360791]",Point,PropFound,9,FDPROP,91,A1,Day,No,SURFACE RD,Part three,Unarmed,776790.5017,CLINTON ST,2956817.13,2013
+260162,130556124.0,Monday,No,2013-09-02T14:20:00.000,PropFound,"[-71.05849, 42.362381]",Point,PropFound,9,FDPROP,93,A1,Day,No,CONGRESS ST,Part three,Unarmed,775490.2232,SUDBURY ST,2957389.8060000003,2013

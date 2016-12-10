@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120559,,Tuesday,No,2015-07-28T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,7,CD9,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+139478,,Tuesday,No,2015-07-28T00:00:00.000,Investigate Property,"[-71.126901, 42.272591]",Point,InvProp,7,IVPER,553,E18,,No,GLENCLIFF RD,Part Three,None,757145.0,,2920000.0,2015
+217740,,Tuesday,No,2015-07-28T00:00:00.000,Investigate Property,"[-71.104294, 42.309719]",Point,InvProp,7,IVPREM,574,E13,,No,WASHINGTON ST,Part Three,None,763200.0,,2940000.0,2015

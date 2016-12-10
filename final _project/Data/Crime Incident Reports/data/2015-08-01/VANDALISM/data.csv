@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11040,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.129286, 42.285374]",Point,14xx,8,IVPER,680,E5,,No,POPLAR ST,Part Two,None,756479.0,WASHINGTON ST,2930000.0,2015
+29320,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.0784, 42.28466]",Point,14xx,8,IVPER,434,B3,,No,THETFORD AVE,Part Two,None,770249.0,,2930000.0,2015
+29776,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.107151, 42.318282]",Point,14xx,8,ARREST,638,E13,,No,BEECHER ST,Part Two,None,762413.0,,2940000.0,2015
+44890,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.086883, 42.348406]",Point,14xx,8,BE,142,D4,,No,NEWBURY ST,Part Two,None,767841.0,,2950000.0,2015
+59395,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.078208, 42.295128]",Point,14xx,8,BE,447,B3,,No,NORWELL ST,Part Two,None,770282.0,,2930000.0,2015
+102689,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.084508, 42.348152]",Point,14xx,8,FIGHT,143,D4,,No,BOYLSTON ST,Part Two,None,768484.0,,2950000.0,2015
+139674,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.08456, 42.303506]",Point,14xx,8,ARREST,330,B2,,No,COLUMBIA RD,Part Two,None,768549.0,,2940000.0,2015
+145854,,Saturday,No,2015-08-01T03:05:00.000,Vandalism,"[0, 0]",Point,14xx,8,VAND,627,D4,,No,BOYLSTON ST,Part Two,None,,KILMARNOCK ST,,2015
+154031,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.081055, 42.321328]",Point,14xx,8,BE,265,B2,,No,WAVERLY ST,Part Two,None,769465.0,,2940000.0,2015
+154113,,Saturday,No,2015-08-01T23:30:00.000,Vandalism,"[0, 0]",Point,14xx,8,VAND,15,A7,,No,BENNINGTON ST,Part Two,None,, BREMEN ST ,,2015
+170305,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.120018, 42.257191]",Point,14xx,8,VAND,519,E18,,No,RIVER ST,Part Two,None,759032.0,,2920000.0,2015
+181637,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.05536, 42.3582]",Point,14xx,8,VAND,99,A1,,No,KILBY PL,Part Two,None,776344.0,,2960000.0,2015
+206216,,Saturday,No,2015-08-01T00:00:00.000,Vandalism,"[-71.068207, 42.312123]",Point,14xx,8,DISTRB,332,C11,,No,BELLEVUE ST,Part Two,None,772957.0,,2940000.0,2015

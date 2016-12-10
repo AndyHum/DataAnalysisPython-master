@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47166,120532355.0,Sunday,No,2012-08-26T14:00:00.000,PropFound,"[-71.04971, 42.337441]",Point,PropFound,8,FDPROP,214,C6,Day,No,E ST,Part Three,Unarmed,777911.0826,SILVER ST,2948313.6160000004,2012
+122615,120533319.0,Sunday,No,2012-08-26T22:45:00.000,PropFound,"[-71.06837, 42.341891]",Point,PropFound,8,FDPROP,164,D4,First,No,ROLLINS ST,Part Three,Unarmed,772857.843,WASHINGTON ST,2949909.1939999997,2012
+221738,120531791.0,Sunday,No,2012-08-26T02:05:00.000,PropFound,"[-71.04139, 42.330941]",Point,PropFound,8,FDPROP,233,C6,Last,No,H ST,Part Three,Unarmed,780173.2641,,2945956.8910000003,2012

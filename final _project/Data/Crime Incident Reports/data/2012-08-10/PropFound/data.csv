@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102293,120495519.0,Friday,No,2012-08-10T06:30:00.000,PropFound,"[-71.03989, 42.373476]",Point,PropFound,8,FDPROP,26,A7,Last,No,LIVERPOOL ST,Part Three,Unarmed,780495.2382,,2961459.611,2012
+170716,120497272.0,Friday,No,2012-08-10T22:31:00.000,PropFound,"[-71.08703, 42.344051]",Point,PropFound,8,IVPREM,620,D4,First,No,EDGERLY RD,Part Three,Unarmed,767809.3485,,2950671.363,2012
+210504,120497010.0,Friday,No,2012-08-10T19:30:00.000,PropFound,"[-71.14009, 42.350481]",Point,PropFound,8,FDPROP,783,D14,First,No,CAMELOT CT,Part Three,Unarmed,753455.2846,GORDON ST,2952949.5960000004,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22658,120734868.0,Thursday,No,2012-11-22T12:50:00.000,FIRE,"[-71.070463, 42.289629]",Point,FIRE,11,FIREB ,398,C11,Day,No,LITHGOW ST,Part Three,Other,772387.7698,,2930861.269,2012
+138247,120734390.0,Thursday,No,2012-11-22T01:46:00.000,FIRE,"[-71.06509, 42.317001]",Point,FIRE,11,IVPER ,258,B2,Last,No,COLUMBIA RD,Part Three,Other,773790.8306,DUDLEY ST,2940843.356,2012
+178434,120734612.0,Thursday,No,2012-11-22T07:10:00.000,FIRE,"[-71.15981, 42.348876]",Point,FIRE,11,FIREB ,761,D14,Last,No,WASHINGTON ST,Part Three,Unarmed,748127.0411,,2952342.825,2012

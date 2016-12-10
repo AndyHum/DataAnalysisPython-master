@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110109,152010229.0,Saturday,No,2015-02-07T15:00:00.000,Argue,"[-71.057195, 42.319706]",Point,Argue,2,DISTRB,0,C11,Day,No,EDISON,Part three,Other,775920.9442,DORCHESTER AV,2941840.0889999997,2015
+155344,152010220.0,Saturday,No,2015-02-07T16:10:00.000,Argue,"[-71.055896, 42.319352]",Point,Argue,2,DISTRB,0,C11,First,No,BUTTONWOOD ST,Part three,Unarmed,776272.7879,,2941712.7210000004,2015
+243798,152010283.0,Saturday,No,2015-02-07T21:08:00.000,Argue,"[-71.09178, 42.268962]",Point,Argue,2,IVPER,0,B3,First,No,RIVER ST,Part three,Unarmed,766656.1487,,2923301.256,2015

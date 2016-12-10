@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100632,140363381.0,Monday,No,2014-06-09T11:05:00.000,PropFound,"[-71.08657, 42.341481]",Point,PropFound,6,MEET  ,169,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767938.2433,GAINSBOROUGH ST,2949735.409,2014
+174268,140363945.0,Monday,No,2014-06-09T14:50:00.000,PropFound,"[-71.10086, 42.322816]",Point,PropFound,6,FDPROP,912,E13,Day,No,CENTRE ST,Part three,Unarmed,764106.7781,,2942915.144,2014
+216076,140363342.0,Monday,No,2014-06-09T11:03:00.000,PropFound,"[-71.063375, 42.357661]",Point,PropFound,6,FDPROP,102,A1,Day,No,BEACON ST,Part three,Unarmed,774178.8102,,2955662.95,2014
+255873,142000270.0,Monday,No,2014-06-09T16:00:00.000,PropFound,"[-71.059415, 42.359251]",Point,PropFound,6,IVPREM,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+265834,140363430.0,Monday,No,2014-06-09T11:20:00.000,PropFound,"[0, 0]",Point,PropFound,6,LSTPRP,769,D14,Day,No,FANEUIL ST,Part three,Unarmed,,,,2014

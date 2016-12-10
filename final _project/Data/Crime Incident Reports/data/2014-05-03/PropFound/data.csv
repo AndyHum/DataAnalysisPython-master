@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15296,140269948.0,Saturday,No,2014-05-03T06:45:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,5,FDPROP,574,E13,Last,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+44195,140270374.0,Saturday,No,2014-05-03T11:00:00.000,PropFound,"[-71.034645, 42.373451]",Point,PropFound,5,FDPROP,21,A7,Day,No,CHELSEA ST,Part three,Unarmed,781912.5513,PORTER ST,2961458.189,2014
+100727,140269578.0,Saturday,No,2014-05-03T01:00:00.000,PropFound,"[-71.095995, 42.347161]",Point,PropFound,5,FDPROP,624,D4,Last,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014
+157577,140272655.0,Saturday,No,2014-05-03T12:30:00.000,PropFound,"[-71.090389, 42.331096]",Point,PropFound,5,LSTPRP,290,B2,Day,No,MALCOLM X BL,Part three,Unarmed,766923.848,,2945945.7830000003,2014

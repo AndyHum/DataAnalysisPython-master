@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100532,130532263.0,Friday,No,2013-08-23T09:00:00.000,FIRE,"[-71.119075, 42.294936]",Point,FIRE,8,IVPREM,564,E5,Day,No,WASHINGTON ST,Part three,Other,759226.2787,,2932732.684,2013
+162820,130533789.0,Friday,No,2013-08-23T23:58:00.000,FIRE,"[-71.103295, 42.263613]",Point,FIRE,8,FIREB ,485,E18,Last,No,RIVER ST,Part three,Other,763548.6087,,2921337.5739999996,2013

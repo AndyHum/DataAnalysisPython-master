@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6600,152013346.0,Thursday,No,2015-02-19T08:51:00.000,Service,"[-71.060735, 42.298351]",Point,Service,2,ARREST,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775003.6566,PARK ST,2934053.046,2015
+81543,152013330.0,Thursday,No,2015-02-19T02:25:00.000,Service,"[-71.056873, 42.342678]",Point,Service,2,CD13,0,C6,Last,No,W BROADWAY,Part three,Unarmed,775964.3463,,2950211.663,2015
+160390,152013395.0,Thursday,No,2015-02-19T12:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+263003,152013430.0,Thursday,No,2015-02-19T13:30:00.000,Service,"[0, 0]",Point,Service,2,ARREST,0,C11,Day,No,GENEVA AV,Part three,Unarmed,,,,2015

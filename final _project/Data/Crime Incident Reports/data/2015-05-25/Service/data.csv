@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1829,152042851.0,Monday,No,2015-05-25T11:27:00.000,Service,"[0, 0]",Point,Service,5,ARREST,0,C11,Day,No,COLUMBIA RD,Part three,Unarmed,,MASSACHUSETTS AV,,2015
+3620,152043788.0,Monday,No,2015-05-25T16:18:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,D14,First,No,PERRIN ST,Part three,Unarmed,,,,2015
+115066,152042958.0,Monday,No,2015-05-25T17:40:00.000,Service,"[-71.098823, 42.322633]",Point,Service,5,ARREST,0,E13,First,No,CENTRE ST,Part three,Unarmed,764657.923,COLUMBUS AV,2942850.979,2015
+152948,152042884.0,Monday,No,2015-05-25T11:00:00.000,Service,"[-71.132005, 42.350021]",Point,Service,5,PROP,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,755641.4752,HARVARD AV,2952791.29,2015
+172263,152042993.0,Monday,No,2015-05-25T20:00:00.000,Service,"[-71.08181, 42.343496]",Point,Service,5,BE,0,D4,First,No,CUMBERLAND ST,Part three,Unarmed,769221.5068,,2950475.986,2015
+207136,152042976.0,Monday,No,2015-05-25T19:23:00.000,Service,"[-71.076928, 42.293667]",Point,Service,5,ARREST,0,B3,First,No,MILLET ST,Part three,Unarmed,770631.127,,2932323.6939999997,2015
+241392,152042967.0,Monday,No,2015-05-25T18:56:00.000,Service,"[-71.077999, 42.306128]",Point,Service,5,SS,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,770319.0636,,2936863.43,2015
+251424,152043104.0,Monday,No,2015-05-25T15:00:00.000,Service,"[-71.12088, 42.351821]",Point,Service,5,INVEST,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2015
+252504,152042980.0,Monday,No,2015-05-25T19:15:00.000,Service,"[-71.077578, 42.324227]",Point,Service,5,ARREST,0,B2,First,No,WINTHROP ST,Part three,Unarmed,770400.1993,,2943459.37,2015

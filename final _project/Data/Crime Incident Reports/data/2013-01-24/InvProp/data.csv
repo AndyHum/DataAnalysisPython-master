@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21220,130048674.0,Thursday,No,2013-01-24T09:00:00.000,InvProp,"[-71.09046, 42.330191]",Point,InvProp,1,IVPREM,290,B2,Day,No,ROXBURY ST,Part Three,Other,766906.3382,,2945616.055,2013
+62359,130050130.0,Thursday,No,2013-01-24T20:47:00.000,InvProp,"[-71.055665, 42.365316]",Point,InvProp,1,IVPREM,85,A1,First,No,PRINCE ST,Part Three,Unarmed,776248.1361,,2958463.3430000003,2013
+205572,130048898.0,Thursday,No,2013-01-24T10:53:00.000,InvProp,"[-71.053006, 42.313282]",Point,InvProp,1,IVPREM,249,C11,Day,No,SYDNEY ST,Part Three,Unarmed,777066.0032,,2939504.8010000004,2013

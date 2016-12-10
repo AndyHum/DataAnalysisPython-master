@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7097,130212869.0,Wednesday,No,2013-04-10T18:00:00.000,PersLoc,"[-71.07611, 42.293822]",Point,PersLoc,4,MISPER,448,B3,First,No,SPENCER ST,Part Three,Unarmed,770852.4041,,2932381.5730000003,2013
+23351,130213565.0,Wednesday,No,2013-04-10T02:30:00.000,PersLoc,"[-71.143891, 42.345952]",Point,PersLoc,4,MISPER,938,D14,Last,No,FIDELIS WY,Part Three,Unarmed,752434.4823,,2951294.5710000005,2013
+190517,130211304.0,Wednesday,No,2013-04-10T11:00:00.000,PersLoc,"[-71.07635, 42.287146]",Point,PersLoc,4,MISPER,446,B3,Day,No,PEACEVALE RD,Part Three,Unarmed,770799.5613,,2929948.413,2013

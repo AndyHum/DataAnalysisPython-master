@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30897,130745965.0,Sunday,No,2013-11-24T21:07:00.000,DISORDERLY,"[-71.080596, 42.327236]",Point,24xx,11,IVPER ,281,B2,First,No,GREENVILLE ST,Part Two,Unarmed,769578.6737,,2944551.923,2013
+72550,130744652.0,Sunday,No,2013-11-24T04:53:00.000,DISORDERLY,"[-71.08041, 42.298256]",Point,24xx,11,PARTY ,445,B3,Last,No,ROXTON ST,Part Two,Unarmed,769681.0823,,2933991.6289999997,2013
+216558,130744415.0,Sunday,No,2013-11-24T02:30:00.000,DISORDERLY,"[-71.06607, 42.351061]",Point,24xx,11,DISTRB,121,A1,Last,No,WARRENTON ST,Part Two,Unarmed,773462.6412,STUART ST,2953254.067,2013

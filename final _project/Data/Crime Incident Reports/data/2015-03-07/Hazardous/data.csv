@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12155,152018476.0,Saturday,No,2015-03-07T12:53:00.000,Hazardous,"[-71.10526, 42.323331]",Point,Hazardous,3,PROP,0,E13,Day,No,GAY HEAD ST,Other,Unarmed,762916.0207,,2943097.2819999997,2015
+80285,152018716.0,Saturday,No,2015-03-07T08:00:00.000,Hazardous,"[-71.068665, 42.357221]",Point,Hazardous,3,PROP,0,A1,Day,No,CHESTNUT ST,Other,Unarmed,772749.8399,,2955495.332,2015
+124963,152018497.0,Saturday,No,2015-03-07T13:45:00.000,Hazardous,"[-71.0636, 42.380321]",Point,Hazardous,3,IVPREM,0,A15,Day,No,ALLSTON ST,Other,Unarmed,774075.7467,,2963920.403,2015

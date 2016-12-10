@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16843,142047291.0,Sunday,No,2014-11-09T08:28:00.000,Arrest,"[-71.072995, 42.304498]",Point,Arrest,11,CD11,0,C11,Day,No,GENEVA AV,Part three,Unarmed,771675.6285,,2936276.22,2014
+62532,142047390.0,Sunday,No,2014-11-09T14:40:00.000,Arrest,"[-71.06283, 42.307571]",Point,Arrest,11,ARREST,0,C11,Day,No,ADAMS ST,Part three,Unarmed,774419.6684,WINTER ST,2937410.041,2014
+186418,142047631.0,Sunday,No,2014-11-09T12:00:00.000,Arrest,"[-71.06308, 42.330691]",Point,Arrest,11,ARREST,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,774308.8886,SOUTHAMPTON ST,2945834.998,2014
+206515,142047445.0,Sunday,No,2014-11-09T18:30:00.000,Arrest,"[-71.04162, 42.369616]",Point,Arrest,11,SS,0,A7,First,No,SUMNER ST,Part three,Unarmed,780035.3332,,2960050.433,2014

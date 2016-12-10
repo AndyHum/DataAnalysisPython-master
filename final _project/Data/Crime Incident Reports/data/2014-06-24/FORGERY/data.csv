@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87355,142002337.0,Tuesday,No,2014-06-24T09:35:00.000,FORGERY,"[-71.093775, 42.269596]",Point,10xx,6,LARCEN,0,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,766115.135,,2923530.012,2014
+94177,142008161.0,Tuesday,No,2014-06-24T07:00:00.000,FORGERY,"[-71.07142, 42.289601]",Point,10xx,6,LARCEN,0,C11,Last,No,WASHINGTON ST,Part Two,Unarmed,772129.0301,,2930849.713,2014
+135434,142002705.0,Tuesday,No,2014-06-24T15:00:00.000,FORGERY,"[-71.099385, 42.342666]",Point,10xx,6,LARCEN,0,D4,Day,No,KILMARNOCK ST,Part Two,Unarmed,764471.6869,,2950150.713,2014

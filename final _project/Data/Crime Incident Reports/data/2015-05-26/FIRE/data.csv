@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1870,152043060.0,Tuesday,No,2015-05-26T07:00:00.000,FIRE,"[0, 0]",Point,FIRE,5,FO,0,A7,Last,No,BOARDMAN ST,Part three,Unarmed,,MCCLELLAN HY,,2015
+42756,152043267.0,Tuesday,No,2015-05-26T16:25:00.000,FIRE,"[-71.09884, 42.274796]",Point,FIRE,5,FIRE,0,B3,First,No,ORLANDO ST,Part three,Other,764735.3419,,2925418.4760000003,2015
+138228,152043359.0,Tuesday,No,2015-05-26T21:41:00.000,FIRE,"[-71.13566, 42.242476]",Point,FIRE,5,FIRE,0,E18,First,No,NORTON ST,Part three,Unarmed,754820.8863,,2913595.923,2015

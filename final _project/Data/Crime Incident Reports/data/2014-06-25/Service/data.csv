@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107649,142002654.0,Wednesday,No,2014-06-25T07:17:00.000,Service,"[-71.080824, 42.312872]",Point,Service,6,ARREST,0,B2,Last,No,OTISFIELD ST,Part three,Unarmed,769542.8454,,2939317.2,2014
+170574,142002715.0,Wednesday,No,2014-06-25T11:00:00.000,Service,"[-71.0667, 42.300591]",Point,Service,6,ARREST,0,C11,Day,No,LEROY ST,Part three,Unarmed,773385.7792,GENEVA AV,2934861.0810000002,2014
+213630,142002874.0,Wednesday,No,2014-06-25T17:37:00.000,Service,"[-71.06827, 42.303356]",Point,Service,6,IVPREM,0,C11,First,No,TOPLIFF ST,Part three,Unarmed,772955.9566,,2935866.535,2014

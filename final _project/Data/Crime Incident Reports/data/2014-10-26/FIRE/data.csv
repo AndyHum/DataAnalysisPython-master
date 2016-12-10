@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53935,142042781.0,Sunday,No,2014-10-26T03:16:00.000,FIRE,"[-71.053506, 42.32612]",Point,FIRE,10,FIRE,0,C6,Last,No,GAVIN WY,Part three,Unarmed,776906.2024,,2944182.5530000003,2014
+92743,142042807.0,Sunday,No,2014-10-26T08:30:00.000,FIRE,"[-71.072995, 42.304498]",Point,FIRE,10,FIRE,0,C11,Day,No,GENEVA AV,Part three,Unarmed,771675.6285,,2936276.22,2014
+104307,142042743.0,Sunday,No,2014-10-26T01:07:00.000,FIRE,"[-71.121909, 42.320483]",Point,FIRE,10,FIRE,0,E13,Last,No,PERKINS ST,Part three,Unarmed,758418.175,,2942038.8189999997,2014

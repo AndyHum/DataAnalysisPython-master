@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50046,120537571.0,Tuesday,No,2012-08-28T19:30:00.000,DISORDERLY,"[-71.0729, 42.333256]",Point,24xx,8,REQP  ,172,D4,First,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2012
+222917,120537783.0,Tuesday,No,2012-08-28T21:09:00.000,DISORDERLY,"[-71.08181, 42.318281]",Point,24xx,8,SSTOP ,311,B2,First,No,WARREN ST,Part Two,Unarmed,769266.5575,MAYWOOD ST,2941287.1960000005,2012
+234934,120537227.0,Tuesday,No,2012-08-28T17:08:00.000,DISORDERLY,"[-71.055245, 42.379091]",Point,24xx,8,FIGHT ,900,A15,First,No,MEDFORD ST,Part Two,Unarmed,776335.4643,,2963483.825,2012

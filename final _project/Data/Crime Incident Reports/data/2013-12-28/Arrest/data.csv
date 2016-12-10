@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104908,130601021.0,Saturday,No,2013-12-28T23:20:00.000,Arrest,"[-70.972049, 42.312511]",Point,Arrest,12,IVPER ,624,C11,First,No,LONG ISLAND RD,Part three,Unarmed,798964.0477,,2939348.963,2013
+119335,130813970.0,Saturday,No,2013-12-28T00:12:00.000,Arrest,"[-71.08906, 42.285216]",Point,Arrest,12,ARREST,430,B3,Last,No,LUCERNE ST,Part three,Unarmed,767363.8569,,2929228.267,2013
+137966,130815621.0,Saturday,No,2013-12-28T20:47:00.000,Arrest,"[-71.07188, 42.293201]",Point,Arrest,12,ARREST,359,C11,First,No,WASHINGTON ST,Part three,Unarmed,771997.9827,MELVILLE AV,2932160.98,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112438,142047592.0,Monday,No,2014-11-10T08:22:00.000,FIRE,"[-71.139352, 42.240701]",Point,FIRE,11,FIRE,0,E18,Day,No,COMO RD,Part three,Unarmed,753823.8916,,2912944.788,2014
+116420,142047825.0,Monday,No,2014-11-10T22:21:00.000,FIRE,"[-71.073635, 42.288136]",Point,FIRE,11,FIRE,0,B3,First,No,OAKWOOD ST,Part three,Unarmed,771532.3853,,2930312.8430000003,2014
+233219,142047595.0,Monday,No,2014-11-10T09:15:00.000,FIRE,"[-71.084695, 42.305636]",Point,FIRE,11,FIRE,0,B2,Day,No,BLUE HILL AV,Part three,Other,768508.75,,2936675.341,2014

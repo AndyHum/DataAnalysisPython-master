@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64448,140242180.0,Monday,No,2014-04-21T11:45:00.000,Service,"[-71.0626, 42.352361]",Point,Service,4,ARREST,112,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774398.1813,ESSEX ST,2953732.602,2014
+179446,140242894.0,Monday,No,2014-04-21T18:41:00.000,Service,"[-71.08507, 42.328881]",Point,Service,4,AOD   ,282,B2,First,No,WASHINGTON ST,Part three,Other,768366.1044,DUDLEY ST,2945145.712,2014
+180642,140242597.0,Monday,No,2014-04-21T15:45:00.000,Service,"[-71.04625, 42.354256]",Point,Service,4,ARREST,207,C6,Day,No,COURTHOUSE WY,Part three,Other,778813.9495,,2954446.2630000003,2014
+198832,140242158.0,Monday,No,2014-04-21T11:53:00.000,Service,"[-71.05853, 42.350901]",Point,Service,4,ARREST,116,A1,Day,No,BEACH ST,Part three,Unarmed,775501.0657,LINCOLN ST,2953206.2189999996,2014

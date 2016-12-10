@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88627,120605169.0,Wednesday,No,2012-09-26T13:30:00.000,Service,"[-71.07629, 42.311596]",Point,Service,9,INVEST,328,B2,Day,No,LAWRENCE AV,Part Three,Unarmed,770771.5345,,2938858.442,2012
+148021,120606652.0,Wednesday,No,2012-09-26T22:13:00.000,Service,"[-71.073665, 42.282068]",Point,Service,9,SSTOP ,417,C11,First,No,MORA ST,Part Three,Unarmed,771535.1918,WASHINGTON ST,2928101.3230000003,2012
+148059,120605727.0,Wednesday,No,2012-09-26T15:08:00.000,Service,"[-71.06254, 42.353221]",Point,Service,9,ARREST,111,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774412.7922,AVERY ST,2954046.086,2012
+153607,120604910.0,Wednesday,No,2012-09-26T09:30:00.000,Service,"[-71.06287, 42.352321]",Point,Service,9,ARREST,117,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,774325.2748,,2953717.652,2012
+170056,120605026.0,Wednesday,No,2012-09-26T10:26:00.000,Service,"[-71.070835, 42.331511]",Point,Service,9,ARREST,177,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,772210.4703,,2946123.1760000004,2012
+237631,120605230.0,Wednesday,No,2012-09-26T11:54:00.000,Service,"[-71.052765, 42.329236]",Point,Service,9,INVEST,192,C6,Day,No,PREBLE ST,Part Three,Unarmed,777100.7925,,2945319.228,2012
+260376,120606029.0,Wednesday,No,2012-09-26T17:22:00.000,Service,"[0, 0]",Point,Service,9,ARREST,282,B2,First,No,WASHINGTON ST,Part Three,Unarmed,,,,2012

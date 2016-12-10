@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2375,152026440.0,Wednesday,No,2015-04-01T15:46:00.000,Service,"[0, 0]",Point,Service,4,MVA,0,B3,Day,No,W SELDEN ST,Part three,Unarmed,,,,2015
+215093,152026545.0,Wednesday,No,2015-04-01T19:05:00.000,Service,"[-71.083705, 42.307601]",Point,Service,4,ARREST,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,768773.0526,,2937392.724,2015
+247775,152026625.0,Wednesday,No,2015-04-01T16:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,4,IVPREM,0,A15,First,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+267181,152026520.0,Wednesday,No,2015-04-01T19:30:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,B3,First,No,BLUE HILL AV,Part three,Other,,,,2015
+267186,152026526.0,Wednesday,No,2015-04-01T18:00:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,D4,First,No,HARRISON AV,Part three,Unarmed,,,,2015
+267277,152026799.0,Wednesday,No,2015-04-01T18:00:00.000,Service,"[0, 0]",Point,Service,4,LARCEN,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015

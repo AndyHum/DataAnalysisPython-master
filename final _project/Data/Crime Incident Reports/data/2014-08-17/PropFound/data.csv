@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26750,142020234.0,Sunday,No,2014-08-17T12:20:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,8,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+60677,142020258.0,Sunday,No,2014-08-17T15:10:00.000,PropFound,"[-71.064035, 42.298171]",Point,PropFound,8,IVPREM,0,C11,Day,No,MARLOWE ST,Part three,Unarmed,774111.2325,,2933982.8710000003,2014
+146559,142020183.0,Sunday,No,2014-08-17T09:15:00.000,PropFound,"[-71.08357, 42.350261]",Point,PropFound,8,SUSOBJ,0,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,768733.6695,,2952938.954,2014
+220011,142020162.0,Sunday,No,2014-08-17T07:45:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,8,PROP,0,C11,Day,No,GIBSON ST,Part three,Other,775275.7115,,2933759.268,2014
+241575,142020191.0,Sunday,No,2014-08-17T09:00:00.000,PropFound,"[-71.040645, 42.332196]",Point,PropFound,8,IVPER,0,C6,Day,No,E 7TH ST,Part three,Unarmed,780372.2446,,2946415.318,2014

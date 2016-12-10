@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+184839,130514707.0,Friday,No,2013-08-16T05:32:00.000,Arrest,"[-71.05751, 42.311671]",Point,Arrest,8,IVPER ,254,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775850.9453,,2938911.564,2013
+209546,130518951.0,Friday,No,2013-08-16T17:30:00.000,Arrest,"[-71.12395, 42.256421]",Point,Arrest,8,CD11  ,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2013
+236995,130515158.0,Friday,No,2013-08-16T10:57:00.000,Arrest,"[-71.06205, 42.293831]",Point,Arrest,8,ARREST,363,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774656.363,,2932404.063,2013

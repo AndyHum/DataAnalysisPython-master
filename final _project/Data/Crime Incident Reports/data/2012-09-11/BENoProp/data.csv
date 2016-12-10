@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50165,120569283.0,Tuesday,No,2012-09-11T16:00:00.000,BENoProp,"[-71.143729, 42.359745]",Point,BENoProp,9,NIDV  ,805,D14,First,No,BRONSDON ST,Part One,Unarmed,752457.2854,,2956321.325,2012
+121060,120569379.0,Tuesday,No,2012-09-11T16:06:00.000,BENoProp,"[-71.05766, 42.295991]",Point,BENoProp,9,BERPT ,355,C11,First,No,DIX ST,Part One,Other,775840.0044,,2933197.329,2012
+153498,120568773.0,Tuesday,No,2012-09-11T12:10:00.000,BENoProp,"[-71.06818, 42.298401]",Point,BENoProp,9,IVPREM,357,C11,Day,No,TONAWANDA ST,Part One,Unarmed,772989.4359,,2934060.992,2012
+190944,120568080.0,Tuesday,No,2012-09-11T03:46:00.000,BENoProp,"[-71.111099, 42.332557]",Point,BENoProp,9,ARREST,606,B2,Last,No,HUNTINGTON AV,Part One,Unarmed,761321.6315,,2946451.875,2012

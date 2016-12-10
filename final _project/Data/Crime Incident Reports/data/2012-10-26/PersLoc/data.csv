@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129831,120676324.0,Friday,No,2012-10-26T22:21:00.000,PersLoc,"[-71.12554, 42.252956]",Point,PersLoc,10,MISPER,522,E18,First,No,FACTORY ST,Part Three,Unarmed,757544.3421,,2917426.8310000002,2012
+216305,120677857.0,Friday,No,2012-10-26T06:30:00.000,PersLoc,"[-71.1032, 42.261326]",Point,PersLoc,10,MISPER,484,E18,Last,No,HOPEWELL RD,Part Three,Unarmed,763578.2142,,2920504.309,2012
+220439,120675948.0,Friday,No,2012-10-26T19:12:00.000,PersLoc,"[-71.140865, 42.348921]",Point,PersLoc,10,ALARMI,783,D14,First,No,WARREN ST,Part Three,Unarmed,753248.1867,,2952380.2180000003,2012
+241865,120676384.0,Friday,No,2012-10-26T16:00:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,10,MISPER,256,C6,First,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012

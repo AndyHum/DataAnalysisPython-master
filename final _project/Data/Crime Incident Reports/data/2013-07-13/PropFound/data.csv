@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30193,130433013.0,Saturday,No,2013-07-13T16:43:00.000,PropFound,"[-71.084225, 42.349351]",Point,PropFound,7,FDPROP,141,D4,First,No,GLOUCESTER ST,Part three,Unarmed,768558.2328,,2952606.4669999997,2013
+54624,130434015.0,Saturday,No,2013-07-13T23:42:00.000,PropFound,"[-71.10164, 42.344226]",Point,PropFound,7,FIGHT ,628,D4,First,No,BROOKLINE AV,Part three,Unarmed,763859.4027,,2950716.352,2013
+72475,130431958.0,Saturday,No,2013-07-13T02:10:00.000,PropFound,"[-71.06606, 42.318816]",Point,PropFound,7,SSTOP ,0,B2,Last,No,WENDOVER ST,Part three,Unarmed,773525.1258,,2941503.436,2013
+126433,130433034.0,Saturday,No,2013-07-13T16:04:00.000,PropFound,"[-71.057102, 42.367962]",Point,PropFound,7,IVPREM,82,A1,First,No,COMMERCIAL ST,Part three,Unarmed,775854.7691,,2959425.5810000002,2013
+169733,130432211.0,Saturday,No,2013-07-13T08:44:00.000,PropFound,"[-71.14941, 42.355611]",Point,PropFound,7,FDPROP,768,D14,Day,No,MARKET ST,Part three,Unarmed,750928.2947,,2954808.582,2013
+189087,130433736.0,Saturday,No,2013-07-13T20:30:00.000,PropFound,"[-71.07884, 42.335041]",Point,PropFound,7,FDPROP,272,D4,First,No,LENOX ST,Part three,Unarmed,770039.6316,WASHINGTON ST,2947398.78,2013
+216958,130433175.0,Saturday,No,2013-07-13T17:00:00.000,PropFound,"[-71.120948, 42.309917]",Point,PropFound,7,FDPROP,644,E13,First,No,PRINCE ST,Part three,Unarmed,758695.2129,,2938189.668,2013

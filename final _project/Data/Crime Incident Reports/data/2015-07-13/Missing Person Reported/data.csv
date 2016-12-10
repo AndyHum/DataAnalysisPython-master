@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30159,,Monday,No,2015-07-13T16:21:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,7,IVPER,806,D14,,No,RICHARDSON ST,Part Three,None,,,,2015
+65737,,Monday,No,2015-07-13T00:00:00.000,Missing Person Reported,"[-71.123041, 42.286245]",Point,PersMiss,7,I00027,562,E5,,No,SYCAMORE ST,Part Three,None,758167.0,,2930000.0,2015
+153192,,Monday,No,2015-07-13T00:00:00.000,Missing Person Reported,"[-71.082157, 42.312973]",Point,PersMiss,7,IVPER,321,B2,,No,ELM HILL PARK,Part Three,None,769182.0,,2940000.0,2015
+175414,,Monday,No,2015-07-13T00:00:00.000,Missing Person Reported,"[-71.119155, 42.271625]",Point,PersMiss,7,IVPER,498,E18,,No,CLARE AVE,Part Three,None,759242.0,,2920000.0,2015
+235084,,Monday,No,2015-07-13T00:00:00.000,Missing Person Reported,"[-71.075995, 42.291389]",Point,PersMiss,7,ALARM,438,B3,,No,TALBOT AVE,Part Three,None,770888.0,,2930000.0,2015
+252057,,Monday,No,2015-07-13T00:00:00.000,Missing Person Reported,"[-71.125629, 42.270414]",Point,PersMiss,7,I00027,553,E18,,No,WINDHAM RD,Part Three,None,757492.0,,2920000.0,2015

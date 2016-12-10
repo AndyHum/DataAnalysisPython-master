@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16692,152007041.0,Saturday,No,2015-01-24T23:00:00.000,PropLost,"[-71.12813, 42.247596]",Point,PropLost,1,IVPER,0,E18,First,No,ALLEN ST,Part three,Other,756851.6713,,2915470.5110000004,2015
+45602,152006667.0,Saturday,No,2015-01-24T20:17:00.000,PropLost,"[-71.085618, 42.32866]",Point,PropLost,1,PROP,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+63043,152006630.0,Saturday,No,2015-01-24T15:30:00.000,PropLost,"[-71.06458, 42.352351]",Point,PropLost,1,IVPER,0,A1,Day,No,TREMONT ST,Part three,Unarmed,773863.0019,BOYLSTON ST,2953726.22,2015
+76033,152006815.0,Saturday,No,2015-01-24T19:00:00.000,PropLost,"[-71.0612, 42.365521]",Point,PropLost,1,PROP,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774751.9335,CANAL ST,2958530.305,2015
+124776,152006639.0,Saturday,No,2015-01-24T06:45:00.000,PropLost,"[-71.114273, 42.311901]",Point,PropLost,1,PROP,0,E13,Last,No,CENTRE ST,Part three,Unarmed,760497.2545,,2938920.7630000003,2015
+139750,152006778.0,Saturday,No,2015-01-24T12:00:00.000,PropLost,"[-71.11591, 42.310116]",Point,PropLost,1,PROP,0,E13,Day,No,ELIOT ST,Part three,Unarmed,760057.656,,2938268.36,2015
+260348,152007394.0,Saturday,No,2015-01-24T06:45:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,A1,Last,No,CENTRE STREET TR,Part three,Unarmed,,,,2015
+262240,152006591.0,Saturday,No,2015-01-24T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,C6,Day,No,W BROADWAY,Part three,Unarmed,,,,2015

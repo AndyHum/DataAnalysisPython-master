@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57135,130673665.0,Tuesday,No,2013-10-22T13:57:00.000,Arrest,"[-71.085618, 42.32866]",Point,Arrest,10,CD13  ,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+77476,130673557.0,Tuesday,No,2013-10-22T13:10:00.000,Arrest,"[-71.03511, 42.380531]",Point,Arrest,10,ARREST,0,A7,Day,No,WHITE ST,Part three,Unarmed,781772.8403,,2964037.6010000003,2013
+81214,130673096.0,Tuesday,No,2013-10-22T09:45:00.000,Arrest,"[-71.070462, 42.339619]",Point,Arrest,10,CD11  ,905,D4,Day,No,HARRISON ARCHWAYS,Part three,Unarmed,772296.2959,,2949078.2210000004,2013

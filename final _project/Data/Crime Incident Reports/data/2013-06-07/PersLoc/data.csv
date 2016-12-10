@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7832,130345696.0,Friday,No,2013-06-07T16:58:00.000,PersLoc,"[-71.14026, 42.352531]",Point,PersLoc,6,MSNCOM,795,D14,First,No,CAMBRIDGE ST,Other,Unarmed,753406.1814,GORDON ST,2953696.4639999997,2013
+86065,130346416.0,Friday,No,2013-06-07T23:50:00.000,PersLoc,"[-71.070946, 42.307505]",Point,PersLoc,6,MISPER,336,C11,Last,No,RICHFIELD ST,Other,Unarmed,772224.2311,,2937374.687,2013
+110399,130348315.0,Friday,No,2013-06-07T19:00:00.000,PersLoc,"[-71.092915, 42.314081]",Point,PersLoc,6,MISPER,316,B2,First,No,RUTHVEN ST,Other,Unarmed,766270.5329999999,,2939742.1180000002,2013
+254984,130346615.0,Friday,No,2013-06-07T23:50:00.000,PersLoc,"[-71.070946, 42.307505]",Point,PersLoc,6,MISPER,336,C11,Last,No,RICHFIELD ST,Part Three,Unarmed,772224.2311,,2937374.687,2013

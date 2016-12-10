@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+189081,130259995.0,Thursday,No,2013-05-02T17:33:00.000,FIRE,"[-71.0649, 42.320571]",Point,FIRE,5,FIREB ,237,B2,First,No,ELDER ST,Part Three,Unarmed,773835.5812,,2942144.585,2013
+192388,130259965.0,Thursday,No,2013-05-02T17:20:00.000,FIRE,"[-71.07395, 42.298386]",Point,FIRE,5,FIREB ,453,B3,First,No,GAYLORD ST,Part Three,Other,771428.4941,,2934047.667,2013
+193442,130260456.0,Thursday,No,2013-05-02T21:43:00.000,FIRE,"[-71.0938, 42.268671]",Point,FIRE,5,FV    ,476,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766109.9741,FAIRWAY ST,2923192.898,2013

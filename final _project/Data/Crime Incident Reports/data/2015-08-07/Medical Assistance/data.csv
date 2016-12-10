@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10079,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.089125, 42.281972]",Point,MedAssist,8,IVPREM,428,B3,,No,SUTTON ST,Part Three,None,767352.0,,2930000.0,2015
+15030,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.11379, 42.286486]",Point,MedAssist,8,ALARM,503,E18,,No,NEPONSET AVE,Part Three,None,760670.0,,2930000.0,2015
+38990,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.078416, 42.312867]",Point,MedAssist,8,REQP,326,B2,,No,LAWRENCE AVE,Part Three,None,770194.0,,2940000.0,2015
+41394,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.068139, 42.284004]",Point,MedAssist,8,STAB,402,C11,,No,BAILEY ST,Part Three,None,773027.0,,2930000.0,2015
+105008,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.067624, 42.30574]",Point,MedAssist,8,EDP,336,C11,,No,BOWDOIN ST,Part Three,None,773126.0,,2940000.0,2015
+106823,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.063165, 42.313642]",Point,MedAssist,8,EDP,257,C11,,No,CUSHING AVE,Part Three,None,774318.0,,2940000.0,2015
+124566,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.076207, 42.347671]",Point,MedAssist,8,IVPER,149,D4,,No,DARTMOUTH ST,Part Three,None,770728.0,,2950000.0,2015
+137895,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.136225, 42.29036]",Point,MedAssist,8,UNCONS,674,E5,,No,SELWYN ST,Part Three,None,754593.0,,2930000.0,2015
+168957,,Friday,No,2015-08-07T12:57:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,8,INVEST,168,D4,,No,E NEWTON ST,Part Three,None,,SAINT GEORGE ST,,2015
+195858,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.0987, 42.315384]",Point,MedAssist,8,POISON,577,E13,,No,WASHINGTON ST,Part Three,None,764703.0,,2940000.0,2015
+203844,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.036189, 42.347785]",Point,MedAssist,8,INVEST,207,C6,,No,NORTHERN AVE,Part Three,None,781546.0,,2950000.0,2015
+208270,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.058731, 42.322316]",Point,MedAssist,8,IVPER,188,C6,,No,MOUNT VERNON ST,Part Three,None,775500.0,,2940000.0,2015
+235168,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.138758, 42.343732]",Point,MedAssist,8,IVPER,791,D14,,No,COREY RD,Part Three,None,753826.0,,2950000.0,2015
+239484,,Friday,No,2015-08-07T00:00:00.000,Medical Assistance,"[-71.069293, 42.306006]",Point,MedAssist,8,EDP,336,C11,,No,INWOOD ST,Part Three,None,772674.0,,2940000.0,2015

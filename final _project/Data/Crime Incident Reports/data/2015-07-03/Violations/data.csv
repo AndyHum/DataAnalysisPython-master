@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5150,,Friday,No,2015-07-03T02:08:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,ARREST,309,B2,,No,HUMBOLDT AVE,Part Two,Knife/Cutting Instrument,,WALNUT AVE,,2015
+17453,,Friday,No,2015-07-03T14:43:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,12,A7,,No,BOARDMAN ST,Part Two,None,, WILLIAM F MCCLELLAN HWY ,,2015
+46258,,Friday,No,2015-07-03T14:19:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,693,E5,,No,FARMINGTON RD,Part Two,None,,MANTHORNE RD,,2015
+108341,,Friday,No,2015-07-03T00:16:00.000,Violations,"[0, 0]",Point,VAL,7,IVMV,42,A15,,No,MEDFORD ST,Part Two,None,,TUFTS ST,,2015
+120096,,Friday,No,2015-07-03T00:00:00.000,Restraining Order Violations,"[-71.082912, 42.329345]",Point,Restrain,7,VIORDR,280,B2,,No,ZEIGLER ST,Part Two,None,768949.0,,2950000.0,2015
+124901,,Friday,No,2015-07-03T00:00:00.000,Violations,"[-71.066316, 42.288638]",Point,VAL,7,TS,817,C11,,No,TALBOT AVE,Part Two,None,773512.0,,2930000.0,2015
+144170,,Friday,No,2015-07-03T00:00:00.000,Violations,"[-71.086317, 42.276931]",Point,VAL,7,TS,421,B3,,No,W SELDEN ST,Part Two,None,768121.0,,2930000.0,2015
+168524,,Friday,No,2015-07-03T00:00:00.000,Violations,"[-71.085063, 42.278328]",Point,VAL,7,TS,421,B3,,No,W SELDEN ST,Part Two,None,768458.0,,2930000.0,2015
+186889,,Friday,No,2015-07-03T16:27:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,0,,,No,CLARENDON ST,Part Two,None,,,,2015
+202879,,Friday,No,2015-07-03T19:20:00.000,Violations,"[0, 0]",Point,VAL,7,TS,458,B3,,No,ELLINGTON ST,Part Two,None,,ERIE ST,,2015
+215298,,Friday,No,2015-07-03T00:00:00.000,Restraining Order Violations,"[-71.06724, 42.293256]",Point,Restrain,7,VIORDR,361,C11,,No,ALLSTON ST,Part Two,None,773253.0,,2930000.0,2015
+236403,,Friday,No,2015-07-03T00:00:00.000,Violations,"[-71.056383, 42.290367]",Point,VAL,7,MVA,366,C11,,No,ADAMS ST,Part Two,None,776196.0,,2930000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48092,130400931.0,Sunday,No,2013-06-30T16:55:00.000,DISORDERLY,"[-71.05724, 42.360116]",Point,24xx,6,ARREST,0,A1,First,No,CITY HALL PZ,Part Two,Other,775832.3331,,2956566.147,2013
+61161,130399784.0,Sunday,No,2013-06-30T02:16:00.000,DISORDERLY,"[-71.065485, 42.351054]",Point,24xx,6,FIGHT ,118,A1,Last,No,STUART ST,Part Two,Unarmed,773620.7745,,2953252.21,2013
+118934,130400778.0,Sunday,No,2013-06-30T16:00:00.000,DISORDERLY,"[-71.059415, 42.359251]",Point,24xx,6,REQP  ,92,A1,First,No,CITY HALL PZ,Part Two,Unarmed,775246.1256,,2956247.881,2013
+155614,130401463.0,Sunday,No,2013-06-30T21:23:00.000,DISORDERLY,"[-71.040025, 42.287886]",Point,24xx,6,HARPT ,372,C11,First,No,WALNUT ST,Part Two,Unarmed,780626.962,,2930268.9889999996,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28851,152048232.0,Wednesday,No,2015-06-10T22:30:00.000,Gather,"[-71.076775, 42.335256]",Point,Gather,6,DISTRB,0,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770597.5713,,2947479.894,2015
+44794,152048178.0,Wednesday,No,2015-06-10T18:40:00.000,Gather,"[-71.042455, 42.319006]",Point,Gather,6,IVMV,0,C6,First,No,HARBOR POINT BL,Part three,Unarmed,779908.6248,,2941606.0360000003,2015
+90713,152047944.0,Wednesday,No,2015-06-10T07:40:00.000,Gather,"[-71.05807, 42.302941]",Point,Gather,6,LANTEN,0,C11,Day,No,FENTON ST,Part three,Unarmed,775715.9613,,2935729.434,2015
+144557,152047917.0,Wednesday,No,2015-06-10T01:04:00.000,Gather,"[-71.055985, 42.363381]",Point,Gather,6,DISTRB,0,A1,Last,No,SALEM ST,Part three,Unarmed,776165.3272,,2957757.7410000004,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31598,120657033.0,Thursday,No,2012-10-18T16:43:00.000,MedAssist,"[-71.058202, 42.305288]",Point,MedAssist,10,ASTEMS,348,C11,First,No,ELLSWORTH ST,Part Three,Unarmed,775675.8354,,2936584.56,2012
+39530,120656916.0,Thursday,No,2012-10-18T16:00:00.000,MedAssist,"[-71.137, 42.278291]",Point,MedAssist,10,INJOFF,691,E5,First,No,WASHINGTON ST,Part Three,Unarmed,754402.5049,BEECH ST,2926645.8419999997,2012
+60769,120655539.0,Thursday,No,2012-10-18T01:27:00.000,MedAssist,"[-71.05998, 42.379651]",Point,MedAssist,10,ARREST,900,A15,Last,No,CARNEY CT,Part Three,Unarmed,775055.0699,,2963681.265,2012
+78181,120655435.0,Thursday,No,2012-10-18T00:19:00.000,MedAssist,"[-71.05998, 42.379651]",Point,MedAssist,10,CARST ,900,A15,Last,No,CARNEY CT,Part Three,Unarmed,775055.0699,,2963681.265,2012
+141466,120657469.0,Thursday,No,2012-10-18T20:17:00.000,MedAssist,"[-71.05179, 42.335731]",Point,MedAssist,10,EDP2  ,215,C6,First,No,E ST,Part Three,Unarmed,777351.9961,,2947687.501,2012
+164816,120655388.0,Thursday,No,2012-10-18T00:01:00.000,MedAssist,"[-71.10251, 42.334991]",Point,MedAssist,10,IVPER ,602,B2,Last,No,HUNTINGTON AV,Part Three,Other,763639.8941,WIGGLESWORTH ST,2947349.847,2012
+172641,120657464.0,Thursday,No,2012-10-18T20:16:00.000,MedAssist,"[-71.07194, 42.288446]",Point,MedAssist,10,OT    ,436,C11,First,No,EUCLID ST,Part Three,Unarmed,771990.4445,,2930428.1089999997,2012
+179580,120656436.0,Thursday,No,2012-10-18T12:33:00.000,MedAssist,"[-71.082939, 42.304521]",Point,MedAssist,10,UNK   ,330,B2,Day,No,SEAVER ST,Part Three,Unarmed,768985.545,,2936271.374,2012
+228032,120657735.0,Thursday,No,2012-10-18T11:31:00.000,MedAssist,"[-71.048987, 42.332231]",Point,MedAssist,10,REQP  ,219,C6,Day,No,MERCER ST,Part Three,Unarmed,778116.5759,,2946415.9760000003,2012

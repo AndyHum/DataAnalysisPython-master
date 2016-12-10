@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33483,152006224.0,Friday,No,2015-01-23T11:15:00.000,PropLost,"[-71.055537, 42.34061]",Point,PropLost,1,LARCEN,0,C6,Day,No,W 4TH ST,Part three,Other,776329.6405,,2949460.242,2015
+49720,152007163.0,Friday,No,2015-01-23T14:00:00.000,PropLost,"[-71.10626, 42.335016]",Point,PropLost,1,LARCEN,0,B2,Day,No,FRANCIS ST,Part three,Unarmed,762625.9366,,2947354.255,2015
+54613,152006401.0,Friday,No,2015-01-23T20:30:00.000,PropLost,"[-71.06376, 42.344931]",Point,PropLost,1,LARCEN,0,D4,First,No,HARRISON AV,Part three,Unarmed,774098.478,,2951023.367,2015
+86710,152007422.0,Friday,No,2015-01-23T12:30:00.000,PropLost,"[-71.08284, 42.309116]",Point,PropLost,1,PROP,0,B2,Day,No,BLUE HILL AV,Part three,Unarmed,769004.3297,,2937945.957,2015
+89333,152010102.0,Friday,No,2015-01-23T15:00:00.000,PropLost,"[-71.063785, 42.302456]",Point,PropLost,1,PROP,0,C11,Day,No,DRAPER ST,Part three,Unarmed,774170.8801,,2935544.7339999997,2015
+149874,152011680.0,Friday,No,2015-01-23T09:05:00.000,PropLost,"[-71.07843, 42.349776]",Point,PropLost,1,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,,2952769.035,2015
+189510,152007173.0,Friday,No,2015-01-23T15:30:00.000,PropLost,"[-71.08017, 42.331521]",Point,PropLost,1,PROP,0,B2,Day,No,HARRISON AV,Part three,Unarmed,769686.3424,,2946114.258,2015
+218098,152006449.0,Friday,No,2015-01-23T21:00:00.000,PropLost,"[-71.10689, 42.338716]",Point,PropLost,1,PROP,0,B2,First,No,LONGWOOD AV,Part three,Unarmed,762449.3848,,2948701.8189999997,2015
+261779,152006444.0,Friday,No,2015-01-23T22:45:00.000,PropLost,"[0, 0]",Point,PropLost,1,PROP,0,B2,First,No,ALLSTATE RD,Part three,Unarmed,,,,2015
+262420,152006382.0,Friday,No,2015-01-23T15:30:00.000,PropLost,"[0, 0]",Point,PropLost,1,LARCEN,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015

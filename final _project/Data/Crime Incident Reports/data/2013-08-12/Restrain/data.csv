@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8515,130505280.0,Monday,No,2013-08-12T09:30:00.000,Restrain,"[-71.09738, 42.343691]",Point,Restrain,8,VIORDR,624,D4,Day,No,JERSEY ST,Part Two,Unarmed,765011.9643,PETERBOROUGH ST,2950526.795,2013
+9085,130507179.0,Monday,No,2013-08-12T21:00:00.000,Restrain,"[-71.127358, 42.236039]",Point,Restrain,8,THREAT,525,E18,First,No,NEPONSET VALLEY PY,Part Two,Unarmed,757079.0429,,2911259.693,2013
+120433,130506215.0,Monday,No,2013-08-12T17:09:00.000,Restrain,"[-71.09423, 42.267471]",Point,Restrain,8,ARREST,426,B3,First,No,CUMMINS HY,Part Two,Unarmed,765995.6708,RIVER ST,2922755.048,2013

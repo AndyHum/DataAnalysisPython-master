@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43542,152009003.0,Tuesday,No,2015-02-03T14:12:00.000,MedAssist,"[-71.119485, 42.258571]",Point,MedAssist,2,ALARM,0,E18,Day,No,LINCOLN ST,Part three,Unarmed,759174.474,,2919480.265,2015
+52942,152008894.0,Tuesday,No,2015-02-03T09:34:00.000,MedAssist,"[-71.048531, 42.337316]",Point,MedAssist,2,IVPER,0,C6,Day,No,W BROADWAY,Part three,Unarmed,778230.0596,,2948269.7369999997,2015
+60057,152008995.0,Tuesday,No,2015-02-03T15:39:00.000,MedAssist,"[-71.114273, 42.311901]",Point,MedAssist,2,DVIP,0,E13,Day,No,CENTRE ST,Part three,Unarmed,760497.2545,,2938920.7630000003,2015
+95204,152009019.0,Tuesday,No,2015-02-03T17:00:00.000,MedAssist,"[-71.081633, 42.318648]",Point,MedAssist,2,EDP,0,B2,First,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2015
+179115,152008877.0,Tuesday,No,2015-02-03T10:00:00.000,MedAssist,"[-71.045379, 42.337142]",Point,MedAssist,2,POISON,0,C6,Day,No,BOLTON ST,Part three,Other,779082.5284,,2948210.921,2015
+184926,152009110.0,Tuesday,No,2015-02-03T21:00:00.000,MedAssist,"[-71.061985, 42.317751]",Point,MedAssist,2,REQP,0,C11,First,No,SUMNER ST,Part three,Unarmed,774629.1856,,2941120.966,2015
+238429,152009063.0,Tuesday,No,2015-02-03T18:20:00.000,MedAssist,"[-71.090905, 42.289722]",Point,MedAssist,2,EDP,0,B3,First,No,FABYAN ST,Part three,Unarmed,766856.5725,,2930867.615,2015
+240707,152008896.0,Tuesday,No,2015-02-03T10:52:00.000,MedAssist,"[-71.091325, 42.284861]",Point,MedAssist,2,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+251866,152008874.0,Tuesday,No,2015-02-03T09:12:00.000,MedAssist,"[-71.06749, 42.306571]",Point,MedAssist,2,EDP,0,C11,Day,No,HAMILTON ST,Part three,Unarmed,773161.0159,,2937039.2,2015
+260933,152009112.0,Tuesday,No,2015-02-03T22:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,IVPER,0,D14,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+261481,152008912.0,Tuesday,No,2015-02-03T11:38:00.000,MedAssist,"[0, 0]",Point,MedAssist,2,REQP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015

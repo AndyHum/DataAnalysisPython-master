@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4456,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.093051, 42.28414]",Point,InvPer,8,DISTRB,466,B3,,No,DEERING RD,Part Three,None,766286.0,,2930000.0,2015
+13341,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.092211, 42.268714]",Point,InvPer,8,IVPER,426,B3,,No,RIVER ST,Part Three,None,766540.0,,2920000.0,2015
+18773,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.101898, 42.27072]",Point,InvPer,8,DISTRB,475,B3,,No,CUMMINS HWY,Part Three,None,763914.0,,2920000.0,2015
+45891,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.069547, 42.362403]",Point,InvPer,8,AB,64,A1,,No,FRUIT ST,Part Three,Other,772502.0,,2960000.0,2015
+61717,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.095655, 42.268642]",Point,InvPer,8,NIDV,476,B3,,No,CUMMINS HWY,Part Three,None,765608.0,,2920000.0,2015
+79035,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.079152, 42.34731]",Point,InvPer,8,IVPER,146,D4,,No,HUNTINGTON AVE,Part Three,None,769933.0,,2950000.0,2015
+91503,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.117148, 42.284748]",Point,InvPer,8,IVPER,502,E18,,No,HOLLY RD,Part Three,None,759764.0,,2930000.0,2015
+120484,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.058524, 42.359721]",Point,InvPer,8,IVPREM,92,A1,,No,CITY HALL PLZ,Part Three,None,775486.0,,2960000.0,2015
+145599,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.136372, 42.280113]",Point,InvPer,8,INVEST,681,E5,,No,CORNELL ST,Part Three,None,754570.0,,2930000.0,2015
+147775,,Sunday,No,2015-08-02T13:17:00.000,Investigate Person,"[0, 0]",Point,InvPer,8,I00015,523,E18,,No,HYDE PARK AVE,Part Three,None,,MILTON ST,,2015
+154980,,Sunday,No,2015-08-02T14:56:00.000,Investigate Person,"[0, 0]",Point,InvPer,8,FIGHT,582,E13,,No,CENTRE ST,Part Three,None,,GAY HEAD ST,,2015
+205164,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.087716, 42.328741]",Point,InvPer,8,ADMRPT,292,B2,,No,KENILWORTH ST,Part Three,None,767651.0,,2950000.0,2015
+217456,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.028577, 42.379504]",Point,InvPer,8,IVPER,17,A7,,No,SARATOGA ST,Part Three,None,783540.0,,2960000.0,2015
+235062,,Sunday,No,2015-08-02T00:00:00.000,Investigate Person,"[-71.088763, 42.296421]",Point,InvPer,8,NIDV,463,B3,,No,ANGELL ST,Part Three,None,767424.0,,2930000.0,2015

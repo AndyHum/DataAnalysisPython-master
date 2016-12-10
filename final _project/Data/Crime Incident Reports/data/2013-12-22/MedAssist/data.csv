@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13426,130804260.0,Sunday,No,2013-12-22T11:55:00.000,MedAssist,"[-71.052555, 42.327321]",Point,MedAssist,12,UNCONS,914,C6,Day,No,OLD COLONY AV,Part three,Unarmed,777161.2379,,2944621.668,2013
+13791,130803865.0,Sunday,No,2013-12-22T04:37:00.000,MedAssist,"[-71.03722, 42.368996]",Point,MedAssist,12,ALARMM,35,A7,Last,No,ORLEANS ST,Other,Unarmed,781225.5635,,2959830.913,2013
+14778,130804919.0,Sunday,No,2013-12-22T18:50:00.000,MedAssist,"[-71.1601, 42.278231]",Point,MedAssist,12,IVPER ,720,E5,First,No,SPRING ST,Part three,Unarmed,748151.2646,CENTRE ST,2926598.22,2013
+30905,130804431.0,Sunday,No,2013-12-22T13:49:00.000,MedAssist,"[-71.08784, 42.315206]",Point,MedAssist,12,PKNIFE,315,B2,Day,No,HUMBOLDT AV,Part three,Unarmed,767641.1664,,2940158.6769999997,2013
+91357,130804809.0,Sunday,No,2013-12-22T17:37:00.000,MedAssist,"[-71.088765, 42.334881]",Point,MedAssist,12,CARST ,289,B2,First,No,TREMONT ST,Part three,Unarmed,767356.4222,,2947327.38,2013
+120691,130803959.0,Sunday,No,2013-12-22T08:00:00.000,MedAssist,"[-71.063779, 42.338579]",Point,MedAssist,12,EDP2  ,174,C6,Day,No,FRONTAGE RD,Part three,Unarmed,774104.9678,,2948708.453,2013
+182424,140031417.0,Sunday,No,2013-12-22T01:34:00.000,MedAssist,"[-71.077985, 42.317371]",Point,MedAssist,12,INJRPT,324,B2,Last,No,BLUE HILL AV,Part three,Unarmed,770302.6631,,2940960.672,2013
+197553,130803973.0,Sunday,No,2013-12-22T00:00:00.000,MedAssist,"[-71.0418, 42.318786]",Point,MedAssist,12,SDNDTH,256,C6,Last,No,WESTWIND RD,Part three,Unarmed,780086.1976,,2941526.816,2013
+246120,130804972.0,Sunday,No,2013-12-22T19:27:00.000,MedAssist,"[-71.069645, 42.304296]",Point,MedAssist,12,UNCONS,336,C11,First,No,BOWDOIN ST,Part three,Unarmed,772582.2743,,2936207.2060000002,2013

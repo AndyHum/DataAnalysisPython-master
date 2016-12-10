@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36334,142051050.0,Friday,No,2014-11-21T16:25:00.000,PersLoc,"[-71.061095, 42.309451]",Point,PersLoc,11,IVPER,0,C11,First,No,HIGH ST,Other,Unarmed,774885.4498,,2938097.5519999997,2014
+53182,142053678.0,Friday,No,2014-11-21T12:00:00.000,PersLoc,"[-71.08913, 42.281956]",Point,PersLoc,11,MISSIN,0,B3,Day,No,SUTTON ST,Other,Unarmed,767350.6368,,2928040.186,2014
+55946,142051052.0,Friday,No,2014-11-21T15:00:00.000,PersLoc,"[-71.053375, 42.362136]",Point,PersLoc,11,IVPER,0,A1,Day,No,FULTON ST,Other,Unarmed,776873.0689,,2957307.7210000004,2014
+57066,142051375.0,Friday,No,2014-11-21T20:30:00.000,PersLoc,"[-71.08544, 42.288939]",Point,PersLoc,11,MISSIN,0,B3,First,No,STRATTON ST,Other,Unarmed,768336.6188,,2930589.4839999997,2014
+146663,142051345.0,Friday,No,2014-11-21T15:20:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,11,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2014
+199118,142051138.0,Friday,No,2014-11-21T06:30:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,11,IVPER,0,B3,Last,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2014
+211599,142051231.0,Friday,No,2014-11-21T13:00:00.000,PersLoc,"[-71.0947, 42.334151]",Point,PersLoc,11,IVPER,0,B2,Day,No,PRENTISS ST,Other,Unarmed,765752.9957,,2947053.6739999996,2014

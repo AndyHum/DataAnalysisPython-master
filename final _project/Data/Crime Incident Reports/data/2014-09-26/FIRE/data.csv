@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43832,142033435.0,Friday,No,2014-09-26T22:15:00.000,FIRE,"[-71.10537, 42.308606]",Point,FIRE,9,FIRE,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,762911.0968,,2937731.106,2014
+140415,142033243.0,Friday,No,2014-09-26T12:30:00.000,FIRE,"[-71.105455, 42.334531]",Point,FIRE,9,FIRE,0,B2,Day,No,FRANCIS ST,Part three,Unarmed,762844.4090000001,,2947178.519,2014
+235010,142033349.0,Friday,No,2014-09-26T17:21:00.000,FIRE,"[-71.14115, 42.289276]",Point,FIRE,9,FIRE,0,E5,First,No,AINSWORTH ST,Part three,Unarmed,753262.5908,,2930644.191,2014

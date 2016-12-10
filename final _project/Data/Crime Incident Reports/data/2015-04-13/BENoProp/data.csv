@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71579,152029933.0,Monday,No,2015-04-13T11:27:00.000,BENoProp,"[-71.060505, 42.315791]",Point,BENoProp,4,VAND,0,C11,Day,No,TRESCOTT ST,Part One,Other,775033.1333,,2940408.77,2015
+191583,152029839.0,Monday,No,2015-04-13T00:45:00.000,BENoProp,"[-71.03343, 42.380941]",Point,BENoProp,4,BE,0,A7,Last,No,PUTNAM ST,Part One,Other,782225.9283,,2964189.49,2015
+210082,152030111.0,Monday,No,2015-04-13T05:30:00.000,BENoProp,"[-71.10602, 42.310071]",Point,BENoProp,4,BE,0,E13,Last,No,GREEN ST,Part One,Unarmed,762732.8157,,2938264.162,2015

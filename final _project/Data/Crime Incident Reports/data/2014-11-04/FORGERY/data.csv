@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19836,142045671.0,Tuesday,No,2014-11-04T05:07:00.000,FORGERY,"[-71.0588, 42.303311]",Point,10xx,11,ARREST,0,C11,Last,No,DUNCAN ST,Part Two,Unarmed,775517.7894,GREENWICH ST,2935863.245,2014
+169615,142045968.0,Tuesday,No,2014-11-04T20:29:00.000,FORGERY,"[-71.07684, 42.279961]",Point,10xx,11,LARCEN,0,B3,First,No,FAIRMOUNT ST,Part Two,Unarmed,770679.9619,,2927329.443,2014
+170440,142045738.0,Tuesday,No,2014-11-04T11:09:00.000,FORGERY,"[-71.061015, 42.353246]",Point,10xx,11,LARCEN,0,A1,Day,No,AVENUE DE LAFAYETTE,Part Two,Unarmed,774824.9513,,2954057.314,2014
+258876,142045930.0,Tuesday,No,2014-11-04T21:00:00.000,FORGERY,"[-71.06939, 42.339506]",Point,10xx,11,LARCEN,0,D4,First,No,HARRISON AV,Part Two,Unarmed,772586.4767,,2949038.664,2014

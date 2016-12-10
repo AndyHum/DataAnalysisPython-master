@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+170376,142007252.0,Sunday,No,2014-07-06T23:45:00.000,InvProp,"[-71.092377, 42.311075]",Point,InvProp,7,VAND,0,B2,First,No,PARK VIEW ST,Part three,Other,766421.0875,,2938647.2260000003,2014
+195202,142006525.0,Sunday,No,2014-07-06T10:15:00.000,InvProp,"[-71.08072, 42.342736]",Point,InvProp,7,BE,0,D4,Day,No,GREENWICH PARK,Part three,Unarmed,769517.54,,2950200.475,2014
+203709,142006710.0,Sunday,No,2014-07-06T23:01:00.000,InvProp,"[-71.061801, 42.344602]",Point,InvProp,7,IVPREM,0,D4,First,No,ALBANY ST,Part three,Unarmed,774628.5429,,2950906.0360000003,2014
+220556,142006584.0,Sunday,No,2014-07-06T14:15:00.000,InvProp,"[-71.05357, 42.340566]",Point,InvProp,7,LARCEN,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776861.5099,,2949446.936,2014
+231624,142006477.0,Sunday,No,2014-07-06T01:17:00.000,InvProp,"[-71.06967, 42.357846]",Point,InvProp,7,SHOTS,0,A1,Last,No,MT VERNON ST,Part three,Unarmed,772477.058,,2955721.722,2014
+263830,142006538.0,Sunday,No,2014-07-06T10:47:00.000,InvProp,"[0, 0]",Point,InvProp,7,SUSOBJ,0,A1,Day,No,LONG WHRF,Part three,Unarmed,,,,2014

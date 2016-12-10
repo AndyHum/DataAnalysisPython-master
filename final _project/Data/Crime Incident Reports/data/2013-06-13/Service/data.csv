@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31514,130359980.0,Thursday,No,2013-06-13T17:00:00.000,Service,"[-71.1021, 42.322896]",Point,Service,6,INVCHD,912,E13,First,No,CENTRE ST,Part three,Unarmed,763771.31,,2942942.731,2013
+43145,130317080.0,Thursday,No,2013-06-13T16:28:00.000,Service,"[-71.108975, 42.350396]",Point,Service,6,ALARMX,608,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,761866.1685,,2952955.645,2013
+76365,130359285.0,Thursday,No,2013-06-13T11:30:00.000,Service,"[-71.07807, 42.316881]",Point,Service,6,ARREST,324,B2,Day,No,BLUE HILL AV,Part three,Unarmed,770280.5576,DEWEY ST,2940781.994,2013
+76374,130359209.0,Thursday,No,2013-06-13T10:48:00.000,Service,"[-71.06024, 42.351281]",Point,Service,6,ARREST,116,A1,Day,No,BEACH ST,Part three,Other,775038.1239,OXFORD ST,2953342.31,2013
+77152,130358975.0,Thursday,No,2013-06-13T08:53:00.000,Service,"[-71.06458, 42.352351]",Point,Service,6,ARREST,118,A1,Day,No,TREMONT ST,Part three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2013
+102587,130360340.0,Thursday,No,2013-06-13T19:49:00.000,Service,"[-71.097718, 42.321928]",Point,Service,6,SSTOP ,304,B2,First,No,SLAYTON WY,Part three,Unarmed,764957.8611,,2942595.539,2013
+187938,130358923.0,Thursday,No,2013-06-13T08:23:00.000,Service,"[-71.071415, 42.322042]",Point,Service,6,CD11  ,182,B2,Day,No,ALBION ST,Part three,Unarmed,772070.9236,,2942671.548,2013
+206453,130358699.0,Thursday,No,2013-06-13T03:57:00.000,Service,"[-71.059085, 42.304686]",Point,Service,6,ARREST,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775438.1029,,2936363.917,2013

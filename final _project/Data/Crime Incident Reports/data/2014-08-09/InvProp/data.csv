@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3738,142018194.0,Saturday,No,2014-08-09T11:15:00.000,InvProp,"[-71.05566, 42.313941]",Point,InvProp,8,IVMV,0,C11,Day,No,AUCKLAND ST,Part three,Unarmed,776347.0168,ELTON ST,2939741.389,2014
+50243,142017802.0,Saturday,No,2014-08-09T21:40:00.000,InvProp,"[-71.072842, 42.322577]",Point,InvProp,8,ALARM,0,B2,First,No,DUDLEY ST,Part three,Unarmed,771683.9959,,2942864.797,2014
+64771,142017666.0,Saturday,No,2014-08-09T13:00:00.000,InvProp,"[-71.08199, 42.311698]",Point,InvProp,8,FDWEAP,0,B2,Day,No,BRUNSWICK ST,Part three,Firearm,769229.5458,,2938887.8230000003,2014
+68897,142017816.0,Saturday,No,2014-08-09T22:39:00.000,InvProp,"[-71.086015, 42.319096]",Point,InvProp,8,SHOTS,0,B2,First,No,HUMBOLDT AV,Part three,Unarmed,768127.88,KING BL,2941578.648,2014
+129963,142017874.0,Saturday,No,2014-08-09T23:04:00.000,InvProp,"[-71.07884, 42.299761]",Point,InvProp,8,SHOTS,0,B3,First,No,NORWELL ST,Part three,Firearm,770103.1132,VASSAR ST,2934542.166,2014
+234400,142017571.0,Saturday,No,2014-08-09T01:29:00.000,InvProp,"[-71.0759, 42.312381]",Point,InvProp,8,IVPREM,0,B2,Last,No,DUNKELD ST,Part three,Other,770875.5973,FAYSTON ST,2939145.0319999997,2014
+237781,142017668.0,Saturday,No,2014-08-09T12:30:00.000,InvProp,"[-71.05999, 42.366376]",Point,InvProp,8,SUSOBJ,0,A1,Day,No,BEVERLY ST,Part three,Unarmed,775077.3241,,2958843.5689999997,2014
+252042,142017572.0,Saturday,No,2014-08-09T03:54:00.000,InvProp,"[-71.068615, 42.304436]",Point,InvProp,8,SSA,0,C11,Last,No,TOPLIFF ST,Part three,Unarmed,772860.6399,,2936259.6319999998,2014

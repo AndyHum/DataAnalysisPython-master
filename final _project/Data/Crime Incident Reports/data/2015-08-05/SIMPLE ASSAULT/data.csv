@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10558,,Wednesday,No,2015-08-05T00:00:00.000,Simple Assault,"[-71.064257, 42.306096]",Point,08xx,8,ARREST,346,C11,,No,FOX ST,Part Two,None,774036.0,,2940000.0,2015
+21857,,Wednesday,No,2015-08-05T15:34:00.000,Simple Assault,"[0, 0]",Point,08xx,8,FIGHT,0,,,No,,Part Two,None,,CHARLESGATE W,,2015
+42370,,Wednesday,No,2015-08-05T00:00:00.000,Simple Assault,"[-71.039291, 42.370818]",Point,08xx,8,ARREST,33,A7,,No,EVERETT ST,Part Two,Other,780662.0,,2960000.0,2015
+95303,,Wednesday,No,2015-08-05T20:00:00.000,Simple Assault,"[0, 0]",Point,08xx,8,IVPER,697,E5,,No,BEECH ST,Part Two,Other,,BELGRADE AVE,,2015
+122215,,Wednesday,No,2015-08-05T00:00:00.000,Simple Assault,"[-71.059683, 42.296485]",Point,08xx,8,DVIP,355,C11,,No,PARKMAN ST,Part Two,None,775292.0,,2930000.0,2015
+153336,,Wednesday,No,2015-08-05T00:00:00.000,Simple Assault,"[-71.083158, 42.349421]",Point,08xx,8,REQEP,137,D4,,No,NEWBURY ST,Part Two,None,768846.0,,2950000.0,2015
+172099,,Wednesday,No,2015-08-05T00:00:00.000,Simple Assault,"[-71.062708, 42.342559]",Point,08xx,8,EDP,165,D4,,No,ALBANY ST,Part Two,None,774387.0,,2950000.0,2015
+191364,,Wednesday,No,2015-08-05T00:00:00.000,Simple Assault,"[-71.090303, 42.285761]",Point,08xx,8,REQP,430,B3,,No,WOODROW AVE,Part Two,Personal Weapon (hand  foot  etc.),767026.0,,2930000.0,2015
+202556,,Wednesday,No,2015-08-05T00:00:00.000,Simple Assault,"[-71.089902, 42.309563]",Point,08xx,8,DVIP,318,B2,,No,BROOKLEDGE ST,Part Two,None,767093.0,,2940000.0,2015
+215052,,Wednesday,No,2015-08-05T19:02:00.000,Simple Assault,"[0, 0]",Point,08xx,8,AB,366,C11,,No,DORCHESTER AVE,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+254542,,Wednesday,No,2015-08-05T00:00:00.000,Simple Assault,"[-71.076261, 42.350379]",Point,08xx,8,,134,D4,,No,BOYLSTON ST,Part Two,Personal Weapon (hand  foot  etc.),770709.0,,2950000.0,2015

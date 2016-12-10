@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10035,142055616.0,Monday,No,2014-12-08T09:57:00.000,InvProp,"[-71.11102, 42.32948]",Point,InvProp,12,FDWEAP,0,E13,Day,No,S HUNTINGTON AV,Part three,Unarmed,761347.9313,,2945330.7410000004,2014
+64069,142055692.0,Monday,No,2014-12-08T14:05:00.000,InvProp,"[-71.061395, 42.358216]",Point,InvProp,12,SUSOBJ,0,A1,Day,No,BEACON ST,Part three,Unarmed,774712.9243,,2955867.9489999996,2014
+150210,142055786.0,Monday,No,2014-12-08T17:20:00.000,InvProp,"[-71.097702, 42.348699]",Point,InvProp,12,VAND,0,D4,First,No,BEACON ST,Part three,Unarmed,764916.1761,,2952351.106,2014
+171406,142055618.0,Monday,No,2014-12-08T08:00:00.000,InvProp,"[-71.060554, 42.364937]",Point,InvProp,12,IVMV,0,A1,Day,No,CANAL ST,Part three,Unarmed,774927.5836,,2958318.224,2014
+205508,142055580.0,Monday,No,2014-12-08T02:37:00.000,InvProp,"[-71.07558, 42.288621]",Point,InvProp,12,IVPREM,0,B3,Last,No,WENTWORTH ST,Part three,Other,771005.2327,WENTWORTH TR,2930486.96,2014

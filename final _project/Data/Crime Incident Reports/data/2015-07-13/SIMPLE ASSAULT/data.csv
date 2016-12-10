@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52857,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.067634, 42.318135]",Point,08xx,7,NIDV,258,B2,,No,DUDLEY ST,Part Two,Other,773101.0,,2940000.0,2015
+74060,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.057191, 42.305305]",Point,08xx,7,DISTRB,254,C11,,No,FREEPORT ST,Part Two,Personal Weapon (hand  foot  etc.),775949.0,,2940000.0,2015
+76410,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.059753, 42.352072]",Point,08xx,7,ARREST,116,A1,,No,EDINBORO ST,Part Two,Personal Weapon (hand  foot  etc.),775168.0,,2950000.0,2015
+76670,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.085634, 42.328663]",Point,08xx,7,AB,282,B2,,No,WASHINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),768214.0,,2950000.0,2015
+82029,,Monday,No,2015-07-13T08:14:00.000,Simple Assault,"[0, 0]",Point,08xx,7,NIDV,462,C11,,No,ROSSETER ST,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+83809,,Monday,No,2015-07-13T13:49:00.000,Simple Assault,"[0, 0]",Point,08xx,7,MVA,578,E13,,No,CENTRE ST,Part Two,Other,,PAUL GORE ST,,2015
+96199,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.063217, 42.3281]",Point,08xx,7,ARREST,186,C6,,No,ALLSTATE RD,Part Two,Personal Weapon (hand  foot  etc.),774277.0,,2940000.0,2015
+109522,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.078748, 42.303157]",Point,08xx,7,FIGHT,459,B3,,No,ERIE ST,Part Two,Other,770122.0,,2940000.0,2015
+138306,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.073855, 42.315984]",Point,08xx,7,AB,327,B2,,No,SARGENT ST,Part Two,None,771422.0,,2940000.0,2015
+171830,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.086699, 42.29454]",Point,08xx,7,FIGHT,440,B3,,No,TALBOT AVE,Part Two,None,767986.0,,2930000.0,2015
+178546,,Monday,No,2015-07-13T23:53:00.000,Simple Assault,"[0, 0]",Point,08xx,7,ARREST,0,,,No,,Part Two,None,,BATTERYMARCH ST,,2015
+195941,,Monday,No,2015-07-13T10:52:00.000,Simple Assault,"[0, 0]",Point,08xx,7,ARREST,141,D4,,No,MASSACHUSETTS AVE,Part Two,None,,NEWBURY ST,,2015
+250522,,Monday,No,2015-07-13T00:00:00.000,Simple Assault,"[-71.099294, 42.318882]",Point,08xx,7,AB,303,E13,,No,BRAGDON ST,Part Two,Personal Weapon (hand  foot  etc.),764537.0,,2940000.0,2015

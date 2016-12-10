@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52789,142024866.0,Sunday,No,2014-08-31T20:52:00.000,DISORDERLY,"[-71.06286, 42.355591]",Point,24xx,8,FIGHT,0,A1,First,No,TREMONT ST,Part Two,Unarmed,774321.8701,TEMPLE PL,2954909.315,2014
+72997,142024803.0,Sunday,No,2014-08-31T16:30:00.000,DISORDERLY,"[-71.093775, 42.269596]",Point,24xx,8,ARREST,0,B3,First,No,BLUE HILL AV,Part Two,Other,766115.135,,2923530.012,2014
+191175,142024914.0,Sunday,No,2014-08-31T23:20:00.000,DISORDERLY,"[-71.128315, 42.353681]",Point,24xx,8,CD19F,0,D14,First,No,GARDNER ST,Part Two,Unarmed,756633.1225,,2954129.3910000003,2014
+248732,142024658.0,Sunday,No,2014-08-31T04:47:00.000,DISORDERLY,"[-71.072098, 42.314588]",Point,24xx,8,ARREST,0,B2,Last,No,EMROSE TR,Part Two,Unarmed,771899.796,,2939954.317,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3562,120732343.0,Wednesday,No,2012-11-21T08:00:00.000,Arrest,"[-71.075502, 42.317446]",Point,Arrest,11,CD11  ,324,B2,Day,No,DANUBE ST,Part Three,Unarmed,770973.8477,,2940991.1760000004,2012
+142032,120732496.0,Wednesday,No,2012-11-21T09:18:00.000,Arrest,"[-71.062548, 42.361157]",Point,Arrest,11,SHPLFT,72,A1,Day,No,CAMBRIDGE ST,Part Three,Unarmed,774395.6116,,2956937.863,2012
+207884,120733160.0,Wednesday,No,2012-11-21T13:55:00.000,Arrest,"[-71.06219, 42.356241]",Point,Arrest,11,IVPER ,102,A1,Day,No,WINTER ST,Part Three,Unarmed,774501.7472,TREMONT ST,2955147.117,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22213,120420205.0,Sunday,No,2012-07-08T18:56:00.000,MVAcc,"[-71.104245, 42.324741]",Point,MVAcc,7,MVPED2,906,E13,First,No,WALDEN ST,Part Three,Other,763188.1199,MINDEN ST,2943612.3819999998,2012
+85191,120420016.0,Sunday,No,2012-07-08T16:55:00.000,MVAcc,"[-71.07806, 42.337301]",Point,MVAcc,7,MVPED1,170,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,770246.4519,SHAWMUT AV,2948223.4069999997,2012
+191727,120419614.0,Sunday,No,2012-07-08T12:41:00.000,MVAcc,"[-71.03822, 42.379551]",Point,MVAcc,7,PDRPT ,24,A7,Day,No,MARION ST,Part Three,Other,780934.5086,,2963675.903,2012
+212344,120419858.0,Sunday,No,2012-07-08T16:25:00.000,MVAcc,"[-71.114525, 42.302651]",Point,MVAcc,7,MVANO ,651,E13,First,No,SOUTH ST,Part Three,Unarmed,760444.5696,,2935549.682,2012

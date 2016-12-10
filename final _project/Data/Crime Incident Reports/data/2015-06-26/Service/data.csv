@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61339,,Friday,No,2015-06-26T00:00:00.000,Police Service Incidents,"[-71.03175, 42.37794]",Point,Service,6,IVPER,19,A7,,No,PUTNAM ST,Part Three,None,782686.0,,2960000.0,2015
+94858,,Friday,No,2015-06-26T02:32:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,350,C11,,No,DORCHESTER AVE,Part Three,None,,GREENWICH ST,,2015
+110480,152052768.0,Friday,No,2015-06-26T02:30:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,,23,A7,,No,CENTRAL SQ,Part Three,None,,,,2015
+224337,,Friday,No,2015-06-26T10:49:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,IVMV,494,E18,,No,CENTRAL AVE,Part Three,None,,WEST ST,,2015

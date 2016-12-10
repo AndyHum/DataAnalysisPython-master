@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39238,130530636.0,Thursday,No,2013-08-22T06:00:00.000,InvProp,"[-71.070415, 42.332156]",Point,InvProp,8,STOLMV,175,C6,Last,No,SOUTHAMPTON ST,Part three,Unarmed,772322.8506,,2946358.797,2013
+69907,130529378.0,Thursday,No,2013-08-22T07:21:00.000,InvProp,"[-71.07533, 42.337671]",Point,InvProp,8,REMOVE,170,D4,Last,No,WASHINGTON ST,Part three,Unarmed,770983.8818,,2948361.905,2013
+85933,130531272.0,Thursday,No,2013-08-22T22:18:00.000,InvProp,"[-71.06739, 42.291076]",Point,InvProp,8,DISTRB,397,C11,First,No,WAINWRIGHT ST,Part three,Other,773216.7042,,2931392.728,2013
+197640,130529759.0,Thursday,No,2013-08-22T10:53:00.000,InvProp,"[-71.120424, 42.311967]",Point,InvProp,8,ALARMR,644,E13,Day,No,ORCHARD ST,Part three,Unarmed,758833.5863,,2938937.251,2013
+224004,130531278.0,Thursday,No,2013-08-22T22:21:00.000,InvProp,"[-71.1085, 42.265151]",Point,InvProp,8,SHOTS ,488,E18,First,No,ANDRIA RD,Part three,Unarmed,762137.1498,GEORGE ST,2921891.558,2013
+224415,130531345.0,Thursday,No,2013-08-22T23:06:00.000,InvProp,"[-71.083275, 42.315456]",Point,InvProp,8,SHOTS ,322,B2,First,No,WARREN ST,Part three,Firearm,768875.3795,,2940255.7810000004,2013

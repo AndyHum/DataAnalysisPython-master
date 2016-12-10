@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12201,130291706.0,Thursday,No,2013-05-16T10:42:00.000,Landlord,"[-71.073818, 42.315962]",Point,Landlord,5,LANTEN,327,B2,Day,No,SARGENT ST,Part three,Unarmed,771432.1998,,2940452.5489999996,2013
+105223,130292041.0,Thursday,No,2013-05-16T13:08:00.000,Landlord,"[-71.078886, 42.317624]",Point,Landlord,5,IVPER ,311,B2,Day,No,EDGEWOOD ST,Part three,Unarmed,770058.3496,,2941051.543,2013
+171126,130292032.0,Thursday,No,2013-05-16T13:00:00.000,Landlord,"[-71.100095, 42.270424]",Point,Landlord,5,LANTEN,475,B3,Day,No,CUMMINS HY,Part Three,Unarmed,764403.0167,,2923823.66,2013

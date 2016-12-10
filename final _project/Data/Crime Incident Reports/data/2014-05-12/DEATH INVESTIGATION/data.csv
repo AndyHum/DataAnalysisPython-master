@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75274,140293019.0,Monday,No,2014-05-12T13:11:00.000,DEATH INVESTIGATION,"[-71.07825, 42.335516]",Point,01INV,5,CARST ,271,D4,Day,No,WASHINGTON ST,Part three,Unarmed,770198.2968,,2947572.668,2014
+240845,140294415.0,Monday,No,2014-05-12T22:20:00.000,DEATH INVESTIGATION,"[-71.079865, 42.324351]",Point,01INV,5,CARST ,266,B2,First,No,MORELAND ST,Part three,Unarmed,769781.6841,,2943501.791,2014
+241890,140292792.0,Monday,No,2014-05-12T11:36:00.000,DEATH INVESTIGATION,"[-71.127735, 42.350476]",Point,01INV,5,SDNDTH,796,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,756794.8154,,2952961.9930000002,2014

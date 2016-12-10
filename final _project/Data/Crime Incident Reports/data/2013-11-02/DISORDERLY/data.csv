@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15696,130698622.0,Saturday,No,2013-11-02T16:30:00.000,DISORDERLY,"[-71.06427, 42.353331]",Point,24xx,11,ARREST,111,A1,First,No,AVERY ST,Part Two,Unarmed,773944.9704,TREMONT ST,2954083.778,2013
+95656,130697492.0,Saturday,No,2013-11-02T01:41:00.000,DISORDERLY,"[-71.06115, 42.364581]",Point,24xx,11,ARREST,0,A1,Last,No,FRIEND ST,Part Two,Unarmed,774767.2102,,2958187.8210000005,2013
+127756,130697767.0,Saturday,No,2013-11-02T06:25:00.000,DISORDERLY,"[-71.073818, 42.315962]",Point,24xx,11,NIDV  ,327,B2,Last,No,SARGENT ST,Part Two,Unarmed,771432.1998,,2940452.5489999996,2013

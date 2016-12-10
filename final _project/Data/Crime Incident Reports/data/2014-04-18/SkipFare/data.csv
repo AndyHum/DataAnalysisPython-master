@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77034,140235097.0,Friday,No,2014-04-18T02:30:00.000,SkipFare,"[-71.10387, 42.337281]",Point,SkipFare,4,LARCIP,612,B2,Last,No,LONGWOOD AV,Part Two,Unarmed,763268.3054,,2948182.655,2014
+118220,140238909.0,Friday,No,2014-04-18T18:00:00.000,SkipFare,"[-71.064041, 42.330883]",Point,SkipFare,4,MISC  ,176,C6,First,No,SOUTHAMPTON ST,Part Two,Unarmed,774048.6618,,2945903.515,2014
+162368,140237311.0,Friday,No,2014-04-18T22:45:00.000,SkipFare,"[-71.098625, 42.346181]",Point,SkipFare,4,IVPER ,624,D4,First,No,YAWKEY WY,Part Two,Unarmed,764671.1215,,2951432.6119999997,2014

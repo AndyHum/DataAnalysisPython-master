@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83325,140289890.0,Sunday,No,2014-05-11T02:26:00.000,DISORDERLY,"[-71.060554, 42.364937]",Point,24xx,5,ARREST,76,A1,Last,No,CANAL ST,Part Two,Unarmed,774927.5836,,2958318.224,2014
+114469,140290052.0,Sunday,No,2014-05-11T04:50:00.000,DISORDERLY,"[-71.089268, 42.295385]",Point,24xx,5,FIGHT ,908,B3,Last,No,SHANDON RD,Part Two,Unarmed,767289.676,,2932933.422,2014
+161862,140289535.0,Sunday,No,2014-05-11T01:31:00.000,DISORDERLY,"[-71.097785, 42.331901]",Point,24xx,5,ARREST,587,B2,Last,No,TREMONT ST,Part Two,Unarmed,764922.7368,,2946229.785,2014

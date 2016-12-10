@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57815,120458889.0,Wednesday,No,2012-07-25T07:29:00.000,MedAssist,"[-71.091325, 42.284861]",Point,MedAssist,7,INJOFF,465,B3,Last,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2012
+80141,120459524.0,Wednesday,No,2012-07-25T17:32:00.000,MedAssist,"[-71.039165, 42.378066]",Point,MedAssist,7,DOGBIT,26,A7,First,No,MERIDIAN ST,Part Three,Unarmed,780681.9241,,2963133.358,2012
+82987,120458890.0,Wednesday,No,2012-07-25T11:30:00.000,MedAssist,"[-71.08383, 42.307431]",Point,MedAssist,7,UNK   ,330,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,768739.5428,,2937330.608,2012
+92163,120458980.0,Wednesday,No,2012-07-25T13:49:00.000,MedAssist,"[-71.038465, 42.335581]",Point,MedAssist,7,DKDIST,222,C6,Day,No,E BROADWAY,Part Three,Unarmed,780955.0161,K ST,2947652.0530000003,2012
+93060,120458514.0,Wednesday,No,2012-07-25T10:20:00.000,MedAssist,"[-71.169534, 42.354841]",Point,MedAssist,7,UNCONS,756,D14,Day,No,BELLAMY ST,Part Three,Unarmed,745489.9509,,2954506.01,2012
+130650,120459502.0,Wednesday,No,2012-07-25T14:48:00.000,MedAssist,"[-71.04301, 42.345501]",Point,MedAssist,7,INJRPT,207,C6,Day,No,D ST,Part Three,Other,779706.7982,FARGO ST,2951260.4560000002,2012
+149484,120459379.0,Wednesday,No,2012-07-25T16:15:00.000,MedAssist,"[-71.073978, 42.333151]",Point,MedAssist,7,REQP  ,171,D4,First,No,ALBANY ST,Part Three,Other,771357.6081,,2946716.26,2012
+180146,120460017.0,Wednesday,No,2012-07-25T21:02:00.000,MedAssist,"[-71.148575, 42.287141]",Point,MedAssist,7,REQPE ,691,E5,First,No,CENTRE ST,Part Three,Unarmed,751256.7891,,2929857.7989999996,2012
+197352,120459247.0,Wednesday,No,2012-07-25T15:23:00.000,MedAssist,"[-71.037826, 42.36655]",Point,MedAssist,7,REQEP ,35,A7,Day,No,HAYNES ST,Part Three,Unarmed,781066.5375,,2958938.579,2012
+225834,120460036.0,Wednesday,No,2012-07-25T22:01:00.000,MedAssist,"[-71.0979, 42.284119]",Point,MedAssist,7,INVEST,477,B3,First,No,HARVARD ST,Part Three,Unarmed,764973.6117,,2928817.0319999997,2012

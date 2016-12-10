@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81440,152008017.0,Friday,No,2015-01-30T13:45:00.000,Service,"[-71.06831, 42.349341]",Point,Service,1,IVPER,0,A1,Day,No,CHURCH ST,Part three,Unarmed,772860.3243,,2952624.1939999997,2015
+120519,152007938.0,Friday,No,2015-01-30T07:30:00.000,Service,"[-71.068595, 42.358406]",Point,Service,1,CD16,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+266350,152008006.0,Friday,No,2015-01-30T11:00:00.000,Service,"[0, 0]",Point,Service,1,PROP,0,C6,Day,No,E BROADWAY,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41337,130266321.0,Sunday,No,2013-05-05T12:05:00.000,Service,"[-71.077707, 42.28625]",Point,Service,5,ARREST,435,B3,Day,No,EDSON ST,Part Three,Unarmed,770433.7566,,2929619.983,2013
+253135,130265672.0,Sunday,No,2013-05-05T01:23:00.000,Service,"[-71.06942, 42.362401]",Point,Service,5,PDRPT ,64,A1,Last,No,FRUIT ST,Part Three,Unarmed,772536.2528,,2957381.922,2013
+262223,130266800.0,Sunday,No,2013-05-05T18:30:00.000,Service,"[0, 0]",Point,Service,5,IVDRUG,72,A1,First,No,CAMBRIDGE ST,Part Three,Unarmed,,,,2013

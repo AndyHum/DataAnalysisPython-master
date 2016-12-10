@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11542,120531680.0,Saturday,No,2012-08-25T02:45:00.000,WEAPONS CHARGE,"[-71.04206, 42.317766]",Point,15xx,8,MISC  ,256,C6,Last,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2012
+63203,120530750.0,Saturday,No,2012-08-25T14:19:00.000,WEAPONS CHARGE,"[-71.08422, 42.303391]",Point,15xx,8,IVPER ,330,B3,Day,No,OLD RD,Part Two,Knife,768641.2265,COLUMBIA RD,2935857.854,2012
+74411,120529435.0,Saturday,No,2012-08-25T03:19:00.000,WEAPONS CHARGE,"[-71.0746, 42.292001]",Point,15xx,8,ARREST,450,B3,Last,No,ROSEDALE ST,Part Two,Firearm,771264.2533,WHITFIELD ST,2931720.0,2012
+219640,120529616.0,Saturday,No,2012-08-25T06:19:00.000,WEAPONS CHARGE,"[-71.091325, 42.284861]",Point,15xx,8,PERGUN,430,B3,Last,No,BLUE HILL AV,Part Two,Other,766751.5911,FRONTENAC ST,2929095.955,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53187,120728019.0,Monday,No,2012-11-19T10:00:00.000,Service,"[-71.056003, 42.351606]",Point,Service,11,ARREST,113,A1,Day,No,FINANCIAL CENTER,Part Three,Unarmed,776182.564,,2953466.568,2012
+58963,120727893.0,Monday,No,2012-11-19T08:31:00.000,Service,"[-71.12795, 42.354076]",Point,Service,11,ARREST,800,D14,Day,No,CHESTER ST,Part Three,Unarmed,756731.1531,,2954273.767,2012
+85579,120728539.0,Monday,No,2012-11-19T13:47:00.000,Service,"[-71.037295, 42.378186]",Point,Service,11,IVPER ,24,A7,Day,No,MARION ST,Part Three,Unarmed,781187.1292,,2963179.8230000003,2012
+96335,120728867.0,Monday,No,2012-11-19T15:15:00.000,Service,"[-71.06868, 42.336911]",Point,Service,11,ARREST,172,D4,Day,No,ALBANY ST,Part Three,Unarmed,772783.2126,,2948093.97,2012
+129801,120733453.0,Monday,No,2012-11-19T06:00:00.000,Service,"[-71.05016, 42.312591]",Point,Service,11,DOGRPT,250,C11,Last,No,SEA VIEW TR,Part Three,Unarmed,777837.1766,SAVIN HILL AV,2939257.2260000003,2012
+133750,120731001.0,Monday,No,2012-11-19T21:00:00.000,Service,"[-71.08242, 42.288011]",Point,Service,11,MISC  ,465,B3,First,No,OAKHURST ST,Part Three,Unarmed,769155.5859999999,,2930255.5330000003,2012
+237099,120728105.0,Monday,No,2012-11-19T10:15:00.000,Service,"[-71.047405, 42.353651]",Point,Service,11,CD5   ,207,C6,Day,No,NORTHERN AV,Part Three,Unarmed,778502.9324,,2954224.131,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43460,140010417.0,Monday,No,2014-01-06T14:00:00.000,InvProp,"[-71.054711, 42.341305]",Point,InvProp,1,INVEST,200,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+160786,140010662.0,Monday,No,2014-01-06T16:00:00.000,InvProp,"[-71.084485, 42.348131]",Point,InvProp,1,CD9   ,143,D4,First,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2014
+222553,140010065.0,Monday,No,2014-01-06T11:30:00.000,InvProp,"[-71.083825, 42.301956]",Point,InvProp,1,IVPREM,458,B3,Day,No,ELLINGTON ST,Part three,Unarmed,768750.6327,,2935335.441,2014

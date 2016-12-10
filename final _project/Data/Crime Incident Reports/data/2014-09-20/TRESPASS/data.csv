@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74910,142031258.0,Saturday,No,2014-09-20T10:00:00.000,TRESPASS,"[-71.0725, 42.313636]",Point,TRESPASS,9,IVPER,0,B2,Day,No,WAYLAND ST,Part Two,Unarmed,771792.915,,2939606.965,2014
+101272,142031292.0,Saturday,No,2014-09-20T14:57:00.000,TRESPASS,"[-71.091084, 42.346969]",Point,TRESPASS,9,IVPER,0,D4,Day,No,CHARLESGATE,Part Two,Unarmed,766708.2785,,2951729.318,2014
+171242,142031386.0,Saturday,No,2014-09-20T08:15:00.000,TRESPASS,"[-71.083781, 42.329494]",Point,TRESPASS,9,ARREST,0,B2,Day,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2014

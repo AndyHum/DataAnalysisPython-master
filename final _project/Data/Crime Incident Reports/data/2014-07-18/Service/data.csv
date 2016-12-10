@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51134,142010332.0,Friday,No,2014-07-18T11:55:00.000,Service,"[-71.0128, 42.391771]",Point,Service,7,ARREST,0,A7,Day,No,MCCLELLAN HY,Part three,Unarmed,787777.1931,BOARDMAN ST,2968167.328,2014
+116031,142010456.0,Friday,No,2014-07-18T17:38:00.000,Service,"[-71.07956, 42.295286]",Point,Service,7,ARREST,0,B3,First,No,KINGSDALE ST,Part three,Unarmed,769916.3712,,2932910.4489999996,2014
+136556,142010459.0,Friday,No,2014-07-18T18:00:00.000,Service,"[-71.075585, 42.340456]",Point,Service,7,SS,0,D4,First,No,W NEWTON ST,Other,Unarmed,770909.8909,,2949376.4669999997,2014

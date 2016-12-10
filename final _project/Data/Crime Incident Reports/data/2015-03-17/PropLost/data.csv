@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29771,152022429.0,Tuesday,No,2015-03-17T12:00:00.000,PropLost,"[-71.025616, 42.380095]",Point,PropLost,3,PROP,0,A7,Day,No,NEPTUNE RD,Part three,Unarmed,784338.7236,,2963892.778,2015
+68602,152026133.0,Tuesday,No,2015-03-17T16:00:00.000,PropLost,"[-71.099385, 42.342666]",Point,PropLost,3,PROP,0,D4,First,No,KILMARNOCK ST,Part three,Unarmed,764471.6869,,2950150.713,2015
+95895,152021558.0,Tuesday,No,2015-03-17T16:00:00.000,PropLost,"[-71.061235, 42.310371]",Point,PropLost,3,PROP,0,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015
+105437,152021648.0,Tuesday,No,2015-03-17T20:59:00.000,PropLost,"[-71.09665, 42.279221]",Point,PropLost,3,PROP,0,B3,First,No,MULVEY ST,Part three,Unarmed,765320.4109,,2927033.8010000004,2015
+189497,152021767.0,Tuesday,No,2015-03-17T10:00:00.000,PropLost,"[-71.070625, 42.361461]",Point,PropLost,3,PROP,0,A1,Day,No,CHARLES ST,Part three,Unarmed,772212.3098,,2957037.798,2015
+241523,152024764.0,Tuesday,No,2015-03-17T09:30:00.000,PropLost,"[-71.06563, 42.343861]",Point,PropLost,3,PROP,0,D4,Day,No,E BERKELEY ST,Part three,Unarmed,773594.9393,WASHINGTON ST,2950630.8589999997,2015
+249789,152021584.0,Tuesday,No,2015-03-17T13:30:00.000,PropLost,"[-71.130932, 42.355412]",Point,PropLost,3,PROP,0,D14,Day,No,LINDEN ST,Part three,Unarmed,755922.7633,,2954757.037,2015
+266797,152023439.0,Tuesday,No,2015-03-17T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,B2,Day,No,WARREN ST,Part three,Unarmed,,,,2015

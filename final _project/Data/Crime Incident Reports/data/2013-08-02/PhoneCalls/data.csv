@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53762,130493384.0,Friday,No,2013-08-02T09:43:00.000,PhoneCalls,"[-71.051365, 42.359702]",Point,PhoneCalls,8,HARPT ,95,A1,Day,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2013
+106346,130482965.0,Friday,No,2013-08-02T22:05:00.000,PhoneCalls,"[-71.07232, 42.276786]",Point,PhoneCalls,8,HARPT ,414,B3,First,No,PLEASANT HILL AV,Part three,Unarmed,771908.9325,,2926178.528,2013
+109766,130674383.0,Friday,No,2013-08-02T12:00:00.000,PhoneCalls,"[-71.041075, 42.334656]",Point,PhoneCalls,8,IVPER ,225,C6,Day,No,E 4TH ST,Part three,Unarmed,780251.1540000001,,2947311.1580000003,2013
+229816,130484537.0,Friday,No,2013-08-02T18:00:00.000,PhoneCalls,"[-71.056374, 42.350817]",Point,PhoneCalls,8,IVPER ,115,A1,First,No,ATLANTIC AV,Part three,Other,776084.0039,,2953178.441,2013

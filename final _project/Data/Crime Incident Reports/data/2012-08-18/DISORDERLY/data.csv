@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11868,120513563.0,Saturday,No,2012-08-18T01:09:00.000,DISORDERLY,"[-71.084511, 42.293888]",Point,24xx,8,ARREST,441,B3,Last,No,TALBOT AV,Part Two,Unarmed,768579.1911,,2932394.139,2012
+137212,120515869.0,Saturday,No,2012-08-18T22:30:00.000,DISORDERLY,"[-71.04119, 42.320111]",Point,24xx,8,IVPER ,256,C6,First,No,N POINT DR,Part Two,Unarmed,780248.572,OCEAN VIEW DR,2942010.5539999995,2012
+192845,120513716.0,Saturday,No,2012-08-18T02:37:00.000,DISORDERLY,"[-71.082313, 42.280256]",Point,24xx,8,LMUSIC,420,B3,Last,No,MORTON ST,Part Two,Unarmed,769198.3224,,2927429.483,2012

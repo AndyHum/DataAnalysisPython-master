@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18624,130301341.0,Monday,No,2013-05-20T01:00:00.000,InvProp,"[-71.08992, 42.283476]",Point,InvProp,5,BERPT ,428,B3,Last,No,LESTON ST,Part three,Other,767134.1979,,2928593.067,2013
+31131,130300567.0,Monday,No,2013-05-20T02:35:00.000,InvProp,"[-71.075459, 42.324653]",Point,InvProp,5,IVPREM,0,B2,Last,No,BLUE HILL AV,Part three,Unarmed,770972.5538,,2943617.646,2013
+217084,130301490.0,Monday,No,2013-05-20T13:04:00.000,InvProp,"[-71.0622, 42.359116]",Point,InvProp,5,BIOT  ,72,A1,Day,No,ASHBURTON PL,Part three,Unarmed,774493.6675,,2956194.809,2013
+229483,130301787.0,Monday,No,2013-05-20T14:51:00.000,InvProp,"[-71.08287, 42.324091]",Point,InvProp,5,SHOTS ,297,B2,Day,No,WALNUT AV,Part three,Unarmed,768969.5271,WARREN ST,2943403.0539999995,2013
+265709,130362527.0,Monday,No,2013-05-20T17:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,LARCRT,309,B2,First,No,S CHARLAME TR,Part three,Unarmed,,,,2013

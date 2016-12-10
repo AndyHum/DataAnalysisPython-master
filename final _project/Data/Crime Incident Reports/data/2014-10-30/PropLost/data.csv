@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48899,142044298.0,Thursday,No,2014-10-30T15:25:00.000,PropLost,"[-71.05774, 42.350716]",Point,PropLost,10,LARCEN,0,A1,Day,No,BEACH ST,Part three,Unarmed,775714.96,,2953139.9080000003,2014
+95721,142044264.0,Thursday,No,2014-10-30T15:09:00.000,PropLost,"[-71.06493, 42.361146]",Point,PropLost,10,PROP,0,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,773752.0472,,2956930.805,2014
+135518,142044585.0,Thursday,No,2014-10-30T13:00:00.000,PropLost,"[-71.05548, 42.352551]",Point,PropLost,10,PROP,0,A1,Day,No,SOUTH STATION,Part three,Unarmed,776322.3745,,2953811.791,2014
+213347,142044447.0,Thursday,No,2014-10-30T18:45:00.000,PropLost,"[-71.07572, 42.335536]",Point,PropLost,10,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770882.3115,,2947583.349,2014
+232892,142044498.0,Thursday,No,2014-10-30T01:00:00.000,PropLost,"[-71.10986, 42.340331]",Point,PropLost,10,PROP,0,B2,Last,No,LONGWOOD AV,Part three,Unarmed,761643.7196,RIVERWAY,2949286.667,2014

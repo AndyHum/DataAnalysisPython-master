@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13257,130368517.0,Monday,No,2013-06-17T09:58:00.000,MedAssist,"[-71.088215, 42.282401]",Point,MedAssist,6,SUSPER,428,B3,Day,No,MORTON ST,Part Three,Unarmed,767597.4582,,2928203.5439999998,2013
+85971,130369290.0,Monday,No,2013-06-17T15:47:00.000,MedAssist,"[-71.045237, 42.333604]",Point,MedAssist,6,VICDOG,220,C6,Day,No,THOMAS PARK,Part three,Unarmed,779127.7855,,2946921.713,2013
+101697,130443400.0,Monday,No,2013-06-17T19:32:00.000,MedAssist,"[-71.066435, 42.320161]",Point,MedAssist,6,INJOFF,184,B2,First,No,GROOM ST,Part three,Unarmed,773421.2175,,2941993.061,2013
+106065,130370202.0,Monday,No,2013-06-17T23:10:00.000,MedAssist,"[-71.129035, 42.354281]",Point,MedAssist,6,STAB  ,800,D14,First,No,ASHFORD ST,Part three,Unarmed,756437.556,,2954347.1980000003,2013
+154091,130369808.0,Monday,No,2013-06-17T19:18:00.000,MedAssist,"[-71.066455, 42.315761]",Point,MedAssist,6,UNCONS,258,B2,First,No,COLUMBIA RD,Part Three,Unarmed,773423.9583,,2940389.6010000003,2013
+211227,130370172.0,Monday,No,2013-06-17T22:49:00.000,MedAssist,"[-71.136535, 42.355511]",Point,MedAssist,6,UNCONS,803,D14,First,No,PENNIMAN RD,Part three,Unarmed,754408.4298,,2954786.7060000002,2013
+213861,130369793.0,Monday,No,2013-06-17T19:14:00.000,MedAssist,"[-71.07031, 42.338801]",Point,MedAssist,6,UNK   ,167,D4,First,No,E CANTON ST,Part three,Unarmed,772339.0422,HARRISON AV,2948780.494,2013
+236296,130369829.0,Monday,No,2013-06-17T19:30:00.000,MedAssist,"[-71.12415, 42.360281]",Point,MedAssist,6,UNK   ,814,D14,First,No,WINDOM ST,Part three,Unarmed,757748.3155,,2956539.5,2013
+240971,130368150.0,Monday,No,2013-06-17T05:47:00.000,MedAssist,"[-71.06514, 42.376051]",Point,MedAssist,6,UNCONS,55,A15,Last,No,MAIN ST,Part three,Unarmed,773667.5999,,2962362.2,2013

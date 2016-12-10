@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4529,140026139.0,Monday,No,2014-01-13T22:00:00.000,InvProp,"[-71.064685, 42.316181]",Point,InvProp,1,SHOTS ,257,C11,First,No,CUSHING AV,Part three,Firearm,773901.8898,,2940545.095,2014
+11477,140024357.0,Monday,No,2014-01-13T04:17:00.000,InvProp,"[-71.08383, 42.307431]",Point,InvProp,1,SHOTS ,330,B2,Last,No,BLUE HILL AV,Part three,Firearm,768739.5428,,2937330.608,2014
+21799,140026196.0,Monday,No,2014-01-13T22:35:00.000,InvProp,"[-71.094606, 42.267258]",Point,InvProp,1,BEIP  ,481,B3,First,No,RIVER ST,Part three,Unarmed,765894.2221,,2922676.722,2014
+121761,140025546.0,Monday,No,2014-01-13T16:50:00.000,InvProp,"[-71.03996, 42.377891]",Point,InvProp,1,IVLIC ,26,A7,First,No,BORDER ST,Part three,Unarmed,780467.6477,,2963068.4239999996,2014
+192137,140024742.0,Monday,No,2014-01-13T11:00:00.000,InvProp,"[-71.102818, 42.271878]",Point,InvProp,1,IVPER ,474,B3,Day,No,SAVANNAH AV,Part three,Unarmed,763663.5054,,2924349.957,2014
+202443,140024585.0,Monday,No,2014-01-13T00:00:00.000,InvProp,"[-71.127466, 42.354525]",Point,InvProp,1,BERPT ,800,D14,Last,No,ASHFORD ST,Part three,Other,756861.1942,,2954437.913,2014

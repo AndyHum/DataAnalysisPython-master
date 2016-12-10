@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+117358,130505547.0,Sunday,No,2013-08-11T14:00:00.000,PersLoc,"[-71.108835, 42.322276]",Point,PersLoc,8,IVPER ,582,E13,Day,No,CENTRE ST,Other,Unarmed,761951.0062,SHERIDAN ST,2942708.367,2013
+209165,130502745.0,Sunday,No,2013-08-11T03:30:00.000,PersLoc,"[-71.16085, 42.348916]",Point,PersLoc,8,MISPER,752,D14,Last,No,WASHINGTON ST,Other,Unarmed,747845.8786,,2952356.2819999997,2013
+242050,130530333.0,Sunday,No,2013-08-11T16:00:00.000,PersLoc,"[-71.08544, 42.288939]",Point,PersLoc,8,MISPER,439,B3,First,No,STRATTON ST,Other,Unarmed,768336.6188,,2930589.4839999997,2013

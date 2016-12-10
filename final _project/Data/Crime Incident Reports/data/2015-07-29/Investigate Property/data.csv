@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41441,,Wednesday,No,2015-07-29T00:00:00.000,Investigate Property,"[-71.088934, 42.33467]",Point,InvProp,7,SSA,909,B2,,No,TREMONT ST,Part Three,None,767311.0,,2950000.0,2015
+66153,,Wednesday,No,2015-07-29T00:00:00.000,Investigate Property,"[-71.06134, 42.310434]",Point,InvProp,7,IVPREM,257,C11,,No,HANCOCK ST,Part Three,None,774817.0,,2940000.0,2015
+113439,,Wednesday,No,2015-07-29T00:00:00.000,Investigate Property,"[-71.166579, 42.354848]",Point,InvProp,7,BE,759,D14,,No,HARDWICK ST,Part Three,None,746289.0,,2950000.0,2015
+119140,,Wednesday,No,2015-07-29T00:00:00.000,Investigate Property,"[-71.059613, 42.32446]",Point,InvProp,7,BE,186,C6,,No,BOSTON ST,Part Three,None,775258.0,,2940000.0,2015
+166214,,Wednesday,No,2015-07-29T00:00:00.000,Investigate Property,"[-71.104294, 42.309719]",Point,InvProp,7,IVPREM,574,E13,,No,WASHINGTON ST,Part Three,None,763200.0,,2940000.0,2015
+217850,,Wednesday,No,2015-07-29T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,7,CD19,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+231393,,Wednesday,No,2015-07-29T05:36:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPER,225,C6,,No,E FOURTH ST,Part Three,None,,G ST,,2015
+237066,,Wednesday,No,2015-07-29T00:00:00.000,Investigate Property,"[-71.064323, 42.35311]",Point,InvProp,7,ALARM,111,A1,,No,TREMONT ST,Part Three,None,773931.0,,2950000.0,2015

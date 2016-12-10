@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2371,152026413.0,Tuesday,No,2015-03-31T18:00:00.000,Service,"[0, 0]",Point,Service,3,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015
+29141,152026026.0,Tuesday,No,2015-03-31T10:34:00.000,Service,"[-71.07251, 42.352266]",Point,Service,3,ARREST,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,771719.655,,2953684.403,2015
+201622,152026178.0,Tuesday,No,2015-03-31T17:43:00.000,Service,"[-71.06097, 42.370666]",Point,Service,3,IVPER,0,A15,First,No,CHARLES RIVER AV,Part three,Unarmed,774804.4398,,2960405.567,2015
+232660,152026006.0,Tuesday,No,2015-03-31T08:30:00.000,Service,"[-71.101403, 42.263859]",Point,Service,3,ARREST,0,E18,Day,No,RIVER ST,Part three,Unarmed,764060.2484,,2921429.3239999996,2015
+267134,152026030.0,Tuesday,No,2015-03-31T10:04:00.000,Service,"[0, 0]",Point,Service,3,IVPER,0,C6,Day,No,BLACK FALCON AV,Part three,Unarmed,,,,2015

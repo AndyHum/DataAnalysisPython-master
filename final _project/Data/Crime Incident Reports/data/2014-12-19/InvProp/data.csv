@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18233,142059143.0,Friday,No,2014-12-19T23:42:00.000,InvProp,"[-71.07879, 42.338343]",Point,InvProp,12,IVPREM,0,D4,First,No,MASSACHUSETTS AV,Part three,Other,770047.1337,,2948601.985,2014
+24561,142058841.0,Friday,No,2014-12-19T00:13:00.000,InvProp,"[-71.078526, 42.322336]",Point,InvProp,12,BE,0,B2,Last,No,PERRIN ST,Part three,Other,770147.4212,,2942769.0110000004,2014
+73880,142058954.0,Friday,No,2014-12-19T12:00:00.000,InvProp,"[-71.059987, 42.361648]",Point,InvProp,12,IVPREM,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+83016,142059110.0,Friday,No,2014-12-19T21:00:00.000,InvProp,"[-71.08435, 42.323186]",Point,InvProp,12,PROP,0,B2,First,No,WALNUT AV,Part three,Unarmed,768570.907,,2943071.3030000003,2014
+118948,142058852.0,Friday,No,2014-12-19T00:56:00.000,InvProp,"[-71.114485, 42.311256]",Point,InvProp,12,IVPREM,0,E13,Last,No,CENTRE STREET TR,Part three,Unarmed,760441.2169,,2938685.534,2014
+211373,142058935.0,Friday,No,2014-12-19T11:09:00.000,InvProp,"[-71.090956, 42.333723]",Point,InvProp,12,IVPREM,0,B2,Day,No,TREMONT ST,Part three,Unarmed,766765.8102,,2946902.542,2014
+248302,142059085.0,Friday,No,2014-12-19T19:00:00.000,InvProp,"[-71.096455, 42.269121]",Point,InvProp,12,IVPER,0,E18,First,No,CUMMINS HY,Part three,Unarmed,765390.5945,,2923353.472,2014
+254853,142058922.0,Friday,No,2014-12-19T10:45:00.000,InvProp,"[-71.082755, 42.281741]",Point,InvProp,12,IVMV,0,B3,Day,No,EVANS ST,Part three,Unarmed,769076.1199,,2927970.212,2014

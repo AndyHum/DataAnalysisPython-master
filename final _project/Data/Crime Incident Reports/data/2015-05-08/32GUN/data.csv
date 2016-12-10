@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+894,152037789.0,Friday,No,2015-05-08T20:00:00.000,32GUN,"[0, 0]",Point,32GUN,5,IVPER,0,B2,First,No,STANTON ST,Part three,Unarmed,,,,2015
+229529,152037595.0,Friday,No,2015-05-08T08:29:00.000,32GUN,"[-71.08063, 42.330776]",Point,32GUN,5,FDWEAP,0,B2,Day,No,EUSTIS ST,Part three,Firearm,769563.2991,,2945842.155,2015

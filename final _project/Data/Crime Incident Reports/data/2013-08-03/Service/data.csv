@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38461,130484156.0,Saturday,No,2013-08-03T08:15:00.000,Service,"[-71.03687, 42.377576]",Point,Service,8,LARCRT,23,A7,Day,No,MARION ST,Part three,Unarmed,781303.168,,2962958.15,2013
+124398,130483272.0,Saturday,No,2013-08-03T00:32:00.000,Service,"[-71.10234, 42.270701]",Point,Service,8,REQP  ,479,E18,Last,No,CUMMINS HY,Part three,Other,763795.0834,ROCKINGHAM AV,2923921.765,2013
+137437,130484795.0,Saturday,No,2013-08-03T18:14:00.000,Service,"[-71.07928, 42.328551]",Point,Service,8,ARREST,268,B2,First,No,DUDLEY ST,Part three,Unarmed,769932.3318,DEARBORN ST,2945033.123,2013
+175772,130484732.0,Saturday,No,2013-08-03T17:40:00.000,Service,"[-71.13138, 42.283421]",Point,Service,8,ARREST,680,E5,First,No,ALBANO ST,Part three,Unarmed,755915.3108,WASHINGTON ST,2928521.814,2013
+207902,130483904.0,Saturday,No,2013-08-03T09:40:00.000,Service,"[-71.14646, 42.350031]",Point,Service,8,SSTOP ,784,D14,Day,No,WARREN ST,Part three,Unarmed,751734.0788,NEVINS ST,2952778.405,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56581,130604094.0,Sunday,No,2013-09-22T01:07:00.000,Gather,"[-71.157755, 42.340665]",Point,Gather,9,DISTRB,773,D14,Last,No,RADNOR RD,Part three,Unarmed,748694.4779,,2949352.6139999996,2013
+188193,130604269.0,Sunday,No,2013-09-22T01:31:00.000,Gather,"[-71.100941, 42.328972]",Point,Gather,9,PARTY ,586,B2,Last,No,CALUMET ST,Part three,Unarmed,764074.2861,,2945158.251,2013
+236465,130604223.0,Sunday,No,2013-09-22T01:25:00.000,Gather,"[-71.157505, 42.341188]",Point,Gather,9,PARTY ,773,D14,Last,No,KIRKWOOD RD,Part three,Unarmed,748761.1914,,2949543.563,2013

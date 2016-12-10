@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18977,130313446.0,Saturday,No,2013-05-25T10:30:00.000,Service,"[-71.0126, 42.384731]",Point,Service,5,ARREST,28,A7,Day,No,BENNINGTON ST,Part Three,Unarmed,787845.8791,WESTBROOK ST,2965602.1139999996,2013
+21894,130321677.0,Saturday,No,2013-05-25T08:00:00.000,Service,"[-71.085841, 42.306613]",Point,Service,5,LARCRT,319,B2,Day,No,NAZING ST,Part three,Unarmed,768196.8940000001,,2937029.841,2013
+130893,130313232.0,Saturday,No,2013-05-25T09:45:00.000,Service,"[-71.02076, 42.382431]",Point,Service,5,IVPER ,28,A7,Day,No,CURTIS ST,Part Three,Unarmed,785646.0551,SARATOGA ST,2964751.455,2013
+143995,130313223.0,Saturday,No,2013-05-25T10:38:00.000,Service,"[-71.058756, 42.36273]",Point,Service,5,ARREST,77,A1,Day,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2013
+146256,130313146.0,Saturday,No,2013-05-25T09:45:00.000,Service,"[-71.02076, 42.382431]",Point,Service,5,ARREST,15,A7,Day,No,SARATOGA ST,Part Three,Unarmed,785646.0551,CURTIS ST,2964751.455,2013
+171995,130313447.0,Saturday,No,2013-05-25T10:30:00.000,Service,"[-71.0126, 42.384731]",Point,Service,5,ARREST,28,A7,Day,No,BENNINGTON ST,Part Three,Unarmed,787845.8791,WESTBROOK ST,2965602.1139999996,2013
+195996,130312771.0,Saturday,No,2013-05-25T02:30:00.000,Service,"[-71.059575, 42.302511]",Point,Service,5,ARREST,0,C11,Last,No,DORCHESTER AV,Part Three,Other,775309.6471,,2935570.63,2013

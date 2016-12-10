@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38211,152012064.0,Friday,No,2015-02-13T16:00:00.000,PropDam,"[-71.04042, 42.331796]",Point,PropDam,2,PROP,0,C6,First,No,BREWSTER ST,Part three,Other,780433.8672,E 8TH ST,2946269.8789999997,2015
+61618,152011837.0,Friday,No,2015-02-13T09:00:00.000,PropDam,"[-71.048531, 42.337316]",Point,PropDam,2,IVMV,0,C6,Day,No,W BROADWAY,Part three,Unarmed,778230.0596,,2948269.7369999997,2015
+260409,152011972.0,Friday,No,2015-02-13T14:00:00.000,PropDam,"[0, 0]",Point,PropDam,2,PROP,0,A15,Day,No,FAYETTE ST,Part three,Unarmed,,,,2015

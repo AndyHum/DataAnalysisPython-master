@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5475,130402932.0,Monday,No,2013-07-01T13:00:00.000,PropFound,"[-71.132365, 42.354111]",Point,PropFound,7,FDPROP,801,D14,Day,No,HARVARD AV,Part three,Unarmed,755537.7402,,2954281.348,2013
+6456,130403666.0,Monday,No,2013-07-01T18:20:00.000,PropFound,"[-71.077645, 42.337576]",Point,PropFound,7,FDPROP,170,D4,First,No,SHAWMUT AV,Part three,Unarmed,770358.157,,2948324.1780000003,2013
+126884,130403727.0,Monday,No,2013-07-01T15:00:00.000,PropFound,"[-71.13158, 42.349131]",Point,PropFound,7,FDPROP,793,D14,Day,No,ROYCE RD,Part three,Unarmed,755757.762,,2952467.4510000004,2013

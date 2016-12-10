@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35593,130400184.0,Sunday,No,2013-06-30T09:36:00.000,Arrest,"[-71.104114, 42.269872]",Point,Arrest,6,INVEST,479,E18,Day,No,RUGBY RD,Part three,Unarmed,763316.1327,,2923617.375,2013
+179051,130401498.0,Sunday,No,2013-06-30T21:16:00.000,Arrest,"[-71.096765, 42.332291]",Point,Arrest,6,ARREST,588,B2,First,No,PARKER ST,Part three,Unarmed,765197.8626,,2946373.21,2013
+182325,130400218.0,Sunday,No,2013-06-30T09:52:00.000,Arrest,"[-71.05892, 42.349921]",Point,Arrest,6,ARREST,116,A1,Day,No,KNEELAND ST,Part three,Unarmed,775397.4921,LINCOLN ST,2952848.542,2013

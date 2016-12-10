@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12394,,Tuesday,No,2015-06-16T18:35:00.000,Firearm Violations,"[0, 0]",Point,15xx,6,SS,0,,,No,HAMILTON,Part Two,Knife/Cutting Instrument,,,,2015
+18816,,Tuesday,No,2015-06-16T00:00:00.000,Firearm Violations,"[-71.074871, 42.314344]",Point,15xx,6,CD11,327,B2,,No,CUNNINGHAM ST,Part Two,None,771150.0,,2940000.0,2015
+35670,,Tuesday,No,2015-06-16T00:00:00.000,Firearm Violations,"[-71.074871, 42.314344]",Point,15xx,6,ARREST,327,B2,,No,CUNNINGHAM ST,Part Two,Firearm,771150.0,,2940000.0,2015
+107263,,Tuesday,No,2015-06-16T00:00:00.000,Violations,"[-71.078382, 42.329004]",Point,VAL,6,SS,268,B2,,No,EUSTIS ST,Part Two,None,770174.0,,2950000.0,2015
+150868,,Tuesday,No,2015-06-16T16:46:00.000,Violations,"[0, 0]",Point,VAL,6,ARREST,37,A15,,No,ALFORD ST,Part Two,None,,,,2015
+172483,,Tuesday,No,2015-06-16T15:55:00.000,Violations,"[0, 0]",Point,VAL,6,,64,A1,,No,FRUIT ST,Part Two,None,,,,2015
+186731,,Tuesday,No,2015-06-16T13:39:00.000,Violations,"[0, 0]",Point,VAL,6,TS,0,,,No,,Part Two,None,,COLUMBIA RD,,2015
+217986,,Tuesday,No,2015-06-16T00:00:00.000,Assembly or Gathering Violations,"[-71.08482, 42.346343]",Point,Gather,6,I00039,598,D4,,No,DALTON ST,Part Three,None,768403.0,,2950000.0,2015

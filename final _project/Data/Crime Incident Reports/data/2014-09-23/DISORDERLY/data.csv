@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41113,142032396.0,Tuesday,No,2014-09-23T22:20:00.000,DISORDERLY,"[-71.06864, 42.307411]",Point,24xx,9,FIGHT,0,C11,First,No,HAMILTON ST,Part Two,Unarmed,772848.3936,CLARKSON ST,2937343.733,2014
+148101,142032069.0,Tuesday,No,2014-09-23T00:45:00.000,DISORDERLY,"[-71.059969, 42.355867]",Point,24xx,9,ARREST,0,A1,Last,No,WASHINGTON ST,Part Two,Unarmed,775102.6197,,2955013.727,2014
+223392,142032228.0,Tuesday,No,2014-09-23T13:00:00.000,DISORDERLY,"[-71.100905, 42.314216]",Point,24xx,9,DISTRB,0,E13,Day,No,EGLESTON ST,Part Two,Unarmed,764109.2722,,2939781.1010000003,2014
+248735,142032134.0,Tuesday,No,2014-09-23T10:15:00.000,DISORDERLY,"[-71.077917, 42.343296]",Point,24xx,9,SS,0,D4,Day,No,WARREN AV,Part Two,Unarmed,770274.0752,,2950408.285,2014

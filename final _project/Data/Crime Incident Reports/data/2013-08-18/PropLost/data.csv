@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29886,130519470.0,Sunday,No,2013-08-18T00:30:00.000,PropLost,"[-71.063525, 42.351546]",Point,PropLost,8,LARCRT,117,A1,Last,No,LAGRANGE ST,Part three,Unarmed,774149.6718,,2953434.3210000005,2013
+236066,130523502.0,Sunday,No,2013-08-18T01:50:00.000,PropLost,"[-71.04339, 42.350736]",Point,PropLost,8,LARCRT,206,C6,Last,No,NORTHERN AV,Part three,Unarmed,779593.8607,,2953167.635,2013
+251795,130522710.0,Sunday,No,2013-08-18T17:00:00.000,PropLost,"[-71.0717, 42.291311]",Point,PropLost,8,LSTPRP,450,C11,First,No,WASHINGTON ST,Part three,Unarmed,772050.1409,,2931472.481,2013
+261251,130522305.0,Sunday,No,2013-08-18T00:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,FDPROP,41,A15,Last,No,BUNKER HILL ST,Part three,Unarmed,,,,2013

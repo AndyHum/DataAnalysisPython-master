@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53763,140262998.0,Friday,No,2014-04-18T18:00:00.000,PersMiss,"[-71.11752, 42.269956]",Point,PersMiss,4,MISPER,497,E18,First,No,BRADLEE ST,Other,Unarmed,759687.8017,,2923631.488,2014
+89201,140234753.0,Friday,No,2014-04-18T01:48:00.000,PersMiss,"[-71.104105, 42.326451]",Point,PersMiss,4,MISPER,584,E13,Last,No,LAWN ST,Other,Unarmed,763223.087,,2944235.712,2014
+108742,140262985.0,Friday,No,2014-04-18T14:00:00.000,PersMiss,"[-71.11752, 42.269956]",Point,PersMiss,4,MISPER,497,E18,Day,No,BRADLEE ST,Other,Unarmed,759687.8017,,2923631.488,2014

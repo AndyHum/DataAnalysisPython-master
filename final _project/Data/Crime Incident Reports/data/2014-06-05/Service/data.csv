@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43338,140353025.0,Thursday,No,2014-06-05T09:09:00.000,Service,"[-71.14037, 42.348671]",Point,Service,6,ARREST,795,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,753382.3782,WARREN ST,2952289.6760000004,2014
+47032,140352940.0,Thursday,No,2014-06-05T08:39:00.000,Service,"[-71.063675, 42.352301]",Point,Service,6,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+56207,140353564.0,Thursday,No,2014-06-05T13:14:00.000,Service,"[-71.094521, 42.27791]",Point,Service,6,CD9   ,468,B3,Day,No,WALK HILL ST,Other,Unarmed,765898.5905,,2926558.567,2014
+118031,140352979.0,Thursday,No,2014-06-05T09:00:00.000,Service,"[-71.07351, 42.333491]",Point,Service,6,ARREST,179,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771483.5641,ALBANY ST,2946841.0930000003,2014
+125232,140354531.0,Thursday,No,2014-06-05T20:22:00.000,Service,"[-71.096595, 42.317476]",Point,Service,6,ARREST,304,E13,First,No,WASHINGTON ST,Part three,Unarmed,765269.3624,,2940974.583,2014
+259870,140353118.0,Thursday,No,2014-06-05T10:00:00.000,Service,"[-71.03078, 42.364679]",Point,Service,6,CD9   ,28,A7,Day,No,WEBSTER ST,Other,Unarmed,782974.3201,,2958267.2569999998,2014

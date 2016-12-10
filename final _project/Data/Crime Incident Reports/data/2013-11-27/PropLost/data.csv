@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23353,130751667.0,Wednesday,No,2013-11-27T14:30:00.000,PropLost,"[-71.07928, 42.328551]",Point,PropLost,11,LSTPRP,268,B2,Day,No,DUDLEY ST,Part three,Unarmed,769932.3318,DEARBORN ST,2945033.123,2013
+66288,130753090.0,Wednesday,No,2013-11-27T15:30:00.000,PropLost,"[-71.068365, 42.328546]",Point,PropLost,11,LSTPRP,178,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772883.8062,,2945046.048,2013
+228409,130754676.0,Wednesday,No,2013-11-27T22:00:00.000,PropLost,"[-71.05681, 42.322086]",Point,PropLost,11,INVEST,189,C6,First,No,DORCHESTER AV,Part three,Unarmed,776020.5581,,2942707.94,2013
+261382,130759786.0,Wednesday,No,2013-11-27T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LARCRT,185,C6,Day,No,MASSACHUSETTS AV,Part three,Other,,,,2013
+262448,130818388.0,Wednesday,No,2013-11-27T13:05:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,656,E13,Day,No,LISZT ST,Part three,Unarmed,,,,2013
+263454,130768015.0,Wednesday,No,2013-11-27T09:30:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,186,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2013

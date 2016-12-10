@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13015,,Sunday,No,2015-08-09T00:00:00.000,Robbery,"[-71.046785, 42.330442]",Point,03xx,8,SS,219,C6,,No,COLUMBIA RD,Part One,Personal Weapon (hand  foot  etc.),778715.0,,2950000.0,2015
+23707,,Sunday,No,2015-08-09T00:00:00.000,Robbery,"[-71.068646, 42.306265]",Point,03xx,8,I00040,336,C11,,No,NORTON ST,Part One,None,772849.0,,2940000.0,2015
+25407,,Sunday,No,2015-08-09T02:33:00.000,Robbery,"[0, 0]",Point,03xx,8,ARREST,326,B2,,No,FERNBORO ST,Part One,Firearm,,LAWRENCE AVE,,2015
+55010,,Sunday,No,2015-08-09T00:00:00.000,Robbery,"[-71.136345, 42.277887]",Point,03xx,8,ARMROB,668,E5,,No,BEECH ST,Part One,Knife/Cutting Instrument,754580.0,,2930000.0,2015
+59846,,Sunday,No,2015-08-09T00:00:00.000,Robbery,"[-71.056188, 42.368305]",Point,03xx,8,I00040,81,A1,,No,COMMERCIAL ST,Part One,Personal Weapon (hand  foot  etc.),776101.0,,2960000.0,2015
+109472,,Sunday,No,2015-08-09T00:00:00.000,Robbery,"[-71.102981, 42.304922]",Point,03xx,8,I00040,570,E13,,No,FOREST HILLS ST,Part One,None,763563.0,,2940000.0,2015
+255851,,Sunday,No,2015-08-09T14:20:00.000,Robbery,"[0, 0]",Point,03xx,8,ARMROB,469,B3,,No,FOTTLER RD,Part One,Knife/Cutting Instrument,,WALK HILL ST,,2015

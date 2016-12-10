@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5893,120754668.0,Sunday,No,2012-12-02T01:19:00.000,InvProp,"[-71.080105, 42.339015]",Point,InvProp,12,REQP  ,273,D4,Last,No,MASSACHUSETTS AV,Part Three,Other,769690.2785,,2948844.9889999996,2012
+39477,120755579.0,Sunday,No,2012-12-02T15:04:00.000,InvProp,"[-71.089954, 42.326565]",Point,InvProp,12,SHOTS ,293,B2,Day,No,ROCKLEDGE ST,Part Three,Unarmed,767049.4678,,2944295.184,2012
+56916,120754981.0,Sunday,No,2012-12-02T07:58:00.000,InvProp,"[-71.136334, 42.363037]",Point,InvProp,12,CTYALM,807,D14,Day,No,WESTERN AV,Part Three,Unarmed,754451.0563,,2957529.4910000004,2012
+157983,120756310.0,Sunday,No,2012-12-02T22:40:00.000,InvProp,"[-71.055631, 42.381676]",Point,InvProp,12,BEMVRT,37,A15,First,No,TERMINAL ST,Part Three,Unarmed,776226.2569,,2964425.193,2012

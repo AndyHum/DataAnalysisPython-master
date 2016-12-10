@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40939,152030346.0,Tuesday,No,2015-04-14T16:00:00.000,FIRE,"[-71.057798, 42.364207]",Point,FIRE,4,IVPER,0,A1,First,No,STILLMAN PL,Part three,Unarmed,775673.7779999999,,2958056.213,2015
+133728,152030322.0,Tuesday,No,2015-04-14T13:08:00.000,FIRE,"[-71.122406, 42.27807]",Point,FIRE,4,FO,0,E18,Day,No,CANTERBURY ST,Part three,Unarmed,758352.2782,,2926582.395,2015
+267738,152030437.0,Tuesday,No,2015-04-14T21:20:00.000,FIRE,"[0, 0]",Point,FIRE,4,FO,0,E13,First,No,ST ROSE ST,Part three,Other,,,,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23620,,Friday,No,2015-06-26T17:17:00.000,Robbery,"[0, 0]",Point,03xx,6,IVPER,445,B3,,No,HARVARD ST,Part One,Firearm,,,,2015
+41841,,Friday,No,2015-06-26T00:00:00.000,Robbery,"[-71.056577, 42.362093]",Point,03xx,6,ARREST,78,A1,,No,BLACKSTONE ST,Part One,None,776008.0,,2960000.0,2015
+89529,,Friday,No,2015-06-26T00:00:00.000,Robbery,"[-71.092488, 42.275951]",Point,03xx,6,AB,427,B3,,No,BABSON ST,Part One,Personal Weapon (hand  foot  etc.),766452.0,,2930000.0,2015
+206584,,Friday,No,2015-06-26T00:00:00.000,Robbery,"[-71.062261, 42.346146]",Point,03xx,6,ARMROB,161,D4,,No,HERALD ST,Part One,Firearm,774501.0,TREMONT ST,2950000.0,2015
+210892,,Friday,No,2015-06-26T00:00:00.000,Robbery,"[-71.13094, 42.249738]",Point,03xx,6,IVPER,510,E13,,No,WASHINGTON ST,Part One,Knife/Cutting Instrument,756087.0,,2920000.0,2015

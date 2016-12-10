@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116665,140063902.0,Friday,No,2014-01-31T16:26:00.000,Gather,"[-71.008841, 42.385972]",Point,Gather,1,DISTRB,12,A7,First,No,BENNINGTON ST,Part three,Unarmed,788858.6962,,2966060.0089999996,2014
+124750,140063462.0,Friday,No,2014-01-31T13:21:00.000,Gather,"[-71.06325, 42.357701]",Point,Gather,1,PROTES,102,A1,Day,No,BEACON ST,Part three,Unarmed,774212.5197,PARK ST,2955677.7,2014
+203206,140078666.0,Friday,No,2014-01-31T00:00:00.000,Gather,"[-71.129255, 42.358881]",Point,Gather,1,IVPREM,816,D14,Last,No,ARDEN ST,Part three,Unarmed,756370.7552,,2956023.2339999997,2014

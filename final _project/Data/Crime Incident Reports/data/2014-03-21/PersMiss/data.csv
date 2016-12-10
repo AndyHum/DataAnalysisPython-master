@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53246,140173713.0,Friday,No,2014-03-21T21:30:00.000,PersMiss,"[-71.03174, 42.377971]",Point,PersMiss,3,MISPER,19,A7,First,No,PUTNAM ST,Other,Unarmed,782688.4743,,2963109.664,2014
+245872,140171228.0,Friday,No,2014-03-21T02:39:00.000,PersMiss,"[-71.07404, 42.321811]",Point,PersMiss,3,MISPER,262,B2,Last,No,BROOK AV,Other,Unarmed,771361.5169,,2942583.985,2014
+266365,140173301.0,Friday,No,2014-03-21T22:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,3,MISPER,503,B3,First,No,W MAIN ST,Other,Unarmed,,,,2014

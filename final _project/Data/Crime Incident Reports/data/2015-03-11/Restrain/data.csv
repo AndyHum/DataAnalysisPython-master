@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25271,152019947.0,Wednesday,No,2015-03-11T15:00:00.000,Restrain,"[-71.090619, 42.347463]",Point,Restrain,3,VIORDR,0,D4,Day,No,IPSWICH ST,Part Two,Unarmed,766832.8865,,2951909.848,2015
+131391,152019805.0,Wednesday,No,2015-03-11T21:00:00.000,Restrain,"[-71.008945, 42.390084]",Point,Restrain,3,VIORDR,0,A7,First,No,GLADSTONE ST,Part Two,Unarmed,788822.0138,,2967558.563,2015
+166086,152019625.0,Wednesday,No,2015-03-11T13:00:00.000,Restrain,"[-71.11867, 42.262546]",Point,Restrain,3,VIORDR,0,E18,Day,No,CENTRAL AV,Part Two,Unarmed,759388.6189,,2920929.79,2015

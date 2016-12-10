@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129631,152008185.0,Saturday,No,2015-01-31T02:00:00.000,InvProp,"[-71.07163, 42.350686]",Point,InvProp,1,SUSOBJ,0,D4,Last,No,ST JAMES AV,Part three,Unarmed,771960.4134,,2953109.815,2015
+150094,152008177.0,Saturday,No,2015-01-31T00:27:00.000,InvProp,"[-71.07812, 42.302821]",Point,InvProp,1,IVPREM,0,C11,Last,No,WASHINGTON ST,Part three,Unarmed,770292.377,,2935658.24,2015
+208599,152008206.0,Saturday,No,2015-01-31T08:00:00.000,InvProp,"[-71.05582, 42.360091]",Point,InvProp,1,CD19,0,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2015
+209727,152008390.0,Saturday,No,2015-01-31T23:06:00.000,InvProp,"[-71.084025, 42.305016]",Point,InvProp,1,PKNIFE,0,B2,First,No,SEAVER ST,Part three,Unarmed,768691.0889,,2936450.287,2015
+220234,152008192.0,Saturday,No,2015-01-31T03:51:00.000,InvProp,"[-71.087, 42.333861]",Point,InvProp,1,SSA,0,B2,Last,No,RUGGLES ST,Part three,Unarmed,767835.439,CABOT ST,2946957.979,2015

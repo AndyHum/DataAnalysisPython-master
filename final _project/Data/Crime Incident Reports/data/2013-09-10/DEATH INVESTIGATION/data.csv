@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72545,130576022.0,Tuesday,No,2013-09-10T17:25:00.000,DEATH INVESTIGATION,"[-71.090755, 42.269537]",Point,01INV,9,CARST ,426,B3,First,No,RIVER ST,Part three,Unarmed,766932.4073,,2923512.3660000004,2013
+111300,130575988.0,Tuesday,No,2013-09-10T14:30:00.000,DEATH INVESTIGATION,"[-71.12448, 42.284991]",Point,01INV,9,CARST ,562,E5,Day,No,SYCAMORE ST,Part three,Unarmed,757779.9168,,2929102.0889999997,2013
+198371,130574537.0,Tuesday,No,2013-09-10T02:49:00.000,DEATH INVESTIGATION,"[-71.055825, 42.295761]",Point,01INV,9,CARST ,367,C11,Last,No,VICTORY RD,Part three,Unarmed,776336.8898,,2933116.0919999997,2013

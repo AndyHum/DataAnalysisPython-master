@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60635,,Sunday,No,2015-06-28T00:00:00.000,Missing Person Reported,"[-71.159323, 42.258391]",Point,PersMiss,6,IVPER,821,E5,,No,ROCKLAND ST,Part Three,None,748390.0,,2920000.0,2015
+140890,,Sunday,No,2015-06-28T00:00:00.000,Missing Person Reported,"[-71.087302, 42.329193]",Point,PersMiss,6,IVPER,292,B2,,No,DUDLEY ST,Part Three,None,767762.0,,2950000.0,2015
+259725,,Sunday,No,2015-06-28T21:41:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,6,IVPER,784,D14,,No,WARREN ST,Part Three,None,,,,2015
+259726,,Sunday,No,2015-06-28T21:41:00.000,Missing Person Reported,"[0, 0]",Point,PersMiss,6,IVPER,784,D14,,No,WARREN ST,Part Three,None,,,,2015

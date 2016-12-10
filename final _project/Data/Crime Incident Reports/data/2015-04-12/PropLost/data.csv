@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56103,152029769.0,Sunday,No,2015-04-12T20:00:00.000,PropLost,"[-71.05899, 42.356791]",Point,PropLost,4,LARCEN,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775365.6264,,2955352.003,2015
+73018,152030972.0,Sunday,No,2015-04-12T15:00:00.000,PropLost,"[-71.059969, 42.355867]",Point,PropLost,4,PROP,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775102.6197,WINTER ST,2955013.727,2015
+105301,152029758.0,Sunday,No,2015-04-12T17:30:00.000,PropLost,"[-71.10537, 42.308606]",Point,PropLost,4,PROP,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,762911.0968,,2937731.106,2015
+126155,152029726.0,Sunday,No,2015-04-12T13:00:00.000,PropLost,"[-71.05751, 42.358636]",Point,PropLost,4,PROP,0,A1,Day,No,DEVONSHIRE PL,Part three,Unarmed,775762.1587,,2956026.4289999995,2015
+134859,152029899.0,Sunday,No,2015-04-12T19:00:00.000,PropLost,"[-71.079218, 42.302928]",Point,PropLost,4,LARCEN,0,B3,First,No,ERIE ST,Part three,Unarmed,769995.1699,GREENWOOD ST,2935695.4689999996,2015
+139801,152029695.0,Sunday,No,2015-04-12T13:15:00.000,PropLost,"[-71.06874, 42.347176]",Point,PropLost,4,PROP,0,D4,Day,No,TREMONT ST,Part three,Unarmed,772748.0771,,2951834.64,2015
+183901,152034509.0,Sunday,No,2015-04-12T23:00:00.000,PropLost,"[-71.16204, 42.351621]",Point,PropLost,4,PROP,0,D14,First,No,TURNER ST,Part three,Unarmed,747520.2933,,2953340.7630000003,2015
+236901,152029722.0,Sunday,No,2015-04-12T15:48:00.000,PropLost,"[-71.11455, 42.314741]",Point,PropLost,4,PROP,0,E13,Day,No,POND ST,Part three,Unarmed,760417.8974,,2939955.4469999997,2015
+256177,152029800.0,Sunday,No,2015-04-12T09:25:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,4,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+267643,152029735.0,Sunday,No,2015-04-12T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,C6,First,No,MORRISSEY BL,Part three,Unarmed,,,,2015
+267644,152029650.0,Sunday,No,2015-04-12T09:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267733,152030264.0,Sunday,No,2015-04-12T00:01:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,B2,Last,No,NEPONSET AV,Part three,Unarmed,,,,2015

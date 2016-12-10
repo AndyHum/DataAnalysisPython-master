@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60491,152024971.0,Friday,No,2015-03-27T17:00:00.000,PropFound,"[-71.084754, 42.312446]",Point,PropFound,3,INVEST,0,B2,First,No,ELM HILL AV,Part three,Unarmed,768480.5033,,2939156.7430000002,2015
+172010,152025063.0,Friday,No,2015-03-27T20:16:00.000,PropFound,"[-71.047314, 42.294874]",Point,PropFound,3,IVPREM,0,C11,First,No,MORRISSEY BL,Part three,Unarmed,778641.0768,,2932804.8460000004,2015
+177305,152024824.0,Friday,No,2015-03-27T11:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,3,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+228124,152024786.0,Friday,No,2015-03-27T09:15:00.000,PropFound,"[-71.07091, 42.343446]",Point,PropFound,3,PROP,0,D4,Day,No,WALTHAM ST,Part three,Unarmed,772168.3119,,2950472.401,2015
+257859,152025079.0,Friday,No,2015-03-27T14:49:00.000,PropFound,"[-71.08324, 42.351836]",Point,PropFound,3,IVPREM,0,D4,Day,No,FAIRFIELD ST,Part three,Unarmed,768820.0692,MARLBOROUGH ST,2953513.348,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+137679,130472516.0,Saturday,No,2013-07-27T22:00:00.000,BENoProp,"[-71.11171, 42.331151]",Point,BENoProp,7,BERPTA,608,E13,First,No,S HUNTINGTON AV,Part One,Other,761158.7922,,2945939.0239999997,2013
+147318,130466503.0,Saturday,No,2013-07-27T06:20:00.000,BENoProp,"[-71.094585, 42.348806]",Point,BENoProp,7,VANRPT,623,D4,Last,No,COMMONWEALTH AV,Part One,Unarmed,765758.7053,,2952394.378,2013
+165627,130470246.0,Saturday,No,2013-07-27T19:00:00.000,BENoProp,"[-71.061261, 42.321687]",Point,BENoProp,7,BERPT ,188,C6,First,No,BOSTON ST,Part One,Other,774817.6265,,2942556.0039999997,2013

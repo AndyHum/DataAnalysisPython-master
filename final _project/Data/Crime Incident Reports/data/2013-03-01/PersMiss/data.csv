@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15763,130125344.0,Friday,No,2013-03-01T22:17:00.000,PersMiss,"[-71.075835, 42.289281]",Point,PersMiss,3,MISPER,437,B3,First,No,DARLINGTON ST,Part Three,Unarmed,770935.0404,,2930727.1289999997,2013
+75275,130125437.0,Friday,No,2013-03-01T11:15:00.000,PersMiss,"[-71.10269, 42.306341]",Point,PersMiss,3,MISPER,567,E13,Day,No,FOREST HILLS ST,Part Three,Unarmed,763639.8581,,2936909.067,2013
+208770,130132791.0,Friday,No,2013-03-01T05:30:00.000,PersMiss,"[-71.095235, 42.276842]",Point,PersMiss,3,MSNCOM,469,B3,Last,No,HIAWATHA RD,Part Three,Unarmed,765707.4298,,2926168.385,2013
+215050,130124771.0,Friday,No,2013-03-01T16:53:00.000,PersMiss,"[-71.110659, 42.333961]",Point,PersMiss,3,INVCHD,611,B2,First,No,NEW WHITNEY ST,Part Three,Unarmed,761438.0939,,2946964.375,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18112,152006949.0,Monday,No,2015-01-26T00:51:00.000,InvProp,"[-71.077701, 42.327925]",Point,InvProp,1,IVPREM,0,B2,Last,No,DUDLEY ST,Part three,Unarmed,770360.3001,,2944807.002,2015
+30344,152006950.0,Monday,No,2015-01-26T01:20:00.000,InvProp,"[-71.08046, 42.335661]",Point,InvProp,1,IVPREM,0,D4,Last,No,SHAWMUT AV,Part three,Unarmed,769600.5096,,2947622.561,2015
+54559,152007184.0,Monday,No,2015-01-26T19:25:00.000,InvProp,"[-71.06996, 42.327256]",Point,InvProp,1,ALARM,0,B2,First,No,MAGAZINE ST,Part three,Unarmed,772454.8792,,2944573.773,2015
+142928,152006973.0,Monday,No,2015-01-26T08:00:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,1,CD9,0,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2015
+263091,152007729.0,Monday,No,2015-01-26T17:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,VAND,0,D14,First,No,GREYCLIFFE RD,Part three,Unarmed,,,,2015
+267448,152007235.0,Monday,No,2015-01-26T23:45:00.000,InvProp,"[0, 0]",Point,InvProp,1,SHOTS,0,C6,First,No,OLD COLONY AV,Part three,Unarmed,,PREBLE ST,,2015
+267462,152006965.0,Monday,No,2015-01-26T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

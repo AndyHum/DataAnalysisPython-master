@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11265,,Wednesday,No,2015-07-01T17:50:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,57,A15,,No,BUNKER HILL ST,Part Two,None,,LEXINGTON ST,,2015
+36804,,Wednesday,No,2015-07-01T16:35:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,145,D4,,No,CUMBERLAND ST,Part Two,None,,HUNTINGTON AVE,,2015
+62881,,Wednesday,No,2015-07-01T00:00:00.000,Drug Violation,"[-71.066009, 42.374795]",Point,18xx,7,POISON,58,A15,,No,AUSTIN ST,Part Two,None,773435.0,,2960000.0,2015
+64305,,Wednesday,No,2015-07-01T16:13:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,354,C11,,No,PARK ST,Part Two,None,,,,2015
+77766,,Wednesday,No,2015-07-01T17:36:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,258,B2,,No,DUDLEY ST,Part Two,None,,,,2015
+81772,,Wednesday,No,2015-07-01T02:54:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,273,D4,,No,WASHINGTON ST,Part Two,None,,,,2015
+83545,,Wednesday,No,2015-07-01T19:45:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,324,B2,,No,BLUE HILL AVE,Part Two,None,, SOUTHWOOD ST ,,2015
+88475,,Wednesday,No,2015-07-01T17:19:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,544,E18,,No,AUSTIN ST,Part Two,None,,,,2015
+154881,,Wednesday,No,2015-07-01T12:33:00.000,Drug Violation,"[0, 0]",Point,18xx,7,POISON,0,,,No,BUSSEY ST,Part Two,None,,,,2015
+214203,,Wednesday,No,2015-07-01T00:00:00.000,Drug Violation,"[-71.109579, 42.33268]",Point,18xx,7,I00015,606,B2,,No,PARKER HILL AVE,Part Two,None,761732.0,,2950000.0,2015
+220307,,Wednesday,No,2015-07-01T00:00:00.000,Drug Violation,"[-71.065162, 42.34285]",Point,18xx,7,I00015,165,D4,,No,HARRISON AVE,Part Two,None,773723.0,,2950000.0,2015

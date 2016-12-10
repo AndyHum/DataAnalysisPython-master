@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+948,120527475.0,Thursday,No,2012-08-23T18:00:00.000,Ballist,"[-71.119695, 42.291721]",Point,Ballist,8,IVPER ,564,E5,First,No,ARCHDALE RD,Part Two,Unarmed,759063.7629999999,,2931560.3389999997,2012
+161796,120525343.0,Thursday,No,2012-08-23T12:38:00.000,Ballist,"[-71.06316, 42.319181]",Point,Ballist,8,SHOT  ,237,B2,Day,Yes,COLUMBIA RD,Part Two,Firearm,774308.7376,EASTMAN ST,2941640.4510000004,2012
+220510,120525408.0,Thursday,No,2012-08-23T13:24:00.000,Ballist,"[-71.072995, 42.304498]",Point,Ballist,8,SHOTS ,461,C11,Day,No,GENEVA AV,Part Two,Unarmed,771675.6285,OLNEY ST,2936276.22,2012

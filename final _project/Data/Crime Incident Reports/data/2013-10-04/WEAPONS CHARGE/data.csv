@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64724,130632615.0,Friday,No,2013-10-04T09:53:00.000,WEAPONS CHARGE,"[-71.01291, 42.385371]",Point,15xx,10,ARREST,12,A7,Day,No,SARATOGA ST,Part Two,Other,787760.7968,BRANDYWYNE DR,2965834.865,2013
+132886,130633767.0,Friday,No,2013-10-04T18:43:00.000,WEAPONS CHARGE,"[-71.076585, 42.289031]",Point,15xx,10,PERGUN,437,B3,First,No,ELMHURST ST,Part Two,Firearm,770732.5638,,2930635.018,2013
+158604,130633784.0,Friday,No,2013-10-04T19:02:00.000,WEAPONS CHARGE,"[-71.07811, 42.294401]",Point,15xx,10,INVEST,443,B3,First,No,NORWELL ST,Part Two,Firearm,770310.2596,PARK ST,2932589.8789999997,2013
+169472,130701984.0,Friday,No,2013-10-04T09:48:00.000,WEAPONS CHARGE,"[-71.05533, 42.330431]",Point,15xx,10,ARREST,194,C6,Day,No,DORCHESTER ST,Part Two,Knife,776404.9428,WARD ST,2945751.08,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4009,130257762.0,Wednesday,No,2013-05-01T19:17:00.000,FIRE,"[-71.067635, 42.313911]",Point,FIRE,5,FIREB ,332,C11,First,No,COLUMBIA RD,Part Three,Other,773108.2342,,2939713.812,2013
+14257,130256897.0,Wednesday,No,2013-05-01T13:15:00.000,FIRE,"[-71.059871, 42.286907]",Point,FIRE,5,FIREB ,392,C11,Day,No,ASHMONT ST,Part Three,Other,775258.8904,,2929883.85,2013
+77508,130257115.0,Wednesday,No,2013-05-01T14:49:00.000,FIRE,"[-71.130281, 42.360112]",Point,FIRE,5,FIREB ,815,D14,Day,No,EASTON ST,Part Three,Unarmed,756091.4822,,2956470.623,2013
+151003,130260170.0,Wednesday,No,2013-05-01T23:00:00.000,FIRE,"[-71.161135, 42.257871]",Point,FIRE,5,VANRPT,714,E5,First,No,WASHINGTON ST,Part Three,Other,747900.6475,,2919177.628,2013
+242537,130255859.0,Wednesday,No,2013-05-01T01:06:00.000,FIRE,"[-71.120977, 42.267011]",Point,FIRE,5,ABANRE,496,E18,Last,No,HYDE PARK AV,Part Three,Unarmed,758756.7157,,2922553.869,2013

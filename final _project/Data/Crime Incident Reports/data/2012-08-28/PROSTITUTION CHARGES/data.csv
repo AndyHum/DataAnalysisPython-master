@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11420,120535864.0,Tuesday,No,2012-08-28T01:56:00.000,PROSTITUTION CHARGES,"[-71.05688, 42.325981]",Point,16xx,8,IVPER ,190,C6,Last,No,DORCHESTER AV,Part Two,Unarmed,775994.2535,VON HILLERN ST,2944127.244,2012
+22547,120230456.0,Tuesday,No,2012-08-28T07:50:00.000,PROSTITUTION CHARGES,"[-71.07903, 42.320369]",Point,16xx,8,PROSTI,325,B2,Day,No,WAVERLY ST,Part Two,Unarmed,770014.5147,,2942051.588,2012
+104174,120535965.0,Tuesday,No,2012-08-28T02:08:00.000,PROSTITUTION CHARGES,"[-71.08139, 42.319811]",Point,16xx,8,IVPER ,329,B2,Last,No,WARREN AV,Part Two,Unarmed,769377.4093,WOODBINE ST,2941845.311,2012
+220378,120535928.0,Tuesday,No,2012-08-28T02:23:00.000,PROSTITUTION CHARGES,"[-71.07251, 42.322091]",Point,16xx,8,IVPER ,0,B2,Last,No,DUDLEY ST,Part Two,Unarmed,771774.7686,NORTH AV,2942688.091,2012

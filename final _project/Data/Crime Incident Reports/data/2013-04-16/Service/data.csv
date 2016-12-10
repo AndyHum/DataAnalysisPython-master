@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44919,130224141.0,Tuesday,No,2013-04-16T11:11:00.000,Service,"[0, 0]",Point,Service,4,IVPER ,0,C6,Day,No,UMASS ACCESS RD,Part Three,Unarmed,,,,2013
+130002,130224397.0,Tuesday,No,2013-04-16T13:22:00.000,Service,"[-71.13939, 42.276226]",Point,Service,4,ARREST,550,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,753758.9038,,2925890.582,2013
+205808,130224036.0,Tuesday,No,2013-04-16T10:15:00.000,Service,"[-71.02476, 42.375321]",Point,Service,4,ALERT2,36,A7,Day,No,PRESCOTT ST,Part Three,Unarmed,784579.6047,,2962154.15,2013

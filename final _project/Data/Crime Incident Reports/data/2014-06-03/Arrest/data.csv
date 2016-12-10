@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3966,140348960.0,Tuesday,No,2014-06-03T17:13:00.000,Arrest,"[-71.06287, 42.352321]",Point,Arrest,6,ARREST,111,A1,First,No,BOYLSTON ST,Part three,Other,774325.2748,,2953717.652,2014
+209202,140347855.0,Tuesday,No,2014-06-03T09:41:00.000,Arrest,"[-71.13238, 42.282461]",Point,Arrest,6,ARREST,559,E5,Day,No,WASHINGTON ST,Part three,Unarmed,755646.2199,,2928170.807,2014
+219435,140349111.0,Tuesday,No,2014-06-03T18:01:00.000,Arrest,"[-71.06799, 42.318281]",Point,Arrest,6,IVPER ,238,B2,First,No,DUDLEY ST,Part three,Unarmed,773004.1522,NONQUIT ST,2941305.8230000003,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116007,120794800.0,Wednesday,No,2012-12-19T23:41:00.000,MVAcc,"[-71.08773, 42.347281]",Point,MVAcc,12,IVPER ,620,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,767614.423,BOYLSTON ST,2951847.52,2012
+135766,120794082.0,Wednesday,No,2012-12-19T09:30:00.000,MVAcc,"[-71.06963, 42.349371]",Point,MVAcc,12,MVARPT,125,A1,Day,No,ARLINGTON ST,Part Three,Unarmed,772503.4522,WINCHESTER ST,2952633.3230000003,2012
+147869,120793466.0,Wednesday,No,2012-12-19T11:25:00.000,MVAcc,"[-71.080005, 42.350476]",Point,MVAcc,12,MVANO ,138,D4,Day,No,EXETER ST,Part Three,Unarmed,769696.9464,,2953022.027,2012
+175540,120792516.0,Wednesday,No,2012-12-19T00:00:00.000,MVAcc,"[-71.07847, 42.296761]",Point,MVAcc,12,MVAINJ,446,B3,Last,No,HARVARD ST,Part Three,Other,770208.6109,NORWELL ST,2933449.416,2012
+186436,120794528.0,Wednesday,No,2012-12-19T19:55:00.000,MVAcc,"[-71.10399, 42.310001]",Point,MVAcc,12,MVA   ,574,E13,First,No,WASHINGTON ST,Part Three,Unarmed,763282.0165,WOODSIDE AV,2938241.1960000005,2012

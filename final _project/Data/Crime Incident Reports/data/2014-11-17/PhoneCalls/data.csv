@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5029,142049793.0,Monday,No,2014-11-17T12:00:00.000,PhoneCalls,"[-71.06683, 42.307751]",Point,PhoneCalls,11,IVPER,0,C11,Day,No,COLEMAN ST,Part three,Unarmed,773337.3565,,2937470.117,2014
+39198,142050005.0,Monday,No,2014-11-17T16:00:00.000,PhoneCalls,"[-71.066885, 42.276566]",Point,PhoneCalls,11,IVPER,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,773380.1887,,2926105.7789999996,2014
+181400,142049818.0,Monday,No,2014-11-17T18:05:00.000,PhoneCalls,"[-71.104105, 42.326451]",Point,PhoneCalls,11,IVPER,0,E13,First,No,LAWN ST,Part three,Unarmed,763223.087,,2944235.712,2014

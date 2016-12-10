@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+215336,120722438.0,Sunday,No,2012-08-19T12:00:00.000,PhoneCalls,"[-71.098745, 42.346986]",Point,PhoneCalls,8,HARPT ,627,D4,Day,No,BROOKLINE AV,Part Three,Other,764637.301,,2951725.817,2012
+250706,120518454.0,Sunday,No,2012-08-19T23:00:00.000,PhoneCalls,"[-71.150915, 42.348981]",Point,PhoneCalls,8,THREAT,778,D14,First,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012

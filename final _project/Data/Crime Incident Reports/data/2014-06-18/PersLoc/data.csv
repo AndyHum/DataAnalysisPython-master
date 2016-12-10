@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42861,142000580.0,Wednesday,No,2014-06-18T15:00:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,6,IVPER,0,C11,Day,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+201973,142000525.0,Wednesday,No,2014-06-18T17:30:00.000,PersLoc,"[-71.07461, 42.278136]",Point,PersLoc,6,MISSIN,0,B3,First,No,GALLIVAN BL,Other,Unarmed,771286.7457,,2926667.387,2014
+234750,142000554.0,Wednesday,No,2014-06-18T21:20:00.000,PersLoc,"[-71.1208, 42.285591]",Point,PersLoc,6,IVPER,0,E5,First,No,RIDGE ST,Other,Unarmed,758774.7222,,2929325.144,2014
+245624,142002371.0,Wednesday,No,2014-06-18T15:00:00.000,PersLoc,"[-71.079641, 42.319008]",Point,PersLoc,6,MISSIN,0,B2,Day,No,WOODBINE ST,Other,Unarmed,769851.8126,,2941554.837,2014

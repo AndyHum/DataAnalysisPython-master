@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72141,142033837.0,Sunday,No,2014-09-28T04:00:00.000,DISORDERLY,"[-71.043581, 42.321064]",Point,24xx,9,DISTRB,0,C6,Last,No,N POINT DR,Part Two,Unarmed,779600.0536,,2942354.07,2014
+93717,142033838.0,Sunday,No,2014-09-28T01:00:00.000,DISORDERLY,"[-71.040034, 42.317592]",Point,24xx,9,DISTRB,0,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780565.8978,,2941094.309,2014
+160322,142033791.0,Sunday,No,2014-09-28T02:00:00.000,DISORDERLY,"[-71.046945, 42.293781]",Point,24xx,9,IVPER,0,C11,Last,No,MORRISSEY BL,Part Two,Unarmed,778743.1088,,2932407.163,2014
+265444,142033785.0,Sunday,No,2014-09-28T01:16:00.000,DISORDERLY,"[0, 0]",Point,24xx,9,ARREST,0,A7,Last,No,BROOKS ST,Part Two,Other,,PUTNAM ST,,2014

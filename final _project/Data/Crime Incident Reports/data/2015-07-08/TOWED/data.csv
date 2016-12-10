@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73403,,Wednesday,No,2015-07-08T00:00:00.000,Towed,"[-71.056355, 42.296045]",Point,Towed,7,IVMV,355,C11,,No,ADAMS ST,Part Three,None,776193.0,,2930000.0,2015
+114425,,Wednesday,No,2015-07-08T08:52:00.000,Towed,"[0, 0]",Point,Towed,7,IVMV,84,A1,,No,PRINCE ST,Part Three,None,,,,2015
+223930,,Wednesday,No,2015-07-08T00:00:00.000,Towed,"[-71.035463, 42.336911]",Point,Towed,7,IVMV,222,C6,,No,L ST,Part Three,None,781764.0,,2950000.0,2015

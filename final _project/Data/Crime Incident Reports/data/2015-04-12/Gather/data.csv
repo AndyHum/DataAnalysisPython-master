@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19904,152029580.0,Sunday,No,2015-04-12T01:19:00.000,Gather,"[-71.1501, 42.337221]",Point,Gather,4,DISTRB,0,D14,Last,No,SUTHERLAND RD,Part three,Unarmed,750769.2855,,2948106.13,2015
+39327,152029571.0,Sunday,No,2015-04-12T01:00:00.000,Gather,"[-71.09153, 42.340346]",Point,Gather,4,DISTRB,0,D4,Last,No,HEMENWAY ST,Part three,Unarmed,766599.2902,,2949315.334,2015
+57175,152029561.0,Sunday,No,2015-04-12T00:25:00.000,Gather,"[-71.08939, 42.345876]",Point,Gather,4,DISTRB,0,D4,Last,No,HEMENWAY ST,Part three,Unarmed,767168.1477,,2951333.347,2015
+188446,152029573.0,Sunday,No,2015-04-12T01:00:00.000,Gather,"[-71.08874, 42.347016]",Point,Gather,4,DISTRB,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,767341.8596,,2951749.6319999998,2015

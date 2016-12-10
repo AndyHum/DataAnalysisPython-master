@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2983,120561432.0,Saturday,No,2012-09-08T01:30:00.000,PropLost,"[-71.14312, 42.343861]",Point,PropLost,9,LSTPRP,786,D14,Last,No,WASHINGTON ST,Part Three,Unarmed,752646.3343,COMMONWEALTH AV,2950533.693,2012
+5511,120561588.0,Saturday,No,2012-09-08T00:45:00.000,PropLost,"[-71.06598, 42.350391]",Point,PropLost,9,LSTPRP,121,A1,Last,No,WARRENTON ST,Part Three,Unarmed,773488.0855,,2953009.8660000004,2012
+50892,120640170.0,Saturday,No,2012-09-08T08:00:00.000,PropLost,"[-71.07969, 42.282986]",Point,PropLost,9,LSTPRP,434,B3,Day,No,DYER ST,Part Three,Unarmed,769903.2882,,2928427.979,2012
+80744,120566044.0,Saturday,No,2012-09-08T09:00:00.000,PropLost,"[-71.008436, 42.39263]",Point,PropLost,9,LSTPRP,942,A7,Day,No,VALLAR RD,Part Three,Unarmed,788954.13,,2968486.8839999996,2012
+100373,120562445.0,Saturday,No,2012-09-08T13:00:00.000,PropLost,"[-71.07192, 42.332361]",Point,PropLost,9,LSTPRP,172,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,771915.5401,,2946431.455,2012
+120874,120562425.0,Saturday,No,2012-09-08T14:30:00.000,PropLost,"[-71.143747, 42.243792]",Point,PropLost,9,LARCRT,534,E18,Day,No,SOLARIS RD,Part Three,Unarmed,752629.0531,,2914066.209,2012
+176051,120634355.0,Saturday,No,2012-09-08T00:01:00.000,PropLost,"[-71.072995, 42.304498]",Point,PropLost,9,LSTPRP,462,C11,Last,No,GENEVA AV,Part Three,Unarmed,771675.6285,,2936276.22,2012
+260200,120562932.0,Saturday,No,2012-09-08T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,INVEST,439,B3,First,No,BLUE HILL AV,Part Three,Unarmed,,STRATTON ST,,2012
+264717,120562677.0,Saturday,No,2012-09-08T16:30:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,72,A1,First,No,WASHINGTON ST,Part Three,Unarmed,,,,2012

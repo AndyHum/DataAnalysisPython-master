@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39083,152032613.0,Tuesday,No,2015-04-21T21:30:00.000,PersLoc,"[-71.066805, 42.292011]",Point,PersLoc,4,IVPER,0,C11,First,No,ALLSTON ST,Other,Unarmed,773373.2534,,2931734.2589999996,2015
+39744,152032618.0,Tuesday,No,2015-04-21T10:00:00.000,PersLoc,"[-71.094678, 42.319428]",Point,PersLoc,4,IVPER,0,B2,Day,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2015
+51157,152032900.0,Tuesday,No,2015-04-21T13:00:00.000,PersLoc,"[-71.139414, 42.289087]",Point,PersLoc,4,IVPER,0,E5,Day,No,BRADFIELD AV,Other,Unarmed,753732.5131,,2930577.3260000004,2015
+108015,152032602.0,Tuesday,No,2015-04-21T21:15:00.000,PersLoc,"[-71.083533, 42.288775]",Point,PersLoc,4,IVPER,0,B3,First,No,STRATTON ST,Other,Unarmed,768852.8372,,2930532.1780000003,2015
+127616,152032917.0,Tuesday,No,2015-04-21T21:00:00.000,PersLoc,"[-71.078719, 42.30927]",Point,PersLoc,4,IVPER,0,B2,First,No,DEVON ST,Other,Unarmed,770118.7222,,2938007.273,2015

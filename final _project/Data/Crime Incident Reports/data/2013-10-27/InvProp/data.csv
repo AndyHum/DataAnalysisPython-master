@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38396,130684391.0,Sunday,No,2013-10-27T02:37:00.000,InvProp,"[-71.068165, 42.359266]",Point,InvProp,10,SHOTS ,66,A1,Last,No,MYRTLE ST,Part three,Unarmed,772881.2081,,2956241.2539999997,2013
+144397,130685322.0,Sunday,No,2013-10-27T19:20:00.000,InvProp,"[-71.04344, 42.330466]",Point,InvProp,10,LARCRT,233,C6,First,No,COLUMBIA RD,Part three,Unarmed,779619.8833,,2945780.82,2013
+208507,130684604.0,Sunday,No,2013-10-27T07:45:00.000,InvProp,"[-71.12864, 42.351584]",Point,InvProp,10,IVPER ,796,D14,Day,No,CHESTER ST,Part three,Other,756548.412,,2953364.769,2013

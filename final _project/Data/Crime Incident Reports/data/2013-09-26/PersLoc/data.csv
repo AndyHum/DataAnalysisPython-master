@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34151,130617402.0,Thursday,No,2013-09-26T19:35:00.000,PersLoc,"[-71.07879, 42.338343]",Point,PersLoc,9,MISPER,156,D4,First,No,MASSACHUSETTS AV,Other,Unarmed,770047.1337,,2948601.985,2013
+104698,130615197.0,Thursday,No,2013-09-26T19:54:00.000,PersLoc,"[-71.089151, 42.311211]",Point,PersLoc,9,MISPER,318,B2,First,No,HOMESTEAD ST,Other,Unarmed,767293.447,,2938701.003,2013
+181744,130614806.0,Thursday,No,2013-09-26T16:45:00.000,PersLoc,"[-71.08588, 42.331105]",Point,PersLoc,9,MISPER,276,B2,First,No,MADISON PARK CT,Other,Unarmed,768143.0706,,2945954.994,2013
+234125,130613657.0,Thursday,No,2013-09-26T07:50:00.000,PersLoc,"[-71.093055, 42.285596]",Point,PersLoc,9,MISPER,465,B3,Day,No,MORTON ST,Other,Unarmed,766282.1905,,2929361.562,2013

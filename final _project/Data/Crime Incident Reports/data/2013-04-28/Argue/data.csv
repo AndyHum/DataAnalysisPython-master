@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40693,130250688.0,Sunday,No,2013-04-28T18:15:00.000,Argue,"[-71.112247, 42.298567]",Point,Argue,4,REQP  ,510,E13,First,No,WOODLAWN ST,Part Three,Unarmed,761067.3521,,2934064.135,2013
+196858,130250675.0,Sunday,No,2013-04-28T18:30:00.000,Argue,"[-71.074534, 42.318942]",Point,Argue,4,NIDV  ,261,B2,First,No,JULIAN ST,Part Three,Unarmed,771233.0378,,2941537.659,2013
+224329,130250488.0,Sunday,No,2013-04-28T16:55:00.000,Argue,"[-71.16048, 42.353771]",Point,Argue,4,THREAT,765,D14,First,No,NEWCASTLE RD,Part Three,Unarmed,747938.8554,,2954125.9460000005,2013
+253975,130249245.0,Sunday,No,2013-04-28T00:50:00.000,Argue,"[-71.06317, 42.373476]",Point,Argue,4,FIGHT ,60,A15,Last,No,HARVARD AV,Part Three,Unarmed,774204.7018,,2961426.5360000003,2013

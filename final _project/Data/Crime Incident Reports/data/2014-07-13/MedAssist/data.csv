@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39620,142008810.0,Sunday,No,2014-07-13T16:34:00.000,MedAssist,"[-71.099695, 42.330611]",Point,MedAssist,7,AOD,0,B2,First,No,ALLEGHANY ST,Part three,Unarmed,764408.5,,2945757.258,2014
+92403,142008819.0,Sunday,No,2014-07-13T17:06:00.000,MedAssist,"[-71.15578, 42.264688]",Point,MedAssist,7,UNKEMS,0,E5,First,No,ROCKINGHAM AV,Part three,Unarmed,749340.247,,2921667.5330000003,2014
+95990,142008667.0,Sunday,No,2014-07-13T03:33:00.000,MedAssist,"[-71.076667, 42.316993]",Point,MedAssist,7,FIGHT,0,B2,Last,No,DACIA ST,Part three,Unarmed,770659.7299,,2940824.542,2014
+118484,142008913.0,Sunday,No,2014-07-13T02:15:00.000,MedAssist,"[-71.14787, 42.355176]",Point,MedAssist,7,POISON,0,D14,Last,No,GLENCOE ST,Part three,Unarmed,751345.1944,,2954651.773,2014
+137550,142008703.0,Sunday,No,2014-07-13T09:45:00.000,MedAssist,"[-71.067825, 42.343726]",Point,MedAssist,7,IVPREM,0,D4,Day,No,SHAWMUT AV,Part three,Other,773001.7945,,2950578.6489999997,2014
+153559,142008784.0,Sunday,No,2014-07-13T15:10:00.000,MedAssist,"[-71.07526, 42.345831]",Point,MedAssist,7,CARDIA,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,770988.0004,DARTMOUTH ST,2951335.652,2014
+227768,142008628.0,Sunday,No,2014-07-13T23:59:00.000,MedAssist,"[-71.065311, 42.316502]",Point,MedAssist,7,EDP,0,B2,Last,No,CUSHING AV,Part three,Knife,773731.7668,,2940661.249,2014
+246076,142008768.0,Sunday,No,2014-07-13T14:50:00.000,MedAssist,"[-71.060208, 42.30637]",Point,MedAssist,7,ABAN,0,C11,Day,No,LYON ST,Part three,Unarmed,775131.0737,,2936975.959,2014

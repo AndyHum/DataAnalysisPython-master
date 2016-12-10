@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66709,130510559.0,Wednesday,No,2013-08-14T12:41:00.000,Arrest,"[-71.06876, 42.304911]",Point,Arrest,8,IVPER ,342,C11,Day,No,BOWDOIN ST,Part three,Unarmed,772820.5405,TOPLIFF ST,2936432.5310000004,2013
+78328,130510477.0,Wednesday,No,2013-08-14T12:00:00.000,Arrest,"[-71.0569, 42.309781]",Point,Arrest,8,ARREST,254,C11,Day,No,AUCKLAND ST,Part three,Unarmed,776019.5128,DEWAR ST,2938223.6760000004,2013
+247390,130510493.0,Wednesday,No,2013-08-14T12:10:00.000,Arrest,"[-71.09154, 42.284251]",Point,Arrest,8,INVEST,428,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766694.479,MORTON ST,2928873.385,2013

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121279,130495663.0,Sunday,No,2013-08-04T14:00:00.000,PropFound,"[-71.03974, 42.369131]",Point,PropFound,8,LSTPRP,27,A7,Day,No,MAVERICK SQ,Part three,Unarmed,780544.3158,,2959876.425,2013
+166589,130486882.0,Sunday,No,2013-08-04T16:00:00.000,PropFound,"[-71.104434, 42.310881]",Point,PropFound,8,FDPROP,574,E13,First,No,OPHIR ST,Part three,Unarmed,763160.2823,,2938561.328,2013
+167194,130486936.0,Sunday,No,2013-08-04T16:15:00.000,PropFound,"[-71.05597, 42.360681]",Point,PropFound,8,LSTPRP,91,A1,First,No,CLINTON ST,Part three,Unarmed,776174.5026,NORTH ST,2956773.828,2013
+222485,130486744.0,Sunday,No,2013-08-04T12:00:00.000,PropFound,"[-71.062421, 42.364053]",Point,PropFound,8,FDPROP,75,A1,Day,No,LANCASTER ST,Part three,Unarmed,774424.7211,,2957993.642,2013
+232958,130486590.0,Sunday,No,2013-08-04T13:04:00.000,PropFound,"[-71.09602, 42.348776]",Point,PropFound,8,LARCIP,623,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765370.8501,,2952381.605,2013
+265748,130485987.0,Sunday,No,2013-08-04T04:00:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,83,A1,Last,No,HANOVER ST,Part three,Unarmed,,,,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30219,120561478.0,Saturday,No,2012-09-08T02:39:00.000,PubDrink,"[-71.10479, 42.334141]",Point,PubDrink,9,IVPER ,0,B2,Last,No,HUNTINGTON AV,Part Two,Other,763024.8693,CALUMET ST,2947037.227,2012
+118456,120562433.0,Saturday,No,2012-09-08T14:45:00.000,PubDrink,"[-71.0865, 42.290701]",Point,PubDrink,9,DK    ,0,B3,Day,No,WESTVIEW ST,Part Two,Unarmed,768046.878,AMES ST,2931230.4280000003,2012
+183455,120563345.0,Saturday,No,2012-09-08T22:29:00.000,PubDrink,"[-71.06611, 42.319661]",Point,PubDrink,9,IVPER ,0,B2,First,No,HUMPHREYS ST,Part Two,Other,773510.0367,GENE ST,2941811.2989999996,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47375,140308990.0,Sunday,No,2014-05-18T16:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,5,CD9   ,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+75720,140309404.0,Sunday,No,2014-05-18T20:06:00.000,Service,"[-71.07799, 42.325721]",Point,Service,5,ARREST,0,B2,First,No,PLEASANT AV,Part three,Unarmed,770286.2556,,2944003.546,2014
+96464,140308235.0,Sunday,No,2014-05-18T10:00:00.000,Service,"[-71.077565, 42.316091]",Point,Service,5,ARREST,325,B2,Day,No,WOODCLIFF ST,Part three,Unarmed,770418.5634,,2940494.7819999997,2014
+133030,140307530.0,Sunday,No,2014-05-18T00:11:00.000,Service,"[-71.06441, 42.292386]",Point,Service,5,ARREST,361,C11,Last,No,CENTRE ST,Part three,Unarmed,774020.548,,2931874.215,2014
+133700,140307571.0,Sunday,No,2014-05-18T00:00:00.000,Service,"[-71.046945, 42.293781]",Point,Service,5,AOD   ,370,C11,Last,No,MORRISSEY BL,Part three,Unarmed,778743.1088,,2932407.163,2014
+159816,140309604.0,Sunday,No,2014-05-18T21:49:00.000,Service,"[-71.0626, 42.352361]",Point,Service,5,ARREST,111,A1,First,No,BOYLSTON ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2014
+245149,140308759.0,Sunday,No,2014-05-18T14:32:00.000,Service,"[-71.07221, 42.359921]",Point,Service,5,UNK   ,66,A1,Day,No,DAVID G MUGAR WAY,Part three,Unarmed,771786.7566,,2956474.439,2014
+258959,140308191.0,Sunday,No,2014-05-18T09:10:00.000,Service,"[-71.072115, 42.346646]",Point,Service,5,IVPER ,151,D4,Day,No,CHANDLER ST,Part three,Unarmed,771836.6997,,2951636.903,2014

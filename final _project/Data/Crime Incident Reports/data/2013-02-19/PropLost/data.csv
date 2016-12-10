@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+123603,130104441.0,Tuesday,No,2013-02-19T17:00:00.000,PropLost,"[-71.082529, 42.316924]",Point,PropLost,2,LARCRT,325,B2,First,No,WARREN ST,Part Three,Unarmed,769074.3844,,2940791.704,2013
+161402,130103915.0,Tuesday,No,2013-02-19T12:30:00.000,PropLost,"[-71.090956, 42.333723]",Point,PropLost,2,LSTPRP,289,B2,Day,No,TREMONT ST,Part Three,Other,766765.8102,,2946902.542,2013
+163671,130104387.0,Tuesday,No,2013-02-19T17:50:00.000,PropLost,"[-71.04802, 42.292301]",Point,PropLost,2,LARCRT,373,C11,First,No,FREEPORT ST,Part Three,Unarmed,778455.1684,,2931866.311,2013
+182772,130107874.0,Tuesday,No,2013-02-19T15:00:00.000,PropLost,"[-71.163823, 42.349374]",Point,PropLost,2,LSTPRP,752,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,747041.4629,,2952520.0489999996,2013
+265453,130103662.0,Tuesday,No,2013-02-19T11:02:00.000,PropLost,"[0, 0]",Point,PropLost,2,LSTPRP,417,B3,Day,No,ROCKWELL ST,Part Three,Unarmed,,DORCHESTER AV,,2013

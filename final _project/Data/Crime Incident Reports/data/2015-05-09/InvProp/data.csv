@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+917,152037898.0,Saturday,No,2015-05-09T03:33:00.000,InvProp,"[0, 0]",Point,InvProp,5,SSA,0,B2,Last,No,DUDLEY ST,Part three,Firearm,,,,2015
+936,152037913.0,Saturday,No,2015-05-09T07:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD11,0,B3,Day,No,WENTWORTH TR,Part three,Firearm,,,,2015
+938,152037974.0,Saturday,No,2015-05-09T13:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD9,0,A7,Day,No,MCCLELLAN HY,Part three,Unarmed,,,,2015
+70951,152037952.0,Saturday,No,2015-05-09T10:43:00.000,InvProp,"[-71.031771, 42.349174]",Point,InvProp,5,FIRE,0,C6,Day,No,SEAFOOD WY,Part three,Unarmed,782737.5490000001,,2952615.437,2015
+71778,152038033.0,Saturday,No,2015-05-09T18:00:00.000,InvProp,"[-71.076185, 42.349481]",Point,InvProp,5,CD9,0,D4,First,No,ST JAMES AV,Part three,Unarmed,770731.3351,,2952664.538,2015
+97095,152037892.0,Saturday,No,2015-05-09T02:56:00.000,InvProp,"[-71.078427, 42.304757]",Point,InvProp,5,SSA,0,C11,Last,No,RONALD ST,Part three,Other,770205.5970000001,,2936363.098,2015
+126213,152037890.0,Saturday,No,2015-05-09T02:56:00.000,InvProp,"[-71.081089, 42.323]",Point,InvProp,5,BE,0,B2,Last,No,DUNREATH ST,Part three,Other,769452.9866,,2943007.778,2015
+188022,152037949.0,Saturday,No,2015-05-09T07:47:00.000,InvProp,"[-71.07653, 42.328026]",Point,InvProp,5,BE,0,B2,Day,No,EUSTIS ST,Part three,Unarmed,770676.8939,,2944845.4839999997,2015

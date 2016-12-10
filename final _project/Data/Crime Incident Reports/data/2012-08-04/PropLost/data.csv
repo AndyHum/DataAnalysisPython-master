@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70847,120483090.0,Saturday,No,2012-08-04T18:51:00.000,PropLost,"[-71.061668, 42.320639]",Point,PropLost,8,LARCIP,186,C6,First,No,MASSACHUSETTS AV,Part Three,Unarmed,774709.2569,,2942173.8060000003,2012
+94192,120482808.0,Saturday,No,2012-08-04T16:30:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,8,LARCRT,146,D4,First,No,HUNTINGTON AV,Part Three,Other,769682.0757,,2951649.883,2012
+163365,120487236.0,Saturday,No,2012-08-04T16:30:00.000,PropLost,"[-71.083345, 42.300056]",Point,PropLost,8,LSTPRP,457,B3,First,No,FOWLER ST,Part Three,Unarmed,768883.8605,,2934643.684,2012
+174093,120482204.0,Saturday,No,2012-08-04T01:30:00.000,PropLost,"[-71.162105, 42.356857]",Point,PropLost,8,LSTPRP,766,D14,Last,No,BROOKS ST,Part Three,Unarmed,747495.0719,,2955248.506,2012
+195061,120486441.0,Saturday,No,2012-08-04T22:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,8,LSTPRP,143,D4,First,No,BOYLSTON ST,Part Three,Unarmed,769006.8448,,2952355.38,2012
+218122,120508373.0,Saturday,No,2012-08-04T11:00:00.000,PropLost,"[-71.131555, 42.297386]",Point,PropLost,8,LSTPRP,658,E5,Day,No,CENTRE ST,Part Three,Unarmed,755845.9728,,2933610.67,2012
+234943,120490025.0,Saturday,No,2012-08-04T12:30:00.000,PropLost,"[-71.07547, 42.346214]",Point,PropLost,8,LSTPRP,149,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770930.358,,2951474.633,2012
+246917,120493431.0,Saturday,No,2012-08-04T20:00:00.000,PropLost,"[-71.089745, 42.284526]",Point,PropLost,8,LARCRT,430,B3,First,No,FRONTENAC ST,Part Three,Unarmed,767179.7129,,2928975.9289999995,2012
+262668,120486315.0,Saturday,No,2012-08-04T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,8,LSTPRP,440,B3,Day,No,WESTVIEW ST,Part Three,Unarmed,,,,2012

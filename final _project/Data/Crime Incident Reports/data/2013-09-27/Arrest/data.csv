@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+175605,130617453.0,Friday,No,2013-09-27T18:24:00.000,Arrest,"[-71.091557, 42.312409]",Point,Arrest,9,ARREST,316,B2,First,No,HOMESTEAD ST,Part three,Unarmed,766640.7488,,2939134.5289999996,2013
+261517,130616558.0,Friday,No,2013-09-27T11:30:00.000,Arrest,"[0, 0]",Point,Arrest,9,ARREST,294,B2,Day,No,ST JAMES ST,Part three,Unarmed,,,,2013
+266123,130616290.0,Friday,No,2013-09-27T09:30:00.000,Arrest,"[0, 0]",Point,Arrest,9,ARREST,417,B3,Day,No,WASHINGTON ST,Part three,Unarmed,,STOCKTON ST,,2013

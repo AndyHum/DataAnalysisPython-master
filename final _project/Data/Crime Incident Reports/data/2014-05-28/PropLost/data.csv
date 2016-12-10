@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24036,140340857.0,Wednesday,No,2014-05-28T10:30:00.000,PropLost,"[-71.08323, 42.327536]",Point,PropLost,5,IVPER ,282,B2,Day,No,WARREN ST,Part three,Unarmed,768866.0406,,2944657.9960000003,2014
+66247,140335432.0,Wednesday,No,2014-05-28T19:00:00.000,PropLost,"[-71.05988, 42.378031]",Point,PropLost,5,LSTPRP,900,A15,First,No,BUNKER HILL ST,Part three,Unarmed,775085.1343,MONUMENT ST,2963091.042,2014
+104969,140334092.0,Wednesday,No,2014-05-28T12:00:00.000,PropLost,"[-71.115661, 42.294951]",Point,PropLost,5,LSTPRP,508,E13,Day,No,WALK HILL ST,Part three,Unarmed,760149.6601,,2932742.316,2014
+203475,140333194.0,Wednesday,No,2014-05-28T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,MISC  ,509,E13,Day,No,MORTON ST,Part three,Unarmed,,,,2014
+222543,140333432.0,Wednesday,No,2014-05-28T12:50:00.000,PropLost,"[-71.06305, 42.350871]",Point,PropLost,5,LSTPRP,117,A1,Day,No,KNEELAND ST,Part three,Unarmed,774279.327,WASHINGTON ST,2953188.994,2014
+239575,140334359.0,Wednesday,No,2014-05-28T22:00:00.000,PropLost,"[-71.057405, 42.358786]",Point,PropLost,5,LSTPRP,77,A1,First,No,STATE ST,Part three,Unarmed,775790.2538,,2956081.2389999996,2014

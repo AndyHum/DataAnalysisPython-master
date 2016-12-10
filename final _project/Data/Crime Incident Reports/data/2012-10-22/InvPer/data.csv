@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3939,120664986.0,Monday,No,2012-10-22T09:00:00.000,InvPer,"[-71.09045, 42.308695]",Point,InvPer,10,IVPER ,318,B2,Day,No,SEAVER ST,Part Three,Unarmed,766946.5418,,2937782.313,2012
+5381,120666467.0,Monday,No,2012-10-22T20:12:00.000,InvPer,"[-71.002455, 42.388567]",Point,InvPer,10,IVPER ,7,A7,First,No,LEYDEN ST,Part Three,Unarmed,790578.4562,,2967015.853,2012
+56803,120666320.0,Monday,No,2012-10-22T18:50:00.000,InvPer,"[-71.063155, 42.298481]",Point,InvPer,10,PERGUN,351,C11,First,No,GENEVA AV,Part Three,Unarmed,774348.7245,,2934097.058,2012
+123659,120668771.0,Monday,No,2012-10-22T21:00:00.000,InvPer,"[-71.050895, 42.366741]",Point,InvPer,10,THREAT,89,A1,First,No,BATTERY WF,Part Three,Unarmed,777534.4793,,2958989.393,2012
+139432,120664581.0,Monday,No,2012-10-22T01:10:00.000,InvPer,"[-71.062335, 42.315811]",Point,InvPer,10,IVPER ,241,C11,Last,No,STOUGHTON ST,Part Three,Unarmed,774538.1562,,2940413.5130000003,2012

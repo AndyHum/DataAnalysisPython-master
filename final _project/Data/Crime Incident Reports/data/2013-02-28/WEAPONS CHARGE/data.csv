@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40628,130122658.0,Thursday,No,2013-02-28T18:06:00.000,WEAPONS CHARGE,"[-71.07609, 42.289941]",Point,15xx,2,ARREST,437,B3,First,No,SOUTHERN AV,Part Two,Firearm,770864.8484,DARLINGTON ST,2930967.3,2013
+224265,130123061.0,Thursday,No,2013-02-28T21:50:00.000,WEAPONS CHARGE,"[-71.083781, 42.329494]",Point,15xx,2,SHOT  ,280,B2,First,Yes,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2013

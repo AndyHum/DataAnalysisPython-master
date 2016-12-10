@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70260,142009392.0,Tuesday,No,2014-07-15T14:22:00.000,PRISON,"[-71.081565, 42.345586]",Point,PRISON,7,ARREST,0,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769284.003,,2951237.9460000005,2014
+120118,142009540.0,Tuesday,No,2014-07-15T21:05:00.000,PRISON,"[-71.05936, 42.351041]",Point,PRISON,7,ARREST,0,A1,First,No,BEACH ST,Part Two,Unarmed,775276.4461,SURFACE RD,2953256.077,2014
+237777,142009457.0,Tuesday,No,2014-07-15T17:09:00.000,PRISON,"[-71.117294, 42.259383]",Point,PRISON,7,ARREST,0,E18,First,No,RIVER ST,Part Two,Unarmed,759766.2593,,2919778.597,2014

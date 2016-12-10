@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99861,130268996.0,Sunday,No,2013-05-05T15:30:00.000,PersMiss,"[-71.084295, 42.300056]",Point,PersMiss,5,MISPER,457,B3,Day,No,MCLELLAN ST,Part Three,Unarmed,768626.8616,,2934642.43,2013
+153414,130268118.0,Sunday,No,2013-05-05T10:00:00.000,PersMiss,"[-71.067175, 42.316924]",Point,PersMiss,5,MISPER,258,B2,Day,No,VIRGINIA ST,Part Three,Unarmed,773226.8846,,2940812.425,2013
+173560,130265450.0,Sunday,No,2013-05-05T00:25:00.000,PersMiss,"[-71.119063, 42.251037]",Point,PersMiss,5,MISPER,516,E18,Last,No,WILLIAMS AV,Part Three,Unarmed,759300.9485,,2916735.124,2013

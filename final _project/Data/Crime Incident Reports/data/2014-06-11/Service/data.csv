@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36127,140368631.0,Wednesday,No,2014-06-11T10:04:00.000,Service,"[-71.124595, 42.287901]",Point,Service,6,ROBIP ,563,E5,Day,No,FIRTH RD,Part three,Unarmed,757744.1367,WASHINGTON ST,2930162.402,2014
+151352,140369008.0,Wednesday,No,2014-06-11T12:48:00.000,Service,"[-71.017705, 42.383551]",Point,Service,6,CD11  ,28,A7,Day,No,SARATOGA ST,Other,Unarmed,786469.1255,,2965164.26,2014
+175671,140369298.0,Wednesday,No,2014-06-11T14:38:00.000,Service,"[-71.05677, 42.320701]",Point,Service,6,ARREST,236,C11,Day,No,COLUMBIA RD,Part three,Unarmed,776033.9979,DORCHESTER AV,2942203.2789999996,2014
+176303,140369267.0,Wednesday,No,2014-06-11T14:30:00.000,Service,"[-71.11415, 42.312261]",Point,Service,6,TSTOP ,645,E13,Day,No,CENTRE ST,Part three,Unarmed,760530.1714,SEAVERNS AV,2939052.183,2014
+184297,140368482.0,Wednesday,No,2014-06-11T09:00:00.000,Service,"[-71.06942, 42.362401]",Point,Service,6,AOD   ,64,A1,Day,No,FRUIT ST,Other,Unarmed,772536.2528,BLOSSOM ST,2957381.922,2014
+190012,140367949.0,Wednesday,No,2014-06-11T00:24:00.000,Service,"[-71.03727, 42.330611]",Point,Service,6,SSTOP ,234,C6,Last,No,MARINE RD,Part three,Unarmed,781287.9381,K ST,2945842.65,2014

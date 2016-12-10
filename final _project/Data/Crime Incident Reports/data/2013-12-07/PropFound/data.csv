@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40223,130772068.0,Saturday,No,2013-12-07T14:30:00.000,PropFound,"[-71.06336, 42.364091]",Point,PropFound,12,FDPROP,74,A1,Day,No,MERRIMAC ST,Part three,Unarmed,774170.8689,STANIFORD ST,2958006.189,2013
+136588,130772508.0,Saturday,No,2013-12-07T18:30:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,12,LSTPRP,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+150005,130771849.0,Saturday,No,2013-12-07T12:44:00.000,PropFound,"[-71.06198, 42.356441]",Point,PropFound,12,FDPROP,102,A1,Day,No,PARK ST,Part three,Unarmed,774558.1332,TREMONT ST,2955220.292,2013
+153657,130772850.0,Saturday,No,2013-12-07T21:00:00.000,PropFound,"[-71.06785, 42.378211]",Point,PropFound,12,FDPROP,54,A15,First,No,MAIN ST,Part three,Unarmed,772931.3654,WALKER ST,2963145.628,2013

@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9047,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.160233, 42.34589]",Point,08xx,6,EDP,750,D14,,No,GLENMONT RD,Part Two,None,748017.0,,2950000.0,2015
+59472,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.062195, 42.293288]",Point,08xx,6,KIDNAP,363,C11,,No,DORCHESTER AVE,Part Two,None,774618.0,,2930000.0,2015
+86823,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.053056, 42.327905]",Point,08xx,6,IVPER,914,C6,,No,COLONEL MICHAEL J. MCDONOUGH WAY,Part Two,None,777025.0,,2940000.0,2015
+161251,,Thursday,No,2015-06-18T13:07:00.000,Simple Assault,"[0, 0]",Point,08xx,6,DVIP,130,D4,,No,CLARENDON ST,Part Two,None,,,,2015
+164145,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.115233, 42.260629]",Point,08xx,6,AB,493,E18,,No,RIVER ST,Part Two,None,760322.0,,2920000.0,2015
+165989,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.075389, 42.333951]",Point,08xx,6,AB,270,D4,,No,NORTHAMPTON ST,Part Two,Other,770974.0,,2950000.0,2015
+184800,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.051939, 42.356618]",Point,08xx,6,AB,109,A1,,No,HIGH ST,Part Two,Personal Weapon (hand  foot  etc.),777272.0,,2960000.0,2015
+185110,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.099323, 42.322709]",Point,08xx,6,AB,574,E13,,No,GREEN ST,Part Two,None,764522.0,,2940000.0,2015
+197081,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.087158, 42.283787]",Point,08xx,6,NIDV,429,B3,,No,WILDWOOD ST,Part Two,None,767881.0,,2930000.0,2015
+218979,,Thursday,No,2015-06-18T20:08:00.000,Simple Assault,"[0, 0]",Point,08xx,6,AB,616,B2,,No,EVANS WAY,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+222396,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.0987, 42.315384]",Point,08xx,6,IVPER,577,E13,,No,WASHINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),764703.0,,2940000.0,2015
+234840,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.082139, 42.328535]",Point,08xx,6,IVPER,281,B2,,No,DUDLEY ST,Part Two,None,769159.0,,2950000.0,2015
+236638,,Thursday,No,2015-06-18T00:00:00.000,Simple Assault,"[-71.105441, 42.307342]",Point,08xx,6,NIDV,570,E13,,No,ROCKVALE CIR,Part Two,None,762894.0,,2940000.0,2015

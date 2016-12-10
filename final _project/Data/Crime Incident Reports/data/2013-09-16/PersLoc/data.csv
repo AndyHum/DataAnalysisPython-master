@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5863,130591343.0,Monday,No,2013-09-16T09:00:00.000,PersLoc,"[-71.07887, 42.293211]",Point,PersLoc,9,MISPER,442,B3,Day,No,WESTCOTT ST,Other,Unarmed,770106.7826,,2932155.209,2013
+39080,130589441.0,Monday,No,2013-09-16T05:32:00.000,PersLoc,"[-71.066425, 42.278251]",Point,PersLoc,9,REQP  ,388,C11,Last,No,DORCHESTER AV,Other,Unarmed,773501.5553,,2926720.4480000003,2013
+58862,130591109.0,Monday,No,2013-09-16T19:18:00.000,PersLoc,"[-71.092435, 42.317711]",Point,PersLoc,9,MISPER,306,B2,First,No,HALEY ST,Other,Unarmed,766394.0337,,2941065.5689999997,2013
+170740,130590762.0,Monday,No,2013-09-16T16:45:00.000,PersLoc,"[-71.05743, 42.300921]",Point,PersLoc,9,MISPER,351,C11,First,No,DICKENS ST,Other,Unarmed,775892.9091,,2934994.215,2013
+196022,130642599.0,Monday,No,2013-09-16T12:00:00.000,PersLoc,"[-71.088895, 42.344466]",Point,PersLoc,9,MISPER,619,D4,Day,No,BURBANK ST,Other,Unarmed,767304.4387,,2950820.162,2013
+236875,130593692.0,Monday,No,2013-09-16T18:30:00.000,PersLoc,"[-71.08696, 42.307256]",Point,PersLoc,9,MISPER,319,B2,First,No,MAPLE ST,Other,Unarmed,767893.203,,2937262.72,2013

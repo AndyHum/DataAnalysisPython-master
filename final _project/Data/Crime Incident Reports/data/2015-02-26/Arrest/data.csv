@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125902,152015517.0,Thursday,No,2015-02-26T10:30:00.000,Arrest,"[-71.0729, 42.333256]",Point,Arrest,2,IVPER,0,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,ALBANY ST,2946756.2810000004,2015
+143893,152015514.0,Thursday,No,2015-02-26T11:00:00.000,Arrest,"[-71.093739, 42.334956]",Point,Arrest,2,ARREST,0,B2,Day,No,ANNUNCIATION RD,Part three,Unarmed,766011.2668,,2947348.014,2015
+236406,152015588.0,Thursday,No,2015-02-26T15:00:00.000,Arrest,"[-71.087815, 42.340856]",Point,Arrest,2,ARREST,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767602.7587,,2949506.019,2015

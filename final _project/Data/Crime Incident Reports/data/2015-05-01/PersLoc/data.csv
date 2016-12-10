@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+420,152035435.0,Friday,No,2015-05-01T10:52:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,B3,Day,No,HEBRON ST,Other,Unarmed,,,,2015
+3631,152038638.0,Friday,No,2015-05-01T12:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,IVPER,0,D14,Day,No,JUSTINIAN WAY,Other,Unarmed,,,,2015
+5590,152035511.0,Friday,No,2015-05-01T15:35:00.000,PersLoc,"[-71.094301, 42.29284]",Point,PersLoc,5,IVPER,0,B3,Day,No,KINGBIRD RD,Other,Unarmed,765932.3696,,2931999.6969999997,2015
+72112,152035422.0,Friday,No,2015-05-01T09:54:00.000,PersLoc,"[-71.104114, 42.269872]",Point,PersLoc,5,IVPER,0,E18,Day,No,RUGBY RD,Other,Unarmed,763316.1327,,2923617.375,2015
+179199,152035584.0,Friday,No,2015-05-01T17:25:00.000,PersLoc,"[-71.088026, 42.290197]",Point,PersLoc,5,IVPER,0,B3,First,No,STRATTON ST,Other,Unarmed,767634.6963,,2931044.4889999996,2015
+180744,152035581.0,Friday,No,2015-05-01T16:00:00.000,PersLoc,"[-71.11524, 42.305536]",Point,PersLoc,5,IVPER,0,E13,First,No,METCALF CT,Other,Unarmed,760246.4079,,2936600.15,2015
+197341,152035700.0,Friday,No,2015-05-01T18:15:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,5,IVPER,0,D14,First,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015

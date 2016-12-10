@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49400,140237713.0,Saturday,No,2014-04-19T05:20:00.000,Gather,"[-71.079883, 42.315999]",Point,Gather,4,PARTY ,311,B2,Last,No,SAVIN ST,Part three,Other,769791.8058,,2940458.144,2014
+123946,140237279.0,Saturday,No,2014-04-19T00:24:00.000,Gather,"[-71.09741, 42.331841]",Point,Gather,4,PARTY ,587,B2,Last,No,TREMONT ST,Part three,Unarmed,765024.2366,,2946208.398,2014
+256967,140237200.0,Saturday,No,2014-04-19T00:48:00.000,Gather,"[-71.109555, 42.332676]",Point,Gather,4,LMUSIC,605,B2,Last,No,PARKER HILL AV,Part three,Unarmed,761738.9466,,2946497.421,2014

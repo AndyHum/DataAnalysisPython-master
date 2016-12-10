@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+179443,130351854.0,Monday,No,2013-06-10T05:08:00.000,TRESPASS,"[-71.156323, 42.33916]",Point,TRESPASS,6,IVPER ,774,D14,Last,No,COMMONWEALTH AV,Part Two,Unarmed,749083.8463,,2948805.8030000003,2013
+205369,130351600.0,Monday,No,2013-06-10T00:27:00.000,TRESPASS,"[-71.08326, 42.329736]",Point,TRESPASS,6,REMOVE,280,B2,Last,No,WARREN ST,Part Two,Unarmed,768854.0114,,2945459.675,2013
+227116,130353672.0,Monday,No,2013-06-10T20:51:00.000,TRESPASS,"[-71.063873, 42.325436]",Point,TRESPASS,6,ARREST,186,C6,First,No,ALLSTATE RD,Part Two,Unarmed,774104.1328,,2943918.604,2013

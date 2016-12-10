@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23180,142051431.0,Sunday,No,2014-11-23T00:31:00.000,InvProp,"[-71.095995, 42.347161]",Point,InvProp,11,ALARM,0,D4,Last,No,LANSDOWNE ST,Part three,Unarmed,765380.3957,,2951793.104,2014
+50873,142051470.0,Sunday,No,2014-11-23T03:49:00.000,InvProp,"[-71.117763, 42.304559]",Point,InvProp,11,SHOTS,0,E13,Last,No,ST ROSE ST,Part three,Other,759565.5051,,2936240.985,2014
+65338,142051607.0,Sunday,No,2014-11-23T16:30:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,11,CD19,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+158204,142051479.0,Sunday,No,2014-11-23T05:00:00.000,InvProp,"[-71.07128, 42.315521]",Point,InvProp,11,SSA,0,B2,Last,No,MAGNOLIA ST,Part three,Firearm,772119.4338,CHAMBLET ST,2940295.545,2014
+219570,142051704.0,Sunday,No,2014-11-23T11:42:00.000,InvProp,"[-71.05568, 42.358996]",Point,InvProp,11,BE,0,A1,Day,No,STATE ST,Part three,Other,776256.079,,2956160.191,2014
+224670,142051669.0,Sunday,No,2014-11-23T20:30:00.000,InvProp,"[-71.07533, 42.337671]",Point,InvProp,11,AB,0,D4,First,No,WASHINGTON ST,Part three,Unarmed,770983.8818,,2948361.905,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33909,130571252.0,Saturday,No,2013-09-07T14:00:00.000,InvProp,"[-71.071145, 42.315821]",Point,InvProp,9,BERPT ,260,B2,Day,No,MAGNOLIA ST,Part three,Unarmed,772155.3959,,2940405.0539999995,2013
+109021,130567945.0,Saturday,No,2013-09-07T06:19:00.000,InvProp,"[-71.052715, 42.374741]",Point,InvProp,9,IVPER ,38,A15,Last,No,8TH ST,Part three,Unarmed,777027.3537,,2961902.17,2013
+163955,130568198.0,Saturday,No,2013-09-07T10:09:00.000,InvProp,"[-71.059735, 42.297541]",Point,InvProp,9,IVPREM,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+188201,130567645.0,Saturday,No,2013-09-07T01:27:00.000,InvProp,"[-71.057577, 42.352192]",Point,InvProp,9,REQP  ,115,A1,Last,No,ESSEX ST,Part three,Other,775756.1282,,2953677.8030000003,2013

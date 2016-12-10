@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45075,120606587.0,Wednesday,No,2012-09-26T21:37:00.000,InvProp,"[-71.078133, 42.285884]",Point,InvProp,9,ALARMR,434,B3,First,No,MILTON AV,Part Three,Unarmed,770319.2890000001,,2929485.997,2012
+175744,120606103.0,Wednesday,No,2012-09-26T17:52:00.000,InvProp,"[-71.100045, 42.322752]",Point,InvProp,9,IVPREM,912,E13,First,No,CENTRE ST,Part Three,Unarmed,764327.298,,2942892.567,2012
+180988,120604363.0,Wednesday,No,2012-09-26T01:47:00.000,InvProp,"[-71.092479, 42.310247]",Point,InvProp,9,IVPREM,0,B2,Last,No,SEAVER ST,Part Three,Unarmed,766394.9484,,2938345.3230000003,2012
+191450,120604844.0,Wednesday,No,2012-09-26T09:06:00.000,InvProp,"[-71.102184, 42.318822]",Point,InvProp,9,IVPREM,303,E13,Day,No,ATHERTON ST,Part Three,Unarmed,763755.3671,,2941458.008,2012

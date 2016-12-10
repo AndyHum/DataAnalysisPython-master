@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38134,140074388.0,Wednesday,No,2014-02-05T10:00:00.000,InvProp,"[-71.07041, 42.32969]",Point,InvProp,2,BERPT ,178,C6,Day,No,POMPEII ST,Part three,Unarmed,772328.5402,,2945459.939,2014
+189116,140073648.0,Wednesday,No,2014-02-05T02:17:00.000,InvProp,"[-71.083533, 42.288775]",Point,InvProp,2,SHOTS ,944,B3,Last,No,STRATTON ST,Part three,Firearm,768852.8372,,2930532.1780000003,2014
+235830,140091874.0,Wednesday,No,2014-02-05T12:00:00.000,InvProp,"[-71.06521, 42.330421]",Point,InvProp,2,MEET  ,0,C6,Day,No,NEWMARKET SQ,Part three,Unarmed,773733.4466,,2945733.663,2014
+253005,140073674.0,Wednesday,No,2014-02-05T02:58:00.000,InvProp,"[-71.08326, 42.329736]",Point,InvProp,2,ALARM ,280,B2,Last,No,WARREN ST,Part three,Unarmed,768854.0114,,2945459.675,2014

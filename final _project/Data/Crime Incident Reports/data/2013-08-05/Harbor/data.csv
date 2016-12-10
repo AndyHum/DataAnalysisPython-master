@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108772,130489363.0,Monday,No,2013-08-05T17:35:00.000,Harbor,"[-71.051445, 42.358326]",Point,Harbor,8,DISTRB,96,A1,First,No,ATLANTIC AV,Part three,Other,777401.974,,2955922.021,2013
+266144,130488021.0,Monday,No,2013-08-05T02:27:00.000,Harbor,"[0, 0]",Point,Harbor,8,IVPREM,0,A7,Last,No,BOSTON HARBOR - A7,Part three,Unarmed,,,,2013

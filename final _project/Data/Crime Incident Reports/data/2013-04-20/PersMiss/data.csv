@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40858,130234637.0,Saturday,No,2013-04-20T09:00:00.000,PersMiss,"[-71.06898, 42.301436]",Point,PersMiss,4,MISPER,344,C11,Day,No,CORONA ST,Part Three,Unarmed,772767.4281,,2935165.887,2013
+254520,130233134.0,Saturday,No,2013-04-20T23:34:00.000,PersMiss,"[-71.077185, 42.296021]",Point,PersMiss,4,MISPER,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+261444,130233889.0,Saturday,No,2013-04-20T09:00:00.000,PersMiss,"[0, 0]",Point,PersMiss,4,MISPER,503,B3,Day,No,W MAIN ST,Part Three,Unarmed,,,,2013

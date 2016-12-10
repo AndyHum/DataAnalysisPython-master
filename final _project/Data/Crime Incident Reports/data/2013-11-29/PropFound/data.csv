@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57931,130755053.0,Friday,No,2013-11-29T18:15:00.000,PropFound,"[-71.078851, 42.342387]",Point,PropFound,11,LSTPRP,154,D4,First,No,RUTLAND SQ,Part three,Unarmed,770023.4284,,2950075.736,2013
+165650,130753904.0,Friday,No,2013-11-29T07:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,11,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+261574,130773820.0,Friday,No,2013-11-29T09:00:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,72,A1,Day,No,BOWDOIN ST,Part three,Unarmed,,,,2013

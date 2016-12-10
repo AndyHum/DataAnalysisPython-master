@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40025,140186499.0,Friday,No,2014-03-28T01:05:00.000,DISORDERLY,"[-71.131245, 42.350806]",Point,24xx,3,ARREST,796,D14,Last,No,HARVARD ST,Part Two,Unarmed,755845.6789,,2953078.245,2014
+55122,140186633.0,Friday,No,2014-03-28T02:09:00.000,DISORDERLY,"[-71.06465, 42.351016]",Point,24xx,3,ARREST,121,A1,Last,No,STUART ST,Part Two,Unarmed,773846.5631,,2953239.624,2014
+117383,140187867.0,Friday,No,2014-03-28T17:10:00.000,DISORDERLY,"[-71.054375, 42.327796]",Point,24xx,3,ARREST,914,C6,First,No,LOGAN WY,Part Two,Unarmed,776668.1887,,2944792.189,2014

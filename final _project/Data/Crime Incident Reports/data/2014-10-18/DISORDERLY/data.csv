@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24437,142040307.0,Saturday,No,2014-10-18T11:25:00.000,DISORDERLY,"[-71.060605, 42.379941]",Point,24xx,10,REQP,0,A15,Day,No,POLK ST,Part Two,Other,774885.6595,,2963786.077,2014
+103124,142040540.0,Saturday,No,2014-10-18T12:55:00.000,DISORDERLY,"[-71.04206, 42.317766]",Point,24xx,10,ADVISE,0,C6,Day,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2014
+139549,142040454.0,Saturday,No,2014-10-18T20:25:00.000,DISORDERLY,"[-71.078186, 42.334556]",Point,24xx,10,CD5,0,D4,First,No,E LENOX ST,Part Two,Unarmed,770217.2220000001,,2947222.7819999997,2014
+197730,142040208.0,Saturday,No,2014-10-18T02:20:00.000,DISORDERLY,"[-71.05349, 42.359321]",Point,24xx,10,AB,0,A1,Last,No,COMMERCIAL ST,Part Two,Unarmed,776847.3587,STATE ST,2956281.7169999997,2014

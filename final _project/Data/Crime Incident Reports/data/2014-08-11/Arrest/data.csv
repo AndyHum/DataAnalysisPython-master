@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15060,142018402.0,Monday,No,2014-08-11T18:30:00.000,Arrest,"[-71.0626, 42.352361]",Point,Arrest,8,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014
+33888,142018163.0,Monday,No,2014-08-11T08:30:00.000,Arrest,"[-71.077185, 42.296021]",Point,Arrest,8,ARREST,0,B3,Day,No,ATHELWOLD ST,Part three,Unarmed,770557.5917,,2933181.47,2014
+110649,142018322.0,Monday,No,2014-08-11T14:59:00.000,Arrest,"[-71.053006, 42.313282]",Point,Arrest,8,CD11,0,C11,Day,No,SYDNEY ST,Part three,Unarmed,777066.0032,,2939504.8010000004,2014
+136693,142018113.0,Monday,No,2014-08-11T01:15:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,8,CD11,0,A1,Last,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18035,142050527.0,Wednesday,No,2014-11-19T21:55:00.000,Arrest,"[-71.05851, 42.307276]",Point,Arrest,11,SS,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775588.7588,,2937308.557,2014
+47743,142050523.0,Wednesday,No,2014-11-19T21:07:00.000,Arrest,"[-71.073885, 42.355071]",Point,Arrest,11,ARREST,0,D4,First,No,BEACON ST,Part three,Unarmed,771342.8818,,2954704.7389999996,2014
+82039,142050346.0,Wednesday,No,2014-11-19T10:00:00.000,Arrest,"[-71.160234, 42.345844]",Point,Arrest,11,ARREST,0,D14,Day,No,GLENMONT RD,Part three,Unarmed,748016.682,,2951237.2589999996,2014
+148020,142050540.0,Wednesday,No,2014-11-19T23:10:00.000,Arrest,"[-71.09613, 42.331651]",Point,Arrest,11,SS,0,B2,First,No,TREMONT ST,Part three,Unarmed,765370.665,GURNEY ST,2946140.795,2014

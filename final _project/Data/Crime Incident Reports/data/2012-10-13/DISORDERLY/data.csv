@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97846,120644353.0,Saturday,No,2012-10-13T01:30:00.000,DISORDERLY,"[-71.157755, 42.340665]",Point,24xx,10,INVEST,773,D14,Last,No,RADNOR RD,Part Two,Unarmed,748694.4779,,2949352.6139999996,2012
+234410,120654028.0,Saturday,No,2012-10-13T01:40:00.000,DISORDERLY,"[-71.157755, 42.340665]",Point,24xx,10,DISTRB,773,D14,Last,No,RADNOR RD,Part Two,Unarmed,748694.4779,,2949352.6139999996,2012
+256449,120644776.0,Saturday,No,2012-10-13T09:30:00.000,DISORDERLY,"[-71.09711, 42.316981]",Point,24xx,10,UNK   ,304,E13,Day,No,BRAY ST,Part Two,Other,765130.932,WASHINGTON ST,2940793.538,2012

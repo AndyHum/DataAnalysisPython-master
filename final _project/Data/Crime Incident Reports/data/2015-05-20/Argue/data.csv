@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119852,152041281.0,Wednesday,No,2015-05-20T08:30:00.000,Argue,"[-71.052825, 42.326881]",Point,Argue,5,FIGHT,0,C6,Day,No,GAVIN WY,Part three,Unarmed,777089.0678,LOGAN WY,2944460.941,2015
+124796,152041552.0,Wednesday,No,2015-05-20T21:50:00.000,Argue,"[-71.080624, 42.337477]",Point,Argue,5,DVIP,0,D4,First,No,CAMDEN ST,Part three,Unarmed,769552.6659,,2948284.111,2015
+233211,152041527.0,Wednesday,No,2015-05-20T20:28:00.000,Argue,"[-71.088645, 42.334806]",Point,Argue,5,NIDV,0,B2,First,No,TREMONT ST,Part three,Unarmed,767388.9993,,2947300.205,2015

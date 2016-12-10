@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24851,130515109.0,Friday,No,2013-08-16T10:29:00.000,PropFound,"[-71.150295, 42.336061]",Point,PropFound,8,FDPROP,790,D14,Day,No,BEACON ST,Part three,Unarmed,750718.2974,,2947683.187,2013
+165268,130514711.0,Friday,No,2013-08-16T05:30:00.000,PropFound,"[-71.076355, 42.385856]",Point,PropFound,8,IVPREM,49,A15,Last,No,MYSTIC AV,Part three,Unarmed,770619.5433,,2965920.103,2013
+171251,130515152.0,Friday,No,2013-08-16T11:41:00.000,PropFound,"[-71.08951, 42.334501]",Point,PropFound,8,FDPROP,289,B2,Day,No,TREMONT ST,Part three,Unarmed,767155.6578,RUGGLES ST,2947187.9310000003,2013
+214758,130514976.0,Friday,No,2013-08-16T08:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,8,FDPROP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+234048,130516460.0,Friday,No,2013-08-16T21:13:00.000,PropFound,"[-71.051019, 42.362401]",Point,PropFound,8,IVPREM,90,A1,First,No,ATLANTIC AV,Part three,Unarmed,777509.2589,,2957407.462,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124478,130471496.0,Monday,No,2013-07-29T08:00:00.000,PersLoc,"[-71.036425, 42.378896]",Point,PersLoc,7,MISPER,24,A7,Day,No,TRENTON ST,Other,Unarmed,781420.7872,,2963439.84,2013
+152834,130472940.0,Monday,No,2013-07-29T22:13:00.000,PersLoc,"[-71.089954, 42.329311]",Point,PersLoc,7,MISPER,292,B2,First,No,BARTLETT ST,Other,Unarmed,767044.6446,,2945295.9680000003,2013
+233662,130477865.0,Monday,No,2013-07-29T21:00:00.000,PersLoc,"[-71.09956, 42.271646]",Point,PersLoc,7,MISPER,475,B3,First,No,FAVRE ST,Other,Unarmed,764545.8737,,2924269.6580000003,2013

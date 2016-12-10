@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65251,,Saturday,No,2015-06-27T00:00:00.000,Property Found,"[-71.058429, 42.356833]",Point,PropFound,6,PROP,104,A1,,No,MILK ST,Part Three,None,775517.0,,2960000.0,2015
+90945,,Saturday,No,2015-06-27T00:00:00.000,Property Found,"[-71.150499, 42.349056]",Point,PropFound,6,PROP,778,D14,,No,WASHINGTON ST,Part Three,None,750644.0,,2950000.0,2015
+204233,,Saturday,No,2015-06-27T00:00:00.000,Property Found,"[-71.063193, 42.364331]",Point,PropFound,6,PROP,75,A1,,No,CAUSEWAY ST,Part Three,None,774215.0,,2960000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49767,152028240.0,Tuesday,No,2015-04-07T14:30:00.000,Restrain,"[-71.085118, 42.298635]",Point,Restrain,4,VIORDR,0,B3,Day,No,ESMOND ST,Part Two,Unarmed,768406.6291,,2934123.522,2015
+82589,152028303.0,Tuesday,No,2015-04-07T19:45:00.000,Restrain,"[-71.085118, 42.298635]",Point,Restrain,4,VIORDR,0,B3,First,No,ESMOND ST,Part Two,Unarmed,768406.6291,,2934123.522,2015
+267397,152028343.0,Tuesday,No,2015-04-07T22:20:00.000,Restrain,"[0, 0]",Point,Restrain,4,VIORDR,0,D4,First,No,HARRINGTON AV,Part Two,Other,,,,2015

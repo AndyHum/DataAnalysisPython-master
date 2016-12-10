@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15775,120704075.0,Tuesday,No,2012-11-06T17:00:00.000,PropLost,"[-71.07176, 42.319866]",Point,PropLost,11,LSTPRP,261,B2,First,No,HOWARD AV,Part Three,Unarmed,771981.663,,2941878.2819999997,2012
+162365,120730865.0,Tuesday,No,2012-11-06T09:00:00.000,PropLost,"[-71.06433, 42.308751]",Point,PropLost,11,LARCRT,0,C11,Day,No,BOWDOIN ST,Part Three,Other,774011.7317,ADAMS ST,2937837.9760000003,2012
+201589,120703955.0,Tuesday,No,2012-11-06T12:30:00.000,PropLost,"[-71.137625, 42.352416]",Point,PropLost,11,LARCRT,795,D14,Day,No,ARMINGTON ST,Part Three,Unarmed,754118.6065,,2953657.5710000005,2012
+241367,120722311.0,Tuesday,No,2012-11-06T12:00:00.000,PropLost,"[-71.089645, 42.348856]",Point,PropLost,11,LSTPRP,621,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,767093.9894,,2952418.985,2012

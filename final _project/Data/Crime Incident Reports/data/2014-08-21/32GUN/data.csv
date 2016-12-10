@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106286,142021486.0,Thursday,No,2014-08-21T11:35:00.000,32GUN,"[-71.091325, 42.284861]",Point,32GUN,8,FDWEAP,0,B3,Day,No,BLUE HILL AV,Part three,Other,766751.5911,,2929095.955,2014
+108349,142021606.0,Thursday,No,2014-08-21T18:10:00.000,32GUN,"[-71.104273, 42.309722]",Point,32GUN,8,IVPREM,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+224009,142021475.0,Thursday,No,2014-08-21T11:05:00.000,32GUN,"[-71.148575, 42.287141]",Point,32GUN,8,BUYBAC,0,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2014

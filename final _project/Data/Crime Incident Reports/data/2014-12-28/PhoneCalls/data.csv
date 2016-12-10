@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6686,152003097.0,Sunday,No,2014-12-28T19:00:00.000,PhoneCalls,"[-71.143597, 42.34252]",Point,PhoneCalls,12,IVPER,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,752519.2055,,2950044.309,2014
+41843,142061403.0,Sunday,No,2014-12-28T16:01:00.000,PhoneCalls,"[-71.119355, 42.277461]",Point,PhoneCalls,12,IVPER,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,759178.8211,,2926364.212,2014
+158731,142061640.0,Sunday,No,2014-12-28T21:46:00.000,PhoneCalls,"[-71.11379, 42.252391]",Point,PhoneCalls,12,IVPER,0,E18,First,No,HIGHLAND ST,Part three,Unarmed,760726.3285,,2917235.122,2014

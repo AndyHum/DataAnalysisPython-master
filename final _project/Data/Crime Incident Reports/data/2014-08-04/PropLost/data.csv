@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24107,142015985.0,Monday,No,2014-08-04T03:00:00.000,PropLost,"[-71.0983, 42.315791]",Point,PropLost,8,PROP,0,E13,Last,No,COLUMBUS AV,Part three,Unarmed,764811.1341,WASHINGTON ST,2940358.3639999996,2014
+25811,142022681.0,Monday,No,2014-08-04T12:00:00.000,PropLost,"[-71.065916, 42.298578]",Point,PropLost,8,PROP,0,C11,Day,No,WALDECK ST,Part three,Unarmed,773601.433,,2934128.63,2014
+71996,142031241.0,Monday,No,2014-08-04T12:25:00.000,PropLost,"[-71.16151, 42.347251]",Point,PropLost,8,PROP,0,D14,Day,No,LAKE ST,Part three,Unarmed,747669.8757,,2951748.814,2014
+124861,142018209.0,Monday,No,2014-08-04T16:30:00.000,PropLost,"[-71.09785, 42.314351]",Point,PropLost,8,PROP,0,E13,First,No,DIXWELL ST,Part three,Unarmed,764935.3132,,2939834.1780000003,2014
+126894,142016696.0,Monday,No,2014-08-04T15:00:00.000,PropLost,"[-71.06031, 42.299771]",Point,PropLost,8,PROP,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775115.9656,LINCOLN ST,2934571.107,2014
+164929,142016252.0,Monday,No,2014-08-04T21:09:00.000,PropLost,"[-71.065315, 42.288686]",Point,PropLost,8,PROP,0,C11,First,No,ARGYLE TR,Part three,Unarmed,773782.5633,,2930524.6339999996,2014
+232529,142016418.0,Monday,No,2014-08-04T12:00:00.000,PropLost,"[-71.058654, 42.35327]",Point,PropLost,8,PROP,0,A1,Day,No,BEDFORD ST,Part three,Unarmed,775462.9359,,2954069.373,2014
+244777,142016557.0,Monday,No,2014-08-04T19:00:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,8,PROP,0,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2014
+260266,142016037.0,Monday,No,2014-08-04T10:34:00.000,PropLost,"[0, 0]",Point,PropLost,8,PROP,0,B2,Day,No,DUDLEY ST,Part three,Unarmed,,,,2014
+266414,142016173.0,Monday,No,2014-08-04T17:42:00.000,PropLost,"[0, 0]",Point,PropLost,8,PROP,0,B3,First,No,MORTON ST,Part three,Unarmed,,MORTON VILLAGE DR,,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2702,152047359.0,Monday,No,2015-06-08T10:25:00.000,InvProp,"[0, 0]",Point,InvProp,6,TS,0,A7,Day,No,MCCLELLAN HY,Part three,Unarmed,,,,2015
+50729,152047286.0,Monday,No,2015-06-08T01:20:00.000,InvProp,"[-71.13087, 42.283911]",Point,InvProp,6,IVPER,0,E5,Last,No,WASHINGTON ST,Part three,Unarmed,756052.5416,,2928700.973,2015
+82124,152047432.0,Monday,No,2015-06-08T13:18:00.000,InvProp,"[-71.079765, 42.325614]",Point,InvProp,6,LARCEN,0,B2,Day,No,WINTHROP ST,Part three,Unarmed,769806.2740000001,,2943961.912,2015
+137610,152047633.0,Monday,No,2015-06-08T23:59:00.000,InvProp,"[-71.0781, 42.298361]",Point,InvProp,6,SHOTS,0,B3,Last,No,RADCLIFFE ST,Part three,Unarmed,770305.6703,,2934032.814,2015
+174650,152047306.0,Monday,No,2015-06-08T03:00:00.000,InvProp,"[-71.0904, 42.280796]",Point,InvProp,6,CD19IV,0,B3,Last,No,HOSMER ST,Part three,Unarmed,767009.0082,,2927615.818,2015
+226463,152047433.0,Monday,No,2015-06-08T13:55:00.000,InvProp,"[-71.076125, 42.338856]",Point,InvProp,6,SHOTS,0,D4,Day,No,W CONCORD ST,Part three,Unarmed,770766.796,,2948792.672,2015
+238845,152048329.0,Monday,No,2015-06-08T21:30:00.000,InvProp,"[-71.100769, 42.325321]",Point,InvProp,6,VAND,0,E13,First,No,PARKER ST,Part three,Unarmed,764127.0458,,2943828.1319999998,2015

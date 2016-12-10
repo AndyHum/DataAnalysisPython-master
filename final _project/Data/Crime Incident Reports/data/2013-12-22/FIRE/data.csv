@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48352,130804991.0,Sunday,No,2013-12-22T19:41:00.000,FIRE,"[-71.09106, 42.323372]",Point,FIRE,12,FIREB ,300,B2,First,No,THORNTON ST,Part three,Unarmed,766755.9881,,2943130.135,2013
+172368,130805283.0,Sunday,No,2013-12-22T21:30:00.000,FIRE,"[-71.11179, 42.262821]",Point,FIRE,12,FV    ,493,E18,First,No,REDDY AV,Part three,Unarmed,761250.4909,,2921038.405,2013
+224119,130804733.0,Sunday,No,2013-12-22T16:54:00.000,FIRE,"[-71.142631, 42.250332]",Point,FIRE,12,FIREB ,535,E18,First,No,SENDERS CT,Part three,Other,752921.3287,,2916450.7939999998,2013

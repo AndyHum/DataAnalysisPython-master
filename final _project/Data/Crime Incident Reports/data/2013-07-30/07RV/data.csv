@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39158,130474101.0,Tuesday,No,2013-07-30T10:09:00.000,07RV,"[-71.063779, 42.338579]",Point,07RV,7,RECMVO,174,C6,Day,No,FRONTAGE RD,Other,Other,774104.9678,,2948708.453,2013
+69671,130474203.0,Tuesday,No,2013-07-30T14:30:00.000,07RV,"[-71.077917, 42.343296]",Point,07RV,7,IVMV  ,0,D4,Day,No,WARREN AV,Other,Unarmed,770274.0752,,2950408.285,2013
+239745,130473850.0,Tuesday,No,2013-07-30T13:00:00.000,07RV,"[-71.07066, 42.307061]",Point,07RV,7,IVMV  ,348,C11,Day,No,RICHFIELD ST,Other,Unarmed,772302.6371,,2937213.4310000003,2013

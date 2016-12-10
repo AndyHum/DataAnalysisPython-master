@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92541,130187270.0,Saturday,No,2013-03-30T16:00:00.000,PropLost,"[-71.08969, 42.346756]",Point,PropLost,3,LARCRT,591,D4,First,No,BOYLSTON ST,Part Three,Unarmed,767085.5061,,2951653.646,2013
+132798,130189066.0,Saturday,No,2013-03-30T12:00:00.000,PropLost,"[-71.08156, 42.348911]",Point,PropLost,3,LARCRT,143,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,769279.4105,,2952449.645,2013
+259926,130186871.0,Saturday,No,2013-03-30T13:00:00.000,PropLost,"[-71.05672, 42.361981]",Point,PropLost,3,LARCRT,93,A1,Day,No,HANOVER ST,Part Three,Unarmed,775969.3409,BLACKSTONE ST,2957246.52,2013
+265160,130190987.0,Saturday,No,2013-03-30T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,22,A7,First,No,LONDON ST,Part Three,Unarmed,,,,2013

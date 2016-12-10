@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23194,120650896.0,Monday,No,2012-10-15T00:00:00.000,STOLEN PROPERTY CHARGES,"[-71.126665, 42.286651]",Point,13xx,10,IVPREM,562,E5,Last,No,BASILE ST,Part Two,Other,757186.0298,,2929704.423,2012
+144734,120649263.0,Monday,No,2012-10-15T12:50:00.000,STOLEN PROPERTY CHARGES,"[-71.08575, 42.301251]",Point,13xx,10,IVPER ,457,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,768231.1309999999,MCLELLAN ST,2935075.992,2012
+206122,120648692.0,Monday,No,2012-10-15T08:14:00.000,STOLEN PROPERTY CHARGES,"[-71.061895, 42.282636]",Point,13xx,10,SUSPER,394,C11,Day,No,BUSHNELL ST,Part Two,Unarmed,774719.253,,2928324.664,2012

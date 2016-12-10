@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+98259,120678293.0,Saturday,No,2012-10-27T18:41:00.000,Service,"[-71.00653, 42.386721]",Point,Service,10,SHOT  ,7,A7,First,No,BENNINGTON ST,Part Three,Firearm,789481.5755,,2966336.74,2012
+99405,120680438.0,Saturday,No,2012-10-27T12:00:00.000,Service,"[-71.068275, 42.341231]",Point,Service,10,INVEST,165,D4,Day,No,WALTHAM ST,Part Three,Unarmed,772884.7448,,2949668.809,2012
+232545,120677899.0,Saturday,No,2012-10-27T15:15:00.000,Service,"[-71.064225, 42.304776]",Point,Service,10,ARREST,340,C11,Day,No,MT IDA RD,Part Three,Unarmed,774047.5345,,2936389.5689999997,2012

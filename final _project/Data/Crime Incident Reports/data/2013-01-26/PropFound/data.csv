@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45204,130067080.0,Saturday,No,2013-01-26T23:00:00.000,PropFound,"[-71.0651, 42.350151]",Point,PropFound,1,LARCRT,122,A1,First,No,TREMONT ST,Part Three,Unarmed,773726.5315,,2952923.7810000004,2013
+47913,130053894.0,Saturday,No,2013-01-26T15:45:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,1,LSTPRP,119,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2013
+65833,130054517.0,Saturday,No,2013-01-26T23:00:00.000,PropFound,"[-71.09375, 42.340751]",Point,PropFound,1,IVPER ,0,D4,First,No,FENWAY,Part Three,Unarmed,765998.4019,FORSYTH WY,2949460.0560000003,2013
+97401,130053232.0,Saturday,No,2013-01-26T10:00:00.000,PropFound,"[-71.134456, 42.363298]",Point,PropFound,1,FDPROP,778,D14,Day,No,WESTERN AV,Part Three,Other,754958.1462,,2957626.671,2013
+197958,130053411.0,Saturday,No,2013-01-26T12:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,1,FDPROP,355,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2013

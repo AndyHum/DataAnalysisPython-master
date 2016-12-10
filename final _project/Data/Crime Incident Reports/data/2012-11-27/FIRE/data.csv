@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31933,120744101.0,Tuesday,No,2012-11-27T11:54:00.000,FIRE,"[-71.100324, 42.275593]",Point,FIRE,11,FV    ,470,B3,Day,No,ITASCA ST,Part Three,Unarmed,764332.3102,,2925706.975,2012
+50241,120745369.0,Tuesday,No,2012-11-27T21:47:00.000,FIRE,"[-71.067015, 42.339621]",Point,FIRE,11,FV    ,167,D4,First,No,MALDEN ST,Part Three,Unarmed,773228.3665,,2949083.8260000004,2012
+111717,120745165.0,Tuesday,No,2012-11-27T19:58:00.000,FIRE,"[-71.037325, 42.332671]",Point,FIRE,11,FIREB ,230,C6,First,No,K ST,Part Three,Unarmed,781268.9945,,2946593.268,2012

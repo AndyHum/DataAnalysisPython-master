@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82742,130623211.0,Friday,No,2013-02-22T02:27:00.000,Service,"[-71.086895, 42.336906]",Point,Service,2,IVPER ,285,D4,Last,No,COLUMBUS AV,Other,Unarmed,767858.4547,,2948067.77,2013
+131636,130109455.0,Friday,No,2013-02-22T08:30:00.000,Service,"[0, 0]",Point,Service,2,CD24  ,37,A15,Day,No,W SCHOOL ST,Part Three,Unarmed,,,,2013
+136189,130109626.0,Friday,No,2013-02-22T09:59:00.000,Service,"[-71.00172, 42.389136]",Point,Service,2,CD11  ,7,A7,Day,No,GLADSTONE ST,Part Three,Unarmed,790775.7783,,2967224.12,2013

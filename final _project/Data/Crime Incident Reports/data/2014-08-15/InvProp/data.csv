@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13399,142019754.0,Friday,No,2014-08-15T16:00:00.000,InvProp,"[-71.098485, 42.343391]",Point,InvProp,8,DISTRB,0,D4,First,No,PETERBOROUGH ST,Part three,Unarmed,764713.7517,,2950416.063,2014
+25490,142041571.0,Friday,No,2014-08-15T09:00:00.000,InvProp,"[-71.044545, 42.347516]",Point,InvProp,8,LARCEN,0,C6,Day,No,SUMMER ST,Part three,Unarmed,779287.9190000001,,2951992.539,2014
+106876,142019625.0,Friday,No,2014-08-15T15:24:00.000,InvProp,"[-71.097081, 42.319472]",Point,InvProp,8,SHOTS,0,B2,Day,No,DIMOCK ST,Part three,Unarmed,765134.3663,,2941701.057,2014
+124301,142019781.0,Friday,No,2014-08-15T20:51:00.000,InvProp,"[-71.06768, 42.300426]",Point,InvProp,8,SSA,0,C11,First,No,IOWA ST,Part three,Other,773120.9707,,2934799.607,2014
+145369,142019707.0,Friday,No,2014-08-15T16:26:00.000,InvProp,"[-71.097805, 42.330586]",Point,InvProp,8,SUSOBJ,0,B2,First,No,PARKER ST,Part three,Unarmed,764919.5885,,2945750.55,2014
+160792,142019473.0,Friday,No,2014-08-15T01:25:00.000,InvProp,"[-71.0712, 42.285371]",Point,InvProp,8,SSA,0,C11,Last,No,ASHMONT ST,Part three,Unarmed,772196.305,WASHINGTON ST,2929308.541,2014
+244620,142019734.0,Friday,No,2014-08-15T18:07:00.000,InvProp,"[-71.06041, 42.299431]",Point,InvProp,8,BE,0,C11,First,No,DORCHESTER AV,Part three,Other,775089.5518,,2934447.067,2014
+266603,152021523.0,Friday,No,2014-08-15T18:00:00.000,InvProp,"[0, 0]",Point,InvProp,8,LARCEN,0,B3,First,No,FOWLE ST,Part three,Unarmed,,,,2014

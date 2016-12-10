@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58471,142001348.0,Saturday,No,2014-06-21T02:30:00.000,DISORDERLY,"[-71.075165, 42.287106]",Point,24xx,6,IVPREM,0,B3,Last,No,WENTWORTH ST,Part Two,Other,771120.271,,2929935.43,2014
+126771,142001360.0,Saturday,No,2014-06-21T04:13:00.000,DISORDERLY,"[-71.078125, 42.316551]",Point,24xx,6,ARREST,0,B2,Last,No,BLUE HILL AV,Part Two,Other,770266.2773,,2940661.664,2014
+166334,142001594.0,Saturday,No,2014-06-21T21:03:00.000,DISORDERLY,"[-71.008874, 42.39214]",Point,24xx,6,DISTRB,0,A7,First,No,FAYWOOD AV,Part Two,Unarmed,788836.8524,,2968307.764,2014
+193251,142001604.0,Saturday,No,2014-06-21T21:30:00.000,DISORDERLY,"[-71.079465, 42.335486]",Point,24xx,6,FIGHT,0,D4,First,No,LENOX ST,Part Two,Unarmed,769869.848,,2947560.1139999996,2014
+264625,142001593.0,Saturday,No,2014-06-21T19:30:00.000,DISORDERLY,"[0, 0]",Point,24xx,6,ARREST,0,A1,First,No,CITY HALL PZ,Part Two,Unarmed,,,,2014

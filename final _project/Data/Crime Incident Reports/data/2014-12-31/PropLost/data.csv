@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4132,152001033.0,Wednesday,No,2014-12-31T21:15:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,12,PROP,0,A1,First,No,TREMONT ST,Part three,Other,773924.729,,2953989.2660000003,2014
+33248,152007407.0,Wednesday,No,2014-12-31T15:06:00.000,PropLost,"[-71.153789, 42.348226]",Point,PropLost,12,PROP,0,D14,Day,No,CHESTNUT HILL AV,Part three,Unarmed,749755.5920000001,,2952112.409,2014
+54763,152001096.0,Wednesday,No,2014-12-31T23:30:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,12,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+72971,152000270.0,Wednesday,No,2014-12-31T17:30:00.000,PropLost,"[-71.1372, 42.349251]",Point,PropLost,12,PROP,0,D14,First,No,ALLSTON ST,Part three,Unarmed,754238.3915,GLENVILLE AV,2952504.668,2014
+85655,152001308.0,Wednesday,No,2014-12-31T16:00:00.000,PropLost,"[-71.14976, 42.338781]",Point,PropLost,12,PROP,0,D14,First,No,STRATHMORE RD,Part three,Unarmed,750858.8775,,2948675.002,2014
+169574,152003380.0,Wednesday,No,2014-12-31T15:30:00.000,PropLost,"[-71.050805, 42.335386]",Point,PropLost,12,LARCEN,0,C6,Day,No,W 6TH ST,Part three,Unarmed,777618.9778,,2947563.1789999995,2014
+171950,152001375.0,Wednesday,No,2014-12-31T18:30:00.000,PropLost,"[-71.08179, 42.345411]",Point,PropLost,12,PROP,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769223.4916,W NEWTON ST,2951173.874,2014
+173365,142062057.0,Wednesday,No,2014-12-31T13:00:00.000,PropLost,"[-71.06944, 42.356171]",Point,PropLost,12,PROP,0,A1,Day,No,BEACON ST,Part three,Unarmed,772542.3037,CHARLES ST,2955111.6319999998,2014
+181631,142062185.0,Wednesday,No,2014-12-31T21:00:00.000,PropLost,"[-71.05468, 42.358122]",Point,PropLost,12,LARCEN,0,A1,First,No,WATER ST,Part three,Unarmed,776527.9154,,2955842.918,2014

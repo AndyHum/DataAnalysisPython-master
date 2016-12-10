@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93583,,Thursday,No,2015-08-06T00:00:00.000,Investigate Property,"[-71.064423, 42.311362]",Point,InvProp,8,ALARM,334,C11,,No,HOWE ST,Part Three,None,773982.0,,2940000.0,2015
+115328,,Thursday,No,2015-08-06T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,8,CD9,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015
+185843,,Thursday,No,2015-08-06T00:00:00.000,Investigate Property,"[-71.117293, 42.310303]",Point,InvProp,8,ALARM,644,E13,,No,HOLBROOK ST,Part Three,None,759683.0,,2940000.0,2015
+207018,,Thursday,No,2015-08-06T02:58:00.000,Investigate Property,"[0, 0]",Point,InvProp,8,CD9,89,A1,,No,COMMERCIAL ST,Part Three,None,,,,2015

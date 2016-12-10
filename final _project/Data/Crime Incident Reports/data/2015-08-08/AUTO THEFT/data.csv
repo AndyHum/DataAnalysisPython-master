@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7639,,Saturday,No,2015-08-08T12:44:00.000,Auto Theft Recovery,"[0, 0]",Point,07RV,8,IVMV,328,B2,,No,LAWRENCE AVE,Other,None,,MAGNOLIA ST,,2015
+140757,,Saturday,No,2015-08-08T00:00:00.000,Auto Theft,"[-71.061981, 42.308666]",Point,07xx,8,IVMV,338,C11,,No,CHURCH ST,Part One,None,774647.0,,2940000.0,2015
+255465,,Saturday,No,2015-08-08T00:00:00.000,Auto Theft,"[-71.097951, 42.316152]",Point,07xx,8,KIDNAP,304,E13,,No,WASHINGTON ST,Part One,None,764905.0,,2940000.0,2015

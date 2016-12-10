@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35997,142058872.0,Friday,No,2014-12-19T06:01:00.000,DRUG CHARGES,"[-71.070775, 42.319686]",Point,18xx,12,CD11,0,B2,Last,No,DUDLEY ST,Part Two,Unarmed,772248.378,,2941814.026,2014
+111503,142060088.0,Friday,No,2014-12-19T10:30:00.000,DRUG CHARGES,"[-71.09046, 42.330191]",Point,18xx,12,SS,0,B2,Day,No,ROXBURY ST,Part Two,Other,766906.3382,,2945616.055,2014
+130242,142058961.0,Friday,No,2014-12-19T09:25:00.000,DRUG CHARGES,"[-71.145297, 42.349864]",Point,18xx,12,IVPER,0,D14,Day,No,WARREN ST,Part Two,Unarmed,752048.4758,,2952718.7569999998,2014
+151285,142059001.0,Friday,No,2014-12-19T15:00:00.000,DRUG CHARGES,"[-71.08113, 42.284241]",Point,18xx,12,TS,0,B3,Day,No,CAPEN ST,Part Two,Other,769511.3792,NORFOLK ST,2928883.402,2014

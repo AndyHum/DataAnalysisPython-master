@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46957,120421396.0,Monday,No,2012-07-09T06:00:00.000,Arrest,"[-71.102546, 42.308074]",Point,Arrest,7,CD11  ,570,E13,Last,No,FOREST HILLS ST,Part Three,Unarmed,763675.6944,,2937540.652,2012
+53551,120422017.0,Monday,No,2012-07-09T06:00:00.000,Arrest,"[-71.119115, 42.271606]",Point,Arrest,7,CD11  ,498,E18,Last,No,CLARE AV,Part Three,Other,759253.4211,,2924230.8389999997,2012
+77962,120421040.0,Monday,No,2012-07-09T06:12:00.000,Arrest,"[-71.119115, 42.271606]",Point,Arrest,7,CD11  ,0,E18,Last,No,CLARE AV,Part Three,Unarmed,759253.4211,,2924230.8389999997,2012
+85715,120421039.0,Monday,No,2012-07-09T06:15:00.000,Arrest,"[-71.14805, 42.259326]",Point,Arrest,7,CD11  ,0,E5,Last,No,GEORGETOWNE DR,Part Three,Other,751440.6434,,2919722.167,2012
+145341,110523814.0,Monday,No,2012-07-09T03:15:00.000,Arrest,"[-71.064015, 42.285831]",Point,Arrest,7,CD9   ,784,C11,Last,No,ASHMONT ST,Part Three,Unarmed,774139.6285,DORCHESTER AV,2929486.027,2012
+164441,120421072.0,Monday,No,2012-07-09T06:05:00.000,Arrest,"[-71.087175, 42.308436]",Point,Arrest,7,IVDRUG,574,B2,Last,No,SONOMA ST,Part Three,Other,767832.9666,,2937692.45,2012
+197252,120421890.0,Monday,No,2012-07-09T11:05:00.000,Arrest,"[-71.102546, 42.308074]",Point,Arrest,7,IVDRUG,570,E13,Day,No,FOREST HILLS ST,Part Three,Other,763675.6944,,2937540.652,2012

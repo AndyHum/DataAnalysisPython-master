@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29722,130214945.0,Thursday,No,2013-04-11T22:50:00.000,PersLoc,"[-71.163424, 42.276105]",Point,PersLoc,4,IVPER ,721,E5,First,No,CASS ST,Part Three,Unarmed,747254.6754,,2925819.856,2013
+31345,130216314.0,Thursday,No,2013-04-11T06:40:00.000,PersLoc,"[-71.119565, 42.294446]",Point,PersLoc,4,MISPER,564,E5,Last,No,WASHINGTON ST,Other,Unarmed,759094.5063,,2932553.528,2013
+73741,130240912.0,Thursday,No,2013-04-11T08:00:00.000,PersLoc,"[-71.143891, 42.345952]",Point,PersLoc,4,MISPER,938,D14,Day,No,FIDELIS WY,Part Three,Unarmed,752434.4823,,2951294.5710000005,2013

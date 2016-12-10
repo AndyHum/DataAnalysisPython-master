@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+372,152017167.0,Monday,No,2015-03-02T18:00:00.000,Service,"[0, 0]",Point,Service,3,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015
+29093,152016958.0,Monday,No,2015-03-02T19:42:00.000,Service,"[-71.13391, 42.233841]",Point,Service,3,ALARM,0,E18,First,No,MILLSTONE RD,Other,Unarmed,755308.2433,,2910451.2539999997,2015
+54609,152016809.0,Monday,No,2015-03-02T13:15:00.000,Service,"[-71.063675, 42.352301]",Point,Service,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+64972,152016478.0,Monday,No,2015-03-02T13:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,3,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+94055,152016849.0,Monday,No,2015-03-02T15:00:00.000,Service,"[-71.071171, 42.285811]",Point,Service,3,IVPER,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772203.2275,,2929468.745,2015
+101841,152016780.0,Monday,No,2015-03-02T11:20:00.000,Service,"[-71.06942, 42.362401]",Point,Service,3,ARREST,0,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+131458,152016883.0,Monday,No,2015-03-02T16:43:00.000,Service,"[-71.06249, 42.352371]",Point,Service,3,ARREST,0,A1,First,No,ESSEX ST,Part three,Unarmed,774427.8963,WASHINGTON ST,2953736.3989999997,2015
+174838,152016687.0,Monday,No,2015-03-02T01:14:00.000,Service,"[-71.062413, 42.353534]",Point,Service,3,ARREST,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,774446.4264,,2954160.1610000003,2015
+261255,152016753.0,Monday,No,2015-03-02T10:30:00.000,Service,"[0, 0]",Point,Service,3,LARCEN,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,,,,2015

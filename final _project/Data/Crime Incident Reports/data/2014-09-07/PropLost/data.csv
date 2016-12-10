@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40888,142027098.0,Sunday,No,2014-09-07T01:30:00.000,PropLost,"[-71.13106, 42.350481]",Point,PropLost,9,LARCEN,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,755896.1988,HARVARD AV,2952960.025,2014
+58741,142027645.0,Sunday,No,2014-09-07T01:00:00.000,PropLost,"[-71.059969, 42.355867]",Point,PropLost,9,PROP,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,775102.6197,WATER ST,2955013.727,2014
+69782,142028254.0,Sunday,No,2014-09-07T20:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,9,LARCEN,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+94806,142027336.0,Sunday,No,2014-09-07T21:30:00.000,PropLost,"[-71.06323, 42.305371]",Point,PropLost,9,PROP,0,C11,First,No,PERCIVAL ST,Part three,Unarmed,774315.577,,2936607.773,2014
+239825,142027421.0,Sunday,No,2014-09-07T19:20:00.000,PropLost,"[-71.117658, 42.359586]",Point,PropLost,9,PROP,0,D14,First,No,SOLDIERS FIELD RD,Part three,Unarmed,759503.8198,,2956294.0710000005,2014

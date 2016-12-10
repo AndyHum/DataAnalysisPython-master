@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21081,140179658.0,Monday,No,2014-03-24T23:10:00.000,FIRE,"[-71.136411, 42.2727]",Point,FIRE,3,REQP  ,550,E5,First,No,BLUE LEDGE DR,Part three,Unarmed,754570.4698,,2924609.102,2014
+57678,140184228.0,Monday,No,2014-03-24T00:51:00.000,FIRE,"[-71.035385, 42.368761]",Point,FIRE,3,FIREB ,30,A7,Last,No,MCKAY PL,Part three,Other,781721.9040000001,,2959747.97,2014
+107468,140178088.0,Monday,No,2014-03-24T10:46:00.000,FIRE,"[-71.09679, 42.314596]",Point,FIRE,3,FIREB ,307,E13,Day,No,COLUMBUS AV,Part three,Unarmed,765221.5863,,2939924.814,2014

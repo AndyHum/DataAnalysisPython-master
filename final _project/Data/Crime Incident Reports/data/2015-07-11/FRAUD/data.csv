@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83435,,Saturday,No,2015-07-11T00:00:00.000,Fraud,"[-71.066573, 42.318204]",Point,11xx,7,,238,B2,,No,WENDOVER ST,Part Two,None,773387.0,,2940000.0,2015
+90703,,Saturday,No,2015-07-11T19:42:00.000,Fraud,"[0, 0]",Point,11xx,7,,202,C6,,No,D ST,Part Two,None,,,,2015
+90942,,Saturday,No,2015-07-11T00:00:00.000,Fraud,"[-71.067259, 42.365625]",Point,11xx,7,ADMRPT,62,A1,,No,WHITTIER PL,Part Two,None,773114.0,,2960000.0,2015
+157020,,Saturday,No,2015-07-11T16:49:00.000,Fraud,"[0, 0]",Point,11xx,7,,311,B2,,No,MAYWOOD ST,Part Two,None,,,,2015

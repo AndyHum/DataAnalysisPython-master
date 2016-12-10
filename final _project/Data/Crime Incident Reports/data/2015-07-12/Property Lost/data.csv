@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37236,,Sunday,No,2015-07-12T00:00:00.000,Property Lost,"[-71.072733, 42.350602]",Point,PropLost,7,,129,D4,,No,BERKELEY ST,Part Three,None,771662.0,,2950000.0,2015
+49665,,Sunday,No,2015-07-12T00:00:00.000,Property Lost,"[-71.09423, 42.285534]",Point,PropLost,7,,466,B3,,No,GREENDALE RD,Part Three,None,765964.0,,2930000.0,2015
+63784,,Sunday,No,2015-07-12T16:00:00.000,Property Lost,"[0, 0]",Point,PropLost,7,,0,,,No,,Part Three,None,,ARLINGTON ST,,2015
+81590,,Sunday,No,2015-07-12T22:20:00.000,Property Lost,"[0, 0]",Point,PropLost,7,,408,B3,,No,RIVER ST,Part Three,None,,,,2015
+91020,,Sunday,No,2015-07-12T18:04:00.000,Property Lost,"[0, 0]",Point,PropLost,7,INVEST,624,D4,,No,YAWKEY WAY,Part Three,None,,,,2015
+117407,,Sunday,No,2015-07-12T00:00:00.000,Property Lost,"[-71.078681, 42.314526]",Point,PropLost,7,IVPER,326,B2,,No,QUINCY ST,Part Three,None,770119.0,,2940000.0,2015
+140106,,Sunday,No,2015-07-12T00:00:00.000,Property Lost,"[-71.066022, 42.350662]",Point,PropLost,7,ADMRPT,121,A1,,No,WARRENTON ST,Part Three,None,773476.0,,2950000.0,2015
+149605,,Sunday,No,2015-07-12T00:00:00.000,Property Lost,"[-71.156321, 42.33923]",Point,PropLost,7,PROP,774,D14,,No,COMMONWEALTH AVE,Part Three,None,749084.0,,2950000.0,2015
+166979,,Sunday,No,2015-07-12T20:30:00.000,Property Lost,"[0, 0]",Point,PropLost,7,PROP,94,A1,,No,STATE ST,Part Three,None,,,,2015
+201830,,Sunday,No,2015-07-12T00:00:00.000,Property Lost,"[-71.079152, 42.34731]",Point,PropLost,7,,146,D4,,No,HUNTINGTON AVE,Part Three,None,769933.0,,2950000.0,2015
+244446,,Sunday,No,2015-07-12T00:00:00.000,Property Lost,"[-71.060687, 42.295218]",Point,PropLost,7,PROP,355,C11,,No,DIX ST,Part Three,None,775022.0,,2930000.0,2015

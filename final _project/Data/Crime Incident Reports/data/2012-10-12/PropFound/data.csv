@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22406,120644088.0,Friday,No,2012-10-12T23:30:00.000,PropFound,"[-71.072415, 42.348111]",Point,PropFound,10,MISC  ,128,D4,First,No,COLUMBUS AV,Part Three,Other,771752.9256,,2952170.37,2012
+49377,120679660.0,Friday,No,2012-10-12T06:37:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,10,FDWEAP,289,B2,Last,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+80761,120642716.0,Friday,No,2012-10-12T10:30:00.000,PropFound,"[-71.09293, 42.331271]",Point,PropFound,10,FDPROP,290,B2,Day,No,MALCOLM X BL,Part Three,Unarmed,766236.5783,KING ST,2946006.4289999995,2012
+112845,120643109.0,Friday,No,2012-10-12T08:00:00.000,PropFound,"[-71.1376, 42.29593]",Point,PropFound,10,LSTPRP,693,E5,Day,No,VFW PY,Part Three,Unarmed,754212.7038,,2933072.777,2012
+113579,120642625.0,Friday,No,2012-10-12T10:00:00.000,PropFound,"[-71.08046, 42.335661]",Point,PropFound,10,FDPROP,903,D4,Day,No,SHAWMUT AV,Part Three,Unarmed,769600.5096,,2947622.561,2012
+162944,120642790.0,Friday,No,2012-10-12T10:00:00.000,PropFound,"[-71.03548, 42.338151]",Point,PropFound,10,FDPROP,222,C6,Day,No,E 1ST ST,Part Three,Unarmed,781756.9812,SUMMER ST,2948592.983,2012
+202176,120642035.0,Friday,No,2012-10-12T01:36:00.000,PropFound,"[-71.077748, 42.348631]",Point,PropFound,10,FDPROP,130,D4,Last,No,HUNTINGTON AV,Part Three,Unarmed,770310.163,,2952352.43,2012
+220096,120642815.0,Friday,No,2012-10-12T13:45:00.000,PropFound,"[-71.062116, 42.353942]",Point,PropFound,10,FDPROP,111,A1,Day,No,WASHBURN ST,Part Three,Unarmed,774526.0513,,2954309.262,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91356,152011567.0,Wednesday,No,2015-02-11T07:20:00.000,PersLoc,"[-71.061933, 42.287398]",Point,PersLoc,2,MISSIN,0,C11,Last,No,DRACUT ST,Other,Unarmed,774699.9919,,2930059.777,2015
+258081,152011282.0,Wednesday,No,2015-02-11T16:40:00.000,PersLoc,"[-71.00413, 42.385721]",Point,PersLoc,2,IVPER,0,A7,First,No,SARATOGA ST,Other,Unarmed,790131.9348,,2965975.807,2015
+267723,152011225.0,Wednesday,No,2015-02-11T13:04:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,IVPER,0,C6,Day,No,MT VERNON ST,Other,Unarmed,,,,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2348,152026048.0,Monday,No,2015-03-30T20:10:00.000,Service,"[0, 0]",Point,Service,3,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015
+62466,152025944.0,Monday,No,2015-03-30T21:56:00.000,Service,"[-71.085618, 42.32866]",Point,Service,3,IVPER,0,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2015
+73614,152025917.0,Monday,No,2015-03-30T19:00:00.000,Service,"[-71.13721, 42.291456]",Point,Service,3,IVPER,0,E5,First,No,HEWLETT ST,Part three,Unarmed,754325.2741,,2931443.1289999997,2015
+172618,152025955.0,Monday,No,2015-03-30T22:45:00.000,Service,"[-71.106705, 42.310361]",Point,Service,3,ARMROB,0,E13,First,No,GREEN ST,Part three,Knife,762547.0467,,2938368.988,2015
+267268,152027054.0,Monday,No,2015-03-30T02:30:00.000,Service,"[0, 0]",Point,Service,3,AOD,0,B2,Last,No,HUNTINGTON AV,Part three,Unarmed,,,,2015

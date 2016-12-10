@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15675,,Wednesday,No,2015-07-29T00:00:00.000,Confidence Games,"[-71.123787, 42.352164]",Point,11xx,7,,798,D14,,No,COMMONWEALTH AVE,Part Two,None,757859.0,,2950000.0,2015
+121738,,Wednesday,No,2015-07-29T11:00:00.000,Confidence Games,"[0, 0]",Point,11xx,7,TS,338,C11,,No,BOWDOIN ST,Part Two,None,, HANCOCK ST ,,2015
+189767,,Wednesday,No,2015-07-29T00:00:00.000,Confidence Games,"[-71.078511, 42.305743]",Point,11xx,7,,460,C11,,No,BRINSLEY ST,Part Two,None,770181.0,,2940000.0,2015

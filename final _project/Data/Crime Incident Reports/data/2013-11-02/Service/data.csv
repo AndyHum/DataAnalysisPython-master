@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34135,130698774.0,Saturday,No,2013-11-02T15:40:00.000,Service,"[-71.165241, 42.338779]",Point,Service,11,INVEST,749,D14,Day,No,ST THOMAS MORE RD,Part three,Unarmed,746673.3399,,2948657.375,2013
+47026,130697627.0,Saturday,No,2013-11-02T02:57:00.000,Service,"[-71.08972, 42.282369]",Point,Service,11,ARREST,428,B3,Last,No,WILDWOOD ST,Part three,Unarmed,767190.2526,,2928189.921,2013
+191353,130698034.0,Saturday,No,2013-11-02T11:12:00.000,Service,"[-71.063675, 42.352301]",Point,Service,11,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+240925,130698663.0,Saturday,No,2013-11-02T16:50:00.000,Service,"[-71.074385, 42.335516]",Point,Service,11,RAPRPT,171,D4,First,No,HARRISON AV,Part three,Unarmed,771243.2964,,2947577.858,2013

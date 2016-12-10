@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148919,142029459.0,Sunday,No,2014-09-14T20:50:00.000,PhoneCalls,"[-71.140968, 42.342648]",Point,PhoneCalls,9,IVPER,0,D14,First,No,WASHINGTON ST,Part three,Other,753229.9692,,2950093.872,2014
+215874,142029379.0,Sunday,No,2014-09-14T15:50:00.000,PhoneCalls,"[-71.08077, 42.271356]",Point,PhoneCalls,9,IVPER,0,B3,Day,No,RIVER ST,Part three,Unarmed,769631.8708,,2924188.4110000003,2014
+260490,142032950.0,Sunday,No,2014-09-14T12:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,9,IVPER,0,E5,Day,No,BROOK ST,Part Two,Unarmed,,,,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72645,130242687.0,Wednesday,No,2013-04-24T18:30:00.000,InvProp,"[-71.068642, 42.316293]",Point,InvProp,4,IVPREM,258,B2,First,No,MONADNOCK ST,Part Three,Other,772831.4244,,2940580.485,2013
+86275,130240872.0,Wednesday,No,2013-04-24T12:32:00.000,InvProp,"[-71.121909, 42.320483]",Point,InvProp,4,ALARMR,633,E13,Day,No,PERKINS ST,Part Three,Unarmed,758418.175,,2942038.8189999997,2013
+133867,130240960.0,Wednesday,No,2013-04-24T13:00:00.000,InvProp,"[-71.07738, 42.350061]",Point,InvProp,4,CD9   ,130,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2013
+133886,130240421.0,Wednesday,No,2013-04-24T08:11:00.000,InvProp,"[-71.056875, 42.325896]",Point,InvProp,4,IVPREM,189,C6,Day,No,DORCHESTER AV,Part Three,Unarmed,775995.7668,,2944096.275,2013
+159108,130240733.0,Wednesday,No,2013-04-24T11:50:00.000,InvProp,"[-71.155123, 42.35915]",Point,InvProp,4,IVPREM,806,D14,Day,No,SOLDIERS FIELD RD,Part Three,Unarmed,749378.8529,,2956092.008,2013

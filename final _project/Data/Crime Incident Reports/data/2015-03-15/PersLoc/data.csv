@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16582,152020817.0,Sunday,No,2015-03-15T05:57:00.000,PersLoc,"[-71.0622, 42.293286]",Point,PersLoc,3,MISSIN,0,C11,Last,No,DORCHESTER AV,Other,Unarmed,774616.7994,,2932205.249,2015
+68612,152021021.0,Sunday,No,2015-03-15T16:00:00.000,PersLoc,"[-71.094678, 42.319428]",Point,PersLoc,3,IVPER,0,B2,First,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2015
+136300,152021002.0,Sunday,No,2015-03-15T16:30:00.000,PersLoc,"[-71.04781, 42.332951]",Point,PersLoc,3,IVPER,0,C6,First,No,TELEGRAPH ST,Other,Unarmed,778433.4532,,2946680.1010000003,2015
+159114,152020986.0,Sunday,No,2015-03-15T08:04:00.000,PersLoc,"[-71.081299, 42.276593]",Point,PersLoc,3,IVPER,0,B3,Day,No,WOODRUFF WY,Other,Unarmed,769479.2854,,2926096.117,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+109496,142040713.0,Sunday,No,2014-10-19T16:45:00.000,Argue,"[-71.035565, 42.379601]",Point,Argue,10,IVPER,0,A7,First,No,BROOKS ST,Part three,Unarmed,781651.7529,LEXINGTON ST,2963698.019,2014
+186572,142040572.0,Sunday,No,2014-10-19T09:05:00.000,Argue,"[-71.059246, 42.325015]",Point,Argue,10,DISTRB,0,C6,Day,No,BOSTON ST,Part three,Unarmed,775356.0696,,2943771.932,2014
+190408,142040503.0,Sunday,No,2014-10-19T00:44:00.000,Argue,"[-71.070625, 42.361461]",Point,Argue,10,PERGUN,0,A1,Last,No,CHARLES ST,Part three,Firearm,772212.3098,,2957037.798,2014
+216685,142040658.0,Sunday,No,2014-10-19T16:28:00.000,Argue,"[-71.086655, 42.348466]",Point,Argue,10,LARCEN,0,D4,First,No,NEWBURY ST,Part three,Unarmed,767902.9271,,2952280.765,2014

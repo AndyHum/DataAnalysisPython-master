@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49428,,Thursday,No,2015-07-02T13:56:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,319,B2,,No,MAPLE ST,Part Two,None,,SCHUYLER ST,,2015
+71508,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.054679, 42.341288]",Point,18xx,7,IVPREM,200,C6,,No,W BROADWAY,Part Two,None,776560.0,,2950000.0,2015
+71509,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.054679, 42.341288]",Point,18xx,7,IVPREM,200,C6,,No,W BROADWAY,Part Two,None,776560.0,,2950000.0,2015
+115549,,Thursday,No,2015-07-02T17:45:00.000,Drug Violation,"[0, 0]",Point,18xx,7,PROP,573,E13,,No,GREEN ST,Part Two,None,,,,2015
+115831,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,7,IVPER,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+117811,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.064323, 42.35311]",Point,18xx,7,IVPER,111,A1,,No,BOYLSTON ST,Part Two,None,773931.0,TREMONT ST,2950000.0,2015
+128352,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.092615, 42.31463]",Point,18xx,7,I00015,316,B2,,No,ABBOTSFORD ST,Part Two,None,766351.0,,2940000.0,2015
+161800,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.121435, 42.283273]",Point,18xx,7,POISON,561,E5,,No,BROWN AVE,Part Two,None,758606.0,,2930000.0,2015
+174031,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.11897, 42.273601]",Point,18xx,7,IVPREM,498,E18,,No,CLARE AVE,Part Two,None,759289.0,,2920000.0,2015
+176360,,Thursday,No,2015-07-02T12:08:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPER,498,E18,,No,AMERICAN LEGION HWY,Part Two,None,,,,2015
+188100,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.063804, 42.354284]",Point,18xx,7,IVPREM,111,A1,,No,TREMONT ST,Part Two,None,774069.0,,2950000.0,2015
+193146,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.059709, 42.297555]",Point,18xx,7,IVPREM,355,C11,,No,GIBSON ST,Part Two,None,775283.0,,2930000.0,2015
+194068,,Thursday,No,2015-07-02T18:27:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPREM,519,E18,,No,HYDE PARK AVE,Part Two,None,,,,2015
+205747,,Thursday,No,2015-07-02T11:26:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVMV,172,D4,,No,ALBANY ST,Part Two,None,,E NEWTON ST,,2015
+220936,,Thursday,No,2015-07-02T00:00:00.000,Drug Violation,"[-71.06134, 42.310434]",Point,18xx,7,IVPREM,257,C11,,No,HANCOCK ST,Part Two,None,774817.0,,2940000.0,2015

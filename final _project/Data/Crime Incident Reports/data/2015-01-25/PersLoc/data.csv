@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99574,152006822.0,Sunday,No,2015-01-25T11:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,1,MISSIN,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015
+116447,152006754.0,Sunday,No,2015-01-25T00:25:00.000,PersLoc,"[-71.075835, 42.289281]",Point,PersLoc,1,IVPER,0,B3,Last,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2015
+264548,152006933.0,Sunday,No,2015-01-25T22:36:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,B2,First,No,DUDLEY ST,Other,Unarmed,,,,2015
+266572,152007507.0,Sunday,No,2015-01-25T15:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,MISSIN,0,D4,Day,No,WASHINGTON ST,Other,Unarmed,,,,2015

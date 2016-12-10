@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73483,,Monday,No,2015-06-22T15:27:00.000,Property Found,"[0, 0]",Point,PropFound,6,IVPER,554,E18,,No,SHERRIN ST,Part Three,None,,,,2015
+122811,,Monday,No,2015-06-22T00:00:00.000,Property Found,"[-71.057352, 42.351102]",Point,PropFound,6,SUSOBJ,115,A1,,No,SOUTH ST,Part Three,None,775819.0,,2950000.0,2015
+132968,,Monday,No,2015-06-22T00:00:00.000,Property Found,"[-71.032688, 42.375136]",Point,PropFound,6,PROP,21,A7,,No,CHELSEA ST,Part Three,None,782438.0,,2960000.0,2015
+166739,,Monday,No,2015-06-22T00:00:00.000,Property Found,"[-71.085634, 42.328663]",Point,PropFound,6,PROP,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+186206,,Monday,No,2015-06-22T00:00:00.000,Property Found,"[-71.067751, 42.285198]",Point,PropFound,6,INVEST,402,C11,,No,ASHMONT ST,Part Three,None,773130.0,,2930000.0,2015

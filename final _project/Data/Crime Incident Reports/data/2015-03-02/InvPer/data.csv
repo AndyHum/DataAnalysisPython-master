@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7491,152016978.0,Monday,No,2015-03-02T21:15:00.000,InvPer,"[-71.082823, 42.28266]",Point,InvPer,3,IVPER,0,B3,First,No,NELSON ST,Part three,Unarmed,769056.0789,,2928305.025,2015
+16329,152016974.0,Monday,No,2015-03-02T21:53:00.000,InvPer,"[-71.08913, 42.281956]",Point,InvPer,3,IVPER,0,B3,First,No,SUTTON ST,Part three,Unarmed,767350.6368,,2928040.186,2015
+39308,152016952.0,Monday,No,2015-03-02T19:25:00.000,InvPer,"[-71.07553, 42.312201]",Point,InvPer,3,DISTRB,0,B2,First,No,FAYSTON ST,Part three,Unarmed,770975.9993,,2939079.935,2015
+130131,152016766.0,Monday,No,2015-03-02T11:35:00.000,InvPer,"[-71.118295, 42.277426]",Point,InvPer,3,IVPER,0,E18,Day,No,CLARE AV,Part three,Unarmed,759465.8606,,2926352.7210000004,2015
+137844,152017606.0,Monday,No,2015-03-02T08:00:00.000,InvPer,"[-71.0694, 42.331966]",Point,InvPer,3,IVPER,0,C6,Day,No,SOUTHAMPTON ST,Part three,Other,772597.6447,,2946290.941,2015
+138188,152016963.0,Monday,No,2015-03-02T18:30:00.000,InvPer,"[-71.148325, 42.354401]",Point,InvPer,3,IVPER,0,D14,First,No,GLENCOE ST,Part three,Unarmed,751223.3771,,2954368.84,2015
+223227,152017106.0,Monday,No,2015-03-02T22:00:00.000,InvPer,"[-71.060605, 42.379941]",Point,InvPer,3,IVPER,0,A15,First,No,POLK ST,Part three,Unarmed,774885.6595,,2963786.077,2015
+264474,152016698.0,Monday,No,2015-03-02T03:30:00.000,InvPer,"[0, 0]",Point,InvPer,3,SHOTS,0,A1,Last,No,KINGSTON ST,Part three,Firearm,,,,2015
+265427,152016806.0,Monday,No,2015-03-02T08:25:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,A1,Day,No,JOY ST,Part three,Unarmed,,,,2015
+266439,152016710.0,Monday,No,2015-03-02T05:48:00.000,InvPer,"[0, 0]",Point,InvPer,3,IVPER,0,E13,Last,No,COLUMBUS AV,Part three,Unarmed,,,,2015

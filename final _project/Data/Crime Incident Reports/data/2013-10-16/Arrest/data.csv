@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14354,130659574.0,Wednesday,No,2013-10-16T06:30:00.000,Arrest,"[-71.070835, 42.331511]",Point,Arrest,10,INVEST,177,C6,Last,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2013
+70069,130659799.0,Wednesday,No,2013-10-16T09:22:00.000,Arrest,"[-71.054711, 42.341305]",Point,Arrest,10,CD11  ,0,C6,Day,No,W BROADWAY,Part three,Other,776551.5679,,2949714.607,2013
+91030,130660850.0,Wednesday,No,2013-10-16T17:51:00.000,Arrest,"[-71.055835, 42.320276]",Point,Arrest,10,BERPT ,235,C11,First,No,BUTTONWOOD ST,Part three,Unarmed,776287.6639,,2942049.7180000003,2013
+190202,130659564.0,Wednesday,No,2013-10-16T06:00:00.000,Arrest,"[-71.06939, 42.339506]",Point,Arrest,10,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+209229,130659689.0,Wednesday,No,2013-10-16T08:30:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,10,ARREST,117,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2013
+252845,130659931.0,Wednesday,No,2013-10-16T10:32:00.000,Arrest,"[-71.07251, 42.352266]",Point,Arrest,10,CD11  ,133,D4,Day,No,NEWBURY ST,Part three,Unarmed,771719.655,ARLINGTON ST,2953684.403,2013

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20330,,Wednesday,No,2015-07-15T00:00:00.000,Restraining Order Violations,"[-71.134018, 42.361612]",Point,Restrain,7,VIORDR,811,D14,,No,RAYMOND ST,Part Two,None,755079.0,,2960000.0,2015
+36620,,Wednesday,No,2015-07-15T00:00:00.000,Violations,"[-71.097567, 42.315013]",Point,VAL,7,ARREST,572,E13,,No,COLUMBUS AVE,Part Two,None,765011.0,,2940000.0,2015
+98212,,Wednesday,No,2015-07-15T00:00:00.000,Violations,"[-71.085634, 42.328663]",Point,VAL,7,ADMRPT,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+138451,,Wednesday,No,2015-07-15T15:45:00.000,Violations,"[0, 0]",Point,VAL,7,TS,0,,,No,,Part Two,None,,BROOKLINE AVE,,2015
+146571,,Wednesday,No,2015-07-15T00:00:00.000,Firearm Violations,"[-71.090194, 42.273873]",Point,15xx,7,ARREST,421,B3,,No,VIOLET ST,Part Two,Firearm,767077.0,,2930000.0,2015
+153439,,Wednesday,No,2015-07-15T00:00:00.000,Violations,"[-71.06167, 42.352467]",Point,VAL,7,TS,117,A1,,No,ESSEX ST,Part Two,None,774649.0,,2950000.0,2015
+188874,,Wednesday,No,2015-07-15T15:42:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,0,,,No,CAUSEWAY ST,Part Two,None,,,,2015
+189402,,Wednesday,No,2015-07-15T00:00:00.000,Firearm Violations,"[-71.071155, 42.285811]",Point,15xx,7,ARREST,400,C11,,No,WASHINGTON ST,Part Two,Knife/Cutting Instrument,772208.0,,2930000.0,2015
+225576,,Wednesday,No,2015-07-15T00:00:00.000,Assembly or Gathering Violations,"[-71.066859, 42.361697]",Point,Gather,7,I00039,65,A1,,No,BLOSSOM ST,Part Three,None,773230.0,,2960000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41689,120727495.0,Monday,No,2012-11-19T00:54:00.000,Landlord,"[-71.095725, 42.286121]",Point,Landlord,11,IVPER ,466,B3,Last,No,COURTLAND RD,Part Three,Other,765558.8126,,2929549.4439999997,2012
+98978,120728533.0,Monday,No,2012-11-19T13:45:00.000,Landlord,"[-71.089205, 42.316173]",Point,Landlord,11,IVPER ,312,B2,Day,No,HOLWORTHY ST,Part Three,Unarmed,767270.2679,,2940509.336,2012
+188439,120728305.0,Monday,No,2012-11-19T11:30:00.000,Landlord,"[-71.120857, 42.268922]",Point,Landlord,11,THREAT,496,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,758786.1749,,2923250.512,2012
+205228,120729096.0,Monday,No,2012-11-19T18:08:00.000,Landlord,"[-71.002455, 42.388567]",Point,Landlord,11,LANTEN,7,A7,First,No,LEYDEN ST,Part Three,Unarmed,790578.4562,,2967015.853,2012

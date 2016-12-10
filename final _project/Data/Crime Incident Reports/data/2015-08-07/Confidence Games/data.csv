@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80579,,Friday,No,2015-08-07T00:00:00.000,Confidence Games,"[-71.107033, 42.263245]",Point,11xx,8,,488,E18,,No,RIVER ST,Part Two,None,762537.0,,2920000.0,2015
+84546,,Friday,No,2015-08-07T00:00:00.000,Confidence Games,"[-71.132027, 42.25474]",Point,11xx,8,,541,E18,,No,BEAVER ST,Part Two,None,755785.0,,2920000.0,2015
+86688,,Friday,No,2015-08-07T00:00:00.000,Confidence Games,"[-71.091522, 42.342279]",Point,11xx,8,,618,D4,,No,FENWAY,Part Two,None,766598.0,,2950000.0,2015

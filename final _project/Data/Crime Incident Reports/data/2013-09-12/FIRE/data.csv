@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84044,130579648.0,Thursday,No,2013-09-12T02:23:00.000,FIRE,"[-71.10087, 42.316141]",Point,FIRE,9,FIREB ,577,E13,Last,No,SCHOOL ST,Part three,Other,764115.4563,,2940482.647,2013
+220816,130581661.0,Thursday,No,2013-09-12T21:07:00.000,FIRE,"[-71.08356, 42.328666]",Point,FIRE,9,FIRE  ,280,B2,First,No,DUDLEY ST,Part three,Unarmed,768774.7954,,2945069.352,2013
+248894,130581478.0,Thursday,No,2013-09-12T18:45:00.000,FIRE,"[-71.062898, 42.274177]",Point,FIRE,9,VANRPT,388,C11,First,No,ADAMS ST,Part three,Other,774463.5996,,2925240.475,2013

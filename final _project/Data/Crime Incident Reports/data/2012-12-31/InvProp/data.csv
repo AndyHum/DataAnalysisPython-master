@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38157,120816523.0,Monday,No,2012-12-31T14:22:00.000,InvProp,"[-71.054342, 42.313587]",Point,InvProp,12,BEIP  ,249,C11,Day,No,SAXTON ST,Part Three,Other,776704.0295,,2939614.1780000003,2012
+74760,120817300.0,Monday,No,2012-12-31T21:43:00.000,InvProp,"[-71.067968, 42.292027]",Point,InvProp,12,SHOTS ,362,C11,First,No,MOULTRIE ST,Part Three,Unarmed,773058.4128,,2931738.2210000004,2012
+202524,120816796.0,Monday,No,2012-12-31T17:15:00.000,InvProp,"[-71.084485, 42.348131]",Point,InvProp,12,REQP  ,142,D4,First,No,BOYLSTON ST,Part Three,Unarmed,768490.1158,,2952161.534,2012
+226631,120816620.0,Monday,No,2012-12-31T15:20:00.000,InvProp,"[-71.008643, 42.393294]",Point,InvProp,12,INVEST,942,A7,Day,No,WALDEMAR AV,Part Three,Unarmed,788896.8788,,2968728.664,2012

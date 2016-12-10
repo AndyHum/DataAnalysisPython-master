@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42278,152018318.0,Friday,No,2015-03-06T19:02:00.000,DISORDERLY,"[-71.121635, 42.277231]",Point,24xx,3,ARREST,0,E18,First,No,PINEDALE RD,Part Two,Unarmed,758562.2935,,2926277.633,2015
+96879,152017997.0,Friday,No,2015-03-06T02:59:00.000,DISORDERLY,"[-71.08624, 42.351711]",Point,24xx,3,ARREST,0,D4,Last,No,BEACON ST,Part Two,Unarmed,768009.3740000001,,2953463.848,2015
+129338,152018141.0,Friday,No,2015-03-06T11:30:00.000,DISORDERLY,"[-71.08746, 42.346791]",Point,24xx,3,ARREST,0,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,767688.2733,,2951669.308,2015

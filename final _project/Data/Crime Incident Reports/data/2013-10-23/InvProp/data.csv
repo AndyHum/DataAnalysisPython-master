@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104140,130677784.0,Wednesday,No,2013-10-23T16:30:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,10,IVPREM,624,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2013
+105355,130676753.0,Wednesday,No,2013-10-23T20:00:00.000,InvProp,"[-71.034765, 42.381976]",Point,InvProp,10,VANRPT,25,A7,First,No,FALCON ST,Part three,Other,781863.1806,,2964564.6980000003,2013
+163202,130675448.0,Wednesday,No,2013-10-23T11:18:00.000,InvProp,"[-71.131745, 42.283066]",Point,InvProp,10,IVPREM,559,E5,Day,No,WASHINGTON ST,Part three,Unarmed,755817.1002,,2928392.019,2013
+224680,130679376.0,Wednesday,No,2013-10-23T19:15:00.000,InvProp,"[-71.057025, 42.335201]",Point,InvProp,10,BERPT ,194,C6,First,No,DORCHESTER AV,Part three,Other,775937.5944,,2947486.966,2013
+226710,130675550.0,Wednesday,No,2013-10-23T10:59:00.000,InvProp,"[-71.1139, 42.306766]",Point,InvProp,10,BEIP  ,648,E13,Day,No,CHILD ST,Part three,Unarmed,760606.8527,,2937050.022,2013
+265677,130677748.0,Wednesday,No,2013-10-23T17:50:00.000,InvProp,"[0, 0]",Point,InvProp,10,IVPREM,624,D4,First,No,VAN NESS ST,Part three,Unarmed,,,,2013

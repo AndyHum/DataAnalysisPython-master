@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17224,120746512.0,Tuesday,No,2012-11-27T18:30:00.000,PropLost,"[-71.056345, 42.358871]",Point,PropLost,11,LSTPRP,93,A1,First,No,STATE ST,Part Three,Unarmed,776076.5836,,2956113.703,2012
+211683,120744198.0,Tuesday,No,2012-11-27T11:00:00.000,PropLost,"[-71.002455, 42.388567]",Point,PropLost,11,LSTPRP,7,A7,Day,No,LEYDEN ST,Part Three,Unarmed,790578.4562,,2967015.853,2012
+241662,120745417.0,Tuesday,No,2012-11-27T16:30:00.000,PropLost,"[-71.130263, 42.284147]",Point,PropLost,11,LSTPRP,559,E5,First,No,ATHERTON AV,Part Three,Unarmed,756216.4202,,2928787.691,2012
+260217,120750836.0,Tuesday,No,2012-11-27T17:30:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,61,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,,,,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15400,142057946.0,Monday,No,2014-12-15T17:45:00.000,PropLost,"[-71.114485, 42.311256]",Point,PropLost,12,PROP,0,E13,First,No,CENTRE ST,Part three,Unarmed,760441.2169,,2938685.534,2014
+28923,142058173.0,Monday,No,2014-12-15T21:30:00.000,PropLost,"[-71.1262, 42.358061]",Point,PropLost,12,PROP,0,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,757197.8071,,2955728.0510000004,2014
+46448,142057836.0,Monday,No,2014-12-15T11:00:00.000,PropLost,"[-71.092865, 42.279701]",Point,PropLost,12,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766343.8557,,2927213.586,2014
+77098,142057567.0,Monday,No,2014-12-15T01:38:00.000,PropLost,"[-71.085637, 42.325786]",Point,PropLost,12,DISTRB,0,B2,Last,No,AKRON ST,Part three,Unarmed,768218.1006,,2944016.8219999997,2014
+143090,142058056.0,Monday,No,2014-12-15T01:40:00.000,PropLost,"[-71.092503, 42.268483]",Point,PropLost,12,PROP,0,B3,Last,No,RIVER ST,Part three,Unarmed,766461.2137,,2923125.834,2014
+199436,142057875.0,Monday,No,2014-12-15T20:15:00.000,PropLost,"[-71.062665, 42.288866]",Point,PropLost,12,IVPREM,0,C11,First,No,EDWIN ST,Part three,Unarmed,774499.2492,,2930593.894,2014
+209687,142061482.0,Monday,No,2014-12-15T00:30:00.000,PropLost,"[-71.08559, 42.336381]",Point,PropLost,12,PROP,0,D4,Last,No,TREMONT ST,Part three,Unarmed,768212.2151,,2947878.162,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7646,,Thursday,No,2015-07-16T00:00:00.000,Residential Burglary,"[-71.132024, 42.253498]",Point,05RB,7,BE,541,E18,,No,RESERVATION RD,Part One,None,755788.0,,2920000.0,2015
+24311,,Thursday,No,2015-07-16T00:00:00.000,Residential Burglary,"[-71.065701, 42.29882]",Point,05RB,7,ARREST,358,C11,,No,MARLOWE ST,Part One,None,773659.0,,2930000.0,2015
+87433,,Thursday,No,2015-07-16T00:00:00.000,Residential Burglary,"[-71.110419, 42.332962]",Point,05RB,7,BE,606,B2,,No,HUNTINGTON AVE,Part One,None,761505.0,,2950000.0,2015
+100512,,Thursday,No,2015-07-16T00:00:00.000,Residential Burglary,"[-71.067106, 42.375449]",Point,05RB,7,BE,58,A15,,No,W SCHOOL ST,Part One,None,773137.0,,2960000.0,2015
+176130,,Thursday,No,2015-07-16T00:00:00.000,Residential Burglary,"[-71.088669, 42.343765]",Point,05RB,7,BE,619,D4,,No,WESTLAND AVE,Part One,None,767367.0,,2950000.0,2015
+204473,,Thursday,No,2015-07-16T00:00:00.000,Residential Burglary,"[-71.069188, 42.302884]",Point,05RB,7,BE,342,C11,,No,HOMES AVE,Part One,None,772708.0,,2940000.0,2015
+240819,,Thursday,No,2015-07-16T00:00:00.000,Residential Burglary,"[-71.087853, 42.350388]",Point,05RB,7,NIDV,140,D4,,No,MARLBOROUGH ST,Part One,None,767576.0,,2950000.0,2015
+247652,,Thursday,No,2015-07-16T00:00:00.000,Residential Burglary,"[-71.095606, 42.318515]",Point,05RB,7,,304,B2,,No,WASHINGTON ST,Part One,None,765535.0,,2940000.0,2015

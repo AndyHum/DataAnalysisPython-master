@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32583,142040055.0,Friday,No,2014-10-17T16:57:00.000,WEAPONS CHARGE,"[-71.1368, 42.287181]",Point,15xx,10,TS,0,E5,First,No,WALWORTH ST,Part Two,Unarmed,754442.8347,TYNDALE ST,2929885.722,2014
+58822,142040125.0,Friday,No,2014-10-17T19:54:00.000,WEAPONS CHARGE,"[-71.079535, 42.301751]",Point,15xx,10,TS,0,B3,First,No,GREENWOOD ST,Part Two,Knife,769911.5211,,2935266.4260000004,2014
+78173,142040089.0,Friday,No,2014-10-17T18:30:00.000,WEAPONS CHARGE,"[-71.06382, 42.297036]",Point,15xx,10,ARREST,0,C11,First,No,PAISLEY PARK,Part Two,Other,774171.5109999999,,2933569.559,2014
+237854,142039918.0,Friday,No,2014-10-17T11:00:00.000,WEAPONS CHARGE,"[-71.090389, 42.331096]",Point,15xx,10,IVPER,0,B2,Day,No,MALCOLM X BL,Part Two,Unarmed,766923.848,,2945945.7830000003,2014

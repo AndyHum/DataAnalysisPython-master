@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61439,120708422.0,Saturday,No,2012-11-10T08:10:00.000,Arrest,"[-71.0826, 42.277496]",Point,Arrest,11,IVPREM,412,B3,Day,No,GLENHILL RD,Part Three,Unarmed,769125.6333,,2926423.48,2012
+188768,120708899.0,Saturday,No,2012-11-10T13:06:00.000,Arrest,"[-71.066534, 42.313851]",Point,Arrest,11,ARREST,332,C11,Day,No,PAYSON AV,Part Three,Unarmed,773405.9843,,2939693.4289999995,2012
+229399,120708780.0,Saturday,No,2012-11-10T12:03:00.000,Arrest,"[-71.057975, 42.377351]",Point,Arrest,11,CD11  ,900,A15,Day,No,BUNKER HILL ST,Part Three,Unarmed,775601.1374,,2962845.8989999997,2012
+246643,120709869.0,Saturday,No,2012-11-10T22:16:00.000,Arrest,"[-71.096565, 42.266081]",Point,Arrest,11,ARREST,482,E18,First,No,TESLA ST,Part Three,Unarmed,765366.0627,EDGEWATER DR,2922245.5160000003,2012

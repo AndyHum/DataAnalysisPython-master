@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27112,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.080077, 42.3109]",Point,MedAssist,7,REQP,329,B2,,No,BRUNSWICK ST,Part Three,None,769748.0,,2940000.0,2015
+41393,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.116098, 42.260206]",Point,MedAssist,7,REQP,494,E18,,No,RIVER ST,Part Three,None,760088.0,,2920000.0,2015
+65817,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.070853, 42.331521]",Point,MedAssist,7,IVPER,177,C6,,No,MASSACHUSETTS AVE,Part Three,None,772205.0,,2950000.0,2015
+82114,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.048523, 42.337314]",Point,MedAssist,7,IVPER,213,C6,,No,W BROADWAY,Part Three,None,778232.0,,2950000.0,2015
+88632,,Thursday,No,2015-07-09T13:29:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,INJOFF,175,C6,,No,SOUTHAMPTON ST,Part Three,None,,TOPEKA ST,,2015
+131199,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.065939, 42.316355]",Point,MedAssist,7,AB,258,B2,,No,COLUMBIA RD,Part Three,None,773562.0,,2940000.0,2015
+170301,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.066746, 42.303441]",Point,MedAssist,7,POISON,345,C11,,No,HOMES AVE,Part Three,None,773368.0,,2940000.0,2015
+187533,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.080975, 42.305767]",Point,MedAssist,7,EDP,330,B2,,No,WASHINGTON ST,Part Three,None,769515.0,,2940000.0,2015
+219586,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.067965, 42.301351]",Point,MedAssist,7,IVPER,342,C11,,No,GENEVA AVE,Part Three,None,773042.0,,2940000.0,2015
+229397,,Thursday,No,2015-07-09T00:40:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,INJOFF,404,C11,,No,DORCHESTER AVE,Part Three,None,,,,2015
+229827,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.068646, 42.306265]",Point,MedAssist,7,IVPER,336,C11,,No,NORTON ST,Part Three,None,772849.0,,2940000.0,2015
+248871,,Thursday,No,2015-07-09T00:00:00.000,Medical Assistance,"[-71.036189, 42.347785]",Point,MedAssist,7,IVPER,207,C6,,No,NORTHERN AVE,Part Three,None,781546.0,,2950000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6284,120530002.0,Saturday,No,2012-08-25T10:15:00.000,PropFound,"[-71.090625, 42.322626]",Point,PropFound,8,FDPROP,305,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,766874.9537,,2942859.023,2012
+71335,120545088.0,Saturday,No,2012-08-25T00:00:00.000,PropFound,"[-71.052652, 42.366648]",Point,PropFound,8,FDPROP,83,A1,Last,No,HANOVER ST,Part Three,Unarmed,777059.7148,,2958952.9489999996,2012
+108754,120531304.0,Saturday,No,2012-08-25T20:50:00.000,PropFound,"[-71.08803, 42.294881]",Point,PropFound,8,FDPROP,440,B3,First,No,BLUE HILL AV,Part Three,Unarmed,767625.554,TALBOT AV,2932751.6789999995,2012
+203965,120529959.0,Saturday,No,2012-08-25T11:00:00.000,PropFound,"[-71.05096, 42.337551]",Point,PropFound,8,FDPROP,214,C6,Day,No,W 4TH ST,Part Three,Unarmed,777572.9162,,2948351.921,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3375,152034739.0,Saturday,No,2015-02-28T23:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,MISSIN,0,B2,First,No,GREENVILLE ST,Other,Unarmed,,,,2015
+86662,152016309.0,Saturday,No,2015-02-28T12:50:00.000,PersLoc,"[-71.05746, 42.304436]",Point,PersLoc,2,MISSIN,0,C11,Day,No,ORCHARDFIELD ST,Other,Unarmed,775878.1467,,2936275.091,2015
+238535,152016481.0,Saturday,No,2015-02-28T13:00:00.000,PersLoc,"[-71.09973, 42.269758]",Point,PersLoc,2,IVPER,0,E18,Day,No,BISMARCK ST,Other,Unarmed,764503.0772,,2923581.22,2015

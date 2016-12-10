@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103518,142042420.0,Saturday,No,2014-10-25T00:08:00.000,PersLoc,"[-71.08765, 42.280906]",Point,PersLoc,10,IVPER,0,B3,Last,No,NORFOLK ST,Other,Unarmed,767752.9815,,2927659.4839999997,2014
+116882,142042660.0,Saturday,No,2014-10-25T13:00:00.000,PersLoc,"[-71.133585, 42.353161]",Point,PersLoc,10,IVPER,0,D14,Day,No,BRIGHTON AV,Other,Unarmed,755209.4662,,2953933.729,2014
+126699,142042874.0,Saturday,No,2014-10-25T14:00:00.000,PersLoc,"[-71.074925, 42.304986]",Point,PersLoc,10,IVPER,0,C11,Day,No,GENEVA AV,Other,Unarmed,771152.7388,,2936451.49,2014
+254560,142042859.0,Saturday,No,2014-10-25T12:30:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,10,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2014
+264412,142042563.0,Saturday,No,2014-10-25T13:29:00.000,PersLoc,"[0, 0]",Point,PersLoc,10,IVPER,0,B2,Day,No,WELLINGTON CT,Other,Unarmed,,,,2014

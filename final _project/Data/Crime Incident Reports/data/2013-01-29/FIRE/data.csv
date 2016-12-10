@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40882,130059464.0,Tuesday,No,2013-01-29T11:57:00.000,FIRE,"[-71.11544, 42.245086]",Point,FIRE,1,FIREB ,515,E18,Day,No,BRUSH HILL TR,Part Three,Unarmed,760291.6257,,2914571.0719999997,2013
+61515,130060149.0,Tuesday,No,2013-01-29T17:01:00.000,FIRE,"[-71.062735, 42.351706]",Point,FIRE,1,FIREB ,118,A1,First,No,WASHINGTON ST,Part Three,Other,774362.9145,,2953493.7210000004,2013
+129107,130060552.0,Tuesday,No,2013-01-29T20:45:00.000,FIRE,"[-71.073422, 42.278322]",Point,FIRE,1,FIREB ,415,B3,First,No,CODMAN ST,Part Three,Other,771607.8852,,2926736.631,2013
+136067,130060793.0,Tuesday,No,2013-01-29T22:30:00.000,FIRE,"[-71.058905, 42.318386]",Point,FIRE,1,DWNPWR,244,C11,First,No,PLEASANT ST,Part Three,Unarmed,775460.9762,,2941356.663,2013

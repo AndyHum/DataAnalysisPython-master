@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69712,140065250.0,Friday,No,2014-01-31T06:00:00.000,PersMiss,"[-71.079375, 42.277346]",Point,PersMiss,1,MSNCOM,943,B3,Last,No,WOODBOLE AV,Other,Unarmed,769998.6624,,2926373.106,2014
+140817,140065149.0,Friday,No,2014-01-31T23:50:00.000,PersMiss,"[-71.08864, 42.286466]",Point,PersMiss,1,MISPER,430,B3,Last,No,LUCERNE ST,Other,Unarmed,767475.3082,,2929684.333,2014
+251917,140064671.0,Friday,No,2014-01-31T08:00:00.000,PersMiss,"[-71.11121, 42.268489]",Point,PersMiss,1,MISPER,492,E18,Day,No,WOOD AV,Other,Unarmed,761397.9509,,2923104.3660000004,2014

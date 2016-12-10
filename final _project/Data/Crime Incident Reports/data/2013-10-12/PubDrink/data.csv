@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+72124,130651089.0,Saturday,No,2013-10-12T02:42:00.000,PubDrink,"[-71.098875, 42.329408]",Point,PubDrink,10,INVEST,586,B2,Last,No,PARKER ST,Part Two,Other,764632.0412,,2945319.624,2013
+97030,130657022.0,Saturday,No,2013-10-12T23:45:00.000,PubDrink,"[-71.04206, 42.317766]",Point,PubDrink,10,IVPREM,256,C6,First,No,MT VERNON ST,Part Two,Unarmed,780017.8828,,2941154.74,2013
+123304,130652150.0,Saturday,No,2013-10-12T17:00:00.000,PubDrink,"[-71.058866, 42.357544]",Point,PubDrink,10,ARREST,97,A1,First,No,SCHOOL ST,Part Two,Unarmed,775397.5892,,2955626.3189999997,2013

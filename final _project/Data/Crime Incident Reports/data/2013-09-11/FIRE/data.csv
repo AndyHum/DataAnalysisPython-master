@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124009,130578568.0,Wednesday,No,2013-09-11T17:20:00.000,FIRE,"[-71.06251, 42.380041]",Point,FIRE,9,FIREB ,45,A15,First,No,MYSTIC ST,Part three,Unarmed,774370.7688,,2963819.874,2013
+213988,130578087.0,Wednesday,No,2013-09-11T13:50:00.000,FIRE,"[-71.113693, 42.280603]",Point,FIRE,9,FIREB ,500,E18,Day,No,MT CALVARY RD,Part three,Other,760705.8197,,2927516.09,2013
+222265,130578640.0,Wednesday,No,2013-09-11T17:30:00.000,FIRE,"[-71.087955, 42.279151]",Point,FIRE,9,IVPREM,428,B3,First,No,ASTORIA ST,Part three,Unarmed,767673.5348,,2927019.539,2013
+259560,130578682.0,Wednesday,No,2013-09-11T17:40:00.000,FIRE,"[-71.145297, 42.349864]",Point,FIRE,9,SCHALM,784,D14,First,No,WARREN ST,Part three,Other,752048.4758,,2952718.7569999998,2013

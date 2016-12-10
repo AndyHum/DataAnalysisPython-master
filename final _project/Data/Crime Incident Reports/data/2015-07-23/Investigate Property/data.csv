@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33793,,Thursday,No,2015-07-23T00:00:00.000,Investigate Property,"[-71.097464, 42.26633]",Point,InvProp,7,CD19,481,E18,,No,RIVER ST,Part Three,None,765122.0,,2920000.0,2015
+92270,,Thursday,No,2015-07-23T00:00:00.000,Investigate Property,"[-71.153834, 42.348294]",Point,InvProp,7,PROP,771,D14,,No,CHESTNUT HILL AVE,Part Three,None,749743.0,,2950000.0,2015
+154624,,Thursday,No,2015-07-23T00:00:00.000,Investigate Property,"[-71.104294, 42.309719]",Point,InvProp,7,IVPREM,574,E13,,No,WASHINGTON ST,Part Three,None,763200.0,,2940000.0,2015
+156467,,Thursday,No,2015-07-23T00:00:00.000,Investigate Property,"[-71.078709, 42.301329]",Point,InvProp,7,PROP,455,B3,,No,NORWELL ST,Part Three,None,770136.0,,2940000.0,2015
+221319,,Thursday,No,2015-07-23T00:00:00.000,Investigate Property,"[-71.03981, 42.368902]",Point,InvProp,7,BOMB,35,A7,,No,SUMNER ST,Part Three,None,780526.0,,2960000.0,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12148,,Wednesday,No,2015-07-29T00:00:00.000,Aggravated Assault,"[-71.063217, 42.3281]",Point,04xx,7,ARREST,186,C6,,No,ALLSTATE RD,Part One,Knife/Cutting Instrument,774277.0,,2940000.0,2015
+80015,,Wednesday,No,2015-07-29T00:00:00.000,Aggravated Assault,"[-71.083076, 42.333183]",Point,04xx,7,,276,B2,,No,SHAWMUT AVE,Part One,Other,768897.0,,2950000.0,2015
+94693,,Wednesday,No,2015-07-29T08:16:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,VAND,329,B2,,No,GENEVA AVE,Part One,Other,,NORMANDY ST,,2015
+160544,,Wednesday,No,2015-07-29T21:15:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PSHOT,0,,,Yes,,Part One,Firearm,,HUMBOLDT AVE,,2015
+215976,,Wednesday,No,2015-07-29T00:00:00.000,Aggravated Assault,"[-71.081807, 42.306493]",Point,04xx,7,IVPER,330,B2,,No,WASHINGTON ST,Part One,Other,769288.0,,2940000.0,2015
+218754,,Wednesday,No,2015-07-29T19:10:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,ARREST,463,B3,,No,FRANKLIN HILL AVE,Part One,Knife/Cutting Instrument,,HARVARD ST,,2015
+243148,,Wednesday,No,2015-07-29T20:01:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,ARREST,296,B2,,No,ROCKVILLE PARK,Part One,Other,,WARREN ST,,2015
+258516,,Wednesday,No,2015-07-29T00:00:00.000,Aggravated Assault,"[-71.076425, 42.323244]",Point,04xx,7,AB,266,B2,,No,BLUE HILL AVE,Part One,Blunt Object,770714.0,,2940000.0,2015

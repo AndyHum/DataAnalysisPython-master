@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40448,120810108.0,Friday,No,2012-12-28T04:04:00.000,InvProp,"[-71.084485, 42.348131]",Point,InvProp,12,ALARMC,142,D4,Last,No,BOYLSTON ST,Part Three,Other,768490.1158,,2952161.534,2012
+91041,120809869.0,Friday,No,2012-12-28T00:00:00.000,InvProp,"[-71.05265, 42.330201]",Point,InvProp,12,SSTOP ,915,C6,Last,No,OLD COLONY AV,Part Three,Unarmed,777130.0437,PATTERSON WY,2945671.0530000003,2012
+172914,120810322.0,Friday,No,2012-12-28T08:43:00.000,InvProp,"[-71.0495, 42.337631]",Point,InvProp,12,ALARMH,214,C6,Day,No,E ST,Part Three,Unarmed,777967.4939,,2948383.155,2012

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4351,,Wednesday,No,2015-07-22T00:00:00.000,Simple Assault,"[-71.076207, 42.347671]",Point,08xx,7,DVIP,149,D4,,No,DARTMOUTH ST,Part Two,None,770728.0,,2950000.0,2015
+14966,,Wednesday,No,2015-07-22T00:00:00.000,Simple Assault,"[-71.080054, 42.280093]",Point,08xx,7,AB,418,B3,,No,FULLER ST,Part Two,Personal Weapon (hand  foot  etc.),769810.0,,2930000.0,2015
+70263,,Wednesday,No,2015-07-22T18:44:00.000,Simple Assault,"[0, 0]",Point,08xx,7,ARREST,97,A1,,No,BOSTON PL,Part Two,Personal Weapon (hand  foot  etc.),,,,2015
+118232,,Wednesday,No,2015-07-22T00:00:00.000,Simple Assault,"[-71.147161, 42.342297]",Point,08xx,7,ARREST,776,D14,,No,EUSTON RD,Part Two,Personal Weapon (hand  foot  etc.),751556.0,,2950000.0,2015
+125913,,Wednesday,No,2015-07-22T22:54:00.000,Simple Assault,"[0, 0]",Point,08xx,7,DVIP,20,A7,,No,BENNINGTON ST,Part Two,None,,PARIS ST,,2015
+211658,,Wednesday,No,2015-07-22T00:00:00.000,Simple Assault,"[-71.090612, 42.33018]",Point,08xx,7,AB,290,B2,,No,ROXBURY ST,Part Two,None,766865.0,,2950000.0,2015
+234233,,Wednesday,No,2015-07-22T22:32:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,290,B2,,No,PUTNAM ST,Part Two,None,,ROXBURY ST,,2015
+234738,,Wednesday,No,2015-07-22T00:00:00.000,Simple Assault,"[-71.074316, 42.27701]",Point,08xx,7,AB,413,B3,,No,OAKRIDGE ST,Part Two,None,771368.0,,2930000.0,2015

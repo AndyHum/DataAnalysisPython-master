@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49443,120585098.0,Tuesday,No,2012-09-18T06:38:00.000,Service,"[-71.062095, 42.302741]",Point,Service,9,ARREST,345,C11,Last,No,ROBINSON ST,Part Three,Unarmed,774627.5179,,2935650.936,2012
+81423,120585686.0,Tuesday,No,2012-09-18T11:23:00.000,Service,"[-71.061095, 42.319491]",Point,Service,9,IVPER ,240,C11,Day,No,SUMNER ST,Part Three,Unarmed,774866.6238,,2941756.288,2012
+142609,120586190.0,Tuesday,No,2012-09-18T15:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,9,IVPER ,0,D4,Day,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+149448,120585525.0,Tuesday,No,2012-09-18T10:06:00.000,Service,"[-71.14136, 42.349171]",Point,Service,9,ARREST,783,D14,Day,No,CAMELOT CT,Part Three,Unarmed,753113.9957,WARREN ST,2952470.76,2012
+220719,120584968.0,Tuesday,No,2012-09-18T02:23:00.000,Service,"[-71.067491, 42.344883]",Point,Service,9,IVPER ,161,D4,Last,No,CASTLE CT,Part Three,Unarmed,773089.8881,,2951000.7389999996,2012
+263788,120586271.0,Tuesday,No,2012-09-18T15:45:00.000,Service,"[0, 0]",Point,Service,9,IVPREM,495,C6,Day,No,JAMES ONEILL ST,Part Three,Unarmed,,,,2012

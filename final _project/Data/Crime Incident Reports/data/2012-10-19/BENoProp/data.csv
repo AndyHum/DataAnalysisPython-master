@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8759,120658112.0,Friday,No,2012-10-19T05:49:00.000,BENoProp,"[-71.085035, 42.28091]",Point,BENoProp,10,BERPT ,433,B3,Last,No,MORTON ST,Part One,Other,768460.5296,,2927664.4069999997,2012
+14302,120658791.0,Friday,No,2012-10-19T12:45:00.000,BENoProp,"[-71.061095, 42.309451]",Point,BENoProp,10,ARREST,338,C11,Day,No,HIGH ST,Part One,Unarmed,774885.4498,,2938097.5519999997,2012
+249324,120659170.0,Friday,No,2012-10-19T07:30:00.000,BENoProp,"[-71.151191, 42.260229]",Point,BENoProp,10,BERPT ,822,E5,Day,No,WESTMOOR RD,Part One,Other,750588.9627,,2920047.655,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97864,120788891.0,Monday,No,2012-12-17T11:00:00.000,PropLost,"[-71.09456, 42.331431]",Point,PropLost,12,LSTPRP,290,B2,Day,No,COLUMBUS AV,Part Three,Unarmed,765795.5609,TREMONT ST,2946062.6360000004,2012
+125338,120791081.0,Monday,No,2012-12-17T16:00:00.000,PropLost,"[-71.05984, 42.356501]",Point,PropLost,12,LSTPRP,103,A1,First,No,BROMFIELD ST,Part Three,Other,775136.4313,,2955245.135,2012
+155089,120791119.0,Monday,No,2012-12-17T13:00:00.000,PropLost,"[-71.08874, 42.347016]",Point,PropLost,12,LSTPRP,620,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,767341.8596,,2951749.6319999998,2012
+167702,120789571.0,Monday,No,2012-12-17T16:30:00.000,PropLost,"[-71.059641, 42.327811]",Point,PropLost,12,LARCRT,191,C6,First,No,BOSTON ST,Part Three,Unarmed,775244.0823,,2944790.3039999995,2012
+190412,120789249.0,Monday,No,2012-12-17T09:00:00.000,PropLost,"[-71.074764, 42.304464]",Point,PropLost,12,LSTPRP,462,C11,Day,No,OLNEY ST,Part Three,Unarmed,771197.1183,,2936261.267,2012
+220663,120796117.0,Monday,No,2012-12-17T14:30:00.000,PropLost,"[-71.094482, 42.282429]",Point,PropLost,12,LSTPRP,468,B3,Day,No,OUTLOOK RD,Part Three,Unarmed,765901.4635,,2928205.646,2012
+264029,120789702.0,Monday,No,2012-12-17T12:45:00.000,PropLost,"[0, 0]",Point,PropLost,12,INVEST,129,D4,Day,No,ST JAMES AV,Part Three,Unarmed,,,,2012

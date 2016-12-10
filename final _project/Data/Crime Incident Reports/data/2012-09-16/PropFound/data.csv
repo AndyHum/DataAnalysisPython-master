@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26128,120581325.0,Sunday,No,2012-09-16T13:03:00.000,PropFound,"[-71.063785, 42.349246]",Point,PropFound,9,FDWEAP,123,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774083.6785,,2952595.797,2012
+64564,120581491.0,Sunday,No,2012-09-16T13:00:00.000,PropFound,"[-71.081371, 42.32956]",Point,PropFound,9,FDPROP,904,B2,Day,No,DEGAUTIER WY,Part Three,Unarmed,769364.9874,,2945397.773,2012
+79136,120581609.0,Sunday,No,2012-09-16T14:00:00.000,PropFound,"[-71.03545, 42.336491]",Point,PropFound,9,FDPROP,222,C6,Day,No,L ST,Part Three,Unarmed,781768.3861,E 3RD ST,2947988.095,2012
+167489,120582005.0,Sunday,No,2012-09-16T19:17:00.000,PropFound,"[-71.08503, 42.309771]",Point,PropFound,9,FDPROP,320,B2,First,No,MAPLE ST,Part Three,Unarmed,768410.8001,,2938181.76,2012
+209193,120581564.0,Sunday,No,2012-09-16T09:15:00.000,PropFound,"[-71.11996, 42.273791]",Point,PropFound,9,FDPROP,498,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,759021.1748,,2925026.064,2012
+230721,120581604.0,Sunday,No,2012-09-16T15:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,9,LSTPRP,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+237379,120582078.0,Sunday,No,2012-09-16T19:36:00.000,PropFound,"[-71.061824, 42.363458]",Point,PropFound,9,FDPROP,74,A1,First,No,MERRIMAC ST,Part Three,Unarmed,774587.1214,,2957777.561,2012
+260752,120583713.0,Sunday,No,2012-09-16T18:45:00.000,PropFound,"[0, 0]",Point,PropFound,9,FDPROP,780,D14,First,No,CUSHMAN RD,Part Three,Unarmed,,,,2012

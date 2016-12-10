@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14835,130327330.0,Wednesday,No,2013-05-29T10:00:00.000,PersLoc,"[-71.03262, 42.370076]",Point,PersLoc,5,IVPER ,30,A7,Day,No,COTTAGE ST,Part Three,Unarmed,782466.4681,,2960231.265,2013
+40739,130323668.0,Wednesday,No,2013-05-29T06:30:00.000,PersLoc,"[-71.069221, 42.30886]",Point,PersLoc,5,INVEST,335,C11,Last,No,BELLEVUE ST,Other,Other,772688.4477,,2937870.6760000004,2013
+184187,130322514.0,Wednesday,No,2013-05-29T07:00:00.000,PersLoc,"[-71.069582, 42.284133]",Point,PersLoc,5,MISPER,402,C11,Last,No,BURT ST,Other,Unarmed,772636.202,,2928859.293,2013
+208561,130323502.0,Wednesday,No,2013-05-29T18:00:00.000,PersLoc,"[-71.09531, 42.269846]",Point,PersLoc,5,MISPER,476,B3,First,No,REXFORD ST,Part Three,Unarmed,765699.2422,,2923619.142,2013

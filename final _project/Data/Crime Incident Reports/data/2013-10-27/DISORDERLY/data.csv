@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55670,130683934.0,Sunday,No,2013-10-27T00:18:00.000,DISORDERLY,"[-71.129365, 42.353611]",Point,24xx,10,PARTY ,800,D14,Last,No,GARDNER ST,Part Two,Unarmed,756349.42,,2954102.647,2013
+91606,130684394.0,Sunday,No,2013-10-27T02:40:00.000,DISORDERLY,"[-71.100045, 42.322752]",Point,24xx,10,ARREST,912,E13,Last,No,CENTRE ST,Part Two,Unarmed,764327.298,,2942892.567,2013
+154897,130684453.0,Sunday,No,2013-10-27T02:32:00.000,DISORDERLY,"[-71.08718, 42.307476]",Point,24xx,10,LMUSIC,319,B2,Last,No,NAZING CT,Part Two,Unarmed,767833.3058,,2937342.604,2013

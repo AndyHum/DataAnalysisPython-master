@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159416,152020854.0,Sunday,No,2015-03-15T11:45:00.000,PhoneCalls,"[-71.08744, 42.333399]",Point,PhoneCalls,3,IVPER,0,B2,Day,No,CABOT ST,Part three,Unarmed,767717.2749,,2946788.916,2015
+161871,152035226.0,Sunday,No,2015-03-15T03:36:00.000,PhoneCalls,"[-71.059969, 42.355867]",Point,PhoneCalls,3,IVPER,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,775102.6197,,2955013.727,2015
+200347,152022709.0,Sunday,No,2015-03-15T01:30:00.000,PhoneCalls,"[-71.098085, 42.342541]",Point,PhoneCalls,3,IVPER,0,D4,Last,No,QUEENSBERRY ST,Part Two,Unarmed,764823.3476,,2950106.816,2015

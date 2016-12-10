@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119743,,Sunday,No,2015-07-19T00:00:00.000,Firearm Violations,"[-71.093269, 42.316338]",Point,15xx,7,SHOTS,316,B2,,No,WALNUT AVE,Part Two,Firearm,766171.0,,2940000.0,2015
+183994,,Sunday,No,2015-07-19T00:00:00.000,Violations,"[-71.083105, 42.315876]",Point,VAL,7,TS,323,B2,,No,WARREN ST,Part Two,None,768920.0,,2940000.0,2015
+213033,,Sunday,No,2015-07-19T00:38:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,0,,,No,,Part Two,None,,GALLIVAN BLVD,,2015
+238966,,Sunday,No,2015-07-19T21:17:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,769,D14,,No,FANEUIL ST,Part Two,None,,GOODENOUGH ST,,2015

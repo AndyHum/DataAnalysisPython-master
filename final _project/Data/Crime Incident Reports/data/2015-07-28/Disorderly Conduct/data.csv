@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82273,,Tuesday,No,2015-07-28T00:00:00.000,Disorderly Conduct,"[-71.06425, 42.31334]",Point,24xx,7,IVPER,257,C11,,No,ROWELL ST,Part Two,None,774025.0,,2940000.0,2015
+196157,,Tuesday,No,2015-07-28T00:00:00.000,Disorderly Conduct,"[-71.097483, 42.276118]",Point,24xx,7,IVPER,470,B3,,No,ORLANDO ST,Part Two,None,765100.0,,2930000.0,2015
+198792,,Tuesday,No,2015-07-28T00:00:00.000,Disorderly Conduct,"[-71.036081, 42.382286]",Point,24xx,7,IVPER,25,A7,,No,BROOKS ST,Part Two,None,781507.0,,2960000.0,2015

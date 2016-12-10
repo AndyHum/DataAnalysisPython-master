@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43381,130540272.0,Monday,No,2013-08-26T19:30:00.000,PropFound,"[-71.098395, 42.318971]",Point,PropFound,8,FDPROP,303,E13,First,No,COLUMBUS AV,Part three,Unarmed,764779.9838,,2941517.0889999997,2013
+205157,130538997.0,Monday,No,2013-08-26T12:23:00.000,PropFound,"[-71.110102, 42.316579]",Point,PropFound,8,FDPROP,639,E13,Day,No,SPRING PARK AV,Part three,Unarmed,761617.6148,,2940630.646,2013
+232868,130575208.0,Monday,No,2013-08-26T13:45:00.000,PropFound,"[-71.059415, 42.359251]",Point,PropFound,8,FDPROP,92,A1,Day,No,CITY HALL PZ,Part three,Other,775246.1256,,2956247.881,2013
+262304,130538428.0,Monday,No,2013-08-26T01:00:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,520,E18,Last,No,CLAY ST,Part three,Unarmed,,,,2013

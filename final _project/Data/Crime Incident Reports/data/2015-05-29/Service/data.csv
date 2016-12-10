@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80283,152044315.0,Friday,No,2015-05-29T13:00:00.000,Service,"[-71.058228, 42.380058]",Point,Service,5,AOD,0,A15,Day,No,OLD IRONSIDES WY,Part three,Other,775527.6205,,2963831.9760000003,2015
+179523,152044898.0,Friday,No,2015-05-29T11:45:00.000,Service,"[-71.05592, 42.376646]",Point,Service,5,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015
+194392,152044227.0,Friday,No,2015-05-29T09:00:00.000,Service,"[-71.066792, 42.305208]",Point,Service,5,IVPREM,0,C11,Day,No,STONEHURST ST,Other,Unarmed,773352.3358,,2936543.1580000003,2015
+210126,152044230.0,Friday,No,2015-05-29T08:40:00.000,Service,"[-71.062765, 42.354686]",Point,Service,5,SS,0,A1,Day,No,MASON ST,Part three,Unarmed,774349.2383,WEST ST,2954579.648,2015

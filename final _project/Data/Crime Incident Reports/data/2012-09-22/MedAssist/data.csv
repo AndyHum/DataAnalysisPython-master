@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6022,120595359.0,Saturday,No,2012-09-22T07:46:00.000,MedAssist,"[-71.06761, 42.304043]",Point,MedAssist,9,OVRDOS,341,C11,Day,No,SPEEDWELL ST,Part Three,Unarmed,773133.0281,,2936117.6139999996,2012
+6405,120596001.0,Saturday,No,2012-09-22T14:06:00.000,MedAssist,"[-71.083989, 42.283972]",Point,MedAssist,9,IVPER ,432,B3,Day,No,BALLOU AV,Part Three,Unarmed,768738.1281,,2928781.309,2012
+63088,120596426.0,Saturday,No,2012-09-22T15:00:00.000,MedAssist,"[-71.062875, 42.360186]",Point,MedAssist,9,SDNDTH,68,A1,Day,No,BOWDOIN ST,Part Three,Unarmed,774309.2348,,2956583.8019999997,2012
+123560,120608287.0,Saturday,No,2012-09-22T05:34:00.000,MedAssist,"[-71.0729, 42.333256]",Point,MedAssist,9,IVPER ,172,D4,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2012
+149450,120600869.0,Saturday,No,2012-09-22T15:10:00.000,MedAssist,"[-71.0729, 42.333256]",Point,MedAssist,9,INJOFF,172,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2012
+216711,120060774.0,Saturday,No,2012-09-22T23:01:00.000,MedAssist,"[-71.08105, 42.349046]",Point,MedAssist,9,TSTOP ,158,D4,First,No,BOYLSTON ST,Part Three,Unarmed,769417.031,,2952499.519,2012
+221863,120595900.0,Saturday,No,2012-09-22T13:00:00.000,MedAssist,"[-71.054905, 42.377836]",Point,MedAssist,9,REQP  ,900,A15,Day,No,OBRIEN CT,Part Three,Unarmed,776429.7148,,2963026.9560000002,2012
+233516,120594900.0,Saturday,No,2012-09-22T01:04:00.000,MedAssist,"[-71.062743, 42.319454]",Point,MedAssist,9,EDP2  ,240,B2,Last,No,COLUMBIA RD,Part Three,Unarmed,774420.9832,,2941740.212,2012
+249889,120596491.0,Saturday,No,2012-09-22T18:19:00.000,MedAssist,"[-71.106975, 42.334666]",Point,MedAssist,9,INJOFF,282,B2,First,No,FENWOOD RD,Part Three,Unarmed,762433.2051,,2947225.818,2012

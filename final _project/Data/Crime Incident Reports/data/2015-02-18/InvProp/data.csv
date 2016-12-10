@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+263,152013066.0,Wednesday,No,2015-02-18T08:00:00.000,InvProp,"[0, 0]",Point,InvProp,2,CD9,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+288,152013038.0,Wednesday,No,2015-02-18T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+16080,152013180.0,Wednesday,No,2015-02-18T15:48:00.000,InvProp,"[-71.15206, 42.265841]",Point,InvProp,2,BE,0,E5,Day,No,WASHINGTON ST,Part three,Unarmed,750345.4717,,2922091.897,2015
+171093,152013037.0,Wednesday,No,2015-02-18T06:31:00.000,InvProp,"[-71.059969, 42.355867]",Point,InvProp,2,ALARM,0,A1,Last,No,WASHINGTON ST,Part three,Other,775102.6197,,2955013.727,2015
+208962,152013114.0,Wednesday,No,2015-02-18T12:48:00.000,InvProp,"[-71.140916, 42.349989]",Point,InvProp,2,IVPER,0,D14,Day,No,CAMELOT CT,Part three,Unarmed,753232.5233,,2952769.203,2015
+242302,152031325.0,Wednesday,No,2015-02-18T16:00:00.000,InvProp,"[-71.057495, 42.350156]",Point,InvProp,2,LARCEN,0,A1,First,No,SOUTH ST,Part three,Unarmed,775782.2443,,2952936.1769999997,2015
+250720,152013076.0,Wednesday,No,2015-02-18T10:46:00.000,InvProp,"[-71.07843, 42.349776]",Point,InvProp,2,SUSOBJ,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,DARTMOUTH ST,2952769.035,2015
+266450,152013239.0,Wednesday,No,2015-02-18T18:20:00.000,InvProp,"[0, 0]",Point,InvProp,2,VAND,0,C6,First,No,MASSACHUSETTS AV,Part three,Other,,PROCTOR ST,,2015

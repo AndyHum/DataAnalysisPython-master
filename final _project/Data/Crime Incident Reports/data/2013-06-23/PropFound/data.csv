@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17770,130454724.0,Sunday,No,2013-06-23T20:00:00.000,PropFound,"[-71.03657, 42.335606]",Point,PropFound,6,FDPROP,226,C6,First,No,E BROADWAY,Part three,Unarmed,781467.3346,,2947663.7180000003,2013
+95708,130382847.0,Sunday,No,2013-06-23T10:20:00.000,PropFound,"[-71.078742, 42.303175]",Point,PropFound,6,FDPROP,459,C11,Day,No,ERIE ST,Part three,Unarmed,770123.4728,WASHINGTON ST,2935786.126,2013
+163098,130383786.0,Sunday,No,2013-06-23T19:00:00.000,PropFound,"[-71.13461, 42.288671]",Point,PropFound,6,FDPROP,691,E5,First,No,SOUTH ST,Part three,Unarmed,755033.0834,S WALTER ST,2930431.232,2013

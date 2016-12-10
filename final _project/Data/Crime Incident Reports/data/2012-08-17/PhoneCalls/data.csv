@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3502,120511801.0,Friday,No,2012-08-17T11:05:00.000,PhoneCalls,"[-71.07203, 42.274456]",Point,PhoneCalls,8,HARPT ,410,B3,Day,No,OLD MORTON ST,Part Three,Other,771991.6738,,2925329.8389999997,2012
+50251,120515234.0,Friday,No,2012-08-17T11:18:00.000,PhoneCalls,"[-71.059055, 42.310766]",Point,PhoneCalls,8,HARPT ,255,C11,Day,No,ROACH ST,Part Three,Other,775434.7647,,2938579.604,2012
+237533,120514223.0,Friday,No,2012-08-17T16:07:00.000,PhoneCalls,"[-71.074855, 42.351641]",Point,PhoneCalls,8,HARPT ,133,D4,First,No,NEWBURY ST,Part Two,Unarmed,771086.9302,,2953453.473,2012

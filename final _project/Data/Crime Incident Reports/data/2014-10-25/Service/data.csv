@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74546,142042429.0,Saturday,No,2014-10-25T01:03:00.000,Service,"[-71.07518, 42.385081]",Point,Service,10,ARREST,0,A15,Last,No,MAIN ST,Part three,Unarmed,770938.3878,BEACHAM ST,2965639.2539999997,2014
+134223,142042627.0,Saturday,No,2014-10-25T17:30:00.000,Service,"[-71.095034, 42.275902]",Point,Service,10,INVEST,0,B3,First,No,TENNIS RD,Part three,Unarmed,765763.285,,2925826.202,2014
+161078,142042516.0,Saturday,No,2014-10-25T11:30:00.000,Service,"[-71.05543, 42.352621]",Point,Service,10,IVPER,0,A1,Day,No,ATLANTIC AV,Part three,Other,776335.7564,SUMMER ST,2953837.3710000003,2014
+265525,142042694.0,Saturday,No,2014-10-25T21:25:00.000,Service,"[0, 0]",Point,Service,10,TS,0,B3,First,No,WHITFIELD ST,Part three,Unarmed,,,,2014

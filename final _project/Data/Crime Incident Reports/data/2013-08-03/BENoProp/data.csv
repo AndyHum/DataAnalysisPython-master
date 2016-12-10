@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25393,130486362.0,Saturday,No,2013-08-03T23:00:00.000,BENoProp,"[-71.15163, 42.349006]",Point,BENoProp,8,IVPER ,771,D14,First,No,WASHINGTON ST,Part One,Unarmed,750338.0816,,2952399.125,2013
+151446,130488366.0,Saturday,No,2013-08-03T16:00:00.000,BENoProp,"[-71.08396, 42.307516]",Point,BENoProp,8,BERPT ,319,B2,First,No,BLUE HILL AV,Part One,Other,768704.2273,,2937361.412,2013
+246370,130483333.0,Saturday,No,2013-08-03T01:00:00.000,BENoProp,"[-71.087665, 42.318571]",Point,BENoProp,8,BEIP  ,308,B2,Last,No,MUNROE ST,Part One,Other,767682.5728,,2941385.171,2013

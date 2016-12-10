@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46939,120800927.0,Saturday,No,2012-12-22T17:29:00.000,FIRE,"[-71.10438, 42.268031]",Point,FIRE,12,FIREB ,486,E18,First,No,RADCLIFFE RD,Part Three,Other,763247.4633,,2922946.215,2012
+49675,120800792.0,Saturday,No,2012-12-22T16:30:00.000,FIRE,"[-71.0413, 42.290136]",Point,FIRE,12,REQP  ,371,C11,First,No,LAWLEY ST,Part Three,Unarmed,780277.5654,,2931087.062,2012
+53504,120799885.0,Saturday,No,2012-12-22T05:00:00.000,FIRE,"[-71.097285, 42.325082]",Point,FIRE,12,FV    ,302,B2,Last,No,CENTRE ST,Part Three,Unarmed,765069.6483,,2943745.244,2012
+242848,120800071.0,Saturday,No,2012-12-22T09:35:00.000,FIRE,"[-71.07464, 42.338131]",Point,FIRE,12,FV    ,168,D4,Day,No,WASHINGTON ST,Part Three,Other,771169.598,,2948530.4669999997,2012

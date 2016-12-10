@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58649,152021589.0,Tuesday,No,2015-03-17T17:00:00.000,TRESPASS,"[-71.083705, 42.307601]",Point,TRESPASS,3,DISTRB,0,B2,First,No,BLUE HILL AV,Part Two,Other,768773.0526,,2937392.724,2015
+188694,152021645.0,Tuesday,No,2015-03-17T20:29:00.000,TRESPASS,"[-71.0587, 42.350476]",Point,TRESPASS,3,IVPREM,0,A1,First,No,LINCOLN ST,Part Two,Unarmed,775455.9149,,2953051.103,2015
+238039,152021395.0,Tuesday,No,2015-03-17T07:30:00.000,TRESPASS,"[-71.13939, 42.357761]",Point,TRESPASS,3,IVPER,0,D14,Day,No,LINCOLN ST,Part Two,Unarmed,753633.2873,,2955603.38,2015
+257902,152021403.0,Tuesday,No,2015-03-17T08:00:00.000,TRESPASS,"[-71.069555, 42.272641]",Point,TRESPASS,3,CD11,0,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,772664.8342,,2924671.8,2015

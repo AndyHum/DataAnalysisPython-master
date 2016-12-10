@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1765,152042586.0,Sunday,No,2015-05-24T11:59:00.000,PersLoc,"[0, 0]",Point,PersLoc,5,MISSIN,0,B3,Day,No,NORFOLK ST,Other,Unarmed,,,,2015
+46702,152042570.0,Sunday,No,2015-05-24T10:34:00.000,PersLoc,"[-71.083497, 42.321962]",Point,PersLoc,5,MISSIN,0,B2,Day,No,ROCKLAND ST,Other,Unarmed,768803.7625,,2942626.381,2015
+97056,152042676.0,Sunday,No,2015-05-24T20:00:00.000,PersLoc,"[-71.089205, 42.316173]",Point,PersLoc,5,MISSIN,0,B2,First,No,HOLWORTHY ST,Other,Unarmed,767270.2679,,2940509.336,2015
+151420,152042488.0,Sunday,No,2015-05-24T22:55:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,5,MISSIN,0,B3,First,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2015

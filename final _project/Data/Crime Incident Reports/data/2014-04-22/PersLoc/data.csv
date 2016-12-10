@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5183,140248115.0,Tuesday,No,2014-04-22T16:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,4,MISPER,446,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014
+21825,140245610.0,Tuesday,No,2014-04-22T18:45:00.000,PersLoc,"[-71.063107, 42.301073]",Point,PersLoc,4,MISPER,352,C11,First,No,ARCADIA PARK,Other,Unarmed,774356.6356,,2935041.712,2014
+42149,140245204.0,Tuesday,No,2014-04-22T18:05:00.000,PersLoc,"[-71.082735, 42.297456]",Point,PersLoc,4,MISPER,444,B3,First,No,BICKNELL ST,Other,Unarmed,769053.5199,,2933697.0110000004,2014
+47158,140252435.0,Tuesday,No,2014-04-22T08:30:00.000,PersLoc,"[-71.032315, 42.366826]",Point,PersLoc,4,MISPER,33,A7,Day,No,LAMSON ST,Other,Unarmed,782555.3823,,2959047.352,2014
+165720,140243391.0,Tuesday,No,2014-04-22T00:51:00.000,PersLoc,"[-71.092706, 42.319572]",Point,PersLoc,4,MISPER,306,B2,Last,No,TOWNSEND ST,Other,Unarmed,766317.3997,,2941743.244,2014
+242342,140243636.0,Tuesday,No,2014-04-22T02:45:00.000,PersLoc,"[-71.1092, 42.333231]",Point,PersLoc,4,MISPER,611,B2,Last,No,HUNTINGTON AV,Other,Unarmed,761834.0078,,2946700.113,2014
+261359,140258942.0,Tuesday,No,2014-04-22T20:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,MISPER,943,B3,First,No,LINSKY BARRY CT,Other,Unarmed,,,,2014

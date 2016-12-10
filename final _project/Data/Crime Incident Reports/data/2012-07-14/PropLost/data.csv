@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11569,120439929.0,Saturday,No,2012-07-14T10:00:00.000,PropLost,"[-71.147015, 42.357236]",Point,PropLost,7,LSTPRP,758,D14,Day,No,GUEST ST,Part Three,Unarmed,751573.1894,,2955403.438,2012
+79849,120433199.0,Saturday,No,2012-07-14T08:00:00.000,PropLost,"[-71.15575, 42.349101]",Point,PropLost,7,LSTPRP,763,D14,Day,No,WASHINGTON ST,Part Three,Other,749224.2314,PARSONS ST,2952429.222,2012
+121882,120434083.0,Saturday,No,2012-07-14T15:30:00.000,PropLost,"[-71.070625, 42.361461]",Point,PropLost,7,LSTPRP,64,A1,Day,No,CHARLES ST,Part Three,Unarmed,772212.3098,,2957037.798,2012
+133093,120437490.0,Saturday,No,2012-07-14T11:30:00.000,PropLost,"[-71.083, 42.333266]",Point,PropLost,7,LSTPRP,276,B2,Day,No,SHAWMUT AV,Part Three,Unarmed,768918.0261,,2946746.413,2012
+152336,120438689.0,Saturday,No,2012-07-14T13:30:00.000,PropLost,"[-71.060845, 42.355056]",Point,PropLost,7,LARCRT,112,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774867.5053,,2954717.1489999997,2012
+207961,120433165.0,Saturday,No,2012-07-14T07:45:00.000,PropLost,"[-71.065995, 42.343861]",Point,PropLost,7,LARCRT,164,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,773496.2653,,2950630.357,2012
+228105,120438166.0,Saturday,No,2012-07-14T23:00:00.000,PropLost,"[-71.052946, 42.357137]",Point,PropLost,7,LSTPRP,109,A1,First,No,FRANKLIN ST,Part Three,Unarmed,776998.3439,,2955486.627,2012
+251421,120433740.0,Saturday,No,2012-07-14T02:00:00.000,PropLost,"[-71.070625, 42.361461]",Point,PropLost,7,LSTPRP,64,A1,Last,No,CHARLES ST,Part Three,Unarmed,772212.3098,,2957037.798,2012
+261147,120444731.0,Saturday,No,2012-07-14T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,LARCRT,26,A7,Day,No,MAVERICK SQ,Part Three,Unarmed,,,,2012
+262731,120438205.0,Saturday,No,2012-07-14T11:30:00.000,PropLost,"[0, 0]",Point,PropLost,7,LSTPRP,304,B2,Day,No,DIMOCK ST,Part Three,Unarmed,,,,2012

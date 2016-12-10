@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68194,152007934.0,Friday,No,2015-01-30T06:22:00.000,DEATH INVESTIGATION,"[-71.01149, 42.385086]",Point,01INV,1,IVPER,0,A7,Last,No,BENNINGTON ST,Part three,Other,788145.0185,,2965733.2010000004,2015
+115358,152008023.0,Friday,No,2015-01-30T13:12:00.000,DEATH INVESTIGATION,"[-71.050565, 42.334426]",Point,01INV,1,UNKEMS,0,C6,Day,No,F ST,Part three,Unarmed,777685.7093,,2947213.6789999995,2015
+261880,152008025.0,Friday,No,2015-01-30T10:42:00.000,DEATH INVESTIGATION,"[0, 0]",Point,01INV,1,UNKEMS,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015

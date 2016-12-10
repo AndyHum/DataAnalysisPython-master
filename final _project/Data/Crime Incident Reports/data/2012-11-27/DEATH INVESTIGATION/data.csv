@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3045,120743948.0,Tuesday,No,2012-11-27T10:33:00.000,DEATH INVESTIGATION,"[-71.08186, 42.344001]",Point,01INV,11,SDNDTH,145,D4,Day,No,ST BOTOLPH ST,Part Three,Other,769207.0865,,2950659.9510000004,2012
+154888,120743995.0,Tuesday,No,2012-11-27T11:06:00.000,DEATH INVESTIGATION,"[-71.096595, 42.317476]",Point,01INV,11,ALARMI,304,E13,Day,No,WASHINGTON ST,Part Three,Unarmed,765269.3624,,2940974.583,2012
+258566,120743784.0,Tuesday,No,2012-11-27T09:26:00.000,DEATH INVESTIGATION,"[-71.0545, 42.336796]",Point,01INV,11,SDNDTH,197,C6,Day,No,LINSKY BARRY CT,Part Three,Unarmed,776617.2571,,2948071.767,2012

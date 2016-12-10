@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9346,152007046.0,Monday,No,2015-01-26T12:00:00.000,PropFound,"[-71.12122, 42.258231]",Point,PropFound,1,PROP,0,E18,Day,No,CENTRAL AV,Part three,Other,758705.3509,WEBSTER ST,2919354.273,2015
+12691,152007047.0,Monday,No,2015-01-26T11:38:00.000,PropFound,"[-71.130364, 42.242611]",Point,PropFound,1,IVPREM,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,756254.4316,,2913651.113,2015
+266328,152007859.0,Monday,No,2015-01-26T15:00:00.000,PropFound,"[0, 0]",Point,PropFound,1,PROP,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,,,,2015

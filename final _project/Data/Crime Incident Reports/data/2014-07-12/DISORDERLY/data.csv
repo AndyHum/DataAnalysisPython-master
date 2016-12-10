@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12296,142008475.0,Saturday,No,2014-07-12T12:45:00.000,DISORDERLY,"[-71.05697, 42.329501]",Point,24xx,7,ARREST,0,C6,Day,No,DORCHESTER AV,Part Two,Unarmed,775963.2534,DORCHESTER ST,2945409.8639999996,2014
+139716,142008841.0,Saturday,No,2014-07-12T22:45:00.000,DISORDERLY,"[-71.055333, 42.354078]",Point,24xx,7,IVPER,0,A1,First,No,HIGH ST,Part Two,Unarmed,776359.026,,2954368.472,2014
+187676,142008484.0,Saturday,No,2014-07-12T09:30:00.000,DISORDERLY,"[-71.062109, 42.358107]",Point,24xx,7,IVPER,0,A1,Day,No,BEACON ST,Part Two,Unarmed,774520.0939,,2955827.087,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27081,140034555.0,Friday,No,2014-01-17T18:17:00.000,PropFound,"[-71.123165, 42.255916]",Point,PropFound,1,IVPER ,520,E18,First,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2014
+31008,140034707.0,Friday,No,2014-01-17T19:33:00.000,PropFound,"[-71.071885, 42.351536]",Point,PropFound,1,FDPROP,134,D4,First,No,BOYLSTON ST,Part three,Unarmed,771889.9292,,2953419.2260000003,2014
+136930,140049930.0,Friday,No,2014-01-17T10:00:00.000,PropFound,"[-71.10034, 42.335941]",Point,PropFound,1,FDPROP,612,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,764224.9912,LONGWOOD AV,2947698.7860000003,2014
+168129,140034385.0,Friday,No,2014-01-17T17:09:00.000,PropFound,"[-71.067535, 42.274196]",Point,PropFound,1,FDPROP,388,C11,First,No,DORCHESTER AV,Part three,Unarmed,773208.6602,,2925241.227,2014
+180732,140033093.0,Friday,No,2014-01-17T02:30:00.000,PropFound,"[-71.112792, 42.301037]",Point,PropFound,1,FDPROP,510,E13,Last,No,WASHINGTON ST,Part three,Other,760915.9971,,2934963.627,2014
+240142,140034397.0,Friday,No,2014-01-17T17:15:00.000,PropFound,"[-71.06942, 42.356141]",Point,PropFound,1,CRIP  ,66,A1,First,No,BEACON ST,Part three,Unarmed,772547.7636,CHARLES ST,2955100.727,2014
+257253,140033462.0,Friday,No,2014-01-17T10:31:00.000,PropFound,"[-71.161914, 42.270698]",Point,PropFound,1,BERPT ,716,E5,Day,No,CENTRE ST,Part three,Other,747671.1755,,2923851.035,2014

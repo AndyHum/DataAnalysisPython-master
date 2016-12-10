@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5671,,Wednesday,No,2015-07-01T00:00:00.000,Violations,"[-71.074082, 42.323953]",Point,VAL,7,TS,263,B2,,No,DUDLEY ST,Part Two,None,771346.0,,2940000.0,2015
+101038,,Wednesday,No,2015-07-01T00:00:00.000,Restraining Order Violations,"[-71.049027, 42.330637]",Point,Restrain,7,VIORDR,915,C6,,No,CARMODY CT,Part Two,None,778109.0,,2950000.0,2015
+166366,,Wednesday,No,2015-07-01T09:48:00.000,Violations,"[0, 0]",Point,VAL,7,TS,0,,,No,,Part Two,None,,BOWDOIN ST,,2015
+171380,,Wednesday,No,2015-07-01T17:13:00.000,Violations,"[0, 0]",Point,VAL,7,TS,0,,,No,EVANS ST,Part Two,None,,,,2015
+219645,,Wednesday,No,2015-07-01T18:06:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,658,E5,,No,CENTRE ST,Part Two,None,,VFW PKWY,,2015
+220641,,Wednesday,No,2015-07-01T00:00:00.000,Violations,"[-71.063907, 42.287179]",Point,VAL,7,TS,959,C11,,No,DORCHESTER AVE,Part Two,None,774166.0,,2930000.0,2015
+233505,,Wednesday,No,2015-07-01T17:38:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,0,C11,,No,,Part Two,None,,BOWDOIN ST,,2015
+236976,,Wednesday,No,2015-07-01T00:00:00.000,Violations,"[-71.078551, 42.277389]",Point,VAL,7,IVPER,943,B3,,No,WOODGATE ST,Part Two,None,770221.0,,2930000.0,2015
+248186,,Wednesday,No,2015-07-01T00:00:00.000,Violations,"[-71.134471, 42.277114]",Point,VAL,7,,551,E5,,No,KITTREDGE ST,Part Two,None,755089.0,,2930000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32607,140354554.0,Thursday,No,2014-06-05T20:22:00.000,InvProp,"[-71.040135, 42.379591]",Point,InvProp,6,REQP  ,26,A7,First,No,BORDER ST,Part three,Unarmed,780417.0241,,2963687.684,2014
+80320,140354464.0,Thursday,No,2014-06-05T19:37:00.000,InvProp,"[-71.057685, 42.366066]",Point,InvProp,6,REQP  ,79,A1,First,No,ENDICOTT ST,Part three,Unarmed,775700.8193,,2958733.82,2014
+152510,140352773.0,Thursday,No,2014-06-05T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,6,CD9   ,0,D4,Last,No,HUNTINGTON AV,Part three,Unarmed,,,,2014

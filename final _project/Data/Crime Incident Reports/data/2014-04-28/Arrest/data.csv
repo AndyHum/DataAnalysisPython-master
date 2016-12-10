@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124391,140257039.0,Monday,No,2014-04-28T00:10:00.000,Arrest,"[-71.05696, 42.329736]",Point,Arrest,4,IVPER ,174,C6,Last,No,DORCHESTER AV,Part three,Unarmed,775965.5133,,2945495.5160000003,2014
+160922,140257693.0,Monday,No,2014-04-28T09:28:00.000,Arrest,"[-71.032915, 42.332346]",Point,Arrest,4,ARREST,230,C6,Day,No,E 7TH ST,Part three,Unarmed,782462.0462,,2946481.3310000002,2014
+219893,140257508.0,Monday,No,2014-04-28T08:00:00.000,Arrest,"[-71.1098, 42.273229]",Point,Arrest,4,ARREST,490,E18,Day,No,WOOD AV,Part three,Unarmed,761771.5719,,2924833.383,2014

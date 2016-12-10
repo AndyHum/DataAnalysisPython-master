@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2049,152042547.0,Sunday,No,2015-05-24T08:15:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,B3,Day,No,NORFOLK ST,Part three,Unarmed,,,,2015
+77474,152042647.0,Sunday,No,2015-05-24T16:30:00.000,InvPer,"[-71.121635, 42.277231]",Point,InvPer,5,IVPER,0,E18,First,No,PINEDALE RD,Part three,Unarmed,758562.2935,,2926277.633,2015
+123743,152042732.0,Sunday,No,2015-05-24T22:30:00.000,InvPer,"[-71.051019, 42.362401]",Point,InvPer,5,NIDV,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,777509.2589,,2957407.462,2015
+165567,152042587.0,Sunday,No,2015-05-24T12:50:00.000,InvPer,"[-71.074485, 42.291676]",Point,InvPer,5,IVPER,0,B3,Day,No,WHITFIELD ST,Part three,Unarmed,771295.9583,,2931601.7210000004,2015
+177139,152042668.0,Sunday,No,2015-05-24T17:57:00.000,InvPer,"[-71.0729, 42.333256]",Point,InvPer,5,VIORDR,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,771648.9274,,2946756.2810000004,2015
+191460,152042828.0,Sunday,No,2015-05-24T17:26:00.000,InvPer,"[-71.087955, 42.295106]",Point,InvPer,5,IVPER,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,767645.4486,TALBOT AV,2932833.77,2015
+197585,152043444.0,Sunday,No,2015-05-24T17:00:00.000,InvPer,"[-71.098625, 42.346181]",Point,InvPer,5,IVPER,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+251542,152043202.0,Sunday,No,2015-05-24T15:00:00.000,InvPer,"[-71.04139, 42.330941]",Point,InvPer,5,IVPER,0,C6,Day,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1925,130207171.0,Thursday,No,2013-04-04T09:00:00.000,PropLost,"[-71.06494, 42.343021]",Point,PropLost,4,LSTPRP,165,D4,Day,No,HARRISON AV,Part Three,Unarmed,773783.0344,,2950325.6980000003,2013
+7146,130200320.0,Thursday,No,2013-04-04T17:00:00.000,PropLost,"[-71.087705, 42.340771]",Point,PropLost,4,LSTPRP,283,D4,First,No,HUNTINGTON AV,Part Three,Unarmed,767632.6471,,2949475.187,2013
+26842,130199608.0,Thursday,No,2013-04-04T17:00:00.000,PropLost,"[-71.062945, 42.350856]",Point,PropLost,4,LSTPRP,123,A1,First,No,KNEELAND ST,Part Three,Unarmed,774307.7377,,2953183.6739999996,2013
+98286,130208994.0,Thursday,No,2013-04-04T14:00:00.000,PropLost,"[-71.080995, 42.282871]",Point,PropLost,4,LSTPRP,417,B3,Day,No,CAPEN PL,Part Three,Unarmed,769550.3611,,2928384.334,2013
+122074,130197906.0,Thursday,No,2013-04-04T00:00:00.000,PropLost,"[-71.06537, 42.300926]",Point,PropLost,4,LARCRT,352,C11,Last,No,LEROY ST,Part Three,Unarmed,773744.9518,,2934984.9930000002,2013
+135000,130199122.0,Thursday,No,2013-04-04T22:30:00.000,PropLost,"[-71.048019, 42.293139]",Point,PropLost,4,LSTPRP,370,C11,First,No,MORRISSEY BL,Part Three,Unarmed,778453.7849,,2932171.675,2013
+163182,130213893.0,Thursday,No,2013-04-04T10:00:00.000,PropLost,"[-71.066095, 42.342071]",Point,PropLost,4,LSTPRP,165,D4,Day,No,HARRISON AV,Part Three,Unarmed,773472.5498,,2949977.9110000003,2013
+247030,130197405.0,Thursday,No,2013-04-04T02:00:00.000,PropLost,"[-71.09899, 42.350181]",Point,PropLost,4,BERPT ,622,D4,Last,No,BAY STATE RD,Part Three,Unarmed,764565.5978,,2952889.828,2013
+262922,130198013.0,Thursday,No,2013-04-04T12:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,49,A15,Day,No,ALFORD ST,Part Three,Unarmed,,,,2013

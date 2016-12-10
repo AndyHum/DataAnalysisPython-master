@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13826,140030089.0,Wednesday,No,2014-01-15T19:10:00.000,Arrest,"[-71.08291, 42.305756]",Point,Arrest,1,ARREST,330,B2,First,No,NORMANDY ST,Part three,Unarmed,768991.3829,,2936721.4269999997,2014
+25509,140028503.0,Wednesday,No,2014-01-15T03:53:00.000,Arrest,"[-71.05789, 42.309941]",Point,Arrest,1,ARREST,254,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775751.431,DEWAR ST,2938280.5930000003,2014
+108672,140028475.0,Wednesday,No,2014-01-15T02:30:00.000,Arrest,"[-71.066994, 42.322664]",Point,Arrest,1,ARREST,184,B2,Last,No,NORFOLK AV,Part three,Unarmed,773265.3136,,2942904.412,2014

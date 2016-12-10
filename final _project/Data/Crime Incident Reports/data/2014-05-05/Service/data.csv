@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3974,140275198.0,Monday,No,2014-05-05T13:40:00.000,Service,"[-71.13817, 42.352776]",Point,Service,5,ARREST,795,D14,Day,No,BARROWS ST,Part three,Unarmed,753970.7351,,2953788.137,2014
+6646,140275086.0,Monday,No,2014-05-05T13:00:00.000,Service,"[-71.056967, 42.331316]",Point,Service,5,THREAT,174,C6,Day,No,DORCHESTER AV,Part three,Unarmed,775960.4139,,2946071.2939999998,2014
+57640,140275863.0,Monday,No,2014-05-05T18:00:00.000,Service,"[-71.06392, 42.301046]",Point,Service,5,IVDRUG,355,C11,First,No,DITSON ST,Part three,Unarmed,774136.9874,,2935030.722,2014
+100504,140274511.0,Monday,No,2014-05-05T08:15:00.000,Service,"[-71.077015, 42.326816]",Point,Service,5,AOD   ,282,B2,Day,No,VINE ST,Part three,Unarmed,770547.9326,,2944403.889,2014
+107989,140275459.0,Monday,No,2014-05-05T13:40:00.000,Service,"[-71.07058, 42.317051]",Point,Service,5,IVPER ,327,B2,Day,No,MAGNOLIA ST,Part three,Unarmed,772305.9484,,2940854.055,2014
+163930,140274470.0,Monday,No,2014-05-05T08:07:00.000,Service,"[-71.098065, 42.282771]",Point,Service,5,ARREST,467,B3,Day,No,WESTMORE RD,Part three,Unarmed,764931.3936,,2928325.664,2014
+183399,140275675.0,Monday,No,2014-05-05T16:25:00.000,Service,"[-71.07408, 42.335766]",Point,Service,5,CD5   ,355,D4,First,No,HARRISON AV,Part three,Unarmed,771325.3054,,2947669.374,2014
+259431,140274219.0,Monday,No,2014-05-05T02:50:00.000,Service,"[-71.056357, 42.320993]",Point,Service,5,PERGUN,236,C11,Last,No,COLUMBIA RD,Part three,Firearm,776144.9394,,2942310.3,2014

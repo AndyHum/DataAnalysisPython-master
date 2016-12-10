@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8212,140344417.0,Sunday,No,2014-06-01T22:36:00.000,MedAssist,"[-71.05056, 42.287091]",Point,MedAssist,6,PRSCRM,380,C11,First,No,OAKTON AV,Part three,Unarmed,777777.9526,,2929964.085,2014
+8582,140343273.0,Sunday,No,2014-06-01T13:29:00.000,MedAssist,"[-71.14616, 42.277721]",Point,MedAssist,6,PRSCRM,700,E5,Day,No,WREN ST,Part three,Unarmed,751924.4876,,2926427.71,2014
+13337,140342971.0,Sunday,No,2014-06-01T10:33:00.000,MedAssist,"[-71.12129, 42.284991]",Point,MedAssist,6,EDP2  ,561,E5,Day,No,GARDENSIDE ST,Part three,Unarmed,758643.1047,,2929105.9060000004,2014
+44697,140343902.0,Sunday,No,2014-06-01T18:58:00.000,MedAssist,"[-71.047162, 42.280687]",Point,MedAssist,6,NIDV  ,386,C11,First,No,HALLET ST,Part three,Unarmed,778709.5751,,2927635.23,2014
+55604,140342944.0,Sunday,No,2014-06-01T10:04:00.000,MedAssist,"[-71.11142, 42.330431]",Point,MedAssist,6,IVPER ,608,E13,Day,No,S HUNTINGTON AV,Part three,Unarmed,761238.4013,,2945677.0,2014
+112889,140345348.0,Sunday,No,2014-06-01T10:57:00.000,MedAssist,"[-71.096413, 42.344914]",Point,MedAssist,6,TRAUMA,624,D4,Day,No,BOYLSTON ST,Part three,Other,765271.056,,2950973.562,2014
+136321,140342398.0,Sunday,No,2014-06-01T01:05:00.000,MedAssist,"[-71.150195, 42.354396]",Point,MedAssist,6,DK    ,768,D14,Last,No,MARKET ST,Part three,Unarmed,750717.9329,,2954364.939,2014
+217549,140344422.0,Sunday,No,2014-06-01T22:50:00.000,MedAssist,"[-71.062525, 42.355916]",Point,MedAssist,6,IVPER ,0,A1,First,No,TREMONT ST,Part three,Knife,774411.8094,,2955028.2169999997,2014
+221849,140344380.0,Sunday,No,2014-06-01T22:20:00.000,MedAssist,"[-71.145604, 42.340262]",Point,MedAssist,6,UNK   ,787,D14,First,No,KILSYTH RD,Part three,Unarmed,751980.2404,COLLISTON RD,2949219.361,2014
+230005,140344483.0,Sunday,No,2014-06-01T23:30:00.000,MedAssist,"[-71.14243, 42.349389]",Point,MedAssist,6,EDP2  ,784,D14,First,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2014

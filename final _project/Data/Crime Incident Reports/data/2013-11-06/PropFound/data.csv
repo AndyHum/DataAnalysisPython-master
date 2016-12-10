@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44965,130707561.0,Wednesday,No,2013-11-06T17:33:00.000,PropFound,"[-71.06066, 42.298591]",Point,PropFound,11,FDPROP,355,C11,First,No,DORCHESTER AV,Part three,Unarmed,775023.4954,PARK ST,2934140.61,2013
+103116,130707096.0,Wednesday,No,2013-11-06T10:30:00.000,PropFound,"[-71.052037, 42.292143]",Point,PropFound,11,FDPROP,377,C11,Day,No,S MUNROE TR,Part three,Unarmed,777368.4439,,2931802.8660000004,2013
+192906,130706330.0,Wednesday,No,2013-11-06T07:00:00.000,PropFound,"[-71.06939, 42.339506]",Point,PropFound,11,INVEST,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+198359,130706927.0,Wednesday,No,2013-11-06T13:20:00.000,PropFound,"[-71.06105, 42.297191]",Point,PropFound,11,FDPROP,355,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774920.6138,GIBSON ST,2933629.8860000004,2013
+252466,130707996.0,Wednesday,No,2013-11-06T22:00:00.000,PropFound,"[-71.106327, 42.314553]",Point,PropFound,11,IVMV  ,640,E13,First,No,LAMARTINE ST,Part three,Unarmed,762642.0347,,2939896.84,2013
+265112,130708999.0,Wednesday,No,2013-11-06T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,11,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,,,,2013

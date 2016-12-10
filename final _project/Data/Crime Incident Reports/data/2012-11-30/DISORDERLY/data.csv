@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58469,120750361.0,Friday,No,2012-11-30T04:24:00.000,DISORDERLY,"[-71.091095, 42.320611]",Point,24xx,11,DKDIST,305,B2,Last,No,KENSINGTON ST,Part Two,Unarmed,766751.3719,,2942124.113,2012
+133969,120752238.0,Friday,No,2012-11-30T22:20:00.000,DISORDERLY,"[-71.131245, 42.350806]",Point,24xx,11,ARREST,796,D14,First,No,HARVARD AV,Part Two,Unarmed,755845.6789,,2953078.245,2012
+146995,120750609.0,Friday,No,2012-11-30T08:35:00.000,DISORDERLY,"[-71.07635, 42.287146]",Point,24xx,11,TRPSCH,435,B3,Day,No,PEACEVALE RD,Part Two,Unarmed,770799.5613,,2929948.413,2012

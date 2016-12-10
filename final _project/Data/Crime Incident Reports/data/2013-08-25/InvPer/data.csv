@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6164,130537713.0,Sunday,No,2013-08-25T16:00:00.000,InvPer,"[-71.074315, 42.288941]",Point,InvPer,8,MSNCOM,427,B3,First,No,NORFOLK ST,Part three,Unarmed,771346.9277,,2930605.277,2013
+76533,130537353.0,Sunday,No,2013-08-25T15:06:00.000,InvPer,"[-71.052465, 42.333151]",Point,InvPer,8,ALARMM,925,C6,Day,No,W 9TH ST,Part three,Unarmed,777174.4275,,2946746.3460000004,2013
+123974,130537799.0,Sunday,No,2013-08-25T19:17:00.000,InvPer,"[-71.10316, 42.326236]",Point,InvPer,8,UNK   ,906,E13,First,No,HEATH ST,Part three,Other,763478.9920000001,,2944158.5510000004,2013
+127163,130537257.0,Sunday,No,2013-08-25T14:15:00.000,InvPer,"[-71.075433, 42.315296]",Point,InvPer,8,MEET  ,324,B2,Day,No,HOWARD AV,Part three,Unarmed,770996.4146,,2940207.647,2013
+180575,130536853.0,Sunday,No,2013-08-25T09:52:00.000,InvPer,"[0, 0]",Point,InvPer,8,STAB  ,223,C6,Day,No,M ST,Part three,Other,,,,2013
+203219,130538205.0,Sunday,No,2013-08-25T23:13:00.000,InvPer,"[-71.087325, 42.296546]",Point,InvPer,8,IVPREM,444,B3,First,No,BLUE HILL AV,Part three,Unarmed,767813.3547,,2933359.352,2013
+203390,130537941.0,Sunday,No,2013-08-25T20:35:00.000,InvPer,"[-71.05676, 42.358791]",Point,InvPer,8,REQP  ,98,A1,First,No,CONGRESS ST,Part three,Unarmed,775964.5706,STATE ST,2956083.966,2013
+210818,130536182.0,Sunday,No,2013-08-25T01:26:00.000,InvPer,"[-71.102885, 42.313906]",Point,InvPer,8,HARPT ,576,E13,Last,No,BROOKSIDE AV,Part three,Unarmed,763574.2756,,2939665.6319999998,2013
+250187,130536885.0,Sunday,No,2013-08-25T10:16:00.000,InvPer,"[-71.070625, 42.361461]",Point,InvPer,8,CRIP  ,64,A1,Day,No,CHARLES ST,Part three,Unarmed,772212.3098,,2957037.798,2013

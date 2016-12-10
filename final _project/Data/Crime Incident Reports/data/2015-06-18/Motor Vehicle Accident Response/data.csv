@@ -1,0 +1,20 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17460,,Thursday,No,2015-06-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.070773, 42.300978]",Point,MVAcc,6,MVA,344,C11,,No,CORONA ST,Part Three,None,772283.0,,2940000.0,2015
+18986,,Thursday,No,2015-06-18T07:30:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,680,E5,,No,SOUTH ST,Part Three,None,,,,2015
+24374,,Thursday,No,2015-06-18T19:09:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,141,D4,,No,MASSACHUSETTS AVE,Part Three,None,,NEWBURY ST,,2015
+34143,,Thursday,No,2015-06-18T18:25:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,0,,,No,,Part Three,None,,BLUE HILL AVE,,2015
+43548,,Thursday,No,2015-06-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.042088, 42.336382]",Point,MVAcc,6,MVA,221,C6,,No,E THIRD ST,Part Three,None,779974.0,,2950000.0,2015
+62013,,Thursday,No,2015-06-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.081623, 42.318651]",Point,MVAcc,6,MVA,311,B2,,No,WARREN ST,Part Three,None,769316.0,,2940000.0,2015
+69788,,Thursday,No,2015-06-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.051604, 42.339304]",Point,MVAcc,6,IVMV,201,C6,,No,W BROADWAY,Part Three,None,777395.0,,2950000.0,2015
+75046,,Thursday,No,2015-06-18T22:08:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,296,B2,,No,WARREN ST,Part Three,None,,,,2015
+96983,,Thursday,No,2015-06-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.076242, 42.312605]",Point,MVAcc,6,MVA,326,B2,,No,FAYSTON ST,Part Three,None,770783.0,,2940000.0,2015
+101970,,Thursday,No,2015-06-18T22:15:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,50,A15,,No,RUTHERFORD AVE,Part Three,None,,,,2015
+107078,,Thursday,No,2015-06-18T11:23:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,362,C11,,No,DUNLAP ST,Part Three,None,,WASHINGTON,,2015
+112714,,Thursday,No,2015-06-18T13:49:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,0,C11,,No,,Part Three,None,,BOWDOIN ST,,2015
+128537,,Thursday,No,2015-06-18T12:39:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,566,B2,,No,ELM HILL AVE,Part Three,None,,SEAVER ST,,2015
+149756,,Thursday,No,2015-06-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.058986, 42.353706]",Point,MVAcc,6,IVPER,113,A1,,No,KINGSTON ST,Part Three,None,775372.0,,2950000.0,2015
+153304,,Thursday,No,2015-06-18T16:50:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,326,B2,,No,BLUE HILL AVE,Part Three,None,, BRUNSWICK ST ,,2015
+177983,,Thursday,No,2015-06-18T23:00:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,IVMV,93,A1,,No,CONGRESS ST,Part Three,None,,,,2015
+178535,,Thursday,No,2015-06-18T00:00:00.000,Motor Vehicle Accident Response,"[-71.141822, 42.293356]",Point,MVAcc,6,IVPREM,659,E5,,No,WELD ST,Part Three,None,753074.0,,2930000.0,2015
+190050,,Thursday,No,2015-06-18T07:17:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,611,,,No,HUNTINGTON AVE,Part Three,None,, HUNTINGTON AVE ,,2015
+254568,,Thursday,No,2015-06-18T19:08:00.000,Motor Vehicle Accident Response,"[0, 0]",Point,MVAcc,6,MVA,258,B2,,No,MONADNOCK ST,Part Three,None,,,,2015

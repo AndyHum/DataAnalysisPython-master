@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71131,152018287.0,Friday,No,2015-03-06T18:15:00.000,WEAPONS CHARGE,"[-71.082565, 42.336751]",Point,15xx,3,PKNIFE,0,D4,First,No,KENDALL ST,Part Two,Unarmed,769029.4284,LATTIMORE CT,2948016.9839999997,2015
+76297,152018331.0,Friday,No,2015-03-06T21:46:00.000,WEAPONS CHARGE,"[-71.075986, 42.326608]",Point,15xx,3,ARREST,0,B2,First,No,DUDLEY ST,Part Two,Firearm,770826.3215,VINE ST,2944329.5,2015
+148706,152018231.0,Friday,No,2015-03-06T15:30:00.000,WEAPONS CHARGE,"[-71.0394, 42.374306]",Point,15xx,3,SS,0,A7,Day,No,CENTRAL SQ,Part Two,Firearm,780626.0105,,2961762.7939999998,2015
+189442,152018306.0,Friday,No,2015-03-06T19:53:00.000,WEAPONS CHARGE,"[-71.063208, 42.364318]",Point,15xx,3,IVPER,0,A1,First,No,CAUSEWAY ST,Part Two,Unarmed,774211.4955,,2958089.1139999996,2015

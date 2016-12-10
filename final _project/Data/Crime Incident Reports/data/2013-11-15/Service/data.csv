@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1166,130725162.0,Friday,No,2013-11-15T05:24:00.000,Service,"[-71.059575, 42.302511]",Point,Service,11,ARREST,350,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775309.6471,,2935570.63,2013
+13500,130726614.0,Friday,No,2013-11-15T18:20:00.000,Service,"[-71.064905, 42.352371]",Point,Service,11,CD19  ,0,A1,First,No,BOYLSTON ST,Other,Other,773775.1158,,2953733.06,2013
+27998,130725987.0,Friday,No,2013-11-15T13:25:00.000,Service,"[-71.05464, 42.325816]",Point,Service,11,AOD   ,914,C6,Day,No,OCALLAGHAN WY,Other,Unarmed,776600.2984,,2944070.27,2013
+157525,130725148.0,Friday,No,2013-11-15T04:27:00.000,Service,"[-71.088865, 42.279666]",Point,Service,11,VICDOG,428,B3,Last,No,NORFOLK ST,Part three,Other,767426.3706,,2927206.023,2013
+176331,130726414.0,Friday,No,2013-11-15T16:45:00.000,Service,"[-71.066019, 42.284605]",Point,Service,11,IVPER ,402,C11,First,No,BAILEY ST,Part three,Unarmed,773599.5243,,2929036.4439999997,2013
+206383,130725477.0,Friday,No,2013-11-15T06:00:00.000,Service,"[-71.090956, 42.333723]",Point,Service,11,IVPREM,289,B2,Last,No,SCHROEDER PLAZA,Part three,Other,766765.8102,,2946902.542,2013
+247551,130725729.0,Friday,No,2013-11-15T09:45:00.000,Service,"[-71.071135, 42.335176]",Point,Service,11,ARREST,169,D4,Day,No,ALBANY ST,Part three,Unarmed,772122.6365,,2947458.358,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94151,120673489.0,Wednesday,No,2012-10-24T06:15:00.000,PersMiss,"[-71.079535, 42.301751]",Point,PersMiss,10,MISPER,456,B3,Last,No,GREENWOOD ST,Part Three,Unarmed,769911.5211,,2935266.4260000004,2012
+112298,120671412.0,Wednesday,No,2012-10-24T17:30:00.000,PersMiss,"[-71.070615, 42.320596]",Point,PersMiss,10,MSNCOM,183,B2,First,No,LEYLAND ST,Part Three,Unarmed,772289.9823,,2942145.8639999996,2012
+222385,120689609.0,Wednesday,No,2012-10-24T06:50:00.000,PersMiss,"[-71.070615, 42.320596]",Point,PersMiss,10,MISPER,183,B2,Last,No,LEYLAND ST,Part Three,Unarmed,772289.9823,,2942145.8639999996,2012

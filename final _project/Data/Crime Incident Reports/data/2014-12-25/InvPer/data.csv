@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51844,142060543.0,Thursday,No,2014-12-25T15:00:00.000,InvPer,"[-71.047031, 42.311817]",Point,InvPer,12,IVPER,0,C11,Day,No,SAVIN HILL AV,Part three,Unarmed,778684.9232,,2938979.453,2014
+204353,142060523.0,Thursday,No,2014-12-25T13:00:00.000,InvPer,"[-71.039165, 42.378066]",Point,InvPer,12,VIORDR,0,A7,Day,No,MERIDIAN ST,Part three,Unarmed,780681.9241,,2963133.358,2014
+255394,142060518.0,Thursday,No,2014-12-25T13:15:00.000,InvPer,"[-71.068411, 42.378278]",Point,InvPer,12,IVPER,0,A15,Day,No,TIBBETTS TOWN WY,Part three,Unarmed,772779.5715,,2963169.22,2014

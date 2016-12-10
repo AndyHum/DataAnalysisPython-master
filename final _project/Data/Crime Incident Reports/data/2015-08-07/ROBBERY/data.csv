@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37982,,Friday,No,2015-08-07T15:57:00.000,Robbery,"[0, 0]",Point,03xx,8,ARMROB,221,C6,,No,DORCHESTER ST,Part One,Firearm,,,,2015
+51600,,Friday,No,2015-08-07T00:00:00.000,Robbery,"[-71.074364, 42.33556]",Point,03xx,8,I00040,171,D4,,No,HARRISON AVE,Part One,Personal Weapon (hand  foot  etc.),771249.0,,2950000.0,2015
+71044,,Friday,No,2015-08-07T00:00:00.000,Robbery,"[-71.058612, 42.354874]",Point,03xx,8,REQP,106,A1,,No,ARCH ST,Part One,Personal Weapon (hand  foot  etc.),775471.0,,2950000.0,2015
+75355,,Friday,No,2015-08-07T00:00:00.000,Robbery,"[-71.082741, 42.290876]",Point,03xx,8,SHOTS,439,B3,,No,WESTVIEW ST,Part One,Firearm,769064.0,,2930000.0,2015
+93341,,Friday,No,2015-08-07T07:33:00.000,Robbery,"[0, 0]",Point,03xx,8,I00040,286,B2,,No,CABOT ST,Part One,Knife/Cutting Instrument,,RUGGLES ST,,2015
+154464,,Friday,No,2015-08-07T00:00:00.000,Robbery,"[-71.130196, 42.361514]",Point,03xx,8,ALARM,815,D14,,No,N HARVARD ST,Part One,Other,756112.0,,2960000.0,2015
+177292,,Friday,No,2015-08-07T00:00:00.000,Robbery,"[-71.072686, 42.286461]",Point,03xx,8,ARREST,435,B3,,No,DUNBAR AVE,Part One,Firearm,771792.0,,2930000.0,2015
+204831,,Friday,No,2015-08-07T00:00:00.000,Robbery,"[-71.096592, 42.344896]",Point,03xx,8,I00040,624,D4,,No,BOYLSTON ST,Part One,Personal Weapon (hand  foot  etc.),765223.0,,2950000.0,2015
+241996,,Friday,No,2015-08-07T10:15:00.000,Robbery,"[0, 0]",Point,03xx,8,ARREST,105,A1,,No,WASHINGTON ST,Part One,Other,, WINTER ST ,,2015

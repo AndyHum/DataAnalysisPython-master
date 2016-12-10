@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7049,140335476.0,Thursday,No,2014-05-29T09:00:00.000,07RV,"[-71.063779, 42.338579]",Point,07RV,5,RECMV ,174,C6,Day,No,FRONTAGE RD,Other,Unarmed,774104.9678,,2948708.453,2014
+28559,140334940.0,Thursday,No,2014-05-29T07:30:00.000,07RV,"[-71.06623, 42.317541]",Point,07RV,5,ARREST,238,B2,Day,No,BELDEN ST,Other,Unarmed,773481.5123,DUDLEY ST,2941038.5710000005,2014
+235549,140336791.0,Thursday,No,2014-05-29T20:10:00.000,07RV,"[-71.105925, 42.302926]",Point,07RV,5,IVMV  ,569,E13,First,No,BROOKLEY RD,Other,Unarmed,762770.5436,,2935660.5289999996,2014

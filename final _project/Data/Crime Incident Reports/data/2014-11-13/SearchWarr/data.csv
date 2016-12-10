@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54583,142048474.0,Thursday,No,2014-11-13T06:35:00.000,SearchWarr,"[-71.065153, 42.29921]",Point,SearchWarr,11,CD11,0,C11,Last,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2014
+188836,142048618.0,Thursday,No,2014-11-13T12:40:00.000,SearchWarr,"[-71.073314, 42.296573]",Point,SearchWarr,11,IVPREM,0,B3,Day,No,SCHOOL ST,Part three,Unarmed,771603.8025,,2933387.865,2014
+218279,142052494.0,Thursday,No,2014-11-13T13:00:00.000,SearchWarr,"[-71.061975, 42.361986]",Point,SearchWarr,11,CD11,0,A1,Day,No,BULFINCH PL,Part three,Unarmed,774549.1083,,2957241.005,2014

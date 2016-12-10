@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29633,152007620.0,Thursday,No,2015-01-29T04:55:00.000,DEATH INVESTIGATION,"[-71.084435, 42.301291]",Point,01INV,1,CARDIA,0,B3,Last,No,GLENWAY ST,Part three,Unarmed,768586.7961,,2935092.2989999996,2015
+203183,152007744.0,Thursday,No,2015-01-29T14:32:00.000,DEATH INVESTIGATION,"[-71.078186, 42.334556]",Point,01INV,1,CARDIA,0,D4,Day,No,E LENOX ST,Part three,Other,770217.2220000001,,2947222.7819999997,2015
+220517,152007631.0,Thursday,No,2015-01-29T06:06:00.000,DEATH INVESTIGATION,"[-71.057015, 42.304042]",Point,01INV,1,FIRE,0,C11,Last,No,GREENWICH ST,Part three,Unarmed,775999.0815,,2936132.1139999996,2015
+261814,152007772.0,Thursday,No,2015-01-29T17:04:00.000,DEATH INVESTIGATION,"[0, 0]",Point,01INV,1,REQP,0,E13,First,No,CENTRE ST,Part three,Unarmed,,,,2015

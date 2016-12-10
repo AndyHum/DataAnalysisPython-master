@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51975,130589668.0,Saturday,No,2013-08-31T15:00:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,8,IVPER ,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2013
+68352,130551655.0,Saturday,No,2013-08-31T17:00:00.000,PropFound,"[-71.07251, 42.352266]",Point,PropFound,8,FDPROP,134,D4,First,No,NEWBURY ST,Part three,Other,771719.655,,2953684.403,2013
+69470,130551312.0,Saturday,No,2013-08-31T13:10:00.000,PropFound,"[-71.127775, 42.286206]",Point,PropFound,8,FDPROP,562,E5,Day,No,CUMMINS HY,Part three,Unarmed,756886.3881,,2929540.945,2013
+116524,130550728.0,Saturday,No,2013-08-31T06:15:00.000,PropFound,"[-71.09032, 42.285726]",Point,PropFound,8,LSTPRP,430,B3,Last,No,WOODROW AV,Part three,Unarmed,767022.021,,2929412.479,2013
+126401,130551483.0,Saturday,No,2013-08-31T14:00:00.000,PropFound,"[-71.06325, 42.357701]",Point,PropFound,8,FDPROP,132,A1,Day,No,BEACON ST,Part three,Unarmed,774212.5197,PARK ST,2955677.7,2013
+128371,130552084.0,Saturday,No,2013-08-31T19:00:00.000,PropFound,"[-71.09896, 42.329141]",Point,PropFound,8,FDPROP,586,B2,First,No,PARKER ST,Part three,Unarmed,764609.7569,HILLSIDE ST,2945222.495,2013
+219012,130550752.0,Saturday,No,2013-08-31T07:00:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,8,FDPROP,200,C6,Last,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+223719,130551232.0,Saturday,No,2013-08-31T11:55:00.000,PropFound,"[-71.115935, 42.295668]",Point,PropFound,8,FDPROP,508,E13,Day,No,WALK HILL ST,Part three,Unarmed,760074.5421,,2933003.1760000004,2013

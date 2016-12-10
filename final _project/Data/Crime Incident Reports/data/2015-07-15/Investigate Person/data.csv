@@ -1,0 +1,20 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13481,,Wednesday,No,2015-07-15T13:39:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,REQEP,275,D4,,No,SHAWMUT AVE,Part Three,None,, WINDSOR ST ,,2015
+18388,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.135368, 42.240775]",Point,InvPer,7,IVPER,530,E18,,No,READVILLE ST,Part Three,None,754902.0,,2910000.0,2015
+23355,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.068847, 42.295815]",Point,InvPer,7,IVPER,359,C11,,No,ALPHA RD,Part Three,Other,772814.0,,2930000.0,2015
+57428,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.032597, 42.377246]",Point,InvPer,7,NIDV,19,A7,,No,BENNINGTON ST,Part Three,None,782458.0,,2960000.0,2015
+81791,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.055204, 42.341629]",Point,InvPer,7,DISTRB,200,C6,,No,W BROADWAY,Part Three,None,776417.0,,2950000.0,2015
+94207,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.049509, 42.337627]",Point,InvPer,7,IVPER,214,C6,,No,E ST,Part Three,None,777965.0,,2950000.0,2015
+97202,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.069409, 42.339542]",Point,InvPer,7,,165,D4,,No,HARRISON AVE,Part Three,None,772581.0,,2950000.0,2015
+97795,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.091374, 42.284826]",Point,InvPer,7,CD7,465,B3,,No,BLUE HILL AVE,Part Three,None,766738.0,,2930000.0,2015
+101178,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.091374, 42.284826]",Point,InvPer,7,IVPREM,465,B3,,No,BLUE HILL AVE,Part Three,None,766738.0,,2930000.0,2015
+101179,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.091374, 42.284826]",Point,InvPer,7,IVPREM,465,B3,,No,BLUE HILL AVE,Part Three,None,766738.0,,2930000.0,2015
+103801,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.115308, 42.315]",Point,InvPer,7,AB,917,E13,,No,POND ST,Part Three,None,760212.0,,2940000.0,2015
+128073,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.084142, 42.33723]",Point,InvPer,7,AB,285,D4,,No,TREMONT ST,Part Three,None,768602.0,,2950000.0,2015
+128481,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.076821, 42.337398]",Point,InvPer,7,NIDV,170,D4,,No,W SPRINGFIELD ST,Part Three,None,770581.0,,2950000.0,2015
+129397,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.067558, 42.349355]",Point,InvPer,7,DVIP,126,A1,,No,MELROSE ST,Part Three,None,773064.0,,2950000.0,2015
+179022,,Wednesday,No,2015-07-15T15:38:00.000,Investigate Person,"[0, 0]",Point,InvPer,7,I00039,0,,,No,,Part Three,None,,COURT ST,,2015
+179723,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.140501, 42.352935]",Point,InvPer,7,IVPER,795,D14,,No,GORDON ST,Part Three,None,753340.0,,2950000.0,2015
+190326,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.085283, 42.280984]",Point,InvPer,7,IVPER,421,B3,,No,MORTON VILLAGE DR,Part Three,None,768393.0,,2930000.0,2015
+193670,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.070095, 42.35062]",Point,InvPer,7,AB,129,D4,,No,ARLINGTON ST,Part Three,Personal Weapon (hand  foot  etc.),772375.0,,2950000.0,2015
+237223,,Wednesday,No,2015-07-15T00:00:00.000,Investigate Person,"[-71.087187, 42.308453]",Point,InvPer,7,,319,B2,,No,SONOMA ST,Part Three,None,767830.0,,2940000.0,2015

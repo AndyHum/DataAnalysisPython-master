@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+146713,152008191.0,Saturday,No,2015-01-31T02:22:00.000,PersLoc,"[-71.073214, 42.295708]",Point,PersLoc,1,IVPER,0,B3,Last,No,KENBERMA RD,Other,Unarmed,771632.4514,,2933072.564,2015
+169435,152008385.0,Saturday,No,2015-01-31T22:45:00.000,PersLoc,"[-71.094678, 42.319428]",Point,PersLoc,1,IVPER,0,B2,First,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2015
+260496,152008272.0,Saturday,No,2015-01-31T13:02:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,C11,Day,No,EAST ST,Other,Unarmed,,,,2015

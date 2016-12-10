@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48758,130028593.0,Monday,No,2013-01-14T16:06:00.000,PersLoc,"[-71.07347, 42.289151]",Point,PersLoc,1,MSNCOM,437,B3,First,No,NORFOLK ST,Part Three,Unarmed,771575.1799,,2930682.9469999997,2013
+142453,130031018.0,Monday,No,2013-01-14T09:00:00.000,PersLoc,"[-71.102615, 42.274451]",Point,PersLoc,1,MISPER,474,B3,Day,No,COLORADO ST,Part Three,Unarmed,763714.2865,,2925287.97,2013
+173611,130028065.0,Monday,No,2013-01-14T12:15:00.000,PersLoc,"[-71.109368, 42.305738]",Point,PersLoc,1,MISPER,573,E13,Day,No,MCBRIDE ST,Part Three,Unarmed,761834.2811,,2936680.776,2013
+242434,130028668.0,Monday,No,2013-01-14T17:05:00.000,PersLoc,"[-71.09192, 42.270941]",Point,PersLoc,1,MISPER,424,B3,First,No,FREMONT ST,Part Three,Unarmed,766614.8591,,2924022.545,2013

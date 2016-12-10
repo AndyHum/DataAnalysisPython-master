@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7077,140052390.0,Sunday,No,2014-01-26T11:20:00.000,InvProp,"[-71.157696, 42.286974]",Point,InvProp,1,IVPREM,736,E5,Day,No,HASTINGS ST,Part three,Unarmed,748788.9964,,2929786.8589999997,2014
+13874,140051652.0,Sunday,No,2014-01-26T00:42:00.000,InvProp,"[-71.052771, 42.366131]",Point,InvProp,1,REQP  ,83,A1,Last,No,HANOVER ST,Part three,Unarmed,777028.4692,,2958764.232,2014
+43604,140052111.0,Sunday,No,2014-01-26T08:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,CD9   ,0,B2,Day,No,LOUISBURG SQ,Part three,Unarmed,,,,2014
+141615,140053242.0,Sunday,No,2014-01-26T20:36:00.000,InvProp,"[-71.063873, 42.325436]",Point,InvProp,1,BEIP  ,186,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+145560,140051922.0,Sunday,No,2014-01-26T02:50:00.000,InvProp,"[-71.059735, 42.297541]",Point,InvProp,1,IVPREM,355,C11,Last,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+163493,140052155.0,Sunday,No,2014-01-26T08:00:00.000,InvProp,"[-71.057595, 42.355036]",Point,InvProp,1,IVPREM,107,A1,Day,No,WINTHROP SQ,Part three,Unarmed,775745.9891,,2954714.4,2014
+196351,140052621.0,Sunday,No,2014-01-26T14:25:00.000,InvProp,"[-71.052396, 42.378602]",Point,InvProp,1,INVEST,96,A15,Day,No,13TH ST,Part three,Unarmed,777106.1422,,2963309.613,2014

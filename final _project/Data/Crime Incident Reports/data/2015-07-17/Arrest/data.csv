@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36204,,Friday,No,2015-07-17T11:26:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,IVPER,179,C6,,No,MASSACHUSETTS AVE,Part Three,None,, MELNEA CASS BLVD ,,2015
+68150,,Friday,No,2015-07-17T00:00:00.000,Warrant Arrests,"[-71.072395, 42.334288]",Point,Arrest,7,ARREST,171,D4,,No,ALBANY ST,Part Three,None,771783.0,,2950000.0,2015
+73480,,Friday,No,2015-07-17T00:00:00.000,Warrant Arrests,"[-71.070853, 42.331521]",Point,Arrest,7,IVPER,177,C6,,No,MASSACHUSETTS AVE,Part Three,None,772205.0,,2950000.0,2015
+130763,,Friday,No,2015-07-17T08:44:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,7,ARREST,181,B2,,No,MAGAZINE ST,Part Three,None,,NORFOLK AVE,,2015

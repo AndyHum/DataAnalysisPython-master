@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79848,152008640.0,Monday,No,2015-02-02T01:12:00.000,InvPer,"[-71.0554, 42.337221]",Point,InvPer,2,IVPER,0,C6,Last,No,C ST,Part three,Unarmed,776373.1179,W 7TH ST,2948225.374,2015
+139186,152023971.0,Monday,No,2015-02-02T11:00:00.000,InvPer,"[-71.05395, 42.378346]",Point,InvPer,2,IVPER,0,A15,Day,No,DECATUR ST,Part three,Unarmed,776686.7773,,2963214.159,2015
+148607,152008662.0,Monday,No,2015-02-02T02:47:00.000,InvPer,"[-71.087619, 42.344294]",Point,InvPer,2,IVPER,0,D4,Last,No,BURBANK ST,Part three,Unarmed,767649.5306,,2950759.002,2015
+178284,152008827.0,Monday,No,2015-02-02T21:29:00.000,InvPer,"[-71.095913, 42.335108]",Point,InvPer,2,EDP,0,B2,First,No,WARD ST,Part three,Unarmed,765423.3474,,2947400.8019999997,2015
+203093,152008689.0,Monday,No,2015-02-02T10:10:00.000,InvPer,"[-71.07653, 42.328026]",Point,InvPer,2,IVPER,0,B2,Day,No,EUSTIS ST,Part three,Unarmed,770676.8939,,2944845.4839999997,2015
+239519,152008811.0,Monday,No,2015-02-02T20:06:00.000,InvPer,"[-71.094585, 42.348806]",Point,InvPer,2,ALARM,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,765758.7053,,2952394.378,2015
+240773,152008820.0,Monday,No,2015-02-02T17:08:00.000,InvPer,"[-71.04778, 42.292776]",Point,InvPer,2,IVPER,0,C11,First,No,MORRISSEY BL,Part three,Unarmed,778519.0387,,2932039.6360000004,2015
+261803,152009946.0,Monday,No,2015-02-02T20:40:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,B3,First,No,COOKSON TR,Part three,Unarmed,,,,2015
+264371,152008824.0,Monday,No,2015-02-02T21:03:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,C11,First,No,DAKOTA ST,Part three,Unarmed,,,,2015

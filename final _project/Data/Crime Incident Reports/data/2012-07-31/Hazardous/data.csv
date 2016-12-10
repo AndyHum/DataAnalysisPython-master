@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21165,120473085.0,Tuesday,No,2012-07-31T16:10:00.000,Hazardous,"[-71.07221, 42.290846]",Point,Hazardous,7,LANTEN,437,B3,First,No,SOUTHERN AV,Part Three,Unarmed,771913.003,,2931302.336,2012
+67231,120473319.0,Tuesday,No,2012-07-31T17:29:00.000,Hazardous,"[-71.013745, 42.385036]",Point,Hazardous,7,REQP  ,12,A7,First,No,SARATOGA ST,Part Three,Other,787535.9081,,2965711.498,2012
+214938,120472070.0,Tuesday,No,2012-07-31T07:50:00.000,Hazardous,"[-71.0622, 42.359116]",Point,Hazardous,7,TRFFIC,72,A1,Day,No,ASHBURTON PL,Part Three,Unarmed,774493.6675,,2956194.809,2012

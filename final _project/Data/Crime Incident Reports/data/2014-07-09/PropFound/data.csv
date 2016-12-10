@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+74185,142007492.0,Wednesday,No,2014-07-09T09:30:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,7,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+214824,142007572.0,Wednesday,No,2014-07-09T07:45:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,7,PROP,0,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2014
+221489,142007696.0,Wednesday,No,2014-07-09T17:25:00.000,PropFound,"[-71.101383, 42.324122]",Point,PropFound,7,IVPREM,0,E13,First,No,PARKER ST,Part three,Unarmed,763963.0763,,2943390.236,2014
+263360,142008117.0,Wednesday,No,2014-07-09T21:30:00.000,PropFound,"[0, 0]",Point,PropFound,7,PROP,0,D14,First,No,BROOKLINE AV,Part three,Unarmed,,KILMARNOCK ST,,2014

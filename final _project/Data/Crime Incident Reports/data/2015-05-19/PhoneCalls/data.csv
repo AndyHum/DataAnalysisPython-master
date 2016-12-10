@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1585,152040963.0,Tuesday,No,2015-05-19T08:59:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,IVPER,0,C11,Day,No,GIBSON ST,Part three,Unarmed,,,,2015
+36475,152041252.0,Tuesday,No,2015-05-19T23:46:00.000,PhoneCalls,"[-71.070835, 42.331511]",Point,PhoneCalls,5,IVPER,0,C6,Last,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2015
+64151,152040964.0,Tuesday,No,2015-05-19T08:56:00.000,PhoneCalls,"[-71.07203, 42.274456]",Point,PhoneCalls,5,IVPER,0,B3,Day,No,OLD MORTON ST,Part three,Other,771991.6738,,2925329.8389999997,2015

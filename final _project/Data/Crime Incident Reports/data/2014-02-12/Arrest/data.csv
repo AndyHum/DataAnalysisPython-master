@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54507,130072645.0,Wednesday,No,2014-02-12T11:00:00.000,Arrest,"[-71.071078, 42.382725]",Point,Arrest,2,TRANSP,44,A15,Day,No,CHARLES ST,Part three,Unarmed,772050.7285,,2964786.231,2014
+56608,140090588.0,Wednesday,No,2014-02-12T21:12:00.000,Arrest,"[-71.078526, 42.322336]",Point,Arrest,2,CD11  ,265,B2,First,No,PERRIN ST,Part three,Unarmed,770147.4212,,2942769.0110000004,2014
+66562,140088704.0,Wednesday,No,2014-02-12T04:40:00.000,Arrest,"[-71.071975, 42.294476]",Point,Arrest,2,ARREST,451,C11,Last,No,WASHINGTON ST,Part three,Unarmed,771969.9484,,2932625.479,2014
+157821,140091240.0,Wednesday,No,2014-02-12T16:15:00.000,Arrest,"[-71.122975, 42.292076]",Point,Arrest,2,IVPER ,691,E5,First,No,MOSGROVE AV,Part three,Unarmed,758175.7464,,2931685.767,2014

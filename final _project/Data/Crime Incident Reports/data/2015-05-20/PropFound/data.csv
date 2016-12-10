@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1780,152042603.0,Wednesday,No,2015-05-20T11:15:00.000,PropFound,"[0, 0]",Point,PropFound,5,PROP,0,A15,Day,No,MEDFORD ST,Part three,Unarmed,,,,2015
+125811,152041331.0,Wednesday,No,2015-05-20T08:00:00.000,PropFound,"[-71.064786, 42.373665]",Point,PropFound,5,PROP,0,A15,Day,No,OLD RUTHERFORD AV,Part three,Unarmed,773767.5059,,2961492.917,2015
+139173,152041385.0,Wednesday,No,2015-05-20T01:38:00.000,PropFound,"[-71.029225, 42.377201]",Point,PropFound,5,PROP,0,A7,Last,No,BREMEN ST,Part three,Unarmed,783369.5556,,2962832.8010000004,2015
+228944,152041374.0,Wednesday,No,2015-05-20T13:15:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,5,PROP,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015

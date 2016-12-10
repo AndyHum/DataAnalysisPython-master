@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21303,142001910.0,Sunday,No,2014-06-22T10:00:00.000,PropLost,"[-71.124662, 42.253324]",Point,PropLost,6,PROP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757781.442,,2917561.938,2014
+35652,142002766.0,Sunday,No,2014-06-22T17:00:00.000,PropLost,"[-71.089075, 42.350966]",Point,PropLost,6,PROP,0,D4,First,No,BEACON ST,Part three,Unarmed,767244.3657,,2953188.651,2014
+155239,142002320.0,Sunday,No,2014-06-22T20:00:00.000,PropLost,"[-71.081625, 42.336141]",Point,PropLost,6,PROP,0,D4,First,No,TROTTER CT,Part three,Unarmed,769284.6658,,2947795.935,2014
+164539,142001673.0,Sunday,No,2014-06-22T10:00:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,6,LARCEN,0,C6,Day,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+165778,142001784.0,Sunday,No,2014-06-22T13:00:00.000,PropLost,"[-71.081575, 42.340721]",Point,PropLost,6,LARCEN,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,769289.9968,,2949465.0360000003,2014
+170361,142002660.0,Sunday,No,2014-06-22T08:00:00.000,PropLost,"[-71.070515, 42.307286]",Point,PropLost,6,PROP,0,C11,Day,No,BARRY ST,Part three,Unarmed,772341.4461,,2937295.622,2014
+190613,142003292.0,Sunday,No,2014-06-22T08:00:00.000,PropLost,"[-71.17312, 42.351201]",Point,PropLost,6,PROP,0,D14,Day,No,TREMONT ST,Part three,Unarmed,744525.8777,,2953176.035,2014
+200951,142002088.0,Sunday,No,2014-06-22T10:00:00.000,PropLost,"[-71.131245, 42.350806]",Point,PropLost,6,PROP,0,D14,Day,No,HARVARD AV,Part three,Unarmed,755845.6789,,2953078.245,2014
+255157,142002021.0,Sunday,No,2014-06-22T19:30:00.000,PropLost,"[-71.081515, 42.320271]",Point,PropLost,6,PROP,0,B2,First,No,WARREN ST,Part three,Unarmed,769342.7391,,2942012.768,2014
+264730,142002051.0,Sunday,No,2014-06-22T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,A1,First,No,BEACH ST,Part three,Unarmed,,,,2014

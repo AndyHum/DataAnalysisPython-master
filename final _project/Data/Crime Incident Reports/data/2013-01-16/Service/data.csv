@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23863,130032231.0,Wednesday,No,2013-01-16T08:17:00.000,Service,"[-71.081325, 42.284171]",Point,Service,1,ARREST,0,B3,Day,No,NORFOLK ST,Part Three,Unarmed,769458.7382,,2928857.633,2013
+69038,130031853.0,Wednesday,No,2013-01-16T01:44:00.000,Service,"[-71.07016, 42.307426]",Point,Service,1,ARREST,336,C11,Last,No,BARRY ST,Part Three,Unarmed,772437.2149,,2937347.124,2013
+212120,130032766.0,Wednesday,No,2013-01-16T08:30:00.000,Service,"[-71.109368, 42.305738]",Point,Service,1,IVPER ,573,E13,Day,No,MCBRIDE ST,Part Three,Firearm,761834.2811,,2936680.776,2013

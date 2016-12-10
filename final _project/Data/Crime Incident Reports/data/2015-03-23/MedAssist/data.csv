@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44487,152023462.0,Monday,No,2015-03-23T18:37:00.000,MedAssist,"[-71.076983, 42.314285]",Point,MedAssist,3,EDP,0,B2,First,No,WAYLAND ST,Part three,Unarmed,770579.0601,,2939837.128,2015
+73532,152023376.0,Monday,No,2015-03-23T14:09:00.000,MedAssist,"[-71.036425, 42.378896]",Point,MedAssist,3,CD9,0,A7,Day,No,TRENTON ST,Part three,Unarmed,781420.7872,,2963439.84,2015
+100065,152023507.0,Monday,No,2015-03-23T20:30:00.000,MedAssist,"[-71.076185, 42.349481]",Point,MedAssist,3,UNKEMS,0,D4,First,No,ST JAMES AV,Part three,Unarmed,770731.3351,,2952664.538,2015
+117710,152023873.0,Monday,No,2015-03-23T19:26:00.000,MedAssist,"[-71.074415, 42.330461]",Point,MedAssist,3,UNCONS,0,B2,First,No,FARNHAM ST,Part three,Other,771244.3764,,2945735.687,2015
+129565,152023426.0,Monday,No,2015-03-23T17:47:00.000,MedAssist,"[-71.14805, 42.259326]",Point,MedAssist,3,ALARM,0,E5,First,No,GEORGETOWNE DR,Part three,Unarmed,751440.6434,,2919722.167,2015
+167505,152023276.0,Monday,No,2015-03-23T11:30:00.000,MedAssist,"[-71.117301, 42.285702]",Point,MedAssist,3,EDP,0,E18,Day,No,JEWETT ST,Part three,Unarmed,759721.1002,,2929369.6610000003,2015
+171976,152023237.0,Monday,No,2015-03-23T10:16:00.000,MedAssist,"[-71.06013, 42.298741]",Point,MedAssist,3,IVPER,0,C11,Day,No,PARK ST,Part three,Unarmed,775166.5959,,2934196.0110000004,2015
+198738,152023708.0,Monday,No,2015-03-23T18:00:00.000,MedAssist,"[-71.12032, 42.27113]",Point,MedAssist,3,INJOFF,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,758927.8941,,2924055.628,2015
+201229,152023490.0,Monday,No,2015-03-23T19:45:00.000,MedAssist,"[-71.058565, 42.326581]",Point,MedAssist,3,AB,0,C6,First,No,BOSTON ST,Part three,Unarmed,775537.4725,,2944343.5310000004,2015
+213119,152023245.0,Monday,No,2015-03-23T09:15:00.000,MedAssist,"[-71.08417, 42.288116]",Point,MedAssist,3,IVPER,0,B3,Day,No,CALLENDER ST,Part three,Unarmed,768681.8887,,2930291.482,2015
+266769,152023218.0,Monday,No,2015-03-23T10:14:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,POISON,0,A7,Day,No,WHITE ST,Part three,Unarmed,,,,2015
+266789,152023214.0,Monday,No,2015-03-23T10:04:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,REQEP,0,C6,Day,No,MT VERNON ST,Part three,Unarmed,,,,2015
+266807,152023681.0,Monday,No,2015-03-23T11:26:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,EDP,0,C6,Day,No,MT VERNON ST,Part three,Unarmed,,,,2015

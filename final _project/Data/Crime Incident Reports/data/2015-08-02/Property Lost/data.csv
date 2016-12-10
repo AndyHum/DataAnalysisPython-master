@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23013,,Sunday,No,2015-08-02T01:00:00.000,Property Lost,"[0, 0]",Point,PropLost,8,PROP,624,D4,,No,LANSDOWNE ST,Part Three,None,,,,2015
+93864,,Sunday,No,2015-08-02T00:00:00.000,Property Lost,"[-71.068862, 42.347017]",Point,PropLost,8,MISC,161,D4,,No,TREMONT ST,Part Three,None,772715.0,,2950000.0,2015
+113656,,Sunday,No,2015-08-02T02:15:00.000,Property Lost,"[0, 0]",Point,PropLost,8,,111,A1,,No,BOYLSTON ST,Part Three,None,, TREMONT ST ,,2015
+159028,,Sunday,No,2015-08-02T00:00:00.000,Property Lost,"[-71.086077, 42.288347]",Point,PropLost,8,PROP,439,B3,,No,FLOYD ST,Part Three,None,768165.0,,2930000.0,2015
+177149,,Sunday,No,2015-08-02T00:00:00.000,Property Lost,"[-71.083956, 42.34342]",Point,PropLost,8,PROP,145,D4,,No,HUNTINGTON AVE,Part Three,None,768641.0,,2950000.0,2015
+218985,,Sunday,No,2015-08-02T00:00:00.000,Property Lost,"[-71.061306, 42.351155]",Point,PropLost,8,,117,A1,,No,HARRISON AVE,Part Three,None,774750.0,,2950000.0,2015
+232733,,Sunday,No,2015-08-02T00:00:00.000,Property Lost,"[-71.058524, 42.359721]",Point,PropLost,8,PROP,0,,,No,CITY HALL,Part Three,None,775486.0,CAMBRIDGE ST,2960000.0,2015
+242557,,Sunday,No,2015-08-02T16:54:00.000,Property Lost,"[0, 0]",Point,PropLost,8,PROP,114,A1,,No,ATLANTIC AVE,Part Three,None,,CONGRESS ST,,2015

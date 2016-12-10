@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39317,140233237.0,Sunday,No,2014-04-13T15:00:00.000,PropFound,"[-71.132495, 42.349371]",Point,PropFound,4,FDPROP,778,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,755510.0434,,2952553.8439999996,2014
+97967,140224428.0,Sunday,No,2014-04-13T17:00:00.000,PropFound,"[-71.10383, 42.322836]",Point,PropFound,4,IVPREM,912,E13,First,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2014
+102139,140296683.0,Sunday,No,2014-04-13T19:00:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,4,FDPROP,574,E13,First,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2014
+224097,140223710.0,Sunday,No,2014-04-13T10:15:00.000,PropFound,"[-71.05945, 42.356321]",Point,PropFound,4,FDPROP,105,A1,Day,No,FRANKLIN ST,Part three,Unarmed,775242.1801,WASHINGTON ST,2955180.083,2014

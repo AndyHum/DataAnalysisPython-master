@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21798,152011710.0,Friday,No,2015-02-13T10:21:00.000,Service,"[-71.069555, 42.272641]",Point,Service,2,IVPER,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772664.8342,,2924671.8,2015
+73205,152011716.0,Friday,No,2015-02-13T11:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+88697,152015480.0,Friday,No,2015-02-13T12:00:00.000,Service,"[-71.08257, 42.314951]",Point,Service,2,IVPER,0,B2,Day,No,KAVANAUGH WAY,Part three,Unarmed,769066.9552,,2940072.682,2015
+136424,152014767.0,Friday,No,2015-02-13T01:00:00.000,Service,"[-71.070845, 42.306821]",Point,Service,2,RAPE,0,C11,Last,No,RICHFIELD PARK,Part three,Unarmed,772253.0351,,2937125.7189999996,2015
+267908,152011901.0,Friday,No,2015-02-13T21:27:00.000,Service,"[0, 0]",Point,Service,2,ARREST,0,B2,First,No,MT PLEASANT AV,Part three,Unarmed,,,,2015

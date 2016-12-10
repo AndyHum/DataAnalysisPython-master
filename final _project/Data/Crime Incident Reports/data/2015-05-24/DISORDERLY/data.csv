@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1773,152042686.0,Sunday,No,2015-05-24T19:59:00.000,DISORDERLY,"[0, 0]",Point,24xx,5,DVIP,0,E18,First,No,CUMMINS HY,Part Two,Other,,,,2015
+183074,152042529.0,Sunday,No,2015-05-24T05:22:00.000,DISORDERLY,"[-71.09583, 42.279046]",Point,24xx,5,FIGHT,0,B3,Last,No,WALK HILL ST,Part Two,Unarmed,765542.6188,,2926971.079,2015
+208792,152042688.0,Sunday,No,2015-05-24T20:45:00.000,DISORDERLY,"[-71.059415, 42.359251]",Point,24xx,5,ARREST,0,A1,First,No,CITY HALL PZ,Part Two,Unarmed,775246.1256,,2956247.881,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48442,120525394.0,Thursday,No,2012-08-23T13:18:00.000,FORGERY,"[-71.1323, 42.236296]",Point,10xx,8,ARREST,527,E18,Day,No,HYDE PARK AV,Part Two,Unarmed,755740.3887,,2911347.7610000004,2012
+100284,120526150.0,Thursday,No,2012-08-23T18:30:00.000,FORGERY,"[-71.089325, 42.270161]",Point,10xx,8,LARCRT,424,B3,First,No,RIVER ST,Part Two,Unarmed,767318.5657,,2923741.673,2012
+112676,120525255.0,Thursday,No,2012-08-23T01:18:00.000,FORGERY,"[-71.066465, 42.326346]",Point,10xx,8,LARCRT,182,C6,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,773401.6479999999,,2944246.936,2012

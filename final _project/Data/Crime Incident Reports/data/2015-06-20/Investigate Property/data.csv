@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45672,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.062004, 42.37985]",Point,InvProp,6,IVPER,44,A15,,No,ELM ST,Part Three,None,774508.0,,2960000.0,2015
+74687,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.08756, 42.295764]",Point,InvProp,6,SSA,444,B3,,No,BLUE HILL AVE,Part Three,None,767751.0,,2930000.0,2015
+110436,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.046372, 42.319212]",Point,InvProp,6,IVMV,256,C6,,No,MOUNT VERNON ST,Part Three,None,778849.0,,2940000.0,2015
+119575,,Saturday,No,2015-06-20T00:56:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,SSA,458,B3,,No,OLD RD,Part Three,None,,,,2015
+125246,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.142102, 42.354375]",Point,InvProp,6,ALARM,804,D14,,No,N BEACON ST,Part Three,None,752905.0,,2950000.0,2015
+148371,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.085088, 42.315085]",Point,InvProp,6,IVPREM,313,B2,,No,WYOMING ST,Part Three,None,768386.0,,2940000.0,2015
+168357,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.052022, 42.292141]",Point,InvProp,6,BE,377,C11,,No,S MUNROE TER,Part Three,None,777372.0,,2930000.0,2015
+182081,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.068555, 42.351251]",Point,InvProp,6,ALARM,118,A1,,No,COLUMBUS AVE,Part Three,None,772790.0,,2950000.0,2015
+188958,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.094529, 42.277915]",Point,InvProp,6,SSA,468,B3,,No,WALK HILL ST,Part Three,None,765896.0,,2930000.0,2015
+191103,,Saturday,No,2015-06-20T08:36:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,REQP,0,,,No,WASHINGTON,Part Three,None,,MEDFORD ST,,2015
+199550,,Saturday,No,2015-06-20T00:00:00.000,Investigate Property,"[-71.058556, 42.287244]",Point,InvProp,6,IVPREM,392,C11,,No,ASHMONT ST,Part Three,None,775614.0,,2930000.0,2015

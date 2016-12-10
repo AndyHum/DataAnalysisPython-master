@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116770,152030338.0,Monday,No,2015-04-13T16:00:00.000,PropLost,"[-71.078586, 42.32835]",Point,PropLost,4,PROP,0,B2,First,No,DUDLEY ST,Part three,Unarmed,770120.2868,MT PLEASANT AV,2944960.5310000004,2015
+132785,152030252.0,Monday,No,2015-04-13T15:30:00.000,PropLost,"[-71.066494, 42.297826]",Point,PropLost,4,LARCEN,0,C11,Day,No,WALDECK ST,Part three,Unarmed,773446.3907,,2933853.7410000004,2015
+190143,152029926.0,Monday,No,2015-04-13T11:30:00.000,PropLost,"[-71.124155, 42.255601]",Point,PropLost,4,PROP,0,E18,Day,No,HYDE PARK AV,Part three,Other,757915.0527,,2918392.3510000003,2015
+213256,152030058.0,Monday,No,2015-04-13T18:00:00.000,PropLost,"[-71.085113, 42.324962]",Point,PropLost,4,IVPER,0,B2,First,No,REGENT ST,Part three,Unarmed,768361.2726,,2943717.4680000003,2015
+228316,152031397.0,Monday,No,2015-04-13T12:00:00.000,PropLost,"[-71.133629, 42.347441]",Point,PropLost,4,PROP,0,D14,Day,No,BRAINERD RD,Part three,Unarmed,755206.4708,,2951849.0539999995,2015
+267658,152030126.0,Monday,No,2015-04-13T18:45:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+267662,152030136.0,Monday,No,2015-04-13T20:45:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,E13,First,No,CENTRE ST,Part three,Other,,,,2015
+267672,152029963.0,Monday,No,2015-04-13T13:15:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,A1,Day,No,STANIFORD ST,Part three,Unarmed,,,,2015
+267695,152030218.0,Monday,No,2015-04-13T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D4,Day,No,W DEDHAM ST,Part three,Unarmed,,,,2015
+267708,152030282.0,Monday,No,2015-04-13T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D14,First,No,LANSDOWNE ST,Part three,Unarmed,,BROOKLINE AV,,2015

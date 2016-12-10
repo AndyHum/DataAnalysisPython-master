@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+124772,130266365.0,Sunday,No,2013-05-05T07:00:00.000,DRUG CHARGES,"[-71.104273, 42.309722]",Point,18xx,5,INVEST,574,E13,Last,No,WASHINGTON ST,Part Two,Other,763205.8082,,2938139.2,2013
+155506,130266622.0,Sunday,No,2013-05-05T16:32:00.000,DRUG CHARGES,"[-71.078586, 42.32835]",Point,18xx,5,SSTOP ,279,B2,First,No,DEARBORN ST,Part Two,Unarmed,770120.2868,,2944960.5310000004,2013
+157608,130265599.0,Sunday,No,2013-05-05T01:45:00.000,DRUG CHARGES,"[-71.071089, 42.320002]",Point,18xx,5,IVPER ,183,B2,Last,No,DUDLEY ST,Part Two,Other,772162.7988,,2941928.534,2013
+251798,130267207.0,Sunday,No,2013-05-05T22:43:00.000,DRUG CHARGES,"[-71.16441, 42.277141]",Point,18xx,5,TSTOP ,721,E5,First,No,SPRING ST,Part Two,Other,746986.4525,,2926196.389,2013

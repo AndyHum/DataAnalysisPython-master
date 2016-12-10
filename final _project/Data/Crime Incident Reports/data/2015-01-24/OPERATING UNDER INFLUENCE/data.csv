@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135151,152006480.0,Saturday,No,2015-01-24T01:45:00.000,OPERATING UNDER INFLUENCE,"[-71.052855, 42.352854]",Point,21xx,1,ARREST,0,A1,Last,No,CONGRESS ST,Part Two,Other,777031.1407,,2953925.651,2015
+249365,152006548.0,Saturday,No,2015-01-24T08:50:00.000,OPERATING UNDER INFLUENCE,"[-71.07928, 42.328551]",Point,21xx,1,MVA,0,B2,Day,No,DUDLEY ST,Part Two,Unarmed,769932.332,DEARBORN ST,2945033.122,2015
+262216,152006454.0,Saturday,No,2015-01-24T00:06:00.000,OPERATING UNDER INFLUENCE,"[0, 0]",Point,21xx,1,ARREST,0,A7,Last,No,CHELSEA CT,Part Two,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+187725,,Friday,No,2015-07-24T00:00:00.000,Fire Related Reports,"[-71.106331, 42.301357]",Point,Fire,7,FIRE,510,E13,,No,FOREST HILLS ST,Part Three,None,762663.0,,2940000.0,2015
+202041,,Friday,No,2015-07-24T00:00:00.000,Fire Related Reports,"[-71.072567, 42.343466]",Point,Fire,7,FIRE,152,D4,,No,TREMONT ST,Part Three,None,771720.0,,2950000.0,2015
+206689,,Friday,No,2015-07-24T00:00:00.000,Fire Related Reports,"[-71.093926, 42.348805]",Point,Fire,7,REQP,0,,,No,COMMONWEALTH,Part Two,None,765937.0,KENMORE ST,2950000.0,2015

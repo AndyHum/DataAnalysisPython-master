@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24927,140292499.0,Sunday,No,2014-05-11T11:45:00.000,PropLost,"[-71.056357, 42.320993]",Point,PropLost,5,LSTPRP,235,C6,Day,No,COLUMBIA RD,Part three,Unarmed,776144.9394,,2942310.3,2014
+62011,140290979.0,Sunday,No,2014-05-11T15:50:00.000,PropLost,"[-71.070505, 42.346036]",Point,PropLost,5,LARCRT,151,D4,Day,No,BERKELEY ST,Part three,Unarmed,772273.0459,,2951416.795,2014
+70514,140291338.0,Sunday,No,2014-05-11T07:00:00.000,PropLost,"[-71.041115, 42.369406]",Point,PropLost,5,IVPER ,907,A7,Last,No,SUMNER ST,Part three,Unarmed,780172.2099,,2959974.6380000003,2014
+217115,140293553.0,Sunday,No,2014-05-11T17:00:00.000,PropLost,"[-71.120857, 42.268922]",Point,PropLost,5,LSTPRP,496,E18,First,No,HYDE PARK AV,Part three,Unarmed,758786.1749,,2923250.512,2014

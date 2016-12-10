@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58288,142014100.0,Tuesday,No,2014-07-29T13:50:00.000,Service,"[-71.073901, 42.312496]",Point,Service,7,SS,0,B2,Day,No,QUINCY ST,Part three,Unarmed,771415.9646,,2939189.5960000004,2014
+59254,142014189.0,Tuesday,No,2014-07-29T18:45:00.000,Service,"[-71.064905, 42.352371]",Point,Service,7,IVPER,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+59877,142014160.0,Tuesday,No,2014-07-29T17:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,7,ARREST,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+90647,142014149.0,Tuesday,No,2014-07-29T17:00:00.000,Service,"[-71.098625, 42.346181]",Point,Service,7,CD9,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+215927,142013950.0,Tuesday,No,2014-07-29T00:30:00.000,Service,"[-71.06139, 42.352461]",Point,Service,7,ARREST,0,A1,Last,No,ESSEX ST,Part three,Unarmed,774725.0603,HARRISON AV,2953770.724,2014
+237302,142014115.0,Tuesday,No,2014-07-29T14:32:00.000,Service,"[-71.06388, 42.352321]",Point,Service,7,ARREST,0,A1,Day,No,HEAD PL,Part three,Unarmed,774052.2686,BOYLSTON ST,2953716.2539999997,2014
+261442,142014077.0,Tuesday,No,2014-07-29T12:46:00.000,Service,"[0, 0]",Point,Service,7,PROP,0,B2,Day,No,NEPONSET AV,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24801,140275608.0,Monday,No,2014-05-05T16:33:00.000,FIRE,"[-71.119022, 42.25556]",Point,FIRE,5,FIREB ,519,E18,First,No,PIERCE ST,Part three,Unarmed,759304.6913,,2918383.2810000004,2014
+29968,140274104.0,Monday,No,2014-05-05T01:00:00.000,FIRE,"[-71.06683, 42.307751]",Point,FIRE,5,FIREB ,335,C11,Last,No,COLEMAN ST,Part three,Unarmed,773337.3565,,2937470.117,2014
+210314,140276382.0,Monday,No,2014-05-05T21:52:00.000,FIRE,"[-71.14964, 42.278721]",Point,FIRE,5,FIREB ,701,E5,First,No,CELIA RD,Part three,Unarmed,750981.2220000001,,2926788.2369999997,2014

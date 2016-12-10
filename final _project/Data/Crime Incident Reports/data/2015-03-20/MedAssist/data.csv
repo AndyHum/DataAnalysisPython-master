@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6798,152022590.0,Friday,No,2015-03-20T19:35:00.000,MedAssist,"[-71.03922, 42.379016]",Point,MedAssist,3,ALARM,0,A7,First,No,MERIDIAN ST,Part three,Unarmed,780665.3756,,2963479.477,2015
+14042,152022348.0,Friday,No,2015-03-20T01:57:00.000,MedAssist,"[-71.15578, 42.264688]",Point,MedAssist,3,REQP,0,E5,Last,No,ROCKINGHAM AV,Part three,Other,749340.247,WASHINGTON ST,2921667.5330000003,2015
+28315,152022495.0,Friday,No,2015-03-20T14:20:00.000,MedAssist,"[-71.065153, 42.29921]",Point,MedAssist,3,EDP,0,C11,Day,No,WALDECK ST,Part three,Unarmed,773806.5957,,2934359.6689999998,2015
+59463,152022518.0,Friday,No,2015-03-20T15:41:00.000,MedAssist,"[-71.16702, 42.270214]",Point,MedAssist,3,ASLTIP,0,E5,Day,No,NORTHDALE RD,Part three,Unarmed,746289.9181,,2923669.167,2015
+70418,152022603.0,Friday,No,2015-03-20T20:58:00.000,MedAssist,"[-71.05241, 42.324251]",Point,MedAssist,3,EDP,0,C6,First,No,OLD COLONY AV,Part three,Unarmed,777206.3176,,2943503.115,2015
+76044,152022350.0,Friday,No,2015-03-20T02:52:00.000,MedAssist,"[-71.079057, 42.304682]",Point,MedAssist,3,UNCONS,0,C11,Last,No,BRINSLEY ST,Part three,Unarmed,770035.4845,,2936335.0760000004,2015
+90658,152022479.0,Friday,No,2015-03-20T13:45:00.000,MedAssist,"[-71.092125, 42.285731]",Point,MedAssist,3,EDP,0,B3,Day,No,BAIRD ST,Part three,Unarmed,766533.603,,2929411.962,2015
+192280,152022575.0,Friday,No,2015-03-20T19:00:00.000,MedAssist,"[-71.057506, 42.377612]",Point,MedAssist,3,REQEP,0,A15,First,No,OREILLY WY,Part three,Unarmed,775727.2191,,2962941.7210000004,2015
+222019,152022408.0,Friday,No,2015-03-20T10:16:00.000,MedAssist,"[-71.049795, 42.334196]",Point,MedAssist,3,INVEST,0,C6,Day,No,TUDOR ST,Part three,Unarmed,777894.3444,,2947130.962,2015
+222353,152022341.0,Friday,No,2015-03-20T01:02:00.000,MedAssist,"[-71.052955, 42.356501]",Point,MedAssist,3,IVPER,0,A1,Last,No,BATTERYMARCH ST,Part three,Unarmed,776997.3419,,2955254.813,2015
+266675,152022469.0,Friday,No,2015-03-20T13:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,UNCONS,0,E13,Day,No,CENTRE ST,Part three,Unarmed,,,,2015
+266681,152022361.0,Friday,No,2015-03-20T06:29:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,REQP,0,A1,Last,No,ARLINGTON ST,Part three,Unarmed,,,,2015
+266686,152022615.0,Friday,No,2015-03-20T21:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,IVPER,0,A7,First,No,BORDER ST,Part three,Unarmed,,,,2015
+266706,152022353.0,Friday,No,2015-03-20T03:50:00.000,MedAssist,"[0, 0]",Point,MedAssist,3,IVPER,0,D14,Last,No,HOLTON ST,Part three,Unarmed,,,,2015

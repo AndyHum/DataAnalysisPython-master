@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120681,120491024.0,Wednesday,No,2012-08-08T10:05:00.000,Service,"[-71.058105, 42.324441]",Point,Service,8,ARREST,186,C6,Day,No,BELLFLOWER ST,Part Three,Unarmed,775665.9046,,2943564.3260000004,2012
+128056,120491157.0,Wednesday,No,2012-08-08T05:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,8,IVPREM,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+158413,120493594.0,Wednesday,No,2012-08-08T12:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,AOD   ,257,C11,Day,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+165022,120491162.0,Wednesday,No,2012-08-08T11:25:00.000,Service,"[-71.088875, 42.291651]",Point,Service,8,SSTOP ,464,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,767402.6131,,2931573.5160000003,2012
+167521,120491879.0,Wednesday,No,2012-08-08T16:30:00.000,Service,"[-71.052654, 42.339646]",Point,Service,8,ARREST,200,C6,First,No,ST CASIMIR,Part Three,Unarmed,777110.8765,BROADWAY,2949112.756,2012
+234156,120491713.0,Wednesday,No,2012-08-08T09:30:00.000,Service,"[-71.089215, 42.340161]",Point,Service,8,IVPER ,283,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,767225.4855,,2949250.922,2012
+244572,120490743.0,Wednesday,No,2012-08-08T07:30:00.000,Service,"[-71.06462, 42.308971]",Point,Service,8,CD11  ,334,C11,Day,No,HENDRY ST,Part Three,Unarmed,773932.8812,,2937917.7460000003,2012

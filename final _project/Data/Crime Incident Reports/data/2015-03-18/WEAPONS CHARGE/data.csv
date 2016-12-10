@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94900,152021702.0,Wednesday,No,2015-03-18T02:03:00.000,WEAPONS CHARGE,"[-71.06739, 42.291076]",Point,15xx,3,ARREST,0,C11,Last,No,WAINWRIGHT ST,Part Two,Firearm,773216.7042,LITHGOW ST,2931392.728,2015
+103655,152021960.0,Wednesday,No,2015-03-18T21:14:00.000,WEAPONS CHARGE,"[-71.071014, 42.303664]",Point,15xx,3,SHOTS,0,C11,First,No,BOWDOIN ST,Part Two,Firearm,772212.9014,,2935974.8819999998,2015
+120046,152021907.0,Wednesday,No,2015-03-18T17:44:00.000,WEAPONS CHARGE,"[-71.085118, 42.298635]",Point,15xx,3,CD11,0,B3,First,No,ESMOND ST,Part Two,Unarmed,768406.6291,,2934123.522,2015
+249492,152021796.0,Wednesday,No,2015-03-18T10:45:00.000,WEAPONS CHARGE,"[-71.044145, 42.332866]",Point,15xx,3,ARREST,0,C6,Day,No,G ST,Part Two,Other,779424.5802,,2946654.4,2015
+266601,152021860.0,Wednesday,No,2015-03-18T15:00:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,3,ARREST,0,B3,Day,No,WASHINGTON ST,Part Two,Firearm,,,,2015

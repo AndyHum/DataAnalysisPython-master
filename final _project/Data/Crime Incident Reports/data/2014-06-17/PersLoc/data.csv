@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1248,142000146.0,Tuesday,No,2014-06-17T18:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,6,MISSIN,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+236459,142000431.0,Tuesday,No,2014-06-17T16:00:00.000,PersLoc,"[-71.07837, 42.337556]",Point,PersLoc,6,MISSIN,0,D4,First,No,MASSACHUSETTS AV,Other,Unarmed,770162.1788,,2948315.92,2014
+246757,142000194.0,Tuesday,No,2014-06-17T21:06:00.000,PersLoc,"[-71.090055, 42.294061]",Point,PersLoc,6,MISSIN,0,B3,First,No,WILBERT RD,Other,Unarmed,767079.1298,,2932450.22,2014

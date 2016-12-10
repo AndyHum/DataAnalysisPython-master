@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+153779,140115932.0,Friday,No,2014-02-21T15:00:00.000,BENoProp,"[-71.033755, 42.380536]",Point,BENoProp,2,BEIP  ,25,A7,Day,No,WHITE ST,Part One,Other,782138.9265,,2964041.42,2014
+247893,140108359.0,Friday,No,2014-02-21T11:03:00.000,BENoProp,"[-71.08324, 42.326272]",Point,BENoProp,2,IVPREM,281,B2,Day,No,WARREN ST,Part One,Unarmed,768865.372,,2944197.244,2014
+249347,140109250.0,Friday,No,2014-02-21T17:49:00.000,BENoProp,"[-71.065491, 42.305384]",Point,BENoProp,2,BERPT ,340,C11,First,No,DRAPER ST,Part One,Other,773703.9466,,2936609.337,2014

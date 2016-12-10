@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24940,120479587.0,Friday,No,2012-08-03T10:30:00.000,STOLEN PROPERTY CHARGES,"[-71.074875, 42.292741]",Point,13xx,8,ARREST,449,B3,Day,No,WHITFIELD ST,Part Two,Unarmed,771188.5048,,2931989.296,2012
+51132,120480603.0,Friday,No,2012-08-03T19:30:00.000,STOLEN PROPERTY CHARGES,"[-71.091047, 42.335729]",Point,13xx,8,ARREST,911,B2,First,No,ALBERT ST,Part Two,Unarmed,766737.7981,RUGGLES ST,2947633.3439999996,2012
+208490,120478890.0,Friday,No,2012-08-03T00:52:00.000,STOLEN PROPERTY CHARGES,"[-71.051865, 42.332631]",Point,13xx,8,ARREST,216,C6,Last,No,W 9TH ST,Part Two,Unarmed,777337.6536,,2946557.7010000004,2012

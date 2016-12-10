@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29785,152011015.0,Tuesday,No,2015-02-10T17:30:00.000,InvProp,"[-71.061515, 42.365357]",Point,InvProp,2,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774666.9647,CANAL ST,2958469.934,2015
+64813,152010992.0,Tuesday,No,2015-02-10T18:05:00.000,InvProp,"[-71.165835, 42.273811]",Point,InvProp,2,IVPREM,0,E5,First,No,BAKER ST,Part three,Other,746605.5661,,2924981.373,2015
+102934,152010806.0,Tuesday,No,2015-02-10T00:17:00.000,InvProp,"[-71.061552, 42.311798]",Point,InvProp,2,IVMV,0,C11,Last,No,DOWNER AV,Part three,Unarmed,774757.225,,2938952.006,2015
+246102,152010987.0,Tuesday,No,2015-02-10T17:31:00.000,InvProp,"[-71.078815, 42.350571]",Point,InvProp,2,ALARM,0,D4,First,No,NEWBURY ST,Part three,Unarmed,770018.4438,,2953058.235,2015
+260535,152010859.0,Tuesday,No,2015-02-10T09:50:00.000,InvProp,"[0, 0]",Point,InvProp,2,MVA,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,ASPINWALL RD,,2015
+264518,152010802.0,Tuesday,No,2015-02-10T01:10:00.000,InvProp,"[0, 0]",Point,InvProp,2,LARCEN,0,E5,Last,No,FLORENCE ST,Part three,Other,,,,2015

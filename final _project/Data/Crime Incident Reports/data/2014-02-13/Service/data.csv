@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32949,140091383.0,Thursday,No,2014-02-13T09:43:00.000,Service,"[-71.059987, 42.361648]",Point,Service,2,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+35722,140170257.0,Thursday,No,2014-02-13T09:00:00.000,Service,"[-71.060375, 42.352521]",Point,Service,2,INVEST,116,A1,Day,No,ESSEX ST,Part three,Unarmed,774999.3043,,2953794.002,2014
+117613,140091966.0,Thursday,No,2014-02-13T14:20:00.000,Service,"[-71.09369, 42.284843]",Point,Service,2,LARCRT,465,B3,Day,No,WELLINGTON HILL ST,Part three,Unarmed,766111.5599,,2929086.309,2014
+124509,140091689.0,Thursday,No,2014-02-13T12:20:00.000,Service,"[-71.06074, 42.356916]",Point,Service,2,AOD   ,103,A1,Day,No,BROMFIELD ST,Part three,Unarmed,774892.3963,,2955395.115,2014
+129467,140090854.0,Thursday,No,2014-02-13T00:50:00.000,Service,"[-71.056765, 42.320426]",Point,Service,2,ARREST,233,C11,Last,No,DORCHESTER AV,Part three,Unarmed,776035.8714,COLUMBIA RD,2942103.0719999997,2014
+131288,140091519.0,Thursday,No,2014-02-13T11:15:00.000,Service,"[-71.04625, 42.354256]",Point,Service,2,CD5   ,207,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+141510,140092288.0,Thursday,No,2014-02-13T16:20:00.000,Service,"[-71.091325, 42.284861]",Point,Service,2,ARREST,465,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+148136,140091599.0,Thursday,No,2014-02-13T11:35:00.000,Service,"[-71.03813, 42.377501]",Point,Service,2,CD11  ,23,A7,Day,No,LEXINGTON ST,Other,Unarmed,780962.8688,,2962928.974,2014
+164107,140092792.0,Thursday,No,2014-02-13T22:08:00.000,Service,"[-71.075267, 42.272373]",Point,Service,2,ARREST,0,B3,First,No,CEDAR ST,Part three,Unarmed,771119.3087,,2924566.3189999997,2014
+167509,140092823.0,Thursday,No,2014-02-13T22:44:00.000,Service,"[-71.14927, 42.281266]",Point,Service,2,ARREST,701,E5,First,No,PARK ST,Part three,Unarmed,751077.5378,GERTRUDE RD,2927716.084,2014

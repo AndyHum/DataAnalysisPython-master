@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77750,120524989.0,Thursday,No,2012-08-23T09:30:00.000,32GUN,"[-71.097395, 42.278141]",Point,32GUN,8,INVEST,465,B3,Day,No,ITASCA ST,Part Three,Unarmed,765120.6587,,2926639.2819999997,2012
+88986,120525118.0,Thursday,No,2012-08-23T10:45:00.000,32GUN,"[-71.083115, 42.348516]",Point,32GUN,8,IVPER ,138,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,768859.7706,,2952303.642,2012
+219070,120525432.0,Thursday,No,2012-08-23T14:00:00.000,32GUN,"[-71.144024, 42.346747]",Point,32GUN,8,INVEST,938,D14,Day,No,JETTE CT,Part Three,Firearm,752397.4732,,2951584.079,2012
+231342,120526257.0,Thursday,No,2012-08-23T20:15:00.000,32GUN,"[-71.15527, 42.285241]",Point,32GUN,8,FDPROP,736,E5,First,No,HASTINGS ST,Part Three,Unarmed,749448.0391,,2929158.017,2012

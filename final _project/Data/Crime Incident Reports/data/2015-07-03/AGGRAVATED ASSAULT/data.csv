@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33219,,Friday,No,2015-07-03T00:00:00.000,Aggravated Assault,"[-71.074364, 42.33556]",Point,04xx,7,STAB,180,B2,,No,DUDLEY ST,Part One,Knife/Cutting Instrument,771249.0,MAGAZINE ST,2950000.0,2015
+38749,,Friday,No,2015-07-03T00:00:00.000,Aggravated Assault,"[-71.033457, 42.378461]",Point,04xx,7,NIDV,824,A7,,No,PRINCETON ST,Part One,Blunt Object,782224.0,,2960000.0,2015
+80364,,Friday,No,2015-07-03T17:00:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,AB,162,D4,,No,HERALD ST,Part One,Knife/Cutting Instrument,, WASHINGTON ST ,,2015
+164287,,Friday,No,2015-07-03T00:00:00.000,Aggravated Assault,"[-71.057635, 42.290496]",Point,04xx,7,ARMROB,366,C11,,No,MALLET ST,Part One,Firearm,775857.0,,2930000.0,2015

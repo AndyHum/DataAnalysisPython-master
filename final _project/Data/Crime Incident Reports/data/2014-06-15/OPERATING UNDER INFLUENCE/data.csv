@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31239,140379196.0,Sunday,No,2014-06-15T13:12:00.000,OPERATING UNDER INFLUENCE,"[-71.051505, 42.338226]",Point,21xx,6,ARREST,216,C6,Day,No,D ST,Part Two,Other,777424.2715,,2948597.127,2014
+74830,140378611.0,Sunday,No,2014-06-15T03:46:00.000,OPERATING UNDER INFLUENCE,"[-71.0292, 42.378121]",Point,21xx,6,ARREST,17,A7,Last,No,CHELSEA ST,Part Two,Other,783374.4608,PRESCOTT ST,2963168.104,2014
+247291,140379578.0,Sunday,No,2014-06-15T16:42:00.000,OPERATING UNDER INFLUENCE,"[-71.07564, 42.294871]",Point,21xx,6,MVAINJ,447,B3,First,No,PARK ST,Part Two,Unarmed,770977.6665,THANE ST,2932764.4689999996,2014

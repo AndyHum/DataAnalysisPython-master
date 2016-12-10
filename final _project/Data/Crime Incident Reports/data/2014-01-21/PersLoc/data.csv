@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33063,140055112.0,Tuesday,No,2014-01-21T15:00:00.000,PersLoc,"[-71.07164, 42.309631]",Point,PersLoc,1,MISPER,333,C11,Day,No,HAMILTON ST,Other,Unarmed,772032.8483,,2938148.647,2014
+78737,140042907.0,Tuesday,No,2014-01-21T07:30:00.000,PersLoc,"[-71.066805, 42.292011]",Point,PersLoc,1,MISPER,361,C11,Day,No,ALLSTON ST,Other,Unarmed,773373.2534,,2931734.2589999996,2014
+133267,140044459.0,Tuesday,No,2014-01-21T08:15:00.000,PersLoc,"[-71.140793, 42.255029]",Point,PersLoc,1,MSNCOM,537,E18,Day,No,RALDNE RD,Other,Unarmed,753411.7205,,2918164.358,2014
+149001,140042510.0,Tuesday,No,2014-01-21T07:20:00.000,PersLoc,"[-71.081419, 42.321935]",Point,PersLoc,1,MISPER,296,B2,Last,No,COPELAND ST,Other,Unarmed,769365.6108,,2942619.2830000003,2014
+200188,140042767.0,Tuesday,No,2014-01-21T15:30:00.000,PersLoc,"[-71.119115, 42.271606]",Point,PersLoc,1,MISPER,498,E18,Day,No,CLARE AV,Other,Unarmed,759253.4211,,2924230.8389999997,2014
+215145,140044174.0,Tuesday,No,2014-01-21T16:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,1,CURFEW,806,D14,First,No,RICHARDSON ST,Other,Unarmed,752466.5655,MACKIN ST,2956934.99,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35731,142054092.0,Tuesday,No,2014-12-02T19:45:00.000,Service,"[-71.094615, 42.315776]",Point,Service,12,INVEST,0,E13,First,No,WESTMINSTER AV,Part three,Unarmed,765807.8026,,2940357.613,2014
+51316,142054137.0,Tuesday,No,2014-12-02T22:45:00.000,Service,"[-71.063873, 42.325436]",Point,Service,12,ARREST,0,C6,First,No,ALLSTATE RD,Part three,Unarmed,774104.1328,,2943918.604,2014
+62170,142053945.0,Tuesday,No,2014-12-02T11:20:00.000,Service,"[-71.060565, 42.361386]",Point,Service,12,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,774931.3031,,2957024.314,2014
+107741,142053872.0,Tuesday,No,2014-12-02T02:05:00.000,Service,"[-71.085257, 42.297402]",Point,Service,12,ARREST,0,B3,Last,No,WALES ST,Part three,Unarmed,768371.2601,,2933673.9289999995,2014
+111313,142053911.0,Tuesday,No,2014-12-02T09:01:00.000,Service,"[-71.059415, 42.359251]",Point,Service,12,ARREST,0,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+146242,142054015.0,Tuesday,No,2014-12-02T13:30:00.000,Service,"[-71.09154, 42.284251]",Point,Service,12,IVPER,0,B3,Day,No,MORTON ST,Part three,Unarmed,766694.479,BLUE HILL AV,2928873.385,2014
+199591,142053866.0,Tuesday,No,2014-12-02T00:54:00.000,Service,"[-71.063691, 42.287957]",Point,Service,12,IVPER,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,774223.1395,,2930260.961,2014
+250107,142053988.0,Tuesday,No,2014-12-02T13:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,12,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

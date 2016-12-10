@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5624,140161311.0,Sunday,No,2014-03-16T16:21:00.000,CRIMES AGAINST CHILDREN,"[-71.06677, 42.306461]",Point,20xx,3,INVCHD,340,C11,First,No,BOWDOIN ST,Part Two,Unarmed,773355.9772,,2937000.102,2014
+135064,140161490.0,Sunday,No,2014-03-16T16:56:00.000,CRIMES AGAINST CHILDREN,"[-71.05393, 42.331061]",Point,20xx,3,IVPER ,193,C6,First,No,JENKINS ST,Part Two,Unarmed,776782.2967,DORCHESTER ST,2945982.639,2014
+179782,140162077.0,Sunday,No,2014-03-16T23:28:00.000,CRIMES AGAINST CHILDREN,"[-71.083645, 42.341856]",Point,20xx,3,INVCHD,594,D4,First,No,MASSACHUSETTS AV,Part Two,Unarmed,768728.349,,2949875.913,2014

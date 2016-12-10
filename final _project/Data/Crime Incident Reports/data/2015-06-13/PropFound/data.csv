@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46477,152049120.0,Saturday,No,2015-06-13T19:22:00.000,PropFound,"[-71.08967, 42.312926]",Point,PropFound,6,IVMV,0,B2,First,No,HUMBOLDT AV,Part three,Other,767150.2196,CRAWFORD ST,2939325.421,2015
+124738,152049075.0,Saturday,No,2015-06-13T16:35:00.000,PropFound,"[-71.090384, 42.326138]",Point,PropFound,6,PROP,0,B2,First,No,LOGAN ST,Part three,Unarmed,766933.9037,,2944139.055,2015
+166245,152049157.0,Saturday,No,2015-06-13T22:00:00.000,PropFound,"[-71.08487, 42.303971]",Point,PropFound,6,PROP,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,768464.3646,,2936068.3589999997,2015
+246098,152049101.0,Saturday,No,2015-06-13T10:30:00.000,PropFound,"[-71.056795, 42.361926]",Point,PropFound,6,IVPREM,0,A1,Day,No,HANOVER ST,Part three,Unarmed,775949.176,BLACKSTONE ST,2957226.372,2015
+258404,152049557.0,Saturday,No,2015-06-13T15:00:00.000,PropFound,"[-71.098625, 42.346181]",Point,PropFound,6,PROP,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015

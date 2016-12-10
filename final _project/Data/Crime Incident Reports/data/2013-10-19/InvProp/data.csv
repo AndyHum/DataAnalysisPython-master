@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75577,130666438.0,Saturday,No,2013-10-19T01:10:00.000,InvProp,"[-71.112411, 42.284053]",Point,InvProp,10,ALARMC,503,E18,Last,No,AMERICAN LEGION HY,Part three,Other,761047.1773,,2928774.728,2013
+109794,130667823.0,Saturday,No,2013-10-19T18:29:00.000,InvProp,"[-71.068148, 42.271307]",Point,InvProp,10,ALARMR,388,C11,First,No,ADAMS ST,Part three,Unarmed,773047.8452,,2924187.454,2013
+128041,130667363.0,Saturday,No,2013-10-19T13:50:00.000,InvProp,"[-71.10247, 42.322921]",Point,InvProp,10,IVPER ,912,E13,Day,No,BICKFORD AV,Part three,Unarmed,763671.2087,CENTRE ST,2942951.374,2013
+155121,130667029.0,Saturday,No,2013-10-19T10:50:00.000,InvProp,"[-71.059945, 42.352506]",Point,InvProp,10,IVPREM,116,A1,Day,No,ESSEX ST,Part three,Other,775115.5622,,2953789.135,2013
+221166,130667316.0,Saturday,No,2013-10-19T13:51:00.000,InvProp,"[-71.07133, 42.344121]",Point,InvProp,10,IVPREM,160,D4,Day,No,TREMONT ST,Part three,Unarmed,772053.531,,2950717.812,2013

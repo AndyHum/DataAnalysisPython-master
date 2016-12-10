@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55303,140181574.0,Tuesday,No,2014-03-25T17:40:00.000,STOLEN PROPERTY CHARGES,"[-71.07408, 42.335766]",Point,13xx,3,ARREST,171,D4,First,No,HARRISON AV,Part Two,Unarmed,771325.3054,,2947669.374,2014
+72059,140180633.0,Tuesday,No,2014-03-25T12:41:00.000,STOLEN PROPERTY CHARGES,"[-71.049954, 42.377686]",Point,13xx,3,FDWEAP,38,A15,Day,No,1ST AV,Part Two,Firearm,777767.5231,,2962979.242,2014
+216518,140180708.0,Tuesday,No,2014-03-25T13:13:00.000,STOLEN PROPERTY CHARGES,"[-71.098253, 42.315627]",Point,13xx,3,ALARMH,572,E13,Day,No,COLUMBUS AV,Part Two,Other,764823.949,,2940298.416,2014

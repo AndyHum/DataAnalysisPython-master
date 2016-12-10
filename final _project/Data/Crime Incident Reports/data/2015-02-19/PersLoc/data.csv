@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11106,152013814.0,Thursday,No,2015-02-19T12:00:00.000,PersLoc,"[-71.08359, 42.299441]",Point,PersLoc,2,IVPER,0,B3,Day,No,MCLELLAN ST,Other,Unarmed,768818.6769,,2934419.245,2015
+27554,152013317.0,Thursday,No,2015-02-19T01:59:00.000,PersLoc,"[-71.060554, 42.364937]",Point,PersLoc,2,IVPER,0,A1,Last,No,CANAL ST,Other,Unarmed,774927.5836,,2958318.224,2015
+80656,152013488.0,Thursday,No,2015-02-19T16:27:00.000,PersLoc,"[-71.11808, 42.271606]",Point,PersLoc,2,IVPER,0,E18,First,No,BRADLEE ST,Other,Unarmed,759533.5422,,2924232.0919999997,2015
+147254,152013393.0,Thursday,No,2015-02-19T11:25:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,2,IVPER,0,B3,Day,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2015

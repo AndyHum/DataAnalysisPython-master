@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8598,142058404.0,Wednesday,No,2014-12-17T18:00:00.000,WEAPONS CHARGE,"[-71.03109, 42.380891]",Point,15xx,12,ARREST,0,A7,First,No,TRENTON ST,Part Two,Firearm,782858.2485,PRESCOTT ST,2964174.736,2014
+54011,142058323.0,Wednesday,No,2014-12-17T13:25:00.000,WEAPONS CHARGE,"[-71.03996, 42.377891]",Point,15xx,12,ARREST,0,A7,Day,No,BORDER ST,Part Two,Firearm,780467.6477,,2963068.4239999996,2014
+197992,142058444.0,Wednesday,No,2014-12-17T20:05:00.000,WEAPONS CHARGE,"[-71.05717, 42.379141]",Point,15xx,12,ARREST,0,A15,First,No,MEDFORD ST,Part Two,Other,775815.2571,OLD LANDING WY,2963499.34,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67120,152011176.0,Wednesday,No,2015-02-11T12:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,2,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+241357,152011165.0,Wednesday,No,2015-02-11T11:30:00.000,Service,"[-71.055095, 42.285216]",Point,Service,2,ARREST,0,C11,Day,No,ADAMS ST,Part three,Unarmed,776554.4304,,2929274.376,2015
+267875,152011460.0,Wednesday,No,2015-02-11T18:00:00.000,Service,"[0, 0]",Point,Service,2,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015

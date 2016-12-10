@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8886,140220239.0,Friday,No,2014-04-11T17:30:00.000,PropLost,"[-71.093803, 42.312588]",Point,PropLost,4,LARCRT,316,B2,First,No,SEAVER ST,Part three,Unarmed,766032.7238,,2939196.659,2014
+104991,140221475.0,Friday,No,2014-04-11T11:30:00.000,PropLost,"[-71.051365, 42.359702]",Point,PropLost,4,LSTPRP,95,A1,Day,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2014
+121704,140224062.0,Friday,No,2014-04-11T11:00:00.000,PropLost,"[-71.104345, 42.326101]",Point,PropLost,4,LSTPRP,584,E13,Day,No,HEATH ST,Part three,Unarmed,763158.7791,,2944107.865,2014
+171072,140224025.0,Friday,No,2014-04-11T20:00:00.000,PropLost,"[-71.15092, 42.343391]",Point,PropLost,4,LSTPRP,775,D14,First,No,WALLINGFORD RD,Part three,Other,750538.382,MELTON RD,2950353.69,2014
+259821,140238553.0,Friday,No,2014-04-11T20:00:00.000,PropLost,"[-71.087705, 42.340771]",Point,PropLost,4,LSTPRP,283,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767632.6471,,2949475.187,2014
+262392,140228531.0,Friday,No,2014-04-11T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,LSTPRP,152,A1,First,No,TREMONT ST,Part three,Unarmed,,,,2014
+263611,140222081.0,Friday,No,2014-04-11T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,4,INVEST,72,A1,First,No,TREMONT ST,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32085,130409345.0,Thursday,No,2013-07-04T00:30:00.000,DISORDERLY,"[-71.10178, 42.263721]",Point,24xx,7,IVPREM,483,E18,Last,No,RIVER ST,Part Two,Unarmed,763958.5244,MASSASOIT ST,2921378.8680000002,2013
+129819,130413818.0,Thursday,No,2013-07-04T23:00:00.000,DISORDERLY,"[-71.07442, 42.341701]",Point,24xx,7,IVPER ,158,D4,First,No,AGUADILLA ST,Part Two,Unarmed,771222.5871,TREMONT ST,2949831.736,2013
+211293,130410743.0,Thursday,No,2013-07-04T16:25:00.000,DISORDERLY,"[-71.09621, 42.312471]",Point,24xx,7,IVPER ,572,E13,First,No,WALNUT AV,Part Two,Unarmed,765382.1213,SCHOOL ST,2939151.171,2013

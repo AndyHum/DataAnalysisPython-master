@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21280,130636719.0,Saturday,No,2013-10-05T19:00:00.000,PersLoc,"[-71.13734, 42.277991]",Point,PersLoc,10,MISPER,520,E5,First,No,WASHINGTON ST,Other,Unarmed,754310.9585,,2926536.126,2013
+54527,130636074.0,Saturday,No,2013-10-05T19:01:00.000,PersLoc,"[-71.124869, 42.260867]",Point,PersLoc,10,MISPER,961,E18,First,No,SUMMER ST,Other,Unarmed,757713.2594,,2920310.207,2013
+70270,130637249.0,Saturday,No,2013-10-05T19:00:00.000,PersLoc,"[-71.10395, 42.329316]",Point,PersLoc,10,MSNCOM,585,B2,First,No,PARKER HILL AV,Other,Unarmed,763260.1548,,2945279.966,2013
+120565,130634557.0,Saturday,No,2013-10-05T01:15:00.000,PersLoc,"[-71.08421, 42.311696]",Point,PersLoc,10,MISPER,320,B2,Last,No,HOWLAND ST,Other,Unarmed,768629.0083,,2938884.2539999997,2013
+180773,130635501.0,Saturday,No,2013-10-05T14:00:00.000,PersLoc,"[-71.10568, 42.264481]",Point,PersLoc,10,IVPER ,487,E18,Day,No,TILESTON ST,Other,Unarmed,762901.5847,,2921650.917,2013
+256327,130636042.0,Saturday,No,2013-10-05T20:21:00.000,PersLoc,"[-71.080985, 42.283871]",Point,PersLoc,10,MSNCOM,434,B3,First,No,CAPEN ST,Other,Unarmed,769551.2774,,2928748.7610000004,2013

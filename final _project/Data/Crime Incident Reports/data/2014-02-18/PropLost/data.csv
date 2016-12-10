@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78020,140116120.0,Tuesday,No,2014-02-18T21:50:00.000,PropLost,"[-71.09908, 42.344211]",Point,PropLost,2,LSTPRP,627,D4,First,No,BOYLSTON ST,Part three,Unarmed,764551.4944,,2950714.1289999997,2014
+81996,140140307.0,Tuesday,No,2014-02-18T08:00:00.000,PropLost,"[-71.069185, 42.302856]",Point,PropLost,2,LARCRT,342,C11,Day,No,HOMES AV,Part three,Unarmed,772709.3577,,2935683.078,2014
+242058,140102772.0,Tuesday,No,2014-02-18T07:55:00.000,PropLost,"[-71.07632, 42.350356]",Point,PropLost,2,LSTPRP,134,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2014

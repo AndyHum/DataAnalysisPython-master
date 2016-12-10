@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30022,142056397.0,Wednesday,No,2014-12-10T23:23:00.000,DEATH INVESTIGATION,"[-71.066885, 42.362496]",Point,01INV,12,ALARM,0,A1,First,No,BLOSSOM ST,Part three,Unarmed,773221.1808,,2957420.083,2014
+67190,142056274.0,Wednesday,No,2014-12-10T15:16:00.000,DEATH INVESTIGATION,"[-71.07393, 42.348016]",Point,01INV,12,UNCONS,0,D4,Day,No,CLARENDON ST,Part three,Unarmed,771343.5626,,2952133.7010000004,2014
+120832,142056302.0,Wednesday,No,2014-12-10T16:52:00.000,DEATH INVESTIGATION,"[-71.1173, 42.283911]",Point,01INV,12,CARDIA,0,E18,First,No,MT HOPE ST,Part three,Unarmed,759724.5313,,2928717.1569999997,2014
+138543,142056233.0,Wednesday,No,2014-12-10T06:30:00.000,DEATH INVESTIGATION,"[-71.108935, 42.334281]",Point,01INV,12,UNCONS,0,B2,Last,No,NEW WHITNEY ST,Part three,Unarmed,761903.69,,2947083.078,2014

@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1329,152040145.0,Saturday,No,2015-05-16T13:25:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,EDP,0,B2,Day,No,GREENVILLE ST,Part three,Unarmed,,,,2015
+1336,152040207.0,Saturday,No,2015-05-16T17:20:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,UNKEMS,0,B3,First,No,NORFOLK ST,Part three,Unarmed,,,,2015
+1342,152040171.0,Saturday,No,2015-05-16T16:21:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,NIDV,0,E18,First,No,MARCY RD,Part three,Unarmed,,,,2015
+1356,152040035.0,Saturday,No,2015-05-16T03:45:00.000,MedAssist,"[0, 0]",Point,MedAssist,5,INJOFF,0,C11,Last,No,BELLEVUE ST,Part three,Unarmed,,,,2015
+17222,152040218.0,Saturday,No,2015-05-16T18:32:00.000,MedAssist,"[-71.150806, 42.336222]",Point,MedAssist,5,UNCONS,0,D14,First,No,BEACON ST,Part three,Unarmed,750579.7366,,2947741.336,2015
+20933,152039974.0,Saturday,No,2015-05-16T12:02:00.000,MedAssist,"[-71.136411, 42.2727]",Point,MedAssist,5,POISON,0,E5,Day,No,BLUE LEDGE DR,Part three,Unarmed,754570.4698,,2924609.102,2015
+33317,152040149.0,Saturday,No,2015-05-16T14:00:00.000,MedAssist,"[-71.14243, 42.349389]",Point,MedAssist,5,VAND,0,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2015
+38907,152040166.0,Saturday,No,2015-05-16T15:30:00.000,MedAssist,"[-71.064905, 42.352371]",Point,MedAssist,5,INVEST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2015
+62922,152040075.0,Saturday,No,2015-05-16T09:30:00.000,MedAssist,"[-71.076755, 42.354276]",Point,MedAssist,5,EDP,0,D4,Day,No,BEACON ST,Part three,Other,770568.5851,,2954411.163,2015
+65172,152040150.0,Saturday,No,2015-05-16T14:05:00.000,MedAssist,"[-71.123097, 42.250596]",Point,MedAssist,5,POISON,0,E18,Day,No,EASTON AV,Part three,Other,758209.286,,2916569.537,2015
+88260,152040224.0,Saturday,No,2015-05-16T18:41:00.000,MedAssist,"[-71.15251, 42.355526]",Point,MedAssist,5,UNKEMS,0,D14,First,No,FANEUIL ST,Part three,Unarmed,750090.5224,,2954774.1769999997,2015
+149478,152040238.0,Saturday,No,2015-05-16T19:33:00.000,MedAssist,"[-71.069245, 42.344491]",Point,MedAssist,5,MVA,0,D4,First,No,DWIGHT ST,Part three,Other,772616.5062,,2950855.488,2015
+186026,152040208.0,Saturday,No,2015-05-16T17:54:00.000,MedAssist,"[-71.078665, 42.321026]",Point,MedAssist,5,EDP,0,B2,First,No,ALASKA ST,Part three,Unarmed,770112.1776,,2942291.707,2015
+186733,152039830.0,Saturday,No,2015-05-16T15:00:00.000,MedAssist,"[-71.054005, 42.366181]",Point,MedAssist,5,ALARM,0,A1,Day,No,UNITY ST,Part three,Unarmed,776695.0971,,2958780.9069999997,2015

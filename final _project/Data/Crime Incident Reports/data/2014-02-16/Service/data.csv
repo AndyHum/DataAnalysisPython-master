@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37072,140098946.0,Sunday,No,2014-02-16T23:06:00.000,Service,"[-71.07903, 42.320369]",Point,Service,2,ARREST,265,B2,First,No,WAVERLY ST,Part three,Unarmed,770014.5147,,2942051.588,2014
+86424,140200912.0,Sunday,No,2014-02-16T00:00:00.000,Service,"[-71.079845, 42.322821]",Point,Service,2,IVPER ,296,B2,Last,No,COPELAND ST,Part three,Unarmed,769789.8386,,2942944.26,2014
+119486,140097626.0,Sunday,No,2014-02-16T09:15:00.000,Service,"[-71.05842, 42.357421]",Point,Service,2,ARREST,97,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775518.4991,SCHOOL ST,2955582.383,2014

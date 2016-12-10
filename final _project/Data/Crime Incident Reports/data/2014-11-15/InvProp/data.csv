@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16361,142049310.0,Saturday,No,2014-11-15T11:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,11,IVPREM,0,A1,Day,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014
+18829,152011233.0,Saturday,No,2014-11-15T14:00:00.000,InvProp,"[-71.061425, 42.354521]",Point,InvProp,11,LARCEN,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774711.7395,,2954521.3789999997,2014
+21400,142049145.0,Saturday,No,2014-11-15T07:30:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,CD19F,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+69099,142049303.0,Saturday,No,2014-11-15T21:00:00.000,InvProp,"[-71.091908, 42.320862]",Point,InvProp,11,DISTRB,0,B2,First,No,ELMORE ST,Part three,Unarmed,766530.9472,,2942214.5519999997,2014
+116525,142049082.0,Saturday,No,2014-11-15T01:44:00.000,InvProp,"[-71.080718, 42.303026]",Point,InvProp,11,DISTRB,0,B3,Last,No,SEAVER ST,Part three,Unarmed,769588.9781,,2935729.2989999996,2014
+163783,142049068.0,Saturday,No,2014-11-15T00:12:00.000,InvProp,"[-71.093815, 42.268396]",Point,InvProp,11,ALARM,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766106.3913,,2923092.665,2014
+199489,142049098.0,Saturday,No,2014-11-15T03:40:00.000,InvProp,"[-71.09853, 42.322581]",Point,InvProp,11,SSA,0,E13,Last,No,CENTRE ST,Part three,Unarmed,764737.2825,COLUMBUS AV,2942832.463,2014

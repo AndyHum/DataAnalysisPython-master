@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33200,140324177.0,Saturday,No,2014-05-24T16:00:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,5,CD19  ,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+85568,140323321.0,Saturday,No,2014-05-24T07:30:00.000,InvProp,"[-71.086215, 42.329596]",Point,InvProp,5,IVPREM,288,B2,Day,No,ROXBURY ST,Part three,Unarmed,768055.2283,,2945404.7660000003,2014
+186225,140324848.0,Saturday,No,2014-05-24T20:00:00.000,InvProp,"[-71.132365, 42.354111]",Point,InvProp,5,THREAT,801,D14,First,No,HARVARD AV,Part three,Unarmed,755537.7402,,2954281.348,2014
+195657,140323350.0,Saturday,No,2014-05-24T07:28:00.000,InvProp,"[-71.106187, 42.333032]",Point,InvProp,5,EDP2  ,605,B2,Last,No,WAIT ST,Part three,Unarmed,762648.7896,,2946631.079,2014
+216348,140323362.0,Saturday,No,2014-05-24T07:41:00.000,InvProp,"[-71.05633, 42.340496]",Point,InvProp,5,IVLIC ,199,C6,Day,No,GOLD ST,Part three,Other,776115.469,,2949417.5330000003,2014
+219523,140324786.0,Saturday,No,2014-05-24T11:00:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,5,IVPREM,92,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+254183,140324100.0,Saturday,No,2014-05-24T14:30:00.000,InvProp,"[-71.168351, 42.265484]",Point,InvProp,5,PDRPT ,723,E5,Day,No,VFW PY,Part three,Unarmed,745936.3873,,2921944.256,2014

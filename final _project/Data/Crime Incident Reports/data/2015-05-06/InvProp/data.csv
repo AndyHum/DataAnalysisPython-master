@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3579,152036888.0,Wednesday,No,2015-05-06T07:30:00.000,InvProp,"[0, 0]",Point,InvProp,5,CD9,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+72940,152036880.0,Wednesday,No,2015-05-06T06:39:00.000,InvProp,"[-71.08411, 42.328726]",Point,InvProp,5,SSA,0,B2,Last,No,DUDLEY ST,Part three,Unarmed,768625.9666,,2945090.4910000004,2015
+171707,152037173.0,Wednesday,No,2015-05-06T22:08:00.000,InvProp,"[-71.080255, 42.278906]",Point,InvProp,5,SHOTS,0,B3,First,No,MORTON ST,Part three,Firearm,769757.7157,GALLIVAN BL,2926940.417,2015

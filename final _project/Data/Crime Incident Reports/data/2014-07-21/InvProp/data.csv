@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43734,142011460.0,Monday,No,2014-07-21T16:00:00.000,InvProp,"[-71.090195, 42.294891]",Point,InvProp,7,IVPER,0,B3,First,No,FRANKLIN HILL AV,Part three,Unarmed,767039.7998,,2932752.503,2014
+76890,142011580.0,Monday,No,2014-07-21T23:56:00.000,InvProp,"[-71.10316, 42.326236]",Point,InvProp,7,SHOTS,0,E13,Last,No,HEATH ST,Part three,Unarmed,763478.9920000001,,2944158.5510000004,2014
+112300,142011400.0,Monday,No,2014-07-21T15:43:00.000,InvProp,"[-71.06898, 42.301436]",Point,InvProp,7,REQP,0,C11,Day,No,CORONA ST,Part three,Unarmed,772767.4281,,2935165.887,2014
+152952,142011518.0,Monday,No,2014-07-21T07:45:00.000,InvProp,"[-71.069815, 42.282456]",Point,InvProp,7,IVPREM,0,C11,Day,No,FULLER ST,Part three,Unarmed,772576.4249,,2928248.165,2014
+222599,142011528.0,Monday,No,2014-07-21T03:00:00.000,InvProp,"[-71.07799, 42.301961]",Point,InvProp,7,BE,0,B3,Last,No,NORWELL ST,Part three,Unarmed,770329.0944,,2935345.017,2014
+236219,142011459.0,Monday,No,2014-07-21T13:00:00.000,InvProp,"[-71.078033, 42.306252]",Point,InvProp,7,IVPER,0,B2,Day,No,COLUMBIA RD,Part three,Unarmed,770309.5344,,2936908.57,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3113,152029988.0,Monday,No,2015-04-13T14:38:00.000,FIRE,"[0, 0]",Point,FIRE,4,REQP,0,E13,Day,No,HEATH ST,Part three,Other,,,,2015
+121494,152029867.0,Monday,No,2015-04-13T07:45:00.000,FIRE,"[-71.055825, 42.295761]",Point,FIRE,4,FIRE,0,C11,Day,No,VICTORY RD,Part three,Unarmed,776336.8898,,2933116.0919999997,2015
+179187,152029905.0,Monday,No,2015-04-13T09:55:00.000,FIRE,"[-71.05484, 42.363456]",Point,FIRE,4,FO,0,A1,Day,No,HANOVER ST,Part three,Unarmed,776474.6268,,2957786.685,2015
+267679,152030035.0,Monday,No,2015-04-13T17:10:00.000,FIRE,"[0, 0]",Point,FIRE,4,FO,0,E5,First,No,VFW PY,Part three,Unarmed,,,,2015

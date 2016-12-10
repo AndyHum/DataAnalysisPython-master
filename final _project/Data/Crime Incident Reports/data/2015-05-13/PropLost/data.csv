@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1150,152039225.0,Wednesday,No,2015-05-13T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,,,,2015
+50882,152041198.0,Wednesday,No,2015-05-13T12:00:00.000,PropLost,"[-71.126886, 42.237239]",Point,PropLost,5,PROP,0,E18,Day,No,SIERRA RD,Part three,Unarmed,757204.8828,,2911697.675,2015
+67934,152039461.0,Wednesday,No,2015-05-13T11:00:00.000,PropLost,"[-71.046717, 42.336149]",Point,PropLost,5,PROP,0,C6,Day,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2015
+87064,152039206.0,Wednesday,No,2015-05-13T15:10:00.000,PropLost,"[-71.0892, 42.290746]",Point,PropLost,5,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767316.2688,,2931243.297,2015
+220216,152039447.0,Wednesday,No,2015-05-13T15:00:00.000,PropLost,"[-71.070975, 42.295251]",Point,PropLost,5,LARCEN,0,C11,Day,No,REGINA RD,Part three,Unarmed,772239.0765,,2932909.262,2015

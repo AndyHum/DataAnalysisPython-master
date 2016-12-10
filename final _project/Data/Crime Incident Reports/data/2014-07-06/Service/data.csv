@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120501,142006602.0,Sunday,No,2014-07-06T01:30:00.000,Service,"[-71.100635, 42.317666]",Point,Service,7,LARCEN,0,E13,Last,No,ATHERTON ST,Part three,Other,764176.4135,,2941038.6810000003,2014
+153912,142006513.0,Sunday,No,2014-07-06T09:00:00.000,Service,"[-71.0644, 42.347331]",Point,Service,7,VAND,0,A1,Day,No,MARGINAL RD,Part three,Other,773920.9976,WASHINGTON ST,2951897.086,2014
+214654,142006580.0,Sunday,No,2014-07-06T13:45:00.000,Service,"[-71.06758, 42.352791]",Point,Service,7,ARREST,0,A1,Day,No,CHARLES ST,Part three,Unarmed,773051.2799,BOYLSTON ST,2953882.438,2014
+263948,142006576.0,Sunday,No,2014-07-06T13:30:00.000,Service,"[0, 0]",Point,Service,7,ARREST,0,A1,Day,No,ARLINGTON ST,Part three,Unarmed,,MARLBOROUGH ST,,2014

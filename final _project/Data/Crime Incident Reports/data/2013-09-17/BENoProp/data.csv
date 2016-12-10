@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92806,130592547.0,Tuesday,No,2013-09-17T12:18:00.000,BENoProp,"[-71.120183, 42.28597]",Point,BENoProp,9,BEIP  ,563,E5,Day,No,FLORENCE ST,Part One,Unarmed,758940.8961,,2929463.7860000003,2013
+230503,130592118.0,Tuesday,No,2013-09-17T09:02:00.000,BENoProp,"[-71.06791, 42.280996]",Point,BENoProp,9,ALARMR,403,C11,Day,No,GALTY AV,Part One,Unarmed,773094.6184,,2927718.723,2013
+240346,130593102.0,Tuesday,No,2013-09-17T16:34:00.000,BENoProp,"[-71.07695, 42.308106]",Point,BENoProp,9,ARREST,329,B2,First,No,DEVON ST,Part One,Other,770599.3288,,2937585.745,2013
+253937,130594511.0,Tuesday,No,2013-09-17T22:00:00.000,BENoProp,"[-71.07773, 42.316836]",Point,BENoProp,9,BERPT ,324,B2,First,No,DEWEY ST,Part One,Unarmed,770372.5934,,2940766.0510000004,2013

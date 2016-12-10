@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46780,,Saturday,No,2015-06-27T12:33:00.000,Missing Person Located,"[0, 0]",Point,PersFound,6,IVPER,281,B2,,No,GREENVILLE ST,Part Three,None,,,,2015
+89164,,Saturday,No,2015-06-27T02:43:00.000,Missing Person Located,"[0, 0]",Point,PersFound,6,IVPER,806,D14,,No,RICHARDSON ST,Part Three,None,,,,2015
+112313,,Saturday,No,2015-06-27T00:00:00.000,Missing Person Located,"[-71.068607, 42.297034]",Point,PersFound,6,IVPER,358,C11,,No,LARCHMONT ST,Part Three,None,772876.0,,2930000.0,2015
+162683,,Saturday,No,2015-06-27T00:00:00.000,Missing Person Located,"[-71.080646, 42.329374]",Point,PersFound,6,IVPER,904,B2,,No,BETHUNE WAY,Part Three,None,769561.0,,2950000.0,2015

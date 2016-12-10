@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+201048,,Sunday,No,2015-07-12T16:25:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,ALARM,457,B3,,No,MCLELLAN ST,Part Three,None,,,,2015
+208135,,Sunday,No,2015-07-12T00:30:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,SHOTS,418,B3,,No,CAPEN ST,Part Three,None,,FULLER ST,,2015
+226589,,Sunday,No,2015-07-12T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,7,IVPREM,627,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015

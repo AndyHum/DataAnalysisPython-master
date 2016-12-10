@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30263,120805407.0,Monday,No,2012-12-24T08:00:00.000,PropLost,"[-71.077385, 42.288851]",Point,PropLost,12,LSTPRP,437,B3,Day,No,FERNDALE ST,Part Three,Unarmed,770516.43,,2930568.349,2012
+33003,120803823.0,Monday,No,2012-12-24T10:11:00.000,PropLost,"[-71.082855, 42.330921]",Point,PropLost,12,LSTPRP,287,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,768961.3803,,2945892.07,2012
+79860,120806463.0,Monday,No,2012-12-24T20:00:00.000,PropLost,"[-71.141721, 42.34306]",Point,PropLost,12,LSTPRP,786,D14,First,No,WASHINGTON ST,Part Three,Unarmed,753025.5063,,2950243.078,2012
+80435,120810737.0,Monday,No,2012-12-24T17:00:00.000,PropLost,"[-71.079605, 42.347101]",Point,PropLost,12,LSTPRP,167,D4,First,No,HUNTINGTON AV,Part Three,Unarmed,769811.1326,,2951792.646,2012
+123955,120814682.0,Monday,No,2012-12-24T22:30:00.000,PropLost,"[-71.0553, 42.352571]",Point,PropLost,12,LSTPRP,173,A1,First,No,SUMMER ST,Part Three,Unarmed,776370.9908,,2953819.333,2012
+126591,120806751.0,Monday,No,2012-12-24T12:30:00.000,PropLost,"[-71.063675, 42.352301]",Point,PropLost,12,LSTPRP,111,A1,Day,No,BOYLSTON ST,Part Three,Other,774107.7181,,2953709.249,2012
+248288,120803808.0,Monday,No,2012-12-24T10:00:00.000,PropLost,"[-71.074385, 42.335516]",Point,PropLost,12,LSTPRP,171,D4,Day,No,HARRISON AV,Part Three,Unarmed,771243.2964,,2947577.858,2012

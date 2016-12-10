@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61767,120699872.0,Tuesday,No,2012-11-06T13:30:00.000,FIRE,"[-71.111787, 42.333311]",Point,FIRE,11,REQP  ,611,B2,Day,No,RIVERWAY,Part Three,Unarmed,761134.1391,,2946725.921,2012
+146949,120700767.0,Tuesday,No,2012-11-06T20:42:00.000,FIRE,"[-71.08112, 42.292901]",Point,FIRE,11,FV    ,442,B3,First,No,TALBOT AV,Part Three,Unarmed,769498.5873,HELEN ST,2932039.244,2012
+195219,120700238.0,Tuesday,No,2012-11-06T16:00:00.000,FIRE,"[-71.07877, 42.310691]",Point,FIRE,11,INVEST,326,B2,First,No,NORMANDY ST,Part Three,Unarmed,770102.3793,,2938525.3219999997,2012
+258350,120698966.0,Tuesday,No,2012-11-06T03:08:00.000,FIRE,"[-71.101403, 42.263859]",Point,FIRE,11,FV    ,485,E18,Last,No,RIVER ST,Part Three,Unarmed,764060.2484,,2921429.3239999996,2012

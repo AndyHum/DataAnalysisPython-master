@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25084,120455456.0,Tuesday,No,2012-07-24T00:49:00.000,InvProp,"[-71.079178, 42.304207]",Point,InvProp,7,ALARMC,459,C11,Last,No,WASHINGTON ST,Part Three,Unarmed,770003.4383,,2936161.74,2012
+33995,120456272.0,Tuesday,No,2012-07-24T11:37:00.000,InvProp,"[-71.041077, 42.318032]",Point,InvProp,7,PERGUN,256,C6,Day,No,WESTWIND RD,Part Three,Unarmed,780283.1989,,2941252.986,2012
+37651,120457504.0,Tuesday,No,2012-07-24T20:30:00.000,InvProp,"[-71.062575, 42.352726]",Point,InvProp,7,ROBIP ,111,A1,First,No,WASHINGTON ST,Part Three,Unarmed,774404.2569,,2953865.65,2012
+77604,120456798.0,Tuesday,No,2012-07-24T09:15:00.000,InvProp,"[-71.03655, 42.339191]",Point,InvProp,7,IVPREM,209,C6,Day,No,ELKINS ST,Part Three,Other,781465.6335,,2948970.4060000004,2012
+193803,120466182.0,Tuesday,No,2012-07-24T09:00:00.000,InvProp,"[-71.06576, 42.373451]",Point,InvProp,7,ABANRE,931,A15,Day,No,WASHINGTON ST,Part Three,Other,773504.8988,,2961413.852,2012
+215006,120456848.0,Tuesday,No,2012-07-24T03:57:00.000,InvProp,"[-71.045125, 42.341426]",Point,InvProp,7,FIREB ,210,C6,Last,No,E ST,Part Three,Unarmed,779142.9617,,2949772.4,2012
+219182,120460138.0,Tuesday,No,2012-07-24T15:00:00.000,InvProp,"[-71.12124, 42.264851]",Point,InvProp,7,INVEST,495,E18,Day,No,HYDE PARK AV,Part Three,Unarmed,758689.2237,,2921766.664,2012
+240038,120456800.0,Tuesday,No,2012-07-24T11:30:00.000,InvProp,"[-71.044545, 42.347516]",Point,InvProp,7,IVPREM,203,C6,Day,No,SUMMER ST,Part Three,Other,779287.9190000001,,2951992.539,2012

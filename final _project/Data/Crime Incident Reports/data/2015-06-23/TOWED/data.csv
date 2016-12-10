@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140597,,Tuesday,No,2015-06-23T00:00:00.000,Towed,"[-71.108662, 42.329336]",Point,Towed,6,IVMV,606,B2,,No,FISHER AVE,Part Three,None,761986.0,,2950000.0,2015
+142544,,Tuesday,No,2015-06-23T00:00:00.000,Towed,"[-71.101251, 42.315171]",Point,Towed,6,IVMV,577,E13,,No,DALRYMPLE ST,Part Three,None,764014.0,,2940000.0,2015
+143930,,Tuesday,No,2015-06-23T00:00:00.000,Towed,"[-71.149745, 42.341549]",Point,Towed,6,IVMV,776,D14,,No,COMMONWEALTH AVE,Part Three,None,750859.0,,2950000.0,2015

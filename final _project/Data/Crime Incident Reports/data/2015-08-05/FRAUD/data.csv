@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29143,,Wednesday,No,2015-08-05T00:00:00.000,Fraud,"[-71.116365, 42.278107]",Point,11xx,8,,499,E18,,No,AMERICAN LEGION HWY,Part Two,None,759987.0,,2930000.0,2015
+86871,,Wednesday,No,2015-08-05T00:00:00.000,Fraud,"[-71.090491, 42.290424]",Point,11xx,8,MISC,464,B3,,No,GREENOCK ST,Part Two,None,766967.0,,2930000.0,2015
+134727,,Wednesday,No,2015-08-05T00:00:00.000,Fraud,"[-71.074669, 42.311507]",Point,11xx,8,IVPER,328,B2,,No,GREENHEYS ST,Part Two,None,771210.0,,2940000.0,2015

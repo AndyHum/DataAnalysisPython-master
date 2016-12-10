@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9992,130731581.0,Monday,No,2013-11-18T08:13:00.000,DISORDERLY,"[-71.063675, 42.352301]",Point,24xx,11,ARREST,111,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2013
+42440,130734278.0,Monday,No,2013-11-18T20:01:00.000,DISORDERLY,"[-71.074215, 42.303326]",Point,24xx,11,IVPER ,462,C11,First,No,ROSSETER ST,Part Two,Unarmed,771347.8181,,2935847.519,2013
+213957,130731947.0,Monday,No,2013-11-18T11:25:00.000,DISORDERLY,"[-71.0729, 42.333256]",Point,24xx,11,ARREST,172,D4,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2013

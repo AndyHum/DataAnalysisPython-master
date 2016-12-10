@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7259,,Monday,No,2015-07-20T00:00:00.000,Counterfeiting,"[-71.108806, 42.33749]",Point,10xx,7,,593,B2,,No,BROOKLINE AVE,Part Two,None,761933.0,,2950000.0,2015
+107681,,Monday,No,2015-07-20T17:00:00.000,Counterfeiting,"[0, 0]",Point,10xx,7,TS,297,B2,,No,DALE ST,Part Two,None,,WARREN ST,,2015
+134593,,Monday,No,2015-07-20T00:00:00.000,Counterfeiting,"[-71.063488, 42.349973]",Point,10xx,7,ARREST,123,A1,,No,WASHINGTON ST,Part Two,None,774162.0,,2950000.0,2015

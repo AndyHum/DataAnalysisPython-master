@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3769,130467392.0,Saturday,No,2013-07-27T16:30:00.000,InvProp,"[-71.06202, 42.379876]",Point,InvProp,7,IVLIC ,44,A15,First,No,ELM ST,Part three,Unarmed,774503.468,,2963760.4239999996,2013
+38116,130466910.0,Saturday,No,2013-07-27T11:30:00.000,InvProp,"[-71.06155, 42.295526]",Point,InvProp,7,CD19  ,361,C11,Day,No,DORCHESTER AV,Part three,Unarmed,774788.4638,,2933022.44,2013
+50755,130480165.0,Saturday,No,2013-07-27T19:14:00.000,InvProp,"[-71.082755, 42.281741]",Point,InvProp,7,IVPER ,417,B3,First,No,EVANS ST,Part three,Unarmed,769076.1199,,2927970.212,2013
+139267,130468201.0,Saturday,No,2013-07-27T21:49:00.000,InvProp,"[-71.085595, 42.345711]",Point,InvProp,7,SHOTS ,144,D4,First,No,ST GERMAIN ST,Part three,Other,768194.3464,,2951278.183,2013
+151289,130467945.0,Saturday,No,2013-07-27T19:43:00.000,InvProp,"[-71.119075, 42.279601]",Point,InvProp,7,ALARMC,501,E18,First,No,HYDE PARK AV,Part three,Unarmed,759251.2357,,2927144.3789999997,2013
+168273,130466433.0,Saturday,No,2013-07-27T04:10:00.000,InvProp,"[-71.08402, 42.332051]",Point,InvProp,7,SHOTS ,287,B2,Last,No,SHAWMUT AV,Part three,Firearm,768644.3942,RUGGLES ST,2946302.298,2013
+207892,130467732.0,Saturday,No,2013-07-27T15:30:00.000,InvProp,"[-71.059735, 42.297541]",Point,InvProp,7,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+223219,130467953.0,Saturday,No,2013-07-27T19:45:00.000,InvProp,"[-71.079605, 42.328539]",Point,InvProp,7,IVPREM,279,B2,First,No,DUDLEY ST,Part three,Unarmed,769844.413,,2945028.173,2013

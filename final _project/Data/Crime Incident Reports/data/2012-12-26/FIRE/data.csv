@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103129,120807386.0,Wednesday,No,2012-12-26T18:53:00.000,FIRE,"[-71.04811, 42.335256]",Point,FIRE,12,FIREB ,214,C6,First,No,GOLD ST,Part Three,Unarmed,778347.8894,,2947519.653,2012
+125030,120806078.0,Wednesday,No,2012-12-26T02:09:00.000,FIRE,"[-71.0557, 42.335811]",Point,FIRE,12,REQP  ,196,C6,Last,No,OLD COLONY AV,Part Three,Unarmed,776294.6855,,2947711.124,2012
+218944,120806054.0,Wednesday,No,2012-12-26T01:28:00.000,FIRE,"[-71.063605, 42.296326]",Point,FIRE,12,FIREB ,360,C11,Last,No,CENTERVALE PARK,Part Three,Other,774231.0009999999,,2933311.122,2012

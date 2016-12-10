@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80623,130744628.0,Sunday,No,2013-11-24T04:14:00.000,PropFound,"[-71.06041, 42.299431]",Point,PropFound,11,FDPROP,356,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775089.5518,,2934447.067,2013
+122595,130746711.0,Sunday,No,2013-11-24T20:45:00.000,PropFound,"[-71.0626, 42.352361]",Point,PropFound,11,FDPROP,112,A1,First,No,ESSEX ST,Part three,Unarmed,774398.1813,WASHINGTON ST,2953732.602,2013
+136148,130745577.0,Sunday,No,2013-11-24T17:30:00.000,PropFound,"[-71.06556, 42.339131]",Point,PropFound,11,FDPROP,167,D4,First,No,ALBANY ST,Part three,Unarmed,773622.6422,MALDEN ST,2948907.2569999998,2013
+224729,130745408.0,Sunday,No,2013-11-24T13:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,11,INVEST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+227868,130745249.0,Sunday,No,2013-11-24T14:05:00.000,PropFound,"[-71.148575, 42.287141]",Point,PropFound,11,FDPROP,691,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,,2929857.7989999996,2013

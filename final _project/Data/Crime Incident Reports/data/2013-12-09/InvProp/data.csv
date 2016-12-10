@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64473,130776880.0,Monday,No,2013-12-09T20:30:00.000,InvProp,"[-71.074615, 42.32577]",Point,InvProp,12,IVPREM,180,B2,First,No,DUNMORE ST,Part three,Firearm,771198.7111,,2944025.8639999996,2013
+80972,130775876.0,Monday,No,2013-12-09T12:30:00.000,InvProp,"[-71.051365, 42.359702]",Point,InvProp,12,MISC  ,101,A1,Day,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2013
+207070,130777032.0,Monday,No,2013-12-09T22:13:00.000,InvProp,"[-71.07547, 42.346214]",Point,InvProp,12,UNK   ,149,D4,First,No,DARTMOUTH ST,Part three,Unarmed,770930.358,,2951474.633,2013

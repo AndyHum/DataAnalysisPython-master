@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60000,152025907.0,Friday,No,2015-03-27T12:30:00.000,PersLoc,"[-71.11582, 42.262541]",Point,PersLoc,3,MISSIN,0,E18,Day,No,LEXINGTON AV,Other,Unarmed,760160.0941,,2920931.432,2015
+63975,152025088.0,Friday,No,2015-03-27T22:00:00.000,PersLoc,"[-71.0626, 42.309081]",Point,PersLoc,3,IVPER,0,C11,First,No,WINTER ST,Other,Unarmed,774479.0612,,2937960.627,2015
+76002,152024870.0,Friday,No,2015-03-27T08:49:00.000,PersLoc,"[-71.072674, 42.305479]",Point,PersLoc,3,IVPER,0,C11,Day,No,OLNEY ST,Other,Unarmed,771760.7317,,2936634.146,2015
+104928,152025066.0,Friday,No,2015-03-27T18:18:00.000,PersLoc,"[-71.10907, 42.338411]",Point,PersLoc,3,IVPER,0,B2,First,No,DEACONESS RD,Other,Unarmed,761860.5061,,2948587.962,2015
+125631,152025273.0,Friday,No,2015-03-27T08:00:00.000,PersLoc,"[-71.09486, 42.346715]",Point,PersLoc,3,MISSIN,0,D4,Day,No,IPSWICH ST,Other,Unarmed,765687.8183,,2951631.78,2015
+239540,152025286.0,Friday,No,2015-03-27T18:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,3,IVPER,0,D14,First,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015
+258915,152025272.0,Friday,No,2015-03-27T05:45:00.000,PersLoc,"[-71.07695, 42.308106]",Point,PersLoc,3,IVPER,0,B2,Last,No,DEVON ST,Other,Unarmed,770599.3288,,2937585.745,2015

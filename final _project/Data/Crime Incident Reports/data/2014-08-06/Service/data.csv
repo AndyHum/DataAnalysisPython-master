@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10218,142016710.0,Wednesday,No,2014-08-06T11:30:00.000,Service,"[-71.03685, 42.379501]",Point,Service,8,IVPER,0,A7,Day,No,EUTAW ST,Part three,Unarmed,781304.7602,,2963659.69,2014
+133635,142016829.0,Wednesday,No,2014-08-06T16:54:00.000,Service,"[-71.060565, 42.361386]",Point,Service,8,IVPER,0,A1,First,No,SUDBURY ST,Part three,Unarmed,774931.3031,,2957024.314,2014
+155718,142016861.0,Wednesday,No,2014-08-06T19:22:00.000,Service,"[-71.07501, 42.293091]",Point,Service,8,ARREST,0,B3,First,No,WHEATLAND AV,Part three,Unarmed,771151.344,WHITFIELD ST,2932116.659,2014
+225065,142016609.0,Wednesday,No,2014-08-06T02:55:00.000,Service,"[-71.05814, 42.352331]",Point,Service,8,ARREST,0,A1,Last,No,ESSEX ST,Part three,Unarmed,775603.787,SURFACE RD,2953727.883,2014
+264044,142016717.0,Wednesday,No,2014-08-06T11:45:00.000,Service,"[0, 0]",Point,Service,8,IVPER,0,C11,Day,No,MOON ISLAND,Part three,Unarmed,,,,2014

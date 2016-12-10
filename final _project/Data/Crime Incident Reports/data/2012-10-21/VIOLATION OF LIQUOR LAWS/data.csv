@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49256,120662586.0,Sunday,No,2012-10-21T01:23:00.000,VIOLATION OF LIQUOR LAWS,"[-71.104145, 42.331248]",Point,22xx,10,PARTY ,604,B2,Last,No,OSWALD ST,Part Two,Unarmed,763203.9971,,2945983.53,2012
+225144,120662337.0,Sunday,No,2012-10-21T00:10:00.000,VIOLATION OF LIQUOR LAWS,"[-71.101367, 42.330119]",Point,22xx,10,PARTY ,586,B2,Last,No,HILLSIDE ST,Part Two,Unarmed,763957.2066,,2945575.7389999996,2012
+265230,120662682.0,Sunday,No,2012-10-21T00:35:00.000,VIOLATION OF LIQUOR LAWS,"[0, 0]",Point,22xx,10,ARREST,915,C6,Last,No,JAMES ONEILL ST,Part Two,Other,,,,2012

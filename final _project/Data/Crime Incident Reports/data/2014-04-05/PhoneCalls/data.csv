@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33152,140208043.0,Saturday,No,2014-04-05T20:00:00.000,PhoneCalls,"[-71.069825, 42.344106]",Point,PhoneCalls,4,HARPT ,160,D4,First,No,MILFORD ST,Part three,Unarmed,772460.4186,,2950714.395,2014
+65358,140205384.0,Saturday,No,2014-04-05T12:48:00.000,PhoneCalls,"[-71.070463, 42.289629]",Point,PhoneCalls,4,THREAT,398,C11,Day,No,LITHGOW ST,Part three,Unarmed,772387.7698,,2930861.269,2014
+231788,140205068.0,Saturday,No,2014-04-05T11:10:00.000,PhoneCalls,"[-71.122378, 42.254414]",Point,PhoneCalls,4,HARPT ,521,E18,Day,No,MAPLE ST,Part three,Unarmed,758397.9218,,2917961.64,2014

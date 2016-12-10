@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73394,130280478.0,Saturday,No,2013-05-11T12:00:00.000,PropFound,"[-71.105529, 42.327046]",Point,PropFound,5,FDPROP,584,B2,Day,No,LAWN ST,Part Three,Other,762836.9766,,2944450.575,2013
+180633,130281195.0,Saturday,No,2013-05-11T18:40:00.000,PropFound,"[-71.130482, 42.349666]",Point,PropFound,5,FDPROP,796,D14,First,No,HARVARD AV,Part three,Unarmed,756053.6909,,2952663.646,2013
+266024,130280482.0,Saturday,No,2013-05-11T12:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,FDPROP,148,D4,Day,No,RUTLAND SQ,Part Three,Unarmed,,,,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+146449,130639300.0,Thursday,No,2013-10-03T08:00:00.000,DISORDERLY,"[-71.047375, 42.330816]",Point,24xx,10,HARPT ,915,C6,Day,No,OLD HARBOR ST,Part Two,Unarmed,778555.1994,,2945902.6939999997,2013
+174222,130631179.0,Thursday,No,2013-10-03T17:40:00.000,DISORDERLY,"[-71.080405, 42.329066]",Point,24xx,10,SSTOP ,904,B2,First,No,ZEIGLER ST,Part Two,Other,769627.2031,,2945219.3,2013
+180257,130630893.0,Thursday,No,2013-10-03T08:30:00.000,DISORDERLY,"[-71.03766, 42.371616]",Point,24xx,10,INVEST,28,A7,Day,No,GOVE ST,Part Two,Other,781101.4873,,2960785.048,2013
+244414,130631432.0,Thursday,No,2013-10-03T19:25:00.000,DISORDERLY,"[-71.051215, 42.339041]",Point,24xx,10,FIGHT ,201,C6,First,No,W BROADWAY,Part Two,Unarmed,777501.1149,,2948894.54,2013

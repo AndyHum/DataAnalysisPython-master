@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85214,130489837.0,Monday,No,2013-08-05T20:00:00.000,DEATH INVESTIGATION,"[-71.12525, 42.28566]",Point,01INV,8,SDNDTH,562,E5,First,No,FLORENCE ST,Part three,Unarmed,757570.4448,,2929344.666,2013
+117023,130488846.0,Monday,No,2013-08-05T11:00:00.000,DEATH INVESTIGATION,"[-71.037465, 42.371036]",Point,01INV,8,SDNDTH,29,A7,Day,No,CHELSEA ST,Part three,Unarmed,781155.3254,,2960573.97,2013
+236414,130491213.0,Monday,No,2013-08-05T21:00:00.000,DEATH INVESTIGATION,"[-71.03768, 42.381371]",Point,01INV,8,SDNDTH,25,A7,First,No,W EAGLE ST,Part three,Other,781076.8138,,2964339.943,2013
+263652,130489029.0,Monday,No,2013-08-05T14:29:00.000,DEATH INVESTIGATION,"[0, 0]",Point,01INV,8,SDNDTH,566,B2,Day,No,JEWISH WAR VETERANS,Part three,Other,,,,2013

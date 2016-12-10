@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40632,140209006.0,Monday,No,2014-04-07T06:54:00.000,FIRE,"[-71.11699, 42.320181]",Point,FIRE,4,FV    ,635,E13,Last,No,MORAINE ST,Part three,Unarmed,759749.0634,JAMAICAWAY,2941934.9039999996,2014
+91627,140208798.0,Monday,No,2014-04-07T01:26:00.000,FIRE,"[-71.062522, 42.350788]",Point,FIRE,4,ALARMC,117,A1,Last,No,KNEELAND ST,Part three,Unarmed,774421.9655,,2953159.211,2014
+156258,140210190.0,Monday,No,2014-04-07T16:45:00.000,FIRE,"[-71.143173, 42.356677]",Point,FIRE,4,FV    ,804,D14,First,No,GUEST ST,Part three,Unarmed,752612.2139,,2955203.8880000003,2014

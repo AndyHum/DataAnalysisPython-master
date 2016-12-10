@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+122715,130123817.0,Friday,No,2013-03-01T09:02:00.000,Arrest,"[-71.07497, 42.325271]",Point,Arrest,3,ARREST,263,B2,Day,No,DUDLEY ST,Part Three,Unarmed,771103.7314,BLUE HILL AV,2943843.613,2013
+171492,130123714.0,Friday,No,2013-03-01T08:04:00.000,Arrest,"[-71.091325, 42.284861]",Point,Arrest,3,ARREST,465,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2013
+221310,130123779.0,Friday,No,2013-03-01T09:00:00.000,Arrest,"[-71.145713, 42.254529]",Point,Arrest,3,ARREST,822,E5,Day,No,GEORGETOWNE PL,Part Three,Unarmed,752080.4544,,2917976.5160000003,2013

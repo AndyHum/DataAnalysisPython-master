@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96650,,Tuesday,No,2015-07-28T04:08:00.000,Robbery,"[0, 0]",Point,03xx,7,SS,156,D4,,No,SHAWMUT AVE,Part One,Other,,W SPRINGFIELD ST,,2015
+124736,,Tuesday,No,2015-07-28T00:00:00.000,Robbery,"[-71.084947, 42.302265]",Point,03xx,7,STAB,458,B3,,No,OLD RD,Part One,Knife/Cutting Instrument,768447.0,,2940000.0,2015
+131711,,Tuesday,No,2015-07-28T03:00:00.000,Robbery,"[0, 0]",Point,03xx,7,ARMROB,321,B2,,No,BLUE HILL AVE,Part One,Knife/Cutting Instrument,,OTISFIELD ST,,2015
+203124,,Tuesday,No,2015-07-28T00:00:00.000,Robbery,"[-71.010091, 42.385585]",Point,03xx,7,I00040,12,A7,,No,BENNINGTON ST,Part One,None,788522.0,,2970000.0,2015
+203636,,Tuesday,No,2015-07-28T03:00:00.000,Robbery,"[0, 0]",Point,03xx,7,,321,B2,,No,BLUE HILL AVE,Part One,Other,,OTISFIELD ST,,2015

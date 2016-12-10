@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+151534,142043535.0,Tuesday,No,2014-10-28T14:21:00.000,InvProp,"[-71.086605, 42.294496]",Point,InvProp,10,DISTRB,0,B3,Day,No,TALBOT AV,Part three,Unarmed,768011.6795,,2932613.022,2014
+155897,142043686.0,Tuesday,No,2014-10-28T22:33:00.000,InvProp,"[-71.074855, 42.350756]",Point,InvProp,10,SUSOBJ,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,771088.5381,,2953130.961,2014
+158319,142043974.0,Tuesday,No,2014-10-28T20:35:00.000,InvProp,"[-71.10278, 42.319866]",Point,InvProp,10,SSA,0,E13,First,No,LAMARTINE ST,Part three,Unarmed,763592.5594,,2941837.689,2014
+254798,142043567.0,Tuesday,No,2014-10-28T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,10,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014

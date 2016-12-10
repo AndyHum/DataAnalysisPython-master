@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102370,,Wednesday,No,2015-06-24T00:00:00.000,Auto Theft,"[-71.126072, 42.352221]",Point,07xx,6,IVMV,796,D14,,No,BRIGHTON AVE,Part One,None,757242.0,,2950000.0,2015
+117738,,Wednesday,No,2015-06-24T00:00:00.000,Auto Theft,"[-71.090896, 42.34884]",Point,07xx,6,,621,D4,,No,COMMONWEALTH AVE,Part One,None,766756.0,,2950000.0,2015
+143628,,Wednesday,No,2015-06-24T15:30:00.000,Auto Theft Recovery,"[0, 0]",Point,07RV,6,IVMV,393,C11,,No,DORCHESTER AVE,Other,None,,WRENTHAM ST,,2015
+253221,,Wednesday,No,2015-06-24T00:00:00.000,Auto Theft,"[-71.059105, 42.311905]",Point,07xx,6,IVMV,823,C11,,No,PLEASANT ST,Part One,None,775419.0,,2940000.0,2015

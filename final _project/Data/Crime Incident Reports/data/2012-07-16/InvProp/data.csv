@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10000,120438153.0,Monday,No,2012-07-16T14:34:00.000,InvProp,"[-71.07079, 42.300966]",Point,InvProp,7,SHOTS ,344,C11,Day,No,CORONA ST,Part Three,Unarmed,772278.647,,2934992.145,2012
+65212,120439024.0,Monday,No,2012-07-16T21:50:00.000,InvProp,"[-71.044005, 42.286401]",Point,InvProp,7,FIREB ,375,C11,First,No,NEPONSET AV,Part Three,Unarmed,779552.9562,,2929722.0530000003,2012
+149517,120437087.0,Monday,No,2012-07-16T02:59:00.000,InvProp,"[-71.073665, 42.282068]",Point,InvProp,7,SHOTS ,417,B3,Last,No,MORA ST,Part Three,Other,771535.1918,,2928101.3230000003,2012
+162080,120439083.0,Monday,No,2012-07-16T22:25:00.000,InvProp,"[-71.096636, 42.325361]",Point,InvProp,7,IVPER ,302,B2,First,No,MARCELLA ST,Part Three,Unarmed,765244.5341,,2943847.877,2012
+177971,120438399.0,Monday,No,2012-07-16T16:50:00.000,InvProp,"[-71.068945, 42.324806]",Point,InvProp,7,ALARMC,182,B2,First,No,NORFOLK AV,Part Three,Unarmed,772733.8583,,2943682.336,2012

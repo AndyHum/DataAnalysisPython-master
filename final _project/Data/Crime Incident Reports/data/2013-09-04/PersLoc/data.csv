@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68623,130565976.0,Wednesday,No,2013-09-04T06:30:00.000,PersLoc,"[-71.131165, 42.284826]",Point,PersLoc,9,MISPER,680,E5,Last,No,COHASSET ST,Other,Unarmed,755971.2708,,2929034.0689999997,2013
+106895,130561490.0,Wednesday,No,2013-09-04T17:00:00.000,PersLoc,"[-71.13895, 42.273961]",Point,PersLoc,9,IVPER ,550,E5,First,No,BLUE LEDGE DR,Other,Unarmed,753881.4755,HIGHCREST RD,2925065.688,2013
+172583,130561443.0,Wednesday,No,2013-09-04T08:45:00.000,PersLoc,"[-71.051325, 42.288981]",Point,PersLoc,9,MSNCOM,378,C11,Day,No,NEWHALL ST,Other,Unarmed,777567.3355,,2930651.7369999997,2013
+214503,130562085.0,Wednesday,No,2013-09-04T21:09:00.000,PersLoc,"[-71.079263, 42.30593]",Point,PersLoc,9,MISPER,329,B2,First,No,COLUMBIA RD,Other,Other,769977.5131,,2936789.672,2013

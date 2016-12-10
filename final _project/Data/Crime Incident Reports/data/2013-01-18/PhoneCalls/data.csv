@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12877,130037477.0,Friday,No,2013-01-18T07:00:00.000,PhoneCalls,"[-71.156407, 42.35504]",Point,PhoneCalls,1,THREAT,769,D14,Last,No,FANEUIL ST,Part Three,Unarmed,749037.7361,,2954592.557,2013
+54045,130037609.0,Friday,No,2013-01-18T10:00:00.000,PhoneCalls,"[-71.10501, 42.312381]",Point,PhoneCalls,1,HARPT ,574,E13,Day,No,CORNWALL ST,Part Three,Other,763002.1065,,2939107.228,2013
+181470,130038285.0,Friday,No,2013-01-18T16:00:00.000,PhoneCalls,"[-71.148575, 42.287141]",Point,PhoneCalls,1,IVPER ,691,E5,First,No,CENTRE ST,Part Three,Other,751256.7891,,2929857.7989999996,2013

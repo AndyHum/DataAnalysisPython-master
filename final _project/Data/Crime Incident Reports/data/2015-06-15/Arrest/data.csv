@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3104,152049501.0,Monday,No,2015-06-15T08:00:00.000,Arrest,"[0, 0]",Point,Arrest,6,CD11,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2015
+44059,152049649.0,Monday,No,2015-06-15T16:20:00.000,Arrest,"[-71.069665, 42.308156]",Point,Arrest,6,CD11,0,C11,First,No,HAMILTON ST,Part three,Unarmed,772569.7675,,2937613.8219999997,2015
+51946,152049519.0,Monday,No,2015-06-15T08:45:00.000,Arrest,"[-71.03887, 42.371246]",Point,Arrest,6,ARREST,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015

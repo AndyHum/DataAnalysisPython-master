@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10027,152048806.0,Friday,No,2015-06-12T17:47:00.000,PersMiss,"[-71.08851, 42.281636]",Point,PersMiss,6,IVPER,0,B3,First,No,VERRILL ST,Other,Unarmed,767518.9737,,2927924.383,2015
+56992,152049266.0,Friday,No,2015-06-12T23:00:00.000,PersMiss,"[-71.04923, 42.331291]",Point,PersMiss,6,IVPER,0,C6,First,No,MERCER ST,Other,Unarmed,778052.7024,,2946073.1360000004,2015
+92315,152048570.0,Friday,No,2015-06-12T00:38:00.000,PersMiss,"[-71.065463, 42.312484]",Point,PersMiss,6,IVPER,0,C11,Last,No,TRULL ST,Other,Unarmed,773698.2790000001,,2939196.77,2015
+98424,152048826.0,Friday,No,2015-06-12T06:00:00.000,PersMiss,"[-71.15251, 42.355526]",Point,PersMiss,6,MISSIN,0,D14,Last,No,FANEUIL ST,Other,Unarmed,750090.5224,,2954774.1769999997,2015
+197422,152049089.0,Friday,No,2015-06-12T15:00:00.000,PersMiss,"[-71.080471, 42.322391]",Point,PersMiss,6,MISSIN,0,B2,Day,No,COPELAND ST,Other,Unarmed,769621.2376,,2942786.6739999996,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10453,130744924.0,Sunday,No,2013-11-24T10:47:00.000,PersLoc,"[-71.09031, 42.272556]",Point,PersLoc,11,MSNCOM,424,B3,Day,No,MEROLA PARK,Other,Unarmed,767047.7785,,2924613.1610000003,2013
+49195,130745936.0,Sunday,No,2013-11-24T10:30:00.000,PersLoc,"[-71.08864, 42.286466]",Point,PersLoc,11,MISPER,430,B3,Day,No,LUCERNE ST,Other,Unarmed,767475.3082,,2929684.333,2013
+232283,130749820.0,Sunday,No,2013-11-24T19:00:00.000,PersLoc,"[-71.10205, 42.311961]",Point,PersLoc,11,MISPER,571,E13,First,No,WASHINGTON ST,Other,Unarmed,763803.4218,,2938957.895,2013
+260346,130745274.0,Sunday,No,2013-11-24T14:26:00.000,PersLoc,"[0, 0]",Point,PersLoc,11,MSNCOM,915,C6,Day,No,JAMES ONEILL ST,Other,Unarmed,,,,2013

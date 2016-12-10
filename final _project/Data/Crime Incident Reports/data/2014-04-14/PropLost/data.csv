@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32044,140238859.0,Monday,No,2014-04-14T09:00:00.000,PropLost,"[-71.131385, 42.23707]",Point,PropLost,4,INVEST,533,E18,Day,No,NEPONSET VALLEY PY,Part three,Unarmed,755986.7291,,2911630.837,2014
+81689,140245237.0,Monday,No,2014-04-14T11:00:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,4,LSTPRP,146,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769682.0757,,2951649.883,2014
+103320,140227551.0,Monday,No,2014-04-14T20:30:00.000,PropLost,"[-71.09212, 42.287476]",Point,PropLost,4,BERPT ,465,B3,First,No,JOHNSTON RD,Part three,Unarmed,766531.9163,,2930047.873,2014

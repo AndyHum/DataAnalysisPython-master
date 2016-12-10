@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+984,152017702.0,Thursday,No,2015-03-05T07:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+1224,152017474.0,Thursday,No,2015-03-05T13:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,SUSOBJ,0,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,,,,2015
+67435,152017683.0,Thursday,No,2015-03-05T01:23:00.000,InvProp,"[-71.07571, 42.319916]",Point,InvProp,3,SSA,0,B2,Last,No,GAYLAND ST,Part three,Firearm,770913.3282,,2941891.165,2015
+113837,152017770.0,Thursday,No,2015-03-05T11:49:00.000,InvProp,"[-71.06972, 42.307736]",Point,InvProp,3,SHOTS,0,C11,Day,No,BARRY ST,Part three,Unarmed,772555.6622,,2937460.693,2015
+146416,152017797.0,Thursday,No,2015-03-05T12:54:00.000,InvProp,"[-71.0361, 42.366286]",Point,InvProp,3,IVPER,0,A7,Day,No,WEBSTER ST,Part three,Other,781533.5937,,2958844.98,2015
+230518,152018105.0,Thursday,No,2015-03-05T12:00:00.000,InvProp,"[-71.063856, 42.321027]",Point,InvProp,3,PROP,0,B2,Day,No,E COTTAGE ST,Part three,Unarmed,774116.9615,,2942312.133,2015
+265905,152017857.0,Thursday,No,2015-03-05T15:25:00.000,InvProp,"[0, 0]",Point,InvProp,3,BE,0,B2,Day,No,BLUE HILL AV,Part three,Other,,,,2015

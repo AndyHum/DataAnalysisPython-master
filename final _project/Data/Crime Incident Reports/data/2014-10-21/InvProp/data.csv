@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95588,142041375.0,Tuesday,No,2014-10-21T18:37:00.000,InvProp,"[-71.06317, 42.372475]",Point,InvProp,10,IVPREM,0,A15,First,No,HARVARD ST,Part three,Other,774206.5362,,2961061.545,2014
+104379,142041447.0,Tuesday,No,2014-10-21T22:20:00.000,InvProp,"[-71.08199, 42.311698]",Point,InvProp,10,BE,0,B2,First,No,BRUNSWICK ST,Part three,Unarmed,769229.5458,,2938887.8230000003,2014
+153528,142041649.0,Tuesday,No,2014-10-21T15:00:00.000,InvProp,"[-71.103995, 42.333881]",Point,InvProp,10,LARCEN,0,B2,Day,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2014
+202146,142041139.0,Tuesday,No,2014-10-21T01:55:00.000,InvProp,"[-71.086716, 42.281419]",Point,InvProp,10,BE,0,B3,Last,No,MORTON ST,Part three,Unarmed,768004.7667,,2927847.627,2014
+226380,142041141.0,Tuesday,No,2014-10-21T03:35:00.000,InvProp,"[-71.094611, 42.268633]",Point,InvProp,10,SSA,0,B3,Last,No,FAIRWAY ST,Part three,Unarmed,765890.4759999999,,2923177.84,2014
+233262,142041330.0,Tuesday,No,2014-10-21T17:30:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,10,CD9,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+266157,142041215.0,Tuesday,No,2014-10-21T11:41:00.000,InvProp,"[0, 0]",Point,InvProp,10,IVPER,0,B3,Day,No,WINTHROP ST,Part three,Unarmed,,,,2014

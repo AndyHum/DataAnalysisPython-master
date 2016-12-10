@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+232993,142015323.0,Friday,No,2014-08-01T21:00:00.000,BENoProp,"[-71.03904, 42.372786]",Point,BENoProp,8,NIDV,0,A7,First,No,MERIDIAN ST,Part One,Unarmed,780726.2164,HAVRE ST,2961209.3510000003,2014
+245970,142015199.0,Friday,No,2014-08-01T15:20:00.000,BENoProp,"[-71.08971, 42.292981]",Point,BENoProp,8,ARREST,0,B3,Day,No,HARVARD ST,Part One,Unarmed,767174.3626,,2932057.099,2014
+247668,142015795.0,Friday,No,2014-08-01T17:00:00.000,BENoProp,"[-71.045375, 42.292311]",Point,BENoProp,8,VAND,0,C11,First,No,TENEAN ST,Part One,Other,779170.7782,,2931873.7589999996,2014

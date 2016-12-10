@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20207,130314323.0,Saturday,No,2013-05-25T19:30:00.000,DRUG CHARGES,"[-71.06071, 42.365801]",Point,18xx,5,SSTOP ,76,A1,First,No,CAUSEWAY ST,Part Two,Other,774883.8284,HAVERHILL ST,2958633.0239999997,2013
+80951,130314236.0,Saturday,No,2013-05-25T20:00:00.000,DRUG CHARGES,"[-71.09132, 42.314151]",Point,18xx,5,ARREST,314,B2,First,No,ABBOTTSFORD ST,Part Two,Unarmed,766701.8031,CRAWFORD ST,2939769.689,2013
+218950,130314209.0,Saturday,No,2013-05-25T19:52:00.000,DRUG CHARGES,"[-71.099227, 42.314407]",Point,18xx,5,ARREST,572,E13,First,No,SCHOOL ST,Part Two,Unarmed,764562.7782,,2939852.566,2013

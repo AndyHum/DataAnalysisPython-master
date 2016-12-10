@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20773,152010437.0,Sunday,No,2015-02-08T12:11:00.000,MedAssist,"[-71.06672, 42.373886]",Point,MedAssist,2,CARDIA,0,A15,Day,No,WASHINGTON ST,Part three,Unarmed,773244.6897,,2961571.0560000003,2015
+25740,152010371.0,Sunday,No,2015-02-08T03:36:00.000,MedAssist,"[-71.055415, 42.362861]",Point,MedAssist,2,EDP,0,A1,Last,No,HANOVER ST,Part three,Knife,776320.3603,,2957569.045,2015
+67124,152010337.0,Sunday,No,2015-02-08T00:46:00.000,MedAssist,"[-71.08874, 42.347016]",Point,MedAssist,2,EDP,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,767341.8596,,2951749.6319999998,2015
+69339,152010417.0,Sunday,No,2015-02-08T13:00:00.000,MedAssist,"[-71.07227, 42.355516]",Point,MedAssist,2,EDP,0,D4,Day,No,BEACON ST,Part three,Unarmed,771778.5899,,2954869.09,2015
+82084,152010392.0,Sunday,No,2015-02-08T10:25:00.000,MedAssist,"[-71.14381, 42.344226]",Point,MedAssist,2,UNKEMS,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,752459.245,,2950665.9280000003,2015
+101591,152010442.0,Sunday,No,2015-02-08T14:20:00.000,MedAssist,"[-71.03887, 42.371246]",Point,MedAssist,2,IVPER,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+179961,152010451.0,Sunday,No,2015-02-08T15:00:00.000,MedAssist,"[-71.016079, 42.38119]",Point,MedAssist,2,EDP,0,A7,Day,No,COWPER ST,Part three,Unarmed,786913.12,,2964306.2939999998,2015
+186273,152010367.0,Sunday,No,2015-02-08T00:16:00.000,MedAssist,"[-71.070005, 42.348241]",Point,MedAssist,2,IVPER,0,A1,Last,No,CORTES ST,Part three,Unarmed,772404.1598,,2952221.02,2015
+242496,152010499.0,Sunday,No,2015-02-08T19:31:00.000,MedAssist,"[-71.088645, 42.334806]",Point,MedAssist,2,IVPER,0,B2,First,No,TREMONT ST,Part three,Unarmed,767388.9993,,2947300.205,2015

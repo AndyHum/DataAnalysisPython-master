@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60753,130666551.0,Saturday,No,2013-10-19T02:00:00.000,PersLoc,"[-71.091355, 42.294011]",Point,PersLoc,10,INVCHD,463,B3,Last,No,LORNE ST,Other,Unarmed,766727.4986,,2932430.311,2013
+170264,130666237.0,Saturday,No,2013-10-19T01:00:00.000,PersLoc,"[-71.087645, 42.285741]",Point,PersLoc,10,MISPER,429,B3,Last,No,HARWOOD ST,Other,Unarmed,767745.8152,,2929421.435,2013
+258190,130669630.0,Saturday,No,2013-10-19T17:00:00.000,PersLoc,"[-71.058455, 42.291101]",Point,PersLoc,10,MISPER,365,C11,First,No,LONSDALE ST,Other,Unarmed,775634.1475,,2931414.229,2013

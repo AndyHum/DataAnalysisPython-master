@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79182,152011288.0,Wednesday,No,2015-02-11T16:56:00.000,DRUG CHARGES,"[-71.08703, 42.335661]",Point,18xx,2,TS,0,B2,First,No,TREMONT ST,Part Two,Unarmed,767824.1513,MELNEA CASS BL,2947613.892,2015
+193450,152011313.0,Wednesday,No,2015-02-11T18:26:00.000,DRUG CHARGES,"[-71.044345, 42.284861]",Point,18xx,2,LARCEN,0,C11,First,No,GALLIVAN BL,Part Two,Unarmed,779463.9551,,2929160.365,2015
+202938,152011319.0,Wednesday,No,2015-02-11T17:35:00.000,DRUG CHARGES,"[-71.08257, 42.348656]",Point,18xx,2,IVPREM,0,D4,First,No,BOYLSTON ST,Part Two,Unarmed,769006.8448,,2952355.38,2015
+262692,152011678.0,Wednesday,No,2015-02-11T14:11:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,2,IVPREM,0,C11,Day,No,CROFTLAND AV,Part Two,Unarmed,,ALICIA RD,,2015

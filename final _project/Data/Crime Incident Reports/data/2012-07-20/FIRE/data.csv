@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65949,120447318.0,Friday,No,2012-07-20T11:58:00.000,FIRE,"[-71.062245, 42.337802]",Point,FIRE,7,REQEP ,174,C6,Day,No,WIDETT CR,Part Three,Other,774521.3685,,2948427.227,2012
+145838,120458601.0,Friday,No,2012-07-20T11:09:00.000,FIRE,"[-71.1475, 42.345521]",Point,FIRE,7,FIREB ,777,D14,Day,No,LAROSE PL,Part Three,Other,751459.7447,,2951133.708,2012
+244679,120447339.0,Friday,No,2012-07-20T12:08:00.000,FIRE,"[-71.065539, 42.365847]",Point,FIRE,7,FIREB ,70,A1,Day,No,MARTHA RD,Part Three,Other,773578.6116,,2958642.849,2012

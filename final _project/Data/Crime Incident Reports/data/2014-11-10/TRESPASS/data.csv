@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+161564,142047547.0,Monday,No,2014-11-10T05:06:00.000,TRESPASS,"[-71.07257, 42.332816]",Point,TRESPASS,11,ARREST,0,D4,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,771738.9571,,2946596.385,2014
+203220,142047748.0,Monday,No,2014-11-10T18:16:00.000,TRESPASS,"[-71.063873, 42.325436]",Point,TRESPASS,11,IVPER,0,C6,First,No,ALLSTATE RD,Part Two,Unarmed,774104.1328,,2943918.604,2014
+222039,142047588.0,Monday,No,2014-11-10T09:00:00.000,TRESPASS,"[-71.113605, 42.299876]",Point,TRESPASS,11,IVPER,0,E13,Day,No,HYDE PARK AV,Part Two,Unarmed,760698.0248,,2934539.5530000003,2014

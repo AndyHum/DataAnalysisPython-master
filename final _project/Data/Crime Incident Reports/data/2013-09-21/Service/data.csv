@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68582,130602572.0,Saturday,No,2013-09-21T12:07:00.000,Service,"[-71.09095, 42.318221]",Point,Service,9,ARREST,305,B2,Day,No,TOWNSEND ST,Part three,Unarmed,766794.7629,WALNUT AV,2941253.3430000003,2013
+69722,130603289.0,Saturday,No,2013-09-21T17:30:00.000,Service,"[-71.00673, 42.386651]",Point,Service,9,IVPER ,23,A7,First,No,SARATOGA ST,Part three,Unarmed,789427.6918,BENNINGTON ST,2966310.918,2013
+93014,130602294.0,Saturday,No,2013-09-21T09:18:00.000,Service,"[-71.077255, 42.317356]",Point,Service,9,ARREST,324,B2,Day,No,INGLESIDE ST,Part three,Unarmed,770500.1203,,2940956.185,2013

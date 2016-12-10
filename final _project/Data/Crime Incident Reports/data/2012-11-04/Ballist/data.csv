@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29695,120695275.0,Sunday,No,2012-11-04T02:38:00.000,Ballist,"[-71.05968, 42.295421]",Point,Ballist,11,SHOTS ,355,C11,Last,No,DIX ST,Part Two,Firearm,775294.5806,LAFIELD ST,2932986.7830000003,2012
+219739,120695249.0,Sunday,No,2012-11-04T02:07:00.000,Ballist,"[-71.067845, 42.319206]",Point,Ballist,11,SHOTS ,184,B2,Last,No,HUMPHREYS PL,Part Two,Firearm,773041.4351,,2941643.002,2012
+246264,120695216.0,Sunday,No,2012-11-04T01:33:00.000,Ballist,"[-71.07975, 42.304761]",Point,Ballist,11,SHOTS ,461,C11,Last,No,WASHINGTON ST,Part Two,Firearm,769847.9556,,2936363.0289999996,2012

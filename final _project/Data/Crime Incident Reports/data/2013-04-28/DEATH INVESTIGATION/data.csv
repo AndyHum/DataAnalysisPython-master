@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71827,130249942.0,Sunday,No,2013-04-28T11:35:00.000,DEATH INVESTIGATION,"[-71.095735, 42.333766]",Point,01INV,4,CARST ,901,B2,Day,No,PARKER ST,Part Three,Unarmed,765473.8158,,2946912.045,2013
+163315,130249641.0,Sunday,No,2013-04-28T06:35:00.000,DEATH INVESTIGATION,"[-71.130142, 42.351748]",Point,01INV,4,FIREB ,796,D14,Last,No,LINDEN ST,Part Three,Unarmed,756142.2724,,2953422.686,2013
+228021,130249691.0,Sunday,No,2013-04-28T07:44:00.000,DEATH INVESTIGATION,"[-71.02716, 42.344001]",Point,01INV,4,DROWN ,207,C6,Day,No,DRY DOCK AV,Part Three,Unarmed,783994.5803,BLACK FALCON AV,2950737.184,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102509,140180833.0,Tuesday,No,2014-03-25T14:19:00.000,InvProp,"[-71.114865, 42.253856]",Point,InvProp,3,ALARMR,512,E18,Day,No,MILTON AV,Part three,Other,760432.8833,,2917767.67,2014
+116503,140180360.0,Tuesday,No,2014-03-25T10:18:00.000,InvProp,"[-71.078107, 42.288709]",Point,InvProp,3,INVEST,437,B3,Day,No,NEW ENGLAND AV,Part three,Unarmed,770321.1,,2930515.45,2014
+131354,140181681.0,Tuesday,No,2014-03-25T20:00:00.000,InvProp,"[-71.08191, 42.321701]",Point,InvProp,3,IVMV  ,265,B2,First,No,WARREN ST,Part three,Unarmed,769233.4040000001,WAVERLY ST,2942533.3680000002,2014
+194712,140183084.0,Tuesday,No,2014-03-25T13:30:00.000,InvProp,"[-71.085978, 42.296806]",Point,InvProp,3,LARCRT,444,B3,Day,No,ABBOT ST,Part three,Unarmed,768177.1099,,2933455.566,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36482,142013752.0,Monday,No,2014-07-28T14:07:00.000,Ballist,"[-71.095871, 42.27062]",Point,Ballist,7,FDWEAP,0,B3,Day,No,REGIS RD,Part Two,Firearm,765545.9498,,2923900.313,2014
+111906,142013634.0,Monday,No,2014-07-28T09:05:00.000,Ballist,"[-71.04579, 42.319061]",Point,Ballist,7,FDWEAP,0,C6,Day,No,MT VERNON ST,Part Two,Unarmed,779006.5866,,2941621.26,2014
+213772,142013873.0,Monday,No,2014-07-28T19:00:00.000,Ballist,"[-71.09015, 42.296101]",Point,Ballist,7,FDWEAP,0,B3,First,No,FERMOY HTS AV,Part Two,Other,767049.8548,SHANDON RD,2933193.503,2014

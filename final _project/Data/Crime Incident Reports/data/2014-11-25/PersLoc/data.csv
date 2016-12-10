@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6969,142052068.0,Tuesday,No,2014-11-25T16:30:00.000,PersLoc,"[-71.076928, 42.293667]",Point,PersLoc,11,MISSIN,0,B3,First,No,MILLET ST,Other,Unarmed,770631.127,,2932323.6939999997,2014
+176271,142052157.0,Tuesday,No,2014-11-25T13:42:00.000,PersLoc,"[-71.115661, 42.294951]",Point,PersLoc,11,IVPER,0,E13,Day,No,WALK HILL ST,Other,Unarmed,760149.6601,,2932742.316,2014
+205575,142052026.0,Tuesday,No,2014-11-25T00:11:00.000,PersLoc,"[-71.06602, 42.302669]",Point,PersLoc,11,IVPER,0,C11,Last,No,LONGFELLOW ST,Other,Unarmed,773565.7701,,2935619.0,2014
+240601,142052341.0,Tuesday,No,2014-11-25T07:35:00.000,PersLoc,"[-71.124215, 42.255236]",Point,PersLoc,11,MISSIN,0,E18,Day,No,HYDE PARK AV,Other,Unarmed,757899.3955,,2918259.269,2014

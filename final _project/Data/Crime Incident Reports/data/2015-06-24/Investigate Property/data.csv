@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39257,,Wednesday,No,2015-06-24T08:30:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,IVMV,173,A1,,No,ATLANTIC AVE,Part Three,None,,KNEELAND ST,,2015
+47372,,Wednesday,No,2015-06-24T01:58:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,REQP,97,A1,,No,SCHOOL ST,Part Three,None,,WASHINGTON ST,,2015
+117432,,Wednesday,No,2015-06-24T00:00:00.000,Investigate Property,"[-71.109879, 42.264674]",Point,InvProp,6,,493,E18,,No,WOOD AVE,Part Three,None,761765.0,,2920000.0,2015
+236014,,Wednesday,No,2015-06-24T17:17:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,CD9,61,A1,,No,LEGENDS WAY,Part Three,None,,,,2015
+239812,,Wednesday,No,2015-06-24T00:00:00.000,Investigate Property,"[-71.039, 42.371729]",Point,InvProp,6,IVPER,28,A7,,No,PARIS ST,Part Three,None,780739.0,,2960000.0,2015
+252451,,Wednesday,No,2015-06-24T00:00:00.000,Investigate Property,"[-71.098806, 42.346538]",Point,InvProp,6,CD9,624,D4,,No,YAWKEY WAY,Part Three,None,764621.0,,2950000.0,2015

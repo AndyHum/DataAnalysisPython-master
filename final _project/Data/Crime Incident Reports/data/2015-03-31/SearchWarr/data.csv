@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111618,152026033.0,Tuesday,No,2015-03-31T12:15:00.000,SearchWarr,"[-71.06931, 42.305981]",Point,SearchWarr,3,CD11,0,C11,Day,No,INWOOD ST,Part three,Other,772669.6888,,2936821.6360000004,2015
+114963,152027184.0,Tuesday,No,2015-03-31T17:00:00.000,SearchWarr,"[-71.061235, 42.310371]",Point,SearchWarr,3,CD11,0,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015
+210336,152026811.0,Tuesday,No,2015-03-31T12:15:00.000,SearchWarr,"[-71.06931, 42.305981]",Point,SearchWarr,3,CD11,0,C11,Day,No,INWOOD ST,Part three,Other,772669.6888,,2936821.6360000004,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16046,120582884.0,Monday,No,2012-09-17T08:00:00.000,InvProp,"[-71.08156, 42.348911]",Point,InvProp,9,CD9   ,143,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,769279.4105,,2952449.645,2012
+69626,120583517.0,Monday,No,2012-09-17T13:35:00.000,InvProp,"[-71.072115, 42.346646]",Point,InvProp,9,IVPER ,151,D4,Day,No,CHANDLER ST,Part Three,Unarmed,771836.6997,,2951636.903,2012
+87856,120583176.0,Monday,No,2012-09-17T10:07:00.000,InvProp,"[-71.146035, 42.342191]",Point,InvProp,9,PRSCRM,785,D14,Day,No,COLBORNE RD,Part Three,Unarmed,751860.8181,,2949921.829,2012
+125781,120583156.0,Monday,No,2012-09-17T09:57:00.000,InvProp,"[-71.029285, 42.337831]",Point,InvProp,9,IVPER ,223,C6,Day,No,O ST,Part Three,Unarmed,783432.5216,,2948485.5530000003,2012
+162751,120584685.0,Monday,No,2012-09-17T22:34:00.000,InvProp,"[-71.121955, 42.290087]",Point,InvProp,9,HITRUN,563,E5,First,No,FAWNDALE RD,Part Three,Unarmed,758454.9082,,2930961.974,2012
+192999,120584759.0,Monday,No,2012-09-17T23:48:00.000,InvProp,"[-71.09082, 42.335871]",Point,InvProp,9,SHOTS ,911,D4,Last,No,RUGGLES ST,Part Three,Firearm,766799.0657,,2947685.482,2012
+259740,120583911.0,Monday,No,2012-09-17T16:15:00.000,InvProp,"[-71.072106, 42.338423]",Point,InvProp,9,IVPREM,168,D4,First,No,ST GEORGE ST,Part Three,Unarmed,771853.9277,,2948640.115,2012

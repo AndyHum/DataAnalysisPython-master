@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2220,142001057.0,Friday,No,2014-06-20T10:30:00.000,PersMiss,"[-71.137625, 42.352416]",Point,PersMiss,6,IVPER,0,D14,Day,No,ARMINGTON ST,Other,Unarmed,754118.6065,,2953657.5710000005,2014
+50265,142001272.0,Friday,No,2014-06-20T21:45:00.000,PersMiss,"[-71.080596, 42.327236]",Point,PersMiss,6,MISSIN,0,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+116027,142001271.0,Friday,No,2014-06-20T21:45:00.000,PersMiss,"[-71.080596, 42.327236]",Point,PersMiss,6,MISSIN,0,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2014
+242577,142000954.0,Friday,No,2014-06-20T01:28:00.000,PersMiss,"[-71.097718, 42.321928]",Point,PersMiss,6,IVPER,0,B2,Last,No,SLAYTON WY,Other,Unarmed,764957.8611,,2942595.539,2014

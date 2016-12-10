@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30801,152021583.0,Sunday,No,2015-03-15T19:30:00.000,InvProp,"[-71.066019, 42.284605]",Point,InvProp,3,LARCEN,0,C11,First,No,BAILEY ST,Part three,Unarmed,773599.5243,DORCHESTER AV,2929036.4439999997,2015
+88731,152020882.0,Sunday,No,2015-03-15T13:42:00.000,InvProp,"[-71.03016, 42.332381]",Point,InvProp,3,BE,0,C6,Day,No,E 7TH ST,Part three,Unarmed,783206.8932,,2946498.1789999995,2015
+103224,152020931.0,Sunday,No,2015-03-15T10:00:00.000,InvProp,"[-71.057309, 42.342704]",Point,InvProp,3,CD9,0,C6,Day,No,W BROADWAY,Part three,Unarmed,775846.4397,DORCHESTER AV,2950220.7819999997,2015
+164679,152020877.0,Sunday,No,2015-03-15T13:24:00.000,InvProp,"[-71.066244, 42.311509]",Point,InvProp,3,ALARM,0,C11,Day,No,WARE ST,Part three,Unarmed,773488.6954,,2938840.205,2015
+240184,152020941.0,Sunday,No,2015-03-15T17:04:00.000,InvProp,"[-71.048347, 42.31996]",Point,InvProp,3,ALARM,0,C6,First,No,MT VERNON ST,Part three,Unarmed,778313.0768,,2941944.941,2015
+257295,152020779.0,Sunday,No,2015-03-15T02:06:00.000,InvProp,"[-71.060515, 42.289416]",Point,InvProp,3,MVA,0,C11,Last,No,EDWIN ST,Part three,Unarmed,775079.9488,,2930797.313,2015
+260209,152020755.0,Sunday,No,2015-03-15T00:21:00.000,InvProp,"[0, 0]",Point,InvProp,3,SHOTS,0,B3,Last,No,GLENWAY ST,Part three,Unarmed,,,,2015

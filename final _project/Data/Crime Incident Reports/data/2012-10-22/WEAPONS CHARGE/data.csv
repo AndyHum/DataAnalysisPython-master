@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+141211,120666069.0,Monday,No,2012-10-22T17:08:00.000,WEAPONS CHARGE,"[-71.09574, 42.268581]",Point,15xx,10,TSTOP ,481,E18,First,No,CUMMINS HY,Part Two,Knife,765585.0485,,2923157.606,2012
+142623,120665699.0,Monday,No,2012-10-22T14:27:00.000,WEAPONS CHARGE,"[-71.06549, 42.285341]",Point,15xx,10,ARREST,402,C11,Day,No,ASHMONT ST,Part Two,Firearm,773741.422,ALBAN ST,2929305.4280000003,2012
+173581,120664825.0,Monday,No,2012-10-22T08:53:00.000,WEAPONS CHARGE,"[-71.063675, 42.352301]",Point,15xx,10,ARREST,117,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2012
+255654,120666497.0,Monday,No,2012-10-22T20:21:00.000,WEAPONS CHARGE,"[-71.119975, 42.246031]",Point,15xx,10,PERGUN,517,E18,First,No,WASHINGTON ST,Part Two,Firearm,759062.1865,,2914909.938,2012

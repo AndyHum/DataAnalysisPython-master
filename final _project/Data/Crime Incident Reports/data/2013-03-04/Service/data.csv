@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9655,130130632.0,Monday,No,2013-03-04T15:00:00.000,Service,"[-71.07634, 42.343781]",Point,Service,3,INVEST,150,D4,Day,No,WARREN AV,Part Three,Unarmed,770699.7535,,2950587.143,2013
+186622,130131404.0,Monday,No,2013-03-04T20:45:00.000,Service,"[-71.088765, 42.334881]",Point,Service,3,ARREST,289,B2,First,No,TREMONT ST,Part Three,Unarmed,767356.4222,,2947327.38,2013
+196989,130129903.0,Monday,No,2013-03-04T09:25:00.000,Service,"[-71.08987, 42.287101]",Point,Service,3,ARREST,431,B3,Day,No,BALSAM ST,Part Three,Unarmed,767141.3767,,2929914.1339999996,2013
+219810,130131182.0,Monday,No,2013-03-04T19:30:00.000,Service,"[-71.08364, 42.312078]",Point,Service,3,MISCRP,328,B2,First,No,BRUNSWICK ST,Part three,Unarmed,768782.4588,,2939024.0539999995,2013

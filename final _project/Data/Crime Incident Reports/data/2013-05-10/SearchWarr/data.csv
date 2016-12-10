@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+196297,130277797.0,Friday,No,2013-05-10T00:00:00.000,SearchWarr,"[0, 0]",Point,SearchWarr,5,IVPER ,797,D14,Last,No,WESTMINSTER ST,Part three,Unarmed,,,,2013
+212071,130280649.0,Friday,No,2013-05-10T11:00:00.000,SearchWarr,"[-71.09636, 42.343971]",Point,SearchWarr,5,CD11  ,625,D4,Day,No,PETERBOROUGH ST,Part Two,Unarmed,765287.2269,,2950630.137,2013
+252527,130316396.0,Friday,No,2013-05-10T12:00:00.000,SearchWarr,"[-71.091325, 42.284861]",Point,SearchWarr,5,IVDRUG,465,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2013

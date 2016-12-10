@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103581,140024574.0,Monday,No,2014-01-13T01:00:00.000,BENoProp,"[-71.065145, 42.306276]",Point,BENoProp,1,BERPT ,340,C11,Last,No,MT IDA RD,Part One,Other,773795.8821,,2936934.922,2014
+134446,140026202.0,Monday,No,2014-01-13T22:35:00.000,BENoProp,"[-71.123725, 42.240876]",Point,BENoProp,1,ARREST,524,E18,First,No,CRANMORE RD,Part One,Unarmed,758055.1318,,2913026.893,2014
+171027,140025841.0,Monday,No,2014-01-13T19:00:00.000,BENoProp,"[-71.074107, 42.284279]",Point,BENoProp,1,VIORDR,435,B3,First,No,ARMANDINE ST,Part One,Unarmed,771411.6405,,2928906.461,2014
+246513,140024946.0,Monday,No,2014-01-13T12:04:00.000,BENoProp,"[-71.079765, 42.325614]",Point,BENoProp,1,ARREST,281,B2,Day,No,WINTHROP ST,Part One,Other,769806.2740000001,,2943961.912,2014

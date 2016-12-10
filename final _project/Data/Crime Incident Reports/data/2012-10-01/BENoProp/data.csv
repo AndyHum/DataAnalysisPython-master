@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67456,120616686.0,Monday,No,2012-10-01T08:52:00.000,BENoProp,"[-71.118662, 42.252925]",Point,BENoProp,10,BEIP  ,521,E18,Day,No,FAIRMOUNT AV,Part One,Unarmed,759406.3453,,2917423.628,2012
+213275,120617765.0,Monday,No,2012-10-01T17:21:00.000,BENoProp,"[-71.073917, 42.328335]",Point,BENoProp,10,BEIP  ,904,B2,First,No,HOWARD ST,Part One,Other,771382.6753,,2944961.445,2012
+258336,120618443.0,Monday,No,2012-10-01T23:40:00.000,BENoProp,"[-71.065055, 42.359681]",Point,BENoProp,10,SUSPER,71,A1,First,No,JOY ST,Part One,Unarmed,773720.9863,,2956396.758,2012

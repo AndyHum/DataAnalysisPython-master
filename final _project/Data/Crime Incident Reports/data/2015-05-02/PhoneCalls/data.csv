@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3656,152036423.0,Saturday,No,2015-05-02T16:00:00.000,PhoneCalls,"[0, 0]",Point,PhoneCalls,5,IVPER,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+107524,152035893.0,Saturday,No,2015-05-02T20:00:00.000,PhoneCalls,"[-71.090195, 42.294891]",Point,PhoneCalls,5,VIORDR,0,B3,First,No,FRANKLIN HILL AV,Part three,Unarmed,767039.7998,,2932752.503,2015
+241377,152035730.0,Saturday,No,2015-05-02T10:15:00.000,PhoneCalls,"[-71.06929, 42.379621]",Point,PhoneCalls,5,IVPER,0,A15,Day,No,MAIN ST,Part three,Unarmed,772539.6947,,2963657.494,2015

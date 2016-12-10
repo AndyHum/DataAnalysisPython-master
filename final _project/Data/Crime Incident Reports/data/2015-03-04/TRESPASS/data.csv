@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21919,152017580.0,Wednesday,No,2015-03-04T18:00:00.000,TRESPASS,"[-71.084747, 42.329375]",Point,TRESPASS,3,IVPER,0,B2,First,No,WASHINGTON ST,Part Two,Other,768452.5418,,2945326.172,2015
+172575,152017564.0,Wednesday,No,2015-03-04T17:45:00.000,TRESPASS,"[-71.084747, 42.329375]",Point,TRESPASS,3,IVPER,0,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015
+209383,152017395.0,Wednesday,No,2015-03-04T10:18:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,3,ARREST,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2015

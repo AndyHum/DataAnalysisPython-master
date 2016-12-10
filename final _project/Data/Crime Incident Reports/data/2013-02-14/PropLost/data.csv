@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42593,130096726.0,Thursday,No,2013-02-14T22:00:00.000,PropLost,"[-71.082595, 42.321726]",Point,PropLost,2,LSTPRP,265,B2,First,No,KENSINGTON PARK,Part Three,Unarmed,769048.1118,,2942541.5719999997,2013
+98990,130094309.0,Thursday,No,2013-02-14T12:50:00.000,PropLost,"[-71.14943, 42.336261]",Point,PropLost,2,LSTPRP,790,D14,Day,No,BEACON ST,Part Three,Unarmed,750951.8701,,2947757.0319999997,2013
+115245,130100756.0,Thursday,No,2013-02-14T16:00:00.000,PropLost,"[-71.106823, 42.339255]",Point,PropLost,2,LSTPRP,614,B2,First,No,BROOKLINE AV,Part Three,Unarmed,762466.4632,,2948898.37,2013
+208078,130095934.0,Thursday,No,2013-02-14T18:00:00.000,PropLost,"[-71.065315, 42.361141]",Point,PropLost,2,LSTPRP,820,A1,First,No,CAMBRIDGE ST,Part Three,Other,773648.0045,,2956928.453,2013
+209211,130096425.0,Thursday,No,2013-02-14T19:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,2,LSTPRP,143,D4,First,No,BOYLSTON ST,Part Three,Unarmed,769006.8448,,2952355.38,2013
+212355,130094925.0,Thursday,No,2013-02-14T18:00:00.000,PropLost,"[-71.06124, 42.360981]",Point,PropLost,2,INVEST,72,A1,First,No,CAMBRIDGE ST,Part Three,Unarmed,774749.6337,SUDBURY ST,2956875.7830000003,2013
+233862,130095391.0,Thursday,No,2013-02-14T23:40:00.000,PropLost,"[-71.063873, 42.325436]",Point,PropLost,2,IVPER ,186,C6,First,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013

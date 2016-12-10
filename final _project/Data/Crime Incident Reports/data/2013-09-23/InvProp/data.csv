@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99211,130608515.0,Monday,No,2013-09-23T22:54:00.000,InvProp,"[-71.12167, 42.257471]",Point,InvProp,9,SCHALM,520,E18,First,No,EVERETT ST,Part three,Unarmed,758584.7613,,2919076.7789999996,2013
+115308,130607577.0,Monday,No,2013-09-23T13:40:00.000,InvProp,"[-71.06534, 42.307796]",Point,InvProp,9,IVPER ,334,C11,Day,No,BOWDOIN ST,Part three,Unarmed,773740.3114,,2937488.565,2013
+173848,130608480.0,Monday,No,2013-09-23T22:25:00.000,InvProp,"[-71.05466, 42.293661]",Point,InvProp,9,SHOTS ,367,C11,First,No,TRAIN ST,Part three,Other,776656.0692,KING ST,2932352.465,2013
+181696,130606980.0,Monday,No,2013-09-23T15:00:00.000,InvProp,"[-71.05766, 42.295991]",Point,InvProp,9,IVPREM,364,C11,Day,No,DIX ST,Part three,Unarmed,775840.0044,,2933197.329,2013
+266174,130607241.0,Monday,No,2013-09-23T13:33:00.000,InvProp,"[0, 0]",Point,InvProp,9,INVEST,562,E5,Day,No,POPLAR ST,Part three,Unarmed,,,,2013

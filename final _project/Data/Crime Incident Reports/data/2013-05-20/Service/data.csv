@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43109,130301604.0,Monday,No,2013-05-20T13:50:00.000,Service,"[-71.07951, 42.296551]",Point,Service,5,SSTOP ,443,B3,Day,No,HARVARD ST,Part three,Unarmed,769927.6267,STANDISH ST,2933371.5,2013
+102756,130301225.0,Monday,No,2013-05-20T11:18:00.000,Service,"[-71.0626, 42.352361]",Point,Service,5,ARREST,112,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774398.1813,ESSEX ST,2953732.602,2013
+103956,130302536.0,Monday,No,2013-05-20T20:15:00.000,Service,"[-71.096325, 42.316646]",Point,Service,5,ARREST,307,E13,First,No,WESTMINSTER ST,Part three,Unarmed,765343.8173,,2940672.463,2013
+128265,130301270.0,Monday,No,2013-05-20T10:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,IVPREM,167,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2013
+144932,130300906.0,Monday,No,2013-05-20T09:00:00.000,Service,"[-71.06917, 42.325011]",Point,Service,5,SSTOP ,0,B2,Day,No,NORFOLK ST,Part Three,Unarmed,772672.6363,SHIRLEY ST,2943756.733,2013
+155894,130300972.0,Monday,No,2013-05-20T09:15:00.000,Service,"[-71.059987, 42.361648]",Point,Service,5,ARREST,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+186347,130318883.0,Monday,No,2013-05-20T01:13:00.000,Service,"[-71.07331, 42.290601]",Point,Service,5,ARREST,437,B3,Last,No,SOUTHERN AV,Part three,Unarmed,771615.8278,TALBOT AV,2931211.564,2013
+197776,130302324.0,Monday,No,2013-05-20T15:00:00.000,Service,"[-71.076255, 42.352226]",Point,Service,5,IVPREM,133,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,770707.4434,,2953664.7739999997,2013
+261879,130311040.0,Monday,No,2013-05-20T16:00:00.000,Service,"[0, 0]",Point,Service,5,THREAT,290,B2,First,No,W SELDEN ST,Other,Unarmed,,,,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22586,,Friday,No,2015-06-26T00:00:00.000,Missing Person Located,"[-71.085634, 42.328663]",Point,PersFound,6,I00027,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+49449,,Friday,No,2015-06-26T00:00:00.000,Missing Person Located,"[-71.105576, 42.267442]",Point,PersFound,6,I00027,486,E18,,No,RUSKINDALE RD,Part Three,None,762925.0,,2920000.0,2015
+171123,,Friday,No,2015-06-26T22:39:00.000,Missing Person Located,"[0, 0]",Point,PersFound,6,I00027,362,C11,,No,MELVILLE AVE,Part Three,None,,,,2015
+206560,,Friday,No,2015-06-26T04:11:00.000,Missing Person Located,"[0, 0]",Point,PersFound,6,I00027,428,B3,,No,CLARKWOOD ST,Part Three,None,,,,2015

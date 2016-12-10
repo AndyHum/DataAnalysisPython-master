@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+85111,152029484.0,Saturday,No,2015-04-11T18:20:00.000,PropFound,"[-71.072565, 42.313516]",Point,PropFound,4,FDWEAP,0,B2,First,No,WAYLAND ST,Part three,Unarmed,771775.5538,,2939563.147,2015
+231739,152029861.0,Saturday,No,2015-04-11T18:00:00.000,PropFound,"[-71.07634, 42.343781]",Point,PropFound,4,IVPREM,0,D4,First,No,WARREN AV,Part three,Unarmed,770699.7535,,2950587.143,2015
+267602,152029318.0,Saturday,No,2015-04-11T04:00:00.000,PropFound,"[0, 0]",Point,PropFound,4,IVPER,0,A1,Last,No,TREMONT ST,Part three,Unarmed,,KNEELAND ST,,2015

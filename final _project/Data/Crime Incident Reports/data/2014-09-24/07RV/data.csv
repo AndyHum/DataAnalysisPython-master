@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40252,142032717.0,Wednesday,No,2014-09-24T19:04:00.000,07RV,"[-71.02267, 42.381701]",Point,07RV,9,IVMV,0,A7,First,No,SARATOGA ST,Other,Unarmed,785131.5129,SWIFT ST,2964482.535,2014
+40312,142032558.0,Wednesday,No,2014-09-24T13:20:00.000,07RV,"[-71.0833, 42.326901]",Point,07RV,9,IVMV,0,B2,Day,No,WARREN ST,Other,Unarmed,768848.2427,,2944426.499,2014
+166410,142032464.0,Wednesday,No,2014-09-24T09:14:00.000,07RV,"[-71.070052, 42.295746]",Point,07RV,9,IVMV,0,C11,Day,No,ALPHA RD,Other,Unarmed,772487.6928,,2933090.837,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57219,120516683.0,Saturday,No,2012-08-18T09:00:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,8,MISPER,256,C6,Day,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012
+74784,120514341.0,Saturday,No,2012-08-18T01:00:00.000,PersLoc,"[-71.072995, 42.304498]",Point,PersLoc,8,MISPER,337,C11,Last,No,GENEVA AV,Part Three,Unarmed,771675.6285,,2936276.22,2012
+116789,120514820.0,Saturday,No,2012-08-18T17:30:00.000,PersLoc,"[-71.131156, 42.248901]",Point,PersLoc,8,INVCHD,540,E18,First,No,RIVER ST,Part Three,Unarmed,756030.0814,,2915942.225,2012

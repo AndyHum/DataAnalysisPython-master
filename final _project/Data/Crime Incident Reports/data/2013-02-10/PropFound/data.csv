@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88770,130085185.0,Sunday,No,2013-02-10T14:00:00.000,PropFound,"[-71.07912, 42.353621]",Point,PropFound,2,FDPROP,135,D4,Day,No,BEACON ST,Part Three,Unarmed,769930.5159,DARTMOUTH ST,2954169.3039999995,2013
+232050,130085120.0,Sunday,No,2013-02-10T14:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,2,FDPROP,778,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2013
+251110,130085905.0,Sunday,No,2013-02-10T21:28:00.000,PropFound,"[-71.077025, 42.327426]",Point,PropFound,2,FDPROP,268,B2,First,No,DUDLEY ST,Part Three,Unarmed,770544.1271,,2944626.17,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17206,142003520.0,Friday,No,2014-06-27T14:30:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,6,IVPREM,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+21954,142003544.0,Friday,No,2014-06-27T16:21:00.000,InvProp,"[-71.090265, 42.284003]",Point,InvProp,6,IVPREM,0,B3,First,No,MORTON ST,Part three,Unarmed,767039.8025,,2928784.595,2014
+32241,142003369.0,Friday,No,2014-06-27T00:44:00.000,InvProp,"[-71.082487, 42.302716]",Point,InvProp,6,IVPREM,0,B3,Last,No,WOLCOTT ST,Part three,Unarmed,769111.0059999999,,2935614.0689999997,2014
+195702,142003480.0,Friday,No,2014-06-27T13:09:00.000,InvProp,"[-71.122771, 42.308127]",Point,InvProp,6,ALARM,0,E13,Day,No,CENTRE ST,Part three,Unarmed,758204.9569,,2937535.1010000003,2014
+224230,142003344.0,Friday,No,2014-06-27T12:00:00.000,InvProp,"[-71.065491, 42.305384]",Point,InvProp,6,SHOTS,0,C11,Day,No,DRAPER ST,Part three,Unarmed,773703.9466,,2936609.337,2014

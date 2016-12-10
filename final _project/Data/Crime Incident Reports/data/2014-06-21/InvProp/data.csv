@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25162,142001466.0,Saturday,No,2014-06-21T11:46:00.000,InvProp,"[-71.057495, 42.350156]",Point,InvProp,6,ALARM,0,A1,Day,No,SOUTH ST,Part three,Unarmed,775782.2443,,2952936.1769999997,2014
+94367,142001553.0,Saturday,No,2014-06-21T16:00:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,6,IVPREM,0,A1,First,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2014
+129900,142001403.0,Saturday,No,2014-06-21T08:17:00.000,InvProp,"[-71.096318, 42.283356]",Point,InvProp,6,ALARM,0,B3,Day,No,WELLINGTON HILL ST,Part three,Unarmed,765402.9291,,2928540.905,2014
+154483,142001359.0,Saturday,No,2014-06-21T03:50:00.000,InvProp,"[-71.139555, 42.277451]",Point,InvProp,6,BE,0,E5,Last,No,BRAHMS ST,Part three,Other,753712.3665,,2926336.8019999997,2014
+173461,142001562.0,Saturday,No,2014-06-21T11:00:00.000,InvProp,"[-71.059415, 42.359251]",Point,InvProp,6,IVPREM,0,A1,Day,No,CITY HALL PZ,Part three,Other,775246.1256,,2956247.881,2014
+173519,142001506.0,Saturday,No,2014-06-21T14:16:00.000,InvProp,"[-71.08064, 42.296921]",Point,InvProp,6,ALARM,0,B3,Day,No,GLENWAY ST,Part three,Unarmed,769621.252,,2933504.829,2014
+251343,142001420.0,Saturday,No,2014-06-21T08:40:00.000,InvProp,"[-71.100035, 42.320706]",Point,InvProp,6,SHOTS,0,E13,Day,No,AMORY AV,Part three,Unarmed,764333.4883,,2942147.27,2014
+257828,142001400.0,Saturday,No,2014-06-21T06:30:00.000,InvProp,"[-71.065516, 42.378697]",Point,InvProp,6,FO,0,A15,Last,No,SULLIVAN ST,Part three,Unarmed,773561.0998,,2963325.957,2014

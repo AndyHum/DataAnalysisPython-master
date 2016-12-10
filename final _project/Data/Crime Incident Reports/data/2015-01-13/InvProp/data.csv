@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52480,152003429.0,Tuesday,No,2015-01-13T18:11:00.000,InvProp,"[-71.048445, 42.338531]",Point,InvProp,1,IVPREM,0,C6,First,No,E ST,Part three,Unarmed,778250.9933,,2948712.639,2015
+83215,152003456.0,Tuesday,No,2015-01-13T19:31:00.000,InvProp,"[-71.080395, 42.282716]",Point,InvProp,1,IVPREM,0,B3,First,No,CAPEN ST,Part three,Unarmed,769712.9992,,2928328.648,2015
+155784,152003242.0,Tuesday,No,2015-01-13T03:10:00.000,InvProp,"[-71.075815, 42.307781]",Point,InvProp,1,SSA,0,B2,Last,No,COLUMBIA RD,Part three,Unarmed,770906.9237,,2937468.834,2015
+162242,152003291.0,Tuesday,No,2015-01-13T10:11:00.000,InvProp,"[-71.075081, 42.315538]",Point,InvProp,1,ALARM,0,B2,Day,No,WOODCLIFF ST,Part three,Other,771091.3501,,2940296.3010000004,2015
+188659,152003453.0,Tuesday,No,2015-01-13T18:00:00.000,InvProp,"[-71.0612, 42.365521]",Point,InvProp,1,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774751.9335,CANAL ST,2958530.305,2015
+248904,152003436.0,Tuesday,No,2015-01-13T18:35:00.000,InvProp,"[-71.077685, 42.308786]",Point,InvProp,1,SSA,0,B2,First,No,LAREDO ST,Part three,Unarmed,770399.2882,,2937832.561,2015

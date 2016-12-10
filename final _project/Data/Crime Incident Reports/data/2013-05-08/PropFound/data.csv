@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18148,130457380.0,Wednesday,No,2013-05-08T11:36:00.000,PropFound,"[-71.059415, 42.359251]",Point,PropFound,5,FDPROP,92,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2013
+74051,130272622.0,Wednesday,No,2013-05-08T07:40:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,5,FDPROP,28,A7,Day,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2013
+75572,130273737.0,Wednesday,No,2013-05-08T16:00:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,5,FDPROP,28,A7,First,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2013
+110136,130272920.0,Wednesday,No,2013-05-08T10:30:00.000,PropFound,"[-71.041787, 42.286617]",Point,PropFound,5,IVPREM,376,C11,Day,No,LORENZO ST,Part Three,Unarmed,780152.7037,,2929803.8389999997,2013
+219705,130273673.0,Wednesday,No,2013-05-08T15:38:00.000,PropFound,"[-71.06854, 42.343841]",Point,PropFound,5,IVPREM,160,D4,Day,No,TAYLOR ST,Part Three,Unarmed,772808.2896,,2950619.578,2013
+226674,130273057.0,Wednesday,No,2013-05-08T11:04:00.000,PropFound,"[-71.119685, 42.307961]",Point,PropFound,5,FDPROP,652,E13,Day,No,ARBORWAY,Part Three,Unarmed,759039.9822,,2937478.3019999997,2013
+244478,130274149.0,Wednesday,No,2013-05-08T17:15:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,5,FDPROP,119,A1,First,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2013

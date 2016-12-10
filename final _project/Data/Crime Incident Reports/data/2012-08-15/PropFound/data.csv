@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51307,120507858.0,Wednesday,No,2012-08-15T18:50:00.000,PropFound,"[-71.081795, 42.341536]",Point,PropFound,8,IVPER ,147,D4,First,No,WELLINGTON ST,Part Three,Other,769228.8289,COLUMBUS AV,2949761.586,2012
+215026,120556921.0,Wednesday,No,2012-08-15T09:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,8,FDPROP,355,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2012
+223453,120506843.0,Wednesday,No,2012-08-15T09:00:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,8,FDPROP,574,E13,Day,No,WASHINGTON ST,Part Three,Unarmed,763205.8082,,2938139.2,2012

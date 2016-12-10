@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39108,130129048.0,Sunday,No,2013-03-03T18:49:00.000,InvProp,"[-71.080765, 42.304511]",Point,InvProp,3,IVPREM,459,B3,First,No,POWELLTON RD,Part Three,Firearm,769573.84,,2936270.575,2013
+114036,130127983.0,Sunday,No,2013-03-03T03:15:00.000,InvProp,"[-71.086373, 42.328361]",Point,InvProp,3,IVPREM,292,B2,Last,No,WASHINGTON ST,Part Three,Other,768014.5567,,2944954.373,2013
+179006,130127909.0,Sunday,No,2013-03-03T02:29:00.000,InvProp,"[-71.072298, 42.304718]",Point,InvProp,3,SHOTS ,337,C11,Last,No,EVERTON ST,Part Three,Unarmed,771863.6868,,2936357.135,2013
+185888,130128511.0,Sunday,No,2013-03-03T13:18:00.000,InvProp,"[-71.066605, 42.318716]",Point,InvProp,3,REQEP ,238,B2,Day,No,QUINCEFIELD ST,Part Three,Unarmed,773377.9184,,2941466.245,2013

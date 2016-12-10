@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+234,152015372.0,Wednesday,No,2015-02-25T20:57:00.000,Argue,"[0, 0]",Point,Argue,2,NIDV,0,C6,First,No,DORCHESTER ST,Part three,Unarmed,,,,2015
+4295,152015376.0,Wednesday,No,2015-02-25T21:21:00.000,Argue,"[-71.09587, 42.343151]",Point,Argue,2,FIGHT,0,D4,First,No,QUEENSBERRY ST,Part three,Unarmed,765421.1085,,2950331.941,2015
+61534,152015120.0,Wednesday,No,2015-02-25T06:00:00.000,Argue,"[-71.078421, 42.284653]",Point,Argue,2,NIDV,0,B3,Last,No,THETFORD AV,Part three,Unarmed,770243.5782,,2929036.869,2015
+81891,152015223.0,Wednesday,No,2015-02-25T12:58:00.000,Argue,"[-71.148398, 42.270909]",Point,Argue,2,IVPER,0,E5,Day,No,MAPLEWOOD ST,Part three,Unarmed,751329.0261,,2923942.58,2015
+207148,152015395.0,Wednesday,No,2015-02-25T23:00:00.000,Argue,"[-71.065153, 42.29921]",Point,Argue,2,IVPER,0,C11,First,No,WALDECK ST,Part three,Other,773806.5957,,2934359.6689999998,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31564,140265676.0,Thursday,No,2014-04-24T15:00:00.000,PropDam,"[-71.022875, 42.381621]",Point,PropDam,4,VANRPT,15,A7,Day,No,SARATOGA ST,Part three,Unarmed,785076.29,,2964453.0719999997,2014
+63096,142000809.0,Thursday,No,2014-04-24T07:00:00.000,PropDam,"[-71.06344, 42.350916]",Point,PropDam,4,PROP,0,A1,Last,No,STUART ST,Part three,Unarmed,774173.8226,,2953204.854,2014
+80306,140249491.0,Thursday,No,2014-04-24T14:30:00.000,PropDam,"[-71.15331, 42.33931]",Point,PropDam,4,PDRPT ,774,D14,Day,No,STRATHMORE RD,Part three,Unarmed,749898.3105,,2948863.793,2014
+185927,140250078.0,Thursday,No,2014-04-24T18:30:00.000,PropDam,"[-71.0731, 42.346381]",Point,PropDam,4,PDRPT ,151,D4,First,No,CHANDLER ST,Part three,Other,771570.9118,CLARENDON ST,2951538.998,2014

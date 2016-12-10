@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36821,142009380.0,Monday,No,2014-07-14T15:00:00.000,PropLost,"[-71.101403, 42.263859]",Point,PropLost,7,PROP,0,E18,Day,No,RIVER ST,Part three,Other,764060.2484,,2921429.3239999996,2014
+59710,142009579.0,Monday,No,2014-07-14T15:00:00.000,PropLost,"[-71.07122, 42.338081]",Point,PropLost,7,PROP,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772094.3327,,2948516.876,2014
+80701,142012777.0,Monday,No,2014-07-14T23:00:00.000,PropLost,"[-71.156415, 42.339026]",Point,PropLost,7,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,749058.9966,,2948756.8660000004,2014
+82514,142008966.0,Monday,No,2014-07-14T13:00:00.000,PropLost,"[-71.098625, 42.346181]",Point,PropLost,7,PROP,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+164928,142009446.0,Monday,No,2014-07-14T11:00:00.000,PropLost,"[-71.058468, 42.371544]",Point,PropLost,7,PROP,0,A15,Day,No,CONSTITUTION PLAZA,Part three,Unarmed,775478.8873,,2960728.833,2014
+178891,142009141.0,Monday,No,2014-07-14T17:31:00.000,PropLost,"[-71.053065, 42.327871]",Point,PropLost,7,LARCEN,0,C6,First,No,MCDONOUGH WY,Part three,Unarmed,777022.2779,,2944821.374,2014
+215091,142009226.0,Monday,No,2014-07-14T18:00:00.000,PropLost,"[-71.107595, 42.350226]",Point,PropLost,7,LARCEN,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,762239.4833,,2952895.4069999997,2014

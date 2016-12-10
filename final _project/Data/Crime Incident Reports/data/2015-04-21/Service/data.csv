@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+314,152032605.0,Tuesday,No,2015-04-21T17:01:00.000,Service,"[0, 0]",Point,Service,4,IVPER,0,D4,First,No,REED ST,Part three,Unarmed,,,,2015
+3173,152032375.0,Tuesday,No,2015-04-21T10:35:00.000,Service,"[0, 0]",Point,Service,4,ARREST,0,C6,Day,No,COURTHOUSE WY,Part three,Other,,,,2015
+145046,152032518.0,Tuesday,No,2015-04-21T18:23:00.000,Service,"[-71.060825, 42.351386]",Point,Service,4,ARREST,0,A1,First,No,BEACH ST,Part three,Unarmed,774879.7976,,2953379.76,2015

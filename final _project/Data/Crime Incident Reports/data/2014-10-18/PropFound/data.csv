@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14766,142040539.0,Saturday,No,2014-10-18T23:55:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,10,PROP,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+73671,142040221.0,Saturday,No,2014-10-18T03:30:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,10,PROP,0,D14,Last,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+189732,142040451.0,Saturday,No,2014-10-18T22:07:00.000,PropFound,"[-71.09656, 42.293221]",Point,PropFound,10,SUSOBJ,0,E13,First,No,CANTERBURY ST,Part three,Unarmed,765320.6358,MORTON ST,2932135.7189999996,2014

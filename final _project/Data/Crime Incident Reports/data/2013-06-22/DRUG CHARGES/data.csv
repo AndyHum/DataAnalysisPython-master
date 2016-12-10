@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17902,130379831.0,Saturday,No,2013-06-22T00:47:00.000,DRUG CHARGES,"[-71.11389, 42.299461]",Point,18xx,6,ARREST,509,E13,Last,No,HYDE PARK AV,Part Two,Other,760621.6097,WOODLAWN ST,2934387.972,2013
+92557,130381482.0,Saturday,No,2013-06-22T19:06:00.000,DRUG CHARGES,"[-71.15706, 42.261331]",Point,18xx,6,IVPER ,713,E5,First,No,GROVE ST,Part Two,Other,748998.7127,WASHINGTON ST,2920442.909,2013
+171243,130381350.0,Saturday,No,2013-06-22T16:00:00.000,DRUG CHARGES,"[-71.073978, 42.333151]",Point,18xx,6,IVDRUG,169,D4,First,No,ALBANY ST,Part Two,Other,771357.6081,,2946716.26,2013
+241538,130381334.0,Saturday,No,2013-06-22T17:40:00.000,DRUG CHARGES,"[-71.064348, 42.375438]",Point,18xx,6,ARREST,59,A15,First,No,THOMPSON SQ,Part Two,Unarmed,773882.7245,,2962139.622,2013

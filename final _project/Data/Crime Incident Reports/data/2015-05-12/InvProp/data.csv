@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1042,152038873.0,Tuesday,No,2015-05-12T14:15:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPER,0,C11,Day,No,DRAPER ST,Part three,Unarmed,,,,2015
+1073,152038776.0,Tuesday,No,2015-05-12T09:23:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPREM,0,E13,Day,No,BROOKSIDE AV,Part three,Unarmed,,,,2015
+1108,152039075.0,Tuesday,No,2015-05-12T14:00:00.000,InvProp,"[0, 0]",Point,InvProp,5,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+4641,152038721.0,Tuesday,No,2015-05-12T06:15:00.000,InvProp,"[-71.051365, 42.359702]",Point,InvProp,5,CD9,0,A1,Last,No,STATE ST,Part three,Unarmed,777420.9352,,2956423.3710000003,2015
+29768,152038857.0,Tuesday,No,2015-05-12T13:30:00.000,InvProp,"[-71.061745, 42.356021]",Point,InvProp,5,IVPER,0,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2015
+109250,152040805.0,Tuesday,No,2015-05-12T03:00:00.000,InvProp,"[-71.086605, 42.294496]",Point,InvProp,5,IVPER,0,B3,Last,No,TALBOT AV,Part three,Unarmed,768011.6795,,2932613.022,2015
+129353,152038809.0,Tuesday,No,2015-05-12T10:35:00.000,InvProp,"[-71.079795, 42.286486]",Point,InvProp,5,ALARM,0,B3,Day,No,CHARLES RD,Part three,Unarmed,769868.5914,,2929703.288,2015

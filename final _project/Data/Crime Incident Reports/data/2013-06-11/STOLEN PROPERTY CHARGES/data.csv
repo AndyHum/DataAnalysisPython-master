@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+105551,130355061.0,Tuesday,No,2013-06-11T14:20:00.000,STOLEN PROPERTY CHARGES,"[-71.07941, 42.313671]",Point,13xx,6,ARREST,322,B2,Day,No,BLUE HILL AV,Part Two,Unarmed,769923.9174,HOLBORN ST,2939610.4269999997,2013
+218486,130354157.0,Tuesday,No,2013-06-11T01:40:00.000,STOLEN PROPERTY CHARGES,"[-71.0729, 42.333256]",Point,13xx,6,LARCRT,172,D4,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,771648.9274,,2946756.2810000004,2013
+235541,130356111.0,Tuesday,No,2013-06-11T23:17:00.000,STOLEN PROPERTY CHARGES,"[-71.05697, 42.329501]",Point,13xx,6,TSTOP ,194,C6,First,No,DORCHESTER AV,Part Two,Unarmed,775963.2534,PREBLE ST,2945409.8639999996,2013

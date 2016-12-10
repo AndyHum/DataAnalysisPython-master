@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12914,142047840.0,Sunday,No,2014-11-09T20:15:00.000,PropLost,"[-71.03526, 42.331886]",Point,PropLost,11,IVPER,0,C6,First,No,L ST,Part three,Unarmed,781828.9005,,2946310.236,2014
+36979,142047621.0,Sunday,No,2014-11-09T07:00:00.000,PropLost,"[-71.06465, 42.351016]",Point,PropLost,11,ADMRPT,0,A1,Last,No,STUART ST,Part three,Unarmed,773846.5631,,2953239.624,2014
+44985,142047581.0,Sunday,No,2014-11-09T22:55:00.000,PropLost,"[-71.0457, 42.336871]",Point,PropLost,11,PROP,0,C6,First,No,W 3RD ST,Part three,Unarmed,778996.3606,,2948111.6489999997,2014
+120079,142048082.0,Sunday,No,2014-11-09T18:00:00.000,PropLost,"[-71.06979, 42.352031]",Point,PropLost,11,PROP,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,772455.3123,,2953602.461,2014
+122284,142048507.0,Sunday,No,2014-11-09T09:30:00.000,PropLost,"[-71.093834, 42.319031]",Point,PropLost,11,BE,0,B2,Day,No,CODMAN PARK,Part three,Unarmed,766013.1401,,2941544.7060000002,2014
+156871,142047395.0,Sunday,No,2014-11-09T14:00:00.000,PropLost,"[-71.13106, 42.350481]",Point,PropLost,11,LARCEN,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,755896.1988,HARVARD AV,2952960.025,2014
+198381,142047710.0,Sunday,No,2014-11-09T12:30:00.000,PropLost,"[-71.138508, 42.355898]",Point,PropLost,11,PROP,0,D14,Day,No,EVERETT ST,Part three,Unarmed,753874.4121,,2954925.45,2014

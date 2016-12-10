@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54965,120540136.0,Wednesday,No,2012-08-29T21:25:00.000,Ballist,"[-71.08606, 42.322751]",Point,Ballist,8,SHOTS ,299,B2,First,No,WAKULLAH ST,Part Two,Firearm,768109.2464,ROCKLAND ST,2942910.5330000003,2012
+104198,120538470.0,Wednesday,No,2012-08-29T08:00:00.000,Ballist,"[-71.07625, 42.341471]",Point,Ballist,8,FDPROP,157,D4,Day,No,TREMONT ST,Part Two,Unarmed,770728.2659,,2949745.457,2012
+207977,120540088.0,Wednesday,No,2012-08-29T20:59:00.000,Ballist,"[-71.068615, 42.304436]",Point,Ballist,8,SHOTS ,342,C11,First,No,TOPLIFF ST,Part Two,Firearm,772860.6399,,2936259.6319999998,2012

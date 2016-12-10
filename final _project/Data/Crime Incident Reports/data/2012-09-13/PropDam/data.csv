@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69124,120574041.0,Thursday,No,2012-09-13T13:00:00.000,PropDam,"[-71.061745, 42.356021]",Point,PropDam,9,IVPREM,111,A1,Day,No,WINTER ST,Part Three,Unarmed,774622.4376,,2955067.563,2012
+89149,120579285.0,Thursday,No,2012-09-13T23:00:00.000,PropDam,"[-71.08207, 42.348781]",Point,PropDam,9,PDRPT ,138,D4,First,No,BOYLSTON ST,Part Three,Other,769141.7805,,2952401.595,2012
+108257,120575093.0,Thursday,No,2012-09-13T21:15:00.000,PropDam,"[-71.100035, 42.345761]",Point,PropDam,9,PDRPT ,627,D4,First,No,BROOKLINE AV,Part Three,Other,764290.6734,,2951277.7660000003,2012

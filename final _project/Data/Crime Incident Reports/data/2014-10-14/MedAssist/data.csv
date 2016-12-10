@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14299,142038816.0,Tuesday,No,2014-10-14T01:44:00.000,MedAssist,"[-71.07547, 42.346214]",Point,MedAssist,10,FDBODY,0,D4,Last,No,DARTMOUTH ST,Part three,Unarmed,770930.358,,2951474.633,2014
+49821,142039144.0,Tuesday,No,2014-10-14T23:35:00.000,MedAssist,"[-71.13274, 42.287661]",Point,MedAssist,10,CARDIA,0,E5,First,No,BROOKFIELD ST,Part three,Unarmed,755540.6443,ROBERT ST,2930065.3460000004,2014
+55569,142038909.0,Tuesday,No,2014-10-14T11:05:00.000,MedAssist,"[-71.04206, 42.317766]",Point,MedAssist,10,EDP,0,C6,Day,No,MT VERNON ST,Part three,Unarmed,780017.8828,,2941154.74,2014
+76473,142038807.0,Tuesday,No,2014-10-14T00:57:00.000,MedAssist,"[-71.08718, 42.307476]",Point,MedAssist,10,REQEP,0,B2,Last,No,NAZING CT,Part three,Knife,767833.3058,,2937342.604,2014
+116435,142039014.0,Tuesday,No,2014-10-14T16:20:00.000,MedAssist,"[-71.067695, 42.306171]",Point,MedAssist,10,STAB,0,C11,First,No,BOWDOIN PARK,Part three,Other,773106.3021,,2936893.152,2014
+155524,142039103.0,Tuesday,No,2014-10-14T17:45:00.000,MedAssist,"[-71.12395, 42.256421]",Point,MedAssist,10,IVPER,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+160361,142039017.0,Tuesday,No,2014-10-14T15:44:00.000,MedAssist,"[-71.072235, 42.323546]",Point,MedAssist,10,EDP,0,B2,Day,No,SHIRLEY ST,Part three,Unarmed,771846.4759,,2943218.693,2014
+206289,142038939.0,Tuesday,No,2014-10-14T12:50:00.000,MedAssist,"[-71.06803, 42.272181]",Point,MedAssist,10,IVPER,0,C11,Day,No,ADAMS ST,Part three,Unarmed,773078.4134,DORCHESTER AV,2924506.2569999998,2014
+242413,142038982.0,Tuesday,No,2014-10-14T15:25:00.000,MedAssist,"[-71.046717, 42.336149]",Point,MedAssist,10,IVPER,0,C6,Day,No,W BROADWAY,Part three,Unarmed,778722.6466,,2947847.002,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36520,130026203.0,Sunday,No,2013-01-13T12:47:00.000,InvProp,"[0, 0]",Point,InvProp,1,SHOTS ,139,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,,MARLBOROUGH ST,,2013
+128281,130026105.0,Sunday,No,2013-01-13T11:31:00.000,InvProp,"[-71.109144, 42.284816]",Point,InvProp,1,BEIP  ,503,E18,Day,No,PAINE ST,Part Three,Other,761929.8078,,2929056.7010000004,2013
+211491,130026416.0,Sunday,No,2013-01-13T14:48:00.000,InvProp,"[-71.036061, 42.374826]",Point,InvProp,1,ALARMR,22,A7,Day,No,HAVRE ST,Part Three,Unarmed,781527.2066,,2961957.0919999997,2013
+239756,130025367.0,Sunday,No,2013-01-13T12:07:00.000,InvProp,"[-71.07929, 42.323281]",Point,InvProp,1,SHOTS ,296,B2,Day,No,COPELAND ST,Part Three,Other,769939.0999,COPELAND PL,2943112.631,2013
+243376,130026902.0,Sunday,No,2013-01-13T20:26:00.000,InvProp,"[-71.08712, 42.297801]",Point,InvProp,1,REQP  ,444,B3,First,No,BLUE HILL AV,Part Three,Unarmed,767866.6020000001,,2933816.961,2013
+250763,130026340.0,Sunday,No,2013-01-13T14:00:00.000,InvProp,"[-71.045379, 42.337142]",Point,InvProp,1,VANRPT,213,C6,Day,No,BOLTON ST,Part Three,Other,779082.5284,,2948210.921,2013
+254441,130582159.0,Sunday,No,2013-01-13T03:38:00.000,InvProp,"[-71.056345, 42.358871]",Point,InvProp,1,IVPREM,99,A1,Last,No,STATE ST,Part three,Other,776076.5836,,2956113.703,2013

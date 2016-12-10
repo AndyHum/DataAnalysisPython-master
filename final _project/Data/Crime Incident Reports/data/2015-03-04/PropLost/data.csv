@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+157394,152017628.0,Wednesday,No,2015-03-04T17:00:00.000,PropLost,"[-71.070155, 42.350601]",Point,PropLost,3,PROP,0,A1,First,No,ARLINGTON ST,Part three,Unarmed,772359.2779999999,,2953080.8430000003,2015
+198815,152017623.0,Wednesday,No,2015-03-04T19:36:00.000,PropLost,"[-71.114509, 42.27963]",Point,PropLost,3,PROP,0,E18,First,No,MANNING ST,Part three,Unarmed,760486.7267,,2927160.3189999997,2015
+209876,152017767.0,Wednesday,No,2015-03-04T14:30:00.000,PropLost,"[-71.078815, 42.350571]",Point,PropLost,3,MISC,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,770018.4438,EXETER ST,2953058.235,2015
+246562,152017736.0,Wednesday,No,2015-03-04T19:00:00.000,PropLost,"[-71.07676, 42.302772]",Point,PropLost,3,PROP,0,C11,First,No,BOWDOIN AV,Part three,Unarmed,770660.3057,,2935642.018,2015
+249330,152017672.0,Wednesday,No,2015-03-04T23:30:00.000,PropLost,"[-71.086655, 42.348466]",Point,PropLost,3,PROP,0,D4,First,No,NEWBURY ST,Part three,Unarmed,767902.9271,HEREFORD ST,2952280.765,2015
+257219,152022195.0,Wednesday,No,2015-03-04T16:00:00.000,PropLost,"[-71.112361, 42.316208]",Point,PropLost,3,LARCEN,0,E13,First,No,ROBINWOOD AV,Part three,Other,761007.4093,,2940492.683,2015
+264934,152017640.0,Wednesday,No,2015-03-04T21:30:00.000,PropLost,"[0, 0]",Point,PropLost,3,INVEST,0,C6,First,No,DORCHESTER AV,Part three,Unarmed,,DORCHESTER ST,,2015
+265871,152018344.0,Wednesday,No,2015-03-04T19:30:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,B2,First,No,MALCOLM X BL,Part three,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125040,120751558.0,Friday,No,2012-11-30T16:25:00.000,PropFound,"[-71.170875, 42.286381]",Point,PropFound,11,FDPROP,745,E5,First,No,BAKER ST,Part Three,Unarmed,745223.8664,VFW PY,2929556.771,2012
+177215,120750885.0,Friday,No,2012-11-30T10:57:00.000,PropFound,"[-71.16507, 42.276931]",Point,PropFound,11,FDPROP,726,E5,Day,No,SPRING ST,Part Three,Unarmed,746808.1398,,2926119.16,2012
+249385,120750891.0,Friday,No,2012-11-30T11:05:00.000,PropFound,"[-71.077705, 42.326266]",Point,PropFound,11,IVPER ,267,B2,Day,No,VINE ST,Part Three,Unarmed,770362.3408,,2944202.534,2012
+258090,120755243.0,Friday,No,2012-11-30T17:34:00.000,PropFound,"[-71.15322, 42.291591]",Point,PropFound,11,IVPREM,692,E5,First,No,MANTHORNE RD,Part Three,Unarmed,749993.3425,,2931474.305,2012

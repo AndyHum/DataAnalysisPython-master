@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24953,,Wednesday,No,2015-07-01T00:00:00.000,Auto Theft,"[-71.073424, 42.378172]",Point,07xx,7,IVMV,41,A15,,No,BUNKER HILL ST,Part One,None,771425.0,,2960000.0,2015
+36983,,Wednesday,No,2015-07-01T13:13:00.000,Auto Theft Recovery,"[0, 0]",Point,07RV,7,IVMV,462,C11,,No,BOWDOIN ST,Other,None,, GENEVA AVE ,,2015
+121184,,Wednesday,No,2015-07-01T00:00:00.000,Auto Theft,"[-71.083565, 42.350238]",Point,07xx,7,IVMV,137,D4,,No,COMMONWEALTH AVE,Part One,None,768735.0,,2950000.0,2015
+125627,,Wednesday,No,2015-07-01T00:00:00.000,Auto Theft,"[-71.133062, 42.243378]",Point,07xx,7,IVMV,531,E18,,No,WATERLOO ST,Part One,None,755523.0,,2910000.0,2015
+149760,,Wednesday,No,2015-07-01T00:00:00.000,Auto Theft,"[-71.133062, 42.243378]",Point,07xx,7,IVMV,545,E18,,No,BRAEBURN RD,Part One,None,755523.0,,2910000.0,2015
+199385,,Wednesday,No,2015-07-01T00:00:00.000,Auto Theft,"[-71.09158, 42.295585]",Point,07xx,7,IVMV,908,B3,,No,FRANKLIN HILL AVE,Part One,None,766664.0,,2930000.0,2015

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57181,140118296.0,Tuesday,No,2014-02-25T17:18:00.000,Service,"[-71.08099, 42.300209]",Point,Service,2,LOCK  ,456,B3,First,No,HARLEM ST,Part three,Unarmed,769520.6679,,2934702.57,2014
+67782,140117730.0,Tuesday,No,2014-02-25T13:20:00.000,Service,"[-71.12279, 42.291426]",Point,Service,2,ARREST,563,E5,Day,No,WASHINGTON ST,Part three,Unarmed,758226.8467,,2931449.1180000002,2014
+133250,140118025.0,Tuesday,No,2014-02-25T15:35:00.000,Service,"[-71.11297, 42.300811]",Point,Service,2,OT    ,510,E13,Day,No,WASHINGTON ST,Part three,Other,760868.2636,,2934881.061,2014
+162349,140117577.0,Tuesday,No,2014-02-25T11:42:00.000,Service,"[-71.06166, 42.350131]",Point,Service,2,ARREST,124,A1,Day,No,HARRISON AV,Part three,Unarmed,774656.4421,,2952921.253,2014
+189047,140117294.0,Tuesday,No,2014-02-25T06:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,2,IVPREM,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+193337,140117445.0,Tuesday,No,2014-02-25T10:36:00.000,Service,"[-71.05839, 42.307821]",Point,Service,2,ARREST,823,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775620.1902,HANCOCK ST,2937507.3310000002,2014
+196058,140118527.0,Tuesday,No,2014-02-25T19:13:00.000,Service,"[0, 0]",Point,Service,2,SSTOP ,566,B3,First,No,PEABODY CR,Part three,Unarmed,,,,2014
+210395,140117394.0,Tuesday,No,2014-02-25T10:00:00.000,Service,"[-71.15371, 42.357431]",Point,Service,2,ARREST,760,D14,Day,No,N BEACON ST,Part three,Unarmed,749763.3555,GOODENOUGH ST,2955467.08,2014
+254612,140117812.0,Tuesday,No,2014-02-25T13:43:00.000,Service,"[-71.079137, 42.291224]",Point,Service,2,ARREST,439,B3,Day,No,BERNARD ST,Part three,Unarmed,770037.8624,,2931430.4560000002,2014

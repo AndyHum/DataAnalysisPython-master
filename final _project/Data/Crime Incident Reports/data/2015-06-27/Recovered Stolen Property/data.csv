@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27224,,Saturday,No,2015-06-27T00:00:00.000,Recovered Stolen Property,"[-71.039799, 42.376203]",Point,13xx,6,SS,26,A7,,No,BORDER ST,Part Two,None,780514.0,,2960000.0,2015
+68518,,Saturday,No,2015-06-27T08:37:00.000,Recovered Stolen Property,"[0, 0]",Point,13xx,6,ARREST,171,D4,,No,ALBANY ST,Part Two,None,, MASSACHUSETTS AVE ,,2015
+239272,,Saturday,No,2015-06-27T04:30:00.000,Recovered Stolen Property,"[0, 0]",Point,13xx,6,,175,B2,,No,SOUTHAMPTON ST,Part Two,None,,,,2015

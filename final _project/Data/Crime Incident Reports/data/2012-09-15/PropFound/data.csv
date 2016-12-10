@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37757,120578978.0,Saturday,No,2012-09-15T12:30:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,9,FDPROP,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+126724,120579774.0,Saturday,No,2012-09-15T17:30:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,9,FDPROP,119,A1,First,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2012
+139928,120578704.0,Saturday,No,2012-09-15T15:00:00.000,PropFound,"[-71.151282, 42.350604]",Point,PropFound,9,LARCRT,778,D14,Day,No,BENTLEY ST,Part Three,Other,750429.6388,,2952981.602,2012
+266217,120587859.0,Saturday,No,2012-09-15T19:00:00.000,PropFound,"[0, 0]",Point,PropFound,9,FDPROP,28,A7,First,No,BEACON ST,Part Three,Unarmed,,,,2012

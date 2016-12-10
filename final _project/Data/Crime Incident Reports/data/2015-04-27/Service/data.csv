@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+203,152034365.0,Monday,No,2015-04-27T11:45:00.000,Service,"[0, 0]",Point,Service,4,IVMV,0,A7,Day,No,FRANKFORT ST,Part three,Unarmed,,,,2015
+3272,152034528.0,Monday,No,2015-04-27T18:00:00.000,Service,"[0, 0]",Point,Service,4,IVPER,0,B2,First,No,TOWNSEND ST,Other,Unarmed,,,,2015
+9118,152034359.0,Monday,No,2015-04-27T18:45:00.000,Service,"[-71.09385, 42.331356]",Point,Service,4,ARREST,0,B2,First,No,MALCOLM X BL,Part three,Unarmed,765987.6687,ELMWOOD ST,2946036.2189999996,2015

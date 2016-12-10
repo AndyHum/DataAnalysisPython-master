@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37977,120681974.0,Monday,No,2012-10-29T13:28:00.000,MedAssist,"[-71.061015, 42.353246]",Point,MedAssist,10,UNK   ,112,A1,Day,No,AVENUE DE LAFAYETTE,Part Three,Unarmed,774824.9513,ESSEX ST,2954057.314,2012
+44466,120681215.0,Monday,No,2012-10-29T01:34:00.000,MedAssist,"[-71.0836, 42.348386]",Point,MedAssist,10,UNCONS,138,D4,Last,No,BOYLSTON ST,Part Three,Unarmed,768728.8969,GLOUCESTER ST,2952255.627,2012
+75146,120681727.0,Monday,No,2012-10-29T11:25:00.000,MedAssist,"[-71.061015, 42.353246]",Point,MedAssist,10,REMOVE,112,A1,Day,No,AVENUE DE LAFAYETTE,Part Three,Unarmed,774824.9513,,2954057.314,2012
+84172,120682407.0,Monday,No,2012-10-29T16:30:00.000,MedAssist,"[-71.056015, 42.366386]",Point,MedAssist,10,UNCONS,80,A1,First,No,SHEAFE ST,Part Three,Unarmed,776151.5198,,2958852.78,2012
+85079,120682799.0,Monday,No,2012-10-29T19:34:00.000,MedAssist,"[-71.061235, 42.310371]",Point,MedAssist,10,EDP2  ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012
+137020,120681282.0,Monday,No,2012-10-29T03:07:00.000,MedAssist,"[-71.08939, 42.345876]",Point,MedAssist,10,EDP2  ,591,D4,Last,No,HEMENWAY ST,Part Three,Knife,767168.1477,,2951333.347,2012
+187297,120683066.0,Monday,No,2012-10-29T22:57:00.000,MedAssist,"[-71.126413, 42.257738]",Point,MedAssist,10,UNK   ,544,E18,First,No,AUSTIN ST,Part Three,Unarmed,757300.3488,,2919168.3439999996,2012
+256544,120682708.0,Monday,No,2012-10-29T18:45:00.000,MedAssist,"[-71.10133, 42.325951]",Point,MedAssist,10,UNCONS,916,E13,First,No,BICKFORD ST,Part Three,Unarmed,763974.3368,,2944056.999,2012

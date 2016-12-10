@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101022,140120367.0,Tuesday,No,2014-02-25T16:40:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,2,MISPER,817,C11,First,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2014
+125814,140116753.0,Tuesday,No,2014-02-25T00:24:00.000,PersLoc,"[0, 0]",Point,PersLoc,2,IVPER ,748,E5,Last,No,BYRON ST,Other,Unarmed,,,,2014
+218422,140118662.0,Tuesday,No,2014-02-25T07:30:00.000,PersLoc,"[-71.05385, 42.337311]",Point,PersLoc,2,MISPER,936,C6,Day,No,ORTON MAROTTA WY,Other,Unarmed,776792.0166,,2948260.361,2014
+252022,140117595.0,Tuesday,No,2014-02-25T12:00:00.000,PersLoc,"[-71.075267, 42.272373]",Point,PersLoc,2,MISPER,409,B3,Day,No,CEDAR ST,Other,Unarmed,771119.3087,,2924566.3189999997,2014

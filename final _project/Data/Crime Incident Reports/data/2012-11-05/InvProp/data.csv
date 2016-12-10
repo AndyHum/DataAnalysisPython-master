@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36962,120698265.0,Monday,No,2012-11-05T18:26:00.000,InvProp,"[-71.082395, 42.315396]",Point,InvProp,11,SHOTS ,323,B2,First,No,GLENBURNE ST,Part Three,Other,769113.4919,,2940235.08,2012
+174294,120791050.0,Monday,No,2012-11-05T12:00:00.000,InvProp,"[-71.13688, 42.346906]",Point,InvProp,11,IVPREM,793,D14,Day,No,KELTON ST,Part Three,Unarmed,754328.5313,,2951650.473,2012
+203299,120697430.0,Monday,No,2012-11-05T11:24:00.000,InvProp,"[-71.10151, 42.32228]",Point,InvProp,11,SHOTS ,579,E13,Day,No,WISE ST,Part Three,Other,763931.8211,,2942718.9560000002,2012
+260000,120698285.0,Monday,No,2012-11-05T09:00:00.000,InvProp,"[-71.136442, 42.348404]",Point,InvProp,11,MISC  ,793,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,754444.5294,,2952196.889,2012

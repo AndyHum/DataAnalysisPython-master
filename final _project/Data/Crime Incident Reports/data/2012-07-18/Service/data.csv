@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45819,120442322.0,Wednesday,No,2012-07-18T10:25:00.000,Service,"[-71.0332, 42.375466]",Point,Service,7,ARREST,21,A7,Day,No,MORRIS ST,Part Three,Unarmed,782298.9865,,2962194.63,2012
+116933,120442796.0,Wednesday,No,2012-07-18T14:06:00.000,Service,"[-71.07748, 42.288071]",Point,Service,7,SSTOP ,435,B3,Day,No,WHITMAN ST,Part Three,Unarmed,770492.1329,NORFOLK ST,2930283.979,2012
+117254,120443439.0,Wednesday,No,2012-07-18T19:29:00.000,Service,"[-71.085618, 42.32866]",Point,Service,7,ARREST,276,B2,First,No,WASHINGTON ST,Part Three,Unarmed,768218.0809,,2945064.255,2012
+162184,120443817.0,Wednesday,No,2012-07-18T22:40:00.000,Service,"[-71.08046, 42.335661]",Point,Service,7,ARREST,903,D4,First,No,SHAWMUT AV,Part Three,Unarmed,769600.5096,,2947622.561,2012
+218738,120441940.0,Wednesday,No,2012-07-18T07:21:00.000,Service,"[-71.09873, 42.265356]",Point,Service,7,CD11  ,481,E18,Last,No,RIVER ST,Part Three,Unarmed,764781.2998,,2921978.5519999997,2012
+256533,120442455.0,Wednesday,No,2012-07-18T11:20:00.000,Service,"[-71.081155, 42.330851]",Point,Service,7,ARREST,280,B2,Day,No,HARRISON AV,Part Three,Other,769421.2068,,2945868.788,2012

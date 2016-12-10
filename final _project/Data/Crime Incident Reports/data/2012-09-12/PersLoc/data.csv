@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19250,120572467.0,Wednesday,No,2012-09-12T21:24:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,9,MISPER,256,C6,First,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012
+189755,120573558.0,Wednesday,No,2012-09-12T08:00:00.000,PersLoc,"[-71.068594, 42.297067]",Point,PersLoc,9,MISPER,358,C11,Day,No,LARCHMONT ST,Part Three,Unarmed,772879.7803,,2933574.0539999995,2012
+197259,120572761.0,Wednesday,No,2012-09-12T18:00:00.000,PersLoc,"[-71.072122, 42.300294]",Point,PersLoc,9,IVPER ,462,C11,First,No,BOWDOIN ST,Part Three,Unarmed,771919.4938,,2934745.1569999997,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18452,130266818.0,Sunday,No,2013-05-05T18:45:00.000,FIRE,"[-71.085841, 42.306613]",Point,FIRE,5,FIREB ,319,B2,First,No,NAZING ST,Part Three,Other,768196.8940000001,,2937029.841,2013
+125310,130267264.0,Sunday,No,2013-05-05T23:44:00.000,FIRE,"[-71.039428, 42.367778]",Point,FIRE,5,FIREB ,35,A7,First,No,S BREMEN ST,Part Three,Unarmed,780631.3068,,2959383.722,2013
+186660,130265422.0,Sunday,No,2013-05-05T00:10:00.000,FIRE,"[-71.09486, 42.346715]",Point,FIRE,5,FIREB ,624,D4,Last,No,IPSWICH ST,Part Three,Unarmed,765687.8183,,2951631.78,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70839,152004531.0,Saturday,No,2015-01-17T15:45:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,1,PROP,0,A7,Day,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+185609,152005451.0,Saturday,No,2015-01-17T10:00:00.000,PropFound,"[-71.11082, 42.306141]",Point,PropFound,1,PROP,0,E13,Day,No,CALL ST,Part three,Unarmed,761441.0273,MCBRIDE ST,2936826.045,2015
+255377,152004460.0,Saturday,No,2015-01-17T11:30:00.000,PropFound,"[-71.059415, 42.359251]",Point,PropFound,1,PROP,0,A1,Day,No,CITY HALL PZ,Part three,Unarmed,775246.1256,,2956247.881,2015

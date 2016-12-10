@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16677,142053532.0,Sunday,No,2014-11-30T18:30:00.000,PropFound,"[-71.05945, 42.356321]",Point,PropFound,11,IVPER,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,775242.1801,FRANKLIN ST,2955180.083,2014
+34547,142053366.0,Sunday,No,2014-11-30T12:00:00.000,PropFound,"[-71.064875, 42.291466]",Point,PropFound,11,PROP,0,C11,Day,No,SAMOSET ST,Part three,Unarmed,773896.4489,,2931538.311,2014
+200330,142053461.0,Sunday,No,2014-11-30T17:00:00.000,PropFound,"[-71.114, 42.299286]",Point,PropFound,11,PROP,0,E13,First,No,HYDE PARK AV,Part three,Unarmed,760592.1395,,2934324.064,2014

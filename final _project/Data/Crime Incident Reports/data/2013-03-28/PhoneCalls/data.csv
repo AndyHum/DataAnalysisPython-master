@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54684,130213219.0,Thursday,No,2013-03-28T08:00:00.000,PhoneCalls,"[-71.07611, 42.293822]",Point,PhoneCalls,3,THREAT,448,B3,Day,No,SPENCER ST,Part Three,Unarmed,770852.4041,,2932381.5730000003,2013
+92391,130206536.0,Thursday,No,2013-03-28T11:34:00.000,PhoneCalls,"[-71.094849, 42.288138]",Point,PhoneCalls,3,IVPER ,503,B3,Day,No,CATBIRD COURT,Part Three,Unarmed,765792.0983,,2930285.392,2013
+209556,130189015.0,Thursday,No,2013-03-28T23:22:00.000,PhoneCalls,"[-71.06804, 42.380366]",Point,PhoneCalls,3,THREAT,54,A15,First,No,MEAD ST,Part Three,Unarmed,772876.0519,,2963930.695,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23424,120618719.0,Saturday,No,2012-09-29T22:30:00.000,PropLost,"[-71.098745, 42.346986]",Point,PropLost,9,LSTPRP,627,D4,First,No,BROOKLINE AV,Part Three,Unarmed,764637.301,,2951725.817,2012
+75829,120613062.0,Saturday,No,2012-09-29T15:30:00.000,PropLost,"[-71.066765, 42.289126]",Point,PropLost,9,LARCRT,396,C11,Day,No,WELLES AV,Part Three,Unarmed,773389.4161,,2930682.979,2012
+110078,120613262.0,Saturday,No,2012-09-29T17:50:00.000,PropLost,"[-71.05301, 42.357526]",Point,PropLost,9,LARCRT,100,A1,First,No,BROAD ST,Part Three,Unarmed,776980.5185,,2955628.265,2012
+164422,120614178.0,Saturday,No,2012-09-29T17:00:00.000,PropLost,"[-71.156528, 42.347306]",Point,PropLost,9,LSTPRP,454,D14,First,No,EASTBURN PL,Part Three,Unarmed,749016.4665,,2951774.208,2012

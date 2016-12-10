@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7182,130348026.0,Saturday,No,2013-06-08T18:07:00.000,Bomb,"[-71.05259, 42.354126]",Point,Bomb,6,BOMBT ,114,A1,First,No,ATLANTIC AV,Part Two,Unarmed,777100.5353,,2954389.836,2013
+118601,130348011.0,Saturday,No,2013-06-08T17:30:00.000,Bomb,"[-71.063785, 42.349246]",Point,Bomb,6,BOMB  ,122,A1,First,No,WASHINGTON ST,Part Two,Unarmed,774083.6785,,2952595.797,2013
+171272,130348190.0,Saturday,No,2013-06-08T19:00:00.000,Bomb,"[-71.064346, 42.353072]",Point,Bomb,6,BOMB  ,111,A1,First,No,TREMONT ST,Part Two,Unarmed,773924.729,,2953989.2660000003,2013

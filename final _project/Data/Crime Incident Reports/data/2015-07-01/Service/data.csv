@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44374,,Wednesday,No,2015-07-01T20:52:00.000,Service,"[0, 0]",Point,Service,7,DISTRB,465,B3,,No,HARVARD ST,Part Three,None,, MORTON ST ,,2015
+136040,,Wednesday,No,2015-07-01T00:00:00.000,Police Service Incidents,"[-71.127463, 42.35455]",Point,Service,7,IVPER,800,D14,,No,ASHFORD ST,Part Three,None,756862.0,,2950000.0,2015
+152840,,Wednesday,No,2015-07-01T02:51:00.000,Police Service Incidents,"[0, 0]",Point,Service,7,ARREST,324,B2,,No,DEWEY ST,Part Three,None,,,,2015
+187584,,Wednesday,No,2015-07-01T00:00:00.000,Police Service Incidents,"[-71.079085, 42.338289]",Point,Service,7,SS,156,D4,,No,MASSACHUSETTS AVE,Part Three,None,769967.0,,2950000.0,2015
+226818,,Wednesday,No,2015-07-01T00:00:00.000,Service,"[-71.054679, 42.341288]",Point,Service,7,PROP,200,C6,,No,W BROADWAY,Part Three,None,776560.0,,2950000.0,2015

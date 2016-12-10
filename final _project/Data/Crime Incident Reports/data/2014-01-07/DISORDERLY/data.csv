@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132861,140013192.0,Tuesday,No,2014-01-07T18:04:00.000,DISORDERLY,"[-71.037544, 42.372451]",Point,24xx,1,SEXOFF,28,A7,First,No,PARIS ST,Part Two,Unarmed,781131.0781,,2961089.363,2014
+177812,140019062.0,Tuesday,No,2014-01-07T19:00:00.000,DISORDERLY,"[-71.098625, 42.346181]",Point,24xx,1,ABRPT ,624,D4,First,No,YAWKEY WY,Part Two,Unarmed,764671.1215,,2951432.6119999997,2014
+205826,140011804.0,Tuesday,No,2014-01-07T04:12:00.000,DISORDERLY,"[-71.133045, 42.249009]",Point,24xx,1,ARREST,539,E18,Last,No,HILLIS RD,Part Two,Unarmed,755518.6779,,2915979.4669999997,2014
+230876,140011847.0,Tuesday,No,2014-01-07T05:47:00.000,DISORDERLY,"[-71.07747, 42.336951]",Point,24xx,1,ARREST,170,D4,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,770406.5825,,2948096.651,2014

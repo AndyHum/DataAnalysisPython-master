@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25368,130713284.0,Saturday,No,2013-11-09T10:15:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,11,FDPROP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+106797,130714158.0,Saturday,No,2013-11-09T18:00:00.000,PropFound,"[-71.05635, 42.362841]",Point,PropFound,11,FDPROP,86,A1,First,No,CROSS ST,Part three,Unarmed,776067.7069,SALEM ST,2957560.44,2013
+108935,130714603.0,Saturday,No,2013-11-09T23:20:00.000,PropFound,"[-71.112411, 42.284053]",Point,PropFound,11,LSTPRP,503,E18,First,No,AMERICAN LEGION HY,Part three,Unarmed,761047.1773,,2928774.728,2013
+157502,130713842.0,Saturday,No,2013-11-09T16:56:00.000,PropFound,"[-71.049444, 42.288906]",Point,PropFound,11,FDPROP,378,C11,First,No,COFFEY ST,Part three,Other,778076.2623,,2930627.1010000003,2013

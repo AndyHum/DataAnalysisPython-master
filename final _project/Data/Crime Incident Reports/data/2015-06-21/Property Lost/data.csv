@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32281,,Sunday,No,2015-06-21T00:00:00.000,Property Lost,"[-71.060005, 42.355919]",Point,PropLost,6,PROP,102,A1,,No,WASHINGTON ST,Part Three,None,775093.0,,2960000.0,2015
+111397,,Sunday,No,2015-06-21T16:14:00.000,Property Lost,"[0, 0]",Point,PropLost,6,PROP,525,E18,,No,TRUMAN PKWY,Part Three,None,,,,2015
+124066,,Sunday,No,2015-06-21T00:00:00.000,Property Lost,"[-71.085105, 42.28957]",Point,PropLost,6,PROP,944,B3,,No,AMES ST,Part Three,None,768426.0,,2930000.0,2015
+139283,,Sunday,No,2015-06-21T00:00:00.000,Property Lost,"[-71.087672, 42.318576]",Point,PropLost,6,,308,B2,,No,MUNROE ST,Part Three,None,767680.0,,2940000.0,2015
+185718,,Sunday,No,2015-06-21T15:09:00.000,Property Lost,"[0, 0]",Point,PropLost,6,PROP,402,C11,,No,BURT ST,Part Three,None,,WASHINGTON ST,,2015
+239958,,Sunday,No,2015-06-21T00:00:00.000,Property Lost,"[-71.065255, 42.352418]",Point,PropLost,6,PROP,119,A1,,No,BOYLSTON ST,Part Three,None,773680.0,,2950000.0,2015

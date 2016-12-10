@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8799,140311015.0,Monday,No,2014-05-19T08:00:00.000,PropLost,"[-71.044545, 42.347516]",Point,PropLost,5,LSTPRP,203,C6,Day,No,SUMMER ST,Part three,Unarmed,779287.9190000001,,2951992.539,2014
+24381,140311194.0,Monday,No,2014-05-19T10:00:00.000,PropLost,"[-71.122726, 42.289178]",Point,PropLost,5,LSTPRP,563,E5,Day,No,STELLMAN RD,Part three,Unarmed,758247.5523,,2930629.9280000003,2014
+228813,140311210.0,Monday,No,2014-05-19T09:00:00.000,PropLost,"[-71.10383, 42.322836]",Point,PropLost,5,LSTPRP,581,E13,Day,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2014
+230701,140312906.0,Monday,No,2014-05-19T10:00:00.000,PropLost,"[-71.11747, 42.293702]",Point,PropLost,5,LSTPRP,508,E13,Day,No,HYDE PARK AV,Part three,Unarmed,759662.395,,2932284.793,2014
+234154,140318305.0,Monday,No,2014-05-19T09:00:00.000,PropLost,"[-71.054711, 42.341305]",Point,PropLost,5,LSTPRP,200,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+252597,140316575.0,Monday,No,2014-05-19T05:28:00.000,PropLost,"[-71.08181, 42.318281]",Point,PropLost,5,LSTPRP,311,B2,Last,No,WARREN ST,Part three,Unarmed,769266.5575,MAYWOOD ST,2941287.1960000005,2014
+264662,140315991.0,Monday,No,2014-05-19T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LSTPRP,406,B3,First,No,RIVER ST,Part three,Unarmed,,,,2014

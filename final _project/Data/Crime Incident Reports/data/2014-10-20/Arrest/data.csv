@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50278,142040774.0,Monday,No,2014-10-20T02:20:00.000,Arrest,"[-71.09754, 42.315016]",Point,Arrest,10,ARREST,0,E13,Last,No,COLUMBUS AV,Part three,Unarmed,765018.0158,,2940076.91,2014
+123159,142040972.0,Monday,No,2014-10-20T15:15:00.000,Arrest,"[-71.090389, 42.331096]",Point,Arrest,10,ROBBER,0,B2,Day,No,MALCOLM X BL,Part three,Unarmed,766923.848,,2945945.7830000003,2014
+258916,142040862.0,Monday,No,2014-10-20T11:00:00.000,Arrest,"[-71.146978, 42.346426]",Point,Arrest,10,ARREST,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,751599.4006,,2951463.961,2014

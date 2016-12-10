@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87986,,Saturday,No,2015-07-18T09:12:00.000,Violations,"[0, 0]",Point,VAL,7,CD15,508,E13,,No,HYDE PARK AVE,Part Two,None,,,,2015
+193901,,Saturday,No,2015-07-18T05:19:00.000,Violations,"[0, 0]",Point,VAL,7,TS,351,C11,,No,ADAMS ST,Part Two,None,,LEONARD ST,,2015
+195685,,Saturday,No,2015-07-18T00:00:00.000,Firearm Violations,"[-71.085991, 42.28386]",Point,15xx,7,IVPREM,429,B3,,No,WILLOWWOOD ST,Part Two,None,768197.0,,2930000.0,2015
+196156,,Saturday,No,2015-07-18T00:00:00.000,Violations,"[-71.093184, 42.325999]",Point,VAL,7,,301,B2,,No,HIGHLAND ST,Part Two,None,766177.0,,2940000.0,2015
+213820,,Saturday,No,2015-07-18T00:00:00.000,Restraining Order Violations,"[-71.074739, 42.290262]",Point,Restrain,7,IVPER,437,B3,,No,SOUTHERN AVE,Part Two,None,771230.0,,2930000.0,2015

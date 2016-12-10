@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62521,140314428.0,Tuesday,No,2014-05-20T18:20:00.000,PropFound,"[-71.067015, 42.339621]",Point,PropFound,5,FDPROP,167,D4,First,No,MALDEN ST,Part three,Unarmed,773228.3665,,2949083.8260000004,2014
+120568,140314851.0,Tuesday,No,2014-05-20T21:20:00.000,PropFound,"[-71.07091, 42.343446]",Point,PropFound,5,FDPROP,159,D4,First,No,WALTHAM ST,Part three,Unarmed,772168.3119,,2950472.401,2014
+173258,140314526.0,Tuesday,No,2014-05-20T20:00:00.000,PropFound,"[-71.07538, 42.333949]",Point,PropFound,5,FDPROP,271,D4,First,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2014
+245671,140314321.0,Tuesday,No,2014-05-20T19:34:00.000,PropFound,"[-71.057321, 42.37585]",Point,PropFound,5,FDPROP,41,A15,First,No,TREMONT ST,Part three,Other,775780.5189,,2962299.637,2014
+255749,140312510.0,Tuesday,No,2014-05-20T03:45:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,5,FDPROP,778,D14,Last,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014

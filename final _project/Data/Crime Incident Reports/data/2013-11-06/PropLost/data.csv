@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21519,130706566.0,Wednesday,No,2013-11-06T10:30:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,11,LSTPRP,465,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2013
+36394,130710949.0,Wednesday,No,2013-11-06T15:20:00.000,PropLost,"[-71.08411, 42.328726]",Point,PropLost,11,LSTPRP,282,B2,Day,No,DUDLEY ST,Part three,Unarmed,768625.9666,,2945090.4910000004,2013
+37134,130707036.0,Wednesday,No,2013-11-06T14:02:00.000,PropLost,"[-71.06838, 42.300241]",Point,PropLost,11,LARCRT,282,C11,Day,No,BOYD ST,Part three,Unarmed,772931.9449,,2934731.232,2013
+47067,130707547.0,Wednesday,No,2013-11-06T17:00:00.000,PropLost,"[-71.074855, 42.351641]",Point,PropLost,11,LARCRT,134,D4,First,No,NEWBURY ST,Part three,Other,771086.9302,,2953453.473,2013
+51363,130721300.0,Wednesday,No,2013-11-06T13:50:00.000,PropLost,"[-71.130482, 42.349666]",Point,PropLost,11,LSTPRP,796,D14,Day,No,HARVARD AV,Part three,Unarmed,756053.6909,,2952663.646,2013
+211837,130711826.0,Wednesday,No,2013-11-06T21:00:00.000,PropLost,"[-71.056041, 42.342169]",Point,PropLost,11,MISC  ,200,C6,First,No,W BROADWAY,Part three,Unarmed,776190.2658,,2950027.5960000004,2013
+218030,130708895.0,Wednesday,No,2013-11-06T09:00:00.000,PropLost,"[-71.11645, 42.305041]",Point,PropLost,11,LSTPRP,649,E13,Day,No,ST ROSE ST,Part three,Unarmed,759919.91,JAMAICA ST,2936418.289,2013

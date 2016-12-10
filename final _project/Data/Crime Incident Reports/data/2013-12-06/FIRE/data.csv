@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134425,130769506.0,Friday,No,2013-12-06T11:00:00.000,FIRE,"[-71.123915, 42.352001]",Point,FIRE,12,FIREB ,796,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,757825.1322,,2953522.3789999997,2013
+159821,130768928.0,Friday,No,2013-12-06T05:32:00.000,FIRE,"[-71.063107, 42.301073]",Point,FIRE,12,REQP  ,352,C11,Last,No,ARCADIA PARK,Part three,Unarmed,774356.6356,,2935041.712,2013
+161577,130770005.0,Friday,No,2013-12-06T14:57:00.000,FIRE,"[-71.070906, 42.27852]",Point,FIRE,12,FIREB ,415,B3,Day,No,DRISCOLL DR,Part three,Unarmed,772288.3294,,2926812.2189999996,2013

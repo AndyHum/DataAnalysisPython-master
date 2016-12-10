@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+138903,130661353.0,Wednesday,No,2013-10-16T13:55:00.000,PropFound,"[-71.061745, 42.356021]",Point,PropFound,10,MEET  ,111,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2013
+157697,130663190.0,Wednesday,No,2013-10-16T11:45:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,10,FDPROP,72,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+188226,130669703.0,Wednesday,No,2013-10-16T06:30:00.000,PropFound,"[-71.06784, 42.361201]",Point,PropFound,10,FDPROP,64,A1,Last,No,N ANDERSON ST,Part three,Unarmed,772965.4734,CAMBRIDGE ST,2956946.85,2013
+198747,130662338.0,Wednesday,No,2013-10-16T15:00:00.000,PropFound,"[-71.083222, 42.320649]",Point,PropFound,10,FDPROP,297,B2,Day,No,DALE ST,Part three,Unarmed,768880.3404,,2942148.2660000003,2013

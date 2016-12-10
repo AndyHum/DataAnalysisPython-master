@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+26835,130811383.0,Thursday,No,2013-12-26T17:45:00.000,Service,"[-71.06287, 42.352321]",Point,Service,12,ARREST,117,A1,First,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2013
+48447,130810763.0,Thursday,No,2013-12-26T11:30:00.000,Service,"[-71.082369, 42.2954]",Point,Service,12,LARCRT,441,B3,Day,No,NIGHTINGALE ST,Part three,Unarmed,769155.9872,,2932948.2830000003,2013
+57125,130810974.0,Thursday,No,2013-12-26T13:51:00.000,Service,"[-71.15159, 42.356801]",Point,Service,12,ARREST,939,D14,Day,No,N BEACON ST,Part three,Unarmed,750337.2932,,2955239.8310000002,2013
+134025,130811386.0,Thursday,No,2013-12-26T17:48:00.000,Service,"[-71.09551, 42.334101]",Point,Service,12,ARREST,901,B2,First,No,PARKER ST,Part three,Other,765534.0738,MCGREEVEY WY,2947034.413,2013
+146912,130810531.0,Thursday,No,2013-12-26T09:10:00.000,Service,"[-71.061745, 42.356021]",Point,Service,12,ARREST,111,A1,Day,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2013
+168347,130811794.0,Thursday,No,2013-12-26T21:40:00.000,Service,"[-71.01248, 42.381661]",Point,Service,12,AOD   ,13,A7,First,No,COLERIDGE ST,Part three,Unarmed,787884.6938,RICE ST,2964483.53,2013
+261743,130811528.0,Thursday,No,2013-12-26T17:10:00.000,Service,"[0, 0]",Point,Service,12,LARCRT,355,C11,First,No,COLUMBIA RD,Part three,Unarmed,,MORRISSEY BL,,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51058,140006144.0,Saturday,No,2014-01-04T08:30:00.000,PropFound,"[-71.058785, 42.358151]",Point,PropFound,1,FDPROP,98,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775418.4711,PIE AL,2955847.9,2014
+68698,140008134.0,Saturday,No,2014-01-04T08:30:00.000,PropFound,"[-71.065916, 42.298578]",Point,PropFound,1,INVEST,355,C11,Day,No,WALDECK ST,Part three,Unarmed,773601.433,,2934128.63,2014
+92869,140007365.0,Saturday,No,2014-01-04T22:00:00.000,PropFound,"[-71.12395, 42.256421]",Point,PropFound,1,FDPROP,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+150769,140006818.0,Saturday,No,2014-01-04T15:30:00.000,PropFound,"[-71.05724, 42.360116]",Point,PropFound,1,INVEST,92,A1,Day,No,CITY HALL SQ,Part three,Unarmed,775832.3331,,2956566.147,2014
+227657,140006053.0,Saturday,No,2014-01-04T04:30:00.000,PropFound,"[-71.07831, 42.352031]",Point,PropFound,1,FDPROP,137,D4,Last,No,DARTMOUTH ST,Part three,Unarmed,770152.3215,COMMONWEALTH AV,2953590.959,2014

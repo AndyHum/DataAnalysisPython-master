@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5757,130269566.0,Monday,No,2013-05-06T19:00:00.000,PersLoc,"[-71.098625, 42.346181]",Point,PersLoc,5,MISPER,624,D4,First,No,YAWKEY WY,Part Three,Unarmed,764671.1215,,2951432.6119999997,2013
+133906,130268100.0,Monday,No,2013-05-06T10:20:00.000,PersLoc,"[-71.093775, 42.269596]",Point,PersLoc,5,MISPER,476,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766115.135,,2923530.012,2013
+210707,130268867.0,Monday,No,2013-05-06T14:30:00.000,PersLoc,"[-71.061984, 42.36231]",Point,PersLoc,5,MISPER,533,A1,Day,No,NEW CHARDON ST,Part Three,Unarmed,774546.0673,,2957359.042,2013

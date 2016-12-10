@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21076,130159997.0,Friday,No,2013-03-15T11:00:00.000,PropLost,"[-71.093565, 42.348811]",Point,PropLost,3,LSTPRP,623,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,766034.4206,,2952397.512,2013
+37271,130158095.0,Friday,No,2013-03-15T23:00:00.000,PropLost,"[-71.04142, 42.319296]",Point,PropLost,3,LSTPRP,256,C6,First,No,HARBOR POINT BL,Part Three,Unarmed,780187.9671,,2941713.22,2013
+61148,130166423.0,Friday,No,2013-03-15T22:30:00.000,PropLost,"[-71.065775, 42.352431]",Point,PropLost,3,LSTPRP,118,A1,First,No,BOYLSTON ST,Part Three,Unarmed,773539.8413,,2953753.727,2013
+73171,130159758.0,Friday,No,2013-03-15T20:00:00.000,PropLost,"[-71.07009, 42.318106]",Point,PropLost,3,LSTPRP,260,B2,First,No,MAGNOLIA ST,Part Three,Unarmed,772436.5328,,2941239.1810000003,2013
+119197,130152730.0,Friday,No,2013-03-15T01:40:00.000,PropLost,"[-71.052846, 42.358532]",Point,PropLost,3,LARCRT,101,A1,Last,No,MILK ST,Part Three,Unarmed,777022.7129,,2955994.982,2013
+119545,130160454.0,Friday,No,2013-03-15T17:00:00.000,PropLost,"[-71.06122, 42.365521]",Point,PropLost,3,LSTPRP,76,A1,First,No,CAUSEWAY ST,Part Three,Unarmed,774746.5282,CANAL ST,2958530.278,2013
+147398,130160371.0,Friday,No,2013-03-15T16:00:00.000,PropLost,"[-71.06076, 42.357671]",Point,PropLost,3,LSTPRP,103,A1,First,No,TREMONT ST,Part Three,Unarmed,774885.5732,,2955670.224,2013
+188857,130160490.0,Friday,No,2013-03-15T21:00:00.000,PropLost,"[-71.0836, 42.348386]",Point,PropLost,3,LSTPRP,138,D4,First,No,BOYLSTON ST,Part Three,Unarmed,768728.8969,,2952255.627,2013
+265084,130162140.0,Friday,No,2013-03-15T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LARCRT,289,B2,First,No,HANOVER ST,Part Three,Unarmed,,RICHMOND ST,,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38242,142005510.0,Thursday,No,2014-07-03T06:52:00.000,Service,"[-71.08077, 42.271356]",Point,Service,7,ARREST,0,B3,Last,No,RIVER ST,Part three,Unarmed,769631.8708,,2924188.4110000003,2014
+132524,142005532.0,Thursday,No,2014-07-03T09:30:00.000,Service,"[-71.063675, 42.352301]",Point,Service,7,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+134481,142005508.0,Thursday,No,2014-07-03T07:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,7,CD9,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+214541,142008984.0,Thursday,No,2014-07-03T07:00:00.000,Service,"[-71.02958, 42.380691]",Point,Service,7,CD11,0,A7,Last,No,LEXINGTON ST,Part three,Unarmed,783266.6211,,2964104.1,2014
+265705,142005776.0,Thursday,No,2014-07-03T21:14:00.000,Service,"[0, 0]",Point,Service,7,CD19IV,0,C6,First,No,FID KENNEDY AV,Part three,Other,,,,2014

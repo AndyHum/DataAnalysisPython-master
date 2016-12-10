@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38601,152003096.0,Monday,No,2015-01-12T13:56:00.000,PersLoc,"[-71.166415, 42.301223]",Point,PersLoc,1,IVPREM,0,E5,Day,No,WESTGATE RD,Other,Unarmed,746409.4307,,2934970.003,2015
+106398,152003211.0,Monday,No,2015-01-12T16:30:00.000,PersLoc,"[-71.092001, 42.278561]",Point,PersLoc,1,IVPER,0,B3,First,No,FESSENDEN ST,Other,Unarmed,766579.5337,,2926799.047,2015
+129792,152003079.0,Monday,No,2015-01-12T14:05:00.000,PersLoc,"[-71.071135, 42.335176]",Point,PersLoc,1,MISSIN,0,D4,Day,No,ALBANY ST,Other,Unarmed,772122.6365,,2947458.358,2015
+165356,152003245.0,Monday,No,2015-01-12T18:00:00.000,PersLoc,"[-71.081224, 42.293554]",Point,PersLoc,1,IVPER,0,B3,First,No,KERWIN ST,Other,Unarmed,769469.0328,,2932277.0439999998,2015
+221623,152002977.0,Monday,No,2015-01-12T07:51:00.000,PersLoc,"[-71.087612, 42.312512]",Point,PersLoc,1,IVPER,0,B2,Day,No,CRAWFORD ST,Other,Unarmed,767707.5761,,2939177.0239999997,2015
+229651,152003219.0,Monday,No,2015-01-12T22:40:00.000,PersLoc,"[-71.074925, 42.304986]",Point,PersLoc,1,IVPER,0,C11,First,No,GENEVA AV,Other,Unarmed,771152.7388,,2936451.49,2015
+261296,152003044.0,Monday,No,2015-01-12T12:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,E5,Day,No,CENTRE ST,Other,Unarmed,,,,2015

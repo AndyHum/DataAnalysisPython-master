@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20814,130222225.0,Monday,No,2013-04-15T12:25:00.000,32GUN,"[-71.09822, 42.278015]",Point,32GUN,4,FDWEAP,470,B3,Day,No,ALMONT ST,Part Three,Unarmed,764897.5305,,2926592.143,2013
+209019,130222750.0,Monday,No,2013-04-15T16:48:00.000,32GUN,"[-71.09345, 42.274701]",Point,32GUN,4,FDWEAP,427,B3,First,No,BLUE HILL AV,Part Three,Firearm,766194.2316,,2925390.762,2013
+234805,130222162.0,Monday,No,2013-04-15T11:45:00.000,32GUN,"[-71.054711, 42.341305]",Point,32GUN,4,IVPER ,200,C6,Day,No,BROADWAY,Part Three,Other,776551.5679,,2949714.607,2013
+244694,130223212.0,Monday,No,2013-04-15T20:59:00.000,32GUN,"[-71.085978, 42.296806]",Point,32GUN,4,FDWEAP,444,B3,First,No,ABBOT ST,Part Three,Firearm,768177.1099,,2933455.566,2013

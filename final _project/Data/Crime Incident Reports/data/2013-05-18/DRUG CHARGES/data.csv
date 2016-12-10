@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67672,130297797.0,Saturday,No,2013-05-18T19:40:00.000,DRUG CHARGES,"[-71.07426, 42.384061]",Point,18xx,5,ARREST,50,A15,First,No,MAFFA WY,Part Two,Other,771188.793,CAMBRIDGE ST,2965268.7830000003,2013
+138873,130297674.0,Saturday,No,2013-05-18T18:30:00.000,DRUG CHARGES,"[-71.052489, 42.329765]",Point,18xx,5,ARREST,218,C6,First,No,OLD COLONY AV,Part Two,Unarmed,777174.4046,,2945512.439,2013
+176378,130297715.0,Saturday,No,2013-05-18T19:00:00.000,DRUG CHARGES,"[-71.171675, 42.278601]",Point,18xx,5,IVDRUG,729,E5,First,No,VFW PY,Part Two,Other,745018.3088,,2926720.784,2013

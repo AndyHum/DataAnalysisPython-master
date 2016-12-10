@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14019,130619155.0,Saturday,No,2013-09-28T13:25:00.000,FIRE,"[-71.07554, 42.290081]",Point,FIRE,9,FV    ,438,B3,Day,No,MILLET ST,Part three,Unarmed,771013.4078,SOUTHERN AV,2931019.058,2013
+116416,130619719.0,Saturday,No,2013-09-28T18:28:00.000,FIRE,"[-71.072755, 42.346471]",Point,FIRE,9,FIREB ,151,D4,First,No,CHANDLER ST,Part three,Unarmed,771664.0101,,2951572.2630000003,2013
+132011,130618559.0,Saturday,No,2013-09-28T05:12:00.000,FIRE,"[-71.05676, 42.320006]",Point,FIRE,9,FIREB ,235,C11,Last,No,DORCHESTER AV,Part three,Unarmed,776038.0187,,2941950.0239999997,2013

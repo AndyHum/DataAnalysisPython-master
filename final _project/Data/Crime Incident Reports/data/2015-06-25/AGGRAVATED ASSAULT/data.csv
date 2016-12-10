@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1100,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.072695, 42.290415]",Point,04xx,6,PSHOT,450,B3,,Yes,TALBOT AVE,Part One,Firearm,771782.0,,2930000.0,2015
+8302,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.09804, 42.282358]",Point,04xx,6,NIDV,468,B3,,No,HAZLETON ST,Part One,Blunt Object,764939.0,,2930000.0,2015
+29687,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.074751, 42.291256]",Point,04xx,6,AB,449,B3,,No,ASPINWALL RD,Part One,Blunt Object,771225.0,,2930000.0,2015
+66514,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.080767, 42.335434]",Point,04xx,6,FIGHT,903,D4,,No,TROTTER CT,Part One,Knife/Cutting Instrument,769518.0,,2950000.0,2015
+71834,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.136789, 42.349842]",Point,04xx,6,AB,795,D14,,No,ALLSTON ST,Part One,Blunt Object,754348.0,,2950000.0,2015
+78613,,Thursday,No,2015-06-25T22:00:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,IVPER,357,C11,,No,CHARLES ST,Part One,Firearm,, GENEVA AVE ,,2015
+93666,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.081299, 42.335968]",Point,04xx,6,IVPER,903,D4,,No,TROTTER CT,Part One,Blunt Object,769373.0,,2950000.0,2015
+112713,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.070015, 42.36116]",Point,04xx,6,MVA,64,A1,,No,CAMBRIDGE ST,Part One,Other,772378.0,,2960000.0,2015
+129392,,Thursday,No,2015-06-25T17:04:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,ASLTIP,309,B2,,No,DALE ST,Part One,Other,,SHERMAN ST,,2015
+192865,,Thursday,No,2015-06-25T13:28:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,IVPER,171,D4,,No, ALBANY ST ,Part One,Other,, MASSACHUSETTS AVE ,,2015
+203726,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.132894, 42.353159]",Point,04xx,6,PKNIFE,802,D14,,No,BRIGHTON AVE,Part One,Knife/Cutting Instrument,755396.0,,2950000.0,2015
+211171,,Thursday,No,2015-06-25T00:00:00.000,Aggravated Assault,"[-71.091997, 42.27856]",Point,04xx,6,IVPER,714,,,No,WASHINGTON ST,Part One,Other,766581.0,,2930000.0,2015
+211629,,Thursday,No,2015-06-25T10:23:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,ARREST,281,B2,,No,GREENVILLE ST,Part One,Knife/Cutting Instrument,,,,2015
+257004,,Thursday,No,2015-06-25T10:45:00.000,Aggravated Assault,"[0, 0]",Point,04xx,6,IVPER,482,B3,,No,EDGEWATER DR,Part One,Blunt Object,,RIVER ST,,2015

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+262,152014813.0,Tuesday,No,2015-02-24T06:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,CD9,0,C6,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015
+12430,152015073.0,Tuesday,No,2015-02-24T08:00:00.000,InvProp,"[-71.090625, 42.322626]",Point,InvProp,2,IVPREM,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,766874.9537,,2942859.023,2015
+20493,152015987.0,Tuesday,No,2015-02-24T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,2,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Other,774387.3075,,2958488.345,2015
+91502,152014957.0,Tuesday,No,2015-02-24T16:42:00.000,InvProp,"[-71.08668, 42.309096]",Point,InvProp,2,BE,0,B2,First,No,SCHUYLER ST,Part three,Unarmed,767965.694,,2937933.613,2015
+120937,152014890.0,Tuesday,No,2015-02-24T12:00:00.000,InvProp,"[-71.10537, 42.308606]",Point,InvProp,2,VAND,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,762911.0968,,2937731.106,2015
+153592,152014809.0,Tuesday,No,2015-02-24T06:46:00.000,InvProp,"[-71.061235, 42.310371]",Point,InvProp,2,ARREST,0,C11,Last,No,HANCOCK ST,Part three,Other,774845.858,,2938432.619,2015
+167473,152019624.0,Tuesday,No,2015-02-24T12:00:00.000,InvProp,"[-71.143665, 42.355438]",Point,InvProp,2,MISC,0,D14,Day,No,HICHBORN ST,Part three,Unarmed,752481.1255,,2954751.778,2015

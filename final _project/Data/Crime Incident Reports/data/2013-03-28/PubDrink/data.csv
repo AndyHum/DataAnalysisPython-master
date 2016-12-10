@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129253,130184796.0,Thursday,No,2013-03-28T17:17:00.000,PubDrink,"[-71.08046, 42.335661]",Point,PubDrink,3,IVPER ,903,D4,First,No,SHAWMUT AV,Part Two,Unarmed,769600.5096,,2947622.561,2013
+140131,130183269.0,Thursday,No,2013-03-28T23:47:00.000,PubDrink,"[0, 0]",Point,PubDrink,3,IVPER ,915,C6,Last,No,JAMES ONEILL ST,Part Two,Unarmed,,,,2013
+219107,130182444.0,Thursday,No,2013-03-28T17:20:00.000,PubDrink,"[-71.07666, 42.307041]",Point,PubDrink,3,SSTOP ,329,B2,First,No,COLUMBIA RD,Part Two,Unarmed,770679.6955,STANWOOD ST,2937198.0310000004,2013

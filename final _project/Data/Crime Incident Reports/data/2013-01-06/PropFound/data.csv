@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91657,130011886.0,Sunday,No,2013-01-06T17:39:00.000,PropFound,"[-71.07332, 42.338551]",Point,PropFound,1,IVPREM,168,D4,First,No,E NEWTON ST,Part Three,Unarmed,771525.7131,,2948685.305,2013
+119746,130010720.0,Sunday,No,2013-01-06T00:10:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,1,FDPROP,72,A1,Last,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013
+159489,130011425.0,Sunday,No,2013-01-06T12:00:00.000,PropFound,"[-71.142555, 42.286066]",Point,PropFound,1,FDPROP,687,E5,Day,No,BELGRADE AV,Part Three,Unarmed,752887.3367,,2929472.8210000005,2013
+262182,130013761.0,Sunday,No,2013-01-06T15:00:00.000,PropFound,"[0, 0]",Point,PropFound,1,FDPROP,168,D4,Day,No,W NEWTON ST,Part Three,Unarmed,,,,2013

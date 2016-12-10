@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52134,142005242.0,Tuesday,No,2014-07-01T19:00:00.000,PropLost,"[-71.11297, 42.300811]",Point,PropLost,7,PROP,0,E13,First,No,WASHINGTON ST,Part three,Unarmed,760868.2636,,2934881.061,2014
+77406,142025290.0,Tuesday,No,2014-07-01T09:00:00.000,PropLost,"[-71.090835, 42.286361]",Point,PropLost,7,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766881.5587,,2929643.213,2014
+172529,142004901.0,Tuesday,No,2014-07-01T16:21:00.000,PropLost,"[-71.071643, 42.290556]",Point,PropLost,7,LARCEN,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772066.839,,2931197.369,2014
+174233,142004745.0,Tuesday,No,2014-07-01T08:37:00.000,PropLost,"[-71.066105, 42.376286]",Point,PropLost,7,LARCEN,0,A15,Day,No,W SCHOOL ST,Part three,Unarmed,773406.4193,,2962446.5110000004,2014
+220225,142004996.0,Tuesday,No,2014-07-01T13:00:00.000,PropLost,"[-71.15145, 42.258856]",Point,PropLost,7,PROP,0,E5,Day,No,EDGEMERE RD,Part three,Unarmed,750520.9845,,2919547.14,2014
+264273,142005262.0,Tuesday,No,2014-07-01T23:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,PROP,0,A1,First,No,PARK ST,Part three,Unarmed,,,,2014

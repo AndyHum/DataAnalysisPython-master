@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69267,130613244.0,Wednesday,No,2013-09-25T23:55:00.000,LICViol,"[-71.063525, 42.351546]",Point,LICViol,9,CD35  ,117,A1,Last,No,LAGRANGE ST,Part three,Unarmed,774149.6718,,2953434.3210000005,2013
+142509,130610978.0,Wednesday,No,2013-09-25T00:50:00.000,LICViol,"[-71.119079, 42.351603]",Point,LICViol,9,CD35  ,0,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,759132.7976,,2953383.027,2013
+142660,130610948.0,Wednesday,No,2013-09-25T00:15:00.000,LICViol,"[-71.15185, 42.336806]",Point,LICViol,9,CD35  ,789,D14,Last,No,CHESTNUT HILL AV,Part three,Unarmed,750296.7595,,2947952.96,2013
+232775,130612144.0,Wednesday,No,2013-09-25T14:00:00.000,LICViol,"[-71.03687, 42.377576]",Point,LICViol,9,PRSCRM,24,A7,Day,No,MARION ST,Part three,Unarmed,781303.168,,2962958.15,2013

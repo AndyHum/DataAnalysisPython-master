@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17246,130012289.0,Sunday,No,2013-01-06T11:30:00.000,PersLoc,"[-71.084646, 42.304835]",Point,PersLoc,1,MISPER,330,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,768523.3694,,2936383.492,2013
+69925,130012069.0,Sunday,No,2013-01-06T19:30:00.000,PersLoc,"[-71.076405, 42.338031]",Point,PersLoc,1,MISPER,170,D4,First,No,WORCESTER ST,Part Three,Unarmed,770692.5881,,2948491.651,2013
+114670,130011923.0,Sunday,No,2013-01-06T17:45:00.000,PersLoc,"[-71.141615, 42.343421]",Point,PersLoc,1,MISPER,791,D14,First,No,ALLSTON ST,Part Three,Unarmed,753053.8688,,2950375.055,2013

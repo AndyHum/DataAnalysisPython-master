@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45484,142012463.0,Thursday,No,2014-07-24T16:00:00.000,InvProp,"[-71.078586, 42.32835]",Point,InvProp,7,LARCEN,0,B2,First,No,DUDLEY ST,Part three,Unarmed,770120.2868,,2944960.5310000004,2014
+157750,142012412.0,Thursday,No,2014-07-24T13:15:00.000,InvProp,"[-71.0672, 42.350816]",Point,InvProp,7,IVMV,0,A1,Day,No,STUART ST,Part three,Unarmed,773157.6465,,2953163.233,2014
+166775,142015211.0,Thursday,No,2014-07-24T15:10:00.000,InvProp,"[-71.123165, 42.255916]",Point,InvProp,7,IVPREM,0,E18,Day,No,RIVER ST,Part three,Unarmed,758182.5548,,2918508.325,2014

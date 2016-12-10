@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+202155,120756661.0,Saturday,No,2013-07-27T14:50:00.000,Arrest,"[-71.05826, 42.329731]",Point,Arrest,7,HITRUN,605,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,775614.0035,ELLERY ST,2945491.8710000003,2013
+214431,130467972.0,Saturday,No,2013-07-27T19:59:00.000,Arrest,"[-71.07138, 42.298921]",Point,Arrest,7,ARREST,357,C11,First,No,GREENBRIER ST,Part three,Unarmed,772122.7864,DAKOTA ST,2934246.1119999997,2013
+229853,130466803.0,Saturday,No,2013-07-27T10:22:00.000,Arrest,"[-71.066836, 42.315085]",Point,Arrest,7,CD11  ,332,B2,Day,No,COLUMBIA RD,Part three,Unarmed,773322.0045,,2940142.52,2013

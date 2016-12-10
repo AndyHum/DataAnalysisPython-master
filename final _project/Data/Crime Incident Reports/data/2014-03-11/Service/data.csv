@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21579,140150020.0,Tuesday,No,2014-03-11T16:30:00.000,Service,"[-71.040245, 42.368121]",Point,Service,3,IVDRUG,29,A7,First,No,LEWIS MALL,Part three,Unarmed,780409.8322,,2959507.625,2014
+79553,140149223.0,Tuesday,No,2014-03-11T08:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,3,CD19  ,70,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+94814,140150307.0,Tuesday,No,2014-03-11T20:00:00.000,Service,"[0, 0]",Point,Service,3,IVPER ,257,C11,First,No,OAKHURST ST,Other,Unarmed,,,,2014
+114377,140150021.0,Tuesday,No,2014-03-11T16:25:00.000,Service,"[-71.040245, 42.368121]",Point,Service,3,IVDRUG,29,A7,First,No,LEWIS MALL,Part three,Unarmed,780409.8322,,2959507.625,2014

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1050,152020171.0,Friday,No,2015-03-13T02:07:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,IVPER,0,B2,Last,No,GREENVILLE ST,Other,Unarmed,,,,2015
+1189,152020665.0,Friday,No,2015-03-13T15:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,3,IVPER,0,E13,Day,No,ROBINWOOD AV,Other,Unarmed,,,,2015
+36914,152020484.0,Friday,No,2015-03-13T07:30:00.000,PersLoc,"[-71.119115, 42.271606]",Point,PersLoc,3,IVPER,0,E18,Day,No,CLARE AV,Other,Unarmed,759253.4211,,2924230.8389999997,2015
+91573,152021457.0,Friday,No,2015-03-13T06:30:00.000,PersLoc,"[-71.08634, 42.314001]",Point,PersLoc,3,IVPER,0,B2,Last,No,WAUMBECK ST,Other,Unarmed,768048.9904,,2939721.52,2015
+129715,152020473.0,Friday,No,2015-03-13T12:00:00.000,PersLoc,"[-71.066256, 42.288553]",Point,PersLoc,3,IVPER,0,C11,Day,No,TALBOT AV,Other,Unarmed,773528.0244,,2930474.905,2015
+212702,152020420.0,Friday,No,2015-03-13T07:00:00.000,PersLoc,"[-71.049746, 42.294186]",Point,PersLoc,3,MISSIN,0,C11,Last,No,WORRELL ST,Other,Unarmed,777984.5293,,2932550.6139999996,2015
+249415,152020502.0,Friday,No,2015-03-13T07:30:00.000,PersLoc,"[-71.09279, 42.335528]",Point,PersLoc,3,MISSIN,0,B2,Day,No,ANNUNCIATION RD,Other,Unarmed,766266.9936,,2947557.934,2015

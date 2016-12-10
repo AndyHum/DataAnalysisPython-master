@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42150,130566621.0,Friday,No,2013-09-06T14:45:00.000,PersLoc,"[-71.08077, 42.271356]",Point,PersLoc,9,MISPER,422,B3,Day,No,RIVER ST,Other,Unarmed,769631.8708,,2924188.4110000003,2013
+82187,130567370.0,Friday,No,2013-09-06T20:00:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,9,MISPER,446,B3,First,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2013
+115630,130567100.0,Friday,No,2013-09-06T20:53:00.000,PersLoc,"[-71.103005, 42.268371]",Point,PersLoc,9,IVPER ,537,E18,First,No,GREENFIELD RD,Other,Unarmed,763619.0518,,2923071.8430000003,2013
+165319,130567080.0,Friday,No,2013-09-06T06:30:00.000,PersLoc,"[-71.06758, 42.340921]",Point,PersLoc,9,MISPER,164,D4,Last,No,HARRISON AV,Other,Unarmed,773073.2097,,2949556.791,2013
+226746,130567056.0,Friday,No,2013-09-06T20:39:00.000,PersLoc,"[-71.06587, 42.313256]",Point,PersLoc,9,MSNCOM,332,C11,First,No,GLENDALE ST,Other,Unarmed,773586.7516,,2939477.3189999997,2013

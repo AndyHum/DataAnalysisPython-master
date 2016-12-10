@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27328,140106515.0,Thursday,No,2014-02-20T13:00:00.000,PropLost,"[-71.11411, 42.312631]",Point,PropLost,2,LSTPRP,642,E13,Day,No,CENTRE ST,Part three,Unarmed,760540.3798,,2939187.065,2014
+46123,140151833.0,Thursday,No,2014-02-20T00:01:00.000,PropLost,"[-71.068653, 42.306188]",Point,PropLost,2,LSTPRP,336,C11,Last,No,NORTON ST,Part three,Unarmed,772847.1206,,2936897.7789999996,2014
+103459,140230720.0,Thursday,No,2014-02-20T00:01:00.000,PropLost,"[-71.065485, 42.351054]",Point,PropLost,2,LSTPRP,121,A1,Last,No,STUART ST,Part three,Unarmed,773620.7745,,2953252.21,2014
+180481,140107400.0,Thursday,No,2014-02-20T19:00:00.000,PropLost,"[-71.06198, 42.356441]",Point,PropLost,2,INVEST,102,A1,First,No,PARK ST,Part three,Unarmed,774558.1332,TREMONT ST,2955220.292,2014
+232714,140109903.0,Thursday,No,2014-02-20T06:00:00.000,PropLost,"[-71.105845, 42.309636]",Point,PropLost,2,LSTPRP,573,E13,Last,No,UNION AV,Part three,Unarmed,762780.8825,,2938105.86,2014
+238432,140106939.0,Thursday,No,2014-02-20T17:15:00.000,PropLost,"[-71.074745, 42.290261]",Point,PropLost,2,LSTPRP,438,B3,First,No,SOUTHERN AV,Part three,Unarmed,771228.1822,,2931085.725,2014
+265193,140106277.0,Thursday,No,2014-02-20T06:40:00.000,PropLost,"[0, 0]",Point,PropLost,2,LARCRT,60,A15,Last,No,RUTHERFORD AV,Part three,Unarmed,,,,2014

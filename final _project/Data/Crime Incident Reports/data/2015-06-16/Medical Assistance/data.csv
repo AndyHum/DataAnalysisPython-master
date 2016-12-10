@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14386,,Tuesday,No,2015-06-16T00:00:00.000,Medical Assistance,"[-71.041391, 42.33095]",Point,MedAssist,6,I00015,921,C6,,No,H ST,Part Three,None,780173.0,,2950000.0,2015
+18369,,Tuesday,No,2015-06-16T00:00:00.000,Medical Assistance,"[-71.119592, 42.256322]",Point,MedAssist,6,UNCONS,519,E18,,No,DAVISON ST,Part Three,None,759149.0,,2920000.0,2015
+22203,,Tuesday,No,2015-06-16T14:12:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,UNCONS,130,D4,,No,DARTMOUTH ST,Part Three,None,,,,2015
+71540,,Tuesday,No,2015-06-16T19:10:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,INJOFF,519,E18,,No,HYDE PARK AVE,Part Three,None,,,,2015
+87320,,Tuesday,No,2015-06-16T00:00:00.000,Medical Assistance,"[-71.041217, 42.368568]",Point,MedAssist,6,UNKEMS,27,A7,,No,MONSIGNOR ALBERT A. JACOBBE RD,Part Three,None,780146.0,,2960000.0,2015
+111339,,Tuesday,No,2015-06-16T00:00:00.000,Medical Assistance,"[-71.084815, 42.280244]",Point,MedAssist,6,IVPER,421,B3,,No,MORTON VILLAGE DR,Part Three,None,768521.0,,2930000.0,2015
+117622,,Tuesday,No,2015-06-16T00:00:00.000,Medical Assistance,"[-71.001661, 42.389144]",Point,MedAssist,6,UNK,8,A7,,No,GLADSTONE ST,Part Three,None,790792.0,,2970000.0,2015
+144859,,Tuesday,No,2015-06-16T20:07:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,IVPREM,128,A1,,No,ISABELLA ST,Part Three,None,,,,2015
+172567,,Tuesday,No,2015-06-16T00:00:00.000,Medical Assistance,"[-71.072327, 42.335724]",Point,MedAssist,6,IVPREM,171,D4,,No,E CONCORD ST,Part Three,None,771799.0,,2950000.0,2015
+235545,,Tuesday,No,2015-06-16T00:00:00.000,Medical Assistance,"[-71.054953, 42.329229]",Point,MedAssist,6,UNKEMS,193,C6,,No,PREBLE ST,Part Three,None,776509.0,,2950000.0,2015

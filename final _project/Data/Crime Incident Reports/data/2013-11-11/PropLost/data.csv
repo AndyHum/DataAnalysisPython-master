@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99987,130717524.0,Monday,No,2013-11-11T01:00:00.000,PropLost,"[-71.083855, 42.337396]",Point,PropLost,11,LSTPRP,274,D4,Last,No,TREMONT ST,Part three,Unarmed,768679.5046,,2948250.33,2013
+104942,130717466.0,Monday,No,2013-11-11T14:15:00.000,PropLost,"[-71.08037, 42.349236]",Point,PropLost,11,LARCRT,138,D4,Day,No,BOYLSTON ST,Part three,Other,769600.5057,,2952569.662,2013
+170012,130723801.0,Monday,No,2013-11-11T15:00:00.000,PropLost,"[-71.166065, 42.353471]",Point,PropLost,11,LSTPRP,759,D14,Day,No,PERTHSHIRE RD,Part three,Unarmed,746429.6340000001,,2954010.538,2013
+174271,130720122.0,Monday,No,2013-11-11T17:30:00.000,PropLost,"[-71.112343, 42.313839]",Point,PropLost,11,LSTPRP,639,E13,First,No,ST JOHN ST,Part three,Unarmed,761016.3063,,2939629.3430000003,2013
+186627,130717499.0,Monday,No,2013-11-11T01:00:00.000,PropLost,"[-71.0649, 42.351031]",Point,PropLost,11,LSTPRP,118,A1,Last,No,STUART ST,Part three,Unarmed,773778.9577,TREMONT ST,2953244.745,2013
+215917,130721680.0,Monday,No,2013-11-11T16:00:00.000,PropLost,"[-71.083255, 42.327331]",Point,PropLost,11,LSTPRP,282,B2,First,No,WARREN ST,Part three,Unarmed,768859.6453,,2944583.258,2013
+229536,130722034.0,Monday,No,2013-11-11T16:00:00.000,PropLost,"[-71.06331, 42.361174]",Point,PropLost,11,INVEST,68,A1,First,No,CAMBRIDGE ST,Part three,Unarmed,774189.8364,,2956943.1489999997,2013
+264595,130724055.0,Monday,No,2013-11-11T14:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,93,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,,,,2013

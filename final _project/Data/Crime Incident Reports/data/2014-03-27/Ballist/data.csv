@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63267,140185810.0,Thursday,No,2014-03-27T17:37:00.000,Ballist,"[-71.085215, 42.283961]",Point,Ballist,3,SHOTS ,432,B3,First,No,MOUNTAIN AV,Part Two,Unarmed,768406.4992,,2928775.963,2014
+235741,140185284.0,Thursday,No,2014-03-27T13:45:00.000,Ballist,"[-71.05203, 42.299191]",Point,Ballist,3,FDPROP,353,C11,Day,No,MILL ST,Part Two,Unarmed,777357.0404,,2934371.402,2014
+237502,140184754.0,Thursday,No,2014-03-27T08:00:00.000,Ballist,"[-71.088241, 42.283284]",Point,Ballist,3,FDPROP,429,B3,Day,No,WILDWOOD ST,Part Two,Unarmed,767588.7423,,2928525.213,2014

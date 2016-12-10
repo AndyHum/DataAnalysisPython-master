@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24216,,Sunday,No,2015-06-21T22:30:00.000,Vandalism,"[0, 0]",Point,14xx,6,PROP,796,D14,,No,HARVARD AVE,Part Two,None,,,,2015
+59650,,Sunday,No,2015-06-21T00:00:00.000,Vandalism,"[-71.087454, 42.333382]",Point,14xx,6,VAND,909,B2,,No,CABOT ST,Part Two,None,767713.0,,2950000.0,2015
+79872,,Sunday,No,2015-06-21T00:00:00.000,Vandalism,"[-71.071816, 42.326507]",Point,14xx,6,VAND,180,B2,,No,MAGAZINE ST,Part Two,None,771954.0,,2940000.0,2015
+111956,,Sunday,No,2015-06-21T00:00:00.000,Vandalism,"[-71.069409, 42.339542]",Point,14xx,6,IVPER,165,D4,,No,HARRISON AVE,Part Two,None,772581.0,,2950000.0,2015
+132210,,Sunday,No,2015-06-21T00:00:00.000,Vandalism,"[-71.087131, 42.316096]",Point,14xx,6,VAND,313,B2,,No,HUMBOLDT AVE,Part Two,None,767831.0,,2940000.0,2015
+156290,,Sunday,No,2015-06-21T00:00:00.000,Vandalism,"[-71.107725, 42.331286]",Point,14xx,6,VAND,605,B2,,No,ELDORA ST,Part Two,None,762236.0,,2950000.0,2015
+179557,,Sunday,No,2015-06-21T00:00:00.000,Vandalism,"[-71.172916, 42.351154]",Point,14xx,6,IVPER,755,D14,,No,TREMONT ST,Part Two,None,744581.0,,2950000.0,2015
+205017,,Sunday,No,2015-06-21T00:00:00.000,Vandalism,"[-71.037468, 42.371026]",Point,14xx,6,VAND,28,A7,,No,CHELSEA ST,Part Two,None,781155.0,,2960000.0,2015

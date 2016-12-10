@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2067,152043465.0,Wednesday,No,2015-05-27T10:15:00.000,Arrest,"[0, 0]",Point,Arrest,5,ARREST,0,C11,Day,No,GENEVA AV,Part three,Unarmed,,,,2015
+114298,152043512.0,Wednesday,No,2015-05-27T11:34:00.000,Arrest,"[-71.04149, 42.334241]",Point,Arrest,5,IVPER,0,C6,Day,No,H ST,Part three,Other,780139.7599,,2947159.3210000005,2015

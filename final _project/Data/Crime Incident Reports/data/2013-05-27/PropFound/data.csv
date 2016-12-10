@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+30006,130317750.0,Monday,No,2013-05-27T11:00:00.000,PropFound,"[-71.06366, 42.295461]",Point,PropFound,5,FDPROP,360,C11,Day,No,MELVILLE AV,Part three,Unarmed,774217.7343,,2932995.827,2013
+112547,130317214.0,Monday,No,2013-05-27T07:00:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,5,FDPROP,778,D14,Last,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+125262,130319541.0,Monday,No,2013-05-27T17:30:00.000,PropFound,"[-71.085813, 42.303132]",Point,PropFound,5,FDPROP,566,B2,First,No,FRANKLIN PARK RD,Part Three,Unarmed,768210.6151,,2935761.349,2013
+169976,130317515.0,Monday,No,2013-05-27T11:20:00.000,PropFound,"[-71.05725, 42.365871]",Point,PropFound,5,FDPROP,79,A1,Day,No,ENDICOTT ST,Part Three,Unarmed,775818.7432,N MARGIN ST,2958663.3680000002,2013
+192075,130318342.0,Monday,No,2013-05-27T18:00:00.000,PropFound,"[-71.05241, 42.339801]",Point,PropFound,5,FDPROP,201,C6,First,No,W BROADWAY,Part Three,Unarmed,777176.5815,C ST,2949169.7989999996,2013
+194038,130317541.0,Monday,No,2013-05-27T10:30:00.000,PropFound,"[-71.102425, 42.317166]",Point,PropFound,5,FDPROP,577,E13,Day,No,AMORY ST,Part Three,Unarmed,763693.1517,,2940854.211,2013
+263242,130318322.0,Monday,No,2013-05-27T17:00:00.000,PropFound,"[0, 0]",Point,PropFound,5,INVEST,87,A1,First,No,HANOVER ST,Part Three,Unarmed,,,,2013

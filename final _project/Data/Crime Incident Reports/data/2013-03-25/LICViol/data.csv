@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5587,130174804.0,Monday,No,2013-03-25T11:15:00.000,LICViol,"[-71.10714, 42.338851]",Point,LICViol,3,IVPER ,593,B2,Day,No,LONGWOOD AV,Part Three,Unarmed,762381.5677,,2948750.704,2013
+191358,130174807.0,Monday,No,2013-03-25T12:10:00.000,LICViol,"[-71.07163, 42.350686]",Point,LICViol,3,IVPER ,129,D4,Day,No,ST JAMES AV,Part Three,Unarmed,771960.4134,,2953109.815,2013
+234282,130174803.0,Monday,No,2013-03-25T11:00:00.000,LICViol,"[-71.10714, 42.338851]",Point,LICViol,3,IVPER ,593,B2,Day,No,LONGWOOD AV,Part Three,Unarmed,762381.5677,,2948750.704,2013

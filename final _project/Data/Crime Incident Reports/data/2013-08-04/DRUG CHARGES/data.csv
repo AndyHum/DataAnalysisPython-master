@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21393,130487165.0,Sunday,No,2013-08-04T18:18:00.000,DRUG CHARGES,"[-71.080967, 42.305758]",Point,18xx,8,IVDRUG,323,B2,First,No,WASHINGTON ST,Part Two,Other,769516.8457,,2936724.604,2013
+138480,130487461.0,Sunday,No,2013-08-04T07:30:00.000,DRUG CHARGES,"[-71.059735, 42.297541]",Point,18xx,8,IVDRUG,355,C11,Day,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013
+218267,130485695.0,Sunday,No,2013-08-04T00:48:00.000,DRUG CHARGES,"[-71.08367, 42.325911]",Point,18xx,8,ARREST,294,B2,Last,No,REGENT ST,Part Two,Unarmed,768749.9517,ST JAMES ST,2944065.236,2013
+247343,130487347.0,Sunday,No,2013-08-04T19:44:00.000,DRUG CHARGES,"[-71.07807, 42.316881]",Point,18xx,8,IVPER ,0,B2,First,No,DEWEY ST,Part Two,Other,770280.5576,DEWEY TR,2940781.994,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40428,140256046.0,Sunday,No,2014-04-27T13:45:00.000,PersLoc,"[-71.115475, 42.307826]",Point,PersLoc,4,REQPF ,646,E13,Day,No,SOUTH ST,Other,Unarmed,760179.078,,2937434.376,2014
+104902,140256821.0,Sunday,No,2014-04-27T13:00:00.000,PersLoc,"[-71.07115, 42.293236]",Point,PersLoc,4,MISPER,362,C11,Day,No,MELVILLE LA,Other,Unarmed,772195.4240000001,,2932174.7260000003,2014
+150848,140255682.0,Sunday,No,2014-04-27T10:15:00.000,PersLoc,"[-71.059515, 42.310701]",Point,PersLoc,4,INVCHD,823,C11,Day,No,PLEASANT ST,Other,Unarmed,775310.4659999999,,2938555.2739999997,2014

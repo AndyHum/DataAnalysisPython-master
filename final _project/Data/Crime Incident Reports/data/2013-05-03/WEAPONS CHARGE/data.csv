@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+153806,130262642.0,Friday,No,2013-05-03T19:24:00.000,WEAPONS CHARGE,"[-71.08312, 42.307006]",Point,15xx,5,IVPER ,329,B2,First,No,CASTLEGATE RD,Part Two,Unarmed,768932.3522,,2937176.67,2013
+176311,130262961.0,Friday,No,2013-05-03T22:05:00.000,WEAPONS CHARGE,"[-71.066, 42.290251]",Point,15xx,5,IVPER ,397,C11,First,No,BRENT ST,Part Two,Firearm,773594.3182,,2931093.998,2013
+259065,130260766.0,Friday,No,2013-05-03T01:41:00.000,WEAPONS CHARGE,"[-71.093107, 42.336503]",Point,15xx,5,ARREST,911,B2,Last,No,ANNUNCIATION RD,Part Two,Unarmed,766179.5227,RUGGLES ST,2947912.5719999997,2013

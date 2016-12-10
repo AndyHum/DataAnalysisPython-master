@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3748,142052767.0,Friday,No,2014-11-28T04:15:00.000,PropFound,"[-71.05884, 42.356951]",Point,PropFound,11,PROP,0,A1,Last,No,WASHINGTON ST,Part three,Unarmed,775405.8674,MILK ST,2955410.519,2014
+127927,142052888.0,Friday,No,2014-11-28T12:30:00.000,PropFound,"[-71.07738, 42.350061]",Point,PropFound,11,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770407.2615,DARTMOUTH ST,2952874.296,2014
+188808,142052755.0,Friday,No,2014-11-28T01:25:00.000,PropFound,"[-71.120906, 42.29036]",Point,PropFound,11,FDWEAP,0,E5,Last,No,BRADEEN ST,Part three,Firearm,758738.1691,,2931062.6210000003,2014
+208110,142052810.0,Friday,No,2014-11-28T10:38:00.000,PropFound,"[-71.081035, 42.349986]",Point,PropFound,11,IVPREM,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,769419.4017,,2952842.095,2014

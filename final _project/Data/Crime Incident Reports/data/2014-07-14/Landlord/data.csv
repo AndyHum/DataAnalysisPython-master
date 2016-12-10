@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38215,142009180.0,Monday,No,2014-07-14T08:30:00.000,Landlord,"[-71.08014, 42.341866]",Point,Landlord,7,MISC,0,D4,Day,No,COLUMBUS AV,Part three,Unarmed,769675.8986,,2949884.202,2014
+102184,142009241.0,Monday,No,2014-07-14T20:39:00.000,Landlord,"[-71.090905, 42.289722]",Point,Landlord,7,LANTEN,0,B3,First,No,FABYAN ST,Part three,Unarmed,766856.5725,,2930867.615,2014
+139654,142009068.0,Monday,No,2014-07-14T14:00:00.000,Landlord,"[-71.08972, 42.282369]",Point,Landlord,7,IVPER,0,B3,Day,No,WILDWOOD ST,Part three,Unarmed,767190.2526,,2928189.921,2014
+236205,142009223.0,Monday,No,2014-07-14T20:29:00.000,Landlord,"[-71.065965, 42.360221]",Point,Landlord,7,LANTEN,0,A1,First,No,S RUSSELL ST,Part three,Other,773474.0386,,2956592.291,2014

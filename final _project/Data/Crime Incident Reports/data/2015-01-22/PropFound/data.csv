@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+129822,152005897.0,Thursday,No,2015-01-22T12:13:00.000,PropFound,"[-71.058745, 42.326161]",Point,PropFound,1,PROP,0,C6,Day,No,BOSTON ST,Part three,Unarmed,775489.5904,,2944190.224,2015
+208335,152005942.0,Thursday,No,2015-01-22T12:30:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,1,PROP,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2015
+246844,152005958.0,Thursday,No,2015-01-22T14:00:00.000,PropFound,"[-71.060056, 42.352807]",Point,PropFound,1,PROP,0,A1,Day,No,AVENUE DE LAFAYETTE,Part three,Unarmed,775084.8264,,2953898.4710000004,2015

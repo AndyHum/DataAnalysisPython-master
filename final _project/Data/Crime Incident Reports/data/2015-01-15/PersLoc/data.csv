@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41493,152003867.0,Thursday,No,2015-01-15T08:20:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,1,MISSIN,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015
+77927,152003842.0,Thursday,No,2015-01-15T11:40:00.000,PersLoc,"[-71.07483, 42.310751]",Point,PersLoc,1,MISSIN,0,B2,Day,No,LAWRENCE AV,Other,Unarmed,771167.9655,,2938552.475,2015
+175464,152004137.0,Thursday,No,2015-01-15T19:40:00.000,PersLoc,"[-71.12296, 42.249457]",Point,PersLoc,1,MISSIN,0,E18,First,No,TRUMAN PY,Other,Other,758248.2023,,2916154.65,2015
+193328,152004070.0,Thursday,No,2015-01-15T20:30:00.000,PersLoc,"[-71.07621, 42.282721]",Point,PersLoc,1,IVPER,0,B3,First,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2015
+260914,152004068.0,Thursday,No,2015-01-15T11:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,C11,Day,No,HALLET ST,Other,Unarmed,,,,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25943,140251853.0,Friday,No,2014-04-25T14:10:00.000,PropLost,"[-71.06575, 42.325491]",Point,PropLost,4,LSTPRP,186,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,773596.582,,2943936.3439999996,2014
+92465,140251163.0,Friday,No,2014-04-25T09:07:00.000,PropLost,"[-71.136064, 42.350146]",Point,PropLost,4,LSTPRP,794,D14,Day,No,LONG AV,Part three,Unarmed,754544.0296,,2952832.01,2014
+142998,140252158.0,Friday,No,2014-04-25T17:00:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,4,INVEST,72,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+247196,140253800.0,Friday,No,2014-04-25T19:00:00.000,PropLost,"[-71.078865, 42.294256]",Point,PropLost,4,LSTPRP,443,B3,First,No,W PARK ST,Part three,Unarmed,770106.2547,,2932536.0289999996,2014

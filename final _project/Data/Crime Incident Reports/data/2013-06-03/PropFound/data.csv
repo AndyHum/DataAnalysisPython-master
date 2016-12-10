@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10995,130333933.0,Monday,No,2013-06-03T01:16:00.000,PropFound,"[-71.072285, 42.342411]",Point,PropFound,6,FDPROP,159,D4,Last,No,UPTON ST,Part three,Unarmed,771798.4845,,2950093.361,2013
+59771,130335795.0,Monday,No,2013-06-03T18:50:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,6,FDPROP,574,E13,First,No,WASHINGTON ST,Part three,Unarmed,763205.8082,,2938139.2,2013
+100314,130334575.0,Monday,No,2013-06-03T10:53:00.000,PropFound,"[-71.06259, 42.311141]",Point,PropFound,6,FDPROP,334,C11,Day,No,BOWDOIN ST,Part three,Unarmed,774477.9156,HANCOCK ST,2938711.337,2013
+107821,130334178.0,Monday,No,2013-06-03T06:48:00.000,PropFound,"[-71.05643, 42.297321]",Point,PropFound,6,FDPROP,355,C11,Last,No,NEPONSET AV,Part Three,Unarmed,776170.2540000001,ADAMS ST,2933683.727,2013
+177452,130334251.0,Monday,No,2013-06-03T07:49:00.000,PropFound,"[-71.134456, 42.363298]",Point,PropFound,6,FDPROP,811,D14,Day,No,WESTERN AV,Part three,Unarmed,754958.1462,,2957626.671,2013
+202944,130336248.0,Monday,No,2013-06-03T18:00:00.000,PropFound,"[-71.091325, 42.284861]",Point,PropFound,6,FDPROP,465,B3,First,No,BLUE HILL AV,Part Three,Unarmed,766751.5911,,2929095.955,2013
+217058,130335703.0,Monday,No,2013-06-03T16:15:00.000,PropFound,"[-71.03879, 42.369811]",Point,PropFound,6,FDPROP,29,A7,First,No,MAVERICK SQ,Part three,Unarmed,780799.6949,,2960125.617,2013

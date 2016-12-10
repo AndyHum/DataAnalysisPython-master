@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+127401,130075599.0,Saturday,No,2013-01-26T06:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER ,355,C6,Last,No,HARBOR POINT BL,Part Three,Unarmed,,,,2013
+245594,130054565.0,Saturday,No,2013-01-26T15:00:00.000,PersLoc,"[-71.075781, 42.303334]",Point,PersLoc,1,MISPER,461,C11,Day,No,MT BOWDOIN TR,Part Three,Unarmed,770923.9377,,2935848.347,2013

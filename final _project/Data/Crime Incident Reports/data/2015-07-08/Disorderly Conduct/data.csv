@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19211,,Wednesday,No,2015-07-08T00:00:00.000,Disorderly Conduct,"[-71.070002, 42.279633]",Point,24xx,7,IVPER,415,C11,,No,WASHINGTON ST,Part Two,None,772531.0,,2930000.0,2015
+75376,,Wednesday,No,2015-07-08T16:22:00.000,Disorderly Conduct,"[0, 0]",Point,24xx,7,IVPREM,214,C6,,No,W FOURTH ST,Part Two,None,,,,2015
+83353,,Wednesday,No,2015-07-08T00:00:00.000,Disorderly Conduct,"[-71.085634, 42.328663]",Point,24xx,7,IVPER,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015

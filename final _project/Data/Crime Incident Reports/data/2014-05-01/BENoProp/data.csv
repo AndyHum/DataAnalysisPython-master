@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44868,140264560.0,Thursday,No,2014-05-01T03:51:00.000,BENoProp,"[-71.071139, 42.288286]",Point,BENoProp,5,ARREST,436,C11,Last,No,WASHINGTON ST,Part One,Knife,772207.3144,,2930370.725,2014
+62229,140266046.0,Thursday,No,2014-05-01T17:09:00.000,BENoProp,"[-71.06214, 42.301591]",Point,BENoProp,5,BEIP  ,345,C11,First,No,ARCADIA ST,Part One,Unarmed,774617.4963,,2935231.795,2014
+143951,140266700.0,Thursday,No,2014-05-01T00:01:00.000,BENoProp,"[-71.141962, 42.34169]",Point,BENoProp,5,BERPT ,786,D14,Last,No,MT HOOD RD,Part One,Unarmed,752962.6269,,2949743.723,2014

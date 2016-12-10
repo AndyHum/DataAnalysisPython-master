@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64648,,Saturday,No,2015-07-25T00:00:00.000,Robbery,"[-71.06958, 42.350238]",Point,03xx,7,I00040,125,A1,,No,STUART ST,Part One,Personal Weapon (hand  foot  etc.),772515.0,,2950000.0,2015
+84534,,Saturday,No,2015-07-25T00:00:00.000,Robbery,"[-71.034293, 42.333144]",Point,03xx,7,ARMROB,230,C6,,No,E SIXTH ST,Part One,Firearm,782088.0,,2950000.0,2015
+86982,,Saturday,No,2015-07-25T02:24:00.000,Robbery,"[0, 0]",Point,03xx,7,I00040,117,A1,,No,LAGRANGE ST,Part One,None,, WASHINGTON ST ,,2015
+131393,,Saturday,No,2015-07-25T00:00:00.000,Robbery,"[-71.068485, 42.348965]",Point,03xx,7,AB,125,A1,,No,MELROSE ST,Part One,None,772814.0,,2950000.0,2015
+166043,,Saturday,No,2015-07-25T00:00:00.000,Robbery,"[-71.061268, 42.300605]",Point,03xx,7,ARMROB,352,C11,,No,CHARLES ST,Part One,None,774855.0,,2930000.0,2015
+198100,,Saturday,No,2015-07-25T00:00:00.000,Robbery,"[-71.096806, 42.332907]",Point,03xx,7,ARREST,117,A1,,No,STUART ST,Part One,Firearm,765186.0,,2950000.0,2015
+215133,,Saturday,No,2015-07-25T04:27:00.000,Robbery,"[0, 0]",Point,03xx,7,FIGHT,328,B2,,No,CEYLON ST,Part One,Firearm,,COLUMBIA RD,,2015
+215224,,Saturday,No,2015-07-25T00:00:00.000,Robbery,"[-71.067192, 42.35251]",Point,03xx,7,,119,A1,,No,BOYLSTON ST,Part One,Personal Weapon (hand  foot  etc.),773157.0,,2950000.0,2015
+221839,,Saturday,No,2015-07-25T00:00:00.000,Robbery,"[-71.075251, 42.314108]",Point,03xx,7,ALARM,325,B2,,No,HOWARD AVE,Part One,Firearm,771048.0,,2940000.0,2015
+237216,,Saturday,No,2015-07-25T00:00:00.000,Robbery,"[-71.062563, 42.352729]",Point,03xx,7,ARREST,111,A1,,No,WASHINGTON ST,Part One,Personal Weapon (hand  foot  etc.),774407.0,,2950000.0,2015

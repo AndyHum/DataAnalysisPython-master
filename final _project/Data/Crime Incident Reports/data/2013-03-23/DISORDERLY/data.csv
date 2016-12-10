@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33171,130171305.0,Saturday,No,2013-03-23T17:45:00.000,DISORDERLY,"[-71.06707, 42.317896]",Point,24xx,3,ARREST,238,B2,First,No,DUDLEY ST,Part Two,Unarmed,773253.6772,,2941166.785,2013
+76032,130177239.0,Saturday,No,2013-03-23T16:00:00.000,DISORDERLY,"[-71.038746, 42.319281]",Point,24xx,3,THREAT,256,C6,First,No,OCEAN VIEW DR,Part Two,Unarmed,780911.1094,,2941711.705,2013
+252687,130169934.0,Saturday,No,2013-03-23T01:30:00.000,DISORDERLY,"[-71.077325, 42.351931]",Point,24xx,3,ARREST,773,D4,Last,No,COMMONWEALTH AV,Part Two,Unarmed,770418.7508,,2953555.837,2013

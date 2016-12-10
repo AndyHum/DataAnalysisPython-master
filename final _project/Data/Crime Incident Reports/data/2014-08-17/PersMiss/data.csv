@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20080,142020180.0,Sunday,No,2014-08-17T08:00:00.000,PersMiss,"[-71.04217, 42.371801]",Point,PersMiss,8,IVPER,0,A7,Day,No,BORDER ST,Other,Unarmed,779882.4333,,2960845.892,2014
+98882,142020150.0,Sunday,No,2014-08-17T01:40:00.000,PersMiss,"[-71.075835, 42.289281]",Point,PersMiss,8,MISSIN,0,B3,Last,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2014
+161993,142020377.0,Sunday,No,2014-08-17T22:51:00.000,PersMiss,"[-71.07621, 42.282721]",Point,PersMiss,8,IVPER,0,B3,First,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2014

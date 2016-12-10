@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94509,142050110.0,Tuesday,No,2014-11-18T14:22:00.000,Service,"[-71.06838, 42.305171]",Point,Service,11,IVPER,0,C11,Day,No,BOWDOIN ST,Part three,Unarmed,772922.8528,OLNEY ST,2936527.798,2014
+159560,142049986.0,Tuesday,No,2014-11-18T07:52:00.000,Service,"[-71.1244, 42.277696]",Point,Service,11,IVPER,0,E18,Day,No,POPLAR ST,Part three,Unarmed,757813.2714,WHITFORD ST,2926443.7789999996,2014
+203301,142049988.0,Tuesday,No,2014-11-18T08:49:00.000,Service,"[-71.06752, 42.301071]",Point,Service,11,SS,0,C11,Day,No,GENEVA AV,Part three,Unarmed,773163.0622,TOPLIFF ST,2935034.875,2014
+207778,142050096.0,Tuesday,No,2014-11-18T12:26:00.000,Service,"[-71.060605, 42.379941]",Point,Service,11,IVPER,0,A15,Day,No,POLK ST,Other,Unarmed,774885.6595,,2963786.077,2014
+240349,142050035.0,Tuesday,No,2014-11-18T11:18:00.000,Service,"[-71.063675, 42.352301]",Point,Service,11,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

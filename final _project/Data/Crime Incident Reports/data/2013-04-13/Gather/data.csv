@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110887,130217398.0,Saturday,No,2013-04-13T01:48:00.000,Gather,"[-71.136535, 42.355511]",Point,Gather,4,PARTY ,803,D14,Last,No,PENNIMAN RD,Part Three,Other,754408.4298,,2954786.7060000002,2013
+129401,130218236.0,Saturday,No,2013-04-13T13:51:00.000,Gather,"[-71.064905, 42.352371]",Point,Gather,4,PROTES,102,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2013
+156661,130217952.0,Saturday,No,2013-04-13T12:00:00.000,Gather,"[-71.056651, 42.353055]",Point,Gather,4,PROTES,106,A1,Day,No,SUMMER ST,Part Three,Other,776004.7599,,2953993.539,2013

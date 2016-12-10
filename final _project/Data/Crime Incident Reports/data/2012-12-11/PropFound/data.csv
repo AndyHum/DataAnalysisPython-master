@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57102,120775515.0,Tuesday,No,2012-12-11T13:00:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,12,FDPROP,200,C6,Day,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2012
+66860,120775147.0,Tuesday,No,2012-12-11T10:45:00.000,PropFound,"[-71.131835, 42.361636]",Point,PropFound,12,IVPREM,811,D14,Day,No,MEAD ST,Part Three,Other,755669.1602,,2957024.232,2012
+72455,120779571.0,Tuesday,No,2012-12-11T15:00:00.000,PropFound,"[-71.078815, 42.350571]",Point,PropFound,12,FDPROP,138,D4,Day,No,NEWBURY ST,Part Three,Unarmed,770018.4438,,2953058.235,2012
+90476,120776598.0,Tuesday,No,2012-12-11T22:30:00.000,PropFound,"[-71.100769, 42.325321]",Point,PropFound,12,FDPROP,912,E13,First,No,PARKER ST,Part Three,Other,764127.0458,PARKER ST,2943828.1319999998,2012
+133844,120775033.0,Tuesday,No,2012-12-11T09:53:00.000,PropFound,"[-71.104273, 42.309722]",Point,PropFound,12,FDPROP,574,E13,Day,No,WASHINGTON ST,Part Three,Unarmed,763205.8082,WOODSIDE AV,2938139.2,2012
+254076,120775684.0,Tuesday,No,2012-12-11T15:38:00.000,PropFound,"[-71.097855, 42.337786]",Point,PropFound,12,INVEST,616,B2,Day,No,EVANS WY,Part Three,Unarmed,764893.6972,,2948374.297,2012

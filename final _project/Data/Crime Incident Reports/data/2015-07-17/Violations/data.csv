@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4577,,Friday,No,2015-07-17T00:00:00.000,Assembly or Gathering Violations,"[-71.104187, 42.331257]",Point,Gather,7,DISTRB,604,B2,,No,OSWALD ST,Part Three,None,763193.0,,2950000.0,2015
+8339,,Friday,No,2015-07-17T04:00:00.000,Violations,"[0, 0]",Point,VAL,7,TS,254,C11,,No,DORCHESTER AVE,Part Two,None,,MELVINSIDE TER,,2015
+18861,,Friday,No,2015-07-17T16:31:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,769,D14,,No,FANEUIL ST,Part Two,None,,GOODENOUGH ST,,2015
+43453,,Friday,No,2015-07-17T08:01:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,336,C11,,No,BOWDOIN ST,Part Two,None,, OLNEY ST ,,2015
+184810,,Friday,No,2015-07-17T00:00:00.000,Violations,"[-71.07827, 42.315691]",Point,VAL,7,TS,325,B2,,No,BLUE HILL AVE,Part Two,None,770228.0,,2940000.0,2015
+233275,,Friday,No,2015-07-17T14:39:00.000,Violations,"[0, 0]",Point,VAL,7,TS,0,,,No,,Part Two,None,,BLUE HILL AVE,,2015
+237138,,Friday,No,2015-07-17T00:00:00.000,Firearm Violations,"[-71.073449, 42.293503]",Point,15xx,7,IVPER,359,C11,,No,WASHINGTON ST,Part Two,Firearm,771573.0,,2930000.0,2015
+242007,,Friday,No,2015-07-17T11:32:00.000,Violations,"[0, 0]",Point,VAL,7,TS,292,B2,,No,SAINT JAMES ST,Part Two,None,,WASHINGTON ST,,2015
+250322,,Friday,No,2015-07-17T00:00:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,CD11,367,C11,,No,ROSEMONT ST,Part Two,Firearm,,,,2015

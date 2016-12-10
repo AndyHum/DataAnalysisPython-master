@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81596,120772715.0,Monday,No,2012-12-10T08:58:00.000,Argue,"[-71.119565, 42.294446]",Point,Argue,12,IVPER ,564,E5,Day,No,WASHINGTON ST,Part Three,Unarmed,759094.5063,,2932553.528,2012
+190702,120773324.0,Monday,No,2012-12-10T13:00:00.000,Argue,"[-71.0769, 42.336356]",Point,Argue,12,IVPER ,271,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,770561.7859,,2947880.586,2012
+213305,120772526.0,Monday,No,2012-12-10T07:28:00.000,Argue,"[-71.099099, 42.26809]",Point,Argue,12,DISTRB,481,E18,Last,No,HOLLINGSWORTH ST,Part Three,Unarmed,764676.6933,,2922974.147,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+187262,130018137.0,Wednesday,No,2013-01-09T15:30:00.000,LICViol,"[-71.061317, 42.37193]",Point,LICViol,1,CD35  ,40,A15,Day,No,CITY SQ,Part Three,Unarmed,774708.2264,,2960865.472,2013
+222176,130018719.0,Wednesday,No,2013-01-09T20:20:00.000,LICViol,"[-71.092328, 42.284664]",Point,LICViol,1,IVLIC ,465,B3,First,No,MORTON ST,Part Three,Unarmed,766480.3443,,2929022.5560000003,2013
+258393,130018846.0,Wednesday,No,2013-01-09T21:45:00.000,LICViol,"[-71.08874, 42.347016]",Point,LICViol,1,CD35  ,620,D4,First,No,BOYLSTON ST,Part Three,Unarmed,767341.8596,,2951749.6319999998,2013

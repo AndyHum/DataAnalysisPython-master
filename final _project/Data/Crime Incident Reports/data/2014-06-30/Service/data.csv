@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9282,142004522.0,Monday,No,2014-06-30T14:45:00.000,Service,"[-71.05786, 42.351621]",Point,Service,6,ARREST,0,A1,Day,No,UTICA ST,Part three,Unarmed,775680.8131,TUFTS ST,2953469.538,2014
+11096,142004473.0,Monday,No,2014-06-30T11:41:00.000,Service,"[-71.117005, 42.281078]",Point,Service,6,IVPREM,0,E18,Day,No,STELLA RD,Part three,Unarmed,759808.9905,,2927684.957,2014
+49697,142004416.0,Monday,No,2014-06-30T10:45:00.000,Service,"[-71.072298, 42.304718]",Point,Service,6,CD11,0,C11,Day,No,EVERTON ST,Part three,Unarmed,771863.6868,,2936357.135,2014
+156578,142004656.0,Monday,No,2014-06-30T21:30:00.000,Service,"[-71.092145, 42.330171]",Point,Service,6,SS,0,B2,First,No,ROXBURY ST,Other,Unarmed,766450.7531,,2945606.584,2014
+180407,142005372.0,Monday,No,2014-06-30T21:30:00.000,Service,"[-71.09932, 42.318856]",Point,Service,6,IVPER,0,E13,First,No,BRAGDON ST,Other,Unarmed,764530.0188,,2941474.005,2014
+190926,142004403.0,Monday,No,2014-06-30T09:51:00.000,Service,"[-71.076405, 42.313081]",Point,Service,6,CD11,0,B2,Day,No,PERTH ST,Part three,Unarmed,770737.7409,,2939399.445,2014
+194899,142004618.0,Monday,No,2014-06-30T18:45:00.000,Service,"[-71.07879, 42.338343]",Point,Service,6,ARREST,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770047.1337,,2948601.985,2014
+258782,142004495.0,Monday,No,2014-06-30T13:45:00.000,Service,"[-71.04625, 42.354256]",Point,Service,6,AOD,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014

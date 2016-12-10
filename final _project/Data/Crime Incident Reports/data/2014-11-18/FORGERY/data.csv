@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+144113,142050014.0,Tuesday,No,2014-11-18T10:00:00.000,FORGERY,"[-71.062575, 42.352726]",Point,10xx,11,IVPREM,0,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,774404.2569,,2953865.65,2014
+150831,152034584.0,Tuesday,No,2014-11-18T08:00:00.000,FORGERY,"[-71.123165, 42.255916]",Point,10xx,11,LARCEN,0,E18,Day,No,RIVER ST,Part Two,Other,758182.5548,,2918508.325,2014
+219077,142050207.0,Tuesday,No,2014-11-18T17:55:00.000,FORGERY,"[-71.124662, 42.253324]",Point,10xx,11,IVPER,0,E18,First,No,HYDE PARK AV,Part Two,Unarmed,757781.442,,2917561.938,2014

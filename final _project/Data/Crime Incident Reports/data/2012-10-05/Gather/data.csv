@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16916,120625988.0,Friday,No,2012-10-05T01:29:00.000,Gather,"[-71.126751, 42.355137]",Point,Gather,10,PARTY ,799,D14,Last,No,WADSWORTH ST,Part Three,Unarmed,757053.5012,,2954661.7010000004,2012
+85049,120626526.0,Friday,No,2012-10-05T09:05:00.000,Gather,"[-71.048485, 42.349406]",Point,Gather,10,PROTES,205,C6,Day,No,SUMMER ST,Part Three,Unarmed,778219.2009999999,,2952675.627,2012
+119287,120627203.0,Friday,No,2012-10-05T18:30:00.000,Gather,"[-71.0255, 42.334931]",Point,Gather,10,IVPREM,228,C6,First,No,E 4TH ST,Part Three,Unarmed,784461.7286,,2947434.414,2012

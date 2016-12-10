@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47778,120527020.0,Friday,No,2012-08-24T04:30:00.000,InvProp,"[-71.155404, 42.285926]",Point,InvProp,8,ALARMC,695,E5,Last,No,CENTRE ST,Part Three,Unarmed,749410.7029,,2929407.3460000004,2012
+71908,120532091.0,Friday,No,2012-08-24T22:00:00.000,InvProp,"[-71.087188, 42.320054]",Point,InvProp,8,IVPREM,308,B2,First,No,BOWER ST,Part Three,Other,767808.8692,,2941926.166,2012
+84735,120527000.0,Friday,No,2012-08-24T03:53:00.000,InvProp,"[-71.084775, 42.319661]",Point,InvProp,8,IVPREM,309,B2,Last,No,N CHARLAME CT,Part Three,Firearm,768462.2294,,2941786.1739999996,2012
+89315,120528746.0,Friday,No,2012-08-24T21:09:00.000,InvProp,"[-71.03231, 42.376995]",Point,InvProp,8,IVPREM,20,A7,First,No,PARIS ST,Part Three,Other,782536.3817,,2962753.2,2012
+117047,120528123.0,Friday,No,2012-08-24T16:31:00.000,InvProp,"[-71.050165, 42.339386]",Point,InvProp,8,IVPREM,936,C6,First,No,D ST,Part Three,Other,777784.3285,,2949021.7589999996,2012
+157852,120529312.0,Friday,No,2012-08-24T20:00:00.000,InvProp,"[-71.077707, 42.28625]",Point,InvProp,8,LARCRT,435,B3,First,No,EDSON ST,Part Three,Unarmed,770433.7566,,2929619.983,2012

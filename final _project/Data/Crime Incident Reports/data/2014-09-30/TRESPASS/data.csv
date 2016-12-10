@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63705,142034412.0,Tuesday,No,2014-09-30T00:23:00.000,TRESPASS,"[-71.076635, 42.295411]",Point,TRESPASS,9,IVPER,0,B3,Last,No,SPENCER ST,Part Two,Unarmed,770707.4946,,2932959.915,2014
+144296,142034665.0,Tuesday,No,2014-09-30T18:50:00.000,TRESPASS,"[-71.061985, 42.318701]",Point,TRESPASS,9,IVMV,0,C11,First,No,CONRAD ST,Part Two,Unarmed,774627.4084,,2941467.162,2014
+234334,142034643.0,Tuesday,No,2014-09-30T17:47:00.000,TRESPASS,"[-71.048953, 42.29685]",Point,TRESPASS,9,LARCEN,0,C11,First,No,MORRISSEY BL,Part Two,Unarmed,778193.8973,,2933522.498,2014

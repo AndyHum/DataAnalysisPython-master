@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57956,120659778.0,Friday,No,2012-10-19T21:00:00.000,Arrest,"[-71.127805, 42.255911]",Point,Arrest,10,ARREST,543,E18,First,No,AVILA RD,Part Three,Unarmed,756926.4444,,2918500.9869999997,2012
+59833,120658305.0,Friday,No,2012-10-19T08:21:00.000,Arrest,"[-71.09622, 42.280691]",Point,Arrest,10,CD11  ,468,B3,Day,No,HAZELTON ST,Part Three,Unarmed,765434.0731,,2927570.023,2012
+146381,120659520.0,Friday,No,2012-10-19T18:33:00.000,Arrest,"[-71.0829, 42.316361]",Point,Arrest,10,ARREST,311,B2,First,No,WARREN ST,Part Three,Other,768975.1904,QUINCY ST,2940586.0719999997,2012
+243000,120658700.0,Friday,No,2012-10-19T11:50:00.000,Arrest,"[-71.057015, 42.376816]",Point,Arrest,10,INVEST,900,A15,Day,No,BUNKER HILL ST,Part Three,Unarmed,775861.5371,,2962652.2789999996,2012

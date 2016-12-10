@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25070,120554955.0,Wednesday,No,2012-09-05T14:50:00.000,PropLost,"[-71.153848, 42.340354]",Point,PropLost,9,LSTPRP,774,D14,Day,No,LOTHIAN RD,Part Three,Unarmed,749751.1254,,2949243.522,2012
+156955,120554383.0,Wednesday,No,2012-09-05T09:30:00.000,PropLost,"[-71.076399, 42.333996]",Point,PropLost,9,LSTPRP,271,D4,Day,No,HARRISON AV,Part Three,Unarmed,770701.3598,,2947021.0810000002,2012
+204310,120556671.0,Wednesday,No,2012-09-05T12:00:00.000,PropLost,"[-71.136258, 42.274418]",Point,PropLost,9,LSTPRP,550,E5,Day,No,BLUE LEDGE DR,Part Three,Unarmed,754609.1584,,2925235.33,2012
+216237,120576835.0,Wednesday,No,2012-09-05T15:00:00.000,PropLost,"[-71.092601, 42.270805]",Point,PropLost,9,LSTPRP,426,B3,Day,No,BABSON ST,Part Three,Other,766430.7072,,2923972.026,2012
+220956,120778352.0,Wednesday,No,2012-09-05T03:45:00.000,PropLost,"[-71.10938, 42.337041]",Point,PropLost,9,MISC  ,613,B2,Last,No,FRANCIS ST,Part Three,Unarmed,761778.9797,BROOKLINE AV,2948088.325,2012
+262890,120635385.0,Wednesday,No,2012-09-05T08:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,550,E5,Day,No,BLUE LEDGE TR,Part Three,Unarmed,,,,2012
+263518,120554950.0,Wednesday,No,2012-09-05T07:45:00.000,PropLost,"[0, 0]",Point,PropLost,9,LARCIP,284,B2,Day,No,FORSYTH ST,Part Three,Unarmed,,RUGGLES ST,,2012

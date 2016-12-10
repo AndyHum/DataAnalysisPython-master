@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15042,130160611.0,Monday,No,2013-03-18T16:33:00.000,Service,"[-71.06831, 42.318411]",Point,Service,3,ARREST,184,B2,First,No,HUMPHREYS ST,Part Three,Unarmed,772917.3690000001,DUDLEY ST,2941352.7589999996,2013
+26480,130159862.0,Monday,No,2013-03-18T09:44:00.000,Service,"[-71.076034, 42.29869]",Point,Service,3,ARREST,454,B3,Day,No,RIPLEY RD,Part Three,Unarmed,770864.1216,,2934155.4310000003,2013
+71648,130159883.0,Monday,No,2013-03-18T11:18:00.000,Service,"[-71.03771, 42.381986]",Point,Service,3,ARREST,25,A7,Day,No,FALCON ST,Part Three,Unarmed,781067.4939,,2964564.018,2013
+122376,130161258.0,Monday,No,2013-03-18T22:00:00.000,Service,"[-71.152067, 42.263167]",Point,Service,3,INVEST,822,E5,First,No,RUNNING BROOK RD,Part Three,Unarmed,750347.4103,,2921117.133,2013

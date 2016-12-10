@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107246,130569766.0,Saturday,No,2013-09-07T23:25:00.000,Gather,"[-71.065565, 42.307791]",Point,Gather,9,FIGHT ,336,C11,First,No,ELBA TR,Part three,Unarmed,773679.4601,,2937486.433,2013
+171500,130569771.0,Saturday,No,2013-09-07T23:30:00.000,Gather,"[-71.12889, 42.354991]",Point,Gather,9,PARTY ,800,D14,First,No,PRATT ST,Part three,Unarmed,756475.6109999999,,2954606.095,2013
+204478,130567575.0,Saturday,No,2013-09-07T01:18:00.000,Gather,"[-71.10997, 42.332036]",Point,Gather,9,PARTY ,606,B2,Last,No,COPENGER ST,Part three,Unarmed,761627.8025,,2946263.6810000003,2013
+255440,130567468.0,Saturday,No,2013-09-07T00:23:00.000,Gather,"[-71.100988, 42.332045]",Point,Gather,9,PARTY ,586,B2,Last,No,PONTIAC ST,Part three,Unarmed,764056.3176,,2946278.0439999998,2013

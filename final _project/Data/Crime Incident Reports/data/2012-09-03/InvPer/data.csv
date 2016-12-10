@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12215,120549532.0,Monday,No,2012-09-03T00:34:00.000,InvPer,"[-71.05845, 42.307551]",Point,InvPer,9,IVPER ,254,C11,Last,No,DORCHESTER AV,Part Three,Other,775604.469,FREEPORT ST,2937408.856,2012
+164009,120551299.0,Monday,No,2012-09-03T21:43:00.000,InvPer,"[-71.053666, 42.329958]",Point,InvPer,9,ALARMI,193,C6,First,No,VINTON ST,Part Three,Unarmed,776855.6936,,2945580.857,2012
+193983,120550098.0,Monday,No,2012-09-03T10:25:00.000,InvPer,"[-71.160115, 42.294446]",Point,InvPer,9,IVPER ,694,E5,Day,No,VFW PY,Part Three,Unarmed,748123.6566,,2932507.2060000002,2012
+232619,120551171.0,Monday,No,2012-09-03T20:43:00.000,InvPer,"[-71.139125, 42.279651]",Point,InvPer,9,IVPER ,685,E5,First,No,BEECH ST,Part Three,Unarmed,753825.3407,,2927139.006,2012
+238372,120551302.0,Monday,No,2012-09-03T21:42:00.000,InvPer,"[-71.085279, 42.290702]",Point,InvPer,9,THREAT,440,B3,First,No,WESTVIEW ST,Part Three,Unarmed,768377.0931,,2931232.3639999996,2012

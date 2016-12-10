@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32099,130441953.0,Wednesday,No,2013-07-17T09:22:00.000,PubDrink,"[-71.05936, 42.351041]",Point,PubDrink,7,ARREST,0,A1,Day,No,SURFACE RD,Part Two,Other,775276.4461,BEACH ST,2953256.077,2013
+155693,130442339.0,Wednesday,No,2013-07-17T11:55:00.000,PubDrink,"[-71.05936, 42.351041]",Point,PubDrink,7,DK    ,116,A1,Day,No,SURFACE RD,Part Two,Other,775276.4461,BEACH ST,2953256.077,2013
+229189,130442270.0,Wednesday,No,2013-07-17T11:35:00.000,PubDrink,"[-71.088875, 42.291651]",Point,PubDrink,7,ARREST,440,B3,Day,No,BLUE HILL AV,Part Two,Other,767402.6131,,2931573.5160000003,2013

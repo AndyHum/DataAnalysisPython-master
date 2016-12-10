@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2372,152046043.0,Thursday,No,2015-06-04T06:18:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+2418,152046346.0,Thursday,No,2015-06-04T23:00:00.000,InvPer,"[0, 0]",Point,InvPer,6,VIORDR,0,D14,First,No,HARVARD AV,Part three,Unarmed,,,,2015
+2439,152046200.0,Thursday,No,2015-06-04T15:29:00.000,InvPer,"[0, 0]",Point,InvPer,6,PERGUN,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,,DUDLEY ST,,2015
+2445,152046075.0,Thursday,No,2015-06-04T09:30:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,C6,Day,No,DORCHESTER AV,Part three,Unarmed,,KEMP ST,,2015
+2453,152046249.0,Thursday,No,2015-06-04T16:30:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,B3,First,No,ALABAMA ST,Part three,Unarmed,,,,2015
+2475,152046317.0,Thursday,No,2015-06-04T20:47:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,B3,First,No,ALABAMA ST,Part three,Unarmed,,,,2015
+2529,152046340.0,Thursday,No,2015-06-04T21:38:00.000,InvPer,"[0, 0]",Point,InvPer,6,IVPER,0,E13,First,No,BICKFORD ST,Part three,Unarmed,,,,2015
+31471,152046204.0,Thursday,No,2015-06-04T15:00:00.000,InvPer,"[-71.09294, 42.329171]",Point,InvPer,6,IVPER,0,B2,Day,No,HIGHLAND AV,Part three,Unarmed,766237.5265,,2945241.139,2015
+45710,152046264.0,Thursday,No,2015-06-04T17:29:00.000,InvPer,"[-71.09639, 42.342006]",Point,InvPer,6,IVPER,0,D4,First,No,PARK DR,Part three,Unarmed,765282.5061,,2949914.014,2015
+55141,152046173.0,Thursday,No,2015-06-04T14:30:00.000,InvPer,"[-71.120857, 42.268922]",Point,InvPer,6,IVPER,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,758786.1749,,2923250.512,2015
+128243,152046295.0,Thursday,No,2015-06-04T19:30:00.000,InvPer,"[-71.09145, 42.283946]",Point,InvPer,6,IVPER,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766719.3645,,2928762.354,2015
+137529,152046191.0,Thursday,No,2015-06-04T14:58:00.000,InvPer,"[-71.070835, 42.331511]",Point,InvPer,6,IVPER,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,772210.4703,,2946123.1760000004,2015
+154690,152046257.0,Thursday,No,2015-06-04T17:10:00.000,InvPer,"[-71.09108, 42.328718]",Point,InvPer,6,IVPER,0,B2,First,No,NORFOLK ST,Part three,Unarmed,766741.0593,,2945078.1789999995,2015
+181001,152046100.0,Thursday,No,2015-06-04T09:00:00.000,InvPer,"[-71.056415, 42.326841]",Point,InvPer,6,IVPER,0,C6,Day,No,KEMP ST,Part three,Unarmed,776118.3673,,2944441.296,2015
+205348,152046245.0,Thursday,No,2015-06-04T16:00:00.000,InvPer,"[-71.03089, 42.378666]",Point,InvPer,6,IVPER,0,A7,First,No,SARATOGA ST,Part three,Unarmed,782916.7432,,2963364.2,2015
+216432,152046275.0,Thursday,No,2015-06-04T08:00:00.000,InvPer,"[-71.130533, 42.358425]",Point,InvPer,6,IVPER,0,D14,Day,No,ROYAL ST,Part three,Unarmed,756025.9971,,2955855.2989999996,2015
+250144,152046216.0,Thursday,No,2015-06-04T16:30:00.000,InvPer,"[-71.078133, 42.285884]",Point,InvPer,6,IVPER,0,B3,First,No,MILTON AV,Part three,Unarmed,770319.2890000001,,2929485.997,2015

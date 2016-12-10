@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6678,142039095.0,Tuesday,No,2014-10-14T20:01:00.000,FORGERY,"[-71.0343, 42.377781]",Point,10xx,10,TS,0,A7,First,No,BROOKS ST,Part Two,Unarmed,781997.1590000001,,2963036.637,2014
+118353,142038805.0,Tuesday,No,2014-10-14T23:17:00.000,FORGERY,"[-71.125436, 42.257211]",Point,10xx,10,TS,0,E18,First,No,SUMMER ST,Part Two,Unarmed,757565.4448,,2918977.563,2014
+246883,142039665.0,Tuesday,No,2014-10-14T14:00:00.000,FORGERY,"[-71.159892, 42.352806]",Point,10xx,10,LARCEN,0,D14,Day,No,FANEUIL ST,Part Two,Unarmed,748099.1425,,2953774.6210000003,2014

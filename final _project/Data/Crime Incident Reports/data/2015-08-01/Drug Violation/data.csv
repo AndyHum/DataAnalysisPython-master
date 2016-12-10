@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12631,,Saturday,No,2015-08-01T21:42:00.000,Drug Violation,"[0, 0]",Point,18xx,8,PERGUN,0,,,No,MARTIN LUTHER KING JR BL,Part Two,None,,,,2015
+21810,,Saturday,No,2015-08-01T00:00:00.000,Drug Violation,"[-71.075013, 42.332419]",Point,18xx,8,IVPER,270,D4,,No,ALBANY ST,Part Two,None,771079.0,,2950000.0,2015
+93517,,Saturday,No,2015-08-01T18:43:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,426,B3,,No,BLUE HILL AVE,Part Two,None,, RIVER ST ,,2015
+139099,,Saturday,No,2015-08-01T00:00:00.000,Drug Violation,"[-71.040047, 42.368494]",Point,18xx,8,I00015,902,A7,,No,LEWIS MALL,Part Two,None,780462.0,,2960000.0,2015
+224038,,Saturday,No,2015-08-01T00:00:00.000,Drug Violation,"[-71.113221, 42.306009]",Point,18xx,8,IVPREM,648,E13,,No,MCBRIDE ST,Part Two,None,760792.0,,2940000.0,2015
+229541,,Saturday,No,2015-08-01T23:07:00.000,Drug Violation,"[0, 0]",Point,18xx,8,ARREST,0,,,No,ALBERT ST,Part Two,None,,,,2015

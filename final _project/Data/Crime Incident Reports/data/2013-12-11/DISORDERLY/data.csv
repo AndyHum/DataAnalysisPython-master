@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+121498,130781108.0,Wednesday,No,2013-12-11T17:55:00.000,DISORDERLY,"[-71.078394, 42.32898]",Point,24xx,12,ARREST,904,B2,First,No,EUSTIS ST,Part Two,Other,770171.0377,,2945190.659,2013
+158664,130779493.0,Wednesday,No,2013-12-11T01:22:00.000,DISORDERLY,"[-71.064128, 42.316604]",Point,24xx,12,FIGHT ,257,C11,Last,No,STOUGHTON ST,Part Two,Unarmed,774051.5089,,2940700.0519999997,2013
+190595,130781560.0,Wednesday,No,2013-12-11T21:45:00.000,DISORDERLY,"[-71.05789, 42.309941]",Point,24xx,12,ARREST,254,C11,First,No,DORCHESTER AV,Part Two,Unarmed,775751.431,DEWAR ST,2938280.5930000003,2013

@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106724,142044829.0,Saturday,No,2014-11-01T03:07:00.000,InvProp,"[-71.072052, 42.289761]",Point,InvProp,11,SHOTS,0,C11,Last,No,EPPING ST,Part three,Other,771957.5833,WASHINGTON ST,2930907.04,2014
+150257,142045294.0,Saturday,No,2014-11-01T07:30:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,IVPREM,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+185171,142044861.0,Saturday,No,2014-11-01T07:30:00.000,InvProp,"[-71.15242, 42.351791]",Point,InvProp,11,CD9,0,D14,Day,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2014
+221773,142044815.0,Saturday,No,2014-11-01T01:05:00.000,InvProp,"[-71.084025, 42.305016]",Point,InvProp,11,RAPE,0,B2,Last,No,SEAVER ST,Part three,Unarmed,768691.0889,,2936450.287,2014
+234617,142045011.0,Saturday,No,2014-11-01T16:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,11,IVPREM,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2014
+242437,142045061.0,Saturday,No,2014-11-01T19:33:00.000,InvProp,"[-71.052005, 42.336681]",Point,InvProp,11,BE,0,C6,First,No,BOWEN ST,Part three,Other,777292.0490000001,,2948033.393,2014
+259497,142044883.0,Saturday,No,2014-11-01T08:30:00.000,InvProp,"[-71.084485, 42.348131]",Point,InvProp,11,ALARM,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,768490.1158,,2952161.534,2014
+263158,142044927.0,Saturday,No,2014-11-01T06:00:00.000,InvProp,"[0, 0]",Point,InvProp,11,CD19,0,A1,Last,No,NEW ACCOLON WY,Part three,Unarmed,,,,2014
+263553,142044983.0,Saturday,No,2014-11-01T11:50:00.000,InvProp,"[0, 0]",Point,InvProp,11,SSA,0,B3,Day,No,MORTON VILLAGE DR,Part three,Unarmed,,,,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77413,120604495.0,Wednesday,No,2012-09-26T05:15:00.000,DISORDERLY,"[-71.121859, 42.273802]",Point,24xx,9,CD7   ,0,E18,Last,No,MANSUR ST,Part Two,Unarmed,758507.1552,,2925027.535,2012
+156261,120606410.0,Wednesday,No,2012-09-26T20:07:00.000,DISORDERLY,"[-71.07307, 42.294316]",Point,24xx,9,FIGHT ,451,B3,First,No,W TREMLETT ST,Part Two,Unarmed,771673.9868,,2932565.69,2012
+173093,120616370.0,Wednesday,No,2012-09-26T11:00:00.000,DISORDERLY,"[-71.040324, 42.319613]",Point,24xx,9,MISC  ,256,C6,Day,No,OCEAN VIEW DR,Part Two,Unarmed,780483.7168,OYSTER BAY RD,2941830.142,2012

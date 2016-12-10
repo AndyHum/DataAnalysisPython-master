@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68078,130634275.0,Friday,No,2013-10-04T22:41:00.000,InvProp,"[-71.104145, 42.331248]",Point,InvProp,10,CRIP  ,604,B2,First,No,OSWALD ST,Part three,Unarmed,763203.9971,,2945983.53,2013
+111407,130634058.0,Friday,No,2013-10-04T20:49:00.000,InvProp,"[-71.074448, 42.304942]",Point,InvProp,10,SHOT  ,461,C11,First,No,GENEVA AV,Part three,Unarmed,771281.7061,,2936435.9930000002,2013
+137145,130634265.0,Friday,No,2013-10-04T22:05:00.000,InvProp,"[-71.09106, 42.323372]",Point,InvProp,10,SHOTS ,300,B2,First,No,THORNTON ST,Part three,Other,766755.9881,,2943130.135,2013
+175835,130633649.0,Friday,No,2013-10-04T18:42:00.000,InvProp,"[-71.074255, 42.348701]",Point,InvProp,10,IVPREM,128,D4,First,No,CLARENDON ST,Part three,Unarmed,771254.462,,2952382.889,2013
+209111,130634251.0,Friday,No,2013-10-04T22:21:00.000,InvProp,"[-71.08967, 42.312926]",Point,InvProp,10,SHOTS ,316,B2,First,No,HUMBOLDT AV,Part three,Other,767150.2196,,2939325.421,2013
+241793,130631982.0,Friday,No,2013-10-04T01:03:00.000,InvProp,"[-71.09279, 42.335528]",Point,InvProp,10,SHOTS ,589,B2,Last,No,ANNUNCIATION RD,Part three,Firearm,766266.9936,,2947557.934,2013

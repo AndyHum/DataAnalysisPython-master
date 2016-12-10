@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23085,142019168.0,Wednesday,No,2014-08-13T18:30:00.000,PropDam,"[-71.120857, 42.268922]",Point,PropDam,8,VAND,0,E18,First,No,HYDE PARK AV,Part three,Other,758786.1749,,2923250.512,2014
+57901,142018963.0,Wednesday,No,2014-08-13T13:09:00.000,PropDam,"[-71.049205, 42.352088]",Point,PropDam,8,VAND,0,C6,Day,No,SLEEPER ST,Part three,Other,778019.4153,,2953652.017,2014
+181882,142018855.0,Wednesday,No,2014-08-13T05:05:00.000,PropDam,"[-71.036315, 42.333116]",Point,PropDam,8,IVPREM,0,C6,Last,No,E 6TH ST,Part three,Unarmed,781541.2029,,2946756.918,2014
+204231,142018965.0,Wednesday,No,2014-08-13T13:00:00.000,PropDam,"[-71.088916, 42.342401]",Point,PropDam,8,IVPREM,0,D4,Day,No,GAINSBOROUGH ST,Part three,Unarmed,767302.2579999999,,2950067.662,2014

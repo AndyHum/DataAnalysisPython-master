@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13918,152011556.0,Thursday,No,2015-02-12T17:30:00.000,InvPer,"[-71.06041, 42.299431]",Point,InvPer,2,DISTRB,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,775089.5518,,2934447.067,2015
+22063,152011375.0,Thursday,No,2015-02-12T01:04:00.000,InvPer,"[-71.08261, 42.337161]",Point,InvPer,2,DISTRB,0,D4,Last,No,DITMUS CT,Part three,Unarmed,769016.5305,,2948166.337,2015
+44265,152011822.0,Thursday,No,2015-02-12T17:01:00.000,InvPer,"[-71.070938, 42.304692]",Point,InvPer,2,IVMV,0,C11,First,No,BLAKEVILLE ST,Part three,Unarmed,772231.7517,,2936349.582,2015
+132311,152011582.0,Thursday,No,2015-02-12T18:18:00.000,InvPer,"[-71.04037, 42.318416]",Point,InvPer,2,ALARM,0,C6,First,No,SOUTH POINT DR,Part three,Unarmed,780473.6611,,2941394.063,2015
+133210,152011433.0,Thursday,No,2015-02-12T09:34:00.000,InvPer,"[-71.092186, 42.286881]",Point,InvPer,2,IVPER,0,B3,Day,No,WILCOCK ST,Part three,Unarmed,766515.0283,,2929830.797,2015
+181880,152011698.0,Thursday,No,2015-02-12T23:30:00.000,InvPer,"[-71.078405, 42.296286]",Point,InvPer,2,IVPER,0,B3,First,No,NORWELL ST,Part three,Unarmed,770227.0517,,2933276.4060000004,2015
+227034,152011620.0,Thursday,No,2015-02-12T21:30:00.000,InvPer,"[-71.09307, 42.284131]",Point,InvPer,2,INVEST,0,B3,First,No,DEERING RD,Part three,Unarmed,766280.6819,,2928827.6780000003,2015
+238081,152011619.0,Thursday,No,2015-02-12T20:21:00.000,InvPer,"[-71.088026, 42.290197]",Point,InvPer,2,VAND,0,B3,First,No,STRATTON ST,Part three,Unarmed,767634.6963,,2931044.4889999996,2015
+260738,152011530.0,Thursday,No,2015-02-12T16:00:00.000,InvPer,"[0, 0]",Point,InvPer,2,IVPER,0,B2,First,No,HUNTINGTON AV,Part three,Unarmed,,,,2015
+264854,152011385.0,Thursday,No,2015-02-12T02:26:00.000,InvPer,"[0, 0]",Point,InvPer,2,DVIP,0,A1,Last,No,BOWDOIN ST,Part three,Other,,,,2015
+266405,152012076.0,Thursday,No,2015-02-12T12:00:00.000,InvPer,"[0, 0]",Point,InvPer,2,MISC,0,B2,Day,No,CIRCUIT ST,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32830,140117569.0,Tuesday,No,2014-02-11T14:00:00.000,PersLoc,"[-71.07475, 42.291236]",Point,PersLoc,2,MISPER,449,B3,Day,No,ASPINWALL RD,Other,Unarmed,771225.0582,,2931441.021,2014
+68952,140088168.0,Tuesday,No,2014-02-11T13:55:00.000,PersLoc,"[-71.054705, 42.379076]",Point,PersLoc,2,MISPER,900,A15,Day,No,MEDFORD ST,Other,Unarmed,776481.3945,,2963479.12,2014
+72807,140086101.0,Tuesday,No,2014-02-11T00:08:00.000,PersLoc,"[-71.07621, 42.282721]",Point,PersLoc,2,MISPER,418,B3,Last,No,MILTON AV,Other,Unarmed,770845.4527,,2928336.068,2014

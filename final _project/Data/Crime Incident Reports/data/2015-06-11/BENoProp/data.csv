@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16009,152048330.0,Thursday,No,2015-06-11T01:42:00.000,BENoProp,"[-71.0557, 42.335811]",Point,BENoProp,6,BE,0,C6,Last,No,OLD COLONY AV,Part One,Unarmed,776294.6855,,2947711.124,2015
+80460,152048447.0,Thursday,No,2015-06-11T16:51:00.000,BENoProp,"[-71.064202, 42.294467]",Point,BENoProp,6,ALARM,0,C11,First,No,MATHER ST,Part One,Other,774072.7513,,2932632.5939999996,2015
+195085,152048483.0,Thursday,No,2015-06-11T18:14:00.000,BENoProp,"[-71.083365, 42.331551]",Point,BENoProp,6,ARREST,0,B2,First,No,RUGGLES ST,Part One,Other,768822.3904,,2946120.954,2015

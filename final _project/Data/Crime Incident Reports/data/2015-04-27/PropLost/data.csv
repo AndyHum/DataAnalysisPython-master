@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+222,152034319.0,Monday,No,2015-04-27T16:50:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,,,,2015
+394,152035201.0,Monday,No,2015-04-27T12:30:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,A1,Day,No,BLACKSTONE ST,Part three,Unarmed,,,,2015
+3306,152034358.0,Monday,No,2015-04-27T18:45:00.000,PropLost,"[0, 0]",Point,PropLost,4,PROP,0,C6,First,No,JAMES ONEILL ST,Part three,Other,,,,2015
+65085,152034482.0,Monday,No,2015-04-27T16:30:00.000,PropLost,"[-71.056635, 42.362056]",Point,PropLost,4,PROP,0,A1,First,No,HANOVER ST,Part three,Unarmed,775992.1714,,2957273.9710000004,2015
+69349,152034245.0,Monday,No,2015-04-27T09:00:00.000,PropLost,"[-71.154, 42.352251]",Point,PropLost,4,PROP,0,D14,Day,No,ARLINGTON ST,Part three,Unarmed,749692.6308,,2953579.062,2015
+92294,152034159.0,Monday,No,2015-04-27T09:56:00.000,PropLost,"[-71.091325, 42.284861]",Point,PropLost,4,PROP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2015
+98896,152036466.0,Monday,No,2015-04-27T14:00:00.000,PropLost,"[-71.059683, 42.29651]",Point,PropLost,4,IVPER,0,C11,Day,No,PARKMAN ST,Part three,Unarmed,775291.6849,,2933383.425,2015
+139241,152034970.0,Monday,No,2015-04-27T18:00:00.000,PropLost,"[-71.098625, 42.346181]",Point,PropLost,4,PROP,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+184806,152034332.0,Monday,No,2015-04-27T09:00:00.000,PropLost,"[-71.083435, 42.280591]",Point,PropLost,4,PROP,0,B3,Day,No,MORTON ST,Part three,Unarmed,768894.1564,,2927550.2369999997,2015
+221811,152034330.0,Monday,No,2015-04-27T14:00:00.000,PropLost,"[-71.10895, 42.309906]",Point,PropLost,4,PROP,0,E13,Day,No,EVERETT ST,Part three,Unarmed,761940.5732,,2938200.3860000004,2015
+227393,152034384.0,Monday,No,2015-04-27T16:00:00.000,PropLost,"[-71.03526, 42.331886]",Point,PropLost,4,INVEST,0,C6,First,No,L ST,Part three,Unarmed,781828.9005,E 8TH ST,2946310.236,2015
+234815,152036390.0,Monday,No,2015-04-27T16:00:00.000,PropLost,"[-71.090845, 42.277921]",Point,PropLost,4,LARCEN,0,B3,First,No,NORFOLK ST,Part three,Unarmed,766893.6066,,2926567.545,2015

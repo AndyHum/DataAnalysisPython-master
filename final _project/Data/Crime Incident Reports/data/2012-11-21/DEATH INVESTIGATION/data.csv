@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55358,120732591.0,Wednesday,No,2012-11-21T09:56:00.000,DEATH INVESTIGATION,"[-71.063729, 42.373686]",Point,01INV,11,UNK   ,60,A15,Day,No,DEVENS ST,Part Three,Unarmed,774053.0168,,2961502.143,2012
+80666,120732223.0,Wednesday,No,2012-11-21T05:45:00.000,DEATH INVESTIGATION,"[-71.134445, 42.278796]",Point,01INV,11,SDNDTH,668,E5,Last,No,CORNELL ST,Part Three,Unarmed,755093.1538,,2926832.8260000004,2012
+190686,120732069.0,Wednesday,No,2012-11-21T01:19:00.000,DEATH INVESTIGATION,"[-71.08738, 42.346641]",Point,01INV,11,MVPED1,620,D4,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,767710.1637,HAVILAND ST,2951614.749,2012

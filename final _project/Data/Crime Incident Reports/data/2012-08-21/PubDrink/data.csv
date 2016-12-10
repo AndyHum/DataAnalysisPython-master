@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31976,120521664.0,Tuesday,No,2012-08-21T17:00:00.000,PubDrink,"[-71.08347, 42.304821]",Point,PubDrink,8,IVPER ,330,B2,First,No,SEAVER ST,Part Two,Unarmed,768841.5657,NORMANDY ST,2936379.959,2012
+215219,120521672.0,Tuesday,No,2012-08-21T17:00:00.000,PubDrink,"[-71.08474, 42.305241]",Point,PubDrink,8,IVPER ,330,B2,First,No,SEAVER ST,Part Two,Unarmed,768497.2779,BLUE HILL AV,2936531.338,2012
+217779,120521670.0,Tuesday,No,2012-08-21T16:40:00.000,PubDrink,"[-71.08404, 42.307411]",Point,PubDrink,8,IVPER ,330,B2,First,No,BLUE HILL AV,Part Two,Unarmed,768682.7745,CASTLEGATE RD,2937323.043,2012

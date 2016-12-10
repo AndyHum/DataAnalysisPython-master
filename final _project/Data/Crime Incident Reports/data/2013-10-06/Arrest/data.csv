@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+86247,130638510.0,Sunday,No,2013-10-06T21:32:00.000,Arrest,"[-71.08312, 42.307006]",Point,Arrest,10,ARREST,0,B2,First,No,CASTLEGATE RD,Part three,Unarmed,768932.3522,,2937176.67,2013
+188453,130638113.0,Sunday,No,2013-10-06T17:30:00.000,Arrest,"[-71.07347, 42.289151]",Point,Arrest,10,ARREST,437,B3,First,No,NORFOLK ST,Part three,Unarmed,771575.1799,,2930682.9469999997,2013
+207920,130637308.0,Sunday,No,2013-10-06T08:26:00.000,Arrest,"[-71.08947, 42.292231]",Point,Arrest,10,CD11  ,464,B3,Day,No,PAXTON ST,Part three,Unarmed,767240.6118,,2931784.102,2013
+246184,130638148.0,Sunday,No,2013-10-06T17:53:00.000,Arrest,"[-71.07695, 42.308106]",Point,Arrest,10,ARREST,329,B2,First,No,DEVON ST,Part three,Unarmed,770599.3288,,2937585.745,2013

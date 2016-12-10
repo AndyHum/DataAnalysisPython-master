@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83420,142005649.0,Thursday,No,2014-07-03T15:00:00.000,TRESPASS,"[-71.09045, 42.308695]",Point,TRESPASS,7,ARREST,0,B2,Day,No,SEAVER ST,Part Two,Unarmed,766946.5418,,2937782.313,2014
+193613,142005802.0,Thursday,No,2014-07-03T11:05:00.000,TRESPASS,"[-71.07935, 42.354141]",Point,TRESPASS,7,IVPER,0,D4,Day,No,BACK ST,Part Two,Unarmed,769867.4133,DARTMOUTH ST,2954358.495,2014
+263097,142005749.0,Thursday,No,2014-07-03T19:50:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,7,SS,0,A1,First,No,PING ON ST,Part Two,Unarmed,,,,2014
+266254,142005697.0,Thursday,No,2014-07-03T17:25:00.000,TRESPASS,"[0, 0]",Point,TRESPASS,7,ARREST,0,A1,First,No,EDINBORO ST,Part Two,Unarmed,,,,2014

@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12715,,Thursday,No,2015-08-06T16:15:00.000,Simple Assault,"[0, 0]",Point,08xx,8,ARREST,119,A1,,No,BOYLSTON ST,Part Two,None,,,,2015
+74541,,Thursday,No,2015-08-06T15:55:00.000,Simple Assault,"[0, 0]",Point,08xx,8,AB,114,A1,,No,ATLANTIC AVE,Part Two,Other,,SUMMER ST,,2015
+75709,,Thursday,No,2015-08-06T00:00:00.000,Simple Assault,"[-71.052426, 42.324226]",Point,08xx,8,AB,914,C6,,No,OLD COLONY AVE,Part Two,Other,777202.0,,2940000.0,2015
+94484,,Thursday,No,2015-08-06T17:45:00.000,Simple Assault,"[0, 0]",Point,08xx,8,MVA,354,C11,,No,ADAMS ST,Part Two,Other,,GIBSON ST,,2015
+110182,,Thursday,No,2015-08-06T00:00:00.000,Simple Assault,"[-71.127295, 42.352484]",Point,08xx,8,AB,799,D14,,No,BRIGHTON AVE,Part Two,None,756911.0,,2950000.0,2015
+139848,,Thursday,No,2015-08-06T00:00:00.000,Simple Assault,"[-71.088777, 42.282775]",Point,08xx,8,AB,429,B3,,No,MORTON ST,Part Two,None,767445.0,,2930000.0,2015
+139991,,Thursday,No,2015-08-06T19:32:00.000,Simple Assault,"[0, 0]",Point,08xx,8,FIGHT,0,,,No,BIRD ST,Part Two,None,,,,2015
+153386,,Thursday,No,2015-08-06T00:00:00.000,Simple Assault,"[-71.074612, 42.338164]",Point,08xx,8,AB,168,D4,,No,WASHINGTON ST,Part Two,None,771177.0,,2950000.0,2015
+158206,,Thursday,No,2015-08-06T00:00:00.000,Simple Assault,"[-71.06088, 42.355123]",Point,08xx,8,AB,112,A1,,No,WASHINGTON ST,Part Two,Personal Weapon (hand  foot  etc.),774858.0,,2950000.0,2015
+188437,,Thursday,No,2015-08-06T00:00:00.000,Simple Assault,"[-71.050778, 42.356838]",Point,08xx,8,AB,95,A1,,No,ATLANTIC AVE,Part Two,None,777585.0,,2960000.0,2015
+198423,,Thursday,No,2015-08-06T00:00:00.000,Simple Assault,"[-71.057318, 42.312497]",Point,08xx,8,AB,255,C11,,No,DORCHESTER AVE,Part Two,Personal Weapon (hand  foot  etc.),775901.0,,2940000.0,2015

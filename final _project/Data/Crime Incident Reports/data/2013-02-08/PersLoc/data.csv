@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27014,130086980.0,Friday,No,2013-02-08T14:00:00.000,PersLoc,"[-71.068433, 42.297649]",Point,PersLoc,2,MISPER,358,C11,Day,No,LINDSEY ST,Part Three,Unarmed,772922.1667,,2933786.325,2013
+52380,130081672.0,Friday,No,2013-02-08T10:45:00.000,PersLoc,"[-71.07621, 42.282721]",Point,PersLoc,2,MISPER,418,B3,Day,No,MILTON AV,Part Three,Unarmed,770845.4527,,2928336.068,2013
+216789,130083705.0,Friday,No,2013-02-08T10:30:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,2,MISPER,806,D14,Day,No,RICHARDSON ST,Part Three,Unarmed,752466.5655,,2956934.99,2013

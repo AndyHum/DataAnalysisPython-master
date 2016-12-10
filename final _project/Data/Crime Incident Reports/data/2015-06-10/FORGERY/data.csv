@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2837,152048119.0,Wednesday,No,2015-06-10T16:15:00.000,FORGERY,"[0, 0]",Point,10xx,6,LARCEN,0,C6,First,No,MASSACHUSETTS AV,Part Two,Unarmed,,,,2015
+41268,152049355.0,Wednesday,No,2015-06-10T15:00:00.000,FORGERY,"[-71.09371, 42.267941]",Point,10xx,6,LARCEN,0,B3,Day,No,BLUE HILL AV,Part Two,Unarmed,766135.6009,,2922926.992,2015
+141490,152048134.0,Wednesday,No,2015-06-10T17:04:00.000,FORGERY,"[-71.098253, 42.315627]",Point,10xx,6,ARREST,0,E13,First,No,COLUMBUS AV,Part Two,Unarmed,764823.949,,2940298.416,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52014,,Tuesday,No,2015-06-16T00:00:00.000,Warrant Arrests,"[-71.072737, 42.320478]",Point,Arrest,6,IVPER,261,B2,,No,BROOK AVE,Part Three,None,771716.0,,2940000.0,2015
+119742,,Tuesday,No,2015-06-16T00:00:00.000,Warrant Arrests,"[-71.070461, 42.28964]",Point,Arrest,6,SS,398,C11,,No,LITHGOW ST,Part Three,None,772388.0,,2930000.0,2015
+126076,,Tuesday,No,2015-06-16T13:56:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,6,IVPER,0,C11,,No,,Part Three,None,,INWOOD ST,,2015
+247519,,Tuesday,No,2015-06-16T00:00:00.000,Warrant Arrests,"[-71.069547, 42.362403]",Point,Arrest,6,ARREST,64,A1,,No,FRUIT ST,Part Three,None,772502.0,,2960000.0,2015

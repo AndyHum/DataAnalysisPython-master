@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13754,142061466.0,Monday,No,2014-12-29T13:15:00.000,InvProp,"[-71.048242, 42.316663]",Point,InvProp,12,SUSOBJ,0,C6,Day,No,MORRISSEY BL,Part three,Unarmed,778348.0479,,2940743.602,2014
+54873,142061529.0,Monday,No,2014-12-29T14:55:00.000,InvProp,"[-71.142805, 42.242156]",Point,InvProp,12,ALARM,0,E18,Day,No,SANFORD ST,Part three,Unarmed,752886.6992,,2913471.127,2014
+56666,142061649.0,Monday,No,2014-12-29T23:25:00.000,InvProp,"[-71.07854, 42.343161]",Point,InvProp,12,SHOTS,0,D4,First,No,W NEWTON ST,Part three,Unarmed,770106.1236,COLUMBUS AV,2950358.256,2014
+81124,142061601.0,Monday,No,2014-12-29T17:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,12,IVPREM,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014
+94348,142061571.0,Monday,No,2014-12-29T18:30:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,12,CD9,0,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014
+140717,142061648.0,Monday,No,2014-12-29T23:30:00.000,InvProp,"[-71.054711, 42.341305]",Point,InvProp,12,IVPREM,0,C6,First,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+172468,142061353.0,Monday,No,2014-12-29T00:05:00.000,InvProp,"[-71.05814, 42.378535]",Point,InvProp,12,SHOTS,0,A15,Last,No,WALFORD WY,Part three,Unarmed,775554.229,,2963277.1980000003,2014
+175197,152009785.0,Monday,No,2014-12-29T08:00:00.000,InvProp,"[-71.150915, 42.348981]",Point,InvProp,12,MISC,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014
+204748,142061495.0,Monday,No,2014-12-29T14:04:00.000,InvProp,"[-71.089173, 42.293994]",Point,InvProp,12,BE,0,B3,Day,No,HARVARD ST,Part three,Other,767317.8833,,2932426.815,2014

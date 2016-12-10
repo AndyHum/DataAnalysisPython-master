@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10046,140281019.0,Sunday,No,2014-05-04T23:30:00.000,FIRE,"[-71.03771, 42.381986]",Point,FIRE,5,VANRPT,28,A7,First,No,FALCON ST,Part three,Other,781067.4939,,2964564.018,2014
+93623,140274008.0,Sunday,No,2014-05-04T23:52:00.000,FIRE,"[-71.074346, 42.296357]",Point,FIRE,5,FIREB ,452,B3,Last,No,CHAMPLAIN CR,Part three,Unarmed,771324.9389,,2933307.4960000003,2014
+182647,140272704.0,Sunday,No,2014-05-04T11:18:00.000,FIRE,"[-71.062545, 42.321656]",Point,FIRE,5,FIREB ,185,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,774470.4366,,2942543.235,2014

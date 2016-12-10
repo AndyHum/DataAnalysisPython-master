@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54158,120714377.0,Tuesday,No,2012-11-13T06:30:00.000,Service,"[-71.07142, 42.338671]",Point,Service,11,ARREST,905,D4,Last,No,E BROOKLINE ST,Part Three,Unarmed,772039.1799,,2948731.611,2012
+60090,120716254.0,Tuesday,No,2012-11-13T21:00:00.000,Service,"[-71.0729, 42.333256]",Point,Service,11,IVPER ,172,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2012
+125919,120715140.0,Tuesday,No,2012-11-13T13:32:00.000,Service,"[-71.083145, 42.315761]",Point,Service,11,ARREST,313,B2,Day,No,WARREN ST,Part Three,Unarmed,768909.9962,,2940367.099,2012
+238058,120714650.0,Tuesday,No,2012-11-13T09:18:00.000,Service,"[-71.080135, 42.382231]",Point,Service,11,AOD   ,50,A15,Day,No,CAMBRIDGE ST,Part Three,Unarmed,769604.8423,,2964594.0239999997,2012

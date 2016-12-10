@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+79625,130358291.0,Thursday,No,2013-06-13T00:57:00.000,PersMiss,"[-71.065755, 42.278911]",Point,PersMiss,6,MISPER,388,C11,Last,No,BROOKVALE ST,Other,Unarmed,773681.6455,,2926961.883,2013
+194882,130361248.0,Thursday,No,2013-06-13T23:40:00.000,PersMiss,"[-71.05862, 42.295126]",Point,PersMiss,6,MISPER,364,C11,First,No,LESLIE ST,Other,Unarmed,775581.9166,,2932880.7630000003,2013
+215574,130359046.0,Thursday,No,2013-06-13T09:55:00.000,PersMiss,"[-71.077025, 42.327426]",Point,PersMiss,6,MSNCOM,268,B2,Day,No,DUDLEY ST,Other,Unarmed,770544.1271,,2944626.17,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55859,130600058.0,Friday,No,2013-09-20T13:15:00.000,Arrest,"[-71.06102, 42.316751]",Point,Arrest,9,ARREST,242,C11,Day,No,BAKERSFIELD ST,Part three,Unarmed,774892.0456,,2940757.892,2013
+63091,130599355.0,Friday,No,2013-09-20T06:45:00.000,Arrest,"[-71.087145, 42.286451]",Point,Arrest,9,CD11  ,429,B3,Last,No,WOODROW AV,Part three,Unarmed,767879.8579,,2929680.8219999997,2013
+132493,130599643.0,Friday,No,2013-09-20T09:36:00.000,Arrest,"[-71.063599, 42.304097]",Point,Arrest,9,ARREST,345,C11,Day,No,MT IDA RD,Part three,Unarmed,774218.0811,,2936142.787,2013
+256270,130601195.0,Friday,No,2013-09-20T21:21:00.000,Arrest,"[-71.077185, 42.296021]",Point,Arrest,9,IVPER ,446,B3,First,No,ATHELWOLD ST,Part three,Unarmed,770557.5917,,2933181.47,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65363,140128965.0,Sunday,No,2014-03-02T12:05:00.000,PropFound,"[-71.055655, 42.352681]",Point,PropFound,3,IVPREM,173,A1,Day,No,SUMMER ST,Part three,Unarmed,776274.825,,2953858.92,2014
+135618,140128640.0,Sunday,No,2014-03-02T07:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,3,FDPROP,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+136408,140133184.0,Sunday,No,2014-03-02T12:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,3,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37795,140373968.0,Friday,No,2014-06-13T09:44:00.000,Argue,"[-71.077355, 42.336236]",Point,Argue,6,LARCIP,273,D4,Day,No,WASHINGTON ST,Part three,Unarmed,770438.9833,,2947836.2460000003,2014
+72506,140374644.0,Friday,No,2014-06-13T14:33:00.000,Argue,"[-71.07974, 42.349416]",Point,Argue,6,VANIP ,143,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769770.4817,,2952636.0960000004,2014
+106369,140373509.0,Friday,No,2014-06-13T02:58:00.000,Argue,"[-71.127805, 42.255911]",Point,Argue,6,FIGHT ,543,E18,Last,No,AVILA RD,Part three,Unarmed,756926.4444,,2918500.9869999997,2014

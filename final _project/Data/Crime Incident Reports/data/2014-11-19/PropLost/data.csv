@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16629,142051079.0,Wednesday,No,2014-11-19T23:55:00.000,PropLost,"[-71.14243, 42.349389]",Point,PropLost,11,PROP,0,D14,Last,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2014
+114554,142050675.0,Wednesday,No,2014-11-19T11:00:00.000,PropLost,"[-71.057015, 42.304042]",Point,PropLost,11,LARCEN,0,C11,Day,No,GREENWICH ST,Part three,Unarmed,775999.0815,,2936132.1139999996,2014
+172053,142051031.0,Wednesday,No,2014-11-19T00:00:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,11,PROP,0,D4,Last,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2014
+176937,142050445.0,Wednesday,No,2014-11-19T10:00:00.000,PropLost,"[-71.098305, 42.316001]",Point,PropLost,11,PROP,0,E13,Day,No,COLUMBUS AV,Part three,Unarmed,764809.1636,,2940434.8819999998,2014
+221305,142050593.0,Wednesday,No,2014-11-19T18:00:00.000,PropLost,"[-71.0717, 42.291311]",Point,PropLost,11,LARCEN,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772050.1409,,2931472.481,2014
+259452,142050737.0,Wednesday,No,2014-11-19T13:00:00.000,PropLost,"[-71.08047, 42.305331]",Point,PropLost,11,PROP,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,769652.1693,COLUMBIA RD,2936569.788,2014
+263202,142050637.0,Wednesday,No,2014-11-19T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,PROP,0,A1,Day,No,PARK ST,Part three,Unarmed,,,,2014

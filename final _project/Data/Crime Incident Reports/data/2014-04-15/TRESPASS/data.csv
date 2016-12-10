@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14161,140229370.0,Tuesday,No,2014-04-15T16:58:00.000,TRESPASS,"[-71.099225, 42.314846]",Point,TRESPASS,4,IVPREM,572,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764562.5768,,2940012.814,2014
+75329,140229717.0,Tuesday,No,2014-04-15T19:36:00.000,TRESPASS,"[-71.099225, 42.314846]",Point,TRESPASS,4,SSTOP ,572,E13,First,No,WASHINGTON ST,Part Two,Unarmed,764562.5768,,2940012.814,2014
+140709,140230052.0,Tuesday,No,2014-04-15T22:45:00.000,TRESPASS,"[-71.055312, 42.327496]",Point,TRESPASS,4,ARREST,914,C6,First,No,OCALLAGHAN WY,Part Two,Unarmed,776415.2591,,2944681.3510000003,2014
+226597,140228509.0,Tuesday,No,2014-04-15T11:03:00.000,TRESPASS,"[-71.079605, 42.347101]",Point,TRESPASS,4,DKDIST,146,D4,Day,No,HUNTINGTON AV,Part Two,Unarmed,769811.1326,,2951792.646,2014

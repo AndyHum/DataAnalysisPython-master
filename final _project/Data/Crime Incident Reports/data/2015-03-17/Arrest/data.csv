@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69004,152021461.0,Tuesday,No,2015-03-17T11:50:00.000,Arrest,"[-71.0708, 42.333203]",Point,Arrest,3,ARREST,0,C6,Day,No,BRADSTON ST,Part three,Unarmed,772216.8065,SOUTHAMPTON ST,2946739.535,2015
+220899,152021373.0,Tuesday,No,2015-03-17T01:43:00.000,Arrest,"[-71.079466, 42.327327]",Point,Arrest,3,ARREST,0,B2,Last,No,MT PLEASANT AV,Part three,Unarmed,769884.0976,,2944586.5360000003,2015
+240822,152021561.0,Tuesday,No,2015-03-17T16:28:00.000,Arrest,"[-71.06942, 42.362401]",Point,Arrest,3,ARREST,0,A1,First,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+266537,152021556.0,Tuesday,No,2015-03-17T16:30:00.000,Arrest,"[0, 0]",Point,Arrest,3,ARREST,0,E13,First,No,CENTRE ST,Part three,Unarmed,,,,2015

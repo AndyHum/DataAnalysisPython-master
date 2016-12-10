@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15697,140280943.0,Wednesday,No,2014-05-07T17:37:00.000,DISORDERLY,"[-71.078225, 42.325198]",Point,24xx,5,ARREST,281,B2,First,No,FAIRLAND ST,Part Two,Unarmed,770223.47,,2943812.633,2014
+39791,140282440.0,Wednesday,No,2014-05-07T10:30:00.000,DISORDERLY,"[-71.069255, 42.281066]",Point,24xx,5,IVPER ,403,C11,Day,No,CROFTLAND AV,Part Two,Other,772730.5224,,2927742.3910000003,2014
+130335,140281021.0,Wednesday,No,2014-05-07T18:01:00.000,DISORDERLY,"[-71.077517, 42.307584]",Point,24xx,5,GANG  ,329,B2,First,No,STANWOOD ST,Part Two,Unarmed,770446.8849,,2937394.604,2014
+162373,140280442.0,Wednesday,No,2014-05-07T14:34:00.000,DISORDERLY,"[-71.061995, 42.308641]",Point,24xx,5,UNK   ,338,C11,Day,No,CHURCH ST,Part Two,Unarmed,774643.5291,,2937801.125,2014
+189352,140281325.0,Wednesday,No,2014-05-07T22:01:00.000,DISORDERLY,"[-71.05958, 42.351571]",Point,24xx,5,ARREST,116,A1,First,No,KINGSTON ST,Part Two,Unarmed,775215.9809999999,EDINBORO ST,2953448.912,2014

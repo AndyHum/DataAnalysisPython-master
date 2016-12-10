@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28084,130491579.0,Tuesday,No,2013-08-06T00:00:00.000,PropFound,"[-71.05005, 42.351366]",Point,PropFound,8,FDPROP,114,C6,Last,No,CONGRESS ST,Part three,Unarmed,777792.3899,,2953387.652,2013
+114429,130492419.0,Tuesday,No,2013-08-06T17:00:00.000,PropFound,"[-71.064905, 42.352371]",Point,PropFound,8,INVEST,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2013
+129991,130492220.0,Tuesday,No,2013-08-06T18:30:00.000,PropFound,"[-71.115994, 42.275121]",Point,PropFound,8,LARCRT,496,E18,First,No,AMERICAN LEGION HY,Part three,Unarmed,760092.1353,,2925515.338,2013
+154016,130490900.0,Tuesday,No,2013-08-06T10:00:00.000,PropFound,"[-71.06521, 42.343276]",Point,PropFound,8,FDPROP,164,D4,Day,No,FAY ST,Part three,Unarmed,773709.5687,,2950418.253,2013
+155379,130493144.0,Tuesday,No,2013-08-06T21:00:00.000,PropFound,"[-71.0649, 42.351031]",Point,PropFound,8,FDPROP,118,A1,First,No,TREMONT ST,Part three,Unarmed,773778.9577,STUART ST,2953244.745,2013
+192947,130490966.0,Tuesday,No,2013-08-06T10:31:00.000,PropFound,"[-71.067465, 42.342546]",Point,PropFound,8,FDPROP,164,D4,Day,No,WASHINGTON ST,Part three,Unarmed,773101.2969,,2950149.1289999997,2013
+247967,130490574.0,Tuesday,No,2013-08-06T06:30:00.000,PropFound,"[-71.01878, 42.383151]",Point,PropFound,8,FDPROP,15,A7,Last,No,MOORE ST,Part three,Unarmed,786179.5181,SARATOGA ST,2965016.85,2013
+261765,130493122.0,Tuesday,No,2013-08-06T05:30:00.000,PropFound,"[0, 0]",Point,PropFound,8,FDPROP,200,C6,Last,No,W BROADWAY,Part three,Unarmed,,,,2013

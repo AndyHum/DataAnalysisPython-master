@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35921,130751586.0,Wednesday,No,2013-11-27T13:40:00.000,InvProp,"[-71.071303, 42.31078]",Point,InvProp,11,LARCRT,331,B2,Day,No,COLUMBIA RD,Part three,Unarmed,772121.7044,,2938567.833,2013
+60630,130752398.0,Wednesday,No,2013-11-27T23:30:00.000,InvProp,"[-71.079605, 42.347101]",Point,InvProp,11,ALARMC,146,D4,First,No,HUNTINGTON AV,Part three,Unarmed,769811.1326,,2951792.646,2013
+140301,130751886.0,Wednesday,No,2013-11-27T17:56:00.000,InvProp,"[-71.091957, 42.273356]",Point,InvProp,11,ALARMC,424,B3,First,No,BABSON ST,Part three,Unarmed,766600.3988,,2924902.586,2013
+152746,130751181.0,Wednesday,No,2013-11-27T12:14:00.000,InvProp,"[-71.037145, 42.368566]",Point,InvProp,11,THREAT,30,A7,Day,No,EVERETT ST,Part three,Unarmed,781246.6815,,2959674.3230000003,2013
+171256,130750868.0,Wednesday,No,2013-11-27T09:45:00.000,InvProp,"[-71.083504, 42.285373]",Point,InvProp,11,FIGHT ,432,B3,Day,No,JACOB ST,Part three,Unarmed,768866.8293,,2929292.5,2013
+208212,130751150.0,Wednesday,No,2013-11-27T12:06:00.000,InvProp,"[-71.126977, 42.262992]",Point,InvProp,11,ALARM ,545,E18,Day,No,MYOPIA RD,Part three,Unarmed,757139.1835,,2921082.3910000003,2013
+211138,130751285.0,Wednesday,No,2013-11-27T13:04:00.000,InvProp,"[-71.076286, 42.340036]",Point,InvProp,11,ALARMR,157,D4,Day,No,RUTLAND ST,Part three,Unarmed,770721.1363,,2949222.187,2013
+237067,130751961.0,Wednesday,No,2013-11-27T18:30:00.000,InvProp,"[-71.113867, 42.316245]",Point,InvProp,11,IVPER ,639,E13,First,No,CENTRE ST,Part three,Unarmed,760600.1116,,2940504.13,2013

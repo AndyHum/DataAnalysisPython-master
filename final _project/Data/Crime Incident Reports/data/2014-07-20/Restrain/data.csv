@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23253,142011323.0,Sunday,No,2014-07-20T01:30:00.000,Restrain,"[-71.05418, 42.359261]",Point,Restrain,7,AB,0,A1,Last,No,STATE ST,Part Two,Unarmed,776660.9853,,2956258.877,2014
+59665,142017704.0,Sunday,No,2014-07-20T16:30:00.000,Restrain,"[-71.142131, 42.3404]",Point,Restrain,7,VIORDR,0,D14,First,No,EVANS RD,Part Two,Unarmed,752918.7405,,2949273.5069999998,2014
+71662,142011039.0,Sunday,No,2014-07-20T14:50:00.000,Restrain,"[-71.062525, 42.355916]",Point,Restrain,7,DISTRB,0,A1,Day,No,TREMONT ST,Part Two,Unarmed,774411.8094,,2955028.2169999997,2014

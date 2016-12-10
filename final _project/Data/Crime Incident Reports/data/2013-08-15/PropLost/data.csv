@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19989,130514037.0,Thursday,No,2013-08-15T17:00:00.000,PropLost,"[-71.0663, 42.315891]",Point,PropLost,8,LSTPRP,332,B2,First,No,COLUMBIA RD,Part three,Unarmed,773465.6386,HANCOCK ST,2940437.188,2013
+153959,130523154.0,Thursday,No,2013-08-15T11:30:00.000,PropLost,"[-71.052533, 42.36293]",Point,PropLost,8,BERPT ,89,A1,Day,No,FULTON ST,Part three,Other,777098.9175,,2957598.0160000003,2013
+211974,130517774.0,Thursday,No,2013-08-15T12:00:00.000,PropLost,"[-71.085113, 42.324962]",Point,PropLost,8,LARCRT,295,B2,Day,No,REGENT ST,Part three,Unarmed,768361.2726,,2943717.4680000003,2013
+217480,130540687.0,Thursday,No,2013-08-15T22:00:00.000,PropLost,"[-71.12955, 42.286056]",Point,PropLost,8,MISC  ,680,E5,First,No,CORINTH ST,Part three,Unarmed,756406.3346,,2929484.192,2013

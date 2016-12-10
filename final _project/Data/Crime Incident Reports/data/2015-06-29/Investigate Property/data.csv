@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59392,,Monday,No,2015-06-29T03:16:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,IVPREM,604,B2,,No,HUNTINGTON AVE,Part Three,None,,,,2015
+153240,,Monday,No,2015-06-29T02:15:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,IVMV,285,D4,,No,HAMMOND ST,Part Three,None,,TREMONT ST,,2015
+155558,,Monday,No,2015-06-29T00:00:00.000,Investigate Property,"[-71.073801, 42.287195]",Point,InvProp,6,BE,436,B3,,No,TORREY ST,Part Three,None,771489.0,,2930000.0,2015
+209935,,Monday,No,2015-06-29T00:00:00.000,Investigate Property,"[-71.099716, 42.311768]",Point,InvProp,6,SHOTS,572,E13,,No,MONTEBELLO RD,Part Three,None,764435.0,,2940000.0,2015
+243555,,Monday,No,2015-06-29T14:30:00.000,Investigate Property,"[0, 0]",Point,InvProp,6,IVPER,911,B2,,No,ANNUNCIATION RD,Part Three,None,,,,2015
+247365,,Monday,No,2015-06-29T00:00:00.000,Investigate Property,"[-71.060236, 42.318037]",Point,InvProp,6,IVPREM,243,C11,,No,WILLIS ST,Part Three,None,775102.0,,2940000.0,2015
+251202,,Monday,No,2015-06-29T00:00:00.000,Investigate Property,"[-71.04639, 42.354048]",Point,InvProp,6,HAZMAT,207,C6,,No,COURTHOUSE WAY,Part Three,None,778776.0,,2950000.0,2015

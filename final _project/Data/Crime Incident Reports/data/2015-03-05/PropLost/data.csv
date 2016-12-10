@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5254,152018684.0,Thursday,No,2015-03-05T23:30:00.000,PropLost,"[-71.117658, 42.359586]",Point,PropLost,3,PROP,0,D14,First,No,SOLDIERS FIELD RD,Part three,Unarmed,759503.8198,,2956294.0710000005,2015
+35445,152017919.0,Thursday,No,2015-03-05T08:00:00.000,PropLost,"[-71.056345, 42.358871]",Point,PropLost,3,PROP,0,A1,Day,No,STATE ST,Part three,Unarmed,776076.5836,,2956113.703,2015
+69376,152018296.0,Thursday,No,2015-03-05T12:00:00.000,PropLost,"[-71.08969, 42.346756]",Point,PropLost,3,LARCEN,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,767085.5061,,2951653.646,2015
+197368,152034297.0,Thursday,No,2015-03-05T14:00:00.000,PropLost,"[-71.16151, 42.347251]",Point,PropLost,3,PROP,0,D14,Day,No,LAKE ST,Part three,Unarmed,747669.8757,,2951748.814,2015

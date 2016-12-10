@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17883,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.04558, 42.308515]",Point,MedAssist,8,STAB,0,C11,,No,WILLIAM T MORRISSEY BLVD,Part Three,None,779084.0,,2940000.0,2015
+31006,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.09075, 42.269567]",Point,MedAssist,8,I00015,426,B3,,No,RIVER ST,Part Three,None,766934.0,,2920000.0,2015
+38111,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.0793, 42.3399]",Point,MedAssist,8,SDNDTH,952,D4,,No,TREMONT ST,Part Three,None,769906.0,,2950000.0,2015
+42752,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.038967, 42.37048]",Point,MedAssist,8,UNKEMS,28,A7,,No,MERIDIAN ST,Part Three,None,780750.0,,2960000.0,2015
+90016,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.125784, 42.256018]",Point,MedAssist,8,ALARM,961,E18,,No,GORDON AVE,Part Three,None,757473.0,,2920000.0,2015
+122476,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.061986, 42.326966]",Point,MedAssist,8,REQP,186,C6,,No,ALLSTATE RD,Part Three,None,774612.0,,2940000.0,2015
+146383,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.036189, 42.347785]",Point,MedAssist,8,UNCONS,207,C6,,No,NORTHERN AVE,Part Three,None,781546.0,,2950000.0,2015
+146813,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.088529, 42.275868]",Point,MedAssist,8,REQP,421,B3,,No,RICH ST,Part Three,None,767524.0,,2930000.0,2015
+149242,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.066973, 42.321269]",Point,MedAssist,8,IVPER,185,B2,,No,E COTTAGE ST,Part Three,None,773274.0,,2940000.0,2015
+153706,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.091878, 42.333679]",Point,MedAssist,8,IVPER,289,B2,,No,SCHROEDER PLZ,Part Three,None,766517.0,,2950000.0,2015
+156884,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.060229, 42.319086]",Point,MedAssist,8,UNCONS,240,C11,,No,DAWES ST,Part Three,None,775101.0,,2940000.0,2015
+183354,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.075513, 42.346404]",Point,MedAssist,8,EDP,149,D4,,No,DARTMOUTH ST,Part Three,None,770918.0,,2950000.0,2015
+199087,,Wednesday,No,2015-08-05T22:30:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,8,IVPER,802,D14,,No,CAMBRIDGE ST,Part Three,None,,EMERY RD,,2015
+234361,,Wednesday,No,2015-08-05T00:00:00.000,Medical Assistance,"[-71.038301, 42.369274]",Point,MedAssist,8,UNKEMS,29,A7,,No,BREMEN ST,Part Three,None,780933.0,,2960000.0,2015

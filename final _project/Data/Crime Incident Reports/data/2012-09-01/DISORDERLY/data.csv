@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41722,120545939.0,Saturday,No,2012-09-01T12:45:00.000,DISORDERLY,"[-71.057685, 42.310896]",Point,24xx,9,DISTRB,254,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775805.0763,,2938628.897,2012
+137333,120546849.0,Saturday,No,2012-09-01T20:00:00.000,DISORDERLY,"[-71.03404, 42.368896]",Point,24xx,9,ARREST,32,A7,First,No,COTTAGE ST,Part Two,Unarmed,782085.0952,,2959799.15,2012
+193398,120800908.0,Saturday,No,2012-09-01T12:00:00.000,DISORDERLY,"[-71.15206, 42.265841]",Point,24xx,9,IVPREM,711,E5,Day,No,WASHINGTON ST,Part Two,Unarmed,750345.4717,,2922091.897,2012
+216970,120546282.0,Saturday,No,2012-09-01T15:00:00.000,DISORDERLY,"[-71.065185, 42.307956]",Point,24xx,9,IVPER ,335,C11,Day,No,BOWDOIN ST,Part Two,Unarmed,773781.9406,,2937547.084,2012
+250538,120547065.0,Saturday,No,2012-09-01T21:07:00.000,DISORDERLY,"[-71.068529, 42.377114]",Point,24xx,9,IVPER ,58,A15,First,No,DUNSTABLE ST,Part Two,Unarmed,772749.7668,,2962744.6810000003,2012

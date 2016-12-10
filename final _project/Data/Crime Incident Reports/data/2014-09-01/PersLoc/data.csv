@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19920,142024999.0,Monday,No,2014-09-01T09:30:00.000,PersLoc,"[-71.08277, 42.322186]",Point,PersLoc,9,MISSIN,0,B2,Day,No,KENSINGTON PARK,Other,Unarmed,768999.9659,,2942708.972,2014
+96535,142024932.0,Monday,No,2014-09-01T02:30:00.000,PersLoc,"[-71.090055, 42.294061]",Point,PersLoc,9,IVPER,0,B3,Last,No,WILBERT RD,Other,Unarmed,767079.1298,,2932450.22,2014
+104676,142025130.0,Monday,No,2014-09-01T17:32:00.000,PersLoc,"[-71.086483, 42.283124]",Point,PersLoc,9,MISSIN,0,B3,First,No,MIDDLETON ST,Other,Unarmed,768064.7522,,2928469.173,2014
+149356,142025200.0,Monday,No,2014-09-01T20:50:00.000,PersLoc,"[-71.08689, 42.297981]",Point,PersLoc,9,IVPER,0,B3,First,No,BLUE HILL AV,Other,Unarmed,767928.5077,,2933882.857,2014
+197928,142025192.0,Monday,No,2014-09-01T18:48:00.000,PersLoc,"[-71.080535, 42.312126]",Point,PersLoc,9,MISSIN,0,B2,First,No,BLUE HILL AV,Other,Unarmed,769622.4088,,2939045.9069999997,2014

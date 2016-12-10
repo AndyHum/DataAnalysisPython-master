@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6999,142026847.0,Saturday,No,2014-09-06T15:44:00.000,Argue,"[-71.096783, 42.266614]",Point,Argue,9,IVPER,0,E18,Day,No,RIVER ST,Part three,Unarmed,765306.1094,,2922439.316,2014
+55919,142026665.0,Saturday,No,2014-09-06T01:40:00.000,Argue,"[-71.11941, 42.277721]",Point,Argue,9,IVPER,0,E18,Last,No,HYDE PARK AV,Part three,Unarmed,759163.6361,,2926458.875,2014
+251268,142026902.0,Saturday,No,2014-09-06T19:00:00.000,Argue,"[-71.07062, 42.344521]",Point,Argue,9,AB,0,D4,First,No,TREMONT ST,Part three,Other,772244.7369,MILFORD ST,2950864.545,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7245,120546945.0,Saturday,No,2012-09-01T20:41:00.000,Landlord,"[-71.148855, 42.346171]",Point,Landlord,9,IVPER ,777,D14,First,No,SNOW ST,Part Three,Unarmed,751092.4656,,2951369.07,2012
+82925,120546608.0,Saturday,No,2012-09-01T17:59:00.000,Landlord,"[-71.117294, 42.259383]",Point,Landlord,9,INVCHD,494,E18,First,No,RIVER ST,Part Three,Other,759766.2593,,2919778.597,2012
+108624,120546038.0,Saturday,No,2012-09-01T12:30:00.000,Landlord,"[-71.143729, 42.340474]",Point,Landlord,9,LARCRT,786,D14,Day,No,CUMMINGS RD,Part Three,Unarmed,752486.6521,COMMONWEALTH AV,2949298.46,2012

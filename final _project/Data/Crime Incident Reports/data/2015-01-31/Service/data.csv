@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58377,152008205.0,Saturday,No,2015-01-31T08:00:00.000,Service,"[-71.068595, 42.358406]",Point,Service,1,CD19,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+119123,152008236.0,Saturday,No,2015-01-31T11:00:00.000,Service,"[-71.076265, 42.312576]",Point,Service,1,ARREST,0,B2,Day,No,FAYSTON ST,Part three,Unarmed,770776.5217,,2939215.603,2015
+214603,152008296.0,Saturday,No,2015-01-31T14:30:00.000,Service,"[-71.02716, 42.335781]",Point,Service,1,PROP,0,C6,Day,No,P ST,Part three,Unarmed,784011.1859,E BROADWAY,2947741.675,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33571,130015596.0,Tuesday,No,2013-01-08T13:00:00.000,LICViol,"[-71.082485, 42.328571]",Point,LICViol,1,CD11  ,280,B2,Day,No,DUDLEY ST,Part Three,Unarmed,769065.6491,,2945036.153,2013
+93013,130015707.0,Tuesday,No,2013-01-08T13:45:00.000,LICViol,"[-71.057685, 42.310896]",Point,LICViol,1,CD35  ,255,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,775805.0763,,2938628.897,2013
+130823,130015642.0,Tuesday,No,2013-01-08T13:20:00.000,LICViol,"[-71.063873, 42.325436]",Point,LICViol,1,CD35  ,186,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013

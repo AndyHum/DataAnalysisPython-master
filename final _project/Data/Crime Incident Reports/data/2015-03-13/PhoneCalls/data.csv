@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43854,152020458.0,Friday,No,2015-03-13T19:13:00.000,PhoneCalls,"[-71.040615, 42.287636]",Point,PhoneCalls,3,IVPER,0,C11,First,No,FRANKLIN ST,Part three,Unarmed,780467.8133,,2930177.026,2015
+143147,152020413.0,Friday,No,2015-03-13T17:14:00.000,PhoneCalls,"[-71.057665, 42.378641]",Point,PhoneCalls,3,INVEST,0,A15,First,No,MCNULTY CT,Part three,Other,775682.4594,,2963316.435,2015
+235052,152020374.0,Friday,No,2015-03-13T15:34:00.000,PhoneCalls,"[-71.09486, 42.315301]",Point,PhoneCalls,3,IVPER,0,E13,Day,No,WARDMAN RD,Part Two,Other,765742.3612,,2940184.2010000004,2015

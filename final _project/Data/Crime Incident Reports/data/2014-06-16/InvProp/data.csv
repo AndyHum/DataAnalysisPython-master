@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46452,140381270.0,Monday,No,2014-06-16T10:36:00.000,InvProp,"[-71.07524, 42.350651]",Point,InvProp,6,IVPREM,134,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770984.6601,CLARENDON ST,2953092.1780000003,2014
+75031,140382450.0,Monday,No,2014-06-16T18:49:00.000,InvProp,"[-71.04139, 42.330941]",Point,InvProp,6,REQP  ,921,C6,First,No,H ST,Part three,Other,780173.2641,,2945956.8910000003,2014
+150940,140381010.0,Monday,No,2014-06-16T07:45:00.000,InvProp,"[-71.132, 42.355831]",Point,InvProp,6,IVPREM,801,D14,Day,No,CAMBRIDGE ST,Part three,Unarmed,755633.6937,,2954908.5760000004,2014

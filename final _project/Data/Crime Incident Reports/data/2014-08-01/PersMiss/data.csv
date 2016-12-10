@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+59135,142015333.0,Friday,No,2014-08-01T06:00:00.000,PersMiss,"[-71.070658, 42.318428]",Point,PersMiss,8,MISSIN,0,B2,Last,No,WOODFORD ST,Other,Unarmed,772282.104,,2941355.586,2014
+64407,142015410.0,Friday,No,2014-08-01T18:00:00.000,PersMiss,"[-71.075835, 42.289281]",Point,PersMiss,8,IVPER,0,B3,First,No,DARLINGTON ST,Other,Unarmed,770935.0404,,2930727.1289999997,2014
+119896,142015522.0,Friday,No,2014-08-01T09:00:00.000,PersMiss,"[-71.074209, 42.326354]",Point,PersMiss,8,IVPER,0,B2,Day,No,EUSTIS ST,Other,Unarmed,771307.4363,,2944239.2210000004,2014

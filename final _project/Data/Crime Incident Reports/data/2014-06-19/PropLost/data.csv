@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5148,142000982.0,Thursday,No,2014-06-19T23:30:00.000,PropLost,"[-71.120595, 42.293481]",Point,PropLost,6,PROP,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,758817.4029,,2932200.626,2014
+71309,142001152.0,Thursday,No,2014-06-19T21:00:00.000,PropLost,"[-71.12073, 42.279976]",Point,PropLost,6,PROP,0,E5,First,No,ROWE ST,Part three,Unarmed,758802.7612,,2927279.038,2014
+120302,142001030.0,Thursday,No,2014-06-19T19:00:00.000,PropLost,"[-71.03904, 42.373741]",Point,PropLost,6,PROP,0,A7,First,No,MERIDIAN ST,Part three,Unarmed,780724.3981,,2961557.422,2014
+142903,142000828.0,Thursday,No,2014-06-19T14:25:00.000,PropLost,"[-71.080301, 42.292654]",Point,PropLost,6,MISC,0,B3,Day,No,TALBOT AV,Part three,Other,769720.5959999999,,2931950.291,2014
+144793,142000889.0,Thursday,No,2014-06-19T18:30:00.000,PropLost,"[-71.124685, 42.270277]",Point,PropLost,6,PROP,0,E18,First,No,SHERRIN ST,Part three,Unarmed,757747.8831,,2923739.742,2014
+186321,142012255.0,Thursday,No,2014-06-19T19:00:00.000,PropLost,"[-71.058291, 42.320114]",Point,PropLost,6,PROP,0,C11,First,No,COLUMBIA RD,Part three,Unarmed,775623.5812,,2941987.139,2014
+217187,142003199.0,Thursday,No,2014-06-19T14:00:00.000,PropLost,"[-71.05489, 42.359141]",Point,PropLost,6,LARCEN,0,A1,Day,No,STATE ST,Part three,Unarmed,776469.3197,,2956214.145,2014
+239118,142000769.0,Thursday,No,2014-06-19T09:00:00.000,PropLost,"[-71.07632, 42.350356]",Point,PropLost,6,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2014
+243816,142014928.0,Thursday,No,2014-06-19T00:00:00.000,PropLost,"[-71.05343, 42.315191]",Point,PropLost,6,LARCEN,0,C11,Last,No,HARTLAND ST,Part three,Other,776947.7728,,2940200.059,2014
+245429,142001385.0,Thursday,No,2014-06-19T21:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,6,PROP,0,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+260716,142002456.0,Thursday,No,2014-06-19T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,IVPER,0,B2,Day,No,HARRISON AV,Part three,Unarmed,,MASSACHUSETTS AV,,2014

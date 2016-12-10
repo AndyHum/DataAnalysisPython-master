@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+217191,152028179.0,Tuesday,No,2015-04-07T12:00:00.000,WEAPONS CHARGE,"[-71.075135, 42.293446]",Point,15xx,4,ARREST,0,B3,Day,No,WHITFIELD ST,Part Two,Firearm,771116.8803,WHEATLAND AV,2932245.858,2015
+267417,152028334.0,Tuesday,No,2015-04-07T22:00:00.000,WEAPONS CHARGE,"[0, 0]",Point,15xx,4,SS,0,B3,First,No,NORFOLK ST,Part Two,Firearm,,CAPEN ST,,2015

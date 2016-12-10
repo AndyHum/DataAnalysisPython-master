@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40399,130032645.0,Wednesday,No,2013-01-16T11:00:00.000,PropLost,"[-71.037135, 42.344329]",Point,PropLost,1,LSTPRP,207,C6,Day,No,TERMINAL ST,Part Three,Unarmed,781297.1946,,2950841.784,2013
+95156,130032949.0,Wednesday,No,2013-01-16T13:30:00.000,PropLost,"[-71.087155, 42.283776]",Point,PropLost,1,LSTPRP,429,B3,Day,No,WILDWOOD ST,Part Three,Unarmed,767881.8707,,2928706.0,2013
+232270,130049280.0,Wednesday,No,2013-01-16T13:00:00.000,PropLost,"[-71.088294, 42.341504]",Point,PropLost,1,LSTPRP,618,D4,Day,No,ST STEPHEN ST,Part Three,Unarmed,767472.0844,,2949741.2860000003,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24014,142011061.0,Sunday,No,2014-07-20T15:05:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,7,IVPER,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2014
+73303,142012242.0,Sunday,No,2014-07-20T15:00:00.000,PersLoc,"[-71.07585, 42.313965]",Point,PersLoc,7,IVPER,0,B2,Day,No,WAYLAND ST,Other,Unarmed,770886.1343,,2939722.162,2014
+93980,142011096.0,Sunday,No,2014-07-20T12:00:00.000,PersLoc,"[-71.072008, 42.301524]",Point,PersLoc,7,IVPER,0,C11,Day,No,BOWDOIN ST,Other,Unarmed,771947.8819,,2935193.67,2014
+237847,142013728.0,Sunday,No,2014-07-20T12:15:00.000,PersLoc,"[-71.055405, 42.316671]",Point,PersLoc,7,IVPER,0,C11,Day,No,SUDAN ST,Other,Unarmed,776410.8018,,2940736.606,2014
+239527,142011056.0,Sunday,No,2014-07-20T16:30:00.000,PersLoc,"[-71.082755, 42.281741]",Point,PersLoc,7,MISSIN,0,B3,First,No,EVANS ST,Other,Other,769076.1199,,2927970.212,2014

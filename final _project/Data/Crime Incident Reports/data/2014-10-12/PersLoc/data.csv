@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+168821,142038441.0,Sunday,No,2014-10-12T14:00:00.000,PersLoc,"[-71.097164, 42.269636]",Point,PersLoc,10,IVPER,0,E18,Day,No,CUMMINS HY,Other,Unarmed,765197.6526,,2923540.039,2014
+170023,142038379.0,Sunday,No,2014-10-12T12:30:00.000,PersLoc,"[-71.090545, 42.270186]",Point,PersLoc,10,IVPER,0,B3,Day,No,FREMONT ST,Other,Unarmed,766988.3245,,2923749.1960000005,2014
+179398,142038375.0,Sunday,No,2014-10-12T11:40:00.000,PersLoc,"[-71.063873, 42.325436]",Point,PersLoc,10,IVPER,0,C6,Day,No,ALLSTATE RD,Other,Unarmed,774104.1328,,2943918.604,2014
+203349,142038359.0,Sunday,No,2014-10-12T06:00:00.000,PersLoc,"[-71.105545, 42.267441]",Point,PersLoc,10,IVPER,0,E18,Last,No,RUSKINDALE RD,Other,Unarmed,762933.1378,,2922729.749,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20981,142004246.0,Saturday,No,2014-06-21T12:00:00.000,PropFound,"[-71.135885, 42.353451]",Point,PropFound,6,PROP,0,D14,Day,No,BRIGHTON AV,Part three,Unarmed,754587.3247,,2954036.749,2014
+141901,142001451.0,Saturday,No,2014-06-21T10:30:00.000,PropFound,"[-71.15064, 42.336241]",Point,PropFound,6,IVPREM,0,D14,Day,No,BEACON ST,Part three,Unarmed,750624.7501,SUTHERLAND RD,2947748.3989999997,2014
+220301,142001441.0,Saturday,No,2014-06-21T11:42:00.000,PropFound,"[-71.089912, 42.309524]",Point,PropFound,6,PROP,0,B2,Day,No,BROOKLEDGE ST,Part three,Unarmed,767090.6075,,2938085.256,2014
+262714,142001851.0,Saturday,No,2014-06-21T20:00:00.000,PropFound,"[0, 0]",Point,PropFound,6,PROP,0,B2,First,No,FRANKLIN PARK RD,Part three,Unarmed,,,,2014

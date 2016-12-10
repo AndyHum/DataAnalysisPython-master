@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11697,130033627.0,Wednesday,No,2013-01-16T20:44:00.000,Arrest,"[-71.079567, 42.338236]",Point,Arrest,1,ARREST,273,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,769837.2194,,2948561.8589999997,2013
+146270,130032839.0,Wednesday,No,2013-01-16T14:06:00.000,Arrest,"[-71.08323, 42.327536]",Point,Arrest,1,TRANSP,282,B2,Day,No,WARREN ST,Part Three,Unarmed,768866.0406,,2944657.9960000003,2013
+216873,130031953.0,Wednesday,No,2013-01-16T03:40:00.000,Arrest,"[-71.06764, 42.343831]",Point,Arrest,1,ARREST,160,D4,Last,No,DWIGHT ST,Part Three,Unarmed,773051.6136,SHAWMUT AV,2950617.165,2013

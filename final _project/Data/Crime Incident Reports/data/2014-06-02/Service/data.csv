@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148360,140346529.0,Monday,No,2014-06-02T18:20:00.000,Service,"[-71.06047, 42.355401]",Point,Service,6,ARREST,102,A1,First,No,WASHINGTON ST,Part three,Unarmed,774968.2164,WINTER ST,2954843.395,2014
+157390,140345397.0,Monday,No,2014-06-02T11:17:00.000,Service,"[-71.064905, 42.352371]",Point,Service,6,ARREST,119,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+211076,140346104.0,Monday,No,2014-06-02T16:00:00.000,Service,"[-71.037705, 42.382621]",Point,Service,6,ARREST,26,A7,First,No,CONDOR ST,Part three,Other,781067.5907,,2964795.432,2014
+249506,140346908.0,Monday,No,2014-06-02T21:25:00.000,Service,"[-71.062735, 42.351706]",Point,Service,6,SSTOP ,117,A1,First,No,WASHINGTON ST,Part three,Unarmed,774362.9145,,2953493.7210000004,2014
+250261,140346078.0,Monday,No,2014-06-02T15:30:00.000,Service,"[-71.091325, 42.284861]",Point,Service,6,IVPER ,465,B3,Day,No,BLUE HILL AV,Part three,Other,766751.5911,,2929095.955,2014
+261245,140345937.0,Monday,No,2014-06-02T14:40:00.000,Service,"[0, 0]",Point,Service,6,ARREST,0,A1,Day,No,OREILLY WY,Part three,Unarmed,,,,2014

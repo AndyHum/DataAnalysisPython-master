@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35292,,Friday,No,2015-08-07T20:15:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,AOD,0,,,No,,Part Three,None,,BLUE HILL AVE,,2015
+35895,,Friday,No,2015-08-07T18:57:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,ARREST,115,A1,,No,ATLANTIC AVE,Part Three,None,,EAST ST,,2015
+71057,,Friday,No,2015-08-07T19:37:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,ARREST,355,C11,,No,DORCHESTER AVE,Part Three,None,, MELVILLE AVE ,,2015
+138637,,Friday,No,2015-08-07T00:00:00.000,Warrant Arrests,"[-71.063488, 42.349973]",Point,Arrest,8,IVPER,123,A1,,No,WASHINGTON ST,Part Three,None,774162.0,,2950000.0,2015
+138973,,Friday,No,2015-08-07T00:00:00.000,Warrant Arrests,"[-71.058986, 42.353706]",Point,Arrest,8,ARREST,113,A1,,No,KINGSTON ST,Part Three,None,775372.0,,2950000.0,2015
+173831,,Friday,No,2015-08-07T00:00:00.000,Warrant Arrests,"[-71.035448, 42.369562]",Point,Arrest,8,ARREST,30,A7,,No,FRANKFORT ST,Part Three,None,781703.0,,2960000.0,2015
+177725,,Friday,No,2015-08-07T13:09:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,IVPER,61,A1,,No,CAUSEWAY ST,Part Three,None,, PORTLAND ST ,,2015
+240809,,Friday,No,2015-08-07T00:00:00.000,Warrant Arrests,"[-71.04639, 42.354048]",Point,Arrest,8,CD11,207,C6,,No,COURTHOUSE WAY,Part Three,None,778776.0,,2950000.0,2015

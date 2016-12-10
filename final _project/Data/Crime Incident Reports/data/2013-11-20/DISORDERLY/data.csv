@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44226,130737491.0,Wednesday,No,2013-11-20T00:01:00.000,DISORDERLY,"[-71.06683, 42.307751]",Point,24xx,11,IVPER ,335,C11,Last,No,COLEMAN ST,Part Two,Unarmed,773337.3565,,2937470.117,2013
+57651,130736941.0,Wednesday,No,2013-11-20T16:28:00.000,DISORDERLY,"[-71.087705, 42.340771]",Point,24xx,11,ARREST,283,D4,First,No,HUNTINGTON AV,Part Two,Unarmed,767632.6471,,2949475.187,2013
+109104,130736419.0,Wednesday,No,2013-11-20T12:20:00.000,DISORDERLY,"[-71.086589, 42.281965]",Point,24xx,11,FIGHT ,429,B3,Day,No,NORFOLK ST,Part Two,Unarmed,768038.1197,,2928046.4910000004,2013
+246813,130736960.0,Wednesday,No,2013-11-20T16:30:00.000,DISORDERLY,"[-71.0746, 42.342361]",Point,24xx,11,ARREST,153,D4,First,No,W CANTON ST,Part Two,Unarmed,771172.7252,TREMONT ST,2950072.0089999996,2013

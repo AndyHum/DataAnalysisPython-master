@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84282,130643535.0,Sunday,No,2013-10-06T12:00:00.000,PersLoc,"[-71.113546, 42.316777]",Point,PersLoc,10,MSNCOM,641,E13,Day,No,CENTRE ST,Other,Unarmed,760685.8903,,2940698.4869999997,2013
+114237,130641967.0,Sunday,No,2013-10-06T08:00:00.000,PersLoc,"[-71.065491, 42.305384]",Point,PersLoc,10,MISPER,340,C11,Day,No,DRAPER ST,Other,Unarmed,773703.9466,,2936609.337,2013
+128024,130639662.0,Sunday,No,2013-10-06T16:00:00.000,PersLoc,"[-71.1549, 42.342961]",Point,PersLoc,10,MISPER,773,D14,First,No,HATHERLY RD,Other,Unarmed,749463.0558,,2950192.613,2013
+140083,130637797.0,Sunday,No,2013-10-06T14:40:00.000,PersLoc,"[-71.074875, 42.292741]",Point,PersLoc,10,MISPER,450,B3,Day,No,WHITFIELD ST,Other,Unarmed,771188.5048,,2931989.296,2013

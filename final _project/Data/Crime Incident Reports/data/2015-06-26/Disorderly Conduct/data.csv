@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16207,,Friday,No,2015-06-26T00:00:00.000,Disorderly Conduct,"[-71.065496, 42.351066]",Point,24xx,6,ARREST,121,A1,,No,STUART ST,Part Two,None,773618.0,,2950000.0,2015
+132766,,Friday,No,2015-06-26T07:54:00.000,Disorderly Conduct,"[0, 0]",Point,24xx,6,ARREST,273,D4,,No,LENOX ST,Part Two,None,,SHAWMUT AVE,,2015
+231417,,Friday,No,2015-06-26T01:15:00.000,Disorderly Conduct,"[0, 0]",Point,24xx,6,ARREST,117,A1,,No,KNAPP ST,Part Two,None,, KNEELAND ST ,,2015
+236363,,Friday,No,2015-06-26T00:00:00.000,Disorderly Conduct,"[-71.065043, 42.374381]",Point,24xx,6,IVPER,59,A15,,No,LAWRENCE ST,Part Two,None,773697.0,,2960000.0,2015

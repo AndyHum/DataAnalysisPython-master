@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+114686,140301260.0,Thursday,No,2014-05-15T16:28:00.000,PropFound,"[-71.148885, 42.356096]",Point,PropFound,5,FDPROP,0,D14,First,No,N BEACON ST,Part three,Unarmed,751069.4692,,2954985.91,2014
+144795,140301284.0,Thursday,No,2014-05-15T16:32:00.000,PropFound,"[-71.0717, 42.291311]",Point,PropFound,5,FDPROP,450,C11,First,No,WASHINGTON ST,Part three,Unarmed,772050.1409,,2931472.481,2014
+181149,140299882.0,Thursday,No,2014-05-15T06:41:00.000,PropFound,"[-71.053808, 42.342078]",Point,PropFound,5,FDPROP,200,C6,Last,No,W 3RD ST,Part three,Unarmed,776794.071,,2949997.5089999996,2014
+182278,140300533.0,Thursday,No,2014-05-15T11:45:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,5,FDPROP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2014

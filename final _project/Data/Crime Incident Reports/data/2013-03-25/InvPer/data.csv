@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24515,130175270.0,Monday,No,2013-03-25T15:56:00.000,InvPer,"[-71.037465, 42.366871]",Point,InvPer,3,SUSPER,35,A7,Day,No,WEBSTER ST,Part Three,Unarmed,781163.5587,,2959056.164,2013
+80250,130734025.0,Monday,No,2013-03-25T07:15:00.000,InvPer,"[-71.12088, 42.351821]",Point,InvPer,3,INVEST,797,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2013
+92280,130175834.0,Monday,No,2013-03-25T22:00:00.000,InvPer,"[-71.06041, 42.299431]",Point,InvPer,3,INVEST,0,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775089.5518,,2934447.067,2013
+116184,130174251.0,Monday,No,2013-03-25T08:10:00.000,InvPer,"[-71.07221, 42.290846]",Point,InvPer,3,INVEST,438,C11,Day,No,SOUTHERN AV,Part Three,Other,771913.003,WASHINGTON ST,2931302.336,2013
+140965,130175772.0,Monday,No,2013-03-25T19:46:00.000,InvPer,"[-71.08873, 42.316866]",Point,InvPer,3,THREAT,312,B2,First,No,HARRISHOF ST,Part Three,Unarmed,767397.5413,,2940762.4489999996,2013
+156634,130177453.0,Monday,No,2013-03-25T20:15:00.000,InvPer,"[-71.038746, 42.319281]",Point,InvPer,3,IVPER ,256,C6,First,No,OCEAN VIEW DR,Part Three,Unarmed,780911.1094,,2941711.705,2013
+195146,130174927.0,Monday,No,2013-03-25T14:24:00.000,InvPer,"[-71.103345, 42.264086]",Point,InvPer,3,HARPT ,485,E18,Day,No,THORN ST,Part Three,Unarmed,763534.2872,,2921509.905,2013

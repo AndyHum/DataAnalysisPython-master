@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23934,142051538.0,Saturday,No,2014-11-22T22:00:00.000,InvProp,"[-71.0811, 42.344916]",Point,InvProp,11,UNK,0,D4,First,No,W NEWTON ST,Part three,Unarmed,769410.907,,2950994.402,2014
+79061,142051366.0,Saturday,No,2014-11-22T09:00:00.000,InvProp,"[-71.12541, 42.366566]",Point,InvProp,11,IVPREM,0,D14,Day,No,HARVARD ST,Part three,Unarmed,757397.7161,,2958828.3880000003,2014
+121287,142051400.0,Saturday,No,2014-11-22T22:09:00.000,InvProp,"[-71.06854, 42.343841]",Point,InvProp,11,IVPREM,0,D4,First,No,TAYLOR ST,Part three,Unarmed,772808.2896,,2950619.578,2014
+146124,142051186.0,Saturday,No,2014-11-22T03:08:00.000,InvProp,"[-71.06577, 42.302076]",Point,InvProp,11,SHOTS,0,C11,Last,No,RIDGEWOOD ST,Part three,Firearm,773634.6072,,2935403.522,2014
+148103,142052663.0,Saturday,No,2014-11-22T16:00:00.000,InvProp,"[-71.05582, 42.360091]",Point,InvProp,11,CD19,0,A1,First,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2014
+249581,142051553.0,Saturday,No,2014-11-22T15:57:00.000,InvProp,"[-71.05259, 42.354126]",Point,InvProp,11,PROP,0,A1,Day,No,ATLANTIC AV,Part three,Unarmed,777100.5353,,2954389.836,2014
+253612,142051243.0,Saturday,No,2014-11-22T10:27:00.000,InvProp,"[-71.058496, 42.355529]",Point,InvProp,11,ALARM,0,A1,Day,No,FRANKLIN ST,Part three,Unarmed,775501.3361,,2954892.767,2014

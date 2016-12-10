@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99565,130594930.0,Saturday,No,2013-08-17T12:00:00.000,InvProp,"[-71.053065, 42.327871]",Point,InvProp,8,IVPER ,914,C6,Day,No,MCDONOUGH WY,Part three,Unarmed,777022.2779,,2944821.374,2013
+123486,130518471.0,Saturday,No,2013-08-17T18:40:00.000,InvProp,"[-71.07203, 42.274456]",Point,InvProp,8,LANTEN,777,B3,First,No,OLD MORTON ST,Part three,Unarmed,771991.6738,,2925329.8389999997,2013
+210419,130516952.0,Saturday,No,2013-08-17T00:58:00.000,InvProp,"[-71.044005, 42.286401]",Point,InvProp,8,ALARMC,375,C11,Last,No,NEPONSET AV,Part three,Unarmed,779552.9562,,2929722.0530000003,2013

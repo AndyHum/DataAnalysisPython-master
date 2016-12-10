@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41251,130279855.0,Saturday,No,2013-05-11T02:17:00.000,DISORDERLY,"[-71.034295, 42.333151]",Point,24xx,5,ARREST,230,C6,Last,No,6TH ST,Part Two,Unarmed,782087.3094,,2946772.648,2013
+131821,130279366.0,Saturday,No,2013-05-11T00:04:00.000,DISORDERLY,"[-71.06204, 42.355151]",Point,24xx,5,UNK   ,111,A1,Last,No,TEMPLE PL,Part Two,Unarmed,774544.3321,,2954750.1089999997,2013
+211644,130281447.0,Saturday,No,2013-05-11T19:00:00.000,DISORDERLY,"[-71.074385, 42.335516]",Point,24xx,5,REQP  ,169,D4,First,No,HARRISON AV,Part Two,Unarmed,771243.2964,,2947577.858,2013

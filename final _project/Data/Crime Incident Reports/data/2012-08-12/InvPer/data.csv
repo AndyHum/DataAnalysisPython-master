@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+157466,120500290.0,Sunday,No,2012-08-12T08:25:00.000,InvPer,"[-71.073978, 42.333151]",Point,InvPer,8,RAPRPT,174,D4,Day,No,ALBANY ST,Part Three,Other,771357.6081,,2946716.26,2012
+173867,120502405.0,Sunday,No,2012-08-12T11:25:00.000,InvPer,"[-71.059285, 42.295531]",Point,InvPer,8,IVPER ,355,C11,Day,No,DIX ST,Part Three,Unarmed,775401.2395,,2933027.421,2012
+187393,120500620.0,Sunday,No,2012-08-12T12:39:00.000,InvPer,"[-71.054375, 42.327796]",Point,InvPer,8,INVCHD,914,C6,Day,No,LOGAN WY,Part Three,Unarmed,776668.1887,,2944792.189,2012
+195221,120500314.0,Sunday,No,2012-08-12T09:05:00.000,InvPer,"[-71.03926, 42.368586]",Point,InvPer,8,NOISE ,35,A7,Day,No,SUMNER ST,Part Three,Unarmed,780675.0997,,2959678.517,2012
+243057,120501567.0,Sunday,No,2012-08-12T22:30:00.000,InvPer,"[-71.081654, 42.320308]",Point,InvPer,8,ABIP  ,309,B2,First,No,WARREN ST,Part Three,Unarmed,769305.0476,,2942025.772,2012

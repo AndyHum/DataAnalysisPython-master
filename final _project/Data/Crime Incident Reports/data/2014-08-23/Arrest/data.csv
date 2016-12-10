@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67098,142022191.0,Saturday,No,2014-08-23T13:56:00.000,Arrest,"[-71.091325, 42.284861]",Point,Arrest,8,IVPER,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+112377,142022145.0,Saturday,No,2014-08-23T12:00:00.000,Arrest,"[-71.085219, 42.300836]",Point,Arrest,8,SS,0,B3,Day,No,MCLELLAN ST,Part three,Unarmed,768375.5219,,2934925.1569999997,2014
+203953,142022190.0,Saturday,No,2014-08-23T15:15:00.000,Arrest,"[-71.08556, 42.301841]",Point,Arrest,8,ARREST,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,768281.4855,GLENWAY ST,2935291.2460000003,2014

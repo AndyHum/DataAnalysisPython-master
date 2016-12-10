@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+177028,140127986.0,Saturday,No,2014-03-01T22:50:00.000,LICViol,"[-71.103995, 42.333881]",Point,LICViol,3,CD35  ,602,B2,First,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2014
+179680,140128000.0,Saturday,No,2014-03-01T23:00:00.000,LICViol,"[-71.102965, 42.333551]",Point,LICViol,3,CD35  ,603,B2,First,No,TREMONT ST,Part three,Unarmed,763519.3148,,2946824.5130000003,2014
+214770,140125983.0,Saturday,No,2014-03-01T01:05:00.000,LICViol,"[-71.098335, 42.347376]",Point,LICViol,3,CD35  ,0,D4,Last,No,BROOKLINE AV,Part three,Unarmed,764747.4655,,2951868.462,2014

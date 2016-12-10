@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19346,152040525.0,Sunday,No,2015-05-17T20:45:00.000,DISORDERLY,"[-71.06178, 42.353616]",Point,24xx,5,ARREST,0,A1,First,No,AVENUE DE LAFAYETTE,Part Two,Unarmed,774617.4802,HARRISON AV,2954191.086,2015
+131914,152040290.0,Sunday,No,2015-05-17T01:45:00.000,DISORDERLY,"[-71.095995, 42.347161]",Point,24xx,5,CD35,0,D4,Last,No,LANSDOWNE ST,Part Two,Unarmed,765380.3957,,2951793.104,2015
+141574,152040304.0,Sunday,No,2015-05-17T02:20:00.000,DISORDERLY,"[-71.0639, 42.350956]",Point,24xx,5,IVPER,0,A1,Last,No,STUART ST,Part Two,Unarmed,774049.4062,,2953218.795,2015
+252204,152040558.0,Sunday,No,2015-05-17T23:00:00.000,DISORDERLY,"[-71.063969, 42.381788]",Point,24xx,5,IVPER,0,A15,First,No,MEDFORD ST,Part Two,Unarmed,773973.2971,,2964454.231,2015

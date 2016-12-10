@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14203,142062162.0,Wednesday,No,2014-12-31T22:25:00.000,InvProp,"[-71.067545, 42.377411]",Point,InvProp,12,SHOTS,0,A15,First,No,DUNSTABLE ST,Part three,Other,773015.2518,,2962854.5089999996,2014
+110708,142062184.0,Wednesday,No,2014-12-31T23:28:00.000,InvProp,"[-71.0836, 42.288231]",Point,InvProp,12,SHOTS,0,B3,First,No,LYFORD ST,Part three,Unarmed,768835.9141,CALLENDER ST,2930334.142,2014
+133898,152000791.0,Wednesday,No,2014-12-31T19:43:00.000,InvProp,"[-71.142805, 42.354546]",Point,InvProp,12,PROP,0,D14,First,No,N BEACON ST,Part three,Unarmed,752715.1845,,2954427.881,2014
+148665,142061993.0,Wednesday,No,2014-12-31T11:00:00.000,InvProp,"[-71.06255, 42.365411]",Point,InvProp,12,CD9,0,A1,Day,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2014
+160543,142062072.0,Wednesday,No,2014-12-31T16:15:00.000,InvProp,"[-71.069221, 42.30886]",Point,InvProp,12,FIRE,0,C11,First,No,BELLEVUE ST,Part three,Other,772688.4477,,2937870.6760000004,2014
+252826,142062049.0,Wednesday,No,2014-12-31T14:19:00.000,InvProp,"[-71.05731, 42.356731]",Point,InvProp,12,BOMB,0,A1,Day,No,DEVONSHIRE ST,Part three,Unarmed,775819.8175,MILK ST,2955332.4889999996,2014
+252986,152000496.0,Wednesday,No,2014-12-31T12:00:00.000,InvProp,"[-71.032935, 42.333166]",Point,InvProp,12,IVPREM,0,C6,Day,No,E 6TH ST,Part three,Unarmed,782455.0019,,2946780.124,2014
+261651,142062164.0,Wednesday,No,2014-12-31T22:08:00.000,InvProp,"[0, 0]",Point,InvProp,12,BE,0,C6,First,No,MORRISSEY BL,Part three,Unarmed,,,,2014
+261816,152001181.0,Wednesday,No,2014-12-31T17:00:00.000,InvProp,"[0, 0]",Point,InvProp,12,BE,0,C6,First,No,EMERSON ST,Part three,Unarmed,,,,2014
+263045,142062149.0,Wednesday,No,2014-12-31T20:57:00.000,InvProp,"[0, 0]",Point,InvProp,12,BE,0,B2,First,No,RIVERWAY,Part three,Unarmed,,,,2014
+264589,152000513.0,Wednesday,No,2014-12-31T04:30:00.000,InvProp,"[0, 0]",Point,InvProp,12,BE,0,D14,Last,No,BRAINERD RD,Part three,Unarmed,,,,2014
+265284,142062051.0,Wednesday,No,2014-12-31T14:30:00.000,InvProp,"[0, 0]",Point,InvProp,12,PSHOT,0,D4,Day,No,WASHINGTON ST,Part three,Unarmed,,,,2014

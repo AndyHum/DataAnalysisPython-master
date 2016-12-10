@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41307,130043807.0,Monday,No,2013-01-21T09:00:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,1,FDPROP,0,C11,Day,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2013
+68837,130042819.0,Monday,No,2013-01-21T10:41:00.000,PropFound,"[-71.05158, 42.288081]",Point,PropFound,1,INVEST,378,C11,Day,No,NAHANT AV,Part Three,Unarmed,777500.0626,NEWHALL PL,2930323.401,2013
+89651,130042765.0,Monday,No,2013-01-21T09:53:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,1,FDPROP,778,D14,Day,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2013
+144024,130041537.0,Monday,No,2013-01-21T15:40:00.000,PropFound,"[-71.068585, 42.341776]",Point,PropFound,1,FDWEAP,166,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,772799.9307,,2949866.9930000002,2013

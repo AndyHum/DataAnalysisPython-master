@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20048,120497994.0,Saturday,No,2012-08-11T08:08:00.000,InvProp,"[-71.153043, 42.287232]",Point,InvProp,8,ALARMC,696,E5,Day,No,CENTRE ST,Part Three,Unarmed,750047.6314,,2929885.93,2012
+139278,120499535.0,Saturday,No,2012-08-11T22:28:00.000,InvProp,"[-71.05778, 42.328261]",Point,InvProp,8,BEIP  ,191,C6,First,No,BOSTON ST,Part Three,Unarmed,775746.5725,,2944956.8510000003,2012
+145418,120498313.0,Saturday,No,2012-08-11T10:00:00.000,InvProp,"[-71.061606, 42.290907]",Point,InvProp,8,BERPT ,365,C11,Day,No,SEMONT RD,Part Three,Unarmed,774781.8208,,2931338.963,2012
+184074,120497483.0,Saturday,No,2012-08-11T00:07:00.000,InvProp,"[-71.077665, 42.300266]",Point,InvProp,8,PARTY ,455,B3,Last,No,CARMEN ST,Part Three,Unarmed,770420.072,,2934727.769,2012
+191152,120498037.0,Saturday,No,2012-08-11T08:44:00.000,InvProp,"[-71.03558, 42.377676]",Point,InvProp,8,MVANO ,23,A7,Day,No,PRINCETON ST,Part Three,Unarmed,781651.5177,,2962996.4889999996,2012
+219868,120499492.0,Saturday,No,2012-08-11T22:07:00.000,InvProp,"[-71.119714, 42.292533]",Point,InvProp,8,BERPTA,564,E5,First,No,BROOKWAY,Part Three,Other,759057.0586,,2931855.943,2012
+264457,120503513.0,Saturday,No,2012-08-11T23:00:00.000,InvProp,"[0, 0]",Point,InvProp,8,IVPREM,515,E18,First,No,BRUSH HILL TR,Part Three,Unarmed,,,,2012

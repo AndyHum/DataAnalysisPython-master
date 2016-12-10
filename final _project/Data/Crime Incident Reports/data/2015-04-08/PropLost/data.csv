@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55099,152028496.0,Wednesday,No,2015-04-08T13:00:00.000,PropLost,"[-71.088617, 42.32438]",Point,PropLost,4,PROP,0,B2,Day,No,WASHINGTON ST,Part three,Other,767414.8457,CEDAR ST,2943500.651,2015
+108511,152028808.0,Wednesday,No,2015-04-08T19:00:00.000,PropLost,"[-71.086365, 42.344616]",Point,PropLost,4,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,767988.1254,,2950878.13,2015
+121274,152029189.0,Wednesday,No,2015-04-08T15:00:00.000,PropLost,"[-71.134258, 42.349755]",Point,PropLost,4,PROP,0,D14,Day,No,GLENVILLE AV,Part three,Unarmed,755032.8284,,2952691.635,2015
+249530,152037694.0,Wednesday,No,2015-04-08T12:00:00.000,PropLost,"[-71.070445, 42.306651]",Point,PropLost,4,PROP,0,C11,Day,No,RICHFIELD ST,Part three,Unarmed,772361.3135,,2937064.2180000003,2015
+267473,152028472.0,Wednesday,No,2015-04-08T10:45:00.000,PropLost,"[0, 0]",Point,PropLost,4,LARCEN,0,E5,Day,No,WOLCOTT CT,Part three,Unarmed,,,,2015

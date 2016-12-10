@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57755,,Sunday,No,2015-06-28T00:00:00.000,Medical Assistance,"[-71.041391, 42.33095]",Point,MedAssist,6,I00015,921,C6,,No,H ST,Part Three,None,780173.0,,2950000.0,2015
+64762,,Sunday,No,2015-06-28T13:50:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,INJ,205,C6,,No,A ST,Part Three,None,,MELCHER ST,,2015
+70367,,Sunday,No,2015-06-28T00:00:00.000,Medical Assistance,"[-71.121435, 42.283273]",Point,MedAssist,6,PERGUN,561,E5,,No,BROWN AVE,Part Three,None,758606.0,,2930000.0,2015
+117856,,Sunday,No,2015-06-28T00:00:00.000,Medical Assistance,"[-71.068296, 42.299108]",Point,MedAssist,6,UNCONS,357,C11,,No,BLOOMFIELD ST,Part Three,None,772957.0,,2930000.0,2015
+121825,,Sunday,No,2015-06-28T00:00:00.000,Medical Assistance,"[-71.088934, 42.33467]",Point,MedAssist,6,IVPER,909,B2,,No,TREMONT ST,Part Three,None,767311.0,,2950000.0,2015
+128155,,Sunday,No,2015-06-28T00:00:00.000,Medical Assistance,"[-71.138167, 42.352809]",Point,MedAssist,6,IVPER,795,D14,,No,BARROWS ST,Part Three,None,753971.0,,2950000.0,2015
+143341,,Sunday,No,2015-06-28T02:15:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,IVPREM,12,A7,,No,SARATOGA ST,Part Three,None,,,,2015
+158465,,Sunday,No,2015-06-28T00:00:00.000,Medical Assistance,"[-71.073649, 42.282082]",Point,MedAssist,6,NIDV,417,B3,,No,MORA ST,Part Three,None,771540.0,,2930000.0,2015
+214757,,Sunday,No,2015-06-28T00:00:00.000,Medical Assistance,"[-71.058556, 42.287244]",Point,MedAssist,6,DVIP,392,C11,,No,ASHMONT ST,Part Three,None,775614.0,,2930000.0,2015
+239266,,Sunday,No,2015-06-28T00:00:00.000,Medical Assistance,"[-71.061719, 42.291448]",Point,MedAssist,6,IVPER,365,C11,,No,SAINT MARKS RD,Part Three,None,774750.0,,2930000.0,2015

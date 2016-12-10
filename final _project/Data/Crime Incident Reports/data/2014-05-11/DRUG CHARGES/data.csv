@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21354,140289927.0,Sunday,No,2014-05-11T02:51:00.000,DRUG CHARGES,"[-71.07555, 42.298655]",Point,18xx,5,TSTOP ,0,B3,Last,No,HARVARD ST,Part Two,Other,770994.9409,,2934143.52,2014
+133919,140290611.0,Sunday,No,2014-05-11T13:34:00.000,DRUG CHARGES,"[-71.0615, 42.320481]",Point,18xx,5,MVADD ,237,C6,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,774755.2395,COLUMBIA RD,2942116.4960000003,2014
+156150,140291702.0,Sunday,No,2014-05-11T16:00:00.000,DRUG CHARGES,"[-71.059735, 42.297541]",Point,18xx,5,IVDRUG,355,C11,First,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2014
+197701,140291022.0,Sunday,No,2014-05-11T16:31:00.000,DRUG CHARGES,"[-71.085618, 42.32866]",Point,18xx,5,IVPER ,282,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2014

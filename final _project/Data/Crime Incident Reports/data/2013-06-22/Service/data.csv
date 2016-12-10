@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94092,130380584.0,Saturday,No,2013-06-22T11:33:00.000,Service,"[-71.08586, 42.295476]",Point,Service,6,ARREST,441,B3,Day,No,HARVARD ST,Part three,Unarmed,768211.5908,,2932971.349,2013
+142134,130381932.0,Saturday,No,2013-06-22T22:19:00.000,Service,"[-71.05464, 42.325816]",Point,Service,6,ARREST,914,C6,First,No,OCALLAGHAN WY,Part three,Unarmed,776600.2984,,2944070.27,2013
+230258,130380805.0,Saturday,No,2013-06-22T13:30:00.000,Service,"[-71.06705, 42.289071]",Point,Service,6,ARREST,397,C11,Day,No,TALBOT AV,Part three,Unarmed,773312.4041,WELLES AV,2930662.545,2013

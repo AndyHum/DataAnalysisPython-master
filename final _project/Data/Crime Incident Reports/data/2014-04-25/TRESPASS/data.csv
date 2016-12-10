@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37580,140252504.0,Friday,No,2014-04-25T18:50:00.000,TRESPASS,"[-71.071135, 42.335176]",Point,TRESPASS,4,ARREST,172,D4,First,No,ALBANY ST,Part Two,Unarmed,772122.6365,E CONCORD ST,2947458.358,2014
+113664,140250897.0,Friday,No,2014-04-25T03:40:00.000,TRESPASS,"[-71.064015, 42.348681]",Point,TRESPASS,4,ARREST,123,A1,Last,No,WASHINGTON ST,Part Two,Unarmed,774022.5582,,2952389.583,2014
+237196,140252230.0,Friday,No,2014-04-25T17:28:00.000,TRESPASS,"[-71.076829, 42.301465]",Point,TRESPASS,4,DISTRB,461,C11,First,No,WASHINGTON ST,Part Two,Unarmed,770644.0423,,2935165.667,2014

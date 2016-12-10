@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92004,130476284.0,Wednesday,No,2013-07-31T06:30:00.000,PropFound,"[-71.107245, 42.304291]",Point,PropFound,7,FDPROP,569,E13,Last,No,STEDMAN ST,Part three,Unarmed,762411.171,,2936156.308,2013
+94434,130477002.0,Wednesday,No,2013-07-31T11:30:00.000,PropFound,"[-71.07843, 42.349776]",Point,PropFound,7,FDPROP,117,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770123.9452,DARTMOUTH ST,2952769.035,2013
+105192,130478064.0,Wednesday,No,2013-07-31T11:00:00.000,PropFound,"[-71.12196, 42.295491]",Point,PropFound,7,IVPER ,0,E13,Day,No,SOUTH ST,Part three,Unarmed,758444.8501,BUSSEY ST,2932931.462,2013
+127898,130523244.0,Wednesday,No,2013-07-31T10:00:00.000,PropFound,"[-71.08209, 42.336671]",Point,PropFound,7,LSTPRP,903,D4,Day,No,LATTIMORE CT,Part three,Unarmed,769157.9964,,2947988.46,2013
+149050,130476748.0,Wednesday,No,2013-07-31T13:00:00.000,PropFound,"[-71.15064, 42.348981]",Point,PropFound,7,FDPROP,778,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750605.7341,WINSHIP ST,2952391.108,2013
+172966,130477186.0,Wednesday,No,2013-07-31T16:49:00.000,PropFound,"[-71.1009, 42.332826]",Point,PropFound,7,FDPROP,601,B2,First,No,TREMONT ST,Part three,Unarmed,764078.8929999999,,2946562.915,2013
+191654,130477585.0,Wednesday,No,2013-07-31T20:51:00.000,PropFound,"[-71.09459, 42.344811]",Point,PropFound,7,FDPROP,624,D4,First,No,PARK DR,Part three,Unarmed,765764.2732,,2950938.517,2013
+209937,130479690.0,Wednesday,No,2013-07-31T22:30:00.000,PropFound,"[-71.123549, 42.352157]",Point,PropFound,7,LARCRT,797,D14,First,No,COMMONWEALTH AV,Part three,Unarmed,757923.5707,,2953579.517,2013
+218758,130478044.0,Wednesday,No,2013-07-31T21:00:00.000,PropFound,"[-71.08284, 42.309116]",Point,PropFound,7,FDPROP,329,B2,First,No,BLUE HILL AV,Part three,Unarmed,769004.3297,,2937945.957,2013
+220919,130475940.0,Wednesday,No,2013-07-31T07:15:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,7,LSTPRP,200,C6,Last,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+263184,130476846.0,Wednesday,No,2013-07-31T14:43:00.000,PropFound,"[0, 0]",Point,PropFound,7,FDPROP,721,E5,Day,No,SUMMER AV,Part three,Unarmed,,SPRING ST,,2013

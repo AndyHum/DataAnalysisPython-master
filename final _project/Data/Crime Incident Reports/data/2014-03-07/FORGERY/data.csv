@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+96530,140141383.0,Friday,No,2014-03-07T20:49:00.000,FORGERY,"[-71.0714, 42.303361]",Point,10xx,3,ARREST,462,C11,First,No,BOWDOIN ST,Part Two,Unarmed,772109.2449,GENEVA AV,2935864.087,2014
+152765,140282868.0,Friday,No,2014-03-07T09:30:00.000,FORGERY,"[-71.03513, 42.366801]",Point,10xx,3,INVEST,33,A7,Day,No,SUMNER ST,Part Two,Unarmed,781794.7059999999,,2959034.083,2014
+177574,140140430.0,Friday,No,2014-03-07T13:34:00.000,FORGERY,"[-71.080681, 42.283145]",Point,10xx,3,IVPER ,417,B3,Day,No,CAPEN ST,Part Two,Unarmed,769634.7723,,2928484.3510000003,2014

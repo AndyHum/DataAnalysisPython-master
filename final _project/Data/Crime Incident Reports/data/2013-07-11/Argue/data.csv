@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56947,130426819.0,Thursday,No,2013-07-11T02:25:00.000,Argue,"[-71.05428, 42.358476]",Point,Argue,7,IVPER ,100,A1,Last,No,BROAD ST,Part three,Unarmed,776635.4532,,2955972.667,2013
+113571,130426965.0,Thursday,No,2013-07-11T07:15:00.000,Argue,"[-71.048235, 42.333611]",Point,Argue,7,NIDV  ,219,C6,Last,No,GATES ST,Part three,Unarmed,778317.2658,,2946920.0069999998,2013
+173566,130428164.0,Thursday,No,2013-07-11T16:29:00.000,Argue,"[-71.082049, 42.294765]",Point,Argue,7,FIGHT ,441,B3,First,No,KINGSDALE ST,Part three,Unarmed,769243.8945,,2932717.086,2013

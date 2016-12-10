@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3713,,Saturday,No,2015-06-27T00:00:00.000,Police Service Incidents,"[-71.077783, 42.316848]",Point,Service,6,ARREST,324,B2,,No,DEWEY ST,Part Three,None,770358.0,,2940000.0,2015
+142892,,Saturday,No,2015-06-27T10:56:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,179,B2,,No,GERARD ST,Part Three,None,,ISLAND ST,,2015
+198395,,Saturday,No,2015-06-27T00:00:00.000,Police Service Incidents,"[-71.069397, 42.329801]",Point,Service,6,ARREST,177,C6,,No,MASSACHUSETTS AVE,Part Three,None,772602.0,,2950000.0,2015
+219768,,Saturday,No,2015-06-27T20:39:00.000,Police Service Incidents,"[0, 0]",Point,Service,6,ARREST,686,E5,,No,ANAWAN TER,Part Three,None,,,,2015

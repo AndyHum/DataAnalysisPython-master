@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128699,142042797.0,Sunday,No,2014-10-26T01:30:00.000,PersLoc,"[-71.05885, 42.307566]",Point,PersLoc,10,IVPER,0,C11,Last,No,EAST ST,Other,Unarmed,775496.2439,,2937413.762,2014
+142641,142043456.0,Sunday,No,2014-10-26T07:00:00.000,PersLoc,"[-71.100575, 42.264277]",Point,PersLoc,10,IVPER,0,E18,Last,No,RIVER ST,Other,Unarmed,764283.681,,2921582.988,2014
+261094,142042940.0,Sunday,No,2014-10-26T17:40:00.000,PersLoc,"[0, 0]",Point,PersLoc,10,IVPER,0,C6,First,No,JAMES ONEILL ST,Other,Unarmed,,,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+68744,152003654.0,Wednesday,No,2015-01-14T17:38:00.000,TRESPASS,"[-71.058945, 42.378816]",Point,TRESPASS,1,ARREST,0,A15,First,No,WALFORD WY,Part Two,Unarmed,775336.2862,,2963378.418,2015
+72340,152003741.0,Wednesday,No,2015-01-14T23:17:00.000,TRESPASS,"[-71.084747, 42.329375]",Point,TRESPASS,1,IVPER,0,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015
+122107,152003577.0,Wednesday,No,2015-01-14T12:00:00.000,TRESPASS,"[-71.063675, 42.352301]",Point,TRESPASS,1,ARREST,0,A1,Day,No,BOYLSTON ST,Part Two,Unarmed,774107.7181,,2953709.249,2015
+194768,152003515.0,Wednesday,No,2015-01-14T01:58:00.000,TRESPASS,"[-71.057245, 42.351566]",Point,TRESPASS,1,ARREST,0,A1,Last,No,SOUTH ST,Part Two,Unarmed,775847.1556,,2953450.358,2015

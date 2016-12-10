@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69457,120583218.0,Monday,No,2012-09-17T10:38:00.000,FIRE,"[-71.094726, 42.31315]",Point,FIRE,9,FV    ,316,E13,Day,No,SEAVER ST,Part Three,Unarmed,765782.1363,WALNUT AV,2939400.348,2012
+120446,120582717.0,Monday,No,2012-09-17T06:00:00.000,FIRE,"[-71.056655, 42.373546]",Point,FIRE,9,REQP  ,38,A15,Last,No,1ST AV,Part Three,Other,775965.0021,,2961461.1289999997,2012
+143894,120582673.0,Monday,No,2012-09-17T03:26:00.000,FIRE,"[-71.066939, 42.31286]",Point,FIRE,9,FV    ,332,C11,Last,No,GLENDALE ST,Part Three,Unarmed,773298.182,,2939331.72,2012
+151251,120583845.0,Monday,No,2012-09-17T15:45:00.000,FIRE,"[-71.066403, 42.343387]",Point,FIRE,9,FIREB ,164,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,773386.6818,,2950456.92,2012

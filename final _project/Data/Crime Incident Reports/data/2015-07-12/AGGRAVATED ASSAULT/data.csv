@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13973,,Sunday,No,2015-07-12T19:08:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,FIGHT,421,B3,,No,MORTON ST,Part One,Blunt Object,,,,2015
+39584,,Sunday,No,2015-07-12T00:00:00.000,Aggravated Assault,"[-71.081339, 42.315348]",Point,04xx,7,PERGUN,323,B2,,No,MAYBURY ST,Part One,Firearm,769399.0,,2940000.0,2015
+45182,,Sunday,No,2015-07-12T23:47:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PSHOT,330,B2,,Yes,WASHINGTON ST,Part One,Firearm,,,,2015
+51433,,Sunday,No,2015-07-12T00:00:00.000,Aggravated Assault,"[-71.07693, 42.308126]",Point,04xx,7,SHOTS,329,B2,,Yes,DEVON ST,Part One,Firearm,770605.0,,2940000.0,2015
+93237,,Sunday,No,2015-07-12T01:05:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,SHOTS,469,B3,,No,ALMONT ST,Part One,Firearm,,SAVANNAH AVE,,2015
+102306,,Sunday,No,2015-07-12T00:00:00.000,Aggravated Assault,"[-71.08926, 42.290561]",Point,04xx,7,IVPER,440,B3,,No,NORTHAMPTON ST,Part One,None,767300.0,WASHINGTON ST,2930000.0,2015
+156933,,Sunday,No,2015-07-12T00:00:00.000,Aggravated Assault,"[-71.080767, 42.335434]",Point,04xx,7,STAB,903,D4,,No,SHAWMUT AVE,Part One,Knife/Cutting Instrument,769518.0,,2950000.0,2015
+166746,,Sunday,No,2015-07-12T00:00:00.000,Aggravated Assault,"[-71.098452, 42.333531]",Point,04xx,7,AB,601,B2,,No,SMITH ST,Part One,Blunt Object,764739.0,,2950000.0,2015
+170679,,Sunday,No,2015-07-12T01:39:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PKNIFE,108,A1,,No,HIGH ST,Part One,Knife/Cutting Instrument,,,,2015
+191559,,Sunday,No,2015-07-12T11:09:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,AB,124,A1,,No,HARRISON AVE,Part One,Blunt Object,,KNEELAND ST,,2015
+196328,,Sunday,No,2015-07-12T02:50:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PKNIFE,266,B2,,No,WINTHROP ST,Part One,Blunt Object,,,,2015
+206067,,Sunday,No,2015-07-12T18:23:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PKNIFE,111,A1,,No,WASHINGTON ST,Part One,Knife/Cutting Instrument,,,,2015

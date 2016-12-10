@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16881,120724166.0,Saturday,No,2012-11-17T11:00:00.000,CRIMES AGAINST CHILDREN,"[-71.067795, 42.327446]",Point,20xx,11,INVCHD,181,C6,Day,No,PROCTOR ST,Part Two,Unarmed,773039.9666,MASSACHUSETTS AV,2944645.97,2012
+193763,120724165.0,Saturday,No,2012-11-17T11:00:00.000,CRIMES AGAINST CHILDREN,"[-71.067795, 42.327446]",Point,20xx,11,INVCHD,181,C6,Day,No,PROCTOR ST,Part Two,Unarmed,773039.9666,MASSACHUSETTS AV,2944645.97,2012
+249549,120728861.0,Saturday,No,2012-11-17T04:10:00.000,CRIMES AGAINST CHILDREN,"[-71.051685, 42.309604]",Point,20xx,11,INVEST,252,C11,Last,No,PLAYSTEAD RD,Part Two,Unarmed,777430.1836,,2938166.501,2012

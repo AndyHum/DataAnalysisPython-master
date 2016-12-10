@@ -1,0 +1,17 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7601,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.068666, 42.313979]",Point,MedAssist,7,EDP,331,B2,,No,SAYWARD ST,Part Three,None,772829.0,,2940000.0,2015
+9204,,Saturday,No,2015-07-04T08:06:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,REQP,283,D4,,No,HUNTINGTON AVE,Part Three,None,,,,2015
+30754,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.080148, 42.349325]",Point,MedAssist,7,REQP,143,D4,,No,BOYLSTON ST,Part Three,None,769660.0,,2950000.0,2015
+43405,,Saturday,No,2015-07-04T15:24:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,REQP,712,E5,,No,ROCKINGHAM AVE,Part Three,None,,,,2015
+49106,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.137795, 42.273482]",Point,MedAssist,7,FIGHT,550,E5,,No,BLUE LEDGE DR,Part Three,None,754195.0,,2920000.0,2015
+82286,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.089104, 42.313633]",Point,MedAssist,7,DISTRB,314,B2,,No,HUMBOLDT AVE,Part Three,None,767302.0,,2940000.0,2015
+103458,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.075389, 42.333951]",Point,MedAssist,7,UNCONS,270,D4,,No,NORTHAMPTON ST,Part Three,None,770974.0,,2950000.0,2015
+119939,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.069188, 42.302884]",Point,MedAssist,7,EDP,342,C11,,No,HOMES AVE,Part Three,None,772708.0,,2940000.0,2015
+119972,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.051689, 42.373856]",Point,MedAssist,7,IVPER,38,A15,,No,EIGHTH ST,Part Three,None,777306.0,,2960000.0,2015
+124351,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.086957, 42.345695]",Point,MedAssist,7,EDP,620,D4,,No,MASSACHUSETTS AVE,Part Three,None,767826.0,,2950000.0,2015
+139004,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.063133, 42.298489]",Point,MedAssist,7,UNCONS,356,C11,,No,GENEVA AVE,Part Three,None,774355.0,,2930000.0,2015
+164884,,Saturday,No,2015-07-04T21:31:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,REQP,286,B2,,No,BROOK MARSHALL RD,Part Three,None,,,,2015
+169559,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.062484, 42.33058]",Point,MedAssist,7,UNKEMS,186,C6,,No,SOUTHAMPTON ST,Part Three,None,774470.0,,2950000.0,2015
+200637,,Saturday,No,2015-07-04T00:00:00.000,Medical Assistance,"[-71.035279, 42.374427]",Point,MedAssist,7,UNCONS,21,A7,,No,PARIS ST,Part Three,None,781739.0,,2960000.0,2015
+218001,,Saturday,No,2015-07-04T23:50:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,REQEP,480,E18,,No,FAIRLAWN AVE,Part Three,None,,,,2015
+244110,,Saturday,No,2015-07-04T12:19:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,IVPER,0,,,No,HANOVER ST,Part Three,None,,,,2015

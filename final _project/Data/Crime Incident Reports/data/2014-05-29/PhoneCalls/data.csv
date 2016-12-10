@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19376,140336788.0,Thursday,No,2014-05-29T20:39:00.000,PhoneCalls,"[-71.09956, 42.271646]",Point,PhoneCalls,5,THREAT,475,B3,First,No,FAVRE ST,Part three,Unarmed,764545.8737,,2924269.6580000003,2014
+90439,140337099.0,Thursday,No,2014-05-29T22:51:00.000,PhoneCalls,"[-71.063729, 42.373686]",Point,PhoneCalls,5,HARPT ,60,A15,First,No,DEVENS ST,Part three,Unarmed,774053.0168,,2961502.143,2014
+122071,140335730.0,Thursday,No,2014-05-29T13:04:00.000,PhoneCalls,"[-71.11411, 42.312631]",Point,PhoneCalls,5,THREAT,642,E13,Day,No,CENTRE ST,Part three,Other,760540.3798,,2939187.065,2014
+161738,140336826.0,Thursday,No,2014-05-29T20:34:00.000,PhoneCalls,"[-71.04977, 42.293601]",Point,PhoneCalls,5,HARPT ,369,C11,First,No,ROWLEY ST,Part three,Unarmed,777979.1894,,2932337.546,2014

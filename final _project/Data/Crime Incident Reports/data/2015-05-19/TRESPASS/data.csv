@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27556,152040927.0,Tuesday,No,2015-05-19T03:12:00.000,TRESPASS,"[-71.05343, 42.315191]",Point,TRESPASS,5,IVPER,0,C11,Last,No,HARTLAND ST,Part Two,Unarmed,776947.7728,,2940200.059,2015
+47333,152041070.0,Tuesday,No,2015-05-19T12:57:00.000,TRESPASS,"[-71.032415, 42.381346]",Point,TRESPASS,5,IVPER,0,A7,Day,No,E EAGLE ST,Part Two,Unarmed,782499.3516,,2964338.584,2015
+259710,152041162.0,Tuesday,No,2015-05-19T17:47:00.000,TRESPASS,"[-71.096413, 42.344914]",Point,TRESPASS,5,LARCEN,0,D4,First,No,BOYLSTON ST,Part Two,Unarmed,765271.056,,2950973.562,2015

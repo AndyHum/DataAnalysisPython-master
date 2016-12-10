@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29149,142061082.0,Saturday,No,2014-12-27T22:35:00.000,InvProp,"[-71.07332, 42.338551]",Point,InvProp,12,IVPREM,0,D4,First,No,E NEWTON ST,Part three,Unarmed,771525.7131,,2948685.305,2014
+49500,142060865.0,Saturday,No,2014-12-27T09:30:00.000,InvProp,"[-71.083365, 42.331551]",Point,InvProp,12,IVPREM,0,B2,Day,No,RUGGLES ST,Part three,Unarmed,768822.3904,RUGGLES ST,2946120.954,2014
+58178,142061000.0,Saturday,No,2014-12-27T18:55:00.000,InvProp,"[-71.08328, 42.283441]",Point,InvProp,12,SHOTS,0,B3,First,No,NORFOLK ST,Part three,Unarmed,768931.0263,CORBET ST,2928589.021,2014
+73316,142060846.0,Saturday,No,2014-12-27T04:27:00.000,InvProp,"[-71.07256, 42.298581]",Point,InvProp,12,SSA,0,C11,Last,No,DAKOTA ST,Part three,Unarmed,771804.1797,,2934120.6089999997,2014
+80070,142061104.0,Saturday,No,2014-12-27T23:00:00.000,InvProp,"[-71.130905, 42.290326]",Point,InvProp,12,IVPREM,0,E5,First,No,ASHFIELD ST,Part three,Unarmed,756032.96,,2931038.6580000003,2014
+95207,142061006.0,Saturday,No,2014-12-27T18:54:00.000,InvProp,"[-71.09219, 42.309831]",Point,InvProp,12,SHOTS,0,B2,First,No,HUMBOLDT AV,Part three,Unarmed,766474.0251,SEAVER ST,2938194.284,2014
+103070,142060971.0,Saturday,No,2014-12-27T16:53:00.000,InvProp,"[-71.077549, 42.291271]",Point,InvProp,12,BE,0,B3,First,No,NEW ENGLAND AV,Part three,Unarmed,770467.6335,,2931449.8880000003,2014
+260653,142061017.0,Saturday,No,2014-12-27T19:25:00.000,InvProp,"[0, 0]",Point,InvProp,12,SSA,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,,EPPING ST,,2014
+265105,142060996.0,Saturday,No,2014-12-27T18:14:00.000,InvProp,"[0, 0]",Point,InvProp,12,BE,0,C6,First,No,5TH ST,Part three,Other,,,,2014

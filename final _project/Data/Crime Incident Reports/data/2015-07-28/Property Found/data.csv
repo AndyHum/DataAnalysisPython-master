@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62567,,Tuesday,No,2015-07-28T20:32:00.000,Property Found,"[0, 0]",Point,PropFound,7,IVPREM,69,A1,,No,BEACON ST,Part Three,None,, CHARLES ST ,,2015
+134993,,Tuesday,No,2015-07-28T00:00:00.000,Property Found,"[-71.031538, 42.332364]",Point,PropFound,7,FDWEAP,231,C6,,No,E SEVENTH ST,Part Three,None,782834.0,,2950000.0,2015
+199588,,Tuesday,No,2015-07-28T00:00:00.000,Property Found,"[-71.153557, 42.343075]",Point,PropFound,7,PROP,773,D14,,No,CHESTNUT HILL AVE,Part Three,None,749826.0,,2950000.0,2015

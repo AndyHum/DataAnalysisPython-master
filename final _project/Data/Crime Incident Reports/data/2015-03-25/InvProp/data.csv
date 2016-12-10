@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+132446,152024288.0,Wednesday,No,2015-03-25T23:15:00.000,InvProp,"[-71.062543, 42.29522]",Point,InvProp,3,SSA,0,C11,First,No,SILLOWAY ST,Part three,Unarmed,774520.3334,,2932909.547,2015
+170329,152024158.0,Wednesday,No,2015-03-25T17:45:00.000,InvProp,"[-71.051366, 42.36351]",Point,InvProp,3,CD9,0,A1,First,No,COMMERCIAL ST,Part three,Other,777413.2519,,2957811.1769999997,2015
+234794,152024194.0,Wednesday,No,2015-03-25T18:30:00.000,InvProp,"[-71.133629, 42.347441]",Point,InvProp,3,SUSOBJ,0,D14,First,No,BRAINERD RD,Part three,Unarmed,755206.4708,,2951849.0539999995,2015
+266851,152024138.0,Wednesday,No,2015-03-25T16:30:00.000,InvProp,"[0, 0]",Point,InvProp,3,FDWEAP,0,E13,First,No,ST ROSE ST,Part three,Unarmed,,ARBORWAY,,2015
+266865,152023981.0,Wednesday,No,2015-03-25T10:00:00.000,InvProp,"[0, 0]",Point,InvProp,3,CD9,0,D4,Day,No,TRINITY PL,Part three,Unarmed,,HUNTINGTON AV,,2015

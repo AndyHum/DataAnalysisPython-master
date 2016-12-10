@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65073,120509585.0,Thursday,No,2012-08-16T12:45:00.000,Service,"[-71.05964, 42.378351]",Point,Service,8,ARREST,900,A15,Day,No,MONUMENT ST,Part Three,Unarmed,775149.3794,,2963207.992,2012
+67432,120509414.0,Thursday,No,2012-08-16T09:30:00.000,Service,"[-71.078125, 42.316551]",Point,Service,8,ARREST,311,B2,Day,No,BLUE HILL AV,Part Three,Unarmed,770266.2773,,2940661.664,2012
+69040,120510558.0,Thursday,No,2012-08-16T19:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER ,257,C11,First,No,HANCOCK ST,Part Three,Unarmed,774845.858,,2938432.619,2012

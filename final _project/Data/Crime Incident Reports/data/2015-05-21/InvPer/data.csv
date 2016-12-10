@@ -1,0 +1,15 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1505,152041751.0,Thursday,No,2015-05-21T15:18:00.000,InvPer,"[0, 0]",Point,InvPer,5,VAND,0,B2,Day,No,GREENVILLE ST,Part three,Unarmed,,,,2015
+1563,152041796.0,Thursday,No,2015-05-21T17:25:00.000,InvPer,"[0, 0]",Point,InvPer,5,NIDV,0,B2,First,No,ACADEMY TR,Part three,Unarmed,,,,2015
+1618,152041727.0,Thursday,No,2015-05-21T02:35:00.000,InvPer,"[0, 0]",Point,InvPer,5,EDP,0,D14,Last,No,GLENMONT RD,Part three,Unarmed,,,,2015
+1702,152041641.0,Thursday,No,2015-05-21T10:40:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,,,,2015
+1988,152043218.0,Thursday,No,2015-05-21T12:00:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,C11,Day,No,OUTLOOK RD,Part three,Firearm,,,,2015
+2120,152044300.0,Thursday,No,2015-05-21T11:48:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPREM,0,C6,Day,No,FORT POINT CHANNEL,Part three,Unarmed,,NECCO CT,,2015
+9263,152041968.0,Thursday,No,2015-05-21T16:00:00.000,InvPer,"[-71.119095, 42.294431]",Point,InvPer,5,LARCEN,0,E5,First,No,ALDWIN RD,Part three,Unarmed,759221.6898,,2932548.63,2015
+12028,152041721.0,Thursday,No,2015-05-21T14:30:00.000,InvPer,"[-71.15421, 42.349111]",Point,InvPer,5,LARCEN,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,749640.5059,,2952434.5510000004,2015
+73624,152041738.0,Thursday,No,2015-05-21T15:25:00.000,InvPer,"[-71.122495, 42.266196]",Point,InvPer,5,DISTRB,0,E18,Day,No,PROVIDENCE ST,Part three,Unarmed,758347.3513,,2922255.2939999998,2015
+79899,152041801.0,Thursday,No,2015-05-21T17:57:00.000,InvPer,"[-71.081035, 42.349986]",Point,InvPer,5,IVPER,0,D4,First,No,NEWBURY ST,Part three,Unarmed,769419.4017,,2952842.095,2015
+84082,152041696.0,Thursday,No,2015-05-21T13:50:00.000,InvPer,"[-71.148575, 42.287141]",Point,InvPer,5,IVMV,0,E5,Day,No,CENTRE ST,Part three,Unarmed,751256.7891,W ROXBURY PY,2929857.7989999996,2015
+115595,152041673.0,Thursday,No,2015-05-21T13:00:00.000,InvPer,"[-71.150915, 42.348981]",Point,InvPer,5,IVPER,0,D14,Day,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2015
+129386,152041884.0,Thursday,No,2015-05-21T23:05:00.000,InvPer,"[-71.04984, 42.284951]",Point,InvPer,5,IVPER,0,C11,First,No,MINOT ST,Part three,Unarmed,777976.8869,,2929185.267,2015
+171735,152043949.0,Thursday,No,2015-05-21T22:00:00.000,InvPer,"[-71.12167, 42.257471]",Point,InvPer,5,IVPER,0,E18,First,No,EVERETT ST,Part three,Other,758584.7613,,2919076.7789999996,2015

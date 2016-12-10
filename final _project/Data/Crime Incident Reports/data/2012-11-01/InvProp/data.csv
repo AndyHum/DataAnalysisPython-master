@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+144259,120688170.0,Thursday,No,2012-11-01T03:09:00.000,InvProp,"[-71.075135, 42.293446]",Point,InvProp,11,INVEST,451,B3,Last,No,WHITFIELD ST,Part Three,Firearm,771116.8803,,2932245.858,2012
+226588,120689815.0,Thursday,No,2012-11-01T18:45:00.000,InvProp,"[-71.039428, 42.367778]",Point,InvProp,11,ALARMI,35,A7,First,No,S BREMEN ST,Part Three,Unarmed,780631.3068,,2959383.722,2012
+243218,120688500.0,Thursday,No,2012-11-01T09:06:00.000,InvProp,"[-71.05658, 42.331716]",Point,InvProp,11,BEIP  ,194,C6,Day,No,WOODWARD ST,Part Three,Unarmed,776064.5141,,2946217.5960000004,2012

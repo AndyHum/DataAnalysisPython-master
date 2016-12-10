@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3975,142014414.0,Wednesday,No,2014-07-30T12:10:00.000,Service,"[-71.0722, 42.349491]",Point,Service,7,LOCKOU,0,D4,Day,No,STUART ST,Part three,Unarmed,771808.5228,BERKELEY ST,2952673.559,2014
+33424,142014481.0,Wednesday,No,2014-07-30T15:40:00.000,Service,"[-71.093675, 42.268966]",Point,Service,7,LARCEN,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766143.2941,,2923300.56,2014
+76589,142014308.0,Wednesday,No,2014-07-30T02:48:00.000,Service,"[-71.07212, 42.295471]",Point,Service,7,TS,0,C11,Last,No,WASHINGTON ST,Part three,Other,771928.8999,PARK ST,2932987.875,2014
+169825,142014338.0,Wednesday,No,2014-07-30T08:30:00.000,Service,"[-71.07502, 42.333481]",Point,Service,7,ARREST,0,D4,Day,No,NORTHAMPTON ST,Part three,Unarmed,771075.3036,FELLOWS ST,2946835.412,2014
+179021,142014601.0,Wednesday,No,2014-07-30T20:12:00.000,Service,"[-71.088865, 42.279666]",Point,Service,7,ARREST,0,B3,First,No,NORFOLK ST,Part three,Unarmed,767426.3706,,2927206.023,2014
+243195,142014431.0,Wednesday,No,2014-07-30T14:00:00.000,Service,"[-71.058775, 42.288821]",Point,Service,7,PROP,0,C11,Day,No,FLORIDA ST,Part three,Unarmed,775551.8668,,2930582.915,2014

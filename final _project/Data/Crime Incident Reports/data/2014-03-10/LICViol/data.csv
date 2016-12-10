@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39438,140148158.0,Monday,No,2014-03-10T22:40:00.000,LICViol,"[-71.053985, 42.363116]",Point,LICViol,3,CD35  ,89,A1,First,No,NORTH ST,Part three,Unarmed,776706.3428,,2957663.9889999996,2014
+138161,140143719.0,Monday,No,2014-03-10T21:55:00.000,LICViol,"[-71.12348, 42.258416]",Point,LICViol,3,IVPER ,520,E18,First,No,HYDE PARK AV,Part three,Unarmed,758093.2583,,2919418.98,2014
+156296,140148191.0,Monday,No,2014-03-10T23:10:00.000,LICViol,"[-71.054691, 42.36476]",Point,LICViol,3,CD35  ,0,A1,First,No,PRINCE ST,Part three,Unarmed,776512.2642,,2958261.829,2014
+242617,140146749.0,Monday,No,2014-03-10T11:40:00.000,LICViol,"[-71.02778, 42.379076]",Point,LICViol,3,CD35  ,17,A7,Day,No,BENNINGTON ST,Part three,Unarmed,783756.2067,,2963518.247,2014

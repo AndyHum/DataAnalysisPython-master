@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15722,142059979.0,Tuesday,No,2014-12-23T08:57:00.000,PropLost,"[-71.080145, 42.271406]",Point,PropLost,12,PROP,0,B3,Day,No,RIVER ST,Part three,Other,769800.9367,,2924207.4639999997,2014
+37497,152003030.0,Tuesday,No,2014-12-23T18:00:00.000,PropLost,"[-71.08575, 42.346836]",Point,PropLost,12,PROP,0,D4,First,No,SCOTIA ST,Part three,Unarmed,768150.4528,,2951687.9480000003,2014
+77587,142060084.0,Tuesday,No,2014-12-23T09:00:00.000,PropLost,"[-71.1002, 42.268416]",Point,PropLost,12,PROP,0,E18,Day,No,FAIRLAWN AV,Part three,Unarmed,764378.1779,,2923091.789,2014
+97844,142062059.0,Tuesday,No,2014-12-23T12:00:00.000,PropLost,"[-71.059987, 42.361648]",Point,PropLost,12,PROP,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+100772,142060708.0,Tuesday,No,2014-12-23T21:50:00.000,PropLost,"[-71.062116, 42.353942]",Point,PropLost,12,LARCEN,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774526.0513,,2954309.262,2014
+116514,142060351.0,Tuesday,No,2014-12-23T16:00:00.000,PropLost,"[-71.071365, 42.284885]",Point,PropLost,12,LARCEN,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772152.4973,,2929130.9869999997,2014
+171463,142062023.0,Tuesday,No,2014-12-23T14:00:00.000,PropLost,"[-71.092878, 42.285127]",Point,PropLost,12,PROP,0,B3,Day,No,MORTON ST,Part three,Unarmed,766330.671,,2929190.579,2014
+190463,142060257.0,Tuesday,No,2014-12-23T16:00:00.000,PropLost,"[-71.057, 42.353061]",Point,PropLost,12,PROP,0,A1,First,No,SOUTH STREET,Part three,Unarmed,775910.5505,SOUTH STATION,2953995.508,2014
+254023,142060196.0,Tuesday,No,2014-12-23T17:00:00.000,PropLost,"[-71.07884, 42.335041]",Point,PropLost,12,PROP,0,D4,First,No,LENOX ST,Part three,Unarmed,770039.6316,WASHINGTON ST,2947398.78,2014
+263256,142060135.0,Tuesday,No,2014-12-23T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,PROP,0,A7,Day,No,BOYLSTON ST,Part three,Unarmed,,,,2014

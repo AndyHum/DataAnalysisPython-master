@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+184995,130105862.0,Saturday,No,2013-02-16T15:10:00.000,SexReg,"[-71.06063, 42.303276]",Point,SexReg,2,SEXOFF,346,C11,Day,No,ADAMS ST,Part Two,Unarmed,775022.818,,2935847.935,2013
+231750,130098779.0,Saturday,No,2013-02-16T16:47:00.000,SexReg,"[-71.083781, 42.329494]",Point,SexReg,2,ARREST,0,B2,First,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2013
+249344,130098725.0,Saturday,No,2013-02-16T16:00:00.000,SexReg,"[-71.085618, 42.32866]",Point,SexReg,2,IVPER ,282,B2,First,No,WASHINGTON ST,Part Two,Unarmed,768218.0809,,2945064.255,2013

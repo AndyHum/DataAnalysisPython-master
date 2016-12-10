@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92387,152041714.0,Thursday,No,2015-05-21T09:30:00.000,DISORDERLY,"[-71.142725, 42.344456]",Point,24xx,5,IVPER,0,D14,Day,No,COMMONWEALTH AV,Part Two,Unarmed,752752.209,WASHINGTON ST,2950750.9710000004,2015
+135678,152041776.0,Thursday,No,2015-05-21T17:35:00.000,DISORDERLY,"[-71.066195, 42.316026]",Point,24xx,5,ARREST,0,B2,First,No,COLUMBIA RD,Part Two,Unarmed,773493.7866,HANCOCK ST,2940486.5289999996,2015
+178145,152041735.0,Thursday,No,2015-05-21T14:48:00.000,DISORDERLY,"[-71.071229, 42.289052]",Point,24xx,5,ARREST,0,C11,Day,No,WASHINGTON ST,Part Two,Unarmed,772181.5435,,2930649.8880000003,2015

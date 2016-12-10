@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18342,120669403.0,Wednesday,No,2012-10-24T03:19:00.000,Arrest,"[-71.047314, 42.294874]",Point,Arrest,10,ARREST,370,C11,Last,No,MORRISSEY BL,Part Three,Unarmed,778641.0768,,2932804.8460000004,2012
+30113,120669669.0,Wednesday,No,2012-10-24T08:48:00.000,Arrest,"[-71.079717, 42.319866]",Point,Arrest,10,ARREST,311,B2,Day,No,CLIFFORD ST,Part Three,Unarmed,769829.6122,,2941867.4469999997,2012
+177865,120670001.0,Wednesday,No,2012-10-24T10:43:00.000,Arrest,"[-71.122335, 42.263034]",Point,Arrest,10,ARREST,495,E18,Day,No,ARLINGTON ST,Part Three,Unarmed,758395.6295,,2921103.163,2012

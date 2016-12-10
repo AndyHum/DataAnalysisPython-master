@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106992,130790364.0,Monday,No,2013-12-16T09:29:00.000,PropFound,"[-71.081195, 42.344021]",Point,PropFound,12,FDPROP,145,D4,Day,No,DURHAM ST,Part three,Unarmed,769386.8266,,2950668.122,2013
+134998,130791606.0,Monday,No,2013-12-16T19:00:00.000,PropFound,"[-71.07329, 42.346746]",Point,PropFound,12,FDPROP,151,D4,First,No,CLARENDON ST,Part three,Unarmed,771518.8837,,2951671.7539999997,2013
+265200,130790917.0,Monday,No,2013-12-16T13:30:00.000,PropFound,"[0, 0]",Point,PropFound,12,FDPROP,152,D4,Day,No,BERKELEY ST,Part three,Unarmed,,,,2013

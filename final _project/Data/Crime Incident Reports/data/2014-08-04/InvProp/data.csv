@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60041,142015966.0,Monday,No,2014-08-04T01:27:00.000,InvProp,"[-71.0723, 42.356471]",Point,InvProp,8,VAND,0,A1,Last,No,CHESTNUT ST,Part three,Other,771768.7359,,2955217.07,2014
+157225,142016120.0,Monday,No,2014-08-04T14:10:00.000,InvProp,"[-71.030475, 42.378056]",Point,InvProp,8,VAND,0,A7,Day,No,BENNINGTON ST,Part three,Unarmed,783030.0953,,2963142.52,2014
+158692,142015955.0,Monday,No,2014-08-04T00:13:00.000,InvProp,"[-71.07428, 42.300894]",Point,InvProp,8,IVPREM,0,C11,Last,No,BOWDOIN AV,Part three,Firearm,771334.5603,,2934961.063,2014
+183268,142016028.0,Monday,No,2014-08-04T09:20:00.000,InvProp,"[-71.075557, 42.343321]",Point,InvProp,8,IVPREM,0,D4,Day,No,W CANTON ST,Part three,Unarmed,770912.2754,,2950420.2630000003,2014
+200082,142016000.0,Monday,No,2014-08-04T07:20:00.000,InvProp,"[-71.078815, 42.350571]",Point,InvProp,8,ALARM,0,D4,Last,No,NEWBURY ST,Part three,Unarmed,770018.4438,,2953058.235,2014

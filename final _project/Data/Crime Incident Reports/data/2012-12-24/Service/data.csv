@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24828,120803875.0,Monday,No,2012-12-24T11:09:00.000,Service,"[-71.054486, 42.32689]",Point,Service,12,CD11  ,190,C6,Day,No,STERLING SQ,Part Three,Unarmed,776639.7695,,2944461.602,2012
+214091,120804021.0,Monday,No,2012-12-24T12:09:00.000,Service,"[-71.140975, 42.359661]",Point,Service,12,NIDV  ,808,D14,Day,No,LITCHFIELD ST,Part Three,Unarmed,753201.9771,,2956293.97,2012
+217155,120803280.0,Monday,No,2012-12-24T00:05:00.000,Service,"[-71.088028, 42.334461]",Point,Service,12,ARREST,909,B2,Last,No,RUGGLES ST,Part Three,Unarmed,767556.2352,,2947175.229,2012

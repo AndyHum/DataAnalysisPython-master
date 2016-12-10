@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38629,130760332.0,Monday,No,2013-12-02T14:12:00.000,Service,"[-71.073978, 42.333151]",Point,Service,12,PSHOT ,169,D4,Day,No,ALBANY ST,Part three,Firearm,771357.6081,,2946716.26,2013
+82474,130760588.0,Monday,No,2013-12-02T16:00:00.000,Service,"[-71.054711, 42.341305]",Point,Service,12,ARREST,0,C6,First,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2013
+93908,130760907.0,Monday,No,2013-12-02T18:17:00.000,Service,"[-71.11747, 42.288538]",Point,Service,12,CD11  ,507,E18,First,No,WYVERN ST,Part three,Unarmed,759670.8946,,2930402.816,2013
+165147,130760256.0,Monday,No,2013-12-02T13:30:00.000,Service,"[0, 0]",Point,Service,12,IVPER ,282,B2,Day,No,MASS PIKE,Part three,Unarmed,,,,2013
+181743,130760732.0,Monday,No,2013-12-02T16:58:00.000,Service,"[-71.09567, 42.317406]",Point,Service,12,ARREST,306,B2,First,No,COBDEN ST,Part three,Unarmed,765519.6526,,2940950.2589999996,2013
+222371,130760905.0,Monday,No,2013-12-02T17:30:00.000,Service,"[-71.119175, 42.278916]",Point,Service,12,CD11  ,501,E18,First,No,HYDE PARK AV,Part three,Unarmed,759225.2889,,2926894.6339999996,2013

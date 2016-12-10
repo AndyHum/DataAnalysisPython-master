@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65071,130242179.0,Wednesday,No,2013-04-24T06:00:00.000,PersLoc,"[-71.06677, 42.319181]",Point,PersLoc,4,MISPER,184,B2,Last,No,HUMPHREYS ST,Part Three,Unarmed,773332.4339,,2941635.472,2013
+70830,130242123.0,Wednesday,No,2013-04-24T22:36:00.000,PersLoc,"[-71.077185, 42.296021]",Point,PersLoc,4,MISPER,446,B3,First,No,ATHELWOLD ST,Part Three,Unarmed,770557.5917,,2933181.47,2013
+218747,130240548.0,Wednesday,No,2013-04-24T12:46:00.000,PersLoc,"[-71.1468, 42.283602]",Point,PersLoc,4,IVPER ,691,E5,Day,No,W ROXBURY PY,Part Three,Unarmed,751742.3577,,2928569.84,2013

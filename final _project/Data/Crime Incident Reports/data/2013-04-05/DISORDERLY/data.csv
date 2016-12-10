@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41633,130199698.0,Friday,No,2013-04-05T10:55:00.000,DISORDERLY,"[-71.03511, 42.380531]",Point,24xx,4,TRANSP,25,A7,Day,No,WHITE ST,Part Two,Unarmed,781772.8403,,2964037.6010000003,2013
+134300,130199096.0,Friday,No,2013-04-05T01:22:00.000,DISORDERLY,"[-71.0292, 42.378121]",Point,24xx,4,ARREST,17,A7,Last,No,PRESCOTT ST,Part Two,Unarmed,783374.4608,CHELSEA ST,2963168.104,2013
+238083,130199265.0,Friday,No,2013-04-05T00:40:00.000,DISORDERLY,"[-71.040034, 42.317592]",Point,24xx,4,IVPER ,256,C6,Last,No,SOUTH POINT DR,Part Two,Unarmed,780565.8978,WESTWIND RD,2941094.309,2013

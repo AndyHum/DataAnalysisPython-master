@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1106,152004746.0,Saturday,No,2015-01-17T08:00:00.000,PersLoc,"[0, 0]",Point,PersLoc,1,IVPER,0,E13,Day,No,ROBINWOOD AV,Other,Unarmed,,,,2015
+15120,152004988.0,Saturday,No,2015-01-17T00:00:00.000,PersLoc,"[-71.082606, 42.30757]",Point,PersLoc,1,IVPER,0,B2,Last,No,WASHINGTON ST,Other,Unarmed,769070.3581,,2937382.568,2015
+105817,152004849.0,Saturday,No,2015-01-17T18:00:00.000,PersLoc,"[-71.081224, 42.293554]",Point,PersLoc,1,MISSIN,0,B3,First,No,KERWIN ST,Other,Unarmed,769469.0328,,2932277.0439999998,2015

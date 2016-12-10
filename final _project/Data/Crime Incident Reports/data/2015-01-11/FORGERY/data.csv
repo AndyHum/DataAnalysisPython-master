@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19621,152003299.0,Sunday,No,2015-01-11T11:30:00.000,FORGERY,"[-71.08261, 42.337161]",Point,10xx,1,LARCEN,0,D4,Day,No,DITMUS CT,Part Two,Unarmed,769016.5305,,2948166.337,2015
+135128,152011805.0,Sunday,No,2015-01-11T12:00:00.000,FORGERY,"[-71.15163, 42.349006]",Point,10xx,1,LARCEN,0,D14,Day,No,WASHINGTON ST,Part Two,Unarmed,750338.0816,,2952399.125,2015
+151308,152003652.0,Sunday,No,2015-01-11T16:00:00.000,FORGERY,"[-71.106975, 42.287486]",Point,10xx,1,LARCEN,0,E18,First,No,AMERICAN LEGION HY,Part Two,Unarmed,762512.4267,,2930032.643,2015

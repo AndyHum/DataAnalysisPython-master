@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+101869,130502985.0,Sunday,No,2013-08-11T09:10:00.000,Service,"[-71.079641, 42.319008]",Point,Service,8,ARREST,311,B2,Day,No,WOODBINE ST,Part three,Unarmed,769851.8126,,2941554.837,2013
+148977,130510929.0,Sunday,No,2013-08-11T23:30:00.000,Service,"[-71.089205, 42.316173]",Point,Service,8,LARCRT,312,B2,First,No,HOLWORTHY ST,Part three,Other,767270.2679,,2940509.336,2013
+162112,130503888.0,Sunday,No,2013-08-11T17:43:00.000,Service,"[-71.07719, 42.291741]",Point,Service,8,SSTOP ,0,B3,First,No,NORWELL ST,Part three,Unarmed,770563.9706,TALBOT AV,2931621.769,2013
+188539,130502942.0,Sunday,No,2013-08-11T08:30:00.000,Service,"[-71.072415, 42.302361]",Point,Service,8,VICDOG,462,C11,Day,No,BULLARD ST,Part three,Unarmed,771836.5022,,2935498.295,2013
+195677,130503853.0,Sunday,No,2013-08-11T17:25:00.000,Service,"[-71.06139, 42.352461]",Point,Service,8,ARREST,117,A1,First,No,ESSEX ST,Part three,Unarmed,774725.0603,HARRISON AV,2953770.724,2013

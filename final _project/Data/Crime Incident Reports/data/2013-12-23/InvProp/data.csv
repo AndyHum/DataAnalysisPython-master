@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49876,130805584.0,Monday,No,2013-12-23T07:53:00.000,InvProp,"[-71.087325, 42.296546]",Point,InvProp,12,IVPER ,444,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767813.3547,,2933359.352,2013
+56771,130805499.0,Monday,No,2013-12-23T03:30:00.000,InvProp,"[-71.063905, 42.301866]",Point,InvProp,12,SHOTS ,352,C11,Last,No,WESTVILLE ST,Part three,Unarmed,774139.5173,,2935329.564,2013
+118965,130806754.0,Monday,No,2013-12-23T17:09:00.000,InvProp,"[-71.115355, 42.307001]",Point,InvProp,12,BERPT ,648,E13,First,No,SOUTH ST,Part three,Unarmed,760212.8929,,2937133.8789999997,2013
+124440,130807210.0,Monday,No,2013-12-23T21:05:00.000,InvProp,"[-71.150743, 42.337862]",Point,InvProp,12,IVPREM,789,D14,First,No,CHISWICK RD,Part three,Unarmed,750594.4735,,2948338.913,2013
+141605,130806707.0,Monday,No,2013-12-23T16:47:00.000,InvProp,"[-71.063096, 42.31159]",Point,InvProp,12,ALARMC,334,C11,First,No,HANCOCK ST,Part three,Unarmed,774340.0595,,2938874.267,2013

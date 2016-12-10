@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+180296,130397479.0,Saturday,No,2013-06-29T04:30:00.000,DISORDERLY,"[-71.07961, 42.309881]",Point,24xx,6,SSTOP ,329,B2,Last,No,NORMANDY ST,Part Two,Unarmed,769876.6309,DEVON ST,2938229.025,2013
+211099,130397465.0,Saturday,No,2013-06-29T02:31:00.000,DISORDERLY,"[-71.091095, 42.320611]",Point,24xx,6,PARTY ,305,B2,Last,No,KENSINGTON ST,Part Two,Other,766751.3719,,2942124.113,2013
+255721,130397199.0,Saturday,No,2013-06-29T01:26:00.000,DISORDERLY,"[-71.07825, 42.335516]",Point,24xx,6,IVPER ,273,D4,Last,No,WASHINGTON ST,Part Two,Unarmed,770198.2968,,2947572.668,2013

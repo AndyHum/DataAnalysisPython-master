@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40597,152014778.0,Monday,No,2015-02-23T21:21:00.000,PersLoc,"[-71.083595, 42.270756]",Point,PersLoc,2,IVPER,0,B3,First,No,LEDGEBROOK RD,Other,Unarmed,768868.3552,,2923966.018,2015
+46077,152014566.0,Monday,No,2015-02-23T12:00:00.000,PersLoc,"[-71.12326, 42.242486]",Point,PersLoc,2,IVPER,0,E18,Day,No,NEEDHAM RD,Other,Unarmed,758178.4586,,2913614.1539999996,2015
+62819,152014463.0,Monday,No,2015-02-23T02:15:00.000,PersLoc,"[-71.073855, 42.279191]",Point,PersLoc,2,IVPER,0,B3,Last,No,CODMAN HILL AV,Other,Other,771489.1417,,2927052.865,2015
+80459,152014757.0,Monday,No,2015-02-23T20:00:00.000,PersLoc,"[-71.070658, 42.318428]",Point,PersLoc,2,IVPER,0,B2,First,No,WOODFORD ST,Other,Unarmed,772282.104,,2941355.586,2015
+84156,152014776.0,Monday,No,2015-02-23T08:00:00.000,PersLoc,"[-71.094678, 42.319428]",Point,PersLoc,2,IVPER,0,B2,Day,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2015
+114103,152014885.0,Monday,No,2015-02-23T18:30:00.000,PersLoc,"[-71.101383, 42.324122]",Point,PersLoc,2,MISSIN,0,E13,First,No,PARKER ST,Other,Unarmed,763963.0763,,2943390.236,2015

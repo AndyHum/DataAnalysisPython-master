@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107907,130373356.0,Wednesday,No,2013-06-19T16:00:00.000,Service,"[-71.15242, 42.351791]",Point,Service,6,IVPREM,133,D14,First,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2013
+123199,130407103.0,Wednesday,No,2013-06-19T00:16:00.000,Service,"[-71.12088, 42.351821]",Point,Service,6,INVEST,797,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,758645.7992,,2953460.415,2013
+166749,130374958.0,Wednesday,No,2013-06-19T21:42:00.000,Service,"[-71.08363, 42.339061]",Point,Service,6,ABRPT ,284,D4,First,No,COLUMBUS AV,Part three,Unarmed,768737.3752,,2948857.383,2013
+197242,130373181.0,Wednesday,No,2013-06-19T10:11:00.000,Service,"[-71.13209, 42.352991]",Point,Service,6,ARREST,794,D14,Day,No,BRIGHTON AV,Part three,Unarmed,755613.8322,HARVARD AV,2953873.517,2013
+218892,130373317.0,Wednesday,No,2013-06-19T10:55:00.000,Service,"[-71.119022, 42.25556]",Point,Service,6,ARREST,0,E18,Day,No,PIERCE ST,Part three,Unarmed,759304.6913,,2918383.2810000004,2013

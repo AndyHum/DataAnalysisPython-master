@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16935,152000379.0,Friday,No,2015-01-02T09:15:00.000,Service,"[-71.06942, 42.362401]",Point,Service,1,ARREST,0,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2015
+31403,152000355.0,Friday,No,2015-01-02T08:15:00.000,Service,"[-71.09437, 42.331411]",Point,Service,1,TS,0,B2,Day,No,TREMONT ST,Part three,Unarmed,765846.9693,MALCOLM X BL,2946055.5919999997,2015
+70877,152000541.0,Friday,No,2015-01-02T17:30:00.000,Service,"[-71.033105, 42.374331]",Point,Service,1,SS,0,A7,First,No,MARION ST,Part three,Unarmed,782326.9222,,2961781.153,2015
+71800,152000395.0,Friday,No,2015-01-02T11:00:00.000,Service,"[-71.09192, 42.270941]",Point,Service,1,ARREST,0,B3,Day,No,FREMONT ST,Part three,Unarmed,766614.8591,,2924022.545,2015
+77360,152000335.0,Friday,No,2015-01-02T03:30:00.000,Service,"[-71.059741, 42.352052]",Point,Service,1,SS,0,A1,Last,No,EDINBORO ST,Part three,Unarmed,775171.4473,,2953623.878,2015
+80610,152000527.0,Friday,No,2015-01-02T17:17:00.000,Service,"[-71.0605, 42.355441]",Point,Service,1,IVPER,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774960.0343,SUMMER ST,2954857.9310000003,2015
+102688,152000353.0,Friday,No,2015-01-02T08:00:00.000,Service,"[-71.071214, 42.278284]",Point,Service,1,CD11,0,B3,Day,No,GALLIVAN BL,Part three,Unarmed,772205.3829999999,,2926725.936,2015

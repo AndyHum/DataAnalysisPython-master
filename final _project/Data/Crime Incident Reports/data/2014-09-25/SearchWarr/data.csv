@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9565,142032841.0,Thursday,No,2014-09-25T10:40:00.000,SearchWarr,"[-71.081095, 42.288786]",Point,SearchWarr,9,CD11,0,B3,Day,No,CALLENDER ST,Part three,Unarmed,769512.7152,,2930539.711,2014
+116599,142032991.0,Thursday,No,2014-09-25T15:15:00.000,SearchWarr,"[-71.08582, 42.333171]",Point,SearchWarr,9,ADMRPT,0,B2,Day,No,KERR WY,Part three,Other,768155.7105,RUGGLES ST,2946708.077,2014
+147948,142033007.0,Thursday,No,2014-09-25T17:36:00.000,SearchWarr,"[-71.040285, 42.380941]",Point,SearchWarr,9,CD11,0,A7,First,No,BORDER ST,Part three,Unarmed,780373.844,,2964179.434,2014
+257246,142034514.0,Thursday,No,2014-09-25T15:10:00.000,SearchWarr,"[-71.076105, 42.320506]",Point,SearchWarr,9,CD11,0,B2,Day,No,W COTTAGE ST,Part three,Unarmed,770805.4354,,2942105.64,2014

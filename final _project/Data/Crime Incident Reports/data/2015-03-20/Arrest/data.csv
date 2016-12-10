@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4601,152022562.0,Friday,No,2015-03-20T18:03:00.000,Arrest,"[-71.10526, 42.323331]",Point,Arrest,3,CD11,0,E13,First,No,GAY HEAD ST,Part three,Unarmed,762916.0207,,2943097.2819999997,2015
+91462,152022582.0,Friday,No,2015-03-20T18:30:00.000,Arrest,"[-71.03887, 42.371246]",Point,Arrest,3,ARREST,0,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2015
+188102,152022367.0,Friday,No,2015-03-20T08:00:00.000,Arrest,"[-71.065007, 42.313187]",Point,Arrest,3,CD11,0,C11,Day,No,HANCOCK ST,Part three,Unarmed,773820.2587,,2939453.4489999996,2015

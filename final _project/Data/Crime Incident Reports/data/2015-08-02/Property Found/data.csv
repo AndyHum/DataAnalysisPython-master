@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20695,,Sunday,No,2015-08-02T00:00:00.000,Property Found,"[-71.137963, 42.293948]",Point,PropFound,8,FDWEAP,677,E5,,No,WELD ST,Part Three,None,754118.0,,2930000.0,2015
+79085,,Sunday,No,2015-08-02T00:00:00.000,Property Found,"[-71.054471, 42.363794]",Point,PropFound,8,ADMRPT,88,A1,,No,HANOVER ST,Part Three,None,776574.0,,2960000.0,2015
+164299,,Sunday,No,2015-08-02T17:08:00.000,Property Found,"[0, 0]",Point,PropFound,8,PROP,646,E13,,No,CAROLINA AVE,Part Three,None,,SOUTH ST,,2015
+171073,,Sunday,No,2015-08-02T00:00:00.000,Property Found,"[-71.052378, 42.330425]",Point,PropFound,8,PROP,915,C6,,No,PATTERSON WAY,Part Three,None,777203.0,,2950000.0,2015

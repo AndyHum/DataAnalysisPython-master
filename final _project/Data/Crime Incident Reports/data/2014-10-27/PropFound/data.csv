@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17923,142043156.0,Monday,No,2014-10-27T13:36:00.000,PropFound,"[-71.06544, 42.357081]",Point,PropFound,10,SUSOBJ,0,A1,Day,No,BEACON ST,Part three,Unarmed,773621.7591,,2955448.738,2014
+63061,142043118.0,Monday,No,2014-10-27T08:30:00.000,PropFound,"[-71.104125, 42.334364]",Point,PropFound,10,PROP,0,B2,Day,No,HUNTINGTON AV,Part three,Unarmed,763204.1277,,2947119.097,2014
+98189,142043074.0,Monday,No,2014-10-27T09:00:00.000,PropFound,"[-71.089665, 42.343916]",Point,PropFound,10,IVPREM,0,D4,Day,No,WESTLAND AV,Part three,Unarmed,767097.2433,,2950618.728,2014
+146317,142043362.0,Monday,No,2014-10-27T18:00:00.000,PropFound,"[-71.167666, 42.351987]",Point,PropFound,10,PROP,0,D14,First,No,BIGELOW ST,Part three,Unarmed,745999.0201,,2953468.0960000004,2014
+232103,142043368.0,Monday,No,2014-10-27T21:52:00.000,PropFound,"[-71.101332, 42.326991]",Point,PropFound,10,IVPREM,0,B2,First,No,WENSLEY ST,Part three,Unarmed,763971.8476,,2944435.8210000005,2014
+246313,142043376.0,Monday,No,2014-10-27T22:25:00.000,PropFound,"[-71.10705, 42.330841]",Point,PropFound,10,PROP,0,B2,First,No,IROQUOIS ST,Part three,Unarmed,762419.3476,SACHEM ST,2945831.8239999996,2014
+253202,142043063.0,Monday,No,2014-10-27T07:10:00.000,PropFound,"[-71.06119, 42.316231]",Point,PropFound,10,IVPREM,0,C11,Last,No,BAKERSFIELD ST,Part three,Unarmed,774847.0434,,2940568.1580000003,2014
+262427,142043901.0,Monday,No,2014-10-27T18:00:00.000,PropFound,"[0, 0]",Point,PropFound,10,PROP,0,C11,First,No,E COTTAGE ST,Part three,Unarmed,,COLUMBIA RD,,2014

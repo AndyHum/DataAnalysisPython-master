@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70256,,Tuesday,No,2015-07-07T00:00:00.000,Missing Person Located,"[-71.092463, 42.277964]",Point,PersFound,7,I00027,427,B3,,No,WILMORE ST,Part Three,None,766456.0,,2930000.0,2015
+111821,,Tuesday,No,2015-07-07T00:00:00.000,Missing Person Located,"[-71.0676, 42.304067]",Point,PersFound,7,I00027,341,C11,,No,SPEEDWELL ST,Part Three,None,773136.0,,2940000.0,2015
+217142,,Tuesday,No,2015-07-07T22:04:00.000,Missing Person Located,"[0, 0]",Point,PersFound,7,IVPER,258,B2,,No,MONADNOCK ST,Part Three,None,,,,2015

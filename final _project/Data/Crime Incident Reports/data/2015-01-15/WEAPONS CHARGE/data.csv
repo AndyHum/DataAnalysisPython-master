@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18436,152003771.0,Thursday,No,2015-01-15T05:30:00.000,WEAPONS CHARGE,"[-71.107805, 42.33605]",Point,15xx,1,FDWEAP,0,B2,Last,No,FRANCIS ST,Part Two,Firearm,762206.2941,,2947728.97,2015
+102941,152003766.0,Thursday,No,2015-01-15T04:45:00.000,WEAPONS CHARGE,"[-71.070047, 42.304064]",Point,15xx,1,CD11,0,C11,Last,No,BOWDOIN ST,Part Two,Firearm,772473.7368,,2936121.925,2015

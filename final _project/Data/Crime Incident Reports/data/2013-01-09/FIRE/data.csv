@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29991,130018510.0,Wednesday,No,2013-01-09T18:36:00.000,FIRE,"[-71.05625, 42.303651]",Point,FIRE,1,FV    ,350,C11,First,No,CLAYTON ST,Part Three,Unarmed,776206.9504,FENTON ST,2935990.725,2013
+47264,130018679.0,Wednesday,No,2013-01-09T19:54:00.000,FIRE,"[-71.105714, 42.271503]",Point,FIRE,1,FV    ,479,E18,First,No,CUMMINS HY,Part Three,Unarmed,762880.5122,,2924209.798,2013
+111469,130018427.0,Wednesday,No,2013-01-09T17:48:00.000,FIRE,"[-71.072995, 42.304498]",Point,FIRE,1,FIREB ,337,C11,First,No,GENEVA AV,Part Three,Other,771675.6285,,2936276.22,2013
+209058,130017367.0,Wednesday,No,2013-01-09T09:13:00.000,FIRE,"[-71.073805, 42.345371]",Point,FIRE,1,FIREB ,150,D4,Day,No,APPLETON ST,Part Three,Unarmed,771382.1675,,2951169.9839999997,2013

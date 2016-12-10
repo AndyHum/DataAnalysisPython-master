@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91065,140346183.0,Monday,No,2014-06-02T16:30:00.000,PubDrink,"[-71.08046, 42.335661]",Point,PubDrink,6,CD19  ,0,D4,First,No,SHAWMUT AV,Part Two,Unarmed,769600.5096,,2947622.561,2014
+108187,140346209.0,Monday,No,2014-06-02T16:55:00.000,PubDrink,"[-71.05987, 42.351191]",Point,PubDrink,6,GANG  ,116,A1,First,No,HUDSON ST,Part Two,Other,775138.3074,BEACH ST,2953310.028,2014
+133028,140346323.0,Monday,No,2014-06-02T17:17:00.000,PubDrink,"[-71.06024, 42.351281]",Point,PubDrink,6,ARREST,116,A1,First,No,BEACH ST,Part Two,Unarmed,775038.1239,OXFORD ST,2953342.31,2014

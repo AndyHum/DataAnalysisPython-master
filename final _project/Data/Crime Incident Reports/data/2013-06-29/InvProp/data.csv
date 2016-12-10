@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70920,130398264.0,Saturday,No,2013-06-29T14:10:00.000,InvProp,"[0, 0]",Point,InvProp,6,AOD   ,72,A1,Day,No,CAMBRIDGE ST,Part three,Unarmed,,,,2013
+89230,130397955.0,Saturday,No,2013-06-29T11:44:00.000,InvProp,"[-71.117605, 42.277556]",Point,InvProp,6,EXPLOS,499,E18,Day,No,NAVARRE ST,Part three,Unarmed,759652.2621,,2926400.896,2013
+95343,130397613.0,Saturday,No,2013-06-29T08:04:00.000,InvProp,"[-71.12222, 42.281676]",Point,InvProp,6,ALARMC,561,E5,Day,No,CUMMINS HY,Part three,Unarmed,758396.8047,,2927896.7539999997,2013
+132581,130397493.0,Saturday,No,2013-06-29T05:09:00.000,InvProp,"[-71.049444, 42.288906]",Point,InvProp,6,IVMV  ,378,C11,Last,No,COFFEY ST,Part three,Other,778076.2623,,2930627.1010000003,2013
+140558,130398026.0,Saturday,No,2013-06-29T12:19:00.000,InvProp,"[-71.11977, 42.275891]",Point,InvProp,6,ALARMR,498,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759069.1849,,2925791.562,2013
+151601,130398062.0,Saturday,No,2013-06-29T12:00:00.000,InvProp,"[-71.04162, 42.369616]",Point,InvProp,6,BERPT ,902,A7,Day,No,SUMNER ST,Part three,Unarmed,780035.3332,,2960050.433,2013
+213396,130397434.0,Saturday,No,2013-06-29T03:40:00.000,InvProp,"[-71.065955, 42.291082]",Point,InvProp,6,SHOTS ,397,C11,Last,No,MELBOURNE ST,Part three,Unarmed,773604.8812,,2931396.827,2013
+215411,130397770.0,Saturday,No,2013-06-29T09:45:00.000,InvProp,"[-71.079334, 42.308682]",Point,InvProp,6,IVPREM,329,B2,Day,No,STANWOOD ST,Part three,Unarmed,769953.2615,,2937792.376,2013

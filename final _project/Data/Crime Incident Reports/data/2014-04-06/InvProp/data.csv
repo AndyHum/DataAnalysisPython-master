@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103766,140207917.0,Sunday,No,2014-04-06T10:00:00.000,InvProp,"[-71.08524, 42.347911]",Point,InvProp,4,IVPREM,142,D4,Day,No,BOYLSTON ST,Part three,Unarmed,768286.4146,HEREFORD ST,2952080.367,2014
+123313,140211545.0,Sunday,No,2014-04-06T23:30:00.000,InvProp,"[-71.03582, 42.336251]",Point,InvProp,4,INVEST,222,C6,First,No,NEWHILL PL,Part three,Unarmed,781668.8257,,2947900.091,2014
+129460,140208397.0,Sunday,No,2014-04-06T20:45:00.000,InvProp,"[-71.10038, 42.319421]",Point,InvProp,4,SHOTS ,303,E13,First,No,AMORY ST,Part three,Unarmed,764242.3809,BRAGDON ST,2941678.555,2014
+157717,140208085.0,Sunday,No,2014-04-06T18:08:00.000,InvProp,"[-71.089368, 42.31021]",Point,InvProp,4,SHOTS ,318,B2,First,No,HUTCHINGS ST,Part three,Other,767236.6728,,2938335.832,2014
+221081,140208286.0,Sunday,No,2014-04-06T19:47:00.000,InvProp,"[-71.074855, 42.351641]",Point,InvProp,4,FIREB ,133,D4,First,No,NEWBURY ST,Part three,Unarmed,771086.9302,,2953453.473,2014

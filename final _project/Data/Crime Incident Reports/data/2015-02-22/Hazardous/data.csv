@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62231,152014414.0,Sunday,No,2015-02-22T17:30:00.000,Hazardous,"[-71.105529, 42.327046]",Point,Hazardous,2,IVPREM,0,B2,First,No,LAWN ST,Other,Unarmed,762836.9766,,2944450.575,2015
+117878,152014188.0,Sunday,No,2015-02-22T02:06:00.000,Hazardous,"[-71.083145, 42.349411]",Point,Hazardous,2,REQP,0,D4,Last,No,NEWBURY ST,Other,Unarmed,768850.0656,,2952629.758,2015
+167622,152014389.0,Sunday,No,2015-02-22T15:00:00.000,Hazardous,"[-71.06071, 42.350866]",Point,Hazardous,2,IVPREM,0,A1,Day,No,TYLER ST,Other,Unarmed,774911.8589,,2953190.422,2015
+193216,152014198.0,Sunday,No,2015-02-22T01:08:00.000,Hazardous,"[-71.096595, 42.317476]",Point,Hazardous,2,IVPREM,0,E13,Last,No,WASHINGTON ST,Other,Unarmed,765269.3624,,2940974.583,2015
+227228,152014359.0,Sunday,No,2015-02-22T16:18:00.000,Hazardous,"[-71.029416, 42.344704]",Point,Hazardous,2,HAZMAT,0,C6,First,No,DRY DOCK AV,Other,Unarmed,783383.2419,,2950989.983,2015
+238695,152014356.0,Sunday,No,2015-02-22T09:58:00.000,Hazardous,"[-71.050595, 42.334691]",Point,Hazardous,2,IVPREM,0,C6,Day,No,TUDOR ST,Other,Unarmed,777677.0893,F ST,2947310.207,2015
+241197,152014354.0,Sunday,No,2015-02-22T08:48:00.000,Hazardous,"[-71.05198, 42.334331]",Point,Hazardous,2,FO,0,C6,Day,No,LORING ST,Other,Unarmed,777303.3042,,2947177.047,2015

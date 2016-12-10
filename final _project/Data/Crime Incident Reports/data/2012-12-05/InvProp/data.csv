@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23434,120762625.0,Wednesday,No,2012-12-05T16:04:00.000,InvProp,"[-71.073304, 42.292786]",Point,InvProp,12,SHOTS ,450,B3,First,No,DUNLAP ST,Part Three,Unarmed,771613.2261,,2932007.611,2012
+70072,120763326.0,Wednesday,No,2012-12-05T15:30:00.000,InvProp,"[-71.051366, 42.36351]",Point,InvProp,12,IVPREM,89,A1,Day,No,COMMERCIAL ST,Part Three,Other,777413.2519,,2957811.1769999997,2012
+99069,120763387.0,Wednesday,No,2012-12-05T23:00:00.000,InvProp,"[-71.12981, 42.236651]",Point,InvProp,12,BOMB  ,525,E18,First,No,NEPONSET VALLEY PY,Part Three,Unarmed,756414.1193,,2911480.043,2012
+206538,120762771.0,Wednesday,No,2012-12-05T15:35:00.000,InvProp,"[-71.06219, 42.356241]",Point,InvProp,12,IVPER ,111,A1,Day,No,TREMONT ST,Part Three,Unarmed,774501.7472,WINTER ST,2955147.117,2012
+228184,120762632.0,Wednesday,No,2012-12-05T00:00:00.000,InvProp,"[-71.071125, 42.279026]",Point,InvProp,12,IVPER ,437,C11,Last,No,FENDALE AV,Part Three,Unarmed,772228.2179,,2926996.458,2012

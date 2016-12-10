@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46060,142041540.0,Wednesday,No,2014-10-22T10:40:00.000,Service,"[-71.063675, 42.352301]",Point,Service,10,IVPER,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+62378,142041553.0,Wednesday,No,2014-10-22T11:30:00.000,Service,"[-71.083699, 42.330436]",Point,Service,10,ARREST,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768733.8404,,2945714.085,2014
+74155,142041750.0,Wednesday,No,2014-10-22T22:00:00.000,Service,"[-71.02461, 42.380317]",Point,Service,10,ARREST,0,A7,First,No,BENNINGTON ST,Part three,Unarmed,784609.9911,,2963975.287,2014
+201531,142041570.0,Wednesday,No,2014-10-22T09:56:00.000,Service,"[-71.13106, 42.350481]",Point,Service,10,IVPER,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,755896.1988,HARVARD AV,2952960.025,2014
+253110,142041686.0,Wednesday,No,2014-10-22T18:31:00.000,Service,"[-71.114699, 42.305522]",Point,Service,10,TS,0,E13,First,No,SOUTH ST,Part three,Unarmed,760392.6166,,2936595.711,2014

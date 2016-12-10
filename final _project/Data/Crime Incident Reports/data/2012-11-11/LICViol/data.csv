@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64546,120710267.0,Sunday,No,2012-11-11T02:15:00.000,LICViol,"[-71.086905, 42.345686]",Point,LICViol,11,CD35  ,620,D4,Last,No,MASSACHUSETTS AV,Part Three,Unarmed,767840.2549,,2951267.3510000003,2012
+109109,120709999.0,Sunday,No,2012-11-11T00:05:00.000,LICViol,"[-71.069815, 42.346441]",Point,LICViol,11,CD35  ,151,D4,Last,No,APPLETON ST,Part Three,Unarmed,772458.8284,,2951565.3260000004,2012
+204459,120710075.0,Sunday,No,2012-11-11T00:26:00.000,LICViol,"[-71.052946, 42.357137]",Point,LICViol,11,DISTRB,100,A1,Last,No,FRANKLIN ST,Part Three,Unarmed,776998.3439,,2955486.627,2012
+235468,120710345.0,Sunday,No,2012-11-11T02:50:00.000,LICViol,"[-71.069815, 42.346441]",Point,LICViol,11,CD35  ,151,D4,Last,No,APPLETON ST,Part Three,Unarmed,772458.8284,,2951565.3260000004,2012

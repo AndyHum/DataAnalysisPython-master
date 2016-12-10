@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5141,152020918.0,Thursday,No,2014-12-25T12:00:00.000,PropLost,"[-71.153185, 42.355581]",Point,PropLost,12,PROP,0,D14,Day,No,FANEUIL ST,Part three,Unarmed,749907.9949,,2954793.478,2014
+48479,142060497.0,Thursday,No,2014-12-25T09:00:00.000,PropLost,"[-71.11884, 42.280151]",Point,PropLost,12,PROP,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,759313.9347,,2927345.091,2014
+55636,142060981.0,Thursday,No,2014-12-25T23:00:00.000,PropLost,"[-71.105365, 42.307306]",Point,PropLost,12,PROP,0,E13,First,No,ROCKVALE CR,Part three,Unarmed,762914.6457,,2937257.3710000003,2014
+66235,142060932.0,Thursday,No,2014-12-25T21:00:00.000,PropLost,"[-71.13255, 42.354731]",Point,PropLost,12,LARCEN,0,D14,First,No,HARVARD AV,Part three,Unarmed,755486.7626,,2954507.0730000003,2014
+79947,142061823.0,Thursday,No,2014-12-25T23:59:00.000,PropLost,"[-71.163153, 42.269416]",Point,PropLost,12,PROP,0,E5,Last,No,GLENELLEN RD,Part three,Unarmed,747337.5289,,2923382.341,2014
+103920,142060486.0,Thursday,No,2014-12-25T05:00:00.000,PropLost,"[-71.026631, 42.380334]",Point,PropLost,12,LARCEN,0,A7,Last,No,CHELSEA ST,Part three,Unarmed,784064.087,,2963978.1969999997,2014
+265721,142060677.0,Thursday,No,2014-12-25T00:10:00.000,PropLost,"[0, 0]",Point,PropLost,12,PROP,0,B2,Last,No,MALCOLM X BL,Part three,Unarmed,,,,2014

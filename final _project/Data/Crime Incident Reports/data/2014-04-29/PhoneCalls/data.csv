@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11505,140261413.0,Tuesday,No,2014-04-29T12:54:00.000,PhoneCalls,"[-71.119695, 42.291721]",Point,PhoneCalls,4,HARPT ,564,E5,Day,No,ARCHDALE RD,Part three,Other,759063.7629999999,,2931560.3389999997,2014
+185118,140026289.0,Tuesday,No,2014-04-29T23:00:00.000,PhoneCalls,"[-71.127043, 42.300948]",Point,PhoneCalls,4,CD19  ,49,E13,First,No,CENTRE ST,Part three,Unarmed,757060.8483,,2934913.767,2014
+204587,140260839.0,Tuesday,No,2014-04-29T00:00:00.000,PhoneCalls,"[-71.098005, 42.324861]",Point,PhoneCalls,4,HARPT ,580,B2,Last,No,CENTRE ST,Part three,Unarmed,764875.3416,,2943664.003,2014

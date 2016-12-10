@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15567,130680641.0,Friday,No,2013-10-25T15:27:00.000,InvProp,"[-71.058105, 42.324441]",Point,InvProp,10,ALARMM,958,C6,Day,No,BELLFLOWER ST,Part three,Unarmed,775665.9046,,2943564.3260000004,2013
+37294,130680666.0,Friday,No,2013-10-25T15:22:00.000,InvProp,"[-71.08421, 42.311696]",Point,InvProp,10,IVPREM,320,B2,Day,No,HOWLAND ST,Part three,Unarmed,768629.0083,,2938884.2539999997,2013
+49743,130679324.0,Friday,No,2013-10-25T00:33:00.000,InvProp,"[-71.085036, 42.294732]",Point,InvProp,10,SSTOP ,441,B3,Last,No,NIGHTINGALE ST,Part three,Unarmed,768435.6675,,2932701.1580000003,2013
+213407,130679645.0,Friday,No,2013-10-25T07:28:00.000,InvProp,"[-71.100095, 42.270424]",Point,InvProp,10,FIREB ,475,B3,Last,No,CUMMINS HY,Part three,Unarmed,764403.0167,,2923823.66,2013

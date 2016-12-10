@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24456,142052113.0,Monday,No,2014-11-24T12:00:00.000,TRESPASS,"[-71.06115, 42.364581]",Point,TRESPASS,11,ARREST,0,A1,Day,No,FRIEND ST,Part Two,Unarmed,774767.2102,,2958187.8210000005,2014
+58046,142051844.0,Monday,No,2014-11-24T13:53:00.000,TRESPASS,"[-71.063873, 42.325436]",Point,TRESPASS,11,IVPER,0,C6,Day,No,ALLSTATE RD,Part Two,Unarmed,774104.1328,,2943918.604,2014
+234638,142051734.0,Monday,No,2014-11-24T07:00:00.000,TRESPASS,"[-71.098105, 42.336771]",Point,TRESPASS,11,BE,0,B2,Last,No,HUNTINGTON AV,Part Two,Unarmed,764827.8499,EVANS RD,2948004.0930000003,2014

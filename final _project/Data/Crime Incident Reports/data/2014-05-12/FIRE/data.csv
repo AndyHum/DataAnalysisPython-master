@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+131049,140292159.0,Monday,No,2014-05-12T05:49:00.000,FIRE,"[-71.077517, 42.307584]",Point,FIRE,5,FIREB ,329,B2,Last,No,STANWOOD ST,Part three,Other,770446.8849,,2937394.604,2014
+167420,140292650.0,Monday,No,2014-05-12T10:30:00.000,FIRE,"[-71.09212, 42.287476]",Point,FIRE,5,FIREB ,465,B3,Day,No,JOHNSTON RD,Part three,Unarmed,766531.9163,,2930047.873,2014
+217527,140291973.0,Monday,No,2014-05-12T01:01:00.000,FIRE,"[-71.057245, 42.298476]",Point,FIRE,5,FIREB ,355,C11,Last,No,ADAMS ST,Part three,Other,775947.5816,,2934103.479,2014
+239537,140292053.0,Monday,No,2014-05-12T02:10:00.000,FIRE,"[-71.125611, 42.288842]",Point,FIRE,5,FV    ,563,E5,Last,No,WASHINGTON ST,Part three,Other,757467.7101,,2930503.961,2014

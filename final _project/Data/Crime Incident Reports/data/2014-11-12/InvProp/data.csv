@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13174,142048547.0,Wednesday,No,2014-11-12T05:30:00.000,InvProp,"[-71.033715, 42.375791]",Point,InvProp,11,IVMV,0,A7,Last,No,PARIS ST,Part three,Unarmed,782159.1846,,2962312.305,2014
+22307,142055154.0,Wednesday,No,2014-11-12T00:01:00.000,InvProp,"[-71.059375, 42.303396]",Point,InvProp,11,LARCEN,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775361.8485,,2935893.4560000002,2014
+43464,142048424.0,Wednesday,No,2014-11-12T21:10:00.000,InvProp,"[-71.029416, 42.344704]",Point,InvProp,11,ALARM,0,C6,First,No,DRY DOCK AV,Part three,Unarmed,783383.2419,,2950989.983,2014
+46295,142048183.0,Wednesday,No,2014-11-12T08:18:00.000,InvProp,"[-71.08151, 42.304841]",Point,InvProp,11,BE,0,B2,Day,No,COLUMBIA RD,Part three,Unarmed,769371.7214,,2936389.8419999997,2014
+120409,142048416.0,Wednesday,No,2014-11-12T17:00:00.000,InvProp,"[-71.066965, 42.318766]",Point,InvProp,11,VAND,0,B2,First,No,QUINCEFIELD PL,Part three,Unarmed,773280.4649,,2941483.9710000004,2014
+137631,142048164.0,Wednesday,No,2014-11-12T06:30:00.000,InvProp,"[-71.051965, 42.330791]",Point,InvProp,11,IVPER,0,C6,Last,No,PATTERSON WY,Part three,Unarmed,777314.1349,,2945887.0319999997,2014
+202225,142048181.0,Wednesday,No,2014-11-12T09:29:00.000,InvProp,"[-71.088175, 42.308646]",Point,InvProp,11,IVPER,0,B2,Day,No,ELM HILL AV,Part three,Unarmed,767562.1046,,2937767.6689999998,2014
+246695,142048335.0,Wednesday,No,2014-11-12T18:00:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,11,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014

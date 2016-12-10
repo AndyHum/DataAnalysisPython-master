@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+73083,140187812.0,Friday,No,2014-03-28T16:09:00.000,Ballist,"[-71.07994, 42.303251]",Point,Ballist,3,SHOTS ,459,B3,First,No,MERRILL ST,Part Two,Firearm,769799.2695,FENELON ST,2935812.5089999996,2014
+148678,140187058.0,Friday,No,2014-03-28T10:03:00.000,Ballist,"[-71.05676, 42.297621]",Point,Ballist,3,IVPREM,355,C11,Day,No,ADAMS PL,Part Two,Other,776080.4091,,2933792.586,2014
+199701,140187841.0,Friday,No,2014-03-28T16:23:00.000,Ballist,"[-71.06707, 42.292751]",Point,Ballist,3,SHOTS ,362,C11,First,No,ALLSTON ST,Part Two,Unarmed,773300.1866,MOULTRIE ST,2932003.562,2014

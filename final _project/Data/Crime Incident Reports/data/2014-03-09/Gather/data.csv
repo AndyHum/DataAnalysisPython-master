@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62695,140144432.0,Sunday,No,2014-03-09T06:02:00.000,Gather,"[-71.007692, 42.387215]",Point,Gather,3,PARTY ,10,A7,Last,No,FORD ST,Part three,Unarmed,789166.5509,,2966514.872,2014
+95939,140144351.0,Sunday,No,2014-03-09T04:16:00.000,Gather,"[-71.099389, 42.265307]",Point,Gather,3,FIGHT ,485,E18,Last,No,RECTOR RD,Part three,Unarmed,764602.8309999999,,2921959.588,2014
+105093,140145881.0,Sunday,No,2014-03-09T22:30:00.000,Gather,"[-71.142548, 42.351743]",Point,Gather,3,LMUSIC,783,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,752788.8159,,2953406.691,2014
+250578,140144013.0,Sunday,No,2014-03-09T00:38:00.000,Gather,"[-71.109809, 42.333158]",Point,Gather,3,PARTY ,606,B2,Last,No,HUNTINGTON AV,Part three,Unarmed,761669.3319,,2946672.478,2014

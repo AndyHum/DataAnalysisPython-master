@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+99693,142023052.0,Tuesday,No,2014-08-26T11:40:00.000,Arrest,"[-71.0626, 42.352361]",Point,Arrest,8,IVPER,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014
+241398,142023221.0,Tuesday,No,2014-08-26T17:30:00.000,Arrest,"[-71.078394, 42.32898]",Point,Arrest,8,SS,0,B2,First,No,EUSTIS ST,Part three,Other,770171.0377,,2945190.659,2014

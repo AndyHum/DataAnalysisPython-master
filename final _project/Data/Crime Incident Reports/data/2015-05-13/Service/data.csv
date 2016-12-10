@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3657,152039153.0,Wednesday,No,2015-05-13T11:00:00.000,Service,"[0, 0]",Point,Service,5,ARREST,0,C6,Day,No,SOUTHAMPTON ST,Part three,Other,,FRONTAGE RD,,2015
+25288,152039112.0,Wednesday,No,2015-05-13T09:00:00.000,Service,"[-71.103345, 42.264086]",Point,Service,5,PROP,0,E18,Day,No,THORN ST,Part three,Other,763534.2872,,2921509.905,2015
+109925,152039205.0,Wednesday,No,2015-05-13T15:15:00.000,Service,"[-71.03028, 42.336586]",Point,Service,5,ARREST,0,C6,Day,No,E 3RD ST,Part three,Other,783166.0081,,2948030.372,2015
+212600,152039332.0,Wednesday,No,2015-05-13T21:05:00.000,Service,"[-71.088028, 42.334461]",Point,Service,5,INVEST,0,B2,First,No,RUGGLES ST,Part three,Unarmed,767556.2352,,2947175.229,2015
+219621,152039246.0,Wednesday,No,2015-05-13T18:01:00.000,Service,"[-71.06249, 42.352371]",Point,Service,5,ARREST,0,A1,First,No,ESSEX ST,Part three,Unarmed,774427.8963,WASHINGTON ST,2953736.3989999997,2015

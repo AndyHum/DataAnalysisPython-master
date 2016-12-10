@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+60213,142053498.0,Sunday,No,2014-11-30T09:30:00.000,PropLost,"[-71.100324, 42.275593]",Point,PropLost,11,LARCEN,0,B3,Day,No,ITASCA ST,Part three,Unarmed,764332.3102,,2925706.975,2014
+73763,142053455.0,Sunday,No,2014-11-30T16:51:00.000,PropLost,"[-71.103995, 42.333881]",Point,PropLost,11,PROP,0,B2,First,No,TREMONT ST,Part three,Unarmed,763240.2622,,2946943.477,2014
+148581,142053519.0,Sunday,No,2014-11-30T04:00:00.000,PropLost,"[-71.055415, 42.362861]",Point,PropLost,11,PROP,0,A1,Last,No,HANOVER ST,Part three,Other,776320.3603,,2957569.045,2014
+183628,142054620.0,Sunday,No,2014-11-30T16:30:00.000,PropLost,"[-71.102265, 42.333311]",Point,PropLost,11,PROP,0,B2,First,No,TREMONT ST,Part three,Unarmed,763708.9912,,2946737.934,2014
+203268,142055784.0,Sunday,No,2014-11-30T17:30:00.000,PropLost,"[-71.120977, 42.267011]",Point,PropLost,11,PROP,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,758756.7157,,2922553.869,2014
+239670,142053599.0,Sunday,No,2014-11-30T17:00:00.000,PropLost,"[-71.083645, 42.341856]",Point,PropLost,11,PROP,0,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,768728.349,,2949875.913,2014
+261965,142055856.0,Sunday,No,2014-11-30T11:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,PROP,0,C6,Day,No,MASSACHUSETTS AV,Part three,Unarmed,,,,2014

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100164,120528865.0,Friday,No,2012-08-24T22:03:00.000,PubDrink,"[-71.09098, 42.277831]",Point,PubDrink,8,IVPREM,0,B3,First,No,NORFOLK ST,Part Two,Unarmed,766857.2303,MILDRED AV,2926534.5719999997,2012
+132659,120527517.0,Friday,No,2012-08-24T11:14:00.000,PubDrink,"[-71.060905, 42.297751]",Point,PubDrink,8,IVPER ,360,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,774958.7915,PARK ST,2933834.16,2012
+185724,120528252.0,Friday,No,2012-08-24T17:20:00.000,PubDrink,"[-71.07902, 42.334886]",Point,PubDrink,8,CD19  ,0,D4,First,No,WASHINGTON ST,Part Two,Unarmed,769991.2424,,2947342.0560000003,2012
+201509,120527257.0,Friday,No,2012-08-24T09:06:00.000,PubDrink,"[-71.060905, 42.297751]",Point,PubDrink,8,IVPER ,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,774958.7915,PARK ST,2933834.16,2012

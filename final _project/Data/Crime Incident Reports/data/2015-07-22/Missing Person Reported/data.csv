@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18811,,Wednesday,No,2015-07-22T00:00:00.000,Missing Person Reported,"[-71.071353, 42.284926]",Point,PersMiss,7,I00027,435,C11,,No,WASHINGTON ST,Part Three,None,772156.0,,2930000.0,2015
+61022,,Wednesday,No,2015-07-22T00:00:00.000,Missing Person Reported,"[-71.098322, 42.276439]",Point,PersMiss,7,I00027,470,B3,,No,SAVANNAH AVE,Part Three,None,764873.0,,2930000.0,2015
+83384,,Wednesday,No,2015-07-22T00:00:00.000,Missing Person Reported,"[-71.082157, 42.312973]",Point,PersMiss,7,IVPER,321,B2,,No,ELM HILL PARK,Part Three,None,769182.0,,2940000.0,2015
+129603,,Wednesday,No,2015-07-22T00:00:00.000,Missing Person Reported,"[-71.033814, 42.367113]",Point,PersMiss,7,IVPER,33,A7,,No,EVERETT ST,Part Three,None,782150.0,,2960000.0,2015

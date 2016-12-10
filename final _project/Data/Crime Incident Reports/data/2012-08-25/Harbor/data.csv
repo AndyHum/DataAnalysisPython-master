@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+188975,120529827.0,Saturday,No,2012-08-25T09:30:00.000,Harbor,"[0, 0]",Point,Harbor,8,MVANO ,0,A1,Day,No,LONG ISLAND,Part Three,Unarmed,,,,2012
+244803,120530934.0,Saturday,No,2012-08-25T16:50:00.000,Harbor,"[-71.04946, 42.359981]",Point,Harbor,8,INVEST,96,A1,First,No,LONG WHRF,Part Three,Unarmed,777935.2879,,2956527.962,2012
+262160,120531119.0,Saturday,No,2012-08-25T17:30:00.000,Harbor,"[0, 0]",Point,Harbor,8,INVEST,96,C6,First,No,BOSTON HARBOR - C6,Part Three,Unarmed,,,,2012

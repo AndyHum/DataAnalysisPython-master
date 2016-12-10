@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40755,120543056.0,Friday,No,2012-08-31T08:20:00.000,Service,"[-71.059987, 42.361648]",Point,Service,8,IVPER ,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+79810,120544384.0,Friday,No,2012-08-31T18:15:00.000,Service,"[-71.089215, 42.340161]",Point,Service,8,ARREST,283,D4,First,No,HUNTINGTON AV,Part Three,Unarmed,767225.4855,,2949250.922,2012
+134125,120544240.0,Friday,No,2012-08-31T18:26:00.000,Service,"[-71.10383, 42.322836]",Point,Service,8,SSTOP ,912,E13,First,No,CENTRE ST,Part Three,Other,763303.5691,,2942918.688,2012
+222959,120544266.0,Friday,No,2012-08-31T18:41:00.000,Service,"[-71.12348, 42.258416]",Point,Service,8,IVPER ,520,E18,First,No,HYDE PARK AV,Part Three,Unarmed,758093.2583,,2919418.98,2012
+248622,120542979.0,Friday,No,2012-08-31T07:49:00.000,Service,"[-71.09665, 42.279221]",Point,Service,8,IVPER ,469,B3,Day,No,MULVEY ST,Part Three,Unarmed,765320.4109,,2927033.8010000004,2012

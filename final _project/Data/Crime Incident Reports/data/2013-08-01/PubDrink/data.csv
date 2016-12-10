@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44508,130478843.0,Thursday,No,2013-08-01T10:19:00.000,PubDrink,"[-71.113605, 42.299876]",Point,PubDrink,8,ARREST,510,E13,Day,No,HYDE PARK AV,Part Two,Unarmed,760698.0248,,2934539.5530000003,2013
+100618,130479494.0,Thursday,No,2013-08-01T15:25:00.000,PubDrink,"[-71.0405, 42.372711]",Point,PubDrink,8,IVPER ,26,A7,Day,No,LIVERPOOL ST,Part Two,Unarmed,780331.9121,DECATUR ST,2961179.94,2013
+235996,130479784.0,Thursday,No,2013-08-01T17:18:00.000,PubDrink,"[-71.08135, 42.332389]",Point,PubDrink,8,ARREST,274,B2,First,No,WASHINGTON ST,Part Two,Unarmed,769365.5688,,2946429.0289999996,2013

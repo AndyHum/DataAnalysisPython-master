@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7276,142054614.0,Thursday,No,2014-12-04T12:20:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,12,PROP,0,C6,Day,No,W BROADWAY,Part three,Unarmed,776551.5679,,2949714.607,2014
+9350,142054649.0,Thursday,No,2014-12-04T15:00:00.000,PropFound,"[-71.071078, 42.382725]",Point,PropFound,12,PROP,0,A15,Day,No,CHARLES ST,Part three,Unarmed,772050.7285,,2964786.231,2014
+145012,142054624.0,Thursday,No,2014-12-04T15:05:00.000,PropFound,"[-71.053065, 42.327871]",Point,PropFound,12,PROP,0,C6,Day,No,MCDONOUGH WY,Part three,Other,777022.2779,,2944821.374,2014
+155470,142054523.0,Thursday,No,2014-12-04T09:15:00.000,PropFound,"[-71.148587, 42.341222]",Point,PropFound,12,PROP,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,751172.2522,,2949565.789,2014
+158293,142054675.0,Thursday,No,2014-12-04T17:00:00.000,PropFound,"[-71.08483, 42.346381]",Point,PropFound,12,IVPREM,0,D4,First,No,DALTON ST,Part three,Unarmed,768399.9598,,2951523.3460000004,2014
+208224,142054766.0,Thursday,No,2014-12-04T18:00:00.000,PropFound,"[-71.062525, 42.355916]",Point,PropFound,12,PROP,0,A1,First,No,TREMONT ST,Part three,Unarmed,774411.8094,,2955028.2169999997,2014
+208325,142054536.0,Thursday,No,2014-12-04T10:30:00.000,PropFound,"[-71.08507, 42.322171]",Point,PropFound,12,IVPREM,0,B2,Day,No,WALNUT AV,Part three,Unarmed,768377.9989,,2942700.472,2014
+264169,142054686.0,Thursday,No,2014-12-04T17:30:00.000,PropFound,"[0, 0]",Point,PropFound,12,IVPER,0,C6,First,No,BROADWAY,Part three,Unarmed,,,,2014

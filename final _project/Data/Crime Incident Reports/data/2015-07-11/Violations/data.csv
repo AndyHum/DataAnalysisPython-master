@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6496,,Saturday,No,2015-07-11T17:23:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,0,,,No,,Part Two,None,,BLUE HILL AVE,,2015
+65578,,Saturday,No,2015-07-11T00:00:00.000,Violations,"[-71.066339, 42.297035]",Point,VAL,7,MVA,359,C11,,No,PARK ST,Part Two,None,773490.0,,2930000.0,2015
+118229,,Saturday,No,2015-07-11T20:40:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,0,,,No,EVANS ST,Part Two,None,,,,2015
+162400,,Saturday,No,2015-07-11T00:00:00.000,Violations,"[-71.058793, 42.280856]",Point,VAL,7,TS,389,C11,,No,ADAMS ST,Part Two,None,775562.0,,2930000.0,2015
+187998,,Saturday,No,2015-07-11T00:00:00.000,Firearm Violations,"[-71.088558, 42.280812]",Point,15xx,7,IVPER,428,B3,,No,WOOLSON ST,Part Two,Firearm,767507.0,,2930000.0,2015
+220357,,Saturday,No,2015-07-11T11:22:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,178,B2,,No,GERARD ST,Part Two,None,,KEMBLE ST,,2015

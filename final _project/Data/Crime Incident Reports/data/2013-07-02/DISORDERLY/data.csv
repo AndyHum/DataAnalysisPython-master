@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48221,130406570.0,Tuesday,No,2013-07-02T22:00:00.000,DISORDERLY,"[-71.086295, 42.272461]",Point,24xx,7,FIGHT ,423,B3,First,No,ARBORCREST TR,Part Two,Unarmed,768134.5837,,2924583.787,2013
+118641,130406576.0,Tuesday,No,2013-07-02T22:05:00.000,DISORDERLY,"[-71.098625, 42.346181]",Point,24xx,7,TRANSP,624,D4,First,No,YAWKEY WY,Part Two,Unarmed,764671.1215,,2951432.6119999997,2013
+121310,130406165.0,Tuesday,No,2013-07-02T19:14:00.000,DISORDERLY,"[-71.056995, 42.350526]",Point,24xx,7,ABIP  ,115,A1,First,No,BEACH ST,Part Two,Unarmed,775916.7001,,2953071.7139999997,2013
+149173,130406369.0,Tuesday,No,2013-07-02T20:40:00.000,DISORDERLY,"[-71.07979, 42.312486]",Point,24xx,7,ARREST,326,B2,First,No,CRESTON ST,Part Two,Unarmed,769823.267,,2939178.0889999997,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38519,152001883.0,Wednesday,No,2015-01-07T17:38:00.000,FIRE,"[-71.079263, 42.30593]",Point,FIRE,1,FIRE,0,B2,First,No,COLUMBIA RD,Part three,Unarmed,769977.5131,,2936789.672,2015
+137949,152001832.0,Wednesday,No,2015-01-07T15:15:00.000,FIRE,"[-71.067485, 42.308271]",Point,FIRE,1,FIRE,0,C11,Day,No,CLARKSON ST,Part three,Unarmed,773159.2220000001,,2937658.715,2015
+208238,152001899.0,Wednesday,No,2015-01-07T16:58:00.000,FIRE,"[-71.058185, 42.325141]",Point,FIRE,1,FO,0,C6,First,No,HOWELL ST,Part three,Other,775642.9486,,2943819.3039999995,2015

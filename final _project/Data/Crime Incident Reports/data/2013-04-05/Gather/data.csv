@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77082,130201278.0,Friday,No,2013-04-05T22:59:00.000,Gather,"[-71.155161, 42.340575]",Point,Gather,4,DISTRB,773,D14,First,No,CHESTNUT HILL AV,Part Three,Unarmed,749395.9375,,2949322.7189999996,2013
+78950,130200694.0,Friday,No,2013-04-05T18:16:00.000,Gather,"[-71.126205, 42.354491]",Point,Gather,4,PARTY ,799,D14,First,No,ASHFORD ST,Part Three,Unarmed,757202.1568,,2954427.064,2013
+93094,130199271.0,Friday,No,2013-04-05T05:45:00.000,Gather,"[-71.071411, 42.280731]",Point,Gather,4,PARTY ,416,B3,Last,No,OGDEN ST,Part Three,Unarmed,772147.7053,,2927617.192,2013
+175278,130198982.0,Friday,No,2013-04-05T00:15:00.000,Gather,"[-71.105529, 42.327046]",Point,Gather,4,PARTY ,584,B2,Last,No,LAWN ST,Part Three,Unarmed,762836.9766,,2944450.575,2013

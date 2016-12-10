@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+88928,120448899.0,Saturday,No,2012-07-21T00:21:00.000,Service,"[-71.08209, 42.336671]",Point,Service,7,AOD   ,903,D4,Last,No,LATTIMORE CT,Part Three,Unarmed,769157.9964,,2947988.46,2012
+118393,120450594.0,Saturday,No,2012-07-21T20:06:00.000,Service,"[-71.090956, 42.333723]",Point,Service,7,IVPER ,289,B2,First,No,TREMONT ST,Part Three,Unarmed,766765.8102,,2946902.542,2012
+218805,120449856.0,Saturday,No,2012-07-21T14:08:00.000,Service,"[-71.07404, 42.321811]",Point,Service,7,ARREST,262,B2,Day,No,BROOK AV,Part Three,Unarmed,771361.5169,,2942583.985,2012
+249772,120449662.0,Saturday,No,2012-07-21T11:15:00.000,Service,"[-71.079717, 42.319866]",Point,Service,7,ARREST,311,B2,Day,No,CLIFFORD ST,Part Three,Unarmed,769829.6122,,2941867.4469999997,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35676,130481577.0,Thursday,No,2013-07-25T10:00:00.000,PersMiss,"[-71.084364, 42.306373]",Point,PersMiss,7,MISPER,330,B2,Day,No,BLUE HILL AV,Other,Unarmed,768596.965,,2936944.225,2013
+214140,130461863.0,Thursday,No,2013-07-25T09:06:00.000,PersMiss,"[-71.07533, 42.337671]",Point,PersMiss,7,MISPER,168,D4,Day,No,WASHINGTON ST,Other,Unarmed,770983.8818,,2948361.905,2013
+258010,130463458.0,Thursday,No,2013-07-25T11:00:00.000,PersMiss,"[-71.087595, 42.310136]",Point,PersMiss,7,MISPER,317,B2,Day,No,HOMESTEAD ST,Other,Unarmed,767716.3638,,2938311.4069999997,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23236,130180825.0,Thursday,No,2013-03-28T01:08:00.000,FIRE,"[-71.080145, 42.330296]",Point,FIRE,3,FIREB ,279,B2,Last,No,EUSTIS ST,Part Three,Unarmed,769695.3014,,2945667.8789999997,2013
+122744,130181472.0,Thursday,No,2013-03-28T10:55:00.000,FIRE,"[-71.093126, 42.278923]",Point,FIRE,3,FIREB ,427,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766274.5068,,2926929.441,2013
+184676,130180833.0,Thursday,No,2013-03-28T01:19:00.000,FIRE,"[-71.066885, 42.276566]",Point,FIRE,3,FIREB ,404,C11,Last,No,DORCHESTER AV,Part Three,Other,773380.1887,,2926105.7789999996,2013

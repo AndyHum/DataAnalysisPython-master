@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2553,152045111.0,Monday,No,2015-06-01T01:23:00.000,BENoProp,"[0, 0]",Point,BENoProp,6,BE,0,E18,Last,No,RIVER ST,Part One,Other,,,,2015
+99474,152045120.0,Monday,No,2015-06-01T03:45:00.000,BENoProp,"[-71.163555, 42.277366]",Point,BENoProp,6,ALARM,0,E5,Last,No,SPRING ST,Part One,Unarmed,747217.5137,,2926279.2939999998,2015
+227825,152045092.0,Monday,No,2015-06-01T00:23:00.000,BENoProp,"[-71.07232, 42.276786]",Point,BENoProp,6,BE,0,B3,Last,No,PLEASANT HILL AV,Part One,Unarmed,771908.9325,,2926178.528,2015

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49528,120694800.0,Saturday,No,2012-11-03T20:30:00.000,Service,"[-71.05857, 42.307001]",Point,Service,11,IVPER ,347,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775573.0469,HECLA ST,2937208.2589999996,2012
+116646,120692818.0,Saturday,No,2012-11-03T00:45:00.000,Service,"[-71.145713, 42.254529]",Point,Service,11,TRANSP,822,E5,Last,No,GEORGETOWNE PL,Part Three,Unarmed,752080.4544,,2917976.5160000003,2012
+136646,120693357.0,Saturday,No,2012-11-03T10:15:00.000,Service,"[-71.07969, 42.324886]",Point,Service,11,VICDOG,296,B2,Day,No,WHITING ST,Part Three,Unarmed,769828.0462,,2943696.988,2012
+205544,120694802.0,Saturday,No,2012-11-03T20:30:00.000,Service,"[-71.05857, 42.307001]",Point,Service,11,IVPER ,347,C11,First,No,DORCHESTER AV,Part Three,Unarmed,775573.0469,HECLA ST,2937208.2589999996,2012
+264502,120693360.0,Saturday,No,2012-11-03T09:30:00.000,Service,"[0, 0]",Point,Service,11,HITRUN,27,A7,Day,No,BORDER ST,Part Three,Other,,,,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+110778,120807615.0,Wednesday,No,2012-12-26T21:00:00.000,MVAcc,"[-71.150845, 42.346436]",Point,MVAcc,12,MVANO ,777,D14,First,No,SHEPARD ST,Part Three,Unarmed,750554.115,,2951463.433,2012
+133709,120807348.0,Wednesday,No,2012-12-26T18:33:00.000,MVAcc,"[-71.157485, 42.282501]",Point,MVAcc,12,MVANO ,720,E5,First,No,CENTRE ST,Part Three,Unarmed,748852.6889,,2928157.103,2012
+147957,120806744.0,Wednesday,No,2012-12-26T13:36:00.000,MVAcc,"[-71.114785, 42.350901]",Point,MVAcc,12,MVAINJ,797,D14,Day,No,COMMONWEALTH AV,Part Three,Other,760294.8271,AMORY ST,2953132.5310000004,2012
+183100,120807589.0,Wednesday,No,2012-12-26T20:50:00.000,MVAcc,"[-71.061618, 42.285275]",Point,MVAcc,12,MVANO ,392,C11,First,No,CARRUTH ST,Part Three,Other,774789.0468,,2929286.466,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65127,140107250.0,Thursday,No,2014-02-20T20:03:00.000,FIRE,"[-71.09583, 42.291891]",Point,FIRE,2,FV    ,566,B3,First,No,MORTON ST,Part three,Unarmed,765520.438,AMERICAN LEGION HY,2931651.983,2014
+136537,140107447.0,Thursday,No,2014-02-20T21:45:00.000,FIRE,"[-71.103295, 42.263613]",Point,FIRE,2,FIREB ,485,E18,First,No,RIVER ST,Part three,Unarmed,763548.6087,,2921337.5739999996,2014
+191437,140105908.0,Thursday,No,2014-02-20T09:00:00.000,FIRE,"[-71.06149, 42.350551]",Point,FIRE,2,REQP  ,116,A1,Day,No,HARRISON AV,Part three,Unarmed,774701.6076,KNEELAND ST,2953074.545,2014

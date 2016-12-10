@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71739,142010701.0,Saturday,No,2014-07-19T13:00:00.000,Gather,"[-71.064905, 42.352371]",Point,Gather,7,PROTES,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+98468,142010568.0,Saturday,No,2014-07-19T01:00:00.000,Gather,"[-71.08927, 42.287326]",Point,Gather,7,DISTRB,0,B3,Last,No,ASHTON ST,Part three,Unarmed,767303.3308,,2929996.9080000003,2014
+117265,142010788.0,Saturday,No,2014-07-19T07:30:00.000,Gather,"[-71.122665, 42.352056]",Point,Gather,7,CD9,0,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,758162.9245,,2953543.914,2014
+158122,142010609.0,Saturday,No,2014-07-19T02:57:00.000,Gather,"[-71.07521, 42.319341]",Point,Gather,7,DISTRB,0,B2,Last,No,JUDSON ST,Part three,Unarmed,771049.5924,JULIAN ST,2941682.298,2014

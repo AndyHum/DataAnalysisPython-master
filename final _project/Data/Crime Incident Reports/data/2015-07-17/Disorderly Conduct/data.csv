@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14318,,Friday,No,2015-07-17T00:00:00.000,Disorderly Conduct,"[-71.09087, 42.281887]",Point,24xx,7,ARREST,428,B3,,No,WOOLSON ST,Part Two,None,766880.0,,2930000.0,2015
+41073,,Friday,No,2015-07-17T00:00:00.000,Disorderly Conduct,"[-71.041628, 42.285709]",Point,24xx,7,DISTRB,376,C11,,No,NEPONSET AVE,Part Two,None,780197.0,,2930000.0,2015
+125662,,Friday,No,2015-07-17T00:00:00.000,Disorderly Conduct,"[-71.085625, 42.345719]",Point,24xx,7,IVPER,144,D4,,No,SAINT GERMAIN ST,Part Two,None,768186.0,,2950000.0,2015

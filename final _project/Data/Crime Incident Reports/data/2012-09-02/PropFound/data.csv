@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13587,120549004.0,Sunday,No,2012-09-02T17:30:00.000,PropFound,"[-71.081035, 42.349986]",Point,PropFound,9,FDPROP,138,D4,First,No,NEWBURY ST,Part Three,Unarmed,769419.4017,,2952842.095,2012
+14164,130011221.0,Sunday,No,2012-09-02T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,9,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+40263,120548376.0,Sunday,No,2012-09-02T13:47:00.000,PropFound,"[-71.072097, 42.321041]",Point,PropFound,9,FDPROP,261,B2,Day,No,DUDLEY ST,Part Three,Other,771888.2764,,2942305.988,2012
+72327,120549256.0,Sunday,No,2012-09-02T17:00:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,9,FDPROP,28,A7,First,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2012
+86266,120547895.0,Sunday,No,2012-09-02T03:00:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,9,FDPROP,200,C6,Last,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2012
+214960,120549038.0,Sunday,No,2012-09-02T20:26:00.000,PropFound,"[-71.06421, 42.348091]",Point,PropFound,9,CTYALM,127,A1,First,No,WASHINGTON ST,Part Three,Unarmed,773970.9444,,2952174.307,2012
+237442,120548626.0,Sunday,No,2012-09-02T16:00:00.000,PropFound,"[0, 0]",Point,PropFound,9,SSTOP ,0,C6,First,No,WILLIAM DAY BL,Part Three,Unarmed,,,,2012
+264031,120547504.0,Sunday,No,2012-09-02T01:08:00.000,PropFound,"[0, 0]",Point,PropFound,9,IVPREM,65,A1,Last,No,OCONNELL WY,Part Three,Unarmed,,,,2012

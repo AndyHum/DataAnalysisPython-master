@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+137591,140036944.0,Saturday,No,2014-01-18T02:00:00.000,PhoneCalls,"[-71.051054, 42.364486]",Point,PhoneCalls,1,HARPT ,89,A1,Last,No,COMMERCIAL ST,Part three,Unarmed,777495.8163,,2958167.295,2014
+161849,140035873.0,Saturday,No,2014-01-18T10:00:00.000,PhoneCalls,"[-71.040135, 42.379591]",Point,PhoneCalls,1,THREAT,26,A7,Day,No,BORDER ST,Part three,Unarmed,780417.0241,,2963687.684,2014
+245765,140038583.0,Saturday,No,2014-01-18T21:39:00.000,PhoneCalls,"[-71.082595, 42.321726]",Point,PhoneCalls,1,HARPT ,265,B2,First,No,KENSINGTON PARK,Part three,Other,769048.1118,,2942541.5719999997,2014

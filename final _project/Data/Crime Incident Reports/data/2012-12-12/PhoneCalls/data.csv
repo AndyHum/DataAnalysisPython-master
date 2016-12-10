@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102642,120778551.0,Wednesday,No,2012-12-12T17:42:00.000,PhoneCalls,"[-71.099225, 42.314846]",Point,PhoneCalls,12,THREAT,577,E13,First,No,WASHINGTON ST,Part Three,Unarmed,764562.5768,,2940012.814,2012
+211168,120800272.0,Wednesday,No,2012-12-12T04:00:00.000,PhoneCalls,"[-71.05329, 42.364346]",Point,PhoneCalls,12,HARPT ,67,A1,Last,No,GARDEN CT ST,Part Three,Other,776891.8238,,2958113.208,2012
+225530,120780684.0,Wednesday,No,2012-12-12T17:00:00.000,PhoneCalls,"[-71.03262, 42.370076]",Point,PhoneCalls,12,HARPT ,30,A7,First,No,COTTAGE ST,Part Three,Other,782466.4681,,2960231.265,2012

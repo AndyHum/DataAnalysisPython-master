@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1029,152038505.0,Monday,No,2015-05-11T10:40:00.000,STOLEN PROPERTY CHARGES,"[0, 0]",Point,13xx,5,SS,0,C11,Day,No,BOWDOIN ST,Part Two,Unarmed,,ADAMS ST,,2015
+3484,152038484.0,Monday,No,2015-05-11T11:05:00.000,STOLEN PROPERTY CHARGES,"[0, 0]",Point,13xx,5,SS,0,B2,Day,No,WAYLAND ST,Part Two,Firearm,,,,2015

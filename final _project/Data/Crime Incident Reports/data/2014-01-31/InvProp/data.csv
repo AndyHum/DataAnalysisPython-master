@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81535,140065206.0,Friday,No,2014-01-31T19:30:00.000,InvProp,"[-71.09364, 42.274711]",Point,InvProp,1,BERPT ,469,B3,First,No,BLUE HILL AV,Part three,Other,766142.7938,,2925394.1610000003,2014
+110899,140063702.0,Friday,No,2014-01-31T15:00:00.000,InvProp,"[-71.053765, 42.378866]",Point,InvProp,1,LARCRT,42,A15,Day,No,MEDFORD ST,Part three,Unarmed,776735.7719,,2963403.9189999998,2014
+118003,140063789.0,Friday,No,2014-01-31T15:40:00.000,InvProp,"[-71.08209, 42.336671]",Point,InvProp,1,IVPREM,903,D4,Day,No,LATTIMORE CT,Part three,Unarmed,769157.9964,,2947988.46,2014
+229665,140063642.0,Friday,No,2014-01-31T12:00:00.000,InvProp,"[-71.06416, 42.381046]",Point,InvProp,1,INVEST,45,A15,Day,No,HILL ST,Part three,Unarmed,773922.936,,2964183.808,2014

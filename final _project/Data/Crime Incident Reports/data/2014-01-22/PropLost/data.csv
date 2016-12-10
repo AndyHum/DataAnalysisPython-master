@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25564,140044651.0,Wednesday,No,2014-01-22T20:45:00.000,PropLost,"[-71.06758, 42.340921]",Point,PropLost,1,LSTPRP,164,D4,First,No,HARRISON AV,Part three,Unarmed,773073.2097,,2949556.791,2014
+161653,140044802.0,Wednesday,No,2014-01-22T10:40:00.000,PropLost,"[-71.06046, 42.357981]",Point,PropLost,1,LARCRT,97,A1,Day,No,TREMONT ST,Part three,Firearm,774966.0745,SCHOOL ST,2955783.611,2014
+253702,140054497.0,Wednesday,No,2014-01-22T13:00:00.000,PropLost,"[-71.041515, 42.371511]",Point,PropLost,1,LSTPRP,26,A7,Day,No,LIVERPOOL ST,Part three,Unarmed,780059.9946,,2960741.1610000003,2014
+265555,140044089.0,Wednesday,No,2014-01-22T05:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,LARCRT,376,C11,Last,No,LONG ISLAND,Part three,Unarmed,,,,2014

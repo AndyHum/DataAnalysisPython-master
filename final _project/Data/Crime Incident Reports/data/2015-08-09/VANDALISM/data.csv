@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90445,,Sunday,No,2015-08-09T00:00:00.000,Vandalism,"[-71.050378, 42.283363]",Point,14xx,8,VAND,379,C11,,No,GALLIVAN BLVD,Part Two,None,777834.0,,2930000.0,2015
+125822,,Sunday,No,2015-08-09T00:00:00.000,Vandalism,"[-71.094, 42.319047]",Point,14xx,8,VAND,306,B2,,No,CODMAN PARK,Part Two,None,765968.0,,2940000.0,2015
+182466,,Sunday,No,2015-08-09T00:00:00.000,Vandalism,"[-71.132256, 42.353754]",Point,14xx,8,VAND,801,D14,,No,HARVARD AVE,Part Two,None,755568.0,,2950000.0,2015

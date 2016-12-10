@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7578,120797583.0,Friday,No,2012-12-21T07:30:00.000,BENoProp,"[-71.083412, 42.329027]",Point,BENoProp,12,BERPT ,280,B2,Day,No,WARREN ST,Part One,Other,768814.0374,,2945200.835,2012
+29201,120798893.0,Friday,No,2012-12-21T17:58:00.000,BENoProp,"[-71.0904, 42.280796]",Point,BENoProp,12,ARREST,428,B3,First,No,HOSMER ST,Part One,Unarmed,767009.0082,,2927615.818,2012
+184887,120798934.0,Friday,No,2012-12-21T08:00:00.000,BENoProp,"[-71.117779, 42.315064]",Point,BENoProp,12,BERPT ,608,E13,Day,No,JAMAICAWAY,Part One,Other,759543.9247,,2940069.153,2012
+251855,120798346.0,Friday,No,2012-12-21T13:50:00.000,BENoProp,"[-71.088485, 42.289549]",Point,BENoProp,12,BEIP  ,439,B3,Day,No,FLOYD ST,Part One,Other,767511.6394,,2930807.716,2012

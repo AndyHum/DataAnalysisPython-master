@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+899,152013771.0,Friday,No,2015-02-20T08:30:00.000,Service,"[0, 0]",Point,Service,2,IVPER,0,E5,Day,No,BEECH ST,Part three,Unarmed,,WASHINGTON ST,,2015
+128535,152013703.0,Friday,No,2015-02-20T11:31:00.000,Service,"[-71.071135, 42.335176]",Point,Service,2,MVA,0,D4,Day,No,ALBANY ST,Part three,Other,772122.6365,,2947458.358,2015
+260648,152013692.0,Friday,No,2015-02-20T11:30:00.000,Service,"[0, 0]",Point,Service,2,SS,0,C6,Day,No,PREBLE ST,Part three,Unarmed,,OLD COLONY AV,,2015

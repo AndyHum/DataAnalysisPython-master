@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11565,130782694.0,Thursday,No,2013-12-12T13:15:00.000,InvProp,"[-71.02905, 42.338251]",Point,InvProp,12,ALARMR,223,C6,Day,No,E 1ST ST,Part three,Unarmed,783495.2125,,2948638.959,2013
+47829,130783504.0,Thursday,No,2013-12-12T15:40:00.000,InvProp,"[-71.062525, 42.355916]",Point,InvProp,12,IVPREM,102,A1,Day,No,TREMONT ST,Part three,Unarmed,774411.8094,,2955028.2169999997,2013
+144981,130782695.0,Thursday,No,2013-12-12T12:45:00.000,InvProp,"[-71.078452, 42.304244]",Point,InvProp,12,IVPER ,460,C11,Day,No,MORSE ST,Part three,Unarmed,770199.8024,,2936176.0889999997,2013
+171576,130782070.0,Thursday,No,2013-12-12T06:58:00.000,InvProp,"[-71.13439, 42.288766]",Point,InvProp,12,REQP  ,674,E5,Last,No,SOUTH ST,Part three,Other,755092.4612,,2930466.106,2013
+185748,130782915.0,Thursday,No,2013-12-12T14:36:00.000,InvProp,"[-71.09785, 42.314351]",Point,InvProp,12,ALARMM,572,E13,Day,No,DIXWELL ST,Part three,Other,764935.3132,,2939834.1780000003,2013

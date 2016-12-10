@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58801,130268562.0,Monday,No,2013-05-06T14:00:00.000,LICViol,"[-71.060423, 42.314903]",Point,LICViol,5,IVLIC ,823,C11,Day,No,STOUGHTON ST,Part Three,Unarmed,775056.9636,,2940085.119,2013
+87178,130268436.0,Monday,No,2013-05-06T13:35:00.000,LICViol,"[-71.057685, 42.310896]",Point,LICViol,5,CD35  ,255,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,775805.0763,,2938628.897,2013
+245454,130269096.0,Monday,No,2013-05-06T05:35:00.000,LICViol,"[-71.114699, 42.305522]",Point,LICViol,5,SEXOFF,648,E13,Last,No,SOUTH STREET,Part Three,Unarmed,760392.6166,,2936595.711,2013

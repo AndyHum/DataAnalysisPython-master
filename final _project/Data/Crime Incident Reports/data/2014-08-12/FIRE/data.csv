@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+142582,142018660.0,Tuesday,No,2014-08-12T13:57:00.000,FIRE,"[-71.05895, 42.325681]",Point,FIRE,8,FO,0,C6,Day,No,BOSTON ST,Part three,Other,775435.0596,,2944015.017,2014
+151619,142018591.0,Tuesday,No,2014-08-12T09:45:00.000,FIRE,"[-71.04625, 42.354256]",Point,FIRE,8,FIRE,0,C6,Day,No,COURTHOUSE WY,Part three,Unarmed,778813.9495,,2954446.2630000003,2014
+254099,142018526.0,Tuesday,No,2014-08-12T03:53:00.000,FIRE,"[-71.06724, 42.281356]",Point,FIRE,8,FIRE,0,C11,Last,No,BARNA RD,Part three,Unarmed,773275.2592,,2927850.832,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+148806,130744800.0,Sunday,No,2013-11-24T08:56:00.000,DEATH INVESTIGATION,"[-71.092073, 42.289674]",Point,01INV,11,SDNDTH,566,B3,Day,No,Harvard St,Part three,Unarmed,766540.6237,,2930848.814,2013
+187621,130745543.0,Sunday,No,2013-11-24T17:00:00.000,DEATH INVESTIGATION,"[-71.05646, 42.376126]",Point,01INV,11,SDNDTH,41,A15,First,No,BUNKER HILL ST,Part three,Unarmed,776012.8045,,2962401.608,2013
+213725,130744817.0,Sunday,No,2013-11-24T00:30:00.000,DEATH INVESTIGATION,"[-71.055405, 42.316671]",Point,01INV,11,SDNDTH,246,C11,Last,No,SUDAN ST,Part three,Unarmed,776410.8018,,2940736.606,2013

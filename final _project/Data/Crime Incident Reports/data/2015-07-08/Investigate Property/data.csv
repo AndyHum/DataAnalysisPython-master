@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11713,,Wednesday,No,2015-07-08T16:00:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVMV,7,A7,,No,ASHLEY ST,Part Three,None,,,,2015
+51530,,Wednesday,No,2015-07-08T00:00:00.000,Investigate Property,"[-71.079861, 42.315985]",Point,InvProp,7,BE,311,B2,,No,SAVIN ST,Part Three,None,769798.0,,2940000.0,2015
+150740,,Wednesday,No,2015-07-08T17:51:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVPREM,61,A1,,No,LEGENDS WAY,Part Three,None,,,,2015
+169872,,Wednesday,No,2015-07-08T00:00:00.000,Investigate Property,"[-71.096171, 42.31795]",Point,InvProp,7,BE,304,B2,,No,WASHINGTON ST,Part Three,None,765383.0,,2940000.0,2015
+187378,,Wednesday,No,2015-07-08T17:17:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,CD9,624,D4,,No,YAWKEY WAY,Part Three,None,,,,2015
+216708,,Wednesday,No,2015-07-08T00:00:00.000,Investigate Property,"[-71.060486, 42.285258]",Point,InvProp,7,ALARM,392,C11,,No,BARRINGTON RD,Part Three,None,775096.0,,2930000.0,2015
+257367,,Wednesday,No,2015-07-08T09:31:00.000,Investigate Property,"[0, 0]",Point,InvProp,7,IVMV,579,E13,,No,LAMARTINE ST,Part Three,None,,,,2015

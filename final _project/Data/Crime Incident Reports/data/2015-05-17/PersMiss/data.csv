@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17279,152040609.0,Sunday,No,2015-05-17T10:00:00.000,PersMiss,"[-71.09686, 42.314536]",Point,PersMiss,5,IVPER,0,E13,Day,No,COLUMBUS AV,Other,Unarmed,765202.7573,,2939902.8589999997,2015
+134187,152040702.0,Sunday,No,2015-05-17T18:00:00.000,PersMiss,"[-71.09686, 42.314536]",Point,PersMiss,5,MISSIN,0,E13,First,No,COLUMBUS AV,Other,Unarmed,765202.7573,,2939902.8589999997,2015
+214872,152040512.0,Sunday,No,2015-05-17T22:30:00.000,PersMiss,"[-71.080945, 42.311606]",Point,PersMiss,5,MISSIN,0,B2,First,No,BLUE HILL AV,Other,Unarmed,769512.4455,,2938855.865,2015

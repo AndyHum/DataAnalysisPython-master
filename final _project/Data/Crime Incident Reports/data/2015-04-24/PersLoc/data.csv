@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82700,152033542.0,Friday,No,2015-04-24T16:00:00.000,PersLoc,"[-71.06543, 42.348736]",Point,PersLoc,4,IVPER,0,A1,First,No,TREMONT ST,Other,Unarmed,773639.9559,,2952407.6739999996,2015
+126192,152033491.0,Friday,No,2015-04-24T20:27:00.000,PersLoc,"[-71.139414, 42.289087]",Point,PersLoc,4,IVPREM,0,E5,First,No,BRADFIELD AV,Other,Unarmed,753732.5131,,2930577.3260000004,2015
+254563,152033298.0,Friday,No,2015-04-24T10:13:00.000,PersLoc,"[-71.099695, 42.330611]",Point,PersLoc,4,IVPER,0,B2,Day,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2015

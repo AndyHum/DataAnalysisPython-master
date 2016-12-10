@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20662,130057913.0,Monday,No,2013-01-28T16:30:00.000,Service,"[-71.06939, 42.339506]",Point,Service,1,ARREST,167,D4,First,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+39234,130058059.0,Monday,No,2013-01-28T17:55:00.000,Service,"[-71.1079, 42.263866]",Point,Service,1,CD11  ,0,E18,First,No,GEORGE ST,Part Three,Unarmed,762301.7089,,2921424.0330000003,2013
+147463,130057051.0,Monday,No,2013-01-28T09:54:00.000,Service,"[-71.059085, 42.304686]",Point,Service,1,INVEST,0,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,775438.1029,,2936363.917,2013
+223062,130094939.0,Monday,No,2013-01-28T12:00:00.000,Service,"[-71.04283, 42.333401]",Point,Service,1,LARCRT,229,C6,Day,No,STORY ST,Part Three,Unarmed,779779.0923,,2946851.269,2013

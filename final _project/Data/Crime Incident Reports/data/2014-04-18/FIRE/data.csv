@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3241,140235222.0,Friday,No,2014-04-18T07:19:00.000,FIRE,"[-71.05419, 42.278931]",Point,FIRE,4,FV    ,383,C11,Last,No,HILL TOP ST,Part three,Unarmed,776811.2845,GRANITE AV,2926985.317,2014
+87259,140236454.0,Friday,No,2014-04-18T17:14:00.000,FIRE,"[-71.081506, 42.340404]",Point,FIRE,4,FIREB ,597,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,769309.2294,,2949349.501,2014
+223968,140236004.0,Friday,No,2014-04-18T13:48:00.000,FIRE,"[-71.076338, 42.306233]",Point,FIRE,4,REQP  ,337,C11,Day,No,VAUGHAN AV,Part three,Unarmed,770768.2376,,2936903.829,2014

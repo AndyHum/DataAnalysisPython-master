@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53989,130282678.0,Sunday,No,2013-05-12T13:33:00.000,FIRE,"[-71.1002, 42.268416]",Point,FIRE,5,FIREB ,480,E18,Day,No,FAIRLAWN AV,Part Three,Other,764378.1779,,2923091.789,2013
+73078,130281993.0,Sunday,No,2013-05-12T03:08:00.000,FIRE,"[-71.088294, 42.341504]",Point,FIRE,5,REQP  ,618,D4,Last,No,ST STEPHEN ST,Part Three,Other,767472.0844,,2949741.2860000003,2013
+163116,130282394.0,Sunday,No,2013-05-12T11:49:00.000,FIRE,"[-71.092001, 42.278561]",Point,FIRE,5,FV    ,427,B3,Day,No,FESSENDEN ST,Part Three,Unarmed,766579.5337,,2926799.047,2013

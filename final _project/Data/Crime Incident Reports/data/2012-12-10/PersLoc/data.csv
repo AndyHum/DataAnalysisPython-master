@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125778,120772844.0,Monday,No,2012-12-10T10:16:00.000,PersLoc,"[-71.11443, 42.264906]",Point,PersLoc,12,NIDV  ,492,E18,Day,No,WESTMINSTER ST,Part Three,Unarmed,760532.4454,,2921794.965,2012
+131488,120774382.0,Monday,No,2012-12-10T23:00:00.000,PersLoc,"[-71.083015, 42.335956]",Point,PersLoc,12,MISPER,274,D4,First,No,HAMMOND ST,Part Three,Unarmed,768909.1786,SHAWMUT AV,2947726.6769999997,2012
+143733,120776344.0,Monday,No,2012-12-10T14:00:00.000,PersLoc,"[-71.054342, 42.313587]",Point,PersLoc,12,MISPER,249,C11,Day,No,SAXTON ST,Part Three,Unarmed,776704.0295,,2939614.1780000003,2012
+165887,120774422.0,Monday,No,2012-12-10T20:00:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,12,MISPER,784,D14,First,No,WARREN AV,Part Three,Unarmed,752824.3316,,2952548.8430000003,2012
+214531,120774330.0,Monday,No,2012-12-10T21:00:00.000,PersLoc,"[-71.075585, 42.340456]",Point,PersLoc,12,MISPER,157,D4,First,No,W NEWTON ST,Part Three,Unarmed,770909.8909,,2949376.4669999997,2012

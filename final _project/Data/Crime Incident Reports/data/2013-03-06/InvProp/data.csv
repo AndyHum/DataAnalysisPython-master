@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31565,130135529.0,Wednesday,No,2013-03-06T21:30:00.000,InvProp,"[-71.001288, 42.391436]",Point,InvProp,3,BEIP  ,2,A7,First,No,WALDEMAR AV,Part Three,Unarmed,790887.4654,,2968063.1160000004,2013
+71619,130135591.0,Wednesday,No,2013-03-06T22:15:00.000,InvProp,"[-71.093775, 42.269596]",Point,InvProp,3,IVPER ,476,B3,First,No,RIVER ST,Part Three,Unarmed,766115.135,,2923530.012,2013
+128782,130135327.0,Wednesday,No,2013-03-06T19:18:00.000,InvProp,"[-71.08691, 42.280196]",Point,InvProp,3,SHOTS ,428,B3,First,No,ASTORIA ST,Part Three,Unarmed,767954.4837,,2927401.7189999996,2013
+154622,130133788.0,Wednesday,No,2013-03-06T03:20:00.000,InvProp,"[-71.142936, 42.345312]",Point,InvProp,3,BERPT ,938,D14,Last,No,FIDELIS WY,Part Three,Unarmed,752693.6724,,2951062.6210000003,2013

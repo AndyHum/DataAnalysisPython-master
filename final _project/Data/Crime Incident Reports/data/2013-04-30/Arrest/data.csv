@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+108299,130255438.0,Tuesday,No,2013-04-30T20:41:00.000,Arrest,"[-71.08209, 42.336671]",Point,Arrest,4,ARREST,903,D4,First,No,LATTIMORE CT,Part Three,Unarmed,769157.9964,,2947988.46,2013
+132723,130255536.0,Tuesday,No,2013-04-30T17:00:00.000,Arrest,"[-71.14476, 42.343901]",Point,Arrest,4,UNK   ,785,D14,First,No,CLAYMOSS RD,Part three,Unarmed,752202.9155,,2950546.42,2013
+199632,130254107.0,Tuesday,No,2013-04-30T10:39:00.000,Arrest,"[-71.085637, 42.325786]",Point,Arrest,4,CD11  ,294,B2,Day,No,AKRON ST,Part Three,Unarmed,768218.1006,,2944016.8219999997,2013
+237486,130253946.0,Tuesday,No,2013-04-30T09:20:00.000,Arrest,"[-71.089268, 42.295385]",Point,Arrest,4,CD11  ,908,B3,Day,No,SHANDON RD,Part Three,Unarmed,767289.676,,2932933.422,2013

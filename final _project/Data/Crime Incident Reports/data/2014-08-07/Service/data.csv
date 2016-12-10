@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6358,142019651.0,Thursday,No,2014-08-07T13:07:00.000,Service,"[-71.076405, 42.313081]",Point,Service,8,LARCEN,0,B2,Day,No,PERTH ST,Part three,Unarmed,770737.7409,,2939399.445,2014
+22343,142017193.0,Thursday,No,2014-08-07T20:10:00.000,Service,"[-71.062575, 42.352726]",Point,Service,8,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Other,774404.2569,BOYLSTON ST,2953865.65,2014
+23762,142016999.0,Thursday,No,2014-08-07T10:20:00.000,Service,"[-71.063675, 42.352301]",Point,Service,8,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+42930,142017038.0,Thursday,No,2014-08-07T13:40:00.000,Service,"[-71.05534, 42.357781]",Point,Service,8,ARREST,0,A1,Day,No,WATER ST,Part three,Unarmed,776350.2799,KILBY ST,2955717.9,2014
+53028,142017104.0,Thursday,No,2014-08-07T16:30:00.000,Service,"[-71.068725, 42.351621]",Point,Service,8,IVPREM,0,A1,First,No,PARK PLAZA,Part three,Unarmed,772743.942,,2953454.502,2014
+54680,142017011.0,Thursday,No,2014-08-07T11:38:00.000,Service,"[-71.06287, 42.352321]",Point,Service,8,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774325.2748,,2953717.652,2014
+145034,142017211.0,Thursday,No,2014-08-07T21:00:00.000,Service,"[-71.061235, 42.310371]",Point,Service,8,IVPER,0,C11,First,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2014
+195485,142017021.0,Thursday,No,2014-08-07T12:50:00.000,Service,"[-71.0867, 42.321696]",Point,Service,8,AB,0,B2,Day,No,DALE ST,Part three,Unarmed,767938.0339,,2942525.2339999997,2014
+205947,142017043.0,Thursday,No,2014-08-07T13:25:00.000,Service,"[-71.05534, 42.357781]",Point,Service,8,ARREST,0,A1,Day,No,WATER ST,Part three,Unarmed,776350.2799,KILBY ST,2955717.9,2014
+236049,142016978.0,Thursday,No,2014-08-07T10:00:00.000,Service,"[-71.059987, 42.361648]",Point,Service,8,IVPER,0,A1,Day,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2014
+264664,142017227.0,Thursday,No,2014-08-07T20:30:00.000,Service,"[0, 0]",Point,Service,8,JUMPER,0,A1,First,No,CHARLES RIVER,Part three,Unarmed,,,,2014

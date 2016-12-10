@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+141366,130059200.0,Monday,No,2012-12-24T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,12,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+186721,130066527.0,Monday,No,2012-12-24T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,12,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2012
+238891,120811570.0,Monday,No,2012-12-24T18:30:00.000,PropFound,"[-71.07517, 42.334901]",Point,PropFound,12,FDPROP,170,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,771032.1683,HARRISON AV,2947352.683,2012

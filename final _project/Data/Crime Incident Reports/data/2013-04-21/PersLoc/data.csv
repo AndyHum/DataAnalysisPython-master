@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64292,130234507.0,Sunday,No,2013-04-21T07:46:00.000,PersLoc,"[-71.082049, 42.294765]",Point,PersLoc,4,MISPER,441,B3,Day,No,KINGSDALE ST,Part Three,Unarmed,769243.8945,,2932717.086,2013
+175429,130246040.0,Sunday,No,2013-04-21T07:30:00.000,PersLoc,"[-71.081161, 42.301584]",Point,PersLoc,4,MISPER,456,B3,Day,No,ELLINGTON ST,Part Three,Unarmed,769471.7612,,2935203.265,2013
+223799,130235259.0,Sunday,No,2013-04-21T13:30:00.000,PersLoc,"[-71.066215, 42.294786]",Point,PersLoc,4,MISPER,362,C11,Day,No,MELVILLE AV,Part Three,Unarmed,773527.7409,,2932746.3210000005,2013
+255858,130234550.0,Sunday,No,2013-04-21T08:10:00.000,PersLoc,"[-71.08357, 42.350261]",Point,PersLoc,4,SUSPER,137,D4,Day,No,COMMONWEALTH AV,Part Three,Unarmed,768733.6695,,2952938.954,2013

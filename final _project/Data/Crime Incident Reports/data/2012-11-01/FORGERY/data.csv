@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20146,120688694.0,Thursday,No,2012-11-01T11:11:00.000,FORGERY,"[-71.0484, 42.351516]",Point,10xx,11,LARCRT,206,C6,Day,No,FARNSWORTH ST,Part Two,Unarmed,778238.1039,,2953444.672,2012
+66942,130022747.0,Thursday,No,2012-11-01T09:00:00.000,FORGERY,"[-71.152004, 42.267277]",Point,10xx,11,LARCRT,711,E5,Day,No,HIGH VIEW AV,Part Two,Unarmed,750358.4756,,2922615.268,2012
+128890,120782597.0,Thursday,No,2012-11-01T21:00:00.000,FORGERY,"[-71.130045, 42.286346]",Point,10xx,11,LARCRT,680,E5,First,No,CORINTH ST,Part Two,Unarmed,756271.9359,,2929589.291,2012

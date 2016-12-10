@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5506,152010206.0,Saturday,No,2015-02-07T14:32:00.000,Gather,"[-71.0883, 42.342946]",Point,Gather,2,DISTRB,0,D4,Day,No,SYMPHONY RD,Part three,Unarmed,767467.9634,,2950267.023,2015
+177981,152010057.0,Saturday,No,2015-02-07T00:49:00.000,Gather,"[-71.08743, 42.342101]",Point,Gather,2,DISTRB,0,D4,Last,No,GAINSBOROUGH ST,Part three,Unarmed,767704.6499,,2949960.223,2015
+208204,152010050.0,Saturday,No,2015-02-07T00:56:00.000,Gather,"[-71.101332, 42.326991]",Point,Gather,2,DISTRB,0,B2,Last,No,WENSLEY ST,Part three,Unarmed,763971.8476,,2944435.8210000005,2015
+263520,152010113.0,Saturday,No,2015-02-07T10:09:00.000,Gather,"[0, 0]",Point,Gather,2,DISTRB,0,E5,Day,No,RIDGECREST TR,Part three,Unarmed,,,,2015

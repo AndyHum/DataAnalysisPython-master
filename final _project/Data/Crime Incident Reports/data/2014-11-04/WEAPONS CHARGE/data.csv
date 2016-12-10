@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+171119,142045928.0,Tuesday,No,2014-11-04T16:37:00.000,WEAPONS CHARGE,"[-71.057506, 42.377612]",Point,15xx,11,IVPER,0,A15,First,No,OREILLY WY,Part Two,Firearm,775727.2191,,2962941.7210000004,2014
+187419,142045881.0,Tuesday,No,2014-11-04T17:30:00.000,WEAPONS CHARGE,"[-71.089444, 42.319613]",Point,15xx,11,TS,0,B2,First,No,WALNUT AV,Part Two,Other,767199.6299,,2941762.2860000003,2014
+235751,142045648.0,Tuesday,No,2014-11-04T00:52:00.000,WEAPONS CHARGE,"[-71.071089, 42.320002]",Point,15xx,11,ARREST,0,B2,Last,No,DUDLEY ST,Part Two,Firearm,772162.7988,,2941928.534,2014

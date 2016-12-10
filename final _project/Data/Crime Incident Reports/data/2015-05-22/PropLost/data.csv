@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2136,152044301.0,Friday,No,2015-05-22T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,LARCEN,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,,,,2015
+14910,152042608.0,Friday,No,2015-05-22T01:00:00.000,PropLost,"[-71.09674, 42.268171]",Point,PropLost,5,IVPREM,0,E18,Last,No,ROCKDALE ST,Part three,Unarmed,765315.0917,,2923006.916,2015
+23369,152042175.0,Friday,No,2015-05-22T22:10:00.000,PropLost,"[-71.098625, 42.346181]",Point,PropLost,5,MISC,0,D4,First,No,YAWKEY WY,Part three,Other,764671.1215,,2951432.6119999997,2015
+32047,152046163.0,Friday,No,2015-05-22T13:00:00.000,PropLost,"[-71.126886, 42.237239]",Point,PropLost,5,PROP,0,E18,Day,No,SIERRA RD,Part three,Other,757204.8828,,2911697.675,2015
+145992,152042345.0,Friday,No,2015-05-22T21:30:00.000,PropLost,"[-71.058756, 42.36273]",Point,PropLost,5,PROP,0,A1,First,No,CONGRESS ST,Part three,Unarmed,775417.5164,,2957516.3419999997,2015
+163623,152042619.0,Friday,No,2015-05-22T11:00:00.000,PropLost,"[-71.05582, 42.360091]",Point,PropLost,5,PROP,0,A1,Day,No,FANEUIL HALL SQ,Part three,Unarmed,776216.1627,,2956559.0330000003,2015
+217521,152042376.0,Friday,No,2015-05-22T17:00:00.000,PropLost,"[-71.0973, 42.331401]",Point,PropLost,5,PROP,0,B2,First,No,PARKER ST,Part three,Unarmed,765054.7362,TREMONT ST,2946048.1939999997,2015

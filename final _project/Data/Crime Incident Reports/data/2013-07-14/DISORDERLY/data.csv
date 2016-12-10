@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34202,130434522.0,Sunday,No,2013-07-14T03:45:00.000,DISORDERLY,"[-71.06617, 42.307016]",Point,24xx,7,FIGHT ,340,C11,Last,No,BOWDOIN ST,Part Two,Unarmed,773517.2475,,2937203.1769999997,2013
+210307,130436276.0,Sunday,No,2013-07-14T01:40:00.000,DISORDERLY,"[-71.07825, 42.335516]",Point,24xx,7,IVPER ,273,D4,Last,No,WASHINGTON ST,Part Two,Other,770198.2968,,2947572.668,2013
+264883,130434271.0,Sunday,No,2013-07-14T01:37:00.000,DISORDERLY,"[0, 0]",Point,24xx,7,ARREST,302,B2,Last,No,RITCHIE ST,Part Two,Unarmed,,,,2013

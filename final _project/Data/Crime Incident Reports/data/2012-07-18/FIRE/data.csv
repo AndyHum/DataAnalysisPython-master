@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22365,120441704.0,Wednesday,No,2012-07-18T01:00:00.000,FIRE,"[-71.10357, 42.318971]",Point,FIRE,7,IVPREM,578,E13,Last,No,WYMAN ST,Part Three,Other,763380.4277,LAMARTINE ST,2941510.541,2012
+50496,120444074.0,Wednesday,No,2012-07-18T20:00:00.000,FIRE,"[-71.066435, 42.320161]",Point,FIRE,7,FV    ,184,B2,First,No,GROOM ST,Part Three,Other,773421.2175,,2941993.061,2012
+167860,120442947.0,Wednesday,No,2012-07-18T15:29:00.000,FIRE,"[-71.076076, 42.281986]",Point,FIRE,7,FIREB ,418,B3,Day,No,MILTON AV,Part Three,Other,770882.8273,,2928068.3439999996,2012
+227394,120443575.0,Wednesday,No,2012-07-18T20:46:00.000,FIRE,"[-71.09327, 42.324586]",Point,FIRE,7,FV    ,301,B2,First,No,HIGHLAND ST,Part Three,Unarmed,766156.2609,,2943569.8589999997,2012

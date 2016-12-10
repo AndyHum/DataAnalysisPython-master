@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8030,130481267.0,Friday,No,2013-08-02T09:24:00.000,Arrest,"[-71.072895, 42.288746]",Point,Arrest,8,CD11  ,436,B3,Day,No,WITHINGTON ST,Part three,Unarmed,771731.4985,,2930536.137,2013
+92635,130481118.0,Friday,No,2013-08-02T07:57:00.000,Arrest,"[-71.08312, 42.30356]",Point,Arrest,8,CD11  ,0,B3,Day,No,COLUMBIA RD,Part three,Unarmed,768938.3069,,2935920.87,2013
+229720,130482699.0,Friday,No,2013-08-02T19:59:00.000,Arrest,"[-71.101383, 42.324122]",Point,Arrest,8,ARREST,912,E13,First,No,PARKER ST,Part three,Unarmed,763963.0763,,2943390.236,2013
+244393,130482608.0,Friday,No,2013-08-02T19:19:00.000,Arrest,"[-71.053984, 42.28388]",Point,Arrest,8,CD11  ,379,C11,First,No,MINOT ST,Part three,Unarmed,776857.4895,,2928788.901,2013

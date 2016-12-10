@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63388,,Tuesday,No,2015-07-21T00:00:00.000,Aggravated Assault,"[-71.070144, 42.332108]",Point,04xx,7,AB,175,B2,,No,SOUTHAMPTON ST,Part One,Other,772396.0,,2950000.0,2015
+139526,,Tuesday,No,2015-07-21T00:00:00.000,Aggravated Assault,"[-71.104281, 42.337442]",Point,04xx,7,AB,612,B2,,No,LONGWOOD AVE,Part One,None,763157.0,,2950000.0,2015
+199681,,Tuesday,No,2015-07-21T21:01:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,STAB,0,,,No,COLUMBUS AVE,Part One,Personal Weapon (hand  foot  etc.),,,,2015
+227010,,Tuesday,No,2015-07-21T00:00:00.000,Aggravated Assault,"[-71.066253, 42.315969]",Point,04xx,7,ARREST,257,B2,,No,COLUMBIA RD,Part One,Blunt Object,773478.0,,2940000.0,2015
+229978,,Tuesday,No,2015-07-21T07:40:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,STAB,421,B3,,No,EVANS ST,Part One,Knife/Cutting Instrument,, MORTON ST ,,2015
+236620,,Tuesday,No,2015-07-21T00:00:00.000,Aggravated Assault,"[-71.096083, 42.268948]",Point,04xx,7,PKNIFE,476,B3,,No,CUMMINS HWY,Part One,Knife/Cutting Instrument,765491.0,,2920000.0,2015

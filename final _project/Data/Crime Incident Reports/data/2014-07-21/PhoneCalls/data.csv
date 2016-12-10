@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+116436,142011324.0,Monday,No,2014-07-21T13:50:00.000,PhoneCalls,"[-71.122175, 42.292011]",Point,PhoneCalls,7,IVPER,0,E5,Day,No,WASHINGTON ST PL,Part three,Unarmed,758392.2988,,2931663.038,2014
+137712,142011274.0,Monday,No,2014-07-21T08:00:00.000,PhoneCalls,"[-71.05712, 42.353261]",Point,PhoneCalls,7,IVPER,0,A1,Day,No,SUMMER ST,Part three,Unarmed,775877.7362,,2954068.223,2014
+149259,142011203.0,Monday,No,2014-07-21T01:24:00.000,PhoneCalls,"[-71.09134, 42.279336]",Point,PhoneCalls,7,IVPER,0,B3,Last,No,EVELYN ST,Part three,Unarmed,766757.183,,2927082.5519999997,2014

@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76943,142055897.0,Monday,No,2014-10-20T12:00:00.000,FORGERY,"[-71.114685, 42.303916]",Point,10xx,10,LARCEN,0,E13,Day,No,SOUTH ST,Part Two,Unarmed,760399.2049,,2936010.472,2014
+134227,142041029.0,Monday,No,2014-10-20T17:45:00.000,FORGERY,"[-71.08487, 42.303971]",Point,10xx,10,LARCEN,0,B2,First,No,BLUE HILL AV,Part Two,Unarmed,768464.3646,,2936068.3589999997,2014
+151523,142040961.0,Monday,No,2014-10-20T14:40:00.000,FORGERY,"[-71.08012, 42.339401]",Point,10xx,10,ARREST,0,D4,Day,No,TREMONT ST,Part Two,Unarmed,769685.7276,,2948985.937,2014
+163792,142040826.0,Monday,No,2014-10-20T08:45:00.000,FORGERY,"[-71.0345, 42.378081]",Point,10xx,10,TS,0,A7,Day,No,BROOKS ST,Part Two,Unarmed,781942.5231,PRINCETON ST,2963145.668,2014
+263922,152006767.0,Monday,No,2014-10-20T12:00:00.000,FORGERY,"[0, 0]",Point,10xx,10,LARCEN,0,E5,Day,No,CENTRE ST,Part Two,Unarmed,,,,2014
+265731,152019276.0,Monday,No,2014-10-20T00:00:00.000,FORGERY,"[0, 0]",Point,10xx,10,IVPER,0,C6,Last,No,ALLSTATE RD,Part Two,Unarmed,,,,2014

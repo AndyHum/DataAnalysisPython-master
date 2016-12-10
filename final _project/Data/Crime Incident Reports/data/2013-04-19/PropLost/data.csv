@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4096,130232619.0,Friday,No,2013-04-19T17:00:00.000,PropLost,"[-71.07822, 42.302951]",Point,PropLost,4,LSTPRP,461,C11,First,No,WASHINGTON ST,Part Three,Unarmed,770265.0920000001,ELDON ST,2935705.481,2013
+80609,130235370.0,Friday,No,2013-04-19T19:00:00.000,PropLost,"[-71.08483, 42.346381]",Point,PropLost,4,LARCRT,143,D4,First,No,DALTON ST,Part Three,Other,768399.9598,,2951523.3460000004,2013
+110842,130232831.0,Friday,No,2013-04-19T21:00:00.000,PropLost,"[-71.10457, 42.309451]",Point,PropLost,4,LSTPRP,571,E13,First,No,GLEN RD,Part Three,Unarmed,763126.0646,WASHINGTON ST,2938040.04,2013
+145401,130690948.0,Friday,No,2013-04-19T20:00:00.000,PropLost,"[-71.07212, 42.295471]",Point,PropLost,4,LSTPRP,359,C11,First,No,PARK ST,Part three,Unarmed,771928.8999,WASHINGTON ST,2932987.875,2013
+161872,130231161.0,Friday,No,2013-04-19T14:30:00.000,PropLost,"[-71.08077, 42.271356]",Point,PropLost,4,LARCRT,422,B3,Day,No,RIVER ST,Part Three,Unarmed,769631.8708,,2924188.4110000003,2013
+257184,130231769.0,Friday,No,2013-04-19T12:30:00.000,PropLost,"[-71.069859, 42.272316]",Point,PropLost,4,LSTPRP,406,C11,Day,No,RIVER ST,Part Three,Unarmed,772582.9656,,2924552.8260000004,2013

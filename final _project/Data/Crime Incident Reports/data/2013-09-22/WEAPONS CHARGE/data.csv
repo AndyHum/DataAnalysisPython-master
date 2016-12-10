@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+49187,130605589.0,Sunday,No,2013-09-22T17:55:00.000,WEAPONS CHARGE,"[-71.075585, 42.340456]",Point,15xx,9,GANG  ,157,D4,First,No,W NEWTON ST,Part Two,Other,770909.8909,,2949376.4669999997,2013
+162351,130605330.0,Sunday,No,2013-09-22T15:45:00.000,WEAPONS CHARGE,"[-71.09007, 42.288736]",Point,15xx,9,IVMV  ,321,B3,Day,No,BLUE HILL AV,Part Two,Firearm,767084.3965,BROOKVIEW ST,2930509.691,2013
+162816,130605974.0,Sunday,No,2013-09-22T20:45:00.000,WEAPONS CHARGE,"[-71.080624, 42.337477]",Point,15xx,9,REQP  ,274,D4,First,No,CAMDEN ST,Part Two,Firearm,769552.6659,COLUMBUS AV,2948284.111,2013
+183391,130606335.0,Sunday,No,2013-09-22T10:00:00.000,WEAPONS CHARGE,"[-71.051425, 42.333116]",Point,15xx,9,DVIP  ,216,C6,Day,No,W EIGHTH ST,Part Two,Unarmed,777455.6944,,2946735.0689999997,2013

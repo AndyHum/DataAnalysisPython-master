@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50124,152041834.0,Thursday,No,2015-05-21T19:30:00.000,TRESPASS,"[-71.052242, 42.354304]",Point,TRESPASS,5,INVEST,0,A1,First,No,ATLANTIC AV,Part Two,Unarmed,777194.1083,,2954455.002,2015
+77500,152041771.0,Thursday,No,2015-05-21T16:30:00.000,TRESPASS,"[-71.082005, 42.330086]",Point,TRESPASS,5,IVPER,0,B2,First,No,HARRISON AV,Part Two,Unarmed,769192.7378,,2945588.881,2015
+144600,152041773.0,Thursday,No,2015-05-21T16:40:00.000,TRESPASS,"[-71.082005, 42.330086]",Point,TRESPASS,5,IVPER,0,B2,First,No,HARRISON AV,Part Two,Unarmed,769192.7378,,2945588.881,2015
+220960,152041594.0,Thursday,No,2015-05-21T02:46:00.000,TRESPASS,"[-71.05078, 42.356576]",Point,TRESPASS,5,BE,0,A1,Last,No,ROWES WHRF,Part Two,Unarmed,777585.0668,,2955285.233,2015

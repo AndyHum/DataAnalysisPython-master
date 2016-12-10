@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7322,120639730.0,Thursday,No,2012-10-11T02:38:00.000,MedAssist,"[-71.007992, 42.39148]",Point,MedAssist,10,CARST ,10,A7,Last,No,MONTMORENCI AV,Part Three,Unarmed,789076.5855,,2968068.455,2012
+115229,120640996.0,Thursday,No,2012-10-11T15:42:00.000,MedAssist,"[-71.101185, 42.266148]",Point,MedAssist,10,EDP2  ,485,E18,Day,No,HOLLINGSWORTH ST,Part Three,Unarmed,764115.3664,,2922263.772,2012
+136999,120639632.0,Thursday,No,2012-10-11T01:10:00.000,MedAssist,"[-71.03173, 42.379881]",Point,MedAssist,10,IVPER ,824,A7,Last,No,LEXINGTON ST,Part Three,Other,782687.3529,,2963805.723,2012
+201379,120641448.0,Thursday,No,2012-10-11T19:00:00.000,MedAssist,"[-71.05743, 42.300921]",Point,MedAssist,10,SDNDTH,351,C11,First,No,DICKENS ST,Part Three,Unarmed,775892.9091,,2934994.215,2012

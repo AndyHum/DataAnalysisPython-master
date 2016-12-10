@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25254,140318295.0,Thursday,No,2014-05-22T09:10:00.000,Service,"[-71.11802, 42.268856]",Point,Service,5,AOD   ,492,E18,Day,No,HUNTINGTON AV,Part three,Unarmed,759554.2784,,2923230.028,2014
+68643,140318402.0,Thursday,No,2014-05-22T09:49:00.000,Service,"[-71.063785, 42.349246]",Point,Service,5,ARREST,123,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774083.6785,,2952595.797,2014
+81981,140321594.0,Thursday,No,2014-05-22T20:00:00.000,Service,"[-71.08718, 42.307476]",Point,Service,5,IVPER ,319,B2,First,No,NAZING CT,Part three,Other,767833.3058,,2937342.604,2014
+95024,140318038.0,Thursday,No,2014-05-22T06:30:00.000,Service,"[-71.085637, 42.325786]",Point,Service,5,CD11  ,294,B2,Last,No,AKRON ST,Part three,Other,768218.1006,,2944016.8219999997,2014
+116493,140317726.0,Thursday,No,2014-05-22T00:17:00.000,Service,"[-71.085993, 42.283877]",Point,Service,5,IVPER ,429,B3,Last,No,WILLOWWOOD ST,Part three,Unarmed,768195.8917,,2928744.066,2014
+167472,140318108.0,Thursday,No,2014-05-22T06:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,5,INVEST,167,D4,Last,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2014
+189207,140318071.0,Thursday,No,2014-05-22T07:08:00.000,Service,"[-71.11831, 42.247986]",Point,Service,5,CD11  ,516,E18,Last,No,NEPONSET AV,Part three,Unarmed,759509.8119,,2915624.377,2014
+190799,140319903.0,Thursday,No,2014-05-22T20:23:00.000,Service,"[-71.061235, 42.310371]",Point,Service,5,IVPER ,257,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2014
+232716,140319678.0,Thursday,No,2014-05-22T19:11:00.000,Service,"[-71.063155, 42.298481]",Point,Service,5,IVPER ,356,C11,First,No,GENEVA AV,Part three,Other,774348.7245,,2934097.058,2014

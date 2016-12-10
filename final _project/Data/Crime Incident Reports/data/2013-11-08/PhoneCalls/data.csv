@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8378,130712133.0,Friday,No,2013-11-08T22:38:00.000,PhoneCalls,"[-71.08927, 42.287326]",Point,PhoneCalls,11,HARPT ,431,B3,First,No,ASHTON ST,Part three,Unarmed,767303.3308,,2929996.9080000003,2013
+136752,130713700.0,Friday,No,2013-11-08T17:00:00.000,PhoneCalls,"[-71.054486, 42.32689]",Point,PhoneCalls,11,THREAT,190,C6,First,No,STERLING SQ,Part three,Unarmed,776639.7695,,2944461.602,2013
+251297,130711721.0,Friday,No,2013-11-08T12:30:00.000,PhoneCalls,"[-71.074005, 42.340846]",Point,PhoneCalls,11,HARPT ,157,D4,Day,No,W BROOKLINE ST,Part three,Unarmed,771336.3378,,2949520.7189999996,2013

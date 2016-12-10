@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42319,130725819.0,Friday,No,2013-11-15T01:00:00.000,PropLost,"[-71.13241, 42.353026]",Point,PropLost,11,LSTPRP,802,D14,Last,No,BRIGHTON AV,Part three,Unarmed,755527.2809,,2953885.8989999997,2013
+84063,130726570.0,Friday,No,2013-11-15T10:00:00.000,PropLost,"[-71.08195, 42.282956]",Point,PropLost,11,LSTPRP,417,B3,Day,No,CROWELL ST,Part three,Unarmed,769291.7881,,2928414.041,2013
+84354,130726010.0,Friday,No,2013-11-15T11:30:00.000,PropLost,"[-71.07632, 42.350356]",Point,PropLost,11,LARCRT,134,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2013
+114806,130725088.0,Friday,No,2013-11-15T01:30:00.000,PropLost,"[-71.061495, 42.356911]",Point,PropLost,11,TRACK ,102,A1,Last,No,TREMONT ST,Part three,Unarmed,774688.3413,,2955392.2430000002,2013
+152196,130732180.0,Friday,No,2013-11-15T15:45:00.000,PropLost,"[-71.095405, 42.348786]",Point,PropLost,11,LSTPRP,623,D4,Day,No,COMMONWEALTH AV,Part three,Unarmed,765537.0788,,2952386.037,2013
+168544,130728111.0,Friday,No,2013-11-15T23:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,11,LARCRT,143,D4,First,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2013
+186837,130735193.0,Friday,No,2013-11-15T22:00:00.000,PropLost,"[-71.06255, 42.365411]",Point,PropLost,11,LARCRT,61,A1,First,No,LEGENDS WAY,Part three,Unarmed,774387.3075,,2958488.345,2013
+201170,130738381.0,Friday,No,2013-11-15T15:00:00.000,PropLost,"[-71.13209, 42.352991]",Point,PropLost,11,INVEST,794,D14,Day,No,HARVARD AV,Part three,Unarmed,755613.8322,BRIGHTON AV,2953873.517,2013
+263197,130732367.0,Friday,No,2013-11-15T18:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,93,A1,First,No,BLACKSTONE ST,Part three,Unarmed,,,,2013

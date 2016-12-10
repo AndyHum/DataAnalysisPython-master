@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11585,120600858.0,Monday,No,2012-09-24T17:00:00.000,Arrest,"[-71.03981, 42.376191]",Point,Arrest,9,IVPER ,0,A7,First,No,BORDER ST,Part Three,Unarmed,780511.5193,,2962449.128,2012
+104087,120600152.0,Monday,No,2012-09-24T10:10:00.000,Arrest,"[-71.059987, 42.361648]",Point,Arrest,9,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+205906,120600068.0,Monday,No,2012-09-24T10:42:00.000,Arrest,"[-71.04049, 42.373806]",Point,Arrest,9,INVEST,0,A7,Day,No,BORDER ST,Part Three,Unarmed,780332.2546,,2961578.942,2012
+220537,120599742.0,Monday,No,2012-09-24T08:15:00.000,Arrest,"[-71.093739, 42.334956]",Point,Arrest,9,ARREST,911,B2,Day,No,ANNUNCIATION RD,Part Three,Unarmed,766011.2668,,2947348.014,2012

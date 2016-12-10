@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70181,130132375.0,Monday,No,2013-03-04T14:00:00.000,InvProp,"[-71.049435, 42.336581]",Point,InvProp,3,BERPT ,214,C6,Day,No,W 4TH ST,Part Three,Unarmed,777987.0909,,2948000.611,2013
+168147,130130011.0,Monday,No,2013-03-04T09:48:00.000,InvProp,"[-71.08209, 42.322206]",Point,InvProp,3,REQP  ,296,B2,Day,No,WARREN AV,Part Three,Other,769183.8241,,2942717.1610000003,2013
+181642,130130190.0,Monday,No,2013-03-04T11:30:00.000,InvProp,"[-71.169085, 42.274341]",Point,InvProp,3,DISTRB,725,E5,Day,No,SPRING ST,Part Three,Unarmed,745725.2368,,2925171.083,2013
+238530,130129649.0,Monday,No,2013-03-04T03:01:00.000,InvProp,"[-71.109539, 42.340205]",Point,InvProp,3,ALARMC,613,B2,Last,No,LONGWOOD AV,Part Three,Other,761730.6759,,2949240.858,2013

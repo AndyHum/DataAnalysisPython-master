@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+134257,120581434.0,Saturday,No,2012-09-15T09:00:00.000,PhoneCalls,"[-71.058845, 42.292711]",Point,PhoneCalls,9,HARPT ,365,C11,Day,No,KING ST,Part Three,Unarmed,775525.5926,,2932000.3910000003,2012
+191613,120578773.0,Saturday,No,2012-09-15T10:45:00.000,PhoneCalls,"[-71.032995, 42.379786]",Point,PhoneCalls,9,THREAT,824,A7,Day,No,PUTNAM ST,Part Three,Unarmed,782345.7609999999,,2963769.228,2012
+241915,120586185.0,Saturday,No,2012-09-15T08:00:00.000,PhoneCalls,"[-71.012211, 42.387175]",Point,PhoneCalls,9,HARPT ,12,A7,Day,No,BRANDYWYNE DR,Part Three,Unarmed,787945.8755,,2966493.185,2012

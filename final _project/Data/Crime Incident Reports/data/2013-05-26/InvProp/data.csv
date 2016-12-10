@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+87013,130316640.0,Sunday,No,2013-05-26T23:00:00.000,InvProp,"[-71.10547, 42.275941]",Point,InvProp,5,SHOTS ,471,B3,First,No,LIVERMORE ST,Part three,Firearm,762939.1112,HEBRON ST,2925827.3589999997,2013
+112807,130316247.0,Sunday,No,2013-05-26T05:30:00.000,InvProp,"[-71.041445, 42.348751]",Point,InvProp,5,IVPREM,207,C6,Last,No,SEAPORT LN,Part Three,Unarmed,780123.5001,,2952447.085,2013
+114189,130316652.0,Sunday,No,2013-05-26T23:00:00.000,InvProp,"[-71.069221, 42.30886]",Point,InvProp,5,SHOTS ,335,C11,First,No,BELLEVUE ST,Part three,Unarmed,772688.4477,,2937870.6760000004,2013
+119579,130315689.0,Sunday,No,2013-05-26T11:00:00.000,InvProp,"[-71.05766, 42.295991]",Point,InvProp,5,BEIP  ,364,C11,Day,No,DIX ST,Part three,Unarmed,775840.0044,,2933197.329,2013
+124494,130315866.0,Sunday,No,2013-05-26T16:47:00.000,InvProp,"[-71.06506, 42.357416]",Point,InvProp,5,ALARMC,71,A1,First,No,JOY ST,Part Three,Unarmed,773723.8439,,2955571.341,2013
+128811,130314736.0,Sunday,No,2013-05-26T01:02:00.000,InvProp,"[-71.06732, 42.309231]",Point,InvProp,5,IVPREM,335,C11,Last,No,BARRY PARK,Part Three,Other,773202.0828,,2938008.778,2013
+231046,130316469.0,Sunday,No,2013-05-26T21:30:00.000,InvProp,"[-71.07878, 42.323781]",Point,InvProp,5,SHOTS ,296,B2,First,No,COPELAND ST,Part three,Other,770076.1186,MORELAND ST,2943295.52,2013

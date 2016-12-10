@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5433,152009974.0,Friday,No,2015-02-06T15:00:00.000,InvProp,"[-71.09716, 42.3243]",Point,InvProp,2,IVPER,0,B2,Day,No,HIGHLAND ST,Part three,Unarmed,765104.6197,,2943460.599,2015
+75104,152010297.0,Friday,No,2015-02-06T20:00:00.000,InvProp,"[-71.070033, 42.273536]",Point,InvProp,2,LARCEN,0,C11,First,No,WASHINGTON ST,Part three,Unarmed,772533.7455,,2924997.126,2015
+76772,152009885.0,Friday,No,2015-02-06T13:46:00.000,InvProp,"[-71.06602, 42.302669]",Point,InvProp,2,ALARM,0,C11,Day,No,LONGFELLOW ST,Part three,Unarmed,773565.7701,,2935619.0,2015
+161551,152009901.0,Friday,No,2015-02-06T13:00:00.000,InvProp,"[-71.078795, 42.327456]",Point,InvProp,2,BE,0,B2,Day,No,FOREST ST,Part three,Other,770065.449,,2944634.7339999997,2015
+260857,152009945.0,Friday,No,2015-02-06T17:30:00.000,InvProp,"[0, 0]",Point,InvProp,2,CD9,0,A1,First,No,NEW ACCOLON WY,Part three,Unarmed,,,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21476,140300092.0,Thursday,No,2014-05-15T09:00:00.000,32GUN,"[-71.059735, 42.297541]",Point,32GUN,5,BUYBAK,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+92149,140300350.0,Thursday,No,2014-05-15T10:34:00.000,32GUN,"[-71.164816, 42.27993]",Point,32GUN,5,FDWEAP,730,E5,Day,No,CHESBROUGH RD,Part three,Unarmed,746872.4045,,2927212.28,2014
+128723,140300093.0,Thursday,No,2014-05-15T09:30:00.000,32GUN,"[-71.059735, 42.297541]",Point,32GUN,5,BUYBAK,355,C11,Day,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014

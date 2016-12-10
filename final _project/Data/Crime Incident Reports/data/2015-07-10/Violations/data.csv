@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+20583,,Friday,No,2015-07-10T16:20:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,ARREST,801,D14,,No,CAMBRIDGE ST,Part Two,Firearm,,HARVARD AVE,,2015
+98366,,Friday,No,2015-07-10T00:00:00.000,Firearm Violations,"[-71.086271, 42.32243]",Point,15xx,7,ARREST,298,B2,,No,WAKULLAH ST,Part Two,Firearm,768053.0,,2940000.0,2015
+114986,,Friday,No,2015-07-10T00:00:00.000,Violations,"[-71.132256, 42.353754]",Point,VAL,7,TS,802,D14,,No,HARVARD AVE,Part Two,None,755568.0,,2950000.0,2015
+134732,,Friday,No,2015-07-10T00:00:00.000,Firearm Violations,"[-71.10368, 42.334503]",Point,15xx,7,FDWEAP,602,B2,,No,HUNTINGTON AVE,Part Two,Firearm,763324.0,,2950000.0,2015
+183142,,Friday,No,2015-07-10T00:00:00.000,Restraining Order Violations,"[-71.075995, 42.291389]",Point,Restrain,7,VIORDR,438,B3,,No,TALBOT AVE,Part Two,None,770888.0,,2930000.0,2015

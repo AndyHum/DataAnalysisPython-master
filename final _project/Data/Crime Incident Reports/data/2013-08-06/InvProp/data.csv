@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35684,130493035.0,Tuesday,No,2013-08-06T17:00:00.000,InvProp,"[-71.105455, 42.334531]",Point,InvProp,8,TSTOP ,593,B2,First,No,FRANCIS ST,Part three,Unarmed,762844.4090000001,,2947178.519,2013
+55674,130490377.0,Tuesday,No,2013-08-06T01:25:00.000,InvProp,"[-71.111164, 42.316045]",Point,InvProp,8,SHOTS ,639,E13,Last,No,ROBINWOOD AV,Part three,Unarmed,761331.3073,,2940434.6739999996,2013
+91679,130492602.0,Tuesday,No,2013-08-06T21:53:00.000,InvProp,"[-71.119867, 42.243568]",Point,InvProp,8,SHOTS ,940,E18,First,No,GARFIELD AV,Part three,Unarmed,759095.3804,,2914012.528,2013
+91754,130492141.0,Tuesday,No,2013-08-06T18:35:00.000,InvProp,"[-71.153435, 42.347726]",Point,InvProp,8,CTYALM,771,D14,First,No,ACADEMY HILL RD,Part three,Unarmed,749852.0524,,2951930.6789999995,2013
+92274,130492327.0,Tuesday,No,2013-08-06T07:56:00.000,InvProp,"[-71.02894, 42.335736]",Point,InvProp,8,BEIP  ,227,C6,Day,No,E BROADWAY,Part three,Unarmed,783530.0136,,2947722.615,2013
+145301,130491200.0,Tuesday,No,2013-08-06T11:30:00.000,InvProp,"[-71.134215, 42.275806]",Point,InvProp,8,BERPTA,550,E5,Day,No,GRANDVIEW ST,Part three,Unarmed,755160.0644,,2925743.492,2013
+244432,130490720.0,Tuesday,No,2013-08-06T01:30:00.000,InvProp,"[-71.122495, 42.266196]",Point,InvProp,8,VANRPT,495,E18,Last,No,PROVIDENCE ST,Part three,Other,758347.3513,,2922255.2939999998,2013
+252211,130493972.0,Tuesday,No,2013-08-06T22:30:00.000,InvProp,"[-71.108105, 42.268896]",Point,InvProp,8,LARCRT,478,E18,First,No,RUSKINDALE RD,Part three,Unarmed,762237.8081,,2923256.785,2013

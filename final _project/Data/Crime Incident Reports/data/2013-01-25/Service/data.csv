@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36639,130051253.0,Friday,No,2013-01-25T12:15:00.000,Service,"[-71.075925, 42.347156]",Point,Service,1,IVPER ,149,D4,Day,No,DARTMOUTH ST,Part Three,Unarmed,770805.8297,,2951817.613,2013
+67234,130052143.0,Friday,No,2013-01-25T19:30:00.000,Service,"[-71.03981, 42.376191]",Point,Service,1,SSTOP ,27,A7,First,No,BORDER ST,Part Three,Unarmed,780511.5193,,2962449.128,2013
+83527,130052181.0,Friday,No,2013-01-25T19:56:00.000,Service,"[-71.10039, 42.322781]",Point,Service,1,ARREST,640,E13,First,No,CENTRE ST,Part Three,Unarmed,764233.9404,LAMARTINE ST,2942902.9839999997,2013
+91899,130164386.0,Friday,No,2013-01-25T12:00:00.000,Service,"[-71.047435, 42.351251]",Point,Service,1,INVEST,206,C6,Day,No,THOMSON PL,Part Three,Unarmed,778499.4603,,2953349.4839999997,2013
+96565,130052384.0,Friday,No,2013-01-25T21:44:00.000,Service,"[-71.130045, 42.286346]",Point,Service,1,AOD   ,680,E5,First,No,CORINTH ST,Part Three,Other,756271.9359,,2929589.291,2013
+98837,130050937.0,Friday,No,2013-01-25T09:23:00.000,Service,"[-71.138501, 42.353697]",Point,Service,1,IVPER ,803,D14,Day,No,N BEACON ST,Part Three,Unarmed,753879.8163,,2954123.421,2013
+103463,130052487.0,Friday,No,2013-01-25T22:42:00.000,Service,"[-71.12339, 42.258771]",Point,Service,1,TSTOP ,519,E18,First,No,HYDE PARK AV,Part Three,Unarmed,758117.0512,WEBSTER ST,2919548.454,2013
+229429,130051752.0,Friday,No,2013-01-25T16:45:00.000,Service,"[-71.039079, 42.375371]",Point,Service,1,IVMV  ,28,A7,First,No,MERIDIAN ST,Part Three,Other,780710.6016,,2962151.396,2013
+239566,130051354.0,Friday,No,2013-01-25T13:15:00.000,Service,"[-71.039085, 42.369936]",Point,Service,1,ARREST,0,A7,Day,No,MAVERICK SQ,Part Three,Other,780719.7315,,2960170.738,2013

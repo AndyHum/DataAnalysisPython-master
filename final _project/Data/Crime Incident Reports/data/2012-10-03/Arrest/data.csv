@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63533,120621124.0,Wednesday,No,2012-10-03T00:52:00.000,Arrest,"[-71.05688, 42.326831]",Point,Arrest,10,ARREST,914,C6,Last,No,DORCHESTER AV,Part Three,Unarmed,775992.6439,KEMP ST,2944436.998,2012
+143368,120623322.0,Wednesday,No,2012-10-03T22:00:00.000,Arrest,"[-71.07747, 42.336951]",Point,Arrest,10,LARCIP,170,D4,First,No,MASSACHUSETTS AV,Part Three,Unarmed,770406.5825,,2948096.651,2012
+162985,120621203.0,Wednesday,No,2012-10-03T01:47:00.000,Arrest,"[-71.05697, 42.329501]",Point,Arrest,10,ARREST,190,C6,Last,No,DORCHESTER AV,Part Three,Other,775963.2534,BOSTON ST,2945409.8639999996,2012

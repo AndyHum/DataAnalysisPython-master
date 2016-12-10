@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89091,140222414.0,Saturday,No,2014-04-12T18:05:00.000,Service,"[-71.064905, 42.352371]",Point,Service,4,CD11  ,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014
+98826,140221123.0,Saturday,No,2014-04-12T08:18:00.000,Service,"[-71.07233, 42.332556]",Point,Service,4,ARREST,179,C6,Day,No,MELNEA CASS BL,Part three,Unarmed,771804.3248,MASSACHUSETTS AV,2946501.961,2014
+168743,140222374.0,Saturday,No,2014-04-12T18:05:00.000,Service,"[-71.064905, 42.352371]",Point,Service,4,CD11  ,119,A1,First,No,BOYLSTON ST,Part three,Unarmed,773775.1158,,2953733.06,2014

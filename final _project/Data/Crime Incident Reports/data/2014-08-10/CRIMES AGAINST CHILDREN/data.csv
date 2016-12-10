@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+45805,142017886.0,Sunday,No,2014-08-10T03:08:00.000,CRIMES AGAINST CHILDREN,"[-71.073395, 42.323221]",Point,20xx,8,IVPER,0,B2,Last,No,DUDLEY ST,Part Two,Unarmed,771533.3762,,2943098.685,2014
+61829,142017979.0,Sunday,No,2014-08-10T13:30:00.000,CRIMES AGAINST CHILDREN,"[-71.076775, 42.335256]",Point,20xx,8,IVPER,0,D4,Day,No,NORTHAMPTON ST,Part Two,Unarmed,770597.5713,,2947479.894,2014
+84861,142018109.0,Sunday,No,2014-08-10T23:55:00.000,CRIMES AGAINST CHILDREN,"[-71.026631, 42.380334]",Point,20xx,8,IVPER,0,A7,Last,No,CHELSEA ST,Part Two,Unarmed,784064.087,,2963978.1969999997,2014

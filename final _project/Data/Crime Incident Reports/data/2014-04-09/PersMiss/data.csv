@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+545,140219208.0,Wednesday,No,2014-04-09T15:30:00.000,PersMiss,"[0, 0]",Point,PersMiss,4,MISPER,906,E13,Day,No,PLANT CT,Other,Unarmed,,,,2014
+171933,140214298.0,Wednesday,No,2014-04-09T12:14:00.000,PersMiss,"[-71.077185, 42.296021]",Point,PersMiss,4,IVPER ,436,B3,Day,No,ATHELWOLD ST,Other,Unarmed,770557.5917,,2933181.47,2014

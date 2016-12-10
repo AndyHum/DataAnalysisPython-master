@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47195,120454198.0,Monday,No,2012-07-23T13:30:00.000,PropLost,"[-71.05932, 42.354551]",Point,PropLost,7,LARCRT,105,A1,Day,No,SUMMER ST,Part Three,Unarmed,775280.6508,,2954535.244,2012
+53641,120454620.0,Monday,No,2012-07-23T17:10:00.000,PropLost,"[-71.07902, 42.334886]",Point,PropLost,7,LARCRT,274,D4,First,No,WASHINGTON ST,Part Three,Unarmed,769991.2424,,2947342.0560000003,2012
+65126,120456512.0,Monday,No,2012-07-23T20:00:00.000,PropLost,"[-71.08507, 42.328881]",Point,PropLost,7,LSTPRP,288,B2,First,No,WASHINGTON ST,Part Three,Unarmed,768366.1044,DUDLEY ST,2945145.712,2012
+131834,120454692.0,Monday,No,2012-07-23T16:50:00.000,PropLost,"[-71.138508, 42.355898]",Point,PropLost,7,LARCRT,804,D14,First,No,EVERETT ST,Part Three,Unarmed,753874.4121,,2954925.45,2012
+149064,120455075.0,Monday,No,2012-07-23T20:30:00.000,PropLost,"[-71.064346, 42.353072]",Point,PropLost,7,REMOVE,111,A1,First,No,TREMONT ST,Part Three,Unarmed,773924.729,,2953989.2660000003,2012
+223774,120455393.0,Monday,No,2012-07-23T21:40:00.000,PropLost,"[-71.080085, 42.346711]",Point,PropLost,7,LARCRT,130,D4,First,No,HUNTINGTON AV,Part Three,Unarmed,769682.0757,EXETER ST,2951649.883,2012
+261463,130325124.0,Monday,No,2012-07-23T14:00:00.000,PropLost,"[0, 0]",Point,PropLost,7,LSTPRP,263,B2,Day,No,ESSEX ST,Part three,Unarmed,,,,2012

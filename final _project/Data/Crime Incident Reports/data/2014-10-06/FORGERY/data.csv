@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16392,142036389.0,Monday,No,2014-10-06T10:23:00.000,FORGERY,"[-71.064925, 42.317121]",Point,10xx,10,LARCEN,0,B2,Day,No,COLUMBIA RD,Part Two,Unarmed,773835.2324,,2940887.314,2014
+90929,142048266.0,Monday,No,2014-10-06T08:30:00.000,FORGERY,"[-71.06514, 42.376051]",Point,10xx,10,LARCEN,0,A15,Day,No,MAIN ST,Part Two,Unarmed,773667.5999,,2962362.2,2014
+129795,142036512.0,Monday,No,2014-10-06T15:30:00.000,FORGERY,"[-71.112411, 42.284053]",Point,10xx,10,SS,0,E18,Day,No,AMERICAN LEGION HY,Part Two,Unarmed,761047.1773,,2928774.728,2014
+174621,142036521.0,Monday,No,2014-10-06T16:47:00.000,FORGERY,"[-71.067732, 42.348428]",Point,10xx,10,LARCEN,0,A1,First,No,CHURCH ST,Part Two,Unarmed,773018.0261,,2952292.01,2014

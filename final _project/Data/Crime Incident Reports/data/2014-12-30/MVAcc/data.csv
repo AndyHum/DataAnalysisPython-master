@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7363,142061732.0,Tuesday,No,2014-12-30T10:47:00.000,MVAcc,"[-71.067805, 42.272206]",Point,MVAcc,12,MVA,0,C11,Day,No,ADAMS ST,Other,Unarmed,773139.2627,,2924515.675,2014
+80197,142061726.0,Tuesday,No,2014-12-30T11:15:00.000,MVAcc,"[-71.064732, 42.357237]",Point,MVAcc,12,PROP,0,A1,Day,No,BEACON ST,Other,Unarmed,773812.6429,,2955506.292,2014
+211828,142061815.0,Tuesday,No,2014-12-30T16:10:00.000,MVAcc,"[-71.06127, 42.345871]",Point,MVAcc,12,MVA,0,D4,First,No,HERALD ST,Other,Unarmed,774769.8493,ALBANY ST,2951369.372,2014
+241600,142061797.0,Tuesday,No,2014-12-30T15:23:00.000,MVAcc,"[-71.15223, 42.287511]",Point,MVAcc,12,MVA,0,E5,Day,No,CENTRE ST,Other,Unarmed,750267.2605,WILLOW ST,2929988.58,2014

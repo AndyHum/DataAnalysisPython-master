@@ -1,0 +1,17 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13250,,Saturday,No,2015-07-11T10:03:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,EDP,289,B2,,No,MALCOLM X BLVD,Part Three,None,,,,2015
+57336,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.056144, 42.297111]",Point,MedAssist,7,REQP,354,C11,,No,NEPONSET AVE,Part Three,None,776248.0,,2930000.0,2015
+59045,,Saturday,No,2015-07-11T02:58:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,INVEST,0,,,No,BEACH ST,Part Three,None,,,,2015
+61292,,Saturday,No,2015-07-11T04:50:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,STAB,64,A1,,No,FRUIT ST,Part Three,None,,,,2015
+69368,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.132213, 42.286476]",Point,MedAssist,7,EDP,679,E5,,No,BELGRADE AVE,Part Three,None,755685.0,,2930000.0,2015
+92439,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.056795, 42.321374]",Point,MedAssist,7,INJOFF,235,C6,,No,DORCHESTER AVE,Part Three,None,776026.0,,2940000.0,2015
+96769,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.066541, 42.31472]",Point,MedAssist,7,REQEP,332,B2,,No,BIRD ST,Part Three,None,773403.0,,2940000.0,2015
+110630,,Saturday,No,2015-07-11T01:42:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,MVA,800,D14,,No,BRIGHTON AVE,Part Three,None,,,,2015
+129256,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.058155, 42.315716]",Point,MedAssist,7,I00015,244,C11,,No,VICTORIA ST,Part Three,None,775669.0,,2940000.0,2015
+134224,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.085634, 42.328663]",Point,MedAssist,7,INJOFF,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+144609,,Saturday,No,2015-07-11T01:50:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,7,REQP,256,C6,,No,MOUNT VERNON ST,Part Three,None,,,,2015
+199353,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.062588, 42.311133]",Point,MedAssist,7,BE,334,C11,,No,HANCOCK ST,Part Three,None,774478.0,,2940000.0,2015
+211494,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.063822, 42.344967]",Point,MedAssist,7,INVEST,162,D4,,No,HARRISON AVE,Part Three,None,774081.0,,2950000.0,2015
+212558,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.079152, 42.34731]",Point,MedAssist,7,UNCONS,146,D4,,No,HUNTINGTON AVE,Part Three,None,769933.0,,2950000.0,2015
+239999,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.102972, 42.316317]",Point,MedAssist,7,POISON,576,E13,,No,BOYLSTON ST,Part Three,None,763547.0,,2940000.0,2015
+247225,,Saturday,No,2015-07-11T00:00:00.000,Medical Assistance,"[-71.060849, 42.356989]",Point,MedAssist,7,REQP,102,A1,,No,BROMFIELD ST,Part Three,None,774863.0,,2960000.0,2015

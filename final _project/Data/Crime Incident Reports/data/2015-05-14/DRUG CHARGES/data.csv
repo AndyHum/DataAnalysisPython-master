@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1200,152039545.0,Thursday,No,2015-05-14T16:27:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,5,ARREST,0,C11,First,No,DORCHESTER AV,Part Two,Other,,,,2015
+6520,152039603.0,Thursday,No,2015-05-14T16:00:00.000,DRUG CHARGES,"[-71.12395, 42.256421]",Point,18xx,5,IVPREM,0,E18,First,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2015
+9195,152039465.0,Thursday,No,2015-05-14T12:46:00.000,DRUG CHARGES,"[-71.077565, 42.316091]",Point,18xx,5,CD11,0,B2,Day,No,WOODCLIFF ST,Part Two,Other,770418.5634,,2940494.7819999997,2015
+48245,152039512.0,Thursday,No,2015-05-14T14:55:00.000,DRUG CHARGES,"[-71.078186, 42.334556]",Point,18xx,5,IVPER,0,D4,Day,No,E LENOX ST,Part Two,Other,770217.2220000001,REED ST,2947222.7819999997,2015
+200487,152039555.0,Thursday,No,2015-05-14T16:30:00.000,DRUG CHARGES,"[-71.13939, 42.276226]",Point,18xx,5,IVMV,0,E5,First,No,WASHINGTON ST,Part Two,Unarmed,753758.9038,,2925890.582,2015

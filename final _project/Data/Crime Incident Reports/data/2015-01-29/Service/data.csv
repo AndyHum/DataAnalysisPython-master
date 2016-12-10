@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9099,152007762.0,Thursday,No,2015-01-29T15:03:00.000,Service,"[-71.042894, 42.33551]",Point,Service,1,IVMV,0,C6,Day,No,E BROADWAY,Part three,Unarmed,779757.4184,,2947619.498,2015
+41769,152007623.0,Thursday,No,2015-01-29T06:00:00.000,Service,"[-71.08736, 42.315811]",Point,Service,1,IVPREM,0,B2,Last,No,HUMBOLDT AV,Part three,Unarmed,767769.9235,WYOMING ST,2940379.777,2015
+127687,152007727.0,Thursday,No,2015-01-29T14:00:00.000,Service,"[-71.098056, 42.341254]",Point,Service,1,ARREST,0,D4,Day,No,PARK DR,Part three,Unarmed,764833.1517,,2949637.584,2015
+155582,152007684.0,Thursday,No,2015-01-29T12:00:00.000,Service,"[-71.063675, 42.352301]",Point,Service,1,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2015
+174451,152007616.0,Thursday,No,2015-01-29T04:30:00.000,Service,"[-71.059375, 42.303396]",Point,Service,1,ARREST,0,C11,Last,No,DORCHESTER AV,Part three,Unarmed,775361.8485,,2935893.4560000002,2015
+235873,152007930.0,Thursday,No,2015-01-29T10:00:00.000,Service,"[-71.05592, 42.376646]",Point,Service,1,CD9,0,A15,Day,No,VINE ST,Part three,Unarmed,776157.7262,,2962591.8660000004,2015

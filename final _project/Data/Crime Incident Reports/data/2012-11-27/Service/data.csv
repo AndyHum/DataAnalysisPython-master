@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125965,120746251.0,Tuesday,No,2012-11-27T16:00:00.000,Service,"[-71.06939, 42.339506]",Point,Service,11,IVPREM,167,D4,First,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2012
+193219,120743949.0,Tuesday,No,2012-11-27T10:33:00.000,Service,"[-71.14243, 42.349389]",Point,Service,11,ARREST,783,D14,Day,No,WARREN ST,Part Three,Unarmed,752824.3316,,2952548.8430000003,2012
+247846,120743906.0,Tuesday,No,2012-11-27T10:12:00.000,Service,"[-71.097995, 42.265806]",Point,Service,11,ARREST,481,E18,Day,No,RIVER ST,Part Three,Unarmed,764979.3689,,2922143.285,2012

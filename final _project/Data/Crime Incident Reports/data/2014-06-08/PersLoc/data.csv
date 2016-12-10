@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62588,140361029.0,Sunday,No,2014-06-08T10:44:00.000,PersLoc,"[-71.141721, 42.34306]",Point,PersLoc,6,MSNCOM,956,D14,Day,No,WASHINGTON ST,Other,Unarmed,753025.5063,,2950243.078,2014
+68096,140364338.0,Sunday,No,2014-06-08T14:30:00.000,PersLoc,"[-71.094221, 42.285525]",Point,PersLoc,6,MISPER,466,B3,Day,No,GREENDALE RD,Other,Unarmed,765966.6819,,2929333.8819999998,2014
+93011,140362529.0,Sunday,No,2014-06-08T18:00:00.000,PersLoc,"[-71.07456, 42.272901]",Point,PersLoc,6,MISPER,408,B3,First,No,STURBRIDGE ST,Other,Unarmed,771309.7923,,2924759.751,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32729,130202051.0,Saturday,No,2013-04-06T12:18:00.000,InvProp,"[-71.005729, 42.389414]",Point,InvProp,4,IVMV  ,7,A7,Day,No,GLADSTONE ST,Part Three,Unarmed,789692.1085,,2967319.409,2013
+67659,130201770.0,Saturday,No,2013-04-06T05:09:00.000,InvProp,"[-71.078025, 42.353926]",Point,InvProp,4,IVPREM,135,D4,Last,No,BEACON ST,Part Three,Unarmed,770225.9404,,2954281.917,2013
+121210,130203152.0,Saturday,No,2013-04-06T20:00:00.000,InvProp,"[-71.11716, 42.258211]",Point,InvProp,4,SHOTS ,494,E18,First,No,DAVISON ST,Part Three,Other,759804.4483,WEST ST,2919351.8910000003,2013
+129873,130202114.0,Saturday,No,2013-04-06T11:12:00.000,InvProp,"[-71.08965, 42.293121]",Point,InvProp,4,IVPREM,463,B3,Day,No,HARVARD ST,Part Three,Unarmed,767190.3511,LORNE ST,2932108.1960000005,2013
+130355,130202596.0,Saturday,No,2013-04-06T15:41:00.000,InvProp,"[-71.121654, 42.269662]",Point,InvProp,4,ALARMC,496,E18,Day,No,PROVIDENCE ST,Part Three,Unarmed,758569.1685,,2923519.163,2013
+250166,130203034.0,Saturday,No,2013-04-06T19:20:00.000,InvProp,"[-71.076925, 42.296581]",Point,InvProp,4,IVPREM,446,B3,First,No,SPENCER ST,Part Three,Unarmed,770626.9209,,2933385.8910000003,2013
+257931,130202631.0,Saturday,No,2013-04-06T16:12:00.000,InvProp,"[-71.063217, 42.284881]",Point,InvProp,4,ALARMR,394,C11,First,No,BUSHNELL ST,Part Three,Unarmed,774357.1474,,2929140.63,2013
+262277,130203254.0,Saturday,No,2013-04-06T19:05:00.000,InvProp,"[0, 0]",Point,InvProp,4,IVPREM,574,E13,First,No,BROOKSIDE AV,Part Three,Unarmed,,MONTELLO ST,,2013

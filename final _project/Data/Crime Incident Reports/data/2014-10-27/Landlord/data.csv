@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+106619,142043353.0,Monday,No,2014-10-27T21:46:00.000,Landlord,"[-71.10958, 42.331761]",Point,Landlord,10,IVPER,0,B2,First,No,PARKER HILL AV,Part three,Unarmed,761733.7133,,2946163.9480000003,2014
+111255,142045547.0,Monday,No,2014-10-27T18:00:00.000,Landlord,"[-71.068653, 42.306188]",Point,Landlord,10,IVPREM,0,C11,First,No,NORTON ST,Part three,Unarmed,772847.1206,,2936897.7789999996,2014
+259637,142043189.0,Monday,No,2014-10-27T13:35:00.000,Landlord,"[-71.103701, 42.320824]",Point,Landlord,10,LANTEN,0,E13,Day,No,ASHLEY ST,Part three,Unarmed,763341.7347,,2942185.445,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+152870,120511196.0,Friday,No,2012-08-17T02:50:00.000,Gather,"[-71.127615, 42.357546]",Point,Gather,8,DISTRB,816,D14,Last,No,CAMBRIDGE ST,Part Three,Other,756816.1812,,2955538.702,2012
+241657,120512870.0,Friday,No,2012-08-17T19:28:00.000,Gather,"[-71.08337, 42.337666]",Point,Gather,8,PERGUN,274,D4,First,No,TREMONT ST,Part Three,Firearm,768810.1519,,2948349.363,2012
+250171,120511287.0,Friday,No,2012-08-17T05:16:00.000,Gather,"[-71.061285, 42.301826]",Point,Gather,8,NOISE ,352,C11,Last,No,ARCADIA ST,Part Three,Unarmed,774848.3502,,2935318.622,2012

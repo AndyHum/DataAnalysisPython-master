@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44986,130384242.0,Friday,No,2013-06-21T10:00:00.000,PersMiss,"[-71.088916, 42.342401]",Point,PersMiss,6,MISPER,619,D4,Day,No,GAINSBOROUGH ST,Other,Unarmed,767302.2579999999,,2950067.662,2013
+74931,130384217.0,Friday,No,2013-06-21T13:30:00.000,PersMiss,"[-71.09785, 42.314351]",Point,PersMiss,6,MISPER,572,E13,Day,No,DIXWELL ST,Other,Unarmed,764935.3132,,2939834.1780000003,2013
+163939,130380504.0,Friday,No,2013-06-21T08:00:00.000,PersMiss,"[-71.087885, 42.309016]",Point,PersMiss,6,MSNCOM,319,B2,Day,No,ELM HILL AV,Other,Unarmed,767639.8954,,2937902.8819999998,2013

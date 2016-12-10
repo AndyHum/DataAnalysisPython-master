@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+55311,130786300.0,Saturday,No,2013-12-14T01:18:00.000,BENoProp,"[-71.170989, 42.268377]",Point,BENoProp,12,ALARMC,724,E5,Last,No,VFW PY,Part One,Other,745218.0879,,2922995.5889999997,2013
+97249,130788108.0,Saturday,No,2013-12-14T23:50:00.000,BENoProp,"[-71.0676, 42.301321]",Point,BENoProp,12,BEIP  ,345,C11,Last,No,TOPLIFF ST,Part One,Other,773140.9592,,2935125.869,2013
+162659,130792308.0,Saturday,No,2013-12-14T12:00:00.000,BENoProp,"[-71.122406, 42.27807]",Point,BENoProp,12,BERPT ,556,E18,Day,No,CANTERBURY ST,Part One,Unarmed,758352.2782,,2926582.395,2013
+201367,130787744.0,Saturday,No,2013-12-14T19:18:00.000,BENoProp,"[-71.061434, 42.300547]",Point,BENoProp,12,BEIP  ,352,C11,First,No,CHARLES ST,Part One,Other,774810.2974,,2934852.3389999997,2013

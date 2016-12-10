@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14939,152031341.0,Friday,No,2015-04-17T15:00:00.000,FORGERY,"[-71.061255, 42.355781]",Point,10xx,4,LARCEN,0,A1,Day,No,WINTER ST,Part Two,Unarmed,774755.3274,,2954980.7830000003,2015
+51271,152034246.0,Friday,No,2015-04-17T16:30:00.000,FORGERY,"[-71.13654, 42.364311]",Point,10xx,4,LARCEN,0,D14,First,No,SOLDIERS FIELD RD,Part Two,Unarmed,754393.4147,,2957993.605,2015
+148783,152031230.0,Friday,No,2015-04-17T09:35:00.000,FORGERY,"[-71.060585, 42.298841]",Point,10xx,4,LARCEN,0,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775043.317,,2934231.818,2015
+153259,152031646.0,Friday,No,2015-04-17T19:00:00.000,FORGERY,"[-71.089954, 42.326565]",Point,10xx,4,MISC,0,B2,First,No,ROCKLEDGE ST,Part Two,Unarmed,767049.4678,,2944295.184,2015
+267833,152031246.0,Friday,No,2015-04-17T09:42:00.000,FORGERY,"[0, 0]",Point,10xx,4,IVPER,0,A1,Day,No,SUMMER AV,Part Two,Unarmed,,,,2015

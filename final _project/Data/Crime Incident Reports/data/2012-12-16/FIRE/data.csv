@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+62211,120787681.0,Sunday,No,2012-12-16T20:35:00.000,FIRE,"[-71.115321, 42.255882]",Point,FIRE,12,FIREB ,512,E18,First,No,TRUMAN PY,Part Three,Unarmed,760305.8829,,2918505.3860000004,2012
+215750,120787793.0,Sunday,No,2012-12-16T22:00:00.000,FIRE,"[-71.094225, 42.349921]",Point,FIRE,12,FIREB ,622,D4,First,No,BAY STATE RD,Part Three,Unarmed,765854.0863,,2952801.1689999998,2012
+250301,120787495.0,Sunday,No,2012-12-16T18:14:00.000,FIRE,"[-71.126315, 42.236116]",Point,FIRE,12,FIREB ,525,E18,First,No,SIERRA RD,Part Three,Other,757361.412,,2911289.21,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+36936,130044645.0,Tuesday,No,2013-01-22T09:52:00.000,InvProp,"[-71.071225, 42.316831]",Point,InvProp,1,BEIP  ,260,B2,Day,No,LINGARD ST,Part Three,Other,772131.9094,,2940773.006,2013
+210354,130044856.0,Tuesday,No,2013-01-22T11:54:00.000,InvProp,"[-71.070718, 42.277656]",Point,InvProp,1,ALARMR,414,B3,Day,No,CLANCY RD,Part Three,Unarmed,772340.6359999999,,2926497.439,2013
+233799,130046547.0,Tuesday,No,2013-01-22T08:00:00.000,InvProp,"[-71.079535, 42.301751]",Point,InvProp,1,IVPER ,456,B3,Day,No,GREENWOOD ST,Part Three,Unarmed,769911.5211,,2935266.4260000004,2013

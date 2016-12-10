@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21707,142036268.0,Sunday,No,2014-10-05T19:50:00.000,Service,"[-71.093795, 42.268876]",Point,Service,10,ARREST,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766110.9716,,2923267.608,2014
+172060,142036157.0,Sunday,No,2014-10-05T13:50:00.000,Service,"[-71.06942, 42.362401]",Point,Service,10,ARREST,0,A1,Day,No,FRUIT ST,Part three,Unarmed,772536.2528,,2957381.922,2014
+258715,142036208.0,Sunday,No,2014-10-05T17:15:00.000,Service,"[-71.12366, 42.257651]",Point,Service,10,ARREST,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,758045.7614,,2919139.9889999996,2014

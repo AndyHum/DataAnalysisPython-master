@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+54357,152022938.0,Saturday,No,2015-03-21T15:56:00.000,PropLost,"[-71.071885, 42.351536]",Point,PropLost,3,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,771889.9292,,2953419.2260000003,2015
+69746,152023088.0,Saturday,No,2015-03-21T18:00:00.000,PropLost,"[-71.125325, 42.352176]",Point,PropLost,3,LARCEN,0,D14,First,No,BRIGHTON AV,Part three,Unarmed,757443.7219,,2953584.474,2015
+243797,152022979.0,Saturday,No,2015-03-21T14:00:00.000,PropLost,"[-71.121202, 42.254393]",Point,PropLost,3,PROP,0,E18,Day,No,OAK ST,Part three,Unarmed,758716.3214,,2917955.4480000003,2015
+246763,152024596.0,Saturday,No,2015-03-21T11:30:00.000,PropLost,"[-71.05756, 42.354891]",Point,PropLost,3,PROP,0,A1,Day,No,WINTHROP SQ,Part three,Unarmed,775755.7237,,2954661.6089999997,2015
+266727,152022762.0,Saturday,No,2015-03-21T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LARCEN,0,D4,Day,No,CENTER PZ,Part three,Unarmed,,,,2015
+266754,152023000.0,Saturday,No,2015-03-21T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,A1,First,No,BLACKSTONE ST,Part three,Unarmed,,,,2015
+266780,152023356.0,Saturday,No,2015-03-21T12:30:00.000,PropLost,"[0, 0]",Point,PropLost,3,PROP,0,C6,Day,No,W BROADWAY,Part three,Unarmed,,,,2015

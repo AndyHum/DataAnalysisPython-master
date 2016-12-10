@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3613,120746908.0,Wednesday,No,2012-11-28T16:08:00.000,FIRE,"[-71.037544, 42.372451]",Point,FIRE,11,FIREB ,28,A7,First,No,PARIS ST,Part Three,Unarmed,781131.0781,,2961089.363,2012
+58829,120747763.0,Wednesday,No,2012-11-28T23:49:00.000,FIRE,"[-71.150295, 42.336061]",Point,FIRE,11,FIREB ,790,D14,Last,No,BEACON ST,Part Three,Unarmed,750718.2974,,2947683.187,2012
+217899,120747703.0,Wednesday,No,2012-11-28T22:35:00.000,FIRE,"[-71.095034, 42.275902]",Point,FIRE,11,FV    ,469,B3,First,No,TENNIS RD,Part Three,Other,765763.285,,2925826.202,2012

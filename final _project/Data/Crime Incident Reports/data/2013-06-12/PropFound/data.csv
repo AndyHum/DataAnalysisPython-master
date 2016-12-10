@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53441,130357910.0,Wednesday,No,2013-06-12T09:30:00.000,PropFound,"[-71.134098, 42.286301]",Point,PropFound,6,LARCRT,679,E5,Day,No,BELGRADE AV,Part three,Unarmed,755175.1366,WALWORTH ST,2929568.204,2013
+145166,130357150.0,Wednesday,No,2013-06-12T12:47:00.000,PropFound,"[-71.0938, 42.331351]",Point,PropFound,6,FDPROP,290,B2,Day,No,MALCOLM X BL,Part Three,Unarmed,766001.1975,ELMWOOD ST,2946034.461,2013
+165543,130358569.0,Wednesday,No,2013-06-12T14:00:00.000,PropFound,"[-71.092958, 42.332518]",Point,PropFound,6,FDPROP,290,B2,Day,No,TREMONT ST,Part three,Unarmed,766226.6627,,2946460.8189999997,2013
+219262,130357715.0,Wednesday,No,2013-06-12T16:30:00.000,PropFound,"[-71.03887, 42.371246]",Point,PropFound,6,LSTPRP,28,A7,First,No,PARIS ST,Part three,Unarmed,780775.2494,,2960648.442,2013
+228484,130357080.0,Wednesday,No,2013-06-12T12:00:00.000,PropFound,"[-71.057055, 42.361776]",Point,PropFound,6,FDPROP,87,A1,Day,No,HANOVER ST,Part three,Unarmed,775879.1916,,2957171.3439999996,2013
+243791,130358396.0,Wednesday,No,2013-06-12T23:00:00.000,PropFound,"[-71.06232, 42.364881]",Point,PropFound,6,FDPROP,75,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774450.4537,PORTLAND ST,2958295.521,2013
+248974,130357143.0,Wednesday,No,2013-06-12T08:00:00.000,PropFound,"[-71.090956, 42.333723]",Point,PropFound,6,FDPROP,289,B2,Day,No,SCHROEDER PLAZA,Part Three,Unarmed,766765.8102,,2946902.542,2013
+262777,130357127.0,Wednesday,No,2013-06-12T09:00:00.000,PropFound,"[0, 0]",Point,PropFound,6,FDPROP,42,A15,Day,No,MEDFORD ST,Part three,Unarmed,,,,2013

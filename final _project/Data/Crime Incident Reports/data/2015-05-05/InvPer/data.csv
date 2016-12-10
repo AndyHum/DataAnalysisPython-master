@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+675,152036829.0,Tuesday,No,2015-05-05T21:25:00.000,InvPer,"[0, 0]",Point,InvPer,5,DISTRB,0,C11,First,No,GENEVA AV,Part three,Unarmed,,,,2015
+699,152036944.0,Tuesday,No,2015-05-05T17:00:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,C11,First,No,GIBSON ST,Part three,Unarmed,,,,2015
+18032,152036822.0,Tuesday,No,2015-05-05T21:46:00.000,InvPer,"[-71.068642, 42.316293]",Point,InvPer,5,SHOTS,0,B2,First,No,MONADNOCK ST,Part three,Unarmed,772831.4244,,2940580.485,2015
+55434,152036787.0,Tuesday,No,2015-05-05T18:40:00.000,InvPer,"[-71.05433, 42.354396]",Point,InvPer,5,IVPER,0,A1,First,No,CONGRESS ST,Part three,Unarmed,776629.7082,PURCHASE ST,2954485.7660000003,2015
+101078,152036717.0,Tuesday,No,2015-05-05T15:45:00.000,InvPer,"[-71.068411, 42.378278]",Point,InvPer,5,VIORDR,0,A15,Day,No,TIBBETTS TOWN WY,Part three,Unarmed,772779.5715,,2963169.22,2015
+178378,152036604.0,Tuesday,No,2015-05-05T10:00:00.000,InvPer,"[-71.097995, 42.330816]",Point,InvPer,5,IVPER,0,B2,Day,No,DELLE AV,Part three,Unarmed,764867.8186,,2945834.124,2015
+227491,152036824.0,Tuesday,No,2015-05-05T20:40:00.000,InvPer,"[-71.054725, 42.312146]",Point,InvPer,5,BE,0,C11,First,No,SAVIN HILL AV,Part three,Unarmed,776603.3184,,2939088.582,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21931,140160464.0,Sunday,No,2014-03-16T04:54:00.000,Service,"[-71.085387, 42.289863]",Point,Service,3,STAB  ,944,B3,Last,No,AMES ST,Part three,Knife,768349.27,,2930926.4310000003,2014
+26922,140160264.0,Sunday,No,2014-03-16T01:55:00.000,Service,"[-71.161235, 42.277927]",Point,Service,3,BRKDOG,720,E5,Last,No,SPRING ST,Part three,Unarmed,747844.3566,,2926486.139,2014
+161594,140161550.0,Sunday,No,2014-03-16T18:34:00.000,Service,"[-71.161235, 42.277927]",Point,Service,3,CD11  ,0,E5,First,No,SPRING ST,Other,Unarmed,747844.3566,,2926486.139,2014

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+51360,,Thursday,No,2015-07-02T00:00:00.000,Police Service Incidents,"[-71.062495, 42.35697]",Point,Service,7,ARREST,102,A1,,No,PARK ST,Part Three,None,774418.0,,2960000.0,2015
+59434,,Thursday,No,2015-07-02T00:00:00.000,Police Service Incidents,"[-71.06134, 42.310434]",Point,Service,7,ARREST,257,C11,,No,HANCOCK ST,Part Three,None,774817.0,,2940000.0,2015
+164065,,Thursday,No,2015-07-02T00:00:00.000,Police Service Incidents,"[-71.04639, 42.354048]",Point,Service,7,CD5,207,C6,,No,COURTHOUSE WAY,Part Three,None,778776.0,,2950000.0,2015

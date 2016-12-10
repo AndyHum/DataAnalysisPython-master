@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+127585,,Wednesday,No,2015-07-15T00:00:00.000,Missing Person Reported,"[-71.036317, 42.334749]",Point,PersMiss,7,IVPER,226,C6,,No,E FOURTH ST,Part Three,None,781537.0,,2950000.0,2015
+175555,,Wednesday,No,2015-07-15T00:00:00.000,Missing Person Reported,"[-71.039713, 42.371425]",Point,PersMiss,7,I00027,26,A7,,No,HAVRE ST,Part Three,None,780547.0,,2960000.0,2015
+248266,,Wednesday,No,2015-07-15T00:00:00.000,Missing Person Reported,"[-71.053882, 42.335067]",Point,PersMiss,7,I00027,197,C6,,No,OLD COLONY AVE,Part Three,None,776787.0,,2950000.0,2015

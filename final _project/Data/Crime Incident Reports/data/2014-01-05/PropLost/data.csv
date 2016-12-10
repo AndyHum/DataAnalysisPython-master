@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71789,140007999.0,Sunday,No,2014-01-05T09:25:00.000,PropLost,"[-71.073281, 42.276791]",Point,PropLost,1,MISCRP,413,B3,Day,No,ELLISON AV,Part three,Unarmed,771648.6299,,2926179.027,2014
+173066,140008288.0,Sunday,No,2014-01-05T10:00:00.000,PropLost,"[-71.108765, 42.305141]",Point,PropLost,1,LARCRT,569,E13,Day,No,WASHINGTON ST,Part three,Unarmed,761998.5773,,2936464.172,2014
+183796,140018728.0,Sunday,No,2014-01-05T14:30:00.000,PropLost,"[-71.135492, 42.348735]",Point,PropLost,1,LARCRT,169,D14,Day,No,LONG ISLAND RD,Part three,Unarmed,754700.8393,,2952318.46,2014
+193371,142037566.0,Sunday,No,2014-01-05T14:00:00.000,PropLost,"[-71.106415, 42.338441]",Point,PropLost,1,PROP,0,B2,Day,No,LONGWOOD AV,Part three,Unarmed,762578.2691,,2948602.1960000005,2014
+227680,140009007.0,Sunday,No,2014-01-05T19:47:00.000,PropLost,"[-71.0775, 42.271566]",Point,PropLost,1,LSTPRP,409,B3,First,No,RIVER ST,Part three,Unarmed,770516.5134,,2924269.305,2014
+266160,140012978.0,Sunday,No,2014-01-05T14:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,INVEST,199,C6,Day,No,A ST,Part three,Unarmed,,,,2014

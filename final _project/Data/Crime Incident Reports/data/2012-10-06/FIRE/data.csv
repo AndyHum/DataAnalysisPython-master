@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104521,120629925.0,Saturday,No,2012-10-06T15:54:00.000,FIRE,"[-71.111164, 42.316045]",Point,FIRE,10,FIREB ,639,E13,Day,No,ROBINWOOD AV,Part Three,Other,761331.3073,,2940434.6739999996,2012
+110565,120630203.0,Saturday,No,2012-10-06T18:01:00.000,FIRE,"[-71.044145, 42.332866]",Point,FIRE,10,IVPREM,219,C6,First,No,G ST,Part Three,Unarmed,779424.5802,,2946654.4,2012
+121079,120628649.0,Saturday,No,2012-10-06T00:58:00.000,FIRE,"[-71.10728, 42.303751]",Point,FIRE,10,FIREB ,569,E13,Last,No,BROOKLEY RD,Part Three,Other,762402.61,,2935959.48,2012

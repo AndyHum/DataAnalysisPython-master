@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11541,,Friday,No,2015-06-26T00:00:00.000,Property Lost,"[0, 0]",Point,PropLost,6,,612,B2,,No,LONGWOOD AVE,Part Three,None,,,,2015
+23791,,Friday,No,2015-06-26T00:00:00.000,Property Lost,"[-71.10813, 42.323484]",Point,PropLost,6,,582,E13,,No,CREIGHTON ST,Part Three,None,762140.0,,2940000.0,2015
+51535,,Friday,No,2015-06-26T00:00:00.000,Property Lost,"[-71.054654, 42.339133]",Point,PropLost,6,,936,C6,,No,DALESSIO CT,Part Three,None,776571.0,,2950000.0,2015
+103533,,Friday,No,2015-06-26T00:00:00.000,Property Lost,"[-71.049951, 42.357216]",Point,PropLost,6,PROP,0,,,No,ROWES,Part Three,None,777808.0,,2960000.0,2015
+137720,,Friday,No,2015-06-26T00:00:00.000,Property Lost,"[-71.071703, 42.291316]",Point,PropLost,6,DISTRB,362,C11,,No,WASHINGTON ST,Part Three,None,772049.0,,2930000.0,2015
+147381,,Friday,No,2015-06-26T00:00:00.000,Property Lost,"[-71.064323, 42.35311]",Point,PropLost,6,PROP,111,A1,,No,TREMONT ST,Part Three,None,773931.0,,2950000.0,2015
+205807,,Friday,No,2015-06-26T00:00:00.000,Property Lost,"[-71.130906, 42.355401]",Point,PropLost,6,PROP,800,D14,,No,LINDEN ST,Part Three,None,755930.0,,2950000.0,2015
+224077,,Friday,No,2015-06-26T20:30:00.000,Property Lost,"[0, 0]",Point,PropLost,6,,16,A7,,No,CONDOR ST,Part Three,None,,GLENDON ST,,2015

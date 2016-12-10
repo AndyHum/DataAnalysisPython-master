@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+23578,120505399.0,Tuesday,No,2012-08-14T16:16:00.000,Service,"[-71.129896, 42.358686]",Point,Service,8,ARREST,816,D14,First,No,HOLMAN ST,Part Three,Other,756197.6906,,2955951.3230000003,2012
+160837,120504833.0,Tuesday,No,2012-08-14T11:00:00.000,Service,"[-71.050071, 42.289664]",Point,Service,8,IVPREM,378,C11,Day,No,ASHMONT ST,Part Three,Unarmed,777905.2214,,2930902.401,2012
+180540,120504995.0,Tuesday,No,2012-08-14T11:00:00.000,Service,"[-71.06868, 42.336911]",Point,Service,8,ARREST,172,D4,Day,No,ALBANY ST,Part Three,Unarmed,772783.2126,,2948093.97,2012
+192557,120504786.0,Tuesday,No,2012-08-14T11:50:00.000,Service,"[-71.05849, 42.362381]",Point,Service,8,ARREST,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775490.2232,CONGRESS ST,2957389.8060000003,2012
+246140,120504657.0,Tuesday,No,2012-08-14T10:36:00.000,Service,"[-71.049384, 42.330326]",Point,Service,8,IVPER ,915,C6,Day,No,COLUMBIA RD,Part Three,Unarmed,778012.8107,,2945721.11,2012

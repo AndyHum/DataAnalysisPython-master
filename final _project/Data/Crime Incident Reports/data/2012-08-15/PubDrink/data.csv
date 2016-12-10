@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+21859,120507183.0,Wednesday,No,2012-08-15T11:56:00.000,PubDrink,"[-71.08135, 42.332389]",Point,PubDrink,8,SSTOP ,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,769365.5688,,2946429.0289999996,2012
+109347,120507498.0,Wednesday,No,2012-08-15T14:28:00.000,PubDrink,"[-71.08136, 42.329161]",Point,PubDrink,8,IVPER ,279,B2,Day,No,WINSLOW ST,Part Two,Unarmed,769368.7993,ZEIGLER ST,2945252.65,2012
+114567,120507709.0,Wednesday,No,2012-08-15T16:20:00.000,PubDrink,"[-71.08135, 42.332389]",Point,PubDrink,8,SSTOP ,276,B2,First,No,WASHINGTON ST,Part Two,Other,769365.5688,,2946429.0289999996,2012
+145247,120507273.0,Wednesday,No,2012-08-15T12:30:00.000,PubDrink,"[-71.08411, 42.328726]",Point,PubDrink,8,IVPER ,0,B2,Day,No,DUDLEY ST,Part Two,Other,768625.9666,,2945090.4910000004,2012
+172322,120507408.0,Wednesday,No,2012-08-15T13:50:00.000,PubDrink,"[-71.08271, 42.331051]",Point,PubDrink,8,ARREST,276,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,769000.3868,RUGGLES ST,2945939.61,2012
+174934,120507306.0,Wednesday,No,2012-08-15T12:56:00.000,PubDrink,"[0, 0]",Point,PubDrink,8,IVPER ,280,B2,Day,No,TABER ST,Part Two,Unarmed,,,,2012
+178632,120507481.0,Wednesday,No,2012-08-15T14:19:00.000,PubDrink,"[-71.08326, 42.329736]",Point,PubDrink,8,IVPER ,0,B2,Day,No,WARREN ST,Part Two,Other,768854.0114,,2945459.675,2012

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2963,152048824.0,Friday,No,2015-06-12T19:23:00.000,InvProp,"[0, 0]",Point,InvProp,6,PSHOT,0,B2,First,No,BLUE HILL AV,Part three,Unarmed,,,,2015
+3019,152048803.0,Friday,No,2015-06-12T16:00:00.000,InvProp,"[0, 0]",Point,InvProp,6,IVPREM,0,A1,First,No,LOUISBURG SQ,Part three,Unarmed,,,,2015
+29661,152048879.0,Friday,No,2015-06-12T22:40:00.000,InvProp,"[-71.0985, 42.322151]",Point,InvProp,6,SHOTS,0,E13,First,No,COLUMBUS AV,Part three,Other,764746.1322,AMORY ST,2942675.8019999997,2015
+90003,152048870.0,Friday,No,2015-06-12T22:16:00.000,InvProp,"[-71.096153, 42.324338]",Point,InvProp,6,SHOTS,0,B2,First,No,MARCELLA ST,Part three,Other,765377.0161,,2943475.6160000004,2015
+114996,152048660.0,Friday,No,2015-06-12T11:00:00.000,InvProp,"[-71.068595, 42.358406]",Point,InvProp,6,IVPREM,0,A1,Day,No,LOUISBURG SQ,Part three,Unarmed,772766.5761,,2955927.264,2015
+120092,152048736.0,Friday,No,2015-06-12T16:30:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,6,IVPREM,0,D4,First,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2015
+186879,152048876.0,Friday,No,2015-06-12T18:30:00.000,InvProp,"[-71.063208, 42.364318]",Point,InvProp,6,IVPREM,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774211.4955,,2958089.1139999996,2015

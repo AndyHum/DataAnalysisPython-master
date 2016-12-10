@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71590,,Friday,No,2015-07-03T00:00:00.000,Auto Theft,"[-71.063693, 42.35354]",Point,07xx,7,IVMV,111,A1,,No,MASON ST,Part One,None,774100.0,,2950000.0,2015
+101789,,Friday,No,2015-07-03T00:00:00.000,Auto Theft,"[-71.076354, 42.318407]",Point,07xx,7,IVMV,324,B2,,No,BROOKFORD ST,Part One,None,770742.0,,2940000.0,2015
+148444,,Friday,No,2015-07-03T17:38:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,567,B2,,No,JEWISH WAR VETERANS DR,Part One,None,, PIERPONT RD ,,2015
+205220,,Friday,No,2015-07-03T07:00:00.000,Auto Theft,"[0, 0]",Point,07xx,7,IVMV,808,D14,,No,CYGNET ST,Part One,None,,LITCHFIELD ST,,2015
+223922,,Friday,No,2015-07-03T00:00:00.000,Auto Theft,"[-71.06134, 42.310434]",Point,07xx,7,,257,C11,,No,HANCOCK ST,Part One,None,774817.0,,2940000.0,2015

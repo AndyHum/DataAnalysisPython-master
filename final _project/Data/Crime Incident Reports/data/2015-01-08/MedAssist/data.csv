@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31074,152002035.0,Thursday,No,2015-01-08T08:00:00.000,MedAssist,"[-71.116773, 42.248278]",Point,MedAssist,1,IVPER,0,E18,Day,No,WILLIAMS AV,Part three,Unarmed,759925.2504,,2915732.3589999997,2015
+62690,152002150.0,Thursday,No,2015-01-08T17:26:00.000,MedAssist,"[-71.061698, 42.291418]",Point,MedAssist,1,IVPER,0,C11,First,No,ST MARKS RD,Part three,Unarmed,774755.932,,2931525.043,2015
+84754,152002015.0,Thursday,No,2015-01-08T10:32:00.000,MedAssist,"[-71.08689, 42.297981]",Point,MedAssist,1,EDP,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,767928.5077,,2933882.857,2015
+84974,152001948.0,Thursday,No,2015-01-08T00:41:00.000,MedAssist,"[-71.065953, 42.293974]",Point,MedAssist,1,EDP,0,C11,Last,No,MATHER ST,Part three,Knife,773599.9882,,2932450.51,2015
+119674,152002198.0,Thursday,No,2015-01-08T20:43:00.000,MedAssist,"[-71.128879, 42.28591]",Point,MedAssist,1,IVPER,0,E5,First,No,POPLAR ST,Part three,Unarmed,756587.8821,,2929431.742,2015
+181423,152002186.0,Thursday,No,2015-01-08T20:05:00.000,MedAssist,"[-71.11555, 42.309331]",Point,MedAssist,1,IVPER,0,E13,First,No,CENTRE ST,Part three,Unarmed,760156.3199,SOUTH ST,2937982.731,2015
+184316,152002122.0,Thursday,No,2015-01-08T16:42:00.000,MedAssist,"[-71.03665, 42.371736]",Point,MedAssist,1,EDP,0,A7,First,No,CHELSEA ST,Part three,Unarmed,781374.1704,,2960830.26,2015
+193343,152001951.0,Thursday,No,2015-01-08T01:08:00.000,MedAssist,"[-71.00221, 42.384341]",Point,MedAssist,1,REQEP,0,A7,Last,No,ST ANDREW RD,Part three,Unarmed,790653.7073,,2965476.203,2015
+202501,152001967.0,Thursday,No,2015-01-08T05:01:00.000,MedAssist,"[-71.054691, 42.36476]",Point,MedAssist,1,IVPER,0,A1,Last,No,PRINCE ST,Part three,Unarmed,776512.2642,,2958261.829,2015
+236094,152002072.0,Thursday,No,2015-01-08T13:59:00.000,MedAssist,"[-71.070311, 42.310124]",Point,MedAssist,1,EDP,0,C11,Day,No,MT EVERETT ST,Part three,Unarmed,772391.3521,,2938329.9689999996,2015
+261073,152001964.0,Thursday,No,2015-01-08T04:25:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,REQP,0,A7,Last,No,BENNINGTON ST,Part three,Unarmed,,,,2015
+261281,152002088.0,Thursday,No,2015-01-08T13:47:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,EDP,0,C6,Day,No,STERLING SQ,Part three,Other,,,,2015

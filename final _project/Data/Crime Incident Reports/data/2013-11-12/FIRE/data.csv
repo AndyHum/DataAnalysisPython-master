@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+35990,130719770.0,Tuesday,No,2013-11-12T17:05:00.000,FIRE,"[-71.09456, 42.331431]",Point,FIRE,11,FV    ,290,B2,First,No,TREMONT ST,Part three,Unarmed,765795.5609,COLUMBUS AV,2946062.6360000004,2013
+116554,130718447.0,Tuesday,No,2013-11-12T01:35:00.000,FIRE,"[-71.079652, 42.311398]",Point,FIRE,11,INVEST,326,B2,Last,No,INTERVALE ST,Part three,Other,769862.4169,,2938781.7,2013
+125238,130719997.0,Tuesday,No,2013-11-12T17:45:00.000,FIRE,"[-71.085618, 42.32866]",Point,FIRE,11,IVPREM,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013

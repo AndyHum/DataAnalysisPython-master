@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+219466,142047085.0,Friday,No,2014-11-07T08:00:00.000,InvProp,"[-71.067775, 42.273361]",Point,InvProp,11,LARCEN,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,773145.2492,,2924936.613,2014
+238216,142046822.0,Friday,No,2014-11-07T16:11:00.000,InvProp,"[-71.08609, 42.336106]",Point,InvProp,11,IVPREM,0,D4,First,No,TREMONT ST,Part three,Other,768077.5159,,2947777.29,2014
+246893,142046872.0,Friday,No,2014-11-07T19:30:00.000,InvProp,"[-71.108575, 42.336521]",Point,InvProp,11,VAND,0,B2,First,No,FRANCIS ST,Part three,Other,761997.4966,,2947899.825,2014
+263398,142046878.0,Friday,No,2014-11-07T18:00:00.000,InvProp,"[0, 0]",Point,InvProp,11,CD19,0,A1,First,No,CAUSEWAY ST,Part three,Unarmed,,,,2014

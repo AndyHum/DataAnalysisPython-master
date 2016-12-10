@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42537,142003134.0,Thursday,No,2014-06-26T14:00:00.000,Service,"[-71.062575, 42.352726]",Point,Service,6,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,774404.2569,,2953865.65,2014
+79198,142003361.0,Thursday,No,2014-06-26T22:06:00.000,Service,"[-71.059735, 42.297541]",Point,Service,6,IVPER,0,C11,First,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2014
+149754,142003461.0,Thursday,No,2014-06-26T10:00:00.000,Service,"[-71.06249, 42.352371]",Point,Service,6,LARCEN,0,A1,Day,No,ESSEX ST,Part three,Unarmed,774427.8963,,2953736.3989999997,2014
+171490,142003115.0,Thursday,No,2014-06-26T11:00:00.000,Service,"[-71.067545, 42.377411]",Point,Service,6,IVPREM,0,A15,Day,No,DUNSTABLE ST,Part three,Unarmed,773015.2518,,2962854.5089999996,2014
+202678,142003242.0,Thursday,No,2014-06-26T18:00:00.000,Service,"[-71.00391, 42.390181]",Point,Service,6,ARREST,0,A7,First,No,SELMA ST,Part three,Unarmed,790182.0467,ORIENT AV,2967601.7410000004,2014
+207390,142003147.0,Thursday,No,2014-06-26T14:00:00.000,Service,"[-71.145785, 42.285586]",Point,Service,6,IVPER,0,E5,Day,No,MONTVALE ST,Part three,Unarmed,752014.0674,,2929294.256,2014
+215042,142003287.0,Thursday,No,2014-06-26T18:15:00.000,Service,"[-71.091325, 42.284861]",Point,Service,6,ARREST,0,B3,First,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40705,152010024.0,Friday,No,2015-02-06T10:25:00.000,Service,"[-71.061235, 42.310371]",Point,Service,2,CD11,0,C11,Day,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2015
+49651,152009846.0,Friday,No,2015-02-06T12:25:00.000,Service,"[-71.062118, 42.33024]",Point,Service,2,IVPER,0,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,774569.7179,ALLSTATE RD,2945672.019,2015
+116507,152009847.0,Friday,No,2015-02-06T12:00:00.000,Service,"[-71.07742, 42.335791]",Point,Service,2,ARREST,0,D4,Day,No,NORTHAMPTON ST,Part three,Unarmed,770422.2127,,2947673.9930000002,2015
+161809,152009981.0,Friday,No,2015-02-06T20:00:00.000,Service,"[-71.05648, 42.351331]",Point,Service,2,ARREST,0,A1,First,No,EAST ST,Part three,Unarmed,776054.3848,ATLANTIC AV,2953365.7939999998,2015
+167737,152009931.0,Friday,No,2015-02-06T16:43:00.000,Service,"[-71.08784, 42.315206]",Point,Service,2,ASLTIP,0,B2,First,No,HUMBOLDT AV,Part three,Other,767641.1664,WAUMBECK ST,2940158.6769999997,2015
+171978,152009842.0,Friday,No,2015-02-06T12:00:00.000,Service,"[-71.06249, 42.352371]",Point,Service,2,ARREST,0,A1,Day,No,ESSEX ST,Part three,Unarmed,774427.8963,WASHINGTON ST,2953736.3989999997,2015
+250173,152010009.0,Friday,No,2015-02-06T20:55:00.000,Service,"[-71.076026, 42.325545]",Point,Service,2,FIGHT,0,B2,First,No,FOREST ST,Part three,Unarmed,770817.6305,,2943941.7410000004,2015
+264981,152009758.0,Friday,No,2015-02-06T06:30:00.000,Service,"[0, 0]",Point,Service,2,CD9,0,A1,Last,No,COURTHOUSE WY,Part three,Unarmed,,,,2015

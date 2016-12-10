@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+170293,142045946.0,Tuesday,No,2014-11-04T22:00:00.000,Arrest,"[-71.009504, 42.38977]",Point,Arrest,11,ARREST,0,A7,First,No,LEYDEN ST,Part three,Unarmed,788671.5371,,2967443.041,2014
+243960,142045814.0,Tuesday,No,2014-11-04T14:45:00.000,Arrest,"[-71.05393, 42.331061]",Point,Arrest,11,IVPER,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,776782.2967,JENKINS ST,2945982.639,2014

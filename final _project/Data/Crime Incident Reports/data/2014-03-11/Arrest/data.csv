@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56750,140149662.0,Tuesday,No,2014-03-11T11:30:00.000,Arrest,"[-71.085978, 42.296806]",Point,Arrest,3,IVPER ,257,B3,Day,No,ABBOT ST,Part three,Unarmed,768177.1099,,2933455.566,2014
+74049,140148995.0,Tuesday,No,2014-03-11T10:45:00.000,Arrest,"[-71.10383, 42.322836]",Point,Arrest,3,ARREST,581,E13,Day,No,CENTRE ST,Part three,Unarmed,763303.5691,,2942918.688,2014
+155126,140148719.0,Tuesday,No,2014-03-11T08:25:00.000,Arrest,"[-71.07186, 42.273931]",Point,Arrest,3,IVPER ,407,B3,Day,No,SANFORD ST,Part three,Unarmed,772038.6416,OLD MORTON ST,2925138.753,2014

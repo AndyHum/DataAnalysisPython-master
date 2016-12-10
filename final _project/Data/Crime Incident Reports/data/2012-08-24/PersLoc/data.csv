@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+112973,120526864.0,Friday,No,2012-08-24T03:17:00.000,PersLoc,"[-71.071555, 42.272931]",Point,PersLoc,8,CURFEW,407,B3,Last,No,OLD MORTON ST,Part Three,Unarmed,772123.0179999999,,2924774.7539999997,2012
+124571,120528305.0,Friday,No,2012-08-24T17:00:00.000,PersLoc,"[-71.04217, 42.371801]",Point,PersLoc,8,MSNCOM,27,A7,First,No,BORDER ST,Part Three,Unarmed,779882.4333,,2960845.892,2012
+233748,120528946.0,Friday,No,2012-08-24T22:52:00.000,PersLoc,"[-71.0818, 42.271311]",Point,PersLoc,8,MSNCOM,422,B3,First,No,RIVER ST,Part Three,Unarmed,769353.1827,,2924170.644,2012
+256824,120537406.0,Friday,No,2012-08-24T14:00:00.000,PersLoc,"[-71.098258, 42.27649]",Point,PersLoc,8,MISPER,470,B3,Day,No,SAVANNAH AV,Part Three,Unarmed,764889.8931,,2926036.5360000003,2012

@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+16300,,Thursday,No,2015-07-30T00:55:00.000,Drug Violation,"[0, 0]",Point,18xx,7,POISON,108,A1,,No,CONGRESS ST,Part Two,None,,PURCHASE ST,,2015
+35959,,Thursday,No,2015-07-30T00:00:00.000,Drug Violation,"[-71.085634, 42.328663]",Point,18xx,7,ADMRPT,282,B2,,No,WASHINGTON ST,Part Two,None,768214.0,,2950000.0,2015
+40195,,Thursday,No,2015-07-30T16:45:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,559,E5,,No,ROSECLIFF ST,Part Two,None,,WASHINGTON ST,,2015
+50191,,Thursday,No,2015-07-30T17:25:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,112,A1,,No,ESSEX ST,Part Two,None,,HARRISON AVE,,2015
+57584,,Thursday,No,2015-07-30T00:00:00.000,Drug Violation,"[-71.080744, 42.338566]",Point,18xx,7,IVPREM,273,D4,,No,NORTHAMPTON ST,Part Two,None,769518.0,,2950000.0,2015
+106815,,Thursday,No,2015-07-30T02:05:00.000,Drug Violation,"[0, 0]",Point,18xx,7,TS,321,B2,,No,BLUE HILL AVE,Part Two,None,,WARREN ST,,2015
+162675,,Thursday,No,2015-07-30T17:43:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPER,0,,,No,,Part Two,None,,TREMONT ST,,2015
+180906,,Thursday,No,2015-07-30T00:00:00.000,Drug Violation,"[-71.086443, 42.349454]",Point,18xx,7,ARREST,141,D4,,No,COMMONWEALTH AVE,Part Two,None,767958.0,,2950000.0,2015
+193820,,Thursday,No,2015-07-30T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,7,IVPER,178,B2,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+199592,,Thursday,No,2015-07-30T12:30:00.000,Drug Violation,"[0, 0]",Point,18xx,7,IVPREM,179,C6,,No, MASSACHUSETTS AVE ,Part Two,None,, MELNEA CASS BLVD ,,2015
+206821,,Thursday,No,2015-07-30T02:18:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,0,,,No,,Part Two,None,,DORCHESTER AVE,,2015
+226769,,Thursday,No,2015-07-30T14:53:00.000,Drug Violation,"[0, 0]",Point,18xx,7,ARREST,0,,,No,,Part Two,None,,CHARLES ST,,2015
+238912,,Thursday,No,2015-07-30T00:00:00.000,Drug Violation,"[-71.059536, 42.309233]",Point,18xx,7,ARREST,339,C11,,No,HANCOCK ST,Part Two,None,775307.0,,2940000.0,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22357,120606649.0,Wednesday,No,2012-09-26T10:10:00.000,PubDrink,"[-71.03996, 42.377891]",Point,PubDrink,9,IVPER ,0,A7,Day,No,BORDER ST,Part Two,Unarmed,780467.6477,,2963068.4239999996,2012
+105006,120606467.0,Wednesday,No,2012-09-26T20:15:00.000,PubDrink,"[-71.09699, 42.342841]",Point,PubDrink,9,ARREST,625,D4,First,No,JERSEY ST,Part Two,Unarmed,765118.8605,QUEENSBERRY ST,2950217.5360000003,2012
+157245,120604471.0,Wednesday,No,2012-09-26T04:02:00.000,PubDrink,"[-71.084646, 42.304835]",Point,PubDrink,9,IVPER ,330,B2,Last,No,BLUE HILL AV,Part Two,Other,768523.3694,,2936383.492,2012

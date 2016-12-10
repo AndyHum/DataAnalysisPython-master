@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22016,120580262.0,Saturday,No,2012-09-15T23:26:00.000,InvProp,"[-71.100792, 42.330461]",Point,InvProp,9,PARTY ,586,B2,First,No,CHEROKEE ST,Part Three,Unarmed,764112.0531,,2945700.892,2012
+30644,120579654.0,Saturday,No,2012-09-15T18:20:00.000,InvProp,"[-71.098528, 42.327445]",Point,InvProp,9,REQP  ,586,B2,First,No,TERRACE ST,Part Three,Unarmed,764729.4865,,2944604.955,2012
+46036,120580901.0,Saturday,No,2012-09-15T07:30:00.000,InvProp,"[-71.06392, 42.301046]",Point,InvProp,9,BERPT ,352,C11,Day,No,DITSON ST,Part Three,Unarmed,774136.9874,,2935030.722,2012
+85400,120579009.0,Saturday,No,2012-09-15T13:10:00.000,InvProp,"[-71.112885, 42.249816]",Point,InvProp,9,ALARMR,514,E18,Day,No,SUMMIT CR,Part Three,Unarmed,760975.5987,,2916297.87,2012
+104548,120579405.0,Saturday,No,2012-09-15T16:25:00.000,InvProp,"[-71.05878, 42.294501]",Point,InvProp,9,FIGHT ,364,C11,First,No,CENTRE ST,Part Three,Unarmed,775539.8065,,2932652.78,2012
+104681,120674998.0,Saturday,No,2012-09-15T07:30:00.000,InvProp,"[-71.03887, 42.371246]",Point,InvProp,9,IVPER ,28,A7,Day,No,PARIS ST,Part Three,Unarmed,780775.2494,,2960648.442,2012
+195255,120578549.0,Saturday,No,2012-09-15T08:12:00.000,InvProp,"[-71.0864, 42.310871]",Point,InvProp,9,LOCK  ,320,B2,Day,No,ELM HILL AV,Part Three,Unarmed,768038.2926,,2938580.818,2012
+195549,120578100.0,Saturday,No,2012-09-15T01:01:00.000,InvProp,"[-71.059615, 42.312879]",Point,InvProp,9,IVPER ,823,C11,Last,No,SAWYER AV,Part Three,Unarmed,775279.099,,2939348.8310000002,2012
+245037,120579720.0,Saturday,No,2012-09-15T19:48:00.000,InvProp,"[-71.099107, 42.328539]",Point,InvProp,9,NOISE ,586,B2,First,No,PARKER ST,Part Three,Unarmed,764570.8891,,2945002.935,2012

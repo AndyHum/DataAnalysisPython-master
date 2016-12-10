@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+24259,130419939.0,Monday,No,2013-07-08T08:00:00.000,Arrest,"[-71.07463, 42.335321]",Point,Arrest,7,IVPER ,200,D4,Day,No,HARRISON AV,Part three,Unarmed,771177.4087,,2947506.466,2013
+49556,130419699.0,Monday,No,2013-07-08T08:30:00.000,Arrest,"[-71.07376, 42.282643]",Point,Arrest,7,ARREST,417,C11,Day,No,STOCKTON ST,Part three,Unarmed,771508.3897,,2928310.909,2013
+217037,130419693.0,Monday,No,2013-07-08T08:24:00.000,Arrest,"[-71.12768, 42.352461]",Point,Arrest,7,ARREST,796,D14,Day,No,BRIGHTON AV,Part three,Unarmed,756806.702,FORDHAM RD,2953685.546,2013
+255483,130420297.0,Monday,No,2013-07-08T13:16:00.000,Arrest,"[-71.162725, 42.349016]",Point,Arrest,7,ARREST,752,D14,Day,No,WASHINGTON ST,Part three,Unarmed,747338.8871,,2952390.715,2013

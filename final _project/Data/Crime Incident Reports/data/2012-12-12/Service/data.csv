@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25964,120778097.0,Wednesday,No,2012-12-12T14:40:00.000,Service,"[0, 0]",Point,Service,12,IVPER ,455,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,,GLENVILLE TR,,2012
+34736,120777646.0,Wednesday,No,2012-12-12T11:42:00.000,Service,"[-71.0626, 42.343011]",Point,Service,12,ARREST,165,D4,Day,No,ALBANY ST,Part Three,Unarmed,774415.6545,E BERKELEY ST,2950325.289,2012
+52384,120777876.0,Wednesday,No,2012-12-12T13:20:00.000,Service,"[-71.062575, 42.352726]",Point,Service,12,SHPLFT,111,A1,Day,No,WASHINGTON ST,Part Three,Unarmed,774404.2569,,2953865.65,2012
+58281,120776993.0,Wednesday,No,2012-12-12T06:00:00.000,Service,"[-71.06308, 42.320187]",Point,Service,12,CD11  ,237,B2,Last,No,ELDER ST,Part Three,Unarmed,774328.2741,,2942007.148,2012
+144162,120778935.0,Wednesday,No,2012-12-12T22:00:00.000,Service,"[-71.07825, 42.335516]",Point,Service,12,FIGHT ,170,D4,First,No,WASHINGTON ST,Part Three,Unarmed,770198.2968,,2947572.668,2012
+200978,120778356.0,Wednesday,No,2012-12-12T09:00:00.000,Service,"[-71.073535, 42.336201]",Point,Service,12,LARCRT,171,D4,Day,No,HARRISON AV,Part Three,Unarmed,771471.8664,,2947828.633,2012
+257605,120776965.0,Wednesday,No,2012-12-12T04:09:00.000,Service,"[-71.115994, 42.275121]",Point,Service,12,ARREST,497,E18,Last,No,AMERICAN LEGION HY,Part Three,Unarmed,760092.1353,,2925515.338,2012

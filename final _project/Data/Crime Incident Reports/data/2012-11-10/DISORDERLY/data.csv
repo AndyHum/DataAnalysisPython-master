@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+66382,120707401.0,Saturday,No,2012-11-10T19:32:00.000,DISORDERLY,"[-71.085298, 42.329524]",Point,24xx,11,TRANSP,288,B2,First,No,ROXBURY ST,Part Two,Other,768303.1628,,2945379.693,2012
+151741,120717177.0,Saturday,No,2012-11-10T18:35:00.000,DISORDERLY,"[-71.058756, 42.36273]",Point,24xx,11,IVPER ,77,A1,First,No,CONGRESS ST,Part Two,Unarmed,775417.5164,,2957516.3419999997,2012
+264047,120709739.0,Saturday,No,2012-11-10T19:30:00.000,DISORDERLY,"[0, 0]",Point,24xx,11,ARREST,749,D14,First,No,ST THOMAS MORE RD,Part Two,Unarmed,,,,2012

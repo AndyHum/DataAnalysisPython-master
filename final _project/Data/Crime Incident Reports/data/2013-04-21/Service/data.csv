@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+84967,130234293.0,Sunday,No,2013-04-21T02:30:00.000,Service,"[-71.107805, 42.33605]",Point,Service,4,AOD   ,612,B2,Last,No,FRANCIS ST,Part Three,Unarmed,762206.2941,,2947728.97,2013
+105612,130235099.0,Sunday,No,2013-04-21T15:13:00.000,Service,"[-71.061485, 42.292056]",Point,Service,4,ARREST,365,C11,Day,No,KING ST,Part Three,Unarmed,774812.5494,,2931758.015,2013
+107012,130235572.0,Sunday,No,2013-04-21T09:00:00.000,Service,"[-71.051215, 42.339041]",Point,Service,4,IVPER ,201,C6,Day,No,W BROADWAY,Part Three,Unarmed,777501.1149,,2948894.54,2013
+214772,130235730.0,Sunday,No,2013-04-21T22:16:00.000,Service,"[-71.10383, 42.322836]",Point,Service,4,REQEP ,581,E13,First,No,CENTRE ST,Part Three,Unarmed,763303.5691,,2942918.688,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2263,120780755.0,Thursday,No,2012-12-13T16:51:00.000,PropLost,"[-71.065829, 42.316441]",Point,PropLost,12,LARCIP,332,B2,First,No,COLUMBIA RD,Part Three,Unarmed,773591.8648,,2940638.1739999996,2012
+64550,120780816.0,Thursday,No,2012-12-13T00:00:00.000,PropLost,"[-71.1002, 42.268416]",Point,PropLost,12,MISCRP,480,E18,Last,No,FAIRLAWN AV,Part Three,Unarmed,764378.1779,,2923091.789,2012
+65857,120784798.0,Thursday,No,2012-12-13T11:20:00.000,PropLost,"[-71.0729, 42.333256]",Point,PropLost,12,LARCRT,172,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2012
+113606,120792004.0,Thursday,No,2012-12-13T21:00:00.000,PropLost,"[-71.039731, 42.347751]",Point,PropLost,12,IVPER ,206,C6,First,No,CONGRESS ST,Part Three,Unarmed,780588.7721,,2952085.0689999997,2012
+174642,120783331.0,Thursday,No,2012-12-13T00:00:00.000,PropLost,"[-71.058065, 42.349761]",Point,PropLost,12,LSTPRP,115,A1,Last,No,KNEELAND ST,Part Three,Unarmed,775628.9129,,2952791.433,2012
+257628,120780470.0,Thursday,No,2012-12-13T12:30:00.000,PropLost,"[-71.07321, 42.292406]",Point,PropLost,12,LSTPRP,450,B3,Day,No,ROSEDALE ST,Part Three,Unarmed,771639.5912,,2931869.47,2012
+262955,130026658.0,Thursday,No,2012-12-13T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,12,VANRPT,465,B3,Day,No,AMERICAN LEGION HY,Part Three,Other,,,,2012

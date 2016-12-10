@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67318,,Friday,No,2015-06-26T07:30:00.000,Investigate Person,"[0, 0]",Point,InvPer,6,KIDNAP,519,E18,,No,HYDE PARK AVE,Part Three,None,,,,2015
+81784,,Friday,No,2015-06-26T00:00:00.000,Investigate Person,"[-71.046351, 42.338016]",Point,InvPer,6,IVPER,212,C6,,No,F ST,Part Three,None,778818.0,,2950000.0,2015
+96208,,Friday,No,2015-06-26T00:00:00.000,Investigate Person,"[-71.059168, 42.354501]",Point,InvPer,6,IVPER,112,A1,,No,SUMMER ST,Part Three,None,775322.0,,2950000.0,2015
+122819,,Friday,No,2015-06-26T00:00:00.000,Investigate Person,"[-71.092488, 42.320277]",Point,InvPer,6,IVPER,305,B2,,No,BRINTON ST,Part Three,None,766375.0,,2940000.0,2015
+126181,,Friday,No,2015-06-26T00:00:00.000,Investigate Person,"[-71.072563, 42.298607]",Point,InvPer,6,IVPER,357,C11,,No,DAKOTA ST,Part Three,None,771803.0,,2930000.0,2015
+175837,,Friday,No,2015-06-26T00:00:00.000,Investigate Person,"[-71.087663, 42.280922]",Point,InvPer,6,IVPER,428,B3,,No,NORFOLK ST,Part Three,None,767749.0,,2930000.0,2015
+242927,,Friday,No,2015-06-26T00:00:00.000,Investigate Person,"[-71.064028, 42.298186]",Point,InvPer,6,NIDV,358,C11,,No,MARLOWE ST,Part Three,None,774113.0,,2930000.0,2015
+249325,,Friday,No,2015-06-26T00:00:00.000,Investigate Person,"[-71.037682, 42.381358]",Point,InvPer,6,,25,A7,,No,W EAGLE ST,Part Three,None,781076.0,,2960000.0,2015

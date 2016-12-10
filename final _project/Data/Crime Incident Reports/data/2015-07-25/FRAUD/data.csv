@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+29514,,Saturday,No,2015-07-25T00:00:00.000,Fraud,"[-71.086435, 42.341626]",Point,11xx,7,,619,D4,,No,HUNTINGTON AVE,Part Two,None,767974.0,,2950000.0,2015
+122567,,Saturday,No,2015-07-25T00:00:00.000,Fraud,"[-71.05568, 42.359025]",Point,11xx,7,I00040,100,A1,,No,STATE ST,Part Two,None,776256.0,,2960000.0,2015
+187888,,Saturday,No,2015-07-25T00:00:00.000,Fraud,"[-71.074128, 42.350959]",Point,11xx,7,IVPER,129,D4,,No,BOYLSTON ST,Part Two,None,771285.0,,2950000.0,2015
+207835,,Saturday,No,2015-07-25T00:00:00.000,Fraud,"[-71.059765, 42.361839]",Point,11xx,7,,65,A1,,No,CAMBRIDGE ST,Part Two,None,775147.0,,2960000.0,2015

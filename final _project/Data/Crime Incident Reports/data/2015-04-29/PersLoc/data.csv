@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+584,152035038.0,Wednesday,No,2015-04-29T22:12:00.000,PersLoc,"[0, 0]",Point,PersLoc,4,INVEST,0,A7,First,No,BORDER ST,Other,Unarmed,,,,2015
+35317,152035024.0,Wednesday,No,2015-04-29T17:15:00.000,PersLoc,"[-71.119867, 42.243568]",Point,PersLoc,4,IVPER,0,E18,First,No,GARFIELD AV,Other,Unarmed,759095.3804,,2914012.528,2015
+197957,152035005.0,Wednesday,No,2015-04-29T19:32:00.000,PersLoc,"[-71.065953, 42.293974]",Point,PersLoc,4,IVPER,0,C11,First,No,MATHER ST,Other,Unarmed,773599.9882,,2932450.51,2015

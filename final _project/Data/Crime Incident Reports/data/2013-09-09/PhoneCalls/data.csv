@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+97883,130578688.0,Monday,No,2013-09-09T16:00:00.000,PhoneCalls,"[-71.139921, 42.352654]",Point,PhoneCalls,9,HARPT ,795,D14,First,No,CAMBRIDGE ST,Part three,Unarmed,753497.4381,,2953741.542,2013
+106652,142058329.0,Monday,No,2013-09-09T12:00:00.000,PhoneCalls,"[-71.105834, 42.269482]",Point,PhoneCalls,9,IVPER,0,E18,Day,No,RIDLON RD,Part three,Unarmed,762851.4391,,2923473.19,2013
+204068,130576170.0,Monday,No,2013-09-09T12:35:00.000,PhoneCalls,"[-71.038595, 42.332231]",Point,PhoneCalls,9,THREAT,230,C6,Day,No,E 7TH ST,Part three,Unarmed,780926.4712,,2946431.067,2013

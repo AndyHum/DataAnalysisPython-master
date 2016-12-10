@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80121,142003012.0,Thursday,No,2014-06-26T00:48:00.000,FIRE,"[-71.08483, 42.346381]",Point,FIRE,6,FIRE,0,D4,Last,No,DALTON ST,Part three,Unarmed,768399.9598,BELVIDERE ST,2951523.3460000004,2014
+99062,142003211.0,Thursday,No,2014-06-26T16:30:00.000,FIRE,"[-71.038595, 42.332231]",Point,FIRE,6,FIRE,0,C6,First,No,E 7TH ST,Part three,Unarmed,780926.4712,,2946431.067,2014
+244767,142003100.0,Thursday,No,2014-06-26T11:30:00.000,FIRE,"[-71.075185, 42.336021]",Point,FIRE,6,FIRE,0,D4,Day,No,E SPRINGFIELD ST,Part three,Unarmed,771026.0816,,2947760.812,2014

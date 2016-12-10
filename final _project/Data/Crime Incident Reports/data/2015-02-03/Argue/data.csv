@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+38669,152008878.0,Tuesday,No,2015-02-03T09:30:00.000,Argue,"[-71.00172, 42.389136]",Point,Argue,2,IVPER,0,A7,Day,No,GLADSTONE ST,Part three,Unarmed,790775.7783,,2967224.12,2015
+197801,152008930.0,Tuesday,No,2015-02-03T12:41:00.000,Argue,"[-71.067485, 42.308271]",Point,Argue,2,LANTEN,0,C11,Day,No,CLARKSON ST,Part three,Unarmed,773159.2220000001,,2937658.715,2015
+259399,152009103.0,Tuesday,No,2015-02-03T21:51:00.000,Argue,"[-71.066455, 42.315761]",Point,Argue,2,AB,0,B2,First,No,COLUMBIA RD,Part three,Unarmed,773423.9583,,2940389.6010000003,2015

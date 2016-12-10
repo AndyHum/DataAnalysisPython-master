@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+126203,140158344.0,Saturday,No,2014-03-15T09:43:00.000,Arrest,"[-71.06023, 42.356681]",Point,Arrest,3,ARREST,103,A1,Day,No,BROMFIELD ST,Part three,Unarmed,775030.6815,PROVINCE ST,2955310.186,2014
+149803,140158570.0,Saturday,No,2014-03-15T11:55:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,3,ARREST,111,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014
+169448,140159355.0,Saturday,No,2014-03-15T17:30:00.000,Arrest,"[-71.03835, 42.379731]",Point,Arrest,3,IVDRUG,24,A7,First,No,MARION ST,Part three,Unarmed,780899.0289,MONMOUTH ST,2963741.308,2014

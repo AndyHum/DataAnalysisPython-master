@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2374,152046226.0,Wednesday,No,2015-06-03T18:30:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,B3,First,No,CUMMINGS ST,Part three,Unarmed,,,,2015
+49463,152047358.0,Wednesday,No,2015-06-03T12:00:00.000,PropLost,"[-71.09789, 42.320776]",Point,PropLost,6,PROP,0,B2,Day,No,ACADEMY CT,Part three,Unarmed,764913.4583,,2942175.505,2015
+64285,152045883.0,Wednesday,No,2015-06-03T05:00:00.000,PropLost,"[-71.058395, 42.351291]",Point,PropLost,6,ADMRPT,0,A1,Last,No,LINCOLN ST,Part three,Unarmed,775536.8222,,2953348.5310000004,2015

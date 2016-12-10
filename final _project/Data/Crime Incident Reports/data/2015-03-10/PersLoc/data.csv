@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78887,152019588.0,Tuesday,No,2015-03-10T08:00:00.000,PersLoc,"[-71.143686, 42.361429]",Point,PersLoc,3,IVPER,0,D14,Day,No,RICHARDSON ST,Other,Unarmed,752466.5655,,2956934.99,2015
+119321,152019485.0,Tuesday,No,2015-03-10T07:00:00.000,PersLoc,"[-71.069755, 42.275186]",Point,PersLoc,3,IVPER,0,C11,Last,No,WASHINGTON ST,Other,Unarmed,772606.0269,,2925598.958,2015
+188292,152019513.0,Tuesday,No,2015-03-10T21:40:00.000,PersLoc,"[-71.119205, 42.293366]",Point,PersLoc,3,IVPER,0,E5,First,No,BROOKWAY RD,Other,Unarmed,759193.6613,,2932160.394,2015
+224655,152019237.0,Tuesday,No,2015-03-10T06:00:00.000,PersLoc,"[-71.037895, 42.376816]",Point,PersLoc,3,IVPER,0,A7,Last,No,PRINCETON ST,Other,Unarmed,781027.7161,,2962679.691,2015

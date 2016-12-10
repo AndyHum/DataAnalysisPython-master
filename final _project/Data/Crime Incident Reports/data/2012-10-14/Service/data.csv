@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+53281,120648089.0,Sunday,No,2012-10-14T22:23:00.000,Service,"[-71.06465, 42.352016]",Point,Service,10,RAPRPT,118,A1,First,No,TREMONT ST,Part Three,Unarmed,773844.7032,,2953604.043,2012
+116960,120646951.0,Sunday,No,2012-10-14T10:00:00.000,Service,"[-71.080085, 42.346711]",Point,Service,10,IVPREM,146,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,769682.0757,,2951649.883,2012
+179770,120647221.0,Sunday,No,2012-10-14T13:27:00.000,Service,"[-71.11624, 42.280691]",Point,Service,10,ARREST,500,E18,Day,No,AMERICAN LEGION HY,Part Three,Unarmed,760016.6404,STELLA RD,2927545.03,2012
+197214,130007298.0,Sunday,No,2012-10-14T17:00:00.000,Service,"[-71.05845, 42.283507]",Point,Service,10,INVEST,391,C11,First,No,MINOT ST,Part Three,Unarmed,775649.6222,,2928646.869,2012

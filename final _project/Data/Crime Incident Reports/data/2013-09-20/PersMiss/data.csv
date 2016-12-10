@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61962,130612898.0,Friday,No,2013-09-20T10:00:00.000,PersMiss,"[-71.086268, 42.306073]",Point,PersMiss,9,MISPER,319,B2,Day,No,SEAVER ST,Other,Unarmed,768082.2584,,2936832.35,2013
+163427,130614277.0,Friday,No,2013-09-20T11:20:00.000,PersMiss,"[-71.058453, 42.377893]",Point,PersMiss,9,MISPER,900,A15,Day,No,OREILLY WY,Other,Unarmed,775470.7498,,2963042.695,2013
+181279,130600873.0,Friday,No,2013-09-20T19:00:00.000,PersMiss,"[-71.093249, 42.317844]",Point,PersMiss,9,MISPER,282,B2,First,No,DENNISON ST,Other,Unarmed,766173.5859999999,,2941112.88,2013

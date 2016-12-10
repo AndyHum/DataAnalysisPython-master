@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+89574,142044439.0,Friday,No,2014-10-31T07:30:00.000,InvProp,"[-71.15242, 42.351791]",Point,InvProp,10,IVPREM,0,D14,Day,No,ARLINGTON ST,Part three,Unarmed,750120.3947,,2953413.165,2014
+176409,142047175.0,Friday,No,2014-10-31T20:00:00.000,InvProp,"[-71.06989, 42.350131]",Point,InvProp,10,LARCEN,0,A1,First,No,STUART ST,Part three,Unarmed,772431.7743,ARLINGTON ST,2952909.9269999997,2014
+177038,142044754.0,Friday,No,2014-10-31T23:07:00.000,InvProp,"[-71.089645, 42.348856]",Point,InvProp,10,ALARM,0,D4,First,No,COMMONWEALTH AV,Part three,Unarmed,767093.9894,,2952418.985,2014
+228387,142045037.0,Friday,No,2014-10-31T21:00:00.000,InvProp,"[-71.080365, 42.280871]",Point,InvProp,10,VIORDR,0,B3,First,No,SELDEN ST,Part three,Unarmed,769724.4234,,2927656.3460000004,2014
+238567,142044497.0,Friday,No,2014-10-31T05:35:00.000,InvProp,"[-71.08411, 42.328726]",Point,InvProp,10,INVEST,0,B2,Last,No,DUDLEY ST,Part three,Unarmed,768625.9666,,2945090.4910000004,2014
+240588,142044731.0,Friday,No,2014-10-31T21:50:00.000,InvProp,"[-71.079416, 42.284079]",Point,InvProp,10,IVPREM,0,B3,First,No,STANTON ST,Part three,Unarmed,769975.3356,,2928826.4189999998,2014
+263536,142044725.0,Friday,No,2014-10-31T05:30:00.000,InvProp,"[0, 0]",Point,InvProp,10,CD9,0,D4,Last,No,HUNTINGTON AV,Part three,Unarmed,,,,2014

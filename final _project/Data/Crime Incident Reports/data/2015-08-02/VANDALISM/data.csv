@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7332,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.081798, 42.339435]",Point,14xx,8,IVPER,597,D4,,No,NORTHAMPTON ST,Part Two,None,769232.0,,2950000.0,2015
+27396,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.079006, 42.314321]",Point,14xx,8,VAND,326,B2,,No,BLUE HILL AVE,Part Two,None,770032.0,,2940000.0,2015
+37481,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.01688, 42.382342]",Point,14xx,8,VAND,14,A7,,No,HORACE ST,Part Two,None,786694.0,,2960000.0,2015
+111833,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.06005, 42.35693]",Point,14xx,8,BE,103,A1,,No,PROVINCE ST,Part Two,None,775079.0,,2960000.0,2015
+126499,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.062583, 42.355942]",Point,14xx,8,VAND,111,A1,,No,TREMONT ST,Part Two,None,774396.0,,2960000.0,2015
+141259,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.041185, 42.317861]",Point,14xx,8,IVPER,276,B2,,No,SHAWMUT AVE,Part Two,None,780254.0,,2940000.0,2015
+146554,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.084892, 42.348958]",Point,14xx,8,VAND,142,D4,,No,NEWBURY ST,Part Two,None,768379.0,,2950000.0,2015
+158646,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.032076, 42.374744]",Point,14xx,8,VAND,21,A7,,No,BREMEN ST,Part Two,None,782604.0,,2960000.0,2015
+221012,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.152248, 42.288985]",Point,14xx,8,VAND,691,E5,,No,REDLANDS RD,Part Two,None,750260.0,,2930000.0,2015
+240730,,Sunday,No,2015-08-02T17:00:00.000,Vandalism,"[0, 0]",Point,14xx,8,VAND,206,C6,,No,CONGRESS ST,Part Two,None,,SLEEPER ST,,2015
+247610,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.089093, 42.311277]",Point,14xx,8,VAND,318,B2,,No,HOMESTEAD ST,Part Two,None,767309.0,,2940000.0,2015
+253496,,Sunday,No,2015-08-02T00:00:00.000,Vandalism,"[-71.086883, 42.348406]",Point,14xx,8,BE,141,D4,,No,NEWBURY ST,Part Two,None,767841.0,,2950000.0,2015

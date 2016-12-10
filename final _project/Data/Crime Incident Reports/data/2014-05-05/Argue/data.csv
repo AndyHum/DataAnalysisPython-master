@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+65823,140275115.0,Monday,No,2014-05-05T12:30:00.000,Argue,"[-71.08257, 42.348656]",Point,Argue,5,IVPER ,143,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+144466,140276287.0,Monday,No,2014-05-05T21:40:00.000,Argue,"[-71.093834, 42.319031]",Point,Argue,5,PKNIFE,306,B2,First,No,CODMAN PARK,Part three,Unarmed,766013.1401,,2941544.7060000002,2014
+198950,140276309.0,Monday,No,2014-05-05T21:10:00.000,Argue,"[-71.11445, 42.291091]",Point,Argue,5,NIDV  ,506,E13,First,No,BOURNE ST,Part three,Unarmed,760483.6545,,2931337.097,2014

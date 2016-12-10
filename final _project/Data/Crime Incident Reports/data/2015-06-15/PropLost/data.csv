@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31252,152049732.0,Monday,No,2015-06-15T14:45:00.000,PropLost,"[-71.05137, 42.332641]",Point,PropLost,6,PROP,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,777471.4752,,2946562.0489999996,2015
+61112,152049770.0,Monday,No,2015-06-15T06:05:00.000,PropLost,"[-71.162479, 42.276415]",Point,PropLost,6,PROP,0,E5,Last,No,SUMMER ST,Part three,Unarmed,747509.9344,,2925933.628,2015
+110045,152049707.0,Monday,No,2015-06-15T17:59:00.000,PropLost,"[-71.062975, 42.374211]",Point,PropLost,6,LARCEN,0,A15,First,No,PLEASANT ST,Part three,Unarmed,774256.0206,,2961694.6560000004,2015
+224100,152049759.0,Monday,No,2015-06-15T20:00:00.000,PropLost,"[-71.103995, 42.333881]",Point,PropLost,6,LARCEN,0,B2,First,No,TREMONT ST,Part three,Other,763240.2622,,2946943.477,2015

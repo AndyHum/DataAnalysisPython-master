@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+103720,140242405.0,Monday,No,2014-04-21T13:00:00.000,PubDrink,"[-71.10509, 42.346631]",Point,PubDrink,4,ARREST,629,D4,Day,No,BEACON ST,Part Two,Other,762922.6813,PARK DR,2951588.442,2014
+126390,140242099.0,Monday,No,2014-04-21T11:00:00.000,PubDrink,"[-71.13045, 42.354651]",Point,PubDrink,4,GANG  ,801,D14,Day,No,LINDEN ST,Part Two,Unarmed,756054.2565,FARRINGTON ST,2954480.297,2014
+177662,140242614.0,Monday,No,2014-04-21T16:07:00.000,PubDrink,"[-71.08037, 42.349236]",Point,PubDrink,4,CD35  ,0,D4,First,No,BOYLSTON ST,Part Two,Unarmed,769600.5057,,2952569.662,2014

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9220,130556780.0,Monday,No,2013-09-02T21:09:00.000,PhoneCalls,"[-71.101, 42.262756]",Point,PhoneCalls,9,THREAT,483,E18,First,No,MASSASOIT ST,Part three,Unarmed,764171.3039,,2921028.1969999997,2013
+84691,130555107.0,Monday,No,2013-09-02T02:22:00.000,PhoneCalls,"[-71.07547, 42.346214]",Point,PhoneCalls,9,HARPT ,149,D4,Last,No,DARTMOUTH ST,Part Two,Other,770930.358,,2951474.633,2013
+139308,130556617.0,Monday,No,2013-09-02T20:06:00.000,PhoneCalls,"[-71.07879, 42.338343]",Point,PhoneCalls,9,HARPT ,156,D4,First,No,MASSACHUSETTS AV,Part three,Unarmed,770047.1337,,2948601.985,2013
+149632,130558067.0,Monday,No,2013-09-02T16:00:00.000,PhoneCalls,"[-71.080065, 42.310896]",Point,PhoneCalls,9,IVPER ,328,B2,First,No,BRUNSWICK ST,Part three,Unarmed,769751.7413,,2938598.3019999997,2013
+231367,130559209.0,Monday,No,2013-09-02T19:00:00.000,PhoneCalls,"[-71.07376, 42.282643]",Point,PhoneCalls,9,HARPT ,417,B3,First,No,STOCKTON ST,Part three,Unarmed,771508.3897,,2928310.909,2013

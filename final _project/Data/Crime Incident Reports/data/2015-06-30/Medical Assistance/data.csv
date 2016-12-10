@@ -1,0 +1,16 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1081,,Tuesday,No,2015-06-30T00:43:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,I00015,339,C11,,No,CHURCH ST,Part Three,None,,,,2015
+6571,,Tuesday,No,2015-06-30T06:52:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,IVPER,77,A1,,No,NEW SUDBURY ST,Part Three,None,,,,2015
+25030,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.083132, 42.307004]",Point,MedAssist,6,DISTRB,330,B2,,No,CASTLEGATE RD,Part Three,None,768929.0,,2940000.0,2015
+55200,,Tuesday,No,2015-06-30T19:13:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,REQP,138,D4,,No,BOYLSTON ST,Part Three,None,,EXETER ST,,2015
+63527,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.063693, 42.35354]",Point,MedAssist,6,UNKEMS,111,A1,,No,MASON ST,Part Three,None,774100.0,,2950000.0,2015
+70785,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-70.964365, 42.322676]",Point,MedAssist,6,IVPER,0,C11,,No,LONG ISLAND RD,Part Three,None,801019.0,,2940000.0,2015
+128869,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.085634, 42.328663]",Point,MedAssist,6,INJOFF,282,B2,,No,WASHINGTON ST,Part Three,None,768214.0,,2950000.0,2015
+132298,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.054041, 42.318025]",Point,MedAssist,6,POISON,245,C11,,No,NEWPORT ST,Part Three,None,776777.0,,2940000.0,2015
+161472,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.083834, 42.301974]",Point,MedAssist,6,NIDV,458,B3,,No,ELLINGTON ST,Part Three,None,768748.0,,2940000.0,2015
+167273,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.07803, 42.35394]",Point,MedAssist,6,REQEP,131,D4,,No,BEACON ST,Part Three,None,770224.0,,2950000.0,2015
+176207,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.100832, 42.335515]",Point,MedAssist,6,ALARM,612,B2,,No,HUNTINGTON AVE,Part Three,None,764093.0,,2950000.0,2015
+219415,,Tuesday,No,2015-06-30T21:00:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,6,UNKEMS,774,D14,,No,COMMONWEALTH AVE,Part Three,None,, STRATHMORE RD ,,2015
+236127,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.059613, 42.32446]",Point,MedAssist,6,IVPER,186,C6,,No,BOSTON ST,Part Three,None,775258.0,,2940000.0,2015
+237451,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.038524, 42.372159]",Point,MedAssist,6,IVPER,28,A7,,No,GOVE ST,Part Three,None,780867.0,,2960000.0,2015
+249872,,Tuesday,No,2015-06-30T00:00:00.000,Medical Assistance,"[-71.067292, 42.332809]",Point,MedAssist,6,EDP,175,C6,,No,TOPEKA ST,Part Three,None,773166.0,,2950000.0,2015

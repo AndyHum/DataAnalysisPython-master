@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+13096,130643986.0,Wednesday,No,2013-10-09T00:05:00.000,DISORDERLY,"[-71.044649, 42.320568]",Point,24xx,10,IVPREM,256,C6,Last,No,PENINSULA PL,Part Two,Other,779312.0542,,2942171.965,2013
+162369,130645593.0,Wednesday,No,2013-10-09T19:53:00.000,DISORDERLY,"[-71.084176, 42.324569]",Point,24xx,10,IVPER ,295,B2,First,No,DABNEY ST,Part Two,Unarmed,768615.4604,,2943575.355,2013
+187909,130643710.0,Wednesday,No,2013-10-09T00:52:00.000,DISORDERLY,"[-71.088768, 42.296403]",Point,24xx,10,REMOVE,463,B3,Last,No,ANGELL ST,Part Two,Unarmed,767423.0759999999,,2933305.2460000003,2013

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1352,152040158.0,Saturday,No,2015-05-16T14:31:00.000,Service,"[0, 0]",Point,Service,5,IVPER,0,A1,Day,No,TAMWORTH ST,Part three,Unarmed,,,,2015
+53588,152040154.0,Saturday,No,2015-05-16T14:08:00.000,Service,"[-71.049401, 42.29763]",Point,Service,5,LARCEN,0,C11,Day,No,MORRISSEY BL,Part three,Unarmed,778071.2105,,2933806.111,2015
+92863,152040141.0,Saturday,No,2015-05-16T13:00:00.000,Service,"[-71.079652, 42.311398]",Point,Service,5,IVPREM,0,B2,Day,No,INTERVALE ST,Part three,Other,769862.4169,,2938781.7,2015
+98344,152040155.0,Saturday,No,2015-05-16T14:07:00.000,Service,"[-71.084747, 42.329375]",Point,Service,5,IVPER,0,B2,Day,No,WASHINGTON ST,Part three,Unarmed,768452.5418,,2945326.172,2015
+129815,152040193.0,Saturday,No,2015-05-16T17:00:00.000,Service,"[-71.06305, 42.290226]",Point,Service,5,CD11,0,C11,First,No,DORCHESTER AV,Part three,Unarmed,774392.5401,,2931088.962,2015
+145562,152040190.0,Saturday,No,2015-05-16T17:33:00.000,Service,"[-71.062575, 42.352726]",Point,Service,5,ARREST,0,A1,First,No,WASHINGTON ST,Part three,Unarmed,774404.2569,BOYLSTON ST,2953865.65,2015
+198721,152040189.0,Saturday,No,2015-05-16T16:50:00.000,Service,"[-71.078586, 42.32835]",Point,Service,5,ARREST,0,B2,First,No,DUDLEY ST,Part three,Unarmed,770120.2868,DEARBORN ST,2944960.5310000004,2015
+210247,152039984.0,Saturday,No,2015-05-16T00:53:00.000,Service,"[-71.051615, 42.358901]",Point,Service,5,ARREST,0,A1,Last,No,ATLANTIC AV,Part three,Unarmed,777354.9252,MILK ST,2956131.32,2015

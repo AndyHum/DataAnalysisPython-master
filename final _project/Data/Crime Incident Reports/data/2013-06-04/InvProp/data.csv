@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+75029,130336954.0,Tuesday,No,2013-06-04T08:49:00.000,InvProp,"[-71.112075, 42.265646]",Point,InvProp,6,DISTRB,493,E18,Day,No,WESTMINSTER ST,Part three,Unarmed,761168.663,,2922067.522,2013
+85645,130338067.0,Tuesday,No,2013-06-04T17:02:00.000,InvProp,"[-71.087188, 42.320054]",Point,InvProp,6,FIREB ,308,B2,First,No,BOWER ST,Part three,Unarmed,767808.8692,,2941926.166,2013
+152018,130337535.0,Tuesday,No,2013-06-04T13:18:00.000,InvProp,"[-71.122726, 42.289178]",Point,InvProp,6,REQP  ,563,E5,Day,No,STELLMAN RD,Part three,Unarmed,758247.5523,,2930629.9280000003,2013
+201432,130337326.0,Tuesday,No,2013-06-04T11:55:00.000,InvProp,"[-71.07376, 42.282643]",Point,InvProp,6,SHOTS ,417,C11,Day,No,STOCKTON ST,Part three,Other,771508.3897,WASHINGTON ST,2928310.909,2013

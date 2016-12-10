@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92006,152031148.0,Thursday,No,2015-04-16T12:00:00.000,BENoProp,"[-71.1055, 42.32078]",Point,BENoProp,4,BE,0,E13,Day,No,WYMAN ST,Part One,Other,762855.2941,,2942167.099,2015
+134685,152030985.0,Thursday,No,2015-04-16T13:45:00.000,BENoProp,"[-71.075185, 42.336021]",Point,BENoProp,4,BE,0,D4,Day,No,E SPRINGFIELD ST,Part One,Unarmed,771026.0816,,2947760.812,2015
+155109,152031144.0,Thursday,No,2015-04-16T20:30:00.000,BENoProp,"[-71.03157, 42.365276]",Point,BENoProp,4,INVEST,0,A7,First,No,SUMNER ST,Part One,Unarmed,782759.8176,,2958483.611,2015

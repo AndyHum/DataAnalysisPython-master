@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140364,152004275.0,Friday,No,2015-01-16T17:00:00.000,Landlord,"[-71.08068, 42.324911]",Point,Landlord,1,VAND,0,B2,First,No,MORELAND ST,Part three,Unarmed,769560.2869,,2943704.7810000004,2015
+245889,152004195.0,Friday,No,2015-01-16T12:36:00.000,Landlord,"[-71.102955, 42.316296]",Point,Landlord,1,AB,0,E13,Day,No,BOYLSTON ST,Part three,Unarmed,763551.2894,,2940536.5,2015
+267620,152029389.0,Friday,No,2015-01-16T17:00:00.000,Landlord,"[0, 0]",Point,Landlord,1,IVPER,0,D14,First,No,NOTTINGHAM ST,Part three,Unarmed,,,,2015

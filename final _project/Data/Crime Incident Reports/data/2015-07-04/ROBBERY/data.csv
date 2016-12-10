@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111096,,Saturday,No,2015-07-04T00:00:00.000,Robbery,"[-71.065366, 42.349429]",Point,03xx,7,AB,121,A1,,No,TREMONT ST,Part One,Personal Weapon (hand  foot  etc.),773656.0,,2950000.0,2015
+192371,,Saturday,No,2015-07-04T00:00:00.000,Robbery,"[-71.064323, 42.35311]",Point,03xx,7,ARMROB,111,A1,,No,TREMONT ST,Part One,Other,773931.0,,2950000.0,2015
+193120,,Saturday,No,2015-07-04T21:00:00.000,Robbery,"[0, 0]",Point,03xx,7,AB,2,A7,,No,WILLIAM F MCCLELLAN HWY,Part One,Personal Weapon (hand  foot  etc.),,,,2015
+246267,,Saturday,No,2015-07-04T18:03:00.000,Robbery,"[0, 0]",Point,03xx,7,I00040,901,B2,,No,PARKER ST,Part One,Other,,PRENTISS ST,,2015

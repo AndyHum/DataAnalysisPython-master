@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+67710,142013453.0,Sunday,No,2014-07-27T14:30:00.000,PersLoc,"[-71.063804, 42.313876]",Point,PersLoc,7,MISSIN,0,C11,Day,No,CUSHING AV,Other,Other,774144.3198,,2939706.043,2014
+102512,142014032.0,Sunday,No,2014-07-27T05:00:00.000,PersLoc,"[-71.01939, 42.382236]",Point,PersLoc,7,IVPER,0,A7,Last,No,BENNINGTON ST,Other,Unarmed,786016.5916,,2964682.478,2014
+112254,142013502.0,Sunday,No,2014-07-27T12:30:00.000,PersLoc,"[-71.068615, 42.304436]",Point,PersLoc,7,MISSIN,0,C11,Day,No,TOPLIFF ST,Other,Other,772860.6399,,2936259.6319999998,2014
+217041,142013472.0,Sunday,No,2014-07-27T14:30:00.000,PersLoc,"[-71.063804, 42.313876]",Point,PersLoc,7,IVPER,0,C11,Day,No,CUSHING AV,Other,Other,774144.3198,,2939706.043,2014

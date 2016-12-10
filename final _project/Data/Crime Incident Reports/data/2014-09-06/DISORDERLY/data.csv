@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+113017,142026879.0,Saturday,No,2014-09-06T17:50:00.000,DISORDERLY,"[-71.049384, 42.330326]",Point,24xx,9,TS,0,C6,First,No,COLUMBIA RD,Part Two,Other,778012.8107,,2945721.11,2014
+159457,142026685.0,Saturday,No,2014-09-06T03:32:00.000,DISORDERLY,"[-71.07246, 42.299833]",Point,24xx,9,FIGHT,0,C11,Last,No,BOWDOIN ST,Part Two,Unarmed,771828.7306,,2934576.8860000004,2014
+181187,142026653.0,Saturday,No,2014-09-06T01:28:00.000,DISORDERLY,"[-71.08773, 42.347281]",Point,24xx,9,ARREST,0,D4,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,767614.423,BOYLSTON ST,2951847.52,2014

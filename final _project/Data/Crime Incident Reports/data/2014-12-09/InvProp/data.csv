@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9928,142056021.0,Tuesday,No,2014-12-09T18:19:00.000,InvProp,"[-71.078665, 42.321026]",Point,InvProp,12,DISTRB,0,B2,First,No,ALASKA ST,Part three,Unarmed,770112.1776,,2942291.707,2014
+17171,142055840.0,Tuesday,No,2014-12-09T04:55:00.000,InvProp,"[-71.07449, 42.287966]",Point,InvProp,12,IVPREM,0,B3,Last,No,CHIPMAN ST,Part three,Other,771301.3507,,2930249.7369999997,2014
+49423,142056029.0,Tuesday,No,2014-12-09T15:50:00.000,InvProp,"[-71.06683, 42.350901]",Point,InvProp,12,IVPREM,0,A1,Day,No,CHARLES ST S,Part three,Unarmed,773257.5033,STUART ST,2953194.716,2014
+79530,142056018.0,Tuesday,No,2014-12-09T18:30:00.000,InvProp,"[-71.047525, 42.337031]",Point,InvProp,12,REQP,0,C6,First,No,F ST,Part three,Unarmed,778502.625,,2948167.3310000002,2014
+170073,142056532.0,Tuesday,No,2014-12-09T11:00:00.000,InvProp,"[-71.093249, 42.317844]",Point,InvProp,12,LARCEN,0,B2,Day,No,DENNISON ST,Part three,Unarmed,766173.5859999999,,2941112.88,2014
+199031,142055937.0,Tuesday,No,2014-12-09T12:38:00.000,InvProp,"[-71.05566, 42.330276]",Point,InvProp,12,ALARM,0,C6,Day,No,DORCHESTER ST,Part three,Unarmed,776316.0067,,2945694.131,2014
+229723,142056038.0,Tuesday,No,2014-12-09T19:50:00.000,InvProp,"[-71.069445, 42.358796]",Point,InvProp,12,ABAN,0,A1,First,No,PINCKNEY ST,Part three,Other,772536.1235,,2956068.228,2014
+255842,142055942.0,Tuesday,No,2014-12-09T14:15:00.000,InvProp,"[-71.06216, 42.352401]",Point,InvProp,12,FO,0,A1,Day,No,ESSEX ST,Part three,Unarmed,774517.0398,,2953747.79,2014

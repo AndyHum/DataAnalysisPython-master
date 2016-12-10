@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+32312,130594605.0,Wednesday,No,2013-09-18T09:25:00.000,DISORDERLY,"[-71.07227, 42.332601]",Point,24xx,9,ARREST,177,C6,Day,No,MASSACHUSETTS AV,Part Two,Unarmed,771820.4655,MELNEA CASS BL,2946518.441,2013
+44679,130594563.0,Wednesday,No,2013-09-18T08:57:00.000,DISORDERLY,"[-71.10864, 42.339726]",Point,24xx,9,ARREST,613,B2,Day,No,LONGWOOD AV,Part Two,Other,761974.5636,PILGRIM RD,2949067.7060000002,2013
+235948,130595736.0,Wednesday,No,2013-09-18T16:15:00.000,DISORDERLY,"[-71.059735, 42.297541]",Point,24xx,9,ARREST,355,C11,First,No,GIBSON ST,Part Two,Unarmed,775275.7115,,2933759.268,2013

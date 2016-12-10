@@ -1,0 +1,14 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48558,,Thursday,No,2015-07-23T02:34:00.000,Violations,"[0, 0]",Point,VAL,7,IVMV,298,B2,,No,WAKULLAH ST,Part Two,None,,,,2015
+79512,,Thursday,No,2015-07-23T00:00:00.000,Violations,"[-71.055153, 42.281287]",Point,VAL,7,IVMV,382,C11,,No,GRANITE AVE,Part Two,None,776546.0,,2930000.0,2015
+84662,,Thursday,No,2015-07-23T08:46:00.000,Violations,"[0, 0]",Point,VAL,7,TS,685,E5,,No,BEECH ST,Part Two,None,, WASHINGTON ST ,,2015
+106872,,Thursday,No,2015-07-23T00:00:00.000,Restraining Order Violations,"[-71.08348, 42.335517]",Point,Restrain,7,VIORDR,285,D4,,No,GREENWICH ST,Part Two,None,768784.0,,2950000.0,2015
+107349,,Thursday,No,2015-07-23T00:00:00.000,Firearm Violations,"[-71.013284, 42.385937]",Point,15xx,7,ARREST,0,,,No,,Part Two,Knife/Cutting Instrument,787659.0,,2970000.0,2015
+121005,,Thursday,No,2015-07-23T10:32:00.000,Violations,"[0, 0]",Point,VAL,7,ARREST,756,D14,,No,FANEUIL ST,Part Two,None,, OAK SQ ,,2015
+170349,,Thursday,No,2015-07-23T09:41:00.000,Firearm Violations,"[0, 0]",Point,15xx,7,TS,355,C11,,No,GREENWOOD PARK,Part Two,Firearm,,PARK ST,,2015
+183732,,Thursday,No,2015-07-23T22:21:00.000,Violations,"[0, 0]",Point,VAL,7,MVA,624,D4,,No,BROOKLINE AVE,Part Two,None,,YAWKEY WAY,,2015
+187745,,Thursday,No,2015-07-23T00:00:00.000,Firearm Violations,"[-71.09665, 42.318527]",Point,15xx,7,SS,304,B2,,No,DIMOCK ST,Part Two,Firearm,765253.0,,2940000.0,2015
+196038,,Thursday,No,2015-07-23T00:00:00.000,Firearm Violations,"[-71.091945, 42.314998]",Point,15xx,7,ARREST,316,B2,,No,CRAWFORD ST,Part Two,Firearm,766531.0,,2940000.0,2015
+197113,,Thursday,No,2015-07-23T00:00:00.000,Firearm Violations,"[-71.102204, 42.322903]",Point,15xx,7,ARREST,579,E13,,No,CENTRE ST,Part Two,Firearm,763743.0,,2940000.0,2015
+225682,,Thursday,No,2015-07-23T00:00:00.000,Restraining Order Violations,"[-71.074364, 42.33556]",Point,Restrain,7,VIORDR,171,D4,,No,HARRISON AVE,Part Two,None,771249.0,,2950000.0,2015
+259331,,Thursday,No,2015-07-23T00:00:00.000,Violations,"[-71.0984, 42.318989]",Point,VAL,7,ARREST,302,B2,,No,CENTRE ST,Part Two,None,764779.0,COLUMBUS AVE,2940000.0,2015

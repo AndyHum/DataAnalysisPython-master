@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+174671,142008606.0,Saturday,No,2014-07-12T19:00:00.000,PhoneCalls,"[-71.066885, 42.362496]",Point,PhoneCalls,7,IVPER,0,A1,First,No,BLOSSOM ST,Part three,Unarmed,773221.1808,,2957420.083,2014
+186290,142008464.0,Saturday,No,2014-07-12T10:40:00.000,PhoneCalls,"[-71.148595, 42.349557]",Point,PhoneCalls,7,IVPER,0,D14,Day,No,CAMBRIDGE ST,Part three,Other,751157.6141,,2952603.025,2014
+201984,142008728.0,Saturday,No,2014-07-12T15:00:00.000,PhoneCalls,"[-71.135885, 42.353451]",Point,PhoneCalls,7,IVPER,0,D14,Day,No,BRIGHTON AV,Part three,Other,754587.3247,,2954036.749,2014

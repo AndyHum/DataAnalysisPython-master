@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+145674,152036532.0,Monday,No,2015-05-04T22:30:00.000,Arrest,"[-71.055442, 42.377694]",Point,Arrest,5,ARREST,0,A15,First,No,SAMUEL MORSE WY,Part three,Unarmed,776284.7482,,2962974.2339999997,2015
+211156,152036286.0,Monday,No,2015-05-04T10:18:00.000,Arrest,"[-71.143461, 42.255615]",Point,Arrest,5,CD11,0,E18,Day,No,GEORGETOWNE DR,Part three,Unarmed,752688.552,DEDHAM PY,2918374.8839999996,2015
+218202,152036195.0,Monday,No,2015-05-04T01:20:00.000,Arrest,"[-71.078836, 42.300272]",Point,Arrest,5,TS,0,B3,Last,No,NORWELL ST,Part three,Unarmed,770103.1274,,2934728.188,2015
+257175,152036523.0,Monday,No,2015-05-04T21:30:00.000,Arrest,"[-71.04162, 42.369616]",Point,Arrest,5,ARREST,0,A7,First,No,SUMNER ST,Part three,Unarmed,780035.3332,,2960050.433,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28396,130373143.0,Tuesday,No,2013-06-18T23:30:00.000,Restrain,"[-71.035045, 42.365841]",Point,Restrain,6,IVPER ,34,A7,First,No,WEBSTER ST,Part Two,Unarmed,781819.5843,,2958684.367,2013
+140632,130371642.0,Tuesday,No,2013-06-18T15:44:00.000,Restrain,"[-71.08326, 42.329736]",Point,Restrain,6,THREAT,280,B2,Day,No,WARREN ST,Part Two,Unarmed,768854.0114,,2945459.675,2013
+223356,130370397.0,Tuesday,No,2013-06-18T01:45:00.000,Restrain,"[-71.08746, 42.346791]",Point,Restrain,6,VIORDR,598,D4,Last,No,MASSACHUSETTS AV,Part Two,Unarmed,767688.2733,,2951669.308,2013

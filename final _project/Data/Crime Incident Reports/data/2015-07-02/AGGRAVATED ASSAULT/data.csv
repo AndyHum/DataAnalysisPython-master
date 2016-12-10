@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+22520,,Thursday,No,2015-07-02T17:53:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,IVPER,581,E13,,No,CENTRE ST,Part One,Knife/Cutting Instrument,,,,2015
+36210,,Thursday,No,2015-07-02T12:06:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,IVPER,0,,,No,NORTH,Part One,None,,UNION ST,,2015
+51198,,Thursday,No,2015-07-02T00:00:00.000,Aggravated Assault,"[-71.039233, 42.379965]",Point,04xx,7,AB,24,A7,,No,MERIDIAN ST,Part One,Other,780660.0,,2960000.0,2015
+64215,,Thursday,No,2015-07-02T00:00:00.000,Aggravated Assault,"[-71.11267, 42.31624]",Point,04xx,7,IVPER,639,E13,,No,ROBINWOOD AVE,Part One,Personal Weapon (hand  foot  etc.),760924.0,,2940000.0,2015
+98451,,Thursday,No,2015-07-02T20:15:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,AB,910,E5,,No,BEECHLAND ST,Part One,None,,UNITY WAY,,2015
+134190,,Thursday,No,2015-07-02T00:00:00.000,Aggravated Assault,"[-71.085031, 42.309787]",Point,04xx,7,PKNIFE,320,B2,,No,MAPLE ST,Part One,Other,768410.0,,2940000.0,2015
+178965,,Thursday,No,2015-07-02T00:00:00.000,Aggravated Assault,"[-71.03336, 42.370514]",Point,04xx,7,AB,30,A7,,No,LUBEC ST,Part One,None,782265.0,,2960000.0,2015
+184254,,Thursday,No,2015-07-02T18:23:00.000,Aggravated Assault,"[0, 0]",Point,04xx,7,PSHOT,434,B3,,Yes,NORFOLK ST,Part One,Firearm,,,,2015

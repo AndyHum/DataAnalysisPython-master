@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42105,142040147.0,Friday,No,2014-10-17T17:20:00.000,Arrest,"[-71.05021, 42.330401]",Point,Arrest,10,IVPER,0,C6,First,No,MERCER ST,Part three,Unarmed,777789.4286,,2945747.4060000004,2014
+195165,142040131.0,Friday,No,2014-10-17T21:07:00.000,Arrest,"[-71.13616, 42.278991]",Point,Arrest,10,TS,0,E5,First,No,WASHINGTON ST,Part three,Unarmed,754628.7379,CEDRUS AV,2926901.901,2014
+226598,142039911.0,Friday,No,2014-10-17T11:00:00.000,Arrest,"[-71.04823, 42.336481]",Point,Arrest,10,ARREST,0,C6,Day,No,F ST,Part three,Unarmed,778313.0775,SILVER ST,2947965.8910000003,2014

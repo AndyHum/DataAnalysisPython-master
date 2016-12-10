@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+125102,142060571.0,Thursday,No,2014-12-25T20:00:00.000,PersMiss,"[-71.078035, 42.317096]",Point,PersMiss,12,MISSIN,0,B2,First,No,BLUE HILL AV,Other,Unarmed,770289.6362,,2940860.3910000003,2014
+174511,142060556.0,Thursday,No,2014-12-25T18:30:00.000,PersMiss,"[-71.099695, 42.330611]",Point,PersMiss,12,MISSIN,0,B2,First,No,ALLEGHANY ST,Other,Unarmed,764408.5,,2945757.258,2014
+192053,142060455.0,Thursday,No,2014-12-25T01:19:00.000,PersMiss,"[-71.094678, 42.319428]",Point,PersMiss,12,IVPER,0,B2,Last,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2014

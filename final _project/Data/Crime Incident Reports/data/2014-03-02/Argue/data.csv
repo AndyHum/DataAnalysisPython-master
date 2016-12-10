@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+102583,140129642.0,Sunday,No,2014-03-02T19:37:00.000,Argue,"[-71.082405, 42.335031]",Point,Argue,3,IVPER ,275,D4,First,No,HAMMOND ST,Part three,Unarmed,769075.7574,,2947390.398,2014
+155917,140128802.0,Sunday,No,2014-03-02T10:15:00.000,Argue,"[-71.14213, 42.340813]",Point,Argue,3,DVIP  ,786,D14,Day,No,COREY RD,Part three,Unarmed,752918.565,,2949423.848,2014
+226217,140129259.0,Sunday,No,2014-03-02T15:18:00.000,Argue,"[-71.087165, 42.346206]",Point,Argue,3,THREAT,144,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,767769.0517,,2951456.5089999996,2014
+236283,140128609.0,Sunday,No,2014-03-02T06:55:00.000,Argue,"[-71.077255, 42.317356]",Point,Argue,3,THREAT,324,B2,Last,No,INGLESIDE ST,Part three,Unarmed,770500.1203,,2940956.185,2014

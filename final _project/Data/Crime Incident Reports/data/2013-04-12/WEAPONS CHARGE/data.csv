@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+14600,130216261.0,Friday,No,2013-04-12T12:51:00.000,WEAPONS CHARGE,"[-71.05776, 42.378251]",Point,15xx,4,CD11  ,900,A15,Day,No,MCNULTY CT,Part Two,Other,775657.5279999999,,2963174.1780000003,2013
+38418,130215929.0,Friday,No,2013-04-12T12:54:00.000,WEAPONS CHARGE,"[-71.05776, 42.378251]",Point,15xx,4,CD11  ,900,A15,Day,No,MCNULTY CT,Part Two,Other,775657.5279999999,,2963174.1780000003,2013
+149381,130215137.0,Friday,No,2013-04-12T02:58:00.000,WEAPONS CHARGE,"[-71.066965, 42.320421]",Point,15xx,4,ARREST,184,B2,Last,No,HILLSBORO ST,Part Two,Firearm,773277.4028,,2942087.0810000002,2013

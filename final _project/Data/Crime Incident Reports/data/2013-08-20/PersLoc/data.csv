@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43060,130524509.0,Tuesday,No,2013-08-20T08:51:00.000,PersLoc,"[-71.05885, 42.307566]",Point,PersLoc,8,MSNCOM,247,C11,Day,No,EAST ST,Other,Unarmed,775496.2439,,2937413.762,2013
+73413,130525851.0,Tuesday,No,2013-08-20T16:45:00.000,PersLoc,"[-71.05743, 42.300921]",Point,PersLoc,8,IVPER ,351,C11,First,No,DICKENS ST,Other,Unarmed,775892.9091,,2934994.215,2013
+125849,130525513.0,Tuesday,No,2013-08-20T17:00:00.000,PersLoc,"[-71.079567, 42.338236]",Point,PersLoc,8,INVCHD,145,D4,First,No,MASSACHUSETTS AV,Other,Unarmed,769837.2194,,2948561.8589999997,2013
+152098,130525896.0,Tuesday,No,2013-08-20T18:45:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,8,MISPER,281,B2,First,No,GREENVILLE ST,Other,Unarmed,769578.6737,,2944551.923,2013
+181601,130525051.0,Tuesday,No,2013-08-20T14:00:00.000,PersLoc,"[-71.085978, 42.296806]",Point,PersLoc,8,MISPER,444,B3,Day,No,ABBOT ST,Other,Unarmed,768177.1099,,2933455.566,2013

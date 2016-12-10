@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2812,152048066.0,Wednesday,No,2015-06-10T14:29:00.000,FIRE,"[0, 0]",Point,FIRE,6,FO,0,B3,Day,No,PEACEVALE RD,Part three,Unarmed,,,,2015
+8082,152048052.0,Wednesday,No,2015-06-10T13:15:00.000,FIRE,"[-71.012211, 42.387175]",Point,FIRE,6,FIRE,0,A7,Day,No,BRANDYWYNE DR,Part three,Unarmed,787945.8755,,2966493.185,2015
+144900,152048047.0,Wednesday,No,2015-06-10T12:36:00.000,FIRE,"[-71.04139, 42.330941]",Point,FIRE,6,FIRE,0,C6,Day,No,H ST,Part three,Unarmed,780173.2641,,2945956.8910000003,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+15748,120747704.0,Wednesday,No,2012-11-28T22:30:00.000,Service,"[-71.144024, 42.346747]",Point,Service,11,IVPREM,938,D14,First,No,JETTE CT,Part Three,Unarmed,752397.4732,,2951584.079,2012
+54627,120747207.0,Wednesday,No,2012-11-28T17:20:00.000,Service,"[-71.10537, 42.308606]",Point,Service,11,LARCRT,571,E13,First,No,WASHINGTON ST,Part Three,Other,762911.0968,,2937731.106,2012
+159532,120746401.0,Wednesday,No,2012-11-28T12:14:00.000,Service,"[-71.06458, 42.352351]",Point,Service,11,IVPER ,118,A1,Day,No,TREMONT ST,Part Three,Unarmed,773863.0013,BOYLSTON ST,2953726.22,2012
+234044,120746877.0,Wednesday,No,2012-11-28T14:50:00.000,Service,"[-71.070755, 42.321496]",Point,Service,11,ARREST,182,B2,Day,No,E COTTAGE ST,Part Three,Unarmed,772250.4672,,2942473.648,2012

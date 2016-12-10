@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47880,142031108.0,Friday,No,2014-09-19T22:40:00.000,07RV,"[-71.08046, 42.335661]",Point,07RV,9,SS,0,D4,First,No,SHAWMUT AV,Other,Other,769600.5096,,2947622.561,2014
+68751,142030932.0,Friday,No,2014-09-19T13:15:00.000,07RV,"[-71.09045, 42.308695]",Point,07RV,9,IVMV,0,B2,Day,No,SEAVER ST,Other,Unarmed,766946.5418,,2937782.313,2014
+192979,142031015.0,Friday,No,2014-09-19T16:39:00.000,07RV,"[-71.050313, 42.319287]",Point,07RV,9,IVMV,0,C6,First,No,MORRISSEY BL,Other,Unarmed,777782.6826,,2941696.88,2014

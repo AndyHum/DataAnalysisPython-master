@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25328,140362656.0,Monday,No,2014-06-09T00:59:00.000,BENoProp,"[-71.091957, 42.273356]",Point,BENoProp,6,ALARMC,424,B3,Last,No,BABSON ST,Part One,Unarmed,766600.3988,,2924902.586,2014
+67470,140365109.0,Monday,No,2014-06-09T22:31:00.000,BENoProp,"[-71.081035, 42.349986]",Point,BENoProp,6,ALARMC,137,D4,First,No,NEWBURY ST,Part One,Unarmed,769419.4017,,2952842.095,2014
+113432,140363752.0,Monday,No,2014-06-09T13:41:00.000,BENoProp,"[-71.078225, 42.295106]",Point,BENoProp,6,BERPT ,446,B3,Day,No,NORWELL ST,Part One,Other,770277.8757,,2932846.637,2014

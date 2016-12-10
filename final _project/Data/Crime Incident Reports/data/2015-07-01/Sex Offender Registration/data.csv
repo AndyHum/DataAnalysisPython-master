@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+91746,,Wednesday,No,2015-07-01T00:00:00.000,Sex Offender Registration,"[-71.078402, 42.335435]",Point,SexReg,7,IVPER,273,D4,,No,WASHINGTON ST,Part Two,None,770157.0,,2950000.0,2015
+150490,,Wednesday,No,2015-07-01T16:07:00.000,Sex Offender Registration,"[0, 0]",Point,SexReg,7,IVPER,617,D4,,No,HUNTINGTON AVE,Part Two,None,,,,2015
+178285,,Wednesday,No,2015-07-01T00:00:00.000,Sex Offender Registration,"[-71.069409, 42.339542]",Point,SexReg,7,IVPER,165,D4,,No,HARRISON AVE,Part Two,None,772581.0,,2950000.0,2015

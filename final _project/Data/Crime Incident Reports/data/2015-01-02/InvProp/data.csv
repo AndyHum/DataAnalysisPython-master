@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34765,152000600.0,Friday,No,2015-01-02T22:25:00.000,InvProp,"[-71.11731, 42.308961]",Point,InvProp,1,SHOTS,0,E13,First,No,DUNSTER RD,Part three,Unarmed,759680.8674,CENTRE ST,2937845.7569999998,2015
+73048,152008683.0,Friday,No,2015-01-02T09:46:00.000,InvProp,"[-71.073805, 42.345371]",Point,InvProp,1,BE,0,D4,Day,No,APPLETON ST,Part three,Unarmed,771382.1675,,2951169.9839999997,2015
+150038,152000331.0,Friday,No,2015-01-02T01:41:00.000,InvProp,"[-71.08209, 42.336671]",Point,InvProp,1,PERGUN,0,D4,Last,No,LATTIMORE CT,Part three,Firearm,769157.9964,,2947988.46,2015
+184065,152000580.0,Friday,No,2015-01-02T20:48:00.000,InvProp,"[-71.06764, 42.318136]",Point,InvProp,1,PERGUN,0,B2,First,No,DUDLEY ST,Part three,Unarmed,773099.0777,,2941253.463,2015
+212598,152000382.0,Friday,No,2015-01-02T08:10:00.000,InvProp,"[-71.077917, 42.343296]",Point,InvProp,1,IVPER,0,D4,Day,No,WARREN AV,Part three,Other,770274.0752,,2950408.285,2015
+225212,152000343.0,Friday,No,2015-01-02T05:29:00.000,InvProp,"[-71.081195, 42.344021]",Point,InvProp,1,IVPER,0,D4,Last,No,DURHAM ST,Part three,Unarmed,769386.8266,,2950668.122,2015
+233588,152006808.0,Friday,No,2015-01-02T12:00:00.000,InvProp,"[-71.121407, 42.283265]",Point,InvProp,1,DISTRB,0,E5,Day,No,BROWN AV,Part three,Unarmed,758614.1943,,2928476.515,2015
+241010,152000582.0,Friday,No,2015-01-02T21:00:00.000,InvProp,"[-71.072674, 42.305479]",Point,InvProp,1,VAND,0,C11,First,No,OLNEY ST,Part three,Unarmed,771760.7317,,2936634.146,2015
+260938,152000476.0,Friday,No,2015-01-02T14:43:00.000,InvProp,"[0, 0]",Point,InvProp,1,IVPREM,0,B3,Day,No,STANDARD ST,Part three,Unarmed,,,,2015
+265114,152001008.0,Friday,No,2015-01-02T22:00:00.000,InvProp,"[0, 0]",Point,InvProp,1,MISC,0,D4,First,No,COLUMBUS AV,Part three,Other,,,,2015

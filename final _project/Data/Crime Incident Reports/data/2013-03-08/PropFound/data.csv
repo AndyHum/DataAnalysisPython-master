@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+56009,130139410.0,Friday,No,2013-03-08T14:30:00.000,PropFound,"[-71.10039, 42.322781]",Point,PropFound,3,FDPROP,579,E13,Day,No,LAMARTINE ST,Part Three,Unarmed,764233.9404,CENTRE ST,2942902.9839999997,2013
+58708,130138313.0,Friday,No,2013-03-08T07:30:00.000,PropFound,"[-71.054711, 42.341305]",Point,PropFound,3,LSTPRP,200,C6,Day,No,W BROADWAY,Part Three,Unarmed,776551.5679,,2949714.607,2013
+103067,130138135.0,Friday,No,2013-03-08T08:00:00.000,PropFound,"[-71.098725, 42.315361]",Point,PropFound,3,FDPROP,577,E13,Day,No,WASHINGTON ST,Part Three,Unarmed,764696.9253,,2940201.124,2013
+246849,130144689.0,Friday,No,2013-03-08T10:00:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,3,FDPROP,72,A1,Day,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2013

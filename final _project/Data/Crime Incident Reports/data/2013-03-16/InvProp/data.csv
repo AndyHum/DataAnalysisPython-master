@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+111895,130155920.0,Saturday,No,2013-03-16T13:05:00.000,InvProp,"[-71.054375, 42.327796]",Point,InvProp,3,IVPER ,914,C6,Day,No,LOGAN WY,Part Three,Unarmed,776668.1887,,2944792.189,2013
+169079,130155924.0,Saturday,No,2013-03-16T13:10:00.000,InvProp,"[-71.063873, 42.325436]",Point,InvProp,3,IVMV  ,186,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2013
+205410,130155373.0,Saturday,No,2013-03-16T04:55:00.000,InvProp,"[-71.08418, 42.308836]",Point,InvProp,3,IVPREM,320,B2,Last,No,CHENEY ST,Part Three,Other,768642.3737,,2937842.151,2013
+209415,130156168.0,Saturday,No,2013-03-16T15:25:00.000,InvProp,"[-71.11808, 42.271606]",Point,InvProp,3,ALARMM,498,E18,Day,No,BRADLEE ST,Part Three,Other,759533.5422,,2924232.0919999997,2013
+233390,130160447.0,Saturday,No,2013-03-16T22:00:00.000,InvProp,"[-71.128569, 42.358301]",Point,InvProp,3,IVMV  ,816,D14,First,No,HOOKER ST,Part Three,Unarmed,756557.1364,,2955812.4280000003,2013

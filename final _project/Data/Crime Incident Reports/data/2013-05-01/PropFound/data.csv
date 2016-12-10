@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12802,130258149.0,Wednesday,No,2013-05-01T22:15:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,5,FDPROP,778,D14,First,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2013
+21512,130256429.0,Wednesday,No,2013-05-01T09:45:00.000,PropFound,"[-71.13978, 42.345081]",Point,PropFound,5,FDPROP,791,D14,Day,No,ALLSTON ST,Part Three,Unarmed,753547.392,SUMMIT AV,2950982.0810000002,2013
+54805,130257424.0,Wednesday,No,2013-05-01T16:46:00.000,PropFound,"[-71.15981, 42.348876]",Point,PropFound,5,FDPROP,762,D14,First,No,WASHINGTON ST,Part Three,Unarmed,748127.0411,LAKE ST,2952342.825,2013
+115339,130258239.0,Wednesday,No,2013-05-01T23:49:00.000,PropFound,"[-71.084747, 42.329375]",Point,PropFound,5,IVPREM,280,B2,Last,No,WASHINGTON ST,Part Three,Unarmed,768452.5418,,2945326.172,2013
+153091,130256262.0,Wednesday,No,2013-05-01T08:00:00.000,PropFound,"[-71.086215, 42.343382]",Point,PropFound,5,LARCRT,619,D4,Day,No,WESTLAND AV,Part Three,Unarmed,768030.7109,,2950428.4460000005,2013
+235433,130258970.0,Wednesday,No,2013-05-01T15:00:00.000,PropFound,"[-71.059287, 42.313485]",Point,PropFound,5,FDPROP,247,C11,Day,No,PLEASANT ST,Part Three,Unarmed,775366.7701,,2939569.9639999997,2013

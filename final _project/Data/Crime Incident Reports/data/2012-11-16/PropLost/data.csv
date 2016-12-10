@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19525,120723066.0,Friday,No,2012-11-16T18:00:00.000,PropLost,"[-71.051425, 42.333116]",Point,PropLost,11,LSTPRP,216,C6,First,No,W EIGHTH ST,Part Three,Unarmed,777455.6944,,2946735.0689999997,2012
+200366,120728252.0,Friday,No,2012-11-16T13:00:00.000,PropLost,"[-71.06732, 42.327316]",Point,PropLost,11,IVPER ,177,C6,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,773168.6514,,2944599.247,2012
+234120,120772822.0,Friday,No,2012-11-16T02:00:00.000,PropLost,"[-71.065135, 42.350006]",Point,PropLost,11,LSTPRP,121,A1,Last,No,TREMONT ST,Part Three,Unarmed,773717.34,,2952870.892,2012
+263914,120722955.0,Friday,No,2012-11-16T16:00:00.000,PropLost,"[0, 0]",Point,PropLost,11,LSTPRP,93,A1,First,No,FANEUIL HALL SQ,Part Three,Unarmed,,,,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+94400,120690647.0,Friday,No,2012-11-02T04:05:00.000,Gather,"[-71.1337, 42.288771]",Point,Gather,11,PKNIFE,672,E5,Last,No,SOUTH ST,Part Three,Unarmed,755279.1505,,2930468.73,2012
+173821,120692497.0,Friday,No,2012-11-02T21:36:00.000,Gather,"[-71.09873, 42.265356]",Point,Gather,11,IVPREM,481,E18,First,No,RIVER ST,Part Three,Unarmed,764781.2998,,2921978.5519999997,2012
+252541,120690312.0,Friday,No,2012-11-02T00:28:00.000,Gather,"[-71.09956, 42.331896]",Point,Gather,11,PARTY ,587,B2,Last,No,BURNEY ST,Part Three,Unarmed,764442.8018,,2946225.704,2012

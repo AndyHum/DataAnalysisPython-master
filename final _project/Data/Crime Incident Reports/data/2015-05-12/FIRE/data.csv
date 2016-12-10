@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1143,152038922.0,Tuesday,No,2015-05-12T17:12:00.000,FIRE,"[0, 0]",Point,FIRE,5,FIRE,0,C6,First,No,LOGAN WY,Part three,Unarmed,,,,2015
+25528,152038960.0,Tuesday,No,2015-05-12T20:00:00.000,FIRE,"[-71.10077, 42.327316]",Point,FIRE,5,REQP,0,B2,First,No,FISHER AV,Part three,Other,764123.4415,,2944555.137,2015
+255033,152038834.0,Tuesday,No,2015-05-12T11:53:00.000,FIRE,"[-71.110128, 42.300585]",Point,FIRE,5,INVEST,0,E13,Day,No,MORTON ST,Part three,Unarmed,761637.4806,,2934801.963,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+107622,130514722.0,Friday,No,2013-08-16T06:18:00.000,FIRE,"[-71.075911, 42.288455]",Point,FIRE,8,FV    ,435,B3,Last,No,NORFOLK ST,Part three,Unarmed,770915.798,,2930425.727,2013
+181890,130515239.0,Friday,No,2013-08-16T11:53:00.000,FIRE,"[-71.06933, 42.320926]",Point,FIRE,8,FIREB ,183,B2,Day,No,BATCHELDER ST,Part three,Unarmed,772636.8854,,2942267.873,2013
+258540,130516395.0,Friday,No,2013-08-16T20:34:00.000,FIRE,"[-71.097815, 42.334961]",Point,FIRE,8,FIREB ,901,B2,First,No,MCGREEVEY WY,Part three,Unarmed,764909.3671,,2947344.8660000004,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+100818,140251690.0,Friday,No,2014-04-25T13:27:00.000,Ballist,"[-71.075045, 42.341721]",Point,Ballist,4,IVPREM,158,D4,Day,No,W BROOKLINE ST,Part Two,Unarmed,771053.5838,,2949838.182,2014
+137704,140252587.0,Friday,No,2014-04-25T20:08:00.000,Ballist,"[-71.066155, 42.279161]",Point,Ballist,4,ARREST,404,C11,First,No,DORCHESTER AV,Part Two,Unarmed,773572.9354,,2927052.436,2014
+140163,140250651.0,Friday,No,2014-04-25T00:25:00.000,Ballist,"[-71.076101, 42.321642]",Point,Ballist,4,SHOTS ,262,B2,Last,No,DENNIS ST,Part Two,Unarmed,770804.2136,,2942519.4189999998,2014

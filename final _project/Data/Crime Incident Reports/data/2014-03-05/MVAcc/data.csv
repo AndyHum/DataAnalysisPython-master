@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+93009,140134743.0,Wednesday,No,2014-03-05T02:50:00.000,MVAcc,"[-71.05219, 42.358641]",Point,MVAcc,3,MVA   ,101,A1,Last,No,MILK ST,Other,Unarmed,777200.0149,SURFACE RD,2956035.7539999997,2014
+114300,140134523.0,Wednesday,No,2014-03-05T23:26:00.000,MVAcc,"[-71.09095, 42.318221]",Point,MVAcc,3,MVA   ,306,B2,First,No,TOWNSEND ST,Other,Unarmed,766794.7629,WALNUT AV,2941253.3430000003,2014
+114816,140134555.0,Wednesday,No,2014-03-05T00:04:00.000,MVAcc,"[-71.072097, 42.321041]",Point,MVAcc,3,MVANO ,183,B2,Last,No,DUDLEY ST,Other,Unarmed,771888.2764,,2942305.988,2014
+120331,140136539.0,Wednesday,No,2014-03-05T19:37:00.000,MVAcc,"[-71.09234, 42.275481]",Point,MVAcc,3,MVA   ,427,B3,First,No,BABSON ST,Other,Unarmed,766493.2782,MILDRED AV,2925676.439,2014
+139199,140135775.0,Wednesday,No,2014-03-05T14:00:00.000,MVAcc,"[-71.078815, 42.350571]",Point,MVAcc,3,MVANO ,0,D4,Day,No,NEWBURY ST,Other,Unarmed,770018.4438,,2953058.235,2014
+215324,140134954.0,Wednesday,No,2014-03-05T07:48:00.000,MVAcc,"[-71.12532, 42.251951]",Point,MVAcc,3,MVA   ,522,E18,Day,No,HYDE PARK AV,Other,Unarmed,757605.5093,,2917060.857,2014
+261470,140152709.0,Wednesday,No,2014-03-05T21:45:00.000,MVAcc,"[0, 0]",Point,MVAcc,3,HITRUN,292,B2,First,No,SHAWMUT AV,Other,Other,,,,2014

@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80400,152028678.0,Monday,No,2015-04-06T16:00:00.000,InvPer,"[-71.060775, 42.303651]",Point,InvPer,4,IVPER,0,C11,First,No,ADAMS ST,Part three,Other,774982.8899,,2935984.389,2015
+210035,152028067.0,Monday,No,2015-04-06T22:56:00.000,InvPer,"[-71.087705, 42.340771]",Point,InvPer,4,DISTRB,0,D4,First,No,HUNTINGTON AV,Part three,Unarmed,767632.6471,,2949475.187,2015
+220004,152028425.0,Monday,No,2015-04-06T08:29:00.000,InvPer,"[-71.075185, 42.336021]",Point,InvPer,4,FIGHT,0,D4,Day,No,E SPRINGFIELD ST,Part three,Unarmed,771026.0816,,2947760.812,2015
+222163,152027878.0,Monday,No,2015-04-06T13:50:00.000,InvPer,"[-71.065491, 42.305384]",Point,InvPer,4,IVPER,0,C11,Day,No,DRAPER ST,Part three,Other,773703.9466,,2936609.337,2015
+224267,152027943.0,Monday,No,2015-04-06T18:59:00.000,InvPer,"[-71.067945, 42.287781]",Point,InvPer,4,IVPER,0,C11,First,No,OCEAN ST,Part three,Other,773072.6247,,2930191.223,2015
+230960,152028076.0,Monday,No,2015-04-06T23:52:00.000,InvPer,"[-71.077645, 42.337576]",Point,InvPer,4,AB,0,D4,Last,No,SHAWMUT AV,Part three,Unarmed,770358.157,,2948324.1780000003,2015
+252208,152028033.0,Monday,No,2015-04-06T12:00:00.000,InvPer,"[-71.07251, 42.278071]",Point,InvPer,4,IVPER,0,B3,Day,No,GALLIVAN BL,Part three,Unarmed,771855.1659,,2926646.542,2015
+256663,152028010.0,Monday,No,2015-04-06T19:31:00.000,InvPer,"[-71.04162, 42.369616]",Point,InvPer,4,DISTRB,0,A7,First,No,SUMNER ST,Part three,Unarmed,780035.3332,,2960050.433,2015
+267377,152027922.0,Monday,No,2015-04-06T15:50:00.000,InvPer,"[0, 0]",Point,InvPer,4,VIORDR,0,E5,Day,No,BROOKWAY,Part three,Unarmed,,,,2015
+267646,152029716.0,Monday,No,2015-04-06T12:00:00.000,InvPer,"[0, 0]",Point,InvPer,4,IVPER,0,E13,Day,No,HEATH ST,Part three,Unarmed,,,,2015

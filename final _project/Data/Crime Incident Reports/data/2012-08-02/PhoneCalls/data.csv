@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+70080,120478669.0,Thursday,No,2012-08-02T22:34:00.000,PhoneCalls,"[-71.077655, 42.296431]",Point,PhoneCalls,8,THREAT,446,B3,First,No,MILLET ST,Part Three,Unarmed,770429.6969,,2933330.25,2012
+71642,120481226.0,Thursday,No,2012-08-02T20:43:00.000,PhoneCalls,"[-71.106975, 42.287486]",Point,PhoneCalls,8,HARPT ,503,E18,First,No,AMERICAN LEGION HY,Part Three,Unarmed,762512.4267,,2930032.643,2012
+214329,120477439.0,Thursday,No,2012-08-02T14:24:00.000,PhoneCalls,"[-71.07632, 42.350356]",Point,PhoneCalls,8,HARPT ,134,D4,Day,No,BOYLSTON ST,Part Three,Unarmed,770693.2587,,2952983.224,2012
+254480,120485038.0,Thursday,No,2012-08-02T01:30:00.000,PhoneCalls,"[-71.098435, 42.333576]",Point,PhoneCalls,8,INVEST,901,B2,Last,No,SMITH ST,Part Three,Unarmed,764744.1099,,2946839.358,2012

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+197016,130726590.0,Friday,No,2013-11-15T18:10:00.000,FIRE,"[-71.125897, 42.256133]",Point,FIRE,11,FIREB ,543,E18,First,No,GORDON AV,Part three,Unarmed,757442.6012,,2918583.9110000003,2013
+215671,130726158.0,Friday,No,2013-11-15T14:39:00.000,FIRE,"[-71.078719, 42.30927]",Point,FIRE,11,FIREB ,329,B2,Day,No,DEVON ST,Part three,Unarmed,770118.7222,,2938007.273,2013
+229176,130725453.0,Friday,No,2013-11-15T08:53:00.000,FIRE,"[-71.080822, 42.273493]",Point,FIRE,11,FIREB ,422,B3,Day,No,BEATTY CR,Part three,Unarmed,769613.8042,,2924966.8010000004,2013

@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34860,,Tuesday,No,2015-08-04T00:00:00.000,Medical Assistance,"[-71.050372, 42.294029]",Point,MedAssist,8,UNKEMS,369,C11,,No,HOUGHTON ST,Part Three,None,777815.0,,2930000.0,2015
+50075,,Tuesday,No,2015-08-04T00:00:00.000,Medical Assistance,"[-71.141184, 42.284462]",Point,MedAssist,8,I00015,687,E5,,No,ALDRICH ST,Part Three,None,753261.0,,2930000.0,2015
+122168,,Tuesday,No,2015-08-04T00:00:00.000,Medical Assistance,"[-71.063069, 42.315267]",Point,MedAssist,8,EDP,257,C11,,No,EVERETT AVE,Part Three,None,774341.0,,2940000.0,2015
+127066,,Tuesday,No,2015-08-04T17:40:00.000,Medical Assistance,"[0, 0]",Point,MedAssist,8,IVPER,214,C6,,No,F ST,Part Three,None,,W BROADWAY,,2015
+166776,,Tuesday,No,2015-08-04T00:00:00.000,Medical Assistance,"[-71.076261, 42.350379]",Point,MedAssist,8,INJ,134,D4,,No,BOYLSTON ST,Part Three,None,770709.0,,2950000.0,2015
+199704,,Tuesday,No,2015-08-04T00:00:00.000,Medical Assistance,"[-71.047365, 42.280767]",Point,MedAssist,8,UNKEMS,385,C11,,No,HALLET ST,Part Three,None,778655.0,,2930000.0,2015
+238987,,Tuesday,No,2015-08-04T00:00:00.000,Medical Assistance,"[-71.114619, 42.305129]",Point,MedAssist,8,IVPER,651,E13,,No,SOUTH ST,Part Three,None,760415.0,,2940000.0,2015

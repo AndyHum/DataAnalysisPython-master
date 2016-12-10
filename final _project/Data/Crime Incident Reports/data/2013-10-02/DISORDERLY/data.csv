@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+18165,130629227.0,Wednesday,No,2013-10-02T21:16:00.000,DISORDERLY,"[-71.007327, 42.386832]",Point,24xx,10,ARREST,10,A7,First,No,SARATOGA ST,Part Two,Unarmed,789266.0329,,2966375.8239999996,2013
+58842,130627257.0,Wednesday,No,2013-10-02T03:22:00.000,DISORDERLY,"[-71.081742, 42.299704]",Point,24xx,10,DISTRB,457,B3,Last,No,GLENWAY ST,Part Two,Unarmed,769318.0765,,2934517.415,2013
+125423,130627108.0,Wednesday,No,2013-10-02T01:02:00.000,DISORDERLY,"[-71.08668, 42.309096]",Point,24xx,10,SSTOP ,319,B2,Last,No,SCHUYLER ST,Part Two,Unarmed,767965.694,,2937933.613,2013
+148483,130628355.0,Wednesday,No,2013-10-02T15:11:00.000,DISORDERLY,"[-71.06232, 42.364881]",Point,24xx,10,THREAT,75,A1,Day,No,CAUSEWAY ST,Part Two,Unarmed,774450.4537,PORTLAND ST,2958295.521,2013

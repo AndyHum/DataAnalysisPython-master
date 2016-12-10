@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+92088,140305915.0,Thursday,No,2014-03-27T08:00:00.000,FORGERY,"[-71.168351, 42.265484]",Point,10xx,3,LARCRT,723,E5,Day,No,VFW PY,Part Two,Other,745936.3873,,2921944.256,2014
+172364,140184925.0,Thursday,No,2014-03-27T11:14:00.000,FORGERY,"[-71.070415, 42.332156]",Point,10xx,3,IVPREM,177,C6,Day,No,SOUTHAMPTON ST,Part Two,Unarmed,772322.8506,,2946358.797,2014
+210447,140187258.0,Thursday,No,2014-03-27T12:17:00.000,FORGERY,"[-71.060735, 42.298351]",Point,10xx,3,MISCRP,355,C11,Day,No,DORCHESTER AV,Part Two,Unarmed,775003.6566,,2934053.046,2014

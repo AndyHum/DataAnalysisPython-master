@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+1747,152042420.0,Saturday,No,2015-05-23T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,A1,Day,No,CENTRAL WF,Part three,Unarmed,,,,2015
+1763,152042611.0,Saturday,No,2015-05-23T00:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,D14,Last,No,ALLSTON ST,Part three,Unarmed,,,,2015
+1770,152042577.0,Saturday,No,2015-05-23T15:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,C6,Day,No,CONGRESS ST,Part three,Unarmed,,,,2015
+2214,152044685.0,Saturday,No,2015-05-23T12:30:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,A1,Day,No,CENTRAL WF,Part three,Unarmed,,,,2015
+35790,152043977.0,Saturday,No,2015-05-23T17:00:00.000,PropLost,"[-71.06979, 42.352031]",Point,PropLost,5,ADMRPT,0,A1,First,No,BOYLSTON ST,Part three,Unarmed,772455.3123,,2953602.461,2015
+36948,152045759.0,Saturday,No,2015-05-23T09:00:00.000,PropLost,"[-71.11326, 42.305381]",Point,PropLost,5,LARCEN,0,E13,Day,No,BOYNTON ST,Part three,Unarmed,760782.2612,,2936546.09,2015
+49085,152042861.0,Saturday,No,2015-05-23T00:00:00.000,PropLost,"[-71.096413, 42.344914]",Point,PropLost,5,PROP,0,D4,Last,No,BOYLSTON ST,Part three,Unarmed,765271.056,,2950973.562,2015
+119389,152042228.0,Saturday,No,2015-05-23T01:30:00.000,PropLost,"[-71.057141, 42.361472]",Point,PropLost,5,LARCEN,0,A1,Last,No,UNION ST,Part three,Other,775856.5178,,2957060.42,2015
+166812,152042293.0,Saturday,No,2015-05-23T01:00:00.000,PropLost,"[-71.0981, 42.347161]",Point,PropLost,5,PROP,0,D4,Last,No,LANSDOWNE ST,Part three,Unarmed,764811.3611,,2951790.4110000003,2015
+214279,152046818.0,Saturday,No,2015-05-23T18:30:00.000,PropLost,"[-71.104968, 42.334088]",Point,PropLost,5,LARCEN,0,B2,First,No,HUNTINGTON AV,Part three,Unarmed,762976.5829,,2947017.4080000003,2015

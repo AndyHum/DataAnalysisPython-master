@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+42163,120550456.0,Monday,No,2012-09-03T14:11:00.000,PropFound,"[-71.05158, 42.358761]",Point,PropFound,9,LSTPRP,95,A1,Day,No,ATLANTIC AV,Part Three,Unarmed,777364.6527,MILK ST,2956080.3510000003,2012
+51829,120550854.0,Monday,No,2012-09-03T18:10:00.000,PropFound,"[-71.075835, 42.289281]",Point,PropFound,9,LSTPRP,437,B3,First,No,DARLINGTON ST,Part Three,Unarmed,770935.0404,,2930727.1289999997,2012
+112253,120550059.0,Monday,No,2012-09-03T10:15:00.000,PropFound,"[-71.09417, 42.338367]",Point,PropFound,9,FDPROP,617,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,765888.8254,,2948590.6560000004,2012
+203125,120552509.0,Monday,No,2012-09-03T15:00:00.000,PropFound,"[-71.063873, 42.325436]",Point,PropFound,9,FDPROP,186,C6,Day,No,ALLSTATE RD,Part Three,Unarmed,774104.1328,,2943918.604,2012

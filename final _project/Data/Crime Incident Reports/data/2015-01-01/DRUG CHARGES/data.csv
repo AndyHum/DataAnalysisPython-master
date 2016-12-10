@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+197851,152000074.0,Thursday,No,2015-01-01T02:29:00.000,DRUG CHARGES,"[-71.0859, 42.301321]",Point,18xx,1,TS,0,B2,Last,No,BLUE HILL AV,Part Two,Unarmed,768190.4286,MCLELLAN ST,2935101.3039999995,2015
+245316,152000278.0,Thursday,No,2015-01-01T19:00:00.000,DRUG CHARGES,"[-71.0626, 42.352361]",Point,18xx,1,ARREST,0,A1,First,No,WASHINGTON ST,Part Two,Other,774398.1817,ESSEX ST,2953732.6010000003,2015
+263936,152000158.0,Thursday,No,2015-01-01T10:35:00.000,DRUG CHARGES,"[0, 0]",Point,18xx,1,LARCEN,0,D4,Day,No,HARRISON AV,Part Two,Unarmed,,,,2015

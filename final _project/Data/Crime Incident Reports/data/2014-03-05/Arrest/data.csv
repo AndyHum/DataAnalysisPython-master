@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+12524,140135842.0,Wednesday,No,2014-03-05T14:23:00.000,Arrest,"[-71.10457, 42.309451]",Point,Arrest,3,ARREST,571,E13,Day,No,WASHINGTON ST,Part three,Unarmed,763126.0646,GREEN ST,2938040.04,2014
+70138,140135602.0,Wednesday,No,2014-03-05T12:45:00.000,Arrest,"[-71.07915, 42.339311]",Point,Arrest,3,CD11  ,156,D4,Day,No,W SPRINGFIELD ST,Part three,Unarmed,769948.1375,,2948954.433,2014
+176187,140135022.0,Wednesday,No,2014-03-05T08:16:00.000,Arrest,"[-71.130865, 42.277409]",Point,Arrest,3,ARREST,0,E5,Day,No,HEMMAN ST,Part three,Unarmed,756064.1295,,2926331.2610000004,2014
+263945,140136413.0,Wednesday,No,2014-03-05T18:39:00.000,Arrest,"[0, 0]",Point,Arrest,3,ARREST,503,B3,First,No,W MAIN ST,Part three,Unarmed,,,,2014

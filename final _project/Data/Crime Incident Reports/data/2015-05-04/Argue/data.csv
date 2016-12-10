@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+670,152036699.0,Monday,No,2015-05-04T16:30:00.000,Argue,"[0, 0]",Point,Argue,5,IVPER,0,D4,First,No,E CONCORD ST,Part three,Unarmed,,,,2015
+22060,152036377.0,Monday,No,2015-05-04T14:35:00.000,Argue,"[-71.07666, 42.351141]",Point,Argue,5,IVPER,0,D4,Day,No,NEWBURY ST,Part three,Unarmed,770599.9318,,2953268.837,2015
+154634,152036436.0,Monday,No,2015-05-04T17:45:00.000,Argue,"[-71.080641, 42.329362]",Point,Argue,5,DISTRB,0,B2,First,No,BETHUNE WY,Part three,Unarmed,769562.6662,,2945326.736,2015
+200379,152036512.0,Monday,No,2015-05-04T09:00:00.000,Argue,"[-71.067555, 42.349351]",Point,Argue,5,DVIP,0,A1,Day,No,MELROSE ST,Part three,Unarmed,773064.3931,,2952628.873,2015

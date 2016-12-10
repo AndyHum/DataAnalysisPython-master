@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+4304,142026013.0,Thursday,No,2014-09-04T08:45:00.000,Arrest,"[-71.04948, 42.331071]",Point,Arrest,9,ARREST,0,C6,Day,No,MERCER ST,Part three,Unarmed,777985.5272,E 9TH ST,2945992.607,2014
+155980,142026253.0,Thursday,No,2014-09-04T18:30:00.000,Arrest,"[-71.12395, 42.256421]",Point,Arrest,9,ARREST,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,757969.2324,,2918691.415,2014
+156358,142026014.0,Thursday,No,2014-09-04T08:30:00.000,Arrest,"[-71.063675, 42.352301]",Point,Arrest,9,ARREST,0,A1,Day,No,BOYLSTON ST,Part three,Unarmed,774107.7181,,2953709.249,2014

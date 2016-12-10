@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25062,120749326.0,Thursday,No,2012-11-29T16:50:00.000,PropFound,"[-71.114485, 42.311256]",Point,PropFound,11,FDPROP,642,E13,First,No,CENTRE ST,Part Three,Unarmed,760441.2169,,2938685.534,2012
+40272,120752447.0,Thursday,No,2012-11-29T18:30:00.000,PropFound,"[-71.08257, 42.348656]",Point,PropFound,11,FDPROP,143,D4,First,No,BOYLSTON ST,Part Three,Unarmed,769006.8448,,2952355.38,2012
+82048,120750381.0,Thursday,No,2012-11-29T23:00:00.000,PropFound,"[-71.095715, 42.313821]",Point,PropFound,11,FDPROP,307,E13,First,No,COLUMBUS AV,Part Three,Other,765513.6749,,2939643.768,2012
+170531,120748752.0,Thursday,No,2012-11-29T13:10:00.000,PropFound,"[-71.093655, 42.269336]",Point,PropFound,11,FDPROP,426,B3,Day,No,BLUE HILL AV,Part Three,Unarmed,766148.0654,,2923435.4189999998,2012

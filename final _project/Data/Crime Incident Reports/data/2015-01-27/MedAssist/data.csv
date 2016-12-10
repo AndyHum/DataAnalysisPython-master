@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+8277,152007333.0,Tuesday,No,2015-01-27T17:34:00.000,MedAssist,"[-71.119175, 42.278916]",Point,MedAssist,1,IVPER,0,E18,First,No,HYDE PARK AV,Part three,Unarmed,759225.2889,,2926894.6339999996,2015
+8362,152007274.0,Tuesday,No,2015-01-27T11:16:00.000,MedAssist,"[-71.07999, 42.329021]",Point,MedAssist,1,UNKEMS,0,B2,Day,No,WHEATLEY WY,Part three,Unarmed,769739.5011,ZEIGLER ST,2945203.452,2015
+36800,152007236.0,Tuesday,No,2015-01-27T00:21:00.000,MedAssist,"[-71.04723, 42.319566]",Point,MedAssist,1,REQEP,0,C6,Last,No,MT VERNON ST,Part three,Unarmed,778616.1691,,2941803.2180000003,2015
+85659,152007281.0,Tuesday,No,2015-01-27T03:00:00.000,MedAssist,"[-71.09237, 42.328021]",Point,MedAssist,1,CARDIA,0,B2,Last,No,HIGHLAND ST,Part three,Unarmed,766393.6581,,2944822.7939999998,2015
+131905,152007306.0,Tuesday,No,2015-01-27T14:31:00.000,MedAssist,"[-71.10214, 42.334221]",Point,MedAssist,1,CARDIA,0,B2,Day,No,WORTHINGTON ST,Part three,Unarmed,763741.2418,,2947069.712,2015
+223503,152007310.0,Tuesday,No,2015-01-27T15:50:00.000,MedAssist,"[-71.037035, 42.380526]",Point,MedAssist,1,UNCONS,0,A7,Day,No,WHITE ST,Part three,Unarmed,781252.7501,,2964032.9489999996,2015
+239448,152007265.0,Tuesday,No,2015-01-27T08:44:00.000,MedAssist,"[-71.060045, 42.300631]",Point,MedAssist,1,UNKEMS,0,C11,Day,No,DORCHESTER AV,Part three,Unarmed,775186.0391,,2934884.873,2015
+259812,152007338.0,Tuesday,No,2015-01-27T18:45:00.000,MedAssist,"[-71.06353, 42.381606]",Point,MedAssist,1,UNCONS,0,A15,First,No,MEDFORD ST,Part three,Unarmed,774092.2647,,2964388.7810000004,2015
+261656,152007323.0,Tuesday,No,2015-01-27T17:30:00.000,MedAssist,"[0, 0]",Point,MedAssist,1,UNCONS,0,A15,First,No,13TH ST,Part three,Unarmed,,,,2015

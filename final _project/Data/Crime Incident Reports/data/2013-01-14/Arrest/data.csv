@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40417,130029138.0,Monday,No,2013-01-14T18:30:00.000,Arrest,"[-71.035664, 42.372588]",Point,Arrest,1,ARREST,27,A7,First,No,CHELSEA ST,Part Three,Unarmed,781638.7267,,2961142.146,2013
+47973,130027679.0,Monday,No,2013-01-14T08:45:00.000,Arrest,"[-71.085325, 42.310363]",Point,Arrest,1,ARREST,320,B2,Day,No,GEORGIA ST,Part Three,Unarmed,768329.7320000001,,2938397.001,2013
+99120,130030700.0,Monday,No,2013-01-14T14:14:00.000,Arrest,"[-71.079535, 42.301751]",Point,Arrest,1,ARREST,456,B3,Day,No,GREENWOOD ST,Part Three,Unarmed,769911.5211,,2935266.4260000004,2013
+162851,130028992.0,Monday,No,2013-01-14T18:40:00.000,Arrest,"[-71.09233, 42.316921]",Point,Arrest,1,SSTOP ,306,B2,First,No,WALNUT AV,Part Three,Unarmed,766423.808,DENNISON ST,2940777.815,2013

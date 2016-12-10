@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+37492,130148588.0,Wednesday,No,2013-03-13T09:30:00.000,Arrest,"[-71.0719, 42.293541]",Point,Arrest,3,TRANSP,0,C11,Day,No,WASHINGTON ST,Part Three,Unarmed,771991.9497,,2932284.853,2013
+118246,130148421.0,Wednesday,No,2013-03-13T08:40:00.000,Arrest,"[-71.03386, 42.379111]",Point,Arrest,3,ARREST,824,A7,Day,No,LEXINGTON ST,Part Three,Unarmed,782113.3934,,2963521.9669999997,2013
+159621,130150181.0,Wednesday,No,2013-03-13T20:12:00.000,Arrest,"[-71.139352, 42.240701]",Point,Arrest,3,ARREST,529,E18,First,No,COMO RD,Part Three,Unarmed,753823.8916,,2912944.788,2013

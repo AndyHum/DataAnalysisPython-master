@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+63325,130594217.0,Wednesday,No,2013-09-18T03:45:00.000,MedAssist,"[-71.130451, 42.35065]",Point,MedAssist,9,IVPER ,796,D14,Last,No,COMMONWEALTH AV,Part three,Unarmed,756060.5505,HARVARD AV,2953022.06,2013
+72336,130594899.0,Wednesday,No,2013-09-18T11:49:00.000,MedAssist,"[-71.03825, 42.374616]",Point,MedAssist,9,EDP2  ,22,A7,Day,No,PORTER ST,Part three,Unarmed,780936.1392,,2961877.445,2013
+89258,130594705.0,Wednesday,No,2013-09-18T10:09:00.000,MedAssist,"[-71.040285, 42.380941]",Point,MedAssist,9,EDP2  ,26,A7,Day,No,BORDER ST,Part three,Unarmed,780373.844,,2964179.434,2013
+136535,130595553.0,Wednesday,No,2013-09-18T16:25:00.000,MedAssist,"[-71.100758, 42.335565]",Point,MedAssist,9,REQEP ,602,B2,First,No,HUNTINGTON AV,Part three,Unarmed,764112.391,,2947560.9480000003,2013
+145450,130595375.0,Wednesday,No,2013-09-18T16:11:00.000,MedAssist,"[-71.090815, 42.280136]",Point,MedAssist,9,EDP2  ,428,B3,First,No,CLARKWOOD ST,Part three,Unarmed,766897.8582,,2927374.765,2013
+151116,130594218.0,Wednesday,No,2013-09-18T03:12:00.000,MedAssist,"[-71.09358, 42.272286]",Point,MedAssist,9,INVCHD,425,B3,Last,No,BLUE HILL AV,Part three,Unarmed,766163.2425,,2924510.535,2013
+192750,130594999.0,Wednesday,No,2013-09-18T12:30:00.000,MedAssist,"[-71.03998, 42.367131]",Point,MedAssist,9,TRAUMA,35,A7,Day,No,MARGINAL ST,Part three,Unarmed,780483.3913,S BREMEN ST,2959147.235,2013
+193221,130596239.0,Wednesday,No,2013-09-18T21:35:00.000,MedAssist,"[-71.160265, 42.272126]",Point,MedAssist,9,UNCONS,717,E5,First,No,WOODBRIER RD,Part three,Unarmed,748115.4752,,2924373.29,2013
+208882,130596036.0,Wednesday,No,2013-09-18T19:46:00.000,MedAssist,"[-71.072127, 42.308537]",Point,MedAssist,9,EDP2  ,336,C11,First,No,RICHFIELD ST,Part three,Unarmed,771903.1093,,2937749.188,2013
+229408,130596048.0,Wednesday,No,2013-09-18T19:55:00.000,MedAssist,"[-71.047314, 42.294874]",Point,MedAssist,9,MVPED1,370,C11,First,No,MORRISSEY BL,Part three,Unarmed,778641.0768,,2932804.8460000004,2013
+249139,130595492.0,Wednesday,No,2013-09-18T16:05:00.000,MedAssist,"[-71.072995, 42.304498]",Point,MedAssist,9,EDP2  ,343,C11,First,No,GENEVA AV,Part three,Unarmed,771675.6285,,2936276.22,2013
+265581,130594411.0,Wednesday,No,2013-09-18T08:00:00.000,MedAssist,"[0, 0]",Point,MedAssist,9,MVPED1,797,D14,Day,No,COMMONWEALTH AV,Part three,Unarmed,,ARMORY ST,,2013

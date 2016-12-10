@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+34445,130687573.0,Monday,No,2013-10-28T16:20:00.000,PropFound,"[-71.12425, 42.254966]",Point,PropFound,10,LSTPRP,521,E18,First,No,HYDE PARK AV,Part three,Unarmed,757890.3542,,2918160.836,2013
+98528,130687745.0,Monday,No,2013-10-28T18:38:00.000,PropFound,"[-71.061745, 42.356021]",Point,PropFound,10,IVPER ,111,A1,First,No,WINTER ST,Part three,Unarmed,774622.4376,,2955067.563,2013
+116541,130688143.0,Monday,No,2013-10-28T16:00:00.000,PropFound,"[-71.085618, 42.32866]",Point,PropFound,10,FDPROP,282,B2,First,No,WASHINGTON ST,Part three,Unarmed,768218.0809,,2945064.255,2013
+145585,130687976.0,Monday,No,2013-10-28T20:30:00.000,PropFound,"[-71.059735, 42.297541]",Point,PropFound,10,FDPROP,0,C11,First,No,GIBSON ST,Part three,Unarmed,775275.7115,,2933759.268,2013
+151946,130686771.0,Monday,No,2013-10-28T12:30:00.000,PropFound,"[-71.14943, 42.336261]",Point,PropFound,10,FDPROP,790,D14,Day,No,BEACON ST,Part three,Unarmed,750951.8701,,2947757.0319999997,2013
+153032,130687553.0,Monday,No,2013-10-28T17:40:00.000,PropFound,"[-71.059987, 42.361648]",Point,PropFound,10,FDPROP,72,A1,First,No,SUDBURY ST,Part three,Unarmed,775087.02,,2957120.525,2013
+264736,130688158.0,Monday,No,2013-10-28T11:00:00.000,PropFound,"[0, 0]",Point,PropFound,10,FDPROP,598,D4,Day,No,SCOTIA ST,Part three,Unarmed,,BOYLSTON ST,,2013

@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+81285,140165003.0,Tuesday,No,2014-03-18T11:15:00.000,InvProp,"[-71.07936, 42.349221]",Point,InvProp,3,BOMB  ,143,D4,Day,No,EXETER ST,Part three,Unarmed,769873.5524,,2952565.54,2014
+133582,140166023.0,Tuesday,No,2014-03-18T19:17:00.000,InvProp,"[-71.131855, 42.243691]",Point,InvProp,3,SHOTS ,523,E18,First,No,WESTINGHOUSE PLAZA,Part three,Other,755849.2651,,2914043.106,2014
+135417,140166054.0,Tuesday,No,2014-03-18T19:20:00.000,InvProp,"[-71.05321, 42.327191]",Point,InvProp,3,IVPREM,914,C6,First,No,LOGAN WY,Part three,Unarmed,776984.3679,,2944573.365,2014
+160439,140165719.0,Tuesday,No,2014-03-18T17:03:00.000,InvProp,"[-71.06147, 42.305351]",Point,InvProp,3,HAZ   ,346,C11,First,No,ADAMS ST,Part three,Other,774791.6996,LINDEN ST,2936602.9269999997,2014
+178314,140164478.0,Tuesday,No,2014-03-18T04:06:00.000,InvProp,"[-71.100235, 42.272161]",Point,InvProp,3,BEIP  ,475,B3,Last,No,HALLOWELL ST,Part three,Unarmed,764362.3118,,2924456.472,2014

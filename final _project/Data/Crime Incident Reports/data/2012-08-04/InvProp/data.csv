@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+43457,120481515.0,Saturday,No,2012-08-04T01:22:00.000,InvProp,"[-71.106622, 42.325366]",Point,InvProp,8,IVMV  ,583,E13,Last,No,MINDEN ST,Part Three,Other,762544.0424,,2943836.9669999997,2012
+134359,120481950.0,Saturday,No,2012-08-04T09:28:00.000,InvProp,"[-71.111426, 42.326534]",Point,InvProp,8,IVLIC ,607,E13,Day,No,S HUNTINGTON AV,Part Three,Unarmed,761243.045,,2944256.8310000002,2012
+166648,120482589.0,Saturday,No,2012-08-04T14:27:00.000,InvProp,"[-71.084805, 42.324611]",Point,InvProp,8,HAZ   ,295,B2,Day,No,FOUNTAIN ST,Part Three,Unarmed,768445.3354,,2943589.998,2012

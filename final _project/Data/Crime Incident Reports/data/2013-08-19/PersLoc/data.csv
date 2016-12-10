@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+52401,130527974.0,Monday,No,2013-08-19T10:00:00.000,PersLoc,"[-71.007992, 42.39148]",Point,PersLoc,8,MISPER,9,A7,Day,No,MONTMORENCI AV,Other,Unarmed,789076.5855,,2968068.455,2013
+81946,130523108.0,Monday,No,2013-08-19T13:00:00.000,PersLoc,"[-71.11825, 42.283676]",Point,PersLoc,8,MSNCOM,501,E18,Day,No,DESTEPHANO RD,Other,Unarmed,759467.8471,,2928630.367,2013
+257275,130522107.0,Monday,No,2013-08-19T08:00:00.000,PersLoc,"[-71.096498, 42.275779]",Point,PersLoc,8,MISPER,469,B3,Day,No,ALMONT ST,Other,Unarmed,765367.2678,,2925779.433,2013

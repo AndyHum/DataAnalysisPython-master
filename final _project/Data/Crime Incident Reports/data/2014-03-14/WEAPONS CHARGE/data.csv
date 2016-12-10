@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+25847,140156388.0,Friday,No,2014-03-14T12:29:00.000,WEAPONS CHARGE,"[-71.066095, 42.28519]",Point,15xx,3,ARREST,401,C11,Day,No,ASHMONT ST,Part Two,Firearm,773577.9423,,2929249.546,2014
+79622,140157530.0,Friday,No,2014-03-14T20:00:00.000,WEAPONS CHARGE,"[-71.06707, 42.317896]",Point,15xx,3,IVPREM,238,B2,First,No,DUDLEY ST,Part Two,Firearm,773253.6772,,2941166.785,2014
+221428,140157388.0,Friday,No,2014-03-14T21:08:00.000,WEAPONS CHARGE,"[-71.051215, 42.339041]",Point,15xx,3,IVPER ,201,C6,First,No,W BROADWAY,Part Two,Knife,777501.1149,,2948894.54,2014

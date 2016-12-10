@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+76011,130632965.0,Thursday,No,2013-10-03T12:53:00.000,CRIMES AGAINST CHILDREN,"[-71.086692, 42.296038]",Point,20xx,10,CHDABU,444,B3,Day,No,VESTA RD,Part Two,Unarmed,767985.3842,,2933174.8060000003,2013
+125237,130630872.0,Thursday,No,2013-10-03T14:50:00.000,CRIMES AGAINST CHILDREN,"[-71.08932, 42.284441]",Point,20xx,10,INVCHD,430,B3,Day,No,LUCERNE ST,Part Two,Unarmed,767294.8644,FRONTENAC ST,2928945.5069999998,2013
+174062,130631113.0,Thursday,No,2013-10-03T12:53:00.000,CRIMES AGAINST CHILDREN,"[-71.086692, 42.296038]",Point,20xx,10,INVEST,612,B3,Day,No,VESTA RD,Part Two,Unarmed,767985.3842,,2933174.8060000003,2013

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+90970,,Monday,No,2015-08-03T17:23:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,IVPREM,587,B2,,No,BURNEY ST,Part Three,None,,DELLE AVE,,2015
+168474,,Monday,No,2015-08-03T16:22:00.000,Warrant Arrests,"[0, 0]",Point,Arrest,8,,572,E13,,No,COLUMBUS AVE,Part Three,None,,,,2015
+178908,,Monday,No,2015-08-03T00:00:00.000,Warrant Arrests,"[-71.070249, 42.325877]",Point,Arrest,8,ARREST,181,C6,,No,MASSACHUSETTS AVE,Part Three,None,772379.0,SHIRLEY ST,2940000.0,2015

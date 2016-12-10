@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50780,130764303.0,Wednesday,No,2013-12-04T09:07:00.000,Arrest,"[-71.072995, 42.304498]",Point,Arrest,12,CD11  ,461,C11,Day,No,GENEVA AV,Part three,Unarmed,771675.6285,,2936276.22,2013
+52269,130765513.0,Wednesday,No,2013-12-04T17:59:00.000,Arrest,"[-71.10229, 42.318061]",Point,Arrest,12,ARREST,0,E13,First,No,MARBURY TR,Part three,Unarmed,763728.1444,,2941180.534,2013
+89973,130765496.0,Wednesday,No,2013-12-04T17:52:00.000,Arrest,"[-71.100769, 42.325321]",Point,Arrest,12,CD11  ,912,E13,First,No,PARKER ST,Part three,Unarmed,764127.0458,,2943828.1319999998,2013
+204417,130763856.0,Wednesday,No,2013-12-04T01:03:00.000,Arrest,"[-71.07547, 42.346214]",Point,Arrest,12,ARREST,149,D4,Last,No,DARTMOUTH ST,Part three,Unarmed,770930.358,,2951474.633,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+119453,140085398.0,Monday,No,2014-02-03T13:00:00.000,PropLost,"[-71.08257, 42.348656]",Point,PropLost,2,LSTPRP,143,D4,Day,No,BOYLSTON ST,Part three,Unarmed,769006.8448,,2952355.38,2014
+137768,140070725.0,Monday,No,2014-02-03T18:10:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,2,LARCRT,612,B2,First,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2014
+200946,140092041.0,Monday,No,2014-02-03T08:00:00.000,PropLost,"[-71.081565, 42.345586]",Point,PropLost,2,LSTPRP,146,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,769284.003,,2951237.9460000005,2014
+253017,140084737.0,Monday,No,2014-02-03T08:00:00.000,PropLost,"[-71.05998, 42.379651]",Point,PropLost,2,LSTPRP,900,A15,Day,No,CARNEY CT,Part three,Unarmed,775055.0699,,2963681.265,2014

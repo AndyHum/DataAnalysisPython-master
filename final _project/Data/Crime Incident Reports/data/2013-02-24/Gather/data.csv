@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+104710,130113815.0,Sunday,No,2013-02-24T14:01:00.000,Gather,"[-71.074875, 42.292741]",Point,Gather,2,MEET  ,450,B3,Day,No,WHITFIELD ST,Part Three,Unarmed,771188.5048,,2931989.296,2013
+131987,130112976.0,Sunday,No,2013-02-24T00:03:00.000,Gather,"[-71.084025, 42.305016]",Point,Gather,2,PARTY ,330,B2,Last,No,SEAVER ST,Part Three,Unarmed,768691.0889,,2936450.287,2013
+183611,130113298.0,Sunday,No,2013-02-24T02:31:00.000,Gather,"[-71.06617, 42.307016]",Point,Gather,2,FIGHT ,340,C11,Last,No,BOWDOIN ST,Part Three,Unarmed,773517.2475,,2937203.1769999997,2013
+250180,130113032.0,Sunday,No,2013-02-24T00:00:00.000,Gather,"[-71.130142, 42.351748]",Point,Gather,2,PARTY ,796,D14,Last,No,LINDEN ST,Part Three,Unarmed,756142.2724,,2953422.686,2013

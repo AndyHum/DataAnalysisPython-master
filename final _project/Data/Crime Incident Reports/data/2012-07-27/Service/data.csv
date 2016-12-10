@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+47483,120464454.0,Friday,No,2012-07-27T17:45:00.000,Service,"[-71.147585, 42.350751]",Point,Service,7,INVEST,779,D14,First,No,MURDOCK ST,Part Three,Unarmed,751428.8904,,2953039.53,2012
+139207,120464794.0,Friday,No,2012-07-27T21:40:00.000,Service,"[-71.093077, 42.335921]",Point,Service,7,SSTOP ,911,B2,First,No,ANNUNCIATION RD,Part Three,Unarmed,766188.6874,,2947700.482,2012
+152602,120463301.0,Friday,No,2012-07-27T10:10:00.000,Service,"[-71.0729, 42.333256]",Point,Service,7,IVPER ,179,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,771648.9274,,2946756.2810000004,2012
+182861,120464825.0,Friday,No,2012-07-27T21:30:00.000,Service,"[-71.120637, 42.278689]",Point,Service,7,IVPER ,257,E5,First,No,CANTERBURY ST,Part Three,Unarmed,758829.7936,,2926810.035,2012
+192574,120464511.0,Friday,No,2012-07-27T19:45:00.000,Service,"[-71.046717, 42.336149]",Point,Service,7,SSTOP ,213,C6,First,No,W BROADWAY,Part Three,Other,778722.6466,,2947847.002,2012
+228860,120463134.0,Friday,No,2012-07-27T08:41:00.000,Service,"[-71.074477, 42.327293]",Point,Service,7,ARREST,268,B2,Day,No,GERARD ST,Part Three,Unarmed,771233.2649,HAMPDEN ST,2944580.974,2012
+249821,120462973.0,Friday,No,2012-07-27T06:40:00.000,Service,"[-71.072995, 42.304498]",Point,Service,7,CD11  ,461,C11,Last,No,GENEVA AV,Part Three,Unarmed,771675.6285,,2936276.22,2012
+250541,120464022.0,Friday,No,2012-07-27T16:00:00.000,Service,"[-71.150915, 42.348981]",Point,Service,7,ARREST,778,D14,First,No,WASHINGTON ST,Part Three,Unarmed,750531.3965,,2952390.805,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57805,140000244.0,Wednesday,No,2014-01-01T01:20:00.000,WEAPONS CHARGE,"[-71.09649, 42.315641]",Point,15xx,1,ARREST,307,E13,Last,No,WALNUT PARK,Part Two,Firearm,765300.9257,,2940306.014,2014
+57870,140000492.0,Wednesday,No,2014-01-01T02:35:00.000,WEAPONS CHARGE,"[-71.06458, 42.352351]",Point,15xx,1,ARREST,72,A1,Last,No,BOYLSTON ST,Part Two,Unarmed,773863.0013,TREMONT ST,2953726.22,2014
+115299,140000187.0,Wednesday,No,2014-01-01T00:05:00.000,WEAPONS CHARGE,"[-71.084646, 42.304835]",Point,15xx,1,TSTOP ,330,B2,Last,No,BLUE HILL AV,Part Two,Firearm,768523.3694,,2936383.492,2014
+128473,140002213.0,Wednesday,No,2014-01-01T23:04:00.000,WEAPONS CHARGE,"[-71.07635, 42.287146]",Point,15xx,1,ARREST,435,B3,First,No,PEACEVALE RD,Part Two,Firearm,770799.5613,,2929948.413,2014

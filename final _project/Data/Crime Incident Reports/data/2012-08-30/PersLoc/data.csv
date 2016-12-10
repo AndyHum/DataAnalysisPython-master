@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120249,120542536.0,Thursday,No,2012-08-30T10:30:00.000,PersLoc,"[-71.079775, 42.282511]",Point,PersLoc,8,MISPER,418,B3,Day,No,EVANS ST,Part Three,Unarmed,769881.1393,,2928254.769,2012
+151359,120551684.0,Thursday,No,2012-08-30T07:45:00.000,PersLoc,"[-71.089925, 42.314421]",Point,PersLoc,8,IVPER ,314,B2,Day,No,HOWLAND ST,Part Three,Unarmed,767078.4323,,2939869.713,2012
+219565,120542632.0,Thursday,No,2012-08-30T17:30:00.000,PersLoc,"[-71.10766, 42.335096]",Point,PersLoc,8,MISPER,611,B2,First,No,FENWOOD RD,Part Three,Unarmed,762247.2746,,2947381.665,2012
+223815,120542476.0,Thursday,No,2012-08-30T08:00:00.000,PersLoc,"[-71.09279, 42.335528]",Point,PersLoc,8,MISPER,911,B2,Day,No,ANNUNCIATION RD,Part Three,Unarmed,766266.9936,,2947557.934,2012

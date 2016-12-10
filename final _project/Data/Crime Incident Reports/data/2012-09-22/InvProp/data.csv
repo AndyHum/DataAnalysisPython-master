@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71123,120596014.0,Saturday,No,2012-09-22T14:11:00.000,InvProp,"[-71.090967, 42.297075]",Point,InvProp,9,REQP  ,908,B3,Day,No,AMERICAN LEGION HY,Part Three,Unarmed,766826.9259,,2933547.284,2012
+75161,120595508.0,Saturday,No,2012-09-22T09:30:00.000,InvProp,"[-71.132351, 42.3014]",Point,InvProp,9,ALARMR,658,E13,Day,No,ALLANDALE ST,Part Three,Unarmed,755624.1590000001,,2935072.307,2012
+111364,120596951.0,Saturday,No,2012-09-22T22:07:00.000,InvProp,"[-71.10187, 42.267361]",Point,InvProp,9,SHOTS ,486,E18,First,No,GREENFIELD RD,Part Three,Unarmed,763927.9708,RAINIER RD,2922705.2180000003,2012
+195903,120595666.0,Saturday,No,2012-09-22T11:00:00.000,InvProp,"[-71.077748, 42.348631]",Point,InvProp,9,CD9   ,130,D4,Day,No,HUNTINGTON AV,Part Three,Unarmed,770310.163,,2952352.43,2012
+201300,120594932.0,Saturday,No,2012-09-22T01:23:00.000,InvProp,"[-71.138625, 42.286191]",Point,InvProp,9,IVPER ,687,E5,Last,No,BELGRADE AV,Part Three,Unarmed,753950.5504,,2929522.854,2012

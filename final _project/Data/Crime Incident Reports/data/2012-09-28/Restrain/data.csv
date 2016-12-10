@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+39707,120609481.0,Friday,No,2012-09-28T01:00:00.000,Restrain,"[-71.054375, 42.327796]",Point,Restrain,9,VIORDR,914,C6,Last,No,LOGAN WY,Part Two,Unarmed,776668.1887,,2944792.189,2012
+53075,120612572.0,Friday,No,2012-09-28T08:00:00.000,Restrain,"[-70.99991, 42.383046]",Point,Restrain,9,IVPER ,4,A7,Day,No,TERAGRAM ST,Part Two,Unarmed,791277.8514,,2965007.912,2012
+86885,120610123.0,Friday,No,2012-09-28T09:30:00.000,Restrain,"[-71.07601, 42.30414]",Point,Restrain,9,VIORDR,461,C11,Day,No,ROSSETER ST,Part Two,Unarmed,770860.7479,,2936141.6789999995,2012

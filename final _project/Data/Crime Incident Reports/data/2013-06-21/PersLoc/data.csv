@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+40097,130377863.0,Friday,No,2013-06-21T08:49:00.000,PersLoc,"[-71.08181, 42.29754]",Point,PersLoc,6,REQP  ,444,B3,Day,No,GLEASON ST,Other,Unarmed,769303.5968,,2933728.817,2013
+73972,130382912.0,Friday,No,2013-06-21T08:00:00.000,PersLoc,"[-71.03685, 42.379501]",Point,PersLoc,6,MISPER,24,A7,Day,No,EUTAW ST,Other,Unarmed,781304.7602,,2963659.69,2013
+221856,130379570.0,Friday,No,2013-06-21T23:10:00.000,PersLoc,"[-71.064255, 42.299891]",Point,PersLoc,6,INVCHD,400,C11,First,No,CHARLES ST,Other,Other,774048.5119,,2934609.361,2013
+242403,130377936.0,Friday,No,2013-06-21T08:30:00.000,PersLoc,"[-71.080596, 42.327236]",Point,PersLoc,6,MISPER,281,B2,Day,No,GREENWICH ST,Other,Unarmed,769578.6737,,2944551.923,2013
+244785,130379049.0,Friday,No,2013-06-21T14:00:00.000,PersLoc,"[-71.06313, 42.357566]",Point,PersLoc,6,MISPER,354,A1,Day,No,PARK ST,Other,Unarmed,774245.2059999999,,2955628.67,2013

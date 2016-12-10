@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+128665,142001869.0,Sunday,No,2014-06-22T18:22:00.000,FIRE,"[-71.035475, 42.337841]",Point,FIRE,6,FIRE,0,C6,First,No,SUMMER ST,Part three,Other,781758.9486,,2948480.022,2014
+161998,142001645.0,Sunday,No,2014-06-22T00:40:00.000,FIRE,"[-71.07665, 42.336146]",Point,FIRE,6,FIRE,0,D4,Last,No,MASSACHUSETTS AV,Part three,Unarmed,770629.7582,,2947804.394,2014
+170237,142001743.0,Sunday,No,2014-06-22T09:24:00.000,FIRE,"[-71.096325, 42.316646]",Point,FIRE,6,FIRE,0,E13,Day,No,WESTMINSTER AV,Part three,Unarmed,765343.8173,,2940672.463,2014

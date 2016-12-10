@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+57251,130504219.0,Sunday,No,2013-08-11T20:20:00.000,DISORDERLY,"[-71.06789, 42.305511]",Point,24xx,8,ARREST,341,C11,First,No,BOWDOIN ST,Part Two,Unarmed,773054.7721,NORTON ST,2936652.3710000003,2013
+154446,130502984.0,Sunday,No,2013-08-11T09:37:00.000,DISORDERLY,"[-71.03133, 42.337381]",Point,24xx,8,IVPER ,221,C6,Day,No,N ST,Part Two,Unarmed,782880.5281,E 2ND ST,2948318.52,2013
+242216,130504236.0,Sunday,No,2013-08-11T20:42:00.000,DISORDERLY,"[-71.077792, 42.315386]",Point,24xx,8,PARTY ,325,B2,First,No,DOVE ST,Part Two,Other,770358.3778,,2940237.348,2013
+244906,130504342.0,Sunday,No,2013-08-11T22:00:00.000,DISORDERLY,"[-71.05899, 42.356791]",Point,24xx,8,ARREST,103,A1,First,No,WASHINGTON ST,Part Two,Unarmed,775365.6264,,2955352.003,2013

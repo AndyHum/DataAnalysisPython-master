@@ -1,0 +1,18 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+792,152037424.0,Thursday,No,2015-05-07T16:00:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,E5,First,No,INDEPENDENCE DR,Part three,Unarmed,,,,2015
+813,152037546.0,Thursday,No,2015-05-07T23:15:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,D4,First,No,COLUMBUS AV,Part three,Other,,,,2015
+815,152037370.0,Thursday,No,2015-05-07T13:45:00.000,InvPer,"[0, 0]",Point,InvPer,5,DISTRB,0,E13,Day,No,BICKFORD ST,Part three,Unarmed,,,,2015
+821,152037394.0,Thursday,No,2015-05-07T15:41:00.000,InvPer,"[0, 0]",Point,InvPer,5,BE,0,B3,Day,No,JAMESTOWN TR,Part three,Unarmed,,,,2015
+826,152037401.0,Thursday,No,2015-05-07T14:36:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,C6,Day,No,D ST,Part three,Unarmed,,,,2015
+895,152037709.0,Thursday,No,2015-05-07T21:00:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPREM,0,D4,First,No,CLARENDON ST,Part three,Unarmed,,,,2015
+1007,152037479.0,Thursday,No,2015-05-07T18:30:00.000,InvPer,"[0, 0]",Point,InvPer,5,IVPER,0,E13,First,No,CENTRE ST,Part three,Unarmed,,,,2015
+8147,152037624.0,Thursday,No,2015-05-07T21:00:00.000,InvPer,"[-71.065835, 42.288941]",Point,InvPer,5,IVPER,0,C11,First,No,ARGYLE ST,Part three,Unarmed,773641.392,,2930616.8419999997,2015
+17495,152047646.0,Thursday,No,2015-05-07T10:00:00.000,InvPer,"[-71.057165, 42.341011]",Point,InvPer,5,LARCEN,0,C6,Day,No,DORCHESTER AV,Part three,Unarmed,775888.7493,,2949604.035,2015
+29794,152037495.0,Thursday,No,2015-05-07T19:21:00.000,InvPer,"[-71.152526, 42.263875]",Point,InvPer,5,AOD,0,E5,First,No,MANN ST,Part three,Unarmed,750222.0366,,2921374.9839999997,2015
+53178,152037318.0,Thursday,No,2015-05-07T11:37:00.000,InvPer,"[-71.087815, 42.340856]",Point,InvPer,5,IVPER,0,D4,Day,No,HUNTINGTON AV,Part three,Unarmed,767602.7587,,2949506.019,2015
+125282,152037210.0,Thursday,No,2015-05-07T01:34:00.000,InvPer,"[-71.067205, 42.306071]",Point,InvPer,5,DVIP,0,C11,Last,No,BOWDOIN ST,Part three,Unarmed,773239.0315,,2936857.383,2015
+147331,152037375.0,Thursday,No,2015-05-07T14:37:00.000,InvPer,"[-71.040034, 42.317592]",Point,InvPer,5,ALARM,0,C6,Day,No,SOUTH POINT DR,Part three,Unarmed,780565.8978,,2941094.309,2015
+156390,152037449.0,Thursday,No,2015-05-07T16:50:00.000,InvPer,"[-71.05539, 42.338296]",Point,InvPer,5,DVIP,0,C6,First,No,ORTON MAROTTA WY,Part three,Unarmed,776373.7815,,2948617.1380000003,2015
+194857,152037386.0,Thursday,No,2015-05-07T15:25:00.000,InvPer,"[-71.065011, 42.317714]",Point,InvPer,5,FIGHT,0,B2,Day,No,RAMSEY ST,Part three,Other,773810.8444,DUDLEY ST,2941103.119,2015
+197915,152037403.0,Thursday,No,2015-05-07T15:00:00.000,InvPer,"[-71.029839, 42.377571]",Point,InvPer,5,IVPER,0,A7,Day,No,CHELSEA ST,Part three,Unarmed,783202.7836,,2962966.599,2015
+218842,152037373.0,Thursday,No,2015-05-07T14:45:00.000,InvPer,"[-71.053845, 42.334281]",Point,InvPer,5,IVPER,0,C6,Day,No,W 9TH ST,Part three,Unarmed,776799.1429,E ST,2947156.182,2015

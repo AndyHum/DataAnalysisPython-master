@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61041,140120123.0,Tuesday,No,2014-02-25T16:30:00.000,PropLost,"[-71.089634, 42.320593]",Point,PropLost,2,LSTPRP,309,B2,First,No,MARTIN LUTHER KING BLVD,Part three,Unarmed,767146.5267,,2942119.19,2014
+165238,140118596.0,Tuesday,No,2014-02-25T19:42:00.000,PropLost,"[-71.05372, 42.327461]",Point,PropLost,2,LARCIP,914,C6,First,No,LOGAN WY,Part three,Unarmed,776845.9439,,2944671.0360000003,2014
+168087,140121789.0,Tuesday,No,2014-02-25T09:00:00.000,PropLost,"[-71.05266, 42.329646]",Point,PropLost,2,LSTPRP,193,C6,Day,No,OLD COLONY AV,Part three,Unarmed,777128.4011,,2945468.788,2014

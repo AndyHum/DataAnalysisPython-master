@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5963,130239327.0,Tuesday,No,2013-04-23T18:01:00.000,FORGERY,"[-71.080195, 42.305116]",Point,10xx,4,LARCIP,460,C11,First,No,WASHINGTON ST,Part Two,Unarmed,769726.9437,,2936491.8039999995,2013
+109823,130238615.0,Tuesday,No,2013-04-23T10:49:00.000,FORGERY,"[-71.08012, 42.339401]",Point,10xx,4,ARREST,155,D4,Day,No,TREMONT ST,Part Two,Unarmed,769685.7276,,2948985.937,2013
+223860,130240887.0,Tuesday,No,2013-04-23T13:45:00.000,FORGERY,"[-71.07635, 42.287146]",Point,10xx,4,IVPREM,435,B3,Day,No,PEACEVALE RD,Part Two,Unarmed,770799.5613,,2929948.413,2013
+247804,130238591.0,Tuesday,No,2013-04-23T10:25:00.000,FORGERY,"[-71.0599, 42.301691]",Point,10xx,4,ARREST,352,C11,Day,No,ADAMS ST,Part Two,Unarmed,775223.272,,2935271.356,2013

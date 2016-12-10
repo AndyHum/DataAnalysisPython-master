@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+82171,130550317.0,Friday,No,2013-08-30T10:30:00.000,PubDrink,"[-71.07538, 42.333949]",Point,PubDrink,8,IVPER ,271,D4,Day,No,NORTHAMPTON ST,Part Two,Unarmed,770977.0295,,2947005.207,2013
+112864,130549303.0,Friday,No,2013-08-30T17:09:00.000,PubDrink,"[-71.08189, 42.330231]",Point,PubDrink,8,IVPER ,0,B2,First,No,SHABAZZ WY,Part Two,Unarmed,769223.5749,HARRISON AV,2945641.874,2013
+234698,130549134.0,Friday,No,2013-08-30T16:14:00.000,PubDrink,"[-71.08462, 42.329591]",Point,PubDrink,8,SSTOP ,0,B2,First,No,ROXBURY ST,Part Two,Unarmed,768486.5259,WASHINGTON ST,2945405.04,2013
+254420,130548520.0,Friday,No,2013-08-30T11:30:00.000,PubDrink,"[-71.07524, 42.350651]",Point,PubDrink,8,CD19  ,130,D4,Day,No,BOYLSTON ST,Part Two,Unarmed,770984.6601,CLARENDON ST,2953092.1780000003,2013

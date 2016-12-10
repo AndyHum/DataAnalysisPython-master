@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+9242,130586010.0,Saturday,No,2013-09-14T13:30:00.000,Arrest,"[-71.074985, 42.342171]",Point,Arrest,9,ARREST,153,D4,Day,No,TREMONT ST,Part three,Other,771068.9870000001,,2950002.251,2013
+71809,130586652.0,Saturday,No,2013-09-14T22:52:00.000,Arrest,"[-71.077577, 42.329834]",Point,Arrest,9,ARREST,268,B2,First,No,AMBROSE ST,Part three,Unarmed,770390.3063,,2945502.707,2013
+91243,130043313.0,Saturday,No,2013-09-14T16:45:00.000,Arrest,"[-71.071837, 42.306103]",Point,Arrest,9,IVPER ,458,C11,First,No,ROCK TR,Part three,Unarmed,771986.0186,,2936862.692,2013
+178080,130585227.0,Saturday,No,2013-09-14T10:52:00.000,Arrest,"[-71.077685, 42.294491]",Point,Arrest,9,SSTOP ,447,B3,Day,No,PARK ST,Part three,Unarmed,770425.0801,,2932623.245,2013

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3678,152041220.0,Tuesday,No,2015-05-19T21:47:00.000,Arrest,"[0, 0]",Point,Arrest,5,SS,0,B3,First,No,SUNCREST RD,Part three,Unarmed,,,,2015
+15749,152041164.0,Tuesday,No,2015-05-19T18:55:00.000,Arrest,"[-71.056374, 42.350817]",Point,Arrest,5,ARREST,0,A1,First,No,ATLANTIC AV,Part three,Unarmed,776084.0039,,2953178.441,2015
+171988,152041074.0,Tuesday,No,2015-05-19T13:59:00.000,Arrest,"[-71.07152, 42.332356]",Point,Arrest,5,ARREST,0,C6,Day,No,SOUTHAMPTON ST,Part three,Unarmed,772023.7042,BRADSTON ST,2946430.1769999997,2015
+220292,152041076.0,Tuesday,No,2015-05-19T14:00:00.000,Arrest,"[-71.080065, 42.310896]",Point,Arrest,5,ARREST,0,B2,Day,No,BRUNSWICK ST,Part three,Unarmed,769751.7413,,2938598.3019999997,2015

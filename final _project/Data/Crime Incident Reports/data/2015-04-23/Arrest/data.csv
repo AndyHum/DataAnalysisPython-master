@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+71989,152032994.0,Thursday,No,2015-04-23T11:00:00.000,Arrest,"[-71.059295, 42.356476]",Point,Arrest,4,ARREST,0,A1,Day,No,WASHINGTON ST,Part three,Unarmed,775283.7829999999,,2955236.785,2015
+132429,152032975.0,Thursday,No,2015-04-23T09:00:00.000,Arrest,"[-71.126865, 42.284031]",Point,Arrest,4,ARREST,0,E5,Day,No,HAWTHORNE ST,Part three,Unarmed,757136.089,,2928749.418,2015

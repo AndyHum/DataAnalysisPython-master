@@ -1,0 +1,3 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+189634,140218738.0,Friday,No,2014-04-11T10:00:00.000,Arrest,"[-71.075855, 42.295545]",Point,Arrest,4,ARREST,452,B3,Day,No,THANE ST,Part three,Unarmed,770918.0864,,2933009.814,2014
+266075,140218927.0,Friday,No,2014-04-11T11:24:00.000,Arrest,"[0, 0]",Point,Arrest,4,ARREST,97,A1,Day,No,PING ON ST,Part three,Unarmed,,,,2014

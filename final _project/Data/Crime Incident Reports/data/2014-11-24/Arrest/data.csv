@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+178766,142051750.0,Monday,No,2014-11-24T09:40:00.000,Arrest,"[-71.058362, 42.358828]",Point,Arrest,11,ARREST,0,A1,Day,No,COURT ST,Part three,Unarmed,775531.3609,,2956095.0919999997,2014
+193758,142051801.0,Monday,No,2014-11-24T12:00:00.000,Arrest,"[-71.091325, 42.284861]",Point,Arrest,11,CD11,0,B3,Day,No,BLUE HILL AV,Part three,Unarmed,766751.5911,,2929095.955,2014
+198811,142051712.0,Monday,No,2014-11-24T01:45:00.000,Arrest,"[-71.08447, 42.308961]",Point,Arrest,11,ARREST,0,B2,Last,No,CHENEY ST,Part three,Firearm,768563.7101,HARTWELL ST,2937887.3210000005,2014
+246719,142051710.0,Monday,No,2014-11-24T01:55:00.000,Arrest,"[-71.02821, 42.380441]",Point,Arrest,11,CD11,0,A7,Last,No,PRINCETON ST,Part three,Unarmed,783637.2745,,2964015.038,2014

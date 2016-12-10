@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+7834,152007997.0,Friday,No,2015-01-30T11:59:00.000,InvPer,"[-71.068225, 42.292577]",Point,InvPer,1,EDP,0,C11,Day,No,KENWOOD ST,Part three,Unarmed,772987.8959,,2931938.2739999997,2015
+156627,152033047.0,Friday,No,2015-01-30T07:30:00.000,InvPer,"[-71.06939, 42.339506]",Point,InvPer,1,IVPER,0,D4,Day,No,HARRISON AV,Part three,Unarmed,772586.4767,,2949038.664,2015
+179292,152008030.0,Friday,No,2015-01-30T14:45:00.000,InvPer,"[-71.07098, 42.271966]",Point,InvPer,1,IVPER,0,B3,Day,No,RIVER ST,Part three,Unarmed,772280.4048,,2924423.878,2015
+265256,152008124.0,Friday,No,2015-01-30T20:29:00.000,InvPer,"[0, 0]",Point,InvPer,1,IVPER,0,C6,First,No,LOGAN WY,Part three,Unarmed,,,,2015

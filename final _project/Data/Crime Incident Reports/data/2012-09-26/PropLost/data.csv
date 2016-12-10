@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+17487,120608281.0,Wednesday,No,2012-09-26T23:00:00.000,PropLost,"[-71.06521, 42.349691]",Point,PropLost,9,LSTPRP,121,A1,First,No,TREMONT ST,Part Three,Unarmed,773697.6517,,2952755.997,2012
+95019,120605367.0,Wednesday,No,2012-09-26T12:15:00.000,PropLost,"[-71.084525, 42.329741]",Point,PropLost,9,LARCRT,288,B2,Day,No,WASHINGTON ST,Part Three,Unarmed,768511.9472,,2945459.828,2012
+99676,120608574.0,Wednesday,No,2012-09-26T23:00:00.000,PropLost,"[-71.07301, 42.322781]",Point,PropLost,9,IVPER ,329,B2,First,No,DUDLEY ST,Part Three,Unarmed,771638.2938,BROOK AV,2942938.8619999997,2012
+171323,120605281.0,Wednesday,No,2012-09-26T11:30:00.000,PropLost,"[-71.064905, 42.352371]",Point,PropLost,9,LSTPRP,119,A1,Day,No,BOYLSTON ST,Part Three,Unarmed,773775.1158,,2953733.06,2012
+218059,120609965.0,Wednesday,No,2012-09-26T20:00:00.000,PropLost,"[-71.06539, 42.318711]",Point,PropLost,9,LSTPRP,239,B2,First,No,BELDEN ST,Part Three,Unarmed,773706.5194,,2941466.095,2012
+231598,120606585.0,Wednesday,No,2012-09-26T18:00:00.000,PropLost,"[-71.08874, 42.347016]",Point,PropLost,9,LARCRT,624,D4,First,No,BOYLSTON ST,Part Three,Other,767341.8596,,2951749.6319999998,2012
+231870,120607283.0,Wednesday,No,2012-09-26T20:00:00.000,PropLost,"[-71.08562, 42.301656]",Point,PropLost,9,LSTPRP,458,B3,First,No,BLUE HILL AV,Part Three,Unarmed,768265.5812,,2935223.75,2012
+255610,120608711.0,Wednesday,No,2012-09-26T17:00:00.000,PropLost,"[-71.072965, 42.339991]",Point,PropLost,9,LSTPRP,168,D4,First,No,W BROOKLINE ST,Part Three,Unarmed,771619.0646,,2949210.548,2012
+260231,120607240.0,Wednesday,No,2012-09-26T05:00:00.000,PropLost,"[0, 0]",Point,PropLost,9,LSTPRP,282,B2,Last,No,WASHINGTON ST,Part Three,Unarmed,,,,2012

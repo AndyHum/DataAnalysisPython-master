@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+140898,130765065.0,Wednesday,No,2013-12-04T09:30:00.000,PropLost,"[-71.127466, 42.354525]",Point,PropLost,12,LARCRT,800,D14,Day,No,ASHFORD ST,Part three,Unarmed,756861.1942,,2954437.913,2013
+193352,140031554.0,Wednesday,No,2013-12-04T18:00:00.000,PropLost,"[-71.061235, 42.310371]",Point,PropLost,12,MISC  ,257,C11,First,No,HANCOCK ST,Part three,Unarmed,774845.858,,2938432.619,2013
+204130,130768367.0,Wednesday,No,2013-12-04T11:31:00.000,PropLost,"[-71.14912, 42.345261]",Point,PropLost,12,LARCRT,776,D14,Day,No,UNION ST,Part three,Unarmed,751022.1944,,2951037.152,2013

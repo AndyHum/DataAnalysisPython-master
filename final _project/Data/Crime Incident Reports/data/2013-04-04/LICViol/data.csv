@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2390,130199041.0,Thursday,No,2013-04-04T01:40:00.000,LICViol,"[-71.027055, 42.379981]",Point,LICViol,4,CD35  ,17,A7,Last,No,CHELSEA ST,Part Three,Unarmed,783950.2644,,2963849.1319999998,2013
+232987,130197816.0,Thursday,No,2013-04-04T10:40:00.000,LICViol,"[-71.079605, 42.328539]",Point,LICViol,4,IVLIC ,281,B2,Day,No,DUDLEY ST,Part Three,Unarmed,769844.413,,2945028.173,2013
+255265,130197308.0,Thursday,No,2013-04-04T10:20:00.000,LICViol,"[-71.073395, 42.323221]",Point,LICViol,4,CD35  ,263,B2,Day,No,DUDLEY ST,Part Three,Unarmed,771533.3762,,2943098.685,2013

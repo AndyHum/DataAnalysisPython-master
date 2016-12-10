@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27243,130197960.0,Thursday,No,2013-03-14T23:00:00.000,PropLost,"[-71.11415, 42.312261]",Point,PropLost,3,LSTPRP,645,E13,First,No,CENTRE ST,Part Three,Unarmed,760530.1714,SEAVERNS AV,2939052.183,2013
+57492,130151277.0,Thursday,No,2013-03-14T12:12:00.000,PropLost,"[-71.070239, 42.341015]",Point,PropLost,3,LARCIP,166,D4,Day,No,WASHINGTON ST,Part Three,Unarmed,772354.1409,,2949587.2860000003,2013
+112982,130152134.0,Thursday,No,2013-03-14T12:45:00.000,PropLost,"[-71.11514, 42.306451]",Point,PropLost,3,LSTPRP,650,E13,Day,No,SOUTH ST,Part Three,Unarmed,760271.9541,,2936933.712,2013
+123015,130162399.0,Thursday,No,2013-03-14T13:40:00.000,PropLost,"[-71.072741, 42.348575]",Point,PropLost,3,LARCRT,128,D4,Day,No,STANHOPE ST,Part Three,Unarmed,771663.9468,,2952338.836,2013
+136942,130151569.0,Thursday,No,2013-03-14T14:25:00.000,PropLost,"[-71.111099, 42.332557]",Point,PropLost,3,LSTPRP,611,B2,Day,No,HUNTINGTON AV,Part Three,Unarmed,761321.6315,,2946451.875,2013
+169527,130152204.0,Thursday,No,2013-03-14T09:00:00.000,PropLost,"[-71.054495, 42.321335]",Point,PropLost,3,LSTPRP,235,C11,Day,No,COLUMBIA RD,Part Three,Unarmed,776647.8177,,2942437.512,2013
+201627,130150652.0,Thursday,No,2013-03-14T05:26:00.000,PropLost,"[-71.06939, 42.339506]",Point,PropLost,3,LSTPRP,167,D4,Last,No,HARRISON AV,Part Three,Unarmed,772586.4767,,2949038.664,2013
+228683,130151567.0,Thursday,No,2013-03-14T08:15:00.000,PropLost,"[-71.14312, 42.343861]",Point,PropLost,3,LSTPRP,786,D14,Day,No,COMMONWEALTH AV,Part Three,Unarmed,752646.3343,WASHINGTON ST,2950533.693,2013
+260437,130162167.0,Thursday,No,2013-03-14T19:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LARCRT,911,B2,First,No,RUGGLES ST,Part Three,Unarmed,,,,2013
+266197,130162237.0,Thursday,No,2013-03-14T20:00:00.000,PropLost,"[0, 0]",Point,PropLost,3,LSTPRP,137,D4,First,No,CHARLES ST,Part Three,Other,,,,2013

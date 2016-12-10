@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+58028,142022133.0,Saturday,No,2014-08-23T11:05:00.000,InvProp,"[-71.098625, 42.346181]",Point,InvProp,8,IVPER,0,D4,Day,No,YAWKEY WY,Part three,Unarmed,764671.1215,,2951432.6119999997,2014
+76602,142026358.0,Saturday,No,2014-08-23T12:18:00.000,InvProp,"[-71.080596, 42.327236]",Point,InvProp,8,LARCEN,0,B2,Day,No,GREENVILLE ST,Part three,Unarmed,769578.6737,,2944551.923,2014
+112765,142022136.0,Saturday,No,2014-08-23T10:00:00.000,InvProp,"[-71.081633, 42.318648]",Point,InvProp,8,IVPREM,0,B2,Day,No,WARREN ST,Part three,Unarmed,769313.7572,,2941421.212,2014
+126055,142022080.0,Saturday,No,2014-08-23T04:24:00.000,InvProp,"[-71.083646, 42.332502]",Point,InvProp,8,SSA,0,B2,Last,No,SHAWMUT AV,Part three,Unarmed,768744.4995,,2946467.083,2014
+150696,142022028.0,Saturday,No,2014-08-23T00:49:00.000,InvProp,"[-71.055093, 42.378275]",Point,InvProp,8,SHOTS,0,A15,Last,No,WALFORD WY,Part three,Unarmed,776377.9088,,2963186.369,2014
+183405,142022013.0,Saturday,No,2014-08-23T00:25:00.000,InvProp,"[-71.032635, 42.375156]",Point,InvProp,8,IVPER,0,A7,Last,No,CHELSEA ST,Part three,Other,782452.2703,,2962082.495,2014
+191914,142022186.0,Saturday,No,2014-08-23T13:05:00.000,InvProp,"[-71.124215, 42.255236]",Point,InvProp,8,IVPREM,0,E18,Day,No,HYDE PARK AV,Part three,Unarmed,757899.3955,,2918259.269,2014
+220536,142022299.0,Saturday,No,2014-08-23T22:14:00.000,InvProp,"[-71.09834, 42.279271]",Point,InvProp,8,SHOTS,0,B3,First,No,ALMONT ST,Part three,Other,764862.9853,ALABAMA ST,2927049.8639999996,2014
+248421,142022189.0,Saturday,No,2014-08-23T14:30:00.000,InvProp,"[-71.12461, 42.281516]",Point,InvProp,8,ALARM,0,E5,Day,No,HAWTHORNE ST,Part three,Unarmed,757750.3145,,2927835.5919999997,2014

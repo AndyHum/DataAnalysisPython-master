@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33676,130044749.0,Saturday,No,2013-01-19T13:45:00.000,PropLost,"[-71.09794, 42.316146]",Point,PropLost,1,LSTPRP,307,E13,Day,No,WASHINGTON ST,Part Three,Unarmed,764907.8894,,2940488.191,2013
+55909,130041520.0,Saturday,No,2013-01-19T17:00:00.000,PropLost,"[-71.059735, 42.297541]",Point,PropLost,1,LSTPRP,355,C11,First,No,GIBSON ST,Part Three,Unarmed,775275.7115,,2933759.268,2013
+179617,130046922.0,Saturday,No,2013-01-19T00:00:00.000,PropLost,"[-71.05814, 42.378535]",Point,PropLost,1,LSTPRP,900,A15,Last,No,WALFORD WY,Part Three,Unarmed,775554.229,,2963277.1980000003,2013
+210519,130038522.0,Saturday,No,2013-01-19T01:00:00.000,PropLost,"[-71.10788, 42.333251]",Point,PropLost,1,LARCRT,605,B2,Last,No,HUNTINGTON AV,Part Three,Unarmed,762190.8829,FRAWLEY ST,2946709.039,2013
+230742,130043856.0,Saturday,No,2013-01-19T02:30:00.000,PropLost,"[-71.0639, 42.350956]",Point,PropLost,1,LSTPRP,117,A1,Last,No,STUART ST,Part Three,Unarmed,774049.4062,,2953218.795,2013
+237362,130045035.0,Saturday,No,2013-01-19T18:00:00.000,PropLost,"[-71.117571, 42.281612]",Point,PropLost,1,LSTPRP,501,E18,First,No,HARDING RD,Part Three,Unarmed,759654.8674,,2927878.998,2013
+248187,130043369.0,Saturday,No,2013-01-19T18:00:00.000,PropLost,"[-71.117294, 42.259383]",Point,PropLost,1,LSTPRP,494,E18,First,No,RIVER ST,Part Three,Unarmed,759766.2593,,2919778.597,2013
+264622,130042168.0,Saturday,No,2013-01-19T22:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,INVEST,98,A1,First,No,STATE ST,Part Three,Unarmed,,,,2013

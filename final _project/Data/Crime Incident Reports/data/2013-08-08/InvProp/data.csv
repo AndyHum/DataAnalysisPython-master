@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+41684,130496394.0,Thursday,No,2013-08-08T15:12:00.000,InvProp,"[-71.05799, 42.294706]",Point,InvProp,8,BEIP  ,364,C11,Day,No,CENTRE ST,Part three,Unarmed,775753.1538,,2932728.5919999997,2013
+47244,130495637.0,Thursday,No,2013-08-08T09:09:00.000,InvProp,"[-71.05485, 42.332675]",Point,InvProp,8,THREAT,195,C6,Day,No,DAMRELL ST,Part three,Unarmed,776530.4068,,2946569.412,2013
+56087,130496149.0,Thursday,No,2013-08-08T13:33:00.000,InvProp,"[-71.08199, 42.311698]",Point,InvProp,8,LARCIP,321,B2,Day,No,BRUNSWICK ST,Part three,Unarmed,769229.5458,,2938887.8230000003,2013
+74146,130497292.0,Thursday,No,2013-08-08T22:03:00.000,InvProp,"[-71.079105, 42.292306]",Point,InvProp,8,IVPREM,443,B3,First,No,TALBOT AV,Part three,Other,770044.8289,,2931825.1,2013
+76105,130495528.0,Thursday,No,2013-08-08T07:56:00.000,InvProp,"[-71.053511, 42.287716]",Point,InvProp,8,IVPREM,378,C11,Day,No,NAHANT AV,Part three,Unarmed,776978.1222,,2930187.475,2013
+123677,130495441.0,Thursday,No,2013-08-08T06:00:00.000,InvProp,"[-71.090389, 42.331096]",Point,InvProp,8,MISC  ,290,B2,Last,No,MALCOLM X BL,Part three,Unarmed,766923.848,,2945945.7830000003,2013

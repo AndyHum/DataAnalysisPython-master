@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+95651,152012520.0,Monday,No,2015-02-16T13:12:00.000,FIRE,"[-71.113546, 42.316777]",Point,FIRE,2,FIRE,0,E13,Day,No,CENTRE ST,Part three,Unarmed,760685.8903,,2940698.4869999997,2015
+232097,152012419.0,Monday,No,2015-02-16T09:45:00.000,FIRE,"[-71.038487, 42.35044]",Point,FIRE,2,FIRE,0,C6,Day,No,BOSTON FISH PIER,Part three,Unarmed,780919.6389,,2953066.748,2015
+264398,152012534.0,Monday,No,2015-02-16T15:51:00.000,FIRE,"[0, 0]",Point,FIRE,2,FO,0,B3,Day,No,TALBOT AV,Part three,Unarmed,,,,2015

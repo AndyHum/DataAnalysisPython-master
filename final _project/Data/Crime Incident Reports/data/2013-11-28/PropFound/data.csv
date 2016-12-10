@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44499,130755243.0,Thursday,No,2013-11-28T21:45:00.000,PropFound,"[-71.150915, 42.348981]",Point,PropFound,11,LSTPRP,778,D14,First,No,WASHINGTON ST,Part three,Unarmed,750531.3965,,2952390.805,2013
+133189,130753474.0,Thursday,No,2013-11-28T22:00:00.000,PropFound,"[-71.060072, 42.320861]",Point,PropFound,11,LSTPRP,236,C6,First,No,ROSECLAIR ST,Part three,Unarmed,775140.6993,,2942256.784,2013
+258461,130753093.0,Thursday,No,2013-11-28T13:00:00.000,PropFound,"[-71.154285, 42.352639]",Point,PropFound,11,FDPROP,769,D14,Day,No,PARSONS ST,Part three,Knife,749614.8511,,2953719.869,2013

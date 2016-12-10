@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10265,140293756.0,Monday,No,2014-05-12T17:44:00.000,WEAPONS CHARGE,"[-71.07224, 42.310081]",Point,15xx,5,ARREST,333,C11,First,No,COLUMBIA RD,Part Two,Unarmed,771869.7336,HAMILTON ST,2938311.8189999997,2014
+47891,140292393.0,Monday,No,2014-05-12T08:00:00.000,WEAPONS CHARGE,"[-71.090389, 42.331096]",Point,15xx,5,IVDRUG,290,B2,Day,No,MALCOLM X BL,Part Two,Unarmed,766923.848,,2945945.7830000003,2014
+127728,140293970.0,Monday,No,2014-05-12T19:00:00.000,WEAPONS CHARGE,"[-71.08533, 42.336531]",Point,15xx,5,INVEST,285,D4,First,No,COVENTRY ST,Part Two,Unarmed,768282.2465,TREMONT ST,2947933.166,2014

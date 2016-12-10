@@ -1,0 +1,10 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+31338,152020256.0,Friday,No,2015-03-13T10:40:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,3,IVPREM,0,B2,Day,No,WASHINGTON ST,Part Two,Other,768452.5418,,2945326.172,2015
+103222,152020258.0,Friday,No,2015-03-13T10:00:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,3,IVPREM,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015
+137781,152020250.0,Friday,No,2015-03-13T11:45:00.000,PubDrink,"[-71.083781, 42.329494]",Point,PubDrink,3,ARREST,0,B2,Day,No,ZEIGLER ST,Part Two,Unarmed,768713.5278,,2945370.85,2015
+161939,152020251.0,Friday,No,2015-03-13T11:40:00.000,PubDrink,"[-71.083781, 42.329494]",Point,PubDrink,3,IVPREM,0,B2,Day,No,ZEIGLER ST,Part Two,Other,768713.5278,,2945370.85,2015
+164615,152020261.0,Friday,No,2015-03-13T10:50:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,3,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015
+171311,152020278.0,Friday,No,2015-03-13T10:40:00.000,PubDrink,"[-71.084807, 42.328824]",Point,PubDrink,3,IVPER,0,B2,Day,No,DUDLEY ST,Part Two,Unarmed,768437.1156,,2945125.001,2015
+222182,152020274.0,Friday,No,2015-03-13T10:40:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,3,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015
+228461,152020260.0,Friday,No,2015-03-13T10:20:00.000,PubDrink,"[-71.084747, 42.329375]",Point,PubDrink,3,IVPER,0,B2,Day,No,WASHINGTON ST,Part Two,Unarmed,768452.5418,,2945326.172,2015
+260542,152020265.0,Friday,No,2015-03-13T10:30:00.000,PubDrink,"[0, 0]",Point,PubDrink,3,IVPER,0,B2,Day,No,ZEIGLER PL,Part Two,Other,,,,2015

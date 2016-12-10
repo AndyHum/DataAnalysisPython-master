@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19067,130303789.0,Tuesday,No,2013-05-21T00:00:00.000,PersLoc,"[-71.13095, 42.249381]",Point,PersLoc,5,MISPER,533,E18,Last,No,RIVER ST,Part Three,Unarmed,756085.3388,,2916117.671,2013
+53127,130308832.0,Tuesday,No,2013-05-21T22:00:00.000,PersLoc,"[-71.061295, 42.288676]",Point,PersLoc,5,MISPER,366,C11,First,No,MONSIGNOR PATRICK J LYDON WAY,Part Three,Unarmed,774870.2865,,2930526.566,2013
+84412,130304420.0,Tuesday,No,2013-05-21T14:00:00.000,PersLoc,"[-71.151197, 42.342646]",Point,PersLoc,5,MSNCOM,775,D14,Day,No,WALLINGFORD RD,Other,Unarmed,750464.5072,,2950081.732,2013

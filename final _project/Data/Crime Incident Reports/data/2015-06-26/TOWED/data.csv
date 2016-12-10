@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+120322,,Friday,No,2015-06-26T00:00:00.000,Towed,"[-71.090863, 42.333644]",Point,Towed,6,IVMV,289,B2,,No,TREMONT ST,Part Three,None,766791.0,,2950000.0,2015
+196861,,Friday,No,2015-06-26T00:00:00.000,Towed,"[-71.077497, 42.342259]",Point,Towed,6,IVMV,154,D4,,No,W NEWTON ST,Part Three,None,770390.0,,2950000.0,2015
+226407,,Friday,No,2015-06-26T00:00:00.000,Towed,"[-71.045385, 42.336656]",Point,Towed,6,IVMV,213,C6,,No,W THIRD ST,Part Three,None,779082.0,,2950000.0,2015

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46118,140010211.0,Monday,No,2014-01-06T12:11:00.000,Service,"[-71.078815, 42.350571]",Point,Service,1,ARREST,138,D4,Day,No,NEWBURY ST,Part three,Unarmed,770018.4438,,2953058.235,2014
+56089,140009949.0,Monday,No,2014-01-06T09:51:00.000,Service,"[-71.11617, 42.296071]",Point,Service,1,ARREST,506,E13,Day,No,WALK HILL ST,Other,Unarmed,760010.3618,HYDE PARK AV,2933149.8189999997,2014
+195796,140009466.0,Monday,No,2014-01-06T01:42:00.000,Service,"[-71.058945, 42.378816]",Point,Service,1,ARREST,900,A15,Last,No,WALFORD WY,Part three,Other,775336.2862,,2963378.418,2014
+235489,140070198.0,Monday,No,2014-01-06T12:00:00.000,Service,"[-71.07242, 42.321961]",Point,Service,1,IVPER ,182,B2,Day,No,DUDLEY ST,Part three,Unarmed,771799.3448,,2942640.84,2014

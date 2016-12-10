@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3615,120629280.0,Saturday,No,2012-10-06T12:00:00.000,PersLoc,"[-71.077535, 42.296961]",Point,PersLoc,10,MISPER,446,B3,Day,No,HARVARD ST,Part Three,Unarmed,770461.2051,,2933523.5510000004,2012
+15264,120628717.0,Saturday,No,2012-10-06T08:00:00.000,PersLoc,"[-71.079263, 42.30593]",Point,PersLoc,10,MISPER,329,B2,Day,No,COLUMBIA RD,Part Three,Unarmed,769977.5131,,2936789.672,2012
+51037,120630976.0,Saturday,No,2012-10-06T14:00:00.000,PersLoc,"[-71.082049, 42.294765]",Point,PersLoc,10,MISPER,441,B3,Day,No,KINGSDALE ST,Part Three,Unarmed,769243.8945,BERNARD ST,2932717.086,2012
+92360,120628417.0,Saturday,No,2012-10-06T00:32:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,10,CURFEW,256,C6,Last,No,N POINT DR,Part Three,Unarmed,780248.572,,2942010.5539999995,2012
+152526,120628614.0,Saturday,No,2012-10-06T00:00:00.000,PersLoc,"[-71.08677, 42.322723]",Point,PersLoc,10,MISPER,298,B2,Last,No,ROCKLAND ST,Part Three,Unarmed,767917.2751,,2942899.1,2012
+200079,120639134.0,Saturday,No,2012-10-06T15:00:00.000,PersLoc,"[-71.121632, 42.279758]",Point,PersLoc,10,MISPER,556,E5,Day,No,SEYMOUR ST,Part Three,Unarmed,758558.8093,,2927198.481,2012

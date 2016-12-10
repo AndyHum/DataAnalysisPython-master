@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+155,152034000.0,Sunday,No,2015-04-26T15:40:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,IVPER,0,C11,Day,No,GIBSON ST,Part three,Unarmed,,,,2015
+3324,152034129.0,Sunday,No,2015-04-26T23:43:00.000,MedAssist,"[0, 0]",Point,MedAssist,4,INJOFF,0,B2,First,No,SHAWMUT AV,Part three,Unarmed,,,,2015
+4728,152033877.0,Sunday,No,2015-04-26T03:00:00.000,MedAssist,"[-71.060315, 42.351296]",Point,MedAssist,4,IVPER,0,A1,Last,No,BEACH ST,Part three,Unarmed,775017.8236,OXFORD ST,2953347.672,2015
+11730,152034081.0,Sunday,No,2015-04-26T19:36:00.000,MedAssist,"[-71.072415, 42.348111]",Point,MedAssist,4,UNKEMS,0,D4,First,No,COLUMBUS AV,Part three,Unarmed,771752.9256,,2952170.37,2015
+61621,152034011.0,Sunday,No,2015-04-26T16:00:00.000,MedAssist,"[-71.06853, 42.295871]",Point,MedAssist,4,IVPREM,0,C11,First,No,ALPHA RD,Part three,Unarmed,772899.4194,,2933138.537,2015
+90995,152033907.0,Sunday,No,2015-04-26T09:35:00.000,MedAssist,"[-71.14243, 42.349389]",Point,MedAssist,4,EDP,0,D14,Day,No,WARREN ST,Part three,Unarmed,752824.3316,,2952548.8430000003,2015
+136314,152034086.0,Sunday,No,2015-04-26T20:46:00.000,MedAssist,"[-71.062085, 42.356341]",Point,MedAssist,4,IVPER,0,A1,First,No,TREMONT ST,Part three,Other,774529.9407,,2955183.704,2015
+158002,152033949.0,Sunday,No,2015-04-26T11:01:00.000,MedAssist,"[-71.07033, 42.291278]",Point,MedAssist,4,INJOFF,0,C11,Day,No,MOULTRIE ST,Part three,Unarmed,772420.6342,,2931462.2210000004,2015
+174755,152034003.0,Sunday,No,2015-04-26T15:40:00.000,MedAssist,"[-71.06724, 42.361136]",Point,MedAssist,4,DISTRB,0,A1,Day,No,CAMBRIDGE ST,Part three,Other,773127.7532,,2956923.985,2015
+223266,152034006.0,Sunday,No,2015-04-26T16:12:00.000,MedAssist,"[-71.131796, 42.352053]",Point,MedAssist,4,REQP,0,D14,First,No,HARVARD AV,Part three,Unarmed,755694.562,,2953532.085,2015
+228723,152034110.0,Sunday,No,2015-04-26T22:31:00.000,MedAssist,"[-71.095665, 42.268641]",Point,MedAssist,4,IVPER,0,B3,First,No,CUMMINS HY,Part three,Knife,765605.2443,,2923179.567,2015
+246266,152033969.0,Sunday,No,2015-04-26T15:23:00.000,MedAssist,"[-71.056025, 42.360651]",Point,MedAssist,4,POISON,0,A1,Day,No,NORTH ST,Part three,Other,776159.6956,,2956762.8189999997,2015

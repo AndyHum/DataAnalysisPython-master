@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+46358,130044964.0,Monday,No,2013-01-14T07:00:00.000,PropLost,"[-71.06387, 42.348356]",Point,PropLost,1,LSTPRP,127,A1,Last,No,OAK ST,Part Three,Unarmed,774062.3599,,2952271.348,2013
+99189,130028615.0,Monday,No,2013-01-14T13:38:00.000,PropLost,"[-71.059755, 42.301741]",Point,PropLost,1,LARCRT,351,C11,Day,No,DORCHESTER AV,Part Three,Unarmed,775262.4031,,2935289.7789999996,2013
+137784,130028935.0,Monday,No,2013-01-14T18:50:00.000,PropLost,"[-71.061955, 42.289336]",Point,PropLost,1,LARCRT,366,C11,First,No,DENVIR ST,Part Three,Unarmed,774690.4778,,2930766.153,2013
+139062,130049429.0,Monday,No,2013-01-14T21:30:00.000,PropLost,"[-71.086655, 42.348466]",Point,PropLost,1,LSTPRP,141,D4,First,No,NEWBURY ST,Part Three,Unarmed,767902.9271,,2952280.765,2013
+142405,130027642.0,Monday,No,2013-01-14T08:15:00.000,PropLost,"[-71.007992, 42.39148]",Point,PropLost,1,LSTPRP,28,A7,Day,No,MONTMORENCI AV,Part Three,Unarmed,789076.5855,,2968068.455,2013
+249108,130028159.0,Monday,No,2013-01-14T12:55:00.000,PropLost,"[-71.045235, 42.284571]",Point,PropLost,1,LSTPRP,381,C11,Day,No,GALLIVAN BL,Part Three,Unarmed,779223.6931,,2929053.4,2013
+264471,130030892.0,Monday,No,2013-01-14T10:00:00.000,PropLost,"[0, 0]",Point,PropLost,1,INVEST,93,A1,Day,No,UNION ST,Part Three,Unarmed,,,,2013

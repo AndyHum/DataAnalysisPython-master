@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+136430,142037474.0,Thursday,No,2014-10-09T12:15:00.000,BENoProp,"[-71.085298, 42.329524]",Point,BENoProp,10,ALARM,0,B2,Day,No,ROXBURY ST,Part One,Unarmed,768303.1628,,2945379.693,2014
+215749,142037584.0,Thursday,No,2014-10-09T17:36:00.000,BENoProp,"[-71.069815, 42.282456]",Point,BENoProp,10,BE,0,C11,First,No,FULLER ST,Part One,Unarmed,772576.4249,,2928248.165,2014
+230031,142037646.0,Thursday,No,2014-10-09T08:50:00.000,BENoProp,"[-71.141871, 42.287079]",Point,BENoProp,10,BE,0,E5,Day,No,TYNDALE ST,Part One,Unarmed,753070.6086,BELGRADE AV,2929842.6960000005,2014

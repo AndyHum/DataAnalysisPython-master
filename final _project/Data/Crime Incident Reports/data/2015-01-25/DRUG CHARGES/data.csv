@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+33663,152006904.0,Sunday,No,2015-01-25T18:45:00.000,DRUG CHARGES,"[-71.10383, 42.322836]",Point,18xx,1,SS,0,E13,First,No,CENTRE ST,Part Two,Other,763303.5691,,2942918.688,2015
+115650,152006718.0,Sunday,No,2015-01-25T00:30:00.000,DRUG CHARGES,"[-71.0788, 42.288111]",Point,18xx,1,TS,0,B3,Last,No,WOODROW AV,Part Two,Other,770134.8984,MILTON AV,2930296.789,2015
+201128,152006888.0,Sunday,No,2015-01-25T13:20:00.000,DRUG CHARGES,"[-71.06281, 42.342461]",Point,18xx,1,IVPREM,0,D4,Day,No,ALBANY ST,Part Two,Unarmed,774359.9099,,2950124.5689999997,2015
+257036,152006889.0,Sunday,No,2015-01-25T17:56:00.000,DRUG CHARGES,"[-71.110909, 42.323646]",Point,18xx,1,TS,0,E13,First,No,BYNNER ST,Part Two,Other,761387.7212,,2943204.7939999998,2015

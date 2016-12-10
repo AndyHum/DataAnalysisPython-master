@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+11000,130343305.0,Thursday,No,2013-06-06T07:30:00.000,PropLost,"[-71.07747, 42.336951]",Point,PropLost,6,LSTPRP,170,D4,Day,No,MASSACHUSETTS AV,Part three,Unarmed,770406.5825,,2948096.651,2013
+12661,130342874.0,Thursday,No,2013-06-06T07:00:00.000,PropLost,"[-71.03262, 42.370076]",Point,PropLost,6,INVEST,28,A7,Last,No,COTTAGE ST,Part three,Unarmed,782466.4681,,2960231.265,2013
+31960,130345043.0,Thursday,No,2013-06-06T20:30:00.000,PropLost,"[-71.03981, 42.376191]",Point,PropLost,6,LSTPRP,26,A7,First,No,BORDER ST,Part three,Other,780511.5193,,2962449.128,2013
+34691,130344901.0,Thursday,No,2013-06-06T00:00:00.000,PropLost,"[-71.060605, 42.379941]",Point,PropLost,6,LSTPRP,900,A15,Last,No,POLK ST,Part three,Unarmed,774885.6595,,2963786.077,2013
+48766,130380676.0,Thursday,No,2013-06-06T02:30:00.000,PropLost,"[-71.1249, 42.352121]",Point,PropLost,6,LSTPRP,798,D14,Last,No,BRIGHTON AV,Part three,Unarmed,757558.6894,COMMONWEALTH AV,2953564.937,2013
+74189,130354592.0,Thursday,No,2013-06-06T10:15:00.000,PropLost,"[-71.12742, 42.287121]",Point,PropLost,6,LSTPRP,562,E5,Day,No,BASILE ST,Part three,Unarmed,756980.9894,WASHINGTON ST,2929874.8039999995,2013
+87394,130422345.0,Thursday,No,2013-06-06T08:00:00.000,PropLost,"[-71.074513, 42.314688]",Point,PropLost,6,LSTPRP,327,B2,Day,No,WOODLEDGE ST,Part three,Unarmed,771246.3715,,2939987.483,2013

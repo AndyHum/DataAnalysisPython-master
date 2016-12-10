@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+48746,130800589.0,Friday,No,2013-12-20T17:10:00.000,CRIMES AGAINST CHILDREN,"[-71.1262, 42.358061]",Point,20xx,12,INVCHD,816,D14,First,No,CAMBRIDGE ST,Part Two,Unarmed,757197.8071,,2955728.0510000004,2013
+83755,130801190.0,Friday,No,2013-12-20T22:40:00.000,CRIMES AGAINST CHILDREN,"[-71.08584, 42.301001]",Point,20xx,12,INVCHD,457,B3,First,No,BLUE HILL AV,Part Two,Unarmed,768207.2257,,2934984.769,2013
+136521,130805876.0,Friday,No,2013-12-20T12:00:00.000,CRIMES AGAINST CHILDREN,"[-71.15159, 42.356801]",Point,20xx,12,IVPER ,760,D14,Day,No,N BEACON ST,Part Two,Unarmed,750337.2932,,2955239.8310000002,2013

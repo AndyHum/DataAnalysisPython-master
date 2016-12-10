@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+149373,130320052.0,Tuesday,No,2013-05-28T14:09:00.000,TRESPASS,"[-71.07533, 42.337671]",Point,TRESPASS,5,ARREST,168,D4,Day,No,WASHINGTON ST,Part Two,Unarmed,770983.8818,,2948361.905,2013
+161726,130320569.0,Tuesday,No,2013-05-28T17:46:00.000,TRESPASS,"[-71.12383, 42.256906]",Point,TRESPASS,5,ABIP  ,520,E18,First,No,HYDE PARK AV,Part Two,Unarmed,758000.9383,,2918868.298,2013
+172755,130319421.0,Tuesday,No,2013-05-28T09:30:00.000,TRESPASS,"[-71.06421, 42.348091]",Point,TRESPASS,5,ARREST,127,A1,Day,No,WASHINGTON ST,Part Two,Unarmed,773970.9444,,2952174.307,2013

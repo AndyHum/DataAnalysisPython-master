@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50403,140288304.0,Saturday,No,2014-05-10T14:19:00.000,MedAssist,"[-71.066765, 42.378041]",Point,MedAssist,5,IVPER ,50,A15,Day,No,SULLIVAN SQ,Part three,Unarmed,773224.838,,2963085.163,2014
+68778,140288369.0,Saturday,No,2014-05-10T14:46:00.000,MedAssist,"[-71.12583, 42.288631]",Point,MedAssist,5,VICDOG,563,E5,Day,No,FIRTH RD,Part three,Unarmed,757408.8014,WASHINGTON ST,2930426.955,2014
+89549,140289254.0,Saturday,No,2014-05-10T21:13:00.000,MedAssist,"[-71.075165, 42.287106]",Point,MedAssist,5,REQP  ,436,B3,First,No,WENTWORTH ST,Part three,Unarmed,771120.271,,2929935.43,2014
+93817,140287849.0,Saturday,No,2014-05-10T10:33:00.000,MedAssist,"[-71.11668, 42.262066]",Point,MedAssist,5,UNK   ,494,E18,Day,No,METROPOLITAN AV,Part three,Unarmed,759928.0805,,2920757.288,2014
+107722,140288111.0,Saturday,No,2014-05-10T13:14:00.000,MedAssist,"[-71.05227, 42.362381]",Point,MedAssist,5,UNCONS,89,A1,Day,No,COMMERCIAL ST,Part three,Unarmed,777171.2382,,2957398.5689999997,2014
+117748,140289548.0,Saturday,No,2014-05-10T23:54:00.000,MedAssist,"[-71.06853, 42.295871]",Point,MedAssist,5,EDP2  ,359,C11,Last,No,ALPHA RD,Part three,Unarmed,772899.4194,,2933138.537,2014
+159312,140287588.0,Saturday,No,2014-05-10T07:43:00.000,MedAssist,"[-71.10214, 42.334221]",Point,MedAssist,5,CARST ,602,B2,Day,No,WORTHINGTON ST,Part three,Unarmed,763741.2418,,2947069.712,2014
+192937,140289166.0,Saturday,No,2014-05-10T20:43:00.000,MedAssist,"[-71.12749, 42.276051]",Point,MedAssist,5,EDP2  ,552,E5,First,No,CHISHOLM TR,Part three,Other,756979.6664,,2925840.65,2014
+198483,140288830.0,Saturday,No,2014-05-10T18:10:00.000,MedAssist,"[-71.102195, 42.323541]",Point,MedAssist,5,UNK   ,916,E13,First,No,BICKFORD ST,Part three,Unarmed,763744.522,,2943177.66,2014
+234768,140289021.0,Saturday,No,2014-05-10T19:30:00.000,MedAssist,"[-71.091505, 42.288081]",Point,MedAssist,5,IVPER ,465,B3,First,No,HANSBOROUGH ST,Part three,Unarmed,766697.2661,,2930269.139,2014
+251828,140288560.0,Saturday,No,2014-05-10T16:42:00.000,MedAssist,"[-71.011876, 42.385742]",Point,MedAssist,5,OVRDOS,12,A7,First,No,SARATOGA ST,Part three,Other,788039.123,,2965971.414,2014

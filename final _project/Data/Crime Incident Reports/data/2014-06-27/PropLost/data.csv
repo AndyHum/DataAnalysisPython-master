@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10320,142007279.0,Friday,No,2014-06-27T18:00:00.000,PropLost,"[-71.062665, 42.288866]",Point,PropLost,6,PROP,0,C11,First,No,EDWIN ST,Part three,Unarmed,774499.2492,,2930593.894,2014
+21482,142003563.0,Friday,No,2014-06-27T16:00:00.000,PropLost,"[-71.085813, 42.303132]",Point,PropLost,6,LARCEN,0,B2,First,No,FRANKLIN PARK RD,Part three,Unarmed,768210.6151,,2935761.349,2014
+66763,142003751.0,Friday,No,2014-06-27T08:30:00.000,PropLost,"[-71.071643, 42.290556]",Point,PropLost,6,PROP,0,C11,Day,No,WASHINGTON ST,Part three,Unarmed,772066.839,SOUTHERN AV,2931197.369,2014
+140229,142003512.0,Friday,No,2014-06-27T11:15:00.000,PropLost,"[-71.044345, 42.284861]",Point,PropLost,6,PROP,0,C11,Day,No,GALLIVAN BL,Part three,Unarmed,779463.9551,,2929160.365,2014
+162487,142003528.0,Friday,No,2014-06-27T15:00:00.000,PropLost,"[-71.073535, 42.336201]",Point,PropLost,6,LARCEN,0,D4,Day,No,HARRISON AV,Part three,Unarmed,771471.8664,,2947828.633,2014
+176227,142003671.0,Friday,No,2014-06-27T16:30:00.000,PropLost,"[-71.10086, 42.322816]",Point,PropLost,6,IVPREM,0,E13,First,No,CENTRE ST,Part three,Unarmed,764106.7781,,2942915.144,2014
+200617,142004499.0,Friday,No,2014-06-27T22:30:00.000,PropLost,"[-71.04776, 42.336821]",Point,PropLost,6,PROP,0,C6,First,No,F ST,Part three,Unarmed,778439.4938,W BROADWAY,2948090.4669999997,2014
+203149,142003732.0,Friday,No,2014-06-27T08:00:00.000,PropLost,"[-71.06972, 42.307736]",Point,PropLost,6,LARCEN,0,C11,Day,No,BARRY ST,Part three,Other,772555.6622,,2937460.693,2014
+248043,142003734.0,Friday,No,2014-06-27T22:30:00.000,PropLost,"[-71.07681, 42.288201]",Point,PropLost,6,PROP,0,B3,First,No,NORFOLK ST,Part three,Unarmed,770673.1852,PEACEVALE RD,2930332.251,2014
+260666,142005234.0,Friday,No,2014-06-27T13:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,B2,Day,No,MCDONOUGH WY,Part three,Unarmed,,,,2014
+263017,142003805.0,Friday,No,2014-06-27T15:00:00.000,PropLost,"[0, 0]",Point,PropLost,6,PROP,0,B3,Day,No,FRANKLIN PARK RD,Part three,Unarmed,,,,2014

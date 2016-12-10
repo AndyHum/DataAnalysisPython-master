@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+64745,152032294.0,Monday,No,2015-04-20T21:57:00.000,PhoneCalls,"[-71.071595, 42.320471]",Point,PhoneCalls,4,DISTRB,0,B2,First,No,DUDLEY ST,Part three,Unarmed,772025.179,,2942098.979,2015
+120626,152032181.0,Monday,No,2015-04-20T13:12:00.000,PhoneCalls,"[-71.10853, 42.304481]",Point,PhoneCalls,4,DISTRB,0,E13,Day,No,BROOKLEY RD,Part three,Unarmed,762063.2511,,2936223.9489999996,2015
+142019,152032067.0,Monday,No,2015-04-20T23:25:00.000,PhoneCalls,"[-71.032415, 42.381346]",Point,PhoneCalls,4,IVPER,0,A7,First,No,E EAGLE ST,Part three,Other,782499.3516,,2964338.584,2015

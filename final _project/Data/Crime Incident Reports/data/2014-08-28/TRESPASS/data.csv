@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+50168,142023681.0,Thursday,No,2014-08-28T06:45:00.000,TRESPASS,"[-71.064045, 42.360261]",Point,TRESPASS,8,IVPER,0,A1,Last,No,RIDGEWAY LA,Part Two,Unarmed,773992.8804,,2956609.515,2014
+63169,152028130.0,Thursday,No,2014-08-28T05:37:00.000,TRESPASS,"[-71.06056, 42.358011]",Point,TRESPASS,8,IVPER,0,A1,Last,No,BEACON ST,Part Two,Unarmed,774938.9911,,2955794.405,2014
+200323,142023891.0,Thursday,No,2014-08-28T17:55:00.000,TRESPASS,"[-71.0626, 42.352361]",Point,TRESPASS,8,ARREST,0,A1,First,No,WASHINGTON ST,Part Two,Unarmed,774398.1813,BOYLSTON ST,2953732.602,2014
+206100,142023751.0,Thursday,No,2014-08-28T12:15:00.000,TRESPASS,"[-71.06006, 42.301996]",Point,TRESPASS,8,TS,0,C11,Day,No,ADAMS ST,Part Two,Unarmed,775179.4158,,2935382.2789999996,2014

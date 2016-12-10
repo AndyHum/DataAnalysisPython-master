@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+19145,152030724.0,Tuesday,No,2015-01-20T11:54:00.000,PhoneCalls,"[-71.078665, 42.321026]",Point,PhoneCalls,1,IVPER,0,B2,Day,No,ALASKA ST,Part three,Unarmed,770112.1776,,2942291.707,2015
+97504,152005533.0,Tuesday,No,2015-01-20T09:00:00.000,PhoneCalls,"[-71.03561, 42.371676]",Point,PhoneCalls,1,IVPER,0,A7,Day,No,BREMEN ST,Part three,Unarmed,781655.3152,,2960809.9239999996,2015
+171687,152009060.0,Tuesday,No,2015-01-20T13:00:00.000,PhoneCalls,"[-71.062835, 42.353226]",Point,PhoneCalls,1,IVPER,0,A1,Day,No,AVERY ST,Part three,Unarmed,774333.0448,,2954047.5,2015

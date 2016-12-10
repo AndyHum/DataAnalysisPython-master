@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+78766,120580524.0,Sunday,No,2012-09-16T01:24:00.000,OPERATING UNDER INFLUENCE,"[-71.111188, 42.321742]",Point,21xx,9,TSTOP ,582,E13,Last,No,CENTRE ST,Part Two,Other,761315.4058,PERKINS ST,2942510.63,2012
+95674,120580646.0,Sunday,No,2012-09-16T02:48:00.000,OPERATING UNDER INFLUENCE,"[-71.056815, 42.322931]",Point,21xx,9,IVPER ,187,C6,Last,No,DORCHESTER AV,Part Two,Unarmed,776017.6057,,2943015.865,2012
+162855,120580407.0,Sunday,No,2012-09-16T00:31:00.000,OPERATING UNDER INFLUENCE,"[-71.078657, 42.301454]",Point,21xx,9,MVA   ,455,B3,Last,No,NORWELL ST,Part Two,Other,770149.4675,,2935159.311,2012

@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+28262,142047170.0,Saturday,No,2014-11-08T19:28:00.000,PersLoc,"[-71.094678, 42.319428]",Point,PersLoc,11,IVPER,0,B2,First,No,WASHINGTON ST,Other,Unarmed,765784.2745,,2941688.4,2014
+46416,142047206.0,Saturday,No,2014-11-08T19:00:00.000,PersLoc,"[-71.072219, 42.280255]",Point,PersLoc,11,IVPER,0,B3,First,No,WILMINGTON AV,Other,Unarmed,771929.8987,,2927442.606,2014
+100094,142048974.0,Saturday,No,2014-11-08T19:30:00.000,PersLoc,"[-71.120906, 42.29036]",Point,PersLoc,11,MISSIN,0,E5,First,No,BRADEEN ST,Other,Unarmed,758738.1691,,2931062.6210000003,2014
+118487,142049298.0,Saturday,No,2014-11-08T16:49:00.000,PersLoc,"[-71.0729, 42.333256]",Point,PersLoc,11,MISSIN,0,D4,First,No,MASSACHUSETTS AV,Other,Unarmed,771648.9274,,2946756.2810000004,2014

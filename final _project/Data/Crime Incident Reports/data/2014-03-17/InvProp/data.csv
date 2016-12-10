@@ -1,0 +1,7 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+77286,140162761.0,Monday,No,2014-03-17T09:00:00.000,InvProp,"[-71.063205, 42.289621]",Point,InvProp,3,IVPREM,817,C11,Day,No,DORCHESTER AV,Part three,Other,774351.7311,,2930868.277,2014
+99686,140162704.0,Monday,No,2014-03-17T10:20:00.000,InvProp,"[-71.03887, 42.371246]",Point,InvProp,3,IVPREM,28,A7,Day,No,PARIS ST,Part three,Other,780775.2494,,2960648.442,2014
+107485,140162150.0,Monday,No,2014-03-17T00:13:00.000,InvProp,"[-71.08064, 42.296921]",Point,InvProp,3,SHOTS ,444,B3,Last,No,GLENWAY ST,Part three,Unarmed,769621.252,,2933504.829,2014
+119703,140162424.0,Monday,No,2014-03-17T06:37:00.000,InvProp,"[-71.113275, 42.312996]",Point,InvProp,3,ALARMC,639,E13,Last,No,GREEN ST,Part three,Unarmed,760765.6221,,2939321.102,2014
+144651,140164641.0,Monday,No,2014-03-17T18:45:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,3,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014
+200746,140164642.0,Monday,No,2014-03-17T19:10:00.000,InvProp,"[-71.06122, 42.365521]",Point,InvProp,3,IVPREM,61,A1,First,No,CAUSEWAY ST,Part three,Unarmed,774746.5282,CANAL ST,2958530.278,2014

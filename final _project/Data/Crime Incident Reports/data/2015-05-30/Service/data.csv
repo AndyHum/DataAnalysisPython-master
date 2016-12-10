@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+3798,152044795.0,Saturday,No,2015-05-30T21:03:00.000,Service,"[0, 0]",Point,Service,5,AOD,0,C6,First,No,MT VERNON ST,Part three,Unarmed,,,,2015
+40202,152044589.0,Saturday,No,2015-05-30T07:57:00.000,Service,"[-71.07538, 42.333949]",Point,Service,5,IVPER,0,D4,Day,No,NORTHAMPTON ST,Part three,Unarmed,770977.0295,,2947005.207,2015
+208652,152044550.0,Saturday,No,2015-05-30T03:20:00.000,Service,"[-71.165535, 42.276316]",Point,Service,5,IVPREM,0,E5,Last,No,CONSTANCE RD,Part three,Unarmed,746683.1778,,2925894.55,2015
+219975,152044602.0,Saturday,No,2015-05-30T10:00:00.000,Service,"[-71.036425, 42.378896]",Point,Service,5,IVPREM,0,A7,Day,No,TRENTON ST,Part three,Other,781420.7872,,2963439.84,2015

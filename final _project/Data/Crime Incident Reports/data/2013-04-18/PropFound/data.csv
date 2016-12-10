@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+6230,130227848.0,Thursday,No,2013-04-18T00:30:00.000,PropFound,"[-71.05772, 42.328371]",Point,PropFound,4,MISC  ,174,C6,Last,No,ELLERY ST,Part Three,Other,775762.5881,BOSTON ST,2944997.02,2013
+19146,130229568.0,Thursday,No,2013-04-18T20:00:00.000,PropFound,"[-71.0721, 42.349281]",Point,PropFound,4,FDPROP,128,D4,First,No,BERKELEY ST,Part Three,Unarmed,771835.9379,,2952597.167,2013
+69329,130228760.0,Thursday,No,2013-04-18T13:30:00.000,PropFound,"[-71.07806, 42.337301]",Point,PropFound,4,FDPROP,170,D4,Day,No,MASSACHUSETTS AV,Part Three,Unarmed,770246.4519,SHAWMUT AV,2948223.4069999997,2013

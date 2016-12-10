@@ -1,0 +1,11 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+83674,,Sunday,No,2015-07-12T00:00:00.000,Vandalism,"[-71.095491, 42.284294]",Point,14xx,7,VAND,466,B3,,No,WELLINGTON HILL ST,Part Two,None,765625.0,,2930000.0,2015
+95735,,Sunday,No,2015-07-12T00:00:00.000,Vandalism,"[-71.05882, 42.357546]",Point,14xx,7,VAND,97,A1,,No,SCHOOL ST,Part Two,None,775410.0,,2960000.0,2015
+96403,,Sunday,No,2015-07-12T00:00:00.000,Vandalism,"[-71.080577, 42.337441]",Point,14xx,7,VAND,273,D4,,No,CAMDEN ST,Part Two,None,769566.0,,2950000.0,2015
+169288,,Sunday,No,2015-07-12T00:27:00.000,Vandalism,"[0, 0]",Point,14xx,7,VAND,461,C11,,No,GENEVA AVE,Part Two,None,,,,2015
+191796,,Sunday,No,2015-07-12T00:00:00.000,Vandalism,"[-71.082294, 42.345785]",Point,14xx,7,VAND,143,D4,,No,BELVIDERE ST,Part Two,None,769086.0,,2950000.0,2015
+207418,,Sunday,No,2015-07-12T00:00:00.000,Vandalism,"[-71.14494, 42.293364]",Point,14xx,7,VAND,678,E5,,No,WELD ST,Part Two,None,752231.0,,2930000.0,2015
+227358,,Sunday,No,2015-07-12T07:30:00.000,Vandalism,"[0, 0]",Point,14xx,7,IVMV,138,D4,,No,GLOUCESTER ST,Part Two,None,, NEWBURY ST ,,2015
+246009,,Sunday,No,2015-07-12T00:00:00.000,Vandalism,"[-71.050297, 42.336947]",Point,14xx,7,VAND,214,C6,,No,E ST,Part Two,None,777753.0,,2950000.0,2015
+246330,,Sunday,No,2015-07-12T00:00:00.000,Vandalism,"[-71.060343, 42.291582]",Point,14xx,7,VAND,365,C11,,No,SAINT MARKS RD,Part Two,None,775122.0,,2930000.0,2015
+247853,,Sunday,No,2015-07-12T00:00:00.000,Vandalism,"[-71.039233, 42.379965]",Point,14xx,7,VAND,24,A7,,No,MERIDIAN ST,Part Two,None,780660.0,,2960000.0,2015

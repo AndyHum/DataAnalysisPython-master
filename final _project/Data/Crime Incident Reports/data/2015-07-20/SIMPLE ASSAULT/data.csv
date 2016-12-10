@@ -1,0 +1,12 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+27739,,Monday,No,2015-07-20T00:00:00.000,Simple Assault,"[-71.048649, 42.331297]",Point,08xx,7,FIGHT,915,C6,,No,E EIGHTH ST,Part Two,None,778210.0,,2950000.0,2015
+42341,,Monday,No,2015-07-20T00:00:00.000,Simple Assault,"[-71.086797, 42.287854]",Point,08xx,7,NIDV,431,B3,,No,CALLENDER ST,Part Two,Personal Weapon (hand  foot  etc.),767971.0,,2930000.0,2015
+92036,,Monday,No,2015-07-20T12:30:00.000,Simple Assault,"[0, 0]",Point,08xx,7,FIGHT,362,C11,,No,ASPINWALL RD,Part Two,Personal Weapon (hand  foot  etc.),,WASHINGTON ST,,2015
+92312,,Monday,No,2015-07-20T00:00:00.000,Simple Assault,"[-71.058354, 42.358923]",Point,08xx,7,REQP,92,A1,,No,COURT ST,Part Two,None,775534.0,,2960000.0,2015
+123670,,Monday,No,2015-07-20T00:00:00.000,Simple Assault,"[-71.098553, 42.266525]",Point,08xx,7,AB,481,E18,,No,ROCKDALE ST,Part Two,None,764827.0,,2920000.0,2015
+148620,,Monday,No,2015-07-20T00:00:00.000,Simple Assault,"[-71.099348, 42.318321]",Point,08xx,7,AB,303,E13,,No,BRAGDON ST,Part Two,None,764523.0,,2940000.0,2015
+167116,,Monday,No,2015-07-20T00:00:00.000,Simple Assault,"[-71.096401, 42.331675]",Point,08xx,7,ARREST,588,B2,,No,TREMONT ST,Part Two,None,765297.0,,2950000.0,2015
+174246,,Monday,No,2015-07-20T00:00:00.000,Simple Assault,"[-71.061397, 42.290377]",Point,08xx,7,AB,366,C11,,No,LONSDALE ST,Part Two,Personal Weapon (hand  foot  etc.),774839.0,,2930000.0,2015
+187061,,Monday,No,2015-07-20T00:00:00.000,Simple Assault,"[-71.082238, 42.287565]",Point,08xx,7,NIDV,432,B3,,No,WOODROW AVE,Part Two,None,769206.0,,2930000.0,2015
+248129,,Monday,No,2015-07-20T13:00:00.000,Simple Assault,"[0, 0]",Point,08xx,7,AB,903,D4,,No,HAMMOND ST,Part Two,None,, SHAWMUT AVE ,,2015
+251457,,Monday,No,2015-07-20T02:09:00.000,Simple Assault,"[0, 0]",Point,08xx,7,NIDV,624,D4,,No,BOYLSTON ST,Part Two,Personal Weapon (hand  foot  etc.),,YAWKEY WAY,,2015

@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+5068,130792363.0,Monday,No,2013-12-16T20:00:00.000,PropLost,"[-71.06803, 42.272181]",Point,PropLost,12,LSTPRP,351,C11,First,No,ADAMS ST,Part three,Unarmed,773078.4134,DORCHESTER AV,2924506.2569999998,2013
+69878,130792867.0,Monday,No,2013-12-16T12:00:00.000,PropLost,"[-71.066885, 42.361686]",Point,PropLost,12,LSTPRP,64,A1,Day,No,BLOSSOM ST,Part three,Unarmed,773222.6795,,2957124.903,2013
+236131,130791700.0,Monday,No,2013-12-16T11:50:00.000,PropLost,"[-71.107805, 42.33605]",Point,PropLost,12,LARCRT,612,B2,Day,No,FRANCIS ST,Part three,Unarmed,762206.2941,,2947728.97,2013

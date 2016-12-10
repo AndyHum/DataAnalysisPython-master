@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+2333,152045466.0,Tuesday,No,2015-05-19T12:00:00.000,PropLost,"[0, 0]",Point,PropLost,5,PROP,0,B2,Day,No,SEAVER ST,Part three,Unarmed,,QUINCY ST,,2015
+13778,152041067.0,Tuesday,No,2015-05-19T12:00:00.000,PropLost,"[-71.07632, 42.350356]",Point,PropLost,5,PROP,0,D4,Day,No,BOYLSTON ST,Part three,Unarmed,770693.2587,,2952983.224,2015
+19313,152041128.0,Tuesday,No,2015-05-19T13:30:00.000,PropLost,"[-71.11411, 42.312631]",Point,PropLost,5,LARCEN,0,E13,Day,No,CENTRE ST,Part three,Unarmed,760540.3798,,2939187.065,2015
+181754,152042260.0,Tuesday,No,2015-05-19T12:00:00.000,PropLost,"[-71.05827, 42.301551]",Point,PropLost,5,PROP,0,C11,Day,No,LEONARD ST,Part three,Unarmed,775664.4821,,2935222.617,2015
+246894,152041272.0,Tuesday,No,2015-05-19T10:30:00.000,PropLost,"[-71.054691, 42.36476]",Point,PropLost,5,PROP,0,A1,Day,No,PRINCE ST,Part three,Unarmed,776512.2642,,2958261.829,2015

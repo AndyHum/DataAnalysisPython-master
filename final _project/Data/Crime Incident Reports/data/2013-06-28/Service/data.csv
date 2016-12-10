@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+135846,130396066.0,Friday,No,2013-06-28T16:33:00.000,Service,"[-71.06336, 42.318896]",Point,Service,6,SSTOP ,237,B2,First,No,COLUMBIA RD,Part three,Unarmed,774255.1804,,2941536.316,2013
+191705,130395302.0,Friday,No,2013-06-28T11:00:00.000,Service,"[-71.05958, 42.352481]",Point,Service,6,ARREST,116,A1,Day,No,ESSEX ST,Part three,Unarmed,775214.2697,KINGSTON ST,2953780.5330000003,2013
+254755,130395526.0,Friday,No,2013-06-28T11:45:00.000,Service,"[-71.090956, 42.333723]",Point,Service,6,AOD   ,289,B2,Day,No,SCHROEDER PLAZA,Part three,Unarmed,766765.8102,,2946902.542,2013

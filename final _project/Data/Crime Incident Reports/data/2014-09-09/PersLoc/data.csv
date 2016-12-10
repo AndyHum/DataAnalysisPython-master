@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+159006,142027673.0,Tuesday,No,2014-09-09T07:50:00.000,PersLoc,"[-71.087612, 42.312512]",Point,PersLoc,9,MISSIN,0,B2,Day,No,CRAWFORD ST,Other,Unarmed,767707.5761,,2939177.0239999997,2014
+198369,142028261.0,Tuesday,No,2014-09-09T05:30:00.000,PersLoc,"[-71.120857, 42.268922]",Point,PersLoc,9,MISSIN,0,E18,Last,No,HYDE PARK AV,Other,Unarmed,758786.1749,,2923250.512,2014
+257421,142027914.0,Tuesday,No,2014-09-09T19:03:00.000,PersLoc,"[-71.069025, 42.307691]",Point,PersLoc,9,IVPER,0,C11,First,No,HAMILTON ST,Other,Unarmed,772743.7386,,2937445.2430000002,2014
+261633,142030871.0,Tuesday,No,2014-09-09T10:30:00.000,PersLoc,"[0, 0]",Point,PersLoc,9,IVPER,0,B2,Day,No,FAUNCE RD,Other,Unarmed,,,,2014

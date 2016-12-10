@@ -1,0 +1,4 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+44432,120532030.0,Sunday,No,2012-08-26T10:31:00.000,CRIMES AGAINST CHILDREN,"[-71.096355, 42.278416]",Point,20xx,8,INVCHD,469,B3,Day,No,MATTAPAN ST,Part Two,Unarmed,765401.6312,,2926740.825,2012
+130928,120532773.0,Sunday,No,2012-08-26T17:30:00.000,CRIMES AGAINST CHILDREN,"[-71.12395, 42.256421]",Point,20xx,8,ARREST,520,E18,First,No,HYDE PARK AV,Part Two,Unarmed,757969.2324,,2918691.415,2012
+211653,120534113.0,Sunday,No,2012-08-26T18:27:00.000,CRIMES AGAINST CHILDREN,"[-71.118505, 42.284721]",Point,20xx,8,IVPER ,501,E18,First,No,MT HOPE ST,Part Two,Unarmed,759397.1416,,2929010.8710000003,2012

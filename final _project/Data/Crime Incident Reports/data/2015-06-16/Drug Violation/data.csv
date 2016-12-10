@@ -1,0 +1,13 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+478,,Tuesday,No,2015-06-16T00:00:00.000,Drug Violation,"[-71.100967, 42.322838]",Point,18xx,6,I00015,912,E13,,No,CENTRE ST,Part Two,None,764078.0,,2940000.0,2015
+24288,,Tuesday,No,2015-06-16T15:55:00.000,Drug Violation,"[0, 0]",Point,18xx,6,,64,A1,,No,FRUIT ST,Part Two,None,,,,2015
+26124,,Tuesday,No,2015-06-16T12:16:00.000,Drug Violation,"[0, 0]",Point,18xx,6,ARREST,111,A1,,No,BOYLSTON ST,Part Two,None,, TAMWORTH ST ,,2015
+88059,,Tuesday,No,2015-06-16T12:00:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPER,171,D4,,No,ALBANY ST,Part Two,None,, MASSACHUSETTS AVE ,,2015
+92197,,Tuesday,No,2015-06-16T19:27:00.000,Drug Violation,"[0, 0]",Point,18xx,6,TS,351,C11,,No,ADAMS ST,Part Two,None,,PARK ST,,2015
+94271,,Tuesday,No,2015-06-16T00:00:00.000,Drug Violation,"[-71.070853, 42.331521]",Point,18xx,6,ARREST,177,C6,,No,MASSACHUSETTS AVE,Part Two,None,772205.0,,2950000.0,2015
+115508,,Tuesday,No,2015-06-16T00:00:00.000,Drug Violation,"[-71.148452, 42.269182]",Point,18xx,6,UNCONS,707,E5,,No,WASHINGTON ST,Part Two,None,751317.0,,2920000.0,2015
+218994,,Tuesday,No,2015-06-16T00:00:00.000,Drug Violation,"[-71.039291, 42.370818]",Point,18xx,6,IVPREM,28,A7,,No,PARIS ST,Part Two,None,780662.0,,2960000.0,2015
+227603,,Tuesday,No,2015-06-16T20:01:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPREM,519,E18,,No,HYDE PARK AVE,Part Two,None,,,,2015
+236129,,Tuesday,No,2015-06-16T17:40:00.000,Drug Violation,"[0, 0]",Point,18xx,6,TS,333,C11,,No,COLUMBIA RD,Part Two,None,, QUINCY ST ,,2015
+239934,,Tuesday,No,2015-06-16T14:22:00.000,Drug Violation,"[0, 0]",Point,18xx,6,TS,444,B3,,No,ABBOT ST,Part Two,None,,BLUE HILL AVE,,2015
+241144,,Tuesday,No,2015-06-16T18:27:00.000,Drug Violation,"[0, 0]",Point,18xx,6,IVPREM,495,E18,,No,ARLINGTON ST,Part Two,None,,PROVIDENCE ST,,2015

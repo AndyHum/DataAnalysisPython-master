@@ -1,0 +1,8 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+10358,152028593.0,Wednesday,No,2015-04-08T10:00:00.000,PersLoc,"[-71.04119, 42.320111]",Point,PersLoc,4,IVPER,0,C6,Day,No,N POINT DR,Other,Unarmed,780248.572,,2942010.5539999995,2015
+34108,152028824.0,Wednesday,No,2015-04-08T08:00:00.000,PersLoc,"[-71.05588, 42.322506]",Point,PersLoc,4,IVPER,0,C6,Day,No,BUTTONWOOD ST,Other,Unarmed,776271.2627,,2942862.3030000003,2015
+117884,152028600.0,Wednesday,No,2015-04-08T20:00:00.000,PersLoc,"[-71.13095, 42.249381]",Point,PersLoc,4,MISSIN,0,E18,First,No,RIVER ST,Other,Unarmed,756085.3388,,2916117.671,2015
+124780,152028720.0,Wednesday,No,2015-04-08T07:35:00.000,PersLoc,"[-71.061933, 42.287398]",Point,PersLoc,4,MISSIN,0,C11,Day,No,DRACUT ST,Other,Unarmed,774699.9919,,2930059.777,2015
+125698,152028506.0,Wednesday,No,2015-04-08T15:02:00.000,PersLoc,"[-71.061235, 42.310371]",Point,PersLoc,4,IVPER,0,C11,Day,No,HANCOCK ST,Other,Unarmed,774845.858,,2938432.619,2015
+145586,152028621.0,Wednesday,No,2015-04-08T21:00:00.000,PersLoc,"[-71.09231, 42.313296]",Point,PersLoc,4,IVPER,0,B2,First,No,HAROLD ST,Other,Unarmed,766435.5304,,2939456.832,2015
+236266,152028577.0,Wednesday,No,2015-04-08T15:30:00.000,PersLoc,"[-71.14243, 42.349389]",Point,PersLoc,4,MISSIN,0,D14,Day,No,WARREN ST,Other,Unarmed,752824.3316,,2952548.8430000003,2015

@@ -1,0 +1,9 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+61500,120776172.0,Tuesday,No,2012-12-11T00:00:00.000,Service,"[-71.09884, 42.274796]",Point,Service,12,IVPER ,470,B3,Last,No,ORLANDO ST,Part Three,Unarmed,764735.3419,,2925418.4760000003,2012
+66078,120775762.0,Tuesday,No,2012-12-11T15:10:00.000,Service,"[-71.008841, 42.385972]",Point,Service,12,ARREST,12,A7,Day,No,BENNINGTON ST,Part Three,Unarmed,788858.6962,,2966060.0089999996,2012
+74164,120776106.0,Tuesday,No,2012-12-11T21:50:00.000,Service,"[-71.09272, 42.295196]",Point,Service,12,AOD   ,463,B3,First,No,AMERICAN LEGION HY,Part Three,Unarmed,766356.1313,,2932860.376,2012
+157994,120775100.0,Tuesday,No,2012-12-11T10:15:00.000,Service,"[-71.0904, 42.280796]",Point,Service,12,ARREST,428,B3,Day,No,HOSMER ST,Part Three,Unarmed,767009.0082,,2927615.818,2012
+172360,120778103.0,Tuesday,No,2012-12-11T22:53:00.000,Service,"[-71.075234, 42.323655]",Point,Service,12,IVPER ,263,B2,First,No,HUCKINS ST,Part Three,Unarmed,771035.054,,2943254.127,2012
+175128,120775278.0,Tuesday,No,2012-12-11T11:40:00.000,Service,"[-71.0341, 42.377481]",Point,Service,12,ARREST,23,A7,Day,No,BROOKS ST,Part Three,Unarmed,782051.7945,SARATOGA ST,2962927.606,2012
+247212,120777204.0,Tuesday,No,2012-12-11T16:30:00.000,Service,"[-71.059987, 42.361648]",Point,Service,12,AOD   ,72,A1,First,No,SUDBURY ST,Part Three,Unarmed,775087.02,,2957120.525,2012
+259046,120775819.0,Tuesday,No,2012-12-11T15:30:00.000,Service,"[0, 0]",Point,Service,12,CD9   ,0,C6,Day,No,HARBOR POINT BL,Part Three,Unarmed,,,,2012

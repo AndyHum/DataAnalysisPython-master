@@ -1,0 +1,5 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+80215,130267595.0,Monday,No,2013-05-06T04:53:00.000,InvProp,"[-71.04875, 42.350536]",Point,InvProp,5,FIREB ,206,C6,Last,No,CONGRESS ST,Part Three,Unarmed,778145.3885,,2953087.041,2013
+130123,130292970.0,Monday,No,2013-05-06T11:00:00.000,InvProp,"[-71.05263, 42.287426]",Point,InvProp,5,IVMV  ,378,C11,Day,No,PIERCE AV,Part Three,Unarmed,777217.2063,,2930083.224,2013
+162386,130268899.0,Monday,No,2013-05-06T17:02:00.000,InvProp,"[-71.063785, 42.349246]",Point,InvProp,5,UNK   ,122,A1,First,No,WASHINGTON ST,Part Three,Unarmed,774083.6785,,2952595.797,2013
+172034,130269022.0,Monday,No,2013-05-06T17:45:00.000,InvProp,"[-71.149625, 42.350886]",Point,InvProp,5,INVEST,779,D14,First,No,SPARHAWK ST,Part three,Unarmed,750877.2559999999,,2953086.4560000002,2013

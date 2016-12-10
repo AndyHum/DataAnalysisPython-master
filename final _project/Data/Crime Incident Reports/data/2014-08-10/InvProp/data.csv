@@ -1,0 +1,6 @@
+,compnos,day_week,domestic,fromdate,incident_type_description,location.coordinates,location.type,main_crimecode,month,naturecode,reportingarea,reptdistrict,shift,shooting,streetname,ucrpart,weapontype,x,xstreetname,y,year
+69320,142017985.0,Sunday,No,2014-08-10T14:30:00.000,InvProp,"[-71.09794, 42.316146]",Point,InvProp,8,ALARM,0,E13,Day,No,WASHINGTON ST,Part three,Unarmed,764907.8894,,2940488.191,2014
+140549,142018085.0,Sunday,No,2014-08-10T19:10:00.000,InvProp,"[-71.076195, 42.315791]",Point,InvProp,8,DISTRB,0,B2,First,No,WOODCLIFF ST,Part three,Unarmed,770789.6342,,2940387.296,2014
+174080,142017942.0,Sunday,No,2014-08-10T01:04:00.000,InvProp,"[-71.090275, 42.287526]",Point,InvProp,8,CD19,0,B3,Last,No,BLUE HILL AV,Part three,Unarmed,767031.0469,,2930068.483,2014
+182494,142017875.0,Sunday,No,2014-08-10T01:18:00.000,InvProp,"[-71.085055, 42.315075]",Point,InvProp,8,SHOTS,0,B2,Last,No,WYOMING ST,Part three,Other,768394.5258,,2940114.298,2014
+264882,142018635.0,Sunday,No,2014-08-10T12:00:00.000,InvProp,"[0, 0]",Point,InvProp,8,LARCEN,0,A7,Day,No,COLUMBIA RD,Part three,Unarmed,,BLUE HILL AV,,2014
