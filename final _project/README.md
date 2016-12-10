@@ -4,25 +4,44 @@ This is for the final project of Data Analysis in Python. This project is to ana
 Data Collection:
 The data is from Opendata of Boston. Use request API to download the json file and transfer it to dataframe and store it in csv files. There are total 5 csv files download from the Internet.
 
+url1 = 'https://data.cityofboston.gov/resource/ufcx-3fdn.json?$limit=300000'
+r1 = requests.get(url1)
+r1.json()
+use this kind of code to require json file form url
 
+path1 = PATH_TO_DATA + '/' + 'Crime Incident Reports/' + 'Crime Incident Reports.csv'
+column = list(df1.columns.values)
+df1.to_csv(path1)
+use this kind of code to store the dataframe into csv  files
 
 Analysis One:
 
 The first the analysis of the datasets is to get the Crime Incident Reports.csv file and make an analysis to see the date it begins and the date it ends.  There are 1129 days recorded in the dataset.   And the incidents are divided into 127 different types to be recorded. I break them up and store them with their dates and types in different folders. If someone wants to check the record, it will be easy for him to get in the folder he wants.
  
+ for x in typelist:
+    for y in datelist:
+        df1 = data.loc[data['fromdate'].str.contains(y)]
+        df2 = df1.loc[df1['incident_type_description'].str.contains(x)]
+        path = PATH_TO_DATA + '/' + y + '/' + x + '/' + 'data.csv'
+        df2.to_csv(path)
+use this kind of code to divide the crime incidents csv into small  csv to help look through
+ 
  
 Analysis Two:
 
-Analysis 2 is to analyze the change of Boston citizens from 2012 to 2015. Read all 4 csv files to get all the citizens¡¯ earning and calculate the average earning of them each year. Then use seaborn to draw a barplot to describe the change of Boston citizens¡¯ earning over the years.
+Analysis 2 is to analyze the change of Boston citizens from 2012 to 2015. Read all 4 csv files to get all the citizensÂ¡Â¯ earning and calculate the average earning of them each year. Then use seaborn to draw a barplot to describe the change of Boston citizensÂ¡Â¯ earning over the years.
  
 It seems that there is almost no change between 2012 and 2013, but after that. The earning seems to raise fast. It seems that the earning will go raise in the future.
 
+![alt tag](https://github.com/AndyHum/DataAnalysisPython-master/blob/master/final%20_project/Analysis/Analysis2/output.png)
 
 Analysis Three:
 
-Analysis 3¡¯s goal is same as analysis 2 in some ways. Analysis 3 is to find out the change of numbers of incidents in these 4 years. Read the data from csv file and divide it by their data. Finally, get the barplot of change between years.
+Analysis 3Â¡Â¯s goal is same as analysis 2 in some ways. Analysis 3 is to find out the change of numbers of incidents in these 4 years. Read the data from csv file and divide it by their data. Finally, get the barplot of change between years.
  
 It seems that the incidents happened between 2013 and 2014 is almost the twice compared with the other 2 years. In 2014, It reaches the highest value 88058. Then rush down quickly to 49760.
+
+![alt tag](https://github.com/AndyHum/DataAnalysisPython-master/blob/master/final%20_project/Analysis/Analysis3/output.png)
 
 
 Analysis Four:
@@ -33,15 +52,19 @@ But just with the number, I cannot find anything that help me to relate them up,
  
 It seems that because of the decreasing of earning in 2013, more incident happened in Boston. Although the earning almost raises back a lot the incidents did not decrease because the problem last year left. Finally in 2015 the earning keep increasing so the incidents finally come down.
 
+![alt tag](https://github.com/AndyHum/DataAnalysisPython-master/blob/master/final%20_project/Analysis/Analysis4/output1.png)
+![alt tag](https://github.com/AndyHum/DataAnalysisPython-master/blob/master/final%20_project/Analysis/Analysis4/output2.png)
 
 Analysis Five:
 
 Analysis 5 is to see the change rate both earning and incidents and I try to make a pre-exploration to find the change in the future
  
-It seems that although there are 2 years¡¯ increasing earning. There may be a possibility that the earning decrease a little. In 2016, the average earning may be between 60000 to 77500. And the incidents may be between 20000 to 200000. Because the data is too small. There prediction may be not reliable.
+It seems that although there are 2 yearsÂ¡Â¯ increasing earning. There may be a possibility that the earning decrease a little. In 2016, the average earning may be between 60000 to 77500. And the incidents may be between 20000 to 200000. Because the data is too small. There prediction may be not reliable.
 
 To clone this repo use
 
+![alt tag](https://github.com/AndyHum/DataAnalysisPython-master/blob/master/final%20_project/Analysis/Analysis5/output1.png)
+![alt tag](https://github.com/AndyHum/DataAnalysisPython-master/blob/master/final%20_project/Analysis/Analysis5/output2.png)
 
 git clone
 git@github.com:AndyHum/DataAnalysisPython-master.git
